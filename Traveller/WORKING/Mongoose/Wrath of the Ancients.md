@@ -37,9 +37,13 @@ Printed in China.
 
 CLASSIC TRAVELLER
 
+
+
 Marc Miller
 
 MONGOOSE TRAVELLER
+
+
 
 **AUTHOR** M. J. Dougherty
 
@@ -54,6 +58,8 @@ MONGOOSE TRAVELLER
 Charlotte Law
 
 TRAVELLER INNER CIRCLE
+
+
 
 Andrew James, Alan Welty, Colin Dunn, M. J. Dougherty, Rob Eaglestone, Sam Wissa, Joshua Bell, Maksim Smelchak
 
@@ -134,7 +140,7 @@ Both dead: As far as the Travellers are aware the Ancients' Final War is over. T
 
 Yaskoydray dead and Seven alive: Seven might well just ignore the Travellers. He has big plans and they are not a threat to him at this time; the Travellers are free agents but Seven is aware of them. Alternatively, they may be offered the chance to serve Seven. If so, he sends them on a few trivial missions whilst he rebuilds his power. The uplift package mentioned in Secrets of the Ancients has not yet been delivered to the Travellers, and will not be.
 
-TRAVELLER
+
 
 Seven dead and Yaskoydray alive: It is quite possible that Yaskoydray might simply ignore the Travellers once they have helped him survive and not even reward them. If so, they are free agents and Yaskoydray is out there somewhere doing something or other. If Yaskoydray did reward the Travellers, they have a lot of goodies but Yaskoydray disappears quickly once the battle with Seven is over. The Travellers are, again, free agents.
 
@@ -211,7 +217,7 @@ Tsyamoykyo's plan advanced slowly but he had time. Whilst others fought for cont
 
 Secrets of the Ancients
 
-TRAVELLER
+
 
 some trivial advantage. Some rivals were aware of his actions but they held him in contempt. For the most part, they ignored him. Those that tried to force him to once again serve were too weak and easily fended off. They became enemies but Tsyamoykyo was able to eliminate those who posed a real threat. The others he left in the game, knowing their activities would confound those of the others.
 
@@ -257,7 +263,7 @@ Not all of the recovered communities adhered perfectly to Yaskoydray's plan. Som
 
 The Oytrip of Vaykouh built starships and searched for a new home. Finding a world to their liking they transplanted their entire remaining population and built a new society. This time they used advanced technology to achieve harmony with their home. They produced virtually no polluting gases and no emissions that could be detected from any distance. Concealment was not their initial intention but they achieved it by accident. When Yaskoydray came back to check on the progress – or lack of it – being made by his servitors he found their world dead, buried
 
-TRAVELLER
+
 
 under the glaciers of the ice age they had triggered. Yaskoydray may have shrugged but it is unlikely he cared that much about a few million Droyne. He did not look for them and he did not find them by accident.
 
@@ -303,7 +309,7 @@ The Droyne are generally peaceable creatures, in that they do not go looking for
 
 No Droyne would consider such actions but if war was deemed necessary it would be fought with the utmost vigour. Wars are fought to eliminate a threat or gain access to resources needed by the community. They are fought with cold rationality and ended when either the objective has been attained or there is no prospect of doing so without excessive cost. Negotiations afterward typically take the form of an ultimatum which is accepted or rejected. Where there is some bargaining it is conducted in a dispassionate manner. Leaders do not care how the outcome makes them look; they care about the results for the community. However, some Leaders have differing opinions about what is best for the community as a whole, which can lead to internal politics of a sort recognizable by outsiders.
 
-TRAVELLER
+
 
 SOCIETY AND THE CASTE SYSTEM Modern Droyne society is absolutely dominated by the caste system. Once casted, a Droyne thinks like a member of that caste and desires only to perform the duties of that caste to the benefit of the community. Success means greater value to the community which is satisfying to the individual but not in an 'employee of the month' sort of way. It is better summed up as
 'my community is thriving and I am playing my part in that' – a rather humble and selfless attitude which nevertheless is the fundament of Droyne psyche.
@@ -342,7 +348,7 @@ Force selection for a deployment or mission is a matter of assigning enough spec
 
 DROYNE, ANCIENTS AND THE TRAVELLERS
 
-TRAVELLER
+
 
 LEAVING THE OYTRIP Droyne are completely dependent on their Oytrip for a reason to exist but occasionally may have to leave or function outside it. Most lone Droyne simply cannot, with the exception of Sports with a long mission to fulfil. Even then, it is the thought of the home Oytrip that sustains the Sport throughout their task. Most Droyne who have lost their Oytrip or been expelled for any reason simply die, by means of a process called Krinaytsyu. It is a ritual of meditation in which the individual simply stops living.
 
@@ -486,7 +492,9 @@ STRUCTURES AND SHIPS The majority of structures are built mostly of Inert, with 
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
-TRAVELLER
+
+
+
 
 Ancient wants it to be but normally curves and ovoids are favored along with a silvery-grey pearlescent appearance. Characteristics can vary considerably but the following are common:
 
@@ -500,13 +508,17 @@ FORCE FIELDS Fine control over gravity and other fundamental forces enable the A
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
+
+
 **Ancients Field Effects**
 
 Field Type Notes Gas Retention Field Gas retention fields are quite difficult to create, even for the Ancients. They will prevent an outrush of gas if a hull is holed or prevent mixing where there is a difference in atmosphere type or pressure between two areas. Objects larger than a gas molecule can pass unimpeded. Gas retention requires a considerable amount of specialist components nearby. These can be most easily embedded in the walls around a doorway. Object Retention Field Object retention is much easier than gas retention as it requires only the creation of a 'solid' barrier which blocks movement of even the smallest particles. Most such fields produce a characteristic white glow as a result of particle interactions within the field. Commonly used to create 'light bridges' across obstacles, an object retention field could be used for almost any purpose a solid wall could. An object retention field can be considered to have Protection 20 and 40 hits. If this is exceeded the field is sufficiently disrupted to fail. It regenerates at the rate of 1D hits per round. Repulsor Field Repulsors use localised gravitational effects to push an object away. If the condition of the object afterward is of no concern this is relatively easy to do. The Imperium builds repulsors for missile defence but these are clumsy things which sometimes tear their targets apart. Ancients repulsors are precise, more powerful and can be used to move an object gently. Tractor Field Whereas a repulsor can only move objects directly away from it – although multiple repulsors do give an element of directional control if widely enough separated – a tractor field can move objects in any direction out to its maximum range. Anti-Psionic Field An anti-psionic field prevents the use of psionic abilities across it. It is usually set up in the hull of a ship or the outer walls of a structure to act as a waveguide, as it is much harder to create a shield without some kind of matter to guide it. The field will stop psionic teleportation, clairvoyance and the like, and will prevent the use of telekinesis on objects on the other side of the field. However, it will not stop other forms of teleportation. An object accelerated by telekinesis will pass through the field unimpeded – the field only blocks psionic effects, not mundane movements even if caused by psionics. An anti-psionic field could also be created to prevent any use of psionics within an area but this would only be useful as a prison for enemies – no Ancient would want their own psionic powers nullified. Anti-Teleport Field An anti-teleport field prevents technological teleportation into an area but does not prevent psionic teleportation as this uses an entirely different mechanism. Black Globe A black globe projector creates a spherical field at a pre-set distance from the device. The globe is entirely impervious to all forms of energy and matter. Energy striking the globe is absorbed by the device and must be stored to prevent a catastrophic discharge. The field can coexist with matter already present, such as the floor of a room in which a black globe was generated. Objects striking the globe are robbed of their kinetic energy but remain unharmed. In practice this means that projectiles striking the globe just stop against it and remain there. No energy can pass out of a black globe, rendering occupants safe but powerless to perceive or affect the universe outside. White Globe A white globe is a more advanced and difficult to produce version of the black globe technology. It appears the same from the outside and has the same effects but is far more selective about what sorts of energy are permitted to enter and leave. As a result, occupants can choose to allow visible light below a harmful intensity to cross the field, enabling them to see out but not to be shot with lasers. Other wavelengths can be similarly treated.
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
-TRAVELLER
+
+
+
 
 POWER SYSTEMS Most Ancients installations and starships use antimatter-based power systems. However, these still obey the laws of thermodynamics; they cannot create energy that was not there previously. Antimatter systems are a convenient way of storing energy, however. The usual method is to create extremely dense 'heavy' antimatter particles and hold them in stasis. When energy is needed one of the particles is made to decay at a rate determined by a proton screen. This liberates vast quantities of energy at whatever rate the user wants. Naturally, it is an extremely dangerous process. If the fields are breached the resulting matter/ antimatter explosion will result in a destructive release
 
@@ -517,6 +529,8 @@ The energy held in these systems has to come from somewhere. Two sources are com
 Field Type Notes Silver Globe Silver globes function similarly to white globes but can be set to reflect some wavelengths. In some cases this takes the form of scattering, which is visually spectacular but not useful as a weapon. Other variants permit direct reflection. Nuclear Interaction Field Nuclear dampers are a relatively simple technology possessed by many non-Ancients. They cause radioactive materials to shed particles at low energy states, essentially causing rapid but harmless radioactive decay. The result is to render nuclear munitions or materials inert. The more advanced version possessed by the Ancients can cause the decay to occur in other ways, typically suddenly and with great violence. The result is premature detonation of nuclear weapons if this is desired. The field also causes the premature decay of charged and neutral particles, acting as a defensive screen against particle accelerators and meson guns. A nuclear interaction screen reduces damage from nuclear weapons and particle accelerators (including meson guns) by 8D. Proton Screen A proton screen causes the decay of antimatter in either a safe or supremely dangerous manner. It can render antimatter weapons or power supplies inert, or detonate them. The same technology is used for containment in antimatter-based power systems. The field can only be projected over a short distance, making it impossible to detonate the power plant of a hostile ship unless it is extremely close. A proton screen reduces the damage done by antimatter weapons by 8D. Stasis Field Stasis fields can be used as defences, for example by 'freezing' an incoming object relative to the rest of the universe. This would allow a defensive response to be made or the target to move out of the way. It is not possible to interact with an object in stasis in any way. Stasis fields are also used to preserve objects and people for an indefinite time. Disintegrator Screen A disintegrator screen is designed to protect against disintegrator weapons. Rather than surrounding the defended ship or installation, the screen runs through its structure and counteracts the disintegrator effect. To overcome a starship-scale disintegrator screen the attacker must succeed in a Formidable (14+) Gunner check, with each dice of damage granting an additional DM+1. If successful, full damage is taken by the target.
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
+
+
 
 **WEAPONS** Large-scale weapons are used to arm starships or defend installations. For the most part they depend on the same technologies as the force fields used by the Ancients. Some weapons are more effective than others and their use depends as much on preference as the expected defences available to the target. In addition to the following direct-harm weapons the Ancients were fond of using secondary effects. For example, a psionic attack intended to turn a ship's crew against one another might defeat a heavily shielded starship that could shrug off a salvo of antimatter missiles.
 
@@ -532,7 +546,9 @@ One of the most advanced weapons available to the Ancients, the temporal probabi
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
-TRAVELLER
+
+
+
 
 TELEPORTERS Non-psionic teleportation is one of the Ancients' greatest achievements. It allows the movement of people and objects over vast distances in zero time. This violates the concept of causality but the fact of the matter is that causality is the invention of primitive people who do not understand space- time, and in any case the Ancients do not care about trivialities like cosmic laws. If the universe wants to enforce its rules, let it try.
 
@@ -544,6 +560,8 @@ Teleportation is subject to the laws of conservation of energy but these effects
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
+
+
 but the teleporter shunts it off or supplies enough to compensate. If it did not the object would be heated to incredible temperatures or robbed of its internal energy to the point of reaching absolute zero. This can be done deliberately and a teleporter could be mis-calibrated to become a weapon of sorts.
 
 **POCKET UNIVERSES** The creation of pocket universes may have been a by-product of jump drive or teleporter technology. However it came about, pocket universe technology allows an Ancient to create a fortress that can only be entered by those who have the correct equipment and know of its location. The usual technique is to set up several teleporters at key points, allowing easy access. If control over these is lost, intruders might get in or occupants might become trapped.
@@ -554,7 +572,11 @@ Pocket universes are typically about the size of a star system. Anything heading
 
 TEMPORAL DISLOCATION DEVICES
 
+
+
 AND TIME PHYSICS
+
+
 
 Most people think in terms of three dimensions, by which they mean the physical distances represented by the X, Y and Z axes. This allows a good model of the universe to be created in which the position of an object can be pinpointed with great accuracy at any given moment. Some add a 'fourth dimension' of time, allowing an object to be pinpointed in space and also
 
@@ -568,7 +590,9 @@ In the meantime this extremely exotic weapon was recognized as a way to outdo di
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
-TRAVELLER
+
+
+
 
 and hit a target known to have been there. To return to the concept of the starship gunner, if they know where the target was at a certain point in time it can be attacked when it was there. Instead of firing at a predicted future location the gunner locks onto a known past one. A TDD can also be fired at a target which is currently present.
 
@@ -592,6 +616,8 @@ The PSI strength of a device determines how hard it is to attune, along with fac
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
+
+
 The skill and PSI power of the maker will determine the PSI strength of a device, modified by how long was taken over it. Simple devices can be bashed out in a few days by almost any psionic crafter, whilst more powerful ones take longer and involve large numbers of supporters who concentrate their efforts in a manner akin to performing a religious ritual. Few Ancients would be willing to waste a great deal of time on basic items to be distributed to lowly servitors so they are usually quite weak. Items for the Ancient's own use would be worth investing years of rituals performed by thousands of crafters and will be far above the level of those issued to servitors.
 
 PSI Strength is normally 1D for minor items such as function gems or weapons, 2D for more powerful items and 3D or more for major systems such as the environment controls for a base. To this is added the PSI DM of the creator. To break an attunement a new operator must succeed in a telepathic 'attack' on the device, with its PSI as a negative DM to the attack. Success inflicts 1D damage on the PSI of the device, plus the attacker's PSI DM and Telepathy skill level. Once the device's PSI score is reduced to zero it is de-attuned and can be reattuned with another Major Action. PSI regenerates, usually at the rate of one point per round. This is often higher for more important systems and devices, which not only increases their capabilities but also makes it harder for an outsider to de-attune them.
@@ -612,7 +638,9 @@ When a shielded target is struck with a disintegrator weapon, roll 2D. If the re
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
-TRAVELLER
+
+
+
 
 devices have been known to explode or release energy in an uncontrolled manner upon failure. Note that the most powerful disintegrator shields have no chance of failure and never fail to protect the user. Checks are therefore unnecessary when a disintegrator is used on such an individual. Where checks are necessary, one is made separately for every disintegrator hit even if there are many in the same round. If the user is standing in a disintegrator field, checks are made every round. It is not possible to have multiple disintegrator shields up at once but an individual may carry more than one and activate a replacement if their current shield is disabled as a Major Action.
 
@@ -634,6 +662,8 @@ BODY ARMOR The body armor used by warriors of the Ancients varies considerably a
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
+
+
 energy and disintegrator shields. If the wearer has other shields, those fitted to the armor will deploy last. Thus someone wearing a separate disintegrator shield will use that first, with the less easily replaced armor component deployed as a last resort.
 
 **DISINTEGRATOR CHARGE** A disintegrator charge resembles a gorgeously decorated short tube, not dissimilar to grenades used by primitive militaries. It can be placed as a trap and detonated psionically or primed and thrown. Detonation can be triggered by the user or set to occur after a suitable delay, creating a disintegration field one to six meters in radius, which will completely destroy anything within it. Detonation radius can be controlled by the user.
@@ -654,7 +684,9 @@ REGALIA Senior servitors are gifted with a set of regalia which befits their sta
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
-TRAVELLER
+
+
+
 
 wearer feel slight resistance out to about five meters, increasing rapidly as the wearer gets closer. This can be used to push a crowd aside or to shove people out of the way and more subtly to make it difficult to approach such magnificence.
 
@@ -672,6 +704,8 @@ Uplifted subjects and the Ancients themselves can also develop special abilities
 
 TECHNOLOGY AND TALENTS OF THE ANCIENTS
 
+
+
 ## PSIONIC DREAMS AND NIGHTMARES
 
 At various points in the campaign the Travellers will be drawn into a form of combat or threat best described as a psionic nightmare. Against normal people this is merely a cruel way to torment them to death or madness but a psionically adept individual can fight back. A less unpleasant version of the same power can be used to convey information.
@@ -686,8 +720,7 @@ Sensitivity to psionic trigger artworks is unknown in species never influenced b
 
 As a result of their uplift process the Travellers are also partially receptive and may be able to tune this ability over time. Whenever the Travellers encounter a psionic trigger artwork or someone tries to present them with information they must pass an Average (8+) PSI check. There are no adverse modifiers if the information is coming from someone of the same culture and general background. However, differences in mindset and worldview can impose difficulties in interpretation.
 
-Travellers who are on certain uplift paths can improve their ability to interpret these dreams. The Referee may also permit a reduction in the negative DM as the Travellers become more familiar with certain alien cultures. If the Travellers actively study Droyne culture, for example, they may eventually become familiar enough that the Droyne are considered a significantly
-(as opposed to very) different mindset. Immersion in Droyne culture – if that is possible at all – for a period of several years would allow a Traveller to think more or less like a Droyne and eliminate the DM altogether.
+Travellers who are on certain uplift paths can improve their ability to interpret these dreams. The Referee may also permit a reduction in the negative DM as the Travellers become more familiar with certain alien cultures. If the Travellers actively study Droyne culture, for example, they may eventually become familiar enough that the Droyne are considered a significantly (as opposed to very) different mindset. Immersion in Droyne culture – if that is possible at all – for a period of several years would allow a Traveller to think more or less like a Droyne and eliminate the DM altogether.
 
 Travellers with the Impose ability (see page 45) can send information to others in this manner and also plunge their victim into a psionic nightmare. Certain trigger artworks can also do this, although their creation is an art known only to a few trusted servitors of the Ancients. More commonly, nightmares are triggered to confuse or harm enemies, or as punishment for overly wilful servitors.
 
@@ -695,14 +728,13 @@ A psionic nightmare can be imposed on any non- shielded person so long as an Ave
 
 A nightmare takes the form of one or more incidents, each of which plays out over one combat round but could seem like months or years in the target's mind. Their general nature is determined by the individual
 
-TRAVELLER
+
 
 imposing the nightmare. This can be almost anything the imposer chooses and in some cases the target's own memories and fears are used to create the most disturbing of nightmares. One incident can be imposed for every point of Impose. At each incident the target must make a check to determine how well they are dealing with the imaginary situation. For those not psionically trained this is unlikely to be very good. In this case a straight 2D check is made, whereas those who do have psionic training may make a PSI check with their Interpret level (see page 45) as a DM. The Effect of these checks is cumulative across all incidents within the nightmare and will determine its outcome. All checks are Difficult (10+).
 
 A nightmare imposed by a failed interpretation of information will be passive in nature, as will one where the imposer starts it and then moves on to some other attack. In this case, the target makes checks unopposed. An active nightmare is one in which the imposer deliberately guides the nightmare and tries to make it as bad as possible. In this case the target's check is subject to a negative DM equal to the attacker's Interpret. An active nightmare can be terminated at any time by the imposer, with one exception. If the check has a negative Effect of -6 or worse another incident takes place. This can cause a nightmare to go on indefinitely, or at least until the target goes mad and dies.
 
-In an opposed nightmare, it is possible for the intended victim to benefit. A positive Effect on the check permits the victim to choose whether the nightmare continues, essentially trapping the imposer in their own nightmare. The imposer can terminate the nightmare in any round where the victim has a negative Effect, or can rip themselves out by succeeding in a Difficult
-(10+) Impose check with the victim's Interpret level as a negative DM. It is quite possible for someone
+In an opposed nightmare, it is possible for the intended victim to benefit. A positive Effect on the check permits the victim to choose whether the nightmare continues, essentially trapping the imposer in their own nightmare. The imposer can terminate the nightmare in any round where the victim has a negative Effect, or can rip themselves out by succeeding in a Difficult (10+) Impose check with the victim's Interpret level as a negative DM. It is quite possible for someone
 
 to lower their psi shield and let an enemy impose a nightmare, then devour their mind. More commonly, the victim will see fragments of thoughts and memories which may yield useful information. A victim who emerges from a nightmare with Effect 6+ gains useful information, whilst Effect 1–5 results in only fragmentary images. In the rare instance where someone manages to turn the tables on an aggressor and gains Effect 13+ they may choose to drag detailed information of the aggressor – or just kill them.
 
@@ -828,7 +860,7 @@ The Traveller is showing an affinity for the Path of Facilitation. Gain the firs
 
 The Uplift Process
 
-TRAVELLER
+
 
 **DOMINANCE PACKAGE 1**
 
@@ -960,7 +992,7 @@ Special Abilities: Destruction +2, Impose +1, Interpret +1
 
 The Uplift Process
 
-TRAVELLER
+
 
 **KNOWLEDGE PACKAGE 4**
 
@@ -992,8 +1024,7 @@ The Traveller's physical capabilities are enhanced, along with their resilience.
 
 STR +2, END +2
 
-Skills: Athletics (any) +2, Gun Combat (any) +2, Melee
-(any) +2 Special Abilities: Fighter +1, Psionic Device +1, Shooter +1
+Skills: Athletics (any) +2, Gun Combat (any) +2, Melee (any) +2 Special Abilities: Fighter +1, Psionic Device +1, Shooter +1
 
 **PHYSICALITY PACKAGE 2**
 
@@ -1010,8 +1041,7 @@ The Traveller's body continues to develop, probably undergoing noticeable change
 
 STR +1, END +1
 
-Skills: Athletics (any) +2, Gun Combat (any) +1, Melee
-(any) +1 Special Ability: Resilience +2
+Skills: Athletics (any) +2, Gun Combat (any) +1, Melee (any) +1 Special Ability: Resilience +2
 
 **PHYSICALITY PACKAGE 4**
 
@@ -1030,8 +1060,7 @@ The Traveller continues to develop as a physical 'doer', with additional psionic
 
 END +1, PSI +1
 
-Skills: Awareness +1, Electronics (any) +2, Engineer
-(any) +2, Jack-of-all-Trades +1, Mechanic +2 Special Ability: Tireless +2
+Skills: Awareness +1, Electronics (any) +2, Engineer (any) +2, Jack-of-all-Trades +1, Mechanic +2 Special Ability: Tireless +2
 
 **FACILITATION PACKAGE 3**
 
@@ -1085,7 +1114,7 @@ Skills: Ancients Tech +1, Electronics (any) +2, Engineer (any) +2, Jack-of-all-T
 
 The Uplift Process
 
-TRAVELLER
+
 
 GENERAL ENHANCEMENTS Each time a Traveller receives an uplift package they may also take a General Enhancement. The same one may be chosen multiple times:
 
@@ -1151,7 +1180,7 @@ INTERPRET The Interpret ability permits a Traveller to make better sense of psio
 
 The Uplift Process
 
-TRAVELLER
+
 
 LIFE SAVANT A Life Savant understands and can analyse life processes on an instinctive level. Their skill acts as an additional DM when carrying out tasks related to medicine, biology, biochemistry or any other field connected with living things. The user can be considered to have level 0 in any relevant Science skills but not those connected with non-life processes.
 
@@ -1194,7 +1223,7 @@ TEAM EFFORT A group of up to six individuals, all of whom have at least one leve
 
 The Uplift Process
 
-TRAVELLER
+
 
 USING SPECIAL ABILITIES These uplift incidents might seem like they create grossly overpowered Travellers. Absolutely! They do indeed create Travellers who are far above their species norms but that is the point. Some of these abilities are straightforward, others more complex, and all can be used in a variety of creative ways. The campaign at this point is cinematic and the Travellers' actions will not be in any way routine. Thus it is acceptable for the Travellers to find inventive ways to use their abilities. The Referee can veto any truly outrageous suggestions but the Travellers are on their way to gaining the power of the Ancients. Let them enjoy abusing that power!
 
@@ -1232,7 +1261,7 @@ The Travellers' point of view moved inside the ship, to a control room where a p
 
 The G482 creatures the Travellers have previously encountered were mindless slaughter machines but these acted as if they had a purpose or were commanded. They mobbed the Warriors and any other Droyne they encountered, and drove towards the command chamber. The ship's Leader rallied a new wave of Warriors and positioned them well but the attack was a ruse. Even as the horde of invaders was thrown back by a fusillade of plasma, a group reached its true goal. They broke into chambers that commanded the ship's systems and killed the Technicians there. They tore out control systems, sending the ship spiralling down into the atmosphere. Then they... stopped.
 
-TRAVELLER
+
 
 The surviving Warriors quickly eliminated the intruders they found. Their ship was doomed, however. Barely under control, it plunged into the methane clouds, leaving a twisting trail of gas and debris behind it. The Leader gave orders and his crew obeyed. They fought gravity and almost won but in the end were betrayed by the torn surfaces of their ship. Gas dragged at the ship, spinning it and confounding the efforts of its crew. Finally, it plunged into a frozen sea of methane, tearing the front and underside of the vessel away and sank into liquid melted by the crash. It settled, tilted at a shallow angle, and around it the ice froze once again.
 
@@ -1264,7 +1293,7 @@ What the Travellers will find is that each control station has a highly compartm
 
 Cold moon
 
-TRAVELLER
+
 
 It is possible to rewind the data stream, so to speak, and learn a little more about the fate of the ship. The weapons station tells its operator about the exact parameters of every discharge, whilst the driver station does the same for every iota of thrust and power. There is no 'big picture' however; the servitors who operated the ship did not merit one. Instead they handled their own tasks under the direction of their Leader.
 
@@ -1298,7 +1327,7 @@ Survive: The lights are dimming and the ship is tilting ever more. The sound of 
 
 Cold moon
 
-TRAVELLER
+
 
 Failure results in being tumbled through the ship in a slush of methane. The Traveller's physical body might display symptoms of extreme cold despite the situation being entirely imaginary. The Effect of this check is retained as a running total.
 
@@ -1317,6 +1346,8 @@ G482 DERIVATIVE BOARDERS The creatures used for boarding are a modified version 
 These are highly unusual creatures whose metabolism is based on ambient energy rather than breaking down food, although it does need protein to grow new tissue. The composition of the creature is such that most weapons are relatively ineffective. Penetrating attacks such as bullets and harpoons are reduced to D3s – so a firearm normally doing 3D-3 does only 3D3-3 damage. Most other attacks – including crushing implements and direct energy such as lasers, fire or electricity, apply a modifier of -1 per dice. Thus a flame gun doing 5D damage does 5D-5. Cutting attacks do normal damage.
 
 THE WRECK
+
+
 
 GENERAL SPACES Much of the ship is taken up with general spaces, most of which are roomy and well-lit. The majority are inaccessible, filled with ice or simply gone. Those that remain are taken up with sleeping pods, eating areas, ritual chambers and control areas for machinery, or the machinery itself. There are bodies in some of these spaces, partially absorbed into the floor as the ship cleans itself. The Travellers will find little of use in these areas, as devices have for the most part already been absorbed to assist the self-repair system. The locations and layout of these spaces probably has a logic but it can be hard to discern.
 
@@ -1413,6 +1444,8 @@ Running Costs The price of this vessel is incalculable. There is no monthly upke
 
 LEGEND
 
+
+
 1. Command Chamber 2a. Drive Chamber (Maneuver) 2b. Drive Chamber (Jump) 3. Power Chamber 4. Ritual Chamber 5. Accomodation Areas 6. Grav Lift 7. Configurable Space 8. Annihilator 9. Particle Lances
 
 1
@@ -1432,7 +1465,7 @@ LEGEND
 (^66) 8
 9 DECK 1 DECK 2 2b 7
 
-TRAVELLER
+
 
 The annihilator is a more destructive version of a disintegrator. It is targeted using a psionic interface but the gunner still needs to make an attack roll. Range is limited by the ship's sensor capabilities, which can be augmented by a clairvoyant gunner or telepathically- linked observer closer to the target. Maximum range is about a light-second, or 300,000 kilometers. The annihilator performs similarly to a disintegrator and is opposed by disintegrator screens. If it penetrates the annihilator delivers damage to the target and creates an additional cloud of particles undergoing energetic disintegration. This translates into a great many small
 
@@ -1825,7 +1858,11 @@ Five Sisters Subsector
 
 SPINWARD MARCHES
 
+
+
 M
+
+
 
 ## INTERDICTION OPERATIONS
 
@@ -1859,8 +1896,7 @@ There are many legal complexities surrounding Andor, which are simplified by the
 
 The population of Andor is officially listed as 60 million but this is at best an estimate. Likewise, the Tech Level and government types are estimates and attempts to shoehorn an alien society into standard database codes. In reality, Andor has a
 
-planetary government in the form of a single Oytrip
-(community) which governs all settlements and populations. There are several cities, most of which have never been visited by humans, and populations living in the countryside.
+planetary government in the form of a single Oytrip (community) which governs all settlements and populations. There are several cities, most of which have never been visited by humans, and populations living in the countryside.
 
 The available Tech Level appears to be 9, with grav vehicles and basic starships available. The former are extensively used but Andor produces few starships. Some of those that do exist are thought to incorporate more advanced components, perhaps Ancients artefacts. These are not warships, although vessels may be armed, and Andor is generally considered to be more or less defenceless. That is not, however, the case.
 
@@ -1894,7 +1930,7 @@ The Imperials had always suspected there was something untoward on Andor and now
 
 AndoR
 
-TRAVELLER
+
 
 surrounding tectonic plates; in his rage Tsyamoykyo came close to ripping the entire planet apart. The defenders sent up a horde of ships; primitive TL9 rattle-cans willingly piloted into a maelstrom of death to act as a screen for advanced interceptors. Some got through and Droyne warriors teleported onto the hulls of Tsyamoykyo's ships. They burned their way in, bypassing psionic and teleport shields.
 
@@ -1926,8 +1962,7 @@ Antimatter Detonation! Antimatter weapons have recently detonated nearby.
 
 Charged Particle Field! A charged particle field like that created by an annihilator is currently consuming matter nearby and causing secondary explosions.
 
-IMMEDIATE THREATS The most immediate threat is collision. The Travellers' ship came out of jump with some residual momentum. This is entirely normal but will result in the ship smashing through a debris field at some speed. Damage is inevitable. An Average (8+) Electronics
-(sensors) check indicates the field is a mix of large and small metallic fragments, with some very large chunks. These are larger than the Travellers' ship and irregular in shape. There are energy emissions from these larger pieces and in some cases indications of explosions
+IMMEDIATE THREATS The most immediate threat is collision. The Travellers' ship came out of jump with some residual momentum. This is entirely normal but will result in the ship smashing through a debris field at some speed. Damage is inevitable. An Average (8+) Electronics (sensors) check indicates the field is a mix of large and small metallic fragments, with some very large chunks. These are larger than the Travellers' ship and irregular in shape. There are energy emissions from these larger pieces and in some cases indications of explosions
 
 or fires within. The obvious inference is that these are parts of a large starship. Effect 4+ allows the Travellers to identify the pieces as almost certainly being a Gionetti light cruiser – or what is left of one.
 
@@ -1939,12 +1974,11 @@ The Travellers' closing velocity is rated 20; this is the amount of dice of dama
 
 Due to sensor interference it is difficult to be sure whether or not there is additional wreckage beyond the immediately threatening piece. In fact there is, so additional measures will have to be taken if the Travellers are to avoid a collision. If they hit the debris, this will reduce their velocity sufficiently that it is possible to gently fly out of the wreckage field without further checks.
 
-TRAVELLER
+
 
 This scene can play out in a variety of ways. If it is treated as a standard shiphandling challenge the Travellers can make their Pilot checks and hope for the best. However, this is a chance for the Travellers to start thinking beyond the mundane. They are developing enormous powers but may still have the habits of ordinary people. For example, the Travellers might become frustrated that they cannot see much with their ship's sensors and realise that they can see the way ahead using clairvoyance. The Referee should encourage the use and development of psionic and special abilities from this point on, rewarding those who embrace their new abilities. The Effect of a successful Clairvoyance check could be granted as an additional DM to the pilot attempting to avoid a collision, assuming the Traveller passes on information in a meaningful manner.
 
-AVOIDING COLLISION Completely avoiding a collision is possible but requires a rather violent course change. The pilot has two chances to attempt this. Both require a Pilot check; the first is Very Difficult
-(12+) and the second Formidable (14+). If the pilot can somehow generate a combined Effect 6+ from these two checks the Travellers' ship changes vector enough to miss the main debris chunks. Effect 1–5 results in clipping the wreckage, doing half the damage that would result from a head-on collision. A combined total of Effect 0 or less means the Travellers' ship hits the wreckage for full damage.
+AVOIDING COLLISION Completely avoiding a collision is possible but requires a rather violent course change. The pilot has two chances to attempt this. Both require a Pilot check; the first is Very Difficult (12+) and the second Formidable (14+). If the pilot can somehow generate a combined Effect 6+ from these two checks the Travellers' ship changes vector enough to miss the main debris chunks. Effect 1–5 results in clipping the wreckage, doing half the damage that would result from a head-on collision. A combined total of Effect 0 or less means the Travellers' ship hits the wreckage for full damage.
 
 Tales From the Fall of AndoR
 
@@ -1967,7 +2001,7 @@ ENTERING THE DREADNOUGHT The Travellers might shrug and move on. If they do, so 
 
 Tales From the Fall of AndoR
 
-TRAVELLER
+
 
 are a possibility. However, sensors will only reach so deep into the wreck and some areas are curiously blank. There is a definite anomaly just inboard of the fighter launch and recovery bay, as if the ship has been modified in some way.
 
@@ -2011,7 +2045,7 @@ SUPPORT CHAMBERS (3) Around the recovery deck is an area of utility and maintena
 
 Tales From the Fall of AndoR
 
-TRAVELLER
+
 
 difficult to find a clear passage through. The Travellers could pick up all manner of useful items here, from tool kits to gauss pistols, although there is a limit to how much they can carry. Of course, if they have powerful Ancients equipment the Travellers might find such primitive junk beneath their notice.
 
@@ -2033,8 +2067,7 @@ DIPLOMATIC CHAMBER (9) A second circular chamber has been created by modifying t
 
 Tales From the Fall of AndoR
 
-DATA FROM THE FLOTILLA Getting through the layers of security and encryption in the dreadnought's computers is a big job and would ordinarily be near-impossible. However, the Travellers have the advantage that personnel were logged in at terminals deep in the ship, bypassing some of the outer security layers. With the assistance of extreme- tech Ancients computing it will be possible to download the data files and break into them at leisure. This is likely to take 2D hours, reduced
-(or increased) by the Effect of a Difficult (10+) Electronics (computers) check. TL15 security simply cannot withstand the problem-solving power of an Ancients computer.
+DATA FROM THE FLOTILLA Getting through the layers of security and encryption in the dreadnought's computers is a big job and would ordinarily be near-impossible. However, the Travellers have the advantage that personnel were logged in at terminals deep in the ship, bypassing some of the outer security layers. With the assistance of extreme- tech Ancients computing it will be possible to download the data files and break into them at leisure. This is likely to take 2D hours, reduced (or increased) by the Effect of a Difficult (10+) Electronics (computers) check. TL15 security simply cannot withstand the problem-solving power of an Ancients computer.
 
 Once they get in, the Travellers will be able to watch the attack unfold from many viewpoints. Internal security cameras, damage readouts and external sensor stations all tell of a rapid and overwhelming assault followed by systematic execution of most survivors. The remainder were taken away, presumably to the attackers' ships.
 
@@ -2078,7 +2111,7 @@ Both humans and Droyne want the same basic information, although for differing r
 
 Tales From the Fall of AndoR
 
-TRAVELLER
+
 
 Both groups practice routine secrecy and are reluctant to divulge anything at all but the situation is so extreme that expanding upon something the Travellers could figure out for themselves is deemed acceptable. The Travellers will thus be able to get the following information in return for what both parties want.
 
@@ -2094,9 +2127,8 @@ LIEUTENANT COMMANDER HATICE MENSAH, IMPERIAL NAVY Mensah is a career 'navy diplo
 
 **LIEUTENANT COMMANDER HATICE**
 
-MENSAH, IMPERIAL NAVY SPECIES GENDER AGE
-— Female — TRAITS — STR 5 INT 11 SKILLS DEX 7 EDU 12 Athletics (endurance) 1, Diplomat 3, Gun Combat
-(slug) 1, Leadership 2, Vacc Suit 1
+MENSAH, IMPERIAL NAVY 
+— Female — TRAITS — STR 5 INT 11 SKILLS DEX 7 EDU 12 Athletics (endurance) 1, Diplomat 3, Gun Combat (slug) 1, Leadership 2, Vacc Suit 1
 
 #### END 8 SOC 9
 
@@ -2116,7 +2148,7 @@ Mensah may decide that accompanying the Travellers is an important mission, in w
 
 VOYAIX' WARRIORS The warriors are armed with TL9 laser weapons. Other than being psionically triggered they are little different to those in use elsewhere.
 
-VOYAIX' WARRIORS SPECIES GENDER AGE Droyne — — TRAITS — STR 10 INT 4 SKILLS DEX 9 EDU 3 — END 11 PSI 9
+VOYAIX' WARRIORS  Droyne — — TRAITS — STR 10 INT 4 SKILLS DEX 9 EDU 3 — END 11 PSI 9
 
 WEAPONS Laser Carbine (4D, Zero-G) ARMOR Fighting-Armor (+15)
 
@@ -2128,7 +2160,7 @@ The Travellers will get little information about Andor from him and what they do
 
 Tales From the Fall of AndoR
 
-TRAVELLER
+
 
 he has no idea of their scale. He will consent to the Travellers landing on Andor once the destruction becomes apparent but makes no judgement about what they might be able to do to help. All he knows is that something terrible happened, then these very unusual individuals turned up. The Oytrip will want to know more, so Voyaix will do his best to bring the Travellers to whichever senior Leaders have survived.
 
@@ -2142,7 +2174,7 @@ The intruder party is scattered all over the craft handling area when the Travel
 
 The intruder party will immediately make a physical attack, whilst their Leader engages in a form of telepathic assault and interrogation. The Travellers may still be disorientated by the effects of the psychic art they saw in the diplomatic chamber, adding to their problems. The exact number of intruders should be matched to the capabilities of the Travellers. If they are doing too well, more intruders may enter the recovery deck or emerge from an attempt to get through the wreckage into other parts of the ship.
 
-DROYNE LEADER VOAYIX SPECIES GENDER AGE Droyne Male — TRAITS — STR 3 INT 10 SKILLS DEX 7 EDU 10 Diplomat 1, Leadership 4, END 6 PSI 13 Telepathy 4
+DROYNE LEADER VOAYIX  Droyne Male — TRAITS — STR 3 INT 10 SKILLS DEX 7 EDU 10 Diplomat 1, Leadership 4, END 6 PSI 13 Telepathy 4
 
 Tales From the Fall of AndoR
 
@@ -2160,23 +2192,21 @@ The Droyne Leader and his bodyguards are armed with fusion carbines designed to 
 
 In addition, the bodyguards use a variant of the eclipse shield common among modern Droyne. It is crescent shaped, enabling easy use of a one-handed firearm or energy weapon and is intended for use as cover against ranged weapons rather than in hand-to-hand combat. The user and anyone they are protecting is treated as being in cover. These shields are more powerful than modern Droyne versions and can absorb or dissipate incoming energy attacks. 6D of damage can be negated in this way, all at once or spread over a series of attacks, after which the shield's energy is dissipated and it must be recharged. This damage reduction is applied against all energy attacks passing close to the user, whether they hit or not and applied before personal shields or armor.
 
-INTRUDER DROYNE LEADER SPECIES GENDER AGE Droyne — — TRAITS — STR 4 INT 10 SKILLS DEX 8 EDU 9 Gun Combat (energy) 1, END 6 PSI 13 Telepathy 4
+INTRUDER DROYNE LEADER  Droyne — — TRAITS — STR 4 INT 10 SKILLS DEX 8 EDU 9 Gun Combat (energy) 1, END 6 PSI 13 Telepathy 4
 
 WEAPONS Fusion Pistol (3D or 12D) ARMOR Fighting-Armor (+15) with built- in shields, Psi Shield Helmet
 
 Tales From the Fall of AndoR
 
-TRAVELLER
 
-INTRUDER DROYNE BODYGUARDS SPECIES GENDER AGE Droyne — — TRAITS — STR 9 INT 4 SKILLS DEX 8 EDU 3 Gun Combat (energy) 3 END 11 PSI 10
 
-WEAPONS Fusion Pistol (3D or 12D) ARMOR Eclipse Shield, Fighting-Armor
-(+15) with built-in shields, Psi Shield Helmet
+INTRUDER DROYNE BODYGUARDS  Droyne — — TRAITS — STR 9 INT 4 SKILLS DEX 8 EDU 3 Gun Combat (energy) 3 END 11 PSI 10
 
-INTRUDER DROYNE WARRIORS SPECIES GENDER AGE Droyne — — TRAITS — STR 11 INT 4 SKILLS DEX 7 EDU 3 Gun Combat (energy) 2 END 10 PSI 10
+WEAPONS Fusion Pistol (3D or 12D) ARMOR Eclipse Shield, Fighting-Armor (+15) with built-in shields, Psi Shield Helmet
 
-WEAPONS Fusion Rifle (4D or 16D) ARMOR Eclipse Shield, Fighting-Armor
-(+15) with built-in shields, Psi Shield Helmet
+INTRUDER DROYNE WARRIORS  Droyne — — TRAITS — STR 11 INT 4 SKILLS DEX 7 EDU 3 Gun Combat (energy) 2 END 10 PSI 10
+
+WEAPONS Fusion Rifle (4D or 16D) ARMOR Eclipse Shield, Fighting-Armor (+15) with built-in shields, Psi Shield Helmet
 
 Tales From the Fall of AndoR
 
@@ -2194,7 +2224,7 @@ Tsyamoykyo got what he came for and has withdrawn but he chose to leave large nu
 
 GREETINGS AMID THE WRECKAGE If the Travellers have chosen an aggressive approach or been sufficiently non-cooperative that the Droyne of Andor assume them to be hostile, they will be met with relentless fortitude on the ground. Concepts like a hopeless situation are meaningless to Droyne Warriors; so long as a Leader thinks it is worth fighting his Warriors will do so. They are unlikely to find out about the secret chambers unless for some reason they decide to plunge deep into the city and overcome all resistance. However, given the circumstances the Droyne will accept a cessation of hostilities and put aside any losses they have suffered at the hands of the Travellers. Their surviving Leaders consider this to be in the best interests of the Oytrip.
 
-TRAVELLER
+
 
 Assuming diplomatic contact takes place, the Travellers will be presented to a Leader of Leaders named Myuemos. He is, naturally, accompanied by other Leaders and their entourage, and has his own guards, drones and other facilitators of his greatness. He rides a disc-shaped grav-platform which moves at a steady walking pace and is surrounded by hundreds of deferential Droyne. Travellers who have sensor devices handy can tell that the platform has some very exotic shielding which is way above the level of the supposedly TL9 Oytrip. The tech is not the same as what they have found to date but similar. The difference is not function so much as elegance of implementation. It must have been provided by a different Ancient; perhaps Yaskoydray himself.
 
@@ -2228,7 +2258,7 @@ MYUEMOSS, LEADER OF LEADERS Myuemoss is the greatest of the Leaders of Leaders w
 
 Andor is Burning
 
-TRAVELLER
+
 
 Myuemoss is old and wise, and closely tied into the mindset of his forebears by the psionic dreams triggered by artworks in the cities. He knows the entire history of Andor as if he had been there and is one of the few Leaders of Leaders who can withstand the terrors of the darkest might-have-beens. In his visions he has explored all manner of futures and is deeply disturbed that he did not see this one coming.
 
@@ -2242,9 +2272,7 @@ Myuemoss has the resources of a whole planet
 
 - what is left of it, anyway – at his disposal. He can obtain more or less any equipment available on Andor at a few minutes' notice. This includes a number of Ancients artefacts and even a vessel augmented with their technology. He might decide to loan or even give the Travellers something they need if they can make a case for it but the idea of selling anything to them is simply inconceivable.
 
-MYUEMOSS, LEADER OF LEADERS SPECIES GENDER AGE Droyne Male — TRAITS — STR 2 INT 11 SKILLS DEX 5 EDU 13 Ancients Tech 4, Awareness 3, Caste
-(Leader) 6, Clairvoyance 2, Leadership 6, Tactics
-(military) 6, Telepathy 4
+MYUEMOSS, LEADER OF LEADERS  Droyne Male — TRAITS — STR 2 INT 11 SKILLS DEX 5 EDU 13 Ancients Tech 4, Awareness 3, Caste (Leader) 6, Clairvoyance 2, Leadership 6, Tactics (military) 6, Telepathy 4
 
 #### END 3 PSI 12
 
@@ -2260,7 +2288,7 @@ The psionic trigger effect works anywhere within the annular depression and for 
 
 This is not so for the Travellers. Due to their unique mental state they are able to see everything from anywhere in the chamber, a fact that may both intrigue and frighten them. The Travellers will be close to the entrance point when they are triggered, just after crossing the annular depression. They may stay still or wander, and could be anywhere bounded by the depression when the vision ends. The Referee should ask the Travellers where in the chamber each of them
 
-TRAVELLER
+
 
 is when the vision ends without yet explaining the situation. Their finishing point may be in one of the special areas, which will certainly get the attention of the Droyne Leaders. Normally someone triggered at ground level remains there and this is taken as a sign of a weak mind. Whilst even great Leaders sometimes choose to view the patterns from the ground, no-one has ever moved from one special area to another during the visions, nor have they entered a special area after being triggered at ground level. This indicates to the Droyne that there is something very special about the Travellers... although this will have to await investigation after the immediate crisis is resolved.
 
@@ -2318,10 +2346,9 @@ THE RISE OF YASKOYDRAY Things begin to change with the rise of Yaskoydray, or Gr
 
 Historically, Yaskoydray commanded the Droyne to obey and most did. Those that did not were punished with early versions of the Ancients' war machines. These were primitive by later standards but more than a match for the forces of a TL10 Droyne city. A short but incredibly violent campaign suppressed resistance and convinced the Droyne to remain docile for generations to come. However, this may not be the events the Travellers experience.
 
-The Travellers' part in these events can be played out in a freeform narrative style, using PSI checks
-(with Interpret level as a DM) to determine if an action succeeds or not. If they are sufficiently strong-willed the Travellers can experience a completely different story to what happened in history, perhaps defeating Yaskoydray and preventing the Ancients from ever appearing. History, and the situation in the modern era, does not change but the Travellers can explore what might have been.
+The Travellers' part in these events can be played out in a freeform narrative style, using PSI checks (with Interpret level as a DM) to determine if an action succeeds or not. If they are sufficiently strong-willed the Travellers can experience a completely different story to what happened in history, perhaps defeating Yaskoydray and preventing the Ancients from ever appearing. History, and the situation in the modern era, does not change but the Travellers can explore what might have been.
 
-TRAVELLER
+
 
 By default, each Traveller plays the role of a city Leader. Those who want to be someone else must pass a PSI check (with Interpret level as a DM). There is nothing to stop a Traveller from 'playing' as Yaskoydray himself in this scenario, or as a giant war machine, or a small burrowing mammal that happened to have made a home nearby. If more than one Traveller wants to 'be' a specific individual, the one with the highest Effect may choose to take the role or pass it to someone else. That does not have to be a willing recipient but attempts to force a role on someone requires an opposed PSI check (with Interpret level as a DM).
 
@@ -2353,7 +2380,7 @@ Content with the progress being made in Charted Space, Yaskoydray voyages far af
 
 THE History-dream of Eskayloyt
 
-TRAVELLER
+
 
 of a great threat that will someday overwhelm Charted Space and he needs all the resources of the Ancients to prepare for it. Yet he is proud; perhaps too proud to explain the problem and ask for assistance.
 
@@ -2397,7 +2424,7 @@ YASKOYDRAY WAS CURIOUS After more than 200,000 years working on a project, Yasko
 
 THE History-dream of Eskayloyt
 
-TRAVELLER
+
 
 YASKOYDRAY WAS ON A MISSION Yaskoydray's venture out into the universe was not directly inspired by a need to visit Andor. He did so as part of a grand endeavor, even going so far as to permit some personnel from the Oytrip to take part. This was a great honor for the Oytrip, to be celebrated forever, and reminds all Droyne that Andor is the foremost of their communities. The knowledge will not be revealed to outsiders but more Droyne know that Andor is Eskayloyt in this alternative than in others. Exactly what the grand endeavor was remains unclear, unless the Travellers choose to define it.
 
@@ -2437,7 +2464,7 @@ It is recommended that, providing the Travellers stayed within plausible limits,
 
 THE History-dream of Eskayloyt
 
-TRAVELLER
+
 
 History-Dream Outcomes Event Choice Implications Rise of Yaskoydray The Great Rebellion Yaskoydray is less patient with his people and prone to punish rather than lead them. The Final War is more destructive than it might have been. If Yaskoydray was killed, Charted Space would have been completely different – unless he already had some offspring and his place was taken by one of them. Outpouring of Loyalty Yaskoydray is pleased with his servitors and rewards them, assuming the diplomatic tour succeeds. Charted Space has additional wonders created during the Ancients era. If the tour did not succeed, the Great Rebellion will more than likely have taken place. The Last Stand Yaskoydray's actions are indicative of his personality. If he was vengeful, he is a tyrant-god who rules through fear. If he showed mercy he is still feared but also respected as a stern but fair deity. The Ancients Era The Fate of Ekyaioyx If Yaskoydray was somehow persuaded to spare Ekyaioyx and release him from his prison, he was reconciled and became a loyal ally. Although gravely wounded in the Final War, Ekyaioyx survived and was granted a domain far from Charted Space where he may still reside. He would come to the aid of Yaskoydray or avenge him if he heard about an attack.
 
@@ -2481,7 +2508,7 @@ The Imperials are suspicious of the Oytrip and reasonably sure their diplomatic 
 
 THE History-dream of Eskayloyt
 
-TRAVELLER
+
 
 to pieces by the fangs and claws of G482 creatures. This creates a unique situation – their entourage now have no memory whatsoever of why the Leaders they served are gone and in some cases all memory of the Leader has been expunged. This can have different effects, none of them beneficial.
 
@@ -2523,7 +2550,7 @@ Animal Hits Speed G482 35 8m Skills Melee (natural) 2, Recon 1, Stealth 3, Survi
 
 THE History-dream of Eskayloyt
 
-TRAVELLER
+
 
 bravery but complete confidence that each member of a group will do their job. Non-combat personnel will attempt to block incoming threats by stepping in front of their Leader, possibly thwarting the attack even if they do not attempt to harm the attacker.
 
@@ -2549,17 +2576,15 @@ THE History-dream of Eskayloyt
 
 Eclipse Shields are not intended for close combat, although they will serve if necessary. Their role is to stop projectiles and energy weapon discharges. Most are produced in a right-handed design but a large complement of Warriors may have some left-handed shield users to cover that flank. In close combat an eclipse shield functions as a normal shield, but against firearms the user is treated as being in cover. A second Droyne can shelter behind the shield of another but cannot make attacks without moving out from behind its cover.
 
-ANDORIAN DROYNE LEADER SPECIES GENDER AGE Droyne — — TRAITS — STR 3 INT 12 SKILLS DEX 9 EDU 12 Gun Combat 0, Telepathy 4 END 5 PSI 13
+ANDORIAN DROYNE LEADER  Droyne — — TRAITS — STR 3 INT 12 SKILLS DEX 9 EDU 12 Gun Combat 0, Telepathy 4 END 5 PSI 13
 
 WEAPONS Leader-rod (3D, Zero-G, 6 shots) ARMOR Regalia (+2), Leader-rod (+8)
 
-DROYNE GUARDS AND WARRIORS SPECIES GENDER AGE Droyne — — TRAITS — STR 10 INT 4 SKILLS DEX 8 EDU 3 Gun Combat (energy) 2, END 12 PSI 9 Melee 0
+DROYNE GUARDS AND WARRIORS  Droyne — — TRAITS — STR 10 INT 4 SKILLS DEX 8 EDU 3 Gun Combat (energy) 2, END 12 PSI 9 Melee 0
 
-WEAPONS Dagger (1D+2), Laser Carbine
-(3D, Zero-G) ARMOR Eclipse Shield, Fighting-Armor
-(+15)
+WEAPONS Dagger (1D+2), Laser Carbine (3D, Zero-G) ARMOR Eclipse Shield, Fighting-Armor (+15)
 
-OTHER DROYNE SPECIES GENDER AGE Droyne — — TRAITS — STR 5 INT 5 SKILLS DEX 5 EDU 3 — END 4 PSI 6
+OTHER DROYNE  Droyne — — TRAITS — STR 5 INT 5 SKILLS DEX 5 EDU 3 — END 4 PSI 6
 
 **DROYNE GUARDS AND WARRIORS** The eclipse shield is a large but lightweight shield carried by some warriors. It is said to resemble a planet in partial eclipse, with a crescent shaped primary edge extending well beyond the user's flank and a concave secondary edge. This permits a Warrior to use a firearm in the other hand, turning his body to receive protection then angling back to shoot. Eclipse shields are almost always near-transparent, giving observers the impression of a shimmering
 'force-field' protecting their users.
@@ -2568,7 +2593,7 @@ OTHER DROYNE Other Droyne present will try to help as best they can, bringing am
 
 THE History-dream of Eskayloyt
 
-TRAVELLER
+
 
 SAVING THE LEADERS Each of the Leaders-of-Leaders is in a slightly different situation. Their personalities and inclinations vary, such that saving one and losing another might affect the attitude of Andor as a whole towards the Travellers. It will also affect future decisions and perhaps the course of history on Andor itself. This is no simple firefight; it is a chaotic situation in which much is happening all at once. The Travellers' decisions on who to defend may be based on proximity and tactical factors, or they may assign greater importance – either to Andor or to their own designs – to a particular individual.
 
@@ -2606,7 +2631,7 @@ COMMUNICATING If the Travellers try to psionically contact any Droyne in the cha
 
 THE History-dream of Eskayloyt
 
-TRAVELLER
+
 
 go through Sports or Drones to reach their masters. Sports are ambassadors for the Oytrip and more used to communication with outsiders, whilst Drones are generally wise enough to realise that external contact is worth the risk. An alternative would be to contact the Leaders-of-Warriors who command the combat teams.
 
@@ -2640,7 +2665,7 @@ Psionic intervention can also be used on a larger scale. Since the Travellers ar
 
 THE History-dream of Eskayloyt
 
-TRAVELLER
+
 
 The Travellers should be permitted to solve this themselves if at all possible, since this is their story. However, there is a way out of the problem which can be triggered by the Travellers themselves or a smart Leader. There is a record of what just happened in the patterns on the walls, put there automatically by the senior Drones in each entourage, made during the attack after the Droyne were able to perceive the creatures. Watching the vision created is confusing and painful for the Droyne but whilst they are perceiving a vision of the attack they can see everything that happened.
 
@@ -2670,6 +2695,8 @@ Teaching the Droyne of Andor to recognize the G482 is not a quick or easy proces
 
 PERSONAL AND OTHER
 
+
+
 DEVELOPMENTS The history-dream is a trigger for another stage of the uplift package the Travellers are experiencing. Over the next few days they will undergo physical and mental changes which will be apparent to the Droyne even if the Travellers do not really notice them. Naturally, the Droyne do not comment on the inane manners of other species but they are aware
 
 **Conference Outcome**
@@ -2678,7 +2705,7 @@ Value Result 0 The Travellers are allowed to leave but told not to come back. Th
 
 THE History-dream of Eskayloyt
 
-TRAVELLER
+
 
 and concerned about what is happening. However, the attitude of the Oytrip to the Travellers is already decided. It may improve if they help the Droyne to detect G482 but will only be downgraded if they act in a highly inappropriate manner.
 
@@ -2710,9 +2737,7 @@ Saynyu has been gifted with some items that might help him. He has a modified se
 
 **SAYNYU, ORPHANED DROYNE SPORT**
 
-SPECIES GENDER AGE Droyne Male — TRAITS Close Combat Aversion, Droyne Claws, Wings (large) STR 4 INT 8 SKILLS DEX 10 EDU 10 Advocate 0, Ancients Tech 1, Appeal 3, Art
-(Droyne) 1, Caste (Sport) 3, Deception 1, Diplomat 2, Engineer (j-drive) 1, Flight 0, Gun Combat 0, Outsider
-(humans) 1, Pilot (Starship) 1, Recon 1, Streetwise 1, Telepathy 1
+ Droyne Male — TRAITS Close Combat Aversion, Droyne Claws, Wings (large) STR 4 INT 8 SKILLS DEX 10 EDU 10 Advocate 0, Ancients Tech 1, Appeal 3, Art (Droyne) 1, Caste (Sport) 3, Deception 1, Diplomat 2, Engineer (j-drive) 1, Flight 0, Gun Combat 0, Outsider (humans) 1, Pilot (Starship) 1, Recon 1, Streetwise 1, Telepathy 1
 
 #### END 5 PSI 9
 
@@ -2786,7 +2811,7 @@ RE-ESTABLISHMENT OF PRESENCE The small task forces assigned to the Andor system 
 
 Across the Marches
 
-TRAVELLER
+
 
 force produces no useful answers. During this period the regional commander requests additional forces. Elements of the sector fleet begin moving to an assembly point at Iderati naval base.
 
@@ -2805,8 +2830,7 @@ The Travellers' presence at Andor and their subsequent
 
 The Travellers are by now powerful enough to get away with refusing to be detained, at least initially. They may well be able to disintegrate a mere patrol corvette or close escort, or bull their way through a starport security force. However, doing this sets in motion a chain of events that will lead to ever-greater resources being sent against the Travellers. They may end up fighting the Imperium as well as their Ancient foe.
 
-How 'interesting' the Travellers are can be tracked by use of an index value. Whether this translates to enmity depends on what actions they have taken and whether the authorities know about them. The Interest Index
-(II) can be reduced by various means but on the whole is more likely to increase over time. It defaults to zero if news of the attack on Andor has not reached the Travellers' location, although turning up at a port in an obviously very exotic ship will generate interest even if involvement with wider events is not suspected.
+How 'interesting' the Travellers are can be tracked by use of an index value. Whether this translates to enmity depends on what actions they have taken and whether the authorities know about them. The Interest Index (II) can be reduced by various means but on the whole is more likely to increase over time. It defaults to zero if news of the attack on Andor has not reached the Travellers' location, although turning up at a port in an obviously very exotic ship will generate interest even if involvement with wider events is not suspected.
 
 If the Travellers are particularly blatant their Interest Index can go very high, virtually guaranteeing they are flagged as persons of interest in every system they visit. That could become tiresome, as every patrol ship they encounter wants to board their vessel and ask
 
@@ -2818,7 +2842,7 @@ The response will be proportionate to what the authorities think they are dealin
 
 How the Travellers deal with this level of interest is up to them. It would be easiest to avoid notice altogether but the Travellers might use conventional means – ranging from quoting their rights chapter and verse, to bribing or blackmailing officials – or find a way to make use of their more exotic capabilities. Telepathic suggestion would be highly effective against ordinary
 
-TRAVELLER
+
 
 personnel and officials as they are unlikely to have any protection. Meeting the boarding party at the airlock and telepathically informing the commander that they searched and found nothing will get rid of that party but arouse suspicions elsewhere.
 
@@ -2879,6 +2903,8 @@ Starport
 Research Station Gamma
 
 VANEJEN
+
+
 
 UWP: C686854–5
 
@@ -2942,11 +2968,11 @@ SOUTH RIDGE (6) A long ridge stands atop the southern cliffs. It is unremarkable
 
 Research Station Gamma
 
-TRAVELLER
 
-OFFSHORE ROCK N (7) The imaginatively named Offshore Rock N protrudes a few meters above the surface at high tide. It marks the eastern end of an underwater ridge which connects to the shore. The water here is just two to three meters deep and freezes for much of the year.
 
-OFFSHORE ROCK S (8) Offshore Rocks S are the midpoint and eastern end of a second underwater ridge.
+OFFSHORE ROCKN (7) The imaginatively named Offshore Rock N protrudes a few meters above the surface at high tide. It marks the eastern end of an underwater ridge which connects to the shore. The water here is just two to three meters deep and freezes for much of the year.
+
+OFFSHORE ROCKS (8) Offshore Rocks S are the midpoint and eastern end of a second underwater ridge.
 
 SHELTERED BASIN (9) Between the offshore rocks and their associated ridges is an area of much deeper water. It is sheltered from the surrounding sea to some extent and remains unusually ice-free. This is partially due to a heater unit installed at the deepest point – about 50 meters down – which creates a thermal plume in the water that can be easily detected by a starship approaching the port. Several species of sea plants and animals have been installed in this artificial habitat as part of an experiment that was abandoned several years ago. The micro-ecosystem is no longer monitored, although occasionally samples are collected for routine analysis.
 
@@ -2976,7 +3002,7 @@ controlled. Stocks of food are also kept in the lower part of the chamber and re
 
 Research Station Gamma
 
-TRAVELLER
+
 
 CONTAINMENT SPHERE 4 The interior of this sphere resembles conditions on the northern continent of Vanejen. Several Chirpers are housed within. They are listless and appear unwell. These specimens have been in captivity for the longest of all Chirpers at Gamma and have been subjected to a variety of experiments. Some of their group have been killed or injured badly enough that they were taken away by the installation staff. Sometimes Chirpers are given medical treatment and returned to the group but most who become injured are never seen again.
 
@@ -2984,7 +3010,7 @@ These Chirpers are demoralised and worn down by living in a constant state of fe
 
 CONTAINMENT SPHERE 5 This sphere contains a lone Chirper. It has been identified as possessing greater intelligence than its fellows and both a persistent nuisance and a source of fascinating data. Unfortunately, as its notes indicate, nothing has been learned about psionics from this individual. It has escaped several times, always due to errors made by handlers such as forgetting to secure the accessway from the main station. There is no indication the Chirper can operate doors or any sort of machinery. All but one of the escapes were contained within the station but on that single occasion the Chirper managed to get aboard a supply submarine which left before anyone realised.
 
-WEAKENED CHIRPERS SPECIES GENDER AGE Chirper — — TRAITS — STR 1 INT 1 SKILLS DEX 6 EDU 0 Athletics (dexterity) 1, Recon 1, Stealth 1, Survival 2
+WEAKENED CHIRPERS  Chirper — — TRAITS — STR 1 INT 1 SKILLS DEX 6 EDU 0 Athletics (dexterity) 1, Recon 1, Stealth 1, Survival 2
 
 #### END 2 SOC 0
 
@@ -2996,13 +3022,13 @@ This individual is named Chiree. He was part of a community of Chirpers living c
 
 CHIREE Chiree is semi-sentient, somewhere between a smart animal and a person of very low intellect. He understands Galanglic and can speak it a little, and is capable of abstract thought. This places him above the level of an animal which can learn from experience but not wonder about what lies beyond that experience. Chiree is capable of asking if-then questions and of passing information on to others. His reasoning is limited but he is capable of both common-sense inference and modest leaps of logic. For example, he has encountered artificial gravity and now knows that he will not always fall if he steps off a high place but has absolutely no idea why. He finds the concept unnatural and is frightened of such phenomena but willing to make use of them if he can.
 
-CHIREE SPECIES GENDER AGE Chirper Male — TRAITS — STR 3 INT 2 SKILLS DEX 9 EDU 0 Athletics (dexterity) 2, Recon 2, Stealth 1, Survival 1
+CHIREE  Chirper Male — TRAITS — STR 3 INT 2 SKILLS DEX 9 EDU 0 Athletics (dexterity) 2, Recon 2, Stealth 1, Survival 1
 
 #### END 4 SOC 0
 
 CONTAINMENT SPHERE 6 Sphere 6 contains several Chirpers which appear to be in better health than the ones in Sphere 4. These are Chiree's village-mates and are familiar with human society. He was separated from them as a 'troublemaker' and they assume he is dead. Like Chiree, these Chirpers are not really any smarter but have seen and experienced more and developed a habit of using their intellect – such as it is – to a greater extent. There is probably a PhD in this for someone interested in researching the effects of observation on Chirper populations but all the Gamma staff want to do is test and torment them to see if their psionic powers manifest.
 
-CHIRPERS SPECIES GENDER AGE Chirper Male — TRAITS — STR 3 INT 2 SKILLS DEX 7 EDU 0 Athletics (dexterity) 1, Recon 2, Stealth 1, Survival 2
+CHIRPERS  Chirper Male — TRAITS — STR 3 INT 2 SKILLS DEX 7 EDU 0 Athletics (dexterity) 1, Recon 2, Stealth 1, Survival 2
 
 #### END 4 SOC 0
 
@@ -3010,7 +3036,7 @@ UPPER SECTION The base section is two decks in height. The ceiling of the upper 
 
 Research Station Gamma
 
-TRAVELLER
+
 
 SECURITY OFFICE (2) This area was originally set up as a security office capable of monitoring all camera and sensor systems throughout the islet archipelago. Its secondary function is to control access to the main installation. ID checks are supposedly carried out on all visitors but since the personnel complement has been drawn down this process is rather lax. It is standard procedure for a security robot to be on standby in this chamber.
 
@@ -3073,27 +3099,23 @@ Armor Type Protection TL Rad Kg Cost Required Skill Claw Suit +2 (+4) 10 0 2 Cr3
 
 Research Station Gamma
 
-TRAVELLER
+
 
 Weapon TL Range Damage Kg Cost Magazine
 
-Magazine Cost Traits Security Shotgun
-(standard)
+Magazine Cost Traits Security Shotgun (standard)
 
 10 25 3D+2 4 Cr300 7 Cr7 —
 
-Security Shotgun
-(specialist)
+Security Shotgun (specialist)
 
 10 25 3D+6 4 Cr300 3 Cr21 AP 6
 
-Security Handgun
-(stunball)
+Security Handgun (stunball)
 
 10 10 D3 (2D) 1.2 Cr200 6 Cr12 Stun
 
-Security Handgun
-(grenade)
+Security Handgun (grenade)
 
 10 10 1D (1D for 1D rounds)
 
@@ -3155,7 +3177,7 @@ CONTAINMENT SPHERE (5) This sphere is full of seawater and has conditions set up
 
 Research Station Gamma
 
-TRAVELLER
+
 
 LAB DECK UPPER LEVEL The upper lab deck is now the private preserve of the Acting Director, who grants access as the whim or need takes him. It houses grav vehicle landing areas and the administrative apparatus of the installation. Some of this deck has been repurposed.
 
@@ -3172,7 +3194,7 @@ Animal Hits Speed Squid-Fish-Thing 12 6m (swimming) Skills Melee (natural) 2, Re
 **LOCK CHAMBER (6)** Access to the two sets of docks is by way of a security/ safety chamber with heavy-duty airlocks at each end. Lockers and stands support underwater breathing equipment and diving suits but this equipment has not been used since the installation was constructed. There are also two security pistols, two shotguns and a pair of containment shields, plus four stun prods, in locked racks along the walls. These have occasionally been deployed, most recently when the Droyne were installed in their containment sphere. This chamber is most commonly used to monitor the progress of supply submersibles and drones sent out to collect samples or perform maintenance. New arrivals must also be
 'processed' into the station, which translates to being issued a temporary identification badge/access card and told where they are not allowed to go. Research Station Gamma
 
-TRAVELLER
+
 
 alterations to its code in the main computer chamber. This room is rarely entered at all but Vicervis has stashed some emergency supplies – ration packs, clothing and a large wad of hard cash – in case of some unexpected disaster.
 
@@ -3226,7 +3248,7 @@ ROBOT STABLES (11) This area is dedicated to the maintenance and repair of robot
 
 Research Station Gamma
 
-TRAVELLER
+
 
 AISH NIRKHA, THE CAPTAIN OF KNOWLEDGE Aish Nirkha is a deluded, self-important fool who has decided he comes from an ancient bloodline charged with secret knowledge. Styling himself the Captain of Knowledge he made a lot of noise on the Datanets and opened a Museum of the Ancients. Serious scholars of the Ancients disregarded him as yet another 'Deludo' but he gained a following among the equally clueless. Ultimately this led to him being used as a tool by Omicron Division, setting up a conference intended to draw out real Ancients Hunters for questioning. During this incident, Nirkha could not resist running his mouth off to the point where Omicron Division had to arrest him. They have been stuck with him since.
 
@@ -3238,8 +3260,7 @@ Lacking resources due to a crisis elsewhere, Omicron Division dumped the Captain
 
 Aish Nirkha is no less annoying than before and if anything his convictions are even deeper now he has seen that Omicron Division really exists. He is offended at his captivity but has redefined it as proof of his importance – the cosmos is not ready for his latest revelations and Omicron Division knows it! He has also convinced himself that the Acting Director is becoming dependent on him for information which will lead to immense breakthroughs.
 
-On the other hand, Nirkha is scared. He is dealing with no-kidding professionals like Omicron Division on one hand and trigger-happy yahoos like the First Resort mercenaries on the other. He wants to get away from Research Station Gamma and start telling everyone how great it was there. He is also concerned about the way the test subjects are being treated and finds it hard to reconcile the brilliant
-(and gullible) Acting Director Vicervis with the sort of scientist who torments sentient creatures on the off chance they may do something interesting.
+On the other hand, Nirkha is scared. He is dealing with no-kidding professionals like Omicron Division on one hand and trigger-happy yahoos like the First Resort mercenaries on the other. He wants to get away from Research Station Gamma and start telling everyone how great it was there. He is also concerned about the way the test subjects are being treated and finds it hard to reconcile the brilliant (and gullible) Acting Director Vicervis with the sort of scientist who torments sentient creatures on the off chance they may do something interesting.
 
 The Referee should keep in mind that Nirkha no longer knows what is true and what he has invented. He will cover a hole in his story with fabrications or a haughty assertion that the listener has simply not understood. There are often holes in his stories that a 12-year-old could point out but nevertheless he will not retract anything. Endless qualifications, expansions and restatements obfuscate everything to the point where even the Captain of Knowledge himself may not be sure what he is claiming.
 
@@ -3263,13 +3284,13 @@ COMMUNICATIONS CENTRE (16) The installation's main communications facility has b
 
 LOUNGE AND RECREATION AREA (17) The installation's main recreation chamber and its annexes see relatively little use these days. The Acting Director prefers to use the one upstairs and would only come here if hosting a party of visitors. The quality of available foods and wines is decent but not up to the standards of Vicervis' private stash.
 
-AISH NIRKHA (CAPTAIN OF KNOWLEDGE) SPECIES GENDER AGE Human Male 45 TRAITS — STR 4 INT 7 SKILLS DEX 8 EDU 2 Carouse 3, Investigate 2, END 9 SOC 6 Leadership 1, Persuade 6
+AISH NIRKHA (CAPTAIN OF KNOWLEDGE)  Human Male 45 TRAITS — STR 4 INT 7 SKILLS DEX 8 EDU 2 Carouse 3, Investigate 2, END 9 SOC 6 Leadership 1, Persuade 6
 
 WEAPONS Patronising tone, condescending finger-wagging, soul-crushingly obscure lectures
 
 Research Station Gamma
 
-TRAVELLER
+
 
 personal effects are also scattered around the shelves. In some cases it seems items were shoved in here with genuine spite rather than a lack of care; some have clearly been thrown in a manner intended to cause harm to them or at least demonstrate contempt.
 
@@ -3305,7 +3326,7 @@ Skills Athletics (strength) 2, Mechanic 0, Profession (janitor) 0
 
 Attacks None (Insistent beeping)
 
-Manipulators 2 x (STR 12 DEX 9)
+Manipulators 2x (STR 12 DEX 9)
 
 Endurance 144 hours
 
@@ -3313,13 +3334,9 @@ Traits Armor (+4)
 
 Programming Basic (none) (INT 4)
 
-Options Auditory Sensor, Drone Interface, Industrial Cleaning Equipment
-(medium), Storage Compartment
-(standard) 3 slots, Transceiver 5km
-(improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
+Options Auditory Sensor, Drone Interface, Industrial Cleaning Equipment (medium), Storage Compartment (standard) 3 slots, Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
 
-Robot Hits Speed TL Cost Worker, Type 2 15 8m 15 Cr60000 Locomotion Grav Skills Electronics (comms) 1, Electronics
-(computer) 2, Electronics (sensors) 1, Mechanic 2 Attacks — Manipulators 1 x (STR 4 DEX 12) Endurance 38 hours Traits Armor (+4), Flyer (idle), IR/UV Vision, Small (-1) Programming Advanced (INT 9) Options Auditory Sensor, Drone Interface, Electronics Toolkit (improved), Mechanical Toolkit (improved), PRIS Sensor, Quick Charger, Transceiver 5km (improved), Voder Speaker, Wireless Data Link
+Robot Hits Speed TL Cost Worker, Type 2 15 8m 15 Cr60000 Locomotion Grav Skills Electronics (comms) 1, Electronics (computer) 2, Electronics (sensors) 1, Mechanic 2 Attacks — Manipulators 1x (STR 4 DEX 12) Endurance 38 hours Traits Armor (+4), Flyer (idle), IR/UV Vision, Small (-1) Programming Advanced (INT 9) Options Auditory Sensor, Drone Interface, Electronics Toolkit (improved), Mechanical Toolkit (improved), PRIS Sensor, Quick Charger, Transceiver 5km (improved), Voder Speaker, Wireless Data Link
 
 Worker Type 1 Handler
 
@@ -3327,19 +3344,15 @@ Worker Type 2 Security
 
 Research Station Gamma
 
-TRAVELLER
+
 
 HANDLER Specimen handler robots resemble security units to the casual observer. They are heavily built, with a cylindrical torso mounted on a four-legged walker chassis. Two heavy manipulator arms and two lighter ones are capable of restraining most creatures using grabbers or a range of custom appendages. The robots are armed with a stun prod on each of the heavy arms and a small turret-like appendage on the top which carries a snub pistol. This is routinely loaded with tranquiliser rounds which can be tailored to different creatures. At need, the handler robots can internally switch to armor-piercing ammunition, of which 10 rounds are carried. This is a violation of Imperial law but is just one of many where Research Station Gamma is concerned.
 
-Robot Hits Speed TL Cost Security 28 8m 15 Cr120000 Locomotion Grav Skills Athletics (strength) 2, Gun Combat
-(energy) 2, Gun Combat (slug) 2, Melee (bludgeon) 2, Recon 3, Tactics (military) 2 Attacks Laser (5D), Melee (1D+2), Snub Pistol (Tranq* or 3D-3, AP 3) Manipulators 2 x (STR 12 DEX 9) Endurance 38 hours Traits Armor (+12), IR/UV Vision, Flyer (idle) Programming Hunter/Killer (tactical) (INT 4) Options Auditory Sensor, Drone Interface, Fire Control System (improved), PRIS Sensor, Quick Charger, Recon Sensor (advanced), Transceiver 5km (improved), Voder Speaker, Weapon Mount (small), Weapon Mount (medium), Wireless Data Link
+Robot Hits Speed TL Cost Security 28 8m 15 Cr120000 Locomotion Grav Skills Athletics (strength) 2, Gun Combat (energy) 2, Gun Combat (slug) 2, Melee (bludgeon) 2, Recon 3, Tactics (military) 2 Attacks Laser (5D), Melee (1D+2), Snub Pistol (Tranq* or 3D-3, AP 3) Manipulators 2x (STR 12 DEX 9) Endurance 38 hours Traits Armor (+12), IR/UV Vision, Flyer (idle) Programming Hunter/Killer (tactical) (INT 4) Options Auditory Sensor, Drone Interface, Fire Control System (improved), PRIS Sensor, Quick Charger, Recon Sensor (advanced), Transceiver 5km (improved), Voder Speaker, Weapon Mount (small), Weapon Mount (medium), Wireless Data Link
 
 - Attacked as if by a poison with a Difficult (10+) END check, Damage unconscious and Interval of one round.
 
-Robot Hits Speed TL Cost Handler 24 5m 15 Cr60000 Locomotion Walker Skills Animals (handling) 2, Animals
-(veterinary) 2, Athletics (strength) 2, Gun Combat (slug) 1, Melee
-(bludgeon) 2 Attacks Melee (1D+2), Stunstick (2D, Stun), Bash and Stun (1D+2 + 2D Stun), Snub Pistol (Tranq* or 3D-3, AP 3) Manipulators 2 x (STR 12 DEX 9), 2 X (STR 7 DEX 9) Endurance 144 hours Traits Armor (+6), ATV (idle) Programming Advanced (INT 9) Options Auditory Sensor, Drone Interface, Fire Control System
-(basic),Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker, Weapon Mounts (small) x3, Wireless Data Link
+Robot Hits Speed TL Cost Handler 24 5m 15 Cr60000 Locomotion Walker Skills Animals (handling) 2, Animals (veterinary) 2, Athletics (strength) 2, Gun Combat (slug) 1, Melee (bludgeon) 2 Attacks Melee (1D+2), Stunstick (2D, Stun), Bash and Stun (1D+2 + 2D Stun), Snub Pistol (Tranq* or 3D-3, AP 3) Manipulators 2x (STR 12 DEX 9), 2X (STR 7 DEX 9) Endurance 144 hours Traits Armor (+6), ATV (idle) Programming Advanced (INT 9) Options Auditory Sensor, Drone Interface, Fire Control System (basic),Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker, Weapon Mounts (small) x3, Wireless Data Link
 
 - Attacked as if by a poison with a Difficult (10+) END check, Damage unconscious and Interval of one round.
 
@@ -3359,8 +3372,7 @@ There can be no denying Vicervis is brilliant and his ability to cross-reference
 
 Vicervis considers Chirpers to be 'just animals really' and has transferred this attitude to Droyne. He will cite the apathetic and confused behaviour of the captive Droyne as proof. Even fellow humans and other well-recognized sentients mean little to him unless he has come to approve of or like them. Approval, of a condescending sort, is granted to those who obey his instructions and pander to his ego. He will like only those he considers intellectually worthy and who are also sufficiently respectful. New arrivals will be given the chance to show they are worth interacting with, after which they are pigeonholed as suitably respectful associates, useful underlings who know their place or rabble worthy only of contempt.
 
-SIR GNETUS JERROLD VICERVIS SPECIES GENDER AGE Human Male 102 TRAITS — STR 3 INT 14 SKILLS DEX 5 EDU 14 Admin 3, Electronics
-(computer) 6, Flyer (grav) 2, Gun Combat (slug) 3, Investigate 6, Jack-of-all- Trades 3, Persuade 4, Science (broad-based) 6
+SIR GNETUS JERROLD VICERVIS  Human Male 102 TRAITS — STR 3 INT 14 SKILLS DEX 5 EDU 14 Admin 3, Electronics (computer) 6, Flyer (grav) 2, Gun Combat (slug) 3, Investigate 6, Jack-of-all- Trades 3, Persuade 4, Science (broad-based) 6
 
 #### END 3 SOC 11
 
@@ -3368,7 +3380,7 @@ WEAPONS Target Gauss Pistol (3D, AP 3, Auto 2)
 
 Research Station Gamma
 
-TRAVELLER
+
 
 At first Vicervis is likely to be gracious and charming, as this gives him the chance to receive respect and demonstrate his intellect and culture. He will rapidly start to take visitors for granted and order them around unless they really impress him or there is some reason why he has to subordinate himself. He lords it over most Omicron Division personnel who visit the facility but has been put in his place by some of the more senior officials, with reminders about who controls the funding and keeps the authorities from auditing Gamma.
 
@@ -3382,16 +3394,10 @@ Mercedes was one of the adventurers who found the Ancients base at Twilight's Pe
 
 conducted without fanfare and generally unknown to the Ancients Hunter community. For decades she was a consultant for those who really knew something, valuing her anonymity but willing to risk it to help those who could, in turn, help her.
 
-MERCEDES KARAMAKA SPECIES GENDER AGE
-— Female 46 TRAITS — STR 7 INT 12 SKILLS DEX 8 EDU 11 Admin 2, Astrogator 1, Diplomat 1, Electronics
-(computer) 2, Electronics
-(sensors) 4, Gun Combat
-(energy) 1, Gun Combat
-(slug) 2, Investigate 5, Jack-of-all-Trades 2, Leadership 1, Melee
-(unarmed) 1, Pilot
-(spacecraft) 2, Science
-(archaeology) 2, Science
-(history) 3, Steward 2, Vacc Suit 3
+MERCEDES KARAMAKA 
+
+
+— Female 46 TRAITS — STR 7 INT 12 SKILLS DEX 8 EDU 11 Admin 2, Astrogator 1, Diplomat 1, Electronics (computer) 2, Electronics (sensors) 4, Gun Combat (energy) 1, Gun Combat (slug) 2, Investigate 5, Jack-of-all-Trades 2, Leadership 1, Melee (unarmed) 1, Pilot (spacecraft) 2, Science (archaeology) 2, Science (history) 3, Steward 2, Vacc Suit 3
 
 #### END 6 SOC 7
 
@@ -3417,7 +3423,7 @@ Hoywelle is not a bad person. Quite the opposite, in fact. He is a decent young 
 
 Research Station Gamma
 
-TRAVELLER
+
 
 THE FIRST RESORT MERCENARIES First Resort calls itself a battalion-sized unit but it does not function as one. Personnel are scattered all over the sector in detachments ranging from squad- to platoon-size, with forces as large as a company occasionally put together. Even then, the force functions as a collection of teams rather than a well- organised military unit. Teams generally work well together and personnel are competent but First Resort is more paramilitary outfit than warfighting formation.
 
@@ -3431,21 +3437,22 @@ Equipment is decent but not lavish; individuals have an advanced combat rifle or
 
 Exactly how many mercenaries are at Gamma is up to the Referee. It is likely that 4 8 will have been assigned but this can be tailored to the Travellers.
 
-ALGIN HOYWELLE SPECIES GENDER AGE
-— Male — TRAITS — STR 5 INT 9 SKILLS DEX 7 EDU 10 Admin 1, Electronics
-(computer) 2, Electronics
-(remote ops) 3
+ALGIN HOYWELLE 
+
+
+— Male — TRAITS — STR 5 INT 9 SKILLS DEX 7 EDU 10 Admin 1, Electronics (computer) 2, Electronics (remote ops) 3
 
 #### END 6 SOC 6
 
-FIRST RESORT MERCENARIES SPECIES GENDER AGE
+FIRST RESORT MERCENARIES 
+
+
 — — —
 TRAITS — STR 8 INT 5 SKILLS DEX 7 EDU 4 Gun Combat (slug) 2, Melee (unarmed) 1, Recon 1, Survival 1
 
 #### END 9 SOC 3
 
-WEAPONS Advanced Combat Rifle (3D, Auto 3, Scope) or Laser Carbine
-(4D, Zero-G), Autopistol (3D-3) ARMOR Coveralls (+2) or Flak (+5), Psionic Shield Helmet
+WEAPONS Advanced Combat Rifle (3D, Auto 3, Scope) or Laser Carbine (4D, Zero-G), Autopistol (3D-3) ARMOR Coveralls (+2) or Flak (+5), Psionic Shield Helmet
 
 Research Station Gamma
 
@@ -3467,7 +3474,7 @@ In the past few months the mercenaries have taken to making extended air/raft tr
 
 Overall, the situation has been gradually worsening at Gamma and with new elements in the mix matters are likely to come to a head. First, Mercedes Karamaka arrived with a request for information. She has made common cause with Omicron Division although neither really trusts the other, and was directed to Gamma to obtain research data. Mercedes went through the usual process with Vicervis; he was charming and
 
-TRAVELLER
+
 
 gracious at first but soon lost interest in her. She has not revealed her long history and knowledge of the Ancients, which would most definitely pique his interest. Instead, she is posing as a researcher working for Omicron Division and he has decided she is a minor intellect with little to offer.
 
@@ -3524,7 +3531,7 @@ Vicervis: Wants to complete his work. Anyone who might be useful is worth spendi
 
 ARRIVAL The Travellers may well plan their entry to Research Station Gamma before they arrive at Vanejen, perhaps intending to use the supply submarines to sneak into the facility. This is a viable approach and there are plenty of others. However, the Travellers may be surprised to learn they can just walk in through the front door. Shortly before they enter orbit over Vanejen their vessel receives
 
-TRAVELLER
+
 
 a signal from the surface, by way of repeater satellite. If they are flying something that looks like a Droyne ship – which includes Ancients vessels – the signal is in Oynprith, the Droyne language. The inflection is not quite right and the idiom is wayward at times, suggesting a translator program is in use. If their vessel seems more conventional, the signal is in Galanglic.
 
@@ -3572,7 +3579,7 @@ The tour gives Hoywelle a chance to see the Director and get thoroughly chewed o
 
 The Travellers at Research Station Gamma
 
-TRAVELLER
+
 
 AN AWKWARD INTRODUCTION When the Travellers are ready, they are conveyed up the elevator shaft to the lab deck and into the presence of the Acting Director himself. Hoywelle is present, essentially functioning as a waiter, and Mercedes is also invited. No-one else is in the lounge when the Travellers arrive. Vicervis is gracious and welcoming, personally handing out large glasses of expensive wines and spirits or dispensing the finest coffees from a device that looks like it could split atoms. Astute Travellers may note that at first he serves everyone but it quickly becomes apparent who he approves of and who he does not. Lesser mortals must fill their own glasses or have the long-suffering Hoywelle do it.
 
@@ -3622,7 +3629,7 @@ Mercedes also tells the Travellers what her friend told her. This related under 
 
 The Travellers at Research Station Gamma
 
-TRAVELLER
+
 
 finds it she plans to kick the door in and stab him in the face if that is what it takes to stop him. The mild way she says this belies her strength of intent. Trivialities like the fact that Tsyamoykyo is essentially a god and Mercedes is just a person do not concern her. She is sure Tsyamoykyo can be killed and intends to prove it by doing it. If the Travellers reveal they have participated in the destruction of others of his kind or that they are undergoing an uplift she will be encouraged, but is prepared to try on her own if necessary.
 
@@ -3642,8 +3649,7 @@ Perhaps the easiest way past the security system is through Vicervis himself. He
 
 SELF-EXPERIMENTATION When the Travellers arrived they were routinely scanned and the results archived. Vicervis will not immediately look at these results – indeed, he may never take any interest in them. However, the results do show some anomalies that might alert the Travellers to possibilities at the research station. The most likely way the Travellers will become aware of all this is through Mercedes, who will notice they are undergoing changes and perhaps suggest they visit the lab to see if anything harmful is happening. If they think to ask any Droyne who has been in their company for more than a few days they will get a matter-of-fact answer which translates as 'if you were Droyne I would think you were developing into your caste'.
 
-The changes the Travellers are undergoing leave traces which can be detected by suitable equipment, and the specimen receiving area has the capacity to analyse the Travellers in detail. The Travellers may be alarmed to be offered options such as auto-dissection and testing to destruction but a suitable battery of tests can be selected by anyone with Medic or Science
-(biology) skill. The actual tests take about an hour, with results presented 2D hours later. The Travellers can expedite this process, shortening the analysis time by one hour per point of Effect on an Average (8+) Medic or Science (biology) check.
+The changes the Travellers are undergoing leave traces which can be detected by suitable equipment, and the specimen receiving area has the capacity to analyse the Travellers in detail. The Travellers may be alarmed to be offered options such as auto-dissection and testing to destruction but a suitable battery of tests can be selected by anyone with Medic or Science (biology) skill. The actual tests take about an hour, with results presented 2D hours later. The Travellers can expedite this process, shortening the analysis time by one hour per point of Effect on an Average (8+) Medic or Science (biology) check.
 
 The raw data from the tests is comprehensive and requires significant additional work but the basics are obvious. The Travellers are undergoing some form of physical and mental metamorphosis. The closest analogy known to the station's system is what happens to Droyne after casteing but the process by which the changes are produced is entirely unknown. Analysis of the raw data will lead to insights that will help the Travellers develop. This is discussed under Self- Discovery, starting on page 167.
 
@@ -3661,7 +3667,7 @@ Nirkha can be more than just an irritant if the Travellers make clever use of hi
 
 The Travellers at Research Station Gamma
 
-TRAVELLER
+
 
 ways, acting as an extra pair of hands or helping search an area. If the Travellers make a deal with him he is likely to honor it as he has nothing to gain from messing the Travellers around.
 
@@ -3677,9 +3683,9 @@ There are four captive Droyne; three Workers and a Technician. Their names are I
 
 **IKER, SSOSK, YARMOYRTMI,**
 
-DROYNE WORKERS SPECIES GENDER AGE Droyne — — TRAITS Close Combat Aversion, Droyne Claws STR 8 INT 4 SKILLS DEX 6 EDU 3 Caste (Worker) 2, Survival 1 END 9 PSI 5
+DROYNE WORKERS  Droyne — — TRAITS Close Combat Aversion, Droyne Claws STR 8 INT 4 SKILLS DEX 6 EDU 3 Caste (Worker) 2, Survival 1 END 9 PSI 5
 
-EAYRK, DROYNE TECHNICIAN SPECIES GENDER AGE Droyne — — TRAITS Close Combat Aversion, Droyne Claws STR 5 INT 7 SKILLS DEX 8 EDU 5 Caste (Technician) 2, END 7 PSI 6 Mechanic 1
+EAYRK, DROYNE TECHNICIAN  Droyne — — TRAITS Close Combat Aversion, Droyne Claws STR 5 INT 7 SKILLS DEX 8 EDU 5 Caste (Technician) 2, END 7 PSI 6 Mechanic 1
 
 The Travellers at Research Station Gamma
 
@@ -3702,7 +3708,7 @@ The Travellers will not be briefed on what is going on, although they might be g
 
 Chiree has got out again and could be anywhere in the installation or even elsewhere on the islet. He is clever and cunning, and able to make himself invisible. Unfortunately for him Vicervis and his staff are wise to his ability and searchers will don psionic shield helmets or use robots and cameras. Vicervis asks – or maybe orders – the Travellers to help find him and grants them access to all containment spheres. This is an opportunity to investigate the contents of the spheres or perhaps progress with plans to steal the installation's data.
 
-TRAVELLER
+
 
 Eventually a triumphant mercenary announces the Chirper has been caught. After a few moments it becomes clear this is not Chiree – the others are out too! A furious Vicervis orders that everything – he does not even refer to the Droyne as people at this point – be caught, corralled or otherwise brought under control, and retreats to his office to watch proceedings on the monitors. This assumes the Travellers are not already at odds with the station staff. Depending on the actions of the Travellers thus far they may be haring around the station chasing Chirpers, fighting the mercenaries whilst specimens flee in terror, or anything in between.
 
@@ -3742,7 +3748,7 @@ The creatures are hostile and powerful. They were covertly landed in the sea nea
 
 Gamma Crisis
 
-TRAVELLER
+
 
 The creatures have a simple imperative to kill everything in Research Station Gamma. They are particularly attracted to Droyne and similar beings, and to anyone with psionic powers. The creatures have a sensitivity to psionics and a life-sensing ability similar to that provided by the Awareness ability, but they are not really intelligent. They are being controlled by a larger being which remains in deep water offshore.
 
@@ -3782,7 +3788,7 @@ THE ASSAULT MASSES Assault masses are essentially an amorphous blob of flesh con
 
 Gamma Crisis
 
-TRAVELLER
+
 
 The masses attack at distance with a telekinetic rip, essentially trying to pull objects and people apart. Psionic shields and armor are equally ineffective against this attack, which delivers D3 dice of damage if successful. To affect a target the mass must pass an Average (8+) check with no DMs for its own PSI or skill. The target's Telekinesis skill is used as a negative DM if they have it.
 
@@ -3816,7 +3822,7 @@ The Travellers are more than likely already at level 2 in one path, so progressi
 
 Once RI points are spent an uplift event is triggered. This will take place over 2D days, halved if the Traveller rests up and undertakes minimal activities. Plotting a jump then kicking back for a week is the simplest solution. The uplift cycle is always unpleasant, with headaches and odd pains here and there, and rapid physical changes require the consumption of a large amount of protein. Travellers on the more physical paths may need to replace their wardrobe as they gain bulk, longer limbs, or other changes to their body proportions.
 
-TRAVELLER
+
 
 The Travellers may undergo quite serious physical changes and may no longer resemble an average member of their species. By default, each time a Traveller undergoes an uplift event, even a purely mental one, they gain characteristics differing from their original species. Roll 2D on the Physical Changes table to see what level of change occurs. Additional RI points can be spent to create a DM on the chart, minimising changes, if Travellers want to retain their original appearance. Most changes are 'alien' looking, such as eye shape, facial bone structure or claw-like fingernails. Extreme changes will affect joint function and may result in vestigial characteristics like the formation of tiny wings. Travellers may realise they are gaining Droyne physical characteristics.
 
@@ -3846,7 +3852,7 @@ MAXIMISING UPLIFT There really is no limit to how far the Travellers can develop
 
 Self-Discovery
 
-TRAVELLER
+
 
 Research Station Gamma RI Action RI Gained Used the lab to undertake a basic analysis of their genetic and physical situation. 2D+2 Used the lab to undertake a detailed analysis of their genetic and physical situation. 3D+6 Obtained and analysed the station's research on psionics, including all the irrelevant nonsense.
 
@@ -3887,7 +3893,7 @@ THE EMISSARY Itwyoso is an emissary from the Oytrip of Vaykouh. He is a Droyne S
 
 THE OMICRON DIVISION AGENT Tugak Imshur is a minor official or merchant at a starport the Travellers pass through. Whilst not part of Omicron Division, Tugak receives a regular payment to pass on messages and occasionally hold items for Omicron personnel. Recently a general call went out; all Omicron personnel were to be presented with a data packet and instructed to make preparations for the coming campaign. Whether they proceed to the Oytrip of Vaykouh or take measures to resist an attack locally will depend on the resources they have available. Tugak also has orders to try to recruit anyone who might be useful.
 
-TRAVELLER
+
 
 The Travellers fit the description and will be offered the data packet. It contains footage from the attack on Andor and the location of the Oytrip of Vaykouh, along with a grim and dire analysis of the situation which is broadly correct but, if anything, underplays just how bad things are. The data packet mentions that all Omicron Division's combat assets in the sector have been reassigned to the defence of Vaykouh but that any and all assistance is desperately needed. It does not mention – because Omicron did not know at the time it was recorded – that those combat assets are now floating wreckage.
 
@@ -3923,31 +3929,59 @@ Andor to vanejen
 
 K
 
+
+
 O
+
+
 
 G
 
+
+
 C
+
+
 
 L
 
+
+
 P
+
+
 
 H
 
+
+
 D
+
+
 
 J
 
+
+
 N
+
+
 
 F
 
+
+
 B
+
+
 
 SPINWARD MARCHES
 
+
+
 TROJAN REACH
+
+
 
 Vanejen
 
@@ -3979,7 +4013,7 @@ Government Type 0 No Government Structure Law Level 0 No prohibitions Technology
 
 Second Transit
 
-TRAVELLER
+
 
 This piece of exotic overkill had an additional and unexpected effect. A century earlier, the converted carrier Rustic Idyll was approaching Braudel. Her commander, the famous 'Mad' Captain Maddox, suspected there was something hidden on the world and wanted to investigate. Instead her vessel was caught in the backlash of the temporal weapon and wrenched out of the time stream. It remains, stuck between then and now, just outside the planetary orbit.
 
@@ -4011,7 +4045,7 @@ One unintended consequence of this was that some particles intersected with a sh
 
 Second Transit
 
-TRAVELLER
+
 
 The Travellers' arrival will be noted by the handful of Droyne ships hiding in the outsystem. After some consultation they send out one of their number to make contact. Their hope is that the Travellers are friendly, perhaps even allies coming to help. If not, hostility will fall on just one of the vessels whilst the others may be able to escape. This vessel has a colleague of the Travellers' aboard – Mercedes Karamaka. How this came to be requires some explanation.
 
@@ -4084,7 +4118,7 @@ MERCEDES' PLAN: THE SHIP The Travellers cannot have missed the temporal anomaly 
 
 Temporary Installation Ashdii-1097
 
-TRAVELLER
+
 
 Mercedes knows that the most senior Drone in the service of Ordssess escaped during the attack and was concealed among a human population with some other Droyne. She may be able to break through the conditioning imposed upon Ordssess, placing him in control of an Oytrip once more opposed to Tsyamoykyo. This is preferable to just killing him, since command will at that point devolve onto another conditioned Leader. An alternative would be to kill Ordssess and all conditioned Leaders but the chances of success are slim.
 
@@ -4124,6 +4158,8 @@ Ihyuax/War Machine
 
 BRAUDEL
 
+
+
 UWP: X543200-5
 
 The steppes to the east are already blanketed in dust, some of which is radioactive or contains exotic particles that slowly break down creating intermittent bursts of energy. There is no prospect for survival for any of the human groups caught in the region. Much of the dust has already fallen but clouds continue to drift eastwards as far as the next significant region of high ground. Another concentration is developing in the foothills there. It is likely the region will be uninhabitable for years but over time it may become a deep-soil belt and emerge as one of the more fertile parts of Braudel.
@@ -4131,8 +4167,7 @@ The steppes to the east are already blanketed in dust, some of which is radioact
 **THE ROKISNI BASIN (2–5)** North-east of the Sanilis mountains, the steppe gradually falls away to a central point marked by a large freshwater lake. Offworld surveyors named it Lake Rokisni, though locals usually just refer to it as
 'the lake'. It is large, if not very deep, and fed by three major rivers. Again, locals do not travel far so tend to refer to the nearest river as 'the river', so the offworld map-makers imaginatively named the rivers Rokisni Alpha (2), Beta (3) and Gamma (4).
 
-The rivers are wide and quite shallow. They meander through the steppe and create the occasional lake or oxbow lake before draining into Lake Rokisni
-(5). The lake is surrounded by seasonal wetlands, which expand and contract according to rainfall in the preceding weeks. At times these become almost completely dried out, with expanses of mud extending for tens of kilometers.
+The rivers are wide and quite shallow. They meander through the steppe and create the occasional lake or oxbow lake before draining into Lake Rokisni (5). The lake is surrounded by seasonal wetlands, which expand and contract according to rainfall in the preceding weeks. At times these become almost completely dried out, with expanses of mud extending for tens of kilometers.
 
 The lake's central island has a special significance for the people of Braudel. No-one lives there permanently but river-going communities visit at times to trade and allow young people to marry into different families. There are so few of them that inbreeding is inevitable but the effects have been reduced by this practice. The island is therefore very much the center of their shared culture.
 
@@ -4150,7 +4185,7 @@ The occupation is complete and perfect so long as the greatest Leaders of the Oy
 
 I Rule the Ruins
 
-TRAVELLER
+
 
 against Tsyamoykyo. His creatures would resist and the G482 contingent would immediately target rebel Leaders. If this problem can be overcome, the war machine and all the other assets of Braudel would be at the Travellers' disposal.
 
@@ -4180,7 +4215,7 @@ Every 2D minutes, the Travellers can each make a new action. The pilot has a cho
 
 The Travellers need to reduce the pilot's DM by their actions. Their ship is trying to maintain altitude and sometimes bounced upward by turbulence but overall it is descending towards the pit. All the pilot can do with the limited power and control available is delay the inevitable. The Referee should adjudicate actions of the Travellers and reward creativity. As with other parts of this campaign, the Travellers may be thinking outside the box and using their new abilities rather than mundane checks. This is to be encouraged and rewarded; fledgling gods should be above grubbing around under consoles with a screwdriver in their teeth!
 
-TRAVELLER
+
 
 Options the Travellers might try include but are not limited to:
 
@@ -4192,8 +4227,7 @@ Concentrate power where it is most needed: This is another task that can be perf
 
 Protect the ship's systems against interference: It may be possible to reduce external interference by creating a counter-field or some kind of capacitance effect that absorbs the energy of the electrical discharges. If the Travellers can offer a plausible method – perhaps using the jump grid as an induction cage, or bleeding power through weapons capacitors and blasting it out of the main guns – the Referee should permit an Electronics or Engineer check and reduce the DM by Effect plus 1D for a suitably inventive solution.
 
-Overload the drive to create a one-off pulse: It may be possible to fling the ship free in a desperate, mostly uncontrolled lunge. Rigging the drive requires an Engineer check, or perhaps Pilot. After that, it is a matter of timing the lunge to miss the ground and surrounding mountainsides. This requires a Difficult
-(10+) Pilot check, which can be assisted by others plotting the ship's movement or providing additional
+Overload the drive to create a one-off pulse: It may be possible to fling the ship free in a desperate, mostly uncontrolled lunge. Rigging the drive requires an Engineer check, or perhaps Pilot. After that, it is a matter of timing the lunge to miss the ground and surrounding mountainsides. This requires a Difficult (10+) Pilot check, which can be assisted by others plotting the ship's movement or providing additional
 
 information. Whilst bouncing off a mountainside and rolling into a pit of ionised magma would be a dramatic ending to the campaign the Referee is advised to assume that failure results in a minor crash doing 3Dx10 hull damage and 2D damage to occupants (reduced to 2D3 for those strapped in) and the situation not getting any better. If successful, the Travellers hurtle out of the plume and must get low, fast, to avoid detection. However, they are out of immediate danger and their ship's function return to normal.
 
@@ -4225,7 +4259,7 @@ The land yacht does have engines of a sort and can crawl along under electrical 
 
 The people of the yacht are uneducated by interstellar standards but they know what they need to. The world is officially rated at TL5 but this represents the capabilities of a few expert crafters who know enough rule-of-thumb science to work metal and make engines.
 
-TRAVELLER
+
 
 The majority of the population are taught necessary things like how to ride and care for a yurfal, how to locate a good grazing spot and water on the steppe, and how to sing the traditional songs every night.
 
@@ -4266,7 +4300,7 @@ FREEING THE YACHT Getting the land yacht off the rocks is a challenge but one th
 
 Land Yacht
 
-TRAVELLER
+
 
 accomplish the task but the yacht is the responsibility of Alyx. He is now effectively its captain. If the Travellers save his yacht and give it to him he will feel forever diminished but if they advise him and allow him to give the orders they will win his friendship for life.
 
@@ -4276,7 +4310,11 @@ Either way, freeing the yacht is a simple matter of hard work and ingenuity. A D
 
 JOURNEY TO THE CENTRE
 
+
+
 OF THE STEPPE
+
+
 
 Once the yacht is freed and mobile again the Travellers can ride all the way to the lake. They will spot the occasional grav vehicle making a sweep of the area as far south as the lake but atmospheric turbulence and ionised ash make flight much further south than that a dangerous proposition. After the first incidents the occupiers stopped overflights, which were deemed pointless anyway.
 
@@ -4292,7 +4330,7 @@ stashed away for some unspecified emergency, but ammunition is in short supply w
 
 Violence is uncommon on Braudel, on any scale. Wars or large-scale conflicts are unknown and even interpersonal conflict generally stops short of violence as communities are small and the effects of an incident may be felt for years afterward. In short, the thought of social awkwardness prevents most incidents from escalating. For this reason Alyx finds the idea of using force against other people difficult to come to terms with. This attitude is common among the human population, making it unlikely anyone will actively join the coming fight. Passive assistance is more likely, however.
 
-ALYX SPECIES GENDER AGE Human Male 19 TRAITS — STR 8 INT 8 SKILLS DEX 5 EDU 3 Athletics (dexterity) 1, Gun Combat 0, Navigation 1, Seafarer (sail) 1, Survival 1
+ALYX  Human Male 19 TRAITS — STR 8 INT 8 SKILLS DEX 5 EDU 3 Athletics (dexterity) 1, Gun Combat 0, Navigation 1, Seafarer (sail) 1, Survival 1
 
 #### END 8 SOC 8
 
@@ -4330,7 +4368,7 @@ RYAU'S TUTELAGE Ryau can sense that the Travellers are developing great mental p
 
 Lake Rokisni
 
-TRAVELLER
+
 
 Over the course of a day or so, Ryau telepathically assists the Travellers in modifying their thinking in a way that removes the first barrier. As they learn more about their powers they can progress to a maximum of 200 RI, at which point a new barrier is encountered. Ryau cannot help with that or any later ones; the Travellers must seek other sources of wisdom or moments of revelation.
 
@@ -4379,7 +4417,7 @@ The thin air of Braudel becomes unable to support human respiration without addi
 
 Lake Rokisni
 
-TRAVELLER
+
 
 immediate and serious effects begin shortly afterward. These include dizziness, disorientation, inability to concentrate and eventually collapse. The Droyne of Braudel did not have many vacc suits or high-altitude equipment at the time of the invasion and despite rushing more into production supplies are limited. As a result, relatively small numbers of Workers and Technicians are available for high-level work and few Warriors can operate outside the closed areas.
 
@@ -4411,10 +4449,9 @@ There is no such thing in Droyne society as a Leader ignoring good advice just t
 
 Ryau is intrigued by the Travellers. She sees some of what is happening to them and wonders what the long-term implications will be. Her Oytrip has always been opposed to dominance by the Ancients but at least the Ancients understood the ways of the Droyne. What might a future be like in which non-Droyne ascended to that level of power? Of course, for the Oytrip to exist in that future the current crisis must be resolved, so Ryau has no choice but to work with the Travellers and hope for a benign future.
 
-KINETAV SPECIES GENDER AGE Droyne Male — TRAITS — STR 4 INT 11 SKILLS DEX 7 EDU 9 Caste (Leader) 2, Tactics END 5 PSI 10 (military) 1, Telepathy 1
+KINETAV  Droyne Male — TRAITS — STR 4 INT 11 SKILLS DEX 7 EDU 9 Caste (Leader) 2, Tactics END 5 PSI 10 (military) 1, Telepathy 1
 
-RYAU SPECIES GENDER AGE Droyne Female — TRAITS — STR 3 INT 14 SKILLS DEX 5 EDU 12 Awareness 6, Caste
-(Drone) 5, Clairvoyance 5, Telepathy 6
+RYAU  Droyne Female — TRAITS — STR 3 INT 14 SKILLS DEX 5 EDU 12 Awareness 6, Caste (Drone) 5, Clairvoyance 5, Telepathy 6
 
 #### END 4 PSI 15
 
@@ -4458,7 +4495,7 @@ The Travellers may want to organise and plan the attack down to the last boot kn
 
 Every Gun on the Planet
 
-TRAVELLER
+
 
 Force Roles Role Notes Combat Combat units are intended to engage the enemy at their best advantage – or least disadvantage. Unless directed otherwise they will do whatever brings the best short-term advantage. This might include driving enemies from away to take pressure off another group, retiring to regroup, flanking an enemy force that is attacking allies, or otherwise making sensible tactical decisions with a view to defeating enemy combat forces rather than attaining any specific aim. Assault Assault units are tasked with seizing an objective from the enemy. This implies close assault tactics but if the hostiles can be tricked into leaving or cleared by sharpshooters, the end result is the same. Overall, Assault units are more aggressive than Combat units. Sharpshooter Sharpshooter units give support to others with long-range weapons fire. They will, by default, seek a position of cover or concealment. Enemy sensors will find them quickly, however, so sharpshooters may be forced to shift positions after engaging a target and not always be available. Skirmisher Skirmisher units are in many ways the opposite of assault formations. Their role is to harass and confuse the enemy whilst refusing to be drawn into a decisive engagement. Used well, skirmishers may be able to draw off many times their number in enemy troops but if cornered will be overrun. Technical Technical units have minimal combat capability and will usually be assigned a non- combative mission. This can be general, such as 'find and gather weapons or anything useful' or very specific, such as reaching a particular control hub and making use of it. Worker Worker units have minimal combat capability and will normally be assigned supporting tasks such as fetching ammunition or blocking a corridor with building materials. Leadership Leadership units have a modest combat capability but for the most part provide direction to others. Guarding Guarding units may be combat forces assigned to protect a position or deny passage to the enemy, or could be a blocking force with virtually no combat capability. In this case
 'guarding' means taking fire meant for combat personnel. Yurfal Cavalry Some units might be mounted on yurfal for mobility or in an attempt to create combat cavalry. Yurfal can move faster than humans or Droyne and could be used to get ahead of an enemy reaction force, or perhaps to charge right through it. Yurfal Wranglers Yurfal without mounted fighters might be used as a screen to hide the attacking force, stampeded at the enemy, or in some other inventive way. Personnel will need to be assigned to guide and control the beasts. This force might then switch role, perhaps sending a couple of hundred yurfal at the enemy, then charging in behind them or making an attempt to kidnap a Leader. Decoy Decoy forces present themselves as something else. This might be general, in the sense of a force just trying to make itself look like a threat, or very specific if the Travellers have come up with a trick they want to try. Specialist Specialist forces will usually be tailored to a particular role. For example, a unit tasked with stealing vehicles and attacking the enemy with them would need to contain individuals capable of operating vehicles, as well as fighters to protect the specialists and overcome resistance.
@@ -4483,9 +4520,9 @@ Warriors operate in groups of six, or five and a junior Leader. They cooperate i
 
 The Warriors of Vaykouh ultimately answer to Ordssess. He is a wise and experienced Leader- of-Leaders, who dedicated his life to guarding against what has befallen his Oytrip. At present he cannot disobey Tsyamoykyo in any way but once the conditioning is broken Ordssess will re-evaluate the situation. He has three options – decide that obedience is the best course of action after all, fight against Tsyamoykyo, or commit ritual suicide so that someone else can make better decisions. Which he chooses may depend on whether the situation seems winnable. He will probably choose to step aside (and die) once the immediate crisis is over but which way he directs the Oytrip in the meantime depends on how well the Travellers seem to be doing.
 
-TRAVELLER
 
-ORDSSESS, LEADER-OF-LEADERS SPECIES GENDER AGE Droyne Male — TRAITS — STR 3 INT 11 SKILLS DEX 7 EDU 12 Awareness 2, Caste END 4 PSI 12 (Leader) 5, Telepathy 3
+
+ORDSSESS, LEADER-OF-LEADERS  Droyne Male — TRAITS — STR 3 INT 11 SKILLS DEX 7 EDU 12 Awareness 2, Caste END 4 PSI 12 (Leader) 5, Telepathy 3
 
 WEAPONS Leader-Rod (3D, Zero-G) ARMOR Shimmering Robe with built-in shields
 
@@ -4493,8 +4530,7 @@ It is possible that Ordssess' obedience conditioning was not 100% effective. He 
 
 The Travellers might expect Ordssess to try to expunge his failures with some grand gesture like leading a suicidal attack on the war machine or even the stronghold of Tsyamoykyo. However, that is not the Droyne way. Ordssess will continue to lead, or he will not. His choices will be made dispassionately and based solely on what is best for his Oytrip. The Travellers may be able to present arguments one way or the other if they can find a way to approach Ordssess.
 
-VAYKOUH WARRIOR SPECIES GENDER AGE Droyne — — TRAITS — STR 10 INT 4 SKILLS DEX 11 EDU 2 Caste (Warrior) 2, Gun Combat (energy) 2, Tactics
-(military) 1
+VAYKOUH WARRIOR  Droyne — — TRAITS — STR 10 INT 4 SKILLS DEX 11 EDU 2 Caste (Warrior) 2, Gun Combat (energy) 2, Tactics (military) 1
 
 #### END 10 PSI 6
 
@@ -4502,13 +4538,13 @@ WEAPONS Plasma Carbine (6D) ARMOR Fighting-Armor (+15), Eclipse Shield
 
 Opposition and Allies
 
-YASKIAY, FAVOURED OF TSYAMOYKYO SPECIES GENDER AGE Droyne Male — TRAITS — STR 9 INT 14 SKILLS DEX 12 EDU 15 Awareness 4, Clairvoyance 5, Tactics (military) 6, Telepathy 6
+YASKIAY, FAVOURED OF TSYAMOYKYO  Droyne Male — TRAITS — STR 9 INT 14 SKILLS DEX 12 EDU 15 Awareness 4, Clairvoyance 5, Tactics (military) 6, Telepathy 6
 
 #### END 13 PSI 15
 
 WEAPONS Are for underlings ARMOR Shimmering Robe with built-in shields
 
-SUPPORTING CASTES SPECIES GENDER AGE Droyne — — TRAITS — STR 9 INT 7 SKILLS DEX 9 EDU 6 Awareness 2, Caste END 9 PSI 8 (caste) 4, Telepathy 2
+SUPPORTING CASTES  Droyne — — TRAITS — STR 9 INT 7 SKILLS DEX 9 EDU 6 Awareness 2, Caste END 9 PSI8 (caste) 4, Telepathy 2
 
 ARMOR Shimmering Robe
 
@@ -4518,10 +4554,9 @@ Yaskiay commands a force of Warriors and supporting castes. Only the Warriors wi
 
 Large numbers of supporting caste members are present in the war machine. They will not fight but may deliberately block the path of intruders or take a plasma bolt meant for a Warrior. They are absolutely loyal and will not allow a Leader who is not a follower of Tsyamoykyo to command them. This will be disturbing for normal Droyne and perhaps a problem in the longer term. If left Leaderless they will gradually die of apathy.
 
-YASKIAY'S WARRIORS SPECIES GENDER AGE Droyne — — TRAITS — STR 9 INT 11 SKILLS DEX 9 EDU 11 Gun Combat (energy) 2 END 9 PSI 10
+YASKIAY'S WARRIORS  Droyne — — TRAITS — STR 9 INT 11 SKILLS DEX 9 EDU 11 Gun Combat (energy) 2 END 9 PSI 10
 
-WEAPONS Fusion Rifle (4D or 16D) ARMOR Advanced Fighting-Armor
-(+20), Psi Shield Helmet
+WEAPONS Fusion Rifle (4D or 16D) ARMOR Advanced Fighting-Armor (+20), Psi Shield Helmet
 
 SHIMMERING ROBE Based on the same technology as the shimmersuit, these long robes are made from a fabric that has an iridescent sheen. They are made from an elastic material which stretches to accommodate a wide range of wearers.
 
@@ -4529,7 +4564,7 @@ A shimmering robe completely absorbs all laser attacks harmlessly, while all oth
 
 Opposition and Allies
 
-TRAVELLER
+
 
 Yaskiay's Warriors have been modified to make them more dangerous. Like other castes, they are completely loyal and remorseless. Warriors are armed with a fusion weapon which has two settings. On low power it does 4D damage and will not do much harm to the interior of the war machine. On full power, damage is 16D.
 
@@ -4546,20 +4581,23 @@ ALLIES The Travellers do not have all that much to work with; a few human volunt
 
 TRAVELLERS AND OTHER
 
+
+
 CHARACTERS
+
+
 
 Wrath of the Ancients is about what the Travellers do, with everyone else as a supporting cast. The action should therefore focus on them, plus a few other individuals, rather than trying to play out the attack in detail as a wargame. The assault is the backdrop to the Travellers' heroics – or skulduggery, or clinical execution of a flawless plan, or desperate bodging of a solution when all else has failed. Which other characters are present and whether or not they receive much 'camera time' will be determined by dramatic necessity and the Travellers' actions to date.
 
 Much of the time, other characters will be in the background, as it were, assumed to be doing their best to get the job done. They can be used by the Referee to salvage a situation that has gone badly wrong or to put a name and face to someone in peril. The Travellers are far more likely to rush to the rescue of someone they know than a random fighter... or to feel their loss if they have to be sacrificed. There are no traitors among the attackers but there are some whose resolve may fail them. The Referee should keep in mind that Leaders will unhesitatingly do what they think is best for the Oytrip. That could mean ordering a withdrawal or a surrender if the situation looks hopeless. The loss of a Leader will not instantly throw forces under his command into turmoil; they will continue to obey their last orders until a new Leader takes control of them. Droyne will not follow a non- Droyne or obey their commands unless a Leader has told them to do so, so locating Leaders might be an important task for the Travellers.
 
-HUMAN VOLUNTEER SPECIES GENDER AGE Human — — TRAITS — STR 8 INT 6 SKILLS DEX 6 EDU 3 Gun Combat (slug) 1, END 7 PSI 5 Stealth 1
+HUMAN VOLUNTEER  Human — — TRAITS — STR 8 INT 6 SKILLS DEX 6 EDU 3 Gun Combat (slug) 1, END 7 PSI 5 Stealth 1
 
 WEAPONS Carbine (3D-1) ARMOR Hide Jerkin (+2)
 
-BRAUDEL DROYNE WARRIOR SPECIES GENDER AGE Droyne — — TRAITS — STR 9 INT 4 SKILLS DEX 7 EDU 3 Gun Combat (energy) 1, END 8 PSI 8 Melee 0
+BRAUDEL DROYNE WARRIOR  Droyne — — TRAITS — STR 9 INT 4 SKILLS DEX 7 EDU 3 Gun Combat (energy) 1, END 8 PSI 8 Melee 0
 
-WEAPONS Plasma Rifle (6D) or Carbine
-(3D-1) or Lance (3D+2) or Hatchet (2D+1) or Baton (2D)
+WEAPONS Plasma Rifle (6D) or Carbine (3D-1) or Lance (3D+2) or Hatchet (2D+1) or Baton (2D)
 
 Opposition and Allies
 
@@ -4571,8 +4609,7 @@ The war machine is currently positioned in a low- lying area close to where the 
 
 A few areas are less damaged than others (1a) and might provide cover up to about one kilometer from the war machine. Between these are areas strewn with debris and fallen trunks, with scattered branches and damaged trees. This is very cluttered terrain which might permit an ambush or bring about close combat if the enemy can be drawn in.
 
-**FLATTENED FOREST (2)** Another area of forest lies to the south-west of the war machine. This region suffered worse from the blast and a subsequent fire. Most trees are toppled, creating a maze of trunks and branches that both provides cover and impedes movement. A low hill
-(2a) has become something of a natural fortress, with trunks providing concealment and at least a little cover from enemy fire. A deep fissure (2b) has opened up in the ground. It varies from one to three meters deep and could be used as a firing position or covered route for a flanking force.
+**FLATTENED FOREST (2)** Another area of forest lies to the south-west of the war machine. This region suffered worse from the blast and a subsequent fire. Most trees are toppled, creating a maze of trunks and branches that both provides cover and impedes movement. A low hill (2a) has become something of a natural fortress, with trunks providing concealment and at least a little cover from enemy fire. A deep fissure (2b) has opened up in the ground. It varies from one to three meters deep and could be used as a firing position or covered route for a flanking force.
 
 THE WAR MACHINE (3) The unfinished war machine towers above the valley, its structural members and completed sections casting long shadows. Work has concentrated on command facilities and weapons intended to defeat an attack from space, leaving anti-personnel and equipment for last. Some anti-vehicle mounts are fitted, along with tracking equipment that can detect a grav vehicle far off but which is not suited to spotting a ground-level assault force.
 
@@ -4582,7 +4619,7 @@ PARADE AREA (5) This area of flattened earth is where the Warriors of the Oytrip
 
 THE PODIUM (6) Naturally, a command podium has been erected from which Ordssess or another conditioned Leader can oversee construction work and coordinate movement displays of the Warriors. This podium is built to the same specifications as the one the Travellers encountered at Twilight's Peak; shielded against psionics and disintegrators, with a Protection +40 shield against kinetic and energy attacks. This does not protect against gas or secondary energy effects such as a primitive firebomb, which the Travellers may remember from their previous encounter.
 
-TRAVELLER
+
 
 Blasting through the shield is always an option if the Travellers can muster enough firepower. Alternatively, they could try to destroy the shield generator nodes within the podium itself. Its structure grants Protection
 +30 and is solid enough that it cannot be destroyed with small arms fire. However, that is not necessary; if a control system or a generator node is hit it will be put out of action, weakening or dropping the shield. Any attack that does enough damage to penetrate the podium's armor has the potential to do this.
@@ -4677,14 +4714,13 @@ A better option might be to infiltrate some forces onto the flank to delay and s
 
 One option is to split the attacking force into three major elements and some minor ones. One element, perhaps with the majority of the ranged weapons, infiltrates the damaged area of forest (2) and positions some shooters on the hill or in the fissure, with additional fighters to cover the flank of the shooters. This force is tasked with sniping Leaders and those Warriors who are in a position to intercept other forces. As well as providing fire support this force may draw off part of the enemy's response, perhaps embroiling more than its number in close combat or a deadly game of cat-and-mouse among the wreckage of the forest.
 
-A second element infiltrates the less damaged forest
-(1) and attempts to storm the lower decks of the war machine. If they can be secured, this force will try to hold them as long as possible and even if pushed back can harass reinforcements as they move through the machine. The third major element is a reserve, held back to deal with a counterattack or exploit some unexpected advantage. It is likely this force will end up drawn into the fighting at (2).
+A second element infiltrates the less damaged forest (1) and attempts to storm the lower decks of the war machine. If they can be secured, this force will try to hold them as long as possible and even if pushed back can harass reinforcements as they move through the machine. The third major element is a reserve, held back to deal with a counterattack or exploit some unexpected advantage. It is likely this force will end up drawn into the fighting at (2).
 
 **Detection Chance**
 
 Factor Check to Detect Using a vehicle, grav belt, or other easily detectable device Automatic Large force, 200+ in size, moving openly 4+ Large force, 200+ in size, using cover 6+ Modest force, 100–200 in size, moving openly 5+ Modest force, 100–200 in size, using cover 7+ Small force, 10–100 in size, moving openly 6+ Small force, 10–100 in size, using cover 8+ Party of 10 or less, moving openly 7+ Party of 10 or less, using cover 9+
 
-TRAVELLER
+
 
 In addition, smaller groups perform distraction tasks or attempt to gain advantages. Infiltrators might be sent to investigate the shanty town (4) and could then decide to free the Omicron Division personnel. If so, they can be persuaded to join the fight if the Travellers' representative makes a good case and weapons are available. Other options include stampeding yurfal at the enemy's Warriors or sneaking into the city and causing mayhem there.
 
@@ -4819,7 +4855,7 @@ FIGHTING COMMAND COMPLEX (4) This area serves as a command center for Warriors a
 
 During the attack, command of the whole above ground Warrior force will fall upon the Leader stationed here. Eliminating him will disrupt the ability of the Droyne to respond to changing circumstances. It is not possible to jam communications to more junior Leaders as they are telepathic but if this chamber is lost the Droyne will make it a priority to recapture it and install a new commander. In the meantime command can be exercised from anywhere but doing so is displeasing to the Droyne. The Travellers may be able to draw in a new Droyne commander and stage an ambush, or divert significant enemy forces to the battle for the area.
 
-TRAVELLER
+
 
 ACCOMMODATION BLOCK (5) One corner of the fighting decks has been fully fitted out. Warrior accommodation takes the form of small chambers housing six Droyne in sleeping pods, with a minimal storage area for clothing and weaponry. At present none has been assigned but the block is clean and functional. The sleeping pods have a medical function and could be used to stabilize or even treat casualties.
 
@@ -4859,7 +4895,7 @@ PENS AND ASSET CONFINEMENT (8) This section is divided into larger confinement b
 
 LABORATORIES (9) A combination of laboratory and ritual chamber, this area is used to process juvenile Droyne into whatever creatures the occupiers think will be useful. Some are combat types but Tsyamoykyo has left orders to experiment with construction variants – essentially living heavy lift machinery capable of getting into tight spaces in the machine's structure.
 
-TRAVELLER
+
 
 The Travellers may find themselves under attack from creatures turned loose by the defenders but this is unlikely if they move quickly. On the other hand, they may free some of the creatures themselves and try to get them to run amok. A few telepathic prods or physical violence will suffice to make at least some of the creatures turn violent. The mayhem they cause will disrupt the defence of this deck but more importantly they may get in the way of Warriors coming up from below.
 
@@ -4875,8 +4911,7 @@ Other options are always possible. Travellers could open the cargo doors on the 
 
 The thinking deck is a single layer high, without large storage areas below. It is in some ways more the heart of the war machine than the commanding deck. Most of this deck is open, with four large domed areas surrounding a larger central one. The deck is entirely enclosed but clearly unfinished. Warriors have been sent down from the deck above and others are landing from grav vehicles on the gantry (9). They will fight to the death to keep the Travellers away from the grav shafts but may not realise their objective is not necessarily the top deck of the war machine. The Travellers will face opposition as they move around this deck but until the defenders realise their true aim they will assume the commanding deck is the final objective and organise themselves accordingly.
 
-**ACCESS COMPLEX (1)** As with all decks the access complexes contain arrival areas for grav-lift tubes from the lower decks
-(2) and access points for tubes leading up (3) to the commanding decks. Warriors will be stationed in these areas unless called away.
+**ACCESS COMPLEX (1)** As with all decks the access complexes contain arrival areas for grav-lift tubes from the lower decks (2) and access points for tubes leading up (3) to the commanding decks. Warriors will be stationed in these areas unless called away.
 
 **ACCOMMODATION BLOCK (4)** Accommodation blocks have been constructed around the access complexes. These are more fully fitted out than on the lower decks, although not all are complete. Significant numbers of Drones and Technicians are housed here when not engaged in spiritually and technically preparing the war machine for service.
 
@@ -4890,7 +4925,7 @@ DISTANT THINKING CHAMBERS (7) The Droyne assigned to this dome are concerned wit
 
 CHAMBER OF MEMORIES AND THOUGHTS (8) This set of chambers is dedicated to records and histories, all stored as psionic dreams. The most recent and vivid are off the glorious conquest of Braudel, with Tsyamoykyo depicted standing regally over the destruction and abject capitulation of his enemies. The use of the temporal dislocation device is prominent, along with some of the best explosions caused by antimatter bombs and annihilators. The whole chamber complex is a monument to Tsyamoykyo's ego, with a staff of Droyne who have no other job but to constantly watch the highlights. The Travellers can learn much here, including how they might go about recalibrating the temporal dislocation device to release Captain Maddox's ship.
 
-TRAVELLER
+
 
 THE GANTRY (9) A temporary set of airlocked doors has been set up, with a gantry for landing grav vehicles. It is currently used to ferry subjects up ready for the conditioning rituals held in the main ritual chambers. Whilst apparently flimsy, the gantry can support a large vehicle without difficulty. It would be possible to climb up the war machine's structure from here.
 
@@ -4937,6 +4972,8 @@ BATTLE EVENT: CAPTURING THE
 
 WAR MACHINE
 
+
+
 The final ascent to the commanding decks is the finale of this part of the campaign. Depending on how the Travellers go about it they may have to dogfight with grav vehicles, or clamber up the outside of the war machine under fire. Everyone involved will have to contend with the lack of air but there are creatures who are not inconvenienced by that. Unless the Travellers completely cleared out the creature pens, boarders will be sent after them. These creatures scramble up the outside of the war machine without difficulty. The Travellers may have to fight them whilst dangling from half-finished structural members, swinging on bundles of cables to reach a new handhold.
 
 However they do it, the Travellers must reach the upper deck and get inside. Yaskiay's Warriors will oppose them of course, although some can be evaded. Yaskiay himself will not surrender. He would prefer to defeat the Travellers but taking them out by blowing Braudel up around him will suffice. The Travellers might decide to be very direct and just eliminate Yaskiay but he will talk to them if they let him. If so, he tells them they have shown they are worthy of a place in his master's service and should present themselves to receive his mercy and commands. The suggestion is genuine, although Tsyamoykyo is not a master the Travellers would want to serve – he would turn on them sooner or later.
@@ -4969,7 +5006,7 @@ THE GREAT FUTURE-MAKING OF VAYKOUH The fate of the Oytrip will be decided by its
 
 If they can get an invite, the Travellers are permitted to stand among the assembly of Leaders. It is surrounded by rings of Drones, Sports and Warriors but only Leaders are permitted to speak their minds – or rather deliver their thoughts telepathically. Opinions
 
-TRAVELLER
+
 
 OMICRON DIVISION The Omicron Division personnel captured by the Oytrip came to fight Tsyamoykyo's fleet and were summarily swatted by it. They were subsequently more or less ignored until the battle began for the war machine. Their commander is the most senior surviving officer, Captain Hollis Bain. The survivors will follow his lead and remain dedicated to their mission but they are apprehensive and Bain will not throw their lives away. As with the Droyne, it will be necessary to win the Omicron personnel over by some means. Their biggest reservation is the Oytrip – first they were allies, then prisoners. Without an explanation and some reason to believe the Oytrip is now reliable, the Omicron contingent will not commit to further operations.
 
@@ -4993,10 +5030,8 @@ The Enemy of My Enemy is the Enemy of My Enemy
 
 **ASSIGNED TO OMICRON DIVISION**
 
-SPECIES GENDER AGE
-— Male — TRAITS — STR 5 INT 10 SKILLS DEX 6 EDU 9 Astrogation 1, Electronics
-(sensors) 2, Leadership 2, Pilot (starship) 2, Tactics
-(naval) 3
+
+— Male — TRAITS — STR 5 INT 10 SKILLS DEX 6 EDU 9 Astrogation 1, Electronics (sensors) 2, Leadership 2, Pilot (starship) 2, Tactics (naval) 3
 
 #### END 5 SOC 9
 
@@ -5013,7 +5048,7 @@ The center point of the temporal backflash is the moment of firing, which is qui
 
 The Enemy of My Enemy is the Enemy of My Enemy
 
-TRAVELLER
+
 
 There is a window of opportunity here, if the Travellers choose to take it. The temporal dislocation device could be calibrated to cancel the backflash, at least some degree, which might pitch the carrier into the current universe. It might also destroy it, or have some entirely unpredictable outcome. Mercedes is keen for the Travellers to try and will try to persuade any Droyne who will listen.
 
@@ -5049,7 +5084,7 @@ Eliminating the energy interference is a matter of converting it to a type that 
 
 The Enemy of My Enemy is the Enemy of My Enemy
 
-TRAVELLER
+
 
 to think about an unusual situation and come up with an out-of-the-box solution. There might be other ways to handle the problem, some easier and some more complex but the Travellers are driving this story and it is their actions that matter.
 
@@ -5063,9 +5098,10 @@ MERCEDES Mercedes is in, all the way, and will try to recruit others. She is sti
 
 **BANNI SELIAR, AKA MAD CAPTAIN**
 
-MADDOX SPECIES GENDER AGE
-— Female — TRAITS — STR 8 INT 11 SKILLS DEX 5 EDU 8 Ancients Tech 2, Astrogation 2, Gun Combat
-(Slug ) 1, Leadership 1, Pilot (spacecraft) 2, Science (physics) 2, Tactics (naval) 1
+MADDOX 
+
+
+— Female — TRAITS — STR 8 INT 11 SKILLS DEX 5 EDU 8 Ancients Tech 2, Astrogation 2, Gun Combat (Slug ) 1, Leadership 1, Pilot (spacecraft) 2, Science (physics) 2, Tactics (naval) 1
 
 #### END 6 SOC 6
 
@@ -5091,7 +5127,7 @@ ADVANTAGES The preparation stage will allow the Travellers to accrue advantages 
 
 For example, a Traveller roleplayed their developing friendship with an elderly yurfal-wrangler during the Land Yacht chapter and the Referee rules that Traveller now has the Loyal Friend Advantage. Kramis is bad-tempered and sarcastic but she will stick with the Traveller to the end. When the Traveller is hit by a disintegrator beam and the dice say they are no longer anything but a cloud of atoms, the situation is reluctantly avoided by playing the Loyal Friend Advantage. Kramis takes the hit instead.
 
-TRAVELLER
+
 
 Advantages can be accrued in various ways. One is good planning and clever use of resources. Alternatively, the Referee may award them for good roleplaying and getting invested in the game universe. A Traveller can have multiples of the same Advantage but if they start 'grinding for Advantages' the Referee should stop awarding them.
 
@@ -5127,7 +5163,7 @@ ADVANTAGES: PREPARATIONS It is certain that the Travellers will want to equip th
 
 Preperation
 
-TRAVELLER
+
 
 Decoys and Distractions: Rustic Idyll or some other craft could be rigged with decoy launchers. These might be clever or rather crude. A device designed to let loose a small quantity of antimatter would cause effects that would white out even advanced sensor equipment. This is a bit of a two-edged sword, as it would mess up friendly targeting as well, but it might be useful. More subtle electronic warfare and decoys could be created to affect only the enemy but, given the technology gap, blinding sensors is more viable than actively deceiving them.
 
@@ -5167,7 +5203,7 @@ The shape of the pocket universe is not constant. It is shaped roughly into an o
 
 There is another anomaly; light and energy from the suns and the black hole should be returning from all directions and over time the sky would become unbearably bright. Yet it is black. All that energy must have gone somewhere but the Travellers could spend centuries figuring out how Tsyamoykyo did it.
 
-TRAVELLER
+
 
 Those who dreamed his histories will be aware of a great project to gather all this energy and use it to power his station. There were easier ways to do that, so other than creating a dark sky there does not seem to be a point – but those who have come to understand Tsyamoykyo will realise he did it mainly to demonstrate that he could.
 
@@ -5229,7 +5265,7 @@ From this point on, there are essentially two parallel situations in the fortres
 
 Tsyamoykyo's Universe
 
-TRAVELLER
+
 
 TSYAMOYKYO'S AGENDA Greatness is all very well but it is nothing without an audience to appreciate it. Millions of totally subservient, cowed Droyne are worth less than the admiration of one powerful being. This is one of Tsyamoykyo's goals – the Travellers have impressed him and he wants to impress them in return. Expressing admiration for his achievements will please him greatly and for a time at least he will seek the friendship of the Travellers. He would be genuinely happy – perhaps for the first time in his existence – to have to companionship of a group of near-peers. He would be first among not-really-equals, of course, and sooner or later it would all unravel out of fear or jealousy.
 
@@ -5282,7 +5318,7 @@ Tsyamoykyo's final purpose, to which he intends to focus the work of everyone in
 
 Tsyamoykyo's Universe
 
-TRAVELLER
+
 
 they make the cosmos so wondrous and yet so vast that even an immortal can never see it all? Why did the gods hide their knowledge and the sight of their wonders from him? Tsyamoykyo intends to make the gods answer his questions... and then he will punish them.
 
@@ -5326,7 +5362,7 @@ The defenders unimaginatively push in another group of Warriors. They may take u
 
 Tsyamoykyo's Universe
 
-TRAVELLER
+
 
 surface with orders to cause maximum distraction. The Travellers may be able to assist some of them or obtain support but if they do not take out Tsyamoykyo quickly the scattered attackers will be wiped out.
 
@@ -5341,14 +5377,15 @@ The initial response is just Warriors firing weapons at the intruders but differ
 
 A TIMELINE FOR THE FALL
 
+
+
 OF TSYAMOYKYO Events will play out according to what the Travellers try to do but the following timeline should serve as a guide to the general course of events.
 
 Tsyamoykyo's Universe
 
 THE MONSTER The monster is similar to the assault masses already encountered but larger and more dangerous. If the Travellers saw the control mass on Vanejen they will recognize this creature as being of the same type but larger and adapted for operations on land. It is huge but not fast, relying on long tentacles to smash enemies into the ground. The creature has a resistance to some weapon types and very thick natural armor. Starship-grade weapons could kill it but that would require a direct line of sight. The monster's handlers are keeping it behind buildings in the hope that the Travellers' ship climbs to obtain line of sight. That would bring it out of the dead zone and allow engagement with ship-killing weapons. It may be that this is how Rustic Idyll dies, taking out the monster before being shot out of the sky. If so, parts of the carrier will fall all over the city and some of her crew will survive to join the ground fight.
 
-Animal Hits Speed The Monster 900 3m Skills Melee (natural) 2, Recon 2 Attacks Tentacle (20D), Telekinetic Rip
-(1Dx1D) Traits Armor (+60), Large (+12) Behaviour Violent
+Animal Hits Speed The Monster 900 3m Skills Melee (natural) 2, Recon 2 Attacks Tentacle (20D), Telekinetic Rip (1Dx1D) Traits Armor (+60), Large (+12) Behaviour Violent
 
 Energy and impaling weapons, including projectiles, do D3 damage per 1D they would normally deliver. Blunt-force weapons do one point per dice. Cutting weapons do normal damage, as do energy weapons.
 
@@ -5360,7 +5397,7 @@ Ultimately, the Travellers must enter the command complex. Tsyamoykyo actually w
 
 Tsyamoykyo's Universe
 
-TRAVELLER
+
 
 THE TANK The Tank might better be described as a mobile command installation for Tsyamoykyo. It is grav- mobile, shielded and thickly armored. Its elegant ovoid exterior has no obvious weapons but it is fitted with a remote-focus temporal dislocation device. Cramming that in left room only for a small command chamber with an elegant railed position where Tsyamoykyo can stand to direct his vehicle. This position is also a teleporter linking to Tsyamoykyo's command complex. He has not used the vehicle yet and would rather like to try it out, but is cautious about going into action in an untested vehicle. Instead, he has sent one of his Sports as a proxy.
 
@@ -5412,7 +5449,7 @@ In the event of some worst-case disaster, Tsyamoykyo will hurl his fortress into
 
 Confrontation
 
-TRAVELLER
+
 
 What happens next takes place over just a few seconds in the real world but events may seem lengthy in the dream-state. At the beginning of the nightmare nobody can move or control their body in a useful manner, nor can they give orders or operate controls – even psionically. The Travellers may be able to change that. In the meantime they can see Tsyamoykyo's intentions. He plans to control them and force obedience, and will not honor any agreements. The Travellers must triumph or be lost forever.
 
@@ -5439,6 +5476,8 @@ INCIDENT 2: THE SUBJUGATION
 
 OF HUMANITI
 
+
+
 The Travellers are standing atop a great tower on the edge of an advanced city. The ground is far below but they can clearly see people working. They are humans, overseen by Droyne. The humans are required to grovel every time a Droyne, however lowly, approaches. Years pass quickly. Some of the humans choose to rebel and are crushed by Warriors led by Tsyamoykyo. The rebels are driven from cities to live a primitive life in the wilderness and those who submit are taken to the stars. The city stands empty for millennia, whilst the primitives grub about in the mud below. Then the ice advances, burying the city and eradicating all sign of it. The primitive humans wander south ahead of the ice. Perhaps they will survive the ice age, perhaps not. Those that chose to submit live a glorious life among the stars and help build wonders.
 
 If this assertion goes unchallenged the Travellers are accepting a history in which humans fully submitted to the Ancients. If some of the Travellers are alien, the humans are symbolic of their species, too. Accepting this version imposes -1D on the cumulative Effect. If the Travellers challenge it, they may make a Difficult (10+) PSI check to impose their narrative. DMs apply as before depending on the plausibility of the Travellers' story.
@@ -5457,7 +5496,7 @@ OF YASKOYDRAY Millennia have passed and the Final War has become a sordid affair
 
 Confrontation
 
-TRAVELLER
+
 
 There might be a slight element of truth to this one, depending on how Secrets of the Ancients ended. If Seven emerged victorious and the Travellers agreed to serve him, his sudden silence is now finally explained. Tsyamoykyo killed Seven, although it was not in heroic fashion. Instead, he triggered the collapse of Seven's pocket universe using a device built into it millennia ago. He did not receive the submission of Yaskoydray.
 
@@ -5546,7 +5585,7 @@ What the Travellers do with the Droyne is entirely up to them and their choice w
 
 Aftermath
 
-TRAVELLER
+
 
 the fortress remain staffed by totally loyal neo-slaves, or perhaps what the Travellers make them do is a meaningful existence after all. They are part of a grand endeavor now; something greater than themselves. Perhaps they should be grateful for the opportunity.
 
@@ -5590,7 +5629,7 @@ Overall, the fortress should be treated as a source of equipment and machinery t
 
 Aftermath
 
-TRAVELLER
+
 
 available resources should make the Travellers want to undertake great tasks. If the Referee provides nearly enough to accomplish whatever the Travellers want, they will create an adventure for themselves by seeking out the rest. The key is to give them just enough to show what is possible if only they could obtain that one missing piece.
 
@@ -5629,7 +5668,7 @@ KILLING ALL THE GODS The Travellers might decide they do not want competition, o
 
 RESURRECTING THE GODS The Travellers might go the other way and decide the universe has room for multiple superbeings. They might want to learn from Yaskoydray or to be directed by him. Even if Yaskoydray was killed in Secrets of the Ancients, the Travellers may be able to bring him back. The genetic cache survivors could be cloned, perhaps altered through several generations, to create a new body for Yaskoydray. An archive may have survived somewhere with part or even all of his personality and knowledge preserved. If so, the Travellers can rebuild Grandfather if they want. They might also create new superbeings, or bodies to transfer themselves to.
 
-TRAVELLER
+
 
 There are multiple ways the Referee can use this concept. Loyal servitors might manage to bring Yaskoydray back without the Travellers' involvement. This could be useful if the Referee wants him to be in the universe for any reason and might create a new antagonist for the Travellers. Another option is to have only part of Yaskoydray come back, or for him to come back somehow... wrong. A weak or damaged Yaskoydray would be an interesting character, perhaps warning the Travellers about something he feared or revealing great secrets in return for accomplishing tasks. The same applies if Yaskoydray survived Secrets of the Ancients. He may completely ignore the Travellers or begin working to eliminate the threat they pose. Alternatively, Yaskoydray might become their mentor and guide. Perhaps that is what he wanted all along – his clone-children were a disappointment but their actions eventually led to the emergence of independent super-beings. Yaskoydray might see them as a threat, or proteges, or perhaps even companions and peers.
 
@@ -5666,7 +5705,7 @@ DISTANT VOYAGES There is a lot of universe out there and the Travellers have a c
 
 Beyond the Ancients
 
-TRAVELLER
+
 
 The Travellers might also just wander. Most of the star systems out there are just rockballs and gas giants but there are many that are far more interesting. Space-going creatures exist and natural wonders. The Travellers might find and preserve the works of species that never quite made it onto the cosmic stage, befriending the last survivors or at least ensuring they live on in records. One option is to follow Ancient expeditions such as the one that preceded the far more recent Deepnight Revelation mission. This would perhaps be enlightening and might force the Travellers to confront the Deepnight Entity. They might even find a way to rescue Deepnight Revelation herself from wherever she ends up.
 
@@ -5684,6 +5723,8 @@ Even if they use their powers in a childish and nasty way at some point, the Tra
 'good' or 'bad' persona, or else hide away and leave Charted Space to its own devices. Perhaps that is why Yaskoydray retreated to his pocket universe – for all his great powers he was unable to achieve complete perfection, and people suffered every time he tried.
 
 ALL OF THE ABOVE AND
+
+
 
 EVERYTHING ELSE The Travellers can do anything they want now. They get to decide the truths of their Traveller universe. Ever since the history-dream they have been involved in the worldbuilding process and they can now act directly. Their universe might diverge from the one used by writers of 'canon' materials but canon exists only as a baseline to work from; a set of common assumptions that allow a writer to create materials accessible to everyone. As soon as a Traveller campaign begins it belongs to the Referee and the Travellers; their version of reality is the canon of that universe.
 
@@ -5757,7 +5798,7 @@ Mercedes would normally have spent some time re-establishing herself somewhere n
 
 Hidden Data
 
-TRAVELLER
+
 
 After an awkward meeting and exchange of information Mercedes was accepted as an associate of Omicron Division, working 'with-not-for' – she is adamant on that point – assets remaining in the Spinward Marches. Ironically perhaps, one topic of great interest to herself and her new allies was the Travellers. She has been collecting information on their movements and correlating it with events elsewhere. She has shared this information with Omicron Division but not all of it.
 
@@ -5835,7 +5876,7 @@ Rustic Idyll 176 , 181 , 235 , 273 Ryau's Tutelage 195 Saving the Leaders 104 Sa
 
 Index
 
-TRAVELLER
+
 
 The Braudel Resistance 177 , 186 The Braudel System 177 The Chamber of Hidden Knowledge 87 , 90 The Conclave of Leaders 108 The Droyne 9 The Fall of Andor 67 The Fall of Vaykouh 175 The Final War 7 , 93 The Five Sisters Subsector 62 The History-Dream of Eskayloyt 91 The Imperium and the Ancients 17 The Land Yacht Berchu 189 The Modern Era 96 The Monster 253 The Mysterious Message 172 The Nameless Ship 57 The Nightmare Begins 257 The Occupation of Braudel 185 The Oytrip of Vaykouh 9 , 171 , 203 , 233 The Path of All 44 The Path of Dominance 38 The Path of Facilitation 43 The Path of Knowledge 41 The Path of Physicality 42 The Path of Spirit 40 The Plan 242 The Post-Ancients Era 95 The Rise of Yaskoydray 91 The Tank 254
 

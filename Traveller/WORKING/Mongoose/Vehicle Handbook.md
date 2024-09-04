@@ -27,6 +27,8 @@ The Vehicle Handbook is rounded off with a complete catalogue filled with vehicl
 The Vehicle Handbook requires the use of several new rules in addition to those within the _Traveller Core Rulebook,_ all of which are presented here.
 
 MAINTENANCE AND RESUPPLY
+
+
 All vehicles require routine maintenance and the occasional topping up of fuel and other essentials. This is part of general vehicle care though all vehicles should spend at least one day in a well-equipped workshop each year for a full service, and advanced military vehicles may require a great deal more attention.
 
 For the purposes of Traveller, this is assumed to be covered by a simple monthly maintenance cost equal to 0.5% of the total cost of the vehicle. This will cover all essentials and refills other than ammunition and other stated extra costs.
@@ -34,12 +36,13 @@ For the purposes of Traveller, this is assumed to be covered by a simple monthly
 Referees are free to ignore this rule if they wish to avoid the book keeping, but remember: even a bicycle should be kept in good working order!
 
 SENSORS AND DETECTION
+
+
 Vehicles have access to a variety of systems to detect objects in their vicinity, from eyes and headlights to radar, lidar and densitometers (see page 54 for vehicle sensors).
 
 The type of sensors a vehicle is equipped with will define their Range and any bonus to checks made to detect objects. These checks will use the Electronics (sensors) skill, though vehicles lacking even basic sensors will instead be reliant on a Traveller's Recon checks.
 
-To detect any given object that is within Range of a vehicle's sensors requires an Average (8+) Electronics
-(sensors) check (1D seconds, INT).
+To detect any given object that is within Range of a vehicle's sensors requires an Average (8+) Electronics (sensors) check (1D seconds, INT).
 
 #### Range
 
@@ -85,13 +88,18 @@ The previous owner liked to... 'improve' his vehicles. Increase Speed by one Ban
 11 What is That Smell?: The vehicle's interior smells disgusting, and no amount of searching seems to pinpoint its source. 12 Jalopy: The vehicle seems decidedly unsafe. Reduce its Hull by 1D x 10%,
 
 VEHICLE TRAITS
+
+
 Many vehicles have specific traits which grant them special abilities or penalise them in some way.
 
 AFV
-This vehicle has been designed with combat in mind and features sloping armor, composite materials, and structural reinforcement appropriate to its Tech Level. A vehicle with the AFV trait may have up to three times the armor it is normally allowed for its Tech Level
-(see page 34).
+
+
+This vehicle has been designed with combat in mind and features sloping armor, composite materials, and structural reinforcement appropriate to its Tech Level. A vehicle with the AFV trait may have up to three times the armor it is normally allowed for its Tech Level (see page 34).
 
 ATV
+
+
 
 The vehicle is equipped to handle difficult terrain. This trait provides DM+2 to any Drive checks made to negotiate difficult terrain.
 
@@ -101,14 +109,15 @@ The vehicle has had its drive and suspension systems modified to handle rough te
 
 ### Open Vehicle
 
-The vehicle has an open construction which makes it light, but exposes crew and passengers to the elements. Open Vehicles grant no cover to their crew or passengers, but any Traveller on board can shoot
-(or otherwise attack) in any direction.
+The vehicle has an open construction which makes it light, but exposes crew and passengers to the elements. Open Vehicles grant no cover to their crew or passengers, but any Traveller on board can shoot (or otherwise attack) in any direction.
 
 ### Tracked
 
 The vehicle is equipped to handle extremely difficult terrain. This trait provides DM+4 to any Drive checks made to negotiate difficult terrain.
 
 WEAPON TRAITS
+
+
 The following weapon trait from the Central Supply Catalogue is also used in this book.
 
 ### One Use
@@ -124,6 +133,8 @@ Throughout the design process, you will keep track of two key numbers – the nu
 Unless the referee states otherwise, it can be assumed that the Tech Level of the vehicle and its components will be the same as the system in which it is being constructed. However, you may always install components of a lower Tech Level if you wish, perhaps in an effort to cut costs.
 
 MASS PRODUCTION
+
+
 Some vehicles are manufactured in numbers of thousands or even millions, and have become standard across the stars. Specifications for such vehicles are freely available and components can be purchased in bulk by factories, greatly reducing the cost of the vehicle's construction.
 
 A referee can choose to classify a vehicle as being mass-produced and is free to round its cost down to the nearest Cr1000, Cr10000 or Cr100000, as he deems appropriate.
@@ -156,9 +167,7 @@ Design Checklist
 **Hull and Cost.**
 **3. Install any**
 **weapons and**
-**armor (page 34). 4. Apply any Customization (page 46) and determine any change to the vehicle's Agility, Speed, Range, Hull and Cost. 5. Determine Crew and Passengers
-(page 6). 6. Allocate Cargo Space (page 6). 7. Finalise Design
-(page 6).**
+**armor (page 34). 4. Apply any Customization (page 46) and determine any change to the vehicle's Agility, Speed, Range, Hull and Cost. 5. Determine Crew and Passengers (page 6). 6. Allocate Cargo Space (page 6). 7. Finalise Design (page 6).**
 
 Note that all fractions (such as when a modification consumes 25% of a vehicle's Spaces) are rounded up at this stage. All adjustments like this based on percentages are calculated using the vehicle's starting values.
 
@@ -172,8 +181,7 @@ Each crew member and passenger will require 1 Space for basic seating. This kind
 
 If crew and passengers need to move about within a vehicle (to reach engineering systems, cargo areas or freshers, for example), more Space needs to be dedicated to them. The more Space dedicated to each crew member or passenger, the more comfortable they will be.
 
-If 2 Spaces are dedicated to each passenger or crew member, things will be extremely cramped on board
-(similar to the conditions on board a submarine or cattle class on an airliner). 3 Spaces will allow a greater degree of movement (business class on an airliner, perhaps), while 5 Spaces per crew member or passenger will make even long distance travel at least tolerable (first class on an airliner, or what might be typical on an ocean liner).
+If 2 Spaces are dedicated to each passenger or crew member, things will be extremely cramped on board (similar to the conditions on board a submarine or cattle class on an airliner). 3 Spaces will allow a greater degree of movement (business class on an airliner, perhaps), while 5 Spaces per crew member or passenger will make even long distance travel at least tolerable (first class on an airliner, or what might be typical on an ocean liner).
 
 There is no limit as to how many Spaces can be dedicated per passenger or crew member, and as many passengers as wished can be included in the vehicle for no cost other than the Spaces dedicated to them.
 
@@ -205,6 +213,8 @@ After this last step is completed, you are ready to name your vehicle, grab the 
 
 EXAMPLE OF
 
+
+
 VEHICLE DESIGN Those are the simple steps needed to create a vehicle – now let us put them into practice!
 
 A group of four Travellers have a Far Trader, but they want an auxiliary vehicle they can store in the cargo
@@ -231,9 +241,13 @@ Engine System
 
 TURBO
 
+
+
 Step 1:
 
 CHASSIS
+
+
 
 The first step is to choose a chassis type. With grav vehicles already dismissed as an idea, the natural choice will be a ground vehicle. As it only needs to carry four Travellers and their kit, a Light Ground Vehicle will suffice. They are currently on a TL12 world, so this will be the Tech Level the vehicle is built at.
 
@@ -245,6 +259,8 @@ Step 2:
 
 TRAITS
 
+
+
 Now we have to decide how big the vehicle should be. As we said before, we want it to carry four Travellers, so that will need 4 Spaces. A weapon was wanted and, to stop the gun nut among them going too mad, this will be restricted to a single Space. Some cargo-carrying capacity is going to be useful (and can always be used by customization at a late date). Half a ton of cargo will equate to 2 Spaces, bringing up the total to 7 Spaces. We'll add one more Space, just to be on the safe side, as this will allow us to add something fun a bit later.
 
 Consulting page 14 once more, an 8 Space Light Ground Vehicle will normally cost Cr750 per Space, but
@@ -255,6 +271,8 @@ Step 3:
 
 HULL
 
+
+
 Now we know how large the vehicle is, we can fill in more of its roster. Going back to page 14, an 8 Space Light Ground Vehicle will have Hull 16 (can take a knock or two) and a Shipping Size of 4 tons – it will fit neatly in the hold of just about any spacecraft!
 
 Knowing it is going to be driven around by Travellers, we can now move onto to the next step, to toughen the vehicle up a bit!
@@ -263,13 +281,21 @@ Knowing it is going to be driven around by Travellers, we can now move onto to t
 
 TURBO
 
-TURBO
+
 
 TURBO
+
+
+
+TURBO
+
+
 
 Step 4
 
 PROTECTION
+
+
 
 Turning to page 34, we can see what armor the vehicle comes with. At TL12, it starts off with 4 points of Protection on all sides, a good place to begin. However, believing they will be shot at from time to time, the Travellers decide to double this to 8 points of Protection.
 
@@ -287,8 +313,9 @@ Step 5
 
 WEAPONRY AND SPACE
 
-The Travellers want a gun on their vehicle. A nice, meaty one. This will, naturally, start a lot of debate between them but we'll skip to the end of the arguments. They will settle on the Light Autocannon
-(see page 42), as it consumes just a single space, has the Auto 3 trait and kicks out 6D damage – what is there for a Traveller not to like?
+
+
+The Travellers want a gun on their vehicle. A nice, meaty one. This will, naturally, start a lot of debate between them but we'll skip to the end of the arguments. They will settle on the Light Autocannon (see page 42), as it consumes just a single space, has the Auto 3 trait and kicks out 6D damage – what is there for a Traveller not to like?
 
 The autocannon is installed on a pintle mount on the top of the vehicle, so the Travellers can blast away at whatever they are chasing to their hearts' content, and it only costs Cr250.
 
@@ -298,9 +325,15 @@ One Traveller suddenly remembers they need to include seats for themselves in th
 
 TURBO
 
-TURBO
+
 
 TURBO
+
+
+
+TURBO
+
+
 
 Mykel Alvis (Order #30209357)
 
@@ -309,6 +342,8 @@ When mounting weapons, there is always the option to add fire control to help wi
 Step 6
 
 CUSTOMISATION
+
+
 
 The last stage is customization, adding tweaks and equipment to personalise the vehicle and make it a better fit for its intended function.
 
@@ -322,8 +357,7 @@ More customization options are considered, including Control Systems and Autopil
 
 That lasts right up until someone spots the Auxiliary Thrusters on page 48 and says something along the lines of 'oh, wow, we can hop about, just like the Mako!'
 
-A minimal thruster system consumes a single Space
-(leaving the Travellers with just one, and they seem to have forgotten about carrying cargo...), and adds another Cr10000, for a total of Cr27186.
+A minimal thruster system consumes a single Space (leaving the Travellers with just one, and they seem to have forgotten about carrying cargo...), and adds another Cr10000, for a total of Cr27186.
 
 See how things can add up rather quickly once you start adding toys?
 
@@ -339,6 +373,8 @@ The first thing they add is a crane, though none of them can quite remember why,
 
 TURBO
 
+
+
 So, they now start scouring the Creature Comforts and Utility section for anything that does not consume Spaces – and they immediately hit upon two winners.
 
 Firstly, the Wet Bar. For a mere Cr2000, no journey will ever be a dry one. Frankly, you might consider this standard equipment for any Traveller-designed vehicle. Even the unmanned drones.
@@ -349,6 +385,8 @@ Step 7
 
 FINAL THOUGHT
 
+
+
 And that is it, the vehicle is done!
 
 What started as a cheap runabout that could handle a bit of rough terrain is now a Cr50000 off-roader that mounts military-grade weaponry, has a crane but no cargo space, and ejection seats all round. Oh, and the bar of course.
@@ -357,15 +395,27 @@ This is possibly a very good argument for not passing the Vehicle Handbook to yo
 
 THE FINISHED HONEY BADGER
 
-TURBO
+
 
 TURBO
+
+
+
+TURBO
+
+
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -373,15 +423,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 12
 
@@ -405,9 +467,13 @@ fast (high)
 
 CR
 
+
+
 Off-roader, Auxiliary Thrusters (10 meters), Communication System (advanced), Crane (light), Ejection Seats x 4, Wet Bar, Pintle Mount (light autocannon, front)
 
 ARMOR
+
+
 
 TRAITS/EQUIPMENT
 
@@ -428,6 +494,8 @@ Rough Ground Assault Vehicle
 8
 
 DESCRIPTION
+
+
 
 Weapon Range Damage Magazine Magazine Cost Traits Fire Control
 
@@ -474,6 +542,8 @@ Tracks A Light Ground Vehicle can be built with tracks instead of wheels, specia
 Drive (track) Cost per Space: +Cr Tech Table: Decrease Speed by one band Traits: Tracked
 
 HEAVY GROUND
+
+
 
 ### VEHICLE
 
@@ -941,8 +1011,7 @@ Tech Table TL Speed Range 5 Slow 300 6-7 Medium 400 8-9 High 500 10-11 High 600 
 
 #### Armored Fighting Vehicle
 
-Turning a Hovercraft into an Armored Fighting Vehicle
-(AFV) requires adding structural support and armor.
+Turning a Hovercraft into an Armored Fighting Vehicle (AFV) requires adding structural support and armor.
 
 ### Tech Level
 
@@ -976,11 +1045,15 @@ So, for example, a 20 Space TL12 AFV heavy ground vehicle starts with 4 points o
 
 ARMOR
 
+
+
 ### LOCATIONS
 
 The Protection armor provides a vehicle is used for any attacks that come from the front, sides or rear (see Traveller Core Rulebook page 134). A vehicle that is attacked from the top or bottom (such as an attack launched from a rooftop or the vehicle travelling over a mine) has its Protection halved, rounding down.
 
 ARMOR
+
+
 
 ### ALLOCATION
 
@@ -1006,6 +1079,8 @@ WHENEVER YOU NEED IT! 3 010010011010
 
 COLLECTION
 
+
+
 WEAPON MOUNTS - Use the latest technology to enhance your vehicle. Page 43
 
 PLASMA MISSILE RACK - For the Traveller with deep pockets, the ultimate in weaponry. Page 36
@@ -1019,6 +1094,8 @@ CHAPTER-FIVE
 # WEAPONS
 
 THEVEHICLE HANDBOOK COLLECTION
+
+
 
 While most military vehicles will feature at least a 'defensive' weapon to keep attackers at bay, even civilian vehicles can benefit from a mounted machinegun or laser if they stray into dangerous territory. However, weapons cannot simply be plastered all over a vehicle as they require specific mounting points to function correctly.
 
@@ -1052,13 +1129,21 @@ for light vehicles on page 37.
 
 CUSTOMISE
 
+
+
 YOURS TODAY!
 
 IN
 
+
+
 NEED
 
+
+
 OF A
+
+
 
 TURRET?
 
@@ -1125,6 +1210,8 @@ The following weapons are specifically designed to be mounted on vehicles. Unles
 ### SECTION 2
 
 WEAPONS
+
+
 
 CANNON A large calibre gun used to arm the heavy tanks and armored vehicles of mid-Tech Level armies.
 
@@ -1236,8 +1323,7 @@ Water Cannon 5 0.1 - 0.5 2 Cr2000 10 - -
 
 The Traveller supplement, Central Supply Catalogue, contains a wealth of weapons that can be attached to a vehicle, giving a vehicle designer a huge range of options. Of particular interest will be the Heavy Weaponry chapter.
 
-The only conversion that will be necessary is to turn the Mass of each weapon
-(usually listed in Kg or tons) into Spaces. This is done at a rate of 1 Space for every 250 Kg or 0.25 tons of Mass or part of.
+The only conversion that will be necessary is to turn the Mass of each weapon (usually listed in Kg or tons) into Spaces. This is done at a rate of 1 Space for every 250 Kg or 0.25 tons of Mass or part of.
 
 So, for example, a light autocannon has a Mass of 0.25 tons, which is equal to 1 Space. An orbital defence cannon has a Mass of 35 tons, which is equal to a whopping 140 Spaces!
 
@@ -1245,9 +1331,13 @@ So, for example, a light autocannon has a Mass of 0.25 tons, which is equal to 1
 
 THE CENTRAL SUPPLY CATALOGUE
 
+
+
 ### SECTION 4
 
 SPACECRAFT WEAPONS
+
+
 
 In the interests of maximum destructive power, there have been many warlords and vehicle designers who have looked at the practical applications of mounting spacecraft scale weapons onto vehicles. They have enjoyed mixed successes, but the effect is always destructive, to say the least.
 
@@ -1274,6 +1364,8 @@ Note that in the case of Destructive weapons, this bonus is added before the dam
 ### SECTION 5
 
 OFFENSIVE CUSTOMISATION
+
+
 
 #### AMMUNITION
 
@@ -1304,6 +1396,8 @@ Fire Control System TL Cost Attack Roll DM Basic 6 Cr10000 +1 Improved 8 Cr25000
 # CUSTOMISATION
 
 THEVEHICLE HANDBOOK COLLECTION
+
+
 
 There are many mechanics and engineers throughout the galaxy who believe that the customization of vehicles is an art unto itself. Any vehicle can be modified, either by the simple addition of a few pieces of equipment or a fundamental re-shaping and redesign of the core chassis, for reasons of performance, capability or pure aesthetics
 
@@ -1366,8 +1460,7 @@ Autopilot TL Cost Skill Level Basic 5 Cr2000 0 Improved 7 Cr7500 1 Enhanced 9 Cr
 
 This can be added to a vehicle to allow it to traverse across the surface of water. This does not make it seaworthy but it will be capable of navigating rivers, lakes and coastal areas. The modification includes waterproofing, snorkels and props or water jets for propulsion.
 
-Light vehicles will have the same movement rates as boats
-(see page 20) of the same TL, though their Agility while afloat will be one less and Range 10% of that of a boat.
+Light vehicles will have the same movement rates as boats (see page 20) of the same TL, though their Agility while afloat will be one less and Range 10% of that of a boat.
 
 Heavy vehicles will have the same movement rates as ships (see page 21) of the same TL, though their Agility while afloat will be one less and Range 10% of that of a boat.
 
@@ -1378,8 +1471,7 @@ AUXILIARY GRAV DRIVE Any vehicle can be fitted with an auxiliary grav drive, all
 While flying, the vehicle will have its Agility reduced by
 -1, its Range halved, and Speed reduced by one band.
 
-Auxiliary Grav Drives add +100% to a vehicle's Cost per Space and consume 25% of the vehicle's total Spaces
-(rounding up).
+Auxiliary Grav Drives add +100% to a vehicle's Cost per Space and consume 25% of the vehicle's total Spaces (rounding up).
 
 #### TL4
 
@@ -1483,8 +1575,7 @@ TL Cost Electrostatic Armor 9 Cr10000
 
 NUCLEAR DAMPER The nuclear damper projects a wave that modifies the strong nuclear force which can prevent the detonation of nuclear weapons, or at least remove a lot of their secondary effects.
 
-A vehicle equipped with a nuclear damper ignores the Radiation trait of any weapon that damages it. Furthermore, it will prevent the detonation of any nuclear weapon within 1 km with a successful Difficult
-(10+) Electronics (sensors) check (INT or EDU). This check can be performed as a reaction.
+A vehicle equipped with a nuclear damper ignores the Radiation trait of any weapon that damages it. Furthermore, it will prevent the detonation of any nuclear weapon within 1 km with a successful Difficult (10+) Electronics (sensors) check (INT or EDU). This check can be performed as a reaction.
 
 A nuclear damper consumes 12 Spaces.
 
@@ -1536,8 +1627,7 @@ Communications systems can have the following customizations added.
 
 Every time the Range of a communications system is multiplied by ten, its initial cost will be doubled. This can be done twice.
 
-Meson Communicator (TL10): A communications system capable of using meson technology cannot be jammed
-(in theory it is possible to block a meson signal with a meson screen, but being able to place one in exactly the right spot is likely to be impossible). A meson communicator consumes 2 Spaces and costs Cr50000.
+Meson Communicator (TL10): A communications system capable of using meson technology cannot be jammed (in theory it is possible to block a meson signal with a meson screen, but being able to place one in exactly the right spot is likely to be impossible). A meson communicator consumes 2 Spaces and costs Cr50000.
 
 Satellite Uplink (TL6): This allows a communications system to communicate with a satellite or ship in orbit. It includes the necessary tracking equipment to stay locked onto the target, which consumes 1 Space. A satellite uplink costs Cr1000.
 
@@ -1569,8 +1659,7 @@ Electronics DM Basic 5 Cr10000 1 km - Improved 8 Cr20000 5 km -1 Advanced 11 Cr4
 
 Interception and Encryption If a referee deems it possible for a Traveller to intercept a communications signal not intended for them, this may be done with an Average (8+) Electronics (comms) check (INT or EDU). However, intercepting a signal is one thing – if it is encrypted, uncovering the signal's content may be very tricky.
 
-To decrypt an encrypted signal requires a Formidable
-(14+) Electronics (comms) check (1D seconds), INT or EDU). For every TL the Traveller's communication system is above that of the transmitting communications system, DM+1 is applied. However, for every TL their communications system is below, DM-1 is applied instead.
+To decrypt an encrypted signal requires a Formidable (14+) Electronics (comms) check (1D seconds), INT or EDU). For every TL the Traveller's communication system is above that of the transmitting communications system, DM+1 is applied. However, for every TL their communications system is below, DM-1 is applied instead.
 
 This means high TL encrypted transmissions can be impossible to decrypt, even if a great deal of time can be spent trying to crack them.
 
@@ -1594,8 +1683,7 @@ Most basic vehicles rely on a Traveller's own eyes and ears to detect objects in
 
 Sensor Systems TL Cost Range
 
-Electronics
-(sensors) DM Basic 5 Cr5000 1 km +0 Improved 7 Cr15000 5 km +1 Advanced 13 Cr25000 25 km +2
+Electronics (sensors) DM Basic 5 Cr5000 1 km +0 Improved 7 Cr15000 5 km +1 Advanced 13 Cr25000 25 km +2
 
 Sensor systems can have the following customizations added.
 
@@ -1623,8 +1711,7 @@ STEALTH AND CAMOUFLAGE Just as vehicle designers create ever more inventive and 
 
 Camouflage is designed to hide a vehicle from visual detection, usually through means of colour schemes that blend into specific environments or by breaking up a vehicle's outline. This generally means it is only applied against Recon checks, though sensors that specifically use visual means of detection (including infrared) may be affected at the referee's discretion.
 
-Camouflage has a minimum Range at which it will work and will only apply in a specific type of environment
-(woodland, iron oxide desert, swamp, for example).
+Camouflage has a minimum Range at which it will work and will only apply in a specific type of environment (woodland, iron oxide desert, swamp, for example).
 
 At TL7, camouflage will include infrared masking and will apply its DM against detection attempts that use infrared.
 
@@ -1694,8 +1781,7 @@ TL8 TL13
 
 LIFE SUPPORT Even if a vehicle is capable of surviving a hostile environment, there is no guarantee that its crew and passengers can. Life support systems provide a sealed environment within the vehicle and a breathable atmosphere independent to that outside.
 
-Short term life support systems provide this habitat for up to four days before air and filters need replacing
-(included as part of the vehicle's regular maintenance costs). It consumes one Space for every 20 people (or part of) on board the vehicle).
+Short term life support systems provide this habitat for up to four days before air and filters need replacing (included as part of the vehicle's regular maintenance costs). It consumes one Space for every 20 people (or part of) on board the vehicle).
 
 Long term life support operates for up to 90 days and consumes 1 Space for every 5 people on board.
 
@@ -1773,8 +1859,7 @@ An ejection cocoon consumes 3 Spaces for each crew member and costs Cr10000 per 
 
 #### EJECTION SEAT
 
-Ejection seats are designed to blast a Traveller clear of a vehicle in demise, then deploy a parachute to bring him safely to the ground. An ejection seat can be triggered as a reaction, but those of TL6 or below require the vehicle
-(usually an aircraft) to be at an altitude of at least 500 meters. High TL ejection seats use grav chutes to bring the Traveller to rest.
+Ejection seats are designed to blast a Traveller clear of a vehicle in demise, then deploy a parachute to bring him safely to the ground. An ejection seat can be triggered as a reaction, but those of TL6 or below require the vehicle (usually an aircraft) to be at an altitude of at least 500 meters. High TL ejection seats use grav chutes to bring the Traveller to rest.
 
 An ejection seat consumes no Spaces and costs Cr5000.
 
@@ -1932,6 +2017,8 @@ CHAPTER-SEVEN
 
 THEVEHICLE HANDBOOK COLLECTION
 
+
+
 # BIOTECH
 
 The idea of a vehicle that can repair itself, grow its own ammunition and be powered purely by grazing organic material or gathering sunlight sounds like a dream, but this is all possible with bio-technology. These are effectively living vehicles constructed of (or grown from) organic matter and, given a suitable technological base, can rival more traditional vehicles and even exceed some of their capabilities.
@@ -2032,8 +2119,7 @@ Bio-tech versions grant an additional DM+1 to Navigation checks and have their c
 
 ### Sensors
 
-All sensors are doubled in price and have their range halved, except those used underwater. These are still doubled in price but gain DM+2 to all Electronics
-(sensors) checks made when using them.
+All sensors are doubled in price and have their range halved, except those used underwater. These are still doubled in price but gain DM+2 to all Electronics (sensors) checks made when using them.
 
 Non-organic & Bio-tech Customization: Enterprising Travellers may try to combine non-organic and bio-tech in their vehicles, either installing bio-tech components into a non-organic vehicle, or vice versa.
 
@@ -2120,8 +2206,7 @@ To create a drone, follow all the normal vehicle design rules, as detailed on pa
 #### Remote Controllers
 
 A remote control system requires three components – a
-'base station' that includes a communication system through which a Traveller can control the drone, a communications system built into the drone so it can receive the command signals, and an actuation system on board the drone to make actual inputs to its controls
-(such as steering the wheels in a car).
+'base station' that includes a communication system through which a Traveller can control the drone, a communications system built into the drone so it can receive the command signals, and an actuation system on board the drone to make actual inputs to its controls (such as steering the wheels in a car).
 
 ROBOT OR DRONE? The Central Supply Catalogue provides rules for creating robots in Traveller, and referees may find themselves questioning when they should be using robots and when they should be using drones to create new encounters in their games.
 
@@ -2139,8 +2224,7 @@ Every base station requires a communications system at its heart, and this can b
 
 The only requirement of the communications system is that it is of at least the same Tech Level as the drone itself.
 
-Once a communications system has been installed, a Traveller will need an interface to accept his commands and send them via the communications system to the drone. These are listed on the Control Interfaces table. The Control DM is the DM applied to any Electronics
-(remote ops) checks made to control the drone through the interface.
+Once a communications system has been installed, a Traveller will need an interface to accept his commands and send them via the communications system to the drone. These are listed on the Control Interfaces table. The Control DM is the DM applied to any Electronics (remote ops) checks made to control the drone through the interface.
 
 Control Interfaces Interface TL Mass Control DM Cost Primitive 5 5 -4 Cr1000 Basic 7 1 -2 Cr2000 Improved 9 0.5 +0 Cr10000 Advanced 11 0.5 +1 Cr50000
 
@@ -2188,9 +2272,15 @@ Self-aware: While not a true artificial intelligence, this drone can make a very
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2198,15 +2288,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 3
 
@@ -2238,9 +2340,15 @@ None
 
 ARMOR
 
+
+
 EQUIPMENT AND WEAPONS TRAITS
 
+
+
 GALLEON
+
+
 
 FRONT 6
 
@@ -2254,6 +2362,8 @@ TL1-3
 
 DESCRIPTION
 
+
+
 Galleons can follow many different designs, but they are typically multi-sailed, multi-decked vessels with heavy broadsides of cannon mounted to provide a veritable wall of fire. Given the wooden construction and weak armor of galleons, a single volley can be enough to end a battle. Despite its firepower, the galleon also has a respectable cargo hold, though this is often filled with supplies and ammunition for extended voyages.
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Black Powder Cannon 0.5 7D 10 Cr500 - -
@@ -2264,11 +2374,19 @@ None
 
 TRAITS
 
+
+
 TL
+
+
 
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2276,15 +2394,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 3
 
@@ -2314,11 +2444,19 @@ No weapon
 
 ARMOR
 
+
+
 DESCRIPTION
+
+
 
 EQUIPMENT AND WEAPONS
 
+
+
 PERSONAL LAND YACHT
+
+
 
 FRONT 1
 
@@ -2330,11 +2468,17 @@ This wind-powered vehicle is used on worlds with typically flat terrain and reli
 
 DESCRIPTION
 
+
+
 None
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 Wind-powered
 
@@ -2346,9 +2490,15 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Bolt Thrower 0.2 
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2356,15 +2506,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 3
 
@@ -2389,6 +2551,8 @@ SLOW (VERY SLOW)
 CR4000
 
 ARMOR
+
+
 
 RAIDER'S LAND YACHT
 
@@ -2430,7 +2594,11 @@ Fixed Mount (Black Powder Cannon, left) x 7 Fixed Mount (Black Powder Cannon, ri
 
 ARMOR
 
+
+
 SLOOP
+
+
 
 FRONT 4
 
@@ -2438,8 +2606,7 @@ REAR 4
 
 SIDES 4
 
-Typically sporting a single mast
-(some rare boats may feature two),
+Typically sporting a single mast (some rare boats may feature two),
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Black Powder Cannon 0.5 7D 1 Cr50 - -
 
@@ -2453,13 +2620,23 @@ None
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2467,23 +2644,43 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 DESCRIPTION
 
+
+
 TL
+
+
 
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2491,15 +2688,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 5
 
@@ -2529,6 +2738,8 @@ No weapon
 
 ARMOR
 
+
+
 ### Safe Depth
 
 ### 200m Crush Depth
@@ -2555,13 +2766,23 @@ None
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2569,15 +2790,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 4
 
@@ -2607,6 +2840,8 @@ Fixed Mount (black powder cannon, left side) x 4 Fixed Mount (black powder canno
 
 ARMOR
 
+
+
 LIBERTY-CLASS IRONCLAD
 
 FRONT 10
@@ -2625,15 +2860,27 @@ None
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 DESCRIPTION
 
+
+
 TL
+
+
 
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2641,15 +2888,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 4
 
@@ -2675,7 +2934,11 @@ CR2025
 
 ARMOR
 
+
+
 STEAM CAR
+
+
 
 FRONT 1
 
@@ -2689,15 +2952,27 @@ None None
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 DESCRIPTION
 
+
+
 TL
+
+
 
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2705,15 +2980,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 4
 
@@ -2742,6 +3029,8 @@ Fixed Mount (early machineguns x 2, front) Pintle Mount (early machinegun, rear)
 
 ARMOR
 
+
+
 TERROR-ROC PATROL FIGHTER
 
 FRONT 6
@@ -2762,17 +3051,29 @@ None
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Machinegun
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2780,9 +3081,15 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
 
+
+
 CARGO HULL SHIPPING COST
+
+
 
 5
 
@@ -2807,7 +3114,11 @@ Fixed Mount (light autocannon x 2, front) Fixed Mount (heavy machineguns x 4, fr
 
 ARMOR
 
+
+
 VANGUARD AIR SUPERIORITY FIGHTER
+
+
 
 FRONT 9
 
@@ -2825,9 +3136,15 @@ as possible, then engage the next target. Squadrons of these fighters can provid
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 None
 
@@ -2837,9 +3154,15 @@ egun/Autocan no n
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2847,15 +3170,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 7
 
@@ -2885,6 +3220,8 @@ No weapon
 
 BEHEMOTH TRANSPORT HELICOPTER
 
+
+
 Massive, as far as helicopters go, the Behemoth has two rotors which
 
 Autopilot (skill level) 1 Communications (range) 500 km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +0 Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
@@ -2892,6 +3229,8 @@ Autopilot (skill level) 1 Communications (range) 500 km Navigation (Navigation D
 TL6-7
 
 ARMOR
+
+
 
 FRONT 2
 
@@ -2905,15 +3244,27 @@ None
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 DESCRIPTION
 
+
+
 TL
+
+
 
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -2921,15 +3272,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 6
 
@@ -2960,7 +3323,11 @@ Autopilot (skill level)- Communications (range) 50 km Navigation (Navigation DM)
 
 ARMOR
 
+
+
 COUGAR BATTLE TANK
+
+
 
 FRONT 70
 
@@ -2974,9 +3341,15 @@ Though rooted firmly in the combustion era of technology, the Cougar remains a s
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 AFV, Tracked
 
@@ -2989,7 +3362,11 @@ M ac hi ne ug n
 
 DIRIGIBLE
 
+
+
 ARMOR
+
+
 
 FRONT 2
 
@@ -3007,9 +3384,15 @@ Utilising a semi-rigid gas-filled structure, dirigibles provide
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3017,15 +3400,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 6
 
@@ -3055,15 +3450,27 @@ None
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 DESCRIPTION
 
+
+
 TL
+
+
 
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3071,15 +3478,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 6
 
@@ -3111,7 +3530,11 @@ Autopilot (skill level)- Communications (range) 500 km Navigation (Navigation DM
 
 ARMOR
 
+
+
 DUNE BUGGY
+
+
 
 FRONT 2
 
@@ -3123,13 +3546,21 @@ Small and agile (and it will seem fast if you are a passenger), the dune buggy i
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Off-roader
 
 ARMOR
+
+
 
 GECKO ALL-TERRAIN ASSAULT VEHICLE
 
@@ -3149,9 +3580,15 @@ SIDES 12
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3159,15 +3596,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 7
 
@@ -3195,19 +3644,33 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Light Autocannon 
 
 AT V
 
+
+
 TRAITS
+
+
 
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Autocannon
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3215,15 +3678,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 6
 
@@ -3247,8 +3722,7 @@ MEDIUM (SLOW)
 
 CR149000
 
-Camouflage (improved), Communication System
-(basic), Navigation System (basic), STOL
+Camouflage (improved), Communication System (basic), Navigation System (basic), STOL
 
 Fixed Mount (heavy machinegun, front) Fixed Mount (heavy machinegun, front) Hardpoint (2 spaces), Hardpoint (2 spaces)
 
@@ -3256,7 +3730,11 @@ Autopilot (skill level)- Communications (range) 50 km Navigation (Navigation DM)
 
 ARMOR
 
+
+
 GVR MINICOIN
+
+
 
 FRONT 2
 
@@ -3272,9 +3750,15 @@ converted light trainers, but price and utility for those who cannot afford bett
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 None
 
@@ -3282,7 +3766,11 @@ Machinegun
 
 ARMOR
 
+
+
 HERKUL HEAVY UTILITY VEHICLE
+
+
 
 Communications System (basic), Crane (heavy), Entertainment System
 
@@ -3300,9 +3788,15 @@ SIDES 6
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3310,15 +3804,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 7
 
@@ -3348,15 +3854,27 @@ Tracked
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 DESCRIPTION
 
+
+
 TL
+
+
 
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3364,15 +3882,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 6
 
@@ -3396,7 +3926,7 @@ SLOW (VERY SLOW)
 
 CR720000
 
-Aquatic Drive, Camouflage (improved), Communications System (basic), Gun Ports x 3 (left), Gun Ports x 3 (right), Smoke Discharger
+Aquatic Drive, Camouflage (improved), Communications System (basic), Gun Ports x3 (left), Gun Ports x3 (right), Smoke Discharger
 
 No weapon
 
@@ -3404,7 +3934,11 @@ Autopilot (skill level)- Communications (range) 50 km Navigation (Navigation DM)
 
 ARMOR
 
+
+
 HUMPHEAD ARMORED PERSONNEL CARRIER
+
+
 
 FRONT 28
 
@@ -3416,15 +3950,25 @@ The foundation of mechanised forces, armored personnel carriers are designed to 
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 AFV, Tracked
 
 ARMOR
 
+
+
 HYDROFOIL
+
+
 
 Autopilot (improved), Communication System (basic), Crane (light), Fire Extinguishers, Fresher x 2, Mini-Galley, Navigation System (basic)
 
@@ -3442,9 +3986,15 @@ SIDES 2
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3452,15 +4002,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 7
 
@@ -3488,15 +4050,27 @@ None
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 DESCRIPTION
 
+
+
 TL
+
+
 
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3504,15 +4078,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 7
 
@@ -3541,7 +4127,11 @@ Autopilot (skill level) - Communications (range) 500 km Navigation (Navigation D
 
 ARMOR
 
+
+
 IMPALA SCOUT HELICOPTER
+
+
 
 FRONT 8
 
@@ -3555,9 +4145,15 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Heavy Machinegun 
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 None
 
@@ -3567,10 +4163,13 @@ Machinegun
 
 ARMOR
 
+
+
 PARTHIAN WHEELED SCOUT
 
-Camouflage (improved), Communication System (basic, increased range), Control System (improved), Fire Extinguisher, Navigation System (basic), Sensor System
-(improved, sensor mast), Smoke Discharger
+
+
+Camouflage (improved), Communication System (basic, increased range), Control System (improved), Fire Extinguisher, Navigation System (basic), Sensor System (improved, sensor mast), Smoke Discharger
 
 Large Turret (medium autocannon, basic fire control) Small Turret (machinegun)
 
@@ -3586,9 +4185,15 @@ SIDES 17
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3596,15 +4201,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 7
 
@@ -3635,9 +4252,15 @@ Off-roader
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Autocannon
 
@@ -3647,9 +4270,15 @@ Autocannon
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3657,15 +4286,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 7
 
@@ -3697,7 +4338,11 @@ Autopilot (skill level) 0 Communications (range) 50 km Navigation (Navigation DM
 
 ARMOR
 
+
+
 POWER BOAT
+
+
 
 FRONT 2
 
@@ -3709,20 +4354,29 @@ Small, lightweight and, on many worlds, a status symbol among the affluent, powe
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 None
 
 ARMOR
 
+
+
 TERMITE EXCAVATING TUNNELLER
+
+
 
 Autopilot (skill level) - Communications (range) 50 km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +0 Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
 
-The Termite Excavating Tjnneller
-(TET) is used on lower tech worlds to
+The Termite Excavating Tjnneller (TET) is used on lower tech worlds to
 
 FRONT 16
 
@@ -3732,9 +4386,15 @@ SIDES 12
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3742,15 +4402,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 7
 
@@ -3784,18 +4456,25 @@ Tracked
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 TL8-9
 
 TL SKILL
 
+
+
 AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
-9 SEAFARER
-(OCEAN SHIP)
+9 SEAFARER (OCEAN SHIP)
 -5 SLOW (VERY SLOW) 8000 (12000) 60
 
 -
@@ -3808,15 +4487,13 @@ Anti-Missile System (minigun), Autopilot (improved), Bunks x 80, Camouflage (imp
 
 Torpedo Torpedo
 
-Autopilot (skill level) 1 Communications
-(range)
+Autopilot (skill level) 1 Communications (range)
 
-5000 km Navigation
-(Navigation DM) +2 Sensors (Electronics
-(sensors) DM) +3/+3 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+5000 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +3/+3 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 ARMOR
+
+
 
 ACHILLES-CLASS FRIGATE
 
@@ -3837,6 +4514,8 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Heavy Laser Canno
 
 ARMOR
 
+
+
 ACV-3 MARTINIQUE IFV
 
 Autopilot (skill level) - Communications (range) 500 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
@@ -3851,9 +4530,15 @@ SIDES 65
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3861,15 +4546,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 9
 
@@ -3895,9 +4592,7 @@ CR946000
 
 Infantry Fighting Vehicle encountered on many frontier worlds, either in the hands of colony militaries or mercenary forces. Its basic design has been copied, and twins and near-twins of the Martinique are in service with many forces. The Martinique, like many military air cushion vehicles, is capable of short hops using high performance vectored thrusters, giving the vehicle a limited jump-jet capability that enables it to negotiate cliffs and similar obstructions.
 
-Auxiliary Thrusters (10 meters), Camouflage
-(improved), Communication System (improved, encrypted), Fire Extinguishers, Navigation System
-(improved), Sensor System (improved)
+Auxiliary Thrusters (10 meters), Camouflage (improved), Communication System (improved, encrypted), Fire Extinguishers, Navigation System (improved), Sensor System (improved)
 
 Small Turret (light autocannon, anti-tank missile, basic fire control)
 
@@ -3905,9 +4600,15 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Light Autocannon 
 
 AFV
 
+
+
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Au
 
@@ -3917,9 +4618,15 @@ annon/AA^ Mis sil e
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3927,15 +4634,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 9
 
@@ -3957,14 +4676,15 @@ FAST (HIGH)
 
 CR221000
 
-Actuation System, Autopilot (enhanced), Camouflage (improved), Communication System (improved, increased range, satellite uplink), Navigation System
-(improved), Robot Brain (basic), Sensor System (improved, increased range), STOL
+Actuation System, Autopilot (enhanced), Camouflage (improved), Communication System (improved, increased range, satellite uplink), Navigation System (improved), Robot Brain (basic), Sensor System (improved, increased range), STOL
 
 Bay (2 spaces, basic fire control) Bay (2 spaces, basic fire control)
 
 Autopilot (skill level) 2 Communications (range) 5000 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM)+1 Camouflage (Recon DM)-2 Stealth (Electronics (sensors) DM) -
 
 ARMOR
+
+
 
 AIGLE AERIAL SCOUT/ATTACK UAV
 
@@ -3978,17 +4698,29 @@ Designed primarily as an automated aerial scout, the Aigle features an attack ca
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 None
 
 ARMOR TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -3996,15 +4728,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 8
 
@@ -4050,15 +4794,25 @@ AFV, ATV
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Autopilot (skill level) - Communications (range) 500 km Navigation (Navigation DM) - Sensors (Electronics (sensors) DM)- Camouflage (Recon DM)- Stealth (Electronics (sensors) DM) -
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4066,15 +4820,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 8
 
@@ -4104,7 +4870,11 @@ No weapon
 
 ARMOR
 
+
+
 ARMORED VAN
+
+
 
 FRONT 9
 
@@ -4116,13 +4886,21 @@ A boxy but well-armored transport vehicle, the armored van is designed to carry 
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 None
 
 ARMOR
+
+
 
 Communications System (improved) Manipulator Arms (improved) x 2
 
@@ -4132,6 +4910,8 @@ A common sight around starports and loading bays, the cargo lifter stands around
 
 CARGO LIFTER
 
+
+
 FRONT 2
 
 REAR 2
@@ -4140,17 +4920,31 @@ SIDES 2
 
 AT V
 
+
+
 TRAITS
+
+
 
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4158,15 +4952,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 8
 
@@ -4202,9 +5008,15 @@ SIDES 2
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4212,15 +5024,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 8
 
@@ -4250,28 +5074,41 @@ No weapon
 
 ARMOR
 
+
+
 CONCORDIA II HYPERSONIC AIRLINER
+
+
 
 Before the advent of grav technology, supersonic airliners like the Concordia II provide the fastest form of air travel though high ticket prices tend to place them beyond the reach of the common man. However, those who can afford it are in for royal treatment and a transportation system that can get them to anywhere on the planet in a matter of a few short hours. The Concordia II is capable of speeds in excess of Mach 5, though it normally supercruises at around Mach 4.
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 None
 
 ARMOR
 
+
+
 Communications System (improved), Computer/1, Manipulator Arm (basic), Navigation System (improved), Sensor System (improved, underwater)
 
 No weapon
 
-Generally used purely for research purposes (and often carried in the internal bay of a research ship
-(see page 108), the deep sea submersible is small, cramped, but provides a (relatively) safe method of reaching the crushing depths of the deepest oceans.
+Generally used purely for research purposes (and often carried in the internal bay of a research ship (see page 108), the deep sea submersible is small, cramped, but providesa (relatively) safe method of reaching the crushing depths of the deepest oceans.
 
 DEEP SEA SUBMERSIBLE
+
+
 
 FRONT 21
 
@@ -4283,15 +5120,27 @@ None
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 DESCRIPTION
 
+
+
 TL
+
+
 
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4299,15 +5148,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 9
 
@@ -4345,9 +5206,15 @@ Autopilot (skill level) - Communications (range) 500 km Navigation (Navigation D
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4355,15 +5222,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 8
 
@@ -4399,28 +5278,41 @@ No weapon
 
 ARMOR
 
+
+
 DIRT BIKE
+
+
 
 Electrically powered, this dirt bike features simple, rugged construction, making it easy to keep in service with little more than a thorough clean after use. It is extremely durable and highly efficient batteries provide a decent range after a full recharge.
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 AT V Open Vehicle
 
 ARMOR
 
-Camouflage (improved), Communications System (improved), Computer/1, Fire Extinguishers, Navigation System (improved), Prismatic Aerosol Discharger, Sensor System
-(improved), Smoke Discharger
+
+
+Camouflage (improved), Communications System (improved), Computer/1, Fire Extinguishers, Navigation System (improved), Prismatic Aerosol Discharger, Sensor System (improved), Smoke Discharger
 
 Small Turret (light autocannon, improved fire control)
 
 Essential to any land-based military force, the armored personnel carrier is designed to ferry an entire squad in relatively safety through hazardous areas. While the armor of the Dirtside is not intended to deflect the heaviest of anti- tank weaponry, it provides more or less complete immunity to weapons carried by enemy infantry at lower Tech Levels and is overall a great improvement on earlier APCs. Some versions of the Dirtside have an Aquatic Drive fitted at an additional cost of Cr120000.
 
 DIRTSIDE ARMORED PERSONNEL CARRIER
+
+
 
 FRONT 60
 
@@ -4432,13 +5324,23 @@ AFV, Tracked
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4446,15 +5348,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 9
 
@@ -4494,9 +5408,15 @@ SIDES 20
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4504,15 +5424,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 8
 
@@ -4538,24 +5470,31 @@ MCR4.41
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Light Autocannon 1 6D 500 Cr1000 Auto 3 +1
 
-Autopilot (improved), Camouflage
-(improved), Communication System
-(improved), Computer/1, Control System
-(improved), Decoy Dispenser, ECM (basic), Navigation System (basic), Sensor System (improved)
+Autopilot (improved), Camouflage (improved), Communication System (improved), Computer/1, Control System (improved), Decoy Dispenser, ECM (basic), Navigation System (basic), Sensor System (improved)
 
 Pintle Mount (light autocannon, front, basic fire control)
 
 ARMOR
 
+
+
 DRAGONFLYER GRAVCOPTER
+
+
 
 A direct replacement for the helicopter, the Drgaonflyer is
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 None
 
@@ -4564,6 +5503,8 @@ designed to haul personnel and equipment across war zones, using a combination o
 Autocannon
 
 ARMOR
+
+
 
 Camouflage (improved), Communication System (improved, encrypted), Computer/1, Decoy Dispenser, ECM (improved), Fire Extinguishers, Navigation System (basic), Sensor System (improved, increased fidelity, increased range)
 
@@ -4579,11 +5520,19 @@ None
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 WEAPONS
 
+
+
 FURY HELICOPTER GUNSHIP
+
+
 
 TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
@@ -4595,13 +5544,9 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 
 8 16 TONS MCR1.21
 
-Autopilot (skill level) - Communications
-(range)
+Autopilot (skill level) - Communications (range)
 
-500 km Navigation
-(Navigation DM) +1 Sensors (Electronics
-(sensors) DM) +2 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+500 km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +2 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 Small Turret (rotary autocannon, improved fire control) Multi-Bay (anti-tank missile x 4, front, improved fire control) Hardpoint (2 Spaces) x 4
 
@@ -4617,9 +5562,15 @@ Autopilot (skill level) - Communications (range) 500 km Navigation (Navigation D
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4627,15 +5578,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 9
 
@@ -4671,19 +5634,27 @@ No weapon
 
 ARMOR
 
+
+
 G/RACER
 
 The natural extension of racing cars, g/racer sports can be
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 None
 
 found across Charted Space, through every conceivable terrain type and with varying casualty rates. These vehicles are extremely fast but notoriously fragile as every ounce of weight is squeezed out in the pursuit of massive speed. The model below features room for a navigator, though g/racers intended for endurance events will substitute the navigator for extra fuel, giving it a range of 2500 (3750). Other models have vacuum protection for racing in more extreme environments, at a cost of Cr30000.
 
 ARMOR
+
+
 
 Entertainment System, Navigation System (basic)
 
@@ -4692,6 +5663,8 @@ No weapon
 A conventional wheeled aoutombile. The example shown here represents the nexy generation our own world can expect to see in the small, economy range. It provides cheap, pratctical motoring.
 
 GROUND CAR
+
+
 
 FRONT 2
 
@@ -4703,13 +5676,23 @@ None
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4717,15 +5700,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 8
 
@@ -4761,9 +5756,15 @@ SIDES 40
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -4771,15 +5772,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 9
 
@@ -4804,30 +5817,39 @@ CR988000
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Heavy Laser Cannon 25 2DD - - AP 20 - Minigun 0.5 2D 600 Cr1000 Auto 6 -
 
-Anti-Missile System (minigun), Camouflage
-(improved), Communications System
-(improved), Computer/1, Navigation System (improved), Sensor System
-(improved, sensor mast)
+Anti-Missile System (minigun), Camouflage (improved), Communications System (improved), Computer/1, Navigation System (improved), Sensor System (improved, sensor mast)
 
 Fixed Mount (heavy laser cannon, mproved fire control)
 
 ARMOR
 
+
+
 GUN TRANSPORT
+
+
 
 While amateurs may call this armored vehicle a tank, it is actually a durable and all-terrain platform designed to carry a single massive weapon. Used to support both armored and infantry advances, the gun transport is equally effective against enemy armor and fortifications.
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 AFV, Tracked
 
 Lase r^ Cannon
 
 ARMOR
+
+
 
 Anti-Missile System (minigun), Camouflage (improved), Communication System (improved, encrypted, increased range, satellite uplink), Computer/1, Decoy Dispenser, ECM (improved), Navigation System (basic), Reactive Armor (basic), Sensor System (improved, hardened, increased range, sensor mast), Smoke Discharger
 
@@ -4837,11 +5859,19 @@ AFV, Tracked
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 WEAPONS
 
+
+
 LEGIONARY BATTLE TANK
+
+
 
 Large Turret (heavy cannon x 2, improved fire control) x 2 Small Turret (light autocannon, basic fire control)
 
@@ -4857,13 +5887,9 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 
 180 30 TONS MCR2.86
 
-Autopilot (skill level) - Communications
-(range)
+Autopilot (skill level) - Communications (range)
 
-5000 km Navigation
-(Navigation DM) +1 Sensors (Electronics
-(sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+5000 km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 FRONT 80 (+15)
 
@@ -4877,9 +5903,15 @@ Hea vy Ca nn on Au to ca nn no
 
 ARMOR
 
+
+
 WEAPONS
 
+
+
 PALADIN LASER GRAV TANK
+
+
 
 Large Turret (heavy laser cannon, improved fire control) Small Turret (rotary autocannon, improved fire control) Pintle Mount (rapid-fire machinegun, front, basic fire control)
 
@@ -4901,29 +5933,33 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 
 136 34 TONS MCR24.39
 
-Autopilot (skill level) - Communications
-(range)
+Autopilot (skill level) - Communications (range)
 
-500 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+500 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 Paladin is a fearsome foe for more primitive forces to face and, used well, can hold its own against stronger forces. Well-equipped and of imposing size, the Paladin is suitable for any mercenary force looking to expand its interests into armored warfare, so long as it has the capacity to move such a large vehicle between combat zones.
 
-WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Heavy laser Cannon 25 2DD - - AP 20 +2 Rotary Autocannon 1 6D 500 Cr1200 Auto 5 +2 Rapid-fire Machinegun 0.5 3D 600 Cr1000 Auto 4 (8) +1
+WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Heavy laser Cannon 25 2DD - - AP 20 +2 Rotary Autocannon 1 6D 500 Cr1200 Auto 5 +2 Rapid-fire Machinegun 0.5 3D 600 Cr1000 Auto4 (8) +1
 
 TRAITS
 
+
+
 EQUIPMENT
+
+
 
 DESCRIPTION
 
+
+
 Camouflage (improved), Communication System (improved, AFV encrypted, satellite uplink), Computer/1, Decoy Dispenser, ECM (improved), Navigation System (improved), Prismatic Aerosol Discharger, Reactive Armor (improved), Sensor System (improved, sensor mast)
 
-(^) L ase r (^) C an no n Mach inegun A ut oc an n no
+(^) L aser (^) C an no n Mach inegun A ut oc an n no
 
 ARMOR
+
+
 
 Atmospheric Sampler, Autopilot (enhanced), Communication System (improved, increased range, satellite uplink), Computer/1 x 2, Crane (heavy), Fire Extinguishers, Galley (seats 10), General Purpose Laboratory (4 scientists), Holding Tank (6 spaces), Hydrographic Sampler, Internal Bay (5 tons), Navigation System (improved), Sensor System (improved, increased range x 2), Sensor System (improved, nderwater), Staterooms x 16
 
@@ -4933,11 +5969,19 @@ None
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 WEAPONS
 
+
+
 RESEARCH SHIP
+
+
 
 No weapon
 
@@ -4949,20 +5993,17 @@ REAR 9
 
 SIDES 9
 
-Autopilot (skill level) 2 Communications
-(range)
+Autopilot (skill level) 2 Communications (range)
 
-5000 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM) +1/+1 Camouflage (Recon DM) - Stealth (Electronics
-(sensors) DM) -
+5000 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM) +1/+1 Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
 
 TL SKILL
 
+
+
 AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
-9 SEAFARER
-(OCEAN SHIP)
+9 SEAFARER (OCEAN SHIP)
 -6 SLOW (VERY SLOW) 8000 (12000) 4 12 22.5 1200 150 TONS MCR3.31
 
 TL SKILL AGILITY SPEED (CRUISE)
@@ -4970,21 +6011,16 @@ TL SKILL AGILITY SPEED (CRUISE)
 RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
 9 FLYER (GRAV)
-+2 SUPERSONIC
-(SUBSONIC) 1500 (2250) 1
++2 SUPERSONIC (SUBSONIC) 1500 (2250) 1
 
 -
 -
 
 28 7 TONS MCR2.75
 
-Autopilot (skill level) 2 Communications
-(range)
+Autopilot (skill level) 2 Communications (range)
 
-5000 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM)+1 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM)-
+5000 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM)+1 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM)-
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Light laser Cannon 2 8D - - AP 5 +2
 
@@ -4996,7 +6032,11 @@ SIDES 3
 
 ARMOR
 
+
+
 WEAPONS
+
+
 
 SKYSTRIKE G/FIGHTER
 
@@ -5006,7 +6046,11 @@ As grav technology becomes prevalent, vehicles incorporate the new method of pro
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 Autopilot (enhanced), Camouflage (improved), None Communications System (improved, encrypted, increased range), Computer/1, Control System (improved), Decoy Dispenser, ECM (improved), Ejection Seat, Fire Extinguisher, Navigation System (improved), Sensor System (improved, hardened, increased range)
 
@@ -5014,10 +6058,11 @@ Lase r^ Cannon
 
 ARMOR
 
+
+
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Medium Autocannon 1 8D 100 Cr1500 Auto 3 +1
 
-Autopilot (improved), Camouflage (improved), Communication System (improved, increased range, satellite uplink, tightbeam), Computer/1, Decoy Dispenser, Electrostatic Armor, Entertainment System, Fire Extinguishers, Life Support (short term), Navigation System
-(improved), Prismatic Aerosol Discharger, Sensor System (improved), Smart Wheels, Wet Bar
+Autopilot (improved), Camouflage (improved), Communication System (improved, increased range, satellite uplink, tightbeam), Computer/1, Decoy Dispenser, Electrostatic Armor, Entertainment System, Fire Extinguishers, Life Support (short term), Navigation System (improved), Prismatic Aerosol Discharger, Sensor System (improved), Smart Wheels, Wet Bar
 
 Popular among ostentatious mercenary units and 'top heavy' military forces, the Socrates is a well-appointed (bordering on luxurious) field car that nonetheless sports a wide range of capabilities and armor. Designed to transport a single VIP through contested areas, the Socrates is the ultimate in personal vehicles for officers.
 
@@ -5025,21 +6070,25 @@ Off-Roader
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 WEAPONS
 
+
+
 SOCRATES FIELD CAR
+
+
 
 Small Turret (medium autocannon, basic fire control)
 
-Autopilot (skill level) 1 Communications
-(range)
+Autopilot (skill level) 1 Communications (range)
 
-5000 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+5000 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
@@ -5060,6 +6109,8 @@ Au to ca nn no
 
 ARMOR
 
+
+
 FRONT 45 (+15)
 
 REAR 25 (+15)
@@ -5079,15 +6130,15 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 66 15 TONS MCR17.2
 WEAPONS
 
-Autopilot (skill level) - Communications
-(range)
 
-500 km Navigation
-(Navigation DM) +1 Sensors (Electronics
-(sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+
+Autopilot (skill level) - Communications (range)
+
+500 km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 THUNDER HOVER TANK
+
+
 
 Large Turret (heavy cannon, improved fire control) Small Turret (heavy machinegun)
 
@@ -5099,15 +6150,25 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Heavy Cannon 3 2D
 
 TRAITS
 
+
+
 EQUIPMENT
+
+
 
 DESCRIPTION
 
+
+
 AFV
+
+
 
 Hea vy Ca nn on M ac hi n eg nu
 
 ARMOR
+
+
 
 Though expensive, the Tracked Exploration Vehicle (or TEV) is the
 
@@ -5116,19 +6177,16 @@ TL SKILL AGILITY SPEED (CRUISE)
 RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
 9 DRIVE (TRACK)
-+1 SLOW
-(VERY SLOW) 50 YEARS 1 5
++1 SLOW (VERY SLOW) 50 YEARS 1 5
 .75 TONS 90 15 TONS MCR2.25
 
-Autopilot (skill level) 2 Communications
-(range)
+Autopilot (skill level) 2 Communications (range)
 
-5000 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM) +2 Camouflage (Recon DM) -1 Stealth (Electronics
-(sensors) DM) -
+5000 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM) +2 Camouflage (Recon DM) -1 Stealth (Electronics (sensors) DM) -
 
 TRACKED EXPLORATION VEHICLE
+
+
 
 Airlock, Aquatic Drive, Autopilot (enhanced), Bunks x 2, Camouflage (basic), Communications System (improved, increased range, satellite uplink), Computer/1, Control System (improved), Corrosive Environment, Entertainment System, Fire Extinguishers, Fresher, Fusion Plant (basic), Life Support (long term), Navigation System (improved), Sensor System (improved, increased fidelity, sensor mast), Vacuum Protection
 
@@ -5146,9 +6204,15 @@ Tracked
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
 
+
+
 ARMOR
+
+
 
 Ostensibly designed to penetrate enemy defences and destroy
 
@@ -5157,8 +6221,7 @@ TL SKILL AGILITY SPEED (CRUISE)
 RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
 8 FLYER (WING)
--1 SUPERSONIC
-(SUBSONIC) 4000 (6000) 4
+-1 SUPERSONIC (SUBSONIC) 4000 (6000) 4
 
 -
 -
@@ -5166,15 +6229,15 @@ RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 60 240 TONS MCR34.58
 WEAPONS
 
-Autopilot (skill level) 1 Communications
-(range)
 
-5000 km Navigation
-(Navigation DM) +1 Sensors (Electronics
-(sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -1
+
+Autopilot (skill level) 1 Communications (range)
+
+5000 km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -1
 
 VIOLATOR STRATEGIC BOMBER
+
+
 
 Multi-bay (heavy bombs x 24, improved fire control) , Small Turret (light autocannon x 2, improved fire control), Small Turret (light autocannon x 2, improved fire control), Small Turret (light autocannon x 2, improved fire control), Small Turret (light autocannon x 2, improved fire control)
 
@@ -5194,15 +6257,23 @@ Bombs
 
 TRAITS
 
+
+
 EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 None
 
 Autoc an no n
 
 ARMOR
+
+
 
 ALL-TERRAIN VEHICLE (ATV)
 
@@ -5218,9 +6289,15 @@ SIDES 6
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -5228,15 +6305,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 12
 
@@ -5260,13 +6349,13 @@ HIGH (MEDIUM)
 
 CR155000
 
-Aquatic Drive, Communications System
-(improved), Computer/1, Life Support
-(short term), Navigation System (improved), Sensor System (improved), Small Turret
+Aquatic Drive, Communications System (improved), Computer/1, Life Support (short term), Navigation System (improved), Sensor System (improved), Small Turret
 
 No weapon
 
 ARMOR
+
+
 
 TL10-12
 
@@ -5278,19 +6367,23 @@ A tracked version of the ATV is available. This uses the Drive (track) skill, ha
 
 AT V
 
+
+
 TRAITS EQUIPMENT AND WEAPONS
+
+
 
 DESCRIPTION
 
-Autopilot (skill level) 3 ARMOR Communications
-(range)
 
-500 km Navigation
-(Navigation DM) +2 Sensors (Electronics
-(sensors) DM) +1 Camouflage (Recon DM) - Stealth (Electronics
-(sensors) DM) -
+
+Autopilot (skill level) 3 ARMOR Communications (range)
+
+500 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
 
 ARCHITEUTHIS BIOTECH AIRSHIP
+
+
 
 FRONT 3
 
@@ -5311,17 +6404,25 @@ Resembling nothing so much as a giant floating squid, the Archie (as it is often
 
 EQUIPMENT
 
+
+
 Autopilot (advanced), Communications System (improved), Control System (enhanced), Fresher, Navigation System (improved), Sensor System (improved)
 
 and crew in the small gondola suspended below the vehicle. The gondola is biologically inert, except for control linkages, for the comfort of human crews. Ten tentacles hang below the main body of the airship, and are used to carry cargo. Propulsion is through an array of flagella that propel the airship like dozens of little propellers. Lift is provided primarily by hydrogen gas, produced by the organism itself using photosynthetic patches, though the vehicle is designed as a lifting body. Archies are not very bright, but are capable of forming loyalties and attachments to long-term crews.
 
 TRAITS
 
+
+
 DESCRIPTION
+
+
 
 Endothermic, Invertebrate
 
 ARMOR
+
+
 
 ARMORED FIGHTING VEHICLE (AFV)
 
@@ -5337,9 +6438,15 @@ SIDES 60
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -5347,15 +6454,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 12
 
@@ -5379,12 +6498,13 @@ MEDIUM (SLOW)
 
 CR198000
 
-Camouflage (basic), Communications System (improved), Navigation System
-(improved), Sensor System (improved)
+Camouflage (basic), Communications System (improved), Navigation System (improved), Sensor System (improved)
 
 Small Turret (light autocannon)
 
 ARMOR
+
+
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Light Autocannon 1 6D 500 Cr1000 Auto 3 -
 
@@ -5392,15 +6512,25 @@ AFV, ATV
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Au to ca nn no
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -5408,15 +6538,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 11
 
@@ -5442,7 +6584,11 @@ Autopilot (skill level)- Communications (range) 500 km Navigation (Navigation DM
 
 ARMOR
 
+
+
 ARTHUR MINING ROBOT
+
+
 
 FRONT 12
 
@@ -5460,15 +6606,25 @@ manpower to effectively exploit their mineral wealth. The mining robot is a vari
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Tracked
 
 ARMOR
 
+
+
 ASSAULT CYCLE
+
+
 
 Autopilot (skill level) - Communications (range) 500 km Navigation (Navigation DM) - Sensors (Electronics (sensors) DM) - Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
 
@@ -5482,9 +6638,15 @@ SIDES 3
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -5492,15 +6654,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 10
 
@@ -5529,17 +6703,25 @@ Fixed Mount (laser rifle x 2, front)
 
 ARMOR
 
+
+
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Laser Rifle 2 5D+5 - - - -
 
 Off-Roader, Open Vehicle
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Laser^ Rifl^ e
 
 ARMOR
+
+
 
 Perhaps the ultimate expression of the jet fighter, the Avante is
 
@@ -5548,8 +6730,7 @@ TL SKILL AGILITY SPEED (CRUISE)
 RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
 10 FLYER (WING)
-+3 HYPERSONIC
-(SUPERSONIC) 3000 (4500) 1
++3 HYPERSONIC (SUPERSONIC) 3000 (4500) 1
 
 -
 -
@@ -5557,15 +6738,15 @@ RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 15 33 TONS MCR15.9
 WEAPONS
 
-Autopilot (skill level) 2 Communications
-(range)
 
-500 km Navigation
-(Navigation DM) +2 Sensors (Electronics
-(sensors) DM) +2 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -2
+
+Autopilot (skill level) 2 Communications (range)
+
+500 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +2 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -2
 
 AVANTE JET FIGHTER
+
+
 
 Autopilot (enhanced), Camouflage (improved), Communication System (improved, encrypted), Computer/2, Control System (enhanced), Decoy Dispenser, ECM (improved), Ejection Seat, Fire Extinguisher, Folding Wings, Navigation System (improved), Sensor System (improved, increased fidelity, increased range), Stealth (improved)
 
@@ -5583,15 +6764,23 @@ Fixed Mount (gatling laser, front, enhanced fire control) Hardpoint (2 spaces, p
 
 TRAITS
 
+
+
 EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 None
 
 Autocannon
 
 ARMOR
+
+
 
 Designed as a cheap method of giving mercenary forces valuable
 
@@ -5605,17 +6794,19 @@ Autopilot (advanced), Camouflage (improved), Communication System (improved, enc
 
 ARMOR
 
+
+
 BIRDSEYE RECONNAISSANCE AIRCRAFT
+
+
 
 WEAPONS
 
-Autopilot (skill level) 3 Communications
-(range)
 
-500 km Navigation
-(Navigation DM)+3 Sensors (Electronics
-(sensors) DM) +4 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -1
+
+Autopilot (skill level) 3 Communications (range)
+
+500 km Navigation (Navigation DM)+3 Sensors (Electronics (sensors) DM) +4 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -1
 
 Hardpoint (2 spaces) Hardpoint (2 spaces)
 
@@ -5635,13 +6826,23 @@ None
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -5649,15 +6850,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 10
 
@@ -5685,7 +6898,11 @@ Autopilot (skill level)- Communications (range) 500 km Navigation (Navigation DM
 
 ARMOR
 
+
+
 BRUTUS HEAVY CARGO TRUCK
+
+
 
 FRONT 8
 
@@ -5703,15 +6920,25 @@ and ammunition to forward bases, not to mention shipping out the wounded, is a f
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Off-Roader
 
 ARMOR
 
+
+
 BULETTE
+
+
 
 Autopilot (skill level) 2 Communications (range) 500 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
 
@@ -5725,9 +6952,15 @@ SIDES 12
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -5735,15 +6968,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 10
 
@@ -5773,15 +7018,25 @@ No weapon
 
 ARMOR
 
+
+
 Tracked
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 ARMOR
 
+
+
 DESCRIPTION
+
+
 
 This is a small, lightweight armored walker, intended for reconnaissance and stealthy strikes on soft targets. On
 
@@ -5795,15 +7050,15 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 0.25 TON 40 10 TONS MCR3.39
 WEAPONS
 
-Autopilot (skill level) 1 Communications
-(range)
 
-1000 km Navigation
-(Navigation DM) +2 Sensors (Electronics
-(sensors) DM) +2 Camouflage (Recon DM) -4 Stealth (Electronics
-(sensors) DM) -2
+
+Autopilot (skill level) 1 Communications (range)
+
+1000 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +2 Camouflage (Recon DM) -4 Stealth (Electronics (sensors) DM) -2
 
 CHAMELEON SCOUT WALKER
+
+
 
 Anti-Missile System (laser), Autopilot (improved), Auxiliary Thrusters (20 meters), Camouflage (advanced), Communication System (advanced, encrypted, tightbeam), Computer/3, Control System (advanced), Decoy Dispenser, ECM (advanced), Ejection Seat, Fire Extinguisher, Fusion Plant (advanced), Holo-Suite, Life Support (short term), Navigation System (improved), Sensor System (improved, hardened, increased fidelity, increased range, sensor mast), Stealth (improved), Vacuum Protection
 
@@ -5821,13 +7076,23 @@ Small Turret (pgmp x 2, enhanced fire control)
 
 TRAITS
 
+
+
 EQUIPMENT
+
+
 
 AT V
 
+
+
 PGMP
 
+
+
 ARMOR
+
+
 
 Using a heavy grav chassis, the Crusader is lightly armored compared to the likes of the Paladin, but its mass driver is capable of flinging shells over 40 kilometers, allowing a military force to position a vehicle or squadron far beyond the immediate combat area. From there, the Crusader can provide instant support to forward units, using its mass driver to obliterate opposition before quickly relocating to avoid counterbattery fire.
 
@@ -5841,17 +7106,17 @@ Camouflage (improved), Communication System (advanced, encrypted, satellite upli
 
 ARMOR
 
+
+
 CRUSADER SELF-PROPELLED GUN
 
 WEAPONS
 
-Autopilot (skill level) - Communications
-(range)
 
-1000 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM) +2 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+
+Autopilot (skill level) - Communications (range)
+
+1000 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM) +2 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 Fixed Mount (mass driver, advanced fire control)
 
@@ -5869,17 +7134,29 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Mass Driver 40 1D
 
 AFV
 
+
+
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 Mass^ Driver
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -5887,15 +7164,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 12
 
@@ -5922,6 +7211,8 @@ Autopilot (skill level)- Communications (range) 500 km Navigation (Navigation DM
 
 ARMOR
 
+
+
 G/BIKE
 
 FRONT 4
@@ -5938,13 +7229,21 @@ No weapon
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Open Vehicle
 
 ARMOR
+
+
 
 G/RUNNER CITY CAR
 
@@ -5960,9 +7259,15 @@ SIDES 3
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -5970,15 +7275,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 10
 
@@ -6002,24 +7319,35 @@ MEDIUM (SLOW)
 
 CR49500
 
-Autopilot (enhanced), Communication System
-(improved), Computer/2, Entertainment System, Navigation System (basic), Sensor System (basic)
+Autopilot (enhanced), Communication System (improved), Computer/2, Entertainment System, Navigation System (basic), Sensor System (basic)
 
 No weapon
 
 ARMOR
 
+
+
 None
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -6027,15 +7355,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 11
 
@@ -6062,7 +7402,11 @@ Autopilot (skill level)- Communications (range) 500 km Navigation (Navigation DM
 
 ARMOR
 
+
+
 GRAV FLOATER
+
+
 
 FRONT 3
 
@@ -6078,15 +7422,25 @@ No weapon
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Open Vehicle
 
 ARMOR
 
+
+
 GUNSKIFF
+
+
 
 Autopilot (skill level) 1 Communications (range) 500 km Navigation (Navigation DM)- Sensors (Electronics (sensors) DM)- Camouflage (Recon DM)- Stealth (Electronics (sensors) DM)-
 
@@ -6100,9 +7454,15 @@ SIDES 3
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -6110,15 +7470,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 10
 
@@ -6148,6 +7520,8 @@ Fixed Mount (laser cannon, front, basic fire Control)
 
 ARMOR
 
+
+
 standards of fashion, the gunskiff is essentially an open-topped grav platform mounted with a single heavy weapon. It is a cheap and effective way to bring a heavy weapon to bear over a wide area, but its light armor and open nature often means it is best employed against relatively low Tech Level enemies. The flat bed nature of the gunskiff means that if it does not carry passengers, it can easily accommodate one ton of cargo.
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Laser Cannon 2.5 1DD - - AP 10 DM+1
@@ -6156,11 +7530,17 @@ Open Vehicle
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Lase r Cannon
 
 ARMOR
+
+
 
 The Heaven70 is a medium- sized drone designed for the reconnaissance and fast attack roles.
 
@@ -6176,13 +7556,11 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 2 3 TONS CR178000
 WEAPONS
 
-Autopilot (skill level) - Communications
-(range)
 
-5000 km Navigation
-(Navigation DM) +2 Sensors (Electronics
-(sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+
+Autopilot (skill level) - Communications (range)
+
+5000 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 HEAVEN70 GUNSHIP DRONE
 
@@ -6202,9 +7580,15 @@ Pintle Mount (light autocannon, front, improved fire control)
 
 DESCRIPTION
 
+
+
 TRAITS
 
+
+
 EQUIPMENT
+
+
 
 None
 
@@ -6212,8 +7596,9 @@ Autocannon
 
 ARMOR
 
-The Hostile Environment Vehicle
-(HEV-12) is a tracked crawler well protected against environmental extremes. This fuel-cell-powered vehicle can operate in extremes from the depths of space to 300 meters under water. It is not capable of atmospheric flight, though it can make jumps of significant height and breadth with its auxiliary thrusters.
+
+
+The Hostile Environment Vehicle (HEV-12) is a tracked crawler well protected against environmental extremes. This fuel-cell-powered vehicle can operate in extremes from the depths of space to 300 meters under water. It is not capable of atmospheric flight, though it can make jumps of significant height and breadth with its auxiliary thrusters.
 
 FRONT 30
 
@@ -6221,23 +7606,21 @@ REAR 30
 
 SIDES 30
 
-Airlock, Aquatic Drive, Autopilot (enhanced), Auxiliary Thrusters
-(40 meters), Bunk, Communication System (advanced, increased range, satellite uplink), Computer/3, Control System (improved), Fire Extinguisher, Fresher, Life Support (long term), Navigation System
-(improved), Prismatic Aerosol Discharger, Sensor System (improved), Sensor System (improved, underwater), Vacuum Protection
+Airlock, Aquatic Drive, Autopilot (enhanced), Auxiliary Thrusters (40 meters), Bunk, Communication System (advanced, increased range, satellite uplink), Computer/3, Control System (improved), Fire Extinguisher, Fresher, Life Support (long term), Navigation System (improved), Prismatic Aerosol Discharger, Sensor System (improved), Sensor System (improved, underwater), Vacuum Protection
 
 ARMOR
+
+
 
 HEV-12
 
 WEAPONS
 
-Autopilot (skill level) 2 Communications
-(range)
 
-10000 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM) +1/+1 Camouflage (Recon DM) - Stealth (Electronics
-(sensors) DM) -
+
+Autopilot (skill level) 2 Communications (range)
+
+10000 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM) +1/+1 Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
 
 Small Turret (light autocannon, improved fire control)
 
@@ -6258,11 +7641,17 @@ Tracked
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 Autocannon
 
 ARMOR
+
+
 
 The Liberator is one of the early models of G/Carrier, found in
 
@@ -6275,20 +7664,15 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 
 60 15 TONS MCR7.24 WEAPONS
 
-Autopilot (skill level) - Communications
-(range)
+Autopilot (skill level) - Communications (range)
 
-500 km Navigation
-(Navigation DM) +2 Sensors (Electronics
-(sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+500 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 LIBERATOR G/CARRIER
 
 Camouflage (improved), Communication System (improved, encrypted), Computer/2, Fire Extinguishers, Navigation System (improved), Sensor System (improved)
 
-WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Heavy Autocannon 1 1DD 100 Cr2000 Auto 3 DM+1 Tac Launcher
-(armor-piercing) 6 8D 4 Cr6000 AP 10, Scope, Smart DM+1 Heavy Machinegun 1 4 100 Cr400 Auto 3 DM+1
+WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Heavy Autocannon 1 1DD 100 Cr2000 Auto 3 DM+1 Tac Launcher (armor-piercing) 6 8D 4 Cr6000 AP 10, Scope, Smart DM+1 Heavy Machinegun 1 4 100 Cr400 Auto 3 DM+1
 
 FRONT 75
 
@@ -6302,11 +7686,19 @@ militaries who are just starting to use grav vehicles as standard frontline unit
 
 DESCRIPTION
 
+
+
 TRAITS
+
+
 
 EQUIPMENT
 
+
+
 AFV
+
+
 
 Machi negun
 
@@ -6315,6 +7707,8 @@ Aut oc an no T n ac
 (^) L au n hc re
 
 ARMOR
+
+
 
 Though outclassed by similar grav tanks, the Lynx provides a cheap but powerful option for rapid assaults. Its light armor protects it from small scale weaponry, while its sensors and speed allow it to evade more powerful enemies. The Lynx is principally used in fast strikes against softer targets though it also serves in reconnaissance and support roles when needed.
 
@@ -6328,17 +7722,19 @@ Camouflage (improved), Communication System (advanced, encrypted, satellite upli
 
 ARMOR
 
+
+
 LYNX FAST ASSAULT TANK
+
+
 
 WEAPONS
 
-Autopilot (skill level) - Communications
-(range)
 
-10000 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM) +3 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+
+Autopilot (skill level) - Communications (range)
+
+10000 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM) +3 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 Large Turret (heavy gauss cannon, advanced fire control)
 
@@ -6358,11 +7754,17 @@ Tracked
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 Gau ss Ca nn on
 
 ARMOR
+
+
 
 The urban assault vehicle (derived from the highly competitive Urban Pacification Program) was designed
 
@@ -6371,13 +7773,9 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 11 DRIVE (WHEEL)
 -2 MEDIUM (SLOW) 600 (900) 1 10 0.5 TON 90 15 TONS CR565000 WEAPONS
 
-Autopilot (skill level) - Communications
-(range)
+Autopilot (skill level) - Communications (range)
 
-500 km Navigation
-(Navigation DM) +1 Sensors (Electronics
-(sensors) DM) +0 Camouflage (Recon DM) -1 Stealth (Electronics
-(sensors) DM) -
+500 km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +0 Camouflage (Recon DM) -1 Stealth (Electronics (sensors) DM) -
 
 M-90 URBAN ASSAULT VEHICLE
 
@@ -6403,9 +7801,15 @@ Grenade Launcher
 
 DESCRIPTION
 
+
+
 TRAITS
 
+
+
 EQUIPMENT
+
+
 
 AFV, Off-Roader
 
@@ -6417,7 +7821,11 @@ W at er
 
 ARMOR
 
+
+
 PEGASUS PERSONAL ORNITHOPTER
+
+
 
 Autopilot (skill level) 1 Communications (range) 500 km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +0 Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
 
@@ -6431,9 +7839,15 @@ SIDES 4
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -6441,15 +7855,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 12
 
@@ -6473,13 +7899,13 @@ MEDIUM (SLOW)
 
 CR125000
 
-Autopilot (improved), Communications
-(improved), Computer /1, Control System
-(improved), Entertainment System, Navigation System (improved), Sensor System (basic)
+Autopilot (improved), Communications (improved), Computer /1, Control System (improved), Entertainment System, Navigation System (improved), Sensor System (basic)
 
 No weapon
 
 ARMOR
+
+
 
 environments, where owners can simply
 'hop' from rooftop to rooftop, the Pegasus is capable of operating anywhere and many can be found servicing remote settlements on far flung colonies. It features an extremely lightweight (though sturdy) construction, and the rear seats can be folded down to provide 0.5 tons of cargo carrying capacity at the expense of two passengers.
@@ -6488,13 +7914,23 @@ None
 
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -6502,15 +7938,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 11
 
@@ -6538,7 +7986,11 @@ Autopilot (skill level) 3 Communications (range) 500 km Navigation (Navigation D
 
 ARMOR
 
+
+
 TEMPEST SUPERCAR
+
+
 
 FRONT 3
 
@@ -6548,10 +8000,11 @@ SIDES 3
 
 DESCRIPTION
 
+
+
 With grav vehicles becoming more or less ubiquitous, the Tempest
 
-Autopilot (advanced), Communications
-(improved), Computer /2, Control System (enhanced), Entertainment System (Cr5000), Fire Extinguishers, Navigation System (improved), Sensor System (improved), Smart Wheels
+Autopilot (advanced), Communications (improved), Computer /2, Control System (enhanced), Entertainment System (Cr5000), Fire Extinguishers, Navigation System (improved), Sensor System (improved), Smart Wheels
 
 No weapon
 
@@ -6559,11 +8012,17 @@ is the ultimate expression of the ground car – fast, sleek, desirable, and pac
 
 TRAITS
 
+
+
 EQUIPMENT AND WEAPONS
+
+
 
 None
 
 ARMOR
+
+
 
 With superior speed, stealth and sensors, the Abel thermospheric reconnaissance drone is capable of staying on station above enemy territory, undetected, as it relays intelligence to its operators. With a highly intelligent and adaptable drone brain, drones like these are a constant thorn in the side of any opponent, being extremely difficult to find and neutralise.
 
@@ -6577,23 +8036,22 @@ Camouflage (advanced), Communication System (advanced, encrypted, increased rang
 
 ARMOR
 
+
+
 ABEL THERMOSPHERIC RECONNAISSANCE DRONE
 
-Autopilot (skill level) - Communications
-(range)
 
-10000 km Navigation
-(Navigation DM)+4 Sensors (Electronics
-(sensors) DM) +4 Camouflage (Recon DM) -4 Stealth (Electronics
-(sensors) DM) -4
+
+Autopilot (skill level) - Communications (range)
+
+10000 km Navigation (Navigation DM)+4 Sensors (Electronics (sensors) DM) +4 Camouflage (Recon DM) -4 Stealth (Electronics (sensors) DM) -4
 
 TL SKILL AGILITY SPEED (CRUISE)
 
 RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
 15 FLYER (GRAV)
-+2 SUPERSONIC
-(SUBSONIC) 100 YEARS
++2 SUPERSONIC (SUBSONIC) 100 YEARS
 
 -
 -
@@ -6607,13 +8065,19 @@ None
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 ### WEAPONS
 
 No weapon
 
 ARMOR
+
+
 
 The advanced Borderguard drone is designed to stay on station for extended periods of time, protecting vital territory
 
@@ -6624,18 +8088,15 @@ RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 13 FLYER (WING)
 +1 SUBSONIC (VERY FAST) 12500 (18750) 1 10 0.5 TON 90 15 TONS CR565000 WEAPONS
 
-Autopilot (skill level) 3 Communications
-(range)
+Autopilot (skill level) 3 Communications (range)
 
-10000 km Navigation
-(Navigation DM) +4 Sensors (Electronics
-(sensors) DM) +2 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+10000 km Navigation (Navigation DM) +4 Sensors (Electronics (sensors) DM) +2 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 BORDERGUARD GROUND ATTACK DRONE
 
-Actuation System, Autopilot (advanced), Camouflage (improved), Communication System (advanced, increased range), Control System
-(advanced), Folding Wings, Navigation System (advanced), Robot Brain (very advanced), Sensor System (advanced, increased range)
+
+
+Actuation System, Autopilot (advanced), Camouflage (improved), Communication System (advanced, increased range), Control System (advanced), Folding Wings, Navigation System (advanced), Robot Brain (very advanced), Sensor System (advanced, increased range)
 
 against incursion. Once targets have been identified, the Borderguard is fully capable of prioritising orders of threat, engaging, and destroying them without intervention. Unlike trigger happy or overly 'dumb' air superiority drones of lower Tech Level militaries, the Borderguard has an unblemished record.
 
@@ -6651,9 +8112,15 @@ Fixed Mount (gatling laser, improved fire control)
 
 DESCRIPTION
 
+
+
 TRAITS
 
+
+
 EQUIPMENT
+
+
 
 None
 
@@ -6661,12 +8128,15 @@ Gat tling^ Laser
 
 ARMOR
 
+
+
 Utterly lethal, the Firehammer is designed to hunt down, engage and destroy all other grav vehicles with
 
-Anti-Missile System (advanced laser), Autopilot (advanced), Camouflage (advanced), Communication System (advanced, encrypted, increased range, meson communicator), Computer/5, Control System (advanced), ECM (advanced), Ejection Seat, Fire Extinguishers, Life Support (short term), Navigation System (advanced), Sensor System
-(advanced, hardened, increased fidelity x 3, increased range x 2), Vacuum Protection
+Anti-Missile System (advanced laser), Autopilot (advanced), Camouflage (advanced), Communication System (advanced, encrypted, increased range, meson communicator), Computer/5, Control System (advanced), ECM (advanced), Ejection Seat, Fire Extinguishers, Life Support (short term), Navigation System (advanced), Sensor System (advanced, hardened, increased fidelity x 3, increased range x 2), Vacuum Protection
 
 ARMOR
+
+
 
 FIREHAMMER G/FIGHTER
 
@@ -6678,7 +8148,11 @@ None
 
 TRAITS EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 FRONT 50
 
@@ -6686,21 +8160,16 @@ REAR 50
 
 SIDES 50
 
-Autopilot (skill level) 3 Communications
-(range)
+Autopilot (skill level) 3 Communications (range)
 
-10000 km Navigation
-(Navigation DM)+4 Sensors (Electronics
-(sensors) DM) +5 Camouflage (Recon DM) -4 Stealth (Electronics
-(sensors) DM) -
+10000 km Navigation (Navigation DM)+4 Sensors (Electronics (sensors) DM) +5 Camouflage (Recon DM) -4 Stealth (Electronics (sensors) DM) -
 
 TL SKILL AGILITY SPEED (CRUISE)
 
 RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
 15 FLYER (GRAV)
-+2 HYPERSONIC
-(SUPERSONIC) 5000 (7500) 1
++2 HYPERSONIC (SUPERSONIC) 5000 (7500) 1
 
 -
 -
@@ -6711,19 +8180,17 @@ maximum efficiency. What enemy craft it cannot outgun, it can easily out-maneuve
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
 
+
+
 Fusion Gun-Z 10 3DD+3 - -
 
 AP 30, Blast 30, Radiation +4 Advanced Laser 1 2D - - Auto 4 -
 
 Fusi on Gun-z
 
-Autopilot (skill level) 3 Communications
-(range)
+Autopilot (skill level) 3 Communications (range)
 
-1000 km Navigation
-(Navigation DM)+4 Sensors (Electronics
-(sensors) DM)+2 Camouflage (Recon DM) - Stealth (Electronics
-(sensors) DM)-
+1000 km Navigation (Navigation DM)+4 Sensors (Electronics (sensors) DM)+2 Camouflage (Recon DM) - Stealth (Electronics (sensors) DM)-
 
 TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
@@ -6738,11 +8205,17 @@ SIDES 120 (+30)
 
 ARMOR
 
+
+
 Using twelve spinning plasma cutters, the Grinder lives up to its name, slicing through hard rock
 
 WEAPONS
 
+
+
 GRINDER SUBTERRANEAN ASSAULT CAPSULE
+
+
 
 Airlock, Autopilot (advanced), Communications System (advanced), Computer /4, ECM (advanced), Hostile Environment Protection, Life Support (short term), Navigation System (advanced), Prismatic Aerosol Discharger, Reactive Armor (advanced), Sensor System (advanced)
 
@@ -6752,24 +8225,33 @@ No weapon
 
 DESCRIPTION
 
+
+
 TRAITS
 
+
+
 EQUIPMENT
+
+
 
 AFV, Off-Roader
 
 ARMOR
 
+
+
 Designed as a stable missile launching platform, the multi-legged Hydra packs enough firepower to
 
-Anti-Missile System (Advanced Laser) x 2, Autopilot (improved), Bunk, Camouflage
-(advanced), Communication System (advanced, encrypted, increased range, satellite uplink, tightbeam), Computer/4, Control System (advanced), Crane (medium), Decoy Dispenser, ECM
-(advanced), Ejection Seat, Electrostatic Armor, Fire Extinguisher, Fresher, Fusion Plant
-(advanced), Holo-Suite, Life Support (short term), Navigation System (advanced), Nuclear Damper, Sensor System (advanced, hardened, increased fidelity x 2, increased range, sensor mast), Vacuum Protection
+Anti-Missile System (Advanced Laser) x 2, Autopilot (improved), Bunk, Camouflage (advanced), Communication System (advanced, encrypted, increased range, satellite uplink, tightbeam), Computer/4, Control System (advanced), Crane (medium), Decoy Dispenser, ECM (advanced), Ejection Seat, Electrostatic Armor, Fire Extinguisher, Fresher, Fusion Plant (advanced), Holo-Suite, Life Support (short term), Navigation System (advanced), Nuclear Damper, Sensor System (advanced, hardened, increased fidelity x 2, increased range, sensor mast), Vacuum Protection
 
 ARMOR
 
+
+
 HYDRA HEAVY SUPPORT WALKER
+
+
 
 ### WEAPONS
 
@@ -6777,11 +8259,19 @@ Fixed Mount (plasma missile rack x 2, advanced fire control) x 5
 
 AT V
 
+
+
 TRAITS
+
+
 
 EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 smash an armored column or level a small town. Though well-armored, it is not intended for frontline combat and always performs best when there are several fighting walkers between it and the enemy. While slow, it has been described by pilots as being quite 'dainty' in operation. There is a lot of room inside for the pilot and, together with its vast reserves of ammunition, the Hydra is capable of staying on the field for extended periods.
 
@@ -6796,20 +8286,15 @@ TL SKILL AGILITY SPEED (CRUISE)
 RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
 13 DRIVE (WALKER)
-+4 SLOW
-(VERY SLOW) 100 YEARS 1
++4 SLOW (VERY SLOW) 100 YEARS 1
 
 -
 
 2 TONS 720 60 TONS MCR49.23
 
-Autopilot (skill level) 1 Communications
-(range)
+Autopilot (skill level) 1 Communications (range)
 
-10000 km Navigation
-(Navigation DM)+4 Sensors (Electronics
-(sensors) DM) +4 Camouflage (Recon DM) -4 Stealth (Electronics
-(sensors) DM) -
+10000 km Navigation (Navigation DM)+4 Sensors (Electronics (sensors) DM) +4 Camouflage (Recon DM) -4 Stealth (Electronics (sensors) DM) -
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Plasma Missile Rack 50 1DD+1 84 MCr2.8
 
@@ -6823,13 +8308,9 @@ REAR 60
 
 SIDES 100
 
-Autopilot (skill level)- Communications
-(range)
+Autopilot (skill level)- Communications (range)
 
-10000 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM) +3 Camouflage (Recon DM) -2 Stealth (Electronics
-(sensors) DM) -
+10000 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM) +3 Camouflage (Recon DM) -2 Stealth (Electronics (sensors) DM) -
 
 TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
@@ -6843,20 +8324,27 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
 
+
+
 Fusion Gun-X 3 3DD - -
 
 AP 10, Blast 15, Radiation +4 Heavy Gauss Cannon 3 2DD 60 Cr800 AP 15, Auto 2 +4
 
 ARMOR
 
+
+
 The Manticore is a medium-class frontline walker, capable of facing down other walkers and armored
 
 WEAPONS
 
+
+
 MANTICORE FIGHTING WALKER
 
-Autopilot (improved), Camouflage (advanced), Communication System
-(advanced, encrypted, increased range, tightbeam), Computer/4, Control System (advanced), ECM (advanced), Ejection Seat, Fire Extinguisher, Fusion Plant (advanced), Holo-Suite, Life Support (short term), Navigation System (advanced), Sensor System (advanced, hardened, increased range), Vacuum Protection
+
+
+Autopilot (improved), Camouflage (advanced), Communication System (advanced, encrypted, increased range, tightbeam), Computer/4, Control System (advanced), ECM (advanced), Ejection Seat, Fire Extinguisher, Fusion Plant (advanced), Holo-Suite, Life Support (short term), Navigation System (advanced), Sensor System (advanced, hardened, increased range), Vacuum Protection
 
 vehicles, with a decent chance of victory so long as its pilot retains the initiative. Though primarily a military vehicle, some worlds have been known to repurpose the Manticore and similar walkers as duelling or battle arena machines where pilots fight to the death for a fortune in Credits.
 
@@ -6864,11 +8352,19 @@ Fixed Mount (fusion gun-x, advanced fire control) Fixed Mount (heavy gauss canno
 
 DESCRIPTION
 
+
+
 TRAITS
+
+
 
 EQUIPMENT
 
+
+
 AT V
+
+
 
 Fu
 
@@ -6880,13 +8376,19 @@ un-x/Gauss (^) C an no n
 
 ARMOR
 
+
+
 A highly advanced APC, the Newpoint is designed to deploy a squad of infantry quickly and safely anywhere
 
 Autopilot (enhanced), Camouflage (advanced), Communication System (advanced, encrypted, meson communicator), Computer/3, Control System (improved), ECM (advanced), Fire Extinguishers, Hostile Environment Protection, Life Support (short term), Navigation System (advanced), Prismatic Aerosol Discharger, Sensor System (advanced, hardened, increased fidelity)
 
 ARMOR
 
+
+
 NEWPOINT GRAV APC
+
+
 
 ### WEAPONS
 
@@ -6894,11 +8396,19 @@ Small Turret (gauss cannon, improved fire control)
 
 AT V
 
+
+
 TRAITS
+
+
 
 EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 in a combat zone. Originally built for large militaries, it has recently started selling to mercenary forces looking for the ultimate in soldier safety. It is flexible enough to carry important cargoes and has the weaponry to act as a fire point, though the Newpoint is no match for a dedicated fighting vehicle.
 
@@ -6913,20 +8423,15 @@ TL SKILL AGILITY SPEED (CRUISE)
 RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
 13 FLYER (GRAV)
-+0 HIGH
-(MEDIUM) 4000 (6000) 2 8
++0 HIGH (MEDIUM) 4000 (6000) 2 8
 
 -
 
 48 12 TONS MCR49.23
 
-Autopilot (skill level) 2 Communications
-(range)
+Autopilot (skill level) 2 Communications (range)
 
-1000 km Navigation
-(Navigation DM)+4 Sensors (Electronics
-(sensors) DM) +3 Camouflage (Recon DM) -4 Stealth (Electronics
-(sensors) DM) -
+1000 km Navigation (Navigation DM)+4 Sensors (Electronics (sensors) DM) +3 Camouflage (Recon DM) -4 Stealth (Electronics (sensors) DM) -
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Gauss Cannon 2 1DD 200 Cr1000 AP 10, Auto 3 +2
 
@@ -6938,13 +8443,9 @@ REAR 100
 
 SIDES 125
 
-Autopilot (skill level)- Communications
-(range)
+Autopilot (skill level)- Communications (range)
 
-10000 km Navigation
-(Navigation DM)+2 Sensors (Electronics
-(sensors) DM) +4 Camouflage (Recon DM) -4 Stealth (Electronics
-(sensors) DM) -
+10000 km Navigation (Navigation DM)+2 Sensors (Electronics (sensors) DM) +4 Camouflage (Recon DM) -4 Stealth (Electronics (sensors) DM) -
 
 TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPING COST
 
@@ -6960,14 +8461,17 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Heavy Gauss Canno
 
 ARMOR
 
+
+
 Despite functioning as a tracked vehicle on a grav battlefield, the Predator was intended to punch
 
 WEAPONS
 
+
+
 PREDATOR AMBUSH-HUNTER TANK
 
-Airlock, Camouflage (advanced), Communication System (advanced), Computer/3, Control System (improved), ECM (advanced), Fire Extinguishers, Life Support (short term), Navigation System
-(improved), Prismatic Aerosol Discharger, Sensor System (advanced, increased fidelity x 2, sensor mast)
+Airlock, Camouflage (advanced), Communication System (advanced), Computer/3, Control System (improved), ECM (advanced), Fire Extinguishers, Life Support (short term), Navigation System (improved), Prismatic Aerosol Discharger, Sensor System (advanced, increased fidelity x 2, sensor mast)
 
 above its own weight, using size, terrain and driver skill to scoot into forward positions where it could lie in wait and ambush far more expensive armored vehicles. In practice, militaries looking to field a cheap tank are not usually those with an excess of skilled crew, but the Predator remains viable in the right hands nonetheless.
 
@@ -6975,9 +8479,15 @@ Large Turret (heavy gauss cannon, advanced fire control) x 5 Pintle Mount (gauss
 
 DESCRIPTION
 
+
+
 TRAITS
 
+
+
 EQUIPMENT
+
+
 
 AFV, Tracked
 
@@ -6987,6 +8497,8 @@ Gau ss
 
 ARMOR
 
+
+
 RAKATAMA G/CARRIER
 
 Autopilot (skill level) 3 Communications (range) 1000 km Navigation (Navigation DM) +4 Sensors (Electronics (sensors) DM) +2 Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
@@ -6995,9 +8507,15 @@ A grav carrier is effectively a flying armored personnel carrier, and is a stand
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -7005,15 +8523,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 15
 
@@ -7043,6 +8573,8 @@ Small Turret (fusion gun-x, enhanced fire control)
 
 ARMOR
 
+
+
 FRONT 120
 
 REAR 80
@@ -7053,13 +8585,21 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Fusion Gun-X 3 3D
 
 AFV
 
+
+
 TRAITS EQUIPMENT AND WEAPONS
 
+
+
 DESCRIPTION
+
+
 
 Fusi on Gun-x
 
 ARMOR
+
+
 
 The Walkure is a light grav assault vehicle used primarily in the scouting
 
@@ -7074,20 +8614,21 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 80 20 TONS MCR3.8
 WEAPONS
 
-Autopilot (skill level) 3 Communications
-(range)
 
-10000 km Navigation
-(Navigation DM) +4 Sensors (Electronics
-(sensors) DM) +3 Camouflage (Recon DM) -4 Stealth (Electronics
-(sensors) DM) -4
+
+Autopilot (skill level) 3 Communications (range)
+
+10000 km Navigation (Navigation DM) +4 Sensors (Electronics (sensors) DM) +3 Camouflage (Recon DM) -4 Stealth (Electronics (sensors) DM) -4
 
 WALKURE FIGHTING GRAV ASSAULT VEHICLE
 
-Autopilot (advanced), Camouflage (advanced), Communications System (advanced, encrypted, increased range, tightbeam), Computer/5, Control System (advanced), Ejection Seats x 2, Life Support (short term), Navigation System (advanced), Sensor System (advanced, hardened, increased fidelity, increased range), Stealth
-(advanced), Vacuum Protection
+
+
+Autopilot (advanced), Camouflage (advanced), Communications System (advanced, encrypted, increased range, tightbeam), Computer/5, Control System (advanced), Ejection Seats x 2, Life Support (short term), Navigation System (advanced), Sensor System (advanced, hardened, increased fidelity, increased range), Stealth (advanced), Vacuum Protection
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
+
+
 
 Heavy Gauss Cannon 3 2DD+2 60 Cr800
 
@@ -7105,17 +8646,27 @@ role and attack on distributed troops and soft vehicles where aerial attackers m
 
 DESCRIPTION
 
+
+
 TRAITS
+
+
 
 EQUIPMENT
 
+
+
 AFV
+
+
 
 Gau ss
 
 (^) C an no n Tac^ Launcher
 
 ARMOR
+
+
 
 Found only within militaries keen on testing the limits of interstellar law,
 
@@ -7127,17 +8678,19 @@ SIDES 40
 
 ARMOR
 
+
+
 ZIRCON NUCLEAR GUN DRONE
+
+
 
 WEAPONS
 
-Autopilot (skill level) - Communications
-(range)
 
-1000 km Navigation
-(Navigation DM)- Sensors (Electronics
-(sensors) DM) -2 Camouflage (Recon DM) -4 Stealth (Electronics
-(sensors) DM) -
+
+Autopilot (skill level) - Communications (range)
+
+1000 km Navigation (Navigation DM)- Sensors (Electronics (sensors) DM) -2 Camouflage (Recon DM) -4 Stealth (Electronics (sensors) DM) -
 
 Small Turret (medium autocannon, improved fire control)
 
@@ -7156,6 +8709,8 @@ Camouflage (advanced), Communication System (advanced, encrypted), Fire Extingui
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
 
+
+
 Medium Autocannon 6 6DD 100 Cr30000
 
 Auto 3, Blast 500, Radiation +2
@@ -7168,9 +8723,15 @@ None
 
 TRAITS
 
+
+
 EQUIPMENT
 
+
+
 DESCRIPTION
+
+
 
 Au to ca nn on
 

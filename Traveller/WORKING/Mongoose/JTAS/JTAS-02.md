@@ -218,7 +218,8 @@ Wherever this weapon first originated, its angular design speaks of a culture pr
 
 Containing a capacitor, which must be allowed to charge for one round before each shot is fired, the nova gun is a weapon unsuited to frantic firefights but has found use as a sniper rifle. A nova gun includes an x-ray laser sight as standard.
 
-Weapon TL Range Damage Kg Cost Nova Gun 13 550 4D+3 7 Cr
+Weapon TL Range Damage Kg Cost
+Nova Gun 13 550 4D+3 7 Cr
 
 Magazine Power Pack Cost Traits 100 Cr2000 Scope, Zero-G
 
@@ -438,6 +439,8 @@ Battalion headquarters includes additional support elements such as logistics tr
 Each lift cavalry troop contains three lift cavalry platoons of identical composition. A platoon has two grav tanks, an infantry component riding a grav APC and a platoon command vehicle based on the standard APC but equipped for command and fire support functions.
 
 STRIKE FROM SPACE
+
+
 **48** 4518 TH
 **Squadron x2 Grav Tanks x2 Platoon Command Infantry/Grav APC Troops x4 Lift Cavalry Platoons x3 Fire function** Jump Troops battalion
 **Jump Troops Support Units Assault Troops Fire Support Platoon Spport Section Grav Tanks Repair Workshop MLRS-mounted Grav Vehicles** Alpha company DELTA company BETA company GAMMA company
@@ -591,8 +594,7 @@ TL13 Tons Cost (MCr) Hull 300 tons, Streamlined – 18 Emissions Absorption Grid
 
 1 1.75
 
-Systems Fuel Processor (40 tons/day) 2 0.1 Fuel Scoops – – Mail Distribution Array
-(TL13)
+Systems Fuel Processor (40 tons/day) 2 0.1 Fuel Scoops – – Mail Distribution Array (TL13)
 
 20 10
 
@@ -605,6 +607,8 @@ CREW RUNNING COSTS Pilot, Astrogator, Engineers x 2, Gunners x 2
 Maintenance Cost : Cr12379/month Purchase Cost : MCr148.55
 
 HULL POINTS
+
+
 
 POWER REQUIREMENTS Basic Ship Systems Maneuver Drive Jump Drive Sensors Weapons Fuel Processor
 
@@ -775,8 +779,7 @@ Weapon Range Damage Fire Control Rotary Autocannon 1 6D +2
 
 Magazine Magazine Cost Traits 500 Cr1200 Auto 5
 
-TL 8 Skill Flyer (wing) Agility +2 Speed (cruise) Supersonic
-(Subsonic) Range (cruise) 2,000 (3,000)
+TL 8 Skill Flyer (wing) Agility +2 Speed (cruise) Supersonic (Subsonic) Range (cruise) 2,000 (3,000)
 
 Armor Front 8 Sides 8 Rear 8
 
@@ -1030,8 +1033,7 @@ An operating jump drive requires several basic components which, when operating 
 
 #### Power Source
 
-Jumping uses large amounts of energy to rip open the barriers between normal space and jump space. Normally, only a fusion power plant can supply this energy. Some alternate systems make use of solar power generators (which operate far more slowly) or anti-matter power systems
-(rare and very high-tech).
+Jumping uses large amounts of energy to rip open the barriers between normal space and jump space. Normally, only a fusion power plant can supply this energy. Some alternate systems make use of solar power generators (which operate far more slowly) or anti-matter power systems (rare and very high-tech).
 
 #### Energy Storage Nodes
 
@@ -1148,7 +1150,7 @@ Naval intelligence knows the data packet was to be sent to [[Yori]], concealed i
 
 ### THE MISSION
 
-Whilst passing through Regina starport, the Travellers are approached by a robotic messenger, who asks them if they would be willing to speak to its client. The client has an office nearby and turns out to be a Vargr businesswoman named Hazel Kfonrreza. Like many local Vargr she has adopted a pronounceable Anglicised forename. She is a (very) minor information and trade broker making a decent living out of commerce coming through Regina's starport. She is also an operative of Imperial Naval Intelligence but will not admit that.
+Whilst passing through Regina starport, the Travellers are approached by a robotic messenger, who asks them if they would be willing to speak to its client. The client has an office nearby and turns out to be a Vargr businesswoman named Hazel Kfonrreza. Like many local Vargr she has adopted a pronounceable Anglicised forename. She isa (very) minor information and trade broker making a decent living out of commerce coming through Regina's starport. She is also an operative of Imperial Naval Intelligence but will not admit that.
 
 Hazel tells the Travellers that, like many small business owners, she has a few distant clients who ask her to look out for items they are searching for. One of them works for Brnava Curiosities at [[Yori]] starport, two parsecs away. Brnava Curiosities presumably has a number of end clients and uses people like Hazel to spread its network. She does not know who the end client is.
 
@@ -1321,7 +1323,7 @@ _Alicia knew about the packages being smuggled and wants to retrieve them. She w
 
 #### Ensal Haive
 
-Ensal is a relative – 'actually a sort of third or fourth cousin a couple of times removed, but we were close as kids' – of the ship's astrogator. He holds a (very) small stake in HighLine Shipping, as do some of his relatives. All of them want to know what really happened.
+Ensal is a relative – 'actually a sort of third or fourth cousin a couple of times removed, but we were close as kids' – of the ship's astrogator. He holdsa (very) small stake in HighLine Shipping, as do some of his relatives. All of them want to know what really happened.
 
 _Ensal is not a relative of any of the crewmembers and his stake in the company was recently purchased to legitimise his inclusion in the investigation. In fact Ensal is a representative of Combined Port Services and wishes to determine if his company was in any way responsible for the incident, then to suppress evidence if it was._
 
@@ -1418,7 +1420,7 @@ TL15 Tons Cost (MCr) Hull 10 tons, Streamlined, Reinforced
 
 - 0.9
 
-Aerofins 0.5 0.05 Armor Bonded Superdense, Armor: 3 0.24 0.216 M-Drive Thrust 9 (reduced size x2) 0.72 1.728 Power Plant Fusion (TL15), Power 20 1 2 Fuel Tanks 40 weeks of operation 1 – Bridge Dual Cockpit 2.5 0.015 Holographic Controls – 0.00375 Computer Computer/10 – 0.16 Sensors Military Grade 2 4.1 Weapons Fixed-Mount (pulse laser)(accu- rate, high-yield)
+Aerofins 0.5 0.05 Armor Bonded Superdense, Armor: 3 0.24 0.216 M-Drive Thrust9 (reduced size x2) 0.72 1.728 Power Plant Fusion (TL15), Power 20 1 2 Fuel Tanks 40 weeks of operation 1 – Bridge Dual Cockpit 2.5 0.015 Holographic Controls – 0.00375 Computer Computer/10 – 0.16 Sensors Military Grade 2 4.1 Weapons Fixed-Mount (pulse laser)(accu- rate, high-yield)
 
 - 1.375
 
@@ -1428,9 +1430,13 @@ CREW RUNNING COSTS Pilot, Sensors Operator Maintenance Cost : Cr1545.6/month Pur
 
 POWER REQUIREMENTS
 
+
+
 Basic Ship Systems Maneuver Drive Sensors Weapons Systems
 
 HULL POINTS
+
+
 
 **5 4**
 
@@ -1441,6 +1447,8 @@ Fuel
 ## QUIET VIGILANCE
 
 OUTSYSTEM PATROL VESSEL
+
+
 
 Patrolling the outer reaches of a star system is a necessary but difficult undertaking. Vessels based at the mainworld can sweep the inner system in a short time frame but the long transits required to reach an outsystem gas giant or rockball world require either jump-capable craft or long- duration non-starships. The alternative is to build bases in the outsystem to support system defence boat (SDB) flotillas. This is, however, expensive and inflexible.
 
@@ -1466,8 +1474,7 @@ The ship's command area is forward of the accommodation zone and constructed as 
 
 #### Quiet Vigilance outsystem Patrol vessel
 
-TL12 Tons Cost (MCr) Hull 1,500 tons, Close Structure – 6.75 Armor Crystalliron, Armor: 6 112.5 2.025 M-Drive Thrust 3 45 90 Power Plant Fusion (TL12), Power 900 60 60 Fuel Tanks 160 weeks of operatioN<sub>2</sub>40 – Bridge Standard Bridge x 2 80 15 Computer Computer/20 – 5 Sensors Military Grade 2 4.1 Sensor Stations x4 4 2 Shallow Penetration Suite 10 5 Weapons Small Missile Bay x4 200 48 Triple Turret (pulse lasers) x 6 6 24 Single Turret (beam laser) x5 6 4.2 Ammunition Missile Stowage (480 missiles) 40 – Systems Fuel Scoop – 1 Hangar (100 tons) 200 40 Type I Docking Clamps x4 4 2
-(4x 30-ton small craft) (120) – Brig 4 0.25 Armory 2 0.5 Briefing Room 4 0.5 Medical Bay 4 2 Workshops x2 12 1.8 UNREP System x4 4 2 Software Library – – Maneuver/0 – – Launch Solution/1 – 10
+TL12 Tons Cost (MCr) Hull 1,500 tons, Close Structure – 6.75 Armor Crystalliron, Armor: 6 112.5 2.025 M-Drive Thrust 3 45 90 Power Plant Fusion (TL12), Power 900 60 60 Fuel Tanks 160 weeks of operatioN<sub>2</sub>40 – Bridge Standard Bridge x 2 80 15 Computer Computer/20 – 5 Sensors Military Grade 2 4.1 Sensor Stations x4 4 2 Shallow Penetration Suite 10 5 Weapons Small Missile Bay x4 200 48 Triple Turret (pulse lasers) x 6 6 24 Single Turret (beam laser) x5 6 4.2 Ammunition Missile Stowage (480 missiles) 40 – Systems Fuel Scoop – 1 Hangar (100 tons) 200 40 Type I Docking Clamps x4 4 2 (4x 30-ton small craft) (120) – Brig 4 0.25 Armory 2 0.5 Briefing Room 4 0.5 Medical Bay 4 2 Workshops x2 12 1.8 UNREP System x4 4 2 Software Library – – Maneuver/0 – – Launch Solution/1 – 10
 
 TL12 Tons Cost (MCr)
 
@@ -1486,6 +1493,8 @@ CREW RUNNING COSTS Captain, Pilots x3, Astrogator, Officers x5, Engineers x3, Ma
 Maintenance Cost : Cr30078/month Purchase Cost : MCr360.945
 
 HULL POINTS
+
+
 
 to Deck 2
 
@@ -1511,6 +1520,8 @@ to Deck 2
 9**
 
 POWER REQUIREMENTS
+
+
 
 Basic Ship Systems Maneuver Drive Jump Drive Sensors Weapons
 
@@ -1606,6 +1617,8 @@ These rules provide a system for when Travellers encounter air power. Targets ar
 
 AIRBORNE AND AEROSPACE WEAPONS
 
+
+
 The majority of airborne and aerospace weapons can be categorised as guns, bombs or missiles, depending on their characteristics.
 
 **Guns** in this context include all projectile and energy weapons that can be fired from an airborne platform, using pulses, beams or projectiles that are not powered after they leave the weapon. Guns range from pistols and small arms fired from a flying vehicle to machineguns, autocannon and laser weapons mounted on aircraft or space vehicles. A starship's lasers fired from orbit are considered guns as they have similar targeting considerations to smaller gun weapons.
@@ -1616,12 +1629,13 @@ The majority of airborne and aerospace weapons can be categorised as guns, bombs
 
 SPOTTING
 
+
+
 One of the main problems facing ground-attack pilots is finding and identifying a target whilst moving fast. Assistance is often provided by forward observers, pathfinders, airborne controllers or troops on the ground. It is possible to spot a target first then come round for an attack
 
 pass but this increases the risk of being hit by ground fire and is by no means guaranteed. Even the best ground-attack pilot can be confused by terrain features flashing by below and fail to find the target again.
 
-To detect a typical ground target whilst airborne requires a Very Difficult
-(12+) Recon check, with DM-1 at Medium speed, DM-2 at High Speed, DM-4 at Fast speed, DM-6 at Very Fast speed and DM-8 at Subsonic speed. It is impossible to spot ground targets visually at faster Speed Bands. Positive DMs are available, depending upon circumstances:
+To detect a typical ground target whilst airborne requires a Very Difficult (12+) Recon check, with DM-1 at Medium speed, DM-2 at High Speed, DM-4 at Fast speed, DM-6 at Very Fast speed and DM-8 at Subsonic speed. It is impossible to spot ground targets visually at faster Speed Bands. Positive DMs are available, depending upon circumstances:
 
 On-Board Sensors : The sensor package of an aircraft or space vessel grants DM+2 to spot targets for every three Tech Levels of the aircraft. A TL8 jet fighter therefore gains DM+4 to spot targets using its own sensors. This can be countered with camouflage or stealth. Sensor DMs are cumulative with a targeting feed or marked target.
 
@@ -1644,6 +1658,8 @@ Strafing : Weapons suitable for strafing have the Auto trait, including autocann
 **Guided Weapons** : Guided weapons with the Smart trait apply their normal DM to hit. Weapons guided by external means, such as a laser designator, will automatically hit the target with a successful attack roll from the designator. This normally requires personnel on the ground or in a slow- moving spotting craft to keep the laser on-target.
 
 SCATTER
+
+
 
 Ordnance that comes down from the sky has to go somewhere. If the target is missed, the ordnance will land 1Dx5% of the distance between attacker and target, in a direction (random or otherwise) determined by the Referee.
 

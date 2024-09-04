@@ -164,7 +164,7 @@ considered to refer to human Social Standing.
 To generate the first five characteristics, throw 2d6 five times and
 allocate them as normal. Endurance, Intelligence and Education
 undergo no adjustments. Strength gains a +2 bonus, while Dexterity
-suffers a –2 penalty. The lower limit on characteristics is 1 (below 1
+suffers a –2 penalty. The lower limit on characteristics is1 (below 1
 can happen only from wounding and only temporarily); the upper
 limit is 15 except for Strength and Endurance, which is 16.
 
@@ -245,7 +245,7 @@ distant worlds. +1 Ancestral Territory.
 
 2d62d6 Past DeedPast Deed
 2 Dishonored! Your forebear committed some dishonorable act that caused the clan to strip your family of all
-territory. Gain Independence 0 (if male) or Trade 0 (if female). Lose all Ancestral Territory.
+territory. Gain Independence0 (if male) or Trade0 (if female). Lose all Ancestral Territory.
 3 Your forebear was beset by many foes, one of whom conquered much of your land. Gain an Enemy and Gun
 Combat 0. –4 Ancestral Territory.
 4 Your forebear was a fool who gambled away much of your land. Gain Gamble 0 or Carouse 0. –3 Ancestral
@@ -260,8 +260,7 @@ Ancestral Territory.
 11 Your forebear died gloriously in battle. +5 Ancestral Territory.
 12 Your forebear was among the greatest heroes of the clan. +6 Ancestral Territory.
 
-Characters have a Social Standing equal to their Ancestral Territory
-(to a minimum of 2). If your Social Standing is 10 or more and you
+Characters have a Social Standing equal to their Ancestral Territory (to a minimum of 2). If your Social Standing is 10 or more and you
 are male, gain Leadership 1.
 
 Only the first son in the family inherits the family Territory. Next,
@@ -290,8 +289,7 @@ are four Imperial years (six Aslan years) each.
 ###### Naming
 
 The material on language gives some basic guidelines on names
-and words used by the Aslan. Players may wish to use Aslan names
-(if so, they are encouraged to pick relatively pronounceable ones!).
+and words used by the Aslan. Players may wish to use Aslan names (if so, they are encouraged to pick relatively pronounceable ones!).
 There is no necessity for doing so, though it adds to the flavor and
 atmosphere of the game.
 
@@ -999,8 +997,7 @@ Clan
 
 Those Aslan who fail to find their place in society become Outcasts
 and are seen as the scum of the stars by the rest of their species.
-Outcasts who survive may be able to build on their skills and self-
-reliance and eventually make something of themselves but few
+Outcasts who survive may be able to build on their skills and self-reliance and eventually make something of themselves but few
 survive...
 
 Qualification:Qualification: None.
@@ -1087,7 +1084,7 @@ attempt to qualify for another career next term but you owe a great debt to a cl
 
 RankRank TitleTitle Skill or BenefitSkill or Benefit
 0
-1 Outcast Independence 1 (if male), Jack of all Trades 1 (if female)
+1 Outcast Independence1 (if male), Jack of all Trades1 (if female)
 2
 3 Survivor Streetwise 1
 4
@@ -1185,7 +1182,7 @@ RankRank TitleTitle Skill or BenefitSkill or Benefit
 0
 1 Outlaw Melee (claw) 1 or Streetwise 1
 2
-3 Feared Outlaw Independence 1 (if male), Jack of all Trades 1 (if female)
+3 Feared Outlaw Independence1 (if male), Jack of all Trades1 (if female)
 4
 5
 6 Outlaw Chief Leadership 1
@@ -1655,8 +1652,7 @@ Independence 1 or a Contact.
 5 You have the opportunity to trade Aslan goods. Roll Independence 8+; if you succeed, gain an extra Benefit roll.
 6 You make a Contact in a distant spaceport.
 7 Life Event. Roll on the Life Events table.
-8 You pick up some useful skills working on your ship. Gain one of Pilot (spacecraft), Gunnery (turret), Engineering
-(any) or Mechanic.
+8 You pick up some useful skills working on your ship. Gain one of Pilot (spacecraft), Gunnery (turret), Engineering (any) or Mechanic.
 9 You are forced to recruit a new crew. Roll Carouse or Streetwise 8+. If you succeed, gain an Ally as one of your new
 crew proves a true friend. If you fail, one of the new crew robs you – lose any Benefit rolls from this term and gain
 an Enemy.
@@ -1707,8 +1703,7 @@ ally of the clan heir overriding the mercenary soon after.
 The Aslan deal with skills primarily on a gender basis: males feel
 that some skills are dishonorable and beneath them; females feel
 that some skills are shallow or simply unsuitable. As a result, Aslan
-perceive and identify skills as common (available to both sexes), male
-(suitable only for males) and female (suitable only for females).
+perceive and identify skills as common (available to both sexes), male (suitable only for males) and female (suitable only for females).
 
 In addition, there are a few skills that a non-Aslan would classify
 as rare (generally unknown or unappreciated in Aslan society). On
@@ -2082,8 +2077,7 @@ diminished over time and is now little more than a vestigial stump
 in some bloodlines.
 
 Aslan sleep about one-third of the time: shaped by their homeworld's
-rotation period, their sleeping time is roughly 11 to 12 hours (one-
-third of Kusyu's 36-hour day). Like humans, lack of sleep degrades
+rotation period, their sleeping time is roughly 11 to 12 hours (one-third of Kusyu's 36-hour day). Like humans, lack of sleep degrades
 their abilities drastically.
 
 The Aslan gestation period is roughly one _ftahea_ or ten months in
@@ -2146,8 +2140,7 @@ stock originally from Earth).
 Early [[Terra|Terran]] explorers regarded the Aslan as 'lion-like,' and the simile
 has stuck ever since, although the Aslan bear little resemblance to
 Terrestrial lions. Nonetheless, this early misnomer has influenced a
-great deal of human thinking about the Aslan, including terminology
-(the use of pride to translate _ahriy_ , for instance) and ascribed
+great deal of human thinking about the Aslan, including terminology (the use of pride to translate _ahriy_ , for instance) and ascribed
 behaviour – which is not at all leonine. The derivation of the word
 Aslan is unknown but is sometimes credited to human explorers
 who first contacted the race.
@@ -2305,8 +2298,7 @@ Aslan culture.
 
 Failing to immediately apologise for familiarity is impolite; failing
 to apologise for impoliteness when corrected is discourteous. An
-Aslan may apologise verbally or by making signs of submission
-(offering one's throat to the offended party or abasing oneself).
+Aslan may apologise verbally or by making signs of submission (offering one's throat to the offended party or abasing oneself).
 Without an apology, any of these three behaviours can give offence
 and an offended Aslan becomes an enemy.
 
@@ -2366,8 +2358,7 @@ nominated as champion.
 
 For non-Aslan, one way to gain an Aslan's respect is to be willing
 to challenge to duel when required and to duel if challenged. Aslan
-consider those who do not embrace their culture to be tahiwihteakhtau
-(barbarians). Willingness to behave in the honorable fashion is one
+consider those who do not embrace their culture to be tahiwihteakhtau (barbarians). Willingness to behave in the honorable fashion is one
 indication that one is not a completely ignorant barbarian.
 
 Since Aslan especially respect prowess in battle, upholding one's
@@ -2898,8 +2889,7 @@ navigator as female (because he considers navigator to be a female
 occupation). Such judgements have strange ramifications, because an
 Aslan will accept discourteous behaviour from the opposite sex, while
 challenging to a duel a human believed to be of the same sex. Aslan
-will also refuse to hire individuals of a gender inappropriate to the job
-(qualified females will not be hired as pilots; qualified males will not be
+will also refuse to hire individuals of a gender inappropriate to the job (qualified females will not be hired as pilots; qualified males will not be
 hired as brokers); yet if the human's gender is not directly pointed out,
 an Aslan will often assume correct gender based on skill qualifications.
 
@@ -2990,8 +2980,7 @@ and precious metals.
 Aslan architecture and design tends to the organic and the rounded;
 there are few straight lines, just flowing shapes. They favor artistry
 over efficiency in the design of their buildings – every Aslan structure
-is different, with its own variations and surprises. Even in mass-
-produced housing, the residents will strive to make their territory
+is different, with its own variations and surprises. Even in mass-produced housing, the residents will strive to make their territory
 uniquely theirs. Human visitors have described the dominant trait of
 Aslan architecture as unsettling – one is never wholly sure if one is
 alone and unwatched. Every garden seems to have a hidden balcony
@@ -3053,8 +3042,7 @@ established on Kusyu, they were an alliance of the largest and strongest
 of the Aslan clans. Since then, the criteria for the composition of
 the Twenty-Nine has been strength and land; population, military
 strength, industrial power and landholdings are together considered
-when evaluating relative rankings of clans. Of the original Twenty-
-Nine, nineteen clans remain in it today; the remaining ten positions
+when evaluating relative rankings of clans. Of the original Twenty-Nine, nineteen clans remain in it today; the remaining ten positions
 have been occupied (some by a succession of clans) by new clans
 which have risen in strength, power and population to replace the
 others. Replacement of clans on the Tlaukhu occurs as the result of
@@ -3077,8 +3065,7 @@ each individual clan in the twenty-nine has over vassal clans). The
 closest analogy that might be found in human history is the League
 of Nations, a body with no authority in which important issues and
 disputes can be debated but not necessarily resolved, save by the
-agreement of all concerned. Each clan is an independent entity
-(but may also be vassal to another clan). It controls space within
+agreement of all concerned. Each clan is an independent entity (but may also be vassal to another clan). It controls space within
 each system in which a world is owned; when control of a world is
 split among several clans, there is a balance of power in the system
 as well. Each clan in such a case might maintain its own base, its
@@ -3142,7 +3129,7 @@ Humans classify the government of Kusyu as civil service
 bureaucracy but Aslan classify it as split control, similar to
 balkanised for humans. All of the 29 Tlaukhu clans (and about
 300 others) have landholds on Kusyu. Weapons restrictions
-are about equivalent to human law level 4 (military weapons
+are about equivalent to human law level4 (military weapons
 prohibited). Technological level is E and is about the maximum
 to be encountered in the Hierate.
 
@@ -3172,13 +3159,11 @@ claws or else hire a rukt'hao, a private investigator.
 
 For crimes of honor, judgement is made by the pride or clan head,
 depending on the severity of the crime. Crimes of honor are the most
-serious of crimes in Aslan society and penalties range from banishment
-(at a minimum) through mutilation or branding to forfeiture of all
+serious of crimes in Aslan society and penalties range from banishment (at a minimum) through mutilation or branding to forfeiture of all
 property and death. In practice, most crimes of honor are never tried: a
 duel to the death disposes of the accused before a trial can take place.
 
-On worlds where control is split between many clans
-(Aslan government types H or J), transportation and
+On worlds where control is split between many clans (Aslan government types H or J), transportation and
 trade routes are similarly owned by corporations
 that lease land from the clans through which the
 routes pass. All destinations, however, would be
@@ -3432,8 +3417,7 @@ an Aslan fighter pilot has spent years practising dogfighting and
 attack runs. The downside is that the average Aslan combatant has
 no idea how his weapons work and can be thrown off by even minor
 damage or a change in circumstances. One probably apocryphal tale
-from the early Border Wars tells of an Aslan ace who destroyed half-
-a-dozen Solomani fighters in a single engagement without taking a
+from the early Border Wars tells of an Aslan ace who destroyed half-a-dozen Solomani fighters in a single engagement without taking a
 scratch – then flew his fighter into a star because he did not know it
 would damage his ship.
 
@@ -3469,14 +3453,12 @@ More frequent dangers, however, are those of direct encounters with
 vessels of a hostile clan or with privateers. When vessels belonging
 to clans which are at war with each other meet, their actions are
 governed by the particular rules applicable to the clan war. A chase
-and battle may ensue; ritualised (but still deadly) games of coward
-(collision courses, deliberate near-misses, ramming) may take
+and battle may ensue; ritualised (but still deadly) games of coward (collision courses, deliberate near-misses, ramming) may take
 place; insults and threats may be exchanged; or nothing at all may
 happen. When a clan war has escalated in intensity enough for there
 to be open hostilities, then there is also the potential for privateers:
 corporate-owned raiding ships licensed by a clan to raid the ships
-and commerce of the enemy clan. Such corporate activity is profit-
-oriented and considered a legitimate enterprise.
+and commerce of the enemy clan. Such corporate activity is profit-oriented and considered a legitimate enterprise.
 
 #### THE MILITARY
 
@@ -3492,8 +3474,7 @@ External threats to the Aslan are infrequent (the last of the great Aslan Border
 Wars ended in 380 Imperial) and also are handled on the clan level.
 
 One problem Aslan sometimes have is recognizing that non-Aslan
-are less likely to fight by the strict set of rules which govern Aslan-on-
-Aslan conflicts. Until realised, the Aslan often fight at a disadvantage.
+are less likely to fight by the strict set of rules which govern Aslan-on-Aslan conflicts. Until realised, the Aslan often fight at a disadvantage.
 When they do recognize that the enemy is not abiding by the supposed
 rules, Aslan tend to over-react and begin all-out warfare.
 
@@ -3543,8 +3524,7 @@ warfare and military forces.
 #### LANGUAGE & NAMING
 
 All Aslan (with the exception of a few lost colonies) share a common
-language and culture. However, this culture is highly complex and custom-
-bound and individual names and words can become rather unwieldy.
+language and culture. However, this culture is highly complex and custom-bound and individual names and words can become rather unwieldy.
 
 The clan head of an independent clan (vassal to no other clan)
 is known simply by the clan's name; where differentiation is
@@ -3611,8 +3591,7 @@ female glyphs to provide more accurate information.
 
 ###### Aslan Mathematics
 
-The Aslan have four fingers, so they naturally use base 8 mathematics
-(1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 20 and so on). Powers of 8
+The Aslan have four fingers, so they naturally use base 8 mathematics (1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 20 and so on). Powers of 8
 are therefore nice round numbers to the Aslan. An Aslan epic poem
 might say that 4,096 warriors died in a battle or that a warrior took
 64 wounds before dying; these are not precise measurements but
@@ -3634,8 +3613,7 @@ consonant is 10:47.
 Pronunciations:Pronunciations: This table is a guide to Aslan speech but many
 Aslan sounds are not reproducible by human vocal cords.
 
-Aslan has four syllable types: those consisting of just a vowel
-(V), those beginning with a consonant (CV), those ending with
+Aslan has four syllable types: those consisting of just a vowel (V), those beginning with a consonant (CV), those ending with
 a consonant (VC) and those both beginning and ending with
 a consonant (CVC). In Aslan words, their relative frequency of
 occurrence is about 3:3:2:2. Out of ten syllables, three will be V,
@@ -3849,8 +3827,7 @@ Ruktaha:Ruktaha: District inhabited by Outcasts.
 Shi:Shi: Swift.
 Shifaowoi:Shifaowoi: Popular cooking spice.
 Si'aiktae:Si'aiktae: (1) Gift of hospitality by a landowner after one
-enters his domain (2) The meal traditionally given as a gift
-(3) Being under the protection of a landowner.
+enters his domain (2) The meal traditionally given as a gift (3) Being under the protection of a landowner.
 Si'khiraeokhaor: Si'khiraeokhaor: A warrior's code of honor; what must be
 done.
 Siya: Siya: Unmarried.
@@ -3965,8 +3942,7 @@ class of _awkhea –_ landless vassal families – arose.
 ###### TALE OF HEROES
 
 <Red-Maned-Warrior-From-The-Hills-By-The-Roaring-River>
-came to the place where <Holds-His-Ground-Son-of-Broken-
-Tooth-Grandson-of-He-Who-Rules-The-Sunny-Valley> had made
+came to the place where <Holds-His-Ground-Son-of-Broken-Tooth-Grandson-of-He-Who-Rules-The-Sunny-Valley> had made
 his camp. <Red-Maned-Warrior> saw the signs of ownership and
 he gave honor to <Holds-His-Ground> and <Holds-His-Ground>
 gave honor in return and welcomed <Red-Maned-Warrior> to
@@ -3980,25 +3956,20 @@ trap. The third wife came back not at all, not even when the slow
 moon rose, not even when the embers of <Holds-His-Ground>'s
 fire became ash.
 
-<Holds-His-Ground> said to <Red-Maned-Warrior>: <Third-Wife-
-of-Holds-His-Ground> is missing. I shall search for her.
+<Holds-His-Ground> said to <Red-Maned-Warrior>: <Third-Wife-of-Holds-His-Ground> is missing. I shall search for her.
 
 And because <Red-Maned-Warrior> shared his fire, he went with
 <Holds-His-Ground> into the night.
 
 They came to a fork in the trail and <Holds-His-Ground> went to
 the left and <Red-Maned-Warrior> went to the right and in a cave
-in the hills <Red-Maned-Warrior> found <Third-Wife-of-Holds-
-His-Ground> and she was threatened by a ferocious monster who
-had trapped her in the cave. With great bravery, <Red-Maned-
-Warrior> leapt on the monster and drove his dewclaws into its
+in the hills <Red-Maned-Warrior> found <Third-Wife-of-Holds-His-Ground> and she was threatened by a ferocious monster who
+had trapped her in the cave. With great bravery, <Red-Maned-Warrior> leapt on the monster and drove his dewclaws into its
 eyes.
 
 That morning, <Holds-His-Ground> came to the cave and found
-<Red-Maned-Warrior> lying by the side of <Third-Wife-of-Holds-
-His-Ground> and he was greatly angered. He roared a challenge
-to <Red-Maned-Warrior> and the two fought and <Holds-His-
-Ground> slew <Red-Maned-Warrior>.
+<Red-Maned-Warrior> lying by the side of <Third-Wife-of-Holds-His-Ground> and he was greatly angered. He roared a challenge
+to <Red-Maned-Warrior> and the two fought and <Holds-His-Ground> slew <Red-Maned-Warrior>.
 
 And in this way, <Holds-His-Ground> guarded the honor of
 <Third-Wife-of-Holds-His-Ground>.
@@ -4072,8 +4043,7 @@ offered by new technologies had absorbed much of the surplus
 energy of the males but now a new and much larger generation of
 males was reaching the age of akhuaeuhrekhyeh and these males
 demanded territory. Vicious duels were fought between sons to
-inherit their father's estates and the number of second challenges
-(where a younger son challenges the winning brother) rose sharply
+inherit their father's estates and the number of second challenges (where a younger son challenges the winning brother) rose sharply
 for the first time in a generation. The Hierate's shaky political
 system proved inadequate to maintain the tradition of limited war
 in the face of such pressure. Something had to give.
@@ -4187,8 +4157,7 @@ space. An increasing number of these contacts, however, were
 violent. The [[Terra|Terran]]s had superior technology but the Aslan had the
 edge in skill and aggression.
 
-Luckily, the Aslan had come on the scene during the Long Night
-(342 to 2323 Aslan; –1776 to –30 Imperial) in human space: the
+Luckily, the Aslan had come on the scene during the Long Night (342 to 2323 Aslan; –1776 to –30 Imperial) in human space: the
 era between the Second and Third Imperiums in which humanity
 was splintered into many rival states. As a result, the Aslan never
 confronted any human state at a time when it was significantly
@@ -4230,8 +4199,7 @@ of honorable behaviour and that the deviant strains of Aslan
 thought must be brought back into accord with orthodoxy. The
 cultural conclave offered numerous concessions to the progressive
 elements in Aslan society – enshrining clan heroes from the age of
-exploration in new epic poems, loosening the strictures on lower-
-class males who performed traditionally peaceful, female tasks and
+exploration in new epic poems, loosening the strictures on lower-class males who performed traditionally peaceful, female tasks and
 
 honoring off-world territories of particular size and worth. The
 conclave also tried to improve the standard of living across Aslan
@@ -4254,8 +4222,7 @@ They got aisekhokhe entse – kinstrife in the stars.
 
 The Aslan have no term for 'civil war' – the closest equivalent is
 aisekhokhe or kinstrife, where two families in the same clan fight
-against each other. The cultural wars from 2512 to 2701 were inter-
-clan wars but they had all the divisions and bitter struggle of a civil
+against each other. The cultural wars from 2512 to 2701 were inter-clan wars but they had all the divisions and bitter struggle of a civil
 war.
 
 On one side was the majority of the Tlaukhu, the old great clans and
@@ -4327,8 +4294,7 @@ space lest some human warlord mount an attack on the Aslan.
 
 For their part, the _tsekho_ were unable to capitalise on any weakness
 on the part of the _khiraokhaor'ya._ Their alliance was a very disjointed
-one, united only by their opposition to the _khiraokhaor'ya._ Inter-
-clan fighting was a constant problem, as the _tsekho_ leadership were
+one, united only by their opposition to the _khiraokhaor'ya._ Inter-clan fighting was a constant problem, as the _tsekho_ leadership were
 unable to get the various clans to swear loyalty to one another. Many
 of the _tsekho_ had no desire to fight back against the Hierate, so long
 as their traditions were not swallowed up by the Conclave's.
@@ -4358,8 +4324,7 @@ of the conflicts were between individual Aslan clans or ihatei raiding
 parties.
 
 The Border Wars still evoke terror in many of the worlds invaded by
-the Aslan. The skies would darken with attack ships; huge golden-
-furred monsters would drop down on grav belts to storm the cities;
+the Aslan. The skies would darken with attack ships; huge golden-furred monsters would drop down on grav belts to storm the cities;
 children would be taken as slaves and those who attempted to
 hide from the Aslan would be butchered or even eaten. As human
 civilization slipped into the Long Night, their ability to build warships
@@ -4456,8 +4421,7 @@ capital world dangerously close to the border worlds. The nerve of
 the _Tlaukhu_ failed and they sent envoys to the Imperium to negotiate
 a settlement.
 
-The Peace of Ftahalr (2810 Aslan) established much of Aeitle Sakh
-(Reaver's Deep) sector as a buffer zone between Aslan and Imperial
+The Peace of Ftahalr (2810 Aslan) established much of Aeitle Sakh (Reaver's Deep) sector as a buffer zone between Aslan and Imperial
 spheres of influence; the population in the buffer zone was left
 independent of both interstellar communities. The Border Wars
 were over.
@@ -4768,8 +4732,7 @@ interlocking plastic plates, designed to resemble khirshukaya. These
 suits are worn by clan agents, mercenaries and even some Aslan
 traders and explorers.
 
-Soisu'hru (Assassin's Garb, TL8):Soisu'hru (Assassin's Garb, TL8): Assassin's garb consists of a form-
-fitting body glove studded with small armor plates. It is designed
+Soisu'hru (Assassin's Garb, TL8):Soisu'hru (Assassin's Garb, TL8): Assassin's garb consists of a form-fitting body glove studded with small armor plates. It is designed
 for stealth rather than protection and gives the wearer a +1 DM to
 Stealth checks. An Aslan may not use a dewclaw while wearing this
 armor.
@@ -4943,8 +4906,7 @@ claw attack. Slashpatches cost Cr. 5 each.
 
 Bio-adjustment Pill (TL8):Bio-adjustment Pill (TL8): Bio-adjustment pills alter the Aslan's
 digestion, allowing them to metabolise alien meats. Different
-planets require different types of pill, although there are broad-
-spectrum ones that cover a variety of worlds. A month's worth of
+planets require different types of pill, although there are broad-spectrum ones that cover a variety of worlds. A month's worth of
 pills costs Cr. 20.
 
 #### ROBOTS & DRONES
@@ -4955,16 +4917,15 @@ where live food would be impractical. Freshly heated meat is attached
 to the khyeseir' s spikes and the drone is released to run around the
 dining area.
 
-Strength 1 (–3), Dexterity 5 (–1), Hull 0, Structure 1
+Strength1 (–3), Dexterity5 (–1), Hull 0, Structure 1
 Traits: None
 Price: Cr. 50
 
-Arerl (Slave Machine, TL12):Arerl (Slave Machine, TL12): These are humanoid robots, mass-
-produced and used for labour. The Aslan could perhaps have
+Arerl (Slave Machine, TL12):Arerl (Slave Machine, TL12): These are humanoid robots, mass-produced and used for labour. The Aslan could perhaps have
 developed more efficient non-humanoid designs but the arerl
 appeals to some atavistic instinct in the Aslan.
 
-Strength 7 (+0), Dexterity 5 (–1), Hull 1, Structure 1
+Strength7 (+0), Dexterity5 (–1), Hull 1, Structure 1
 _Traits:_ Specialised Computer/1 running Intellect/1 and Expert
 Trade/1
 _Price:_ Cr. 30,000
@@ -4976,7 +4937,7 @@ replace or aid female crew members. The _hikare'_ design has evolved
 over time and older _hikare'_ are often encountered on backward
 Aslan colonies.
 
-Strength 7 (+0), Dexterity 9 (+1), Hull 1, Structure 2
+Strength7 (+0), Dexterity9 (+1), Hull 1, Structure 2
 _Traits:_ Specialised Computer/3 running Intellect/2, Expert
 Mechanic/3, Expert Engineering/3 and Expert Steward/3, Integral
 grav floater, Integral toolkit
@@ -5025,8 +4986,7 @@ opponent is knocked down.
 
 Taleryu (Crescent Blade, TL3):Taleryu (Crescent Blade, TL3): The taleryu is a symbol of a noble's
 authority; it was traditionally used to execute trespassers but it
-works well as a combat weapon. Taleryu are sometimes used in zero-
-gravity combat in the same way cutlasses are used by humans.
+works well as a combat weapon. Taleryu are sometimes used in zero-gravity combat in the same way cutlasses are used by humans.
 
 Hi'asoi (Monkey Knife, TL3):Hi'asoi (Monkey Knife, TL3): Hi'asoi are ceremonial weapons used
 by humans who have integrated into Aslan society. The blade
@@ -5084,8 +5044,7 @@ Soisu'soi (Assassin's Blade) 10 Melee (small blade) 2d6+4 –2 0.5 5,000
 Khaihte (Pistol, TL7):Khaihte (Pistol, TL7): A semiautomatic pistol similar in nature to
 the Body Pistol, though only occasionally designed as a concealable
 weapon. The _khaihte_ cartridge is common to the _takhestah_ and the
-_khaifealate_ as well. The pistol uses a 10-round magazine (the 20-
-round _takhestah_ magazine will also fit). The _khaihte_ can be fitted
+_khaifealate_ as well. The pistol uses a 10-round magazine (the 20-round _takhestah_ magazine will also fit). The _khaihte_ can be fitted
 with a silencer.
 
 Takhestah (Long Pistol, TL5):Takhestah (Long Pistol, TL5): The basic Aslan semi-automatic
@@ -5111,8 +5070,7 @@ telescopic sights.
 Yeheal (Autorifle, TL6):Yeheal (Autorifle, TL6): The Aslan automatic rifle functions much
 like the human model. It can be equipped with a shoulder sling,
 
-sights, a bipod and a muzzle brake and may be switched from semi-
-automatic to full automatic fire as needed. Magazines are identical
+sights, a bipod and a muzzle brake and may be switched from semi-automatic to full automatic fire as needed. Magazines are identical
 to (and interchangeable with) the takheal.
 
 The yeheal is magazine fed; using a dual magazine feed with an
@@ -5137,8 +5095,7 @@ especially consider it beneath their dignity to carry an ordinary
 quality eakhyasear and will select a more ornate model. These special
 features do not affect accuracy or reliability.
 
-Taoyuhrir (Heavy Machine Gun, TL7):Taoyuhrir (Heavy Machine Gun, TL7): This is a massive drum-
-fed machine gun that fires explosive bullets. In human terms,
+Taoyuhrir (Heavy Machine Gun, TL7):Taoyuhrir (Heavy Machine Gun, TL7): This is a massive drum-fed machine gun that fires explosive bullets. In human terms,
 it is a support weapon but an Aslan male can carry it and use it
 as a personal weapon. The roar of the taoyuhrir heralds a hail of
 destruction. The taoyuhrir requires the Heavy Weapons (MPA) skill.
@@ -5147,49 +5104,39 @@ destruction. The taoyuhrir requires the Heavy Weapons (MPA) skill.
 
 WeaponWeapon TLTL RangeRange DamageDamage AutoAuto RecoilRecoil
 
-Mass Mass
-(kg(kg) MagazineMagazine
+Mass Mass (kg(kg) MagazineMagazine
 
-Cost Cost
-(Cr.)(Cr.)
+Cost Cost (Cr.)(Cr.)
 
-Ammo Cost Ammo Cost
-(Cr.)(Cr.)
+Ammo Cost Ammo Cost (Cr.)(Cr.)
 Pistols
-Khaihte (pistol) 7 Ranged
-(pistol)
+Khaihte (pistol) 7 Ranged (pistol)
 
 3d6–3 No –1 0.5 10 750 15
 
-Takhestah (long pistol) 5 Ranged
-(pistol)
+Takhestah (long pistol) 5 Ranged (pistol)
 
 3d6–3 4 0 1.5 20 500 30
 
-Khaifealate (Machine Pistol) 5 Ranged
-(pistol)
+Khaifealate (Machine Pistol) 5 Ranged (pistol)
 
 3d6–3 6 1 3.5 32 600 30
 
 Rifles
-Uealikhe (Carbine) 5 Ranged
-(assault
+Uealikhe (Carbine) 5 Ranged (assault
 weapon)
 
 3d6 No 2/4 3.5 12 275 25
 
-Takheal (Long Rifle) 5 Ranged
-(rifle)
+Takheal (Long Rifle) 5 Ranged (rifle)
 
 3d6 No 2 5 32 250 25
 
-Yeheal (Autorifle) 6 Ranged
-(rifle)
+Yeheal (Autorifle) 6 Ranged (rifle)
 
 3d6 4 2 6.5 64 1,250 50
 
-Eakhyasear (Hunter's Rifle) 4 Ranged
-(rifle)
+Eakhyasear (Hunter's Rifle) 4 Ranged (rifle)
 
 3d6–3 No 1 4.5 16 210 15
 
@@ -5197,8 +5144,7 @@ Heavy Weapons
 Taoyuhrir (Heavy Machine Gun,
 TL7)
 
-7 Ranged
-(rifle)
+7 Ranged (rifle)
 
 4d6+4 8 6 15 200 4,000 200
 
@@ -5225,19 +5171,15 @@ Armor is no protection against the gravity spear.
 
 WeaponWeapon TLTL RangeRange DamageDamage AutoAuto RecoilRecoil
 
-Mass Mass
-(kg)(kg) MagazineMagazine Cost (Cr)Cost (Cr)
+Mass Mass (kg)(kg) MagazineMagazine Cost (Cr)Cost (Cr)
 
-Power Pack Power Pack
-(Cr)(Cr)
-Wye'oiheasarl (Plasma Streamer) 11 Ranged
-(assault
+Power Pack Power Pack (Cr)(Cr)
+Wye'oiheasarl (Plasma Streamer) 11 Ranged (assault
 weapon)
 
 10d6 6 3 12 — 75,000 —
 
-Hlaulrakh 14 Ranged
-(rifle)
+Hlaulrakh 14 Ranged (rifle)
 
 2d6 No 1 10 10 200,000 2,000
 
@@ -5291,8 +5233,7 @@ Equipment: 20km Laser Comm, Basic Life Support
 ###### Tank
 
 This Aslan main battle tank exemplifies the race's fighting techniques. The tank is larger and heavier than comparable human designs and
-has a crew of three – a male commander/gunner, a male driver and a female engineer/comms officer. The main weapons are a pair of turret-
-mounted plasma cannon and the tank also mounts several small anti-personnel weapons to deal with infantry.
+has a crew of three – a male commander/gunner, a male driver and a female engineer/comms officer. The main weapons are a pair of turret-mounted plasma cannon and the tank also mounts several small anti-personnel weapons to deal with infantry.
 
 A more advanced design replaces the plasma cannons with a fusion cannon and removes the female officer in favor of a remote
 telecommunications link to base.
@@ -5397,8 +5338,7 @@ However, any Aslan of Social Standing 9+ will receive the services
 of the ship's steward automatically and the middle passage baggage
 allowance becomes 500 kilos. Aslan nobles always have precedence
 and usually bump passengers of lesser standing. Working passage
-is common within a clan; working passage is rarely available to non-
-clan members.
+is common within a clan; working passage is rarely available to non-clan members.
 
 ###### Lesser Known Aspects Of Space Travel
 
@@ -5962,13 +5902,11 @@ SoftwareSoftware Maneuver/0 ——
 Library/0 ——
 Jump/4 Rating 20 — 400,000
 Fire Control/4 Rating 20 — 8,000,000
-Maintenance Cost Maintenance Cost
-(monthly)(monthly)
+Maintenance Cost Maintenance Cost (monthly)(monthly)
 
 37,68837,688
 
-Life Support Cost Life Support Cost
-(monthly)(monthly)
+Life Support Cost Life Support Cost (monthly)(monthly)
 
 400,000400,000
 
@@ -6036,7 +5974,7 @@ Jump Drive B Jump 2 15 20,000,000
 Maneuver Drive B Thrust 2 3 8,000,000
 Power Plant B 7 16,000,000
 Bridge 10 1,000,000
-Computer Model/1 bis Rating 5 (10 for Jump Control) — 45,000
+Computer Model/1 bis Rating5 (10 for Jump Control) — 45,000
 Electronics Standard –4 DM ——
 Weapons None ——
 ——
@@ -6161,8 +6099,7 @@ an agricultural planet and load up on hundreds of live animals, then bring them 
 of a captain, pilot, navigator, purser, 2 engineers, 3 gunners/drivers and 5 drivers. The Glorious Empire adapted their _Hkisyeleaas_ for slave
 raiding. Unfortunate humans were captured by Aslan raiders riding ATVs or air/rafts and thrown into the freezing chambers. A fully-stocked
 Slaver can carry more than 1,500 slaves if the captain is willing to cram as many bodies as possible into the low berths; 750 is a 'safe'
-number. Slavers are comparatively lightly armed and have little protection from attackers, so they are normally escorted by more combat-
-ready ships.
+number. Slavers are comparatively lightly armed and have little protection from attackers, so they are normally escorted by more combat-ready ships.
 
 TonsTons Price (Cr.)Price (Cr.)
 HullHull 1,000 Tons 20 Hull — 110,000,000
@@ -6323,8 +6260,8 @@ TonsTons Price (Cr.)Price (Cr.)
 HullHull 1200 Tons 24 Hull — 120,000,000
 24 Structure — —
 ArmorArmor Bonded Superdense 10 Points 100 100,000,000
-Jump DriveJump Drive M Jump 3 (TL-14) 58.5 150,000,000
-Maneuver DriveManeuver Drive M Thrust 3 (TL-10) 20.7 60,000,000
+Jump DriveJump Drive M Jump3 (TL-14) 58.5 150,000,000
+Maneuver DriveManeuver Drive M Thrust3 (TL-10) 20.7 60,000,000
 Power PlantPower Plant M Rating 3 37 96,000,000
 BridgeBridge 40 6,000,000
 ComputerComputer Model 6 / fib Rating 30 — 30,000,000
@@ -7136,8 +7073,7 @@ Aua are large herbivores that have been the Aslan's main prey for millions of ye
 to grow quickly, to thrive in a variety of environments and to consume a wide range of vegetable matter. Aua look like a cross between a
 rhinoceros and a cow. They are quite docile under most circumstances.
 Stii Stii (monkeymeat)(monkeymeat)
-Gatherer
-(omnivore)
+Gatherer (omnivore)
 
 Woods Walker 3 8 2 1 7 5
 
@@ -7160,8 +7096,7 @@ Hooves (1d6), Bite (2d6), Armor 0. Number Encountered: 1d6
 Khta are fast-moving predators that the Aslan have domesticated and trained to use as mounts. Khta resemble horses but they are
 primarily carnivorous. They are foul-tempered beasts and have a taste for live flesh.
 KhekhaKhekha
-Hijacker
-(scavenger)
+Hijacker (scavenger)
 
 Hills Walker 8881 88
 
@@ -7184,8 +7119,7 @@ CharacterCharacter Career PathCareer Path StrStr DexDex EndEnd IntInt EduEdu Soc
 Young Soldier/ Young Soldier/
 GuardGuard
 
-Military
-(warrior) 1
+Military (warrior) 1
 
 85 965 4
 
@@ -7195,56 +7129,47 @@ Veteran Veteran
 Soldier/Elite Soldier/Elite
 GuardGuard
 
-Military
-(warrior) 5
+Military (warrior) 5
 
 7 5 10 8 9 8
 
 Athletics (strength) 1, Drive 2, Gun Combat (slug rifle) 3, Leadership 1, Melee (claw) 1, Recon 1, Survival 1, Tolerance 2
 Combat Flex (5), Autorifle (3d6, Auto 4)
-Space Crew Space Crew
-(male)(male)
+Space Crew Space Crew (male)(male)
 
-Spacer
-(pilot) 2
+Spacer (pilot) 2
 
 777865
 
 Comms 1, Gunner 0, Mechanic 0, Pilot (small craft) 1, Tactics (naval) 1, Vacc Suit 0, Zero-G 1
 Aslan Vacc Suit (8), Laser Pistol (3d6)
-Space Crew Space Crew
-(female)(female)
+Space Crew Space Crew (female)(female)
 
-Space
-(engineer) 2
+Space (engineer) 2
 
 677883
 
 Astrogation 1, Engineering (jump) 1, Engineering (power plant) 1, Mechanic 2, Vacc Suit 0, Zero-G 0
 Aslan Vacc Suit (8), Toolkit
-MerchantMerchant Management
-(corporate) 2
+MerchantMerchant Management (corporate) 2
 
 577789
 
 Admin 1, Broker 2, Computer 1, Diplomat 0, Streetwise 1, Tolerance 2
 Hand computer
-Clan AgentClan Agent Ceremonial
-(clan agent) 4
+Clan AgentClan Agent Ceremonial (clan agent) 4
 
 878776
 
 Diplomat 1, Gun Combat (slug pistol) 1, Independence 1, Investigate 3, Melee (claw) 2, Sensors 0, Stealth 1, Streetwise 1, Tolerance 2
 Assassins garb (6), Claw Edging (3d6)
-DuellistDuellist Envoy
-(duellist) 5
+DuellistDuellist Envoy (duellist) 5
 
 99106810
 
 Advocate 1, Carouse 1, Melee (claw) 4, Stealth 2, Tolerance 2
 Ceremonial Breastplate (2), Claw Edging (3d6)
-ThugThug Outcast
-(labourer) 2
+ThugThug Outcast (labourer) 2
 
 867642
 
@@ -7253,15 +7178,13 @@ Aua-leather (1), Pistol (3d6–3)
 Ihatei Ihatei
 WandererWanderer
 
-Wanderer
-(scout) 3
+Wanderer (scout) 3
 
 777777
 
 Engineering (jump) 1, Engineering (power) 1, Independence 1, Mechanic 1, Pilot (spacecraft) 2, Survival 1, Vacc Suit 0
 Aslan Vacc Suit (8), ihateisho
-PiratePirate Outlaw
-(pirate) 3
+PiratePirate Outlaw (pirate) 3
 
 697 682
 
@@ -7380,6 +7303,8 @@ When noting bases, code Tlaukhu bases as T and clan bases as R; U means both.
 ###### Non-Naval Bases
 
 A B C D E X
+
+
 Clan StrongholdClan Stronghold 8+ 10+ 12+ — — —
 DMs:DMs: +2 DM if J, L, M or N
 Corporate FacilityCorporate Facility 8+ 10+ — — — —
@@ -7701,10 +7626,8 @@ more than a thousand years, in the form of an organization called
 
 ###### Floriani Characters
 
-Feskals have Notable (+2) Strength and Endurance and Weak
-(–2) Intelligence, Education and Social Standing.
-Barnai have Notable (+2) Intelligence and Education and Weak
-(–2) Strength and Endurance.
+Feskals have Notable (+2) Strength and Endurance and Weak (–2) Intelligence, Education and Social Standing.
+Barnai have Notable (+2) Intelligence and Education and Weak (–2) Strength and Endurance.
 
 Feskals may take the Army, Navy, Merchant or Citizen
 careers.
@@ -7815,8 +7738,7 @@ Aslan politics are opaque to outside observers. Attempts to paint
 the Tlaukhu as a unified organization are futile – the Tlaukhu and
 the Ya'soisthea have no real power and individual clans are capable
 of independent action. Further, the clan leaders usually only make
-short-term decisions and have little influence over either clan trade
-(run by the corporations) or migrations and conquest (which are
+short-term decisions and have little influence over either clan trade (run by the corporations) or migrations and conquest (which are
 largely in the claws of the ihatei ). Population pressure, not politics,
 dictates much of Aslan military policy. As a new generation of
 landless males reaches maturity, the Aslan clans must either fight
@@ -7879,21 +7801,18 @@ and overwhelming force in war. They are guided by amoral logic in
 all political decisions.
 
 The Florian government works on a system of lotteries. Randomly
-selected Barnai must serve a term on one of a number of councils
-(municipal, provincial or world); after serving on a council, the
+selected Barnai must serve a term on one of a number of councils (municipal, provincial or world); after serving on a council, the
 Barnai's name is removed from the lottery register so he will never
 be elected again. Theoretically, this serves to ensure that no Barnai
 can establish a political power base and dominate the government.
-Leaving aside the fact that the very concept of ambitious, self-
-centred Barnai is bizarrely incongruous, this policy results in
+Leaving aside the fact that the very concept of ambitious, self-centred Barnai is bizarrely incongruous, this policy results in
 extreme conservatism as the elected officials spend most of their
 term studying and learning in order to make informed decisions.
 
 Florian criminal justice is equally unusual. Instead of determining
 whether or not a crime has been committed based on the evidence,
 their philosophy is to learn precisely what happened, then determine
-if it was a crime. Killing another Florian might be murder or self-
-defence or a charitable act or the most efficient use of resources.
+if it was a crime. Killing another Florian might be murder or self-defence or a charitable act or the most efficient use of resources.
 The Florian system is utterly confusing to non-Floriani and their
 equivalent of 'lawyers' would be philosophers on any other world.
 
@@ -8141,8 +8060,7 @@ who fought in Reaver's Deep and that the Imperium in the Trojan
 Reach is too far away from the Deep to be honored in the same
 way. While many in the Imperium, especially in Tobia and Gazulin
 subsectors, hide behind the Peace of Fthair as if it guarantees peace
-with the Aslan, a paper treaty may not be proof against the razor-
-sharp claw of the invader.
+with the Aslan, a paper treaty may not be proof against the razor-sharp claw of the invader.
 
 Of course, Aslan infighting may render all these fears of a mass
 invasion fanciful. The Cultural Purge of a thousand years ago
@@ -8320,8 +8238,7 @@ Floriani could be used to reopen trade links.
 She gathered a consortium of merchants and investors, who sent out two
 far trader-type ships armed with a copy of haut-Vorhes' _A New Appraisal
 of Trade and Commerce in the Middle Period of the Sindal Empire_ and two
-holds full of precious metals. The traders returned with a cargo of high-
-tech goods and tales of a wondrous world full of Ancient ruins – Floria.
+holds full of precious metals. The traders returned with a cargo of high-tech goods and tales of a wondrous world full of Ancient ruins – Floria.
 
 The FTC was launched to great acclaim in 171 and traded for nearly
 thirty years, garnering vast profits, until the Florians suddenly
@@ -8329,8 +8246,7 @@ closed their borders. It was later discovered that the Florians made
 contact with the Zhodani around the year 200 and that this incident
 
 somehow led to the Florians recoiling from contact with the rest of
-the galaxy for centuries. Three centuries later, when the Florians re-
-established themselves, GeDeCo investors reformed the FTC.
+the galaxy for centuries. Three centuries later, when the Florians re-established themselves, GeDeCo investors reformed the FTC.
 
 The FTC today is an independent corporation, although GeDeCo is still a
 significant shareholder. In addition to its normal trade runs, the FTC has
@@ -8372,8 +8288,7 @@ the Duke of Tobia is heavily (and illegally) invested in the company.
 
 Guild ships make up over a third of traffic across the Aslan trade route
 and this proportion is growing. The Guild has recently put in orders
-for another four 50,000-ton megafreighters, doubling its capacity
-(diminished since the loss of the Yarrow in 1099 to 'misjump'). Some
+for another four 50,000-ton megafreighters, doubling its capacity (diminished since the loss of the Yarrow in 1099 to 'misjump'). Some
 observers fear that the Guild is flooding the Aslan markets in an
 attempt to drive competitors out of business and the Tobia navy has
 issued a warning that the Guild is sending more trade ships than it
@@ -8450,8 +8365,7 @@ spice which appealed to Aslan tastes but which was available only in
 the Spinward Marches of the Imperium. Tyeyo Fteahrao Yolr (Tyeyo
 Dustspice Importers) was established to import the novelty.
 
-Since then, synthetic dustspice has become available and natural dust-
-spice is a gourmet treat but no longer imported in great quantities. Tyeyo
+Since then, synthetic dustspice has become available and natural dust-spice is a gourmet treat but no longer imported in great quantities. Tyeyo
 Fteahrao Yolr instead seeks out and imports any novel or valuable trade
 goods along the route from Mora in the Spinward Marches and the
 Aslan capital of Kusyu. Its diversification into other trade goods puts
@@ -8468,8 +8382,7 @@ and Spinward Marches.
 
 ###### Five Shields
 
-Khu Su'ikh (Aslan Sector-Wide Corporation) : Soon after the jump-
-5 route across the liyoihuakh sector (the Riftspan Reaches) was
+Khu Su'ikh (Aslan Sector-Wide Corporation) : Soon after the jump-5 route across the liyoihuakh sector (the Riftspan Reaches) was
 discovered in –1044, the Wahtoi clan staked its claim to many of
 the worlds of the sector. Naturally enough, a trading company tied
 to the Wahtoi clan soon developed a monopoly on trade across the
@@ -8683,8 +8596,7 @@ centres for the Florian League. Much of the vast planet's surface is
 covered in factories, mines or cyclopean barracks for the billions
 of Feskals who labour here. The Barnai population of Trossachs is
 less than ten million – this is by far the lowest Barnai/Feskal ratio
-anywhere in the League and there are some Feskals in the Barrack-
-cities who have never even seen a Barnai. Strend agents have tried
+anywhere in the League and there are some Feskals in the Barrack-cities who have never even seen a Barnai. Strend agents have tried
 to foment disputes and industrial action on Trossachs but the
 notoriously stoic Feskals refuse to be incited.
 
@@ -8731,75 +8643,117 @@ other ways to bring the natives of Allemagne to heel.
 
 E
 
+
+
 TalternTaltern
 
 D
 
+
+
 A
 
+
+
 B
+
+
 
 HeathHeath
 
 A
 
+
+
 DustpanDustpan
 
 E
+
+
 
 Sam's WorldSam's World
 
 A
 
+
+
 SzirpSzirp
 
 B
+
+
 
 CrescentCrescent
 
 B
 
+
+
 B
+
+
 
 ViceroyViceroy
 
 D
 
+
+
 PaquesPaques
 
 D
+
+
 
 MarseillesMarseilles
 
 C
 
+
+
 AllemagneAllemagne
 
 B
+
+
 
 Sable des EtoilesSable des Etoiles
 
 B
 
+
+
 StrendStrend
 
 B
 
+
+
 B
 
+
+
 A
+
+
 
 ArmadaArmada
 
 E
 
+
+
 HadaraHadara
 
 B
 
+
+
 FomalhautFomalhaut
 
 B
+
+
 
 ZephyrZephyr
 
@@ -8922,12 +8876,10 @@ Hadara 0809 E311766-3 Ic Na Lt Na
 Except for the extreme coreward end, Egyrn subsector is largely
 unknown to the public – most Navy and Scout data on this area is
 classified. The sector was mostly first settled during the Ramshackle
-Empire era (circa 1700 PI) and has since regressed to isolated low-
-tech societies. The mid and rimward areas are part of the Outrim
+Empire era (circa 1700 PI) and has since regressed to isolated low-tech societies. The mid and rimward areas are part of the Outrim
 Void. The subsector name preserves the original title of Ashley's
 Rock. Sir Gildemar Tomas Ashley was a staunch supporter of the
-Solomani faction who settled this world after the Solomani Rim War
-(990-1002).
+Solomani faction who settled this world after the Solomani Rim War (990-1002).
 
 Most of the data that is available on the subsector is due to another
 famous character, Bennett Lai da Santos, a gentleman-explorer
@@ -9038,13 +8990,19 @@ refers to their spacefaring technology.
 
 E
 
+
+
 WaleiWalei
 
 E
 
+
+
 Pa'anPa'an
 
 E
+
+
 
 GorgonGorgon D
 
@@ -9052,57 +9010,85 @@ BelgardBelgard
 
 X
 
+
+
 VelscurVelscur
 
 E
+
+
 
 KaldamarKaldamar
 
 D
 
+
+
 NabethNabeth
 
 X
+
+
 
 985-373985-373
 
 D
 
+
+
 GollereGollere
 
 X
+
+
 
 GanulphGanulph
 
 E
 
+
+
 ElesonEleson
 
 X
+
+
 
 SelshorSelshor
 
 E
 
+
+
 GoriaGoria
 
 X
+
+
 
 CarbenCarben
 
 D
 
+
+
 Ashley's RockAshley's Rock
 
 E
+
+
 
 T'yanaT'yana
 
 X
 
+
+
 ViorVior
 
 X
+
+
 
 BraudelBraudel
 
@@ -9213,8 +9199,7 @@ especially at the capital of Senlis and are capable of defending their
 space against raiders. Foederate relations with the Imperium are
 strained due to 'an alarmingly militant build-up of Imperial naval
 assets along our mutual border' – in short, the Foederate has no
-conception of the sheer size and power of the Imperium and self-
-consciously believes that the vast Imperial fleet stationed at Pax Rulin
+conception of the sheer size and power of the Imperium and self-consciously believes that the vast Imperial fleet stationed at Pax Rulin
 is there because of them. The Foederate was highly expansionist
 until the Imperium established a presence in the sector – Bantral
 was their next target until it obtained Imperial protection.
@@ -9309,61 +9294,91 @@ stockpiled supplies and firepower to hold
 
 D
 
+
+
 CandiaCandia
 
 B
+
+
 
 KyddeKydde
 
 C
 
+
+
 BantralBantral
 
 D
+
+
 
 KryslionKryslion
 
 E
 
+
+
 OrsaschOrsasch
 
 B
+
+
 
 BerengariaBerengaria
 
 B
 
+
+
 SenlisSenlis
 
 A
+
+
 
 DoradonDoradon
 
 A
 
+
+
 PerriorPerrior
 
 A
+
+
 
 Pax Rulin
 
 E
 
+
+
 RhyskRhysk
 
 E
+
+
 
 CarazCaraz
 
 C
 
+
+
 MagenMagen
 
 B
 
+
+
 IslentIslent
 
 B
+
+
 
 Alexin
 
@@ -9390,6 +9405,8 @@ Gazulin
 Egryn
 
 C
+
+
 
 CyanCyan
 
@@ -9581,55 +9598,83 @@ the few survivors began to rebuild as best they could. Much of their
 
 B
 
+
+
 LaboraLabora
 
 B
+
+
 
 Belt-9Belt-9
 
 B
 
+
+
 CorbenCorben
 
 A
+
+
 
 GazulinGazulin
 
 D
 
+
+
 O'KeefeO'Keefe
 
 D
+
+
 
 MacDermontMacDermont
 
 B
 
+
+
 FintorFintor
 
 C
 
+
+
 B
+
+
 
 IscandIscand
 
 A
 
+
+
 Mirage
 
 D
+
+
 
 SusanawoSusanawo
 
 E
 
+
+
 627-301627-301
 
 B
 
+
+
 NeumannNeumann
 
 D
+
+
 
 PloderashPloderash
 
@@ -9661,7 +9706,11 @@ PeridotPeridot
 
 B
 
+
+
 B
+
+
 
 technology had been lost and a new religious cult – the Shield
 Church – took over the rule of the planet following the suicide of the
@@ -9797,85 +9846,127 @@ are caused by visitors. On almost every Florian world, the instinctive
 
 D
 
+
+
 DarufDaruf
 
 D
+
+
 
 BolsushBolsush
 
 A
 
+
+
 FloriaFloria
 
 B
+
+
 
 Vorn
 
 A
 
+
+
 Insec
 
 E
+
+
 
 FissolonFissolon
 
 B
 
+
+
 KabalKabal
 
 E
+
+
 
 CimmenCimmen
 
 C
 
+
+
 Tibolt
 
 B
+
+
 
 LucindLucind
 
 D
 
+
+
 PicardPicard
 
 B
+
+
 
 TefsiTefsi
 
 E
 
+
+
 GarnlGarnl
 
 B
+
+
 
 BoronuBoronu
 
 B
 
+
+
 IlnestIlnest
 
 C
+
+
 
 ZimtZimt
 
 B
 
+
+
 ForandinForandin
 
 B
+
+
 
 OdinOdin
 
 D
 
+
+
 ThorThor
 
 B
 
+
+
 YggdrasilYggdrasil
 
 A
+
+
 
 SifSif
 
@@ -9895,7 +9986,11 @@ SifSif
 
 I
 
+
+
 T
+
+
 
 o
 
@@ -9908,6 +10003,8 @@ Dpres
 Floria
 
 A
+
+
 
 ThrushThrush
 
@@ -9968,8 +10065,7 @@ attempt to find a route across the Great Rift but this contact was
 fleeting and unimportant. The real recontact came two generations
 later, after the Imperium had encountered the fast-expanding
 Floriani. The Florians refused to join the Imperium but were willing
-to entertain trade links. Yggdrasil, with its space elevator and high-
-capacity (if somewhat decayed) starport was the ideal place to
+to entertain trade links. Yggdrasil, with its space elevator and high-capacity (if somewhat decayed) starport was the ideal place to
 establish a trading post.
 
 While the population of Yggdrasil are strong supporters of
@@ -10128,9 +10224,13 @@ persecution, obscure subcultures looking for space to grow, explorers and
 
 B
 
+
+
 SolariaSolaria
 
 B
+
+
 
 DpresDpres D
 
@@ -10138,61 +10238,91 @@ ConnaughtConnaught
 
 C
 
+
+
 291-540291-540
 
 C
+
+
 
 GabrielGabriel
 
 B
 
+
+
 DostoevskyDostoevsky
 
 C
+
+
 
 JanusJanus
 
 E
 
+
+
 TorranceTorrance
 
 B
+
+
 
 Delta ThetaDelta Theta
 
 B
 
+
+
 CaldosCaldos
 
 D
+
+
 
 LacidaeusLacidaeus
 
 C
 
+
+
 SaganSagan
 
 D
+
+
 
 TlazolteotlTlazolteotl
 
 A
 
+
+
 TyrTyr
 
 B
+
+
 
 HecardaHecarda
 
 B
 
+
+
 ThalassaThalassa
 
 D
 
+
+
 TktkTktk
 
 B
+
+
 
 AcisAcis
 
@@ -10242,8 +10372,7 @@ and art is everywhere – the factories that rise out of the desert sands are
 more like temples than industrial facilities, stepped pyramids decorated
 with coiling dragons and leering warriors. Human sacrifice is practised
 extensively and the government is in the hands of the priest caste. The
-average citizen of Tlazolteotl knows nothing about the larger universe
-(history books and educational texts were purged generations ago) and
+average citizen of Tlazolteotl knows nothing about the larger universe (history books and educational texts were purged generations ago) and
 believes that the universe is full of space devils and demons who the
 priests ward off with their magic. Visitors to Tlazolteotl are advised to
 land only at the starport/temple – landing elsewhere on the planet is
@@ -10351,8 +10480,7 @@ of your neighbors.
 
 The Imperial outpost in this sector is administered from Tobia. A
 small amount of trade flows through Sindal subsector – traders
-heading for Aslan space may take a longer route instead of the well-
-trafficked path across the Borderlands or they can take the J2 route
+heading for Aslan space may take a longer route instead of the well-trafficked path across the Borderlands or they can take the J2 route
 to Floria along the Sindalian main. Most ships avoid the subsector
 if they have any sense. Tlaiowaha subsector lies just over the border
 and when the Aslan move coreward again, they will gobble up the
@@ -10442,17 +10570,25 @@ stories claim.
 
 D
 
+
+
 HomesteadHomestead
 
 E
+
+
 
 AceAce
 
 A
 
+
+
 SalifSalif
 
 C
+
+
 
 Number OneNumber One B
 
@@ -10460,49 +10596,73 @@ ThebusThebus
 
 D
 
+
+
 NoricumNoricum
 
 B
+
+
 
 OghmaOghma
 
 B
 
+
+
 DolbergDolberg
 
 B
+
+
 
 VumeVume
 
 A
 
+
+
 TheevTheev
 
 C
+
+
 
 MardukMarduk
 
 A
 
+
+
 AlbeAlbe
 
 B
+
+
 
 RealgarRealgar
 
 B
 
+
+
 PalindromePalindrome
 
 E
+
+
 
 BoriteBorite
 
 B
 
+
+
 ChalchiutlicuChalchiutlicu
 
 C
+
+
 
 CordillonCordillon
 
@@ -10622,8 +10782,7 @@ Reach. Tobia is the ducal seat and holds the sector fleet. The main
 trade route between the Imperium and the _Ya'soisthea_ clans of
 the Hierate runs through Tobia and the sector has a considerable
 proportion of high-technology, high-industry worlds. It is also a
-highly cosmopolitan subsector, with a very large number of non-
-human citizens. Ayldem is a Droyne-controlled world, while more
+highly cosmopolitan subsector, with a very large number of non-human citizens. Ayldem is a Droyne-controlled world, while more
 than 80% of the Hradus population are naturalised Aslan. Walk
 through the cities of Tobia, New Moscow or Pryme and you can
 see a half-dozen sentient species on a single street. Unlike Pax
@@ -10740,135 +10899,203 @@ would launch an attack
 
 B
 
+
+
 PrymePryme
 
 A
+
+
 
 NekrinoNekrino
 
 D
 
+
+
 BoulderBoulder
 
 A
+
+
 
 ExocetExocet
 
 C
 
+
+
 InteliaIntelia
 
 C
+
+
 
 GorGor
 
 A
 
+
+
 ScaladonScaladon
 
 B
+
+
 
 EmpireEmpire
 
 B
 
+
+
 HradusHradus
 
 B
+
+
 
 HexxHexx
 
 C
 
+
+
 IilganIilgan
 
 A
+
+
 
 SaurusSaurus
 
 E
 
+
+
 971-852971-852
 
 B
+
+
 
 ArdasiiArdasii
 
 B
 
+
+
 WildemanWildeman
 
 B
+
+
 
 PandoraPandora
 
 B
 
+
+
 DarchonaDarchona
 
 E
+
+
 
 SabruseSabruse
 
 B
 
+
+
 ImisaaImisaa
 
 B
+
+
 
 FistFist
 
 D
 
+
+
 DimorusDimorus
 
 B
+
+
 
 Our PlanetOur Planet
 
 A
 
+
+
 E
+
+
 
 PichotPichot
 
 D
 
+
+
 NewNew
 
 D
+
+
 
 KhalikiKhaliki
 
 D
 
+
+
 SimokSimok
 
 C
+
+
 
 AtteeAttee
 
 B
 
+
+
 EshadiEshadi
 
 B
+
+
 
 New MoscowNew Moscow
 
 A
 
+
+
 BergBerg
 
 A
+
+
 
 TobiaTobia
 
 D
 
+
+
 KedusKedus
 
 B
+
+
 
 BatavBatav
 
@@ -10914,8 +11141,7 @@ military forces are always seconded to the sector fleet.
 
 These restrictions have been in force for almost four hundred years
 and many citizens feel that the Esuaheakhahryoyulr have proved
-themselves over and over again. Other worlds with a high non-
-human population are not so restricted and it was only the paranoia
+themselves over and over again. Other worlds with a high non-human population are not so restricted and it was only the paranoia
 of the Imperium in that era that required the Treaty of Hradus.
 Esuaheakhahryoyulr Aslan have served both as warriors and spies
 for the Imperium and their ability to produce Aslan-design ships has
@@ -11131,8 +11357,7 @@ this distant subsector, they took this as the name of the subsector
 for their charts.
 
 Nora'a has several enviable agricultural zones – three major rivers,
-each of which has a flow of more than 200,000 meters per second
-(comparable to the Amazon river on Terra), all empty into the ocean
+each of which has a flow of more than 200,000 meters per second (comparable to the Amazon river on Terra), all empty into the ocean
 in a single massive river delta called the Trident, while the hills of
 the south are thickly forested with fruit trees. The Floriani have far
 too few Feskal farmers on Nora'a to fully exploit this bounty, so
@@ -11153,8 +11378,7 @@ equipment but Florian hunter-killer squads have learned to home
 in on radio emissions and heat sources in the jungle. The stranded
 Aslan are trapped by the jungle that protects them; any attempts
 to move outside the shelter of the canopy brings the Floriani down
-on them within hours. The Floriani have little talent for counter-
-insurgency warfare and may employ mercenaries to go after the big
+on them within hours. The Floriani have little talent for counter-insurgency warfare and may employ mercenaries to go after the big
 cats in the jungle...
 
 ###### Suiaoir B6513G7-E
@@ -11188,127 +11412,191 @@ to recruit for mercenary warbands or as commanders. Others are
 
 A
 
+
+
 AftyeAftye
 
 B
+
+
 
 AhaikheaAhaikhea
 
 B
 
+
+
 EawatryeEawatrye
 
 B
+
+
 
 Tyea'ihTyea'ih
 
 B
 
+
+
 OiauhOiauh
 
 C
+
+
 
 DalfiDalfi
 
 B
 
+
+
 KhteiatloilrKhteiatloilr
 
 B
+
+
 
 EwoiftoilEwoiftoil
 
 D
 
+
+
 H'aH'a
 
 B
+
+
 
 HreahyraHreahyra
 
 A
 
+
+
 Nora'aNora'a
 
 B
+
+
 
 SuiaoirSuiaoir
 
 A
 
+
+
 IryaoIryao
 
 B
+
+
 
 HkahaHkaha
 
 B
 
+
+
 KhtyektKhtyekt
 
 E
+
+
 
 OsototailOsototail
 
 B
 
+
+
 AowaihAowaih
 
 B
+
+
 
 KhiKhi
 
 A
 
+
+
 VadadaVadada
 
 A
+
+
 
 ElihfoirlElihfoirl
 
 B
 
+
+
 FtaleirlFtaleirl
 
 B
 
+
+
 A
+
+
 
 SoufteaSouftea
 
 B
 
+
+
 Sei'ealSei'eal
 
 C
+
+
 
 TanarTanar
 
 C
 
+
+
 LafkinLafkin
 
 B
+
+
 
 WoilreawauWoilreawau
 
 C
 
+
+
 UaoUao
 
 B
+
+
 
 EahawEahaw
 
 B
 
+
+
 YaeawaokhYaeawaokh
 
 A
 
+
+
 AlirarAlirar
 
 B
+
+
 
 EhaealirEhaealir
 
@@ -11335,6 +11623,8 @@ EhaealirEhaealir
 ☯
 
 V
+
+
 
 
 
@@ -11388,8 +11678,7 @@ is open to both Feskal and Barnai, although only truly exceptional
 Feskals can qualify for the classes there. The Academy hires retired
 naval commanders and other specialists from the Imperium and
 pays quite astonishingly well, although teaching creativity and
-tactical flexibility to Barnai is said to be a frustrating experience
-(again, most similes involve bricks). Lecturers have also reported
+tactical flexibility to Barnai is said to be a frustrating experience (again, most similes involve bricks). Lecturers have also reported
 odd headaches and unexplained cranial scars, although rumors of
 a long-term Barnai project to harvest Solomani brain tissue and alter
 their own genome are, of course, nonsense.
@@ -11414,8 +11703,7 @@ years; its ice caps partially melted, causing a rise in sea level of
 approximately ten meters. The planet is more than nine-tenths
 covered in water but many of these seas are very shallow. The Aslan
 have found evidence that Oihyeti'he was inhabited before they
-colonized it; in some regions, ruined buildings emerge like weed-
-covered skeletons from the shallow seas. The previous inhabitants
+colonized it; in some regions, ruined buildings emerge like weed-covered skeletons from the shallow seas. The previous inhabitants
 were an advanced humanoid culture, possibly a lost Solomani
 colony. The Aslan believe that the rising waters drowned the older
 civilization, although curious electromagnetic and sonic anomalies
@@ -11554,8 +11842,7 @@ Empire has even sent representatives to the _Ya'soisthea_ on occasion
 some 379 of those years at war with either the _Ya'soisthea_ , the
 Florian League or the independent worlds in Dpres subsector.
 
-Currently, the Glorious Empire is in retreat as its economy stagnates
-(slave labour works very well when you are cultivating crop fields
+Currently, the Glorious Empire is in retreat as its economy stagnates (slave labour works very well when you are cultivating crop fields
 and animal herds but less so when you want your slaves to build
 Tech Level E warships or program computers). The worlds of
 Hrahraiu, Hteakya and – disastrously – Hliyh have all been lost to
@@ -11607,8 +11894,7 @@ title is not a hereditary one – any head of a pride may challenge the
 sitting Emperor to trial by combat but the title has remained within
 the Earatokouea'we pride for nearly three hundred years. In fact, the
 Emperor is a puppet controlled by a junta of military officers, who
-ensure that no prospective challenger (other than a few carefully-
-vetted sacrifices to maintain the deception) gets close to the Grand
+ensure that no prospective challenger (other than a few carefully-vetted sacrifices to maintain the deception) gets close to the Grand
 Emperor. The current Grand Emperor is a poetic young male named
 Krial, who spends his days wandering the colossal Grand Golden
 Palace and pursuing his hobby of archaeology. Krial is an expert on
@@ -11629,113 +11915,169 @@ only thirteen worlds in the Glorious Empire but the sheer amount of
 
 A
 
+
+
 AlrAlr
 
 B
+
+
 
 EhrafouEhrafou
 
 B
 
+
+
 FtulroisFtulrois
 
 B
+
+
 
 OatreOatre
 
 E
 
+
+
 Hea'aHea'a
 
 B
+
+
 
 EiaihiyEiaihiy
 
 A
 
+
+
 SyoakhSyoakh
 
 B
+
+
 
 HtourlaoHtourlao
 
 B
 
+
+
 KeawoawKeawoaw
 
 B
+
+
 
 AsyuhAsyuh
 
 D
 
+
+
 Yero'ilraYero'ilra
 
 B
+
+
 
 OihuOihu
 
 C
 
+
+
 EikhaawEikhaaw
 
 A
+
+
 
 Colony SixColony Six
 
 B
 
+
+
 GoertelGoertel
 
 B
+
+
 
 HteakyaHteakya
 
 C
 
+
+
 KhauKhau
 
 B
+
+
 
 ErasasoErasaso
 
 B
 
+
+
 HrahraiuHrahraiu
 
 B
+
+
 
 HliyhHliyh
 
 B
 
+
+
 EilaeahEilaeah
 
 B
+
+
 
 YestahwyeYestahwye
 
 B
 
+
+
 FiyleakhFiyleakh
 
 D
+
+
 
 TryaokeTryaoke
 
 B
 
+
+
 A'eouyaA'eouya
 
 B
+
+
 
 AkhwohkyalAkhwohkyal
 
 C
 
+
+
 FtiysFtiys
 
 B
+
+
 
 EauhtiEauhti
 
@@ -11760,6 +12102,8 @@ EauhtiEauhti
 ☯
 
 V
+
+
 
 ⌧
 
@@ -11843,8 +12187,7 @@ it was the headquarters of the Sindalian fleet and the subsector
 capital. The secret police fortress in the capital city is still, after
 thousands of years, the most impressive building on the planet.
 
-After the fall of the Empire and the suicide of the last Duchess-
-Admiral of Goertel, the Church of Nom took over running the planet.
+After the fall of the Empire and the suicide of the last Duchess-Admiral of Goertel, the Church of Nom took over running the planet.
 The Church, always a bit player in Goertelan politics, had long
 prepared for such a catastrophe and seized power in a comparatively
 bloodless coup. One of their first acts was to outlaw space travel and
@@ -12027,101 +12370,151 @@ saw a dozen ihatei at most; three years ago, a hundred. At high
 
 B
 
+
+
 OiwoiieawOiwoiieaw
 
 B
+
+
 
 AsoietealAsoieteal
 
 A
 
+
+
 CamoranCamoran
 
 C
+
+
 
 KeaihKeaih
 
 B
 
+
+
 OhaualrOhaualr
 
 B
+
+
 
 TlaiowahaTlaiowaha
 
 A
 
+
+
 KhusaiKhusai
 
 B
+
+
 
 StahaStaha
 
 B
 
+
+
 AsimAsim
 
 C
+
+
 
 KteiroaKteiroa
 
 B
 
+
+
 TorpolTorpol
 
 A
+
+
 
 DrinaxDrinax
 
 B
 
+
+
 TyokhTyokh
 
 B
+
+
 
 IroioahIroioah
 
 E
 
+
+
 HleakhayesHleakhayes
 
 E
+
+
 
 AkoaftAkoaft
 
 B
 
+
+
 ClarkeClarke
 
 A
+
+
 
 PournePourne
 
 E
 
+
+
 The WorldThe World
 
 E
+
+
 
 VoritoVorito
 
 B
 
+
+
 BlueBlue
 
 B
+
+
 
 HilferHilfer
 
 B
 
+
+
 PaalPaal
 
 D
 
+
+
 SinkSink
 
 E
+
+
 
 FantasyFantasy
 
@@ -12131,6 +12524,8 @@ FantasyFantasy
 
 ☯
 V
+
+
 
 }
 
@@ -12184,8 +12579,7 @@ they give you stuff' – apparently, old habits die hard for Sindalian
 descendants).
 
 The current King of Drinax is Oleb XVI, an accomplished pugilist and
-swordsman, infamous for his taste in wine (strong reds), women
-(ditto) and song (shouted lustily through a megaphone).
+swordsman, infamous for his taste in wine (strong reds), women (ditto) and song (shouted lustily through a megaphone).
 
 ###### Tyokh B466AH7-E
 
@@ -12245,13 +12639,11 @@ a place for human traders to gather on the edge of Aslan space.
 The Corporation invested in the planet's infrastructure and today
 thousands of domed cities dot the planet's surface. Increasingly,
 the government of Vorito and the executives of GeDeCo became
-intertwined, until the world became a corporate asset. The Governor-
-General of Vorito is appointed by the GeDeCo board.
+intertwined, until the world became a corporate asset. The Governor-General of Vorito is appointed by the GeDeCo board.
 
 Vorito Highport was completed in 991, signalling a new and bold
 period in the world's participation in Imperium/Hierate trade and in
-the development of the whole subsector. The Highport was a cutting-
-edge class A, a Technology Level 15 starport and shipyard capable of
+the development of the whole subsector. The Highport was a cutting-edge class A, a Technology Level 15 starport and shipyard capable of
 building new megafreighters and escorts for the Corporation.
 
 In 1098, terrorists attacked and destroyed Vorito Highport. At the
@@ -12415,61 +12807,91 @@ their oligarch servants, the other major political faction on Arunisiir
 
 B
 
+
+
 ByrniByrni
 
 B
+
+
 
 ArunisiirArunisiir
 
 A
 
+
+
 Tech-WorldTech-World
 
 X
+
+
 
 ErgoErgo
 
 A
 
+
+
 TanithTanith
 
 A
+
+
 
 AcridAcrid
 
 E
 
+
+
 InurinInurin
 
 A
+
+
 
 FalconFalcon
 
 A
 
+
+
 CordanCordan
 
 B
+
+
 
 ExeExe
 
 B
 
+
+
 SperleSperle
 
 C
+
+
 
 UmemiiUmemii
 
 B
 
+
+
 ArgonaArgona
 
 B
 
+
+
 VillagVillag
 
 B
+
+
 
 BrowneBrowne
 
@@ -12539,8 +12961,7 @@ starport, forcing GeDeCo to look elsewhere for a transit port (they
 eventually established Tech-World).
 
 The Ergo war lasted more than a century and ended when a famine
-swept over the planet. The population dropped by more than nine-
-tenths in a combination of starvation and nuclear winter. The
+swept over the planet. The population dropped by more than nine-tenths in a combination of starvation and nuclear winter. The
 civilised area of Ergo is now a small region surrounding the ruins
 of the starport, ruled by a largely ineffectual Council of Barons who
 still dream of vast wealth from space traffic and plot to somehow
@@ -12734,8 +13155,7 @@ argument does not result in a lethal tear.
 ###### Aehahr B1004M9-C
 
 This world is owned by a vassal clan of the Khaukhearl, the Khtiatiyeea. The
-starport is located on the airless moon of a gas giant named Hlaifieayaher
-( The Eye That Watches Over Deeds of Glory ) by the Aslan and is a minor
+starport is located on the airless moon of a gas giant named Hlaifieayaher ( The Eye That Watches Over Deeds of Glory ) by the Aslan and is a minor
 port used mainly by ships travelling on to Nora'a subsector.
 
 Aehahr is best known for the neutral research facility established by the
@@ -12749,97 +13169,145 @@ a population of some thirty thousand scientists drawn from all over
 
 B
 
+
+
 FtyewirlFtyewirl
 
 C
+
+
 
 ElahkoiElahkoi
 
 B
 
+
+
 UiwaurUiwaur
 
 B
+
+
 
 EaleaEalea
 
 B
 
+
+
 YekhtiaYekhtia
 
 B
+
+
 
 AehahrAehahr
 
 E
 
+
+
 FtoakhFtoakh
 
 B
+
+
 
 AohfeauAohfeau
 
 B
 
+
+
 HkesuhHkesuh
 
 A
+
+
 
 EaweiyaEaweiya
 
 C
 
+
+
 AwoAwo
 
 B
+
+
 
 AiyosteaAiyostea
 
 B
 
+
+
 Hfa'yuweasHfa'yuweas
 
 B
+
+
 
 OsewehealOseweheal
 
 B
 
+
+
 UaeakheaUaeakhea
 
 C
+
+
 
 TeharlTeharl
 
 A
 
+
+
 EhearyeEhearye
 
 A
+
+
 
 IysewekhIysewekh
 
 D
 
+
+
 EiwakhEiwakh
 
 C
+
+
 
 HkeleiakhHkeleiakh
 
 A
 
+
+
 StohyusStohyus
 
 A
+
+
 
 HkakhHkakh
 
 B
 
+
+
 OhtaeOhtae
 
 B
+
+
 
 UitasoayawUitasoayaw
 
@@ -12863,7 +13331,11 @@ UitasoayawUitasoayaw
 
 V
 
+
+
 V V
+
+
 
 9
 
@@ -12905,8 +13377,7 @@ of the Aslan, proving that it was possible to have a civilization of
 warriors without constant destructive warfare and offering hope for
 reconciliation after the excesses of the Cultural Purge.
 
-The war that engulfed Ftoakh was not started by any territory-
-hungry noble or clan invasion. For hundreds of years, the world had
+The war that engulfed Ftoakh was not started by any territory-hungry noble or clan invasion. For hundreds of years, the world had
 been shared by Aslan of radically different cultural groups and clans.
 Wahtoi whose ancestors settled Ftoakh in the first place rankled at
 having to share the planet with every newcomer who just crossed
@@ -13150,97 +13621,145 @@ Wahtoi trading post has, over the course of two thousand years, grown
 
 B
 
+
+
 EarlyuEarlyu
 
 B
+
+
 
 HkuikhekhHkuikhekh
 
 B
 
+
+
 EwyeyalEwyeyal
 
 B
+
+
 
 EoiwEoiw
 
 B
 
+
+
 EiyehwehakheaEiyehwehakhea
 
 B
+
+
 
 HaealroieaHaealroiea
 
 B
 
+
+
 AisaoawiAisaoawi
 
 A
+
+
 
 HtoihfuiHtoihfui
 
 B
 
+
+
 HuaholrHuaholr
 
 B
+
+
 
 TeiseirleTeiseirle
 
 A
 
+
+
 WuakiWuaki
 
 B
+
+
 
 AoiyrasAoiyras
 
 C
 
+
+
 RileakhRileakh
 
 B
+
+
 
 EateawEateaw
 
 B
 
+
+
 Yu'ealYu'eal
 
 E
+
+
 
 AiuiktiyrAiuiktiyr
 
 C
 
+
+
 IrlaiwIrlaiw
 
 C
+
+
 
 OuiyloiOuiyloi
 
 A
 
+
+
 StehasuStehasu
 
 B
+
+
 
 SosuasaohSosuasaoh
 
 C
 
+
+
 KheiyyoKheiyyo
 
 B
+
+
 
 Yai'ilraoYai'ilrao
 
 B
 
+
+
 AiuiteAiuite
 
 E
+
+
 
 AwaweawAwaweaw
 
@@ -13325,8 +13844,7 @@ human slaves. They also used slavery to punish political prisoners.
 The slaves were horribly mistreated, with malnutrition and disease
 being widespread among the manor slaves. While the burden of the
 human population has been partially lifted, the Aslan have not freed
-the slaves. Approximately 10% of the humans on Ouiyloi are first-
-or second-generation slaves, captured from human colonies along
+the slaves. Approximately 10% of the humans on Ouiyloi are first-or second-generation slaves, captured from human colonies along
 the border of the Glorious Empire or the children of such captives.
 The Aslan have agreed to repatriate these slaves but the rest have
 nowhere else to go.
@@ -13365,8 +13883,7 @@ planet's land has been divided up into Aslan territories, the Aslan
 colony has not yet begun to impinge on the Yont settlements. The
 two races currently have very different goals; the Yont are slowly
 learning that the Aslan are not 'sky gods' and are in fact potential
-allies (or slavers), while the Aslan are busy building their colony
-(including a starport) and exploring their new world.
+allies (or slavers), while the Aslan are busy building their colony (including a starport) and exploring their new world.
 
 Both Yont and Aslan are threatened by the predatory saurians of
 Awaweaw. The Yont live in fear of hostile sky rays and great lizards
@@ -13513,46 +14030,68 @@ assignments such as convoy escort, war games or joint offensives.
 
 D
 
+
+
 WesiyeahWesiyeah
 
 E
+
+
 
 FeaheahaFeaheaha
 
 A
 
+
+
 EreahEreah
 
 E
+
+
 
 HewekhoHewekho
 
 B
 
+
+
 AirliweiwAirliweiw
 
 D
+
+
 
 TisilliTisilli
 
 D
 
+
+
 KhtiyrloKhtiyrlo
 
 B
+
+
 
 EaohfoseEaohfose
 
 B
 
+
+
 GikarlumGikarlum
 
 B
+
+
 
 ☯ BurgessBurgess
 
 ☯
 V
+
+
 
 9
 
@@ -13568,21 +14107,31 @@ AfeakterAfeakter
 
 B
 
+
+
 AyayoAyayo
 
 E
+
+
 
 OhraihahOhraihah
 
 B
 
+
+
 AiwewakhAiwewakh
 
 B
 
+
+
 RalaiwRalaiw
 
 B
+
+
 
 Most Aslan bases on the surface are on artificial islands of ice,
 cut from the icebergs at the poles and chemically treated to resist
@@ -13611,8 +14160,7 @@ strength, sponsored by the leading noble, Ulryalehuasiy.
 ###### Tisilli B78A945-A
 
 Tisilli is a neutral world two parsecs outside Aslan space. The
-population is a mix of Aslan colonists (75%) and human natives
-(25%). The humans are descendants of explorers from Drinax and
+population is a mix of Aslan colonists (75%) and human natives (25%). The humans are descendants of explorers from Drinax and
 had fallen into Dark Ages barbarism by the time the Aslan arrived.
 
 The Aslan population are all clanless Outcasts and low-standing
@@ -13793,9 +14341,13 @@ Ewasya'
 
 A
 
+
+
 AuitawryAuitawry
 
 B
+
+
 
 SarageSarage
 
@@ -13893,8 +14445,7 @@ to Kusyu and back. It is a fiercely traditionalist group, refusing to
 tolerate any 'deviant' Aslan culture.
 
 The _Ya'soisthea_ is a much more ad hoc organization and has no
-influence outside the Trojan Reach/Beyond/Riftspan Reaches zone
-(and has relatively little influence within that zone, anyway). It lacks
+influence outside the Trojan Reach/Beyond/Riftspan Reaches zone (and has relatively little influence within that zone, anyway). It lacks
 the grandeur and prestige of the _Tlaukhu_ but is much more flexible
 and tolerant of different beliefs. More importantly, the _Ya'soisthea_ is
 based right here in the Trojan Reach. It may have less power but it
@@ -14090,8 +14641,7 @@ Floria has far more active Ancient technology than visitors realise.
 The Floriani claim that the sites they show tourists are the full extent
 of the ruins but truth is that the whole planet is one vast Ancient
 machine. There was no 'Aslan scoutship' that the Floriani found and
-used to reverse-engineer jump drive technology; they discovered a still-
-functional Ancient warship in a chamber deep beneath Floria's surface.
+used to reverse-engineer jump drive technology; they discovered a still-functional Ancient warship in a chamber deep beneath Floria's surface.
 The Floriani have the keys to much of the knowledge of the Ancients.
 Unfortunately, they have no idea what do to with it. The Floriani know
 they were created for some purpose and some Ancient artefacts trigger
@@ -14221,8 +14771,7 @@ is yours for the taking.
 
 Look around you at the other Player Characters. Smell the fear
 pheromones, watch the tell-tale pupil dilations and tiny twitches of the
-muscles as the fight-or-flight reflex kicks in. Feel your dewclaws – razor-
-sharp, harder than steel – flex beneath your paw. Look around at the
+muscles as the fight-or-flight reflex kicks in. Feel your dewclaws – razor-sharp, harder than steel – flex beneath your paw. Look around at the
 other Player Characters – which of them can you kill easily? Which of
 them would be a challenging fight? And which, if any, can defeat you?
 
@@ -14409,8 +14958,7 @@ Emphasise:Emphasise: Animal brutality the constant danger of attack.
 Inspiration:Inspiration: The Kilrathi from Wing Commander.
 
 Characters. This means that the characters will be working together,
-but also competing for the clan's favor. Ties of blood make inter-
-party feuds and alliances much more interesting. The clan can be a
+but also competing for the clan's favor. Ties of blood make inter-party feuds and alliances much more interesting. The clan can be a
 long-term patron for the clan, much like the Clan Agents campaign
 idea.
 
@@ -14473,8 +15021,7 @@ a conflict.
 ###### Clan Agents
 
 The characters are roving clan agents. They are troubleshooters,
-who go where the clan needs them. Missions range from counter-
-espionage and guarding against assassins, to sorting out diplomatic
+who go where the clan needs them. Missions range from counter-espionage and guarding against assassins, to sorting out diplomatic
 tangles.
 
 + An overly ambitious _ihatei_ has led a few thousand members
@@ -14842,13 +15389,11 @@ your Lawmaster, taking the Law to the streets.
 requires the traveller main rulebook
 
 Dara Happa Stirs is a Gloranthan sourcebook and campaign setting of epic
-proportions. Within its pages you will ʏ nd detailed information concern-
-ing Yelm's empire: history, myths, and political structures for the empire in
+proportions. Within its pages you will ʏ nd detailed information concern-ing Yelm's empire: history, myths, and political structures for the empire in
 Glorantha's Second Age. You will also ʏ nd new cults, new magic, expanded
 character creation for Dara Happan adventurers, a full campaign spanning 10
 years of Dara Happan history and
-numerous story seeds for addi-
-tional action and intrigue.
+numerous story seeds for addi-tional action and intrigue.
 
 The eldritch isle of Melnibone and the Young Kingdoms across the sea
 provide a wealth of strange places, deadly foes and potent spells for the Elric

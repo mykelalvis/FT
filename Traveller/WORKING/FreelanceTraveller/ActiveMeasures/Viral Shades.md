@@ -249,10 +249,14 @@ Ships in jump:
 
  
 
+
+
 Immune from the Virus, a ship was safe until it emerged from jump. Then if the Virus was active in system it was probably be infected mere seconds after its first transponder transmission. Then, stuck out at a 100 diameter jump point it had little chance of making it to safety and few could drop dirtside with no computer control of the M-drive. In these cases alternative means of transport became necessary, using ships boats or even survival globes or re-entry shields to make the journey to safety. The general rule was that the simpler the craft the more chances there were of it operating. Either way most craft survived at most 90 days before victuals and power gave out.
 
 Space stations:
 
  
+
+
 
 The biggest graveyards were the space stations. Even the artificial habitats, with their dependence on computer-regulated lighting, recycling and shielding were not immune. A mass evacuation program was started using the few small craft that had escaped the Virus, or else habitants moved into the docked craft where there was more scope for jury-rigging survival systems, although conditions on them proved little better. The sad fact is that an estimated 90% of all people in space at the time of a Virus strike perished within 3 months, with 70% dying in the first 72 hours. ([return](https://www.freelancetraveller.com/features/advents/virshad.html#top))

@@ -48,6 +48,8 @@ of the Travellers' Aid Society
 
 JOURNAL
 
+
+
 ```
 The
 ```
@@ -60,36 +62,60 @@ of the Travellers' Aid Society - Volume 9
 
 ARTICLES
 
+
+
 ```
 ADVENTURES
+
+
 Rat Patrol 36
 Icebox Found at the Exe Cutoff 70
 ALIENS
+
+
 Amindii 62
 BESTIARY
+
+
 Jreine 67
 CENTRAL SUPPLY
+
+
 Zadony-Tessen Survival Armaments 51
 CHARTED SPACE
+
+
 Aasamlaga: A Reserve Like No Other 29
 Briefing File: Avastan 102
 ENCOUNTERS
+
+
 Alkisatl 54
 Captain Mreni 74
 HIGH GUARD
+
+
 Telchine and Rhea 44
 Belvedere Station 77
 PATRONS
+
+
 Prince Amaad Dagashkugiim 2
 The Wrong Patron 119
 TRAVELLING
+
+
 Code Duello 'Fallisepi' 882 22
 Criminal Organizations of the Marches 90
 VEHICLE HANDBOOK
+
+
 Vindictor Logging Heavy Walker 68
 ```
 
 CREDITS
+
+
 
 ```
 Classic Traveller
@@ -152,7 +178,11 @@ of the Travellers' Aid Society
 
 JJ
 
+
+
 OURNAL
+
+
 
 PatronPatron
 
@@ -172,8 +202,7 @@ expedition to Drenalch to search for Ancients artefacts
 
 Summary: Prince Amaad Dagashkugiim is a great-grandson of
 Golden Sovereign of Hoganas and an enthusiast for history and
-archaeology. The FarStep is a 400-ton yacht equipped with a jump-
-drive commissioned by Amaad specifically to easily reach the Drenalch
+archaeology. The FarStep is a 400-ton yacht equipped with a jump-drive commissioned by Amaad specifically to easily reach the Drenalch
 system and to search for Ancients artefacts on the surface of the
 obviously terraformed planet. The Ghenani 'native' minor human race
 has never allowed outsiders to perform an archaeological study and
@@ -190,8 +219,7 @@ he does not want to hire additional crew from Hoganas for various
 reasons. Primarily, the ship at TL13 is more advanced than any
 domestically produced TL10 ship, especially as it requires an Astrogator
 used to more than one or maybe two parsec jumps. Also, the people
-of Hoganas venerate the Golden Sovereign and his family like demi-
-gods, which Amaad finds tiresome and believes would likely offend
+of Hoganas venerate the Golden Sovereign and his family like demi-gods, which Amaad finds tiresome and believes would likely offend
 the Ghenani, since long-ago Zhodani castaways attempted to pass
 themselves off as gods.
 
@@ -310,8 +338,7 @@ launch is only a Difficult check and an air/raft landing is Routine.
 
 Both landslides and river silt block access to what appears to be an
 underground complex of chambers spanning 90 meters diameter, most
-of which lies below the valley's cliffside. A surface survey – Difficult
-(10+) Electronics (sensors) check (1D hours, EDU), with a DM of the
+of which lies below the valley's cliffside. A surface survey – Difficult (10+) Electronics (sensors) check (1D hours, EDU), with a DM of the
 scanning vehicle's sensor (FarStep could hover above and perform the
 scan; the launch or air/raft could hover or land) – will pinpoint the best
 location to begin digging once Effect reaches +2. If Effect reaches -6,
@@ -322,8 +349,7 @@ connecting corridors totalling 2,000 square meters, with an original
 ceiling of 1.5–2 meters height.
 
 In FarStep's cargo hold, Prince Amaad has brought along three heavy
-excavation drones (similar to mining drones) and eight light drones
-(probe drones) for detailed work and site exploration.
+excavation drones (similar to mining drones) and eight light drones (probe drones) for detailed work and site exploration.
 
 Excavation by heavy drone requires supervision in the form of an
 Average (8+) Electronics (remote ops) check (1D hours, DEX). Two
@@ -350,8 +376,7 @@ the storm. A second failure will require an emergency landing attempt
 somewhere nearby, a check which, if failed, will result in a crash landing.
 
 On a 13+ the storm is severe, making all noted tasks one degree more
-difficult. A severe storm may cause a landslide (9+ on 2D) or flash flood
-(10+ on 2D) or both – roll separately. A severe storm will cause damage
+difficult. A severe storm may cause a landslide (9+ on 2D) or flash flood (10+ on 2D) or both – roll separately. A severe storm will cause damage
 to excavating equipment left unsecured (9+ on 2D: similar damage
 to an Exceptional Failure) and undo 2D worth of Effect progress. A
 landslide or flash flood will reset the excavation progress to zero and
@@ -452,8 +477,7 @@ else is crushed.
 Finally:
 Prince Amaad's criteria for success is the recovery of a functional or
 at least intact Ancients artefact for him to display in his Cabinet of
-Curiosities on Hoganas. A research paper or at least a documentary-
-grade recording of the expedition and the Ancients site itself would be
+Curiosities on Hoganas. A research paper or at least a documentary-grade recording of the expedition and the Ancients site itself would be
 considered a marginal success. In either of these cases, Prince Amaad
 will pay the Travellers a bonus of six months double salaries and might
 ask some or all to remain on as his crew. If things go badly, but the ship
@@ -506,9 +530,7 @@ STR 6 INT 8 Admin 0, Advocate 1, Art (visual media)
 2, Carouse 1, Deception 0, Diplomat
 2, Electronics (computer) 1, Flyer
 1, Investigate 1, Language (Vilani,
-Zdetl) 2, Leadership 2, Medic 0, Melee
-(unarmed) 1, Persuade 1, Science
-(archaeology) 1, Science (history) 2,
+Zdetl) 2, Leadership 2, Medic 0, Melee (unarmed) 1, Persuade 1, Science (archaeology) 1, Science (history) 2,
 Steward 0, Vacc Suit 1
 ```
 
@@ -537,8 +559,7 @@ it beyond reasonable limits. Only Thursday has been able to talk
 him into abandoning something he has fixated upon.
 
 Prince Amaad's current obsession is the purported Ancients
-site on Drenalch. The FarStep was commissioned with jump-
-4 engines and Thrust 2 specifically to make the journey to
+site on Drenalch. The FarStep was commissioned with jump-4 engines and Thrust 2 specifically to make the journey to
 Drenalch easier and the ship's completion is the cumulation
 of three years research and planning. He will undertake the
 expedition regardless of whether he receives permission from
@@ -605,8 +626,7 @@ Survival 1, Tactics (military) 1, Vacc Suit 1
 ### END 9 SOC 6
 
 ```
-EQUIPMENT Weapons: Monoblade (3D, AP 10), Body Pistol
-(AP: 2D, AP 2), Gauss Pistol (AP: 3D, AP 5, Auto
+EQUIPMENT Weapons: Monoblade (3D, AP 10), Body Pistol (AP: 2D, AP 2), Gauss Pistol (AP: 3D, AP 5, Auto
 2), Gauss Rifle (APDS: 4D, AP 17, Auto 3, Scope)
 Armor: Subdermal Armor (+4), Diplo Vest (+3),
 or Advanced Poly Carapace (+16) over Cloth (+4)
@@ -621,6 +641,8 @@ Human Female
 ```
 
 FARSTEP LUXURY YACHT
+
+
 Custom built for Prince Amaad of Hoganas at Portmanteau Shipping
 Services' shipyard on Haapamaki, the FarStep is a luxury yacht
 designed for jump-4 operations. The ship's sculpted hull is streamlined,
@@ -648,6 +670,8 @@ occupied by Prince Amaad's assistant, who can fill the medic and or/
 steward slot in addition to her other duties.
 
 FAST LAUNCH
+
+
 The Fast Launch is a small craft designed as a quick runabout and
 intersystem transfer ship. Manufactured by the yards of Portmanteau
 Shipping Services with a flattened cylinder cross-section for easy
@@ -658,15 +682,14 @@ light fighters.
 
 Variants are common, including a cargo model with 11.1 tons
 capacity, a fuel shuttle with 10 tons capacity, transports capable of
-holding up to 44 passengers, troop carriers holding up to 16 fully-
-equipped troops and boarding vessels with forced linkage apparatus
+holding up to 44 passengers, troop carriers holding up to 16 fully-equipped troops and boarding vessels with forced linkage apparatus
 and breaching tubes.
 
 TL13 Tons Cost (MCr)
 
 Hull 400 tons, Streamlined — 24
 
-M-Drive Thrust 2 (reduced size x2) 6.4 16
+M-Drive Thrust2 (reduced size x2) 6.4 16
 
 J-Drive Jump 4 45 67.
 
@@ -701,8 +724,7 @@ Medical Bay w/ TL14 Autodoc 4 3
 Studio (Art) 4 0.
 ```
 
-Craft Docking Space: Fast Launch
-(20 tons)
+Craft Docking Space: Fast Launch (20 tons)
 
 ### 22 5
 
@@ -746,8 +768,12 @@ Stewards x 2, Gunners x 2
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr29876/month
 PURCHASE COST
+
+
 MCr179.
 ```
 
@@ -853,8 +879,12 @@ Pilot
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr946/month
 PURCHASE COST
+
+
 MCr11.
 ```
 
@@ -897,11 +927,9 @@ Prince Amaad's spacecraft.
 
 SHIMMERLIGHT LUXURY SEALED AIR/RAFT
 
-The Shimmerlight luxury sealed air/raft is a streamlined and vacuum-
-protected small grav vehicle designed to transport up to four people
+The Shimmerlight luxury sealed air/raft is a streamlined and vacuum-protected small grav vehicle designed to transport up to four people
 and 500 kilograms of cargo in relative style and security. The hull's
-multichromatic camouflage coating is most often configured for high-
-visibility ostentatious display but it allows for infrared masking and
+multichromatic camouflage coating is most often configured for high-visibility ostentatious display but it allows for infrared masking and
 can act as active camouflage if the owner desires. Armor marketed
 as meteorite protection is also proof against small arms fire and
 gravchute ejection seats can escape from more than just mechanical
@@ -933,8 +961,7 @@ COST Cr705000
 ```
 Traits Streamlined
 Equipment Autopilot (advanced), Camouflage (improved, infrared
-masking, multi-chromatic), Communications System
-(advanced, tightbeam, encrypted), Computer/3, Control
+masking, multi-chromatic), Communications System (advanced, tightbeam, encrypted), Computer/3, Control
 System (advanced), Ejection Seats (4), Entertainment
 System, Fire Extinguishers, Life Support (short term),
 Navigation System (improved), Sensors (improved),
@@ -1008,6 +1035,8 @@ This is an abbreviated version of the code, reduced to a legible state for
 those less inclined to legal documents.
 
 PERSONNEL
+
+
 Each participant must have a second to ensure fair play and traditionally
 prevent the ambushing of participants. Seconds should be noble, although
 this may be waived. A doctor must also be provided for each duellist. The
@@ -1025,6 +1054,8 @@ unless forced to intercede by foul play. Any second breaking this will
 lose SOC-1 and may be challenged to a duel by the opposing second.
 
 LOCATION
+
+
 The location, the 'Field of Honor', is traditionally declared by the
 challenger on receiving acceptance of the challenge. This will have to
 be a place where the duel can be conducted without interference and
@@ -1036,6 +1067,8 @@ The location must have terrain that does not offer undue advantage to
 either party, which will be confirmed by the seconds.
 
 WEAPONS
+
+
 The weapons are chosen by the challenged party. The code allows for
 either melee or pistol weaponry to be called for. The most formal and
 traditional weapons are blades, although any form of melee weaponry
@@ -1060,6 +1093,8 @@ armed and no other armed person should be within 300 meters of the
 Field of Honor.
 
 PERSONAL AUGMENTATION
+
+
 The code does not address physical differences between individuals
 except for natural weaponry. Likewise, the only restriction on personal
 augmentation is that inbuilt weaponry should not be used during the
@@ -1069,6 +1104,8 @@ is allowed. Using a combat arm in a natural weapons duel is not
 permitted, unless both combatants have such.
 
 ARMOR
+
+
 Combatants are to fight in shirtsleeves. If the duel takes place in an
 environment that requires protection, such as a vacc suit, then these
 forms of protection must be identical. Some duels may be conducted in
@@ -1076,10 +1113,14 @@ identical armor. Shields may also be used, provided both opponents
 agree to their use.
 
 TYPES OF DUELS
+
+
 There are three types of duels: melee, pistol and combination (using
 both melee weapons and pistols).
 
 PROCEDURE
+
+
 Once the challenge has been issued and accepted, all communication
 should be through the seconds. The parties should meet at the agreed
 place; all may inspect the ground and then the seconds will start
@@ -1097,6 +1138,8 @@ is permitted to determine the presence of drugs. The opponents then
 take up position.
 
 THE CONDITION
+
+
 This is the parameter at which the duel can be closed with honor. The
 winner has proved their point and the loser their reputation and courage.
 
@@ -1113,6 +1156,8 @@ ammunition has been fired, the matter is considered settled and closed.
 
 ```
 CONDITIONS
+
+
 First Blood: The first to inflict damage on their opponent is
 considered the winner
 Unconsciousness: A duellist becoming unconscious has lost.
@@ -1124,6 +1169,8 @@ they are considered as without honor, losing SOC-1.
 ```
 
 DOCTORS DECISION
+
+
 A doctor may declare either duellist unfit to continue, at any time, and
 may use a stun weapon to prevent further duelling. If this is accepted,
 honor is considered fulfilled although the duellist considered unfit
@@ -1133,6 +1180,8 @@ obliged to end a duel to prevent bloodshed only to find the duellists will
 fight again. Intervention in this way has become a last resort for most.
 
 MELEE AND COMBINATION DUELS
+
+
 All duels start on a signal, agreed upon beforehand, and may be
 audible, visible or a combination.
 
@@ -1157,6 +1206,8 @@ engage in melee according to the rules for a melee duel. Dodging,
 parrying and diving for cover are all allowed in a combination duel.
 
 PISTOL DUELS
+
+
 Discharging your pistol deliberately away from your opponent is
 discouraged, as it can be construed as showing contempt. If this
 happens, the firer must make a Difficult (10+) Diplomat check. If failed,
@@ -1209,6 +1260,8 @@ Downport
 
 ```
 SCALEHEX
+
+
 1173Km
 ```
 
@@ -1217,6 +1270,8 @@ world rotationDirection of
 ```
 
 AASAMLAGA
+
+
 
 UWP:
 
@@ -1277,6 +1332,8 @@ conservation and are suspicious of Travellers even when trying to make
 them feel welcome.
 
 TRADE
+
+
 There is no industry on Aasamlaga. Its primary economic force is
 ecotourism and its culture is overwhelmingly genteel and cheerful.
 Residents live on the finest planet in the Imperium and are happy to
@@ -1286,14 +1343,14 @@ The system's agricultural needs are met by the neighboring system
 of Askisa (C654576-6), which was found more pragmatic to develop,
 to the benefit of keeping Aasamlaga's natural wonders intact. It is
 also Aasamlaga's garbage dump. The planet's higher technological
-needs, such as computers and antigrav vehicles, are met by Gaamkhi
-(A587449-D), which also provides defence via an Imperial naval base.
+needs, such as computers and antigrav vehicles, are met by Gaamkhi (A587449-D), which also provides defence via an Imperial naval base.
 
 TOURISM
+
+
 There is a waiting list for sightseeing tours. The planet is home to a
 bewildering variety of terrestrial, coastal and aquatic ecosystems, from
-dense cavernous jungles and shores of walking mangroves to snow-
-capped crystal mountains. Its equator is an archipelago of innumerable
+dense cavernous jungles and shores of walking mangroves to snow-capped crystal mountains. Its equator is an archipelago of innumerable
 islands, each a unique ecosystem, and of arctic tide pools heated by
 geothermal vents. Its tundra gives way to vast waterfalls springing from
 ancient jagged monoliths.
@@ -1336,6 +1393,8 @@ selective; for those qualified or cunning enough, the discovery of
 unprecedented cultural and natural treasures awaits.
 
 INVASIVE PESTS
+
+
 The cost of keeping Aasalmaga pristine is constant vigilance against
 invasive species and poachers. Despite harsh penalties, lifeforms taken
 from Aasalmaga, wildflowers and apex predators alike, fetch a high
@@ -1347,6 +1406,8 @@ being discovered, so there is always a need to cull invasive species
 and repair habitats for native creatures.
 
 HABITATION
+
+
 Modern dwellings on Aasamlaga are rustic bungalows designed for
 little impact on the environment, open and spartan for minimal waste
 and disruption to the surroundings. Some blend in so well with their
@@ -1370,6 +1431,8 @@ to perform unsavory tasks. Although extremely hospitable, this only
 makes their attitude to offworlders all the more cloying.
 
 LAW LEVEL AND FINES
+
+
 Reflecting the world's exceptionally high Law Level, visitors can
 expect their movements and everything they say will be recorded,
 and are advised before stepping foot onto the planet that any actions
@@ -1380,6 +1443,8 @@ creatures. Aasamlaga is happy for visitors to enjoy nature but is
 exceedingly strict about its protection.
 
 MAJOR THREATS
+
+
 Although not often deployed, the armed security staff are equipped
 with stunners and laser pistols for subduing hostile threats. Their cloth
 armor is recognizable by its darkened earth-tone camouflage and is
@@ -1448,8 +1513,7 @@ of a breeding program to later be introduced back into the wild. The
 Travellers' visitor passes include a free ticket to the exhibition.
 
 Referee's Information
-Any attempts to dock at the downport of Aasamlaga require a Difficult
-(10+) Pilot check to avoid the 'grounds restoration' fee. Whenever a
+Any attempts to dock at the downport of Aasamlaga require a Difficult (10+) Pilot check to avoid the 'grounds restoration' fee. Whenever a
 check is failed under the observation of the planetary AI, a Docent,
 or groundskeeper drone, a Cr100 x Effect fine will be enforced. The
 stewards of the planet are fastidious, often maddeningly so.
@@ -1462,6 +1526,8 @@ of the planet are outside the AI's watch, instead patrolled by unarmed
 groundskeeper surveillance drones.
 
 THE SITUATION
+
+
 The quetzl tour begins with a shameful display of historic goods made
 from the endangered animal. Situated in highly protective cases are
 jewellery and other finery made from the animal's scales, psi-enhancing
@@ -1470,8 +1536,7 @@ drugs from its glands and ornamental weapons crafted from its tail
 barb. These were originally intended for nobles of old and now stand
 testament to the inherent disregard for life.
 
-At the enclosure, the quetzli are indeed stunning to behold. It is a bird-
-like reptile of over five meters in length, covered in feathery, iridescent
+At the enclosure, the quetzli are indeed stunning to behold. It is a bird-like reptile of over five meters in length, covered in feathery, iridescent
 scales. For the wellbeing of the animal the enclosure is unobtrusive,
 except for a bright red line in the earth three meters outside its
 perimeter. The larger quetzl seems to ignore most of the group, simply
@@ -1488,11 +1553,12 @@ outstretching a hand slightly as if to pet it.
 It takes a minute or so for the tour guide to notice and another few
 before the hypnotised Traveller stumbles their way to within the quetzl's
 striking range. Any Traveller who notices their companions distracted
-state should promptly retrieve them from the exhibit. A Very Difficult
-(12+) Recon check allows Travellers to see the Docents speaking into
+state should promptly retrieve them from the exhibit. A Very Difficult (12+) Recon check allows Travellers to see the Docents speaking into
 earpieces, calling for preserve security staff to apprehend the group.
 
 DOCENT MORAN
+
+
 When the tour concludes, the Travellers are held in a secure area of the
 downport, little more than a small room with an assortment of seating
 pushed against the walls. After a short while a stocky looking woman
@@ -1529,6 +1595,8 @@ Persuade check will have her reluctantly agree on Cr8000. If this check
 is failed, she will refuse to pay more than Cr5000.
 
 OUTFITTING AND TRANSPORT
+
+
 The Travellers are loaned one of the preserve's enclosed touring air/rafts
 for transport to and from the site. Security arms them with stunners and
 environmentally friendly air rifles, which fire a hardened dart of organic
@@ -1538,6 +1606,8 @@ harming anything other than a small animal. Daggers and blunt weapons,
 cloth armor and vacc suits are permitted for this mission.
 
 THE EQUATORIAL MANGROVES
+
+
 Two hours south of the downport by air/raft, the humid mangroves of
 the equatorial region are an ecosystem of slithering, stealthy, venomous
 creatures. The delicate balance of this habitat has been upset by the
@@ -1575,6 +1645,8 @@ predators and floating jellyfish-like creatures must be avoided as they
 contain a volatile gas capable of setting fire to the mangroves.
 
 THE HUNTERS AND THE HUNTED
+
+
 After exterminating several of the auger colonies – and hopefully
 not much else – the Travellers encounter a wild quetzl. Remaining
 camouflaged, it uses its psionic abilities to draw its prey towards it,
@@ -1607,6 +1679,8 @@ has hired them to add the specimen to his private zoo, giving each a
 sizeable sum to achieve such a feat.
 
 UP IN THE AIR
+
+
 Poachers can get Cr200000 for a live quetzl but Docent Moran is
 prepared to pay twice that to secure the specimen's safe return. If
 the Travellers failed to secure the quetzl when they initially saw the
@@ -1649,6 +1723,8 @@ boat's non-combat pilot. Baronet Antoni himself is on the yacht at the
 when it is nearby, rendezvousing in just over two hours.
 
 RESOLUTION
+
+
 A successful mission would see the Travellers preventing the ship's
 boat from reaching the _Zaroff_ , keeping the _Zaroff_ from jumping out or
 retrieving the quetzl. Failing those, having a lead on the yacht and its
@@ -1672,6 +1748,8 @@ Docent Moran will award them Cr400000 for the animal's return and her
 opinion of offworlders will improve... slightly.
 
 AIR RIFLE
+
+
 A simple air-powered slug thrower that is not harmful to the
 environment, nor most other things. Pumping the air chamber takes two
 minor actions.
@@ -1687,6 +1765,8 @@ Air Rifle 1 Cr1 —
 ```
 
 AUGER
+
+
 An adaptable species of small aquatic mammals who live in groups of
 1D+2. They have chisel-like teeth used to chew through soft wood to
 make nests and propel themselves through the water by a thick, striped
@@ -1702,6 +1782,8 @@ Behaviour Omnivore, Hunter
 ```
 
 QUETZL
+
+
 The quetzl is a serpent covered in feathery, iridescent scales, with
 a wingspan of five meters. It is an ambush predator that waits in
 seclusion before shimmering its scales in a hypnotic dance to dazzle
@@ -1732,6 +1814,8 @@ Lamarck equipment did not adequately meet the needs of belter life, so
 set out to design a better option.
 
 TELCHINE
+
+
 Consisting of four sections joined in a square around an empty central
 well, the 50-ton Telchine is a dispersed configuration. Sections of the
 hull are of identical size and shape to make mass production easier
@@ -1760,8 +1844,7 @@ TL12 Tons Cost (MCr)
 
 Hull 50 tons, Dispersed, Light — 6.25
 
-M-Drive Thrust 5
-(Thrust 1 with 200-ton payload)
+M-Drive Thrust 5 (Thrust 1 with 200-ton payload)
 
 ### 2.5 5
 
@@ -1813,9 +1896,13 @@ Pilot, Engineers x3
 
 MAINTENANCE COST
 
+
+
 ```
 Cr1989/month
 PURCHASE COST
+
+
 MCr23.875
 ```
 
@@ -1839,6 +1926,8 @@ Sensors
 2. Grappling Arm
 
 RHEA
+
+
 The distinguishing feature of the Rhea is the 'hopper', an auxiliary cargo
 bay that opens onto the dorsal side of the ship. The smaller ship clamps
 onto the hopper, with anti-grav baffles and reinforced bulkheads to lessen
@@ -1922,8 +2011,12 @@ x4, Mechanics x2, Gunner
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr23817/month
 PURCHASE COST
+
+
 MCr285.815
 ```
 
@@ -1989,12 +2082,13 @@ survival kit.
 
 The Imperial Interstellar Scout Service has purchased examples of all
 these ZT weapons and they are popular for their rugged reliability and
-aesthetics. Many individual scouts acquire their own, especially the ZT-
-18 and ZT-28 pistols, purloined from ships lockers to use as personal
+aesthetics. Many individual scouts acquire their own, especially the ZT-18 and ZT-28 pistols, purloined from ships lockers to use as personal
 weapons. Any Scout receiving a Weapon as a Benefit may take one of
 these weapons, including the ZT-38, despite it exceeding Cr1000.
 
 SLUG PISTOLS
+
+
 ZT-18 Survnaut Pistol: This is a three-barrelled break open pistol, with the
 two upper side-by-side barrels chambered for 13mm pistol rounds and the
 lower chambered for rifle rounds. The upper barrels may be discharged at
@@ -2031,8 +2125,7 @@ differing calibres, with the spare resting in a slot under the current fitted
 barrel. Changing the barrel is a simple matter of turning the knurled ring
 at the muzzle and pulling the barrel away, then inserting the alternate
 barrel and tightening the ring; this takes D3 rounds. The revolver can
-use both 13mm pistol cylinders and rifle chambered cylinders. The ZT-
-28 comes with the same detachable shoulder stock as the ZT-18.
+use both 13mm pistol cylinders and rifle chambered cylinders. The ZT-28 comes with the same detachable shoulder stock as the ZT-18.
 
 At TL9 the ZT-28 can be purchased gyro stabilized, removing the Bulky
 trait and adding one kilogram to weight and Cr400 to cost.
@@ -2059,6 +2152,8 @@ ZT-38 Survnaut Carbine ZT-Survnaut Hatchet
 ```
 
 SLUG RIFLES
+
+
 ZT-38 Survnaut Carbine: For crews concerned that they may lose
 their highly trained astrogator to a wild animal that the ZT-18 or -28
 cannot handle, the ZT-38 is offered. This is a longer barrelled ZT-18
@@ -2138,9 +2233,7 @@ found at a downport on almost any planet of the Referee's discretion.
 ```
 STR 6 INT 9 Admin 0, Advocate 1, Art (write) 1, Broker
 1, Carouse 2, Clairvoyance 2, Diplomat 2,
-Electronics (computers) 1, Gun Combat
-(slug), Language (Galanglic) 1, Language
-(Vilani) 1, Leadership 2, Persuade 1,
+Electronics (computers) 1, Gun Combat (slug), Language (Galanglic) 1, Language (Vilani) 1, Leadership 2, Persuade 1,
 Science (psionicology) 3, Streetwise 2,
 Telepathy 4, Teleportation 1, Vacc Suit 0
 ```
@@ -2217,8 +2310,7 @@ a game to her.
 
 ```
 STR 10 INT 7 Admin 0, Engineer (power) 1, Flyer (grav)
-3, Gun Combat (energy) 1, Gun Combat
-(slug) 1, Heavy Weapons (vehicle)
+3, Gun Combat (energy) 1, Gun Combat (slug) 1, Heavy Weapons (vehicle)
 1, Mechanic 0, Melee (unarmed) 1,
 Navigation 1, Pilot (small craft) 3, Steward
 0, Streetwise 1, Survival 0, Telekinesis 2,
@@ -2244,6 +2336,8 @@ Zhodani Male
 ```
 
 LUDRIIEPR
+
+
 Ludriiepr acts as driver, bodyguard and personal assistant for Alkisatl,
 having been hired by her father two terms prior. This appointment was
 good fortune for Ludriiepr; becoming a personal attendant to a member
@@ -2262,6 +2356,8 @@ promotion to a noble's intendant is unusual and Ludriiepr is keenly
 aware of the luck involved with his present situation.
 
 PSARA
+
+
 Built for the daughter of a Zhodani noble, the Psara is little more than a
 fast transport vessel designed to ferry Alkisatl to wherever she wishes
 to go. As it is only a small craft it does not have any jump capacity,
@@ -2349,8 +2445,12 @@ Engineer, Medic
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr3721/month
 PURCHASE COST
+
+
 MCr44.655
 ```
 
@@ -2380,6 +2480,8 @@ Sensors
 4. Cargo Bay
 
 MERLA
+
+
 
 Designed for the Alkisatl by her father, the Merla was created purely
 with comfort and luxury in mind. Featuring up-to-date technology and all
@@ -2417,8 +2519,7 @@ FRONT 10 (+36) REAR 10 (+36) SIDES 10 (+36)
 
 ```
 Traits —
-Equipment Autopilot (advanced), Communications Systems
-(advanced, satellite uplink), Electrostatic Armor,
+Equipment Autopilot (advanced), Communications Systems (advanced, satellite uplink), Electrostatic Armor,
 Entertainment System, Navigations Systems (basic),
 Sensors (improved), Wet Bar
 ```
@@ -2433,6 +2534,8 @@ Sensors (Electronics (sensors) DM) +1
 
 ALIENALIEN
 
+
+
 Amindii
 **By Geir Lanesskog**
 
@@ -2444,6 +2547,8 @@ participate in Regina's wider society and some have left Regina to
 become Travellers in the wider galaxy.
 
 PHYSICAL CHARACTERISTICS
+
+
 As upright bilateral beings with four arms and two large legs, the Amindii
 superficially resemble [[Terra|Terran]] grasshoppers, with internal skeletons within
 their exterior of chitinous plates and finely scaled skin. Adults average 2.2
@@ -2460,6 +2565,8 @@ a receptor of infrasound. Smell is accomplished by receptors within the
 mouth and is both acute and closely associated with taste.
 
 EVOLUTIONARY DEVELOPMENT
+
+
 As members of Regina's most common surface fauna phylum, the
 Amindii have essentially shed two of their eight limbs as they became
 upright walkers. Their ancestors were small-group herbivores but the
@@ -2472,6 +2579,8 @@ Reginan fauna and gave the proto-Amindii a strong advantage in
 exploiting scarce resources.
 
 LIFE CYCLE
+
+
 As with much Reginan fauna, the Amindii have three genders: egg
 donor, activator and a bearer who carries the fertilised embryo to term
 over a period of approximately 300 standard days. While mating usually
@@ -2503,6 +2612,8 @@ communally within their tribe,
 band or village unit.
 
 HISTORY
+
+
 Proto-Amindii achieved full
 sentience at least 200,000
 years ago, based on
@@ -2565,6 +2676,8 @@ more than 80% of the habitable regions of Regina, with Imperial society
 mostly concentrated in urban areas.
 
 SOCIETY
+
+
 Except for the mostly assimilated Tida*ii, the Amindii retain their
 original cultures and languages. While the Idinii depend heavily on
 vocalization and inflection to convey meaning, the other four Amindii
@@ -2591,6 +2704,8 @@ cultures of Amindii are legally five semi-sovereign nations but national
 institutions are weak compared to tribal bonds and structures.
 
 EXTERNAL RELATIONS
+
+
 By treaty, all Amindii are Imperial citizens. As such, they have the rights
 and responsibilities shared by all sophonts within the Imperium. Amindii
 cultures are semi-sovereign nations, with full self-government and control
@@ -2614,6 +2729,8 @@ Amindii citizens, seen in the high ceilings and wide passageways that
 predominate among Regina's otherwise compact cities.
 
 CREATING AMINDII TRAVELLERS
+
+
 Amindii Travellers are uncommon but not rare, especially in the vicinity
 of Regina. Although most Amindii spend their lives on reservation land,
 living a fairly simple rural existence, tens of millions have adapted to
@@ -2642,8 +2759,7 @@ Amindii Hands: Amindii hands are not suited to equipment designed
 for humans. Apply DM-1 to all checks using tools or weapons not
 designed for Amindii.
 
-Perception: Amindii are able to perform the equivalent of Life Detection
-(see Traveller Core Rulebook, page 230) once per hour by making a
+Perception: Amindii are able to perform the equivalent of Life Detection (see Traveller Core Rulebook, page 230) once per hour by making a
 Recon check. This is not a true psionic power and cannot be blocked
 with shields.
 
@@ -2768,11 +2884,12 @@ By Donald Orr
 
 A dying signal GK (mayday) beams weakly from well beyond the jump
 limit of the Exe system's secondary gas giant – an unlikely place for
-an ambush despite the shortcut's reputation. Aboard the gutted Hraye-
-class scout (see Aliens of Charted Space: Volume 1, page 70) sleeps a
+an ambush despite the shortcut's reputation. Aboard the gutted Hraye-class scout (see Aliens of Charted Space: Volume 1, page 70) sleeps a
 single survivor, the forgotten bait of an ill-planned pirate trap.
 
 EXE
+
+
 The Borderland, Trojan Reach
 The system of Exe is practically uninhabited, except for the skeleton crew
 of the Class A starport built by the General Development Corporation
@@ -2804,6 +2921,8 @@ but not at all secure under this arrangement, so corporate and other
 unaffiliated entities are left to protect their own interests.
 
 BEACON DETECTED
+
+
 Orbiting at some distance from the secondary gas giant of Exe is the
 gutted wreck of the Penniless Prince, a 100-ton Hraye-class scout. The
 vessel is completely derelict except for three systems: a bank of low
@@ -2833,6 +2952,8 @@ her spaceworthy again would be so extensive that it would likely be
 cheaper to acquire an entirely new ship.
 
 THE LIE AND THE TRUTH
+
+
 Reviving the person inside the low berth is a straightforward if technical
 procedure, only complicated by the loss of cabin pressurization aboard
 the Penniless Prince and the rescuer's possible lack of advanced
@@ -2875,6 +2996,8 @@ including Gronzi himself. Any one of them could have made their way
 back to Exe to rescue their erstwhile companion, yet none did.
 
 PATRONAGE
+
+
 Rabin is not a fool, despite the foolish company he kept. Once he
 realises that he has been left for dead, he will decide a course of action
 based on the qualities of his rescuers. If they seem like upstanding
@@ -2946,9 +3069,7 @@ member of the lower nobility in order to canvass targets.
 ### CHARACTERISTICS SKILLS
 
 ```
-STR 8 INT 6 Art (performer) 2, Carouse 1, Gun Combat
-(slug) 4, Gunner 1 (turret), Language
-(Vilani) 1, Leadership 2, Melee (unarmed)
+STR 8 INT 6 Art (performer) 2, Carouse 1, Gun Combat (slug) 4, Gunner1 (turret), Language (Vilani) 1, Leadership 2, Melee (unarmed)
 3, Persuade 2, Seafarer (sail) 3, Stealth 0,
 Streetwise 1, Survival 0, Tactics 0
 ```
@@ -2994,8 +3115,7 @@ When encountered by Travellers, he will present himself as nothing
 more than a humble beggar. Complimenting the armor or weapons of
 the Travellers, he will initiate conversation with those he believes may
 help reinstate his former glory. Mreni is a useful addition to a ship's
-crew and will join the crew for half the salary of a traditional gunner
-(Cr1000 per month), provided a successful Difficult (10+) Persuade
+crew and will join the crew for half the salary of a traditional gunner (Cr1000 per month), provided a successful Difficult (10+) Persuade
 check is made.
 
 High guardHigh guard
@@ -3030,8 +3150,7 @@ Recently, the elected bureaucrats of New have sought to upgrade the
 starport to Class C, believing that doing so will drive trade and tourism
 to the backwater world. Most jump 2 traders bypass New in favor of the
 Class B ports at Imasaa or Eshadi. To accomplish this task economically,
-they have chosen to retrofit the existing fuel depot – previously a one-
-man operation – to a fully-fledged highport and grandiosely renamed it
+they have chosen to retrofit the existing fuel depot – previously a one-man operation – to a fully-fledged highport and grandiosely renamed it
 Belvedere Station. This retrofit was completed only recently and includes
 spartan repair, entertainment and dining facilities.
 
@@ -3042,6 +3161,8 @@ service scouts to review station services without alerting station staff
 that they are doing so.
 
 GENERAL DESCRIPTION
+
+
 To the untrained observer, Belvedere Station is a small space station
 that appears to be somehow oddly mismatched. Those with spacefaring
 experience or training in structural engineering recognize that it has been
@@ -3077,6 +3198,8 @@ planet below. A few are lifelong bureaucrats for whom this is just the
 latest posting or perhaps a career stepping-stone.
 
 PERSONALITIES
+
+
 Jamison Clintock, Assistant Starport Director: Tall, gaunt and in
 his early 40's, Jamison's clothing is perfectly pressed and his greying
 hair neatly combed-over his small, bald head. A local bureaucrat that
@@ -3102,8 +3225,7 @@ extremely friendly, if folksy, demeanour that tends to put people at ease.
 
 Galvin Markov, Shuttle Pilot: As the shuttle pilot who ferries
 passengers between Belvedere Station and the New downport, Galvin
-spends a good deal of his time in the cockpit of the SPA's passenger-
-outfitted launch. Having grown up on one of the many farms of New
+spends a good deal of his time in the cockpit of the SPA's passenger-outfitted launch. Having grown up on one of the many farms of New
 and 'earned his wings' flying cargo runs between the market towns and
 the downport, Galvin would proudly call himself a 'local yokel'. He has a
 country drawl and a not insignificant dislike of the new highport, which
@@ -3168,8 +3290,7 @@ Henrik Riordonson, Janitor and Gardener: A tall, lean and very
 blonde man in his middle years, Henrik projects an air of experience,
 competence and intelligence that belies his position as station's
 janitor. He seems content, however, pushing his wheeled bucket
-and mop around the station to disinfect patches that the auto-
-cleaners fail to and tending to the planted emplacements around
+and mop around the station to disinfect patches that the auto-cleaners fail to and tending to the planted emplacements around
 the promenade. He does not talk much about himself but is a great
 listener and enjoys making friends with passers through, often
 interjecting himself into their conversations.
@@ -3181,6 +3302,8 @@ desperate to buy passage back to a more centralised starport to find a
 connection home. They are staying at the Inn.
 
 LOCATIONS
+
+
 
 **1. Docking Umbilical**
 The New Starport sees between four and six ships per week, most
@@ -3208,8 +3331,7 @@ chamber, which itself opens onto the main concourse of the station.
 The 'Promenade' is a modest affair, a small, communal space that
 connects the dining, entertainment and hospitality facilities that
 Belvedere Station offers. It is 10 meters wide and 20 meters long, with
-two storefronts to the left and two to the right that open with large, roll-
-up doorways. The ceiling, five meters high, terminates in a skylight with
+two storefronts to the left and two to the right that open with large, roll-up doorways. The ceiling, five meters high, terminates in a skylight with
 an unobstructed and inverted view of New; inexperienced spacers may
 find the floating planet above them unsettling. The décor is generically
 welcoming, with several plant installations showing off the local flora
@@ -3277,15 +3399,13 @@ retracting aperture that can be closed to allow the repair bay to be used
 as a giant airlock. A series of 18 hydraulic clamps are recessed into the
 ceiling and floor.
 
-Like most establishments at Belvedere Station, the repair bay is a state-
-sponsored enterprise. The staff that work the repair bay are employees
+Like most establishments at Belvedere Station, the repair bay is a state-sponsored enterprise. The staff that work the repair bay are employees
 of the government of New and, in addition to their regular stipend,
 receive a commission on any work done to ships passing through.
 
 **5. Shuttle Hangar**
 The lighting in the shuttle hangar is different from the rest of the station.
-It is a bright, almost dazzling white, illuminating rows of uncomfortable-
-looking chairs facing towards the small airlock in the opposite wall.
+It is a bright, almost dazzling white, illuminating rows of uncomfortable-looking chairs facing towards the small airlock in the opposite wall.
 A desk stands in front of the airlock, generally unmanned unless the
 shuttle is currently docked with the station. In that case, the desk
 is occupied by the shuttle pilot who doubles as ticketing agent and
@@ -3294,8 +3414,7 @@ departure or arrival, likely some hours away.
 
 The New highport is in geosynchronous orbit with the downport at an
 elevation of 35,000 kilometers. To facilitate the movement of people
-and petty goods between the surface and Belvedere Station, the shuttle
-(actually just a 20-ton launch) operates twice daily service. It departs
+and petty goods between the surface and Belvedere Station, the shuttle (actually just a 20-ton launch) operates twice daily service. It departs
 the downport at 0800, arrives at Belvedere Station two hours later,
 then completes two circuits before ending service at 1900 back at the
 downport. At present, there is incredibly little traffic. Most ships that call
@@ -3460,6 +3579,8 @@ such, this small stateroom has clear line of site to New's moon, sun and
 stars, as the station orbits the planet below.
 
 POSSIBLE DEVELOPMENTS
+
+
 A few developments or conditions are likely to make life interesting
 aboard Belvedere Station.
 
@@ -3487,8 +3608,7 @@ Galvin (because he does not like outsiders) and Jo-Job (because he
 is socially awkward). Everyone else is from off-planet and has varying
 perspectives on the backwater of New.
 
-**Docked Agri-trader:** There is a reasonable chance that a bulk agri-
-trader is docked at the New highport at any given time. These ships
+**Docked Agri-trader:** There is a reasonable chance that a bulk agri-trader is docked at the New highport at any given time. These ships
 tend to run seasonal routes to maximise profits according to local
 farming and ranching calendars, which although predictable, tend to
 be very safe from piracy due to the bulk nature of the goods being
@@ -3560,6 +3680,8 @@ corporations or government agencies, with staggering resources and
 equally staggering goals.
 
 MEMBERSHIP
+
+
 A Traveller can choose to join one of the larger criminal organizations
 when starting a new career as a Rogue. However, the Referee may
 opt to allow other careers access to these organizations if this fits
@@ -3569,6 +3691,8 @@ careers that would fit in well could include Agent, Citizen, Entertainer,
 Merchant and even Noble.
 
 RANK
+
+
 Once a Traveller joins a criminal organization they start at Rank 0 in the
 career as normal. However, this also means they are at Rank 0 within
 the criminal organization itself and will gain rank in the organization
@@ -3583,6 +3707,8 @@ has its own requirements and restrictions that members must obey or
 risk losing membership – or suffering a far worse fate.
 
 RESTRICTIONS AND REQUIREMENTS
+
+
 Restrictions are taboos for organization members, things they cannot
 do. Common restrictions on criminal organization members include
 revealing secrets of the organization to outsiders, or using the
@@ -3596,6 +3722,8 @@ the organization but other requirements include wearing a particular
 uniform or behaving in a certain fashion.
 
 BENEFITS
+
+
 Benefits are passive boons granted by the organization – the
 Traveller's membership in the organization helping them in some
 fashion. One common benefit is protection; people know not to
@@ -3641,6 +3769,8 @@ that the Vriterbei combine the criminal ethos and familial loyalty of the
 Cosa Nostra with Vilani rigidity and tradition.
 
 ACTIVITIES
+
+
 Anything and everything; prostitution, loan sharking, gambling, protection
 money, bribery, weapons smuggling and so on. The Vriterbei provide
 whatever a planet needs. They sell arms to warlords, or slaves to bored
@@ -3648,6 +3778,8 @@ nobles, but also smuggle in food for starving peasants or invest in
 legitimate companies. The Vriterbei want stability above all else.
 
 REACH
+
+
 The Vriterbei once had reach across the whole of the Spinward
 Marches; today, they are mostly concentrated in District 268 and the
 surrounding subsectors.
@@ -3721,6 +3853,8 @@ propagating itself than improving life for Imperial citizens. The 'modern'
 Ine Givar may have assimilated several other terrorist organizations.
 
 ACTIVITIES
+
+
 The ultimate goal of the Ine Givar is to overthrow the existing structure
 of the Imperium and replace it with something more democratic; they
 especially want the Imperium to intercede on troubled worlds where
@@ -3731,6 +3865,8 @@ kidnapping and extortion, to major terrorist attacks targeting the nobility,
 symbols of Imperial power or lynchpins of interstellar trade networks.
 
 REACH
+
+
 Multiple sectors, although the heaviest presence is within the Spinward
 Marches and Deneb sectors. The Ine Givar is not especially powerful or
 wealthy but its ideals have been transmitted across hundreds of worlds.
@@ -3787,8 +3923,7 @@ democracy-crazed bomb throwers.
 ```
 
 The Syndicate
-The Syndicate was formed by a group of retired adventurers and ex-
-criminals with access to a half-dozen free trader vessels and several
+The Syndicate was formed by a group of retired adventurers and ex-criminals with access to a half-dozen free trader vessels and several
 lifetimes of contacts and criminal suppliers. They had seen more of the
 Imperium than any planetary crime lord and knew what was available
 out there. They realised there was an opening for a specialized
@@ -3803,6 +3938,8 @@ Syndicate still offers criminal services for hire but has branched into
 incorporating local crime organizations into an interstellar network.
 
 ACTIVITIES
+
+
 The Syndicate is the criminal equivalent of a business-to-business
 service. They commit relatively few crimes themselves but instead
 supply weapons, offworld travel, smuggling and so forth. The Syndicate
@@ -3814,6 +3951,8 @@ converted luxury liner that moves along a pre-determined route on
 the edge of the Imperium.
 
 REACH
+
+
 The Syndicate has hundreds of free traders and smugger ships in
 the Marches.
 
@@ -3864,8 +4003,7 @@ The Cult of the Traveller is an underground organization, one that
 has been heavily suppressed by virtually every government. The
 cult stems from the teachings of a prophet (or madman) who called
 himself the Watcher. He was a barbarian from a primitive lost world
-who was taken to the stars by an IISS scouting mission in the mid-
-500s. The trauma of being lifted from an Iron Age society to the
+who was taken to the stars by an IISS scouting mission in the mid-500s. The trauma of being lifted from an Iron Age society to the
 Imperium shattered the barbarian's mind and he decided that he had
 been taken into the realm of God.
 
@@ -3892,11 +4030,15 @@ that He is God and free him from His fleshy prison.
 and may pretend to be God. They must be slain.
 
 ACTIVITIES
+
+
 Proselytising and murder. The Cult has a number of high-functioning
 sociopaths (produced through overuse of Tricerin) and funds its
 activities through assassination and mercenary work.
 
 REACH
+
+
 Limited. Cells of the Cult exist on many different worlds but there is little or
 no communication between them. A lone madman limps off a free trader
 and disappears into a megacity; a year later, he has spread his twisted
@@ -3918,6 +4060,8 @@ There are no ranks within the Cult and no resources it can draw upon.
 
 ```
 TRICERIN
+
+
 A drug of Darrian origin, Tricerin production was officially banned
 in 772. However, the formula for the drug was already circulating
 in the criminal underworld and it is comparatively cheap and easy
@@ -3960,6 +4104,8 @@ legitimate government. To survive, they have gone underground (and
 taken the contents of the Rabwhar Royal Bank with them).
 
 ACTIVITIES
+
+
 The Democratic Government-in-Exile of Rabwhar (DGER) has
 mutated into a band of pirates and raiders. They spent the money
 taken from Rabwhar on outfitting ships and hiring mercenaries; their
@@ -3973,6 +4119,8 @@ within a few years, it is almost certain that the pirates will win out and
 abandon any pretension to legitimacy on Rabwhar or anywhere else.
 
 REACH
+
+
 The Lunion subsector.
 
 Restrictions
@@ -4023,6 +4171,8 @@ open to anyone who homesteads the land, with a decentralised directly
 democratic government and very few laws or regulations.
 
 SYSTEM SUMMARY
+
+
 Avastan's main sequence star, unofficially named Zend, is a stable
 red dwarf with four gas giants, two planetoid belts and four other
 major planets. Avastan is the second planet in orbit around Zend, lying
@@ -4035,10 +4185,11 @@ the surface of Avastan. Rumors of pirate activity in Zend's planetoid
 belts and outer system are common but not well-substantiated.
 
 WORLD DATA
+
+
 Avastan is an inhospitable world habitable only with the aid of a
 respirator and cold weather clothing. The planet is tilted nearly 90
-degrees on its axis, leaving its polar regions in daylight or night-
-time for half an Avastan year of 50 standard days. The extremes
+degrees on its axis, leaving its polar regions in daylight or night-time for half an Avastan year of 50 standard days. The extremes
 of temperature during these long periods of light and dark, locally
 referred to as 'Summerbright' and 'Winterdark', leave the polar
 regions on average warmer than the equator. The Great Northern Sea
@@ -4053,8 +4204,7 @@ is home to Avastan Downport and 500,000 of Avastan's 700,000
 citizens. Half of the remaining population lives within the basin, along
 the sea's shore or in seasonal river valleys that flow into the sea.
 
-Many of Avastan's citizens are refugees from the oppressive or war-
-torn worlds of Tarkine, Kuai Qing, Motmos and Singer, or migrants
+Many of Avastan's citizens are refugees from the oppressive or war-torn worlds of Tarkine, Kuai Qing, Motmos and Singer, or migrants
 from the industrial worlds of Collace and Forine looking for a better life.
 Anyone who homesteads a plot of land on Avastan for one local year
 can claim citizenship. The culturally diverse citizens of Avastan consist
@@ -4086,6 +4236,8 @@ Gatha
 ```
 
 AVASTAN
+
+
 
 UWP:
 
@@ -4192,6 +4344,8 @@ Length of Year (local) 33.115 Local solar days.
 ```
 
 GEOLOGIC HISTORY
+
+
 Avastan formed with the rest of the Zend system approximately 6.85
 billion years ago. A series of large impacts late in planetary formation
 created both the depression that surrounds the Great Northern Sea and
@@ -4221,6 +4375,8 @@ colonization of the land by hardy native and non-native lifeforms,
 altering patterns of erosion.
 
 GEOGRAPHY
+
+
 Land dominates the surface of Avastan, with water covering only 28.2%
 of the surface. Of that percentage, two fifths are permanent glacier and
 one fifth is permanent ice cap over liquid water. Only two fifths or 11.3%
@@ -4241,6 +4397,8 @@ and scattered rifts where the crust has expanded on the borders of
 these hotspots.
 
 CLIMATE
+
+
 Avastan is a cold world with average global temperature of -8° C but
 the planet's varied geography and extreme axial tilt can cause large
 variations in temperature. Polar regions experience the greatest
@@ -4282,10 +4440,11 @@ the Northern Basin area. Most of the world is a rugged frozen desert
 ranging from tan to brown to red in colour.
 
 BIOSPHERE CHARACTERISTICS
+
+
 Native life on Avastan is primitive. Most of the planet's biomass consists
 of single cell organisms whose few visible traces are limited to those
-that form colonies, often appearing as mats or growths of black lichen-
-like crusts. Some simple multicellular organisms exist in the seas
+that form colonies, often appearing as mats or growths of black lichen-like crusts. Some simple multicellular organisms exist in the seas
 and lakes of Avastan but most macroscopic surface life is non-native,
 
 including significant biota apparently spread from Tarsus to Avastan by
@@ -4293,6 +4452,8 @@ panspermia and more recent imports to support small-scale agriculture
 in the Northern Basin region.
 
 EVOLUTION
+
+
 Fossil evidence of life does not begin until 2.5 billion years before
 present. The biochemistry of Avastan's lifeforms utilises l-chiral amino
 acids and is compatible with [[Terra|Terran]] life but lacks some of the amino
@@ -4325,6 +4486,8 @@ link between the two worlds and are likely responsible for the spike in
 atmospheric oxygen that began in that timeframe.
 
 FLORA AND FAUNA
+
+
 Other than the black crusts and the tar-like black films that sometimes
 cover stagnant bodies of water exposed to sunlight, Avastan's native
 life is not noticeable to humans. The two most visible organisms are
@@ -4353,14 +4516,15 @@ Certain species of these insects are able to survive in the low oxygen
 environment of Avastan and have proven difficult to eradicate.
 
 CULTURAL CHARACTERISTICS
+
+
 Avastan has only been settled for the last century. Whilst Avastan
 Portways, Inc. (API) is owner and operator of both the highport
 and downport, the corporation has no control beyond the starport
 boundaries. Over 700,000 people call Avastan home, drawn by the
 prospect of free settlement and free government. The Avastan Charter
 acts as a constitution for the world, guaranteeing homesteaders access
-to land and enshrining freedoms of expression, property and self-
-defence. While weapons restrictions and permanent law enforcement
+to land and enshrining freedoms of expression, property and self-defence. While weapons restrictions and permanent law enforcement
 organizations do not exist on Avastan, citizen posse groups and local
 assemblies prevent wanton destruction and open displays of weaponry.
 
@@ -4388,6 +4552,8 @@ or militant behaviour that might trigger intervention by Imperial or
 Trexalon forces.
 
 HISTORY
+
+
 Avastan is one of the last worlds to be colonized in District 268.
 The inhospitable world or at least its star system was likely visited
 during the Itzin Fleet's survey of the region in -1513 but no records
@@ -4403,19 +4569,31 @@ reference to Zoroastrian hymns.
 
 POLAR REGION MAP
 
+
+
 ```
 G
+
+
 ATHA
+
+
 ```
 
 ```
 ISLAND
+
+
 ```
 
 ```
 TAERG
+
+
 N^
 O R T H E R N S E A
+
+
 ```
 
 ```
@@ -4426,14 +4604,24 @@ TownZend/Starport
 
 GATHA ISLAND MAP
 
+
+
 ```
 ZEND
+
+
 STARPORT
+
+
 ```
 
 G R E A T N O R T H E R N
 
+
+
 SEA
+
+
 
 ```
 Town
@@ -4445,6 +4633,8 @@ Town
 
 ```
 N
+
+
 ```
 
 No permanent settlement is known to have existed in the system prior to
@@ -4521,6 +4711,8 @@ allocate funds to perform a detailed feasibility and impact study narrowly
 passed in 1103. The final report from this study is due in 1108.
 
 SOCIETY
+
+
 The freedoms enshrined in the Charter guarantee a free society and
 limit the enforcement of societal norms. Combined with the status of
 most Avastan citizens as immigrants or their children, the culture of
@@ -4548,13 +4740,14 @@ among the native-born Avastanese.
 
 The government provides very few services. Most infrastructure,
 including utilities, roads, schools and hospitals, is created and
-maintained by private entities, some for-profit but many operate as non-
-profits, cooperatives or charities. Article Twelve of the Avastan Charter,
+maintained by private entities, some for-profit but many operate as non-profits, cooperatives or charities. Article Twelve of the Avastan Charter,
 however, guarantees the rights to breathe and to stay warm, with much
 of the 3% value-added tax that comprises the bulk of the government's
 funding going to maintaining basic sheltering services to those in need.
 
 GOVERNMENT
+
+
 The Avastan Charter forms the basis of Avastan's limited government.
 Fairly rare among constitutional documents, the Charter begins by
 listing what the government cannot do. It cannot charge for land, it
@@ -4622,13 +4815,14 @@ whose four double beam laser turrets and two double missile turrets
 supplement Avastan Downport's defences.
 
 ECONOMY
+
+
 Avastan has few restrictions on trade or economic activity. Other than
 a clear prohibition against slavery and indentured servitude in the
 Charter, no economic activity is explicitly banned. Avastan has no local
 currency, using the Imperial Credit as its common medium of exchange,
 although local currencies from District 268, the Sword Worlds and
-the Darrian Confederation are generally accepted at near exchange-
-rate parity. Merchants often add a surcharge for obscure or distant
+the Darrian Confederation are generally accepted at near exchange-rate parity. Merchants often add a surcharge for obscure or distant
 currencies that prove difficult to exchange or properly valuate.
 
 The global government charges a 3% value-added tax on all financial
@@ -4645,6 +4839,8 @@ larger townships operate as cooperatives or collectives, technically
 employing the entire community.
 
 SPECIAL PURCHASING CONSIDERATIONS
+
+
 Outside Zend City, most items not directly needed for survival are
 not likely to be locally stocked. Zend City is large enough to support
 a complete marketplace of locally produced and imported goods and
@@ -4658,6 +4854,8 @@ fusion power plants, which must be imported. The standard cost of local
 goods is assumed to include the 3% VAT.
 
 IMPORTED GOODS
+
+
 Larger items are generally special order, requiring communication,
 shipping and authorization from the originating market. For high Tech
 Level items, the Glisten Buyers Club (GBC) provides custom ordering
@@ -4669,6 +4867,8 @@ All imports are subject to a 3% tariff, based on purchase price (but not
 including direct shipping costs).
 
 SECONDARY MARKETS
+
+
 Second-hand markets, pawn shops and private sellers are not
 prohibited from selling imported or military equipment but availability
 and demand often do not coincide. Many items may simply be
@@ -4687,6 +4887,8 @@ instead make the job time-consuming, difficult and sometimes costing
 more than the Travellers get paid. Still, they are at least memorable...
 
 BAR STAFF
+
+
 Skills Required: Carouse, Steward, Streetwise
 Patron: Dirk the Bartender
 Reward: 100 Credits/night
@@ -4713,6 +4915,8 @@ Complications (1D):
     else's plot hook?
 
 CUSTOMS INSPECTORS
+
+
 Skills Required: Electronics (sensors), Investigate, Recon
 Patron: Customs Officer Cabreac
 Reward: Cr700/week
@@ -4741,6 +4945,8 @@ Complications (1D):
     unusual on board – not illegal but very unusual or suspicious.
 
 HOLOSHOW EXTRA
+
+
 Skills Required: Art (performer), Deception
 Patron: TLS Holotainment
 Reward: Cr50/day plus lunch
@@ -4769,6 +4975,8 @@ Complications (1D):
     'You lot! You've been in space!' they shout, 'write me an adventure!'
 
 LINER CREW
+
+
 Skills Required: Diplomat, Mechanic, Steward
 Patron: Cunard Starlines, LLC
 Reward: Cr2500/month
@@ -4799,6 +5007,8 @@ Complications (1D):
     Travellers and passengers need to survive until rescued.
 
 MEDIEVAL TUTORS
+
+
 Skills Required: Steward, Persuade, any Science
 Patron: King Veremis
 Reward: The local-currency equivalent of Cr200/week, plus room and
@@ -4824,6 +5034,8 @@ Complications (1D):
 6. Prince Veremar gets bored and throws his tutors into the dungeon.
 
 ON SAFARI
+
+
 Skills Required: Gun Combat, Steward, Survival
 Patron: Marchesa Saddiv von Varren
 Reward: Cr1000/week
@@ -4849,6 +5061,8 @@ Complications (1D):
 6. The whole expedition is a cover for some other mission.
 
 PROPHETS OF PEACE
+
+
 Skills Required: Deception, Persuade
 Patron: Taragun Vonter, Philanthropist
 Reward: Cr5 per soul saved
@@ -4882,6 +5096,8 @@ Complications (1D):
     religion is established.
 
 SALVAGE TEAM
+
+
 Skills Required: Mechanic, Vacc Suit
 Patron: Grendel Thorn, Scrapper
 Reward: Cr500/week
@@ -4916,6 +5132,8 @@ Complications (1D): The Mirabel has a secret...
     with the Travellers on board...
 
 STARPORT SECURITY
+
+
 Skills Required: Investigate, Melee, Recon
 Patron: Varo Moll, Starport Security Chief
 Reward: Cr750/week
@@ -4949,6 +5167,8 @@ Complications (1D):
     cut the Travellers in on the action if they 'overlook' a few shipments.
 
 TAS STRINGERS
+
+
 Skills Required: Art (write), Electronics (comms), Investigate
 Patron: The Traveller's Aid Society
 Reward: Cr5000/article
@@ -4988,9 +5208,13 @@ Complications (1D):
 
 TTAASS
 
+
+
 **TRAVELLERS AID SOCIETY**
 
 WASTELAND SCAVENGERS
+
+
 Skills Required: Gun Combat, Recon
 Patron: Jahanum Archaeological Society
 Reward: Cr5000/week
@@ -5022,9 +5246,10 @@ Complications (1D):
     once-peaceful world to descend into nuclear war so easily.
 
 WHALE HERDERS
+
+
 Skills Required: Animals (handling), Seafarer (submarine), Survival
-Patron: Third-son-of-second-daughter-of-fourth-son-of-first-daughter-
-of-wavebreaker
+Patron: Third-son-of-second-daughter-of-fourth-son-of-first-daughter-of-wavebreaker
 Reward: Cr500/week
 Description: The Travellers are hired by a Dolphin noble from a water
 world. He claims a huge section of the ocean as his domain, where he
@@ -5100,6 +5325,8 @@ of the Travellers' Aid Society
 **_Vol. 9_**
 
 JOURNAL
+
+
 
 ```
 The

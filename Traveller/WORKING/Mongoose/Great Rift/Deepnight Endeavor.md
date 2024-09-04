@@ -56,6 +56,8 @@ Deepnight Endeavor is capable of two consecutive jump-3 transits. Her highly eff
 
 SIDE VIEW FRONT VIEW
 
+
+
 _Deepnight Endeavor_ has a nominal acceleration of 2G at full load. In emergencies she can use the thrusters of the six fuel modules to increase her power; around 2.2G is possible with a good margin of safety, after which the drives of the subordinate craft begin to interact and may cause one another to twist on their mountings. This could cause severe damage or even tear away part of the Primary Structural Members. The risks increase up to about 2.6G, after which damage is very likely and complete structural failure becomes a possibility. With all the fuel shuttles detached, _Deepnight Endeavor_ can achieve a sprightly 5G acceleration.
 
 _Deepnight Endeavor_ 's weaponry is for self-defence only. Beam laser turrets are scattered all over the ship, and are intended for defence against small craft attempting to board or a salvo of missiles, rather than concentrated fire against a warship. However, there are enough of them to reduce a typical pirate or even a frigate to wreckage.
@@ -92,6 +94,8 @@ _12. Docking Rail with Docking Clamps (page 10)_
 
 DEEPNIGHT   ENDEAVOUR DECKS
 
+
+
 **1**
 
 **5**
@@ -105,6 +109,8 @@ DEEPNIGHT   ENDEAVOUR DECKS
 3 4**
 
 DEEPNIGHT ENDEAVOUR
+
+
 
 **Fuel Tanks** Jump-1, 16 weeks of operation 13000 -
 
@@ -137,7 +143,7 @@ TL15 TONS COST (MCR)
    - Observatory (large, advanced)
    - Observatory (medium, advanced)
    - Scientific Operations Suite (40 scientists)
-   - Scientific Operations Suite x 2 (20 scientists each)
+   - Scientific Operations Suite x2 (20 scientists each)
    - Docking Clamps (type V) x
    - Docking Clamps (type III) x
    - Docking Space (500 tons) 550 137.
@@ -156,9 +162,15 @@ CAPTAIN, OFFICERS X 23, PILOTS X 23, ASTROGATORS X 3, ENGINEERS X 60, MAINTENANC
 
 MANOEUVRE JUMP DRIVE DRIVE
 
+
+
 BASIC SHIP SYSTEMS
 
+
+
 SENSORS
+
+
 
 MAINTENANCE COST Cr3.700644/month
 
@@ -166,15 +178,21 @@ PURCHASE COST MCr44407.
 
 RUNNING COSTS
 
+
+
 Power
 
 Requirements
 
 CREW
 
+
+
 **55000**
 
 HULL POINTS
+
+
 
 **10**
 
@@ -260,6 +278,8 @@ SQUARE = 5 TONS
 **O**
 
 PERATIONS P
+
+
 
 **OD**
 
@@ -492,7 +512,7 @@ SQUARE = 5 TONS
 
 SQUARE = 5 TONS
 
-Hull 10,000 tons, Close Structure - 450 Radiation Shielding - 250 M-drive Thrust 2 (Energy Efficient x 3) 200 600 Power Plants
+Hull 10,000 tons, Close Structure - 450 Radiation Shielding - 250 M-drive Thrust2 (Energy Efficient x 3) 200 600 Power Plants
 
 Fusion (TL15), Power 5,000 250 500
 
@@ -506,6 +526,8 @@ TL15 TONS COST (MCR)
 
 DEEPNIGHT ENDEAVOUR FUEL SHUTTLE X
 
+
+
 CAPTAIN, PILOT, ENGINEERS X 2, MAINTENANCE X 4
 
 MAINTENANCE COST:
@@ -518,9 +540,13 @@ PURCHASE COST:
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
+
+
 
 **500 2000**
 
@@ -528,15 +554,23 @@ CREW
 
 MANOEUVRE DRIVE
 
+
+
 BASIC SHIP SYSTEMS
 
+
+
 SENSORS
+
+
 
 Note that all six fuel shuttles are calculated into the Deepnight Endeavor's profile. The following should be used only if a fuel shuttle is detached.
 
 **4400**
 
 HULL POINTS
+
+
 
 ###. SENSORS
 
@@ -819,6 +853,8 @@ Shambler : Shamblers are little more than animated corpses. Most life functions 
 
 PROGRESS
 
+
+
 OF INFECTION Every 2D hours, an Exposed or Infected Traveller must make a Routine (6+) END check. Failure results in progression to the next stage of infection. Success indicates the Traveller has resisted progression but is not cured; an Effect of 6+ indicates the Traveller has completely defeated the infection and is now free of it.
 
 Medical assistance can help, and treatment of symptoms provides DM+1 to resist, whilst a treatment developed specifically to fight the infection will provide DM+2.
@@ -850,6 +886,8 @@ Creepers can be completely destroyed by intense heat or immersion in a corrosive
 They will creep into places where they can be inadvertently touched or slowly force a panel open. Some Creepers take the form of long tendrils leading out from a cluster, but most are independent. An infestation of Creepers may grow in a chamber, making it impassable, or may jam a doorway rather than forcing it open. This is not always due to some plan on the part of the Entity; much of its behaviour and that of its minions tends to be instinctive and sometimes counter- productive. Thus, some areas the Travellers might want to pass through could be completely choked with Creepers without being of any benefit to the Entity.
 
 CONTROLLED PEOPLE
+
+
 
 AND SHAMBLERS Shamblers are humans who have been fully infected by the Entity, passing through a stage where they retain skills and capabilities, at least to some extent. A Shambler starts out nearly indistinguishable at first glance from the person it used to be. Over time, neural pathways break down until the Shambler is good only for absorption as food. Thus, some early-stage Shamblers are essentially controlled people who can carry out complex tasks or use firearms, whilst those in the later stages are simply lumbering corpses.
 
@@ -887,7 +925,9 @@ A quick-and-dirty purge of all spaces with heat, UV light and/or radiation might
 
 ANIMAL HITS SPEED Shambler 25 3m SKILLS Melee (bludgeon) 1 ATTACKS Club (2D) or Arms (1D); DM-2 to hit TRAITS Special (see description) BEHAVIOUR Mindless
 
- SPECIES GENDER AGE
+ 
+
+
 
 Human/Vargr - - STR 8 INT 5 SKILLS DEX 6 EDU 3 Athletics 0, Electronics 0, Gun END 8 SOC 3 Combat 0, Melee 0, Recon 0
 
@@ -895,11 +935,15 @@ EQUIPMENT Snub Revolver (3D-3) (DM-2 to attack), Improvised Weapon (2D-2)
 
 CREW AND FACTIONS
 
+
+
 In the months since the discovery of the Entity, the crew has fragmented into three major factions and several smaller groups. Certain individuals have also emerged as personalities with whom the Travellers might have to interact. In general, the survivors are paranoid and less
 
 The Bridge faction centres on Deepnight Endeavor 's captain, Miklos Zenkhuirli. It is the largest of the factions, with 23 surviving members, and claims the command section as its territory. The faction is not large enough to control the whole module, and remains close to the bridge. Occasional armed parties are sent out through crawlways to the starboard PSM and thence to other parts of the ship, and more commonly the faction scours the command section for useful items.
 
- SPECIES GENDER AGE
+ 
+
+
 
 Human/Vargr - - TRAITS - STR 6 INT 8 SKILLS DEX 7 EDU 9 Athletics 0, Electronics (sensors), 1, Gun Combat (slug) 1, Melee 0, Recon 0
 
@@ -907,15 +951,23 @@ Human/Vargr - - TRAITS - STR 6 INT 8 SKILLS DEX 7 EDU 9 Athletics 0, Electronics
 
  EQUIPMENT
 
+
+
 Snub Revolver (3D-3) or Improvised Weapon (2D-2)
 
 **Bridge Faction Member**
 
 THE
 
+
+
 BRIDGE
 
+
+
 FACTION
+
+
 
 Members : 23 Primary Location : Command Section Agenda : Save the ship, get home, put down the mutiny in Engineering
 
@@ -939,7 +991,9 @@ Captain Zenkhuirli is unlikely to leave the bridge area without pressing reason.
 
 The master-at-arms is loyal to his captain, and acts as his bodyguard when not leading expeditions into other parts of the ship. Any party of Bridge faction personnel is likely to be led by him.
 
- SPECIES GENDER AGE
+ 
+
+
 
 Human Male - TRAITS - STR 5 INT 9 SKILLS DEX 8 EDU 10 Athletics 0, Diplomat 2, Electronics (computers), 3, Gun Combat (slug) 1, Leadership 3
 
@@ -947,7 +1001,9 @@ Human Male - TRAITS - STR 5 INT 9 SKILLS DEX 8 EDU 10 Athletics 0, Diplomat 2, E
 
 WEAPONS Snub Revolver (3D-3)
 
- SPECIES GENDER AGE
+ 
+
+
 
 Human Male - TRAITS - STR 8 INT 6 SKILLS DEX 6 EDU 7 Athletics 2, Gun Combat (slug) 2, END 9 SOC 7 Melee (bludgeon) 1, Recon 1 WEAPONS Snub Revolver (3D-3), Club (2D)
 
@@ -961,6 +1017,8 @@ The 17 members of the Engineering faction do not return the enmity of the Bridge
 
 THE ENGINEERING FACTION
 
+
+
 Members : 17 
 Primary Location : Engineering Section 
 Agenda : Escape the ship; gather all useful items and hoard them
@@ -970,7 +1028,9 @@ Agenda : Escape the ship; gather all useful items and hoard them
 - **Engineering Faction Member
 - Chief Engineer Dakh Moralder**
 
- SPECIES GENDER AGE
+ 
+
+
 
 Human/Vargr -+
 STR 8 INT 8 
@@ -986,7 +1046,9 @@ Most members of the Engineering faction have made themselves a weapon (usually a
 
 Dakh Moralder is a Vargr, one of about a dozen among the crew. She is highly respected among her followers, but takes too many personal risks. This has won the enduring loyalty of her faction but her insistence on doing everything herself will sooner or later leave them leaderless.
 
- SPECIES GENDER AGE
+ 
+
+
 
 Vargr Female 
 STR 7 INT 9 
@@ -1002,9 +1064,13 @@ The Engineering faction are better fed than the Bridge faction but obsessed with
 
 FACTIONS ABOARD THE SHIP
 
+
+
 **'GUNS' & TRENNANCE ZEDEHLALE**
 
  MAY BE  ENCOUNTERED ANYWHERE ON THE SHIP
+
+
 
 **BRIDGE FACTION**
 
@@ -1012,18 +1078,28 @@ TERRITORY:
 
 COMMAND
 
+
+
 SECTION
+
+
 
 LOCATION:
 
 CLOSE TO BRIDGE
+
+
 
 **ENGINEERINGFACTION**
   TERRITORY:
 
 ENGINEERING
 
+
+
 SECTION
+
+
 
 LOCATION: -
 
@@ -1047,17 +1123,25 @@ Deck 1 Cargo Pod
 
 FACTIONS ABOARD THE SHIP
 
+
+
 **MISSION FACTION** 
 
 TERRITORY:
 
 FORWARD SCIENCE POD
 
+
+
 LOCATION: -**STARBOARDSIDERS**  TERRITORY:
 
 STARBOARD
 
+
+
 PSM
+
+
 
 LOCATION: -**OTHERSURVIVORS** 
 
@@ -1097,6 +1181,8 @@ Deck 1 Cargo Pod
 
 THE MISSION FACTION
 
+
+
 Members : 12 
 Primary Location : Forward Science Pod 
 Agenda : Find a Cure; purge the Entity from the ship
@@ -1106,7 +1192,9 @@ Agenda : Find a Cure; purge the Entity from the ship
 - **Mission Faction Member
 - Mission Officer Jarla Kleine**
 
-  SPECIES GENDER AGE
+  
+
+
 
 Human/Vargr - - TRAITS - STR 5 INT 9 SKILLS DEX 8 EDU 9 Electronics (computers) 2, Melee END 9 SOC 7 0, Recon 0, Science (varies) 3 WEAPONS Improvised Weapon (2D-2)
 
@@ -1123,7 +1211,9 @@ Jarla is both fully in control of herself and wholly aligned with the Entity. Sh
 Jarla is not controlled by the Entity. She is something far more dangerous – an ally with all the cunning and intellect of a highly accomplished human. Where the Entity acts on instinct, Jarla makes careful plans. She has no emotional attachment to any part of the Entity, not even the main Cluster. She understands its nature – if any part of it survives, all of it does – and will tell Travellers how to kill Clusters so long as she is sure she can preserve one elsewhere.
 
 
- SPECIES GENDER AGE
+ 
+
+
 
 Human Female - TRAITS - STR 6 INT 11 SKILLS DEX 2 EDU 13 Electronics (computers) 3, Investigate 2, Melee 0, Persuade 3, Recon 0, Science (biology) 5
 
@@ -1135,6 +1225,8 @@ WEAPONS Snub Revolver (3D-3)
 
 
 THE STARBOARD SIDERS
+
+
 
 Members : 8-12 
 Primary Location : Starboard PSM 
@@ -1150,7 +1242,11 @@ The Starboard Siders have retained some sense of crew unity and some are friends
 
 OTHER
 
+
+
 SURVIVORS
+
+
 
 Members : Unknown Primary Location : Mainly Port PSM and Opsmod Agenda : Varies
 
@@ -1158,7 +1254,9 @@ Members : Unknown Primary Location : Mainly Port PSM and Opsmod Agenda : Varies
 
 **- Other Survivors**
 
- SPECIES GENDER AGE
+ 
+
+
 
 Human/Vargr - - TRAITS - STR 6 INT 7 SKILLS DEX 7 EDU 8 Electronics (comms) 1, Melee 0, Recon 0, Stealth 1, Steward 1, Vacc Suit 1
 
@@ -1166,9 +1264,13 @@ Human/Vargr - - TRAITS - STR 6 INT 7 SKILLS DEX 7 EDU 8 Electronics (comms) 1, M
 
  WEAPONS
 
+
+
 Improvised Weapon (2D-2) or possibly a Snub Pistol (3D-3)
 
- SPECIES GENDER AGE
+ 
+
+
 
 Human/Vargr - - TRAITS - STR 6 INT 7 SKILLS DEX 7 EDU 8 Skills vary, typically including END 6 SOC 6 Melee 1, Recon 1, Stealth 1
 
@@ -1198,11 +1300,13 @@ Agenda : Destroy the Entity; prevent its spread
 
 **(Weapons Officer Andrea Ricardssen)**
 
-SPECIES GENDER AGE Human Female - TRAITS - STR 6 INT 8 SKILLS DEX 9 EDU 9 Gun Combat (energy) 1, Gunner (capital) 3, Recon 2, Stealth 1, Vacc Suit 2
+ Human Female - TRAITS - STR 6 INT 8 SKILLS DEX 9 EDU 9 Gun Combat (energy) 1, Gunner (capital) 3, Recon 2, Stealth 1, Vacc Suit 2
 
  END 6 SOC 8
 
  WEAPONS
+
+
 
 Laser Rifle (5D+3) and snub pistol (3D-3) 
 
@@ -1214,13 +1318,19 @@ NOTABLE CHARACTER:
 
 TRENNANCE
 
+
+
 ZEDEHLALE
+
+
 
 Primary Location : Starboard PSM Agenda : Survive, escape, rescue as many survivors as possible.
 
 **Trennance Zedehlale**
 
- SPECIES GENDER AGE
+ 
+
+
 
 Human Male - TRAITS - STR 5 INT 11 SKILLS DEX 8 EDU 9 Electronics (computers) 1, Gun Combat 0, Investigate 1, Jack-of- all-Trades 2, Mechanic 1, Persuade 1, Recon 1, Stealth 0, Vacc Suit 2
 
@@ -1519,8 +1629,9 @@ After 3D days
 
 MD
 
-_p_ (^1) _-_
-(^) _re oP nti of D
+
+
+_p_ (^1) _-_ (^) _re oP nti of D
 am ag e_^ _DM+ 2 for_^ _Basic Pre cau tion s
 DM+4 DM+1 Symptom Treatment DM+2 Infection Treatment DM+1 Symptom Treatment DM+2 Infection Treatment_ Travellers can set up a reliable supply line, perhaps arranging for independent survivors to scavenge food and necessary components for the Bridge faction. If any of the independents can be induced to swear renewed allegiance to the captain, essentially joining the Bridge faction, this will go a long way towards developing trust.
 
@@ -1612,33 +1723,59 @@ The only 'combat' weapons aboard Deepnight Endeavor were TL11 laser rifles (see 
 
 FUEL PROCESSOR
 
+
+
 POWER PLANT
+
+
 
 JUMP DRIVE
 
+
+
 MANOEUVRE DRIVE
+
+
 
 ISOMETRIC DECKPLAN KEY
 
+
+
 DECKPLANS LEGEND
 
+
+
 ISOMETRIC FLOORPLAN
+
+
 
 3M
 
 BUNK
 
+
+
 FRESHER
 
+
+
 WORKSTATION
+
+
 
 G-CHAIR
 
 LOW BERTH
 
+
+
 CRATE
 
+
+
 HATCH
+
+
 
 IRIS VALVE (WALL)
 
@@ -1646,15 +1783,29 @@ IRIS VALVE (FLOOR/CEILING)
 
 INTERNAL WALL
 
+
+
 HULL
+
+
 
 STATEROOMS
 
+
+
 CARGO ENGINEERING
+
+
 
 BRIDGE
 
+
+
 FUEL
 
+
+
 MISCELLENEOUS
+
+
 

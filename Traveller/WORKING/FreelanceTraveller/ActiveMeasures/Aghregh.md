@@ -28,7 +28,7 @@ Advantages
       Vargr Racial Package (Total Cost 0)
             Racial ST -1 [-10];
             Racial DX +1 [10];
-            Enhanced Move 2 (=D72) [7] (Speed (running): 12; (Running Fatigue applies after 5 seconds): -30%);
+            Enhanced Move2 (=D72) [7] (Speed (running): 12; (Running Fatigue applies after 5 seconds): -30%);
             Claws [15] (Damage: cr 1d);
             Sharp Teeth [5] (Cutting damage; see p. B140);
             Fur [4];

@@ -12,8 +12,7 @@
 
 ### BASED ON THE AWARD-WINNING TRAVELLER GAME SYSTEM AND UNIVERSE BY MARC MILLER
 
-**_Spinward Salvage LIC_** is set in the Official Traveller Universe in 1105, but can be used in any Traveller cam-
-paign.
+**_Spinward Salvage LIC_** is set in the Official Traveller Universe in 1105, but can be used in any Traveller cam-paign.
 
 ### CREDITS
 
@@ -71,13 +70,11 @@ games. Hence this book is presented as a setting for an ongoing Traveller campai
 jobs the characters are given by the company, or as a complete Adventure, roughing it on and beyond the frontier,
 searching for that big salvage strike that could land the characters a fortune - or a whole lot of trouble.
 
-Complete stats are included of all starships operated by Spinward Salvage, its operations, home base on Efate
-(Regina Subsector), and an adventure which can be undertaken by the characters. Details of key employees of
+Complete stats are included of all starships operated by Spinward Salvage, its operations, home base on Efate (Regina Subsector), and an adventure which can be undertaken by the characters. Details of key employees of
 Spinward Salvage are also given.
 
 **STANDARDS AND ASSUMPTIONS**
-In order to use this supplement you will need a set of **_Mongoose Traveller_** rules. Statistics are included for _Mon-
-goose Traveller,_ though other rules sets can be used with a minimum of work. This supplement is designed to be
+In order to use this supplement you will need a set of **_Mongoose Traveller_** rules. Statistics are included for _Mon-goose Traveller,_ though other rules sets can be used with a minimum of work. This supplement is designed to be
 used in the Official Traveller Universe (OTU) although the company details and ships could be used in any setting
 that uses Traveller's basic background.
 
@@ -114,8 +111,7 @@ of psionically aware humans.
 **FOURTH FRONTIER WAR**
 Lasting from 1082 to 1084, the 4th Frontier War between the Imperium and the Zhodani Consulate was over before
 battle orders from the Emperor reached the Imperial Admirals in the Marches. Sometimes known as the false war,
-it was largely confined to Jewell subsector and Regina subsector. The Battle of the Two Suns in 1084, fought be-
-tween Yres and Menorb in Regina subsector, resulted in an Imperial victory, and the Zhodani signed an armistice
+it was largely confined to Jewell subsector and Regina subsector. The Battle of the Two Suns in 1084, fought be-tween Yres and Menorb in Regina subsector, resulted in an Imperial victory, and the Zhodani signed an armistice
 
 that continues to this day.
 
@@ -134,22 +130,19 @@ _The venerable X-Boat Tender Minton in orbit around Efate, home world of Spinwar
 
 ## Spinward Salvage History And Fleet
 
-Spinward Salvage officially started operations in 988, after the close of the 3rd Frontier War. Two loud and obnox-
-ious, but commercially savvy brothers, Minton and Friar Delware, started operations with an old converted X-Boat
+Spinward Salvage officially started operations in 988, after the close of the 3rd Frontier War. Two loud and obnox-ious, but commercially savvy brothers, Minton and Friar Delware, started operations with an old converted X-Boat
 Tender that was itself salvaged by the Scout Service in 986, then sold to the fledgling company. The brothers started
 up on Efate, buying (it seems) the worst polluted and cheapest piece of dirt they could find - 40 hectares on the
 outskirts of 30 South city. The city is so named because it is 30 south of the equator.
 
-The Tender was renamed the _Diamond in the Rough,_ and a tug and cutter were also leased to provide lighter sup-
-port and hulk-shifting capacity. It turned out that the Tender provided an excellent platform for salvage operations,
+The Tender was renamed the _Diamond in the Rough,_ and a tug and cutter were also leased to provide lighter sup-port and hulk-shifting capacity. It turned out that the Tender provided an excellent platform for salvage operations,
 with its multiple boat bays and comprehensive sensor suite. Over the next decade, civilian and Imperial Navy craft
 of all tonnages were identified and salvaged, with parts accumulating and onsold at a staggering rate back on its
 home patch on Efate. The Navy and Scout service also engaged Spinward Salvage in formal contracts to clear
 out wrecks left behind by the war. The Tender operated mainly in the Louzy, Nakege, Mongo and Lysen systems
 in Jewell Subsector, and the Yres, Menorb, Efate, Feri and Alell systems in Regina Subsector.
 
-In 993 a competitor emerged, Salvage Factors based out of Feri in Regina Subsector. This operation is partly
-(10%) funded by Ling Standard Products, and has been a major threat to the commercial existence of Spinward
+In 993 a competitor emerged, Salvage Factors based out of Feri in Regina Subsector. This operation is partly (10%) funded by Ling Standard Products, and has been a major threat to the commercial existence of Spinward
 Salvage ever since. LSP is however, only a silent partner, which is just as well because of the falloff in work in the
 last decade. Salvaging teams need decent wars to stay in business, and the 4th Frontier War (1082-1084) did not
 prove bloody enough to keep both operations flush with work. In recent years both companies have been involved
@@ -159,19 +152,16 @@ to this day. The company also manufacturers low cost starships using refurbished
 dry dock at its Efate headquarters.
 
 By 995 the operation expanded considerably, with the addition of two more surplus X-Boat Tenders converted in a
-similar manner to the original Tender. Other small craft and starships soon followed particularly smaller scout/couri-
-ers for identification work and small craft for system sweeps.
+similar manner to the original Tender. Other small craft and starships soon followed particularly smaller scout/couri-ers for identification work and small craft for system sweeps.
 
 The brothers died in an accident during a salvaging operation in 1001, and ownership of the company was handed
 over to the employees in the form of share ownership. Depending on the level an employee holds in the company,
 they take a certain percentage of shares upon joining. Employees are only allowed to sell the shares to another
-company employee, hence the company remains in the hands of the staff - a very democratic method of apportion-
-ing company profits (and losses). The employees remain fiercely loyal and independent, having rebuffed several
+company employee, hence the company remains in the hands of the staff - a very democratic method of apportion-ing company profits (and losses). The employees remain fiercely loyal and independent, having rebuffed several
 attempts to be brought out by Salvage Factors.
 
 **OPERATIONS**
-The company divides its operations into five segments, each led by a “salvage captain”, a fancy name for a man-
-ager. Each captain has command of a starship, and each starship has a number of attached small craft and even
+The company divides its operations into five segments, each led by a “salvage captain”, a fancy name for a man-ager. Each captain has command of a starship, and each starship has a number of attached small craft and even
 scout/couriers, depending on the scale and type of operation. There are three venerable X-Boat Tenders in the fleet,
 each commanded by a Salvage Captain. The only Survey Scout is also commanded by a Salvage Captain, and
 this ship is used for long range missions where it is not practical to move the Jump-1 Tenders. The final Salvage
@@ -238,14 +228,12 @@ of the boat bays, and contains a special observation window which provides exten
 
 Decks B through F are the boat bays. Each is capable of holding a scout/courier shaped vessel up to 120 tons
 displacement. Spinward Salvage usually reserves B deck for housing any embarked small craft (usually a modular
-cutter, extra module and 30 ton tug). The remaining decks are usually given over to cargo, fuel bladder and stor-
-age space for salvaged parts.
+cutter, extra module and 30 ton tug). The remaining decks are usually given over to cargo, fuel bladder and stor-age space for salvaged parts.
 
 G Deck contains fuel, while H Deck contains fuel and a small cargo bay with a dedicated area for an engineering
 shop. The final deck is I Deck, which houses the drives and powerplant.
 
-Standard armament consists of two dual beam laser turrets, and a triple sandcaster turret. This mix has been re-
-tained in the salvage variant operated by Spinward Salvage.
+Standard armament consists of two dual beam laser turrets, and a triple sandcaster turret. This mix has been re-tained in the salvage variant operated by Spinward Salvage.
 
 Spinward Salvage maintains a standard crew complement of 10 for these ships: Salvage Captain, three pilots (who
 also act as gunners), navigator, two engineers, two small craft pilots (who can also act as gunners) and a medic.
@@ -300,8 +288,7 @@ is an old design that is still produced in some numbers across the Imperium, but
 _Donosev_ class survey scout. The design is noted for its powerful sensors, which aid in detection of salvageable
 materials.
 
-The port cylinder houses the bridge, computer system, avionics, staterooms and the port maneuver drive. A pas-
-sageway links the port cylinder with the starboard cylinder, which houses the primary powerplant, port maneuver
+The port cylinder houses the bridge, computer system, avionics, staterooms and the port maneuver drive. A pas-sageway links the port cylinder with the starboard cylinder, which houses the primary powerplant, port maneuver
 drive, Jump drive, Cutter module bay, a small 7 dton cargo bay and the observation lounge. The Cutter bay normally
 houses an additional utility or salvage module, while a fuel module is attached to the Cutter. The observation lounge
 has a huge bubble window and doubles as a relaxation lounge, but its primary function is as a sensor suite, with
@@ -447,8 +434,7 @@ Bridge Control cabin for 2 6 0.25
 Computer Model/1 Rating 5 0.03
 Electronics Standard DM-4
 Weapons None
-Fuel 1 ton One week of opera-
-tion
+Fuel 1 ton One week of opera-tion
 
 ### 1
 
@@ -466,8 +452,7 @@ module)
 
 **INTRODUCTION**
 
-Starships are the lifeblood of the _Traveller_ Universe. Most campaigns will revolve around at least one starship – the charac-
-ter's. If characters do not possess one, they will likely travel on starships many times in the course of a campaign. Starships
+Starships are the lifeblood of the _Traveller_ Universe. Most campaigns will revolve around at least one starship – the charac-ter's. If characters do not possess one, they will likely travel on starships many times in the course of a campaign. Starships
 run by characters take on a life of their own as they are husbanded between star systems, illegal operations, and overdue
 overhauls. Properly detailed small starships add color to any campaign, even if they are used as encounters rather than PC
 starships. Hence this line of booklets from Avenger Enterprises.
@@ -480,12 +465,10 @@ research.
 In order to use this supplement you will need one of the **_Traveller_** rules sets. Statistics are included for T20 and for Classic
 **_Traveller_** (CT), though other rules sets can be used with a minimum of work. This supplement is designed to be used in the
 Official Traveller Universe (OTU) although the design could be used in any setting that uses Traveller's starship design rules.
-**Dates:** All dates correspond to the standard Imperial calendar from the OTU. This supplement is officially dated 320-1110
-(the 320th day of the 1110th year since the founding of the Third Imperium).
+**Dates:** All dates correspond to the standard Imperial calendar from the OTU. This supplement is officially dated 320-1110 (the 320th day of the 1110th year since the founding of the Third Imperium).
 **Place:** The starship detailed in this supplement can be used anywhere in charted space, although the adventure seeds and
 background details are based in the Spinward Marches Sector.
-**Theme:** This supplement provides detailed information on a particular starship used in Charted Space, along with back-
-ground details, history, operational use and adventure seeds for using the starship. Deckplans are also provided.
+**Theme:** This supplement provides detailed information on a particular starship used in Charted Space, along with back-ground details, history, operational use and adventure seeds for using the starship. Deckplans are also provided.
 
 Page 4
 
@@ -570,8 +553,7 @@ Electronics none
 Weapons none
 Fuel none
 Cargo 5.5 tons 5.5
-Extras 2x10 ton vehicles
-(see above)
+Extras 2x10 ton vehicles (see above)
 
 ### 20
 
@@ -614,8 +596,7 @@ Cost
 30 tons. The Utility Module is designed to be a multifunction module that provides considerable flexibility for a
 modular cutter or ship. The four staterooms can be used for either crew or passengers. A 5 ton space is provided
 on the lower deck which can serve as either a vehicle hanger for an air/raft (or some other light vehicle), or cargo
-space. A single turret is ventrally mounted, and a small power plant is included to power up to one laser in the tur-
-ret. The turret however, relies on the carrying cutter's or ship's computer and sensors. A half ton armory is also
+space. A single turret is ventrally mounted, and a small power plant is included to power up to one laser in the tur-ret. The turret however, relies on the carrying cutter's or ship's computer and sensors. A half ton armory is also
 included, and is sometimes used as a missile magazine if the laser is replaced by a missile rack.
 
 The Utility Module is sometimes used as a small space station, or landed on a planet for use as a small forward
@@ -724,6 +705,8 @@ Lower Deck
 
 FIGHTER MODULE
 
+
+
 Utility Module Key
 1 Staterooms
 2 Lounge
@@ -782,6 +765,8 @@ Lower Deck
 
 VEHICLE MODULE
 
+
+
 0.0 m 1.5 m 3.0 m 4.5 m 6.0 m
 
 Upper Deck
@@ -799,6 +784,8 @@ Lower Deck
 4
 
 LOW BERTH MODULE
+
+
 
 Vehicle Module Key
 1 Vehicle Hanger
@@ -919,23 +906,20 @@ Prepackaged food and water for 20 people for 10 weeks
 ## Spinward Salvage Home Base - Efate
 
 Spinward Salvage has maintained a base on Efate for over a century, just outside the city of 30 South. The 40
-hectare site contains numerous facilities, including an administration office, fuel depot, engineering shops, hang-
-ers, landing pads, a small drydock and storage space for wrecks and ship hulks. A portion of the site is still vacant,
+hectare site contains numerous facilities, including an administration office, fuel depot, engineering shops, hang-ers, landing pads, a small drydock and storage space for wrecks and ship hulks. A portion of the site is still vacant,
 but it is filling up year by year. The site is virtually a mini starport, and has five landing pads that can support up to
 1000 ton ships. Overhauls of the company's 1000 ton Tenders are undertaken at the base, but it is a slow process
 to bring the ungainly Tenders down through the atmosphere for landing.
 
 The dry dock can also accommodate ships of up to 1000 tons, and is used to modify existing ships or construct
-new ships - mainly with salvaged internal parts. These low-cost ships have new-build hulls, so their structural in-
-tegrity is good, but there may be quirks in some internal systems. Spinward Salvage has been in the business of
+new ships - mainly with salvaged internal parts. These low-cost ships have new-build hulls, so their structural in-tegrity is good, but there may be quirks in some internal systems. Spinward Salvage has been in the business of
 constructing such ships to order for over 50 years.
 
 The powerplant is a fusion plant which powers all systems in the complex, making the operation independent of Efate's
 power grid. Communications systems housed in the same building provide Advanced level sensors throughout most
 of the Efate system, providing the company with a secure means of communicating with their ships in-system.
 
-Because of the non-existent law level on Efate, there are extensive security measures in place to prevent unwel-
-come visitors to the site. The entire compound is fenced with barbed wire, security cameras and security drones
+Because of the non-existent law level on Efate, there are extensive security measures in place to prevent unwel-come visitors to the site. The entire compound is fenced with barbed wire, security cameras and security drones
 who will use stunners to incapacitate intruders. In addition, armed guards conduct regular patrols in two air/rafts
 and two ATV's. The guards are armed with assault rifles and stunners, and have flak jackets. The ATVs and air/rafts
 are also armed, with light machine guns. At any time there are two patrols each of four guards operating, 24 hours
@@ -947,14 +931,17 @@ human guards.
 ###
 
 REGINA
+
+
 SUBSECTOR
+
+
 
 **Grant**
 
 **REGINA SUBSECTOR**
 The Regina Subsector lies at the Coreward end of the Spinward Marches Sector. To Coreard (“north” on the map
-lies the Vargr Extents, while to Spinward “left” on the map lies Jewell Subsector, which borders the Zhodani Con-
-sulate.
+lies the Vargr Extents, while to Spinward “left” on the map lies Jewell Subsector, which borders the Zhodani Con-sulate.
 
 The following Amber Zone is set in the Red Zone system of Grant, which lies on the Regina/Jewell subsector border.
 This system is also denoted on the Regina Subsector map.
@@ -964,8 +951,7 @@ This system is also denoted on the Regina Subsector map.
 **PLAYERS' INFORMATION**
 The players are hired by the chief recruiter as a freelancer crew on a world in the Regina Subsector (preferably
 Efate, but it could be any world). The pay offered is Cr6,000 per month per crew member, plus 1% of the value of
-all items salvaged for the entire group of freelancers. In all, a lucrative deal. The salaries are high because salvag-
-ing has such danger attached to it that “hazard pay” is offered.
+all items salvaged for the entire group of freelancers. In all, a lucrative deal. The salaries are high because salvag-ing has such danger attached to it that “hazard pay” is offered.
 
 They are taken to the HQ of Spinward Salvage on Efate, and treated to a massive dinner with much free-flowing
 mead. The players are taken the next morning via Modular Cutter into orbit, and are transferred to the ship they
@@ -979,8 +965,7 @@ lead ship of the class and therefore could be classified as an experimental ship
 the old 1000 ton _Qasar_ class Scout cruisers, which have been in service for over two centuries and in dire need
 of replacement.
 
-The role of the _Jeramiah_ is to use its powerful sensors to locate the stricken vessel, investigate and if possible sal-
-vage as much equipment as they can from the wreck. The situation on board the _Machii_ is unknown, but the Scout
+The role of the _Jeramiah_ is to use its powerful sensors to locate the stricken vessel, investigate and if possible sal-vage as much equipment as they can from the wreck. The situation on board the _Machii_ is unknown, but the Scout
 Service is sure that they are dealing with a salvage scenario rather than a rescue scenario. Jemasie explains that
 the search started when it became two months late arriving back at its homeport. The search proved fruitless, but
 the Scouts discovered that the ship's final Jump was from the Lysen system into the Grant system, so the search
@@ -988,24 +973,21 @@ should naturally start in the Grant system.
 
 It should become evident to the players that the Grant system is a best guess. The ship may not in fact be in that
 system. It could have misjumped, in which case the _Jeramiah_ will be looking for a needle in a thousand haystacks.
-The Grant system itself is a Red Zone. Jemasie says that the reason for the Red Zone is rumored to be an at-
-mospheric contagion, but the interdiction force is actually a number of Navy-run satellites in geostationary orbit that
+The Grant system itself is a Red Zone. Jemasie says that the reason for the Red Zone is rumored to be an at-mospheric contagion, but the interdiction force is actually a number of Navy-run satellites in geostationary orbit that
 will shoot down any craft approaching the planet. Automated warnings are in place to advise ships to refuel at one
 of the two gas giants. A small Scout Service detachment is also operating at one of the gas giants, to serve as an
 additional warning to ships that may pass through. The “space station” there is nothing more than 5 cutter modules
 docked together, with a lifeboat for emergency use. In a Service where isolated duty is often the norm, this posting
 would be the most isolated posting of all the isolated postings.
 
-The _Jeramiah_ has been outfitted with a standard Modular Cutter, a fuel module and a salvage module. The per-
-manent Spinward Salvage crew members on board are the Salvage Captain and the two engineers. The other
+The _Jeramiah_ has been outfitted with a standard Modular Cutter, a fuel module and a salvage module. The per-manent Spinward Salvage crew members on board are the Salvage Captain and the two engineers. The other
 positions that require filling are: two pilots, navigator, medic and small craft pilot. Two additional “salvage experts”
 could to be carried if there are additional characters who need to be part of the crew.
 
 **Required Skills and Equipment**
 
 Shipboard skills are essential, particularly pilot, engineer, computer, sensors, zero-G and astrogation skills. If the
-players don't have at least some of these skills, they won't be hired. Additional useful skills for part two of this ad-
-venture would be streetwise, investigate, carouse and stealth skills.
+players don't have at least some of these skills, they won't be hired. Additional useful skills for part two of this ad-venture would be streetwise, investigate, carouse and stealth skills.
 
 **REFEREE'S INFORMATION**
 Spinward Salvage has built up a good working relationship with the Scout Service in the Marches over the decades,
@@ -1017,8 +999,7 @@ The Scout Service is also looking for the _Machii_ in systems other than the one
 all involved are doubtful that they will find the _Machii_ in any mainstream system - otherwise it would have been
 located by now.
 
-The lush jungle world of Grant is interdicted because the atmosphere of the planet has a particularly nasty hal-
-lucinogenic effect on humans - inducing extreme paranoia. The first Scout mission to survey the planet ended in
+The lush jungle world of Grant is interdicted because the atmosphere of the planet has a particularly nasty hal-lucinogenic effect on humans - inducing extreme paranoia. The first Scout mission to survey the planet ended in
 disaster, as the crew ended up killing each other after blowing up their scout/courier. Further missions revealed
 that the atmosphere somehow penetrated hostile environment suits, so after the loss of more Scouts, the world
 was permanently interdicted. The players may find this out the hard way if they decide to run the satellite blockade
@@ -1051,8 +1032,7 @@ On exiting Jump space, the ship will be hailed by the Scout space station. “Sp
 is Scout station 01 at Grant A, welcome to the welcoming Grant system. We have been expecting your arrival.“ The
 Scouts explain that no ship can enter orbit around Grant, otherwise they will be shot to smithereens by the Navy
 satellites. They explain that if one were to land on Grant, they would be committing suicide, as an atmospheric
-contagion causes death in hours. Other than that, the Survey Scout is free to search the system. The Scouts fur-
-ther note that they did not detect the _Machii_ or any other Scout Service vessel entering the system in the last two
+contagion causes death in hours. Other than that, the Survey Scout is free to search the system. The Scouts fur-ther note that they did not detect the _Machii_ or any other Scout Service vessel entering the system in the last two
 months, so they are adamant the ship is not in the system. Their lifeboat has been used to make some sensor
 sweeps of the 4 AU gas giant orbit, as well as the Grant orbit, but nothing has been found.
 
@@ -1060,8 +1040,7 @@ However, such a search is the domain of a ship like the _Jeramiah_. Within a one
 trillion cubic kilometers of space, so there is a lot of volume to search.
 
 **THE DISCOVERY**
-The _Machii_ is in fact in the Grant system. It is however, drifting without power in the outer asteroid field. Depend-
-ing on where the _Jeramiah_ starts searching first, it may take days or weeks to find the ship. Each orbit should be
+The _Machii_ is in fact in the Grant system. It is however, drifting without power in the outer asteroid field. Depend-ing on where the _Jeramiah_ starts searching first, it may take days or weeks to find the ship. Each orbit should be
 searched with 12 formidable rolls (one every 6 hours - 4 per day) against Sensors skills and intelligence and the
 associated modifiers for the sensor suite the Survey Scout possesses. The Oort cloud will take ten times as long ie:
 120 formidable rolls - and they wont find the _Machii_ there anyway. The search through each orbit can be widened
@@ -1074,22 +1053,18 @@ ship actually detect the _Machii_.
 
 Salvage operations can now begin. The Survey Scout and/or the cutter will pull alongside the hulk, and there will
 be no signs of power on the vessel. There is some considerable damage to the hull, so the ship appears to have
-suffered a mishap of some sort, either in Jump space or when it arrived in the Grant system. The crew will investi-
-gate the wreck through some reasonably dangerous EVA. Everything is recorded through cameras on the vacc suit
+suffered a mishap of some sort, either in Jump space or when it arrived in the Grant system. The crew will investi-gate the wreck through some reasonably dangerous EVA. Everything is recorded through cameras on the vacc suit
 helmets, so footage can be reviewed in the future. The ship's structure is largely intact, but much of the interior of
 the ship has been trashed - methodically so. A search of the entire ship will reveal the following disturbing facts.
 
 1. There is no sign of the crew - no bodies, nothing. However, if the characters decide to undertake a scan
-of the surrounding area (a difficult check against sensors skill), they will find the bodies of two dead scouts float-
-ing in space, a male and a female. They are not wearing vacc suits, and appear to have suffered from explosive
+of the surrounding area (a difficult check against sensors skill), they will find the bodies of two dead scouts float-ing in space, a male and a female. They are not wearing vacc suits, and appear to have suffered from explosive
 decompression. The bodies should be retrieved for return to their families.
-2. The damage to the hull can be discerned by anyone with engineering skill to be impacts from asteroid type bod-
-ies. This is what caused the explosive decompressions.
+2. The damage to the hull can be discerned by anyone with engineering skill to be impacts from asteroid type bod-ies. This is what caused the explosive decompressions.
 3. Both small craft (the lifeboat and the launch are missing). The air/raft is still in its bay, so this is salvageable.
 The ATV bay is empty, but the briefing indicated that no ATV was carried. This may lead the characters to scan for
 the small craft. They will find none.
-4. The turrets are also salvageable, and will require an average mechanic check to successfully remove. An ex-
-ceptional failure could mean major issues out in the zero-G environment. The work is hard and time consuming,
+4. The turrets are also salvageable, and will require an average mechanic check to successfully remove. An ex-ceptional failure could mean major issues out in the zero-G environment. The work is hard and time consuming,
 but the eight beam lasers are in good condition. The sandcaster turret is smashed however, by an impact from an
 asteroid fragment. This is easily confirmed because the fragment is firmly wedged inside the turret.
 5. The bridge controls and computer systems, as well as all the sensors, have been carefully removed, as if by a
@@ -1112,8 +1087,7 @@ of actions that require checking.
 Task Characteristic Difficulty
 Open a stuck hatch in Zero-G (1-6 minutes) Strength Easy
 Force open a struck valve in Zero-G (1-6 minutes) Strength Easy
-Retrieve debris floating in space (such as bodies) using a thruster pack
-(10-60 minutes)
+Retrieve debris floating in space (such as bodies) using a thruster pack (10-60 minutes)
 
 Dexterity Difficult
 
@@ -1168,12 +1142,10 @@ for questions to be asked at the starport and in the Feri underground. Several a
 required information. If the characters do not think of them, Hertzog will suggest them. Cunning characters could
 think of more.
 
-**1. Go to Feri's Highport or town where the Salvage Factors offices are located and start asking some ques-
-tions amongst people who may know what is going on.**
+**1. Go to Feri's Highport or town where the Salvage Factors offices are located and start asking some ques-tions amongst people who may know what is going on.**
 
 Following this approach will reveal some startling facts - Feri locals generally like the company, and they seem to
-dislike offworlders who come to the planet to ask questions. No amount of bribery will generate any useful informa-
-tion. In fact, at one bar near the Salvage Factors offices the characters will be confronted by five thugs who will not
+dislike offworlders who come to the planet to ask questions. No amount of bribery will generate any useful informa-tion. In fact, at one bar near the Salvage Factors offices the characters will be confronted by five thugs who will not
 take kindly to the questions being asked. They will start a brawl. It is not initially clear whether these thugs are in
 the employ of Salvage Factors, but it soon becomes clear that they are low level workers for the company. They
 are burly men with a great deal of loyalty to the company, and will be very aggressive.
@@ -1192,8 +1164,7 @@ If any of the characters have reasonable computer skills this could be a possibi
 to the network via the Feri's Worldnet computer grid. To break into the system will require a Very Difficult roll against
 computer skill with intelligence modifiers. The task will take 1-6 hours. Intrusion programs can be used, and security
 programs are being run by the company. Hertzog has available on her hand computer a TL 11 Intrusion program,
-but if the characters want a higher level intrusion program, they may have try to purchase one on Feri, a Very Dif-
-ficult task against any streetwise or investigate skills the characters may possess. The company is running a TL
+but if the characters want a higher level intrusion program, they may have try to purchase one on Feri, a Very Dif-ficult task against any streetwise or investigate skills the characters may possess. The company is running a TL
 12 Security program on their internal network. An exceptional failure will mean the characters have been detected,
 and will be hunted down by the local police. An average failure will mean the intrusion attempt will be detected the
 next day by Salvage Factors staff, but the source of the hacking cannot be determined.
@@ -1256,14 +1227,12 @@ Scout Service personnel a the Way Station in the Efate system will also become a
 when they are in the employ of Spinward Salvage.
 
 It is the enemies the characters have gained that will be an issue however. Salvage Factors staff are now even
-more implacable enemies of the characters and Spinward Salvage staff, and any meeting between them will usu-
-ally result in some kind of violence. LSP staff in Regina subsector now become enemies of the characters, and this
+more implacable enemies of the characters and Spinward Salvage staff, and any meeting between them will usu-ally result in some kind of violence. LSP staff in Regina subsector now become enemies of the characters, and this
 may become an issue outside of Regina subsector over time.
 
 Two weeks after the meeting with the Scout Service, the Spinward Salvage compound on Efate is attacked by
 mortars. There is some damage to a hanger and no injuries, but it serves as a reminder that the cold war between
-Spinward Salvage and Salvage Factors is about to get much hotter. It is also learnt that the informant on Feri “com-
-mitted suicide” - a police investigation is underway, but it shows what a high stakes game corporate espionage is,
+Spinward Salvage and Salvage Factors is about to get much hotter. It is also learnt that the informant on Feri “com-mitted suicide” - a police investigation is underway, but it shows what a high stakes game corporate espionage is,
 and LSP and Salvage Factors mean business.
 
 The characters are asked to stay on. They are given a choice of roles. One is to crew the Survey Scout to conduct
@@ -1277,16 +1246,14 @@ It's their choice...
 **_JeraMIah_** **ENGINEERS**
 Merchant (Free Trader) 777777 3 Terms
 
-Vacc suit-1, drive (wheeled)-0, broker-0, steward-0, comms-0, persuade-1,engineer (J-Drive)-1, engineer (pow-
-erplant)-1, engineer (M-Drive)-1, engineer (life support)-1, zero-G-1.
+Vacc suit-1, drive (wheeled)-0, broker-0, steward-0, comms-0, persuade-1,engineer (J-Drive)-1, engineer (pow-erplant)-1, engineer (M-Drive)-1, engineer (life support)-1, zero-G-1.
 
 Equipment: commdot, TL 8 Vacc Suit, electronic kit, blade.
 
 **FERA JEMASIE -** **_JeraMIah_** **SALVAGE CAPTAIN**
 Vargr Merchant (Free Trader) 576888 6 Terms
 
-Vacc suit-1, drive (wheeled)-0, broker-2, streetwise-1, advocate-1, steward-0, comms-1, persuade-2, jack-of-all-
-trades-1, zero-G-1, pilot (spacecraft)-2, sensors-1.
+Vacc suit-1, drive (wheeled)-0, broker-2, streetwise-1, advocate-1, steward-0, comms-1, persuade-2, jack-of-all-trades-1, zero-G-1, pilot (spacecraft)-2, sensors-1.
 
 Equipment: commdot, TL 8 Vacc Suit, blade, snub pistol.
 
@@ -1308,16 +1275,14 @@ Equipment: TAS membership, commdot, hand computer, TL 8 flak jacket.
 **SALVAGE FACTORS THUGS/WORKERS**
 Drifter (Scavenger) 979665 4 Terms
 
-Vacc Suit-1, trade-1, pilot (small craft)-0, mechanic-1, astrogation-0, zero-G-1, gun combat (slug pistol)-0, melee
-(unarmed)-2, streetwise-1, survival-1.
+Vacc Suit-1, trade-1, pilot (small craft)-0, mechanic-1, astrogation-0, zero-G-1, gun combat (slug pistol)-0, melee (unarmed)-2, streetwise-1, survival-1.
 
 Equipment: commdot, Mesh armor.
 
 **FERI POLICE**
 Agent (Law Enforcement) 888766 3 Terms
 
-Streetwise-1, drive (wheeled)-1, investigate-1, computers-0, recon-1, gun combat (slug pistol)-1, gun combat
-(energy pistol)-1.
+Streetwise-1, drive (wheeled)-1, investigate-1, computers-0, recon-1, gun combat (slug pistol)-1, gun combat (energy pistol)-1.
 
 Equipment: commdot, TL 8 flak jacket, blade, TL 10 stunner, snub pistol.
 
@@ -1378,8 +1343,7 @@ turret
 
 ### 4 10
 
-Fuel 456 tons One Jump 4 Four weeks of opera-
-tion
+Fuel 456 tons One Jump 4 Four weeks of opera-tion
 
 ### 456
 

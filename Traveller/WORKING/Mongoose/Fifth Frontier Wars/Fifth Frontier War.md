@@ -69,8 +69,7 @@ We also introduce mechanics for tracking the Power and Influence of a given indi
 
 Throughout the Fifth Frontier War books it is the practice to abbreviate the names of the Frontier Wars using their number. Thus the First Frontier War is 1FW, the Second is 2FW and so forth. This eliminates any confusion between the 4FW and 5FW and creates an easy shorthand.
 
-The Zhodani Consulate and its allies are popularly known as the Outworld Coalition
-(OC). When this term is used it applies to polities and groups which are at that time formally recognised allies of the Zhodani. Thus a Sword Worlder unit might be referred to as an OC force, as might a group of Vargr ships serving as mercenaries. Opportunistic pirates or insurgent movements not formally allied to the Zhodani would not be referred to as OC forces. In situations where the forces present are overwhelmingly Zhodani and contain few or no allied elements, these would be referred to as Coalition or Zhodani forces. The latter reference does not preclude the presence of relatively small allied elements.
+The Zhodani Consulate and its allies are popularly known as the Outworld Coalition (OC). When this term is used it applies to polities and groups which are at that time formally recognised allies of the Zhodani. Thus a Sword Worlder unit might be referred to as an OC force, as might a group of Vargr ships serving as mercenaries. Opportunistic pirates or insurgent movements not formally allied to the Zhodani would not be referred to as OC forces. In situations where the forces present are overwhelmingly Zhodani and contain few or no allied elements, these would be referred to as Coalition or Zhodani forces. The latter reference does not preclude the presence of relatively small allied elements.
 
 The term Imperial similarly is used for forces that are under the direct command of the Third Imperium or operating on its behalf. This can include mercenary forces on contract to the Imperium or vessels contributed by a privately owned merchant line if they are in the Imperial chain of command. Allied, co-belligerent or loosely cooperating forces are not considered to be 'Imperial' in this sense unless they are a small minority within an Imperial formation.
 
@@ -202,6 +201,8 @@ The fight for communications is critical to the effective prosecution of a war. 
 The same comments apply to logistics. Fleets start out well provisioned and loaded with munitions but fuel in particular is used up quickly. Tankers and logistics vessels are vulnerable to attack as they skim fuel or return to base for reloading. A fleet can of course skim at a gas giant but this is a lengthy process for a large force and relies on a suitable giant being available. As a result the tempo of operations starts out high but drops over time, especially if a successful raid breaks the logistics chain or inflicts heavy losses on the vessels required. On the other hand, assigning too many ships to protect the logistics and communication chain weakens the fighting forces, as does chasing commerce raiders. These threats cannot be left uncountered but ultimately the fleet must retain sufficient potency to be able to defeat its opponents in battle.
 
 PROSECUTION OF A WAR
+
+
 A successful strategy balances the different kinds of operation to overcome the enemy at a decisive point. Unless the opposition obligingly places its fleet where it can be attacked in overwhelming force, it will not be possible to win through a single decisive battle. Indeed, it is possible to fight a major war without the main fleets engaging at all. So long as they remain a threat, the big fleets limit the enemy's options. In some cases this results in the fleets standing ready to act but never doing so whilst lighter forces seek to alter the strategic balance by raiding and disputing minor systems.
 
 More commonly, a war will be fought on several levels. Major fleets try to take significant objectives, either to disrupt the enemy or as political bargaining chips, whilst other forces seek to impede the enemy by raiding and minor actions. In some cases a major world will be attacked because it has to be defended, drawing enemy reinforcements along a predictable route and pinning down major fleet elements. Often attacks on major worlds become sieges, with the attackers establishing a logistics marshalling point at a gas giant or some other body in the system. Whilst clear and quick victory is usually desirable, it can sometimes be more strategically effective to threaten a target for a protracted period or try to wear down the enemy defending it. This is particularly true when the strategic world is at the end of a long supply chain that can be harassed.
@@ -285,6 +286,8 @@ The standard model for a subsector fleet is a single warship in the light cruise
 The warfighting strength of a sector fleet is nominally one squadron of four capital ships (battleships or dreadnoughts) and one squadron of four heavy or light cruisers per subsector, plus some additional vessels such as carriers and specialist cruisers. These are supported by destroyers and escorts, tankers and supply ships, auxiliaries and couriers. However, the sector fleet is not deployed by subsector – that would invite defeat in detail. Heavy units are concentrated at primary bases for the most part, with some elements detached for various reasons.
 
 SPINWARD MARCHES SECTOR FLEET
+
+
 The Spinward Marches Sector Fleet is overstrength, as befits a force located on the frontier. However, despite urgings from various quarters, it has never been given huge numbers of capital ships. This was seen as potentially provocative and was opposed for other internal-political reasons. The Spinward Marches Sector Fleet was assigned extra squadrons under various pretexts, notably to ensure it had sufficient strength to protect Imperial holdings in the Trojan Reach and Reft. The latter is nonsense, as there is no significant threat, but it serves as a polite fiction that allows an extra squadron or two to be assigned. The Trojan Reach does face a possible threat from Aslan forces and the need to project power across the sector justifies a deployment.
 
 The fleet has also been strengthened in relatively subtle ways. Since the Fourth Frontier War, the Imperial Navy has phased out many of its battle rider squadrons. The usual route for these is to be assigned to guard bases or be sold to well-off worlds that feel they need capital ship-grade protection. However, a proportion of all riders leaving sector fleets across the Imperium have been quietly reassigned to potentially threatened systems on the Solomani and Zhodani borders.
@@ -407,8 +410,7 @@ Lift Infantry Battalion x 3 Battalion Headquarters and Support Company Lift Infa
 
 Brigades are combined into divisions, typically incorporating three lift infantry brigades, an armoured formation and an artillery formation which will include heavy anti-aerospace weapons. In addition, a division will have specialist formations attached; engineers, reconnaissance units, medical and vehicle repair formations, electronic warfare units or whatever other forces are available and/or deemed necessary.
 
-A brigade will be commanded by a brigadier-general or an officer acting in that rank for lack of a suitably qualified individual. A division is commanded by a major- general, who will take control over attached forces or the overall theatre of operations if the division is the highest level of force assigned. Larger forces, made up of multiple divisions and attached forces, are termed corps and commanded by a lieutenant-general. An army
-(more correctly, army group) is commanded by a full general, who answers to the subsector vice-marshal.
+A brigade will be commanded by a brigadier-general or an officer acting in that rank for lack of a suitably qualified individual. A division is commanded by a major- general, who will take control over attached forces or the overall theatre of operations if the division is the highest level of force assigned. Larger forces, made up of multiple divisions and attached forces, are termed corps and commanded by a lieutenant-general. An army (more correctly, army group) is commanded by a full general, who answers to the subsector vice-marshal.
 
 In many cases an army, corps or even division may be split up across several worlds. It remains under the command of its senior officer but local command is exercised by the most senior officer present. Higher formations always have additional general officers who can be given overall command of a detached force. For example, if an army group breaks off two lift infantry brigades, a strategic aerospace defence brigade and a maritime operations force to defend a nearby world, this force approaches divisional size and will be given a major-general as its overall commander.
 
@@ -450,6 +452,8 @@ Not all forces follow this model. Some kinds of raiding operation are best carri
 **_BellIgerent Powers: tHe ZHodanI consulate_**
 
 FLEET OF THE FIRST RANK
+
+
 **Flag Officer of the First Rank Flag Squadron**
 
 **Fleet of the Second Rank Alpha (present)** Flag Officer of the Second Rank Flag Squadron Fleet of the Third Rank x 3
@@ -591,6 +595,8 @@ The ground forces of the Zhodani Consulate are part of the Combined Interstellar
 Zhodani Special Naval Landing Force units are generally small, with the platoon as the basic tactical unit. Smaller vessels may carry a detachment, sometimes referred to as a half-platoon, or a section consisting of two four-soldier teams and supporting personnel. These may include vehicle crews if the force has any and one or more warbot technicians will almost certainly be present along with their 'bots.
 
 ZHODANI SPECIAL NAVAL LANDING FORCE PLATOON
+
+
 **Platoon Command Team** Platoon Leader Assistant Platoon Leader Platoon Senior NCO
 
 **Landing Force Section x 4** Combat Team x 2 Team leader Rifleman Grenadier Support Gunner, Medic or Breaching Specialist Support Team VRF Gauss Gun Crew Warbot Technician Vehicle Crews, if present
@@ -610,6 +616,8 @@ The Consulate uses a similar system of unit sizes to the Imperium, with a 'three
 The example lift rifle corps presented here is set up for large-scale ground combat operations against a significant enemy. It is designated a lift rifle force as it contains lift infantry formations for its main fighting component but also has light and heavy armoured forces and artillery. A light lift infantry brigade, using relatively lightly protected vehicles, is attached for security operations. Composite support battalions vary in composition but will usually contain logistics, engineering, security, electronic warfare and medical units, as well as workshops and recovery elements for complex or heavy equipment. Larger formations may have dedicated battalions providing these functions.
 
 ZHODANI LIFT RIFLE CORPS
+
+
 **Corps Headquarters Battalion** Corps Headquarters Corps Security Detachment Aerospace Defence Detachment Special Attached Troops (Psionic commandos, clairvoyants and similar) Communications, Workshop, Medical Battalions Corps Logistics Formation
 
 **Lift Rifle Division x 3** Divisional Headquarters Company Divisional Security Detachment Aerospace Defence Detachment Communications, Engineering, Workshop, Electronic Warfare, Medical Battalions Divisional Logistics Formation Lift Rifle Brigade x 3 Lift Rifle Battalion x 3 Composite Brigade Support Battalion Light Grav Armour (Grav Cavalry) Battalion Divisional Artillery Brigade Artillery Battalion x 3 Composite Brigade Support Battalion Divisional Medium Aerospace Defence Battalion
@@ -836,6 +844,8 @@ Units designated as 'composite' are likely to have been formed from remnants and
 
 SWORD WORLDS CONFEDERATION MOTORISED INFANTRY BRIGADE BATTLEGROUP
 
+
+
 Battlegroup Headquarters Headquarters Detachment Aerospace Defence Detachment Security Element: Jaeger Platoon Headquarters Grav Transport Detachment
 
 Mechanised Infantry Battalion Light Infantry Battalion Headquarters/Support Company Light Infantry Company x 3 Mechanised Transport Battalion
@@ -896,11 +906,15 @@ There are Hawks everywhere but Forward The Imperium! is strongest in the region 
 
 IMPERIAL DOVES
 
+
+
 As with the Hawks, there are Doves – who are pro- peace – everywhere. Few are the hand-wringing peaceniks they are depicted as by their political opponents and many are dedicated military or naval personnel who would fight hard if they had to. What the Doves have in common is a preference for peace, which most believe can be achieved through dialogue and trade combined with sufficient naval strength to deter an attack. A small percentage advocate disarmament and 'not giving offence' as a way of achieving lasting peace, despite centuries of history demonstrating otherwise.
 
 'Dove' advocates suggest reallocating military spending to purely defensive projects, such as strengthening the in-system defence forces of worlds along the border, along with setting up cross-border trade centres where cultural and social interactions can take place alongside commerce. Some border world governments are strongly behind these moves. Their motivations include a desire not to be battlegrounds and the hope of heavy investment. Support can be found everywhere but there are 'Dove heartlands' around Trin and in parts of the Rhylanor and Lanth subsectors. Here, the main force for peace is economic.
 
 INE GIVAR
+
+
 
 Today, the Ine Givar movement is widely known as a terrorist organisation. The term 'terrorist' is often misused to malign any insurgent or dissident group the authorities disapprove of but in this case the label is apt. The Ine Givar, as a whole, is willing to use small and large-scale atrocities to create political influence.
 
@@ -928,6 +942,8 @@ The Ine Givar has a military arm, which is capable of fielding significant force
 Overall, the Ine Givar is anti-Imperial rather than pro- Zhodani but its willingness to take assistance wherever it is offered has allowed elements of the movement to be co-opted into serving Zhodani aims. It is likely that the organisation would oppose a Zhodani regime as bitterly as it does the Imperium; a fact not lost on the Consulate's intelligence services. This makes it probable that Ine Givar operatives are being tracked by the Zhodani and will be redeployed into Imperial space from overrun worlds or else will quietly disappear.
 
 THE PEOPLE WHO KNOW RIALFFI
+
+
 
 Rialffi Amdur does not exist and never did. He is a fictional character created by an otherwise nameless criminal organisation-of-organisations. It is not clear how many worlds have an enclave of People Who Know Rialffi but it is known that their character varies considerably. Some groups are street thugs, some white- collar embezzlers. They are all tied into an interstellar network of cooperation for mutual profit, or perhaps service to some over-arching criminal group. Some are frightened when a courier arrives; others eager to see what new opportunity has been placed before them.
 
@@ -987,6 +1003,8 @@ The Progressive faction advocates wider psionic training, which would elevate mo
 
 ZHDANJINZ IEPR
 
+
+
 The Zhdanjinz Iepr is a dissenting Zhodani group whose name translates as 'Resistance From Within'. Its existence would come as a surprise to many Imperial citizens, who think the Consulate is filled with happily brainwashed drones. The reality is rather different. The Zhodani Consulate does use psionic 're-education' techniques and does indeed have psionic law enforcement agents who can determine guilt or even intent in the non-psionic segment of the population. However, there are far less of them than most Imperials imagine.
 
 The chances of a criminal or serious dissenter being caught by the 'thought police' are actually quite low so long as they are cautious and do not attract a major investigation. Indeed, there are those who report the Tavrchedl', or 'Guardians of Our Morality' are overstretched and rushing from one major incident to another rather than quietly 'redirecting' every person who has a dissenting thought. Crime and dissent are rather low due to an effective programme of what Imperials might call non-psionic indoctrination and social guidance. Everyone is assessed at an early age to determine their aptitudes and guided towards useful and fulfilling roles. This creates a generally more contented populace than elsewhere, with the Tavrchedl' dealing with the outliers.
@@ -1006,6 +1024,8 @@ Naturally the Zhodani Consulate does not want its people to know there is a resi
 The Darrian Confederation has three main factions among its population and leadership, with the greatest movement between them of all the regional powers. Some elements of the population have entrenched viewpoints but most are willing to be swayed by a well- made argument. There has always been plenty of that, with frequent public pseudo-arguments between leaders or respected observers. Typically a set of comments by an advocate of one viewpoint will draw out an indirect response in the form of an interview or a documentary, which will then be countered in turn. Direct challenges are seen as bad form, whereas a presentation that makes another's argument irrelevant rather than refuting it is elegant and demonstrates a high level of intellect.
 
 LONG FUTURISTS
+
+
 
 The Long Futurist faction holds that the threat from the Sword Worlds Confederation will eventually go away or be diminished to the point where it can be discounted. Indeed, even the current war with the Sword Worlds is not very important in the grand scheme of things. Many Long Futurists consider the conflict to be an annoying distraction rather than an existential threat.
 
@@ -1031,6 +1051,8 @@ Both Peacefully Outward and the Long Futurists agree that the Darrian Confederat
 Ironically perhaps, Peacefully Outward advocates an aggressive strategy in this conflict. Not as clinically genocidal as the Solvers but much more assertive than in previous wars. Its members feel that Sword Worlders do not consider war with the Darrians as much of a risk; the Darrian Confederation defends itself and is always quick to the negotiating table. It may be necessary to inflict harsher defeats and some real damage on the Sword Worlds in order to make them realise the Darrians are much better friends than enemies.
 
 SWORD WORLDS FACTIONS
+
+
 
 There are far too many factions among the Sword Worlds to catalogue and they change constantly. Most are led by charismatic individuals with a strong viewpoint and are often pro-a certain individual rather than favouring a policy for its merit. Those who follow a particular admiral or general may have differing personal views on how war should be conducted but agree on who should be leading the battles. These cults of personality tend to have a constant core membership plus additional adherents drawn by recent successes or statements they identify with.
 
@@ -1090,6 +1112,8 @@ The 40th Squadron is a Vargr state originally founded by a naval force returning
 
 THE ZUENG
 
+
+
 The Zueng are a stateless organisation styling themselves as mercenaries rather than raiders. There is a fine line between the two sometimes, especially since the Zueng will take a contract to launch raids or grab plunder when it is available. The Imperium lists the Zueng as a pirate organisation making operations within the Imperial borders hazardous even when personnel are not engaged in combat-related activities.
 
 Despite this, the Zueng are active along the fringe of the Imperium, acting as facilitators for those wanting arms or military training. They are just as happy to smuggle weapons or set up training cadres as they are to attack military targets; so long as there is money to be made from conflict the Zueng are interested. They have overt contacts on worlds outside Imperial jurisdiction and operate through local fronts within the Imperium.
@@ -1138,6 +1162,8 @@ Open affiliations will also affect the Affinity of major characters. If the Trav
 
 THE DUCHESS OF MORA
 
+
+
 The terms 'Duke' and 'Duchess' are used more or less interchangeably in Imperial parlance. Some noble seats have a tradition of female incumbents and prefer to use the term 'Duchess' to reflect this regardless of who is on the throne. Mora is ones of these and is often referred to as the Matriarchy of Mora. The current Matriarch is Delphine Adorania Muudashir, daughter of Duchess Lutetia Ammon Muudashir of Mora. She ascended to the Ducal throne in 1014 upon her mother's abdication and has ruled for almost a century with great success.
 
 Duchess Delphine is the centre of the Mora Foremost faction and openly states that she should have been appointed sector duke or even Archduke of the Domain of Deneb a long time ago. There is much merit to this claim, although Duchess Delphine has a number of powerful opponents. Chief among these is Duke Norris of Regina, whose followers are strongly opposed to the policies of the Mora Foremost faction and in some cases have a personal dislike of Duchess Delphine.
@@ -1147,6 +1173,8 @@ At 128 years of age, Duchess Delphine has avoided significant deterioration due 
 Duchess Delphine can sometimes allow her rivalry with other great nobles, notably Duke Norris of Regina, to colour her judgement. It has been said, not without reason, that she would rather see Norris fail than the Imperium succeed. However, Duchess Delphine is an Imperial noble and would not be in her position under Zhodani rule. She is as opposed to the Consulate as anyone; it is just that initially she sees the conflict as an opportunity to become Archduke rather than a threat to the entire Imperium.
 
 		DUCHESS DELPHINE OF MORA
+
+
 		STR 4 **LOCALITY** Mora/Mora
 		DEX 7 **SPECIES** —
 		END 3 **GENDER** Female
@@ -1156,6 +1184,8 @@ Duchess Delphine can sometimes allow her rivalry with other great nobles, notabl
 		POW+6
 		INF +6
 		
+
+
 
 
 #### DUKE NORRIS AELLA ALEDON, DUKE OF REGINA
@@ -1169,6 +1199,8 @@ It is said that there is no finer education than the navy for a member of the no
 As Duke Norris settled into the role he became more of a politician but never completely. He retains a tendency to get to the point efficiently without the elaborate courtesies and ego-strokes expected from such a grand individual. Some find this refreshing, others less so. The courtesies are part of the fabric of high society, where service or agreement is rewarded with the experience of being praised by a great noble. This, and the fact that those seeking advancement are more likely to achieve it by playing court politics at Mora than doing an excellent job at Regina, means that Norris has gained a smaller but perhaps more loyal following than Duchess Delphine.
 
 	DUKE NORRIS OF REGINA
+
+
 	STR 7 LOCALITY Regina/Regina DEX 9 SPECIES — END 6 GENDER Male INT 10 AGE — EDU 13 SKILLS SOC 15 Admin 4, Advocate 1, Broker 1, Carouse 1, Deception 3, Diplomat 2, Gun Combat (slug) 1, Investigate 5, Language (Vilani) 3, Language
 	(Zdetl) 4, Leadership 4, Melee 0, Persuade 2, Profession (imperial noble) 2, Profession (naval officer) 6, Science (history) 2, Tactics
 	(naval) 2, Vacc Suit 2
@@ -1186,23 +1218,43 @@ After his attempt to ruin Prasad's career failed, Urast ponded himself again, th
 Upon becoming Viscount of New Rome, Urast resigned his naval commission and quickly became a major figure in Forward The Imperium!. He puts himself forward as the generation's greatest strategist and rewards those who treat him as such. He remains at odds with Rear-Admiral Prasad, who now commands the 100th Fleet, and has been reprimanded several times for interfering in naval affairs to an excessive degree. He constantly exhorts subsector dukes for more naval forces, to be held ready to repel the clever Zhodani sneak attack only he has detected.
 
 	VISCOUNT URAST OF NEW ROME
+
+
 	
+
+
 	STR 5 **LOCALITY** New Rome/Glisten
 	
+
+
 	DEX 6 **SPECIES** —
 	
+
+
 	END 8 **GENDER** Male
 	
+
+
 	INT 6 **AGE** —
 	
+
+
 	EDU 10 **SKILLS**
 	
+
+
 	SOC 13 Admin 1, Astrogation 1, Carouse 3, Deception 1, Diplomat 2, Gun Combat (slug) 0, Language (Vilani) 2, Leadership 1, Melee 0, Persuade 4, Profession (imperial noble) 2, Tactics (naval) 1, Vacc Suit 1
 	
+
+
 	POW+6
 	
+
+
 	INF +5
 	
+
+
 
 
 #### REAR-ADMIRAL FREDERICK SANTANOCHEEV, COUNT FORNICE
@@ -1217,6 +1269,8 @@ Critics disapprove of the dispersal of the fleet under Santanocheev's leadership
 
 	REAR-ADMIRAL SANTANOCHEEV, ACTING SECTOR ADMIRAL
 	
+
+
 	STR 9 LOCALITY Sector Fleet Headquarters,Macene/ Rhylanor
 	DEX 8
 	END 9
@@ -1237,6 +1291,8 @@ Over-confidence in the ability of Zhodani agents to influence Imperial policy le
 
 
 	PROVINCIAL GOVERNOR SHTALIJTLAS
+
+
 	STR 6 **LOCALITY** Cronor/Cronor
 	DEX 9 **SPECIES** —
 	END 7 **GENDER** Male
@@ -1259,6 +1315,8 @@ Provincial Officer Ke Chteprnentlasche is the supreme commander of the Zhodani f
 Chteprnentlasche is a career naval officer who started out in the Naval Landing Force as a teleport-capable commando. Decorated multiple times, he rose rapidly through the ranks and established himself as a capable strategist. He still favours the tactics used by teleporting commandos; stealth, deception and surprise followed by an overwhelming assault on a critical point. In this he is frustrated by his superior's insistence on predictable avenues of attack.
 
 	PROVINCIAL OFFICER CHTEPRNENTLASCHE
+
+
 	STR 9 LOCALITY Cronor/Cronor DEX 10 SPECIES — END 7 GENDER Male INT 12 AGE — EDU 12 SKILLS SOC 15 Admin 2, Astrogation 3, Clairvoyance 4, Deception 2, Diplomat 2, Electronics (sensors) 3, Gun Combat (energy) 4, Language (Galanglic) 2, Leadership 4, Profession (naval officer) 6, Profession (Zhodani noble) 3, Tactics (naval) 6, Telepathy 6, Teleportation 4, Vacc Suit 3
 	PSI 13
 	POW+6
@@ -1275,23 +1333,39 @@ When not laughing and joking in the starport bars – and not coincidentally pic
 Hossen's Power and Influence values are deliberately misleading. He is valuable enough that his superiors would send support if they could, although there is a limit to how much effort can be expended on one  agent. His Power and Influence values reflect his personality as a chancer; someone who feeds the egos of rich people in order to make money off them or find ever more influential friends.
 
 	LUCKY HOSSEN
+
+
 	
+
+
 	**LOCALITY** Almost anywhere
 	STR 8 
 	DEX 10 **SPECIES** —
 	END 8 **GENDER** Male
 	
+
+
 	INT 9 **AGE** —
 	
+
+
 	EDU 8 **SKILLS**
 	
+
+
 	SOC 9 Athletics (dexterity) 2, Awareness 1, Carouse 3, Deception 4, Electronics
 	(computers) 3, Flyer (grav) 2, Gambler 3, Gun Combat (slug) 2, Investigate 2, Melee (unarmed) 1, Persuade 2, Telepathy 2
 	
+
+
 	PSI 10
 	
+
+
 	POW+1
 	
+
+
 	INF +3
 
 If the Travellers get to know Hossen they will realise there is more to him than meets the eye but this is part of his cover. 'Friends' will discover he is descended from impoverished nobility over in Deneb and might still be slightly wanted for absconding from naval officer training that time. If he can convince others he is a bit of a rogue whose stories have a kernel of truth somewhere, Hossen will make use of the connection and even help others out. If he feels someone is getting close to the truth he will disappear or find a way to eliminate the threat.
@@ -1305,6 +1379,8 @@ Outwardly jovial, Rirkumuud is a stone-cold professional. His agenda is money an
 Rirkumuud and his colleagues can be encountered anywhere from Jewell to Mora by those who know where to look, although the Regina/Lanth/Aramis/ Rhylanor crossroads offers them the most reliable balance of profit and risk. They have contacts in the Imperial Navy and at many starports in the region, and will sell information as readily as transporting arms or stealing a shipment of medical supplies.
 
 	UMAR RIRKUMUUD
+
+
 	STR 7 LOCALITY Typically around Inthe and DEX 4 surrounding subsectors END 9 SPECIES — INT 11 GENDER Male EDU 9 AGE — SOC 4 SKILLS POW +4 Astrogation 2, Carouse 2, Deception 2, Electronics (sensors) 1, Melee
 	(bludgeon) 1, Persuade 2, Vacc Suit 1
 	INF +3
@@ -1312,6 +1388,8 @@ Rirkumuud and his colleagues can be encountered anywhere from Jewell to Mora by 
 Umar Rirkumuud is a big, loud man whose grandiose gestures and flamboyant clothing distract attention from his sharp and highly focused mind. He prefers to be taken for a blowhard or noisy fool, or perhaps  a front for a more competent person. He is quite willing to play that role, sending new contacts on a wild goose chase around several 'people who might help them' whilst he evaluates the level of profit to be made from associating with them.
 
 BISHOP LEWINS OF ATSAN
+
+
 
 Bishop Lewins is not an ordained priest of any sort but uses the title anyway. His claim is that he is a leader of the Church of Stellar Divinity in the eyes of the gods and it is not for mortals to gainsay them. Lewins is a Virushi and like most of his kind he is a gentle pacifist - in deed, anyway. His words, thunderously declaimed at every opportunity, are widely considered the most aggressive declarations of peace and universal siblinghood anywhere in Charted Space.
 
@@ -1322,8 +1400,12 @@ There is nothing violent about Lewins but his views are intense all the same. Th
 Lewins is sincere in his beliefs but his views are fuelled by ego and a touch of narcissism. He believes that if he does sufficient good in his life he will not merely be taken into the heavens with his gods; he will be given a top job in their service. Thus he plunges into dangerous situations, often getting some of his followers killed, in search of wounded to save and souls to heal. Whilst non-violent he is utterly intolerant of dissent or disrespect and has no time for trivialities like a navy stop-and-search.
 
 	BISHOP LEWINS OF ATSAN
+
+
 	STR 15 LOCALITY Wherever there is injury DEX 8 and suffering END 13 SPECIES Virushi INT 8 GENDER Male EDU 100 AGE — SOC 7 SKILLS POW +2 Art (performer) 3, Athletics (strength) 3, Electronics (sensors) 2, Medic 4, Persuade 2
 	
+
+
 	INF +3
 
 #### MATRIARCH SIOURROUZ
@@ -1337,11 +1419,15 @@ As a charismatic Vargr leader, Siourrouz attracts significant numbers of volunte
 It is possible that Matriarch Siourrouz is building up strength outside the Zueng in this manner, although to what end is unclear. Perhaps she intends to challenge for overall leadership, or possibly she has something bigger in mind. She appears to have no confidantes at all, keeping her plans to herself until a given individual needs to know. Even then, the Matriarch gives out minimal information and expects total obedience. If someone fails or dies, it was their own fault. Lack of information was never a factor and anyone who knows what is good for them agrees.
 
 	MATRIARCH SIOURROUZ
+
+
 	STR 6 LOCALITY Typically Aramis DEX 11 subsector END 9 SPECIES Vargr INT 9 GENDER Female EDU 66 AGE — SOC 8 SKILLS POW +4 Athletics (dexterity) 1, Engineer
 	(power plant) 1, Gun Combat (slug) 2, Gunner (turret) 2, Leadership 5, Mechanic 1, Melee (natural) 2, Persuade 6, Tactics (ground) 3, Tactics (naval) 2, Vacc Suit 2
 	INF +1
 
 KAKIN RIBIERO
+
+
 
 Kakin Ribiero is a regional coordinator for the Ine Givar movement. Like many of its more mature members, she was attracted to the ideology of a fairer society and more even distribution of wealth. She took part in non-violent demonstrations and peaceful activism... and got nowhere. Having vented her frustrations a few times she was approached by another member of the movement and asked if she wanted to get something done. Naturally, she agreed eagerly.
 
@@ -1352,6 +1438,8 @@ What Kakin took away from the incident was an appreciation of how much publicity
 Kakin Ribiero had a choice; walk away from the struggle or become what the Imperials had already decided she was. Although she has a distaste for civilian casualties, she can justify them to herself with the usual 'anyone not with us is against us' line. Still, she prefers 'clean' operations both morally and to avoid alienating the public. In the end, Ine Givar needs enough people behind it to force change; violence alone will not be enough. Thus Ribiero tries to reform the Ine Givar into a popular movement, taking back control from the radicals who just seem to want to smash everything. As for the Imperium, nothing has changed – it has to go.
 
 	KAKIN RIBIERO
+
+
 	STR 5 **LOCALITY** Typically Lanth or
 	DEX 7 Rhylanor subsectors
 	END 7 **SPECIES** —
@@ -1489,6 +1577,8 @@ Santanocheev's actions have been defended by those who claim he 'saved Regina' a
 
 THE PHONEY STALEMATE
 
+
+
 By late 1107 the situation had apparently stabilised but in reality the Imperium was just barely not losing the war. Forward deployed elements of the sector fleet had been transferred to subsector control, an admission that centralised command had broken down. Jewell was under siege along with Efate and Extolay had fallen as well as several less important worlds. Allegations and accusations were rife; Duke Norris had committed treason with his unlawful elevation of Admiral Pael – but Duchess Delphine had done something similar with Santanocheev. Pael was facing a summary trial and possible execution for treason, and thereby Santanocheev was depriving the Imperium of an effective and aggressive leader. The strategic situation remained fluid; reinforcements were coming from Deneb but the Corridor Strategic Reserve was months away.
 
 The situation was not much more favourable in the Zhodani Consulate. Senior commanders argued over whether to commit the provincial reserve and where. Regina was the obvious choice but it would surely have been reinforced. Jewell might be a better choice as victory there would free fleets to finish the Efate campaign and drive in force towards Macene. This would bypass Regina. Alternatively, a strong feint into the Regina region might draw out the oddly reticent sector fleet, allowing it to be bypassed for an attack on its base.
@@ -1496,6 +1586,8 @@ The situation was not much more favourable in the Zhodani Consulate. Senior comm
 Meanwhile, detached forces skirmished between the fortress worlds, seeking to gain control of refuelling points or deny them to the enemy. Information was scarce and timely information even more so. Any major fleet movement by the Imperials was a gamble, whilst the Consulate had sufficient forces to launch a three- pronged advance. Only one of the fleets had to reach Macene or Rhylanor to tip the balance but such a coordinated offensive would take time to organise and could come unstuck due to unknown factors. Zhodani high command chose to wait and see if one of the sieges resulted in a breakthrough. If so, their forces would cascade towards Macene. If not, they would commit reserves to breaking the deadlock. Victory was going to be expensive, and it was not possible to predict where and how it would happen, but the Consulate held most of the cards on the Riverland front.
 
 IMPERIAL REINFORCEMENTS
+
+
 
 The first request for assistance reached Deneb Sector Fleet headquarters on 229-1107 and the first fleet elements began moving spinward on 232. These were advance forces, sent to secure the necessary refuelling points and tanker rendezvous, and would not be followed by major fleet elements for another 16 days. Once marshalled, the initial reinforcements moved in two groups; one headed for Macene and one sent to take up a position in the Pretoria subsector. Full authorisation to move the majority of the fleet was granted on 269-1107.
 
@@ -1603,6 +1695,8 @@ As with Riverland, the Zhodani are well aware of this and plan to use the strate
 
 OPENING MOVES
 
+
+
 The Lanth campaign was intended as a diversion which would draw in Imperial reinforcements. The overall plan can be conceived as a jab-cross-left hook combination thrown by a boxer. An initial strike in the Riverland theatre would pull the Imperials' guard to that side, hopefully allowing a straight right to end the matter. That straight right was to take the form of an advance by the 40 th Fleet towards Rhylanor, facilitated by the Lanth campaign. If the right failed, regrouped forces from the Riverland campaign would hook into Macene and Rhylanor, and win the war. The plan was sound in conception, although the Riverland 'jab' was less effective than hoped.
 
 The Lanth campaign began with simultaneous drives towards Frenzie and Lanth, timed to arrive a day after the declaration of war had been delivered. Combat Force Frenzie arrived in the Frenzie system on 188- 1107, broadcasting the declaration of war in accordance with relevant treaties and immediately heading for the naval base. An entire second-class fleet may have represented overkill but unexpectedly stubborn resistance resulted in significant losses before the base was brought under fire. Those Imperial vessels that could broke off the engagement and fled, with the remainder surrendering after a 30-hour battle.
@@ -1627,6 +1721,8 @@ Warned by couriers from Lanth, the Imperial Navy base at D'Ganzio could do littl
 
 SURFACE WARFARE ON LANTH
 
+
+
 The ground campaign against Lanth began on 200- 1107 with the landing of the first Sword Worlds forces. Other worlds in the area surrendered or were taken without much difficulty but it was four days before Sword Worlders could even establish secure landing sites. Despite a numerical advantage and orbital fire support, the Sword Worlders faced aggressive counterattacks which made their initial landings unviable. Indeed, an entire corps became trapped in the Hestain Kessel, drawing supporting forces onto the guns of the planetary defences.
 
 Planetary and Imperial Army forces were quickly ground down, with army-level formations replaced by scratch brigades. Cities fell, then the capital and the starport too, but Lanth did not. With naval forces from the base still contesting the system it was possible to run supplies and reinforcements through to Lanth and to interfere with Sword Worlder attempts to do the same. By 300-1107 the Sword Worlds held about 75% of Lanth's major population centres, with Imperial forces clinging to shrinking areas of control.
@@ -1642,6 +1738,8 @@ Much was made of this 'repulse' in Imperial circles but the operation matches a 
 Having failed to break through the defences of Vilis, Zhodani forces from Combat Force Lanth made a series of small-scale raids throughout the theatre of war, attempting to draw in enemy reinforcements and pick off weak forces. In conjunction with the fleet now based at Frenzie, Combat Force Lanth applied pressure at Mirriam, Lanth and Vilis for the next few months without gaining a significant advantage. Most of the surrounding worlds were pacified by Sword Worlds ground forces in this time, extending the border of the Confederation, at least in theory, out to an arc from Frenzie to Arba.
 
 THE FALL OF LANTH
+
+
 
 The stalemate continued until 155-1108, when a large Zhodani force detached from the Rapp's World component of the 40th Battle Fleet arrived in the Lanth system. The Sword Worlds Gram Fleet, then blockading Lanth, joined forces with the Zhodani for a final assault on the system's naval base. Once this was reduced, a huge wave of reinforcements began landing on Lanth.
 
@@ -1693,6 +1791,8 @@ According to Santanocheev's advisors, the enemy was fully committed to the siege
 
 THE SIEGE OF EFATE
 
+
+
 Throughout 1108, squadrons of the Deneb Sector Fleet and the Corridor Strategic Reserve reached Efate and joined the defence. Zhodani forces continued to apply pressure, although the level of threat varied over time. Sufficient strength now lay at Efate to more forcefully contest Louzy, making it difficult to run supplies through the system, and to launch operations in surrounding systems. For their part, the Zhodani seemed content to probe and harass the Imperial forces around Efate.
 
 Those forces were in a difficult position, with no naval base to support them. Instead they relied on a cobbled- together infrastructure based on the world's highport. This inevitably took its toll on vessels that had to continuously remain at combat readiness. Elements of the fleet could cycle through the base at Paya for repairs but had to run the gauntlet of potential ambushes to do so. Likewise, Zhodani ships were forced to retire through Louzy to reach their base at Farreach.
@@ -1706,6 +1806,8 @@ The Siege of Efate is notable for one particular exploit, when a squadron of lig
 It is not clear how much the Farreach Raid, which began on 002-1109, affected Zhodani strategic thinking or their Macene campaign. Certainly it bolstered morale among the forces assigned to Efate and drew some reinforcements back to the siege. However, the fleet did not venture out again in force that year once its last elements returned to Efate on 37-1109. The Siege of Efate was hailed as an Imperial victory but in reality it was a drain on resources which could have achieved more elsewhere.
 
 THE SIEGE OF REGINA
+
+
 
 The siege of Regina was looser than those elsewhere, mainly because the naval base remained intact. Zhodani forces maintained a presence in the outsystem for much of the time but could not set up a base there. System defence forces repeatedly clashed with Zhodani scouts or attempts to establish a significant force in the system, whilst the 16 th Provisional Battle Fleet made a series of short forays into the demilitarised zone.
 
@@ -1803,6 +1905,8 @@ The incident may or may not have influenced Duchess Delphine in her decision to 
 
 THE RAIDING CAMPAIGNS
 
+
+
 It might have been expected that Thiele would run for home after this exploit and patrols were stepped up to catch her in Lunion and Glisten. Instead, she cheekily looped through Star Lane, Vincennes and Zeng, making attacks along the way. Somewhere in Zeng the trail went cold and Thiele was not heard from for some time. In the interim, other raiders had mixed success. Some of the merchant ship raiders never even got started. Correctly identified before the war, some of these ships were captured before they got word of the conflict. Others found coded signals in the Imperial datanets and began their attacks.
 
 These converted merchant ships did a lot of damage in the early months of the war, notably in Glisten and Lunion but also across Rhylanor, Mora and Trin. Most were run down within three months of the war's start, after which the intensity of raiding operations dropped sharply. Raiders that started the war within the Sword Worlds Confederation had to follow relatively predictable routes or stay off the main spacelanes until they got past the heavily patrolled border zones. They scored successes right through the war but only once won a significant victory. This was at Cyan, in Pax Rulin, in conjunction with a Zhodani task force.
@@ -1820,6 +1924,8 @@ The court-martial of Subsector Admiral Sir Isabel Prasad, commanding officer of 
 This reconstituted 100th Fleet left Glisten on 181-1108, beginning an aggressive campaign to clear raiding forces from the subsector. This marked the end of large- scale raiding into Glisten, although Zhodani and Sword Worlds ships continued to harass backwater systems.
 
 SWORD WORLDS ATTACKS
+
+
 
 After its participation in the Lanth campaign, the Sword Worlds Dyrnwyn fleet returned to base and transferred much of its fighting strength elsewhere and adopted a defensive posture. Most units went to the Gram Fleet, leaving the Dyrnwyn Fleet much reduced. This did not prevent an offensive, launched on 344-1107, directed at Lunion. This rather predictable advance was met at Rabwhar by the Lunion Contingent of the Imperial sector fleet and Colonial ships assigned to the subsector fleet. The inconclusive Battle of Rabwhar resulted in a Sword Worlds repulse.
 
@@ -1846,6 +1952,8 @@ SWORD WORLDS/DARRIAN CONFLICT
 Despite being the Sword Worlds traditional foe, the situation on the Darrian front was relatively static. Both launched raids into each other's territory, with the Narsil Fleet alternately chasing raiders and making a nuisance of itself over the border. Minor forces skirmished in District 268 without much result. The situation was deemed sufficiently stable – and needs elsewhere sufficiently great – that the Narsil fleet was stripped of much of its heavy fighting units in 1109. These ended up being transferred to the Sacnoth Fleet after its defeat at Biter, seeing action only against an Imperial probe up the Sacnoth Arm late in 1109.
 
 ADVENTURES AROUND THE SWORD WORLDS
+
+
 
 The region around the Sword Worlds is a relatively low-intensity theatre of war. In the Sword Worlds and the Darrian Confederation, there is little enemy activity for most of the war. In Imperial subsectors and District 268 it will be mostly 'business as usual' but with a medium to high risk of raids, especially in the spinward side of Imperial space.
 
@@ -2289,6 +2397,8 @@ Passing references to these little slices of life can make the universe richer a
 
 TRIVIAL CHARACTERS
 
+
+
 It may be a little unkind to describe someone as 'trivial' but in the context of the vast events unfolding in the region some people are of minimal significance. These include people the Travellers interact with in a routine manner. Sometimes they recur, perhaps because the Travellers pass through the same place. If so, they may become familiar to the Travellers and even important to them as friends but they are still trivial in the grand scheme of things. A full set of characteristics and skills are not needed for such characters; indeed, they are not usually relevant at all.
 
 For potential opponents, the Referee can create a partial block giving physical characteristics (STR, DEX and END) and a competence DM. Rather than spelling out all the skills a person has, this DM is used for the character's area of competence. It can be assumed they have other skills but for the purposes of a fleeting encounter this Area of Competence (AOC) DM is entirely sufficient. For example, a security guard with AOC +2 could logically apply it to skills such as Recon, Melee and Gun Combat, and perhaps Medic. A starport ground crew worker might be able to use Mechanic, Electronics and Engineer, whilst a portside broker could make a case for Admin, Advocate and Broker.
@@ -2302,6 +2412,8 @@ This tells the Referee everything necessary to use this character in a fleeting 
 
 MINOR CHARACTERS
 
+
+
 Minor characters are typically someone of importance to the adventure going on at the time but probably not of wider significance. A local guide the Travellers hire could be a trivial character but if the Travellers interact with them a lot or their skills are relevant to the adventure they should be given a minimal block. This gives their six characteristics (STR, DEX, END, INT, EDU, SOC) and relevant skills. It is possible this person has additional skills not listed; only those relevant to the adventure are needed. The block can be completed if the character becomes a regular in the game.
 
 By way of example, a tough local guide the Travellers hire to help them get across the mountains might be given a minimal block:
@@ -2309,6 +2421,8 @@ By way of example, a tough local guide the Travellers hire to help them get acro
 This is not necessarily this character's full skillset but it is the skills that will be relevant to a trek through the wilderness. If the Travellers interact with Tree-Kraken Aberdeen for a lengthy period they may discover he is an excellent cook and likes to play obscure card games, adding Steward and Gambler, and maybe Carouse, to his skill list. Minor characters may or may not be given a name by the Referee when they are implemented, depending on perceived need.
 
 SIGNIFICANT AND MAJOR CHARACTERS
+
+
 
 Significant characters are those who have an importance beyond the immediate adventure, or are the main driving forces behind it. They should always have a writeup but full blocks are not necessarily required. If the Travellers never interact directly with these characters their motivations and levels of power and influence will be more important than specific skills.
 
@@ -2326,13 +2440,21 @@ Affinity/Enmity is a useful indicator of an individual's likely actions toward t
 
 	'TREE-KRAKEN' ABERDEEN
 	
+
+
 	(LOCAL GUIDE) STR 8 SKILLS DEX 6 Athletics (dexterity) 1, Gun Combat
 	(slug) 1, Melee (blade) 1, Navigation 3, Recon 2, Survival 2
 	
+
+
 	END 9
 	
+
+
 	INT 6
 	
+
+
 	EDU 4 WEAPONS Hunting Rifle (3D), SOC 4 Really Big Knife (2D)
 
 **Affinity/Enmity**
@@ -2363,6 +2485,8 @@ Power Degree Notes 0 Powerless The individual has virtually no resources they ca
 Has access to very significant assets such as a mercenary unit or a modest-sized business entity. 4 Powerful Has powerful assets, equivalent to a small merchant shipping line or major business group. 5 Very Powerful Has enormous power, such as someone in the top echelons of a planetary government or the CEO of a large shipping line. 6 Major Player Is a factor in interstellar politics, such as a navy admiral or an official in an interstellar government. remembers the good times might have Affinity/Enmity -1 but some extremely strong emotions underlying their disposition. On average, this person will not actively seek to harm the Traveller. However, depending on circumstances they might act in an unexpectedly positive manner – although in a bitter and 'don't you dare thank me' sort of way. On another day they might screw over their former friend out of spite and later regret it.
 
 POWER AND INFLUENCE
+
+
 
 Power and Influence are similar characteristics, with different implications. Power represents the level of force, money or other assets that can be directly brought to bear. This does not mean the individual can always send in the troops, of course – an army officer might command a powerful unit but it is unlikely they will be able to divert it halfway across the sector to help out an old friend unless there is an overwhelmingly good reason.
 
@@ -2413,6 +2537,8 @@ Using free narrative resolution, the Travellers state what they did and what hap
 
 GUIDED NARRATIVE RESOLUTION
 
+
+
 The Referee might go with free narrative resolution if the Travellers are all good storytellers and comfortable with the process. However, it is generally better to use a guided narrative resolution in order to impose a measure of regulation. In this case, a Traveller must choose a skill or characteristic relevant to the situation and make an Average (8+) check. The Effect of this check can be used as a guide to how well things turned out.
 
 Under this system, the actions taken by the Traveller must be connected with the skill or characteristic chosen and they must abide by the narrative type guidelines. A disastrous check will require a Traveller to narrate some circumstance to their detriment, which some Travellers may be unwilling to do. If so, the Referee may overrule the narration and impose one based on the chart result. Travellers may be unwilling to give up an advantage or accept the loss of an item but at least this way they have control over what is lost. If the Referee overrules the narration, they may lose more or worse.
@@ -2431,11 +2557,15 @@ Travellers who are Inconvenienced as a result of their actions will find that th
 
 MINOR SETBACK
 
+
+
 Minor Setbacks include alienating a local figure who will refuse to deal with the Travellers and may incite others to do the same, triggering an investigation that might get the Travellers arrested and held for a few hours, losing an item of no great value but which might otherwise have been useful, and similar incidents. Also, whatever the Traveller wanted to narrate for the incident goes awry. The Traveller must come up with a brief story about what they tried to do and what actually happened. A Minor Setback will not normally prevent Travellers from trying again but will impose DM-2 on the check if a similar method is used to deal with the same problem.
 
 Example: The Travellers want to play a bit fast and loose with the local import/export laws, bringing in goods under a clever euphemism for their type, which is legal but contrary to the intent of the regulations. Instead of turning a big profit, they annoy an important official who arranges for them to be harassed by law enforcement personnel over trivial matters. The Travellers cannot be charged with anything but they have to waste a lot of time answering questions. Interference from this official imposes DM-2 on further efforts in the same field.
 
 MAJOR SETBACK
+
+
 
 Major Setbacks include alienating a whole segment of the community, making them unwilling to deal with the Travellers or even becoming slightly hostile. Alternatively, the Travellers may annoy a single person so much they become a Rival. Such a Rival will not go to great lengths to harm the Travellers once the situation is over but will always cause trouble if the Travellers make another visit to their territory. A Major Setback will usually prevent the Travellers from trying again and imposes DM-4 if they do. This is in addition to any interference from people the Travellers have annoyed.
 
@@ -2443,11 +2573,15 @@ Major Setbacks include alienating a whole segment of the community, making them 
 
 SEVERE SETBACK
 
+
+
 Severe Setbacks include offending someone so badly they become an Enemy, or annoying a segment of the local population badly enough they are openly hostile and may become violent. This will not usually be of a lethal nature unless the situation is escalated but the Travellers may have small objects thrown at them, face threats of serious violence, or perhaps unarmed blows will be delivered. As an alternative, a Severe Setback could mean the Travellers have committed a criminal offence and will be arrested. A Severe Setback will almost always preclude any further attempts in the same general field.
 
 **Example:** The Travellers were hoping to narrate how they breezed through customs with their locally illegal weapons. Instead they are arrested and spend a week awaiting a hearing. They get away with confiscation of the weapons, a fine and an order not to return for a year. This is a problem, as the Travellers have urgent business on-planet and must now find another way in – and get themselves some more guns.
 
 PARTIAL SUCCESS
+
+
 
 A Partial Success allows the Travellers to succeed at most of what they wanted to achieve with the effects of a Minor Setback applied, or to succeed at a smaller portion of their planned outcome with an Inconvenience. Neither precludes another attempt but things may get more complicated next time around.
 
@@ -2455,17 +2589,23 @@ A Partial Success allows the Travellers to succeed at most of what they wanted t
 
 MINOR SUCCESS
 
+
+
 A Minor Success, as the name suggests, is of a rather small nature. The Travellers might find an informant who does not know much or achieve a minor profit. Money made by way of a Minor Success is likely to be in the realms of tens of Credits; Travellers will not get rich by narrating petty swindles and thievery. Information will be basic, possibly inaccurate and almost certainly incomplete.
 
 Example: A Traveller needs a gun in an area where they are not permitted and tries to find someone willing to provide one. A Minor Success results in the Traveller paying 2,000 Credits for an old but serviceable revolver with a dozen rounds of ammunition.
 
 MAJOR SUCCESS
 
+
+
 A Major Success may be more significant. It may create a Contact, produce a profit in the hundreds of Credits, or produce reliable and detailed information. Travellers should not be allowed to narrate endless repeats of circumstances that get them money or useful items; narrative resolution is intended for situations that need to happen rather than being a tool for endless profit.
 
 Example: The Travellers need information about shipping movements in the region. They decide to seek someone willing to be bribed and achieve a Major Success. For 50,000 Credits now and 10,000 a month thereafter, a traffic controller at the starport agrees to feed them the information they want. Of course, the Referee can use this Contact in future adventures. Perhaps they will be arrested and implicate the Travellers, or they might actually be an intelligence operative for one side or the other.
 
 SPECTACULAR SUCCESS
+
+
 
 A Spectacular Success produces an excellent result but is limited by the events at hand. Spectacular Success will produce profit in the thousands of Credits at most, a useful item, or an excellent piece of information. It may also result in the Travellers gaining a Contact or even an Ally.
 
@@ -2477,8 +2617,7 @@ Narrative resolution can be used at a lower level, to determine the results of a
 
 If this narrative task resolution is implemented, each Traveller is entitled to a number of Narrative Events per segment of the campaign. This might be a single game session but if the Travellers spend three sessions dealing with the revolt on Dinom or engaging in misadventures in Rhylanor Startown, they only get one set of Narrative Events until the next clear campaign segment.
 
-A Traveller has one Narrative Event for each point of characteristic DM and one for every skill level. These are tied to the characteristic or skill they derive from and must fit the skill or characteristic being used. For example, a Traveller with DEX DM+2 and INT DM+1 has three characteristic-based Narrative Events available. Two must somehow be connected with speed, agility, or manual dexterity, and one with intellect or problem-solving. If the same Traveller also has Pilot
-(spacecraft) 3 and Persuade 1, they may perform three piloting-related Narrative Events and one connected with their ability to convince others of something.
+A Traveller has one Narrative Event for each point of characteristic DM and one for every skill level. These are tied to the characteristic or skill they derive from and must fit the skill or characteristic being used. For example, a Traveller with DEX DM+2 and INT DM+1 has three characteristic-based Narrative Events available. Two must somehow be connected with speed, agility, or manual dexterity, and one with intellect or problem-solving. If the same Traveller also has Pilot (spacecraft) 3 and Persuade 1, they may perform three piloting-related Narrative Events and one connected with their ability to convince others of something.
 
 Each Narrative Event essentially replaces a skill or characteristic check and under normal conditions would be used to narrate something positive. There is nothing to stop a Traveller narrating some minor disaster where they failed to accomplish their goals if circumstances warrant it. More commonly however, a Narrative Event may be used to automatically complete some task facing the Travellers.
 

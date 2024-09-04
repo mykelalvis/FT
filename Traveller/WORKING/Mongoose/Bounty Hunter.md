@@ -1664,8 +1664,7 @@ That said, there is some equipment that is both unusual and of particular use to
 Guilds may keep these to hand, although they are not well maintained in less established or profitable entities. Although not particularly intelligent, these robots have facial recognition that can be programmed to recognise the face of any given mark, granting bounty hunters working with it an extra gun. Capable of simple tactical planning, bounty bots are meant as an aid to a bounty hunter and some independent crews might keep a couple in storage should the need arise.
 
 Robot Locomotion Hits Speed TL Cost 
-Bounty Bot Walker 20 6m 10 Cr201760 Skills Admin 0, Athletics (strength) 1, Gambler 0, Gun Combat (slug) 1, Medic 1, Melee 0, Recon 2, Science (forensics) 1, Stealth 2, Survival 0 Attacks Autopistol (3D-3) Manipulators 2x (STR 11, DEX 6) Endurance 144 Hours + Quick Charger Traits Armour (+3), ATV, Heightened Senses, IR Vision, Stealth (+2) Programming Advanced Brain (INT 6) Options Camouflage (improved), Encryption Module, Forensic Toolkit, Magnetic Grippers, Medikit
-(basic), Quick Charger, Recon Sensor (enhanced), Self-Destruct System (defensive), Stealth (Improved), Storage Compartment, Transceiver (5km, improved), Voder Speaker, Weapon Mount (Small), Wireless Data Link
+Bounty Bot Walker 20 6m 10 Cr201760 Skills Admin 0, Athletics (strength) 1, Gambler 0, Gun Combat (slug) 1, Medic 1, Melee 0, Recon 2, Science (forensics) 1, Stealth 2, Survival 0 Attacks Autopistol (3D-3) Manipulators 2x (STR 11, DEX 6) Endurance 144 Hours + Quick Charger Traits Armour (+3), ATV, Heightened Senses, IR Vision, Stealth (+2) Programming Advanced Brain (INT 6) Options Camouflage (improved), Encryption Module, Forensic Toolkit, Magnetic Grippers, Medikit (basic), Quick Charger, Recon Sensor (enhanced), Self-Destruct System (defensive), Stealth (Improved), Storage Compartment, Transceiver (5km, improved), Voder Speaker, Weapon Mount (Small), Wireless Data Link
 
 ## Disguise Detector
  Marks who wish to remain free often employ subterfuge, such as taking on unusual affectations including wigs, facial hair and facial prosthetics. Alternatively, others wear such affectations normally and then remove them when eluding capture.
@@ -1697,8 +1696,7 @@ Jump Analyser Software: This software can be used to detect potential jump desti
 
 Software Bandwidth TL Cost Jump Analyser/1 10 11 MCr5 Jump Analyser/2 15 12 MCr10 Jump Analyser/3 20 13 MCr15 Jump Analyser/4 25 14 MCr20
 
-Neural Pulveriser: A neural pulveriser is a device that sits over the front half of a skull and bombards the brain with a variety of non-lethal particles, having a notable effect on humans, Aslan, Vargr and many other species. This has the effect of shutting down synapses related to higher functioning while leaving the deep functions that control basic life sustaining activities like heartbeat and breathing to operate normally. Once an individual has one of these fitted and active, it feels to them like a peaceful sleep. This state can be resisted with a successful Very Difficult
-(12+) END check. If the person wearing the neural pulveriser is injured while wearing it, the pain can penetrate this mental state and, with a new END check, cause them to regain enough awareness to remove the device themselves.
+Neural Pulveriser: A neural pulveriser is a device that sits over the front half of a skull and bombards the brain with a variety of non-lethal particles, having a notable effect on humans, Aslan, Vargr and many other species. This has the effect of shutting down synapses related to higher functioning while leaving the deep functions that control basic life sustaining activities like heartbeat and breathing to operate normally. Once an individual has one of these fitted and active, it feels to them like a peaceful sleep. This state can be resisted with a successful Very Difficult (12+) END check. If the person wearing the neural pulveriser is injured while wearing it, the pain can penetrate this mental state and, with a new END check, cause them to regain enough awareness to remove the device themselves.
 
 Item TL Kg Cost Neural Pulveriser 15 0.5 Cr20000
 
@@ -1788,9 +1786,7 @@ Equipment Autopilot (skill level) — Communications (range) — Navigation (Nav
 
 This ornithopter was designed to exfiltrate bounty hunters and their marks quickly. What it lacks in comfort, it makes up for in firepower and capability. Although it does not provide an ejection seat for the marks, it is likely the bounty hunters would be able to recover enough of them to prove the contract was completed if necessary. The ease of transporting the ornithopter, due to its folding wings, makes it a hit amongst the more danger-driven bounty hunting groups.
 
-TRAITS, EQUIPMENT AND WEAPONS Autopilot (improved), Communications Systems
-(improved), Ejection Seats x3, Entertainment System, Fire Extinguishers, Folding Wings, Navigation System
-(improved), Sensors (improved)
+TRAITS, EQUIPMENT AND WEAPONS Autopilot (improved), Communications Systems (improved), Ejection Seats x3, Entertainment System, Fire Extinguishers, Folding Wings, Navigation System (improved), Sensors (improved)
 
 Pop-up Small Turret (rotary autocannon, improved fire control)
 
@@ -1836,11 +1832,9 @@ Equipment Autopilot (skill level) 3 Communications (range) 1,000km Navigation (N
 
 ## Transport Bus
 
-A lightly armoured but more than capable all-terrain vehicle, this ‘bus’ was designed to shuttle eight captives
-(four in cryoberths, the others shackled) to a ship or end destination. Not designed for longer travel than an overnight trip, thanks to the addition of the bunk, bounty hunters will still be required to source food and bathroom breaks. The systems are stable enough that planetside crew are able to communicate with offworld counterparts and the vehicle can be tracked and monitored from a ship if required.
+A lightly armoured but more than capable all-terrain vehicle, this ‘bus’ was designed to shuttle eight captives (four in cryoberths, the others shackled) to a ship or end destination. Not designed for longer travel than an overnight trip, thanks to the addition of the bunk, bounty hunters will still be required to source food and bathroom breaks. The systems are stable enough that planetside crew are able to communicate with offworld counterparts and the vehicle can be tracked and monitored from a ship if required.
 
-TRAITS, EQUIPMENT AND WEAPONS ATV, Autopilot (enhanced), Bunks x2, Communications System (improved, encrypted, satellite uplink), Control System (improved), Cryoberths x4, Navigation System
-(improved), Sensors (improved). Smart Wheels
+TRAITS, EQUIPMENT AND WEAPONS ATV, Autopilot (enhanced), Bunks x2, Communications System (improved, encrypted, satellite uplink), Control System (improved), Cryoberths x4, Navigation System (improved), Sensors (improved). Smart Wheels
 
 No weapon
 
@@ -1858,35 +1852,61 @@ G/CHAIR
 
 COMMON AREA
 
+
+
 FRESHER
+
+
 
 SHIP'S LOCKER
 
 LOW BERTH
 
+
+
 DRONES
 
+
+
 STATEROOM BEDS
+
+
 
 AIR/RAFT
 
 CARGO BAY
 
+
+
 CARGO CRANE
+
+
 
 POWER PLANT/JUMP DRIVE/ MANOEUVRE DRIVE/MACHINERY TURRETS
 
 DOOR
 
+
+
 IRIS VALVE
+
+
 
 AIRLOCK
 
+
+
 LIFT
+
+
 
 IRIS VALVE UP
 
+
+
 IRIS VALVE DOWN
+
+
 
 IRIS VALVE UP/DOWN
 
@@ -1954,8 +1974,7 @@ Power Requirements Basic Ship Systems 20 Manoeuvre Drive 20 Jump Drive 20 Sensor
 
 1. Sensors 2. Bridge 3. Office 4. Fresher 5. Airlock 6. Stateroom (double occupancy) 7. Brig 8. Common area 9. Fuel processor 10. Forced link apparatus 11. Probes 12. Storage area 13. Concealed compartment 14. Cargo hold 15. Reaction drive 16. Power plant 17. Fuel 18. Lift 19. Manoeuvre drive 20. Ornithopter docking space 21. Jump drive 22. Double turret (beam lasers)
 
-1 square = 0.5 Ton
-(1.5mx1.5m)
+1 square = 0.5 Ton (1.5mx1.5m)
 
 1
 
@@ -2025,8 +2044,7 @@ TL12 Tons Cost (MCr) Hull 300 tons, Close Structure — 12 Armour Crystaliron, A
 
 1. Double turret (pulse laser) 2. Single turret (sandcaster) 3. Cargo hold 4. Staterooms 5. Fuel 6. Barracks 7. Power plant 8. Jump drive 9. Airlock 10. Manoeuvre drive
 
-1 square = 0.5 Ton
-(1.5mx1.5m)
+1 square = 0.5 Ton (1.5mx1.5m)
 
 1 1
 
@@ -2088,8 +2106,7 @@ TL12 Tons Cost (MCr) Hull 300 tons, Close Structure — 12 Armour Crystaliron, A
 
 24
 
-1 square = 0.5 Ton
-(1.5mx1.5m)
+1 square = 0.5 Ton (1.5mx1.5m)
 
 ## Poignard Type: —
 
@@ -2112,8 +2129,7 @@ Manoeuvre Drive 10 Sensors 1
 
 1. Sensors 2. Bridge 3. Fresher 4. Airlock 5. Breaching tube 6. Fuel 7. Acceleration couch 8. Cabin space 9. Cargo hold 10. Power plant 11. Aerofin 12. Manoeuvre drive
 
-1 square = 0.5 Ton
-(1.5mx1.5m)
+1 square = 0.5 Ton (1.5mx1.5m)
 
 1 2
 
@@ -2143,14 +2159,15 @@ Low Berth 1
 
 attaching to and breaching other ships, and its small size makes it harder to spot when on approach. The crew will be required to bunk together but the ship can carry a total of 10 marks provided four are placed in low berths.
 
-TL12 Tons Cost (MCr) Hull 50 tons, Standard — 2.5 Armour Crystaliron, Armour: 1 1.25 0.25 M-Drive Thrust 6, Concealed 3.75 9.375 Power Plant Fusion (TL12), Power 45 3 3 Fuel Tanks 8 weeks operation 2 — Bridge 3 0.5 Computer Computer/5 — 0.03 Sensors Military Grade 2 4.1 Systems Fuel Scoop — 1 Brig 4 0.25 Breaching Tube 3 3 Forced Linkage Apparatus
-(enhanced)
+TL12 Tons Cost (MCr) Hull 50 tons, Standard — 2.5 Armour Crystaliron, Armour: 1 1.25 0.25 M-Drive Thrust 6, Concealed 3.75 9.375 Power Plant Fusion (TL12), Power 45 3 3 Fuel Tanks 8 weeks operation 2 — Bridge 3 0.5 Computer Computer/5 — 0.03 Sensors Military Grade 2 4.1 Systems Fuel Scoop — 1 Brig 4 0.25 Breaching Tube 3 3 Forced Linkage Apparatus (enhanced)
 
 2 0.1
 
 Armoury 1 0.25 Training Facilities 2 0.4 Staterooms Standard x3 12 1.5 Low Berths x4 2 0.2 Software Manoeuvre — — Intellect — — Library — — Database — 0.05 Intrusion/1 — 0.01 Common Areas 6 0.6 Cargo 3 —
 
 UPPER DECK LOWER DECK
+
+
 
 1. Bridge 2. Fresher 3. Armoury 4. Fuel 5. Stateroom 6. Power plant 7. Manoeuvre drive 8. Common area
 
@@ -2192,8 +2209,7 @@ UPPER DECK LOWER DECK
 
 11
 
-**1 square = 0.5 Ton
-(1.5mx1.5m) BUDGET BOUNTY**
+**1 square = 0.5 Ton (1.5mx1.5m) BUDGET BOUNTY**
 
 9. Training facilities 10. Sensors 11. Airlock 12. Cargo hold 13. Low berths 14. Forced linkage apparatus 15. Breaching tube 16. Brig
 
@@ -2268,6 +2284,8 @@ These contracts are highly competitive and Horizon’s most notorious bounty hun
 |1D |Benefit|
 |:-:|--|
  
+
+
 |1|‘Your Credits are no good here!’ - you and your companions always eat for free in Goedz’ Diner.|
 |2|Horizon provides equipment, weapons and armour of a dubiously second-hand nature, suitable for a thin atmosphere world. Pick D3 items with a maximum value each of Cr1500. |
 |3|Friend for life. Add Thanau Nuri as an Ally. |
@@ -2277,8 +2295,7 @@ These contracts are highly competitive and Horizon’s most notorious bounty hun
 
 ## Shadowsun
 
-The Aramis subsector may have many legitimate claims to galactic fame but people in Charted Space know it as the principle route by which Vargr corsairs
-(and independent pirates operating on their coattails) enter the Spinward Marches and Deneb. The powerful 214 th Fleet were supposed to put a stop to this but with their bases at Paya, Natoko and L’Oeul d’Dieu, along the subsector’s rimward edge, the perception that the Imperium has all but given up on its less valuable coreward systems has refused to go away.
+The Aramis subsector may have many legitimate claims to galactic fame but people in Charted Space know it as the principle route by which Vargr corsairs (and independent pirates operating on their coattails) enter the Spinward Marches and Deneb. The powerful 214 th Fleet were supposed to put a stop to this but with their bases at Paya, Natoko and L’Oeul d’Dieu, along the subsector’s rimward edge, the perception that the Imperium has all but given up on its less valuable coreward systems has refused to go away.
 
 Shadowsun is one of a number of independent organisations who, in the absence of a firmer showing from the Imperial Navy, have stepped up to ensure that the region is not completely lawless.
 
@@ -2522,8 +2539,7 @@ disembark or board on their own ships but the host acts as a mediator and safe h
 
 TL12 Tons Cost (MCr) Hull 500 tons, Standard — 25 Armour Crystaliron, Armour: 4 25 5 M-Drive Thrust 3 15 30 J-Drive Jump 1 17.5 26.25 Power Plant Fusion (TL12), Power 315 21 21 Fuel Tanks 8 weeks operation, J-1 50.4 — Bridge 20 2.5 Computer Computer/10 — 0.16 Sensors Improved 3 4.3 Systems Brig 40 2.5 Fuel Scoop — 1 Docking Clamps x5 (Type IV) 100 20 Concealed Compartment 5 0.1 Medical Bay 8 4 UNREP System 2 1 Workshop 6 0.9 Staterooms Standard x20 80 10 Software Intellect — — Jump Control/1 — 0.1 Library — — Manoeuvre/0 — — Security/3 — 0.02 Common Areas 83 8.3 Cargo 24.1 —
 
-DECK 1
-(BOTTOM DECK)
+DECK 1 (BOTTOM DECK)
 
  DECK 4
 
@@ -2571,6 +2587,8 @@ DECK2 FUEL ONLY
 
  SHIP
 
+
+
  DECK 5
 
  DECK 6
@@ -2593,8 +2611,7 @@ DECK2 FUEL ONLY
 8 9 9
 10 11 12 13 14 15 16 17 4
 4 3
-**1 square = 0.5 Ton
-(1.5mx1.5m) CON-TAL HOST SHIP**
+**1 square = 0.5 Ton (1.5mx1.5m) CON-TAL HOST SHIP**
 
 management. The ships are leased to each crew on an individual basis, and are manufactured at a number of shipyards throughout Charted Space. Registration fees are used to cover the cost of the ship, with the central company taking its dues once every two to three years on average, the ships and crews making their way to designated shipyards to both pay and receive repairs. These ‘hub’ shipyards then transfer the money back to Capital whenever possible. It is an inelegant and lengthy affair but works well enough. At times there are up to 1,500 registration paying members, bringing in C0N-TAL MCr750 annually, although logistics mean it is more likely to be gathered unequally, some ships paying more or less, and some paying in instalments of three/four years at a time due to their remote locations. The ships are paid a stipend intended to last for up to five years each time they return to a shipyard, with any balance paid during additional visits. For example, if one were to travel to a shipyard then return three years later, the balance of three years would be paid out to them to keep them going for an additional five.
 
@@ -2706,10 +2723,9 @@ Autopilot (skill level) 0 Communications (range) 500km Navigation (Navigation DM
 
 ### Kashi Corsairs
 
-SPECIES GENDER AGE Vargr — —
+ Vargr — —
 
-TRAITS: Heightened Senses STR 6 INT 7 Skills: Art (performance) 3, Athletics (dexterity) 1, Carouse 3, Deception 4, Gambler 2, Gun Combat (slug) 2, Melee
-(blade) 2, Melee (natural) 1, Pilot 0, Stealth 2
+TRAITS: Heightened Senses STR 6 INT 7 Skills: Art (performance) 3, Athletics (dexterity) 1, Carouse 3, Deception 4, Gambler 2, Gun Combat (slug) 2, Melee (blade) 2, Melee (natural) 1, Pilot 0, Stealth 2
 
 DEX 9 EDU 5 END 7 SOC 5
 
@@ -2758,6 +2774,8 @@ The staircase is blanketed with security cameras and discrete body scanners, wit
 A luxurious armoured transport of the kind more commonly seen ferrying VIPs around major cities, the vehicles used by Oblang and Blint’s are driven by a chauffeur, usually with two security guards and a small item of cargo. Its windows are tinted and the body is black. Otherwise, it looks normal enough but closer inspection might reveal how the extra weight of its armour strains the grav plates. The G/car is armoured against small arms fire and will offer limited protection even against heavy weapons. When up against serious firepower, however, its main advantage over other forms of transport is the ability to turn hard and accelerate to get quickly out of the line of fire.
 
 EQUIPMENT AND WEAPONS
+
+
 Autopilot (basic), Camouflage (basic) Communications System (advanced), Computer/1, Entertainment System, Fire Extinguishers, Life Support (short term), Navigation System (improved), Sensors (improved), Stealth (basic), Wet Bar
 
 Turret (heavy machinegun)
@@ -2770,15 +2788,13 @@ TL 12 SKILL Flyer (grav) AGILITY +1 SPEED (CRUISE) Fast (High) RANGE (CRUISE) 4,
 
 Equipment Autopilot (skill level) 0 Communications (range) 5000km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -1 Stealth (Electronics (sensors) DM) -1
 
-The auction room is arranged in a circle with a ring of comfortable, informal seating around a holo-projector at the centre. Hanging screens display each lot’s main particulars. There is an open bar to one side, operated as a loss-leader and small change compared to the venue’s real income stream. Floor-to-ceiling windows
-(glazed with superdense glass) offer panoramic ocean views. Security is ubiquitous but also discrete, with smart people in smart suits wandering casually amongst the guests with holstered sidearms and stunners. They are well-trained and very well paid, resolving issues with a polite word or veiled threat before resorting to force.
+The auction room is arranged in a circle with a ring of comfortable, informal seating around a holo-projector at the centre. Hanging screens display each lot’s main particulars. There is an open bar to one side, operated as a loss-leader and small change compared to the venue’s real income stream. Floor-to-ceiling windows (glazed with superdense glass) offer panoramic ocean views. Security is ubiquitous but also discrete, with smart people in smart suits wandering casually amongst the guests with holstered sidearms and stunners. They are well-trained and very well paid, resolving issues with a polite word or veiled threat before resorting to force.
 
 ### Security Guards
 Species Gender Age
 — — —
 
-TRAITS: — STR 8 INT 7 Skills: Athletics 0, Electronics 0, Flyer (grav) 1, Gun Combat
-(energy) 2, Melee (bludgeon) 2, Recon 1
+TRAITS: — STR 8 INT 7 Skills: Athletics 0, Electronics 0, Flyer (grav) 1, Gun Combat (energy) 2, Melee (bludgeon) 2, Recon 1
 
 DEX 8 EDU 7 END 9 SOC 7
 
@@ -2806,13 +2822,12 @@ The steady influx of offworld law officers and bounty hunters are regarded by mo
 
 ### Offwolrd Bounty Hunter
 
-SPECIES GENDER AGE
+
 — — —
 
 TRAITS: — STR 8 INT 9 Skills: Gun Combat 0, Investigate 1, Melee 0, Recon 1, Streetwise 1
 
-DEX 8 EDU 6 END 8 SOC 6 EQUIPMENT Weapons: Autopistol (3D-3), Shotgun (4D, Bulky), or Stunner
-(2D+3, Stun, Zero-G) Armour: Mesh (+2) Equipment: Bug, Mobile Comm, Portable Computer/1 with Agent software; some may carry a Bioscanner, EM probe, Densitometer, or NAS
+DEX 8 EDU 6 END 8 SOC 6 EQUIPMENT Weapons: Autopistol (3D-3), Shotgun (4D, Bulky), or Stunner (2D+3, Stun, Zero-G) Armour: Mesh (+2) Equipment: Bug, Mobile Comm, Portable Computer/1 with Agent software; some may carry a Bioscanner, EM probe, Densitometer, or NAS
 
 Phlume’s participatory democracy has, meanwhile, been hopelessly split over what to do about the issue. They have a vested interest in appeasing their neighbours and are wary of how rising incidences of crime and the sight of transients sleeping rough around the downport might discourage tramp traders and tourists, but there is also plenty of sympathy for those fleeing autocratic or repressive regimes elsewhere. Phlume is wealthy, in spite of its small population and lack of advanced industries, and there have been tentative moves towards offering blanket amnesty to refugees whose alleged crimes break no local laws. The world has an abundance of space and a great need for workers in its fisheries and fields but for now at least, all that Phlume’s debating chambers have been able to come up with is talk, leaving the port authorities and frustrated locals to deal with the problem on their own.
 
@@ -2824,8 +2839,7 @@ containers and huge warehouses are sun-beaten and corroded by salt, while tropic
 Species Gender Age
 — — —
 
-TRAITS: — STR 7 INT 6 Skills: Athletics 0, Drive
-(wheel) 1, Gun Combat (slug) 2, Melee 0, Recon 1
+TRAITS: — STR 7 INT 6 Skills: Athletics 0, Drive (wheel) 1, Gun Combat (slug) 2, Melee 0, Recon 1
 
 - Individuals may also have
 
@@ -2833,8 +2847,7 @@ Heavy Weapons (vehicle) 1, Medic 0, Leadership 0 or Tactics 0
 
 DEX 8 EDU 6 END 9 SOC 5
 
-EQUIPMENT Weapons: Submachine Gun (3D, Auto 3) or Shotgun (4D, Bulky) Armour: Cloth (+5) Equipment: Mobile Comm
-(medics also carry Medicinal and Anti-rad drugs)
+EQUIPMENT Weapons: Submachine Gun (3D, Auto 3) or Shotgun (4D, Bulky) Armour: Cloth (+5) Equipment: Mobile Comm (medics also carry Medicinal and Anti-rad drugs)
 
 The downport is connected to its nearest town, Eyams, and its farms by road and by rail, but most long-term visitors to Phlume leave by ferry. A vast seaport directly adjoins the downport with the two virtually indistinguishable from one another, sharing a common customs and arrivals area, although Travellers are advised to remember that while the downport is technically under Imperial jurisdiction, much stricter planetary laws apply to the harbour. Misunderstandings are commonplace but port officials, although often exasperated by the inability of tourists to read a sign, are generally understanding.
 
@@ -2844,8 +2857,7 @@ Most tramp traders and shore-leave parties, however, never leave the greater dow
 Species Gender Age
 — — —
 
-TRAITS: — STR 7 INT 10 Skills: Admin 1, Astrogation 1, Broker 2, Carouse 0, Pilot
-(spacecraft) 1, Vacc Suit 0
+TRAITS: — STR 7 INT 10 Skills: Admin 1, Astrogation 1, Broker 2, Carouse 0, Pilot (spacecraft) 1, Vacc Suit 0
 
 DEX 7 EDU 7 END 6 SOC 6 EQUIPMENT Weapons: Snub Pistol (3D-3, Zero-G) Equipment: Portable Computer/1
 
@@ -2942,7 +2954,11 @@ Weapons 28
 
 MIDDLE DECK UPPER DECK
 
+
+
 LOWER DECK FUEL ONLY
+
+
 
 1. Fuel 2. Armoury 3. Airlock 4. Briefing room 5. Medical bay 6. Common area 7. Library 8. Stateroom 9. Training facilities 10. Power plant 11. Jump drive
 
@@ -3005,15 +3021,11 @@ The first section of this chapter introduces renowned bounty hunters to insert i
 ### KONSTANTIN LYAN
 Species Gender Age Human Male —
 
-TRAITS: — STR 8 INT 10 Skills: Art (write) 1, Athletics
-(strength) 2, Broker 1, Deception 0, Explosives 2, Gun Combat (energy) 2, Gun Combat (slug) 3, Investigate 1, Melee
-(unarmed) 2, Streetwise 3, Survival 1, Tactics 0
+TRAITS: — STR 8 INT 10 Skills: Art (write) 1, Athletics (strength) 2, Broker 1, Deception 0, Explosives 2, Gun Combat (energy) 2, Gun Combat (slug) 3, Investigate 1, Melee (unarmed) 2, Streetwise 3, Survival 1, Tactics 0
 
 DEX 12 EDU 8 END 8 SOC 4 REP 15
 
-EQUIPMENT Weapons: Monofilament Garrotte
-(3D, AP 10, Dangerous) Armour: Personal Energy Shield
-(+12, +0 vs. lasers) Equipment: Combat Drugs x3, Handcuffs, Inference Camera Personal Augmentation: Dexterity Augmentation (DEX +2), Subdermal Armour (+3)
+EQUIPMENT Weapons: Monofilament Garrotte (3D, AP 10, Dangerous) Armour: Personal Energy Shield (+12, +0 vs. lasers) Equipment: Combat Drugs x3, Handcuffs, Inference Camera Personal Augmentation: Dexterity Augmentation (DEX +2), Subdermal Armour (+3)
 
 Konstantin is a vicious bounty hunter, known to be hired only by the Imperium’s elite. He has since ‘quit the game’, retiring in the hopes of finding a quiet life. He was known throughout the underworld at the height of his career as a force of nature in his own right. Any bounty hunter who attempted to challenge him would find themselves and whoever they were affiliated with wiped from existence. Konstantin was known to be honourable however, and would not target anyone who fell outside of his moral code.
 
@@ -3023,10 +3035,9 @@ Konstantin Lyan
 
 ### SEO-HYAN GIM
 
-SPECIES GENDER AGE Solomani Female —
+ Solomani Female —
 
-TRAITS: — STR 4 INT 12 Skills: Advocate 2, Flyer
-(grav) 1, Gun Combat (slug) 3, Investigate 4, Leadership 2, Navigation 0, Persuade 2, Pilot (small craft) 1, Streetwise 1
+TRAITS: — STR 4 INT 12 Skills: Advocate 2, Flyer (grav) 1, Gun Combat (slug) 3, Investigate 4, Leadership 2, Navigation 0, Persuade 2, Pilot (small craft) 1, Streetwise 1
 
 DEX 5 EDU 10 END 5 SOC 11 REP 15
 
@@ -3034,7 +3045,7 @@ EQUIPMENT Weapons: Gauss Pistol with Laser Sight (3D, AP 3, Auto 2) Armour: Clot
 
 ### ZORBAY
 
-SPECIES GENDER AGE Jonkeereen Female —
+ Jonkeereen Female —
 
 TRAITS: Heat Resistant (-2) 
 STR 5 INT 11
@@ -3074,9 +3085,7 @@ His tendency to disappear for months at a time, and his inability to play corpor
 ### SELIMA NG
 Species Gender Age Human Female —
 
-TRAITS: — STR 8 INT 8 Skills: Athletics 0, Carouse 1, Gun Combat (slug) 2, Gunner 0, Heavy Weapons 0, Leadership 0, Medic 0, Melee
-(blade) 1, Stealth 0, Tactics
-(military) 1, Vacc Suit 2
+TRAITS: — STR 8 INT 8 Skills: Athletics 0, Carouse 1, Gun Combat (slug) 2, Gunner 0, Heavy Weapons 0, Leadership 0, Medic 0, Melee (blade) 1, Stealth 0, Tactics (military) 1, Vacc Suit 2
 
 DEX 8 EDU 7 END 9 SOC 6 REP 7
 
@@ -3092,10 +3101,9 @@ Trading one strict hierarchy for another, she signed on with the paramilitary bo
 
 ### HRORAMOAO
 
-SPECIES GENDER AGE Aslan Male —
+ Aslan Male —
 
-TRAITS: Heightened Senses STR 15 INT 7 Skills: Athletics (strength) 4, Diplomat 1, Gun Combat 0, Heavy Weapons 0, Mechanic 0, Melee (blade) 2, Melee
-(natural) 3, Recon 1, Survival 1
+TRAITS: Heightened Senses STR 15 INT 7 Skills: Athletics (strength) 4, Diplomat 1, Gun Combat 0, Heavy Weapons 0, Mechanic 0, Melee (blade) 2, Melee (natural) 3, Recon 1, Survival 1
 
 DEX 7 EDU 5 END 9 SOC 9 REP 8 TER 12
 
@@ -3129,13 +3137,11 @@ Samara’s reputation as a skilled bounty hunter has flourished over the years. 
 ### JONAH CROSS
 Species Gender Age Human Male —
 
-TRAITS: — STR 10 INT 5 Skills: Athletics (strength) 1, Gun Combat (energy) 3, Heavy Weapons (portable) 2, Leadership 1, Melee
-(blade) 1, Tactics (military) 1, Vacc Suit 2
+TRAITS: — STR 10 INT 5 Skills: Athletics (strength) 1, Gun Combat (energy) 3, Heavy Weapons (portable) 2, Leadership 1, Melee (blade) 1, Tactics (military) 1, Vacc Suit 2
 
 DEX 6 EDU 5 END 9 SOC 6 REP 6
 
-EQUIPMENT Weapons: Assault Rifle (3D, Auto 2), Blade (2D), Frag Grenades
-(5D, Burst 9), Laser Carbine (4D, Zero-G) Armour: Combat Armor (+17) Equipment: Portable Computer/1, Rations
+EQUIPMENT Weapons: Assault Rifle (3D, Auto 2), Blade (2D), Frag Grenades (5D, Burst 9), Laser Carbine (4D, Zero-G) Armour: Combat Armor (+17) Equipment: Portable Computer/1, Rations
 
 Jonah Cross is a man of physical presence, with above-average height and muscular build. His short- cropped, sandy blond hair and alert blue eyes reflect
 
@@ -3184,8 +3190,7 @@ testament to his skills and expertise, and he continues to take on challenging b
 ### MIRA AZIKIWE
 Species Gender Age Human Female —
 
-TRAITS: — STR 7 INT 13 Skills: Athletics (dexterity) 3, Carouse 1, Gun Combat (slug) 2, Melee (blade) 2, Recon 1, Stealth 2, Survival 2, Tactics
-(military) 1, Vacc Suit 1
+TRAITS: — STR 7 INT 13 Skills: Athletics (dexterity) 3, Carouse 1, Gun Combat (slug) 2, Melee (blade) 2, Recon 1, Stealth 2, Survival 2, Tactics (military) 1, Vacc Suit 1
 
 DEX 8 EDU 11 END 10 SOC 7 REP 8
 
@@ -3203,7 +3208,7 @@ Mira Azikiwe’s determination, combat skills and strategic mindset make her a f
 
 ### HARLAN BLACKWOOD
 
-SPECIES GENDER AGE Human Male —
+ Human Male —
 
 TRAITS: — STR 9 INT 8 Skills: Athletics (endurance) 1, Gun Combat (energy) 3, Melee (unarmed) 1, Navigation 2, Persuade 1, Pilot (small craft) 2, Recon 3, Streetwise 2, Survival 2, Tactics (military) 2, Vacc Suit 1
 
@@ -3239,9 +3244,7 @@ Although Kiera is still in the early stages of her career, she is determined to 
 ### VICTOR CHANG
 Species Gender Age Human Male —
 
-TRAITS: — STR 9 INT 10 Skills: Athletics (dexterity) 2, Carouse 1, Gun Combat
-(slug) 3, Gunner (turret) 2, Melee (blade) 1, Pilot
-(spacecraft) 1, Streetwise 1, Survival 2, Vacc Suit 2
+TRAITS: — STR 9 INT 10 Skills: Athletics (dexterity) 2, Carouse 1, Gun Combat (slug) 3, Gunner (turret) 2, Melee (blade) 1, Pilot (spacecraft) 1, Streetwise 1, Survival 2, Vacc Suit 2
 
 DEX 8 EDU 10 END 13 SOC 7 REP 9
 
@@ -3261,7 +3264,7 @@ Throughout his career, Victor has established a reputation for competence and su
 
 ### JACK PETERS
 
-SPECIES GENDER AGE Human Male —
+ Human Male —
 
 TRAITS: — STR 9 INT 6 Skills: Carouse 2, Gun Combat (slug) 2, Pilot (small craft) 2, Recon 1, Stealth 2, Streetwise 3
 
@@ -3276,8 +3279,7 @@ While young and relatively inexperienced, Jack consistently completes contracts 
 ### SILLO FRANK
 Species Gender Age Human Male —
 
-TRAITS: Cooperation STR 5 INT 11 Skills: Admin 1, Art (write) 1, Diplomat 0, Electronics
-(sensors) 1, Engineer (life support) 1, Investigate 3, Leadership 0, Medic 0, Profession (biologicals) 1, Science (chemistry) 1, Science (exobiology) 3
+TRAITS: Cooperation STR 5 INT 11 Skills: Admin 1, Art (write) 1, Diplomat 0, Electronics (sensors) 1, Engineer (life support) 1, Investigate 3, Leadership 0, Medic 0, Profession (biologicals) 1, Science (chemistry) 1, Science (exobiology) 3
 
 DEX 7 EDU 12 END 5 SOC 7 REP 5
 
@@ -3312,15 +3314,13 @@ Sillo Frank
 
 ### NALASHA ENOCH PETRAVA
 
-SPECIES GENDER AGE Zhodani Female —
+ Zhodani Female —
 
-TRAITS: — STR 7 INT 9 Skills: Clairvoyance 3, Deception 2, Electronics
-(comms) 1, Flyer (grav) 2, Gun Combat (slug) 1, Investigate 2, Persuade 1, Recon 1, Stealth 1, Streetwise 2, Teleportation 2
+TRAITS: — STR 7 INT 9 Skills: Clairvoyance 3, Deception 2, Electronics (comms) 1, Flyer (grav) 2, Gun Combat (slug) 1, Investigate 2, Persuade 1, Recon 1, Stealth 1, Streetwise 2, Teleportation 2
 
 DEX 9 EDU 9 END 10 SOC 10 PSI 13 REP 10
 
-EQUIPMENT Weapons: Autopistol with PSI-Enhanced Targeting and Suppressor (3D-3, Silent) Armour: Poly Carapace (+16) with Teleportation Suit and Auto Helmet Equipment: G/Bike, Mobile Comm
-(advanced), Personal HUD with Psionic Interface Personal Augmentation: Metastatic Platelet Injection, Subdermal Armour (+5)
+EQUIPMENT Weapons: Autopistol with PSI-Enhanced Targeting and Suppressor (3D-3, Silent) Armour: Poly Carapace (+16) with Teleportation Suit and Auto Helmet Equipment: G/Bike, Mobile Comm (advanced), Personal HUD with Psionic Interface Personal Augmentation: Metastatic Platelet Injection, Subdermal Armour (+5)
 
 A psion of immense natural ability, Nalasha could have had her pick of assignments within the Zhodani Consulate but her loyalty to the Driantia Zhdantia has always come before any ambition she might have for herself. As a young woman, she fought against the Imperium during the Fourth Frontier War
 
@@ -3335,8 +3335,7 @@ Joskar Dreen Nalasha Enoch Petrava
 ### CALFRON HEADY
 Species Gender Age Human Male —
 
-TRAITS: — STR 7 INT 8 Skills: Admin 0, Advocate 1, Animals 0, Broker 1, Gun Combat (archaic) 1, Investigate 1, Language
-(Saurian) 1, Leadership 1, Mechanic 1, Melee (blade) 2, Persuade 1, Survival 1, Vacc Suit 0
+TRAITS: — STR 7 INT 8 Skills: Admin 0, Advocate 1, Animals 0, Broker 1, Gun Combat (archaic) 1, Investigate 1, Language (Saurian) 1, Leadership 1, Mechanic 1, Melee (blade) 2, Persuade 1, Survival 1, Vacc Suit 0
 
 DEX 7 EDU 6 END 7 SOC 5 REP 5
 
@@ -3353,14 +3352,11 @@ In truth, he has earned enough Credits to go home 100 times over but Saurus is h
 ### BASTION DRUKE
 Species Gender Age Human Male —
 
-TRAITS: — STR 7 INT 8 Skills: Athletics (all) 2, Drive
-(track) 1, Electronics (comms) 1, Explosives 2, Flyer (rotor) 1, Gun Combat (slug) 4, Heavy Weapons (vehicle) 1, Mechanic 1, Medic 1, Melee
-(unarmed) 3, Recon 1
+TRAITS: — STR 7 INT 8 Skills: Athletics (all) 2, Drive (track) 1, Electronics (comms) 1, Explosives 2, Flyer (rotor) 1, Gun Combat (slug) 4, Heavy Weapons (vehicle) 1, Mechanic 1, Medic 1, Melee (unarmed) 3, Recon 1
 
 DEX 7 EDU 6 END 7 SOC 5 REP 5
 
-EQUIPMENT Weapons: Advanced Combat Rifle (Auto 3, Scope), Brass Knuckles (1D+2) Armour: Flak Shell (+8) Equipment: Medikit (basic), Mobile Comm, Portable Computer/1 Personal Augmentation: Additional Manipulator with Laser Pistol Weapon Implant, Combat Arm (basic), Cybernetic Legs
-(improved) x2, Peripheral Vision Enhancement
+EQUIPMENT Weapons: Advanced Combat Rifle (Auto 3, Scope), Brass Knuckles (1D+2) Armour: Flak Shell (+8) Equipment: Medikit (basic), Mobile Comm, Portable Computer/1 Personal Augmentation: Additional Manipulator with Laser Pistol Weapon Implant, Combat Arm (basic), Cybernetic Legs (improved) x2, Peripheral Vision Enhancement
 
 By the time Druke grudgingly acknowledged the passing of his 40th birthday, he had fought in a dozen warzones across the Spinward Marches, winning multiple citations in each and earning a reputation for being unkillable. When the army finally forced him to retire on a medical discharge, he did not know what he was supposed to do with the rest of his life. 
 
@@ -3373,13 +3369,11 @@ Suffice to say, Bastion Druke is only getting started.
 ### RANGO DOOLEY
 Species Gender Age Lurent Male —
 
-TRAITS: Large (+1), Wanderlust STR 12 INT 6 Skills: Athletics (endurance) 2, Athletics (strength) 2, Carouse 2, Gambler 1, Melee
-(natural) 2, Streetwise 1, Survival 1, Persuade 2
+TRAITS: Large (+1), Wanderlust STR 12 INT 6 Skills: Athletics (endurance) 2, Athletics (strength) 2, Carouse 2, Gambler 1, Melee (natural) 2, Streetwise 1, Survival 1, Persuade 2
 
 DEX 7 EDU 7 END 13 SOC 8 REP 9
 
-EQUIPMENT Weapons: Tentacle Bash (2D) Equipment: Portable Computer/1
-(Specialised, Universal Translator/3)
+EQUIPMENT Weapons: Tentacle Bash (2D) Equipment: Portable Computer/1 (Specialised, Universal Translator/3)
 
 Rango Dooley never set out to be a bounty hunter. From his own perspective he is simply unlucky, for it seems that he cannot set foot upon a new world without being drawn into some scrape or other. This could, at least in part, be due to Rango’s marked proclivity towards intoxicating beverages, games of chance and low company. It could also have something to do with an overly trusting nature and inability to always pay full attention to the verbal communication forms favoured by most sophonts he meets on his travel. It is also possible that to people with a certain kind of problem, a 4-metre- tall, 500 kilogram Lurent often looks like the solution.
 
@@ -3441,7 +3435,7 @@ Despite their influence, crime bosses face constant threats. Rivals seek to seiz
 
 ### DRUG DEALER
 
-SPECIES GENDER AGE
+
 — — —
 
 TRAITS: — STR 6 INT 7 Skills: Broker 0, Deception 0, Medic 0, Persuade 0, Streetwise 2
@@ -3452,11 +3446,10 @@ Drug dealers are involved in the illegal sale of narcotics, usually mind-alterin
 
 ### ENFORCER
 
-SPECIES GENDER AGE
+
 — — —
 
-TRAITS: — STR 11 INT 9 Skills: Deception 0, Gun Combat (slug) 1, Melee
-(unarmed) 1, Persuade 2, Streetwise 2
+TRAITS: — STR 11 INT 9 Skills: Deception 0, Gun Combat (slug) 1, Melee (unarmed) 1, Persuade 2, Streetwise 2
 
 DEX 8 EDU 7 END 10 SOC 5
 
@@ -3468,8 +3461,7 @@ Enforcers are individuals employed by criminal organisations to enforce rules, m
 Species Gender Age
 — — —
 
-TRAITS: — STR 6 INT 10 Skills: Admin 1, Broker 2, Deception 1, Electronics
-(computers) 1, Streetwise 2
+TRAITS: — STR 6 INT 10 Skills: Admin 1, Broker 2, Deception 1, Electronics (computers) 1, Streetwise 2
 
 DEX 8 EDU 9 END 7 SOC 5 EQUIPMENT —
 
@@ -3505,8 +3497,7 @@ Using techniques like targeted phishing, hackers exploit vulnerabilities to gain
 Species Gender Age
 — — —
 
-TRAITS: — STR 7 INT 8 Skills: Admin 0, Deception 2, Diplomat 1, Electronics
-(computers) 1, Gun Combat 0, Investigate 1, Melee 0, Streetwise 1
+TRAITS: — STR 7 INT 8 Skills: Admin 0, Deception 2, Diplomat 1, Electronics (computers) 1, Gun Combat 0, Investigate 1, Melee 0, Streetwise 1
 
 DEX 8 EDU 6 END 7 SOC 7
 
@@ -3528,7 +3519,7 @@ To conceal their operations and launder earnings, loan sharks may operate covert
 
 ### MERCENARY
 
-SPECIES GENDER AGE
+
 — — —
 
 TRAITS: — STR 9 INT 7 Skills: Athletics (endurance) 1, Gun Combat (slug) 2, Melee (blade) 2, Streetwise 1
@@ -3539,7 +3530,7 @@ Mercenaries are hired soldiers who undertake military operations for financial g
 
 ### PETTY THIEF
 
-SPECIES GENDER AGE
+
 — — —
 
 TRAITS: — STR 9 INT 8 Skills: Carouse 1, Deception 1, Persuade 1, Stealth 2, Streetwise 1
@@ -3564,8 +3555,7 @@ Smugglers are skilled pilots who transport illegal goods across and between worl
 Species Gender Age
 — — —
 
-TRAITS: — STR 11 INT 4 Skills: Athletics (strength) 1, Gun Combat (slug) 1, Melee
-(unarmed) 2, Persuade 1
+TRAITS: — STR 11 INT 4 Skills: Athletics (strength) 1, Gun Combat (slug) 1, Melee (unarmed) 2, Persuade 1
 
 DEX 8 EDU 3 END 10 SOC 4 EQUIPMENT —
 
@@ -3678,6 +3668,8 @@ When rolling on the [[#Reputation Change table]] apply DM-1 for every four REP. 
 
   Roll 2D for client then 1D for Priority
   
+
+
 |2D| Client|  Priority ->|  1| 2| 3| 4| 5| 6|
 |:-:| :-:| --|:-:|:-:|:-:|:-:|:-:|:-:|
 |2-3| [[#Organised Crime]]|| [[#Low Priority Contracts\|Low]] | [[#Low Priority Contracts\|Low]] | [[#Mid Priority Contracts\|Mid]] | [[#Mid Priority Contracts\|Mid]] | [[#High Priority Contracts\|High]] |  [[#Critical Priority Contracts\|Critical]] |

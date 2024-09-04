@@ -39,8 +39,7 @@ Will Chapman
 #### INTERIOR ART
 
 German Ponce, Travis Leichssenring, Marco Morte, Leonel Domingos
-de Costa, Carlos Nuñez de Castro Torres, Pulpapocalipsis Studio
-(Vicente Sivera, Jorge Momparler)
+de Costa, Carlos Nuñez de Castro Torres, Pulpapocalipsis Studio (Vicente Sivera, Jorge Momparler)
 
 #### SPECIAL THANKS
 
@@ -586,11 +585,10 @@ Maneuver Drive sF Thrust 3 2.7 5.
 Power Plant sF Rating 3^36
 Bridge Control cabin for 2^6 0.
 Computer Model/1 Rating 5 0.
-Electronics Standard DM-
-Weapons None
+Electronics Standard DM-Weapons None
 Fuel 1.5 tons Two weeks of operation 1.
 Cargo 16 tons^16
-Staterooms Cabin for 5 (1 in control cabin) 7.5 0.
+Staterooms Cabin for5 (1 in control cabin) 7.5 0.
 Extras Airlock^1 0.
 Fuel scoops 1
 
@@ -662,8 +660,7 @@ Power Plant sB Chemical Rating 2^21
 Bridge Cockpit for 1 1.5 0.05
 Computer Model 1/fi b Rating 5 0.045
 Electronics Standard DM-4
-Weapons Fixed Mount Missile Rack (Basic)^1 0.85
-(12 Missiles) 1
+Weapons Fixed Mount Missile Rack (Basic)^1 0.85 (12 Missiles) 1
 Anti-Personnel Mount LMG 0.001
 P-Plant Fuel 0.2 tons Six hours of operation 0.2
 Maneuver Fuel 3 tons 3 Hours at 4G^3
@@ -867,8 +864,7 @@ Power Plant sT Rating 9 8.7^20
 Bridge Cockpit for 1 1.5 0.2
 Computer Model 4/fi b Rating 20 7.5
 Electronics Basic Military DM +0^21
-Weapons Fixed Mount Sandcaster/Missile Rack^1 1.5
-(24 missiles) High-Yield Multi-Warhead 2
+Weapons Fixed Mount Sandcaster/Missile Rack^1 1.5 (24 missiles) High-Yield Multi-Warhead 2
 Anti-personnel Mount PGMP x 4 0.26
 Ammunition 10 sandcasters 0.5
 20 pebbles 1
@@ -936,7 +932,7 @@ Fuel 14 tons One Year of operation^14
 Cargo 638 tons^638
 6 Staterooms^243
 20 Low Berths^101
-Extras Grapple Arm^21
+Extras Grapple Arm<sup>2</sup>1
 Docking Clamps Two 100-ton Capacity Clamps 20 4
 Software Maneuver/0 -
 Library -
@@ -950,7 +946,7 @@ Total Tonnage & Cost^800 184.03
 
 ### CCIVILIANIVILIAN S SHIPSHIPS CIVILIAN SHIPS
 
-## EXPRESS BOAT, TYPE X (XBOAT)
+## EXPRESS BOAT, TYPEX (XBOAT)
 
 Designed to jump between systems using predetermined paths', the express boat is a bulbous cockpit barely big enough for one, set in
 front of a powerful jump drive. It has no M-drive at all, being reliant upon tenders or tugs to position them before and after each jump.
@@ -1158,8 +1154,7 @@ of cargo. It costs MCr 17.1 plus the embarked small craft.
 
 Designed and used by galactic entrepreneurs, the Animal-class safari ship is an atmospheric lander that takes high-paying passengers to
 frontier worlds to fi nd and hunt rare animals. The Animal-class is built with a pair of retractable anti-personnel turrets to discourage hostiles
-from approaching the ship while landed. Whether they are shooting from the attached hunting deck or from ports on the ship's ATV, safari-
-goers can be protected while hunting their quarry. The environment of the ship's cargo space can be modifi ed to a wide range of conditions,
+from approaching the ship while landed. Whether they are shooting from the attached hunting deck or from ports on the ship's ATV, safari-goers can be protected while hunting their quarry. The environment of the ship's cargo space can be modifi ed to a wide range of conditions,
 including salt water, extreme temperatures or unusual atmospheres so animals can be captured for sale to zoos or private collectors.
 
 Normal crew is a pilot, navigator, engineer and a gunner. The safari ship is a Technology Level 11 design.
@@ -1675,8 +1670,7 @@ Fire Control/5 Rating 25 10
 
 ## Q-SHIP
 
-Used almost exclusively by merchant marines and planetary navies, the Q-Ship is a heavily armed mercantile vessel that falls somewhere-
-between trader and escort. It carries a squad of security personnel along with a small amount of cargo, making the Q-Ship perfect to
+Used almost exclusively by merchant marines and planetary navies, the Q-Ship is a heavily armed mercantile vessel that falls somewhere-between trader and escort. It carries a squad of security personnel along with a small amount of cargo, making the Q-Ship perfect to
 ferry items and goods that require extra protection. What makes this vessel particularly dangerous to pirates is that it appears to normal
 scanning as a subsidized merchant (including a fake launch) and its weapons are hidden in pop-up turrets. For added combat effectiveness
 fi ghter drones are occasionally used, replacing the ship's boat.
@@ -1760,7 +1754,7 @@ Ammunition 120 sandcaster barrels^6
 Fuel 110 tons Jump 3 – Four weeks of operation^110
 Cargo 26.2 tons 26.2
 4 Staterooms^162
-Extras Grapple Arm^21
+Extras Grapple Arm<sup>2</sup>1
 Armored Bulkheads Armament and Drives protected 10.8 2.16
 Fuel Scoops 1
 Fuel Processor 40 tons/day 2 0.1
@@ -2347,13 +2341,11 @@ Jump Control/4 Rating 20
 Evade/3 Rating 25 3
 Fire Control/5 Rating 25 10
 Auto Repair/2 Rating 20 10
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 ##### 0.1121
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 ##### 0.04
 

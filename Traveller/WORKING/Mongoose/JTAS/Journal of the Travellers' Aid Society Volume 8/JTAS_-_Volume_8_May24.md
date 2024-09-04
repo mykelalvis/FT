@@ -50,6 +50,8 @@ of the Travellers' Aid Society
 
 JOURNAL
 
+
+
 ```
 The
 ```
@@ -104,31 +106,51 @@ Geir Lanesskog, Christopher Griffen
 
 ```
 ADVENTURES
+
+
 Divine Intervention 43
 Care Package 104
 ALIENS
+
+
 Halkans 98
 BESTIARY
+
+
 Atichnae 33
 Ynchaeir 79
 Giant Scuttlefish 127
 CENTRAL SUPPLY
+
+
 The Gauss Rifle's Big Brother 19
 Omicron: The Mythical Weaponsmith 71
 CHARTED SPACE
+
+
 Caldos: Lost Oasis 2
 Noricum Viollera 41
 ENCOUNTERS
+
+
 Corporal Vishnu Zarca 21
 HIGH GUARD
+
+
 Sojourner Light Trader 13
 Talking About Turrets 76
 The Pink Diamond 81
 PATRONS
+
+
 Guerraedzahkhue 'Ed' Zhaerdeng 27
 TRAVELLING
+
+
 The Hunter Career 35
 VEHICLE HANDBOOK
+
+
 BB-2 Nuclear Powered Bus 96
 ```
 
@@ -339,6 +361,8 @@ the scars of the devastation wrought on this once-verdant oasis of a
 forgotten interstellar empire.
 
 THE GEM OF THE SINDALIAN EMPIRE
+
+
 To understand the Caldos of today, one must first understand what it
 was like 2,500 years ago. Much of this history is lost but chronicles of
 the great works and ambitions of its first ruler have survived the ages.
@@ -494,6 +518,8 @@ of the void. Caldos descended into a dark age, the likes of which its
 people had never imagined.
 
 DUSKY DAWN
+
+
 It would be wonderful to say that Caldos recovered from the apocalyptic
 fall of the Empire and that it miraculously rose from the ashes like the
 phoenix of myth, yet that would be grossly inaccurate.
@@ -619,6 +645,8 @@ most are designed to carry one to six individuals. They typically include
 an auxiliary engine that enables them to 'jump' sand traps and sinkholes.
 
 SOFT OPPRESSION
+
+
 Under the current arrangement, the Caldos system is stagnant.
 They have found it next to impossible to progress technologically or
 enhance their prospects and Caldos has been relegated to the role
@@ -961,8 +989,12 @@ Steward, Medic
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr2877.5/month
 PURCHASE COST
+
+
 MCr34.
 ```
 
@@ -1074,8 +1106,7 @@ By C. Urs Wohlthat
 A man wronged many times over. Renegade. Ex-marine turned pirate.
 Ronin even. Former corporal Vishnu Zarca has been called all of that and
 worse. But he never felt words could describe what he felt or the abysmal
-misery he was cast into, transforming him from a loving husband, soon-
-to-be father and loyal marine of the Imperium into who he is now. Rage?
+misery he was cast into, transforming him from a loving husband, soon-to-be father and loyal marine of the Imperium into who he is now. Rage?
 Hatred? Sure, he feels all of that but those are just superficial feelings
 his mind comes up with to process what he has been feeling deep
 down in his core for over 20 years, since it all began: plenary existential
@@ -1119,10 +1150,7 @@ that dude Yerzey. I think he had a girl on the Pride.
 
 ```
 TRAITS — SKILLS
-STR 11 INT 7 Athletics (dexterity) 2, Athletics
-(endurance) 2, Deception 1, Electronics
-(computers) 1, Gambler 1, Gun Combat
-(energy) 2, Gunner (turret) 1, Heavy
+STR 11 INT 7 Athletics (dexterity) 2, Athletics (endurance) 2, Deception 1, Electronics (computers) 1, Gambler 1, Gun Combat (energy) 2, Gunner (turret) 1, Heavy
 Weapon (man-portable) 2, Leadership
 1, Melee (blade) 2, Pilot (spacecraft) 1,
 Streetwise 1, Survival 1, Tactics (military)
@@ -1145,8 +1173,7 @@ with Computer/2 (running Intellect/1, Expert/1
 Tactics (Military 1) and Intelligent Interface),
 Eye Protection, Geiger Counter, IR Goggles,
 Light Intensifier Goggles, PRIS Binoculars,
-Radio Transceiver, Scope, Gyro-Stabilizer Rig
-(TL14), Thruster Pack (TL14), Medikit (TL11),
+Radio Transceiver, Scope, Gyro-Stabilizer Rig (TL14), Thruster Pack (TL14), Medikit (TL11),
 Self-Sealing, Extended Life Support, Friend or
 Foe HUD granting Tactics (military) DM+1
 Equipment: Personal HUD, D6 doses each
@@ -1156,6 +1183,8 @@ Applicator
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
@@ -1422,8 +1451,7 @@ likely to fight and he has a nasty bite.
 TRAITS — SKILLS
 STR 5 INT 9 Athletics 0, Carouse 1, Deception
 0, Electronics 0, Flyer (grav) 1, Gun
-Combat 0, Gunner 0, Language 0, Melee
-(infighting) 1, Persuade 0, Pilot (small
+Combat 0, Gunner 0, Language 0, Melee (infighting) 1, Persuade 0, Pilot (small
 craft) 2, Pilot (spacecraft) 3, Recon 1,
 Stealth 1, Streetwise 1, Vacc Suit 1
 ```
@@ -1435,8 +1463,7 @@ CHA 7
 ```
 
 ```
-EQUIPMENT Weapons: Infiniti Arms Model VII Stunner
-(3D, Stun)
+EQUIPMENT Weapons: Infiniti Arms Model VII Stunner (3D, Stun)
 Armor: Ballistic Trench Coat (+4), Bodysuit (+3)
 Equipment: Vacc Suit (TL12), Aeon Flyer
 Stinger SZ-100 G/Bike (Baby)
@@ -1444,6 +1471,8 @@ Stinger SZ-100 G/Bike (Baby)
 
 ```
 SPECIES GENDER
+
+
 Vargr Male
 ```
 
@@ -1491,8 +1520,7 @@ FRONT 4 REAR 4 SIDES 4
 TL 12
 SKILL Flyer (grav)
 AGILITY +4
-SPEED (CRUISE) Subsonic
-(Very Fast)
+SPEED (CRUISE) Subsonic (Very Fast)
 RANGE (CRUISE) 3,000 (4,500)
 CREW 1
 PASSENGERS —
@@ -1512,9 +1540,7 @@ System (improved,
 increased range),
 Controls (improved),
 Ejection Seat,
-Navigation System
-(basic), Sensors
-(basic)
+Navigation System (basic), Sensors (basic)
 ```
 
 ```
@@ -1537,8 +1563,7 @@ FRONT 4 REAR 4 SIDES 4
 TL 13
 SKILL Flyer (grav)
 AGILITY +6
-SPEED (CRUISE) Supersonic
-(Subsonic)
+SPEED (CRUISE) Supersonic (Subsonic)
 RANGE (CRUISE) 4,000 (6,000)
 CREW 1
 PASSENGERS —
@@ -1563,9 +1588,7 @@ Ejection Seat,
 Entertainment
 System, Fire
 Extinguisher,
-Navigation System
-(advanced), Sensors
-(advanced)
+Navigation System (advanced), Sensors (advanced)
 ```
 
 ```
@@ -1582,8 +1605,7 @@ Stealth (Electronics (sensors) DM) —
 
 ##### Atichnae
 
-By Isabella Treccani-Chinelli
-(Susurrus Bestiola)
+By Isabella Treccani-Chinelli (Susurrus Bestiola)
 
 With a humanoid shape that, were it not for their obvious unintelligence,
 could get them confused with a sophont alien, the atichnae are a
@@ -1691,6 +1713,8 @@ Mustering out benefits
 
 ```
 SURVIVAL ADVANCEMENT
+
+
 Hunter END 6+ DEX 7+
 Wilderness Guide END 6+ INT 6+
 Ecologist END 5+ EDU 6+
@@ -1713,12 +1737,15 @@ Ecologist END 5+ EDU 6+
 
 ```
 PERSONAL
+
+
 DEVELOPMENT SERVICE SKILLS
+
+
 ```
 
 ```
-ADVANCED EDUCATION
-(MIN. EDU 8)
+ADVANCED EDUCATION (MIN. EDU 8)
 ```
 
 1 STR +1 Gun Combat Eleactronics
@@ -1754,15 +1781,11 @@ ADVANCED EDUCATION
 **RANK GAME HUNTER WILDERNESS GUIDE ECOLOGIST**
 
 (^0) — — —
-1 Profession
-(hunter) 1
-Navigation 1 Animals 1
-(^2) — — —
+1 Profession (hunter) 1
+Navigation 1 Animals 1 (^2) — — —
 (^3) — — —
-4 Survival Athletics
-(endurance) 1
-Science 1
-(^5) — — —
+4 Survival Athletics (endurance) 1
+Science 1 (^5) — — —
 (^6) — — —
 **1D MISHAP**
 1 Severely injured. Roll twice on the Injury table and take the
@@ -1827,6 +1850,8 @@ or discover a new animal species. You are automatically
 promoted and gain DM+1 on any one Benefit roll.
 
 NEW BENEFIT
+
+
 **Safari Ship:** You receive a safari ship with 25% of the mortgage paid
 on it. This ship is identical to the one featured on page 122 of High
 Guard but you must roll 1D times on the Spacecraft Quirks table on
@@ -1845,8 +1870,7 @@ _Identify and find the native habitat of an alien animal_ : Difficult (10+)
 Navigation check (1D hours, EDU). Add Profession (hunting) skill level
 as a positive DM for this check.
 
-Sneak up on prey in its native environment: Difficult (10+) Stealth check
-(2D minutes, DEX). Add Profession (hunting) skill level as a positive
+Sneak up on prey in its native environment: Difficult (10+) Stealth check (2D minutes, DEX). Add Profession (hunting) skill level as a positive
 DM for this check.
 
 Determine the appropriate weapon and ammunition to take down
@@ -1862,19 +1886,16 @@ to the subsequent check by the instructed individual.
 
 ##### Noricum Viollera
 
-By Isabella Treccani-Chinelli
-(papilio purpura)
+By Isabella Treccani-Chinelli (papilio purpura)
 
 Found within the oceans and marshlands of Noricum (A58A7CC-E) in
-the Trojan Reach, this plant is useful for its excellent air processing abil-
-ities. Able to filter oxygen from even the least dense of atmospheres,
+the Trojan Reach, this plant is useful for its excellent air processing abil-ities. Able to filter oxygen from even the least dense of atmospheres,
 the viollera is praised by botanists for a variety of uses. Unfortunately,
 due to the rather xenophobic society of the native peoples it can be
 hard for offworlders to collect one to cultivate.
 
 Needing a temperate climate of 23o–30oC for optimal growth, the plant
-must be misted every six hours with nutrient rich water heated to pre-
-cisely 17oC. Sometimes found within a botanist's shower thanks to its
+must be misted every six hours with nutrient rich water heated to pre-cisely 17oC. Sometimes found within a botanist's shower thanks to its
 evolutionary necessity for humidity, it is impossible to overwater it per
 its natural oceanic habitat. The usual cause of wilting is a lack of water,
 a common occurrence for those unused to its natural growth conditions.
@@ -1883,8 +1904,7 @@ As it usually grows in areas of lesser light and is often overshadowed
 by trees, the viollera is intolerant to bright lights and should be kept
 in partial to full shade. One trait of the plant, other than its air filtering
 capability, is that it is nearly impossible to kill. The soil used should be
-nutrient rich with adequate aeration provided to ensure the flow of wa-
-ter. Acidic soil is no detriment to the plant, so peat moss may be used
+nutrient rich with adequate aeration provided to ensure the flow of wa-ter. Acidic soil is no detriment to the plant, so peat moss may be used
 during periods of water scarcity.
 
 Dead leaves should be trimmed and disposed of immediately and when
@@ -1953,8 +1973,7 @@ contamination of pure Pavabidian society. It is staffed by only the most
 loyal members of the thearchy and guarded by church troops.
 
 The Law Level in the trade enclave is 8; in normal Pavabid society it is
-9 or even 10. The Travellers' Aid Society classifies Pavabid as amber
-(dangerous) because it is easy to run afoul of its many laws, even in
+9 or even 10. The Travellers' Aid Society classifies Pavabid as amber (dangerous) because it is easy to run afoul of its many laws, even in
 the trade enclave. Pavabid is potentially a rich world but its severe trade
 restrictions have kept its' wealth and Tech Level lower than those of its
 neighbors, Collace and Trexalon. Pavabid's near-average gravity, standard
@@ -2153,8 +2172,7 @@ and are on their guard. When the Pavabid defence satellite is tampered
 with, technicians in the Trexalon embassy on Pavabid will notice the
 momentary disruption. A TTC ship will lift within an hour and take up orbit
 in the vicinity of the satellite. With some idea of what is going on, the
-Trexalonians will send down a team of hitmen by air/raft to try to stop it
-(see page 66). Like the Collacians, the Trexalonians must conduct their
+Trexalonians will send down a team of hitmen by air/raft to try to stop it (see page 66). Like the Collacians, the Trexalonians must conduct their
 
 operations in absolute secrecy, they cannot just blow the whistle on the
 Collace team. If the thearchy thinks they are being manipulated by any
@@ -2162,6 +2180,8 @@ group of offworlders, they will close the whole planet and any chance of
 ever getting at the iridium deposits will be lost.
 
 SUCCESS OF THE MISSION
+
+
 If the Travellers can plant the message without leaving any evidence of
 having been in the palace, the mission will likely succeed. Orobid, like
 99% of the thearchists, really does believe in his religion and the divinity
@@ -2185,8 +2205,7 @@ supported in the air by hundreds of grav modules. The citizens of
 Pavabid have been deliberately stagnated at Tech Level 6 and have
 never heard of anti-gravity, so to them the palace is supported by the
 power of God (as they have been led to believe). Actually, it was built at
-the shipyard at Glisten (A000986-F) in 874 from an order by the then-
-current thearch, Lenebid. It cost a great deal to construct and transport
+the shipyard at Glisten (A000986-F) in 874 from an order by the then-current thearch, Lenebid. It cost a great deal to construct and transport
 to Pavabid, and it is expensive to maintain, but the thearchy has the
 tithe-taxes of an entire world to draw upon.
 
@@ -2213,14 +2232,18 @@ gleams with all the colours of the noble metals; nowhere are there any
 visible windows.
 
 ENTRY POINTS
+
+
 The three primary entrances to the palace are on deck 2: the large
 double doors leading into the dome (44) and the two hatches leading
 into the enclosed rear portion of the deck (41 and 43). There are also
-two lift shafts from deck 1 that surface on deck 3 (42). Finally, there
-is a maintenance hatch on the underside of deck 1 (9). Each of these
+two lift shafts from deck 1 that surface on deck3 (42). Finally, there
+is a maintenance hatch on the underside of deck1 (9). Each of these
 potential entry points is described under the number noted.
 
 STANDARD INTERIOR FEATURES
+
+
 Since the aerial palace was built in a shipyard in the Imperium, many of
 its interior features are identical to those found on standard starships.
 In most cases, interior walls are merely soundproofed light metal
@@ -2239,8 +2262,7 @@ weapon (not a stun carbine) or explosive. Bullets fired at bulkheads
 do negligible damage (although they do leave obvious marks).
 •  **Doors:** All doors set in interior walls are standard sliding doors.
 They may be blasted open by weapons, taking the same damage
-as interior walls. Sliding doors are powered and open completely
-(assuming the power is on) when a stud on the wall next to the door
+as interior walls. Sliding doors are powered and open completely (assuming the power is on) when a stud on the wall next to the door
 is pressed. Such doors may be locked from the inside or the outside
 if one knows the proper code to press into the studs on the stud
 plate. A red light shows on the stud panel when a door is locked.
@@ -2758,6 +2780,8 @@ Wall Hatch
 
 DECK ONE
 
+
+
 1. Bridge
 2. Guard Post
 3. Datapriest's Stateroom
@@ -2913,6 +2937,8 @@ Wall Hatch
 
 DECK TWO
 
+
+
 41. Guard Post and Hatch
 42. Lift Shaft Access
 43. Guard Post and Hatch
@@ -2981,6 +3007,8 @@ Wall Hatch
 
 DECK THREE
 
+
+
 55. Corridor
 56. Wahroo Kennels
 57. Guest Room
@@ -3032,6 +3060,8 @@ Wall Hatch
 
 DECK FOUR
 
+
+
 64. Staff Stateroom
 65. Staff Stateroom
 66. Staff Stateroom
@@ -3081,6 +3111,8 @@ attack of the TTC hitmen during the return journey, on the other hand, is
 a simple test of combat skills.
 
 AROUSING THE PALACE
+
+
 The Travellers' first difficulty in completing their mission is the danger of
 someone in the palace becoming aware of their presence:
 •  **Awakening the Sleepers:** If the Travellers encounter any of the
@@ -3116,6 +3148,8 @@ captain. The guard captain will consider this a minor problem and
 send two men to investigate (as outlined above).
 
 GUARD SCHEDULES
+
+
 The first time one of these post guards is eliminated, roll 1Dx5. This
 will show how many minutes were remaining before he was to check in
 again. Put all of the other guards on the same schedule and keep track
@@ -3132,6 +3166,8 @@ break suddenly and completely. However, guards defending the person
 of Orobid will fight to the death.
 
 THE TTC HITMEN
+
+
 Somewhere on their trip back to the launch, the Travellers will
 encounter a group of hit men hired by the Trexalon Technical
 Consortium. If there are few Travellers, and/or they are wounded from
@@ -3169,8 +3205,7 @@ in order to aid the Referee in their location.
 ```
 Second Officer (1)
 STR 8 DEX 10 END 7 INT 9 EDU 8 SOC 9
-Admin 0, Carouse 0, Gun Combat (slug) 1, Leadership 0, Melee
-(unarmed) 1
+Admin 0, Carouse 0, Gun Combat (slug) 1, Leadership 0, Melee (unarmed) 1
 ```
 
 ```
@@ -3225,8 +3260,7 @@ Navigation 0, Vacc Suit 1
 
 **First Officer (6)**
 STR 8 DEX 6 END 19 INT 8 DU 7 SOC 10
-Admin 1, Carouse 0, Gun Combat (slug) 2, Leadership 1, Melee
-(unarmed) 2, Navigation 1
+Admin 1, Carouse 0, Gun Combat (slug) 2, Leadership 1, Melee (unarmed) 2, Navigation 1
 
 **Armor:** Cloth (8+)
 **Weapons:** Autopistol (3D-3)
@@ -3278,8 +3312,7 @@ Art (holography) 3, Art (write) 1, Deception 1
 
 ##### Wahroo
 
-Wahroos are pouncer/chaser animals native to Pavabid. These green-
-furred creatures each weigh about 50 kilograms and move quickly.
+Wahroos are pouncer/chaser animals native to Pavabid. These green-furred creatures each weigh about 50 kilograms and move quickly.
 They are silent creatures that attack with a run ending in a great leap.
 They are savage fighters, trained to attack intruders on sight with their
 sizeable claws. All guards aboard the palace are known to them.
@@ -3417,8 +3450,7 @@ Carbine — — — Zero-G
 **Omicron Support DMR:** The Omicron support DMR is two weapons
 in one – a long range ballistic rifle and machine gun, combined with a
 complex feeding mechanism. Similar to other weapons from the same
-source, this one is made especially well. It has a completely non-
-reflective coating, making it good for covert operations.
+source, this one is made especially well. It has a completely non-reflective coating, making it good for covert operations.
 
 The weapon is designed with gyro stabilization, making for stable single
 and multi-round fire. The alloys also disperse heat very efficiently,
@@ -3607,8 +3639,7 @@ So, there you have it. Fly safe. Fly well-armed, and fly safer.
 
 ##### Ynchaeir
 
-By Isabella Treccani-Chinelli
-(Corium Alatum Bestiam)
+By Isabella Treccani-Chinelli (Corium Alatum Bestiam)
 
 The ynchaeir are colossal animals that plague the skies of high-gravity
 planets, their domed skull and blunted beak allowing them to defend
@@ -3644,8 +3675,7 @@ in the second year of the ynchaeir's life, with the species able to mate
 once or twice. Clutches of 7–10 eggs are constantly supervised by the
 male whilst the female hunts.
 
-Infancy only lasts a matter of weeks and young ynchaeir are self-
-sufficient from three months of age. After this they are booted from their
+Infancy only lasts a matter of weeks and young ynchaeir are self-sufficient from three months of age. After this they are booted from their
 home nests and left to fend for themselves; many dead young can be
 seen underneath roosts. If the young make it to adulthood, they spend
 the first two years of their life exploring and hunting before finding a mate.
@@ -3679,6 +3709,8 @@ ammunition. The neon pink air/raft also has an entertainment suite and
 wet bar, with the logo 'Baby Pink Three' on the side.
 
 OWNERSHIP AND CREW
+
+
 Having had many owners throughout her years, the Pink Diamond
 has been tweaked and improved by successive caretakers. With each
 having a different use for her, she is a patchwork of the visions of her
@@ -3693,6 +3725,8 @@ nothing more than a motley collection of drifters and criminals.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 6 INT 7 Admin 0, Advocate 0, Athletics 0, Carouse
 3, Diplomat 0, Electronics 0, Gambler
 4, Gun Combat (slug) 1, Investigate
@@ -3715,10 +3749,14 @@ Equipment: Boarding Vacc Suit (+11)
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
 MARQUIS ZANDER DRUNIMAN
+
+
 Zander Druniman comes from noble blood in the Spinward Marches. He
 is slim, with his greying hair kept shoulder length and oiled back. With grey
 eyes and an olive complexion, his manner alternates between disarming
@@ -3734,8 +3772,7 @@ leaving him of average
 intelligence. His main passion
 is gambling, in which he is
 remarkably successful. Having
-no real interest in money
-(although he has plenty), he
+no real interest in money (although he has plenty), he
 likes to gamble for possessions
 and people; most of his crew
 are little more than indentured
@@ -3771,6 +3808,8 @@ contains a boarding vacc suit.
 ```
 
 LUCY ROGERISTTEIN
+
+
 Lucy is intelligent, attractive,
 5' 6'', blonde, blue eyed
 and fair skinned. She is
@@ -3805,11 +3844,12 @@ training in unarmed combat.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 5 INT 12 Admin 0, Advocate 0, Athletics (dexterity)
 1, Broker 3, Carouse 0, Deception 2,
 Diplomat 0, Electronics 0, Gambler
-1, Investigate 1, Leadership 0, Melee
-(unarmed) 2, Persuade 0, Profession 0,
+1, Investigate 1, Leadership 0, Melee (unarmed) 2, Persuade 0, Profession 0,
 Recon 1, Stealth 0, Streetwise 1, Vacc
 Suit 0
 ```
@@ -3826,10 +3866,14 @@ Armor: Cloth (+5)
 
 ```
 SPECIES GENDER
+
+
 Human Female
 ```
 
 TREVOR GYTE
+
+
 Trevor is a gargantuan man with
 a weightlifter's physique and a
 shaven head. His olive skin is
@@ -3865,8 +3909,9 @@ whorl of his tattoos on show.
 
 ```
 CHARACTERISTICS SKILLS
-STR 15 INT 6 Athletics (dexterity) 1, Athletics
-(strength) 1, Carouse 0, Deception 0,
+
+
+STR 15 INT 6 Athletics (dexterity) 1, Athletics (strength) 1, Carouse 0, Deception 0,
 Drive 0, Gambler 1, Gun Combat (slug)
 1, Mechanic 1, Melee (unarmed) 4,
 Persuade 1, Profession 0, Recon 1,
@@ -3886,10 +3931,14 @@ Armor: Protec Suit (+4)
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
 ANDON BLISOR
+
+
 The Pink's pilot is a willowy man
 with a crop of bright blue hair,
 which contrasts sharply with
@@ -3916,6 +3965,8 @@ the fact she is a skinjob.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 7 INT 7 Athletics 0, Deception 0, Drive 0, Flyer 0,
 Gambler 1, Gun Combat 0, Pilot (small
 craft) 1, Pilot (spacecraft) 2, Recon 0,
@@ -3935,10 +3986,14 @@ Armor: Cloth (+8)
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
 BAV FUALKS
+
+
 Headhunted by Zander, Bav
 is the ship's engineer, tasked
 with ensuring that the years of
@@ -3968,10 +4023,11 @@ with the rest of her mannerisms.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 9 INT 8 Athletics 0, Deception 1, Drive 0,
-Electronics 1 (comms), Engineer (j-drive)
-1, Engineer (life support), Engineer
-(m-drive) 2, Engineer (power) 1, Gambler
+Electronics1 (comms), Engineer (j-drive)
+1, Engineer (life support), Engineer (m-drive) 2, Engineer (power) 1, Gambler
 1, Gun Combat (slug) 1, Mechanic 1,
 Melee (blade) 2, Persuade 1, Pilot (small
 craft) 1, Vacc Suit 2
@@ -3989,6 +4045,8 @@ Equipment: Cutting Torch, Mechanical Tool Set
 
 ```
 SPECIES GENDER
+
+
 Human Female
 ```
 
@@ -3996,6 +4054,8 @@ Human Female
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 1 INT 11 Admin 1, Advocate 0, Carouse 2,
 Deception 1, Diplomat 1, Drive 1,
 Electronics (computers) 2, Gambler 2,
@@ -4017,6 +4077,8 @@ Armor: Diplo Vest (+3)
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
@@ -4041,6 +4103,8 @@ to steal the ship, sell it and abscond with the Credits needed to buy an
 exorbitant amount of anagathics.
 
 MISSY MITCHELL
+
+
 Missy signed on 3 months ago as a general hand and gunner, her small
 frame surprisingly adept with a large amount of weaponry. She worked
 a few years on a free trader, then found religion; The Gospel of Free
@@ -4062,6 +4126,8 @@ grenades and two complex chemical charges.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 10 INT 6 Athletics (dexterity) 1, Broker 0, Carouse
 0, Deception 1, Drive 0, Electronics
 0, Explosives 1, Gun Combat (slug)
@@ -4086,10 +4152,14 @@ Armor: Diplo Vest (+3)
 
 ```
 SPECIES GENDER
+
+
 Human Female
 ```
 
 CANDY
+
+
 Candy is a skinjob who has
 become the steward of the
 Pink. Won by Zander five
@@ -4194,8 +4264,7 @@ lasers)
 ```
 
 ```
-Pop-up Triple Turret
-(sandcaster, missile rack,
+Pop-up Triple Turret (sandcaster, missile rack,
 pulse laser)
 ```
 
@@ -4244,9 +4313,13 @@ Steward, Gunners x2
 
 MAINTENANCE COST
 
+
+
 ```
 Cr6299/month
 PURCHASE COST
+
+
 MCr75.592
 ```
 
@@ -4340,8 +4413,7 @@ Traits —
 Equipment Autopilot (enhanced), Bunks, Communications
 System (improved, satellite link), Computer/1,
 Entertainment System, Fire Extinguishers, Fresher,
-Fusion Plant (basic), Mini-Galley, Navigation System
-(improved), Sensor System (improved), Wet Bar
+Fusion Plant (basic), Mini-Galley, Navigation System (improved), Sensor System (improved), Wet Bar
 ```
 
 Equipment
@@ -4494,8 +4566,7 @@ rights in Florian society. In modern times, Halkans may be found on
 many Florian worlds, occupying roles previously held only by Barnai;
 diplomats, merchants and business owners for the most part, with
 military careers being a rarity. Halkans are now included in the Florian
-governmental lottery system on many worlds, allowed to serve four-
-year terms just like the Barnai.
+governmental lottery system on many worlds, allowed to serve four-year terms just like the Barnai.
 
 Unfortunately, seven centuries of brutal subjugation under the caste
 system did a great deal of damage to Halkan culture. The shift from
@@ -4558,6 +4629,8 @@ most likely to encounter Halkans include the following:
 ```
 
 HALKAN TRAVELLERS
+
+
 Despite their outward appearances, Halkans are not terribly unlike
 standard Vilani or Solomani humans. The Ancients brought them to
 Halka from Terra and much like the many other human Minor Races,
@@ -4620,6 +4693,8 @@ the recorded video and deliver it to the SMH office on Aosta (0332
 A669236-C), Deneb
 
 CANISUS
+
+
 Canisus is a dry and somewhat inhospitable planet blessed with
 abundant mineral wealth. Vast dry plains swathe most of the planet,
 dotted with sprawling cities which pop up wherever a rich mineral seam
@@ -4646,8 +4721,9 @@ dealing with the dissidents. This is exemplified by the construction of a
 contentious offworld prison on the neighboring planet, Krida.
 
 REFEREE INFORMATION
-The Travellers are approached by Reve Salla of Sternmetal Horizons
-(SMH) with an offer. They need independent consultants to help with
+
+
+The Travellers are approached by Reve Salla of Sternmetal Horizons (SMH) with an offer. They need independent consultants to help with
 the imprisonment of one of their employees on Canisus. One of their
 SMH worker relations operatives, Mandal Mahalla, had been working
 with a peaceful protest group called the Miners' Rights League.
@@ -4672,11 +4748,12 @@ for their own ship from Trin (or other nearby system) to Canisus
 and return. A cover organization named Deneb Convict Care and
 Welfare has been set up, which should get them access to Krida
 Prison. Travellers will be provided with suitable identification and any
-reasonable equipment they need, bearing in mind the high Law Level
-(10). If something prohibited is vital, SMH will arrange for it to be
+reasonable equipment they need, bearing in mind the high Law Level (10). If something prohibited is vital, SMH will arrange for it to be
 delivered to the local scout base for collection.
 
 ARRIVING AT CANISUS
+
+
 Arriving at Canisus the Travellers will find a busy industrial starport,
 most of which is dedicated to handling bulk transport of products from
 the mining industries. The remainder, supporting passenger traffic, sees
@@ -4731,14 +4808,15 @@ Travellers with a ship will be permitted to use their own transport if it
 is unarmed. An armed vessel will be issued a permit under agreement
 that turrets be locked down, with physical clamps and anti-tamper
 devices fitted. These devices could be removed with a few hours work
-but will trigger an alert broadcast unless a successful Very Difficult
-(12+) Electronics (comms) check (1Dx10 minutes) is made.
+but will trigger an alert broadcast unless a successful Very Difficult (12+) Electronics (comms) check (1Dx10 minutes) is made.
 
 A shuttle to the scout base is also available from the downport run by
 the IISS. This is service governed by Imperial law and access is not
 restricted by the local government.
 
 KRIDA PRISON
+
+
 Krida is a small planet with a thin atmosphere, in orbit of the Canisus
 main world. Gravity at the surface of Krida is 0.3G, the day cycle is 35.6
 hours, equatorial surface temperatures range from 20oC to -120oC.
@@ -4763,8 +4841,7 @@ with some ingenuity).
 
 Underneath the surface terminal, the complex consists of several
 subterranean levels. Dug into the rocky interior as a series of tunnels
-and chambers, the buildings are all lined with drab grey plastic-
-composite panels to insulate from the freezing rock and provide heating
+and chambers, the buildings are all lined with drab grey plastic-composite panels to insulate from the freezing rock and provide heating
 to living spaces.
 
 The first level is used as staff accommodation, admin/security offices
@@ -4780,16 +4857,26 @@ KRIDA PRISON - SATELLITE IMAGE 042
 
 ```
 EACTOR CAPR
+
+
 TERMINAL BUILDING
+
+
 ```
 
 ```
 LANDING PAD
+
+
 ```
 
 ```
 A
+
+
 MAIN STAIRWAY
+
+
 ```
 
 ```
@@ -4798,71 +4885,105 @@ H MEDICALG BACKUP GENERATORSF REACTOR CONTROLE CANTEEND SECURITY CONTROL C OFFIC
 
 ```
 ML LAURNDRYK WORKSHOPJ WATER TREATMENTI STORE ROOM
+
+
 TERMINAL & SECURITY SCANNERS
 ```
 
 ```
 A
+
+
 ```
 
 ```
 B
+
+
 ```
 
 ```
 B
+
+
 ```
 
 ```
 C
+
+
 ```
 
 ```
 D
+
+
 ```
 
 ```
 E
+
+
 ```
 
 ```
 F
+
+
 ```
 
 ```
 G
+
+
 ```
 
 ```
 H I
+
+
 ```
 
 ```
 J
+
+
 ```
 
 ```
 K
+
+
 ```
 
 ```
 K
+
+
 ```
 
 ```
 L
+
+
 ```
 
 ```
 M
+
+
 ```
 
 ```
 B
+
+
 ```
 
 ```
 A
+
+
 ```
 
 ```
@@ -4874,6 +4995,8 @@ A
 ```
 
 TO REACTOR
+
+
 
 ```
 01
@@ -4889,10 +5012,14 @@ LEVEL 01LEVEL 02LEVEL 03LEVEL 04LEVEL 05
 
 ```
 GUARD LIFT
+
+
 ```
 
 ```
 STAIRWAY
+
+
 ```
 
 ```
@@ -4901,87 +5028,139 @@ A^
 
 ```
 MAIN STAIRWAY
+
+
 B GUARD & VISITOR LIFTN
 ```
 
 ```
 DUTY GUARD BARRACKS
+
+
 O
+
+
 ```
 
 ```
 GUARD CANTEEN
+
+
 P VISITATION ROOMSQ
+
+
 ```
 
 ```
 INMATE CANTEEN
+
+
 R INMATE REC ROOMS INMATE WAITING ROOM
+
+
 ```
 
 ```
 T EJECTION COCOONSU MORGUEV WORKSHOPW
+
+
 ```
 
 ```
 HOLDING CELLS
+
+
 X GUARD POST
+
+
 ```
 
 ```
 A
+
+
 ```
 
 ```
 B
+
+
 ```
 
 ```
 Q
+
+
 ```
 
 R
+
+
 S
+
+
 
 ```
 P
+
+
 ```
 
 ```
 N
+
+
 ```
 
 ```
 N
+
+
 O
+
+
 ```
 
 ```
 T
+
+
 ```
 
 ```
 X
+
+
 ```
 
 ```
 W
+
+
 ```
 
 ```
 V
+
+
 ```
 
 ```
 U
+
+
 ```
 
 ```
 B
+
+
 ```
 
 ```
 A
+
+
 ```
 
 ```
@@ -5006,6 +5185,8 @@ door and RFID panel for access. No prison staff have access to this
 level, even the warden.
 
 VISITING MANDAL MAHALLA
+
+
 On arrival, the Travellers will be under constant escort by at minimum
 one guard. They will be escorted from the landing pad to the terminal
 and pass through security checks, before being taken down to the first
@@ -5038,6 +5219,8 @@ INT check and can derive the intent behind the phrases. The meaning
 remains unknown but the intent to pass information clandestinely is clear.
 
 THE KICKER
+
+
 An extremist group called the Canisus Freedom Fighters (CFF) have
 planned an audacious jailbreak, which will unfortunately derail the
 Travellers' plans. The CFF have been earning a reputation through a
@@ -5071,8 +5254,7 @@ the scout base and local government system defence boats.
 The Imperial Scout base, orbiting between Canisus and Krida, will
 respond with two small craft and a scout ship. These arrive in 6 to 10
 hours, the faster craft first. The vessels sent are a modular cutter (Thrust
-4) with a field hospital module, a pinnace (Thrust 5) and a scout/courier
-(Thrust 2). The pinnace, arriving first, will monitor the situation, providing
+4) with a field hospital module, a pinnace (Thrust 5) and a scout/courier (Thrust 2). The pinnace, arriving first, will monitor the situation, providing
 analysis and coordination of the aid or rescue efforts.
 
 The system defence boats (see page 123) are old units, refurbished
@@ -5118,10 +5300,11 @@ several square kilometers.
 ```
 
 TIMING OF EVENTS
+
+
 The impacts start as the meeting with Mandal is concluding. A gentle
 tremor shaking the room and then a distant, repeating, 'thump'
-noise are the initial signs of something being amiss. A Routine
-(6+) Recon or Heavy Weapons check recognizes it as autocannon
+noise are the initial signs of something being amiss. A Routine (6+) Recon or Heavy Weapons check recognizes it as autocannon
 fire. The entire prison shakes with each impact, gently at first but
 successively more dramatically.
 
@@ -5161,6 +5344,8 @@ sidearm, a set of restraints and a radio with earpiece. If Mandal has
 been released, he will insist on putting the restraints on her.
 
 THE ROUTE OUT
+
+
 The normal exit from the visitation rooms would be the lift but this is not
 operational on emergency power. The lift itself is locked in place as the
 automatic braking system kicked in halfway between the first and second
@@ -5176,8 +5361,7 @@ In the event of an emergency, signs indicate routes to the main stairwell
 from the cell blocks. Getting about in the barracks and visitation rooms
 is not too hard, although doors are jammed due to shifted frames
 and rooms are littered with debris from the ceiling, blocking some
-routes. However, most of the area can be reached one way or another
-(breaking partition walls or smashing windows).
+routes. However, most of the area can be reached one way or another (breaking partition walls or smashing windows).
 
 The doors between the guards' area and the cell blocks or stairwell
 are locked tight with dead bolts that were thrown when the first alarm
@@ -5190,12 +5374,12 @@ it is harder and takes longer.
 
 ```
 DEAD BOLT CHECKS
-•  Using dead-bolt release tool: Average (8+) Mechanic check
-(1D minutes, STR).
+
+
+•  Using dead-bolt release tool: Average (8+) Mechanic check (1D minutes, STR).
 •  Using regular tools: Difficult (10+) Mechanic check (1Dx10
 minutes, STR).
-•  Using improvised tools: Formidable (14+) Mechanic check
-(1D hours, STR).
+•  Using improvised tools: Formidable (14+) Mechanic check (1D hours, STR).
 ```
 
 Unless the Travellers can avoid them, guards in this area will insist
@@ -5344,6 +5528,8 @@ shouldered open with an Average (8+) STR check (1D rounds) check
 but the restraints may hamper their progress.
 
 GETTING OUT
+
+
 Once clear of the fighting and chaos on the first level, the Travellers
 need to find a way to reach the surface and a way offplanet. The main
 route to the terminal building is breached and partially blocked. To
@@ -5371,6 +5557,8 @@ a way offplanet, the final challenge is to get to safety (see Flight from
 Krida on page 122).
 
 THE EASTER EGG
+
+
 Some of the Krida prison guards are aware of the 'hidden' section to
 the complex. They have no idea what goes on inside but it may offer an
 alternative exit or safer shelter. After the pounding of the bombardment,
@@ -5419,10 +5607,11 @@ near the body has two rounds left, with another full clip on his belt.
 
 ```
 RFID PANEL CHECKS
+
+
 •  Difficult (10+) Electronics (computers) check with toolkit or
 Formidable (14+) without
-•  Difficult (10+) Mechanics check with tools or Formidable
-(14+) without
+•  Difficult (10+) Mechanics check with tools or Formidable (14+) without
 •  Very Difficult (12+) STR check with suitable lever or
 Impossible (16+) without
 ```
@@ -5469,6 +5658,8 @@ Opposite the laboratory is another door labelled 'morgue'. This holds the
 remains of about a dozen people, victims of earlier experiments.
 
 GETTING OUT
+
+
 If the laboratory assistant Tullus is with them he can direct them to the
 emergency exit. This part of the hidden level is a grid of corridors and
 various rooms.
@@ -5477,8 +5668,7 @@ Wandering the corridors they will find a number of personal quarters, a
 few common rooms, various storerooms stocked with supplies (general,
 food, medical and electronics) and a workshop.
 
-The exit is a secure airlock and needs a pass key to open or a Difficult
-(10+) Electronics (computers) check (1Dx10 minutes) to bypass. Once
+The exit is a secure airlock and needs a pass key to open or a Difficult (10+) Electronics (computers) check (1Dx10 minutes) to bypass. Once
 through the inner airlock door, the room beyond is long and narrow.
 Down one side is a rack holding 12 vacc suits (TL8), opposite which are
 12 ejection cocoons (see Vehicle Handbook, page 57). These are largely
@@ -5492,8 +5682,7 @@ prison docks, with braking thrusters cushioning the landing.
 The beacons will be picked up by the IISS pinnace, prison control
 center and the CFF. The prison control will dispatch an ATV with a
 few well-armed guards to retrieve what they assume are evacuated
-guards. However, the CFF will also respond, hoping to capture high-
-value targets. If the Travellers are captured by the CFF, they will initially
+guards. However, the CFF will also respond, hoping to capture high-value targets. If the Travellers are captured by the CFF, they will initially
 assume their captives are state agents but once proved otherwise they
 will look to how they can be used advantageously. If captured by the
 guards, they are likely to face incarceration, especially if they have any
@@ -5505,6 +5694,8 @@ with the CFF to be evacuated as soon as possible or try contacting the
 IISS and be rescued as Imperial citizens.
 
 FLIGHT FROM KRIDA
+
+
 Fleeing the planet in a CFF mining ship, a stolen shuttle or the IISS
 pinnace could coincide with the arrival of the first system defence boat.
 This would lead to a dramatic chase with the Travellers helping the
@@ -5530,6 +5721,8 @@ they may be able to convince the commander there to quietly take them
 in one of their scout ships to a nearby system.
 
 MISSION COMPLETION
+
+
 The Travellers' primary task was to deliver the care package and return
 with the 'proof of wellbeing' evidence. However, the actions of the CFF
 have changed the situation and Mandal will want to use the opportunity
@@ -5640,8 +5833,12 @@ Medic
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr10168/month
 PURCHASE COST
+
+
 MCr122.01
 ```
 
@@ -5813,6 +6010,8 @@ of the Travellers' Aid Society
 ## JJJournal
 
 JOURNAL
+
+
 
 ```
 The

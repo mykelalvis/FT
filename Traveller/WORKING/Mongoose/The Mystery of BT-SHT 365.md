@@ -366,8 +366,7 @@ Once everyone is finished with their meal, he sets his napkin on the table and s
 
 ### Hardecker's research
 
-Dr. Hardecker takes the Travellers to the entertainment area of the Central Operations hub. Here, he directs them to a holographic museum that offers information on the Petrovsky family line and the planet. The museum comes to life and transports the Travellers through a pre-recorded holo-
-display of a lush planet with vast jungles and oceans. It comes to a stop at the palace of Duke Leopold Petrovsky and begins to offer the following information:
+Dr. Hardecker takes the Travellers to the entertainment area of the Central Operations hub. Here, he directs them to a holographic museum that offers information on the Petrovsky family line and the planet. The museum comes to life and transports the Travellers through a pre-recorded holo-display of a lush planet with vast jungles and oceans. It comes to a stop at the palace of Duke Leopold Petrovsky and begins to offer the following information:
 
 - BT-SHT 365 was only the scouting designation given to the planet by Sindalian explorers. The official name of the planet was Vamarda.
 - The Tech Level of Vamarda was TL 13.
@@ -499,8 +498,7 @@ Travellers playing the Pirates of Drinax campaign, it should be evident that thi
 
 It should not be difficult for the Travellers to find their way around. And at 1000-tons, it is not out of the question that the Travellers could crew such a vessel, though they may be kept a bit busy in tense situations. Any examination of the engineering section shows that the ship's reactor is online and the engines are warmed up. She's ready to go.
 
-An Average (DM 8+) Astrogation, EDU or INT check will show that the ship already has a course plotted for an area one parsec coreward of Thalassa. Logs show that the ship was to rendezvous with a Carrier Group loyal to Duke Petrovsky. The ship's manifest shows that it was designed to hold a 20-
-ton Launch, but that the Launch is not present.
+An Average (DM 8+) Astrogation, EDU or INT check will show that the ship already has a course plotted for an area one parsec coreward of Thalassa. Logs show that the ship was to rendezvous with a Carrier Group loyal to Duke Petrovsky. The ship's manifest shows that it was designed to hold a 20-ton Launch, but that the Launch is not present.
 
 ### Enter Silvaria Marios
 
@@ -551,8 +549,7 @@ PSI: 2, Telepathy
 Skills: Advocate 0, Animals 0, Athletics 0, Astrogation 1, Carouse 0, Diplomat 4, Drive 0, Gun Combat (Archaic) 1, Gun Combat (Energy) 1, Gun Combat (Slug)
 2, Heavy Weapons 0, Jack-of-all-Trades 3, Recon 0, Mechanic 1, Pilot (Small Craft) 1, Survival 0, Training 1, Melee 0, Profession 0, Streetwise 1, Electronics (Comms) 1, Vacc Suit 2
 
-Equipment: Rifle (3D), Autopistol (3D-
-3), Mobile Comm (TL8)
+Equipment: Rifle (3D), Autopistol (3D-3), Mobile Comm (TL8)
 
 Stonjinad was part of a Zhodani scout ship that was exploring the Trojan Reach when it ran afoul of pirates. Critical errors were made and all but Stonjinad perished. Stonjinad limped the ship to Homestead and made a rough landing. He has since gone local and setup shop as the Pastor of Peror in the town of Binyamin.
 
@@ -673,8 +670,7 @@ Skills: Science 0, Profession (Hydroponics) 1, Medic 0, Seafarer 0, Navigation 2
 
 Equipment: Revolver (3D-3)
 
-Joel has led a fairly unremarkable life and wandered around the Trojan Reach for a few years after graduating from Culinary School. He's made a reputation for himself in Binyamin as a capable cook and runs the kitchen of Donaval's Café and Eatery like a well-
-oiled machine.
+Joel has led a fairly unremarkable life and wandered around the Trojan Reach for a few years after graduating from Culinary School. He's made a reputation for himself in Binyamin as a capable cook and runs the kitchen of Donaval's Café and Eatery like a well-oiled machine.
 
 ###### Daisy Sheul
 
@@ -810,8 +806,7 @@ STR: 4 DEX: 9 END: 6
 INT: 14 EDU: 11 SOC: 11
 
 Skills: Admin 0, Athletics (DEX) 1, Art (Performer) 2, Carouse 1, Deception 1, Diplomat 1, Drive 0, Electronics (Computers) 1, Engineer (Life Support)
-1, Flyer 0, Gambler 1, Gun Combat (Energy) 2, Investigate 0, Jack-of-all-
-Trades 1, Language (Anglic) 1, Language (Vilani) 1, Leadership 1, Persuade 1, Recon 1, Stealth 1, Steward 1, Streetwise 2, Survival 1, Vacc Suit 0
+1, Flyer 0, Gambler 1, Gun Combat (Energy) 2, Investigate 0, Jack-of-all-Trades 1, Language (Anglic) 1, Language (Vilani) 1, Leadership 1, Persuade 1, Recon 1, Stealth 1, Steward 1, Streetwise 2, Survival 1, Vacc Suit 0
 
 Equipment: Blade (2D), Laser Pistol (3D+3), Laser Sniper Rifle (5D+3), TAS Membership, Portable Computer/5, Densitometer, Breather Mask, Electronics Toolkit, Cloth armor (Protection +8)
 

@@ -217,6 +217,8 @@ Riket was careful to reinforce his overlaid personality just before leaving, as 
 	CHARLES RASHANI RIKET/
 
 	CARLOS RASHANI
+
+
 	STR 4 SPECIES —
 	DEX 6 GENDER Male
 	END 3 AGE —
@@ -230,6 +232,8 @@ Riket was careful to reinforce his overlaid personality just before leaving, as 
 	SOC 8
 
 	EQUIPMENT
+
+
 	Portacomp
 
 ###### THE OVERLAY MACHINE
@@ -277,8 +281,7 @@ When a persona is created, it has a viability period which depends on the qualit
 
 Similarly, each time a user 'surfaces' their own persona and then reintroduces a light overlay personality, there is a chance that the overlay process will begin to unravel. Use of a deep command also challenges the viability of the overlay.
 
-Each time the persona is challenged (by use of a trapdoor, deep command or at the end of a viability cycle), the subject must check to see if something has gone wrong. The chance to avoid a problem starts at Simple (2+) and becomes one difficulty level higher each time. Thus, the second challenge to a persona requires an Easy (4+) check, the third is at Routine
-(6+) difficulty, until Formidable (14+) is reached. All subsequent checks are at this level unless the subject's persona is reset by the overlay machine.
+Each time the persona is challenged (by use of a trapdoor, deep command or at the end of a viability cycle), the subject must check to see if something has gone wrong. The chance to avoid a problem starts at Simple (2+) and becomes one difficulty level higher each time. Thus, the second challenge to a persona requires an Easy (4+) check, the third is at Routine (6+) difficulty, until Formidable (14+) is reached. All subsequent checks are at this level unless the subject's persona is reset by the overlay machine.
 
 There are no modifiers to this check. It may be that future research into overlay technology could allow subjects to be trained or conditioned to avoid ill-effects but this is not possible at the present time.
 
@@ -639,8 +642,7 @@ All the authorities know at this time is that this craft must have been brought 
 
 For all the severity of that threat, this is still a routine manner. The crew and passengers of this craft are contained planetside and are probably just itinerant workers. There are many tasks to be accomplished and investigating these people is of low priority. That may change as the Travellers come to recognise their situation and take measures to get offworld.
 
-Outsiders have the impression that Zhodani Consulate ground forces are built up of neat blocks of 10 soldiers, with 10 of those forming a company-equivalent and 100 to a battalion. This is in part due to the titles of leaders
-(non-commissioned officers) and officers, which follow a one, two, five progression through multiples of 10. The reality is a little less rigid.
+Outsiders have the impression that Zhodani Consulate ground forces are built up of neat blocks of 10 soldiers, with 10 of those forming a company-equivalent and 100 to a battalion. This is in part due to the titles of leaders (non-commissioned officers) and officers, which follow a one, two, five progression through multiples of 10. The reality is a little less rigid.
 
 Zhodani ground forces are built around teams of approximately 10 soldiers, led by a Leader of Ten assisted by a Leader of Five. Any given Ten will be equipped and designated for its main function, with higher formations built by combining Tens. 'Ten' and 'Five' in this case are designations rather than absolute numbers. Operational requirements dictate a Five may have three to seven members and a Ten may actually comprise eight to 15 soldiers. As far as possible, however, organisation does try to follow a neat 'blocks of ten' model.
 
@@ -767,10 +769,16 @@ The captain is not naïve or stupid but society outside the Consulate is alien t
 	PSI 6
 
 	WEAPONS
+
+
 	Laser Pistol (3D+4, Auto 2)
 	ARMOUR
+
+
 	Officer Combat Armour (+18)
 	EQUIPMENT
+
+
 	Anything the company has in store, or that he
 	can co-opt
 
@@ -779,6 +787,8 @@ The captain is not naïve or stupid but society outside the Consulate is alien t
 Armed with a laser carbine and concussion grenades, ordinary troopers make the bulk of the force. Vehicle crews and technical personnel such as warbot handlers are identically equipped in the field but will have additional skills, as will small-unit leaders such as Leaders of Five. A handful have laser marksman rifles instead. Heavy weapon operators carry the same carbine but normally crew their heavy weapon, which may be a VRF gauss gun or an anti-armour/ anti-aerospace missile launcher. Warbot handlers also carry the same personal weapon as the infantry, to prevent enemy snipers from distinguishing them. They are trained to avoid danger where possible to ensure warbots remain effective.
 
 	ZHODANI INFANTRY TROOPER
+
+
 	STR 8 SPECIES Zhodani
 	DEX 8 GENDER —
 	END 8 AGE —
@@ -787,15 +797,23 @@ Armed with a laser carbine and concussion grenades, ordinary troopers make the b
 	SOC 6 Melee 0, Recon 1
 	PSI 4
 	WEAPONS
+
+
 	Laser Carbine (4D+3) or Laser Marksman
 	Rifle (5D+4), Concussion Grenades x2 (3D,
 	Blast 9, Stun)
 	ARMOUR
+
+
 	Combat Armour (+19)
 	EQUIPMENT
+
+
 	As issued
 
 	ZHODANI HEAVY WEAPONS OPERATOR
+
+
 	STR 8 SPECIES Zhodani
 	DEX 8 GENDER —
 	END 8 AGE —
@@ -807,13 +825,21 @@ Armed with a laser carbine and concussion grenades, ordinary troopers make the b
 	SOC 6
 	PSI 4
 	WEAPONS
+
+
 	Laser Carbine (4D+3), Heavy Weapon
 	ARMOUR
+
+
 	Combat Armour (+19)
 	EQUIPMENT
+
+
 	As issued
 
 	ZHODANI WARBOT HANDLER
+
+
 	STR 8 SPECIES Zhodani
 	DEX 8 GENDER —
 	END 8 AGE —
@@ -825,10 +851,16 @@ Armed with a laser carbine and concussion grenades, ordinary troopers make the b
 	SOC 6
 	PSI 4
 	WEAPONS
+
+
 	Laser Carbine (4D+3)
 	ARMOUR
+
+
 	Combat Armour (+19)
 	EQUIPMENT
+
+
 	As issued
 
 ##### MEDIUM WARBOT
@@ -850,6 +882,8 @@ This design is a popular warbot model, with customised versions in use throughou
 	TRAITS Armour (+8), Flyer (high)
 	PROGRAMMING Advanced (INT 8)
 	OPTIONS
+
+
 	Auditory Sensor, Recon Sensor (improved), Spare
 	Slots x6, Transceiver 5km (improved), Vacuum
 	Environment Protection, Visual Spectrum Sensor,
@@ -958,6 +992,8 @@ Roman Tahir is a career manager, starting out in logistics for a firm on Arden a
 Management of a crisis is not Roman's forte. He lives in a world of forward planning and 'prepared readiness' and similar corporate buzzwords. Reacting on the fly is not his inclination. He is not a fool or a coward but he wants all the information before he will act. This translates to sending out messages demanding a status report on the intensity of the fire, emergency supply levels, structural failure margins and available qualified personnel. He can be redirected but this requires logic and persuasion rather than obvious common sense. Roman is not receptive to being shouted at by common workers.
 
 	ROMAN TAHIR
+
+
 	STR 4 SPECIES —
 	DEX 6 GENDER Male
 	END 4 AGE —
@@ -969,6 +1005,8 @@ Management of a crisis is not Roman's forte. He lives in a world of forward plan
 	SOC 9
 
 	EQUIPMENT
+
+
 	Anything aboard the gouger, if he can find
 	someone to use it
 
@@ -998,8 +1036,12 @@ Alikka will take a practical risk-vs-return approach to the crisis, although she
 	SOC 5
 
 	WEAPONS
+
+
 	Autopistol (3D-3)
 	EQUIPMENT
+
+
 	Engineering Tools
 
 	02
@@ -1026,8 +1068,7 @@ The Reactor itself is fine. Its starship-grade installation and shielding will p
 
 ##### REACTOR CHAMBER (2) The reactor chamber is also a control room. It is surrounded by thick bulkheads which should withstand even the gouger toppling over, making this the safest place in the vehicle – if it were not on fire. The reactor itself is in the centre of the chamber, surrounded by an oval safety rail. Alarms will sound if unauthorised personnel pass the barrier but under the circumstances this is unlikely to attract notice. The reactor is a small starship model, to which has been added a tangle of cables and pipes. The end result is messy and unattractive but whilst this may worry the Travellers, the installation has been competently done. There is nothing wrong with the reactor itself.
 
-There are banks of controls and other elements of the gouger's electronics around the walls of the chamber
-(3). Those on the opposite side to the entry point are well afire (2a). The automated suppression system has failed due to a ruptured pipe (2b). This creates a ridiculous situation in which large quantities of suppressant foam are being dumped at one end of the chamber whilst the fire is being manually fought at the other. The foam will run out soon.
+There are banks of controls and other elements of the gouger's electronics around the walls of the chamber (3). Those on the opposite side to the entry point are well afire (2a). The automated suppression system has failed due to a ruptured pipe (2b). This creates a ridiculous situation in which large quantities of suppressant foam are being dumped at one end of the chamber whilst the fire is being manually fought at the other. The foam will run out soon.
 
 ##### EQUIPMENT STOWAGE (4) Two large walk-in stowage areas contain reactor spares, tools, sections of piping and conduit, and also emergency equipment. Hoses can be run out to spray foam manually but pressure is dropping due to the ruptured pipe. There are also several hand-held extinguishers, heat-resistant coveralls and breathing gear, and mobile shields that can be used to protect personnel as they fight the fire or transit the area.
 
@@ -1345,6 +1386,8 @@ In some ways Marija is a sad example of life on Utoland. Her aspirations are suf
 Marija does not have thugs or bodyguards working for her; she does not need them. Sensible people recognise that robbing or harming the source of illicit goods will annoy everyone else who relies on her services and she lives and works somewhere with a solid EPS presence. Marija does sometimes need to remind people to pay for what she has obtained for them but there is always someone willing to be persuasive in return for a discount on their own shipment.
 
 	MARIJA JU
+
+
 	STR 4 SPECIES —
 	DEX 6 GENDER Female
 	END 8 AGE —
@@ -1444,6 +1487,8 @@ Peler is in possession of such an ego that he really thinks the Zhodani Consulat
 The plan forming in Peler's mind as he discovers the extent of unrest on Utoland seems workable to him. He will facilitate the revolution he sees coming, using it to take out the Ardenites above him, then step in as the head of the Committee for Offworld Relations to restore order and spare the populace from Zhodani retaliation. By playing both ends against one another he will emerge as the planetary leader he deserves to be. He will offer all manner of justifications for why he thinks this will work but ultimately he has reached the point where 'this will work because it has to'.
 
 	PELER KIALUURMA
+
+
 	STR 3 SPECIES —
 	DEX 7 GENDER Male
 	END 6 AGE —
@@ -1477,6 +1522,8 @@ A Zhodani military air/raft passes over the town headed north-east, then doubles
 Army laser carbine, the other a long-barrelled laser sniper rifle. The air/raft halts from time-to-time, then moves on. Then, without warning, the sniper raises his rifle to his shoulder and fires a single shot. At over 100 metres in a shallow downward angle, the bolt passes close to several bystanders before it hits someone crossing the street. The air/raft continues to patrol as people scatter for cover. The victim is dragged away, obviously dead. Observant Travellers might spot someone making off with an obviously heavy bag.
 
 	MOAK HEI
+
+
 	STR 12 SPECIES —
 	DEX 7 GENDER Male
 	END 10 AGE —
@@ -1488,6 +1535,8 @@ Army laser carbine, the other a long-barrelled laser sniper rifle. The air/raft 
 	SOC 5
 
 	WEAPONS
+
+
 	A Handy Blunt Instrument (2D) or Fists (1D)
 
 	MOAK'S BUDDIES
@@ -1496,8 +1545,10 @@ Army laser carbine, the other a long-barrelled laser sniper rifle. The air/raft 
 	END 8 AGE —
 	INT 6 SKILLS
 	EDU 5 Mechanic 1, Melee 0, Profession
-	SOC 5 (miner) 2
+	SOC5 (miner) 2
 	WEAPONS
+
+
 	A Handy Blunt Instrument (2D) or Fists (1D)
 
 If the Travellers attempt to return fire they will be subject to lethal force and identified from then on as hostiles. The Referee may choose to warn them of this, either from their own recollections or a helpful stranger. Instant execution of this sort is considered acceptable by the Zhodani in the case of confirmed hostiles. Presumably, the EPS was told to find and arrest this person and failed to do so. Operations of this sort are justified in Zhodani military law under the principle of fair warning. It is possible that the locals will get used to this sort of thing and stop panicking but for the present it seems to most people on the ground that the Zhodani are just shooting random victims.
@@ -1510,12 +1561,9 @@ Moak likes the clothes and goods Peler provides him with. If he stops paying for
 
 ###### WORD AROUND TOWN
 
-If the Travellers want to know more about the murder
-(as it is in the eyes of most locals) they witnessed, it is not hard to find people willing to talk about it. The problem is that everyone has their own ill-informed opinion. Most of these are along the lines that the Zhodani are carrying out terror killings to keep the populace frightened, although there are a few who think the Thought Police have identified individuals likely to cause trouble and sent soldiers to hunt them.
+If the Travellers want to know more about the murder (as it is in the eyes of most locals) they witnessed, it is not hard to find people willing to talk about it. The problem is that everyone has their own ill-informed opinion. Most of these are along the lines that the Zhodani are carrying out terror killings to keep the populace frightened, although there are a few who think the Thought Police have identified individuals likely to cause trouble and sent soldiers to hunt them.
 
-Travellers who want better information or sift through what people are saying will need to make an Average
-(8+) Investigate or Streetwise check. The most likely
-(and in fact correct) conclusion is that the killing was not random nor inspired by psionic powers. The individual killed, one Jared Kallig, is subject to a wanted notice on the datanet and a 'request for interview' by the Zhodani authorities. Although politely phrased, these requests are essentially a summons for someone to turn themselves in. Those who do not may be arrested but can be eliminated upon being identified by a military patrol. The Zhodani occupiers have a datanet site that more or less explicitly states this. It does not say why the occupation force wanted to talk to Kallig.
+Travellers who want better information or sift through what people are saying will need to make an Average (8+) Investigate or Streetwise check. The most likely (and in fact correct) conclusion is that the killing was not random nor inspired by psionic powers. The individual killed, one Jared Kallig, is subject to a wanted notice on the datanet and a 'request for interview' by the Zhodani authorities. Although politely phrased, these requests are essentially a summons for someone to turn themselves in. Those who do not may be arrested but can be eliminated upon being identified by a military patrol. The Zhodani occupiers have a datanet site that more or less explicitly states this. It does not say why the occupation force wanted to talk to Kallig.
 
 Jared Kallig is known to some people in New Town. He has had brushes with the EPS over minor offenses such as moving contraband between districts and unlawful movements around the rail system. This is of course just what he got caught for; those who know about such things can name him as a small-time courier for one of the Old Town criminal groups.
 
@@ -1576,7 +1624,7 @@ If the Travellers think to ask, Pinheiro can recall some of her contingency brie
     END 5 AGE —
     INT 7 SKILLS
     EDU 8 Electronics (computers) 4, Gunner
-    SOC 6 (turret) 1, Mechanic 1, Vacc Suit 2
+    SOC6 (turret) 1, Mechanic 1, Vacc Suit 2
 
 Whilst the Travellers are at MC4, events begin to unfold at Utane which will create opportunities for them. The EPS has been cooperating very reluctantly up to this point, and the Zhodani commander is not satisfied; the Zhodani are concerned about resistance within the EPS and a threat from the general populace. They want the EPS to get on top of the situation, and that means finding some suspects and bringing them in for questioning.
 
@@ -2452,8 +2500,7 @@ The Travellers can get aboard the intelligence station by a variety of means. Th
 
 They have authorisation to be on the station, since they are for the time being part of its intelligence- operations team. They have a 'living and working' level of access, which does not include confidential records and intelligence-analysis data but does allow them to operate most internal systems. The Travellers have control over the station's communications system but not its weapons.
 
-If the Travellers want access to the restricted systems they will have to find a way to do it. The missile bays can be switched to local control, which would allow the Travellers to launch weapons and track targets. Anyone with Gunner (capital) 1+ will know how to do this. Others will have to figure it out, which will require an Average
-(8+) Gunner check or some creative problem-solving.
+If the Travellers want access to the restricted systems they will have to find a way to do it. The missile bays can be switched to local control, which would allow the Travellers to launch weapons and track targets. Anyone with Gunner (capital) 1+ will know how to do this. Others will have to figure it out, which will require an Average (8+) Gunner check or some creative problem-solving.
 
 Records and data are more difficult to access. This requires command-level authorisation from an Imperial Naval Intelligence officer, either remotely or in person. The Travellers will not be able to obtain this, although they might manage to physically remove data storage units and find a way to crack them later. There is a problem with this; all sensitive data is stored in secure modules surrounded by enough incendiaries to melt them to slag. Attempting to remove a data core without the correct codes will trigger a meltdown. This can also be done on command by someone with the right level of authority – which the Travellers do not have.
 
@@ -2618,18 +2665,26 @@ Internal structures and corridors are bored into solid rock, then lined with sta
 
  CREW
 
+
+
 HULL POINTS: 480
 
  RUNNING COSTS
 
+
+
  PURCHASE COST
+
+
 
 MCr691.55
  MAINTENANCE COST
 
+
+
 Cr57629/month
 
-TL15 TONS COST (MCr) Hull 1,200 tons, planetoid (960 useable tons) — 4.8 Stealth (improved) — 120 Armour Planetoid, Armour: 2 — — M-Drive Thrust 1 (low emissions x3) 12 36 J-Drive Jump 2 (energy efficient x3) 65 146.25 Power Plant Fusion (TL15), power 400 20 40 Fuel Tanks J-2, 20 weeks of operation 250 — Bridge Holographic Controls 40 7.5 Computer Core/40 — 45 Sensors Advanced 5 5.3 Enhanced Signal Processing 2 8 Sensor Stations x4 4 2 Weapons Pop-Up Dual Turrets (missile rack, pulse laser) x2
+TL15 TONS COST (MCr) Hull 1,200 tons, planetoid (960 useable tons) — 4.8 Stealth (improved) — 120 Armour Planetoid, Armour: 2 — — M-Drive Thrust1 (low emissions x3) 12 36 J-Drive Jump2 (energy efficient x3) 65 146.25 Power Plant Fusion (TL15), power 400 20 40 Fuel Tanks J-2, 20 weeks of operation 250 — Bridge Holographic Controls 40 7.5 Computer Core/40 — 45 Sensors Advanced 5 5.3 Enhanced Signal Processing 2 8 Sensor Stations x4 4 2 Weapons Pop-Up Dual Turrets (missile rack, pulse laser) x2
 
 4 6.5
 
@@ -2782,7 +2837,7 @@ Cr9303/month
 
 10
 
-TL15 TONS COST (MCr) Hull 300 tons, Streamlined — 18 Stealth (improved) — 30 M-Drive Thrust 2 (low emissions x3) 6 18 Power Plant Fusion (TL15), Power 140 7 14
+TL15 TONS COST (MCr) Hull 300 tons, Streamlined — 18 Stealth (improved) — 30 M-Drive Thrust2 (low emissions x3) 6 18 Power Plant Fusion (TL15), Power 140 7 14
 
 ##### Fuel Tanks
 
@@ -2891,8 +2946,7 @@ ASS-11
 
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Burst-capable Handgun 9 10m 2D-1 0.6 Cr225 20 Cr15 AP 2, Auto 2 ASS-11 (baton) 9 60m 1D+2D Stun 3.4 Cr350 6 Cr12 Lo-Pen 3 ASS-11 (penetrator) 9 80m 3D 3.4 Cr350 6 Cr16 AP 4 Security Baton 9 Melee 1D+1D Stun 0.8 Cr10 — — —
 
-Security personnel wear a dark grey duty uniform which is resistant to minor threats such as small blades
-(equating to Protection +2). A rigid chest protector, shin and forearm guards and a helmet bring this up to Protection +5. A typical loadout is sidearm-only in 'soft' uniform, with sidearm and longarm carried when 'hard'
+Security personnel wear a dark grey duty uniform which is resistant to minor threats such as small blades (equating to Protection +2). A rigid chest protector, shin and forearm guards and a helmet bring this up to Protection +5. A typical loadout is sidearm-only in 'soft' uniform, with sidearm and longarm carried when 'hard'
 
 - local slang for adding the rigid armour.
 
@@ -2947,8 +3001,7 @@ External power packs include a small belt-mounted unit capable of providing 100 
 The concussion grenades used by Zhodani ground troops have tactical applications in combat but may also be used by security forces as a final warning before opening fire. Dazed attackers are easy to round up for questioning. Whenever the use of concussion grenades on 'innocent protestors' is questioned, the Zhodani are genuinely puzzled. The protestors fulfilled their end of the
 'bargain' creating the requirement for a robust response and the occupation force did what it said it would. No apologies are ever made and the policy will not change.
 
-Zhodani Trooper combat armour is identical in function to the TL12 combat armour found on page 98 of the Traveller Core Rulebook. Officer Combat Armour is similar but considerably lighter, substituting carbon- tube weave for the smart plastic of the Trooper armour. This is further enhanced with a specialised computer weave and communications system, with an installed Computer/3. This runs Intellect/1 and Expert
-(electronics (comms)) 2 software, assisting officers with unit coordination and control on the battlefield.
+Zhodani Trooper combat armour is identical in function to the TL12 combat armour found on page 98 of the Traveller Core Rulebook. Officer Combat Armour is similar but considerably lighter, substituting carbon- tube weave for the smart plastic of the Trooper armour. This is further enhanced with a specialised computer weave and communications system, with an installed Computer/3. This runs Intellect/1 and Expert (electronics (comms)) 2 software, assisting officers with unit coordination and control on the battlefield.
 
 **Weapon TL Range Damage Kg Cost Powerpack Powerpack Cost Traits**
 
@@ -2956,7 +3009,7 @@ Zhodani Trooper combat armour is identical in function to the TL12 combat armour
 
 ##### Laser Pistol
 
-14 25 3D+4 1.2 Cr3500 100 — Auto 2 (10), Zero-G
+14 25 3D+4 1.2 Cr3500 100 — Auto2 (10), Zero-G
 
 ##### Consular Army Model
 

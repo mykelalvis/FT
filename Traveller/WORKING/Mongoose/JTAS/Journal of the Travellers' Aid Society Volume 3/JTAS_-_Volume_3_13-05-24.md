@@ -44,32 +44,50 @@ d'Allessandro
 
 ```
 ADVENTURE
+
+
 Rescue on Ruie 17
 Pride of the Lion 65
 ALIEN
+
+
 Ael Yael 47
 BESTIARY 73
 CENTRAL SUPPLY
+
+
 Cartridge Laser Weapons 29
 CHARTED SPACE
+
+
 Cordillon 2
 Religion in the
 Two Thousand Worlds 30
 The Arhiyao Clan 52
 Zhodani Military Organization 112
 ENCOUNTERS
+
+
 Jonny McRae 40
 HIGH GUARD
+
+
 Jump Drive Operations 9
 Tvastar Manufacturing Ship 33
 LSP Modular Cutter 87
 LSP JCSDB Model 12 125
 MERCENARY
+
+
 War in the Fourth Dimension 103
 TRAVELLING
+
+
 Stock Exchange 43
 Jump Point to Port 97
 VEHICLES
+
+
 Ground Vehicles 121
 ```
 
@@ -235,18 +253,26 @@ hundreds of molds and microbial species, most of which live in its sea,
 
 ```
 HERIOTZA
+
+
 ```
 
 ```
 PLAINS
+
+
 ```
 
 ```
 THE
+
+
 ```
 
 ```
 CARATOSSIDIS
+
+
 ```
 
 ```
@@ -316,8 +342,7 @@ with Albe and the Imperium to provide all manner of services and
 products to the colonists and their fledgling civilization. The Albian and
 Imperial governments claim that the only way the Cordillonian Dream
 can happen in short order is by using established corporations. Waiting
-for local industry to germinate will take decades, if not a century. Would-
-be colonial entrepreneurs have cried foul, complaining they are being
+for local industry to germinate will take decades, if not a century. Would-be colonial entrepreneurs have cried foul, complaining they are being
 deliberately shut out of the planet's future, some going so far to say
 that colonists are being set-up to be the designated slave labour force
 of Cordillon. Despite their complaints, companies like GeDeCo seem
@@ -363,27 +388,20 @@ Cordillon System
 
 CORDILLON SYSTEM DETAILS
 
+
+
 ```
 Position Satellite Name UWP
 Primary — Bizitza K1 V
-0 — Ash X200000-
-1 — Castille X300000-
-2 — Inner Belt X000000-
-3 — Cordillon C431210-C
+0 — Ash X200000-1 — Castille X300000-2 — Inner Belt X000000-3 — Cordillon C431210-C
 — 1 Watchtower G100160-C
-— 15 Pinzen XS00000-
-4 — Ghourgia X300000-
-5 — Outer Belt G000160-C
+— 15 Pinzen XS00000-4 — Ghourgia X300000-5 — Outer Belt G000160-C
 6 — Cimarron Small Gas Giant
 — 0 Ring System YR00000-
 — 1 Ingot X100000-
 — 2 Byz X200000-
-— 3 Dryb XS00000-
-7 — Goget X200000-
-8 — Doxing X501000-
-— 1 Prime X100000-
-9 — Malinge X300000-
-10 — Hoard Large Gas Giant
+— 3 Dryb XS00000-7 — Goget X200000-8 — Doxing X501000-
+— 1 Prime X100000-9 — Malinge X300000-10 — Hoard Large Gas Giant
 — 1 Hoard–0 X100000-
 — 3 Hoard–1 X100000-
 — 6 Hoard–2 X200000-
@@ -391,8 +409,7 @@ Primary — Bizitza K1 V
 — 12 Hoard–4 X501000-
 — 16 Hoard–5 X300000-
 — 22 Hoard–6 XS00000-
-— 30 Hoard–7 X400000-
-11 — Bakartik X200000-
+— 30 Hoard–7 X400000-11 — Bakartik X200000-
 ```
 
 ## HIGH GUARDHIGH GUARD
@@ -436,6 +453,8 @@ not being considered.
 
 MAKING A JUMP
 
+
+
 The first requirement – other than having a working jump drive – to
 make a jump is what is often known as a 'jump plot'. This is a highly
 complex set of dynamic equations taking into account the vessel's size
@@ -444,13 +463,14 @@ and end points of the jump, both at time of entry and expected time
 of arrival. Once the plot is ready it is fed into the jump drive, which is
 brought up to full power and engaged. The drive is needed to enter
 jump space, to create the field that protects the ship there and finally
-to control the collapse of the jump field in a manner that allows safe re-
-entry to normal-space.
+to control the collapse of the jump field in a manner that allows safe re-entry to normal-space.
 
 10
 
 ```
 THE JUMP PLOT
+
+
 Plots can be created well ahead of time but degrade for reasons that
 are only partially understood. It is generally accepted that the relative
 movement of objects in the universe – planets in their orbits and
@@ -472,8 +492,7 @@ jump, and part-prepared jump plots can be obtained from some starports.
 This service is often provided free by Class A and B ports but unlikely
 to be available elsewhere. The port benefits from greater control over
 exactly where in the system ships jump from and often has an agreement
-with nearby destinations about emergence points. A ship using a part-
-prepared plot cannot falsify its destination, which is beneficial for general
+with nearby destinations about emergence points. A ship using a part-prepared plot cannot falsify its destination, which is beneficial for general
 security and reduction of illicit activity.
 ```
 
@@ -496,9 +515,10 @@ that is taking a pounding.
 
 READYING THE DRIVE
 
+
+
 Entry into jumpspace requires an enormous amount of energy. This is
-usually obtained by burning a large quantity of fuel very rapidly in a high-
-yield power system. Such a power generation device is normally part of
+usually obtained by burning a large quantity of fuel very rapidly in a high-yield power system. Such a power generation device is normally part of
 the jump drive fitted to a starship and is considered a drive component
 rather than part of the ship's power plant. The jump power unit is unsuited
 to the task of powering shipboard systems in the long term but can be
@@ -532,8 +552,7 @@ other vessels. A drive can be held in the warm state indefinitely but this
 increases wear and therefore maintenance costs. Most ships therefore
 run with their jump drive 'cold' most of the time. Warming the drive, more
 correctly termed 'advancing to pre-initiation status' takes 2Dx5 minutes.
-The multiplier can be reduced by the Effect of an Average (8+) Engineer
-(J-drive) check, to a minimum of 2D minutes.
+The multiplier can be reduced by the Effect of an Average (8+) Engineer (J-drive) check, to a minimum of 2D minutes.
 
 If circumstances require it, a cold jump drive can be crash-started in 1D
 minutes if a Difficult (10+) Engineer (J-drive) check is made. Failure takes
@@ -576,8 +595,7 @@ If this Engineer check is failed a misjump will occur.
 ```
 
 ```
-If the jump is successful, the vessel will spend approximately 168 hours
-(one week) in total isolation in jump space before returning to the normal
+If the jump is successful, the vessel will spend approximately 168 hours (one week) in total isolation in jump space before returning to the normal
 universe. Variance is normally plus or minus 12-24 hours, leading to the
 Travellers' adage that 'more than a day and it's not okay' – a ship that
 comes out of jump too early or too late has usually misjumped.
@@ -614,6 +632,8 @@ hazard on very tightly plotted trips.
 
 GRAVITY AND OTHER EFFECTS
 
+
+
 Although a ship in jump space is not affected by the outside universe
 in any detectable way, gravity has significant effects on the operation
 of a jump drive. The general rule of thumb for starship crews is that
@@ -627,8 +647,7 @@ small but dense object – 100 diameters of a black hole is not very far at
 all but its jump-hazard radius is much larger. However, the 100-diameter
 rule is a useful guide under most circumstances.
 
-Attempting to jump within 100 diameters of a typical planet imposes DM-
-on the Engineer check to make a safe jump entry. Jumping within 10
+Attempting to jump within 100 diameters of a typical planet imposes DM-on the Engineer check to make a safe jump entry. Jumping within 10
 diameters imposes DM-12 and virtually guarantees a misjump. All known
 attempts to use a jump drive on the surface of a planet or moon have
 resulted in disaster. At the least the jump drive is destroyed, sometimes
@@ -691,14 +710,17 @@ significantly affected.
 
 TRACKING AND
 
+
+
 ```
 DETECTING JUMPS
+
+
 The arrival of a ship in a star system is indicated by a 'jump flash' or 'jump
 flare' from the collapsing jump field and a 'gravity wave' caused by the
 fact a mass is present that was not previously there. These phenomena
 are normally obvious to a ship with functioning sensors, out to about
-300,000km, requiring only a Routine (6+) Electronics (sensors) check
-(EDU) or (INT). Consult the Jump Detection table for the difficulty of
+300,000km, requiring only a Routine (6+) Electronics (sensors) check (EDU) or (INT). Consult the Jump Detection table for the difficulty of
 detecting a ship at greater distances. Beyond this distance the arrival
 might not be picked up.
 ```
@@ -740,7 +762,11 @@ Displacement Tons DM to Check
 
 TRACKING AND
 
+
+
 PREDICTING JUMPS
+
+
 
 The easiest way to predict a ship's destination is to require vessels to use
 part-prepared jump plots. This has the advantage that all ships from a
@@ -784,14 +810,26 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 ```
 SI
+
+
 GN
+
+
 AL
+
+
 ```
 
 16
@@ -890,12 +928,20 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 **SI
 GN
+
+
 AL**
 
 ## ADVENTUREADVENTURE
@@ -922,6 +968,8 @@ a free hand to do as they think best but will be disavowed if caught.
 
 ```
 BACKGROUND
+
+
 The following information is for the use of the Referee. Much of it can be
 obtained by the Travellers through various means. The Referee should
 pass out the information to the Travellers as they earn it but should also
@@ -1042,6 +1090,8 @@ not getting involved in the affairs of those who ignore the warnings.
 
 ```
 LIBRARY DATA
+
+
 The following information is widely available through data terminals
 and standard encyclopaediae. It can be considered to be reasonably
 accurate as far as it goes but simple common sense should indicate that
@@ -1071,6 +1121,8 @@ Imperial border.
 
 ```
 THE SITUATION
+
+
 All information beyond this point is for the use of the Referee. Any or all
 of it can be offered to the Travellers when appropriate but the version
 presented may not be complete, accurate or free from bias.
@@ -1128,8 +1180,9 @@ making, has resolved to liberate his son by any means necessary.
 
 THE MISSION
 
-Oberlindes Lines has determined that Sergei is being held in a high-
-security prison in a remote area and wants to stage a rescue. However,
+
+
+Oberlindes Lines has determined that Sergei is being held in a high-security prison in a remote area and wants to stage a rescue. However,
 the operation must be deniable so using the company's own assets is not
 an option. Oberlindes Lines will provide transportation to Ruie aboard an
 independent starship – whose crew are not involved in the mission and
@@ -1235,14 +1288,12 @@ usually means no more than four law enforcement officers with sidearms
 and possibly shotguns or rifles. Law enforcement is paramilitary in
 Nebelthorn, especially near the border, and cooperation with the armed
 forces tends to be close. A minor alert such as being detected cutting the
-border fence or leaving vehicle tracks near it will provoke only a go-and-
-investigate response by a single patrol but any violent incident will result
+border fence or leaving vehicle tracks near it will provoke only a go-and-investigate response by a single patrol but any violent incident will result
 in an escalating response.
 
 At first, a response will be locally available forces in light vehicles, armed
 with smallarms and perhaps a machinegun. TL6 aircraft are available and
-will be sent to undertake reconnaissance in the event of a major incident
-(such as someone firing upon guards investigating a border breach). These
+will be sent to undertake reconnaissance in the event of a major incident (such as someone firing upon guards investigating a border breach). These
 
 24
 
@@ -1277,6 +1328,8 @@ the nearest military base.
 
 ```
 THE PRISON
+
+
 The prison is located on a small plateau kept barren of vegetation by
 chain gangs from the prison itself. It is surrounded by a double outer
 fence, with a 15 meters clear zone in between. There are guard towers at
@@ -1445,6 +1498,8 @@ The Travellers will have to decide what to do about this and quickly...
 
 EXFILTRATION AND AFTERMATH
 
+
+
 In a perfect universe the Travellers would sneak or bluff their way in,
 extract Sergei and his girlfriend, and drive off without incident before
 making a convenient rendezvous to get off-planet. Few Travellers live in
@@ -1518,8 +1573,7 @@ Cartridge Laser Weapons
 
 Laser weapons can bring a high level of destruction to the battlefield but
 at lower Tech Levels, are constrained by the necessity for a bulky power
-pack. The earliest laser weapons may require a small but heavy back-
-pack to provide enough power and even more advanced models need a
+pack. The earliest laser weapons may require a small but heavy back-pack to provide enough power and even more advanced models need a
 weighty belt-mounted pack that remains uncomfortable and restricting.
 
 Cartridge laser weapons dispense with the need for a power pack by
@@ -1606,8 +1660,7 @@ inscrutable and unrelenting.
 ```
 The K'kree religion is a fatalistic one, in which the concepts of 'fate' or
 'kar ma' from terrestrial religions would be very much appropriate. The
-K'kree believe that most of what happens has been long since preor-
-dained and is quite unchangeable by any mortal agency. This fatalism,
+K'kree believe that most of what happens has been long since preor-dained and is quite unchangeable by any mortal agency. This fatalism,
 however, is tempered by an absolute faith in their own glorious destiny. In
 accordance with the basic concept of the group being far more important
 than the individuals that make it up, the K'kree believe that no number of
@@ -1628,8 +1681,7 @@ any race anywhere. The K'kree believe that each and every living K'kree
 is the worldly counterpart of a divine being. The religion holds that there
 is an ideal universe, somewhere in time and space, in which all K'kree
 who ever were (or will ever be) live. It is a single, immense prairie on
-which all can live in complete peace and harmony, under a divine Step-
-pelord who rules over all equally.
+which all can live in complete peace and harmony, under a divine Step-pelord who rules over all equally.
 
 Each mortal K'kree is a living embodiment of his respective divine
 counterpart, born into the world for the dual purpose of carrying forward
@@ -1830,6 +1882,8 @@ and reconfiguring the fleet of ships it acquired during its trip.
 
 ```
 CREW RUNNING COSTS
+
+
 Pilot, Astrogator, Engineers x 731,
 Mechanics x 200, Administrators x
 100, Medics x 30, Stewards x 36,
@@ -1853,7 +1907,7 @@ MCr62566.55
 ```
 TL 12 Tons Cost (MCr)
 Hull 200,000 Tons, Standard Light - 7500
-M-Drive Thrust 2 (energy efficient x2) 4,000 10000
+M-Drive Thrust2 (energy efficient x2) 4,000 10000
 J-Drive Jump 3 15,005 22507.5
 Power
 Plant
@@ -1878,8 +1932,7 @@ Computer Computer Core/70 - 80
 Sensors Improved, Distributed Arrays 9 12.9
 Improved Signal Processing 1 4
 Mineral Detection Suite - 5
-Systems Fuel Processor
-(60,660 tons/day)
+Systems Fuel Processor (60,660 tons/day)
 ```
 
 ```
@@ -1892,8 +1945,7 @@ Cargo Cranes 496.5 506.5
 Cargo Net x8 40 8
 Medical Bay x30 120 60
 Biosphere (3,600 people) 1,800 360
-Basic Manufacturing Plant
-(470 tons/day)
+Basic Manufacturing Plant (470 tons/day)
 ```
 
 ```
@@ -1910,8 +1962,7 @@ Plant (470 tons/day)
 ```
 
 ```
-Specialist Manufacturing Plant
-(94 tons/day)
+Specialist Manufacturing Plant (94 tons/day)
 ```
 
 ```
@@ -1941,8 +1992,7 @@ radioactives per day)
 
 ```
 TL 12 Tons Cost (MCr)
-Systems Smelter
-(1692 tons ore into 846 tons
+Systems Smelter (1692 tons ore into 846 tons
 raw materials per day)
 ```
 
@@ -1991,10 +2041,14 @@ Total 62566.55
 
 ```
 HULL POINTS
+
+
 120,000
 ```
 
 POWER REQUIREMENTS
+
+
 
 ```
 Basic Ship Systems
@@ -2310,6 +2364,8 @@ c d
 
 ```
 LEGEND
+
+
 ```
 
 1. J-drive
@@ -2452,13 +2508,11 @@ f g h
 (^99)
 (^99)
 9
-9
-(^99)
-9
+9 (^99)
 9
 9
 9
-(^99)
+9 (^99)
 8
 10
 10
@@ -2479,8 +2533,7 @@ f g h
 10
 5
 6
-6
-(^145)
+6 (^145)
 12
 
 ## ENCOUNTERSENCOUNTERS
@@ -2746,6 +2799,8 @@ determination is required, roll 2D and add the change DM:
 ```
 
 TRADING
+
+
 For example, shares in The Interstellar Widget Corporation (TIWC)
 start out at Cr70 per share. The Referee decides this is a Changeable
 stock, which changes at a rate of 1D Credits per share. The stock is
@@ -2989,8 +3044,7 @@ serviceable wings (which span four meters), while the midlimbs became
 both generalised and flexible enough to permit tool-making.
 
 Ael eyesight is slightly better than that of a human. Their visual range
-extends into the infrared, giving them good night vision, while a light-
-sensitive lens pigmentation keeps them from being dazzled by harsh
+extends into the infrared, giving them good night vision, while a light-sensitive lens pigmentation keeps them from being dazzled by harsh
 sunlight or brilliantly reflective surfaces.
 
 Ael are fierce warriors in combat; in hand-to-hand combat they can
@@ -3000,6 +3054,8 @@ enclosed area where they cannot take flight, such as within a starship or
 building interior, and will avoid this if at all possible.
 
 HISTORY
+
+
 
 The Ael apparently developed intelligence too late to save their species.
 Their world of Jaeyelya is drying out and the once extensive forests have
@@ -3067,21 +3123,29 @@ Jaeyelya this way may save this culture from extinction.
 
 ```
 JAEYELYA
+
+
 B-6
 ```
 
 ```
 NEMEET
+
+
 D-8
 ```
 
 ```
 OUNASH
+
+
 X-7
 ```
 
 ```
 PHOENAEG
+
+
 D-5
 ```
 
@@ -3109,77 +3173,104 @@ Imperial Naval Base
 
 ```
 STRAND
+
+
 C-8
 ```
 
 ```
 USHULU
+
+
 C-8
 ```
 
 ```
 ROOLYZ
+
+
 C-B
 ```
 
 ```
-GIHMENTAH-
-LISH
+GIHMENTAH-LISH
 B-9
 ```
 
 ```
 DIKAASH
+
+
 B-D
 ```
 
 ```
 SAGAL
+
+
 X-6
 ```
 
 ```
 LEM
+
+
 D-8
 ```
 
 ```
 CHOLTONRUL
+
+
 A-D
 ```
 
 ```
 DIMKODRARN
+
+
 B-B
 ```
 
 ```
 ASIILISH
+
+
 A-E
 ```
 
 ```
 ZAMASHUUG
+
+
 B-B
 ```
 
 ```
 WOLS
+
+
 A-D
 ```
 
 ```
 GWELBYTH
+
+
 C-8
 ```
 
 ```
 FLASLOUSK
+
+
 C-9
 ```
 
 ```
 IMAGALU
+
+
 B-8
 ```
 
@@ -3301,21 +3392,29 @@ D560867-5
 
 ```
 JAEYELYA
+
+
 B-6
 ```
 
 ```
 NEMEET
+
+
 D-8
 ```
 
 ```
 OUNASH
+
+
 X-7
 ```
 
 ```
 PHOENAEG
+
+
 D-5
 ```
 
@@ -3343,77 +3442,104 @@ Imperial Naval Base
 
 ```
 STRAND
+
+
 C-8
 ```
 
 ```
 USHULU
+
+
 C-8
 ```
 
 ```
 ROOLYZ
+
+
 C-B
 ```
 
 ```
-GIHMENTAH-
-LISH
+GIHMENTAH-LISH
 B-9
 ```
 
 ```
 DIKAASH
+
+
 B-D
 ```
 
 ```
 SAGAL
+
+
 X-6
 ```
 
 ```
 LEM
+
+
 D-8
 ```
 
 ```
 CHOLTONRUL
+
+
 A-D
 ```
 
 ```
 DIMKODRARN
+
+
 B-B
 ```
 
 ```
 ASIILISH
+
+
 A-E
 ```
 
 ```
 ZAMASHUUG
+
+
 B-B
 ```
 
 ```
 WOLS
+
+
 A-D
 ```
 
 ```
 GWELBYTH
+
+
 C-8
 ```
 
 ```
 FLASLOUSK
+
+
 C-9
 ```
 
 ```
 IMAGALU
+
+
 B-8
 ```
 
@@ -3535,21 +3661,29 @@ D560867-5
 
 ```
 JAEYELYA
+
+
 B-6
 ```
 
 ```
 NEMEET
+
+
 D-8
 ```
 
 ```
 OUNASH
+
+
 X-7
 ```
 
 ```
 PHOENAEG
+
+
 D-5
 ```
 
@@ -3577,77 +3711,104 @@ Imperial Naval Base
 
 ```
 STRAND
+
+
 C-8
 ```
 
 ```
 USHULU
+
+
 C-8
 ```
 
 ```
 ROOLYZ
+
+
 C-B
 ```
 
 ```
-GIHMENTAH-
-LISH
+GIHMENTAH-LISH
 B-9
 ```
 
 ```
 DIKAASH
+
+
 B-D
 ```
 
 ```
 SAGAL
+
+
 X-6
 ```
 
 ```
 LEM
+
+
 D-8
 ```
 
 ```
 CHOLTONRUL
+
+
 A-D
 ```
 
 ```
 DIMKODRARN
+
+
 B-B
 ```
 
 ```
 ASIILISH
+
+
 A-E
 ```
 
 ```
 ZAMASHUUG
+
+
 B-B
 ```
 
 ```
 WOLS
+
+
 A-D
 ```
 
 ```
 GWELBYTH
+
+
 C-8
 ```
 
 ```
 FLASLOUSK
+
+
 C-9
 ```
 
 ```
 IMAGALU
+
+
 B-8
 ```
 
@@ -3769,21 +3930,29 @@ D560867-5
 
 ```
 JAEYELYA
+
+
 B-6
 ```
 
 ```
 NEMEET
+
+
 D-8
 ```
 
 ```
 OUNASH
+
+
 X-7
 ```
 
 ```
 PHOENAEG
+
+
 D-5
 ```
 
@@ -3811,77 +3980,104 @@ Imperial Naval Base
 
 ```
 STRAND
+
+
 C-8
 ```
 
 ```
 USHULU
+
+
 C-8
 ```
 
 ```
 ROOLYZ
+
+
 C-B
 ```
 
 ```
-GIHMENTAH-
-LISH
+GIHMENTAH-LISH
 B-9
 ```
 
 ```
 DIKAASH
+
+
 B-D
 ```
 
 ```
 SAGAL
+
+
 X-6
 ```
 
 ```
 LEM
+
+
 D-8
 ```
 
 ```
 CHOLTONRUL
+
+
 A-D
 ```
 
 ```
 DIMKODRARN
+
+
 B-B
 ```
 
 ```
 ASIILISH
+
+
 A-E
 ```
 
 ```
 ZAMASHUUG
+
+
 B-B
 ```
 
 ```
 WOLS
+
+
 A-D
 ```
 
 ```
 GWELBYTH
+
+
 C-8
 ```
 
 ```
 FLASLOUSK
+
+
 C-9
 ```
 
 ```
 IMAGALU
+
+
 B-8
 ```
 
@@ -3990,6 +4186,8 @@ are a government monopoly.
 
 SOCIETY
 
+
+
 The Ael Yael culture has a rich heritage of recited verse, poetry and
 mnemonic literature. They enjoy reading the writings of Imperial peoples,
 which they like to rework into Aelan literature types in their free time.
@@ -4000,6 +4198,8 @@ terms of hunting or flight, such as 'I grasp your meaning,' 'I need to look
 down on that idea' or 'My soul feels wing-clipped'.
 
 EQUIPMENT
+
+
 
 The Ael Yael never developed sophisticated tools or weapons. They now
 have a few projectile weapons based on Imperial designs but have never
@@ -4018,6 +4218,8 @@ been designed for Aels but they can wear these only by folding their wings.
 
 ```
 AEL YAEL TRAVELLERS
+
+
 Travelling Ael feel they have a responsibility to the entire Ael Yael race.
 Except for a small living allowance, everything they earn is turned over
 to a planetary trust fund administered by the protectorate government on
@@ -4034,8 +4236,7 @@ corporations and businesses throughout the Imperium, especially
 51
 ```
 
-those involved in mining or planetary exploitation. Experienced Aels
-(with SOC 9+) will understand that not all big business interests involve
+those involved in mining or planetary exploitation. Experienced Aels (with SOC 9+) will understand that not all big business interests involve
 murder and genocide but will never trust mercantile organizations or
 individuals unreservedly. They will join an enterprise sponsored by
 merchants or corporations only if they see very large rewards for their
@@ -4061,8 +4262,7 @@ Traits
 Ael Yael Travellers all possess the following traits.
 
 Dense Atmosphere Flyer: Aels can fly on worlds of Size 6- less with
-dense atmospheres. In standard atmospheres, or on worlds of Sizes 7-
-8, they can glide from high elevations to lower ones, hover for a few
+dense atmospheres. In standard atmospheres, or on worlds of Sizes 7-8, they can glide from high elevations to lower ones, hover for a few
 seconds or ride updrafts found alongside cliffs or within canyons.
 
 Keen Awareness: Ael Yael receive DM+2 on Recon checks, due to the
@@ -4098,6 +4298,8 @@ Ranib subsector within the Trojan Reach. The Arhiyao can be used as a
 
 ```
 HISTORY
+
+
 The Arhiyao are a young clan by Aslan standards. They cannot trace
 their lineage back to Kusyu; they have never been accounted among
 the Twenty-Nine Great Clans, nor were their glorious deeds recorded in
@@ -4121,8 +4323,7 @@ to be accounted an independent clan.
 ```
 
 ```
-In 2577 (209 Imperial), one of these descendants, Klraiyoarhiyaoaiftla-
-iyhruuhru, quarrelled with his Hrasua lord over a point of honor. Klraiyo
+In 2577 (209 Imperial), one of these descendants, Klraiyoarhiyaoaiftla-iyhruuhru, quarrelled with his Hrasua lord over a point of honor. Klraiyo
 and his followers hired a colony ship belonging to the Wahtoi clan and
 crossed the Great Rift. Klraiyo was accompanied by his new wife, a stolen
 female of the Hrasua line. The Hrasua have never forgotten nor forgiven
@@ -4177,8 +4378,7 @@ scouts. They had a world but the two most influential clans in the region
 - the Wahtoi and the Aroaye'i – considered the Arhiyao to be enemies
 and one of the Twenty-Nine still held a blood feud with the new clan
 over the kidnapping of Klraiyo's bride. Back in Hierate space, the Arhiyao
-would have been put back in their place within a decade by some long-
-established traditionalist clan.
+would have been put back in their place within a decade by some long-established traditionalist clan.
 
 ```
 The Trojan Reach is a land of opportunity and new possibilities, although
@@ -4226,6 +4426,8 @@ his custom vessel, the 1,000-ton Salouwealryekha but was accounted
 one of the wealthiest Aslan in the Reach before his disappearance.
 
 THE WAHTOI STRIKE BACK
+
+
 
 Over the next two centuries, the Arhiyao consolidated what they had won.
 Their population grew as they tamed Uitasoayaw and they maintained
@@ -4300,8 +4502,7 @@ and a formidable industrial base.
 
 ```
 The Arhiyao offered to act as intermediaries, reselling Tru'shan
-technology to khiraokhaor'ya clans. A new corporation, the Ekhoaoiarl
-(Brother-Making Commercial Endeavor) was founded to pursue this
+technology to khiraokhaor'ya clans. A new corporation, the Ekhoaoiarl (Brother-Making Commercial Endeavor) was founded to pursue this
 trade. The Arhiyao owned a third of the shares, the Tru'shan another
 third and the final third was traded openly on the Aslan markets (but most
 of these shares were quickly purchased by Arhiyao traders).
@@ -4337,8 +4538,7 @@ was a young warrior named Khtoarlyu, the Steel Cat, who lost an eye and
 57
 ```
 
-both legs during the battles for Uitasoayaw. He was fitted with Tru'shan-
-built cybernetics to restore his strength and for the rest of his life he was
+both legs during the battles for Uitasoayaw. He was fitted with Tru'shan-built cybernetics to restore his strength and for the rest of his life he was
 accompanied everywhere by Tru'shan technician-maidens to maintain
 and adjust his machine parts.
 
@@ -4349,6 +4549,8 @@ fleets pursued them and the war ended with the Wahtoi ceding the world
 of Ehaealir to the Arhiyao.
 
 THE GLORIOUS EMPIRE
+
+
 
 The clan's alliance with the Glorious Empire was always going to be a
 troublesome one. Ever since the Tokouea'we clan broke away from the
@@ -4437,6 +4639,8 @@ An uneasy peace lasted for the remainder of Yahefiy's reign.
 
 ```
 RECENT TROUBLES
+
+
 While the Ahriyao claim four worlds as theirs, only the well-established
 planets of Uitasoayaw and Hkakh are the clan's core territory. Ehaealir is
 shared with several other clans, most of whom have more resources than
@@ -4469,6 +4673,8 @@ or they may be conquered by another clan who can feed their citizens.
 
 ```
 CLAN STRUCTURE
+
+
 The clan Ahriyao numbers some 29 million Aslan, divided between seven
 major prides who make up the aristocratic tier of the clan (and hold most
 of the territory) and another four dozen lesser prides. The head of the
@@ -4621,6 +4827,8 @@ Strengths: Territory, Military, Population
 
 ```
 POLITICS
+
+
 Internal politics within the Ahriyao is cut-throat in a restrained way. In
 other clans, the fight to determine which pride will dominate the clan
 is a brutal, bloody one and any of a half-dozen strong prides could
@@ -4641,6 +4849,8 @@ are powerful enough to be cultivated as allies.
 
 ```
 MILITARY FORCES
+
+
 The clan is too small to support any capital ships, so the Ahriyao
 specialise in smaller, more agile forces. They have significant numbers
 of Ekawsiykua escorts for light duties and local defence, augmented by
@@ -4653,6 +4863,8 @@ Halaheike warships. Their ground forces number some 30,000 warriors.
 ```
 
 WORLDS
+
+
 
 Uitasoayaw (B579687-9, Ni) is the oldest of the clan's planets. It is a
 poor and unremarkable world. Its native biosphere was wiped out by the
@@ -4722,14 +4934,26 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 ```
 SI
+
+
 GN
+
+
 AL
+
+
 ```
 
 64
@@ -4744,6 +4968,8 @@ Haurenahar believe it is the best way to secure the coreward frontier.
 
 ```
 IMPORTANT CHARACTERS
+
+
 The Ahriyaoko today is an elderly male of the Ahriyao family. His mind is
 fraying and he is rumored to be increasingly paranoid about the clan's
 ancient foes, the Hrasua. His youngest wife, G'aulai of the Yahefiy has
@@ -4771,6 +4997,8 @@ clan's military forces. Tolirah is an inspiring leader and a brilliant tactician
 
 ```
 ADVENTURE IDEAS
+
+
 The Tru'shan Famine: The Tru'shan clan are on the brink of famine. An
 Arhiyao researcher just discovered that a new form of plant engineered
 by Syoisuis scientists will thrive on the Tru'shan worlds. If this plant
@@ -4834,12 +5062,20 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 **SI
 GN
+
+
 AL**
 
 ## ADVENTUREADVENTURE
@@ -4856,6 +5092,8 @@ Location: Thor (D669577-5) Yggdrasil Subsector, Trojan Reach
 
 ```
 THOR
+
+
 Thor is a distinctly unimportant world located on an offshoot of the
 Dustbelt, or Sindalian Main. Most traffic along the main uses the primary
 route into Florian space, bypassing Thor and nearby worlds. As a result,
@@ -4900,6 +5138,8 @@ competition for resources.
 
 ```
 THE SITUATION
+
+
 The Travellers are expecting to leave Thor sometime soon when they
 are approached by Martin Trelane. Trelane is apparently a bit drunk and
 rambles awkwardly for a while about a problem he has. Clearly he needs
@@ -4947,32 +5187,48 @@ rambles awkwardly for a while about a problem he has. Clearly he needs
 
 ```
 THOR
+
+
 D-5
 SOLARIA
+
+
 B-8
 BORONU
+
+
 B-A
 ```
 
 ```
 ZIMT
+
+
 C-9
 ```
 
 ```
 DPRES
+
+
 B-A
 YGGDRASIL
+
+
 B-8
 ```
 
 ```
 GABRIEL
+
+
 C-B
 ```
 
 ```
 ODIN
+
+
 B-8
 ```
 
@@ -5000,11 +5256,15 @@ Other Naval/Tlauku Base
 
 ```
 FORANDIN
+
+
 B-9
 ```
 
 ```
 CONNAUGHT
+
+
 D-9
 ```
 
@@ -5109,32 +5369,48 @@ Yggdrasil subsector
 
 ```
 THOR
+
+
 D-5
 SOLARIA
+
+
 B-8
 BORONU
+
+
 B-A
 ```
 
 ```
 ZIMT
+
+
 C-9
 ```
 
 ```
 DPRES
+
+
 B-A
 YGGDRASIL
+
+
 B-8
 ```
 
 ```
 GABRIEL
+
+
 C-B
 ```
 
 ```
 ODIN
+
+
 B-8
 ```
 
@@ -5162,11 +5438,15 @@ Other Naval/Tlauku Base
 
 ```
 FORANDIN
+
+
 B-9
 ```
 
 ```
 CONNAUGHT
+
+
 D-9
 ```
 
@@ -5248,32 +5528,48 @@ B20149B-8
 
 ```
 THOR
+
+
 D-5
 SOLARIA
+
+
 B-8
 BORONU
+
+
 B-A
 ```
 
 ```
 ZIMT
+
+
 C-9
 ```
 
 ```
 DPRES
+
+
 B-A
 YGGDRASIL
+
+
 B-8
 ```
 
 ```
 GABRIEL
+
+
 C-B
 ```
 
 ```
 ODIN
+
+
 B-8
 ```
 
@@ -5299,11 +5595,15 @@ Other Naval/Tlauku Base
 
 ```
 FORANDIN
+
+
 B-9
 ```
 
 ```
 CONNAUGHT
+
+
 D-9
 ```
 
@@ -5385,32 +5685,48 @@ B20149B-8
 
 ```
 THOR
+
+
 D-5
 SOLARIA
+
+
 B-8
 BORONU
+
+
 B-A
 ```
 
 ```
 ZIMT
+
+
 C-9
 ```
 
 ```
 DPRES
+
+
 B-A
 YGGDRASIL
+
+
 B-8
 ```
 
 ```
 GABRIEL
+
+
 C-B
 ```
 
 ```
 ODIN
+
+
 B-8
 ```
 
@@ -5438,11 +5754,15 @@ Other Naval/Tlauku Base
 
 ```
 FORANDIN
+
+
 B-9
 ```
 
 ```
 CONNAUGHT
+
+
 D-9
 ```
 
@@ -5510,6 +5830,8 @@ is true that Ewyryhu once clawed his eye out but he had it coming.
 
 EWYRYHU AND MARCHAND
 
+
+
 When Ewyryhu was a young mercenary working on the Imperial frontiers,
 he encountered a naval flight officer named Charles Marchand, a
 wealthy and arrogant young human who particularly disliked two groups
@@ -5570,6 +5892,8 @@ Travellers agree to help him.
 
 ```
 KIRI AND TRELANE
+
+
 Kiri is a juvenile female Aslan – about as non-combatant as someone can
 be. She is hiding nearby, armed with a half-empty revolver Trelane took
 from a guard. She, the air/raft, and this gun are all Trelane has to work
@@ -5656,9 +5980,13 @@ ranch amenities
 
 ```
 LEGEND
+
+
 ```
 
 N
+
+
 
 70
 
@@ -5672,6 +6000,8 @@ friend whatever the outcome for Trelane himself might be.
 
 ```
 THE HUNT
+
+
 Marchand is holding Ewyryhu along with his wife/estates manager
 Lrowyie and their son Ktiskryhu. The latter was pretty thoroughly worked
 over by Marchand. There were also two guards, one injured and the other
@@ -5711,6 +6041,8 @@ intruders on the estate – Aslan or human.
 
 ```
 THE RESCUE
+
+
 If the Travellers can reach the house before dawn they may be able
 to somehow get the captives out. They are bound and will be carefully
 guarded. A little before dawn they will be loaded into a wheeled truck
@@ -5727,6 +6059,8 @@ air/rafts making a low pass.
 ```
 
 A
+
+
 
 1
 
@@ -5765,27 +6099,51 @@ A
 
 A
 
+
+
 B
 
+
+
 C
+
+
 
 D
 
+
+
 E
+
+
 
 G
 
-F
+
 
 F
+
+
+
+F
+
+
 
 H
 
+
+
 H
 
+
+
 F
+
+
 
 C
+
+
 
 ```
 A. Garage with trucks, air/rafts & grav carB. Basic workshopC. Staff cottageD. Main buildingE. Guest wingF. Equipment/supply storeG. Building extensionH. Shed
@@ -5795,6 +6153,8 @@ A. Garage with trucks, air/rafts & grav carB. Basic workshopC. Staff cottageD. M
 
 ```
 N
+
+
 ```
 
 72
@@ -5861,6 +6221,8 @@ means essentially plotting ambush and murder.
 ```
 
 SMAETAL SWARMS
+
+
 Smaetal swarmers, popularly known as smaets, minnies and pirhana
 bugs, are an extremely small, flying life form native to Smaeta, near the
 Imperial core but now found infrequently on countless humid, tropical
@@ -5919,8 +6281,7 @@ ascertain details of reproduction.
 
 ```
 The primary means by which these creatures spread from world-to-world
-is in uninspected or improperly inspected cargoes of fruit, usually soft-
-skinned tropical varieties, such as sasthmandra, corybellum, banana,
+is in uninspected or improperly inspected cargoes of fruit, usually soft-skinned tropical varieties, such as sasthmandra, corybellum, banana,
 ```
 
 ```
@@ -5974,8 +6335,7 @@ whenever swarming smaets are encountered.
 76
 
 ```
-SPRINGER
-(Arachnofefis var.)
+SPRINGER (Arachnofefis var.)
 ```
 
 ```
@@ -5989,8 +6349,7 @@ and 500 grams, springers average 15 centimeters in length.
 ```
 
 ```
-For reasons not completely understood, springers evolved from a four-
-limbed form. Each limb evolved into two, the upper portion shortening
+For reasons not completely understood, springers evolved from a four-limbed form. Each limb evolved into two, the upper portion shortening
 almost into non-existence. Silk is excreted by glands in the upper chest
 area, which is hairless to prevent tangling. Two modified 'thumbs' are used
 to draw silk from the glands and manipulate a web. The silk produced is
@@ -6037,8 +6396,7 @@ Survival
 78
 
 ```
-KIAN
-(Pseudostrophio gigas)
+KIAN (Pseudostrophio gigas)
 ```
 
 ```
@@ -6109,8 +6467,7 @@ special filter/muzzle (Cr60) for tainted atmospheres.
 80
 
 ```
-HOPLITE
-(Marmotophagus var.)
+HOPLITE (Marmotophagus var.)
 ```
 
 ```
@@ -6180,8 +6537,7 @@ tough, determined predator to bring down an adult hoplite.
 82
 
 ```
-IVORY GAZELLE
-(Rasura weberii, R. kudebeckii, et al)
+IVORY GAZELLE (Rasura weberii, R. kudebeckii, et al)
 ```
 
 ```
@@ -6206,8 +6562,7 @@ follow [[Terra|Terran]] norms.
 The chief departure from [[Terra|Terran]] characteristics is in the digestive
 system. Although possessing many of the characteristics of mammals,
 the ivory gazelle has a digestive system with many features of that of
-birds. The mouth has no teeth but has two pairs of opposed shear-
-like structures (one on each side of the mouth) and a long, prehensile
+birds. The mouth has no teeth but has two pairs of opposed shear-like structures (one on each side of the mouth) and a long, prehensile
 tongue. The grasses and soft shrubs upon which the ivory gazelle
 feeds are cropped off and swallowed whole, as with [[Terra|Terran]] ruminants,
 but instead of being regurgitated and chewed at a later time, the food
@@ -6263,8 +6618,7 @@ BEHAVIOUR Herbivore, Grazer
 84
 
 ```
-GARHAWK
-(Stellafalconformis ululatis)
+GARHAWK (Stellafalconformis ululatis)
 ```
 
 ```
@@ -6372,8 +6726,7 @@ be captured while still flightless in the nest in order for optimum training.
 Those captured too soon will not survive and those captured too late
 will be too hard to control (although even the best trained of garhawks
 are difficult to control completely). Training takes D3+5 months, with a
-training session every day. On each encounter, an Average (8+) Animals
-(training) check is required to avoid attack. At the end of the training
+training session every day. On each encounter, an Average (8+) Animals (training) check is required to avoid attack. At the end of the training
 period, a Difficult (10+) Animals (training) check is required for the
 garhawk to be trained and 'domesticated'.
 ```
@@ -6386,8 +6739,7 @@ garhawk to be trained and 'domesticated'.
 
 ##### LSP MODULAR CUTTER
 
-The now-familiar modular cutter has its origins in the Third Frontier War
-(979-986). It was not the first modular vessel, and is by no means the
+The now-familiar modular cutter has its origins in the Third Frontier War (979-986). It was not the first modular vessel, and is by no means the
 only one, but for most Travellers it is the archetypical craft that leaps to
 mind when detachable modules are mentioned.
 
@@ -6460,8 +6812,7 @@ construction from those detailed on page 103 of High Guard.
 ### Open Module
 
 An 'open' module is not open to vacuum but is instead open in the sense
-of being customisable. It consists of 30 tons of open space, with tie-
-downs for cargo and little else. Open modules are used for cargo haulage
+of being customisable. It consists of 30 tons of open space, with tie-downs for cargo and little else. Open modules are used for cargo haulage
 or converted into part-passenger/part-freight craft with the addition of a
 fresher and a few seats.
 
@@ -6547,6 +6898,8 @@ Stores and supplies
 
 ```
 ATV
+
+
 ```
 
 92
@@ -6766,6 +7119,8 @@ like everyone else.
 
 VOLUME OF PORT TRAFFIC
 
+
+
 The number of ships using the mainworld's port at any given time is
 largely determined by the population and importance of the mainworld.
 The following system is used to determine the number of vessels in the
@@ -6903,6 +7258,8 @@ undergoing maintenance.
 
 ```
 TRAFFIC CONTROL ISSUES
+
+
 Orbital traffic control is a complex business. Even with automated
 assistance, keeping large numbers of vessels moving in and out of the
 starport in an orderly fashion is a challenge. A delicate balance must
@@ -7072,8 +7429,7 @@ be allowed on the spacelanes...
 ##### WAR IN THE FOURTH DIMENSION
 
 The availability of air power adds a third dimension to the battlefield
-and the use of the electromagnetic spectrum expands it into a four-
-dimensional battlespace. The electromagnetic spectrum is routinely
+and the use of the electromagnetic spectrum expands it into a four-dimensional battlespace. The electromagnetic spectrum is routinely
 neglected by militias and insurgents, but a properly equipped military
 force is capable of making war in this 'fourth dimension'.
 
@@ -7090,6 +7446,8 @@ and security market, which can make all the difference when taking on a
 much larger lower-tech force.
 
 COMMUNICATIONS
+
+
 
 There is an old adage that 'warriors buy better guns; soldiers upgrade
 their comms'. Whilst not 100% accurate, good communications can
@@ -7109,8 +7467,7 @@ runs the risk of being saturated and unable to process what is useful.
 
 To remedy this problem, most battlefield information network systems
 have a tiering feature that is set by the electronics experts at
-headquarters. Command units, which usually contain communications-
-warfare experts, receive all information from all platforms but only pass
+headquarters. Command units, which usually contain communications-warfare experts, receive all information from all platforms but only pass
 on what the system deems relevant to lower-tier units. This function
 
 104
@@ -7125,8 +7482,12 @@ TL10 information network system.
 
 RECONNAISSANCE
 
+
+
 ```
 AND INTELLIGENCE
+
+
 The most obvious form of electromagnetic spectrum intelligence comes
 from cameras and thermal imagers mounted on various platforms,
 including battlefield drones. However, much can be learned from the
@@ -7275,8 +7636,7 @@ account) but the sniper can shoot in the right place.
 Automatic Alerts
 The TacMap feature can be combined with additional sensors to alert
 the user if hostiles or unknown contacts move into certain areas and
-run pre-selected responses if desired. For example, a unit could be set-
-up to detonate mines or distraction devices such as flashbangs when
+run pre-selected responses if desired. For example, a unit could be set-up to detonate mines or distraction devices such as flashbangs when
 someone who is not a member of the force enters a particular area. This
 feature must be used with caution as it can create chaos or result in
 collateral casualties but in the right context it is very useful.
@@ -7396,8 +7756,7 @@ Comspotter 9 – Cr100
 
 Electronic Mapping Rocket
 
-Mapping rockets are a cheap and simple way to obtain an electronic-
-systems map of an area – and to advertise your own presence to
+Mapping rockets are a cheap and simple way to obtain an electronic-systems map of an area – and to advertise your own presence to
 everyone within several kilometers. They are sometimes used by
 prospectors to find magnetic materials and explorers to map out
 the ruins of an advanced culture by its power conduits but more are
@@ -7496,6 +7855,8 @@ of specialist forces.
 
 ```
 LIFT INFANTRY BATTALION
+
+
 The lift infantry battalion is one of the most common ground formations
 of the Zhodani military. These units comprise 32% of the Zhodani
 combat battalions known to be in the Spinward Marches. In Consular
@@ -7533,6 +7894,8 @@ this 'paper' strength can vary considerably in the field.
 
 ```
 HQ COMPANY
+
+
 ```
 
 Command Post Platoon
@@ -7695,6 +8058,8 @@ three line platoons.
 
 ```
 RIFLE COMPANY
+
+
 ```
 
 ```
@@ -7798,8 +8163,7 @@ Troops experienced in combat with Zhodani troops are accustomed to
 such tactics and take steps to minimise the effects. Fortified positions
 are provided with grenade sumps and troops are careful to either
 keep weapons pointed outwards through embrasures or unloaded.
-Nevertheless, the scrambler assault will clearly mark the position for non-
-psionic assault troops and supress
+Nevertheless, the scrambler assault will clearly mark the position for non-psionic assault troops and supress
 the defenders' ability to
 fire for several seconds.
 Properly exploited, this is
@@ -7812,6 +8176,8 @@ for the attackers.
 ```
 
 COMMANDO GROUPMENT
+
+
 
 The Zhodani commando forces are considered by some experts to
 be the most dangerous troops opposing the Imperium. Despite the 95
@@ -7876,6 +8242,8 @@ require considerable backup as only a limited amount of equipment can
 
 ```
 HQ SQUADRON
+
+
 ```
 
 ```
@@ -7966,14 +8334,15 @@ by conventional troops.
 
 **Commando Squadron**
 The commando squadrons are the main striking force of the battalion.
-Personnel are equipped with battle dress and PGMP-13s, with the FGMP-
-14 as squad support weapon. Troops not intended to directly engage the
+Personnel are equipped with battle dress and PGMP-13s, with the FGMP-14 as squad support weapon. Troops not intended to directly engage the
 enemy as a primary role, such as drivers and communications personnel,
 use combat armor and are equipped with gauss rifles. Personnel ride in
 grav APCs when not making a teleporting attack.
 
 ```
 COMMANDO SQUADRON
+
+
 ```
 
 Command Detachment
@@ -8067,6 +8436,8 @@ defences without actually doing anything.
 
 LING STANDARD PRODUCTS
 
+
+
 'PORT PORTER' TRANSPORT VEHICLE
 
 The Port Porter is a simple, cheap utility vehicle intended for use by
@@ -8136,15 +8507,21 @@ Stealth (Electronics (sensors) DM) –
 
 PORT PORTER TRANSPORT VEHICLE
 
+
+
 ```
 123
 ```
 
 LING STANDARD PRODUCTS
 
+
+
 'PORT PROTECTOR'
 
 LIGHT SECURITY VEHICLE
+
+
 
 Built on the same chassis as the Port Porter, the Port Protector is visually
 identical unless weapons are mounted, although most operators choose
@@ -8171,8 +8548,7 @@ the pintle weapon. However, additional personnel can be piled into
 the rear of the vehicle with a considerable degree of discomfort when
 making a short trip. The cab and critical systems are armored against
 intermediate calibre rifle fire – they will protect against small arms long
-enough to return fire or escape but offer little protection against anti-
-vehicle weapons. This is a perfectly acceptable trade-off in a Cr46000
+enough to return fire or escape but offer little protection against anti-vehicle weapons. This is a perfectly acceptable trade-off in a Cr46000
 vehicle, say the manufacturers, and the marketplace seems to agree
 with them. Port Protectors are a standard security vehicle throughout
 much of Charted Space.
@@ -8231,6 +8607,8 @@ Stealth (Electronics (sensors) DM) –
 ```
 
 PORT PORTER LIGHT SECURITY VEHICLE
+
+
 
 ## HIGH GUARDHIGH GUARD
 
@@ -8294,6 +8672,8 @@ inserted upon completion.
 
 ```
 CREW RUNNING COSTS
+
+
 Captain, Pilot/Astrogator x3,
 Engineers x3, Maintenance,
 Gunners x5, Small Craft Pilot,
@@ -8323,8 +8703,8 @@ Shielding
 
 ```
 Armor Crystaliron, Armor: 12 75 18
-M-Drive Thrust 6 (increased size) 37.5 56.25
-J-Drive Jump 1 (energy inefficient) 17.5 19.6875
+M-Drive Thrust6 (increased size) 37.5 56.25
+J-Drive Jump1 (energy inefficient) 17.5 19.6875
 Power Plant Fusion (TL12),
 Power 525 (increased size)
 ```
@@ -8355,8 +8735,7 @@ range, high yield) x2
 ```
 
 ```
-Particle Beam Barbettes
-(increased size) x2
+Particle Beam Barbettes (increased size) x2
 ```
 
 ```
@@ -8401,11 +8780,15 @@ Total: 263.63
 
 ```
 HULL POINTS
+
+
 200
 ```
 
 ```
 POWER REQUIREMENTS
+
+
 Basic Ship Systems
 Maneuver Drive
 Jump Drive
@@ -8492,6 +8875,8 @@ Fuel Processor
 9
 LEGEND
 
+
+
 1. Air lock
 2. Bridge
 3. Small particle bay
@@ -8502,6 +8887,8 @@ LEGEND
 
 ```
 LEGEND
+
+
 ```
 
 8. Armory

@@ -46,7 +46,7 @@ EDU: 13 +1
 WIS: 10 +0  
 CHA: 16 +3  
 SOC: 19 +0  
-PSI: 3 (tested but not trained, potential Teleporter)
+PSI:3 (tested but not trained, potential Teleporter)
 
 Note: Age (middle age) effects have already been taken into account.
 
@@ -67,10 +67,16 @@ Notes
 
 1. Not magical, simply high-tech and really well-made
     
+
+
 2. Includes +1 from masterwork ammo
     
+
+
 3. Includes -4 non-proficiency penalty
     
+
+
 
 #### SKILLS
 

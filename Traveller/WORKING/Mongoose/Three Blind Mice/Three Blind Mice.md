@@ -7,8 +7,7 @@ _Three Blind Mice_ uses _Mongoose Traveller 2 nd Edition_ rules. To run the adve
 Other books have been referenced including some _Mongoose Traveller 1 st Edition_ books which are the
 'latest' edition of the rules they cover. None of these additional texts are required for play but may provide additional background or inspiration. Notes have been provided to explain any references. _Book 2: High Guard, Book 7: Merchant Prince_ and _Supplement 13: Starport Encounters_ may be useful and are either referenced in the text or have been used to create characters. Other volumes which are relevant: Robots , Supplement 8: Cybernetics and The Spinward Marches. The author has also referred for background to the Mongoose volumes Book 1: Mercenary , Book 4: Psion , Book 9: Robot , Little Black Book 9: Library Data , and other works such as Don McKinney's Integrated Timeline and Joshua Bell's The Traveller Map and the Traveller Wiki.
 
-Cepheus Engine conversion notes for all PCs, NPCs and task checks are provided on pp.33-34. These should be taken as a guide rather than gospel. Some traditional
-(and perhaps necessary?) skills are not listed in the core rules. The conversion has kept to those which are present, but Referees may feel they wish to add their own skills in line with the original characters.
+Cepheus Engine conversion notes for all PCs, NPCs and task checks are provided on pp.33-34. These should be taken as a guide rather than gospel. Some traditional (and perhaps necessary?) skills are not listed in the core rules. The conversion has kept to those which are present, but Referees may feel they wish to add their own skills in line with the original characters.
 
 This adventure can be run from either or both of two points of view. For three PCs playing some of the crew of a starship, or for three players as stowaways, or for some players as the crew and some as the stowaways. In the latter case, it would be most effective if the two groups could be run separately until they encounter one another in either of the Scene 4s of Act One.
 
@@ -37,32 +36,30 @@ Some of the 'scenes' throughout this adventure are not necessarily a single dram
 
 #### Ex Navy Bretton Kilián Vaillancourt 54A945, Age 60, Rank: 1 Able Spacehand
 
-_Characteristics_ : Strength 5 (-1), Dexterity 4 (-1), Endurance 10 (+1), Intelligence 9 (+1), Education 4 (-1), Social Standing 5 (-1)
-_Homeworld_ : Magash (Deneb 0316 A400976-F) Hi Ht In Na Va Cp _Skills_ : Melee (blade) 3 , Animals (training) 2, Athletics (endurance) 2, Mechanic 2, Discipline 1 , Electronics (comms) 1, Electronics (sensors) 1, Engineer (life support) 1, Engineer (power) 1, Jack-of-All-Trades 1, Vacc Suit 1, Profession (butcher) 0, Streetwise 0 _Equipment_ : Cr 0 (was Cr42,000), Pension: Cr18,000 (currently suspended), blade, mechanical toolkit, 4 ship shares and air/raft (all sold to pay medical bills)
+_Characteristics_ : Strength5 (-1), Dexterity4 (-1), Endurance 10 (+1), Intelligence9 (+1), Education4 (-1), Social Standing5 (-1)
+_Homeworld_ : Magash (Deneb 0316 A400976-F) Hi Ht In Na Va Cp _Skills_ : Melee (blade) 3 , Animals (training) 2, Athletics (endurance) 2, Mechanic 2, Discipline 1 , Electronics (comms) 1, Electronics (sensors) 1, Engineer (life support) 1, Engineer (power) 1, Jack-of-All-Trades 1, Vacc Suit 1, Profession (butcher) 0, Streetwise 0 _Equipment_ : Cr0 (was Cr42,000), Pension: Cr18,000 (currently suspended), blade, mechanical toolkit, 4 ship shares and air/raft (all sold to pay medical bills)
 _Background_ : Bretton Kilián Vaillancourt – a grizzled 60 year old veteran of the Fourth Frontier War (see Library Data)
 which started when he was 37. He was mustered out of the Navy when blinded by starship laser fire; two subsequent treatments to grow replacement eyes have failed to take (which occurs about 1 in 10,000 times)
 and has consumed all the Credits he'd saved in his career. He carries a white stick with wireless earbuds that acts as a radar and gives some sense of surroundings. An investigation into a Fourth Frontier War atrocity has brought his name up in connection with being a participant and the Imperial War Crimes Investigation Bureau wants to bring him in. They want no possible excuse for the Zhodani to have cause for embarrassing the Imperium.
 
-Discipline The martial Discipline skill covers self-
-control, ingrained reflexes and training. A character with high Discipline is adept at following orders and procedures. In game terms, as long as the character is in a situation covered by training, negative DMs may be reduced by an amount equal to the skill. This may be done a number of times each day equal to the skill. Book 2: High Guard [MgT1], p.
+Discipline The martial Discipline skill covers self-control, ingrained reflexes and training. A character with high Discipline is adept at following orders and procedures. In game terms, as long as the character is in a situation covered by training, negative DMs may be reduced by an amount equal to the skill. This may be done a number of times each day equal to the skill. Book 2: High Guard [MgT1], p.
 
 Profession (butcher)
 The character is skilled in the slaughter and cutting up of animals for sale and/or consumption. The Referee may wish to limit how 'alien' a creature can be to be included in this Profession.
 
 #### Ex Navy Nestine Brümmer 85CA67, Age 44, Rank: 4 Commander
 
-_Characteristics_ : Strength 8 (+0), Dexterity 5 (-1), Endurance 12 (+2), Intelligence 10 (+1), Education 6 (+0), Social Standing 7 (+0)
+_Characteristics_ : Strength8 (+0), Dexterity5 (-1), Endurance 12 (+2), Intelligence 10 (+1), Education6 (+0), Social Standing7 (+0)
 _Homeworld_ : Maitz (Spinward Marches 2927 A201511-B) Ni
 _Skills_ : Deception 2, Gun Combat (slug) 2, Medic 2, Animals (handling) 1, Discipline 1, Electronics (comms) 1, Electronics (computers) 1, Drive (wheel) 1, Leadership 1, Pilot (any) 1, Recon 1, Tactics (naval) 1 , Admin 0, Engineer 0, Science (philosophy) 0, Streetwise 0, Vacc Suit 0
 _Equipment_ : Cr6000, Pension: Cr10,000, autopistol, 2 ship shares, ally, contact x 2, TL7 hand computer
 _Background_ : Nestine is a very attractive, ex-Imperial Naval Intelligence officer, blind from birth due to a congenital deformity, but has cybernetic implant eyes which have several enhancements INI made good use of. She was retired against her will after cutbacks and is now struggling to make ends meet as a teacher on Motmos. With rumors of possible hostilities with the Zhodani, INI are looking to reactivate her. Nestine is not interested due to the way she was treated and due to the Navy's treatment of other disabled vets she knows.
 
-Cybernetic eyes Nestine's eye replacements are cybernetic replacements described in Supplement 8: Cybernetics , p.60-61. She has three enhancements fitted: TL10 Low-
-Light Enhancement, TL Telescopic/Micro Sight (as per book but x15), TL10 Camera (as per book but 10 hours of recording or 200,000 images). If using the first two enhancements intensively (more than 90 minutes at a time), she can develop debilitating migraines which reduces her Strength by 1, her Dexterity by 2 and her Endurance by 3 for up to four hours. The irises of her eyes are a striking grey-blue.
+Cybernetic eyes Nestine's eye replacements are cybernetic replacements described in Supplement 8: Cybernetics , p.60-61. She has three enhancements fitted: TL10 Low-Light Enhancement, TL Telescopic/Micro Sight (as per book but x15), TL10 Camera (as per book but 10 hours of recording or 200,000 images). If using the first two enhancements intensively (more than 90 minutes at a time), she can develop debilitating migraines which reduces her Strength by 1, her Dexterity by 2 and her Endurance by 3 for up to four hours. The irises of her eyes are a striking grey-blue.
 
 #### Orphan Sina Heraidi Korson 578834 - A, Age 10
 
-_Characteristics_ : Strength 5 (-1), Dexterity 7 (+0), Endurance 8 (+0), Intelligence 8 (+0), Education 3 (-1), Social Standing 4 (-1), Psi Strength 10 (+1)
+_Characteristics_ : Strength5 (-1), Dexterity7 (+0), Endurance8 (+0), Intelligence8 (+0), Education3 (-1), Social Standing4 (-1), Psi Strength 10 (+1)
 _Homeworld_ : Motmos (Spinward Marches 1340 B68468B- 5 ) Ni
 _Skills_ : **Precognition 2** , Animals 0, Telekinesis (lobotomized)
 _Equipment_ : None
@@ -82,8 +79,7 @@ by Mark Graybill in _Freelance Traveller_ , no.24, December 2011
 
 ### Stowaway Scene 1: Running
 
-All three of the stowaways are currently on Motmos
-(Spinward Marches, 1340) and have made their way to a starport 'fixer' in order to get off world, Jemmy Hranf. Bretton arrived in the port area and tracked him down a few days ago; he's now living with one of Hranf's seedier relatives in a cheap apartment while the fixer waits for the right opportunity. Hranf is looking at various outgoing merchant ships for the best chance of either hiding someone or bribing the crew.
+All three of the stowaways are currently on Motmos (Spinward Marches, 1340) and have made their way to a starport 'fixer' in order to get off world, Jemmy Hranf. Bretton arrived in the port area and tracked him down a few days ago; he's now living with one of Hranf's seedier relatives in a cheap apartment while the fixer waits for the right opportunity. Hranf is looking at various outgoing merchant ships for the best chance of either hiding someone or bribing the crew.
 
 Now Nestine is knocking on Hranf's door just as he's explaining to Sina, who arrived a little earlier, that he can't possibly put her on a “ship to the stars”. Sina explains something of her background to both of them and after hearing her story, Nestine offers to take her under her wing.
 
@@ -121,6 +117,8 @@ Hexapedal cattle prized for its meat; usually found in Plain or Clear habitats. 
 
 ANIMAL HITS SPEED
 
+
+
 Xeeboo (33) 66 m SKILLS Athletics 0, Recon 0, Survival 0 ATTACKS Horn (1D), Bite (1D)
 TRAITS Armor (+1), Heightened Senses (+1), Large (+1)
 BEHAVIOUR Herbivore (grazer)
@@ -148,15 +146,13 @@ Presuming that they are indeed, eventually, discovered[^3] it should of course b
 #### Captain/Engineer Debba Wattins B4AA66, Age 50, Rank 4: Shift Manager [Junk Dealer - Book 7: Merchant Prince
 
 MgT1]
-_Characteristics_ : Strength 11 (+1), Dexterity 4 (-1), Endurance 10 (+1), Intelligence 10 (+1), Education 6 (+0), Social Standing 6 (+0)
-_Homeworld_ : Uakye (Spinward Marches 1805 B439598-D) Ni _Skills_ : Engineer (jump drive) 3, Gun Combat (energy) 2, Jack-of-All-Trades 2, Mechanic 2, Profession
-(salvage/repair) 2, Vacc Suit 2, Athletics (strength) 1, Broker 1, Engineer (life support) 1, Engineer (m-drive) 1, Investigate 1, Language (Gvegh) 1, Melee (unarmed) 1, Advocate 0, Electronics 0 _Equipment_ : Cr13,000, 12 ship shares, Pension: Cr16,000, Assistant (Drone) – see Steward Charlie below, enemy, Influence: Amateur (11+)[^4] _Background_ : Debba Wattins is a 50 year old former Junk Dealer who worked in Refurbishing/Yardwork and who has a talent for salvage and repair and is an engineer skilled in a variety of areas (jump drive, m-drive, life support). She is a strong and somewhat taciturn Master but knows her stuff and keeps the Subsidized Merchant, _The Application of Credit_ , just about in profit even in the difficult reaches of District 268.
+_Characteristics_ : Strength 11 (+1), Dexterity4 (-1), Endurance 10 (+1), Intelligence 10 (+1), Education6 (+0), Social Standing6 (+0)
+_Homeworld_ : Uakye (Spinward Marches 1805 B439598-D) Ni _Skills_ : Engineer (jump drive) 3, Gun Combat (energy) 2, Jack-of-All-Trades 2, Mechanic 2, Profession (salvage/repair) 2, Vacc Suit 2, Athletics (strength) 1, Broker 1, Engineer (life support) 1, Engineer (m-drive) 1, Investigate 1, Language (Gvegh) 1, Melee (unarmed) 1, Advocate 0, Electronics 0 _Equipment_ : Cr13,000, 12 ship shares, Pension: Cr16,000, Assistant (Drone) – see Steward Charlie below, enemy, Influence: Amateur (11+)[^4] _Background_ : Debba Wattins is a 50 year old former Junk Dealer who worked in Refurbishing/Yardwork and who has a talent for salvage and repair and is an engineer skilled in a variety of areas (jump drive, m-drive, life support). She is a strong and somewhat taciturn Master but knows her stuff and keeps the Subsidized Merchant, _The Application of Credit_ , just about in profit even in the difficult reaches of District 268.
 
 #### Pilot Pauli Stoyko 836987, Age 38, Rank 1: Tramp Hand
 
-_Characteristics_ : Strength 8 (+0), Dexterity 3 (-1), Endurance 6 (+0), Intelligence 9 (+1), Education 8 (+0), Social Standing 7 (+0)
-_Homeworld_ : Jenghi (Spinward Marches 1810 C799663- 9 ) Ni _Skills_ : Streetwise 3, Gun Combat (any) 2, Pilot (spacecraft) 2, Persuade 2, Animals (handling) 1, Broker 1, Electronics
-(computers) 1, Electronics (sensors) 1, Medic 1, Melee (blade) 1, Melee (unarmed) 1, Stealth 1, Admin 0, Vacc Suit 0 _Equipment_ : Cr10,000, TL8 body pistol (2D damage), blade (2D damage), well-annotated printed book of scripture _Background_ : Pauli was forcibly taken into a slaver gang[^5] when he was 14 and grew up with them for nine years before the authorities caught up with the gang. Pauli spent 7 years in prison but during that time was converted to a faith group who convinced him to turn his back on that former life. Pauli now plays everything
+_Characteristics_ : Strength8 (+0), Dexterity3 (-1), Endurance6 (+0), Intelligence9 (+1), Education8 (+0), Social Standing7 (+0)
+_Homeworld_ : Jenghi (Spinward Marches 1810 C799663- 9 ) Ni _Skills_ : Streetwise 3, Gun Combat (any) 2, Pilot (spacecraft) 2, Persuade 2, Animals (handling) 1, Broker 1, Electronics (computers) 1, Electronics (sensors) 1, Medic 1, Melee (blade) 1, Melee (unarmed) 1, Stealth 1, Admin 0, Vacc Suit 0 _Equipment_ : Cr10,000, TL8 body pistol (2D damage), blade (2D damage), well-annotated printed book of scripture _Background_ : Pauli was forcibly taken into a slaver gang[^5] when he was 14 and grew up with them for nine years before the authorities caught up with the gang. Pauli spent 7 years in prison but during that time was converted to a faith group who convinced him to turn his back on that former life. Pauli now plays everything
 'by the book' and won't turn a blind eye to what he sees as wrong doing but has spent eight years on various Free Traders before winding up, aged 38, on _The Application of Credit_ as pilot and occasionally second medic.
 
 [^4]:  Influence is explained in detail in _Book 7: Merchant Prince_ on pages 5-6. For the purposes of this adventure it can be ignored or the 11+ can be used as a throw to moderately influence the price of something in Debba's chosen market, either up or down. Failure, however, means that the desired price influence is applied in the opposite direction.
@@ -169,12 +165,12 @@ The character is skilled at taking parts that others have scrapped and breathing
 
 #### Navigator Adma Dessada 5B7976, Age 32, Rank 2: 3 rd Officer[^6]
 
-_Characteristics_ : Strength 5 (-1), Dexterity 11 (+1), Endurance 7 (+0), Intelligence 9 (+1), Education 7 (+0), Social Standing 6 (+0)
+_Characteristics_ : Strength5 (-1), Dexterity 11 (+1), Endurance7 (+0), Intelligence9 (+1), Education7 (+0), Social Standing6 (+0)
 _Homeworld_ : Jenghi (Spinward Marches 1810 C799663- 9 ) Ni _Skills_ : Astrogation 3, Athletics (dexterity) 1, Drive (wheel) 1, Gun Combat (slug) 1, Gunner (turret) 1, Mechanic 1, Persuade 1, Vacc Suit 1, Admin 0, Broker 0, Electronics 0, Engineer 0 _Equipment_ : Cr0, TAS, TL 4 shotgun, allies x 2 _Background_ : Adma Dessada, like Pauli is a native of Jenghe, although six years younger at 32, his life has been very different. He served in the merchant marine for 14 years until an accident forced his retirement. Adma has now picked up work as the navigator on _The Application of Credit_ and when necessary, acts as gunner. Adma is proud of his TAS membership although out here in the District, it's more a bragging point than actually useful.
 
 #### Medic Tanith Zee 69B8B 7 , Age 25, Rank 1
 
-_Characteristics_ : Strength 6 (+0), Dexterity 9 (+1), Endurance 11 (+1), Intelligence 8 (+0), Education 11 (+1), Social Standing 7 (+0)
+_Characteristics_ : Strength6 (+0), Dexterity9 (+1), Endurance 11 (+1), Intelligence8 (+0), Education 11 (+1), Social Standing7 (+0)
 _Homeworld_ : Extolay (Spinward Marches 1711 B55589A-A)
 _Skills_ : Medic 2, Astrogation 1, Advocate 1, Diplomat 1, Drive 0, Electronics 0, Investigate 0, Language 0, Mechanic 0, Science 0, Science 0, Survival 0
 _Background_ : Tanith Zee graduated from university with a degree and an enemy from a failed relationship. She has just joined the ship and is desperately unhappy. She's missing home and doesn't seem to be able to make friends amongst the crew – possibly because of her comparative youth, possibly because she's had to drop out of post-grad med school leaving her disenchanted and disconnected.
@@ -184,7 +180,7 @@ _Background_ : Tanith Zee graduated from university with a degree and an enemy f
 (see p.56 of _Robots_ by Weinbach & Freund)
 This robot is variously called Lee, Charliebot or just 'bot. It or he is 45 years old, and nearing the end of its working life. It's a little noisier than might be ideal and despite several attempts to have its programming corrected continues to serve red wine in place of white wine and vice versa. No one has ever managed to stop it using awful puns as it waits on passengers. _Book 9: Robot_ details are given below.
 **Service Robot, Steward**
-_Characteristics_ : Strength 12 (+2), Dexterity 10 (+1), Hull 3, Structure 2, Intelligence 5 (-1), Education 9 (+1)
+_Characteristics_ : Strength 12 (+2), Dexterity 10 (+1), Hull 3, Structure 2, Intelligence5 (-1), Education9 (+1)
 _Skills_ : Diplomat 1, Steward 1
 _Body_ : Size 3 tall anthropomorphic frame + size 1 head unit, size 3 mechatronic arms x 2, size 3 erect legs x 2
 _Armor_ : 3
@@ -238,8 +234,7 @@ Stateroom 1. Kev/Mara/Sanya Aer (p.89)
 Mara (aged 39) is an established nerve surgeon on her homeworld but her husband Kev (aged 38)
 lost his job as a telecomms software developer some years ago. Mara has now been offered a sufficiently beneficial contract on another world such that the family have decided to move. They have two tons of their most valuable personal possessions in the Aft Cargo Bay. Kev has become excessively fussy as a house-husband, and is very protective of their six-year-old daughter Sanya, who is constantly getting herself into trouble. Mara has a counter-balancing calm and collected personality. Their expenses are all being paid by her new employees, so they will want to take advantage of all the ship's facilities. If the Referee doesn't allow a young child as a third occupant of a stateroom, Sanya may not exist or may be elsewhere – perhaps in another stateroom with that passenger forward in the Crew Quarters.
 
-Staterooms 2 & 3. Eryl/Winette/Samban/Heria Klio
-(p.92)
+Staterooms 2 & 3. Eryl/Winette/Samban/Heria Klio (p.92)
 The Klio family thought they'd make a life on Motmos thinking the tech level and uncrowded world was ideal for a simpler way of life without giving up all the benefits of civilization. Eryl (aged 29), a technician, was the driving force behind this, but his wife Winette (aged 27) was interested in the biology of the world and willing to give it a try. However, after three years, they've decided it's not for them after all and are moving back
 'home'. Several tons of the cargo in the Aft Cargo Bay belong to them. The two children (aged 6 and 4) are lively youngsters. The possibility that the children are carrying the Heifell Kuros virus (see Library Data) which could spread round the ship can be used or ignored as desired. Or a quick diagnosis might keep the whole family quarantined for the duration of Jump if the Referee wishes to slightly reduce the number of characters to track.
 
@@ -257,8 +252,7 @@ An elderly man in his 70s, Barclay appears to be an utterly harmless old Scout. 
 - and could be useful should things get out of control in the Cargo Bay. He can be played to the hilt as described or simply as a gentle old man.
 
 Stateroom 6. Poppi Hellam (p.84)
-As a sales rep (aged 27) for BattleBlue, a company producing paints and coatings for vehicles, buildings, starships and everything in between, Poppi carries a complete range of samples whether it's laser-reflecting paints or chameleon-
-cammo. She's authorized to deal with MegaCorps or individuals should the crew wish to take advantage of her presence. She will take a very hard-nosed and quite brutal attitude to spacing the stowaways if she gets to hear about their existence.
+As a sales rep (aged 27) for BattleBlue, a company producing paints and coatings for vehicles, buildings, starships and everything in between, Poppi carries a complete range of samples whether it's laser-reflecting paints or chameleon-cammo. She's authorized to deal with MegaCorps or individuals should the crew wish to take advantage of her presence. She will take a very hard-nosed and quite brutal attitude to spacing the stowaways if she gets to hear about their existence.
 
 Stateroom 7. Swen Jonathan (p.81)
 Swen (aged 25) is a geeky star-spotter avoiding his wealthy father's aim to put him through Merchant Law School by visiting various stars in the subsector and collecting their spectra on an electronic notebook he keeps on a chain round his neck. He is intensely boring to talk to on his pet subjects – particularly his collection of images of old radio antenna. The Referee might like to play up Swen's money and have Melissa mistake him for a mark she can take advantage of.
@@ -276,13 +270,10 @@ The Referee can flesh out interactions between these travellers and between the 
 
 The Referee should run each day aboard with the following events:
 
-- (^) An Animals task check to manage the feeding, watering and cleaning of the animals in the hold
-(failure represents carelessness, distaste etc.). A minimum of 1 hour is required plus the task time frame. _Feeding, watering, and cleaning out a herd of cattle in the cargo hold_ : Routine (6+) Animals (training) or Animals (veterinary) check (1D x 10 minutes, EDU). Unskilled crew (i.e. everyone except Pauli) helping out may choose to go slower. Two people doing the work only has the effect of getting the job done in half the time. Failure may represent anything from the cattle becoming unsettled and doubling the amount of cleaning their stalls require to full on beating against the enclosures in their distress which may result in injury or possibly one of them getting loose if the enclosure breaks.
+- (^) An Animals task check to manage the feeding, watering and cleaning of the animals in the hold (failure represents carelessness, distaste etc.). A minimum of 1 hour is required plus the task time frame. _Feeding, watering, and cleaning out a herd of cattle in the cargo hold_ : Routine (6+) Animals (training) or Animals (veterinary) check (1D x 10 minutes, EDU). Unskilled crew (i.e. everyone except Pauli) helping out may choose to go slower. Two people doing the work only has the effect of getting the job done in half the time. Failure may represent anything from the cattle becoming unsettled and doubling the amount of cleaning their stalls require to full on beating against the enclosures in their distress which may result in injury or possibly one of them getting loose if the enclosure breaks.
 - (^) Note, however, that this period won't necessarily be when the stowaways are found because Sina's 'sixth sense' tells the three of them when they need to be hidden elsewhere (Bretton's hearing or Nestine's general awareness will be assisting with this as well). See Stowaway Scene 2 for possible hiding places.
-- (^) An evening meal with the passengers on at least one occasion – perhaps a formal “Captain's Table” – or at least a meal being served to passengers Charlie will be struggling to manage all the passengers
-(his skill level of 1 allows serving ten high passengers but he's no longer really up to this and should probably treated as skill level 0 which only allows serving ten middle passengers – see p.149 of the _Core Rulebook_ ) so at least one of the crew should expect to help out at each meal and additionally interact with passengers. A Steward task check should be used to ensure everything goes smoothly:
-_Serving an evening meal_ : Average (8+) Steward check
-(1D x 10 minutes, DEX).
+- (^) An evening meal with the passengers on at least one occasion – perhaps a formal “Captain's Table” – or at least a meal being served to passengers Charlie will be struggling to manage all the passengers (his skill level of 1 allows serving ten high passengers but he's no longer really up to this and should probably treated as skill level 0 which only allows serving ten middle passengers – see p.149 of the _Core Rulebook_ ) so at least one of the crew should expect to help out at each meal and additionally interact with passengers. A Steward task check should be used to ensure everything goes smoothly:
+_Serving an evening meal_ : Average (8+) Steward check (1D x 10 minutes, DEX).
 - (^) A Fifth Night entertainment (see Library Data) with crew or passengers or both given a chance to perform a party piece. The Referee can determine how hard the task for the character should be based on background, skills, player persuasion as to ability, or any rehearsal declared in the run up to the evening. Some possible, performances from some of the NPCs might include a popular song sung very badly, a folk ballard sung surprisingly well, a poetry recital –
 mercifully brief, a humorous poetry recital, an interpretive dance representing a week in Jump which feels like longer...
 - (^) Any other interactions between crew or passengers as desired. Other possible 'rumors' or events:
@@ -323,8 +314,7 @@ JumpSpacing the stowaways, spacing them whilst in Jumpspace, might be considered
 ## Scene 5: Arrival
 
 Emergence from Jumpspace will be on the shorter side of typical Jump durations. (This ensures that those in pursuit should be a little way behind.) On their way into the inner system they'll meet a Trexalon Trade Consortium cruiser heading outbound who will hail them as per standard procedure and who will want to know what ship movements they saw in the Motmos system. A Colonial Cruiser (pp. 159 - 160 of _High Guard_ ) could be used to impress, or the Type T Patrol Corvette (pp. 174 -
-175 of the Core Rulebook ) if that's felt to be more in-
-keeping with the borders setting. Yes, they do indeed have the authority to ask and expect a response. Churlishness or over-caution on the part of the PCs will negatively affect their reception at Trexalon; a positive or helpful response will work in their favor.
+175 of the Core Rulebook ) if that's felt to be more in-keeping with the borders setting. Yes, they do indeed have the authority to ask and expect a response. Churlishness or over-caution on the part of the PCs will negatively affect their reception at Trexalon; a positive or helpful response will work in their favor.
 
 # Act Two
 
@@ -344,9 +334,7 @@ The main starport, however, is not the final destination of the cattle. Trexalon
 
 Barkan has a cargo airlock which is just big enough to take the Subsidized Merchant whole and, once cycled, means the cattle can be herded down the cargo ramps and into the city proper. It's a couple of kilometers to the farm that has purchased the herd and the buyer has arranged suitable barriers along the route - no permit is required but the roads here are not too busy and cargo storage areas give way fairly quickly to open spaces which will be used to pasture the herd. This is something of an experiment for the locals who feel they are all too dependent on off-world imports of food. An Animals (training) task check should be used:
 
-Herding xeeboo half a kilometer : Average (8+) Animals
-(training) check (1D x 10 minutes, STR or EDU). Animals
-(handling) and Animals (veterinary) can be used at one difficulty level harder, i.e. Difficult (10+). Note that four successes will be required to cover the distance. The task can be made easier with additional help even if it is unskilled: add the Effect of up to six assistants blocking side roads, rousing the cattle, etc. Only add negative Effects if a PC rolls a negative Effect twice in a row to represent them getting in the way and being more of a hindrance than a help. Even Bretton may be of limited direct help but he can assist in calming the cattle. Allow an additional positive DM if the same crew member worked with the cattle daily rather than all the crew working in rotation.
+Herding xeeboo half a kilometer : Average (8+) Animals (training) check (1D x 10 minutes, STR or EDU). Animals (handling) and Animals (veterinary) can be used at one difficulty level harder, i.e. Difficult (10+). Note that four successes will be required to cover the distance. The task can be made easier with additional help even if it is unskilled: add the Effect of up to six assistants blocking side roads, rousing the cattle, etc. Only add negative Effects if a PC rolls a negative Effect twice in a row to represent them getting in the way and being more of a hindrance than a help. Even Bretton may be of limited direct help but he can assist in calming the cattle. Allow an additional positive DM if the same crew member worked with the cattle daily rather than all the crew working in rotation.
 
 If they're not too distracted by the task in hand, the PCs might notice the gas giant Aalon glowering large in the sky above the dome with another of its moons transiting its face, there's an ethereal beauty to the clouds of the one and the bright reflected light of the other; they might note the slightly metallic tang in the air from the unfamiliar atmosphere; and they will occasionally notice hexipuffs (see Library Data) floating through the air. In the illustration below, the brain stem and sex organs can be seen as the darker central core and leading ganglia to the left.
 
@@ -357,6 +345,8 @@ The hexipuff is a lighter-than-air floating gossamer that might be mistaken for 
 Depending on what interactions have gone on between the crew and the stowaways, this might be a good moment for the latter to fade into the city. This will be easy enough as there seems to be little in the way of controls at the cargo 'lock and what supervision there is can be easily avoided. If the crew are expecting their illicit cargo to disappear, then they can vanish as needed; if the crew have decided to help them out in any way, they may even be staying aboard for a while at least. A couple of points should be noted. By now, Nestine sees her future with Sina and, having discussed it with her, thinks that she will adopt the girl - Trexalon with its law level and tech level would be the ideal place to get decent identities and to make the adoption real. If Nestine and/or Sina are PCs rather than NPCs, this should be left to the player(s) involved. Depending on how the Referee chooses to have identification throughout the Imperium and beyond work, forged identities may be necessary. Although Trexalon is Tech Level 12, it's also Law Level 1 so simply getting real identity papers in any name(s) they care for may be sufficient. Bretton doesn't have such definite plans but expects to be able to disappear into the city's darker parts, begging where he has to. Meanwhile, however, Tanith Zee, The Application of Credit's medic has chosen to jump ship here – or at least to leave, she's not contractually bound – either because of her genuine unhappiness in the job, or because of the crew's treatment of the stowaways, whether it was good or bad it wouldn't have been what she wanted. This, of course, leaves an opening on the merchant ship for a medic which Nestine could possibly fill if the crew wish. If they do decide to take her on, she'll jump at the chance but with Sina attached to the deal as well. With Bretton's disability there isn't an obvious role for him – gunner would of course have been ideal in the days when he had his sight – but if the crew feel so inclined they might take him on out of charity. Despite his blindness, once he knows his way around the galley, he can certainly drum up a decent meal which would put the robot to shame and he's a fund of old navy tales which may even have some basis in fact.
 
 ANIMAL HITS SPEED
+
+
 
 Hexipuff (^1) >10 m depending on air speed SKILLS Athletics (dexterity) 3, Recon 0, Survival 0 ATTACKS None TRAITS Small (-6)
 BEHAVIOUR Herbivore (filter)
@@ -386,8 +376,7 @@ Any attempt to remove Bretton forcibly will result in the PCs being the cause of
 So there's plenty of opportunity for things to turn ugly.
 
 Eventually however, the PCs should be able to persuade him to come with them and talk to the Bureau in person.
-“You know what this could mean?” he'll realize, “I can claim my pension again.” And after a moment's more thought, “The drinks are on me.” Of course, he won't actually have the money yet – and will need to either get to an Imperial world with a Class A or Class B starport
-(the nearest is Mertactor) or an Imperial Navy Base such as at Motmos – so he will most likely be asking one of the PCs for a loan.
+“You know what this could mean?” he'll realize, “I can claim my pension again.” And after a moment's more thought, “The drinks are on me.” Of course, he won't actually have the money yet – and will need to either get to an Imperial world with a Class A or Class B starport (the nearest is Mertactor) or an Imperial Navy Base such as at Motmos – so he will most likely be asking one of the PCs for a loan.
 
 # Act Three
 
@@ -395,10 +384,8 @@ Assuming Nestine (and Sina) have remained with The Application of Credit , this 
 (Alternatively, replace her Leadership 1 skill with Instruction 17 ). Supplement 1: 760 Patrons has various patron encounters that could take place during this period, or Spinward Encounters offers fully fledged adventures – some of which take place in this region of the sector. If it's preferable to keep the adventure much tighter, then these events could take place on Trexalon or the ship's very next port of call.
 
 **Referee's Note**
-This act needs to be handled with care as it involves a certain loss of player agency. While players are usually happy for Referees to inflict combat wounds or even imprisonment on their character, kidnapping may be considered a step too far. Referees should consider carefully who is playing Sina and ideally look for someone interested in the role-
-playing aspects. Vague or direct warning of the issues may be an option. Additionally, Sina should absolutely be allowed to 'act'
-during her confinement whether it's to confound her abductors with her abilities (which perhaps, under the stressful conditions, have become more frequently available or perhaps they have 'returned' post-
-lobotomy), communicate telepathically – if perhaps cloudily – with Nestine (a new ability triggered perhaps due to their closeness in Jump or again due to the stresses of the kidnapping), and of course, with her Precognition, to be involved in thwarting her abductors'
+This act needs to be handled with care as it involves a certain loss of player agency. While players are usually happy for Referees to inflict combat wounds or even imprisonment on their character, kidnapping may be considered a step too far. Referees should consider carefully who is playing Sina and ideally look for someone interested in the role-playing aspects. Vague or direct warning of the issues may be an option. Additionally, Sina should absolutely be allowed to 'act'
+during her confinement whether it's to confound her abductors with her abilities (which perhaps, under the stressful conditions, have become more frequently available or perhaps they have 'returned' post-lobotomy), communicate telepathically – if perhaps cloudily – with Nestine (a new ability triggered perhaps due to their closeness in Jump or again due to the stresses of the kidnapping), and of course, with her Precognition, to be involved in thwarting her abductors'
 response to any rescue by her friends or providing a distraction at the critical moment.
 
 ## Scene 1: Snooping Around
@@ -411,8 +398,7 @@ Commander **Collet Shuurbonn** , Naval Intelligence (Black Operations), 76A878, 
 
 Character Career Path Strength Dexterity Endurance Intelligence Education Social Standing
 
-Naval Agent Naval Intelligence
-(Black Operations) 7
+Naval Agent Naval Intelligence (Black Operations) 7
 
 7 6 A 8 7 8
 
@@ -422,8 +408,7 @@ Laser Pistol (TL11 3D+3), Stunner (TL12 3D), TL13 Comm
 
 Lt Commander **Muy Deck Oo Yi** , Naval Intelligence (Black Operations), 885758, male
 
-Character Career Path Strength Dexterity Endurance Intelligence Education Social Standing Naval Agent Naval Intelligence
-(Black Operations) 6
+Character Career Path Strength Dexterity Endurance Intelligence Education Social Standing Naval Agent Naval Intelligence (Black Operations) 6
 
 8 8 5 7 5 8
 
@@ -461,8 +446,7 @@ Success will find one nearby stall holder who recalls a couple who could match t
 The Imperial Naval Intelligence officers have finally identified Nestine from holographs (or have received information about her new ID) and decided on an indirect approach to force her to return to work for them.
 
 ANIMAL HITS SPEED Qoon 34 120 SKILLS Athletics (dexterity) 1, Melee (natural) 1, Recon 1, Survival 1 ATTACKS Hooves (2D)
-TRAITS Camouflaged, Fast Metabolism (+1), Large
-(+1)
+TRAITS Camouflaged, Fast Metabolism (+1), Large (+1)
 BEHAVIOUR Herbivore (grazer)
 
 She had of course, turned INI down pretty bluntly before she fled Motmos after she caught wind of their arrival on the planet. She wasn't wrong in thinking they were desperate enough to forcibly repatriate her to the Imperium.
@@ -505,9 +489,7 @@ Nestine will have to make some decisions about how she wants to approach this, b
 
 If the PCs numbers and skills are likely to be too easy a match for the two agents, then the agents will have hired some local thugs to assist them. Use as many as necessary:
 
-Thug 1: 987443, age 26 – Gun Combat (slug) 2 , Melee Combat (unarmed) 1 Thug 2: 777554, age 30 – Drive (wheel) 1, Gun Combat
-(slug) 1, Melee Combat (bludgeon) 1 Thug 3: A28333, age 30 – Melee Combat (unarmed) 2, Gun Combat (slug) 0 Thug 4: 959876, age 26 – Melee Combat (blade) 1, Gun Combat (slug) 1, Medic 0 Thug 5: 778597, age 34 – Drive (wheel) 2, Melee Combat
-(blade) 1, Gun Combat (slug) 0
+Thug 1: 987443, age 26 – Gun Combat (slug) 2 , Melee Combat (unarmed) 1 Thug 2: 777554, age 30 – Drive (wheel) 1, Gun Combat (slug) 1, Melee Combat (bludgeon) 1 Thug 3: A28333, age 30 – Melee Combat (unarmed) 2, Gun Combat (slug) 0 Thug 4: 959876, age 26 – Melee Combat (blade) 1, Gun Combat (slug) 1, Medic 0 Thug 5: 778597, age 34 – Drive (wheel) 2, Melee Combat (blade) 1, Gun Combat (slug) 0
 
 If the PCs can get evidence of what the agents have been doing to the Imperial Navy, it will be the agents who are being hunted as they're operating well outside their orders. The Navy will insist that they have no need to reactivate Nestine. This could of course receive a mixed reaction from the former commander. She may be relieved they are not interested or rather miffed that they don't. The Navy representatives will be shocked at the treatment of Sina and will disavow any knowledge of such an operation or any orders to that effect. Indeed, if their apology is profuse enough, the agents are brought to book, and Nestine does still want to serve, she may even use this as a bargaining position to regain her commission! But it will be on the condition that Sina is allowed to remain with her and her adoption made formal and legitimate within the Third Imperium. Alternatively, she may now be on a mission to track down those who abused Sina and operated on her to destroy her psionic talent.
 
@@ -532,13 +514,10 @@ Third largest domed city on Trexalon (q.v.). Population:
 **District 268**
 Subsector N at the Rimward edge of the Spinward Marches, District 268 contains 31 worlds and one asteroid belt (Bowman). Only two of those worlds are part of the Third Imperium (Mertactor and Mille-Falcs). Much of the subsector consists of client states of the Imperium or non-aligned worlds and there is much potential for development or the expansion of trade routes.
 
-The highest tech level worlds are Collace (D), Mille Falcs
-(C) and Trexalon (C); the highest population worlds are Forine and Collace. There is one Red Zoned world
-(Nirton) and three Amber Zones (Talchek, Tarkine and Pavabid). The Spinward Main reaches the subsector and indeed is the only way for Jump 1 ships to access Glisten subsector to Trailing.
+The highest tech level worlds are Collace (D), Mille Falcs (C) and Trexalon (C); the highest population worlds are Forine and Collace. There is one Red Zoned world (Nirton) and three Amber Zones (Talchek, Tarkine and Pavabid). The Spinward Main reaches the subsector and indeed is the only way for Jump 1 ships to access Glisten subsector to Trailing.
 
 **Fifth Night**
-An evening set aside on most ships in the Third Imperium, and beyond, whether large or small, for some form of entertainment. Most traditionally it is a 'jump-
-in' where motivated individuals or groups can demonstrate a talent and an MC or Master of Ceremonies will encourage participation, decide on a running order and introduce the acts. The Fifth Night tradition arose from it not being missed due to an early Jump exit but allowing some time for preparation. Sometimes, on passenger liners for example, it may be a more formal party or performance. Sometimes it is just an excuse for a ship with crew only to have a late night drinks or game session.
+An evening set aside on most ships in the Third Imperium, and beyond, whether large or small, for some form of entertainment. Most traditionally it is a 'jump-in' where motivated individuals or groups can demonstrate a talent and an MC or Master of Ceremonies will encourage participation, decide on a running order and introduce the acts. The Fifth Night tradition arose from it not being missed due to an early Jump exit but allowing some time for preparation. Sometimes, on passenger liners for example, it may be a more formal party or performance. Sometimes it is just an excuse for a ship with crew only to have a late night drinks or game session.
 
 **Fourth Frontier War (1082-1084)**
 An almost 'accidental' conflict between the Zhodani and the Imperium that didn't even last a year and a half. It was fought mostly in Jewell subsector and is sometimes called the False War. Objecting to the development of an Imperial Naval base on Quar (Spinward Marches, 0808) the Zhodani attacked and attempted to break through Imperial defences. The war's final battle is known as the Battle of the Two Suns and took place in space between Yres (Spinward Marches, 1802) and Menorb (Spinward Marches, 1803).
@@ -566,8 +545,7 @@ District 268 (Spinward Marches, 1340) B68468B- 5 A resource rich world on the ve
 
 Psionics Psionics is the use of mental powers to manipulate matter and energy or to sense/communicate beyond the range of the normal human senses. A psion is someone w with these kind of abilities.
 
-In the Third Imperium the use of psionics has been outlawed since the Psionic Suppressions (800-
-826) and the general attitude of the population towards the phenomena or its practitioners is one of distrust and possibly hatred. In the Zhodani Consulate the use of psionics is widespread and welcome.
+In the Third Imperium the use of psionics has been outlawed since the Psionic Suppressions (800-826) and the general attitude of the population towards the phenomena or its practitioners is one of distrust and possibly hatred. In the Zhodani Consulate the use of psionics is widespread and welcome.
 
 Shinchoddia Massacre A little known, in the Imperium, incident of the Fourth Frontier War (q.v.) in which two dozen Zhodani civilians were killed by an engineering support unit caught behind enemy lines in one of the few ground confrontations of the war. The unit panicked and unwittingly left one child survivor as witness to the atrocity. The Zhodani hold it up as an example to their children of Imperial perfidy that no one was ever held accountable for the crime.
 
@@ -579,28 +557,22 @@ Trexalon District 268 (Spinward Marches, 1339) B561851-C A non-aligned world out
 ##### Bretton Vaillancourt ex-navy 54A945
 
 Male, aged 60 , 8 terms Born: 1045, Magash (Deneb 0316 A400976-F)
-Melee (blade) 3 Animals (training) 2, Athletics (endurance) 2, Mechanic 2 Discipline 1, Electronics (comms) 1, Electronics
-(sensors) 1, Engineer (life support) 1, Engineer
-(power) 1, Jack-of-All-Trades 1, Vacc Suit 1, Profession (butcher) 0, Streetwise 0 Cr0, Pension: Cr18,000 (currently suspended), blade, mechanical toolkit, 4 ship shares, air/raft
+Melee (blade) 3 Animals (training) 2, Athletics (endurance) 2, Mechanic 2 Discipline 1, Electronics (comms) 1, Electronics (sensors) 1, Engineer (life support) 1, Engineer (power) 1, Jack-of-All-Trades 1, Vacc Suit 1, Profession (butcher) 0, Streetwise 0 Cr0, Pension: Cr18,000 (currently suspended), blade, mechanical toolkit, 4 ship shares, air/raft
 
 ##### Debba Wattins Captain/Engineer B4AA66
 
 Female, aged 50 , 8 terms Born: 1055, Uakye (Spinward Marches 1805 B439598-D)
-Rank 4: Shift Manager Engineer (Jump drive) 3 Gun Combat (energy) 2, Jack-of-All-Trades 2, Mechanic 2, Profession (salvage/repair) 2, Vacc Suit 2 Athletics (strength) 1, Broker 1, Engineer (life support) 1, Engineer (m-drive) 1, Investigate 1, Language
-(Gvegh) 1, Melee (unarmed) 1 Advocate 0, Electronics 0 Cr13,000, 12 ship shares, Pension: Cr16,000, Assistant
-(Drone), Influence: Amateur (11+), enemy
+Rank 4: Shift Manager Engineer (Jump drive) 3 Gun Combat (energy) 2, Jack-of-All-Trades 2, Mechanic 2, Profession (salvage/repair) 2, Vacc Suit 2 Athletics (strength) 1, Broker 1, Engineer (life support) 1, Engineer (m-drive) 1, Investigate 1, Language (Gvegh) 1, Melee (unarmed) 1 Advocate 0, Electronics 0 Cr13,000, 12 ship shares, Pension: Cr16,000, Assistant (Drone), Influence: Amateur (11+), enemy
 
 ##### Nestine Brümmer ex-navy 85CA67
 
 Female, aged 44, 6 terms Born: 1061, Maitz (Spinward Marches 2927 A201511-B)
-Rank 4: Commander Deception 2, Gun Combat (slug) 2, Medic 2 Animals (handling) 1, Discipline 1, Electronics (comms) 1, Electronics (computers) 1, Drive (wheel) 1, Leadership 1, Pilot (any) 1, Recon 1, Tactics
-(naval) 1 Admin 0, Engineer 0, Science (philosophy) 0, Streetwise 0, Vacc Suit 0 Cr6000, Pension: Cr10,000, autopistol, 2 ship shares, ally, contact x 2, TL7 hand computer
+Rank 4: Commander Deception 2, Gun Combat (slug) 2, Medic 2 Animals (handling) 1, Discipline 1, Electronics (comms) 1, Electronics (computers) 1, Drive (wheel) 1, Leadership 1, Pilot (any) 1, Recon 1, Tactics (naval) 1 Admin 0, Engineer 0, Science (philosophy) 0, Streetwise 0, Vacc Suit 0 Cr6000, Pension: Cr10,000, autopistol, 2 ship shares, ally, contact x 2, TL7 hand computer
 
 ##### Pauli Stoyko Pilot 836987
 
 Male, aged 38 , 5 terms Born: 1067, Jenghi (Spinward Marches 1810 C799663-9)
-Streetwise 3 Gun Combat (any) 2, Pilot (spacecraft) 2, Persuade 2 Animals (handling) 1, Broker 1, Electronics
-(computers) 1, Electronics (sensors) 1, Medic 1, Melee (blade) 1, Melee (unarmed) 1, Stealth 1 Admin 0, Vacc Suit 0 Cr10,000, TL8 body pistol (2D), blade (2D), well-annotated printed book of scripture
+Streetwise 3 Gun Combat (any) 2, Pilot (spacecraft) 2, Persuade 2 Animals (handling) 1, Broker 1, Electronics (computers) 1, Electronics (sensors) 1, Medic 1, Melee (blade) 1, Melee (unarmed) 1, Stealth 1 Admin 0, Vacc Suit 0 Cr10,000, TL8 body pistol (2D), blade (2D), well-annotated printed book of scripture
 
 ##### Sina Heraidi Korson orphan 578834 - A
 
@@ -610,8 +582,7 @@ Precognition 2 Animals 0, Telekinesis (lobotomized)?
 ##### Adma Dessada Navigator 5B7976
 
 Male, aged 32, 3 terms Born: Jenghi (Spinward Marches 1810 C799663-9)
-Rank 2: 4th Officer Astrogation 3 Athletics (dexterity) 1, Drive (wheel) 1, Gun Combat
-(slug) 1, Gunner (turret) 1, Mechanic 1, Persuade 1, Vacc Suit 1 Admin 0, Broker 0, Electronics 0, Engineer 0 Cr0, TAS, TL4 shotgun, allies x 2
+Rank 2: 4th Officer Astrogation 3 Athletics (dexterity) 1, Drive (wheel) 1, Gun Combat (slug) 1, Gunner (turret) 1, Mechanic 1, Persuade 1, Vacc Suit 1 Admin 0, Broker 0, Electronics 0, Engineer 0 Cr0, TAS, TL4 shotgun, allies x 2
 
 ##### Tanith Zee Medic 69B8B7
 
@@ -622,7 +593,7 @@ Rank 1 Medic 2 Advocate 1, Astrogation 1, Diplomat 1 Drive 0, Electronics 0, Inv
 
 ##### Charlie (Service Robot) Steward CA- 59 -
 
-Strength 12 (+2), Dexterity 10 (+1), Hull 3 , Structure 2, Intelligence 5 (-1), Education 9 (+1)
+Strength 12 (+2), Dexterity 10 (+1), Hull 3 , Structure 2, Intelligence5 (-1), Education9 (+1)
 Diplomat 1, Steward 1
 
 ##### Armor 3
@@ -643,10 +614,8 @@ Vacc Suit NB0 DW2, AD1, PS0
 ##### Conversion for Cepheus Engine
 
 **Bretton Vaillancourt** 54 A945 Age 60 ex-Navy ( 8 terms)
-Melee Combat (slashing weapons) 3, Animals (riding) 2, Athletics 2, Engineering 2, Mechanics 2 , Comms 1, Electronics 1, Jack-of-All-Trades 1, Zero-G 1, Animals
-(veterinary medicine) 0, Streetwise 0
-[Notes: Profession (butcher) has been rendered as Animals
-(veterinary medicine) and sensors assumed as 'Electronics'. Engineer (life support) 1 and Engineer (power) 1 have been combined in to Engineering 2. Vacc Suit has been replaced with Zero-G.]
+Melee Combat (slashing weapons) 3, Animals (riding) 2, Athletics 2, Engineering 2, Mechanics 2 , Comms 1, Electronics 1, Jack-of-All-Trades 1, Zero-G 1, Animals (veterinary medicine) 0, Streetwise 0
+[Notes: Profession (butcher) has been rendered as Animals (veterinary medicine) and sensors assumed as 'Electronics'. Engineer (life support) 1 and Engineer (power) 1 have been combined in to Engineering 2. Vacc Suit has been replaced with Zero-G.]
 
 **Nestine Brümmer** 85CA67 Age 44 ex-Navy ( 6 terms)
 Gun Combat (slug rifle) 2, Medicine 2 Animals (farming) 1, Bribery 1, Comms 1, Computer 1, Leadership 1, Piloting 1, Recon 1, Streetwise 1, Tactics 1, Vehicle (wheeled vehicle) 1 Admin 0, Engineering 0, Sciences (social sciences) 0, Zero-G 0
@@ -655,9 +624,7 @@ Gun Combat (slug rifle) 2, Medicine 2 Animals (farming) 1, Bribery 1, Comms 1, C
 **Sina** 578834 - A Age 10 Orphan Precognition 2, Animals 0, Telekinesis (lobotomized)?
 [Notes: Precognition is not in the _Cepheus Engine Core Rules_ but see notes above for Sina's character.]
 
-Captain **Debba Wattins** B4AA66 Age 50 Engineer Engineering 3 , Gun Combat (energy pistol) 2, Jack-of-All-
-Trades 2, Mechanics 2, Profession (salvage/repair) 2, Zero-G 2 , Athletics 1, Broker 1, Linguistics 1, Melee
-(unarmed) 1, Recon 1, Advocate 0, Electronics 0
+Captain **Debba Wattins** B4AA66 Age 50 Engineer Engineering 3 , Gun Combat (energy pistol) 2, Jack-of-All-Trades 2, Mechanics 2, Profession (salvage/repair) 2, Zero-G 2 , Athletics 1, Broker 1, Linguistics 1, Melee (unarmed) 1, Recon 1, Advocate 0, Electronics 0
 [Notes: Investigate has been replaced with Recon and Vacc Suit with Zero-G.]
 
 **Pauli Stoyko** 836987 Age 3 8 Pilot Streetwise 3 , Advocate 2, Gun Combat (any) 2, Piloting 2 Animals (riding) 1, Broker 1, Computer 1, Electronics 1, Medicine 1, Melee Combat (slashing weapons) 1, Melee Combat (natural weapons) 1, Tactics 1, Admin 0, Zero-G 0
@@ -670,7 +637,7 @@ Tanith Zee 69B8B7 Age 25 Medicine 2 , Advocate 1, Diplomat 1, Navigation 1, Elec
 [Notes: Astrogation has been converted to Navigation, Investigate to Recon and Survival to Tactics.]
 
 Charlie CA- 59 -
-Service Android Strength 12 (+2), Dexterity 10 (+1), Hull 3, Structure 2, Intelligence 5 (-1), Education 9 (+1)
+Service Android Strength 12 (+2), Dexterity 10 (+1), Hull 3, Structure 2, Intelligence5 (-1), Education9 (+1)
 Admin 1, Steward 1 Armor 3
 [Note: Diplomat has been converted to Admin.]
 
@@ -696,8 +663,7 @@ p.9 _Persuading an animal wrangler to look the other_ way: Bribery check, Intell
 p.10 _Hiding blood etc in the animal litter_ : Profession (butcher) or Animals (veterinary) check, Intelligence OR Education, Average (+ 0 ), 1D minutes _Finding a stowaway_ : Steward check, Intelligence, Routine (+2), 1D minutes
 
 p.16 _Feeding, watering, and cleaning out a herd of cattle in the cargo hold_ : Animals (farming) OR Animals (veterinary)
-check, Education, Routine (+ 2 ), 1D x 10 minutes _Serving an evening meal_ : Steward check, Dexterity, Average
-(+ 0 ), 1D x 10 minutes
+check, Education, Routine (+ 2 ), 1D x 10 minutes _Serving an evening meal_ : Steward check, Dexterity, Average (+ 0 ), 1D x 10 minutes
 
 p.19 _Acting naturally knowing there are stowaways aboard_ :
 Carousing OR Jack-of-All-Trades check, Intelligence OR Social Standing, Easy (+ 4 ), 1D minutes _Herding xeeboo half a kilometer_ : Animals (farming) check, Strength OR Education, Average (+ 0 ), 1D x 10 minutes Animals (riding) or Animals (survival) or Animals (veterinary)

@@ -10,6 +10,8 @@ tags:
 
  
 
+
+
 The heroes must recover a stolen shipment of water purification plant parts from rebels on a desert world.
 
 ## Setting

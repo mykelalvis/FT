@@ -77,6 +77,8 @@ Most patron encounters rolled using the tables in this book will be based off of
 
 INTRODUCTION
 
+
+
 ## Military Patrons
 
 In Traveller, service in the military is commonplace and far reaching, carving out a spider's web of social connections, alliances and emneties as far as there has been space travel to. No matter what branch of governed military someone is serving with, they have access to a number of interesting and particular individuals.
@@ -227,6 +229,8 @@ Required Skills: None Required Equipment: None
 This mechanic works long hours in and under the engines and other external systems of all sorts of vehicles. He knows the ins and outs of nearly any vehicular machine and can make just about any common technology work with a little time and effort.
 
 MILITARY PATRONS
+
+
 
 | The grease monkey is ...                      |                                                                                                                                  |
 | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -455,6 +459,8 @@ Although his station is actually operated by several crew members, the comms Off
 Required Skills: Advocate, Diplomat Required Equipment: None
 
 MILITARY PATRONS
+
+
 
 An ambassador from an alien race has come to interact with the naval force as a sign of respect between the two cultures and governments. He or she truly wants a peaceful visitation but knows that their cultural differences can always pose a problem for some.
 
@@ -773,6 +779,8 @@ The men and women serving on a naval ship are numerous and generally outnumber t
 
 MILITARY PATRONS
 
+
+
 #### Xenobiologist
 
 Required Skills: None Required Equipment: None
@@ -977,6 +985,8 @@ This professional legal advisor and mediator is often the closest thing that any
 
 MILITARY PATRONS
 
+
+
 #### P.O.W
 
 Required Skills: None Required Equipment: Ship
@@ -1079,6 +1089,8 @@ It is far more common for military units to get embroiled in legal issues than o
 | 5 – 6                        | ...in the middle of a heated case that he thinks the characters could be a big help to somehow; either as witnesses or as a distraction to the opposing counsel.                                           |
 
 MILITARY PATRONS
+
+
 
 #### Alien Terrorist
 
@@ -1421,6 +1433,8 @@ This fleet-footed soldier is sent out into a battlefield, uncharted terrain or w
 | 6                           | ...a depressed soldier that knows his actions have sent hundreds of enemies and civilians to their deaths.                                               |
 
 MILITARY PATRONS
+
+
 
 #### Arms Dealer
 

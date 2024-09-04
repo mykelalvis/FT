@@ -16,6 +16,8 @@ Printed in the USA.
 
 CREDITS
 
+
+
 Classic Traveller
 Marc Miller
 
@@ -26,21 +28,31 @@ David MacDonald, Wayne Roth, Paul R. Banner.
 Mongoose Traveller
 
 AUTHOR
+
+
 Gareth Hanrahan
 
 EDITOR
+
+
 Chris Longhurst
 
 INTERIOR ILLUSTRATIONS
+
+
 Leonardo Borazio, McLean Kendree, Rich Longmore, Carlos Nunez de
 Castro Torres, Robin Everett-McGuirl, Travis Leichssenring
 
 SPECIAL THANKS
+
+
 Marc Miller, Tom O'Neill, Brian Caball, Aidan Rafferty, Robert
 Eaglestone, Loren Wiseman, James Maliszewski, Donald McKinley,
 Constantine Thomas, William Hostman, Martin Costa
 
 PLAYTESTERS
+
+
 ExplorationExploration
 Kris Crofts, Claire Mooney, Denis Ryan, Stephen Harte, Tom O'Neill, Padraig O'Sullivan, James Maher, Geoff Russell, Brian Mulcahy, Rob Feeney, Mike O'Brien, Jp Corkery
 
@@ -58,6 +70,8 @@ Stowers, Edward Sturges, Dimitris Stylos-Sagonas, Larry Taylor, Constantine Thom
 Tucholski, Joseph Ulrich, Joni Virolainen, Daniel Wall, Troy Wells, Alex Whittaker, Ian Young
 
 CONTENTS
+
+
 
 ```
 TRAVELLER 2
@@ -142,8 +156,7 @@ continuous or episodic. In a continuous campaign, each scenario
 follows on almost immediately from the end of the last one and the
 fuel, resources and money available to the characters is carefully
 tracked. In an episodic game, there are longer gaps between
-scenarios, and the game focuses only on the exciting and conflict-
-filled parts of the characters' lives.
+scenarios, and the game focuses only on the exciting and conflict-filled parts of the characters' lives.
 ```
 
 ```
@@ -200,7 +213,7 @@ to taking on the local crime lord in a protracted gang war.
 Inspiration could come from anywhere.
 ```
 
-TRAVELLER
+
 
 Die Roll Conventions
 The Traveller system uses two six-sided dice to resolve most
@@ -212,8 +225,7 @@ needed before proceeding.
 together' over and over again, Traveller uses the abbreviation 'roll
 2d6'. Where you see 'roll 2d6' read 'roll two six-sided dice and add
 them together'. Sometimes you may also see '1d6', '3d6' or other
-numbers of 'd6'. This simply means roll one six-sided die, three six-
-sided dice, or however many six-sided dice are indicated, and add
+numbers of 'd6'. This simply means roll one six-sided die, three six-sided dice, or however many six-sided dice are indicated, and add
 them together to gain the fi nal result.
 
 d66:d66: This is shorthand for a special way of rolling two six-sided
@@ -247,11 +259,12 @@ subtracted from the roll; a Die Modifi er of +4 indicates that four is
 to be added to the roll.
 
 EXAMPLE OF PLAY
+
+
 Three players (Chris, Tom, and Claire) are playing Traveller. Their
 characters are, respectively: Morn, a thuggish ex-barbarian; Erik, a
 spy and agent, and Kathya, a pilot and technician. They're currently
-aboard their ship, a Free Trader. In-character speech is denoted by
-(parentheses).
+aboard their ship, a Free Trader. In-character speech is denoted by (parentheses).
 
 Referee: Anyway, you've just jumped to the Cogri system. You're
 about two million kilometers out –
@@ -305,8 +318,7 @@ dock – if there are bad guys still over there, then the last thing we
 want is them walking on board our ship.
 Claire: Life signs?
 Referee: Faint traces of three. Could be three people in low berth
-freezer-tubes, or three people in hibernation...or three recently-
-deceased corpses that're still cooling. Tom, you go through the front
+freezer-tubes, or three people in hibernation...or three recently-deceased corpses that're still cooling. Tom, you go through the front
 airlock and push off, drifting for several seconds before bouncing
 off the hull of the other ship. Your magnetic boots catch on, and
 you can walk over the skin of the ship towards the airlock, gingerly
@@ -317,7 +329,11 @@ Referee: Er...do you have both skills?
 
 TTRAVELLERRAVELLER
 
+
+
 TTRAVELLERRAVELLER
+
+
 
 4
 
@@ -352,6 +368,8 @@ Claire (Kathya): Erik! Can you read me? Erik! Erik? Erik?
 
 ```
 TECHNOLOGY LEVELS
+
+
 The concept of Technology Levels (TLs) runs through Traveller.
 Technology Levels measure the scientific capacity of a world and
 the complexity and effectiveness of a piece of equipment. The
@@ -394,8 +412,7 @@ early 19th century.
 TL 4: (Industrial) TL 4: (Industrial) The transition to industrial revolution is complete,
 bringing plastics, radio and other such inventions. Roughly
 comparable to the late 19th/early 20th century.
-TL 5: (Industrial) TL 5: (Industrial) TL 5 brings widespread electrification, tele-
-communications and internal combustion. At the high end of the
+TL 5: (Industrial) TL 5: (Industrial) TL 5 brings widespread electrification, tele-communications and internal combustion. At the high end of the
 TL, atomics and primitive computing appear. Roughly on a par with
 the mid–20th century.
 TL 6: (Industrial) TL 6: (Industrial) TL 6 brings the development of fission power and
@@ -420,8 +437,7 @@ are opened up. Orbital habitats and factories become common.
 Interstellar travel and trade lead to an economic boom. Colonies
 become much more viable.
 TL 11: (Early Stellar) TL 11: (Early Stellar) The fi rst true artifi cial intelligences become
-possible, as computers are able to model synaptic networks. Grav-
-supported structures reach to the heavens. Jump–2 travel becomes
+possible, as computers are able to model synaptic networks. Grav-supported structures reach to the heavens. Jump–2 travel becomes
 possible, allowing easier travel beyond the one-Jump stellar mains.
 TL 12: (Average Stellar) TL 12: (Average Stellar) Weather control revolutionises terraforming
 and agriculture. Man-portable plasma weapons and carrier-mounted
@@ -454,7 +470,7 @@ when referring to direction: Coreward – toward the galactic core; Rimward – 
 
 4 spinning); Trailing – opposite the spin of the galaxy.
 
-TRAVELLER
+
 
 ```
 In Traveller, a character's abilities and skills are determined largely
@@ -496,6 +512,8 @@ see page 40.
 
 ```
 CHARACTERISTICS
+
+
 Every person and creature in Traveller has several characteristics
 that describe their base mental and physical potential. The basic
 characteristics for a human are:
@@ -574,7 +592,11 @@ d. Military characters (Army, Navy, Marines) can roll for
 
 CCHARACTERHARACTER C CREATIONREATION
 
+
+
 NOBLE TITLES
+
+
 
 ```
 Social StandingSocial Standing Sample TitlesSample Titles
@@ -591,10 +613,11 @@ them on the character sheet. Strength, Dexterity and Endurance are
 collectively referred to as 'physical characteristics'. Intelligence and
 Education are referred to as 'mental characteristics'.
 
-For each characteristic, determine the characteristic Dice Modifier
-(DM).
+For each characteristic, determine the characteristic Dice Modifier (DM).
 
 CHARACTERISTIC MODIFIERS
+
+
 
 ```
 Characteristic Characteristic Dice Modifi erDice Modifi er
@@ -611,6 +634,8 @@ The maximum level for a characteristic for an unaugmented human
 character is 15.
 
 SKILLS
+
+
 Skills are the most important aspect of a character in Traveller,
 and are discussed in detail in the chapter starting on page 48. A
 character's profi ciency in a skill is denoted by his level in that skill.
@@ -636,8 +661,7 @@ specialities. For example, a character might have Engineer 0,
 
 ```
 allowing him to make any Engineer skill checks without an unskilled
-penalty. He might then gain a level in Engineer, giving him Engineer
-(Jump drives) 1. He would make all Engineer checks involving Jump
+penalty. He might then gain a level in Engineer, giving him Engineer (Jump drives) 1. He would make all Engineer checks involving Jump
 drives at a +1 DM, but would make all other Engineer checks at a
 +0 DM. A character can have multiple specialities in a skill – an
 engineer might have Engineer (Jump drives) 1 and Engineer (power
@@ -648,6 +672,8 @@ Engineer checks with a +0 DM.
 
 ```
 BACKGROUND SKILLS
+
+
 Before embarking on your careers, you get a number of background
 skills equal to 3 + your Education DM (1 to 5, depending on your
 Education score). You must take the skills listed for your homeworld;
@@ -886,6 +912,8 @@ Equipment
 
 CHARACTER CREATION
 
+
+
 ```
 Alexander Lascelles Jamison
 42
@@ -959,7 +987,11 @@ Entertainer Journalist Ejected by a rival! 0
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 CAREERS
+
+
 Next, your character must take one or more career terms,
 representing his previous experiences and adventures before the
 start of the campaign. Each career term lasts for four years, even if a
@@ -993,8 +1025,7 @@ a career you were previously in but got ejected from and the Drifter
 career is always open.
 
 Skills and Training: Skills and Training: Each career has four or fi ve skill tables associated
-with it – Personal Development, Service Skills, Specialist Skills
-(divided into three subtables corresponding to assignments) and
+with it – Personal Development, Service Skills, Specialist Skills (divided into three subtables corresponding to assignments) and
 Advanced Education. In each term you spend in a career, pick one
 of these tables and roll 1d6 to see which skill you increase. You may
 only roll on the third table (Advanced Skills) if your character has
@@ -1101,6 +1132,8 @@ so he owes her his life.
 
 CHARACTER CREATION CHARACTER CREATION
 
+
+
 ```
 Advancement: Advancement: Each career has an advancement roll. The advancement
 roll is mandatory. If an Event has already automatically promoted the
@@ -1170,6 +1203,8 @@ character may only enter the Draft once.
 
 ```
 DRAFT TABLE
+
+
 1d61d6 Career (speciality)Career (speciality)
 1 Navy (any)
 2 Army (any)
@@ -1181,6 +1216,8 @@ DRAFT TABLE
 
 ```
 CAREER SUMMARY TABLE
+
+
 CareerCareer Specialization Specialization Qual.Qual. SurvivalSurvival Adv.Adv.
 AgentAgent Int 6+
 Page 10 Law Enforcement End 6+ Int 6+
@@ -1234,6 +1271,8 @@ Exploration End 7+ Edu 7+
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 ### AAGENTGENT
 
 Law enforcement agents, spies, corporate operatives and others
@@ -1256,8 +1295,7 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 8)(Minimum Edu 8)
+Advanced Education Advanced Education (Minimum Edu 8)(Minimum Edu 8)
 1 Gun Combat (any) Streetwise Advocate
 2 +1 Dex Drive (any) Comms
 3 +1 End Investigate Computers
@@ -1283,6 +1321,8 @@ Law EnforcementLaw Enforcement Specialist: Intelligence Specialist: Intelligence
 
 RANKS AND BENEFITS
 
+
+
 ```
 RankRank Law Enforcement Law Enforcement Skill or Benefi tSkill or Benefi t Intelligence/Corporate Intelligence/Corporate Skill or Benefi tSkill or Benefi t
 0 Rookie
@@ -1296,6 +1336,8 @@ RankRank Law Enforcement Law Enforcement Skill or Benefi tSkill or Benefi t Inte
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 Law EnforcementLaw Enforcement End 6+ Int 6+
 IntelligenceIntelligence Int 7+ Int 5+
@@ -1316,8 +1358,12 @@ RollRoll CashCash Other Benefi tsOther Benefi ts
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Severely injured in action. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on the Injury
 table (page 37) and take the lower result.
@@ -1334,6 +1380,8 @@ members, and roll twice on the Injury table for them, taking the lower result.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 An investigation takes on a dangerous turn. Roll Investigate 8+ or Streetwise 8+. If you fail, roll on the mishap table.
@@ -1355,6 +1403,8 @@ roll thanks to his aid.
 ```
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
+
+
 
 Members of the planetary armed fighting forces. Soldiers deal with
 planetary surface actions, battles, and campaigns. Such individuals
@@ -1378,13 +1428,11 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 8)(Minimum Edu 8)
+Advanced Education Advanced Education (Minimum Edu 8)(Minimum Edu 8)
 ```
 
 ```
-Offi cer Skills Offi cer Skills
-(Commissioned Only) (Commissioned Only)
+Offi cer Skills Offi cer Skills (Commissioned Only) (Commissioned Only)
 11 +1 Str Drive (any) Comms Tactics (military)
 2 +1 Dex Athletics (any) Sensors Leadership
 3 +1 End Gun Combat (any) Navigation Advocate
@@ -1405,6 +1453,8 @@ RollRoll Specialist: Support Specialist: Support Specialist: InfantrySpecialist:
 
 RANKS AND SKILLS
 
+
+
 ```
 RankRank NCO NCO Skill or Benefi tSkill or Benefi t Offi cerOffi cer Skill or Benefi tSkill or Benefi t
 0 Private Gun Combat (slug rifle
@@ -1420,6 +1470,8 @@ Standing, whichever is higher.
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 SupportSupport End 5+ Edu 7+
 InfantryInfantry Str 6+ Edu 6+
@@ -1446,8 +1498,12 @@ RollRoll CashCash Other Benefi tsOther Benefi ts
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 11 Severely injured in action. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on the Injury
 table (page 37) and take the lower result.
@@ -1467,10 +1523,11 @@ the service.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 22 Disaster! Roll on the mishap table, but you are not ejected from this career.
-3 You are assigned to a planet with a hostile or wild environment. Gain one of Vacc Suit 1, Engineer (any) 1, Animals
-(riding or training) 1 or Recon 1.
+3 You are assigned to a planet with a hostile or wild environment. Gain one of Vacc Suit 1, Engineer (any) 1, Animals (riding or training) 1 or Recon 1.
 4 You are assigned to an urbanised planet torn by war. Gain one of Stealth 1, Streetwise 1, Persuade 1 or Recon 1.
 5 You are given a special assignment or duty in your unit. Gain a +1 DM to any one Benefi t roll.
 6 You are thrown into a brutal ground war. Throw Endurance 8+ to avoid injury; if you succeed, you gain one level in
@@ -1487,6 +1544,8 @@ next Advancement roll thanks to his aid.
 ```
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
+
+
 
 ### CCITIZENITIZEN
 
@@ -1516,8 +1575,7 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 10)(Minimum Edu 10)
+Advanced Education Advanced Education (Minimum Edu 10)(Minimum Edu 10)
 1 +1 Edu Drive (any) Art (any)
 2 +1 Int Flyer (any) Advocate
 3 Carouse Streetwise Diplomat
@@ -1537,6 +1595,8 @@ RollRoll Corporate Corporate WorkerWorker ColonistColonist
 ```
 
 RANKS AND BENEFITS
+
+
 
 ```
 RankRank Corporate Corporate Skill or Benefi tSkill or Benefi t WorkerWorker Skill or Benefi t Skill or Benefi t ColonistColonist Skill or Benefi tSkill or Benefi t
@@ -1564,6 +1624,8 @@ Engineering 1 Gun Combat 1
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 CorporateCorporate Soc 6+ Int 6+
 WorkerWorker End 4+ Edu 8+
@@ -1584,8 +1646,12 @@ RollRoll CashCash Benefi tsBenefi ts
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Injured. Roll on the Injury table.
 2 You are harassed and your life ruined by a criminal gang. Gain the gang as an Enemy.
@@ -1600,6 +1666,8 @@ Streetwise 8+. If you succeed, increase any skill you have by one level.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 Political upheaval strikes your homeworld, and you are caught up in the revolution. Gain either Advocate 1,
@@ -1616,14 +1684,15 @@ level 1.
 illegally. If you choose to do so, then you gain a +1 DM to a Benefi t roll from this career and gain Streetwise 1,
 Deception 1 or a criminal Contact. If you refuse, you gain nothing.
 9 You are rewarded for your diligence or cunning. Gain a +2 DM to your next Advancement check.
-10 You gain experience in a technical fi eld as a computer operator or surveyor. Increase Comms, Computers, Engineer
-(any) or Sensors by one level.
+10 You gain experience in a technical fi eld as a computer operator or surveyor. Increase Comms, Computers, Engineer (any) or Sensors by one level.
 11 You befriend a superior in the corporation or the colony. Gain an Ally. Either gain Diplomat 1, or take a +4 DM to
 your next Advancement roll thanks to his aid.
 12 You rise to a position of power in your colony or corporation. You are automatically promoted.
 ```
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
+
+
 
 ### DDRIFTERRIFTER
 
@@ -1669,6 +1738,8 @@ RollRoll Specialist: Barbarian Specialist: Barbarian Specialist: WandererSpecial
 
 RANKS AND BENEFITS
 
+
+
 ```
 RankRank BarbarianBarbarian Skill or Benefi tSkill or Benefi t WandererWanderer Skill or Benefi tSkill or Benefi t ScavengerScavenger Skill or Benefi tSkill or Benefi t
 0
@@ -1683,6 +1754,8 @@ or Mechanic 1
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 BarbarianBarbarian End 7+ Str 7+
 WandererWanderer End 7+ Int 7+
@@ -1716,11 +1789,14 @@ area encompassing the three sectors named above. The term is rarely used by inha
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
-1 Severely injured. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on the Injury table
-(page 37) and take the lower result.
+1 Severely injured. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on the Injury table (page 37) and take the lower result.
 2 Injured. Roll on the Injury table.
 3 You run afoul of a criminal gang, corrupt bureaucrat or other foe. Gain an Enemy.
 4 You suffer from a life-threatening illness. Reduce your Endurance by 1.
@@ -1732,6 +1808,8 @@ gain a Rival or Enemy.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 A patron offers you a chance at a job. If you accept, you gain a +4 DM to your next Qualifi cation roll, but you owe
@@ -1752,6 +1830,8 @@ On a 5–6, you succeed. Gain +4 to one Benefi t roll.
 ```
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
+
+
 
 ### EENTERTAINERNTERTAINER
 
@@ -1776,8 +1856,7 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 10)(Minimum Edu 10)
+Advanced Education Advanced Education (Minimum Edu 10)(Minimum Edu 10)
 1 Dex +1 Art (any) Advocate
 2 Int +1 Art (any) Art (any)
 3 Soc +1 Carouse Deception
@@ -1799,6 +1878,8 @@ or endurance)
 ```
 
 RANKS AND BENEFITS
+
+
 
 ```
 RankRank Artist Artist Skill or Benefi tSkill or Benefi t Journalist Journalist Skill or Benefi tSkill or Benefi t Performer Performer Skill or Benefi tSkill or Benefi t
@@ -1826,6 +1907,8 @@ Correspondent
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 ArtistArtist Soc 6+ Int 6+
 JournalistJournalist Edu 7+ Int 5+
@@ -1846,8 +1929,12 @@ RollRoll CashCash Benefi tsBenefi ts
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Injured. Roll on the Injury table.
 2 You expose or are involved in a scandal of some sort.
@@ -1855,14 +1942,15 @@ MISHAPS
 4 You are betrayed by a peer. One of your Contacts or Allies betrays you, ending your career. That Contact or Ally
 becomes a Rival or Enemy. If you have no Contacts or Allies, then you are betrayed by someone you never saw
 coming and still gain a Rival or Enemy.
-5 An investigation, tour, project or expedition goes wrong, stranding you far from home. Gain one of Survival 1, Pilot
-(any) 1, Persuade 1 or Streetwise 1.
+5 An investigation, tour, project or expedition goes wrong, stranding you far from home. Gain one of Survival 1, Pilot (any) 1, Persuade 1 or Streetwise 1.
 6 You are forced out because of censorship or controversy. What truth did you get too close to? You gain a +2 DM to
 the Qualifi cation roll for your next career.
 ```
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 You are invited to take part in a controversial event or exhibition. Roll Art or Investigate 8+. If you succeed, gain one
@@ -1884,6 +1972,8 @@ Streetwise 1, Investigate 1, Recon 1 or Stealth 1.
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 Members of the armed fighting forces carried aboard starships.
 marines deal with piracy and boarding actions in space, defend the
 starports and bases belonging to the navy and supplement ground
@@ -1904,18 +1994,18 @@ Assignments: Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 ```
 RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 8)(Minimum Edu 8)
+Advanced Education Advanced Education (Minimum Edu 8)(Minimum Edu 8)
 ```
 
 ```
-Offi cer SkillsOffi cer Skills
-(Commissioned Only)(Commissioned Only)
+Offi cer SkillsOffi cer Skills (Commissioned Only)(Commissioned Only)
 1 +1 Str Athletics (any) Medic Leadership
 2 +1 Dex Battle Dress Survival Tactics (any)
 3 +1 End Tactics (any) Explosives Admin
@@ -1936,6 +2026,8 @@ RollRoll Specialist: Support Specialist: Support Specialist: Star MarineSpeciali
 
 RANKS AND BENEFITS
 
+
+
 ```
 RankRank NCO NCO Skill or Benefi tSkill or Benefi t Offi cerOffi cer Skill or Benefi tSkill or Benefi t
 0 Marine Melee (blade) 1 or
@@ -1951,6 +2043,8 @@ Standing, whichever is higher.
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 SupportSupport End 5+ Edu 7+
 Star MarinesStar Marines End 6+ Edu 6+
@@ -1977,8 +2071,12 @@ RollRoll CashCash Other Benefi tsOther Benefi ts
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Severely injured in action. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on the Injury
 table (page 37) and take the lower result.
@@ -1995,6 +2093,8 @@ of the service.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 Trapped behind enemy lines, you have to survive on your own. Gain one of Survival 1, Stealth 1, Deception 1 or
@@ -2016,6 +2116,8 @@ Advancement roll thanks to his aid.
 ```
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
+
+
 
 ### MMERCHANTSERCHANTS
 
@@ -2041,8 +2143,7 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 8)(Minimum Edu 8)
+Advanced Education Advanced Education (Minimum Edu 8)(Minimum Edu 8)
 1 +1 Str Drive (any) Social Science (any)
 2 +1 Dex Vacc Suit Astrogation
 3 +1 End Broker Computers
@@ -2076,6 +2177,8 @@ Pilot (spacecraft) Admin
 
 RANKS AND BENEFITS
 
+
+
 ```
 RankRank Merchant Marine Merchant Marine Skill or Benefi t Skill or Benefi tTraderTrader Skill or Benefi t Skill or Benefi t BrokerBroker Skill or Benefi tSkill or Benefi t
 0 Crewman
@@ -2107,6 +2210,8 @@ Streetwise 1
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 Merchant MarineMerchant Marine Edu 5+ Int 7+
 Free TraderFree Trader Dex 6+ Int 6+
@@ -2127,13 +2232,16 @@ RollRoll CashCash Other Benefi tsOther Benefi ts
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Injured. Roll on the Injury table.
 2 You are bankrupted by a rival. You lose all Benefi ts from this career, and gain the other trader as a Rival.
-3 A sudden war destroys your trade routes and contacts, forcing you to flee that region of space. Gain Gun Combat
-(any) 1 or Pilot (any) 1.
+3 A sudden war destroys your trade routes and contacts, forcing you to flee that region of space. Gain Gun Combat (any) 1 or Pilot (any) 1.
 4 Your ship or starport is destroyed by criminals. Gain them as an Enemy.
 5 Imperial trade restrictions force you out of business. You may take the Rogue career for your next term without
 needing to roll for qualifi cation.
@@ -2143,12 +2251,13 @@ for this term as well as any others you are entitled to.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 You are offered the opportunity to smuggle illegal items onto a planet. If you accept, roll Deception 8+ or Persuade
 8+ to gain Streetwise 1 and an extra Benefi t roll. If you refuse, you gain an Enemy in the criminal sphere.
-4 Gain any one of these skills, reflecting your time spent dealing with suppliers and spacers. Trade (any) 1, Engineer
-(any) 1, Animals (any) 1 or Social Science (any) 1
+4 Gain any one of these skills, reflecting your time spent dealing with suppliers and spacers. Trade (any) 1, Engineer (any) 1, Animals (any) 1 or Social Science (any) 1
 5 You have a chance to risk your fortune on a possibility lucrative deal.
 You may gamble a number of Benefi t rolls and roll Gambler 8+ or Broker 8+. If you succeed, you gain half as
 many Benefi t rolls as you risked, rounding up. If you fail, you lose all the rolls risked. Either way, gain one level in
@@ -2165,6 +2274,8 @@ Advancement roll thanks to his aid.
 ```
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
+
+
 
 Members of the interstellar navy which patrols space between the
 stars. The navy has responsibility for the protection of society from
@@ -2190,18 +2301,18 @@ Assignments: Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 ```
 RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 8)(Minimum Edu 8)
+Advanced Education Advanced Education (Minimum Edu 8)(Minimum Edu 8)
 ```
 
 ```
-Offi cer SkillsOffi cer Skills
-(Commissioned Only)(Commissioned Only)
+Offi cer SkillsOffi cer Skills (Commissioned Only)(Commissioned Only)
 1 +1 Str Pilot (any) Remote Operations Leadership
 2 +1 Dex Vacc Suit Astrogation Tactics (naval)
 3 +1 End Zero-G Engineer (any) Pilot (any)
@@ -2222,6 +2333,8 @@ RollRoll Specialist: Crew Specialist: Crew Specialist: Eng/GunSpecialist: Eng/Gu
 
 RANKS AND BENEFITS
 
+
+
 ```
 RankRank NCO Rank NCO Rank Skill or Benefi tSkill or Benefi t Offi cer Rank Offi cer Rank Skill or Benefi tSkill or Benefi t
 0 Crewman
@@ -2237,6 +2350,8 @@ Standing, whichever is higher.
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 Line/CrewLine/Crew Int 5+ Edu 7+
 Eng/GunEng/Gun Int 6+ Edu 6+
@@ -2263,8 +2378,12 @@ RollRoll CashCash Other Benefi tsOther Benefi ts
 
 CHARACTER CREATION CHARACTER CREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Severely injured in action. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on the
 Injury table (page 37) and take the lower result.
@@ -2286,6 +2405,8 @@ out of the Navy.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 You join a gambling circle on board. Gain Gambler 1 or Deception 1. If you wish, throw Gambler 8+. If you succeed,
@@ -2306,6 +2427,8 @@ Advancement roll thanks to his aid.
 ```
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
+
+
 
 ### NNOBILITYOBILITY
 
@@ -2330,8 +2453,7 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 8)(Minimum Edu 8)
+Advanced Education Advanced Education (Minimum Edu 8)(Minimum Edu 8)
 1 Carouse Admin Admin
 2 +1 Edu Advocate Advocate
 3 Deception Comms Language (any)
@@ -2352,6 +2474,8 @@ RollRoll Specialist: Administrator Specialist: Administrator Specialist: Diploma
 
 RANKS AND BENEFITS
 
+
+
 ```
 RankRank Administrator Administrator Skill or Benefi t Skill or Benefi t Diplomat Diplomat Skill or Benefi tSkill or Benefi t Dilettante Dilettante Skill or Benefi tSkill or Benefi t
 0 Assisstant Intern Wastrel
@@ -2366,6 +2490,8 @@ Trades 1
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 AdministratorAdministrator Int 4+ Edu 6+
 DiplomatDiplomat Int 5+ Soc 7+
@@ -2386,8 +2512,12 @@ RollRoll CashCash Other Benefi tsOther Benefi ts
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Injured. Roll on the Injury table.
 2 A family scandal forces you out of your position. Lose one Social Standing.
@@ -2399,6 +2529,8 @@ MISHAPS
 
 ```
 EVENTS
+
+
 2d6 Events
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 You are challenged to a duel for your honor and standing. If you refuse, reduce your Social Standing by 1. If you
@@ -2425,6 +2557,8 @@ Either gain one level of Leadership or take a +4 DM to your next Advancement rol
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 ### RROGUEOGUE
 
 Criminal elements familiar with the rougher or more illegal methods
@@ -2447,8 +2581,7 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 10)(Minimum Edu 10)
+Advanced Education Advanced Education (Minimum Edu 10)(Minimum Edu 10)
 1 Carouse Deception Computers
 2 +1 Dex Recon Comms
 3 +1 End Athletics (any) Medic
@@ -2468,6 +2601,8 @@ RollRoll Specialist: Thief Specialist: Thief Specialist: EnforcerSpecialist: Enf
 ```
 
 RANKS AND BENEFITS
+
+
 
 ```
 RankRank Thief Thief Skill or Benefi tSkill or Benefi t Enforcer Enforcer Skill or Benefi tSkill or Benefi t PiratePirate Skill or Benefi tSkill or Benefi t
@@ -2490,6 +2625,8 @@ or Navigation 1
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 ThiefThief Int 6+ Dex 6+
 EnforcerEnforcer End 6+ Str 6+
@@ -2510,8 +2647,12 @@ RollRoll CashCash Other Benefi tsOther Benefi ts
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Severely injured. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on
 the Injury table (page 37) and take the lower result.
@@ -2527,6 +2668,8 @@ spacecraft) 1, Zero-G 1 or Gunner (any) 1.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 You are arrested and charged. You can choose to defend yourself, or hire a lawyer. If you defend yourself, roll
@@ -2549,6 +2692,8 @@ roll thanks to his aid.
 ```
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
+
+
 
 ### SSCHOLARCHOLAR
 
@@ -2575,8 +2720,7 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 10)(Minimum Edu 10)
+Advanced Education Advanced Education (Minimum Edu 10)(Minimum Edu 10)
 1 +1 Int Comms Art (any)
 2 +1 Edu Computers Advocate
 3 +1 Soc Diplomat Computers
@@ -2602,6 +2746,8 @@ Field ResearcherField Researcher Specialist: Scientist Specialist: Scientist Spe
 
 RANKS AND BENEFITS
 
+
+
 ```
 RankRank Field Researcher Field Researcher Skill or Benefi tSkill or Benefi t Scientist Scientist Skill or Benefi tSkill or Benefi t Physician Physician Skill or Benefi tSkill or Benefi t
 0
@@ -2615,6 +2761,8 @@ RankRank Field Researcher Field Researcher Skill or Benefi tSkill or Benefi t Sc
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 Field ResearcherField Researcher End 6+ Int 6+
 ScientistScientist Edu 4+ Int 8+
@@ -2635,8 +2783,12 @@ RollRoll CashCash Other Benefi tsOther Benefi ts
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Injured. Roll on the Injury table.
 2 A disaster leaves several injured, and others blame you, forcing you to leave your career. Roll on the Injury table
@@ -2645,8 +2797,7 @@ twice, taking the higher result, and gain a Rival.
 work openly, increase any Science skill by one level and gain an Enemy. If you continue with your work secretly,
 increase any Science skill by one level and reduce your Social Standing by 2. This mishap does not cause you to
 leave this career.
-4 An expedition or voyage goes wrong, leaving you stranded in the wilderness. Gain Survival 1 or Athletics (co-
-ordination or endurance) 1. By the time you fi nd your way home, your job is gone.
+4 An expedition or voyage goes wrong, leaving you stranded in the wilderness. Gain Survival 1 or Athletics (co-ordination or endurance) 1. By the time you fi nd your way home, your job is gone.
 5 Your work is sabotaged by unknown parties. You may salvage what you can and give up (leave the career but retain
 this term's Benefit roll) or start again from scratch (lose all Benefit rolls from this career but you do not have to leave).
 6 A rival researcher blackens your name or steals your research. Gain a Rival but you do not have to leave this career.
@@ -2654,6 +2805,8 @@ this term's Benefit roll) or start again from scratch (lose all Benefit rolls fr
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 You are called upon to perform research that goes against your conscience. Accept, and you gain an extra Benefi t
@@ -2679,6 +2832,8 @@ or take a +4 DM to your next Advancement roll thanks to his aid.
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 Members of the exploratory service. Scouts explore new areas,
 map and survey known or newly discovered areas, and maintain
 the communications ships which carry information and messages
@@ -2703,8 +2858,7 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 8)(Minimum Edu 8)
+Advanced Education Advanced Education (Minimum Edu 8)(Minimum Edu 8)
 1 +1 Str Pilot (spacecraft or
 small craft)
 ```
@@ -2733,6 +2887,8 @@ RollRoll Specialist: Courier Specialist: Courier Specialist: SurveySpecialist: S
 
 RANKS AND SKILLS
 
+
+
 ```
 RankRank TitleTitle Skill or Benefi tSkill or Benefi t
 0
@@ -2746,6 +2902,8 @@ RankRank TitleTitle Skill or Benefi tSkill or Benefi t
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 CourierCourier End 5+ Edu 9+
 SurveySurvey End 6+ Int 8+
@@ -2792,8 +2950,12 @@ The artefact...
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Severely injured in action. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on the Injury
 table (page 37) and take the lower result.
@@ -2807,6 +2969,8 @@ table (page 37) and take the lower result.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 Your ship is ambushed by enemy vessels. Either run, and throw Pilot 8+ to escape, or treat with them and throw
@@ -2831,7 +2995,11 @@ Contact in an alien race and one level in any skill of your choice. If you fail,
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 LIFE EVENTS
+
+
 Even in the distant future, humans are still people. (In fact, some
 non-humans are also people...) They work, they quarrel, they get
 sick, they fall in love, they complain about their in-laws... in short,
@@ -2839,6 +3007,8 @@ life goes on. If you roll a Life Event on the Events table for your
 career, roll on the Life Events table at the bottom of this page.
 
 MUSTERING OUT BENEFITS
+
+
 In the course of a character's career, he may manage to save some
 money. He may also acquire equipment and other benefits from his
 previous employers – a scout might be mustered out of the service
@@ -2852,6 +3022,8 @@ A character gets one Benefit Roll for every full term served in that
 career. You also get extra benefi t rolls if you reached a higher rank.
 
 BENEFITS OF RANK
+
+
 
 ```
 Highest Rank Highest Rank
@@ -2906,6 +3078,8 @@ then gain the Vacc Suit or Battle Dress skill or another type of armor.
 
 ```
 LIFE EVENTS
+
+
 2d62d6 EventEvent
 2 Sickness or Injury: Sickness or Injury: The character is injured or contracts a bad sickness. Roll on the Injury table (page 37).
 3 Birth or Death: Birth or Death: Someone close to the character dies, like a friend or family member. Alternatively, someone close to the
@@ -2938,6 +3112,8 @@ Emperor, perhaps, or Imperial intelligence.
 
 CHARACTER CREATION CHARACTER CREATION
 
+
+
 ```
 Ally: Ally: Gain an Ally.
 ```
@@ -2957,8 +3133,7 @@ Standing increases become bonus Ship Shares.
 ```
 
 ```
-Combat Implant: Combat Implant: Gain any one of the following augmentations
-(see page 89): Skill Augmentation, Wafer Jack, Subdermal Armor
+Combat Implant: Combat Implant: Gain any one of the following augmentations (see page 89): Skill Augmentation, Wafer Jack, Subdermal Armor
 or Characteristic Augmentation. You must take the lowest-TL
 Augmentation of that type. If you roll this benefit again, then you
 may either take a different Augmentation or the upgrade one you
@@ -3107,6 +3282,8 @@ the purposes of the Connections rule (see page 8).
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 Ship Shares
 Ship shares represent contacts, credit rating, savings and favors
 owed that a character can put towards ownership of a space vessel.
@@ -3123,6 +3300,8 @@ Old Ships on page 136.
 Each ship share reduces the cost of the ship by 1%.
 
 SHIP COSTS
+
+
 
 ```
 Ship TypeShip Type Value (Cr.)Value (Cr.)
@@ -3162,6 +3341,8 @@ TermsTerms PayPay
 ```
 
 AGING AND INJURIES
+
+
 Aging and injuries can both reduce characteristics before play
 begins. There are ways to ameliorate the effects of both aging and
 injuries. Characters can prolong their youth using anagathics (drugs
@@ -3177,8 +3358,7 @@ money he spends on anagathics and medical care.
 
 ```
 Aging
-The effects of aging begin when a character reaches 34 years of age
-(their fourth four-year career term). At the end of the fourth term,
+The effects of aging begin when a character reaches 34 years of age (their fourth four-year career term). At the end of the fourth term,
 and at the end of every term thereafter, the character must roll 2d6
 on the Aging Table. Apply the character's total number of terms as
 a negative Dice Modifi er on this table.
@@ -3186,6 +3366,8 @@ a negative Dice Modifi er on this table.
 
 ```
 AGING TABLE
+
+
 2d62d6 Effects of AgingEffects of Aging
 –6 Reduce three physical characteristics by 2,
 reduce one mental characteristic by 1
@@ -3239,6 +3421,8 @@ of sitting in our palaces?')
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
 
+
+
 ```
 a character stops taking anagathics, then he must roll immediately
 on the aging table to simulate the shock that comes from his system
@@ -3276,9 +3460,11 @@ injuries were.
 
 ```
 INJURY TABLE
+
+
 1d61d6 InjuryInjury
 1 Nearly killed. Reduce one physical characteristic by 1d6,
-reduce both other physical characteristics by 2 (or one of
+reduce both other physical characteristics by2 (or one of
 them by 4).
 2 Severely injured. Reduce one physical characteristic by 1d6.
 3 Missing eye or limb. Reduce Strength or Dexterity by 2.
@@ -3323,6 +3509,8 @@ how much of his medical care is paid for by his employer.
 
 ```
 MEDICAL BILLS
+
+
 CareerCareer Roll of 4+Roll of 4+ Roll of 8+ Roll of 8+ Roll of 12+Roll of 12+
 Army/Navy/Marines 75% 100% 100%
 Agent/Nobility/
@@ -3356,6 +3544,8 @@ of the game.
 
 ```
 FINISHING TOUCHES
+
+
 Once you have gone through all the career terms you want, rolled
 for your skills and benefits, and resolved the effects of any aging or
 injuries, it is time to move onto fi nishing touches.
@@ -3400,6 +3590,8 @@ Incoming mis----signal lost.+++
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 travelling. Taking a skill package ensures that your group will at
 least have basic competency in the situations that will come up in
 the game. When you have collectively decided which skill package is
@@ -3410,8 +3602,7 @@ skills have been selected.
 Traveller Skill Package: Traveller Skill Package: This is an all-round skill package, good for
 a campaign where the characters are trading one week and blowing
 things up the next.
-Pilot (any) 1, Sensors 1, Comms 1, Gunner (any) 1, Gun Combat Pilot (any) 1, Sensors 1, Comms 1, Gunner (any) 1, Gun Combat
-(any) 1, Persuade 1, Stealth 1, Medic 1.(any) 1, Persuade 1, Stealth 1, Medic 1.
+Pilot (any) 1, Sensors 1, Comms 1, Gunner (any) 1, Gun Combat Pilot (any) 1, Sensors 1, Comms 1, Gunner (any) 1, Gun Combat (any) 1, Persuade 1, Stealth 1, Medic 1.(any) 1, Persuade 1, Stealth 1, Medic 1.
 
 Mercenary Skill Package: Mercenary Skill Package: This skill package focuses on ground
 combat, and is obviously aimed at combat-heavy games.
@@ -3457,6 +3648,8 @@ character?
 
 ```
 CHARACTER CREATION EXAMPLE
+
+
 The following example is given to illustrate the process of character
 generation. Actual die throws are shown in brackets, as are
 comments on the application of game rules. Die modifications are
@@ -3465,8 +3658,8 @@ labelled DM.
 
 ```
 Alexander Lascelles Jamison: Alexander Lascelles Jamison: First, Jamison rolls for his
-Characteristics. He rolls: Str 6 (DM +0) Dex 8 (DM +0) End 8 (DM
-+0) Int 12 (DM +2) Edu 8 (DM +0) Soc 9 (DM +1). His Edu DM of
+Characteristics. He rolls: Str6 (DM +0) Dex8 (DM +0) End8 (DM
++0) Int 12 (DM +2) Edu8 (DM +0) Soc9 (DM +1). His Edu DM of
 +0 gives him three background skills based on his homeworld – a
 high-population, high-technology world. He takes Computers 0 and
 Streetwise 0 for his homeworld skills, and chooses Drive 0 from the
@@ -3527,6 +3720,8 @@ his Mechanic skill [rolls a 4 on the Merchant Marine specialist table,
 ```
 
 CHARACTER CREATION CHARACTER CREATION
+
+
 
 ```
 and he already has Mechanic 1, so it goes up to Mechanic 2]. He
@@ -3642,6 +3837,8 @@ Combat (slug pistol) 1 and Sensors 1 out of it.
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 Pooling the ship shares of the other characters, the group is able
 to afford a reasonable mortgage on a Free Trader. He hires his old
 Scout friend as navigator, and invites Sya to travel with him.
@@ -3655,17 +3852,20 @@ love is actually an Imperial agent who is using him as a cover...
 
 Merchant Captain Alexander JamisonMerchant Captain Alexander Jamison
 Age 42, 6 terms, Cr. 80,000
-Str 6 (+0) Dex 7 (+0) End 7 (+0)
-Int 12 (+2) Edu 9 (+1) Soc 9 (+1)
+Str6 (+0) Dex7 (+0) End7 (+0)
+Int 12 (+2) Edu9 (+1) Soc9 (+1)
 Skills: Admin 1, Broker 1, Comms 0, Computers 2, Deception 1, Drive
-0, Engineer (electronics) 1, Gun Combat (slug pistols) 1, Gunner
-(turrets) 1, Mechanic 2, Medic 1, Persuade 0, Pilot (spacecraft) 3,
+0, Engineer (electronics) 1, Gun Combat (slug pistols) 1, Gunner (turrets) 1, Mechanic 2, Medic 1, Persuade 0, Pilot (spacecraft) 3,
 Pilot (small craft) 1, Sensors 1, Steward 0, Streetwise 1.
 Equipment: Blade, Type A Free Trader
 
 ALTERNATE CHARACTER
 
+
+
 GENERATION RULES
+
+
 The standard form of Traveller character generation is recommended
 for most campaigns, but some players or Referees may prefer these
 alternate modes.
@@ -3728,6 +3928,8 @@ characteristics and skills using points.
 
 CHARACTERISTICS
 
+
+
 ```
 Characteristic Characteristic
 ```
@@ -3777,6 +3979,8 @@ Per term thereafter: Per term thereafter: +10 points.
 
 SKILLS
 
+
+
 ```
 Skill LevelSkill Level
 ```
@@ -3797,6 +4001,8 @@ costs fi ve times normal.
 ```
 
 CHARACTER CREATION CHARACTER CREATION
+
+
 
 ### AALIELIENSNS
 
@@ -3905,8 +4111,7 @@ in buildings and spacecraft designed for smaller creatures.
 ```
 Natural Weapon: Natural Weapon: The species has a natural weapon, such as claws,
 a strong bite or a poisonous stinger. Such weapons are usable
-at Personal range and deal ∞1 damage. The creature gains Melee
-(natural weapons) at level 0.
+at Personal range and deal ∞1 damage. The creature gains Melee (natural weapons) at level 0.
 ```
 
 ```
@@ -3950,6 +4155,8 @@ easily list large numbers of characters.
 ```
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
+
+
 
 Notable (Characteristic)Notable (Characteristic): Some species are notably dextrous,
 intelligent, tough or strong. Characters from such races have a
@@ -4019,6 +4226,8 @@ the coverage here is necessarily brief and incomplete.
 
 ```
 ASLAN
+
+
 Aslan are roughly human-sized and humanoid, and are descended
 from four-limbed, upright, bipedal carnivore-pouncer stock. The
 earliest [[Terra|Terran]] explorers saw in them a vague resemblance to the
@@ -4044,6 +4253,8 @@ among the Aslan.
 ```
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
+
+
 
 ```
 A deep-seated territorial instinct causes the Aslan to have an
@@ -4083,6 +4294,8 @@ which they sometimes use in social interaction with each other.which they someti
 
 ```
 DROYNE
+
+
 Droyne are an intelligent major race inhabiting scattered worlds
 within an area slightly larger than the region of the current Imperium.
 They are a small race derived from winged herbivorous gatherers.
@@ -4145,6 +4358,8 @@ society and government join into one concept. Workers work,
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 Leaders lead. All of society is dedicated to continuing the existence
 that provides all members with food, shelter and the other amenities
 that make life enjoyable. In addition, there is little discord in Droyne
@@ -4169,6 +4384,8 @@ are not Small. Leaders have Notable Intelligence (+2). Droyne are not Small. Lea
 replace Social Standing with Caste, which is generated on 1d6.replace Social Standing with Caste, which is generated on 1d6.
 
 HIVERS
+
+
 Hivers are an intelligent major race with a large federation of their
 own. Hivers average 1.5 meters from ground to top of upraised
 head. Descended from omnivore gatherer/scavenger stock, they are
@@ -4256,6 +4473,8 @@ by default. This is understood to be a somewhat arbitrary distinction and someth
 ```
 
 CHARACTER CREATION CCHARACTERHARACTER C CREATIONREATION
+
+
 
 ```
 translators, and sophisticated electronics of all types.
@@ -4373,6 +4592,8 @@ administrators, as well as merchants and businessmen.
 
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
+
+
 NoblesNobles are the governmental officials: the high military offi cers,
 diplomats, and heads of trade and manufacturing concerns.
 Nobles are usually garbed in much more ornate fashion than
@@ -4397,6 +4618,8 @@ K'kreeK'kree are Large (3d6 Strength and Endurance) and replace Social are Large
 Standing with Caste.Standing with Caste.
 
 VARGR
+
+
 Vargr are an Intelligent Major Race derived from Ancient genetic
 manipulations of [[Terra|Terran]] carnivore/chaser stock, apparently dating
 from approximately the same time that humanity was scattered to
@@ -4463,8 +4686,12 @@ replace Social Standing with Charisma.replace Social Standing with Charisma.
 
 CHARACTER CREATION CHARACTER CREATION
 
+
+
 ```
 ZHODANI
+
+
 Zhodani are independently descended from human stock
 transplanted by the Ancients. In general, they tend to be taller than
 Solomani or Vilani (other independent branches of the human
@@ -4526,8 +4753,7 @@ possibility that one's mind is being read have removed dishonesty
 and deviance as common features of society. Disagreements still
 occur, competition thrives, passions flare. But all takes place in
 an atmosphere of honesty and truth. Individuals can express their
-feelings without fear and problems are openly dealt with. In non-
-psionic societies, much is kept secret within the mind. A Zhodani
+feelings without fear and problems are openly dealt with. In non-psionic societies, much is kept secret within the mind. A Zhodani
 visiting the Imperium would be appalled by the deviousness and
 dishonesty that pervades society.
 ```
@@ -4581,6 +4807,8 @@ The Referee should only call for checks:
 - When success or failure is especially important or interesting.
 
 TASK CHECKS
+
+
 To make a check, the player rolls 2d6 and any appropriate Dice To make a check, the player rolls 2d6 and any appropriate Dice
 Modifi ers. If the total is 8 or more, the character succeeds. Modifi ers. If the total is 8 or more, the character succeeds.
 
@@ -4691,6 +4919,8 @@ even for an amateur. A routine task might be hitting a prone victim
 
 SKILLS AND TASKS
 
+
+
 in melee, landing a ship in optimum conditions with computer
 assistance, translating a newspaper and so on. Routine tasks have
 a diffi culty DM of +2+2.
@@ -4719,6 +4949,8 @@ their language. Formidable tasks have a diffi culty DM of –6–6.
 
 TASK DIFFICULTY DICE MODIFIERS
 
+
+
 ```
 Diffi cultyDiffi culty DMDM
 Simple +6
@@ -4735,7 +4967,7 @@ about a mysterious ship that landed at the starport. He goes to a
 bar frequented by travellers and spacers, hoping to pick up on a
 rumor. This is a Carouse check, and the Referee says that it is a
 Diffi cult (–2) task. Erik has one level of Carouse, which gives him a
-DM of +1, an Intelligence of 9 (for another +1 DM) and he subtracts
+DM of +1, an Intelligence of9 (for another +1 DM) and he subtracts
 –2 for the diffi culty of the task, giving him a final DM of +0. He rolls
 2d6 + 0 and tries to get 8 or more.
 
@@ -4761,8 +4993,7 @@ a good time to call for a skill check.
 ```
 Which Characteristic?
 The characteristic that applies to a skill check will be obvious
-in most cases – balancing atop a wall is patently a Dexterity-
-based check, while using brute force to disable a mechanism
+in most cases – balancing atop a wall is patently a Dexterity-based check, while using brute force to disable a mechanism
 is governed by Strength. The main area of overlap is between
 Intelligence and Education. The former covers inspiration,
 improvization and pure reasoning, while the latter is for trained
@@ -4815,7 +5046,11 @@ are occasionally perturbed by collisions or by the influence of nearby stars int
 
 SSKILLSKILLS ANDAND T TASKSASKS
 
+
+
 SSKILLSKILLS ANDAND T TASKSASKS SKILLS AND TASKS
+
+
 
 Effect
 If the degree of success is important, then subtract 8 from the
@@ -4824,6 +5059,8 @@ referred to as the Effect. For example, if a player rolls a 4 and 3, and
 has a +3 DM for a total of 10, then his Effect is 10 – 8 = 2.
 
 SUCCESS
+
+
 
 ```
 Effect TotalEffect Total SuccessSuccess
@@ -4838,6 +5075,8 @@ impressive and elegant fashion.
 ```
 
 FAILURE
+
+
 
 ```
 Effect TotalEffect Total FailureFailure
@@ -4897,6 +5136,8 @@ to make the task easier, giving her a +2 DM.
 
 ```
 TIME FRAMES TABLE
+
+
 Time FrameTime Frame IncrementIncrement Example ActionExample Action
 1–6 Seconds One second Shooting, punching, jumping.
 10–60 Seconds Ten seconds Rerouting power, opening a
@@ -4915,6 +5156,8 @@ person.
 ```
 
 SKILLS AND TASKS SKILLS AND TASKS
+
+
 
 ```
 Multiple Actions
@@ -4948,6 +5191,8 @@ The result of one check can give a DM to the next.
 
 ```
 TASK CHAIN DMS
+
+
 The Previous The Previous
 CheckCheck
 ```
@@ -5079,7 +5324,11 @@ and all other Engineer checks with a +0 DM.
 
 SSKILLSKILLS ANDAND T TASKSASKS SKILLS AND TASKS
 
+
+
 SKILLS
+
+
 Each Skill is described using the following format:
 Description: Description: What the skill does.
 Specialities: Specialities: If the skill has several specialities, they are listed here.
@@ -5202,6 +5451,8 @@ Surreptitiously switching on your recorder while in a secret
 
 SKILLS AND TASKS SSKILLSKILLS ANDAND T TASKSASKS
 
+
+
 - Instrument: Instrument: Playing a particular musical instrument, such a
     flute, piano or organ.
 Playing a concerto: Dexterity or Education, 10–60 minutes,
@@ -5256,8 +5507,7 @@ fair deals. It is heavily used in trading (see page 160).
 
 ```
 Negotiating a deal: Intelligence, 1–6 hours, Average (+0).
-Finding a buyer: Intelligence or Social Standing, 1–6 hours, Average
-(+0).
+Finding a buyer: Intelligence or Social Standing, 1–6 hours, Average (+0).
 ```
 
 ```
@@ -5292,8 +5542,7 @@ Accessing publicly available but obscure data over a comm:
 Education, 10–60 minutes, Average (+0).
 Bouncing a signal off an orbiting satellite to hide your transmitter:
 Intelligence, 10–60 minutes, Diffi cult (–2).
-Jamming a comms system: Intelligence, 1–6 minutes, Diffi cult
-(–2) for radio, Very Diffi cult (–4) for laser, Formidable (–6). for
+Jamming a comms system: Intelligence, 1–6 minutes, Diffi cult (–2) for radio, Very Diffi cult (–4) for laser, Formidable (–6). for
 masers, Opposed. A character using a comms system with a higher
 Technology Level than his opponent has a +1 DM for every TL of
 difference.
@@ -5312,6 +5561,8 @@ Activating a computer program on a ship's computer: Education or
 ```
 
 SSKILLSKILLS ANDAND T TASKSASKS SKILLS AND TASKS
+
+
 
 Intelligence, 10–60 seconds, Routine (+2).
 Searching a corporate database for evidence of illegal activity:
@@ -5421,10 +5672,11 @@ minutes, Average (+0). The damage from the explosive is multiplied
 
 SKILLS AND TASKS SSKILLSKILLS ANDAND T TASKSASKS
 
+
+
 ```
 by the Effect.
-Planting a breaching charge: Education, 10–60 seconds, Average
-(+0). The damage from the explosive is multiplied by the Effect.
+Planting a breaching charge: Education, 10–60 seconds, Average (+0). The damage from the explosive is multiplied by the Effect.
 Disarming a bomb equipped with anti-tamper trembler detonators:
 Dexterity, 1–6 minutes, Formidable (–6).
 ```
@@ -5573,6 +5825,8 @@ the appropriate skill by one for every level of Jack of All Trades. For
 
 SSKILLSKILLS ANDAND T TASKSASKS SKILLS AND TASKS
 
+
+
 example, if a character does not have the Pilot skill, he suffers a –3
 DM to all Pilot checks. If that character has Jack of All Trades 2, then
 that penalty is reduced by 2 to a –1 DM. With Jack of All Trades 3, a
@@ -5683,8 +5937,7 @@ Attacking in melee: Strength or Dexterity,
 Navigation
 Navigation is the
 planet-side
-counterpart of astro-
-gation, covering
+counterpart of astro-gation, covering
 plotting courses and finding
 directions on the ground.
 ```
@@ -5708,6 +5961,8 @@ Bluffi ng your way past a guard: Intelligence or Social Standing, 1–6
 ```
 
 SKILLS AND TASKS SSKILLSKILLS ANDAND T TASKSASKS
+
+
 
 ```
 minutes, Diffi cult (–2).
@@ -5847,6 +6102,8 @@ can require a roll.
 
 SSKILLSKILLS ANDAND T TASKSASKS SKILLS AND TASKS
 
+
+
 Analysing sensor data: Intelligence or Education, 1–6 hours,
 Average (+0).
 Breaking through interference: Intelligence or Education, 1–6
@@ -5925,6 +6182,8 @@ page 60, for more details.
 
 SKILLS AND TASKS SSKILLSKILLS ANDAND T TASKSASKS
 
+
+
 ```
 Specialities:Specialities:
 ```
@@ -5985,8 +6244,7 @@ suit for each missing level.
 Zero-G
 Having the Zero-G skill means the character is adept at moving
 around in micro-gravity environments and freefall. A character
-without the Zero-G skill suffers a –2 DM to all checks made in free-
-fall. The skill can also be used to move around in a zero-gravity
+without the Zero-G skill suffers a –2 DM to all checks made in free-fall. The skill can also be used to move around in a zero-gravity
 environment by pushing off other objects or using thruster packs.
 ```
 
@@ -6003,6 +6261,8 @@ Diffi cult (–2)
 
 ```
 LEARNING NEW SKILLS
+
+
 The more skills a character possesses, the longer it takes him to
 learn a new skill. A character's Skill Total is calculated by summing
 the levels of each skill (level zero skills count as zero). A character
@@ -6056,6 +6316,8 @@ flotsam of a week-old wreck to a trove left by the Ancients, and which vary in v
 ### CCOMBATOMBAT
 
 COMBAT
+
+
 
 As adventurers journey through the cities and wilds of the worlds
 they visit, they will encounter both men and beasts. At times, the
@@ -6116,6 +6378,8 @@ up and down by actions taken during a round.
 
 ```
 DYNAMIC INITIATIVE
+
+
 During the course of a round a character's Initiative score may be
 changed by reactions, recoil and hastening. Any changes affect your
 Initiative for one round only – either the current round if you have
@@ -6128,6 +6392,8 @@ at a penalty to your roll.
 
 ```
 HASTEN
+
+
 At the start of each combat round a character may declare that
 he is acting hastily. This gives him a +2 bonus to his Initiative for
 that round only but all his actions receive a –1 DM. A character can
@@ -6135,6 +6401,8 @@ only hasten once.
 ```
 
 MINOR ACTIONS
+
+
 
 ```
 Movement
@@ -6177,14 +6445,15 @@ signifi cant and one minor.
 ```
 Red ZoneRed Zone
 The Travellers' Aid Society travel zone classifi cation for a nation, world, or system which is dangerous to travellers. In general, the imposition of a red zone classifi cation
-indicates the location is quarantined, interdicted by higher authority, or at war. Quarantine indicates that a dangerous disease is present, and the danger of war is self-
-explanatory, but interdiction requires further discussion. Interstellar governments often fi nd it necessary to restrict access to worlds or systems for political or military
+indicates the location is quarantined, interdicted by higher authority, or at war. Quarantine indicates that a dangerous disease is present, and the danger of war is self-explanatory, but interdiction requires further discussion. Interstellar governments often fi nd it necessary to restrict access to worlds or systems for political or military
 reasons, and do so by publishing interdictions. Enforcement of interdiction varies with the reason for the restriction. Interdiction may be imposed on a world if it is a
 military base or other sensitive installation, for the private reservations belonging to powerful families desiring seclusion, for developing societies which the government
 has elected to allow to evolve in isolation, or for valuable resource areas being saved for later development or exploitation.
 ```
 
 CCOMBATOMBAT
+
+
 
 listed in the description of each weapon. Most weapons take one
 minor action to draw and another minor action to reload, but some
@@ -6210,6 +6479,8 @@ actions include:
 - Picking something up off the ground or a nearby surface.
 
 SIGNIFICANT ACTIONS
+
+
 
 Minor Actions
 A character can take two minor actions instead of a significant
@@ -6262,6 +6533,8 @@ Thrown Attack = 2d6 + Athletics (co-ordination) + Dexterity DMThrown Attack = 2d
 
 ```
 COMMON MODIFIERS TO ATTACKS
+
+
 Bonuses Bonuses Penalties Penalties
 Aiming +1 per Aim
 action
@@ -6288,8 +6561,7 @@ tolerance
 - see page 93
 
 ```
-Target Dodges
-(Reaction)
+Target Dodges (Reaction)
 ```
 
 ```
@@ -6316,8 +6588,7 @@ greater range
 a prone target
 at Personal
 range
-Target Parries
-(Reaction)
+Target Parries (Reaction)
 ```
 
 ```
@@ -6327,6 +6598,8 @@ Melee skill
 
 ```
 RECOIL AND HEFT
+
+
 When you make an attack, compare your Strength DM to the Recoil
 rating of the weapon you are using. If your Strength DM is higher,
 no further effects apply. If your Strength DM is lower then the
@@ -6342,12 +6615,16 @@ the Auto score.
 
 ```
 REACTIONS
+
+
 A character who is about to be attacked can react, dodging or
 ducking out of the way. This means that the more time a character
 spends reacting, the longer it will be until he acts himself. Each
 ```
 
 CCOMBATOMBAT COMBAT
+
+
 
 reaction lowers Initiative by 2 and applies a –1 DM to all skill checks
 until the following round. There is no limit to how many times a
@@ -6368,6 +6645,8 @@ Melee skill as a negative DM equal to the attack roll. A parrying
 character also has a –1 DM on all skill checks until the next round.
 
 OTHER ACTIONS
+
+
 This section covers actions with unusual timing, such as performing
 a long skill check or interrupting someone else's action.
 
@@ -6416,14 +6695,15 @@ Dexterity order as normal.
 
 ```
 SPECIAL CONSIDERATIONS
+
+
 These rules cover unusual situations that will not occur in every
 firefight.
 ```
 
 ```
 Automatic Weapons
-Automatic weapons – any with a number listed in the Auto column
-(see page 97) are capable of three fi re modes: single-shot, burst,
+Automatic weapons – any with a number listed in the Auto column (see page 97) are capable of three fi re modes: single-shot, burst,
 and auto-fi re.
 ```
 
@@ -6446,6 +6726,8 @@ character is not in communication with the rest of his unit and his
 ```
 
 COMBAT CCOMBATOMBAT
+
+
 
 ```
 commander, then he cannot benefit from Tactics or Leadership.
@@ -6574,6 +6856,8 @@ will protect against all attacks.
 
 CCOMBATOMBAT COMBAT
 
+
+
 Explosions
 Grenades, rockets and other explosives affect an area. A character
 caught in an explosion may dodge at the usual Initiative cost (or, if
@@ -6674,8 +6958,7 @@ A character can be standing, crouched or prone.
 ```
 A standing character uses the normal rules. A crouching character
 moves at half speed but can make better use of cover. If a crouching
-character is in cover, consider it one row lower on the Cover Table
-(see previous page) – 1/4 cover counts as 1/2 cover, 1/2 cover as
+character is in cover, consider it one row lower on the Cover Table (see previous page) – 1/4 cover counts as 1/2 cover, 1/2 cover as
 3/4 cover, and so on.
 ```
 
@@ -6741,6 +7024,8 @@ reasons. Travellers should exercise caution.
 
 COMBAT COMBAT
 
+
+
 ```
 Thrown Weapons
 There are two kinds of thrown weapons: the fi rst kind strike a
@@ -6754,13 +7039,14 @@ The second kind does not.
 ```
 
 ```
-If the attack fails the projectile scatters in a random direction for
-(6 + Effect) meters. This is usually only important if the projectile
+If the attack fails the projectile scatters in a random direction for (6 + Effect) meters. This is usually only important if the projectile
 explodes on or after impact.
 ```
 
 ```
 DAMAGE
+
+
 Each weapon lists the damage it inflicts as a number of d6. Add the
 Effect of the attack roll to this damage.
 ```
@@ -6778,6 +7064,8 @@ the character is killed.
 
 ```
 WEAPON RANGES
+
+
 Weapon Weapon Personal Personal Close Close Short Short Medium Medium Long Long Very Long Very Long Distant Distant
 Melee Attacks Melee Attacks
 Unarmed +0 –1 Out of range Out of range Out of range Out of range Out of range
@@ -6802,6 +7090,8 @@ Thrasher +0 –1 Out of range Out of range Out of range Out of range Out of rang
 
 COMBAT COMBAT
 
+
+
 Armor
 Armor reduces damage by the value of the armor. A hit with Effect
 6+ always inflicts at least one point of damage, regardless of the
@@ -6813,6 +7103,8 @@ the target was wearing battle dress (armor 18), she would inflict
 no damage at all.
 
 VEHICLES
+
+
 Combat in and on vehicles is much the same as ordinary combat.
 The differences are as follows:
 
@@ -6835,6 +7127,8 @@ and other vehicles where the occupants are exposed.
 
 CLOSED VEHICLES
 
+
+
 - Closed vehicles grant cover to the occupants – unless the
     description mentions otherwise civilian vehicles grant soft
     cover and military vehicles full hard cover.
@@ -6845,6 +7139,8 @@ CLOSED VEHICLES
     one person in each arc in a military one.
 
 OPEN VEHICLES
+
+
 
 - Open vehicles grant no cover to the passengers.
 - Any passenger in an open vehicle can shoot (or otherwise
@@ -6878,8 +7174,7 @@ km/h of the vehicle's speed (round up). This is applied as damage
 directly to anything hit and, if the thing struck is solid enough, also
 to the ramming vehicle. Any unsecured passengers in a vehicle
 damaged in a collision take the same damage and, if possible, are
-thrown three meters for every 10 km/h of speed. Secured passengers
-(those wearing seatbelts or something similar) are not thrown
+thrown three meters for every 10 km/h of speed. Secured passengers (those wearing seatbelts or something similar) are not thrown
 anywhere and take one quarter damage.
 ```
 
@@ -6909,14 +7204,24 @@ Endurance more survivable.
 
 FRONT
 
+
+
 REAR
+
+
 
 LEFT RIGHT
 
+
+
 COMBAT CCOMBATOMBAT
+
+
 
 ```
 EVASIVE ACTION
+
+
 Vehicles are not typically manoeuvrable enough to dodge as
 a reaction. Instead, the driver may declare that he is taking
 evasive action when his turn arrives. He makes a skill check (skill
@@ -6928,6 +7233,8 @@ driver's next action.
 
 ```
 MANOEUVRING
+
+
 A driver or pilot can maneuver his vehicle without making a skill
 check. This allows the vehicle to avoid large or obvious obstacles, to
 get where it is going, to move out of one fire arc of an enemy vehicle
@@ -6937,6 +7244,8 @@ is in. More extreme maneuvers are covered by 'stunt', below.
 
 ```
 RAM
+
+
 Deliberately driving a vehicle into someone or something requires
 a signifi cant action and a successful skill check (skill determined
 by vehicle). Rams are affected by dodging and evasive action as
@@ -6946,6 +7255,8 @@ it automatically successful if the target is particularly large.
 
 ```
 STUNT
+
+
 With a signifi cant action and a successful vehicle control check the
 driver or pilot of a vehicle can do pretty much anything it is possible
 to do in his vehicle – stand a car up on two wheels, perform stunning
@@ -6963,6 +7274,8 @@ or anything else you can imagine.
 
 ```
 WEAVE
+
+
 In an environment with many obstacles, such as an inner city or
 tight underground caverns, a driver or pilot may choose to weave his
 vehicle in and around the obstacles at high speed in order to evade
@@ -7021,18 +7334,18 @@ or Triple hits count as two or three hits on the same location.
 
 LOCATION TABLE
 
+
+
 ```
 2d6 2d6
 ```
 
 ```
-External Hit External Hit
-(Vehicle) (Vehicle)
+External Hit External Hit (Vehicle) (Vehicle)
 ```
 
 ```
-Internal Hit Internal Hit
-(Vehicle) (Vehicle) Robot or Drone Robot or Drone
+Internal Hit Internal Hit (Vehicle) (Vehicle) Robot or Drone Robot or Drone
 2 Hull Structure Hull
 3 Sensors Power Plant Power Plant
 4 Drive Power Plant Sensors
@@ -7143,8 +7456,7 @@ Damage, Hull Damage, and Structure Damage.
 System Damage: System Damage: A damaged system can be jury-rigged back to
 functioning, but it will stop functioning again after 1d6 hours.
 Repairing a damaged system requires not only an Average skill
-check (Mechanic, Engineer (appropriate speciality) or Science
-(appropriate speciality)) taking 1–6 hours but also a source of spare
+check (Mechanic, Engineer (appropriate speciality) or Science (appropriate speciality)) taking 1–6 hours but also a source of spare
 parts. The spare parts can come from a scrap yard, a workshop,
 systems on another vehicle, or can be taken from other systems
 on the same vehicle. When taking spare parts from other vehicle
@@ -7178,6 +7490,8 @@ is required.
 
 CCOMBATOMBAT
 
+
+
 ```
 This chapter covers planet-side encounters. For encounters and
 dangers in space, see page 139.
@@ -7192,6 +7506,8 @@ Encounters.Encounters.
 
 ```
 ANIMALS
+
+
 Many worlds in the galaxy are capable of bearing life. While a sizeable
 proportion of these worlds were seeded with Earth-life by the Ancients
 or by human colonists, there are many worlds where evolution (or
@@ -7256,8 +7572,7 @@ characters encounter, or build up a whole ecology in advance.
 
 ```
 The terrain type affects the nature of the creatures found there.
-Animals can be amphibious (A), swimmers (S), fl yers (F) or walkers
-(W). If a number is listed in the movement section, it is a DM to the
+Animals can be amphibious (A), swimmers (S), fl yers (F) or walkers (W). If a number is listed in the movement section, it is a DM to the
 creature's Size roll.
 ```
 
@@ -7272,6 +7587,8 @@ with specifi c species.
 ### EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS
 
 PLANETARY QUIRKS TABLE
+
+
 
 ```
 RollRoll Sensory Quirk Sensory Quirk Defence QuirkDefence Quirk Nesting QuirkNesting Quirk
@@ -7366,10 +7683,16 @@ Can change gender Poison
 
 COMBAT
 
+
+
 ENCOUNTERS AND DANGERS ENCOUNTERS AND DANGERS
+
+
 
 ```
 TERRAIN DM CHART
+
+
 Roll for Creature MovementRoll for Creature Movement
 TerrainTerrain Type DM Type DM Size DMSize DM 1 2 3 4 5 6
 Clear +3 - W W W W W +2 F –6
@@ -7392,6 +7715,8 @@ Deep ocean +4 +2 S +8 S +6 S +4 S +2 S S –2
 
 ```
 ANIMAL TYPES
+
+
 2d62d6 Herbivore Herbivore Omnivore Omnivore Carnivore Carnivore Scavenger Scavenger
 1 or less Filter Gatherer Pouncer Carrion-Eater
 2 Filter Eater Siren Reducer
@@ -7410,6 +7735,8 @@ ANIMAL TYPES
 
 ```
 RURAL ENCOUNTER TABLE
+
+
 2d62d6 Creature TypeCreature Type
 2 Scavenger
 3 Omnivore
@@ -7466,6 +7793,8 @@ down that it has Survival and Instinct +2.
 ```
 
 ENCOUNTERS AND DANGERS EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS
+
+
 
 ```
 For each entry in the Rural Encounter Table, roll on the appropriate
@@ -7546,6 +7875,8 @@ that number to the number of damage dice the creature rolls.
 
 ```
 SIZE TABLE
+
+
 2d62d6 Weight (kg) Weight (kg) Strength Strength Dexterity Dexterity EnduranceEndurance
 1 or less 1 1 1d6 1
 2 3 2 1d6 2
@@ -7564,6 +7895,8 @@ SIZE TABLE
 
 ```
 WEAPONS TABLE ARMOR TABLE
+
+
 2d62d6 Weapons Weapons 2d62d6 ArmorArmor
 1 or less None 1 or less 0
 2 Teeth 2 0
@@ -7594,6 +7927,8 @@ weapons), and any skills listed in their behaviour.
 ```
 
 EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS ENCOUNTERS AND DANGERS
+
+
 
 Damage from attacks depends on the creature's Strength score.
 
@@ -7637,12 +7972,8 @@ provoked again, in which case roll again.
 ```
 TypeType AttackAttack FleeFlee
 HerbivoreHerbivore
-Filter 10+ if possible 5-
-Intermittent 10+ 4-
-Grazer 8+ 6-
-OmnivoreOmnivore
-Gatherer 9+ 7-
-Hunter If the hunter is bigger than
+Filter 10+ if possible 5-Intermittent 10+ 4-Grazer 8+ 6-OmnivoreOmnivore
+Gatherer 9+ 7-Hunter If the hunter is bigger than
 at least one character, then it
 attacks on a 6+. Otherwise, it
 attacks on a 10+
@@ -7653,8 +7984,7 @@ attacks on a 10+
 ```
 
 ```
-Eater 5+ 4-
-CarnivoreCarnivore
+Eater 5+ 4-CarnivoreCarnivore
 Pouncer If the pouncer has surprise,
 it attacks.
 ```
@@ -7689,12 +8019,8 @@ attacks.
 ```
 
 ```
-Killer 6+ 3-
-Scavenger
-Hijacker 7+ 6-
-Intimidator 8+ 7-
-Carrion-eater 11+ 7-
-Reducer 10+ 7-
+Killer 6+ 3-Scavenger
+Hijacker 7+ 6-Intimidator 8+ 7-Carrion-eater 11+ 7-Reducer 10+ 7-
 ```
 
 Wilderness Encounter Checklist
@@ -7717,8 +8043,7 @@ Apply Planetary Quirks as needed
 Creature Creation Example, Part 2
 The Referee rolls on the Size Table, applying the –2 DM from rainforest terrain and the +2 DM he rolled when checking for locomotion.
 He rolls an 8, meaning the hunter weighs 200 kg. After rolling its characteristics it comes out Strength 12, Dexterity 11 and Endurance 7.
-A powerful creature but with little stamina for a prolonged chase. Rolling on the weapons and armor table the Referee scores 8 and 10
-(including a +4 DM on each because the creature is an omnivore). That gives it a stinger with +1 dice of damage (so its final damage is
+A powerful creature but with little stamina for a prolonged chase. Rolling on the weapons and armor table the Referee scores 8 and 10 (including a +4 DM on each because the creature is an omnivore). That gives it a stinger with +1 dice of damage (so its final damage is
 2d6 (from Strength) + 1d6 (from the sting) = 3d6) and three points of armor. The roll for Pack is low, only a 4, meaning the characters
 will only encounter 1d6 of the creatures at a time. The roll for Instinct is a 12! Plus two from the creature's hunter behaviour gives it an
 overwhelming Instinct of 14, about as cunning as an animal can get.
@@ -7732,8 +8057,12 @@ the wreckage of the crashed starship is going to be a nerve-wracking endeavor...
 
 ENCOUNTERS AND DANGERS ENCOUNTERS AND DANGERS
 
+
+
 ```
 ENVIRONMENTAL DANGERS
+
+
 Most life-bearing alien worlds have completely incompatible
 biologies, so humans are utterly unaffected by their native
 pathogens. The exceptions are typically planets where everything is
@@ -7775,8 +8104,7 @@ Biological Weapon –6 1d6+8 1d6 hours
 Sample Animals
 TypeType HabitatHabitat Strength Strength DexterityDexterity Endurance Endurance IntelligenceIntelligence Instinct Instinct PackPack
 Jungle HowlerJungle Howler
-Pouncer
-(Carnivore)
+Pouncer (Carnivore)
 ```
 
 ```
@@ -7791,8 +8119,7 @@ Monkey-like predators with sharp claws, who attack by leaping from the treetops 
 
 ```
 SkitterersSkitterers
-Grazer
-(Herbivore)
+Grazer (Herbivore)
 ```
 
 ```
@@ -7847,6 +8174,8 @@ Slow, ponderous tripeds who use their great bulk to drive off competitors.
 
 EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS ENCOUNTERS AND DANGERS
 
+
+
 Poisons
 Poisons operate in the same way as diseases, but generally work
 much faster and often have a wider range of effects. Most poisons
@@ -7866,7 +8195,7 @@ are suitably protected. Temperatures are in Celsius.
 
 ```
 HeatHeat EffectEffect
-50 ̊ (Very hot
+50$1 (Very hot
 desert)
 ```
 
@@ -7875,8 +8204,8 @@ desert)
 ```
 
 ```
-200 ̊ (~Mercury) 1d6/round
-500 ̊ (~Venus) 2d6/round
+200$1 (~Mercury) 1d6/round
+500$1 (~Venus) 2d6/round
 Burning Torch 1d6/round
 Welding Torch 2d6/round
 Inferno 3d6/round
@@ -7910,6 +8239,8 @@ number of meters equal to the Effect of his check.
 
 ```
 FATIGUE
+
+
 A character can become fatigued in several ways:
 ```
 
@@ -7931,6 +8262,8 @@ fatigue while already fatigued they fall unconscious.
 
 ```
 UNCONSCIOUSNESS
+
+
 An unconscious character may make an Endurance check
 after every minute of unconsciousness – if successful, he
 regains consciousness. If he fails he must wait another minute
@@ -7940,6 +8273,8 @@ check previously failed.
 
 ```
 INJURY AND RECOVERY
+
+
 Injured characters are either wounded or seriously wounded. A
 character is considered seriously wounded if he has lost at least
 one point from all three of his physical characteristics. As soon as
@@ -7949,14 +8284,16 @@ no longer seriously wounded.
 
 ```
 ColdCold EffectEffect
-–25 ̊ (Arctic) 1d6/hour
-–50 ̊ (~Mars) 2d6/hour
-–200 ̊ (~Pluto) 1d6/round
+–25$1 (Arctic) 1d6/hour
+–50$1 (~Mars) 2d6/hour
+–200$1 (~Pluto) 1d6/round
 Freezer Berth 1d6/round
 Liquid Nitrogen 2d6/round
 ```
 
 ENCOUNTERS AND DANGERS EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS
+
+
 
 ```
 Seriously wounded characters who have somehow avoided
@@ -7978,8 +8315,7 @@ An injured character regains a number of characteristic points equal
 to his 1d6 + Endurance DM per day of full rest. If the character
 insists on continuing an active lifestyle he only heals a number of
 characteristic points equal to 1 + Endurance DM per day. Characters
-with a low Endurance DM (quite possibly from injury) may degrade
-(lose more characteristic points) over time if they are unlucky or
+with a low Endurance DM (quite possibly from injury) may degrade (lose more characteristic points) over time if they are unlucky or
 cannot (or will not) rest.
 ```
 
@@ -8102,6 +8438,8 @@ or one levels in a half-dozen other skills.
 
 ENCOUNTERS AND DANGERS ENCOUNTERS AND DANGERS
 
+
+
 There are fi ve types of non-player characters who will show up
 throughout a Traveller campaign: allies, contacts, enemies, rivals
 and patrons.
@@ -8121,6 +8459,8 @@ position or influence).
 
 ```
 RANDOM TRAITS
+
+
 d66d66 TraitTrait d66d66 TraitTrait
 11 Loyal 41 Rumor-monger
 12 Distracted by other worries 42 Unusually provincial
@@ -8166,6 +8506,8 @@ d66d66 PersonagePersonage d66d66 PersonagePersonage
 ```
 
 ENCOUNTERS AND DANGERS EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS
+
+
 
 ```
 Erik's ally is his old Naval commander, Jan Halos, who mustered
@@ -8244,6 +8586,8 @@ knowledge of having done the right thing.
 
 ```
 SAMPLE PATRONS
+
+
 Patrons are employers, contacts, adventure hooks or headaches
 for the player characters. The patron needs something done,
 and is prepared to pay the player characters very well for them
@@ -8286,8 +8630,9 @@ them on a ship, per two weeks of work.
 
 EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS ENCOUNTERS AND DANGERS
 
-for other Naval missions. It is better to have a few long-running non-
-player characters than a constant parade of disposable patrons.
+
+
+for other Naval missions. It is better to have a few long-running non-player characters than a constant parade of disposable patrons.
 
 Jefri haut-Oschem, Planetologist
 Required: Required: Life Sciences, Survival; Spacecraft
@@ -8404,6 +8749,8 @@ Following the shipments is up to them.
     and Imperial customs inspections.
 
 ENCOUNTERS AND DANGERS EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS
+
+
 
 ```
 The Margrave of Vilmaer, Eccentric Noble
@@ -8543,6 +8890,8 @@ willing to personally escort these delicate cargos.
 
 EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS ENCOUNTERS AND DANGERS
 
+
+
 Referee's InformationReferee's Information
 Galm is skirting the edge of legality by dealing in alien artefacts
 and hazardous creatures. The only reason his goods are not illegal
@@ -8667,8 +9016,12 @@ as they seem.
 
 ENCOUNTERS AND DANGERS EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS
 
+
+
 ```
 RANDOM PATRON TABLE
+
+
 d66d66 Patron Patron d66d66 PatronPatron
 CriminalCriminal CommercialCommercial
 11 Assassin 41 Merchant
@@ -8698,6 +9051,8 @@ High SocietyHigh Society UnusualUnusual
 
 ```
 RANDOM PATRON MISSION TABLE
+
+
 d66d66 Mission Mission d66d66 MissionMission
 11 Assassinate a target 41 Investigate a crime
 12 Frame a target 42 Investigate a theft
@@ -8759,6 +9114,8 @@ missions can be generated in a hurry by using these tables.
 
 ```
 RANDOM MISSION TARGETS
+
+
 d66d66 TargetTarget d66d66 TargetTarget
 Trade GoodsTrade Goods NPCsNPCs
 11 Common Trade Goods 41 Roll on the Patron Table
@@ -8791,7 +9148,11 @@ PlacesPlaces VesselsVessels
 
 EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS ENCOUNTERS AND DANGERS
 
+
+
 RANDOM OPPOSITION
+
+
 
 ```
 d66d66 OppositionOpposition d66d66 OppositionOpposition
@@ -8822,11 +9183,15 @@ High TechHigh Tech SocialSocial
 ```
 
 RANDOM ENCOUNTERS
+
+
 These three random encounter tables for settled planets cover a wide cross-section of Imperial society. Encounters should be adjusted
 based on the culture and technology of the planet. The Referee should roll for a new encounter every six hours on average (more often if the
 characters are travelling or attracting attention).
 
 STARPORT ENCOUNTERS
+
+
 
 ```
 d66d66 EncounterEncounter d66d66 EncounterEncounter
@@ -8867,8 +9232,12 @@ authorities
 
 ENCOUNTERS AND DANGERS EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS
 
+
+
 ```
 RURAL ENCOUNTERS
+
+
 d66d66 EncounterEncounter d66d66 EncounterEncounter
 11 Wild Animal 41 Wild Animal
 12 Agricultural robots 42 Small community – quiet place to live
@@ -8892,6 +9261,8 @@ d66d66 EncounterEncounter d66d66 EncounterEncounter
 
 ```
 URBAN ENCOUNTERS
+
+
 d66d66 EncounterEncounter d66d66 EncounterEncounter
 11 Street riot in progress 41 Security Patrol
 12 Characters pass a charming restaurant 42 Ancient building or archive
@@ -8932,6 +9303,8 @@ The rival...
 6. ... spies on the characters and waits for them to do something illegal or embarrassing that he can capitalise on.
 
 EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS ENCOUNTERS AND DANGERS
+
+
 
 ```
 CharacterCharacter Career Path Career Path Strength Strength Dexterity Dexterity Endurance Endurance Intelligence Intelligence Education Education Social StandingSocial Standing
@@ -9017,6 +9390,8 @@ Toolkit, Snub Pistol (3d6–3)
 SAMPLE NON PLAYER CHARACTERS 1
 
 ENCOUNTERS AND DANGERS EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS
+
+
 
 ```
 CharacterCharacter Career Path Career Path Strength Strength Dexterity Dexterity Endurance Endurance Intelligence Intelligence Education Education Social StandingSocial Standing
@@ -9136,12 +9511,10 @@ the Imperium means that it is possible for a traveller to outrun his
 credits – having a million credits in one's bank account on Sylea is
 all well and good, but if you are twenty parsecs away and the data
 has not caught up with you, then that money is inaccessible to you.
-Large banks, corporations and other financial institutions use the X-
-boat network to synchronise important fi nancial records, but private
+Large banks, corporations and other financial institutions use the X-boat network to synchronise important fi nancial records, but private
 citizens must make arrangements to keep credits available.
 
-It is possible to notify one's bank and have a line of credit sent ahead
-(or at least sent at the same time) if you know your destination but
+It is possible to notify one's bank and have a line of credit sent ahead (or at least sent at the same time) if you know your destination but
 wandering travellers must often use physical cash or trade goods. In
 addition to physical credits, precious metals, gemstones, radioactive
 elements or technological wonders are sometimes used as barter
@@ -9151,8 +9524,7 @@ on many worlds.
 Living
 A standard meal costs 5 credits to 50 credits or more per person,
 depending on the level of quality and service. A burger of
-unidentifi able meat-like substances eaten standing up in a fast-
-food joint costs 2–3 credits; a fi ne meal at the Traveller's Aid Hostel
+unidentifi able meat-like substances eaten standing up in a fast-food joint costs 2–3 credits; a fi ne meal at the Traveller's Aid Hostel
 costs 20 credits, while a sybaritic feast of a dozen courses and
 entertainments costs 500 credits or more.
 ```
@@ -9184,6 +9556,8 @@ additional cost and provide extra, specialized benefi ts.
 
 EQUIPMENT
 
+
+
 ```
 Standard of LivingStandard of Living Cost/Month Cost/Month Suitable For Suitable For
 Very Poor Cr 400 Social Standing 2
@@ -9199,6 +9573,8 @@ Ludicrously Rich Cr 20,000+ Social Standing 16
 ```
 
 ARMOR
+
+
 Unless otherwise noted, only one type of armor can be worn at
 a time. Resolve damage from the outside in – damage that gets
 through the outer layer of armor is next applied to the inner layer.
@@ -9254,6 +9630,8 @@ are designed for conditions where a normal vacc suit would be
 ```
 
 EEQUIPMENTQUIPMENT
+
+
 
 ```
 Armor TypeArmor Type ProtectionProtection Required Skill Required Skill Cost (Cr)Cost (Cr) Mass (kg)Mass (kg)
@@ -9357,8 +9735,8 @@ Vacc Suit 1
 18
 12
 6
-Ablat (TL 9) 1 (6 against lasers) None 75 2
-Reflec (TL 10) 0 (10 against lasers) None 1,500 1
+Ablat (TL 9)1 (6 against lasers) None 75 2
+Reflec (TL 10)0 (10 against lasers) None 1,500 1
 Combat Armor (TL 11)
 Combat Armor (TL 12)
 Combat Armor (TL 14)
@@ -9417,6 +9795,8 @@ wearer while the suit is powered up and turned on. The actual mass of the suit i
 
 EQUIPMENT EQUIPMENT
 
+
+
 insuffi cient, such as deep underwater, worlds shrouded in toxic
 or corrosive gases, extremes of radiation or temperature, or other
 locales that offer serious physical danger as well as the lack of a
@@ -9463,8 +9843,7 @@ is commonly outfi tted with numerous upgrades. The suit is fully
 enclosed, with a six-hour air supply and gives full protection against
 environmental hazards – including NBC shielding – as if it was an
 HEV suit. TL 14 battle dress is considerably stronger, giving Strength
-+6 instead of +4, and upgrades its internal systems to Computer/3
-(although still running Tactics 2).
++6 instead of +4, and upgrades its internal systems to Computer/3 (although still running Tactics 2).
 ```
 
 ```
@@ -9518,6 +9897,8 @@ lead to instant and unavoidable death. You have been warned.
 
 EQUIPMENT EEQUIPMENTQUIPMENT
 
+
+
 ```
 armor, battle dress). By adding high-pressure oxygen tanks
 and recycling systems, the suit now provides eighteen hours of
@@ -9528,7 +9909,7 @@ oxygen. Cr. 10,000.
 Medikit (TL 10):Medikit (TL 10): An internal medical scanner and drug injector,
 the medikit can be installed in combat armor, battle dress or a
 vacc suit. It automatically applies first aid if the wearer is reduced
-to Endurance 0 (treat the Medikit as having Medic 3). It can also
+to Endurance0 (treat the Medikit as having Medic 3). It can also
 administer Fast Drug on command, or if life support systems are
 failing (turning remaining minutes of life support into hours). Cr
 5,000. A TL 11 medikit can also inject Combat or Slow drugs and the
@@ -9559,13 +9940,14 @@ Costs Cr 120,000. See grav belt, page 103.
 
 ```
 Vislight Chameleon (TL 13):Vislight Chameleon (TL 13): A more advanced form of IR Chameleon,
-Vislight Chameleon covers the surface of the armor with light-
-bending technology, making the wearer nearly invisible to the naked
+Vislight Chameleon covers the surface of the armor with light-bending technology, making the wearer nearly invisible to the naked
 eye (+4 DM to Stealth rolls). Vislight Chameleon costs Cr. 50,000.
 ```
 
 ```
 AUGMENTS
+
+
 While technology is capable of significantly altering and improving
 the human form, obvious cybernetic, genetic or surgical alteration
 of the human form is frowned upon in the Imperium. While
@@ -9668,6 +10050,8 @@ only have one skill augmentation and must possess that skill at level
 
 EEQUIPMENTQUIPMENT EQUIPMENT
 
+
+
 Wafer Jack (TL 12): Wafer Jack (TL 12): A wafer jack is a computer system implanted
 into the base of the skull that consists of an external data socket
 and a processor running an interface program. A character with a
@@ -9684,6 +10068,8 @@ cybernetic eyes giving him the abilities of a set of binoculars and IR/
 Light Intensifi er goggles at the cost of Cr. 25,000.
 
 COMMUNICATIONS
+
+
 Communications technology rapidly merges with computer
 technology at higher technology levels. Above Technology Level 10
 in most cultures, it is unthinkable to be out of touch except in the
@@ -9747,8 +10133,7 @@ km)
 ```
 
 ```
-TL 9 (Computer/0) 1 Very Distant
-(50 km)
+TL9 (Computer/0) 1 Very Distant (50 km)
 ```
 
 ```
@@ -9756,8 +10141,7 @@ TL 9 (Computer/0) 1 Very Distant
 ```
 
 ```
-TL 12 (Computer/0) 1 Regional
-(500 km)
+TL 12 (Computer/0) 1 Regional (500 km)
 ```
 
 ```
@@ -9765,8 +10149,7 @@ TL 12 (Computer/0) 1 Regional
 ```
 
 ```
-TL 13 (Computer/1) 1 Continental
-(5,000 km)
+TL 13 (Computer/1) 1 Continental (5,000 km)
 ```
 
 ```
@@ -9775,8 +10158,7 @@ TL 13 (Computer/1) 1 Continental
 
 ```
 Laser TransceiversLaser Transceivers
-TL 9 1.5 Regional
-(500 km)
+TL 9 1.5 Regional (500 km)
 ```
 
 ```
@@ -9784,8 +10166,7 @@ TL 9 1.5 Regional
 ```
 
 ```
-TL 11 (Computer/0) 0.5 Regional
-(500 km)
+TL 11 (Computer/0) 0.5 Regional (500 km)
 ```
 
 ```
@@ -9793,8 +10174,7 @@ TL 11 (Computer/0) 0.5 Regional
 ```
 
 ```
-TL 13 (Computer/1) - Regional
-(500 km)
+TL 13 (Computer/1) - Regional (500 km)
 ```
 
 ```
@@ -9831,9 +10211,10 @@ bugs or throat microphones. Cr. 10 each.
 
 EQUIPMENT EQUIPMENT
 
+
+
 ```
-Holographic Projector (TL 11):Holographic Projector (TL 11): A holographic projector is a toaster-
-sized box that, when activated, creates a three-dimensional image
+Holographic Projector (TL 11):Holographic Projector (TL 11): A holographic projector is a toaster-sized box that, when activated, creates a three-dimensional image
 in the space around it or nearby – the range is approximately three
 meters in all directions. The image can be given pre-programmed
 animations within a limited range and the projector includes
@@ -9853,6 +10234,8 @@ TL 13 Cr. 10,000
 
 ```
 COMPUTERS
+
+
 The power of a computer is given by its rating (Computer/1,
 Computer/2 and so forth), which measures the complexity of the
 programs it can run. (Storage space is effectively unlimited at TL
@@ -9869,9 +10252,7 @@ can only run one Program/0 at a time.
 The computers listed here are laptop size. Battery life is two hours at
 TL 7, eight hours at TL 8, and effectively unlimited at TL 9 and above.
 Desktop computers offer a slightly greater amount of processing
-power for the same cost but not enough to make a difference in-
-game. Desktops become obsolete during TL 8 although some retro-
-technology enthusiasts may create old-fashioned cases for their
+power for the same cost but not enough to make a difference in-game. Desktops become obsolete during TL 8 although some retro-technology enthusiasts may create old-fashioned cases for their
 smaller, lighter computers.
 ```
 
@@ -9977,6 +10358,8 @@ dimming'. Lights on a ship are typically dimmed for a period of about two minute
 
 EEQUIPMENTQUIPMENT EQUIPMENT
 
+
+
 plastic about the size of a credit card. The interface for a data wafer
 is standardised but the internal workings vary. A TL 10 data wafer
 is memory diamond, with information encoded in structures of
@@ -10006,6 +10389,8 @@ non-trivial amount of bandwidth to transfer.
 
 ```
 MEDICAL SUPPLIES
+
+
 Most of these supplies require a character with the Medic skill to use
 properly. These items are, in the main, useful only in emergencies,
 such as when a character is injured on a distant planet far away from
@@ -10029,6 +10414,8 @@ power supply. Wt. 200 kg, Cr. 50,000.
 
 ```
 COMPUTER SOFTWARE TABLE
+
+
 SoftwareSoftware Rating Rating TL TL CostCost Effect Effect
 Database - TL 7 Cr. 10 to
 Cr. 10,000
@@ -10188,6 +10575,8 @@ An Intellect program can use a number of skills simultaneously equal to its Rati
 
 EQUIPMENT EQUIPMENT
 
+
+
 ```
 Medikit (TL 8+):Medikit (TL 8+): There are different types of medikit available at
 different Technology Levels. All medikits contain diagnostic devices
@@ -10195,8 +10584,7 @@ and scanners, surgical tools and a panoply of drugs and antibiotics,
 allowing a medic to practise his art in the field. Higher-technology
 medikits do not give a bonus to basic treatment, but can help with
 more exotic problems or when treating augmented individuals. For
-example, a TL 8 medikit can test blood pressure and temperature
-(amongst other things); a TL 14 kit has a medical densitometer to
+example, a TL 8 medikit can test blood pressure and temperature (amongst other things); a TL 14 kit has a medical densitometer to
 create a three-dimensional view of the patient's body and can scan
 brain activity on the quantum level. All medikits weigh 8 kg.
 ```
@@ -10288,6 +10676,8 @@ In combat, add up all the negative DMs to determine the effective diffi culty of
 
 EEQUIPMENTQUIPMENT EQUIPMENT
 
+
+
 be used on any wound or illness and are guaranteed not to make
 things worse. A character using panaceas may make a Medic check
 as if he had Medic 0 when treating an infection or disease. Panaceas
@@ -10373,6 +10763,8 @@ point.
 
 ```
 ROBOTS AND DRONES
+
+
 The legal status of robots varies across the Imperium. Some
 worlds embrace automation and machine intelligence, giving
 even comparatively simple artificial minds legal protection or even
@@ -10393,8 +10785,7 @@ and Education score. Drones have neither. A robot's Education
 characteristic is representative of the information programmed
 into it and even low-end robots can have high Education scores.
 Most robots have Social Standing characteristics of 0 as they are
-not social creations but there are some exceptions, usually high-
-end models running advanced Intellect programs. Drones do not
+not social creations but there are some exceptions, usually high-end models running advanced Intellect programs. Drones do not
 have Social Standing but in cases where they are used to engage
 in diplomacy or other social intercourse the operator can use
 his own Social Standing score.
@@ -10417,9 +10808,11 @@ invention of Intellect programs.
 
 EQUIPMENT EQUIPMENT
 
+
+
 ```
-Strength 30 (+8), Dexterity 9 (+1), Hull 2, Structure 2
-Intelligence 3 (–1), Education 5 (–1), Social Standing 0 (–3)
+Strength 30 (+8), Dexterity9 (+1), Hull 2, Structure 2
+Intelligence3 (–1), Education5 (–1), Social Standing0 (–3)
 Traits: Armor 8, Huge, Specialised Computer/1 (running Intellect/1
 and Expert Trade (any physical)/1)
 Weapons: Crushing Strength (Melee (unarmed), 3d6 damage)
@@ -10435,10 +10828,9 @@ may run Expert Engineer (any) rather than Expert Mechanic.
 ```
 
 ```
-Strength 6 (+0), Dexterity 7 (+0), Hull 1, Structure 1
-Intelligence 5 (–1), Education 6 (+0), Social Standing 0 (–3)
-Traits: Integral System (mechanical toolkit), Specialised Computer/1
-(running Intellect/1 and Expert Mechanic/2)
+Strength6 (+0), Dexterity7 (+0), Hull 1, Structure 1
+Intelligence5 (–1), Education6 (+0), Social Standing0 (–3)
+Traits: Integral System (mechanical toolkit), Specialised Computer/1 (running Intellect/1 and Expert Mechanic/2)
 Weapons: Tools (Melee (unarmed), 1d6 damage)
 Price: 10,000 Credits
 ```
@@ -10451,9 +10843,8 @@ have a virtual presence over a great distance.
 ```
 
 ```
-Strength 2 (–2), Dexterity 7 (+0), Hull 1, Structure 1
-Traits: Tiny, Integral System (comm, audio/visual), Integral System
-(grav floater), Integral System (TL 11 holographic projector)
+Strength2 (–2), Dexterity7 (+0), Hull 1, Structure 1
+Traits: Tiny, Integral System (comm, audio/visual), Integral System (grav floater), Integral System (TL 11 holographic projector)
 Price: 2,000 Credits
 ```
 
@@ -10465,7 +10856,7 @@ fly at a speed of 300 kph.
 ```
 
 ```
-Strength 3 (–1), Dexterity 7 (+0), Hull 3, Structure 3
+Strength3 (–1), Dexterity7 (+0), Hull 3, Structure 3
 Traits: Armor 5, Integral System (comm, audio/visual), Integral
 System (grav belt), Integral System (TL 11 holographic projector),
 Integral System (every sensor available at TL 11 and below,
@@ -10481,10 +10872,9 @@ superior utility.
 ```
 
 ```
-Strength 6 (+0), Dexterity 15 (+3), Hull 1, Structure 1
-Intelligence 9 (+1), Education 12 (+2), Social Standing 0 (–3)
-Traits: Integral System (TL 12 medikit), Specialised Computer/1
-(running Intellect/1 and Medic/2)
+Strength6 (+0), Dexterity 15 (+3), Hull 1, Structure 1
+Intelligence9 (+1), Education 12 (+2), Social Standing0 (–3)
+Traits: Integral System (TL 12 medikit), Specialised Computer/1 (running Intellect/1 and Medic/2)
 Weapons: Surgical Tools (Melee (small blade), 1d6 damage)
 Price: 40,000 Credits
 ```
@@ -10504,8 +10894,7 @@ robots) are illegal on many worlds.
 
 ```
 Strength 12 (+2), Dexterity 10 (+1), Hull 4, Structure 4
-Traits: Armor 9, Integral System (grav floater), Integral Weapon
-(any)
+Traits: Armor 9, Integral System (grav floater), Integral Weapon (any)
 Weapons: Any gun
 Price: 90,000 Credits plus the cost of the weapon (the Integral
 Weapon upgrade is included)
@@ -10521,8 +10910,8 @@ or Expert Gambler to better suit their lifestyle.
 ```
 
 ```
-Strength 7 (+0), Dexterity 9 (+1), Hull 2, Structure 2
-Intelligence 9 (+1), Education 12 (+2), Social Standing 7 (+0)
+Strength7 (+0), Dexterity9 (+1), Hull 2, Structure 2
+Intelligence9 (+1), Education 12 (+2), Social Standing7 (+0)
 Traits: Computer/3 (running Intellect/1 and Expert Steward/2 –
 servitors also have Expert Diplomacy/2 and Translator/1 available
 should they be necessary)
@@ -10538,6 +10927,8 @@ or robot's cost by 25%.
 
 EEQUIPMENTQUIPMENT EQUIPMENT
 
+
+
 Integral System:Integral System: Certain devices can be built into drones or robots
 by increasing the cost of the device by +50%. Popular choices
 include toolkits of different kinds (see opposite), various sensors,
@@ -10547,6 +10938,8 @@ Integral Weapon: Integral Weapon: Any suitable weapon can be added to a drone or
 robot, at the cost of Cr. 10,000 + the cost of the weapon.
 
 SENSORS
+
+
 Most sensors are designed to be plugged into a computer system,
 but can display the data directly to the user on built-in screens or by
 feeding it to the user's suit display. At TL 11 sensors become notably
@@ -10560,8 +10953,7 @@ checks but allows the user to find things that they would otherwise
 not be able to.
 
 Binoculars (TL 3): Binoculars (TL 3): Allows the user to see further. 1 kg, Cr. 75. At
-TL 8 electronic enhancement allows images to be captured; light-
-intensifi cation allows them to be used in the dark. Cr 750. At TL
+TL 8 electronic enhancement allows images to be captured; light-intensifi cation allows them to be used in the dark. Cr 750. At TL
 12 PRIS (Portable Radiation Imaging System) allows the user
 to observe a large section of the EM-spectrum, from infrared to
 gamma rays. Cr 3,500.
@@ -10571,8 +10963,7 @@ approximate intensity. Cr. 250. The Sensors skill is not needed to
 detect the presence of radiation with a Geiger counter but anything
 more complex than that requires a check.
 
-IR Goggles (TL 6): IR Goggles (TL 6): Permits the user to see exothermic (heat-
-emitting) sources in the dark. Cr. 500.
+IR Goggles (TL 6): IR Goggles (TL 6): Permits the user to see exothermic (heat-emitting) sources in the dark. Cr. 500.
 
 Light-Intensifying Goggles (TL 7): Light-Intensifying Goggles (TL 7): Permits the user to see normally
 in anything less than total darkness by electronically intensifying any
@@ -10606,8 +10997,7 @@ to sweep a room for bugs.
 
 ```
 Densitometer (TL 14): Densitometer (TL 14): The remote densitometer uses an object's
-natural gravity to measure its density, building up a three-
-dimensional image of the inside and outside of an object. 5 kg.
+natural gravity to measure its density, building up a three-dimensional image of the inside and outside of an object. 5 kg.
 Cr. 20,000.
 ```
 
@@ -10626,12 +11016,13 @@ handheld unit, and can detect neural activity up to 500 meters
 away. The device can also give a rough estimation of the intelligence
 level of organisms based on brainwave patterns. 10 kg. Cr 35,000.
 The data from a neural activity scanner can be interpreted using
-the Sensors, the Life Sciences (biology) or the Social Sciences
-(sophontology) skills.
+the Sensors, the Life Sciences (biology) or the Social Sciences (sophontology) skills.
 ```
 
 ```
 SURVIVAL GEAR AND SUPPLIES
+
+
 On worlds and places hostile to human life, characters must
 use environmental suits to protect themselves. If colonies are
 established on such worlds, then the Imperium usually begins a
@@ -10648,7 +11039,7 @@ See also Vacc Suits, page 87.
 
 ```
 Tent (TL 3): Tent (TL 3): A basic tent provides shelter for two people against the
-weather, reducing skill check penalties by 2 (see page 74). Cr. 200.
+weather, reducing skill check penalties by2 (see page 74). Cr. 200.
 The TL 7 tent can be pressurised. There is no airlock – the tent is
 depressurised when opened. Cr 2,000.
 ```
@@ -10663,6 +11054,8 @@ underwater. 10 kg, Cr. 250.
 ```
 
 EQUIPMENT EEQUIPMENTQUIPMENT
+
+
 
 ```
 Respirator (TL 6): Respirator (TL 6): This device concentrates inhaled oxygen, allowing
@@ -10714,8 +11107,7 @@ Rescue Bubble (TL 9): Rescue Bubble (TL 9): A large (2m diameter) pressurised pl
 bubble. Piezoelectric layers in the bubble wall translate the user's
 movements into electricity to recharge the bubble's batteries and
 power its distress beacon, and a small oxygen tank both inflates
-the bubble and provides two person/hours of life support. A self-
-repairing plastic seal serves as an emergency airlock. Rescue
+the bubble and provides two person/hours of life support. A self-repairing plastic seal serves as an emergency airlock. Rescue
 bubbles are found on both space and sea vessels as emergency
 lifeboats. Cr. 600.
 ```
@@ -10761,6 +11153,8 @@ automatically fi xed in seconds.
 
 ```
 TOOLKITS
+
+
 Technical skills require specialist tools of various kinds. These kits
 contain diagnostic sensors, hand tools, computer analysis programs
 and spare parts. All kits cost Cr. 1,000 and weigh 12 kg.
@@ -10775,6 +11169,8 @@ Surveying: Surveying: Required for planetary surveys or mapping.
 
 ```
 WEAPONS
+
+
 With the advent of powered armor and portable fusion generators,
 the line between 'personal weapon' and 'heavy artillery' is blurred.
 The high-end weapons available in the Imperium are staggeringly
@@ -10791,8 +11187,7 @@ Weapons are described with the following statistics:
 TL:TL: The lowest Technology Level at which the weapon is available.
 Range:Range: The range modifi ers used for that weapon (see page 64).
 Damage:Damage: The damage the weapon inflicts.
-Auto:Auto: The Auto rating of the weapon if it is capable of automatic fi re
-(see page 62).
+Auto:Auto: The Auto rating of the weapon if it is capable of automatic fi re (see page 62).
 Recoil:Recoil: The Recoil rating of the weapon (see page 61).
 Mass:Mass: The amount, in kilograms, that the weapon weighs on a world
 with Earth-like gravity.
@@ -10807,8 +11202,12 @@ for a gun or a spare power pack for an energy weapon.
 
 EEQUIPMENTQUIPMENT EQUIPMENT
 
+
+
 ```
 MELEE WEAPONS
+
+
 WeaponWeapon TLTL RangeRange Damage Damage HeftHeft Mass (kg) Mass (kg) Cost (Cr.)Cost (Cr.)
 Unarmed Attack - Melee (unarmed) 1d6 - - -
 Improvised Weapon - Melee (unarmed or
@@ -10873,8 +11272,7 @@ Improvised Weapon:Improvised Weapon: When there's no real weapon available and
 your bare hands just aren't enough, any snatched-up object can be
 used as an impromptu club.
 
-Shield: Shield: A character using a shield increases their effective Melee
-(unarmed) skill by one level when parrying. A character with no
+Shield: Shield: A character using a shield increases their effective Melee (unarmed) skill by one level when parrying. A character with no
 Melee counts as having Melee 0 when using a shield to parry.
 
 ```
@@ -10886,8 +11284,7 @@ things from a distance.
 ```
 Stunstick: Stunstick: This melee weapon deals 2d6 stun damage in addition
 to its normal damage. A character struck by a stun stick must make
-an Endurance check with a negative DM equal to the stun damage
-(after armor is subtracted). If this Endurance check is failed, the
+an Endurance check with a negative DM equal to the stun damage (after armor is subtracted). If this Endurance check is failed, the
 character is knocked unconscious.
 ```
 
@@ -10896,8 +11293,7 @@ Slug Throwers
 Despite advances in energy weapons and other offensive
 technologies, accelerating a small piece of metal to a high velocity
 is still one of the most efficient ways of killing someone. Chemically
-propelled fi rearms give way to gyrojet (rocket bullets) and gauss
-(electromagnetically launched bullets) as technology advances.
+propelled fi rearms give way to gyrojet (rocket bullets) and gauss (electromagnetically launched bullets) as technology advances.
 ```
 
 ```
@@ -10908,13 +11304,12 @@ accelerate to high speed.
 ```
 
 ```
-Advanced Combat Rifl e (Advanced Combat Rifle ( ACR): ACR): The ultimate evolution of the
+Advanced Combat Rifle (Advanced Combat Rifle ( ACR): ACR): The ultimate evolution of the
 conventional fi rearm, advanced combat rifles are the weapon of
 choice for many military units. Standard equipment includes an
 electronic battlefi eld sight, incorporating both light amplification and
 IR abilities (see page 96), visual magnifi cation up to 5x zoom, and a
-laser rangefi nder which may also be used as a target painting device
-(reveals exact distance to target). The weapon is also gyroscopically
+laser rangefi nder which may also be used as a target painting device (reveals exact distance to target). The weapon is also gyroscopically
 stabilized during fi ring (as a gyroscopic stabilizer, already included
 in the stats).
 ```
@@ -10928,6 +11323,8 @@ to start again.
 ```
 
 EQUIPMENT EQUIPMENT
+
+
 
 ```
 Antique Rifl e: Antique Rifle: A musket or other primitive rifle. Unless the weapon
@@ -11000,6 +11397,8 @@ for use aboard spacecraft and in zero gravity.
 
 ```
 SLUG THROWERS
+
+
 WeaponWeapon TL TL RangeRange Damage Damage AutoAuto RecoilRecoil Mass (kg) Mass (kg) MagazineMagazine Cost (Cr.) Cost (Cr.) Ammo Cost (Cr.)Ammo Cost (Cr.)
 PistolsPistols
 Antique Pistol 3 Ranged (pistol) 3d6–6 No –1 1 1 100 5
@@ -11029,6 +11428,8 @@ Shotgun 4 Ranged (shotgun) 4d6 No 2 4 6 200 10
 ```
 
 EQUIPMENT EQUIPMENT
+
+
 
 ```
 Energy Weapons
@@ -11079,6 +11480,8 @@ damage is ignored.
 ```
 
 ENERGY WEAPONS
+
+
 
 ```
 WeaponWeapon TL TL RangeRange Damage Damage AutoAuto RecoilRecoil Mass (kg) Mass (kg) MagazineMagazine Cost (Cr.) Cost (Cr.) Power Pack (Cr.)Power Pack (Cr.)
@@ -11189,6 +11592,8 @@ another takes two minor actions.
 
 EQUIPMENT EQUIPMENT
 
+
+
 ```
 Grenades
 Aerosol: Aerosol: Aerosol grenades create a fine mist six meters in radius
@@ -11265,6 +11670,8 @@ misses has a 50% chance (4+ on 1d6) of detonating upon impact
 
 ```
 GRENADES
+
+
 WeaponWeapon TL TL RangeRange Damage Damage Mass (kg)Mass (kg) Blast RadiusBlast Radius Cost (Cr.)Cost (Cr.)
 Frag 6 Ranged (thrown) 5d6/3d6/1d6 0.5 3 meters/6 meters/9 meters 30
 Smoke 6 Ranged (thrown) None 0.5 6 meters 15
@@ -11274,6 +11681,8 @@ Aerosol 9 Ranged (thrown) None 0.5 6 meters 15
 
 ```
 HEAVY WEAPONS
+
+
 WeaponWeapon TL TL RangeRange Damage Damage AutoAuto RecoilRecoil Mass (kg) Mass (kg) MagazineMagazine Cost (Cr.) Cost (Cr.) Ammo Cost (Cr.)Ammo Cost (Cr.)
 LaunchersLaunchers
 Grenade
@@ -11281,8 +11690,7 @@ Launcher
 ```
 
 ```
-7 Ranged
-(shotgun)
+7 Ranged (shotgun)
 ```
 
 ```
@@ -11389,6 +11797,8 @@ Auto 6
 
 EQUIPMENT EQUIPMENT
 
+
+
 with the ground (6 – Effect meters away in a random direction).
 Otherwise it will miss completely and leave the battlefield without
 striking anything or detonating. Of course, if used indoors or
@@ -11409,8 +11819,7 @@ and plasma temperature.
 
 FGMP: FGMP: The ultimate personal firearm, the Fusion Gun, Man Portable
 is more like a piece of artillery. It includes a gravity suspension
-system to reduce its inertia, making it easier to use than the PGMP
-(minimum Strength 9) and fi res what amounts to a directed nuclear
+system to reduce its inertia, making it easier to use than the PGMP (minimum Strength 9) and fi res what amounts to a directed nuclear
 explosion. Those without radiation protection who are nearby when
 a FGMP is fi red will suffer a lethal dose of radiation – each fi ring of
 an FGMP emits 2d6 ∞ 20 rads, which will affect everyone within the
@@ -11437,6 +11846,8 @@ grenade launcher.
 
 ```
 EXPLOSIVES
+
+
 Weapon TL Damage Radius Cost (Cr.)Cost (Cr.)
 Plastic 6 3d6 2d6 meters 200
 TDX 12 4d6 4d6 meters 1,000
@@ -11522,8 +11933,12 @@ less than Very Diffi cult (–4).
 
 EQUIPMENT EEQUIPMENTQUIPMENT
 
+
+
 ```
 VEHICLES
+
+
 All vehicles have the following traits:
 TL: TL: The lowest Technology Level that the vehicle is available at.
 Skill: Skill: What skill is used to drive or pilot the vehicle.
@@ -11554,8 +11969,7 @@ Ground Car: Ground Car: A conventional wheeled automobile.
 ```
 AFV: AFV: A heavily armored ATV, known as an Armored Fighting
 Vehicle, equipped with a triple laser turret. The lasers use the Gun
-Combat (energy rifle) skill, do 4d6 damage each using the Ranged
-(rifle) range modifi ers, and one, two or three may be fired at the
+Combat (energy rifle) skill, do 4d6 damage each using the Ranged (rifle) range modifi ers, and one, two or three may be fired at the
 same target with one attack action.
 ```
 
@@ -11586,6 +12000,8 @@ charging. Options cannot be added to the grav belt.
 
 VEHICLES
 
+
+
 ```
 VehicleVehicle TL TL SkillSkill AgilityAgility SpeedSpeed
 ```
@@ -11599,8 +12015,7 @@ PassengersPassengers
 Open/Open/
 ClosedClosed Armor Armor HullHull Structure Structure WeaponsWeapons Cost (Cr.)Cost (Cr.)
 CivilianCivilian
-Air/Raft 8 Flyer
-(grav)
+Air/Raft 8 Flyer (grav)
 ```
 
 ```
@@ -11618,8 +12033,7 @@ Car
 ```
 
 ```
-5 Drive
-(wheeled)
+5 Drive (wheeled)
 ```
 
 ```
@@ -11639,8 +12053,7 @@ Floater
 ```
 
 ```
-11 Flyer
-(grav)
+11 Flyer (grav)
 ```
 
 ```
@@ -11649,8 +12062,7 @@ Floater
 
 ```
 MilitaryMilitary
-AFV 12 Drive
-(tracked)
+AFV 12 Drive (tracked)
 ```
 
 ```
@@ -11659,8 +12071,7 @@ AFV 12 Drive
 ```
 
 ```
-Closed 18 5 5 Triple Laser
-(turret)
+Closed 18 5 5 Triple Laser (turret)
 ```
 
 ```
@@ -11668,8 +12079,7 @@ Closed 18 5 5 Triple Laser
 ```
 
 ```
-ATV 12 Drive
-(tracked)
+ATV 12 Drive (tracked)
 ```
 
 ```
@@ -11682,8 +12092,7 @@ Closed 12 5 5 None 50,000
 ```
 
 ```
-G/Carrier 15 Flyer
-(grav)
+G/Carrier 15 Flyer (grav)
 ```
 
 ```
@@ -11693,8 +12102,7 @@ G/Carrier 15 Flyer
 ```
 
 ```
-Closed 25 8 8 Fusion Gun
-(turret)
+Closed 25 8 8 Fusion Gun (turret)
 ```
 
 ```
@@ -11702,6 +12110,8 @@ MCr. 15
 ```
 
 EQUIPMENT
+
+
 
 Grav Floater:Grav Floater: A grav fl oater is a forerunner of the grav belt, a platform
 upon which a single person can stand and be carried along. It cannot
@@ -11786,6 +12196,8 @@ duration expires. For more on fatigue, see page 74.
 
 EQUIPMENT
 
+
+
 ### SSPACECRAFTPACECRAFT D DESIGNESIGN
 
 ```
@@ -11799,11 +12211,12 @@ can purchase ships that they have designed through them as well.
 The major restriction on the purchase of ships is money. Ships
 designed using the system presented here are constructed using
 off-the-shelf parts that are common throughout the Imperium.
-Rules for spacecraft using a restricted technology base or cutting-
-edge technology will be presented in future supplements.
+Rules for spacecraft using a restricted technology base or cutting-edge technology will be presented in future supplements.
 ```
 
 DESIGN CHECKLIST
+
+
 
 1. Choose a Hull.
 a. Choose Hull confi guration.
@@ -11859,8 +12272,7 @@ small craft can be found on page 132.
 ```
 
 ```
-Size is measured in 'displacement 'displacement tons'tons' or d-tons: a hundred-
-ton ship displaces a volume equal to one hundred tons of liquid
+Size is measured in 'displacement 'displacement tons'tons' or d-tons: a hundred-ton ship displaces a volume equal to one hundred tons of liquid
 hydrogen (one d-ton equals roughly 14 cubic meters).
 ```
 
@@ -11887,7 +12299,11 @@ build a spacecraft at a small commercial shipyard.
 
 SSPACECRAFTPACECRAFT D DESIGNESIGN SPACECRAFT DESIGN
 
+
+
 THE HULL
+
+
 Hulls are identifi ed by their displacement, expressed in tons.
 
 ```
@@ -11991,6 +12407,8 @@ eliminated). A ship has one Hull Point and one Structure Point per
 
 ```
 THE ENGINEERING SECTION
+
+
 Drives and the Power Plant are installed in the engineering section.
 ```
 
@@ -12017,6 +12435,8 @@ with the primary system.
 
 SPACECRAFT DESIGN SSPACECRAFTPACECRAFT D DESIGNESIGN
 
+
+
 ```
 drive potential table that some drives will not produce results in
 some tonnages of hulls, as indicated by a dash instead of a number
@@ -12029,6 +12449,8 @@ fuel or basic controls.
 
 ```
 DRIVE COSTS
+
+
 J-DriveJ-Drive M-DriveM-Drive P-PlantP-Plant
 Drive Drive
 CodeCode TonsTons MCrMCr TonsTons MCrMCr TonsTons MCrMCr
@@ -12062,7 +12484,7 @@ Z 125 240 47 96 73 192
 Hulls vary in their requirements for drives and power plants based
 on tonnage. Any specific drive will be less effi cient as the tonnage
 it must drive increases. The drive potential table lists 24 standard
-drive types, identifi ed by the letters A through Z (omitting I and
+drive types, identifi ed by the letters A throughZ (omitting I and
 O to avoid confusion). Also listed are various tonnage levels for
 hulls; any tonnage which exceeds a listed level should be read at
 the next higher level. Correlating hull size with drive letter indicates
@@ -12121,6 +12543,8 @@ For more information on fuel, see page 140.
 
 ```
 THE MAIN COMPARTMENT
+
+
 The ship's main compartment contains all non-drive features of the
 ship, including the bridge, ship's computer, the staterooms, the low
 passage berths, the cargo hold and other items.
@@ -12166,6 +12590,8 @@ per 2 weeksper 2 weeks
 
 SPACECRAFT DESIGN SPACECRAFT DESIGN
 
+
+
 more advantageous in combat situations. Ship's computers work
 just like personal computers (see page 91) but are considerably
 more powerful because the software for ship operations requires
@@ -12184,6 +12610,8 @@ Model 7 15 35 MCr. 30
 ```
 
 OPTIONS
+
+
 Jump Control Specialization (Jump Control Specialization ( bis): bis): A computer's rating can be
 increased by 5 for the purposes of running Jump Control programs
 only. This increases the computer's cost by 50%.
@@ -12197,10 +12625,8 @@ cost (+100%).
 
 ```
 Electronics
-A ship comes with a basic communications, sensor and emissions-
-control electronics suite, but more advanced systems can be
-installed. The Dice Modifi er applies to jamming and counter-
-jamming attempts.
+A ship comes with a basic communications, sensor and emissions-control electronics suite, but more advanced systems can be
+installed. The Dice Modifi er applies to jamming and counter-jamming attempts.
 ```
 
 ```
@@ -12268,6 +12694,8 @@ sensor equipment.
 
 ```
 PERFORMANCE BY HULL VOLUME
+
+
 100100 200 200 300300 400400 500500 600600 700700 800800 900900 10001000 12001200 14001400 16001600 18001800 20002000
 A 2 1 – – – – – – – – – – – – –
 B 4 2 1 1 – – – – – – – – – – –
@@ -12296,6 +12724,8 @@ ZZ – – – – – – 6 6 6 6 6 5 5 5 4
 ```
 
 SPACECRAFT DESIGN SPACECRAFT DESIGN
+
+
 
 ```
 Alternative Drives
@@ -12334,6 +12764,8 @@ in hyperspace, the spacecraft moves at a rate of one parsec per day per maneuver
 
 ```
 HYPERSPACE PORTAL SIZE
+
+
 RatingRating A B C D E F G H J K L M N P Q R S T U V W X Y Z
 SizeSize 200 400 800 1000 1200 1400 1600 1800 2000 2200 2400 2600 2800 3000 3200 3400 3600 3800 4000 4200 4400 4600 4800 5000
 ```
@@ -12359,6 +12791,8 @@ with a year of operation:
 
 ```
 FISSION PLANT FUEL
+
+
 Power PlantPower Plant A B C D E F G H J K L M N P Q R S T U V W X Y Z
 Tons of fuel Tons of fuel
 per yearper year
@@ -12388,6 +12822,8 @@ The escape pod...
 6. ... has landed on a primitive world, and altered their culture forever.
 
 SPACECRAFT DESIGN SPACECRAFT DESIGN
+
+
 
 Staterooms
 Quarters for the crew and passengers are provided in the form of
@@ -12453,8 +12889,7 @@ to the ship's offi cers.
 Vehicles and Drones
 A spacecraft can carry a number of smaller ships, vehicles and
 drones. The tonnage and cost covers minimal hangar space,
-indicating the vehicle is either carried on the outer hull or in a form-
-fitting compartment on board. For ease of access and for storage
+indicating the vehicle is either carried on the outer hull or in a form-fitting compartment on board. For ease of access and for storage
 of spare parts and equipment, many ships will allocate more
 space to some vehicles.
 ```
@@ -12515,8 +12950,12 @@ to simplify bookkeeping, nothing more.
 
 SPACECRAFT DESIGN SPACECRAFT DESIGN
 
+
+
 ```
 ARMAMENTS
+
+
 Weapons for spacecraft fall into two basic categories – turret
 weapons and bay weapons. Turrets are small gun emplacements
 on the outer hull of the ship capable of independently targeting
@@ -12575,6 +13014,8 @@ costs 0.5 MCr.
 
 TURRET WEAPONS
 
+
+
 ```
 WeaponWeapon TLTL
 ```
@@ -12585,8 +13026,7 @@ RangeRange DamageDamage
 ```
 
 ```
-Cost Cost
-(MCr.)(MCr.)
+Cost Cost (MCr.)(MCr.)
 Pulse Laser 7 Short 1d6 0.5
 Beam Laser 7 Medium 2d6 1
 Particle Beam 8 Long 3d6 + crew hit 4
@@ -12636,6 +13076,8 @@ They are found only on larger spacecraft.
 
 ```
 VEHICLES AND DRONES
+
+
 VehicleVehicle TonsTons Cost (MCr.)Cost (MCr.)
 Mining Drones 10 1
 Repair Drones 0.01 ∞ tonnage of ship 0.2 per ton
@@ -12681,7 +13123,11 @@ Nuclear 6 2d6 + crew hit 45,000
 
 SPACECRAFT DESIGN SPACECRAFT DESIGN
 
+
+
 BAY WEAPONS
+
+
 
 ```
 WeaponWeapon TLTL RangeRange Damage Damage Cost (MCr.)Cost (MCr.)
@@ -12780,8 +13226,12 @@ meson decay.
 
 SPACECRAFT DESIGN SPACECRAFT DESIGN
 
+
+
 ```
 SHIP SOFTWARE
+
+
 Ship software operates in exactly the same way as normal computer software but typically has a much higher rating. Ship
 computers are fully capable of running normal software as well.
 ```
@@ -12967,6 +13417,8 @@ The ticket...
 
 CCOMMONOMMON S SPACECRAFTPACECRAFT COMMON SPACECRAFT
 
+
+
 ### SSCOUTCOUT, , TTYPEYPE S S
 
 Using a 100-ton hull, the scout ship is intended for exploration, survey, and courier duties, with many in service throughout known space.
@@ -12975,8 +13427,7 @@ one of the most venerable designs in the Imperium, and is remarkably easy to mai
 
 ### SSEEKEREEKER M MININGINING S SHIPHIP
 
-A variation on the hundred-ton Scout hull, the Seeker removes half the staterooms and brings the fuel tank down to a more modest twenty-
-four tons. The mining ship carries ten tons of mining drones, and its cargo capacity is increased to twenty-two tons. These small mining
+A variation on the hundred-ton Scout hull, the Seeker removes half the staterooms and brings the fuel tank down to a more modest twenty-four tons. The mining ship carries ten tons of mining drones, and its cargo capacity is increased to twenty-two tons. These small mining
 ships scavenge the asteroid belts, looking for deposits of valuable minerals. Many Seekers mount a pulse laser in the turret for mining.
 
 ```
@@ -12987,6 +13438,8 @@ reserved for fi re control or ammunition in upgraded versions of the same ship.
 ```
 
 COMMON SPACECRAFT CCOMMONOMMON S SPACECRAFTPACECRAFT
+
+
 
 ```
 SCOUT, TYPE S TonsTons Price (Cr.)Price (Cr.)
@@ -13009,7 +13462,7 @@ Jump Drive AJump Drive A Jump 2 10 10,000,000
 Maneuver Drive AManeuver Drive A Thrust 2 2 4,000,000
 Power Plant APower Plant A 4 8,000,000
 BridgeBridge 10 500,000
-ComputerComputer Model 1/bis Rating 5 (10 for Jump Control) 45,000
+ComputerComputer Model 1/bis Rating5 (10 for Jump Control) 45,000
 ElectronicsElectronics Military Sensors +0 DM 2 1,000,000
 ```
 
@@ -13061,7 +13514,7 @@ Jump Drive AJump Drive A Jump 2 10 10,000,000
 Maneuver Drive AManeuver Drive A Thrust 2 2 4,000,000
 Power Plant APower Plant A 4 8,000,000
 BridgeBridge 10 500,000
-ComputerComputer Model 1/bis Rating 5 (10 for Jump Control) 45,000
+ComputerComputer Model 1/bis Rating5 (10 for Jump Control) 45,000
 ElectronicsElectronics Military Sensors +0 DM 2 1,000,000
 ```
 
@@ -13093,13 +13546,21 @@ Total Tonnage and CostTotal Tonnage and Cost 100100 22,765,50022,765,500
 
 COMMON SPACECRAFT COMMON SPACECRAFT
 
+
+
 SEEKER
 
+
+
 MINING SHIP
+
+
 
 SCOUT, TYPE S
 
 COMMON SPACECRAFT COMMON SPACECRAFT
+
+
 
 ### FFREEREE T TRADERRADER
 
@@ -13127,7 +13588,11 @@ FREE TRADER, TYPE A
 
 FAR TRADER
 
+
+
 CCOMMONOMMON S SPACECRAFTPACECRAFT COMMON SPACECRAFT
+
+
 
 FREE TRADER, TYPE A TonsTons Price (Cr.)Price (Cr.)
 HullHull 200 tons
@@ -13187,7 +13652,7 @@ Jump Drive BJump Drive B Jump 2 15 20,000,000
 Maneuver Drive AManeuver Drive A Thrust 1 2 4,000,000
 Power Plant BPower Plant B 7 16,000,000
 BridgeBridge 10 1,000,000
-ComputerComputer Model 1/bis Rating 5 (10 for Jump Control) 45,000
+ComputerComputer Model 1/bis Rating5 (10 for Jump Control) 45,000
 ElectronicsElectronics Civilian Sensors –2 DM 1 50,000
 
 WeaponsWeapons Hardpoint #1 Empty
@@ -13211,14 +13676,15 @@ Total Tonnage and CostTotal Tonnage and Cost 198198 51,385,50051,385,500
 
 COMMON SPACECRAFT COMMON SPACECRAFT
 
+
+
 ### SSUBSIDISEDUBSIDISED M MERCHANTERCHANT, , TTYPEYPE R R
 
 ### ('(' FFATAT T TRADERRADER')')
 
 ```
 Using a 400-ton hull,
-the subsidized merchant
-(nicknamed 'fat trader') is
+the subsidized merchant (nicknamed 'fat trader') is
 a trading vessel intended to
 meet the commercial needs of
 clusters of worlds. The fat trader
@@ -13229,7 +13695,7 @@ be added to the crew list as required.
 ```
 
 ```
-SUBSIDISED MERCHANT, TYPE R ('FAT TRADER') TonsTons Price (Cr.)Price (Cr.)
+SUBSIDISED MERCHANT, TYPER ('FAT TRADER') TonsTons Price (Cr.)Price (Cr.)
 HullHull 400 tons
 Streamlined
 ```
@@ -13285,11 +13751,15 @@ Total Tonnage and CostTotal Tonnage and Cost 397397 97,182,00097,182,000
 
 CCOMMONOMMON S SPACECRAFTPACECRAFT COMMON SPACECRAFT
 
+
+
 SUBSIDISED MERCHANT, TYPE R
 
 ('FAT TRADER')
 
 COMMON SPACECRAFT CCOMMONOMMON S SPACECRAFTPACECRAFT
+
+
 
 ### LLABORATORYABORATORY S SHIPHIP
 
@@ -13365,9 +13835,15 @@ Total Tonnage and CostTotal Tonnage and Cost 400400 125,874,000125,874,000
 
 CCOMMONOMMON S SPACECRAFTPACECRAFT COMMON SPACECRAFT
 
+
+
 LABORATORY SHIP
 
+
+
 COMMON SPACECRAFT COMMON SPACECRAFT
+
+
 
 ```
 GAZELLE CLOSE ESCORT TonsTons Price (Cr.)Price (Cr.)
@@ -13443,15 +13919,27 @@ four double turrets for combat.
 
 COMMON SPACECRAFT COMMON SPACECRAFT
 
+
+
 GAZELLE
+
+
 
 CLOSE ESCORT
 
+
+
 HEAVY FREIGHTER
+
+
 
 YACHT
 
+
+
 COMMON SPACECRAFT COMMON SPACECRAFT
+
+
 
 ### HHEAVYEAVY
 
@@ -13523,6 +14011,8 @@ Total Tonnage and CostTotal Tonnage and Cost 996996 271,674,000271,674,000
 
 COMMON SPACECRAFT COMMON SPACECRAFT
 
+
+
 ### YYACHTACHT
 
 ```
@@ -13570,13 +14060,14 @@ Total Tonnage and CostTotal Tonnage and Cost 200200 50,517,00050,517,000
 
 COMMON SPACECRAFT CCOMMONOMMON S SPACECRAFTPACECRAFT
 
+
+
 ### MMERCENARYERCENARY C CRUISERRUISER
 
 ```
 Using an 800-ton hull, the mercenary cruiser is
 built to carry small troop units for corporate or
-government operations. The ship carries two 50-
-ton cutters, each with an ATV module (which
+government operations. The ship carries two 50-ton cutters, each with an ATV module (which
 includes an ATV). There is provision inside the ship
 for two additional modules to be stored while not
 attached to the cutters. There is an air/raft carried
@@ -13624,8 +14115,7 @@ Hardpoint #8 Triple Turret (empty) 1 1,000,000
 ```
 
 ```
-FuelFuel 312 tons One Jump–3, four weeks of operation and fuel for all vehicles
-(or six weeks of operation and no fuel for vehicles)
+FuelFuel 312 tons One Jump–3, four weeks of operation and fuel for all vehicles (or six weeks of operation and no fuel for vehicles)
 ```
 
 ```
@@ -13659,9 +14149,15 @@ Total Tonnage and CostTotal Tonnage and Cost 796796 433,440,000433,440,000
 
 COMMON SPACECRAFT COMMON SPACECRAFT
 
+
+
 MERCENARY CRUISER
 
+
+
 COMMON SPACECRAFT COMMON SPACECRAFT
+
+
 
 ### CCORSAIRORSAIR
 
@@ -13736,6 +14232,8 @@ Total Tonnage and CostTotal Tonnage and Cost 398398 142,794,000142,794,000
 
 COMMON SPACECRAFT COMMON SPACECRAFT
 
+
+
 Imperial DutyImperial Duty
 The Imperium has endured for centuries, and appears to
 most of its citizens to be an eternal fact of life, as inevitable as
@@ -13797,11 +14295,19 @@ The pirates...
 
 SERPENT
 
+
+
 POLICE CUTTER
+
+
 
 CORSAIR
 
+
+
 COMMON SPACECRAFT COMMON SPACECRAFT
+
+
 
 ### SSERPENTERPENT
 
@@ -13873,6 +14379,8 @@ Total Tonnage and CostTotal Tonnage and Cost 9898 55,692,00055,692,000
 
 CCOMMONOMMON S SPACECRAFTPACECRAFT COMMON SPACECRAFT
 
+
+
 ### SSMALLMALL C CRAFTRAFT
 
 The following ships are all classified as small craft because they displace less than 100 tons. The rules for designing small craft are slightly
@@ -13880,6 +14388,8 @@ different to the rules for designing larger spacecraft and will be presented in 
 the most common small craft that travellers in the Third Imperium are likely to encounter.
 
 LAUNCH
+
+
 Also termed a life boat, this craft uses a 20-ton hull. It is a functional spacecraft but not suitable for extended journeys through space; its
 most common use is to ferry people and cargo between ships or between ships and planetside. A launch's small power plant cannot power
 a laser and so when adding weapons it is limited to missile racks and sandcasters. The craft has 13 tons of cargo space.
@@ -13952,8 +14462,12 @@ Purchase Cost:Purchase Cost: Cr. 16,000,000
 
 COMMON SPACECRAFT COMMON SPACECRAFT
 
+
+
 ```
 PINNACE
+
+
 Using a 40-ton hull, the pinnace is a common craft for adventuring ships,
 as they have the speed, range and cargo capacity to support extended
 missions. They can mount up to two beam or pulse lasers before
@@ -13994,6 +14508,8 @@ Purchase Cost:Purchase Cost: Cr. 20,000,000
 
 ```
 SHUTTLE
+
+
 A shuttle is capable of moderate acceleration and can carry 71 tons of
 cargo from ship to surface – the most any small craft is capable of. Most
 starports have a fl eet of cargo shuttles for servicing orbiting trade vessels.
@@ -14030,9 +14546,15 @@ Purchase Cost:Purchase Cost: Cr. 33,000,000
 
 COMMON SPACECRAFT COMMON SPACECRAFT
 
+
+
 SMALL CRAFT
 
+
+
 COMMON SPACECRAFT COMMON SPACECRAFT
+
+
 
 ```
 HullHull 50 tons
@@ -14068,6 +14590,8 @@ Purchasurchase Cost:e Cost: Cr. 28,000,000 (not including module)
 
 ```
 MODULAR CUTTER
+
+
 The fi fty-ton cutter is capable of good speed
 within a short-range operational capacity and
 has a crew of two. Its main feature is the 30
@@ -14105,7 +14629,11 @@ provides a sealed environment for a mere 100,000 Credits and can be customised b
 
 CCOMMONOMMON S SPACECRAFTPACECRAFT
 
+
+
 LIGHT FIGHTER
+
+
 The light fi ghter is a small, fast, highly manoeuvrable ship used for making high-speed attack runs on enemy ships. They consist mainly
 of a power plant attached to a laser or other weapon with a pilot sitting on top. Fighters pose aggravating tactical complications for the
 commander of a vessel under attack by them but are seldom enough to destroy a larger ship without support.
@@ -14127,8 +14655,7 @@ ElectronicsElectronics Standard Sensors –4 DM
 ```
 
 ```
-WeaponsWeapons Hardpoint #1 Single Fixed Mounting
-(pulse laser)
+WeaponsWeapons Hardpoint #1 Single Fixed Mounting (pulse laser)
 ```
 
 ```
@@ -14225,6 +14752,8 @@ will come apart the moment it hits severe weather, gets hit by an attack, underg
 
 COMMON SPACECRAFT
 
+
+
 ### SSPACECRAFTPACECRAFT O OPERATIONSPERATIONS
 
 ```
@@ -14238,6 +14767,8 @@ Passage, Repairs, Security, and Travel Times.Passage, Repairs, Security, and Tra
 
 ```
 AIRLOCKS
+
+
 A ship has at least one airlock per 100 tons. The average airlock
 is large enough for three people in vacc suits to pass through at
 the same time. An airlock takes ten seconds to cycle. Under normal
@@ -14258,6 +14789,8 @@ than the rule.
 
 ```
 ATMOSPHERIC OPERATIONS
+
+
 A streamlined ship is designed to enter a planetary atmosphere,
 and can function like a conventional aircraft. Pilot or Flyer (winged)
 checks are required in high winds and other extreme weather.
@@ -14293,8 +14826,7 @@ the wild', which requires an Average (+0), Diffi cult (–2) or even
 ```
 
 ```
-Very Diffi cult (–4) check, depending on local conditions. Non-
-distributed ships can also land on bodies of water without sinking.
+Very Diffi cult (–4) check, depending on local conditions. Non-distributed ships can also land on bodies of water without sinking.
 Failing a landing roll means that the ship has landed improperly
 or even crashed.
 ```
@@ -14323,14 +14855,15 @@ customarily use cutlasses or accelerator weapons.
 
 ```
 COSTS AND MAINTENANCE
+
+
 A starship operator faces many costs each month:
 ```
 
 ```
 ItemItem Monthly Cost (Cr.)Monthly Cost (Cr.)
 Mortgage or Debts Varies
-Life Support 2,000 per stateroom
-(3,000 for double occupancy)
+Life Support 2,000 per stateroom (3,000 for double occupancy)
 100 per low berth
 Fuel 500 per ton of refi ned fuel
 100 per ton of unrefi ned fuel
@@ -14374,6 +14907,8 @@ Parsec: Parsec: Parallax of one second of arc – 30.857 ∞ 10^12 km, or 3.262 
 
 SPACECRAFT OPERATIONS SPACECRAFT OPERATIONS
 
+
+
 Ship shares are treated as reducing the cash price of the ship, and
 so reduce the monthly cash payments.
 
@@ -14397,6 +14932,8 @@ table for the number of hits.
 
 ```
 SYSTEM DEGRADATION
+
+
 RollRoll Number of HitsNumber of Hits
 1–3 1
 4–5 2
@@ -14429,8 +14966,7 @@ Although talk of Traveller's ship mortgages can seem complex it follows a very s
 
 ```
 Skipping Out On Debts
-Ship captains hoping to avoid crippling repayments on multi-
-million credit loans may be tempted to skip out on repayments,
+Ship captains hoping to avoid crippling repayments on multi-million credit loans may be tempted to skip out on repayments,
 Jumping to distant systems to make a new life for themselves. If
 the characters do so, they may be chased by ship tracers (bounty
 hunters) employed by the bank, or logged as criminals in the
@@ -14444,8 +14980,7 @@ been found regardless of modifi ers.
 ```
 Per parsec distant –1, reset every time the
 characters are discovered.
-Changes to the ship
-(repainting, altering
+Changes to the ship (repainting, altering
 transponders, refi ts, and
 so on)
 ```
@@ -14515,8 +15050,12 @@ Add local Law Level –5.
 
 SPACECRAFT OPERATIONS SSPACECRAFTPACECRAFT O OPERATIONSPERATIONS
 
+
+
 ```
 ENCOUNTERS
+
+
 Space is unimaginably vast – on a galactic scale, stars are little
 wisps of hydrogen and gas giants are just specks of matter. If ships
 travelled through the whole of the space in a system, they would
@@ -14544,14 +15083,15 @@ ships or encounters that will force the characters to respond.
 ```
 
 ```
-The encounter distance depends on the results of a Sensors check
-(modifi ed by the other vessel's attempts at Stealth, if any). Civilian
+The encounter distance depends on the results of a Sensors check (modifi ed by the other vessel's attempts at Stealth, if any). Civilian
 vessels and military craft not on maneuvers broadcast an IFF
 beacon, which gives a +4 DM to detection attempts.
 ```
 
 ```
 SPACE ENCOUNTERS
+
+
 d66d66 EncounterEncounter d66d66 EncounterEncounter
 01 Alien derelict (possible salvage) 51 Hostile vesselHostile vessel (roll again for type)
 02 Solar fl are Solar flare (1d6 ∞ 100 rads) 52 Garbage ejected from a ship
@@ -14587,6 +15127,8 @@ d66d66 EncounterEncounter d66d66 EncounterEncounter
 
 ```
 ENCOUNTER MODIFIERS
+
+
 ZoneZone DMDM RangeRange DescriptionDescription
 Highport +3 41-96 The space near an orbital starport.
 High-Traffi c Space +2 31-86 The space near an industrial world with a high-class starport.
@@ -14598,7 +15140,11 @@ Empty Space -4 01-26 Untravelled space or unexplored systems.
 
 SSPACECRAFTPACECRAFT O OPERATIONSPERATIONS SPACECRAFT OPERATIONS
 
+
+
 ENCOUNTER DISTANCE
+
+
 
 ```
 Sensors Check EffectSensors Check Effect Encounter DistanceEncounter Distance
@@ -14686,6 +15232,8 @@ all the potential salvage in the table below it.
 
 ```
 SALVAGE
+
+
 RollRoll ResultResult
 3 or less Hazard! Hazard! The ship's reactor is damaged, the ship is
 about to break up, there is a virus loose aboard ship,
@@ -14716,6 +15264,8 @@ Pirates have been known to use derelicts as bait.
 
 ```
 FUEL
+
+
 Most ships use refi ned hydrogen as a fuel for their fusion engines
 and Jump drives. Starports (see page 178) and virtually any other
 facility that regularly hosts spacecraft will offer refuelling facilities.
@@ -14730,6 +15280,8 @@ per ton. Using unrefi ned fuel is dangerous when Jumping.
 
 SPACECRAFT OPERATIONS SSPACECRAFTPACECRAFT O OPERATIONSPERATIONS
 
+
+
 ```
 A ship with fuel scoops may gather fuel from bodies of water using
 hoses. It may also scoop hydrogen from a gas giant. Scooping takes
@@ -14739,6 +15291,8 @@ the wild' is unrefined, but a ship with fuel processors may refine it.
 
 ```
 JUMP TRAVEL
+
+
 Jump travel is the only known means by which a vessel may travel
 faster than the speed of light. To Jump, a ship creates a bubble of
 hyperspace by means of injecting high-energy exotic particles into
@@ -14803,8 +15357,7 @@ A Jump carries the vessel a number of parsecs equal to the Jump
 number. Jumps of less than one parsec (less than three light years,
 or one hex) are possible, and count as Jump–1 for the purposes
 of astrogation and fuel expenditure. Regardless of how far the
-ship Jumps, it always stays in Jump Space for roughly one week
-(148+6d6 hours).
+ship Jumps, it always stays in Jump Space for roughly one week (148+6d6 hours).
 ```
 
 ```
@@ -14836,6 +15389,8 @@ where the ship ends up 1d6 ∞ 1d6 parsecs in a random direction.
 
 ```
 LIFE SUPPORT
+
+
 Radiation
 Radiation is a constant danger in space. Modern hull materials
 shield against most radiation; coupled with the added protection
@@ -14872,6 +15427,8 @@ leak or solar flare will cause exposure each round or hour.
 
 SPACECRAFT OPERATIONS SPACECRAFT OPERATIONS
 
+
+
 Solar flares are still dangerous even to an armored starship, so
 when a serious flare is detected space vessels try to hide behind
 asteroids, moons etc. Orbital stations in systems with a lot of flare
@@ -14894,6 +15451,8 @@ one who is being smothered or strangled, or who has been dumped
 out an airlock) suffers 1d6 damage each round instead.
 
 PASSAGE
+
+
 Passenger travel within the Imperium has been standardised into
 four overarching categories – high, middle, working and low. In all
 cases, passage is paid per Jump, and it is assumed that the ship will
@@ -14958,6 +15517,8 @@ no one else wants to do.
 
 ```
 RADIATION EXPOSURE
+
+
 Radiation SourceRadiation Source RadsRads
 Minor reactor leak 2d6/hour
 Serious leak 2d6/20 minutes
@@ -14967,6 +15528,8 @@ Major flare 3d6 ∞ 100/hour
 
 ```
 RADIATION EFFECTS
+
+
 Immediate Immediate
 Radiation ExposureRadiation Exposure EffectsEffects
 ```
@@ -14999,8 +15562,12 @@ Starship Armor: Starship Armor: Decreases exposure by 500.
 
 SPACECRAFT OPERATIONS SSPACECRAFTPACECRAFT O OPERATIONSPERATIONS
 
+
+
 ```
 RANDOM PASSENGERS
+
+
 d66d66 Passenger Passenger d66d66 PassengerPassenger
 11 Refugee – political 41 Ex-scout
 12 Refugee – economic 42 Wanderer
@@ -15087,6 +15654,8 @@ agent
 
 ```
 REPAIRS
+
+
 Damage to a ship falls into three categories – Hull Damage,
 Structure Damage and System Damage.
 ```
@@ -15113,8 +15682,7 @@ shipyard, and requires 1–6 weeks per point of damage. It costs
 System Damage: System Damage: A damaged system can be jury-rigged back to
 functioning, but it will stop functioning again after 1d6 hours.
 Repairing a damaged system requires not only an Average skill
-check (Mechanic, Engineer (appropriate speciality) or Science
-(appropriate speciality)) taking 1–6 hours but also spare parts. The
+check (Mechanic, Engineer (appropriate speciality) or Science (appropriate speciality)) taking 1–6 hours but also spare parts. The
 Effect of the check determines how many spare parts are required.
 Spare parts can be purchased at the cost of Cr. 10,000 per ton.
 ```
@@ -15131,6 +15699,8 @@ EffectEffect Spare Parts RequiredSpare Parts Required
 
 ```
 SENSORS
+
+
 The kind of sensors a ship has are dependent on the sensor package
 installed (see page 108). Compare the range that something is to
 the sensing ship with the sensors being used and look up the result
@@ -15151,6 +15721,8 @@ an object.
 
 ```
 SPACECRAFT SECURITY
+
+
 Hijacking is one of the biggest threats faced by independent traders,
 especially those that carry passengers or travel to dangerous space.
 As the characters will likely face this threat (or be this threat) it is
@@ -15181,6 +15753,8 @@ year's festivities promise to be especially popular. Visitors are reminded that 
 ```
 
 SPACECRAFT OPERATIONS SPACECRAFT OPERATIONS
+
+
 
 anything less than Very Diffi cult (–4) Security, but often the security
 system will apply only to external connections, and a hacker inside
@@ -15244,6 +15818,8 @@ knocked unconscious.
 
 SENSORS TABLE
 
+
+
 ```
 RangeRange Distance Distance VisualVisual Thermal Thermal EMEM
 ```
@@ -15283,6 +15859,8 @@ Distant 50,000 km+ Minimal Minimal None None None None None
 
 ```
 DETAIL BY SENSORS
+
+
 Level of DetailLevel of Detail VisualVisual ThermalThermal EMEM Radar/Lidar Radar/Lidar NASNAS DensitometerDensitometer
 Full Fine details Fine temperature
 gradations,
@@ -15355,6 +15933,8 @@ structure
 
 SPACECRAFT OPERATIONS SPACECRAFT OPERATIONS
 
+
+
 ```
 Venting Atmosphere: Venting Atmosphere: If a compartment is connected to an airlock,
 then the air can be vented from that area. Characters in that area
@@ -15364,6 +15944,8 @@ suffocate.
 
 ```
 TRAVEL TIMES
+
+
 Interplanetary Travel: Interplanetary Travel: Worlds orbiting the same star are accessible
 by interplanetary travel, on ships operated by local entrepreneurs, or
 with a variety of small craft. Interplanetary travel takes long periods
@@ -15390,6 +15972,8 @@ for cargo, passengers, or local stops.
 
 ```
 INTERPLANETARY TRANSIT TIMES TABLE
+
+
 Thrust Rating of ShipThrust Rating of Ship
 Distance (km)Distance (km) ExampleExample 1 2 3 4 5 6
 1,000 633 seconds 447 seconds 365 seconds 316 seconds 283 seconds 258 seconds
@@ -15445,6 +16029,8 @@ The corporation...
 
 SPACE COMBAT
 
+
+
 ### SSPACEPACE C COMBATOMBAT
 
 Clashes between spacecraft in Traveller take place over distances
@@ -15482,6 +16068,8 @@ b. Actions include: repairing damaged systems, jumping,
 5. Go to step 2.5. Go to step 2.
 
 STARTING AN ENGAGEMENT
+
+
 At the start of an encounter in space, the following must be
 determined:
 
@@ -15499,6 +16087,8 @@ Very Long: Very Long: 25,000 km – 50,000 km
 Distant: Distant: 50,000 km+
 
 RANGE TABLE
+
+
 
 ```
 RangeRange DistanceDistance
@@ -15576,6 +16166,8 @@ appropriate software:
 
 SSPACEPACE C COMBATOMBAT
 
+
+
 For more information on ship software, see page 113.
 
 Initiative
@@ -15588,6 +16180,8 @@ ship is involved on each side) may a Tactics (naval) check. The Effect
 is added to the Initiative of the spacecraft (or fleet).
 
 MANEUVER PHASE
+
+
 In each maneuver phase, a ship can allocate Thrust either
 to movement (closing or increasing the range to a target) or
 manoeuvring. The amount of thrust needed to close or open by one
@@ -15614,6 +16208,8 @@ the range to the target but allows the ship to position itself better for
 an attack or to avoid incoming fi re.
 
 COMBAT PHASE
+
+
 In each combat phase, a ship may maneuver, fire any of its
 weapons, or board enemy vessels.
 
@@ -15643,11 +16239,9 @@ A maneuver action can be used to:
 
 ```
 Firing Beam Weapons
-To fi re a beam weapon, the gunner must make a successful Gunner
-(turret) or Gunner (capital weapons) check, modifi ed by the range
+To fi re a beam weapon, the gunner must make a successful Gunner (turret) or Gunner (capital weapons) check, modifi ed by the range
 to the target (see page 148). When targeted by a beam weapon, the
-enemy ship may react by dodging, firing sand or triggering screens
-(see Reactions). A gunner may fi re any or all of the weapons in his
+enemy ship may react by dodging, firing sand or triggering screens (see Reactions). A gunner may fi re any or all of the weapons in his
 turret or bay but each turret or bay may only fi re once per round.
 ```
 
@@ -15708,7 +16302,11 @@ the fi rst round.
 
 SPACE COMBAT SPACE COMBAT
 
+
+
 WEAPON RANGE MODIFIERS
+
+
 
 ```
 WeaponWeapon Adjacent Adjacent CloseClose ShortShort Medium Medium LongLong Very Long Very Long DistantDistant
@@ -15738,6 +16336,8 @@ Compare the difference on the Boarding Action Table. If there is no difference, 
 
 ```
 BOARDING ACTION TABLE
+
+
 DifferenceDifference Attacker WinningAttacker Winning Defender WinningDefender Winning
 1–3 Defender has no free ship action this round; attacker has
 a +2 DM to next boarding action roll. The ship suffers one
@@ -15770,6 +16370,8 @@ DM in the fi rst round of the new boarding action
 ```
 
 SPACE COMBAT SSPACEPACE C COMBATOMBAT
+
+
 
 ```
 Gunnery checkGunnery check
@@ -15833,6 +16435,8 @@ wait until then.
 
 ```
 SMART MISSILES
+
+
 Advanced smart missiles are able to correct their course in flight
 and even turn around and re-acquire targets they have missed. The
 missile to-hit roll for smart missiles is always 8+ and if they miss
@@ -15878,6 +16482,8 @@ Several types of weapons have their own rules.
 
 ```
 REACTIONS
+
+
 A ship may react to incoming attacks. The following situations allow
 reactions:
 ```
@@ -15959,6 +16565,8 @@ journey. This method, of course, is not recommended if immediate combat is expec
 
 SSPACEPACE C COMBATOMBAT SPACE COMBAT
 
+
+
 Trigger Screens
 Screens can be activated as long as the commander or one of the
 gunners has the Gunner (screens) skill at Level 0 and the ship has
@@ -15969,6 +16577,8 @@ skill. Nuclear dampers also negate radiation hits against crew from
 nuclear missiles and fusion guns.
 
 SHIP ACTION PHASE
+
+
 In each ship action phase, a ship may take one ship action per crew
 position manned (including automated positions). Ship actions are
 wholly internal to the ship.
@@ -16009,8 +16619,7 @@ check against the sensors operator of the opposing vessel. Electronic
 warfare can be used to break sensor locks.
 
 Alternatively, electronic warfare can be used to attack smart missiles
-that are targeting the ship. The sensors operator makes a Difficult
-(–2) Sensors check and, if successful, a single attacking smart
+that are targeting the ship. The sensors operator makes a Difficult (–2) Sensors check and, if successful, a single attacking smart
 missile ceases attacking. The sensors operator may continue making
 checks to disable smart missiles until he fails one, with a cumulative
 –1 DM each time.
@@ -16031,6 +16640,8 @@ to be manning their new position rather than their previous one.
 
 ```
 DAMAGE
+
+
 Damage to spacecraft is tracked in two ways – by Hull and Structure
 points (which represent damage to the structure of the spacecraft)
 and by hits to systems such as engines and turrets. Systems can
@@ -16085,6 +16696,8 @@ table.
 ```
 
 SPACE COMBAT SPACE COMBAT
+
+
 
 ```
 Structure: Structure: Reduce the ship's Structure by one. If a ship's Structure is
@@ -16228,6 +16841,8 @@ rads
 
 ```
 LOCATION TABLE
+
+
 2d62d6 Small Craft Small Craft External DamageExternal Damage Internal DamageInternal Damage
 2 Hull Hull Crew
 3 Power Plant Sensors Jump Drive
@@ -16256,6 +16871,8 @@ a personal scale.
 
 PSIONICS
 
+
+
 ### PPSIONICSSIONICS
 
 In Traveller a few humans – and other sophonts – have developed
@@ -16269,8 +16886,7 @@ as the Zhodani Consulate, psionics are an accepted part of
 the human condition.
 
 Psionic Strength
-Psionics are powered by the Psionic Strength characteristic
-(abbreviation Psi). This characteristic cannot be rolled or bought
+Psionics are powered by the Psionic Strength characteristic (abbreviation Psi). This characteristic cannot be rolled or bought
 during character creation without the Referee's permission. To
 determine a character's Psionic Strength, roll 2d6 and subtract
 the number of terms served by the character in any career (Psionic
@@ -16290,6 +16906,8 @@ points are recovered at the rate of one point per hour, beginning
 three hours after the character last used a psionic talent.
 
 INSTITUTE TESTING
+
+
 A character who wishes to develop psionic abilities requires training.
 In settings where psionics are uncommon or illegal he must find
 a teacher, normally one of the underground Psionics Institutes.
@@ -16326,8 +16944,7 @@ acquisition check
 ```
 For example, Luka has just determined that she has a Psionic
 Strength of 9. She now rolls to determine powers. She can select
-powers in any order, so she begins with telekinesis. She roll 2d6+1
-(her Psionic Strength DM) +2 (the Telekinesis learning DM), but
+powers in any order, so she begins with telekinesis. She roll 2d6+1 (her Psionic Strength DM) +2 (the Telekinesis learning DM), but
 unfortunately, the dice roll is a 3 for a total of 6 – less than eight, a
 failure, and so she does not develop telekinesis.
 ```
@@ -16340,10 +16957,11 @@ check), and gets a total of 10. Luka gains Telepathy at level 0.
 
 ```
 PSIONIC TALENTS
+
+
 There are several psionic talents, each of which works like a skill for
 the powers in question. A character trained in the use of psionics
-may develop his talents over time just as if they were normal skills
-(see page 59). Unlike other skills, psionic talents cannot be used
+may develop his talents over time just as if they were normal skills (see page 59). Unlike other skills, psionic talents cannot be used
 untrained. The most common talents are:
 ```
 
@@ -16378,6 +16996,8 @@ usually plot devices used by the Referee.
 
 PPSIONICSSIONICS
 
+
+
 or one point if he fails. If this cost brings him below zero Psionic
 Strength, then any excess points are applied to his Endurance score
 as damage. A character with no Psionic Strength points cannot
@@ -16402,6 +17022,8 @@ but can also be used to bluntly crush the wills of those who oppose
 the telepath.
 
 LIFE DETECTION
+
+
 The most elementary form of telepathy is the ability to detect the
 presence of other minds. Life detectionenables a character to
 sense the presence of other minds, the number of minds present,
@@ -16420,6 +17042,8 @@ Costs 1+Range.
 
 ```
 TELEMPATHY
+
+
 The communication of emotions and basic feelings is accomplished
 by telempathy. This ability serves well in the handling of animals and
 beasts of burden but may also be applied as a psychological weapon
@@ -16445,6 +17069,8 @@ Costs 1+Range.
 
 ```
 READ SURFACE THOUGHTS
+
+
 The most widely known feature of Telepathy is the ability to read the
 thoughts of other individuals. Only active, current thoughts are read
 by this ability, with the subject (if himself not a telepath) unaware
@@ -16461,6 +17087,8 @@ Costs 2+Range.
 
 ```
 SEND THOUGHTS
+
+
 Complementary to the ability to read surface thoughts is the ability
 to send thoughts to others. Such individuals need not themselves
 be telepathic to receive such thoughts. Telepathic individuals are
@@ -16474,6 +17102,8 @@ Costs 2+Range.
 ```
 
 PSIONIC RANGE TABLE
+
+
 
 ```
 RangeRange Distance to TargetDistance to Target
@@ -16496,7 +17126,11 @@ Planetary 5,000 to 50,000 kilometers 4 - 8
 
 PPSIONICSSIONICS PSIONICS
 
+
+
 PROBE
+
+
 The application of great psionic strength will enable a telepath to
 delve deep into the mind of a subject and to then read his innermost
 thoughts. Questioning can be used in the procedure to force the
@@ -16509,6 +17143,8 @@ Telepathy, Psionic Strength, 1–6 minutes, Very Diffi cult (–4).
 Costs 4+Range.
 
 ASSAULT
+
+
 Violence may be dealt by a telepath. An unshielded mind, when
 assaulted telepathically, is rendered unconscious immediately and
 the character suffers 2d6 + Effect damage. Unlike normal damage,
@@ -16525,6 +17161,8 @@ Telepathy, Psionic Strength, 1–6 seconds, Formidable (–6).
 Costs 8+Range.
 
 SHIELD
+
+
 All telepathically able characters learn how to create a mental shield
 which protects the mind against unwanted telepathic interference.
 Shield is automatically in force at all times and requires no Psionic
@@ -16544,6 +17182,8 @@ if a room is occupied or empty. Clairvoyant activity cannot be sensed
 by others, including by other psionic individuals.
 
 SENSE
+
+
 The basic ability to sense things at some point in the distance. A
 character will become aware of the most rudimentary characteristics
 of a location when applying this ability. For example, the Referee
@@ -16564,6 +17204,8 @@ Costs 1+Range.
 
 ```
 TACTICAL AWARENESS
+
+
 With this ability, the character can perceive dangers and foes
 around him using his clairvoyant abilities. This enhanced spatial
 perception allows him to ignore the effects of darkness, smoke,
@@ -16579,6 +17221,8 @@ Costs 2+Range
 
 ```
 CLAIRVOYANCE
+
+
 This specifi c ability allows actual remote viewing of a situation
 at some displaced point. Rather than the 'snapshot' that sense
 gives, clairvoyance allows the psion to observe as if he was there
@@ -16595,6 +17239,8 @@ Costs 2+Range.
 
 ```
 CLAIRAUDIENCE
+
+
 This ability is identical to clairvoyance, with the exception that it
 allows hearing instead of seeing.
 ```
@@ -16606,6 +17252,8 @@ Costs 2+Range.
 
 ```
 CLAIRSENTIENCE
+
+
 This power combines the effects of clairvoyance and clairaudience.
 The character is capable of both seeing and hearing a specific
 situation.
@@ -16625,6 +17273,8 @@ as if the person was physically handling the item but physical
 
 PSIONICS PPSIONICSSIONICS
 
+
+
 ```
 danger, pain, or other stimuli are not present. Telekinesis includes
 a limited amount of sensory awareness, sufficient to allow actual
@@ -16633,6 +17283,8 @@ intelligent manipulation.
 
 ```
 TELEKINESIS
+
+
 This basic form of the talent allows the character to move objects
 at range. The Effect of the check determines the duration of the
 telekinesis in rounds. The number of points spent determines the
@@ -16646,6 +17298,8 @@ Costs Strength+Range.
 
 ```
 FLIGHT
+
+
 By applying telekinesis to his own body the character can fly, or
 at least levitate over short distances. The character can fly for a
 number of rounds equal to the Effect of the check at a speed of six
@@ -16659,6 +17313,8 @@ Costs 5.
 
 ```
 TELEKINETIC PUNCH
+
+
 Telekinesis can be used as a direct attack, smashing the foe with a
 blast of telekinetic force. The damage inflicted is 2d6 + the Effect
 of the check.
@@ -16671,6 +17327,8 @@ Costs 1+Range.
 
 ```
 MICROKINESIS
+
+
 This more challenging form of telekinesis allows for fine manipulation
 of very small or even microscopic objects. A telekinetic can use this
 power to pick locks, perform microsurgery, sabotage a computer
@@ -16684,6 +17342,8 @@ Costs 3.
 
 ```
 PYROKINESIS
+
+
 By exciting the substance of an object the character can raise its
 temperature, possibly even causing it to burst into flames. Roll 1d6
 and add the Effect of the check.
@@ -16711,9 +17371,10 @@ only on yourself.
 
 ```
 SUSPENDED ANIMATION
+
+
 Personal body activity may be suspended for varying periods of time.
-A character with Awareness may enter a suspended animation state
-(similar to cold sleep but without the intrinsic danger of death) by
+A character with Awareness may enter a suspended animation state (similar to cold sleep but without the intrinsic danger of death) by
 willing himself into it. Such a state continues for 7 days without need
 for food or water and with minimal air needs. Such a person could
 effectively travel in a low passage berth without actually undergoing
@@ -16729,6 +17390,8 @@ Costs 3.
 
 ```
 ENHANCED AWARENESS
+
+
 By focussing his mind, the character can improve his concentration
 and ability to perform complex tasks. While under the effects of
 enhanced awareness, the character may add his Psionic Strength
@@ -16743,6 +17406,8 @@ Costs 1.
 
 ```
 PSIONICALLY ENHANCED STRENGTH
+
+
 Psionic Strength points may be converted to normal Strength points
 on a temporary basis. The character makes the commitment, reduces
 his Psionic Strength by a specific number of points, and increases
@@ -16764,6 +17429,8 @@ Costs boosted Strength.
 
 ```
 PSIONICALLY ENHANCED ENDURANCE
+
+
 Psionically enhanced endurance works in exactly the same way as
 psionically enhanced strength except the characteristic boosted is
 Endurance rather than Strength, including its lack of healing ability.
@@ -16776,7 +17443,11 @@ Costs boosted Endurance.
 
 PPSIONICSSIONICS PSIONICS
 
+
+
 REGENERATION
+
+
 Wounds and injuries may be healed rapidly. Strength, Dexterity
 and Endurance lost to injury, disease, poison or other trauma may
 be healed by the application of this ability, exchanging one Psionic
@@ -16793,6 +17464,8 @@ Awareness, Psionic Strength, 10–60 seconds, Very Diffi cult (–4).
 Costs amount healed.
 
 BODY ARMOR
+
+
 By channelling psionic strength to his skeletal structure and
 boosting his healing rate, the character can enhance his ability to
 absorb damage. Body armor lasts for a number of rounds equal to
@@ -16877,6 +17550,8 @@ The psionic phenomenon...
 
 PSIONICS PPSIONICSSIONICS
 
+
+
 ```
 Preknowledge of Destination: Preknowledge of Destination: A character must always have a
 mental image of his or her destination before teleporting. This
@@ -16933,6 +17608,8 @@ those who already have them.
 
 ```
 PSIONIC TECHNOLOGY
+
+
 The ban on psionics within the Imperium means that most of these
 technologies are illegal. The exception is anti-psionic devices like
 the psionic shield or inhibitor drugs.
@@ -17019,6 +17696,8 @@ Adding a psionic interface increases the cost of the device by 20%.
 
 PPSIONICSSIONICS PSIONICS
 
+
+
 ### PPSIONSION
 
 A career for characters who deliberately choose to focus on their
@@ -17050,8 +17729,7 @@ RollRoll Personal Development Personal Development Service SkillsService Skills
 ```
 
 ```
-Advanced Education Advanced Education
-(Minimum Edu 8)(Minimum Edu 8)
+Advanced Education Advanced Education (Minimum Edu 8)(Minimum Edu 8)
 1 +1 Edu Telepathy Comms
 2 +1 Int Clairvoyance Computers
 3 +1 Str Telekinesis Language (any)
@@ -17077,6 +17755,8 @@ Social Sciences (any) Recon
 
 RANKS AND BENEFITS
 
+
+
 ```
 RankRank Wild Talent Wild Talent Skill or Benefi t Skill or Benefi tAdeptAdept Skill or Benefi t Skill or Benefi t Psi-warriorPsi-warrior Skill or Benefi tSkill or Benefi t
 0 Marine
@@ -17085,8 +17765,7 @@ Streetwise 1
 ```
 
 ```
-Initiate Life Science
-(psionology) 1
+Initiate Life Science (psionology) 1
 ```
 
 ```
@@ -17111,6 +17790,8 @@ Tactics (any) 1
 
 ```
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 WIld TalentWIld Talent Soc 6+ Int 8+
 AdeptAdept Edu 4+ Edu 8+
@@ -17158,8 +17839,12 @@ talent acquisition rolls).
 
 PSIONICS PPSIONICSSIONICS
 
+
+
 ```
 MISHAPS
+
+
 1d61d6 MishapMishap
 1 Injured. Roll on the injury table (page 37).
 2 You telepathically contact something dangerous. Lose one Psionic Strength. You also suffer from persistent and
@@ -17177,6 +17862,8 @@ Allies or Contacts, gain an Enemy anyway.
 
 ```
 EVENTS
+
+
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishaps table, but you are not ejected from this career.
 3 Your psionic abilities make you uncomfortable to be around. One Contact or Ally becomes a Rival. If you have no
@@ -17196,16 +17883,22 @@ gain an extra benefi t roll or +1 Social Standing. If you fail, lose one Social 
 
 TRADE
 
+
+
 ### TTRADERADE
 
 Free traders traditionally deal in three forms of commerce –
 passenger shipping, freight shipping, and speculative trade.
 
 PASSENGERS
+
+
 Passage on board ship is standardised into three categories – low
 passage, middle passage, and high passage.
 
 PASSAGE TYPES
+
+
 
 ```
 CategoryCategory RequirementsRequirements
@@ -17272,6 +17965,8 @@ hundreds of passengers clamouring for transport out).
 
 ```
 FREIGHT
+
+
 Characters not wishing to risk speculative trade can go for the
 safer option of shipping freight. Freight shipments pay Cr. 1,000
 per ton for shipping a ton for one parsec, +200 Cr. per additional
@@ -17331,8 +18026,12 @@ PassengersPassengers
 
 TRADE
 
+
+
 ```
 PASSENGER TRAFFIC
+
+
 World TypeWorld Type Current World Current World Destination WorldDestination World
 Agricultural +0 +0
 Asteroid +1 –1
@@ -17356,6 +18055,8 @@ No classifi cation +0 +0
 
 ```
 AVAILABLE PASSENGERS
+
+
 Passenger Passenger
 Traffi c ValueTraffi c Value
 ```
@@ -17394,6 +18095,8 @@ PassagesPassages
 
 ```
 FREIGHT TRAFFIC
+
+
 World TypeWorld Type Current WorldCurrent World Destination WorldDestination World
 Agricultural +2 +1
 Asteroid –3 +1
@@ -17421,6 +18124,8 @@ two worlds, to a maximum of –5.
 
 ```
 AVAILABLE FREIGHT LOTS
+
+
 Freight Freight
 Traffi c ValueTraffi c Value IncidentalIncidental MinorMinor MajorMajor
 0 0 0 0
@@ -17455,11 +18160,15 @@ denominations. The larger coins are often called the kilo, the ton, the toi, the
 
 TRADE TRADE
 
+
+
 entrusted to the X-Boat service or a private courier. To determine if
 there is mail available, determine the applicable Mail DMs, then roll
 on the available mail table.
 
 MAIL DICE MODIFIERS
+
+
 
 - Freight Traffi c modifi er of –10 or more: –2 DM
 - Freight Traffi c modifi er of –9 to –5: –1 DM
@@ -17477,6 +18186,8 @@ five tons of space and the characters will be paid Cr. 25,000 for
 transporting the mail.
 
 SPECULATIVE TRADE AND SMUGGLING
+
+
 The greatest profi ts and losses are to be found in speculative trade
 
 - buying low and selling high across the stars.
@@ -17509,6 +18220,8 @@ On lower-tech worlds, traders will have to seek out suppliers in
 ```
 
 TRADE TRADE
+
+
 
 ```
 the markets and bazaars themselves. Characters can search for
@@ -17668,6 +18381,8 @@ Broker DMBroker DM PercentagePercentage
 
 TRADE TRADE
 
+
+
 Deciding that precious metals offer the best return, Erik negotiates
 a price. He rolls 3d6, +1 (purchase DM), +1 (his Broker skill), for a
 total of 12. This lets him purchase the precious metals at 90% of
@@ -17748,6 +18463,8 @@ faces fi nes or imprisonment. See Law Levels, page 173.
 
 ```
 MODIFIED PRICE TABLE
+
+
 ResultResult Purchase Price Purchase Price Sale PriceSale Price
 –1 or less 400% 25%
 0 300% 45%
@@ -17798,8 +18515,12 @@ The dangerous cargo...
 
 TRADE TRADE
 
+
+
 ```
 TRADE GOODS
+
+
 d66d66 Type Type AvailableAvailable TonsTons Base Price (Cr.) Base Price (Cr.) Purchase DMPurchase DM Sale DM Sale DM ExamplesExamples
 11 Basic Electronics All 1d6 ∞ 10 10,000 Industrial +2,
 High Tech +3,
@@ -18217,6 +18938,8 @@ drones.
 
 TRADE
 
+
+
 TRADE GOODS (CONT.)
 d66d66 Type Type AvailableAvailable TonsTons Base Price (Cr.) Base Price (Cr.) Purchase DMPurchase DM Sale DM Sale DM ExamplesExamples
 51 Spices Garden,
@@ -18459,6 +19182,8 @@ Biochemicals, Illegal Drugs, Illegal Luxuries
 
 TRADE
 
+
+
 ###### B
 
 ###### 
@@ -18507,8 +19232,7 @@ Consulate
 ```
 The universe is mapped in convenient segments, called subsectors.
 Each subsector is an area of hexagonal cells measuring eight
-hexes by ten hexes. Since the recommended scale is one parsec
-(3.26 light years) per hex, the subsector covers an area ten parsecs
+hexes by ten hexes. Since the recommended scale is one parsec (3.26 light years) per hex, the subsector covers an area ten parsecs
 by eight parsecs.
 ```
 
@@ -18581,8 +19305,7 @@ contested border, or a mighty stronghold.
 ```
 
 ```
-Gas Giants: Gas Giants: A star system may have one or more gas giant planets
-(similar to Jupiter or Saturn). The presence of a gas giant allows
+Gas Giants: Gas Giants: A star system may have one or more gas giant planets (similar to Jupiter or Saturn). The presence of a gas giant allows
 starships equipped with fuel scoops to refuel by skimming; this
 eliminates fuel cost for the vessel and increases profi t. It also allows
 refuelling at systems that do not have starports. Refuelling in this
@@ -18622,6 +19345,8 @@ System Hex Format
 
 WORLD CREATION WORLD CREATION
 
+
+
 ```
 DISTRICT RED 27
 A sample subsector map.
@@ -18631,30 +19356,54 @@ DISTRICT RED 23
 
 LAMBDA
 
+
+
 ```
 T
+
+
 HE
+
+
 B
+
+
 ORDER
+
+
 ```
 
 ```
 M
+
+
 ARCHES
+
+
 ```
 
 D
 
+
+
 ISTRICT
+
+
 
 R
 
+
+
 ED
+
+
 
 26
 
 ```
 B
+
+
 
 cc
 ```
@@ -18687,6 +19436,8 @@ GazetaGazeta
 
 ```
 B
+
+
 ```
 
 ```
@@ -18700,6 +19451,8 @@ LilangeniLilangeni
 
 ```
 D
+
+
 cc
 ```
 
@@ -18709,6 +19462,8 @@ ObolObol
 
 ```
 E
+
+
 ```
 
 ```
@@ -18726,6 +19481,8 @@ PhoenixPhoenix
 
 ```
 D
+
+
 cc
 ```
 
@@ -18735,6 +19492,8 @@ ReaalReaal
 
 ```
 D
+
+
 cc
 ```
 
@@ -18744,6 +19503,8 @@ TögrögTögrög
 
 ```
 C
+
+
 cc
 ```
 
@@ -18753,6 +19514,8 @@ KatzbalgerKatzbalger
 
 ```
 A
+
+
 
 ππ
 ```
@@ -18763,6 +19526,8 @@ K. PostelK. Postel
 
 ```
 E
+
+
 ```
 
 ```
@@ -18771,6 +19536,8 @@ SchiavonaSchiavona
 
 ```
 C
+
+
 ```
 
 ```
@@ -18779,6 +19546,8 @@ KastaneKastane
 
 ```
 E
+
+
 ```
 
 ```
@@ -18787,6 +19556,8 @@ KaskaraKaskara
 
 ```
 E
+
+
 ```
 
 ```
@@ -18796,8 +19567,12 @@ NimchaNimcha
 (^11) C
 Nzappa Nzappa
 E
+
+
 AgniAgni
 C
+
+
 cc
 GolokGolok C
 11
@@ -18813,12 +19588,16 @@ cc
 55
 KiooceKiooce
 D
+
+
 OracsOracs
 55
 
 
 
 WORLD CREATION WORLD CREATION
+
+
 
 ```
 Red travel zone usually indicates that a major danger exists
@@ -18847,8 +19626,7 @@ should also be marked.
 
 ```
 Communications Routes: Communications Routes: Within the subsector, local governments
-will have established communications routes connecting some
-(but not all) worlds. These routes serve as a conduit for messages
+will have established communications routes connecting some (but not all) worlds. These routes serve as a conduit for messages
 between businesses and between governments as well as between
 people. The also serve as the basic routes that liners and large
 freighters travel. The Referee should examine the subsector
@@ -18857,8 +19635,7 @@ subsector is an isolated community, the routes may not leave the
 map; if it is part of a larger confederation or empire, the routes will
 probably leave the edges to join with other parts of the sector. Use
 the starports as guides when drawing communication routes – in
-general, the best routes are the shortest connections between Class-
-A starports, naval bases and imperial consulates.
+general, the best routes are the shortest connections between Class-A starports, naval bases and imperial consulates.
 ```
 
 ```
@@ -18892,6 +19669,8 @@ relative distance and commercial space-lane connections.
 
 ```
 WORLD CREATION
+
+
 The term world refers to the various bodies that are contained in
 a stellar system; it encompasses planets, satellites, and asteroid
 belts. For example, the single most important world in a system
@@ -18960,7 +19739,11 @@ Communication Route Trade Route
 
 WORLD CREATION WORLD CREATION
 
+
+
 SIZE
+
+
 The Size characteristic for inhabitable worlds ranges from 0 to
 10, and is determined by rolling 2d6–2. Size measures a world's
 diameter in thousands of kilometers. The bigger a planet, the higher
@@ -18970,6 +19753,8 @@ have a lower gravity than their size would indicate, while extremely
 dense worlds have a higher gravity.
 
 SIZE TABLE
+
+
 
 ```
 DigitDigit World Size World Size ExamplesExamples
@@ -19041,6 +19826,8 @@ checks until they acclimatise, a process which takes 1d6 weeks.
 
 ```
 ATMOSPHERE
+
+
 The Atmosphere characteristic measures the type of atmosphere
 present. A planet's Atmosphere is generated by rolling 2d6–7 and
 adding the planet's Size.
@@ -19119,6 +19906,8 @@ a Green Zone.
 
 WORLD CREATION WWORLDORLD C CREATIONREATION
 
+
+
 ```
 in an insidious atmosphere is that the toxic gases will destroy the
 seals and fi lters on the character's protective gear. An insidious
@@ -19128,6 +19917,8 @@ can prolong survival times.
 ```
 
 ATMOSPHERE TABLE
+
+
 
 ```
 DigitDigit Atmosphere Atmosphere ExamplesExamples PressurePressure
@@ -19222,6 +20013,8 @@ applying the DMs listed below.
 
 TEMPERATURE TABLE
 
+
+
 ```
 RollRoll TypeType
 ```
@@ -19254,6 +20047,8 @@ Temperature is measured in degrees Celsius.
 
 ```
 TEMPERATURE DMS
+
+
 Atmosphere 0 or 1 No modifi ers, but temperature
 swings from roasting during
 the day to frozen at night.
@@ -19268,6 +20063,8 @@ Cold edge of Habitable Zone –4
 ```
 
 WWORLDORLD C CREATIONREATION WORLD CREATION
+
+
 
 Hydrographics
 The Hydrographic characteristic measures the amount of surface
@@ -19284,7 +20081,7 @@ Size 0 or 1 Hydrographics 0
 Atmosphere 0, 1, A, B or C –4
 ```
 
-If the planet's atmosphere is not D (or a kind of F that is thick
+If the planet's atmosphere is notD (or a kind of F that is thick
 enough to retain water) then also apply DMs for temperature:
 
 ```
@@ -19293,6 +20090,8 @@ Roasting Temperature –6
 ```
 
 HYDROGRAPHICS TABLE
+
+
 
 ```
 DigitDigit
@@ -19317,6 +20116,8 @@ and archipelagos.
 
 ```
 POPULATION
+
+
 The Population characteristic measures, obviously, the planet's
 population. The Population digit can be viewed as the number
 of zeroes following a one, so a population of 6 indicates a
@@ -19326,6 +20127,8 @@ by rolling 2d6–2:
 
 ```
 POPULATION TABLE
+
+
 DigitDigit Population Population RangeRange DescriptionDescription
 0 None 0
 1 Few 1+ A tiny farmstead or
@@ -19400,6 +20203,8 @@ worldwide network of communications satellites even at TL 15.
 
 WORLD CREATION WWORLDORLD C CREATIONREATION
 
+
+
 ```
 If a world has a population of 0, it is uninhabited and so has a
 Government, Law Level and Technology Level of 0.
@@ -19407,6 +20212,8 @@ Government, Law Level and Technology Level of 0.
 
 ```
 GOVERNMENT
+
+
 The Government characteristic indicates a range of possible ruling
 systems, and is determined by rolling 2d6–7 and adding the planet's
 Population. Compare the result with the Government table on the
@@ -19433,10 +20240,8 @@ a government leader.
 ```
 Roll 1d3 to determine how many factions there are on the planet,
 with a DM of +1 if the government type is 0 or 7, and a DM of
-–1 if the government type is 10 or more. Determine what 'mini-
-government' each faction uses on the government table. In cases
-where the faction type is the same as the current government type
-(or similar, such as two democracies or two dictatorships), then it
+–1 if the government type is 10 or more. Determine what 'mini-government' each faction uses on the government table. In cases
+where the faction type is the same as the current government type (or similar, such as two democracies or two dictatorships), then it
 is a splinter faction within the ruling government. In cases where
 it is radically different (anarchists against a bureaucracy), then the
 faction is a rebel group or movement.
@@ -19448,6 +20253,8 @@ Roll 2d6 to determine the strength of each faction:
 
 ```
 FACTION STRENGTH TABLE
+
+
 RollRoll Relative StrengthRelative Strength
 1–3 Obscure group – few have heard of
 them, no popular support
@@ -19478,6 +20285,8 @@ strangeness produces a nicely organic-feeling culture).
 
 ```
 LAW LEVEL
+
+
 The law level of a planet represents the relative force of law extant on
 the world. A high Law Level indicates that visitors to the world will
 have their activities curtailed. Law Level determines two things in
@@ -19549,11 +20358,12 @@ agents of planetary law enforcement.
 
 WORLD CREATION WORLD CREATION
 
+
+
 ```
 SituationSituation DMDM ResponseResponse
 First approach to a planet +0 Check
-Offworlders wandering the streets of a city
-(once per day)
+Offworlders wandering the streets of a city (once per day)
 ```
 
 ```
@@ -19661,7 +20471,11 @@ The factions...
 
 WORLD CREATION WORLD CREATION
 
+
+
 GOVERNMENT TABLE
+
+
 
 ```
 TypeType Government Government DescriptionDescription ExamplesExamples
@@ -19707,8 +20521,7 @@ consent of the citizenry directly.
 
 ```
 Collective, tribal
-council, comm-
-linked consensus
+council, comm-linked consensus
 ```
 
 ```
@@ -19885,6 +20698,8 @@ Varies
 
 WORLD CREATION WORLD CREATION
 
+
+
 ```
 LAW LEVEL TABLE – ILLEGAL POSSESSIONS
 DigitDigit Weapons Weapons DrugsDrugs Information Information TechnologyTechnology Travellers Travellers PsionicsPsionics
@@ -19960,8 +20775,7 @@ authorized sites
 ```
 Use of telepathy
 restricted to
-government-
-approved
+government-approved
 telepaths
 4 Light assault
 weapons and
@@ -20102,8 +20916,12 @@ to the sweeping restrictions placed on nuclear weapons.
 
 WORLD CREATION WORLD CREATION
 
+
+
 ```
 CULTURAL DIFFERENCES TABLE
+
+
 d66d66 CultureCulture d66d66 CultureCulture
 11 Sexist – one gender is considered subservient or inferior to the
 other.
@@ -20271,7 +21089,11 @@ agency.
 
 WORLD CREATION WORLD CREATION
 
+
+
 STARPORT
+
+
 Starports are the arteries of interstellar commerce. These ports for
 spacefaring craft range in size from a landing fi eld with a rudimentary
 radio beacon and a hydrogen fuel still to city-sized edifi ces where
@@ -20287,6 +21109,8 @@ Starports are rated from A to E. To determine the level of a starport
 on a planet, roll 2d6:
 
 STARPORT TABLE
+
+
 
 ```
 RollRoll Starport ClassStarport Class
@@ -20306,8 +21130,7 @@ Starports and The Law
 Technically, a starport is Imperial territory, and is not under the
 jurisdiction of the planetary government. The local government may
 share in the construction costs, running costs and profits of the
-starport, but the port is extraterritorial and run by an Imperium-
-appointed governor. This means that travellers can carry locally
+starport, but the port is extraterritorial and run by an Imperium-appointed governor. This means that travellers can carry locally
 illegal goods onto a planet as long as they do not leave the starport.
 
 ```
@@ -20344,8 +21167,7 @@ Bases have their own fuel-refi ning ability – see Bases, below.
 Facilities Facilities are the starport's repair and construction ability. A
 shipyard allows for the construction of new vessels. A shipyard
 capable of building all types of ships can construct small craft (less
-than 100 tons), spacecraft (100 to 5,000 tons) and capital ships
-(more than 5,000 tons).
+than 100 tons), spacecraft (100 to 5,000 tons) and capital ships (more than 5,000 tons).
 ```
 
 ```
@@ -20362,6 +21184,8 @@ nearby. For more details, see Bases, page 179.
 ```
 
 STARPORTS
+
+
 
 ```
 ClassClass QualityQuality
@@ -20424,6 +21248,8 @@ X No Starport 0 None None None
 
 WORLD CREATION WORLD CREATION
 
+
+
 ```
 It also means that criminals and refugees often claim sanctuary in a
 starport, and that a starport's technology level may be considerably
@@ -20434,6 +21260,8 @@ Level 7 for psionics).
 
 ```
 TECHNOLOGY LEVEL
+
+
 The Technology Level of the planet is determined by rolling 1d6 and
 adding DMs as follows:
 ```
@@ -20530,6 +21358,8 @@ surface (communications satellites are cheap and easy to deploy).
 
 ```
 BASES
+
+
 In addition to the basic facilities at a starport, there may be one
 or more special Imperial bases at the starport or nearby in the
 system. There are six common types of bases, but others are also
@@ -20550,8 +21380,7 @@ navy-surplus weapons here.
 ```
 
 ```
-Scout: Scout: A scout base offers refined fuel and supplies to scout ships
-(including retired scout ships obtained by retired scouts). They are
+Scout: Scout: A scout base offers refined fuel and supplies to scout ships (including retired scout ships obtained by retired scouts). They are
 also an excellent place to pick up rumors and news.
 ```
 
@@ -20577,6 +21406,8 @@ AtmosphereAtmosphere Minimum TLMinimum TL
 ```
 
 WWORLDORLD C CREATIONREATION WORLD CREATION
+
+
 
 TAS: TAS: This is a Traveller's Aid Society Hostel, where characters with
 TAS membership and their guests can stay. TAS Hostels offer
@@ -20610,6 +21441,8 @@ Ex-rogues may know of pirate bases.
 
 ```
 TRAVEL CODES
+
+
 There are two travel codes – Amber and Red. An Amber world has
 been deemed dangerous by the Imperium, and travellers are warned
 to be on their guard. Amber worlds are often undergoing upheaval
@@ -20653,6 +21486,8 @@ some central governing power.
 
 ```
 SPACE OPERA WORLD CREATION
+
+
 When generating a mainworld for a space opera setting, generate
 Size and Atmosphere as normal then consult the following if
 Size is 4 or less:
@@ -20675,13 +21510,15 @@ on the Hydrographics Table (page 172):
 
 ```
 HARD SCIENCE WORLD CREATION
+
+
 Hard science worlds use the space opera modifiers above, plus
 additional Dice Modifiers to Population based on the Size and
 Atmosphere as follows:
 ```
 
 - If Size is 0–2 (low gravity world) then the DM is –1.
-- If Size is A (high gravity world) then the DM is –1.
+- If Size isA (high gravity world) then the DM is –1.
 - If Atmosphere is not 5, 6 or 8 then the DM is –1.
 - If Atmosphere is 5, 6 or 8 then the DM is +1.
 
@@ -20693,8 +21530,12 @@ roll 2d6–7 and add the Population value.
 
 WORLD CREATION WWORLDORLD C CREATIONREATION
 
+
+
 ```
 TRADE CODES
+
+
 Trade codes designate particular types of worlds, and the types of goods that are likely to be found there. If a world meets all the listed
 requirements, it gains that trade classification. Trade classifi cations are important for the trade system (see page 160) and also when
 creating a character from that world to determine what background skills are available (see page 6).
@@ -20821,8 +21662,7 @@ thousand or less.
 ```
 
 ```
-Low Technology Lt Low Technology worlds are pre-
-industrial and cannot produce
+Low Technology Lt Low Technology worlds are pre-industrial and cannot produce
 advanced goods.
 ```
 
@@ -20893,9 +21733,13 @@ water-ocean.
 
 INDEX
 
+
+
 ### IINDEXNDEX
 
 A
+
+
 Ablat (Armor) 88
 Accelerator Rifle 98
 Accommodation 86
@@ -20966,6 +21810,8 @@ Awareness 155
 
 B
 
+
+
 ```
 Background Skills 6
 Bases 179
@@ -20993,6 +21839,8 @@ Bug (Surveillance) 90
 
 C
 
+
+
 ```
 Campaign Ideas 2
 Careers 8
@@ -21005,6 +21853,8 @@ Changing Stance 60
 ```
 
 IINDEXNDEX
+
+
 
 Characteristics 5
 
@@ -21064,6 +21914,8 @@ Cutter 135
 
 D
 
+
+
 ```
 d66 3
 Dagger 98
@@ -21097,6 +21949,8 @@ Dynamic Initiative 60
 
 E
 
+
+
 ```
 Easy (Diffi culty) 48
 Effect 50
@@ -21119,6 +21973,8 @@ Entertainer 18
 
 IINDEXNDEX INDEX
 
+
+
 Environmental Dangers 73
 
 Environment Suit 97
@@ -21136,6 +21992,8 @@ Extremes of Temperature 74
 Eye Protection 88
 
 F
+
+
 
 Falling 74
 Far Trader (Spacecraft) 117
@@ -21171,6 +22029,8 @@ Fuel Scoops 110
 
 G
 
+
+
 G/Carrier 103
 Gambler 55
 Gauss Pistol 99
@@ -21201,6 +22061,8 @@ Gyrostabilizer (Weapon Upgrade) 102
 
 H
 
+
+
 ```
 Habitat Module 97
 Hand Computer 91
@@ -21229,6 +22091,8 @@ Hydrographics 172
 
 I
 
+
+
 ```
 Illegal Goods 164
 Improvised Weapon 98
@@ -21236,6 +22100,8 @@ Inhibitor Drug 157
 ```
 
 INDEX IINDEXNDEX
+
+
 
 ```
 Initiative 60
@@ -21257,6 +22123,8 @@ IR Goggles 96
 
 J
 
+
+
 ```
 J-Drive 107
 Jack (Armor) 87
@@ -21267,12 +22135,16 @@ Jump Travel 140
 
 K
 
+
+
 ```
 K'kree 45
 Knockout Blow (Optional Rule) 66
 ```
 
 L
+
+
 
 ```
 Laboratory Ship 121
@@ -21305,6 +22177,8 @@ Luxuries (Spacecraft) 110
 ```
 
 M
+
+
 
 ```
 M-Drive 107
@@ -21352,7 +22226,11 @@ Mustering Out Benefi ts 34
 
 IINDEXNDEX INDEX
 
+
+
 N
+
+
 
 NAS 96
 Natural Healing 75
@@ -21373,6 +22251,8 @@ Nuclear Dampers 112
 
 O
 
+
+
 Old Ships 136
 On-board Computer (Vehicle Upgrade) 104
 Open Vehicles 66
@@ -21380,6 +22260,8 @@ Open Vehicles 66
 Opposed Checks 51
 
 P
+
+
 
 Pack 69
 Panaceas 93
@@ -21434,12 +22316,16 @@ Pyrokinesis (Telekinesis) 155
 
 Q
 
+
+
 ```
 Qualifi cation 8
 ```
 
 ```
 R
+
+
 Radiation 141
 Ram (Vehicles) 67
 RAM Grenade Launcher 101
@@ -21472,6 +22358,8 @@ Repairs (Spacecraft) 143
 
 INDEX IINDEXNDEX
 
+
+
 ```
 Repairs (Vehicles) 68
 Repair Drones 110
@@ -21491,6 +22379,8 @@ Rural Encounters 69, 83
 ```
 
 S
+
+
 
 ```
 Sample Animals 73
@@ -21586,6 +22476,8 @@ Suffocation 142
 
 IINDEXNDEX
 
+
+
 Surgery 75
 
 Surprise (Space) 147
@@ -21596,6 +22488,8 @@ Suspended Animation (Awareness) 155
 System Hex Format 167
 
 T
+
+
 
 Tactical Awareness (Clairvoyance) 154
 Tactics 58
@@ -21641,6 +22535,8 @@ Type S Scout 114
 
 U
 
+
+
 ```
 Unconsciousness 74
 Universal Personality Profi le 41
@@ -21649,6 +22545,8 @@ Urban Encounters 83
 ```
 
 V
+
+
 
 ```
 Vacc Suit 59
@@ -21663,6 +22561,8 @@ Vislight Chameleon (Armor) 89
 ```
 
 W
+
+
 
 ```
 Wafer, Data 91
@@ -21681,11 +22581,15 @@ World Creation, Space Opera 180
 
 Y
 
+
+
 ```
 Yacht (Spacecraft) 126
 ```
 
 Z
+
+
 
 ```
 Zero-G 59
@@ -21701,6 +22605,8 @@ Zhodani 46
 ```
 
 INDEX
+
+
 
 # TRAVELLER
 
@@ -21734,6 +22640,8 @@ http://www.mongoosepublishing.com
 
 SIGNS AND PORTENTS
 
+
+
 #### Online Magazine
 
 ## NNEEDEED EVENEVEN MORE MORE T TRAVELLERRAVELLER??
@@ -21742,6 +22650,8 @@ SIGNS AND PORTENTS
 RELEASED EVERY MONTH AND FULL OF FRESH AND EXCITING MATERIAL FOR YOUR FAVOURITE ROLEPLAYING GAMES, SIGNS
 AND PORTENTS IS MONGOOSE PUBLISHING'S ONLINE MAGAZINE. NOT ONLY IS IT THE FIRST AND BEST PLACE TO LOOK FOR
 BREAKING NEWS ABOUT TRAVELLER PRODUCTS BUT YOU CAN FIND NEW MATERIAL FOR YOUR TRAVELLER GAMES RIGHT THERE
+
+
 IN ITS DIGITAL PAGES. AND IT'S FREE.
 ```
 

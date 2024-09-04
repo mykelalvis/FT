@@ -555,7 +555,7 @@ Robot Hits Locomotion Speed TL Cost
 Security Drone 20 Grav 12m 12 Cr85000
 Skills Gun Combat (energy) 2, Recon 1
 Attacks Laser Carbine (4D+3, Zero-G), Stunner (3D, Stun, Zero-G)
-Manipulators 2 X (STR 9 DEX 7)
+Manipulators 2X (STR 9 DEX 7)
 Endurance 29 hours
 Traits Armor (+8), Flyer (idle), Heightened Senses, IR/UV Vision Programming Hunter/Killer (standard) (INT 4) Options Auditory Sensor (broad spectrum), Drone Interface, Fire Control System (improved), PRIS Sensor, Recon Sensor (improved), Transceiver 5km (improved), Voder Speaker, Weapon Mount (medium), Weapon Mount (small), Wireless Data Link, Spare Slots x9
 
@@ -888,9 +888,7 @@ Casing the Office: A Difficult (10+) Recon check (1D hours, INT) reveals there a
 
 Hacking: A Difficult (10+) Electronics (computers) check (1D hours, EDU) reveals the company's security system is not that hard to crack but the computer system has next to nothing of interest. They must have a separate server with the really juicy files, which is not connected to the network. The Traveller does find a roster and flight plan for cargo flights; the launch travels between the highport and Regina Down every few days but some of the flights take several hours longer than they should – the launch must be taking a detour somewhere in orbit.
 
-Security Systems: A Difficult (10+) Investigate or Electronics (computers or sensors) check (1D hours, INT) reveals that the office's security systems are not especially impressive; it should be easy enough to shut down the alarms and break in. Actually deactivating the alarms requires an Average (8+) Electronics
-(computers or sensors) check (1D minutes, INT). If a Traveller tries to disable the alarms without first examining the security system, it is a Very Difficult
-(12+) check instead.
+Security Systems: A Difficult (10+) Investigate or Electronics (computers or sensors) check (1D hours, INT) reveals that the office's security systems are not especially impressive; it should be easy enough to shut down the alarms and break in. Actually deactivating the alarms requires an Average (8+) Electronics (computers or sensors) check (1D minutes, INT). If a Traveller tries to disable the alarms without first examining the security system, it is a Very Difficult (12+) check instead.
 
 Bodysnatchers
 
@@ -1300,10 +1298,7 @@ Marisa has the only existing copy of the original documentation associated with 
 #### MARISA JOCELL
 skills: Admin 2, Astrogation 0, Deception 0, Electronics
 
-STR 6 INT 7
-(comms) 2, Electronics
-(computers) 1, Electronics
-(sensors) 1, Flyer 0, Streetwise 0
+STR 6 INT 7 (comms) 2, Electronics (computers) 1, Electronics (sensors) 1, Flyer 0, Streetwise 0
 
 DEX 6 EDU 8 END 8 SOC 8
 
@@ -2134,8 +2129,7 @@ As the Travellers make their way across the subsector, they may need to earn mon
 
 ### EFATE
 
-The Travellers can easily hide among the teeming billions of [[Efate]]. This highly technological planet is a virtual anarchy and it is only the presence of the naval base in orbit that keeps in it check. Anything goes on Efate – unlike the hidebound culture of Regina, Efate is a wild freeport. Strange subcultures appear and vanish overnight. The planet has a high Tech Level
-(TL14); cybernetics, genetic engineering and personal augmentation are universal among the natives.
+The Travellers can easily hide among the teeming billions of [[Efate]]. This highly technological planet is a virtual anarchy and it is only the presence of the naval base in orbit that keeps in it check. Anything goes on Efate – unlike the hidebound culture of Regina, Efate is a wild freeport. Strange subcultures appear and vanish overnight. The planet has a high Tech Level (TL14); cybernetics, genetic engineering and personal augmentation are universal among the natives.
 
 **Patron**:  Zaar, of Lucidity Enfolded
 **Payment**:  Cr5000 per Traveller
@@ -2284,8 +2278,7 @@ name: "URO PHELL"
 ```
 skills: Broker 2, Carouse 1, Deception 1, Gun Combat
 
-STR 9 INT 7
-(slug) 2, Mechanic 1, Melee (unarmed) 2, Persuade 1, Vacc Suit 1
+STR 9 INT 7 (slug) 2, Mechanic 1, Melee (unarmed) 2, Persuade 1, Vacc Suit 1
 
 DEX 7 EDU 5 END 8 SOC 4
 Weapons: Shotgun (4D, Bulky) Armor: Hostile Environment Vacc Suit (+9)
@@ -2318,6 +2311,8 @@ Fangs can point the Travellers at a guide, another Vargr called Gvarrul who live
 #### THE RULING
 
 GANG
+
+
 
 > [!info]- Read this to the Travellers:
 > This part of town is obviously fortified. The streets between the domes are narrow and have plenty of cover and kill-zones. The airlocks are armored, and you spot several grey pillboxes that could be gun emplacements. You get the distinct feeling you are being watched. The streets are empty and conspicuously free of graffiti.
@@ -2608,6 +2603,8 @@ Juni Volsang: Volsang is a high-flying academic in the University of Regina. She
 
 DEAL
 
+
+
 Bay Venshar is a murderer and a thief but he did not get to be 200 years old without knowing when to negotiate. If the Travellers start waving guns around and his Vargr mercenaries cannot eliminate the danger instantly, Venshar will offer to cut a deal with the Travellers. He assumes they too are dealers in black-market Ancients relics and guesses they are probably working for Ven Yosha. No doubt they murdered Professor Ujinka. He can respect professional work like that.
 
 #### JUNI VOLSANG
@@ -2633,8 +2630,7 @@ Playing Volsang:
 ```
 name: "VARGR MERCENARIES"
 sga:  Vargr N/A N/A
-Electronics 0, Gun Combat (energy) 2, Melee
-(natural) 2, Persuade 1, Recon 1, Tactics (ground) 1, Vacc Suit 1
+Electronics 0, Gun Combat (energy) 2, Melee (natural) 2, Persuade 1, Recon 1, Tactics (ground) 1, Vacc Suit 1
 
 STR 9 INT 5
 DEX 9 EDU 4
@@ -2678,8 +2674,7 @@ It is 400 million kilometers from the scout base at Boughene to Komesh, giving t
 name: "BAY VENSHAR"
 skills: Admin 1, Advocate 1, Broker 2, Deception 2, Electronics (comms) 1, Gambler 1, Gun Combat
 
-STR 5 INT 9
-(energy) 2, Investigate 1, Persuade 2.
+STR 5 INT 9 (energy) 2, Investigate 1, Persuade 2.
 
 DEX 10 EDU 8 END 5 SOC 7
 Weapons: Laser Pistol (3D+3, Zero-G) Armor: Vacc Suit (+12)
@@ -2701,15 +2696,13 @@ Komesh is orbited by a dozen large moons and hundreds of smaller objects, all of
 
 Only a fool would dive into Komesh's gravity well. The atmosphere is 89% hydrogen and 10% helium; the remainder is a mix of water vapour, methane and ammonia. There are many layers of clouds, concentrated around an altitude of 36,000 kilometers. At the upper limit of this band, the clouds are water and ice; deeper into the planet's atmosphere, the clouds are condensed ammonia and absorb almost all light.
 
-Most ships scooping fuel from a gas giant rarely venture below the pressure level of 0.5 atmospheres
-(an altitude of 36,500 kilometers on Komesh). Diving below this level is extremely hazardous, as the ship risks being caught in the gravity well; the amount of thrust needed to maneuver increases significantly. A skilled pilot can dive into the atmosphere and fly back out if their ship has sufficient momentum and a talented engineer can wring more thrust out of a grav plate in an emergency but it is still extremely dangerous.
+Most ships scooping fuel from a gas giant rarely venture below the pressure level of 0.5 atmospheres (an altitude of 36,500 kilometers on Komesh). Diving below this level is extremely hazardous, as the ship risks being caught in the gravity well; the amount of thrust needed to maneuver increases significantly. A skilled pilot can dive into the atmosphere and fly back out if their ship has sufficient momentum and a talented engineer can wring more thrust out of a grav plate in an emergency but it is still extremely dangerous.
 
 Deep in the atmosphere, the temperature also rises quickly. Pressure, heat, the raging windstorms and ammonia sleet can push even the toughest ship to the breaking point.
 
 #### SENSOR SWEEP
 
-A series of successful Average (8+) Electronics
-(sensors) checks are required to locate the Ancients base. The 'base' is actually a ship moving through the planet's atmosphere, under the cloud banks, so three successful checks in a row are needed to locate it. The DM for the checks depends on how deep the Travellers dive into the atmosphere.
+A series of successful Average (8+) Electronics (sensors) checks are required to locate the Ancients base. The 'base' is actually a ship moving through the planet's atmosphere, under the cloud banks, so three successful checks in a row are needed to locate it. The DM for the checks depends on how deep the Travellers dive into the atmosphere.
 
 The deeper the Travellers dive, the more damage their ship endures and the greater the negative DM of the Average (8+) Pilot check to maintain control. Other Travellers can aid both the Electronics (sensors) and Pilot checks using a task chain:
 
@@ -2721,8 +2714,7 @@ If the Pilot check is failed, the ship takes the amount of damage listed on the 
 
 #### INTO THE MAELSTROM
 
-If the Travellers make three successful Electronics
-(sensors) checks in a row, they detect an object at approximately 35,500 kilometers. It is moving in an unpredictable pattern, either under its own power or being blown by the shifting winds. Either way, it is obviously artificial and could be a floating platform or starship.
+If the Travellers make three successful Electronics (sensors) checks in a row, they detect an object at approximately 35,500 kilometers. It is moving in an unpredictable pattern, either under its own power or being blown by the shifting winds. Either way, it is obviously artificial and could be a floating platform or starship.
 
 If it is an Ancients artefact, then they could use it as a bargaining chip and escape the arrest warrant. The only way onwards is downwards...
 
@@ -2739,6 +2731,8 @@ The Travellers find their way into the internal compartments of the ship, which 
 #### THE ANCIENT
 
 SHIP
+
+
 300,000 years ago, during the wars of the Ancients, this ship was dispatched by Grandfather to retrieve one of his experiments – a human colony, on the world now known as Bilke (hex 0110 in the Trojan Reach) – before it was wiped out by his rampaging offspring. During its return, the ship was attacked by an enemy vessel and suffered severe damage. The damage to the hull and other physical systems was considerable but its self- repair systems could eventually heal these wounds by siphoning the required matter from the gas giant and assembling new components. The worst damage, however, was inflicted on the ship's mind. It was struck by an information-devouring viral weapon, a vicious attack that injured the ship's sentience directly. The virus worked by consuming the ship's intellect and using its own processing power against the ship – the more of the ship's mind that it ate, the smarter the virus became.
 
 Confused and paralysed, the shattered mind of the ship attempted to do its best for its cargo. The human and Droyne passengers were removed from suspended animation and the ship created an ecosystem on its upper hull while it reconfigured its lower decks to optimize its self-repair. It also shut down its own computing systems, to slow the advance of the virus while it searched for a way to defeat the invading program.
@@ -2781,6 +2775,8 @@ Virus Actions
 - Sending subliminal messages to confuse or threaten the Travellers
 
 THE MAELSTROM
+
+
 The wrecked Ancients ship is floating at an altitude of approximately 35,500 kilometers. That is within the operating range for the Travellers' ship but with a pressure in excess of 100 atmospheres, coupled with squalls of hydrogen and high winds it is very risky to fly down that far into a gas giant. The Ancients ship is moving semi- randomly – most of the time, driven by the winds, but it sometimes activates its manoeuvring thrusters to fly against the wind or move to a different altitude.
 
 #### NAVIGATING THE GAS GIANT
@@ -2798,8 +2794,7 @@ If the Travellers wait for the Ancients ship to come closer to the surface, then
 
 When the Travellers reach the requisite Effect, they are nearly at the Ancients ship. It is still hidden by clouds of hydrogen and ammonia sleet but G-band distortions are growing more pronounced and at this range even conventional sensors can pick up the presence of thermal and magnetic anomalies. The Travellers glimpse fragments of the wrecked ship through the pinkish-purple clouds. This far from Komesh's primary star, there is little daylight so most of the illumination comes from the _Star Hunter_ 's own running lights and the crackling of 1,000-kilometer lightning bolts deeper in the atmosphere.
 
-As the Travellers get closer, call for a Very Difficult
-(12+) Electronics (sensors) check (INT). If successful, the Travellers detect small objects, possibly organic creatures, flitting around the wreck. If the check was passed with Effect 2+, they are able to get a visual image of one of the creatures – a gas-bag trailing tentacles behind it. A successful Science (xenobiology) check lets the Travellers guess that the creature is native to the gas giant and not a survivor from the wrecked ship. The Travellers will not be alone when they board the wreck.
+As the Travellers get closer, call for a Very Difficult (12+) Electronics (sensors) check (INT). If successful, the Travellers detect small objects, possibly organic creatures, flitting around the wreck. If the check was passed with Effect 2+, they are able to get a visual image of one of the creatures – a gas-bag trailing tentacles behind it. A successful Science (xenobiology) check lets the Travellers guess that the creature is native to the gas giant and not a survivor from the wrecked ship. The Travellers will not be alone when they board the wreck.
 
 Suddenly, a hydrogen squall hits the Travellers' ship. The helmsman must make a Very Difficult (12+) Pilot check (DEX) to ride out the squall. If the check is successful, the Travellers can keep control of the Star Hunter as it flies through the squall. If the check is failed, the ship takes another 2D damage; even if it is still intact, the pilot has lost control of the ship. The Star Hunter spins end over end through the gas giant before crashing into the Ancients ship. See Crashing , on page 91.
 
@@ -2841,8 +2836,7 @@ Alternatively, if the Travellers search the lower section of the hull, they find
 
 If the Travellers failed to maintain control during the hydrogen squall, then the Star Hunter comes tumbling across the sky and crashes straight through the energy shield. Fortunately, the ship opens up a portal just before the Travellers are splattered across the surface of the shield. As the Star Hunter passes through the portal, a tractor beam seizes it, slowing it down enough so its crash landing is one the Travellers can walk away from, as opposed to a lethal impact.
 
-The ship takes another 4D damage from the crash landing. The Travellers survive thanks to the protective tractor beam, even if the ship is reduced to 0 Hull points. However, the Star Hunter will never fly again
-(and this will cause added problems for the Travellers in chapter 7, The Death of Grandfather ).
+The ship takes another 4D damage from the crash landing. The Travellers survive thanks to the protective tractor beam, even if the ship is reduced to 0 Hull points. However, the Star Hunter will never fly again (and this will cause added problems for the Travellers in chapter 7, The Death of Grandfather ).
 
 #### THE FAUNA OF KOMESH
 
@@ -2878,8 +2872,7 @@ Sky-Whale
 
 **Wreck-Darter**
 
-Animal Hits Speed Wreck-Darter 22 — Skills Athletics (dexterity) 2, Melee
-(natural) 3, Recon 0, Stealth 3, Survival 2 Attacks Spike (2D)* Traits Flyer (very slow) Behaviour Carnivore, Trapper
+Animal Hits Speed Wreck-Darter 22 — Skills Athletics (dexterity) 2, Melee (natural) 3, Recon 0, Stealth 3, Survival 2 Attacks Spike (2D)* Traits Flyer (very slow) Behaviour Carnivore, Trapper
 
 - After attacking, a wreck-darter must spend 3D rounds re-inflating its gas bags before it can strike again.
 
@@ -2904,6 +2897,8 @@ A. Sensor Antennae B. Map Room C. Weapons System D. Telleport Chamber E. Interco
 #### UPPER
 
 HULL
+
+
 
 #### THE FARMS
 
@@ -2991,8 +2986,7 @@ The pods are physically connected to the Ancient ship by interconnectors but int
 
 #### GETTING TO THE BRIDGE
 
-The Travellers' goal is to get to the bridge of the ship
-(Capsule A). To do so, they must learn to operate the teleporters and then find a way to get past the damaged section around Capsule 14.
+The Travellers' goal is to get to the bridge of the ship (Capsule A). To do so, they must learn to operate the teleporters and then find a way to get past the damaged section around Capsule 14.
 
 #### MANIPULATING THE TELEPORTALS
 
@@ -3026,8 +3020,7 @@ Navigating the ship: The Master Teleport table shows the arrangement of capsules
 
 It is possible to remove a portal from the wall it is attached to by brute force and the application of a laser or other drill. The portals continue to work even after being removed. The Travellers need to find a portable teleport control (see page 114) before they can use a stolen portal.
 
-Portals have a maximum range of 30 light minutes
-(540,000,000km). So long as two or more portals are within range of one another, they automatically form a portal network.
+Portals have a maximum range of 30 light minutes (540,000,000km). So long as two or more portals are within range of one another, they automatically form a portal network.
 
 Note that Capsule 56 is only accessible from the teleport network, while Capsules A, B, C and D can only be reached via the nexus capsules.
 
@@ -3037,13 +3030,13 @@ Capsules without teleporters: There are four Capsules, lettered A, B, C and D, w
 
 Each capsule is spherical but the size of the capsule varies considerably. The smallest capsules are three meters in diameter; the largest is 150 meters across. All the capsules are made out of the same greenish substance. The interior of the capsules is marked with strange glyphs, which appear to be decorative. In fact, these are intelligent control interfaces for different purposes.
 
-Secondary Controls Control Pushed In Neutral Pulled Out 1 (Appearance) Opaque portal Portal displays incomprehensible information about destination
+Secondary Controls Control Pushed In Neutral Pulled Out1 (Appearance) Opaque portal Portal displays incomprehensible information about destination
 
 Transparent portal
 
 2 (Duration) Portal remains open until central button is pressed or another portal connects
 
-Portal remains open for one traversal only Portal remains open indefinitely, blocking other connections 3 (Privacy) No privacy Incoming portal sounds a warning chime; operator must approve connection
+Portal remains open for one traversal only Portal remains open indefinitely, blocking other connections3 (Privacy) No privacy Incoming portal sounds a warning chime; operator must approve connection
 
 No connections permitted
 
@@ -3056,9 +3049,7 @@ Master Teleport Capsules Binary Code Type Capsule Binary Code Type 11 00001 Part
 
 Flying Capsules: Notably, one set of controls allows a capsule to be detached from the interconnectors and flown as an independent spacecraft. Figuring out how to operate the capsules in this fashion requires an Engineer or Mechanic check.
 
-Learning to fly a capsule: Very Difficult (12+) Engineer
-(m-drive) or Mechanic check (1D days, INT) Flying a capsule: Difficult (10+) Pilot (small craft) check
-(1D seconds, DEX)
+Learning to fly a capsule: Very Difficult (12+) Engineer (m-drive) or Mechanic check (1D days, INT) Flying a capsule: Difficult (10+) Pilot (small craft) check (1D seconds, DEX)
 
 The capsules have Thrust 6 and have between 4 and 20 Hull points each. All mechanisms and subsystems are contained inside the capsule walls and cannot be accessed by the Travellers.
 
@@ -3084,14 +3075,13 @@ Nexus Nexus Capsule Adjacent Capsules 1 A, 11, 12, 13 2 B, 15, 16, 21 3 23, 24, 
 
 11,13,14,15 and 32 are partially destroyed, breached during the attack on the ship 300,000 years ago and were never repaired. They are open to the atmosphere of the gas giant. A Traveller entering one of these capsules without an HEV suit or battle dress suffers 2D damage per round and must make a Difficult (10+) STR check to move. Armor other than a HEV suit, battle dress or similar provides no protection against the intense pressure.
 
-14 – NEXUS 1 This capsule is partially destroyed. Iris hatches lead to capsules A, 11, 12 and 13. The iris hatch leading to Capsule A (the bridge) is marked with an impressive glyph that the Travellers have not seen anywhere else on the ship – clearly, whatever is behind the hatch door is very important.
+14 – NEXUS 1 This capsule is partially destroyed. Iris hatches lead to capsules A, 11, 12 and 13. The iris hatch leading to CapsuleA (the bridge) is marked with an impressive glyph that the Travellers have not seen anywhere else on the ship – clearly, whatever is behind the hatch door is very important.
 
 #### Random Encounters
 
 2D Encounter 2– 3 2D wreck darters, lurking in the shadows. 4 –5 The ship shudders as another hydrogen squall strikes it. Roll 1D. 1–2: The lights go out. 3 – 4: Artificial gravity in the capsule switches off for 2D rounds. 5–6: The capsule is cracked and the high-pressure atmosphere outside starts to push in. The capsule repairs itself in 1D minutes. 6–7 A lone wreck darter. 8 – 9 The Travellers find a single Ancients artefact (see page 113). 10–11 The Travellers find a cache of D3 Ancients artefacts (see page 113). 12 A treasure trove of 2D Ancients artefacts (see page 113).
 
-(^14162122) 23 24 26 31 33 34 35 36 42 56 43 45
-(^4651) B
+(^14162122) 23 24 26 31 33 34 35 36 42 56 43 45 (^4651) B
 52 54 53 D
 C 55 to A
 to B
@@ -3100,8 +3090,7 @@ to 45 to 43 to D
 
 #### CAPSULE MAPS
 
-**16 – TELEPORT CONTROLS** This capsule contains a stack of unattached teleport portals without associated control consoles. There is also a device floating in the center of the capsule that resembles a metal starfish that projects a constellation of lights. There are 29 lights surrounding the starfish, corresponding to the 29 functioning portals on the ship. Four of the lights have small data tags associated with them – these correspond to the locked Bridge Portal
-(Capsule A), the locked Shield Array Portal (Capsule 45), the active Generator Portal (Capsule 56) and the master Ziggurat Portal. Furthermore, if the Travellers make a portal connection, it is displayed on this map.
+**16 – TELEPORT CONTROLS** This capsule contains a stack of unattached teleport portals without associated control consoles. There is also a device floating in the center of the capsule that resembles a metal starfish that projects a constellation of lights. There are 29 lights surrounding the starfish, corresponding to the 29 functioning portals on the ship. Four of the lights have small data tags associated with them – these correspond to the locked Bridge Portal (Capsule A), the locked Shield Array Portal (Capsule 45), the active Generator Portal (Capsule 56) and the master Ziggurat Portal. Furthermore, if the Travellers make a portal connection, it is displayed on this map.
 
 Experimenting with the device lets the Travellers activate or shut down any portal on the ship, other than the Generator Portal and the Bridge Portal. They can also bring up a directory of portal addresses – they cannot translate the meanings of the glyphs but can work out that the binary codes are destinations and that there are 26 valid code combinations available to them.
 
@@ -3122,7 +3111,7 @@ If a Traveller with a PSI characteristic looks into the crystal, they suddenly f
 
 If a Traveller without PSI looks into the crystal, test that Traveller's psionic potential as shown on page 196 of the Traveller Core Rulebook. If the Traveller is discovered to have latent psionic ability, they then risk creating a duplicate.
 
-26 – NEXUS 3 Iris hatches lead to capsules 23, 24 and 34. The iris hatch to Nexus 4 (Capsule 34) is open and cannot be shut, making the two capsules into one large chamber.
+26 – NEXUS 3 Iris hatches lead to capsules 23, 24 and 34. The iris hatch to Nexus4 (Capsule 34) is open and cannot be shut, making the two capsules into one large chamber.
 
 31 – ALIEN HABITAT This capsule is a dangerous environment, so both the iris hatch and teleporter require user confirmation before opening into it. Inside, the air is a reddish mix of gases, including a high sulphur content; this poisonous atmosphere inflicts 1D damage per round on any Travellers without protective gear. The ambient temperature is 30 degrees K higher than in the rest of the ship. Looking around, the Travellers discover the sphere walls are dusty – this is the only dust the Travellers have encountered so far on the Ancients ship, other than the synthetic dirt on the upper deck. Dust implies decayed organic material.
 
@@ -3132,11 +3121,11 @@ If a Traveller without PSI looks into the crystal, test that Traveller's psionic
 
 If the Travellers have found Ancients translator devices, they can talk to the servitors. The servitors explain that the ship was attacked by a 'Usurper' who infected the vessel with a hostile virus. They are under instructions to escort the Travellers to the bridge immediately to help effect repairs.
 
-Robot Hits Locomotion Speed TL Cost Servitor 16 Grav 12m 25+ Priceless Skills Athletics (endurance) 3, Athletics (strength) 1, Electronics (computers) 3, Engineer (power) 3, Mechanic 2, Melee (unarmed) 2, Recon 2 Attacks Claws (2D) Manipulators 2 X (STR 9 DEX 12) Endurance Unlimited Traits Armor (+5), Flyer, (idle), Heightened Senses, IR/UV Vision, Small (-1) Programming Very Advanced (INT 12) Options Auditory Sensor (broad spectrum), PRIS Sensor, Transceiver 500km (advanced), Voder Speaker (broad spectrum), Wireless Data Link, Spare Slot 1
+Robot Hits Locomotion Speed TL Cost Servitor 16 Grav 12m 25+ Priceless Skills Athletics (endurance) 3, Athletics (strength) 1, Electronics (computers) 3, Engineer (power) 3, Mechanic 2, Melee (unarmed) 2, Recon 2 Attacks Claws (2D) Manipulators 2X (STR 9 DEX 12) Endurance Unlimited Traits Armor (+5), Flyer, (idle), Heightened Senses, IR/UV Vision, Small (-1) Programming Very Advanced (INT 12) Options Auditory Sensor (broad spectrum), PRIS Sensor, Transceiver 500km (advanced), Voder Speaker (broad spectrum), Wireless Data Link, Spare Slot 1
 
 If the Travellers do not have a translator device, then the servitors attempt to nonverbally coerce them to go to the bridge.
 
-The servitors attempt to bring the Travellers via the teleporter to Nexus 1 (Capsule 14) but discover that the capsule is partially damaged. They inform the Travellers that they must obtain protective equipment
+The servitors attempt to bring the Travellers via the teleporter to Nexus1 (Capsule 14) but discover that the capsule is partially damaged. They inform the Travellers that they must obtain protective equipment
 
 - and then the virus subverts the robots' minds. One of the robots lunges forward to attack the Travellers; the other three robots grab it and dismember it. During the fight, a second robot is subverted and it destroys a third machine as it is torn apart. Finally, there is only one damaged robot left – and it is then taken over by the virus. It turns on the Travellers and tries to murder them.
 
@@ -3208,9 +3197,7 @@ C – SHUTTLE While all capsules can be flown as independent space craft, this o
 
 Normally, it would take days to work out how to fly a capsule but as the flight controls are already active, the Travellers are dealing with an easier problem.
 
-Learning to fly a capsule: Difficult (10+) Engineer
-(m-drive) or Mechanic check (1D days, INT) Flying a capsule: Average (8+) Pilot (small craft) check
-(1D seconds, DEX)
+Learning to fly a capsule: Difficult (10+) Engineer (m-drive) or Mechanic check (1D days, INT) Flying a capsule: Average (8+) Pilot (small craft) check (1D seconds, DEX)
 
 If the Travellers have an Ancients translator device, they receive DM+2 to attempts to decipher the controls.
 
@@ -3333,26 +3320,21 @@ Encounter Suit: This is an Ancients spacesuit, consisting of a silver disk that 
 
 Operating the suit: Difficult (10+) Vacc Suit check (1D minutes, INT) Understanding the suit: Very Difficult (12+) Vacc Suit check (1D weeks, EDU)
 
-Translator Device: The translator device is a small ovoid that can be held in the palm of a hand or pressed onto a surface to which it will automatically adhere. To activate the translator, it must be held to the forehead
-(for the clearest signal) and the control stud pressed. The translator then scans the language center of the brain and provides a translation for any speech or text it has in its databanks. It provides the translation via ultra-low-frequency subliminal sonic beams or light beams, so the user is initially unaware of the source of the translation. The translator only works on species whose brain configuration was studied by the Ancients, so only humans, Droyne and Vargr can use the device.
+Translator Device: The translator device is a small ovoid that can be held in the palm of a hand or pressed onto a surface to which it will automatically adhere. To activate the translator, it must be held to the forehead (for the clearest signal) and the control stud pressed. The translator then scans the language center of the brain and provides a translation for any speech or text it has in its databanks. It provides the translation via ultra-low-frequency subliminal sonic beams or light beams, so the user is initially unaware of the source of the translation. The translator only works on species whose brain configuration was studied by the Ancients, so only humans, Droyne and Vargr can use the device.
 
 If the user does not hold the translator to their forehead when activating it, the machine can still function but does not get a clear scan of the user's language center. Therefore, the translation it provides is incomplete or disjointed.
 
-_Operating the translator:_ Difficult (10+) Science
-(linguistics) check (1D minutes, INT) _Understanding the translator:_ Very Difficult (10+) Science (biology) check (1D months, EDU)
+_Operating the translator:_ Difficult (10+) Science (linguistics) check (1D minutes, INT) _Understanding the translator:_ Very Difficult (10+) Science (biology) check (1D months, EDU)
 
 **Disintegrator Pistol**:  This matter disintegrator is a short black rod, small enough to be carried in one hand. There is no barrel; the disintegrator effect is emitted from a crystal panel at one end. The effect is invisible by default but secondary controls allow the user to add a visible light beam to aid with targeting. The disintegrator is capable of auto-targeting enemies, attacking with an effective DM+3 but Travellers can only use this function if they fully understand the weapon's controls. The disintegrator has a magazine of 1D shots when found and cannot be easily recharged by the Travellers.
 
-_Operating the pistol:_ Difficult (10+) Gun Combat
-(energy) check (1D minutes, INT) _Understanding the pistol:_ Very Difficult (12+) Science
-(physics) check (1D months, EDU)
+_Operating the pistol:_ Difficult (10+) Gun Combat (energy) check (1D minutes, INT) _Understanding the pistol:_ Very Difficult (12+) Science (physics) check (1D months, EDU)
 
 **Psionic Resonator**:  This device is of use only to Travellers with psionic abilities. The resonator is a belt or bandolier studded with small greenish rectangular objects. These crystals absorb the wearer's psionic power and feed it back to when needed. When the belt is worn, the user is drained of one PSI point each hour until all of the green crystals are charged (belts contain 1D+2 crystals). The user's PSI recharges normally when the belt is full. If the belt is removed, the crystals instantly discharge their energy harmlessly.
 
 A Traveller wearing a charged belt can draw PSI points from the crystals as needed.
 
-_Operating the belt:_ Automatic _Understanding the belt:_ Formidable (14+) Science
-(psionicology) check (1D months, EDU)
+_Operating the belt:_ Automatic _Understanding the belt:_ Formidable (14+) Science (psionicology) check (1D months, EDU)
 
 **Repair Tool**:  The repair tool is a curved blade, like a handheld sickle, with controls on the inner curve of the device as well as on the handle. Adjusting the controls lets the device produce all sort of effects, from microscopic manipulation to testing circuits and creating holographic images of the inside of objects. The basic function that the Travellers can access, however, is the cutting and welding function which lets them cut and repair holes in the green matter of the capsule walls on board the Ancients ship. The repair tool has a limited battery and cannot be easily recharged.
 
@@ -3360,9 +3342,7 @@ _Operating the repair tool:_ Difficult (10+) Mechanic check (1Dx10 minutes, INT)
 
 Portable Teleport Control: A portable version of the standard teleport console.
 
-Operating the control: Automatic if the Travellers have figured out how to use the other controls; otherwise Very Difficult (12+) Science (archaeology) check
-(1Dx10 minutes, INT) Understanding the control: Impossible (16+) Science
-(physics) check (1D months, EDU)
+Operating the control: Automatic if the Travellers have figured out how to use the other controls; otherwise Very Difficult (12+) Science (archaeology) check (1Dx10 minutes, INT) Understanding the control: Impossible (16+) Science (physics) check (1D months, EDU)
 
 # OTHERWORLD
 
@@ -3481,7 +3461,7 @@ Robot Hits Locomotion Speed TL Cost Disassembly Robot
 
 6m 25+ Priceless
 
-Skills Melee (blade) 3, Mechanic 1, Recon 2 Attacks Cutting Tools (1D+4), Sonic Blast (automatic hit within 20m, no damage, DM-2 to all actions for 1D rounds if the targets have no ear protection) Manipulators 4 X (STR 12 DEX 12) Endurance Unlimited Traits Armor (+7), ATV, Flyer(idle), IR/UV Vision, Large (+1) Programming Advanced (INT 9) Options Auditory Sensor, Cutting Torch (advanced), Drone Interface, Mechanical Toolkit (advanced), PRIS Sensor, Recon Sensor (enhanced), Robotic Drone Controller (advanced), Storage Compartment (8 slots standard), Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount (small), Wireless Data Link
+Skills Melee (blade) 3, Mechanic 1, Recon 2 Attacks Cutting Tools (1D+4), Sonic Blast (automatic hit within 20m, no damage, DM-2 to all actions for 1D rounds if the targets have no ear protection) Manipulators 4X (STR 12 DEX 12) Endurance Unlimited Traits Armor (+7), ATV, Flyer(idle), IR/UV Vision, Large (+1) Programming Advanced (INT 9) Options Auditory Sensor, Cutting Torch (advanced), Drone Interface, Mechanical Toolkit (advanced), PRIS Sensor, Recon Sensor (enhanced), Robotic Drone Controller (advanced), Storage Compartment (8 slots standard), Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount (small), Wireless Data Link
 
 They are programmed to ignore living beings under most circumstances. If the Travellers get too close to an active swarm, the robots attempt to drive them away by blocking their path and blasting them with painful sound or light bursts. If the Travellers persist, the robots fight back.
 
@@ -3575,8 +3555,7 @@ If the Travellers ask to be taken to a leader, Aarshur accompanies them to the c
 name: "AKIAARSHUR/GENERIC ILIMDAKI"
 skills: Animals (handling) 1, Gun Combat (slug) 1, Melee 0, Persuade 0, Profession
 
-STR 7 INT 3
-(farming) 1, Survival 1
+STR 7 INT 3 (farming) 1, Survival 1
 
 DEX 7 EDU 11 END 7 SOC 5
 Weapons: Antique Rifle (3D-3) Armor: Leather Jack (+1)
@@ -3672,8 +3651,7 @@ The metal insects encountered outside are the machine's sensor network. They tak
 
 Inside, the machine consists of a labyrinth of narrow vaulted corridors, lined with artificial wombs. These amniotic chambers can fast-grow a clone from a genetic sample to an infant within 10 hours, cramming a month of growth into every hour using variations on slow drugs. By adjusting the controls at each womb, it is possible to grow a clone to any desired age, from infancy to maturity to senility.
 
-If the Travellers were bitten by the insects outside, then their genetic material was added to the banks. Whenever the machine produces a new batch of clones
-(say, if the Hunters of Men wipe out the Ilimdaki), then copies of the Travellers will also be created. If a Traveller is killed during this section of the adventure, then they may be replaced by a clone.
+If the Travellers were bitten by the insects outside, then their genetic material was added to the banks. Whenever the machine produces a new batch of clones (say, if the Hunters of Men wipe out the Ilimdaki), then copies of the Travellers will also be created. If a Traveller is killed during this section of the adventure, then they may be replaced by a clone.
 
 #### THE PRIEST
 
@@ -3726,8 +3704,7 @@ DM-2 if the Travellers are heavily armed, accompanied by many guards or otherwis
 
 Trap: A random Traveller runs into a trap. If any Traveller has Recon 2+, or if the Travellers stated they are taking precautions, then an Average (8+) Recon check lets the Travellers detect the trap. Otherwise, roll 1D on the Traps table.
 
-Traps 1D Trap 1 Pit Trap. One Traveller must make a Difficult
-(10+) DEX check or fall, suffering 2D damage. 2 Swinging log. Roll 2D; the log hits a Traveller on an 8+ and inflicts 3D damage. 3 Snare. Roll 2D; the snare hits a Traveller on a 5+ and suspends them five meters in the air. The Traveller is stuck until rescued. 4 Poison darts. Roll 2D, subtracting a Traveller's Protection from the roll. On an 8+, the Traveller is poisoned and must make an Average (8+) END check or fall unconscious and lose 2D DEX. 5 Landmine. Roll 2D; the mine is triggered on an 8+ and inflicts 4D damage to one Traveller and 2D to the others. 6 Explosive tripwire. One Traveller must make a Difficult (10+) DEX check or all Travellers suffer 4D damage.
+Traps 1D Trap 1 Pit Trap. One Traveller must make a Difficult (10+) DEX check or fall, suffering 2D damage. 2 Swinging log. Roll 2D; the log hits a Traveller on an 8+ and inflicts 3D damage. 3 Snare. Roll 2D; the snare hits a Traveller on a 5+ and suspends them five meters in the air. The Traveller is stuck until rescued. 4 Poison darts. Roll 2D, subtracting a Traveller's Protection from the roll. On an 8+, the Traveller is poisoned and must make an Average (8+) END check or fall unconscious and lose 2D DEX. 5 Landmine. Roll 2D; the mine is triggered on an 8+ and inflicts 4D damage to one Traveller and 2D to the others. 6 Explosive tripwire. One Traveller must make a Difficult (10+) DEX check or all Travellers suffer 4D damage.
 
 Sniper: A lone Hunter in the trees fires on the Travellers. The Hunter keeps sniping at them; if they pursue, he tries to lead them into a trap.
 
@@ -3747,8 +3724,7 @@ Via Teleporter: The teleporter citadel is located on a small island in the swamp
 
 Via Cross-Country: The Travellers have to cross the jagged hills surrounding the swamp. The journey is arduous but not especially dangerous. Travellers with Survival or Science (planetology) recognize that this is an artificial environment; the hills were deliberately constructed to contain the swamp.
 
-LIFE'S RESET BUTTON The Hungry Swamp is a fetid, yellow-tinged mire that stretches for as far as the Travellers can see. The maroon-coloured mud stinks of acid and the fog that hangs above the swamp burns their skin and eyes. If the Travellers analyse the swamp mud with Science
-(biology), they discover its composition is alarmingly similar to the contents of stomach acid.
+LIFE'S RESET BUTTON The Hungry Swamp is a fetid, yellow-tinged mire that stretches for as far as the Travellers can see. The maroon-coloured mud stinks of acid and the fog that hangs above the swamp burns their skin and eyes. If the Travellers analyse the swamp mud with Science (biology), they discover its composition is alarmingly similar to the contents of stomach acid.
 
 Parts of the swamp are more acidic than others. At the upper edges of the swamp, Travellers find the mud painful to touch, but not damaging. Deeper in the swamp, the mud deals 1 damage per round of contact; immersion in the water inflicts 1D damage per round.
 
@@ -3857,7 +3833,7 @@ Robot Hits Locomotion Speed TL Cost Scavenger Drone
 
 8m 25+ Priceless
 
-Skills Athletics (strength) 3, Mechanic 1, Melee (blade) 4, Recon 2 Attacks Cutting Tools (3D+12) Manipulators 4 X (STR 15 DEX 15) Endurance Unlimited Traits Armor (+25), ATV, Flyer (idle), IR/UV Vision, Large (+2) Programming Advanced (INT 9) Options Auditory Sensor, Cutting Torch (advanced), Drone Interface, Fabrication Chamber (8 slots advanced), Mechanical Toolkit (advanced), PRIS Sensor, Recon Sensor (enhanced), Robotic Drone Controller (advanced), Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount (small), Wireless Data Link his genetically engineered creations. Prospective species were dumped into this incredibly testing environment; if they survived, that genetic line was deemed worth continuing. The original Deathzone was destroyed during the Final Wars but samples were transplanted to this hellish garden.
+Skills Athletics (strength) 3, Mechanic 1, Melee (blade) 4, Recon 2 Attacks Cutting Tools (3D+12) Manipulators 4X (STR 15 DEX 15) Endurance Unlimited Traits Armor (+25), ATV, Flyer (idle), IR/UV Vision, Large (+2) Programming Advanced (INT 9) Options Auditory Sensor, Cutting Torch (advanced), Drone Interface, Fabrication Chamber (8 slots advanced), Mechanical Toolkit (advanced), PRIS Sensor, Recon Sensor (enhanced), Robotic Drone Controller (advanced), Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount (small), Wireless Data Link his genetically engineered creations. Prospective species were dumped into this incredibly testing environment; if they survived, that genetic line was deemed worth continuing. The original Deathzone was destroyed during the Final Wars but samples were transplanted to this hellish garden.
 
 To ensure the creatures of the Deathzone did not overwhelm the other habitats, Grandfather engineered a dependence on a high level of oxygen. Both plants and animals in the Deathzone perish if removed from the high-oxygen area. Machines hidden in the jungle pump out extra oxygen to maintain the correct environment.
 
@@ -4183,8 +4159,7 @@ The Thao are a hostile species of gastropod-like (snail- like) creatures, who ar
 
 Unless the Precursors successfully plotted a safe route to Earth, the Krinyaoth encounters a Thao raider. The raider is bigger than the Krinyaoth and more heavily armed. It resembles a snail-shell, all off-white curves and force-projector horns. The Thao hail the Krinyaoth and demand they surrender their internal factory-pods and feedstock. These internal factories are automated assemblers; the Thao do not have the technological know-how to reverse-engineer these pods but covet them for their ability to produce high-tech goods.
 
-An Average (8+) Fleet check (ANL) will reveal the Thao ship is not a major threat to the Krinyaoth but it could damage the ship. An Average (8+) Economics check
-(ANL) will reveal that giving a few factory-pods to the Thao would not significantly affect the relative strengths of the two species and the Krinyaoth could build more pods. It would temporarily diminish the ship's capabilities, however.
+An Average (8+) Fleet check (ANL) will reveal the Thao ship is not a major threat to the Krinyaoth but it could damage the ship. An Average (8+) Economics check (ANL) will reveal that giving a few factory-pods to the Thao would not significantly affect the relative strengths of the two species and the Krinyaoth could build more pods. It would temporarily diminish the ship's capabilities, however.
 
 A Difficult (10+) Subterfuge check (ANL) will show that Thao sensors cannot penetrate the hull of a Droyne ship; they do not know what is in any of the ship's pods.
 
@@ -4198,8 +4173,7 @@ Combat: The Krinyaoth can fire up its short-range disintegrators, activate its f
 
 Escape the Thao; the Krinyaoth jumps to safety but the Thao raider survives: Average (8+) Fleet check (WAR).
 
-Destroy the Thao ship before it jumps out: Difficult
-(10+) Fleet check (WAR)
+Destroy the Thao ship before it jumps out: Difficult (10+) Fleet check (WAR)
 
 DESTINATION: EARTH The Droyne have few outposts on Earth but the planet is surrounded by a web of space stations and satellites. Yaskoydray has designated the native sophonts to be a species of special scientific interest, so the planet is closely guarded by automated defence stations and observatories.
 
@@ -4227,9 +4201,7 @@ Once the humans are on board and properly restrained, the Krinyaoth departs for 
 
 #### THE NEW WORLD
 
-The Precursors' designated target is a desert planet in the Trojan Reach, which will be called Cordillon
-(in the Sindal subsector) in the far future. Cordillon
-(X443423-C) is a backwater, with few natural resources. Its atmosphere is thin but breathable, especially in the deep canyons left by dried-up seas. Cordillon has almost no water outside its ice caps. There is a native ecosystem, consisting of a species of lichen, that evolved from seaweed, and a few crab- like scavengers.
+The Precursors' designated target is a desert planet in the Trojan Reach, which will be called Cordillon (in the Sindal subsector) in the far future. Cordillon (X443423-C) is a backwater, with few natural resources. Its atmosphere is thin but breathable, especially in the deep canyons left by dried-up seas. Cordillon has almost no water outside its ice caps. There is a native ecosystem, consisting of a species of lichen, that evolved from seaweed, and a few crab- like scavengers.
 
 There is also a renegade Droyne colony on the planet.
 
@@ -4283,6 +4255,8 @@ The literal nuclear option – wipe out the Consensus. WAR checks will be needed
 #### THE ART OF
 
 WAR
+
+
 **Time Period**:  -305,000
 **Ancients Tech Level**:  19 – 21 at the core; 18–19 at the fringe systems
 
@@ -4447,8 +4421,7 @@ The cyborg agents of the invaders search for the Droyne by looking for signs of 
 
 Notably, the Precursors all have personal force shields that block many forms of attack. See page 149 for details.
 
-Call for Subterfuge checks (COO), using a difficulty dependent on the precautions taken by the Precursors
-(as shown on the Subterfuge table), whenever they act. If the check fails, the cyborgs detect the Precursors' presence and start to home in on them. The first failed check means that a cyborg arrives in the nearest city; two failed checks mean the cyborgs start house- to-house searches; three failed checks draw robot assassins on the characters.
+Call for Subterfuge checks (COO), using a difficulty dependent on the precautions taken by the Precursors (as shown on the Subterfuge table), whenever they act. If the check fails, the cyborgs detect the Precursors' presence and start to home in on them. The first failed check means that a cyborg arrives in the nearest city; two failed checks mean the cyborgs start house- to-house searches; three failed checks draw robot assassins on the characters.
 
 Play up the contrast between the super-high- technology of the combatants and their primitive surroundings. If the Precursors are masquerading as alien gods of war and leading charges of mounted medieval knights against cyborg death machines, you are in the right frame of mind.
 
@@ -4504,6 +4477,8 @@ One Seven Four questions the Precursors, demanding to know what they learned abo
 The assassins are equipped with disintegrator wands. At this level of technology, personal weapons and defensive systems are immensely powerful. Anyone caught without a personal shield is instantly crippled or killed by a disintegrator blast. The cyborgs have slightly weaker personal shields that are pierced on 4- instead of 2-.
 
 SKILLS ANL
+
+
 8 Fleet 1, Ground Forces 3, Primitive Culture 2, Subterfuge 1, Uplift Engineering 2
 
 COO 10 INF 4 WAR 10
@@ -4671,6 +4646,8 @@ name: "EMYAKOY"
 ```
 
 SKILLS ANL
+
+
 8 Construction 0, Droyne Cultures 1, Economics 1, Fleet 1, Geo- Engineering 1, Ground Forces 1, Logistics 1, Primitive Cultures 2, Psionic Engineering 1, Space Engineering 0, Subterfuge 1, Synthetic Cultures 0, Uplift Engineering 2
 
 COO 8
@@ -4695,6 +4672,8 @@ name: "URD"
 ```
 
 SKILLS ANL
+
+
 4 Construction 0, Droyne Cultures 0, Economics 1, Fleet 1, Geo- Engineering 2, Ground Forces 2, Logistics 1, Primitive Cultures 2, Psionic Engineering 0, Space Engineering 0, Subterfuge 1, Synthetic Cultures 1, Uplift Engineering 1
 
 COO 6
@@ -4718,6 +4697,8 @@ name: "GVORR"
 ```
 
 SKILLS ANL
+
+
 8 Construction 1, Droyne Cultures 1, Economics 0, Fleet 0, Geo- Engineering 1, Ground Forces 2, Logistics 2, Primitive Cultures 1, Psionic Engineering 1, Space Engineering 1, Subterfuge 1, Synthetic Cultures 0, Uplift Engineering 1
 
 COO 7
@@ -4743,6 +4724,8 @@ name: "AYUDE"
 ```
 
 SKILLS ANL
+
+
 10 Construction 0, Droyne Cultures 2, Economics 1, Fleet 0, Geo- Engineering 2, Ground Forces 0, Logistics 1, Primitive Cultures 1, Psionic Engineering 2, Space Engineering 1, Subterfuge 1, Synthetic Cultures 1, Uplift Engineering 0
 
 COO 5
@@ -4770,6 +4753,8 @@ name: "ESKEKUK"
 ```
 
 SKILLS ANL
+
+
 7 Construction 1, Droyne Cultures 1, Economics 1, Fleet 1, Geo- Engineering 2, Ground Forces 1, Logistics 2, Primitive Cultures 1, Psionic Engineering 0, Space Engineering 1, Subterfuge 1, Synthetic Cultures 1, Uplift Engineering 0
 
 COO 8
@@ -4793,6 +4778,8 @@ Your kind are something new within the empire – not the hidebound Droyne, not 
 **CUSTODIAN NULL-834-DCUSTODIAN NULL-834-D**
 
 SKILLS ANL
+
+
 9 Construction 1, Droyne Cultures 0, Economics 2, Fleet 2, Geo- Engineering 1, Ground Forces 0, Logistics 2, Primitive Cultures 0, Psionic Engineering 0, Space Engineering 2, Subterfuge 2, Synthetic Cultures 2, Uplift Engineering 0
 
 COO 7
@@ -4955,8 +4942,7 @@ The leader of the squad is a Droyne named Feartay; she is an experienced Guardia
 - What they intend to do.
 - If they intend to destabilize the state.
 
-Depending on the Travellers' answers, she either brings them to the Church (if they have presented themselves as emissaries of Yaskoydray) or the Bureau of Security
-(if she thinks they are a threat).
+Depending on the Travellers' answers, she either brings them to the Church (if they have presented themselves as emissaries of Yaskoydray) or the Bureau of Security (if she thinks they are a threat).
 
 #### GETTING TO USHEN
 
@@ -5126,11 +5112,9 @@ Playing Administrator Uate: The bloodless administrator is the guardian of state
 - Show through your body language that you loathe any human Travellers.
 - Ignore the Travellers when they talk about Grandfather or alien races. Show interest only in Professor Ankor's criminal activities and the Travellers' actions among the Yaskoti.
 
-Under the Watchful Eyes: Unless the Travellers manage to conceal their presence in Ushen, they will be identified and shadowed by the Bureau of Security. Teams of black-suited Droyne stalk them wherever they go; their communications are tapped
-(if possible) and anyone they talk to is subsequently detained and interviewed by the Bureau. Staying ahead of the Bureau requires a Very Difficult (+12) Streetwise or Deception check (DEX or INT), possibly modified if the Travellers were careful to conceal their activities in Ushen.
+Under the Watchful Eyes: Unless the Travellers manage to conceal their presence in Ushen, they will be identified and shadowed by the Bureau of Security. Teams of black-suited Droyne stalk them wherever they go; their communications are tapped (if possible) and anyone they talk to is subsequently detained and interviewed by the Bureau. Staying ahead of the Bureau requires a Very Difficult (+12) Streetwise or Deception check (DEX or INT), possibly modified if the Travellers were careful to conceal their activities in Ushen.
 
-Arrested: If the Travellers give themselves away, the Bureau moves in to arrest them. Initially, this arrest comes in the shape of a group of Bureau agents
-(two per Traveller, although if they are separated, the Bureau will pick them off individually). If the Travellers
+Arrested: If the Travellers give themselves away, the Bureau moves in to arrest them. Initially, this arrest comes in the shape of a group of Bureau agents (two per Traveller, although if they are separated, the Bureau will pick them off individually). If the Travellers
 
 The Death of Grandfather resist and fight back, throw more Bureau agents at them; if the Travellers start blasting away with high- tech weapons and demonstrating why it is a really bad idea to attack someone from a civilization that's five or more Tech Levels above your own, then the Bureau sends in the marines, in the form of heavily armed soldiers and gunships.
 
@@ -5173,9 +5157,7 @@ These are second-line war machines, designed to deal with 'problems' that might 
 
 #### DROYNE TRAVELLERS
 
-If your group includes any Droyne Travellers, they are vulnerable to infection. Droyne Travellers who are bitten must make a Difficult (10+) END check to avoid infection; a successful Difficult
-(10+) Medic check made within 60 seconds of the bite allows the victim to make a second Average
-(8+) END check to avoid infection. An infected Traveller is doomed (unless the infected Traveller is also Grandfather's host, in which case they are mysteriously immune). The virus usually takes only a few minutes to subvert the host's brain but the onset time can be delayed with medication.
+If your group includes any Droyne Travellers, they are vulnerable to infection. Droyne Travellers who are bitten must make a Difficult (10+) END check to avoid infection; a successful Difficult (10+) Medic check made within 60 seconds of the bite allows the victim to make a second Average (8+) END check to avoid infection. An infected Traveller is doomed (unless the infected Traveller is also Grandfather's host, in which case they are mysteriously immune). The virus usually takes only a few minutes to subvert the host's brain but the onset time can be delayed with medication.
 
 #### OTHER DROYNE
 
@@ -5193,8 +5175,7 @@ Robot Hits Locomotion Speed TL Cost Assembler Robot
 
 112 Walker 9m 25+ Priceless
 
-Skills Athletics (strength) 4, Engineer (all) 4, Mechanic 4, Profession (construction) 6 Attacks Construction Tool (4D) Manipulators 2 X (STR 18 DEX 10) Endurance Unlimited Traits Armor (+20), ATV, Heightened Senses, IR/UV Vision, Large (+4) Programming Very Advanced (INT 12) Options Auditory Sensor, Construction Equipment (large), Drone Interface, Fabrication Chamber (32 slots advanced), Mechanical Toolkit (advanced), Mining Equipment (large), Robotic Drone Controller (advanced), PRIS Sensor, Starship Engineer Toolkit (advanced), Transceiver 500km
-(advanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+Skills Athletics (strength) 4, Engineer (all) 4, Mechanic 4, Profession (construction) 6 Attacks Construction Tool (4D) Manipulators 2X (STR 18 DEX 10) Endurance Unlimited Traits Armor (+20), ATV, Heightened Senses, IR/UV Vision, Large (+4) Programming Very Advanced (INT 12) Options Auditory Sensor, Construction Equipment (large), Drone Interface, Fabrication Chamber (32 slots advanced), Mechanical Toolkit (advanced), Mining Equipment (large), Robotic Drone Controller (advanced), PRIS Sensor, Starship Engineer Toolkit (advanced), Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 #### SCOURGE MACHINES
 
@@ -5291,8 +5272,7 @@ Then Grandfather died. Caol does not know about Seven's attack on the pocket uni
 
 Caol contacts the Travellers, no matter where they are – he has the authority to go anywhere in the Church or city, and can break into the Bureau's most secure prison with ease. If the Travellers are lost or imprisoned, he can find them and get them back on the path of the adventure.
 
-Once he finds the Travellers, he introduces himself
-(Vlen's Inheritor instantly notices that Caol reminds them of their late uncle) and demands that the Travellers tell him what happened.
+Once he finds the Travellers, he introduces himself (Vlen's Inheritor instantly notices that Caol reminds them of their late uncle) and demands that the Travellers tell him what happened.
 
 Caol's Sacrifice: Caol is much, much smarter than the Travellers. He works out (through subtle psionic probes if nothing else) that Grandfather's consciousness is hidden in one of them. Protecting that Traveller becomes Caol's primary mission. Caol leads the Travellers out of their current predicament, if any, to a safe area of the city. He then detects an incoming assassin drone. He evaluates the situation, then speaks quickly:
 
@@ -5351,8 +5331,7 @@ The human population is immune to the bizarre plague and the tunnels rapidly fil
 
 There are few surviving zombies in the tunnels; those who make it down here are beaten to death by humans defending their homes. However, as soon as the assassin drone and scourge machine attacks start in earnest, the main danger the Travellers face is the tunnels collapsing on top of them.
 
-Navigating the tunnel network without a guide is difficult and time-consuming; call for Difficult (10+) Navigate checks (INT) to find a way through. If this check fails, roll on the Tunnel Hazards table. Alternatively, the Travellers can recruit a human guide with an Average
-(8+) Diplomat or Streetwise check (INT).
+Navigating the tunnel network without a guide is difficult and time-consuming; call for Difficult (10+) Navigate checks (INT) to find a way through. If this check fails, roll on the Tunnel Hazards table. Alternatively, the Travellers can recruit a human guide with an Average (8+) Diplomat or Streetwise check (INT).
 
 #### ESCAPING THE CITY
 
@@ -5368,8 +5347,7 @@ The same fate awaits every other part of this doomed world.
 
 #### DRIVING HARD
 
-The Travellers drive or fly out of Ushen and
-(presumably) travel west, towards Ankor's secret launch facility. Across the landscape, they see fires and devastation as the scourge machines continue their search. The Travellers encounter the occasional Droyne zombie but these unfortunate creatures are now dying off – a side effect of the plague's reconfiguration of the victim's brain tissue is that it causes lesions and death within 72 hours of infection.
+The Travellers drive or fly out of Ushen and (presumably) travel west, towards Ankor's secret launch facility. Across the landscape, they see fires and devastation as the scourge machines continue their search. The Travellers encounter the occasional Droyne zombie but these unfortunate creatures are now dying off – a side effect of the plague's reconfiguration of the victim's brain tissue is that it causes lesions and death within 72 hours of infection.
 
 The western mountains are 10 hour's drive away from Ushen under normal circumstances; the journey actually takes the Travellers 16 hours, as they have to backtrack around dangerous zones and find alternate routes. As night falls, they see a fierce glow on the horizon. The burning continues through the night; the air grows hot and acrid. As the Travellers get closer, they can see a swarm of scourge machines digging a vast trench across the landscape.
 
@@ -5408,6 +5386,8 @@ If the Travellers are unable to take the drone down before it completes its insp
 
 OF
 
+
+
 GRANDFATHER'S WINGS The western mountains are known as the Mountains of Grandfather's Wings; the Yaskoti believe they symbolise the protective aspect of their distant god. The mountains are towering pinnacles of granite, with few inhabitants. The nearest town – back when there was a nearest town, as opposed to a glassy crater – is several hours away. This is the middle of nowhere.
 
 Building a secret launch facility here took years of effort. Professor Ankor could not have succeeded without sympathisers within the Bureau of Security, but there are – or, more accurately, were – many Yaskoti who chafed under the restrictive tenets of the Church, and wanted to see their species make the leap into space. The launch facility was disguised as a mine, and rocket parts and suppliers were shipped out disguised as 'mining equipment.'
@@ -5426,8 +5406,7 @@ Playing Koksayar: The Technician is on the edge of a breakdown. He was pushing h
 
 #### LAST GOODBYE
 
-If the Travellers check the base's astronomical observations, they find that there is an object in orbit that matches the size and configuration of the portal back to the original universe (if the Travellers do not think to check, then Koksayar can point this out). The Droyne refer to it as Traissthurdusa, 'little lonely Sport with a bright eye'. A Routine (6+) Astrogation or Pilot check
-(INT) lets the Travellers work out that Traissthurdusa will be within reach of the rocket if they leave soon. The launch window is only another three hours.
+If the Travellers check the base's astronomical observations, they find that there is an object in orbit that matches the size and configuration of the portal back to the original universe (if the Travellers do not think to check, then Koksayar can point this out). The Droyne refer to it as Traissthurdusa, 'little lonely Sport with a bright eye'. A Routine (6+) Astrogation or Pilot check (INT) lets the Travellers work out that Traissthurdusa will be within reach of the rocket if they leave soon. The launch window is only another three hours.
 
 The Droyne rocket is roughly equivalent to an Atlas- class rocket and can carry a payload of 20 tons to orbit. The Droyne offer the Travellers spaces on the rocket (Grandfather psionically manipulates the Droyne to ensure his chosen agents escape). The rocket can hold a crew of up to 10 if the scientific payload and other supplies are discarded; it is up to the Travellers who they wish to rescue from this dying world. If the Travellers have no preferences, then Koksayar has his technicians and staff draw lots to determine who gets to go.
 
@@ -5585,9 +5564,7 @@ skills: Admin 1, Advocate 2, Athletics (dexterity) 2, Astrogation 1, Awareness 3
 
 STR 10 INT 10
 DEX 14 EDU 10 END 10 SOC 10 PSI 15
-Enhanced Vision (TL14), Neural Comm (TL14), Psi-Drug
-(special) Weapons: Gauss Pistol (3D, AP 3, Auto 2) Armor: Cloth (+8) or Concealed Tailored Vacc Suit
-(+8)
+Enhanced Vision (TL14), Neural Comm (TL14), Psi-Drug (special) Weapons: Gauss Pistol (3D, AP 3, Auto 2) Armor: Cloth (+8) or Concealed Tailored Vacc Suit (+8)
 
 sga:  Human Male 44
 
@@ -5644,8 +5621,7 @@ On other Kinunir-class vessels, this middle deck contains the ship's small craft
 
 toiletries and other supplies are stacked in the cavernous wounds that were once hangars. The prison cells are on this deck; most cells were formerly crew quarters but troublesome prisoners may be placed in solitary confinement in the ship's old brig.
 
-Prisoner Quarters: Cells on board the Gash are spartan but not actively tortuous. Most prisoners share a room with another inmate. Each room contains two bunks, a sink and a small fold-out table. In some rooms, there is a display screen for watching videos – a heavily restricted library of entertainment programs is available from the ship's computer. Large Quarters: Some cells were originally larger barracks used by the ship's marine squads. The Travellers are placed in one of these shared cells, in the hope they will talk amongst themselves and their conversations can be recorded by the guards. Each of the larger cells contains bunk beds for 12 people, a shower and bathroom facilities (concealed behind a plastic screen), a table and chairs, and a display screen. Brig: The ship's brig was the only room on this whole deck left unchanged in the decommissioning process. The brig consists of three cells and a guard's post, which is manned at all times if there is a prisoner in solitary confinement. Sickbay: While several guards are trained in basic first aid, the prison lacks a doctor. There is a high-quality autodoc in the sickbay but if a prisoner needs medical care beyond its capacity, a naval doctor is flown in from the naval base. Gym: The ship has a well-equipped gym with treadmills, weights machines, exercise bikes and even a fencing piste (for imprisoned nobles). Cargo Elevator: The elevator that links the decks still works but is very slow and makes a loud grinding noise when in operation. The crew prefer to use inter-deck ladders and iris hatches when moving from deck-to- deck; the cargo elevator is only used for moving cargo Vehicle Airlocks: These airlocks have been welded shut and cannot be opened. Drop Capsule Tubes: Once, the ship would invert itself and launch marines through these tubes. The capsule tubes are still mostly in working order but the end of each tube has been sealed with a welded cap. Aft Airlocks: The aft airlocks still function but activating them sounds an alarm on A deck. Security Control Room: This room has been stripped of furnishings and equipment but most of the internal wiring is still intact. With the right tools and a Difficult
-(10+) Electronics (computers) check (1D minutes, INT), it is possible to switch off the alarms or override any iris hatch or airlock on B deck. Pinnace Dock: The Kinunir-class vessels all carried a pinnace; the one belonging to the Gaesh was sold off when the ship was decommissioned. The pinnace dock is now the main airlock for the prison; new inmates and supplies are brought on board via this large bay.
+Prisoner Quarters: Cells on board the Gash are spartan but not actively tortuous. Most prisoners share a room with another inmate. Each room contains two bunks, a sink and a small fold-out table. In some rooms, there is a display screen for watching videos – a heavily restricted library of entertainment programs is available from the ship's computer. Large Quarters: Some cells were originally larger barracks used by the ship's marine squads. The Travellers are placed in one of these shared cells, in the hope they will talk amongst themselves and their conversations can be recorded by the guards. Each of the larger cells contains bunk beds for 12 people, a shower and bathroom facilities (concealed behind a plastic screen), a table and chairs, and a display screen. Brig: The ship's brig was the only room on this whole deck left unchanged in the decommissioning process. The brig consists of three cells and a guard's post, which is manned at all times if there is a prisoner in solitary confinement. Sickbay: While several guards are trained in basic first aid, the prison lacks a doctor. There is a high-quality autodoc in the sickbay but if a prisoner needs medical care beyond its capacity, a naval doctor is flown in from the naval base. Gym: The ship has a well-equipped gym with treadmills, weights machines, exercise bikes and even a fencing piste (for imprisoned nobles). Cargo Elevator: The elevator that links the decks still works but is very slow and makes a loud grinding noise when in operation. The crew prefer to use inter-deck ladders and iris hatches when moving from deck-to- deck; the cargo elevator is only used for moving cargo Vehicle Airlocks: These airlocks have been welded shut and cannot be opened. Drop Capsule Tubes: Once, the ship would invert itself and launch marines through these tubes. The capsule tubes are still mostly in working order but the end of each tube has been sealed with a welded cap. Aft Airlocks: The aft airlocks still function but activating them sounds an alarm on A deck. Security Control Room: This room has been stripped of furnishings and equipment but most of the internal wiring is still intact. With the right tools and a Difficult (10+) Electronics (computers) check (1D minutes, INT), it is possible to switch off the alarms or override any iris hatch or airlock on B deck. Pinnace Dock: The Kinunir-class vessels all carried a pinnace; the one belonging to the Gaesh was sold off when the ship was decommissioned. The pinnace dock is now the main airlock for the prison; new inmates and supplies are brought on board via this large bay.
 
 C DECK C deck was the heart of the ship when in use, containing the ship's main drives, weapon banks and crew quarters. The weapons have obviously been removed from the Gaesh , as have the ship's landing legs – the Gaesh is no longer rated for atmospheric re-entry, so the whole leg armature was removed along with the particle beams. The original intent was for crew quarters to be converted to more prison cells but the prison population never rose to anticipated levels, so C deck remains uninhabited and largely unused.
 
@@ -5669,6 +5645,8 @@ This gadget is a small featureless brass rod but, when closely examined, several
 A. Observation Room B. Communications Room C. Galley D. Warden's Quarters E. Storeroom F. Guest Quarters G. Guard Ready Room H. Observation Deck I. Airlock
 
 THE GASH
+
+
 
 #### CREW OF THE GASH
 
@@ -5698,8 +5676,7 @@ Obvious Security Camera: There is a large security camera mounted in or outside 
 - initially, for the Travellers, the keywords include Ancients, Alahir, Holcess, Zhodani, Ine Givar, Vlen Backett and Ven Yasha.
 
 **Cell Walls & Ventilation Ducts:** The walls are made of metal and all access panels are welded shut, as are the entrances to the vent ducts. There is no easy way to creep out of a cell.
-**Cell Door**:  The cell doors are magnetically locked. To open a cell, a guard must call the observation post on B deck and request that the door be opened. Forcing the door requires an Impossible
-(16+) STR check. In the Emperor's Name
+**Cell Door**:  The cell doors are magnetically locked. To open a cell, a guard must call the observation post on B deck and request that the door be opened. Forcing the door requires an Impossible (16+) STR check. In the Emperor's Name
 
 Falkrik has the disconcerting habit of treating the prison hulk like it is still a functional ship of the line. He berates guards for leaving hatches open, failing to run maintenance checks on disabled systems, like the fuel lines, and any other breach of naval discipline. No-one is quite sure if Falkrik still hopes to convince the admiralty he is fit for service on board a starship, if his injuries have unbalanced his mind, or if he is just a stickler for discipline who takes his frustration out on the guards.
 
@@ -6104,8 +6081,7 @@ The shuttle approaches a battered, broken ship that must be a wreck or prison hu
 The shuttle docks and an airlock hisses open. The guards unclip your manacles and lead you off the shuttle. The prison hulk smells of sweat and recycled air. 'Welcome to the Gash' grunts one of the guards.
 'You don't exist here.'
 
-YOU DON'T EXIST HERE Arisa meets the Travellers as they leave the shuttle
-(if Arisa died earlier in the campaign, replace her with Orcio). She explains their situation:
+YOU DON'T EXIST HERE Arisa meets the Travellers as they leave the shuttle (if Arisa died earlier in the campaign, replace her with Orcio). She explains their situation:
 
 - The Travellers are being detained at the pleasure of the Emperor. They will remain here on the Gash until future notice.
 - They will be questioned on their activities since the death of Vlen Backett on Regina. Attempts to deceive or conceal information from the interrogators will not be tolerated.
@@ -6220,8 +6196,7 @@ Guard Chaon (page 194) falls sick while on duty outside the Travellers' cell. A 
 
 #### ARRESTING SAMPSON
 
-Using his telepathic abilities, Galen is able to identify Sampson as a Zhodani spy. He arrests her and has her thrown into a prison cell. Questioning Zenj
-(Sampson's Zhodani sleeper-self) gets the Travellers more information about the prison. Zenj may even accompany the Travellers once they escape the prison, offering them sanctuary in the Consulate once they deal with Grandfather.
+Using his telepathic abilities, Galen is able to identify Sampson as a Zhodani spy. He arrests her and has her thrown into a prison cell. Questioning Zenj (Sampson's Zhodani sleeper-self) gets the Travellers more information about the prison. Zenj may even accompany the Travellers once they escape the prison, offering them sanctuary in the Consulate once they deal with Grandfather.
 
 #### CONVINCING ARISA
 
@@ -6482,14 +6457,15 @@ Disintegrator gauntlets are heavy wristbands that project a field that breaks mo
 
 The gauntlets use the Melee (unarmed) or Gun Combat (energy) skills and ignore all armor. They are inexhaustible, as they recharge themselves from energy released by dissolving molecular bonds.
 
-**The Artefact**:  Grandfather's Host is drawn to a large cylindrical apparatus, just small enough to fit through a teleportal. This machine emanates a considerable amount of radiation (not enough to cause immediate damage but a worrying 1D rads per hour. When activated, the artefact projects a holographic interface. Most of the displayed information is incomprehensible to the Travellers; a Very Difficult (12+) Science
-(planetology) check (INT) lets the Traveller guess that the screens seem to be showing stellar data, describing fusion reactions and gas movement within the heart of the local primary star.
+**The Artefact**:  Grandfather's Host is drawn to a large cylindrical apparatus, just small enough to fit through a teleportal. This machine emanates a considerable amount of radiation (not enough to cause immediate damage but a worrying 1D rads per hour. When activated, the artefact projects a holographic interface. Most of the displayed information is incomprehensible to the Travellers; a Very Difficult (12+) Science (planetology) check (INT) lets the Traveller guess that the screens seem to be showing stellar data, describing fusion reactions and gas movement within the heart of the local primary star.
 
 This device is a star trigger. The Darrians discovered this technology approximately 2,000 years ago but the Ancients got there millennia before that. A star trigger alters the nuclear reactions within a star, causing it to flare or even explode. During the Final Wars, the Ancients used star trigger technology as one of their many weapons.
 
 Grandfather's Host feels an all but overwhelming compulsion to bring this artefact back to the ship.
 
 WEAPON TL RANGE DAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+
+
 
 Disintegrator Gauntlet
 
@@ -6568,15 +6544,11 @@ Patron: Engineer Khuegarkhu Payment: Estates on Forrodhkhokh Mission: Khuegarkhu
 name: "IMPERIAL MARINES"
 ```
 
-— SKILLS STR 8
-(12)
+— SKILLS STR 8 (12)
 
-INT 9 Athletics (dexterity) 2, Electronics (sensors) 1, Gun Combat (energy) 2, Heavy Weapons
-(man portable) 2, Melee
-(unarmed) 2, Recon 2, Tactics (military) 1, Vacc Suit 2
+INT 9 Athletics (dexterity) 2, Electronics (sensors) 1, Gun Combat (energy) 2, Heavy Weapons (man portable) 2, Melee (unarmed) 2, Recon 2, Tactics (military) 1, Vacc Suit 2
 
-DEX 8
-(12)
+DEX 8 (12)
 
 EDU 8
 
@@ -6603,8 +6575,7 @@ Escape in this situation is tricky – the three ships come from different angle
 
 If it were located anywhere else in the sector, Kinorb would have 100 times its population and be mentioned in the same breath as Regina and Rhylanor. It is a beautiful jewel of a garden world, with verdant plains, warm shallow oceans and a distinct lack of hostile native wildlife or pathogens. It is galactic politics, not planetology, that keeps Kinorb from being more influential. The planet is right on the edge of Vargr space and is a primary target in any border conflict.
 
-Kinorb was originally settled to support a naval base
-(since abandoned) and seeing the beauty of the world, many naval personnel retired or brought their families there. These first settlers knew the planet's precarious situation – evacuation drills and invasion preparedness are ingrained into Kinorbian culture and even a six-year old knows how to field-strip an ACR and find his way to the starport evacuation center blindfolded. Today, Kinorb is also a key trading post for merchants dealing with the Vargr. There is a distinct social divide between navy families and traders, and between humans and ex-patriate Vargr who make up an underclass of labourers and guards.
+Kinorb was originally settled to support a naval base (since abandoned) and seeing the beauty of the world, many naval personnel retired or brought their families there. These first settlers knew the planet's precarious situation – evacuation drills and invasion preparedness are ingrained into Kinorbian culture and even a six-year old knows how to field-strip an ACR and find his way to the starport evacuation center blindfolded. Today, Kinorb is also a key trading post for merchants dealing with the Vargr. There is a distinct social divide between navy families and traders, and between humans and ex-patriate Vargr who make up an underclass of labourers and guards.
 
 Patron: Second Watchman Garik Payment: Cr20000 Mission: Garik is from one of the navy families and his duty is to keep the planet in readiness for immediate evacuation. He struts like a martinet and is always convinced the Vargr are about to invade. He wants the Travellers to take him to an old naval supply depot that orbits another world in the Kinorb system to retrieve some old surface-to-orbit mini-shuttles left there in mothballs. Twist: A band of Vargr scavengers found the depot and are looting it. They are harmless teenagers but Garik assumes they are scouts for an invasion force and wants them all shot.
 
@@ -6863,8 +6834,7 @@ skills: Gun Combat (energy) 2
 STR 6 INT 9
 DEX 8 EDU 9
 END 6 SOC 7
-Weapons: Laser Pistol
-(3D+3, Zero-G) Armor: Concealed Tailored Vacc Suit (+8)
+Weapons: Laser Pistol (3D+3, Zero-G) Armor: Concealed Tailored Vacc Suit (+8)
 
 sga:  Vargr N/A N/A
 
@@ -7314,9 +7284,7 @@ skills: Gun Combat (energy) 4
 
 STR 9 INT 9
 DEX 11 EDU 9 END 8 SOC 7
-Weapons: Fusion Pistol
-(8D+8), Mesonic Rifle (6D) Armor: Ancients Light Armor
-(+18)
+Weapons: Fusion Pistol (8D+8), Mesonic Rifle (6D) Armor: Ancients Light Armor (+18)
 
 sga:  Droyne N/A N/A
 

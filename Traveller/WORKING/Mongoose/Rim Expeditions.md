@@ -2,53 +2,12 @@
 date created: 2024-08-18 11:12
 ---
 
-**RIM EXPEDITIONSRIM EXPEDITIONS**
+**RIM EXPEDITIONS**
 
-Traveller ©2023 Mongoose Publishing. All rights reserved. Reproduction of this work by any means without the written permission of the publisher is expressly forbidden.
-All significant characters, names, places, items, art and text herein are copyrighted by Mongoose Publishing.
-
-This game product contains no Open Game Content. No portion of this work may be reproduced in any form without written permission. To learn more about the Open
-Game License, please go to <http://www.mongoosepublishing.com.>
-
-This material is protected under the copyright laws of the United Kingdom and of the United States. This product is a work of fiction. Any similarity to actual people,
-organisations, places or events is purely coincidental.
-
-is a registered trade mark of Mongoose Publishing Ltd.
-
-Printed in China.
-
-**CREDITS**
-
-CLASSIC TRAVELLER
-
-Marc Miller
-
-MONGOOSE TRAVELLER
-
-**AUTHOR**
-Martin J. Dougherty
-
-**DEVELOPER**
-Matthew Sprange
-
-**LAYOUT AND GRAPHIC DESIGN**
-Sandrine Thirache
-
-**ILLUSTRATIONS**
-Shane Watson (cover and illustrations), Quentin
-Soubrouillard, Gary Trow, Lucas Bonatto Guerrini,
-Michael Leonard
-
-**PROOFING**
-Charlotte Law
-
-TRAVELLER INNER CIRCLE
-
-Andrew James, Alan Welty, Colin Dunn, M. J. Dougherty,
-Rob Eaglestone, Sam Wissa, Joshua Bell, Maksim
-Smelchak, Geir Lanesskog, Christopher Griffen
 
 CONTENTS
+
+
 INTRODUCTION 02
 THE OUTWARD URGE 04
 CONFEDERATION EXPLORATION POLICY 09
@@ -89,7 +48,7 @@ HIGH GUARD: SOLOMANI 129
 SOLOMANI EXPLORATION SHIPS AND CRAFT 135
 SOLOMANI EXPLORATION VEHICLES 155
 
-# I NTRODUCTION
+# INTRODUCTION
 
 Humans have always been great explorers, first of
 their homeworld and then of the wider cosmos. The
@@ -148,8 +107,7 @@ than those who just pile in.
 The most obvious campaign theme has the
 Travellers operating aboard an exploration ship or
 conducting missions from one of the forward bases.
-However, the focus could instead be on a world-
-taming expedition on a single distant planet, or the
+However, the focus could instead be on a world-taming expedition on a single distant planet, or the
 trials and tribulations of a supply crew carrying out
 a ‘Rim Run’ from the Solomani Confederation to
 one of the forward bases. All manner of problems
@@ -191,6 +149,8 @@ Tech Levels of any encountered peoples are likely to be
 well below those typical in Charted Space.
 
 A NOTE ABOUT THE SOLOMANI
+
+
 The Solomani have at times been portrayed as violently
 racist ‘Space Nazis’. The author would prefer to believe
 that such a society could not succeed in the long term.
@@ -284,7 +244,7 @@ just beyond its frontiers a little more thoroughly! The
 difficulties posed by long-range exploration have led to
 technological and procedural developments which have
 
-# T HE OUTWARD URGE
+# THE OUTWARD URGE
 
 in turn affected the Solomani Confederation as a whole.
 For the most part, although, the Solomani people are
@@ -293,6 +253,8 @@ compelled to explore and push outward simply because
 reference to an ancient tale from Old Terra.
 
 EARLY TERRAN EXPLORATION
+
+
 The ancestors of modern humans wandered where
 they needed in search of food and resources. It is
 known that tool-making proto-humans reached the
@@ -300,8 +262,7 @@ northern extremities of Europe around 100,000 years
 before the present. This was not exploration in the
 grand sense; it was scouting by a mobile community
 which then headed for the best prospects in terms
-of food and shelter. This small-scale model of scout-
-led nomadism characterises some space exploration
+of food and shelter. This small-scale model of scout-led nomadism characterises some space exploration
 missions, straddling the divide between border creep,
 organised exploration and transient occupation of an
 area to exploit its resources. A tribe of hunter-gatherers
@@ -371,9 +332,9 @@ themselves. It is an argument not without some merit
 but extremely irritating to those whose route onto the
 cosmic stage was just as difficult.
 
-THE FIRST^
+THE FIRST INTERSTELLAR EXPEDITIONS
 
-INTERSTELLAR EXPEDITIONS
+
 
 Naturally, exploration did not end with the surface of
 Terra. The first orbital satellite was launched in -2564.
@@ -399,8 +360,7 @@ international body was formed to direct orbital traffic
 and clear some of the debris that endangered craft
 moving through the orbital zone.
 
-This was the United Nations Space Coordination Agency
-(UNSCA). It started with a remit to make orbital traffic
+This was the United Nations Space Coordination Agency (UNSCA). It started with a remit to make orbital traffic
 safer and enforce international law in space, although
 gradually expanded into a coordinating body for global
 endeavours such as planetary defence against asteroid
@@ -410,8 +370,7 @@ techniques, and as renewed interest led to colonisation
 and exploitation projects on other bodies in the solar
 system, its remit naturally expanded.
 
-UNSCA was at the forefront of a new wave of in-
-system exploration. Its scientists developed a reliable
+UNSCA was at the forefront of a new wave of in-system exploration. Its scientists developed a reliable
 manoeuvre drive which opened up the far reaches
 of the solar system for exploration and plans were
 drawn up for a sublight mission to another star system.
@@ -449,7 +408,7 @@ the planet Vland by the Ancients, had invented the
 
 ###### The Outward Urge
 
-TRAVELLER
+
 
 jump drive themselves. They used this technology to
 expand through a vast region of space, encountering
@@ -597,6 +556,8 @@ EXPLORATION AND^
 
 EXODUS IN THE LONG NIGHT
 
+
+
 Ultimately, the Vilani Imperium was too fragile to
 be propped up by an overstretched [[Terra|Terran]] navy.
 The collapse was not immediate, nor complete,
@@ -620,8 +581,7 @@ missions but most of these were unsanctioned by the
 central government on Terra. Missions were for the
 
 most part local in origin, with a mix of [[Terra|Terran]] and Vilani
-people aboard. Some of these missions went to trailing-
-coreward and ended up on the shores of the Lesser Rift
+people aboard. Some of these missions went to trailing-coreward and ended up on the shores of the Lesser Rift
 
 - or perhaps even beyond it. Some may have wandered
 
@@ -643,6 +603,8 @@ regress to barbarism.
 EXPLORATION IN^
 
 THE IMPERIAL YEARS
+
+
 At the time the Third Imperium was founded, in
 what is now known as Year 0, a few small starfaring
 powers existed. One was the Sylean Federation,
@@ -678,7 +640,7 @@ Imperium – was more aggressive. In 588 the two
 
 ###### The Outward Urge
 
-TRAVELLER
+
 
 merged. The Imperials would say the Old Earth Union
 joined the Imperium or ‘was absorbed into it’ but it
@@ -780,6 +742,8 @@ in a particular region.
 THE CONFEDERATION NAVY^
 
 AS EXPLORERS
+
+
 The Confederation Navy undertakes or leads all
 Confederation-wide exploration attempts. In many
 cases an expedition will be staffed entirely by serving
@@ -806,7 +770,7 @@ these tasks – internal or short-range exploration is
 part of the naval mission. There is not much difference
 between scouting a new system and conducting a
 
-# C EXPLORATION POLICY
+# CEXPLORATION POLICY
 
 ## ONFEDERATION
 
@@ -846,6 +810,8 @@ construction of bases, which inevitably become hubs
 for trade and development of the surrounding area.
 
 SOLSEC
+
+
 Solomani Security, or SolSec, is as active in the
 exploration field as anywhere else. Naval ships
 are always assigned a political officer, or at least a
@@ -855,7 +821,7 @@ of interactions with people encountered during a mission.
 SolSec is also responsible for ensuring the loyalty of
 crews and installations far from home.
 
-TRAVELLER
+
 
 SolSec thus has a strong presence at forward bases,
 with a significant intelligence-analysis capability.
@@ -889,6 +855,8 @@ recreational activities and an advocate for crewmembers
 who may be struggling with aspects of the mission.
 
 OTHER EXPLORERS
+
+
 A few of the Confederation’s universities are rich
 enough to outfit exploration and scientific vessels.
 Most cannot do so but will contract corporate or
@@ -946,8 +914,7 @@ it but a contract is a contract.
 INTERNAL AND^
 
 SHORT-RANGE EXPLORATION
-The term ‘exploration’ is loosely used as a catch-
-all for all missions intended to obtain information
+The term ‘exploration’ is loosely used as a catch-all for all missions intended to obtain information
 of a non-military sort. This includes mapping new
 areas as well as chart-updating, investigation of
 specific characteristics such as ice composition on
@@ -962,8 +929,7 @@ Intelligence-gathering missions across the border into
 neighbouring states are not included in this definition
 since there is a greater risk of hostilities. In short, a
 ship with exploration orders is wary but assumes a
-peacetime situation. Reconnaissance or intelligence-
-gathering assumes potential hostility and, of course,
+peacetime situation. Reconnaissance or intelligence-gathering assumes potential hostility and, of course,
 warfighting is outright hostile.
 
 Confederation Exploration Policy
@@ -971,8 +937,7 @@ Confederation Exploration Policy
 The Confederation considers all non-aligned star
 systems within 20 parsecs of its borders to lie within
 the remit of its short-range exploration assets.
-Visits to these systems are fairly common and near-
-complete data is held on all major bodies in the
+Visits to these systems are fairly common and near-complete data is held on all major bodies in the
 system. Ring systems and planetoid belts may not
 have been charted in any detail but composition and
 the presence of dwarf planets will more than likely be
@@ -1010,8 +975,7 @@ cases significant investment will be required before the
 system becomes an economic asset.
 
 The Solomani Confederation does want to expand but
-the emphasis is on value rather than bulk. Medium-
-range exploration is generally directed towards
+the emphasis is on value rather than bulk. Medium-range exploration is generally directed towards
 finding prime worlds or valuable clusters. Ideally, a
 chain of hubs can be set up, from which neighbouring
 worlds will be exploited or perhaps colonised. The
@@ -1026,6 +990,8 @@ be kept at arm’s length.
 COREWARD AND^
 
 TRAILINGWARD EXPLORATION
+
+
 Some exploration work is undertaken in a coreward and
 trailingward direction, through the non-aligned regions
 between Solomani and Hiver territory, and towards
@@ -1068,8 +1034,7 @@ strategic aims in the region it is not hard to obtain backing
 for long-range trade missions into the sector.
 
 Although there are solid reasons for maintaining a
-presence and conducting exploration in the coreward-
-trailing region, much greater attention is given to the
+presence and conducting exploration in the coreward-trailing region, much greater attention is given to the
 open rimward frontier. It is here, according to many
 Solomani, that the future of the Confederation lies.
 These individuals are unlikely to dispute that Terra must
@@ -1130,7 +1095,7 @@ is not necessarily yes. An indirect course or more
 objectives means either a longer mission or less time
 to be spent on the main objective.
 
-# T HE EXPLORATION PROCESS
+# THE EXPLORATION PROCESS
 
 An expanded mission might require additional ships
 and personnel, which in turn means a larger budget
@@ -1165,8 +1130,7 @@ Gas giants are relatively easy to detect, whereas other
 sources of fuel such as ice asteroids or water-bearing
 terrestrial planets may not be. Good mission planning
 is based on probabilities and risk factors, so a system
-that looks like it may not have fuel is not necessarily off-
-limits. The mission plan can account for this by ensuring
+that looks like it may not have fuel is not necessarily off-limits. The mission plan can account for this by ensuring
 there are other systems with a high probability of fuel
 availability within range and laying out an approach that
 allows for refuelling.
@@ -1187,6 +1151,8 @@ commanders to make it work with whatever resources
 they end up being assigned.
 
 THE EXECUTION PHASE
+
+
 The execution phase is where the mission actually
 happens. It is broken down into components, each
 defined by its objective and what is necessary
@@ -1246,6 +1212,8 @@ explored. For this reason, points of interest are
 generally logged for follow-up missions.
 
 EXPLORATORY ADVANCE
+
+
 The term exploratory advance is applied to any
 situation where the mission is emphasising detailed
 exploration over speed of movement. This is usually
@@ -1271,12 +1239,13 @@ differently, with the mainworld as the jump target and
 refuelling to be conducted later.
 
 SPEED OF ADVANCE
+
+
 Depending on the advance posture of a ship, its
 progress can vary considerably. The Speed of Advance
 table gives an indication of how quickly the ship will
 move through star systems under each posture. The
-average monthly rate of advance assumes a jump-
-vessel, the Confederation’s fleet-mobility standard.
+average monthly rate of advance assumes a jump-vessel, the Confederation’s fleet-mobility standard.
 
 Speed of Advance
 
@@ -1295,9 +1264,11 @@ System Exploration Varies Varies
 
 ###### The Exploration Process
 
-TRAVELLER
+
 
 EXPLORING A SYSTEM
+
+
 Some ‘exploration’ occurs any time a ship passes
 through a star system. During a rapid advance this is
 usually little more than passively collecting data whilst
@@ -1385,6 +1356,8 @@ everything and that some or most of what they do know
 is questionable at best.
 
 CONTACT
+
+
 When a new intelligent species is discovered, the
 decision needs to be made as to whether or not
 to make contact. Sometimes this is dictated by
@@ -1465,7 +1438,7 @@ civilisation never becomes a threat.
 
 ###### The Exploration Process
 
-TRAVELLER
+
 
 FOLLOW-UP
 The follow-up phase logically comes after the
@@ -1581,7 +1554,7 @@ Breakthrough Index (BI) might begin at zero for many
 topics. Common sense must be applied, however. If
 there is a great deal of relevant data readily available or
 
-# T RESEARCH MECHANIC
+# TRESEARCH MECHANIC
 
 ## HE UNIVERSAL
 
@@ -1599,7 +1572,7 @@ relevant skill level applies. For example, if the
 Travellers are trying to figure out some obscure facet
 of a world’s climate and one of them has Survival,
 Navigation or a relevant Science skill at level 2 and an
-EDU of 9, BI begins at 4 (for the EDU) plus 2 (for the
+EDU of 9, BI begins at4 (for the EDU) plus2 (for the
 skill), giving a starting Breakthrough Index 6.
 
 For more obscure topics or complex subjects, BI begins
@@ -1611,6 +1584,8 @@ at all, such as the contents of an unmapped hex on the
 star map, BI starts at 0.
 
 UNIQUE INFORMATION
+
+
 Sometimes the Travellers may have some piece
 of unique information such as records of a missing
 exploration mission dating all the way back to the Rule
@@ -1619,6 +1594,8 @@ the Breakthrough Index for the target but will typically
 be worth +3–4 points.
 
 RESEARCH AND THEORETICAL WORK
+
+
 Research and theoretical work can take many
 forms ranging from listening for spacers’ rumours in
 starport bars, a detailed scientific hypothesis, and/or
@@ -1626,13 +1603,12 @@ data-mining from old charts and records. Theoretical
 work connected with a given subject generally takes
 2D days to complete after information is gathered.
 The Travellers may obtain information from various
-sources, with each valid source requiring an Average
-(8+) check to produce useful data. Only one set of
+sources, with each valid source requiring an Average (8+) check to produce useful data. Only one set of
 useful data can be obtained from any given source,
 although multiple Travellers can try to obtain the
 same type of information.
 
-TRAVELLER
+
 
 Find useful rumours, folk tales, friend-of-a-friend stories
 and other vague but potentially useful information:
@@ -1659,6 +1635,8 @@ of useful information is worth DM+2. The Effect of this
 check is added to the Breakthrough Index.
 
 REMOTE RECONNAISSANCE
+
+
 Remote reconnaissance is typically associated with
 planetary and astrographical phenomena. Data
 is collected from a distance. Typically, this means
@@ -1693,8 +1671,7 @@ result can be added to the Breakthrough Index. The
 Travellers can thus spend months collecting data until
 they have as much as they are going to get.
 
-The Electronics (sensors) check is made at Average
-(8+) difficulty, with DM-2 for standard starship or
+The Electronics (sensors) check is made at Average (8+) difficulty, with DM-2 for standard starship or
 scientific sensors, DM+0 for a good set of military or
 exploration sensors and DM+2 for an extensive survey
 or scientific suite. Twice the Effect of this check can be
@@ -1718,8 +1695,7 @@ a small city in 12D hours. Not everything will be known,
 of course, but everything obvious and some of the
 underlying details will be discovered.
 
-A survey or preliminary investigation requires a Routine
-(6+) Electronics (sensors) check. The Effect of this
+A survey or preliminary investigation requires a Routine (6+) Electronics (sensors) check. The Effect of this
 check is added to the Breakthrough Index.
 
 Surveying a whole star system takes much longer; at
@@ -1793,6 +1769,8 @@ focused expedition should be the subject of one or more
 adventures rather than a single skill check.
 
 BREAKTHROUGH INDEX
+
+
 The Breakthrough Index (see table page 20) indicates
 how much is known about the subject. This data is not
 necessarily correct but errors will be within the bounds
@@ -1846,6 +1824,8 @@ unlikely that there will be much information about it.
 CONDITIONS IN^
 
 THE RIMWARD REGION
+
+
 As far as the Solomani Confederation is concerned,
 ‘the Rimward Region’ begins an unspecified distance
 beyond the border of the Confederation. Exactly where
@@ -1854,7 +1834,7 @@ Rimward Region begins where Confederation ships
 
 The Universal Research Mechanic
 
-TRAVELLER
+
 
 **Breakthrough Index: Interstellar Exploration and Scientific Investigation**
 
@@ -1876,8 +1856,7 @@ type (giant, main sequence, etc).
 Little useful information, such as ‘structures
 linked by roads suitable for ground transport’
 or ‘disease is probably viral in nature’.
-3 Basic Presence and type of stars. Rough indication of the situation, such as ‘mid-
-tech settlement’ or ‘viral disease’, or a tenuous
+3 Basic Presence and type of stars. Rough indication of the situation, such as ‘mid-tech settlement’ or ‘viral disease’, or a tenuous
 outline of events with gaps but also some
 useful details here and there.
 4 General Presence and type of stars,
@@ -1915,16 +1894,14 @@ planetary conditions such as
 presence of atmosphere and
 surface water.
 
-Sufficient data to publish a general college-
-level textbook.
+Sufficient data to publish a general college-level textbook.
 
 8 Useful with Additional
 Detail
 
 As above, plus reasonably
 accurate estimate of first
-three planetary profile digits
-(Size, Hydrographics and
+three planetary profile digits (Size, Hydrographics and
 Atmosphere).
 
 Sufficient data to publish a well-respected
@@ -2085,8 +2062,7 @@ greatly improves the maintenance situation. Therefore,
 a ship with a properly trained military or exploration crew
 can carry out routine maintenance for an effectively
 indefinite period. The period between requirements for a
-dockyard visit is doubled if the ship has either a well-
-trained military crew (or the equivalent) or is designed
+dockyard visit is doubled if the ship has either a well-trained military crew (or the equivalent) or is designed
 for easy maintenance, and tripled if both apply. The
 Referee should determine which of these conditions
 does or does not apply – not all naval designs get it right
@@ -2154,7 +2130,7 @@ a chance of sudden drive failure or the development
 of a cascading fault. For every 50 jumps past the last
 successful overhaul, DM-1 applies to all jump attempts.
 
-# L STARSHIP OPERATIONS
+# LSTARSHIP OPERATIONS
 
 ## ONG-DURATION
 
@@ -2175,6 +2151,8 @@ no need for details.
 STAGE 1:^
 
 DETERMINE STELLAR BODIES
+
+
 The probability of a star system depends upon stellar
 density in a region. This can vary within a sector or
 even a subsector.
@@ -2200,7 +2178,7 @@ great distances. Their presence will almost certainly
 be known to the expedition planners and they will
 serve as useful points of reference for navigation.
 
-# S GENERATION
+# SGENERATION
 
 ## TAR SYSTEM
 
@@ -2227,6 +2205,8 @@ navigation, perhaps resulting in an isolated region with
 its own characteristics.
 
 BROWN DWARFS AND UNUSUAL STARS
+
+
 A brown dwarf might be referred to as a ‘sub-stellar
 object’. It has some of the characteristics of a star
 and some of a gas giant. Brown dwarfs are created
@@ -2250,7 +2230,7 @@ in an increase in size. A subgiant will continue to
 expand over millions of years, finally reaching the
 giant stage. During this period it will destroy most of
 
-TRAVELLER
+
 
 the planetary bodies it once had. Conditions in the
 system will be in a state of flux, with inner planets
@@ -2277,8 +2257,7 @@ a white dwarf. The outer layers of matter are typically
 ejected to create a nebula, although this may not be
 very impressive. What remains is a very hot and dense
 body which gradually cools over many millions of years.
-A typical example might have around half a solar mass
-(about half the mass of Earth’s sun) packed into a
+A typical example might have around half a solar mass (about half the mass of Earth’s sun) packed into a
 space little larger than a typical terrestrial planet. Such
 a body may retain some bodies in what was formerly its
 outsystem. Anything closer will have been destroyed in
@@ -2329,6 +2308,8 @@ STAGE 2:^
 DETERMINE THE PRESENCE^
 
 OF GAS GIANTS
+
+
 Gas giants are easier to detect than terrestrial (rocky)
 planets. The presence of one or more means that
 fuel can be skimmed, which will be of great interest to
@@ -2343,6 +2324,8 @@ be the system’s mainworld candidate, or in some rare
 cases there may be none. Life is possible on a gas
 
 MAPS
+
+
 The star maps in this book conform to the
 ‘planetary system’ model, so almost without
 exception if a star is indicated it has some kind
@@ -2371,8 +2354,7 @@ have a solid core but will have a central region in
 a liquid state as a result of the immense pressures
 encountered there. Higher up in the atmosphere,
 which is composed mainly of hydrogen compounds,
-pressure eventually drops to the point where human-
-crewed space vessels can survive. Expeditions have
+pressure eventually drops to the point where human-crewed space vessels can survive. Expeditions have
 occasionally been mounted into the depths of a gas
 giant’s atmosphere but operating any deeper than the
 upper layers is extremely dangerous.
@@ -2392,6 +2374,8 @@ planetary bodies and the latter puny failed stars.
 STAGE 3:
 
 GENERATE MAINWORLD
+
+
 There is no guarantee that any given system will have
 a mainworld-candidate, as noted before. If there is
 one, it will be the most potentially habitable body in
@@ -2413,7 +2397,7 @@ artificial means of support.
 
 ###### Star system Generation
 
-TRAVELLER
+
 
 If there is a life-bearing world or candidate for one in
 the system, this will be a point of interest for explorers.
@@ -2439,6 +2423,8 @@ form of life existing somewhere in the system.
 STAGE 4:
 
 GENERATE OTHER BODIES
+
+
 If the Travellers decide to explore a system in detail it
 may be necessary to generate the other bodies. This
 is only likely if something has piqued their interest –
@@ -2568,6 +2554,8 @@ species will be dying out and the overall ecosphere will
 be in a state of change.
 
 ROCKBALL ENVIRONMENTS
+
+
 The term ‘rockball’ is typically applied to airless
 worlds of any size, including planetoids. It is generally
 stretched to include trace and very thin atmospheres
@@ -2577,9 +2565,9 @@ lack of pressure means a full vacc suit or pressure
 suit is required along with temperature control and
 perhaps radiation protection. Micrometeorites are
 
-# P LANETARY ENVIRONMENTS
+# PLANETARY ENVIRONMENTS
 
-TRAVELLER
+
 
 another hazard, along with loose or jagged rocks that
 can trip a Traveller or lacerate a suit. Dust pools can
@@ -2620,6 +2608,8 @@ also indicate a rockball-type world if Hydrographics is
 very low – 0 to 1, for example.
 
 ICEBALL ENVIRONMENTS
+
+
 By convention an outsystem world with more than a
 trace of atmosphere is often referred to as an ‘iceball’
 rather than a ‘rockball’. The distinction is sometimes
@@ -2644,6 +2634,8 @@ toxic gases and possibly decontamination of suits and
 equipment that have been outside.
 
 HIGH GRAVITY ENVIRONMENTS
+
+
 Some planets are unusually dense, creating a higher
 gravity environment than would normally be expected.
 This is unlikely to be extreme, however. Gravity
@@ -2665,7 +2657,11 @@ extreme conditions at quite shallow depths.
 
 AQUATIC AND
 
+
+
 FLUID ENVIRONMENTS
+
+
 An aquatic environment assumes liquid water but does
 not necessarily have to be paired with a breathable
 atmosphere. Primitive life in the oceans may produce
@@ -2705,6 +2701,8 @@ non-water oceans and would be sufficiently different to
 the norm to merit an expedition.
 
 EXOTIC ATMOSPHERE ENVIRONMENTS
+
+
 The term ‘exotic’ covers a range of atmosphere types,
 most of which might not seem particularly strange.
 The context is ‘unusual for a place where people
@@ -2759,6 +2757,8 @@ runaway greenhouse effect which could turn the planet
 into a Venus-like hellhole.
 
 NITROGEN
+
+
 Nitrogen is an inert gas incapable of supporting
 respiration or any similar function. As a result, nitrogen
 atmosphere worlds are incapable of developing
@@ -2789,6 +2789,8 @@ nitric acid can form under certain conditions. This can
 create an irritant or corrosive atmosphere.
 
 METHANE
+
+
 Methane is not in and of itself harmful but it cannot
 support normal respiration. It is also potentially
 dangerous if oxygen is present due to the risk of
@@ -2801,7 +2803,7 @@ small leaks in ships, habitats or space suits, could lead
 
 ###### Planetary Environments
 
-TRAVELLER
+
 
 to a concentration of methane; electrical equipment or
 static electricity could cause a spark which will lead to a
@@ -2830,6 +2832,8 @@ was not an issue, the two species could co-exist or
 simply ignore one another.
 
 AMMONIA
+
+
 Ammonia atmospheres sit astride the border
 between exotic and corrosive. Although not much
 of a threat to equipment and vehicles in low
@@ -2845,6 +2849,8 @@ typically similar to those with methane atmospheres
 - large and cold with standard to high pressure.
 
 CHLORINE
+
+
 At room temperature chlorine is a greenish-yellow
 gas. It is highly toxic to humans, although in small
 concentrations is unpleasant rather than fatal.
@@ -2870,9 +2876,10 @@ energetic than their terrestrial counterparts due to
 the superior reactive properties of chlorine.
 
 SULPHUR COMPOUND
+
+
 A variety of sulphur compounds can be found in
-various types of atmospheres, ranging from non-
-irritant up to corrosive in nature. These compounds
+various types of atmospheres, ranging from non-irritant up to corrosive in nature. These compounds
 can be found in the atmospheres of otherwise
 Earth-like worlds and indeed are one of the prime
 components of smog. Thus in lower concentrations
@@ -2896,6 +2903,8 @@ to totally alien life forms.
 IRRITANT AND^
 
 CORROSIVE ATMOSPHERES
+
+
 Some atmosphere compositions are directly harmful
 to objects and people due to chemical reactions. The
 mildest of these are termed ‘irritant’ atmospheres
@@ -2938,6 +2947,8 @@ life. It is easily detected by smell and by colour but
 quickly lethal if a major leak occurs.
 
 INSIDIOUS ATMOSPHERES
+
+
 An insidious atmosphere is defined as being similar in
 nature to corrosive but capable of defeating standard
 personal protective measures in 2D hours. Most of the
@@ -2994,7 +3005,7 @@ possibilities for meaningful interaction are very small.
 
 ###### Planetary Environments
 
-# F POINTS OF INTEREST
+# FPOINTS OF INTEREST
 
 ## INDS AND
 
@@ -3092,6 +3103,8 @@ incinerates its mainworld will have widespread effects –
 and rather permanent ones in the local vicinity!
 
 ENCOUNTER
+
+
 The Travellers have encountered evidence of people.
 Most commonly this will be the ruins of a vanished
 mid-tech or lower civilisation, or a species still at the
@@ -3125,6 +3138,8 @@ based on an entirely different set of conditions to the
 oxygen-nitrogen norm.
 
 OUTSYSTEM WORLD
+
+
 There is something unusual about one or more bodies
 in the outer system. This will usually be physical
 conditions such as a highly eccentric or retrograde orbit
@@ -3134,6 +3149,8 @@ that is actually a cluster of large planetoids and dwarf
 planets orbiting about a common point.
 
 PHENOMENA
+
+
 Most points of interest are impressive or scientifically
 significant without being inexplicable. A gas giant
 with particularly beautiful rings or an incredibly
@@ -3146,9 +3163,11 @@ considered anomalies.
 
 ###### Finds and Points of Interest
 
-TRAVELLER
+
 
 ROGUE BODIES
+
+
 The system has one or more major rogue bodies
 associated with it. A gas giant in the process of
 ejecting its moons from the system, or one that is in
@@ -3158,8 +3177,9 @@ through the central system would cause utter mayhem
 which would certainly be worth studying.
 
 RUINS
-Ruins might indicate the presence of a low to mid-
-tech civilisation, or perhaps turn out to be natural
+
+
+Ruins might indicate the presence of a low to mid-tech civilisation, or perhaps turn out to be natural
 phenomena that merely resemble structures from a
 distance. Ruins on bodies where life could not evolve
 or exist unaided are of particular interest as they
@@ -3175,8 +3195,7 @@ and it might or might not be abandoned.
 
 **SIGHTING**
 
-What appears to be evidence of a starship or space-
-going creature is sighted. This may be a direct
+What appears to be evidence of a starship or space-going creature is sighted. This may be a direct
 observation or secondary evidence such as gravity
 ‘ripples’ from a jumping starship. Any new starfaring
 species is likely to be of great interest to the
@@ -3187,6 +3206,8 @@ or lost colonists from the Rule of Man who have
 regained starflight.
 
 SYSTEM COMPOSITION
+
+
 The composition of the system varies considerably
 from the norm. This may indicate additional stars
 or a distant companion with far more planets than
@@ -3198,6 +3219,8 @@ orbits. A system with more than one potentially
 habitable planet would be a rare find.
 
 STELLAR BODY
+
+
 There is something unusual about a nearby star or
 stellar body. A star system orbiting a black hole or
 neutron star, or orbiting a star that orbits one, would
@@ -3212,6 +3235,8 @@ distant companion or a rogue body passing through
 nearby space.
 
 TRANSMISSION
+
+
 The Travellers pick up what appears to be a
 transmission. It may come from an automated
 beacon or might have been transmitted long ago and
@@ -3221,6 +3246,8 @@ Alternatively, a signal could be a distress call or
 almost anything else.
 
 WINDFALL
+
+
 The Travellers get lucky, finding something useful or
 valuable. This might be directly beneficial like a rich
 source of supplies or exotic materials, or something
@@ -3281,12 +3308,11 @@ independently developed by the Major Races of
 Charted Space. A Referee can do what they like in
 their own campaign, of course, but the discovery of a
 
-# A LIENS AND POPULATIONS
+# ALIENS AND POPULATIONS
 
 new Major Race with independently developed jump
 drives would attract a lot of interest. A civilisation
-which had created some other means of faster-than-
-light travel would be a truly monumental discovery.
+which had created some other means of faster-than-light travel would be a truly monumental discovery.
 Adding a civilisation of this nature would certainly
 be interesting but the Referee needs to consider the
 implications for the campaign.
@@ -3314,6 +3340,8 @@ potential for months of campaign time spent finding
 these populations and studying them.
 
 NEW STARFARERS
+
+
 If the Referee wants starfaring aliens in the campaign
 they will need some form of faster-than-light travel. It is
 highly unlikely that the jump drive was locally invented
@@ -3329,10 +3357,9 @@ it was unfair to keep these aliens ignorant or just
 wanted to cause trouble for the Confederation.
 
 Alternatively, the aliens might have reverse-engineered
-a drive they found aboard a Solomani or Rule of Man-
-era wreck. It is also possible that an alien civilisation
+a drive they found aboard a Solomani or Rule of Man-era wreck. It is also possible that an alien civilisation
 
-TRAVELLER
+
 
 might have developed a proto-jump drive that works
 just well enough to get them to other systems. If it
@@ -3369,8 +3396,7 @@ that developed on a given world will have different
 characteristics to one that arrived from elsewhere.
 A species that runs through the whole cycle of
 development on its world of origin will usually upgrade
-and build over existing settlements even if this is sub-
-optimal. A colony may have more of a planned look
+and build over existing settlements even if this is sub-optimal. A colony may have more of a planned look
 and less legacy technology in place. Few civilisations
 will inflict upon themselves the expense of replacing
 everything as soon as it becomes obsolescent, so it is
@@ -3390,6 +3416,8 @@ point, however, direct interaction is necessary if the
 explorers want to find out more.
 
 MEETING PEOPLE
+
+
 The amount the Travellers know about a given
 culture or species can be modelled with the Universal
 Research Mechanic. As a general rule it is not possible
@@ -3420,7 +3448,7 @@ necessary for each increase and much of the data
 will be inferred and unreliable. Friendly contact and a
 reasonably free flow of information will advance BI at
 the rate of +1 every 2D days multiplied by the new BI
-level. Thus going from BI 5 to 6 (sufficient to publish
+level. Thus going from BI 5 to6 (sufficient to publish
 a layman-level book about the culture) will take 2Dx6
 days, or an average of about 42 days of interaction. It
 is not possible to achieve a BI of more than 10 without
@@ -3490,7 +3518,7 @@ This does not mean nothing is known about the worlds
 in this region; it is more that those in the know prefer to
 keep secret their advantages.
 
-# T HE CLOSE RIMWARD REGION
+# THE CLOSE RIMWARD REGION
 
 Beyond the trans-border region, a corridor roughly six
 parsecs wide pushes rimward through the Hanstone
@@ -3528,8 +3556,7 @@ arm continues rimward and slightly to spinward into
 Mithen and Hadley, whilst the Kruse Branch swings
 across to trailing as it enters the Kruse sector. This is
 largely for astrographic reasons; the Ruthless Veil and
-Darkly Veiled sectors contain a number of known time-
-space anomalies, including jump shoals and jump reefs.
+Darkly Veiled sectors contain a number of known time-space anomalies, including jump shoals and jump reefs.
 
 The trailing side of the Close Rimward Area of Interest
 is of lesser importance than the spinward sectors.
@@ -3719,8 +3746,7 @@ for support tenders. The Confederation replaced its
 x-boats with more versatile couriers. In some cases
 this meant building a new vessel around jump drives
 removed from x-boats, although later examples were
-constructed from the keel up. Many of these first-
-generation x-boat replacements, along with scout/
+constructed from the keel up. Many of these first-generation x-boat replacements, along with scout/
 couriers and survey scouts, were sent rimward to
 equip the Lubbock and Kruse bases.
 
@@ -3738,7 +3764,7 @@ support. A growing number have reached the end of
 their useful lives however and are gradually being
 cannibalised to keep others in operation.
 
-# T HE LUBBOCK ENCLAVE
+# THE LUBBOCK ENCLAVE
 
 The Horden subsector contains 22 star systems of
 which 12 are the sovereign territory of the Lubbock
@@ -3750,8 +3776,7 @@ search and rescue and territorial control.
 
 The Rimward Corridor branches in this sector, with
 the ‘local’ or ‘Kruse’ arm running directly to rimward
-into the Mithen sector before curving away to rimward-
-trailing towards Kruse. Ships headed there will almost
+into the Mithen sector before curving away to rimward-trailing towards Kruse. Ships headed there will almost
 always stop over at the Lubbock Enclave before
 completing their trip. The main arm diverts slightly
 to spinward after the Horden subsector. This is the
@@ -3789,6 +3814,8 @@ targeted by the mission, with less grand exploration
 carried out on a slower basis.
 
 AVEBURY
+
+
 Avebury is the capital and primary manufacturing
 centre for the Enclave. Its system defence flotilla might
 seem excessively strong for such a remote location
@@ -3798,13 +3825,17 @@ with suitable protection. Avebury has the only military
 shipyard in the enclave. Kingsgate could build warships
 at need but specialises in scientific and support vessels.
 
-# H ORDEN SUBSECTOR
+# HORDEN SUBSECTOR
 
 HORDEN SUBSECTOR
+
+
 
 Lubbock
 
 H
+
+
 
 Routine maintenance on ships plying the Rimward
 Corridor is normally conducted at Kingsgate but
@@ -3818,8 +3849,7 @@ local governments. All exploration and scientific data
 is marshalled here before being conveyed back to the
 Confederation. The University of Avebury is co-located
 with the Lubb, providing a mix of academic instruction
-and practical training as well as conducting cutting-
-edge research. The university owns several exploration
+and practical training as well as conducting cutting-edge research. The university owns several exploration
 vessels and in addition handles almost all scientific
 work arising from missions launched out of the Enclave.
 
@@ -3863,6 +3893,8 @@ Secretariat is content just to send the odd auditing party
 out on the long haul from Home to Avebury.
 
 HALLSTAT
+
+
 Hallstatt is not a member world of the Enclave but
 is under its control in all meaningful ways. It was
 settled during the late Rule of Man era by one of many
@@ -3915,11 +3947,13 @@ rarely produced useful results.
 
 ###### Horden Subsector
 
-TRAVELLER
+
 
 ADVENTURES IN^
 
 THE LUBBOCK ENCLAVE
+
+
 The Lubbock Enclave itself is small but there are many
 opportunities for adventure in this area. The internal
 politics of a region so far from central government can
@@ -4018,6 +4052,8 @@ to retain or regain starflight. If not otherwise indicated,
 any population should be assumed to be human.
 
 POLITIES OF KRUSE
+
+
 Humans first reached Kruse early in the Long Night,
 probably around -1750. At that time it was not
 necessarily apparent that the Second Imperium was
@@ -4051,6 +4087,8 @@ drive technology. Both set about building an interstellar
 state but in very different ways.
 
 THE SOVEREIGNTY
+
+
 One of the best equipped vessels of the flotilla landed on
 a world the crew named Insula Suverana or Sovereign
 Island. Some exploration of the surrounding area took
@@ -4087,11 +4125,10 @@ echelons of society; the Eltees and Elites, with those
 who serve the Elites directly forming a privileged
 middle class. Laws are strict and in some cases
 intended to do nothing more than remind the Eltees
-they are not as good as their overlords. The word-
-play of the two social echelons is quite deliberate and
+they are not as good as their overlords. The word-play of the two social echelons is quite deliberate and
 apparently amusing to the upper class.
 
-# K RUSE
+# KRUSE
 
 The Sovereignty, as the Elites’ little empire is named,
 consists of the homeworld and a few offworld
@@ -4129,6 +4166,8 @@ really care what anyone thinks so long as the Elites
 profit from every interaction.
 
 THE INTERSTELLAR REPUBLIC
+
+
 The other most-successful colony mission to reach
 Kruse dealt with the problem of technological
 sustainability in a much kinder but less effective
@@ -4204,7 +4243,7 @@ explosion of colonisation.
 
 ###### Kruse
 
-TRAVELLER
+
 
 As soon as a colony reached the point where it could
 support itself, it became a member of the newly-minted
@@ -4250,6 +4289,8 @@ Which of these philosophies will prevail in the long
 term remains to be seen.
 
 THE RULE OF MAN
+
+
 Sometimes referred to as the ‘Dinosaur of Kruse’,
 the self-styled Rule of Man was created by a sublight
 colony mission launched in the early days of the
@@ -4304,6 +4345,8 @@ Rule of Man must wait and hope for trade ships from the
 Enclave, a situation its leaders find quite humiliating.
 
 THE RAMMAK WORLDS
+
+
 The Rammak are a species best described as
 humanoid-ish. They have two legs and two arms
 attached to a torso not dissimilar to that of a human
@@ -4367,6 +4410,8 @@ been trying to obtain a modern Solomani jump drive by
 whatever means presented itself.
 
 THE HORDES
+
+
 The Hordes are not political entities and indeed may
 not be sentient at all. They are clouds of space-going
 creatures which drift from one system to another in a
@@ -4396,8 +4441,7 @@ It is thought that the hordes are non-sentient but
 capable of rudimentary natural telekinesis. If this is
 not their means of locomotion they must be capable of
 creating gravitic fields somehow. Samples have been
-obtained for analysis but this is a risky business. On-
-planet the main danger is the creatures’ feeding ability.
+obtained for analysis but this is a risky business. On-planet the main danger is the creatures’ feeding ability.
 They prefer to embed themselves in soil, leaching
 minerals by way of extruded fibres. These create a
 wide dead zone around the creature, poisoning the soil
@@ -4427,8 +4471,7 @@ trait of the more intelligent species.
 ###### Kruse
 
 The Adams subsector is characterised by sparse star
-systems towards its coreward end. The coreward-
-trailing corner is considered to be part of the Hoydell
+systems towards its coreward end. The coreward-trailing corner is considered to be part of the Hoydell
 Chaos, a region of spacetime anomalies displaying
 the characteristics of both a reef and a shoal. Transits
 through the Chaos are characterised by a higher than
@@ -4506,15 +4549,19 @@ Watchtower
 
 0704 D533267-D Ht, Lo, Po Solomani G
 
-# A DAMS SUBSECTOR
+# ADAMS SUBSECTOR
 
 ADAMS SUBSECTOR
+
+
 
 Kruse
 
 A
 
-TRAVELLER
+
+
+
 
 support research into astrographic conditions within
 the Chaos. For the most part this involves collecting
@@ -4550,7 +4597,7 @@ basis’ to deal with some pressing need.
 
 ###### Adams Subsector
 
-# B ARRATT SUBSECTOR
+# BARRATT SUBSECTOR
 
 Name Location Bases Statistics
 
@@ -4605,9 +4652,13 @@ Sometimes 1207 D524267-D Ht, Lo Solomani G
 
 BARRATT SUBSECTOR
 
+
+
 Kruse
 
 B
+
+
 
 The coreward end of the Barratt subsector is within
 Hoydell’s Chaos and some systems in the rimward end
@@ -4640,6 +4691,8 @@ the Chaos it has not been possible to study the
 inhabitants in any detail.
 
 SOMETIMES
+
+
 Sometimes is named for the fact that it is sometimes
 within the Chaos. This is shorthand for a complex
 situation whereby the incidence of spacetime
@@ -4673,18 +4726,18 @@ Had the founders of the Kruse Enclave realised how
 difficult it would be to develop this system they might
 have passed up the opportunity, but once significant
 investment had been made it seemed that something
-ought to be done with it. The end result was a semi-
-independent Solomani colony which is developing into
+ought to be done with it. The end result was a semi-independent Solomani colony which is developing into
 a small interstellar power.
 
 TROPHY
+
+
 Trophy was colonised by a mission launched during
-the early days of the Rule of Man. Although jump-
-capable ships were available, it was decided to make
+the early days of the Rule of Man. Although jump-capable ships were available, it was decided to make
 use of a partially built sublight vessel dating from the
 Interstellar Wars period. The colonists passed through
 
-# C HASE SUBSECTOR
+# CHASE SUBSECTOR
 
 Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giants
 Chase 1702 1702 XXXXXXX-X G
@@ -4737,11 +4790,15 @@ with what they could find or extract. Trophy was a
 
 CHASE SUBSECTOR
 
+
+
 Kruse
 
 C
 
-TRAVELLER
+
+
+
 
 hospitable world with abundant resources but even
 so the colonists faced an uphill struggle. Machinery
@@ -4806,7 +4863,7 @@ against all other starfaring powers.
 
 ###### Chase Subsector
 
-# D ROWER SUBSECTOR
+# DROWER SUBSECTOR
 
 Name Location Bases Statistics
 
@@ -4858,9 +4915,13 @@ Drower 3207 3207 X7A9000-0 Ba, Fl G
 
 DROWER SUBSECTOR
 
+
+
 Kruse
 
 D
+
+
 
 The Drower subsector is influenced by the Chaos but
 is for the most part clear of its effects. Astrographically,
@@ -4885,6 +4946,8 @@ recent years, although there does not appear to have
 been any effort to colonise.
 
 KINSISSI
+
+
 Kinsissi is the site of Research Base Drower, a multi-part
 facility dedicated to supporting operations into OutReach
 and RimReach. The presence of a parasitic life form
@@ -4919,8 +4982,7 @@ Main, providing security and assistance to ships
 headed for the Kruse Enclave. However, bases need
 industry and industry needs resources... and all
 
-of that requires people. The base became a semi-
-independent world with its own government and that
+of that requires people. The base became a semi-independent world with its own government and that
 government began taking control of other worlds.
 
 The ‘Eberhardt landgrab’, as it is known, has been
@@ -4980,15 +5042,19 @@ Nonchalance 0317 B5497C8-C Ht Solomani G
 
 Spellbound 0615 Po, Ni ECR G
 
-# E BERHARDT SUBSECTOR
+# EBERHARDT SUBSECTOR
 
 EBERHARDT SUBSECTOR
+
+
 
 Kruse
 
 E
 
-TRAVELLER
+
+
+
 
 annexing territory on an important supply route, it is
 something quite different when a corporation from ‘back
@@ -5032,6 +5098,8 @@ sparsely populated as Kruse sector it may become
 significant in the long term.
 
 EBERHARDT PRIME
+
+
 Eberhardt Prime is a lush, watery world chosen
 for its ability to feed a colony rather than planetary
 industrial resources. Its cities are mostly built on
@@ -5074,8 +5142,7 @@ a change in policy. Wars of reconquest, however
 small, are likely to be less effective and more
 expensive than pumping money into the colonies.
 Families from Prime are offered generous grants to
-resettle in the colonies, which are receiving long-
-overdue investment. This is happening rather late
+resettle in the colonies, which are receiving long-overdue investment. This is happening rather late
 in the day, however, with some colonies having little
 functional high-tech equipment left.
 
@@ -5096,9 +5163,10 @@ entirely honour the deal.
 ###### Eberhardt Subsector
 
 NONCHALANCE
+
+
 Nonchalance was chosen as the first ECR colony
-for its abundance of resources on-planet and in-
-system. It is less welcoming than other worlds on the
+for its abundance of resources on-planet and in-system. It is less welcoming than other worlds on the
 main and was always intended to be a possession
 of Eberhardt Prime. After a period of heavy initial
 investment the ECR largely ignored the mainworld,
@@ -5109,8 +5177,7 @@ responsibilities but few rights, the populace made
 representations to the central ECR government
 and were entirely ignored. At this point, a cadre
 of hardliners emerged to lead an independence
-movement that went straight from protesting ill-
-treatment to planning revolution.
+movement that went straight from protesting ill-treatment to planning revolution.
 
 To ECR observers, the Nonchalance problem began
 to die down. There was a little unrest but no threat was
@@ -5123,8 +5190,7 @@ plans and when the time was right they struck.
 The revolution was almost bloodless. The orbital port
 was seized in a matter of hours and several craft
 were seized. A jump-capable mining platform was
-also taken, although others escaped. The non-jump-
-capable elements of the mining fleet were forced to
+also taken, although others escaped. The non-jump-capable elements of the mining fleet were forced to
 surrender and within days the first of them had been
 converted into crude combat vessels. The ECR had
 
@@ -5136,8 +5202,7 @@ made its case for independence as a member world of
 the Confederation and the Kruse Enclave.
 
 The arrival of ECR space forces in-system was
-something of an anti-climax. Demands and counter-
-demands flew back and forth, and a few missiles
+something of an anti-climax. Demands and counter-demands flew back and forth, and a few missiles
 were exchanged. Nothing decisive was achieved
 and neither side wanted to press for a decisive clash
 they might not win. After this, the ECR switched to a
@@ -5177,7 +5242,7 @@ civilisations out. It also ensured the boundaries of
 Solomani territory were clear, which could have
 diplomatic benefits in the future.
 
-# F RENCH SUBSECTOR
+# FRENCH SUBSECTOR
 
 The central cluster is considered the territory of the
 Solomani Confederation and its local enclave, and
@@ -5232,11 +5297,15 @@ Ocean
 
 FRENCH SUBSECTOR
 
+
+
 Kruse
 
 F
 
-TRAVELLER
+
+
+
 
 With the exception of Karkazis, the worlds of the
 Enclave are not hospitable. That might pose a
@@ -5250,6 +5319,8 @@ point in the future, suitable worlds will be selected
 elsewhere in the sector.
 
 KARKAZIS
+
+
 Karkazis is the breadbasket for the Kruse installation. It
 was colonised before Kruse itself began construction,
 with contingents of colonists shipped in throughout the
@@ -5293,6 +5364,8 @@ as civil disobedience resulting from a difference of
 opinion about a new work of art.
 
 KRUSE PRIME
+
+
 The Kruse system is named, like many astrographic
 features in the region, for a prominent [[Terra|Terran]]
 anthropologist. There is no mainworld as such in this
@@ -5347,7 +5420,7 @@ covertly before attempting any sort of approach. The
 opportunities to further the science of anthropology
 offered by these regressed communities was one
 
-# G OWER SUBSECTOR
+# GOWER SUBSECTOR
 
 Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giants
 Collapse 2317 X586772-0 Ag, Ri, Lt G
@@ -5403,9 +5476,13 @@ for the early colonisation missions. Colonies were
 
 GOWER SUBSECTOR
 
+
+
 Kruse
 
 G
+
+
 
 established in several systems on or close to the
 crescent, although not all of them survived. This is
@@ -5414,6 +5491,8 @@ sector, lying as it does close to the Enclave and on
 the easiest route to trailingward.
 
 MANNYWEN
+
+
 The colony on Mannywen did better than most others,
 despite having to contend with a tainted atmosphere,
 severe volcanism and contamination of the soil. Large
@@ -5431,6 +5510,8 @@ How a party from Mannywen will fare in a modern
 starfaring state is an open question.
 
 NASCA
+
+
 The human population on Nasca have not been
 contacted. Their own name for their world is unknown
 and the one assigned is a supposedly humorous
@@ -5461,12 +5542,11 @@ of society on Nasca would make it difficult to completely
 expunge all information on the subject. If this is the
 case, contact should not be damaging to the Nascans.
 However, it is not a priority and in the meantime the
-anthropologists are glad of the opportunity to study low-
-tech humans ‘in the wild’, as it were.
+anthropologists are glad of the opportunity to study low-tech humans ‘in the wild’, as it were.
 
 ###### Gower Subsector
 
-# H AGAN SUBSECTOR
+# HAGAN SUBSECTOR
 
 Name Location Bases Statistics
 
@@ -5530,11 +5610,15 @@ Whisper 2816 C131545-9 Ni, Po Interstellar Republic G
 
 HAGAN SUBSECTOR
 
+
+
 Kruse
 
 H
 
-TRAVELLER
+
+
+
 
 The Hagan subsector is characterised by a cluster of
 10 star systems, with a two-parsec route to all others.
@@ -5550,18 +5634,17 @@ this has focused attention within the cluster, other than
 some attempts at trade missions to the Enclave.
 
 PROMISE
+
+
 Promise is the homeworld of the Interstellar Republic
 and for many decades was its only possession.
 After regressing all the way to TL4, Promise made
 a slow but carefully managed resurgence. Its jump
 drive technology is its own, carefully preserved since
 the days of the Rule of Man-era colony mission.
-Promise has the knowledge necessary to build jump-
-2 ships despite its overall Tech Level being a low 9.
+Promise has the knowledge necessary to build jump-2 ships despite its overall Tech Level being a low 9.
 However, this would require risky prototyping and
-finding ways to replicate TL11 components. Risk-
-averse Promise prefers to construct its proven two-
-jump-2 vessels for the time being.
+finding ways to replicate TL11 components. Risk-averse Promise prefers to construct its proven two-jump-2 vessels for the time being.
 
 Negotiations are ongoing with the Enclave for
 technological assistance, including help with the
@@ -5577,6 +5660,8 @@ justify giving technology to a foreign state but actual
 records from the Rule of Man might be.
 
 SHACKLEY
+
+
 Shackley is an Enclave outpost-colony, situated
 close to the coreward-trailing corner of the sector
 as a staging post for missions into Darkly Veiled
@@ -5599,7 +5684,7 @@ Enclave has more hands to get things done.
 
 ###### Hagan Subsector
 
-# I VY SUBSECTOR
+# IVY SUBSECTOR
 
 Name Location Bases Statistics Trade Codes
 
@@ -5640,9 +5725,13 @@ Rammak Outpost 0628 C510406-8 Ni Rammak G
 
 IVY SUBSECTOR
 
+
+
 Kruse
 
 I
+
+
 
 The primary astrographic feature in Ivy is known to
 humans as the Endelli Chain, after the first captain
@@ -5665,6 +5754,8 @@ refers to Rammak, although there may be minor
 species as yet undiscovered.
 
 RAMMAK CLAIM
+
+
 The rockball mainworld at 0807 is of little value except
 that it lies one parsec from the Rammak homeworld.
 It is thought that this was the destination of their first
@@ -5703,11 +5794,12 @@ leadership will use a harassment incident as a pretext
 and go in to find out... sooner or later.
 
 RAMMAK HOME
+
+
 Humans can only approximate the words said by the
 Rammak and many of them do not translate very
 well. The label ‘Rammak Home’ was applied by the
-Enclave as an approximate translation of a difficult-
-to-pronounce and very long string of words. The
+Enclave as an approximate translation of a difficult-to-pronounce and very long string of words. The
 world itself is habitable by humans, which creates
 a possible bone of contention if the Confederation
 decides to colonise the sector and the Rammak gain
@@ -5737,9 +5829,11 @@ grounds on their new worlds?
 
 ###### Ivy Subsector
 
-TRAVELLER
+
 
 RAMMAK TRAVELLERS
+
+
 Rammak Travellers generate their characteristics
 in a similar manner to humans, with the following
 considerations.
@@ -5753,6 +5847,8 @@ of respect an outsider is willing to give. This will
 vary greatly depending on circumstances.
 
 TRAITS
+
+
 Rammak Travellers possess the following traits:
 
 ALL-ROUND PERCEPTION
@@ -5768,6 +5864,8 @@ to sneak up on a Rammak or otherwise
 physically surprise them suffers DM-2.
 
 SPECIALISED LIMBS
+
+
 The limbs of a Rammak are well adapted to
 climbing, reaching into awkward spaces and similar
 actions. DM+2 applies to checks in all such situations.
@@ -5786,6 +5884,8 @@ EDU 8
 SOC 8
 
 SKILLS
+
+
 Athletics (dexterity) 1, Engineer (power) 1,
 Mechanic 1, Vacc Suit 1, plus 1-2 levels of
 shipboard skills such as Pilot or Gunner
@@ -5900,9 +6000,9 @@ Hull 4,000 tons, Standard — 1000
 
 Armour Titanium Steel, Armour: 1 100 25
 
-M-Drive Thrust 1 (reverse-engineered) 120 360
+M-Drive Thrust1 (reverse-engineered) 120 360
 
-J-Drive Jump 2 (reverse-engineered) 425 1275
+J-Drive Jump2 (reverse-engineered) 425 1275
 
 Power Plant Fusion (TL8), Power 320 x4 128 64
 
@@ -5944,8 +6044,12 @@ Estimated to be around
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr25626/month
 PURCHASE COST
+
+
 MCr3075.16
 
 Power Requirements
@@ -5969,7 +6073,11 @@ Systems
 **DECK 2**
 
 MISSILE
+
+
 TOWER
+
+
 
 1. Jump Drive
 2. Power Plant
@@ -6056,7 +6164,7 @@ encountered in Jain 0503. These vessels loiter for
 months without conducting any sort of exploration or
 even moving around the system. No surface activity
 
-# J AIN SUBSECTOR
+# JAIN SUBSECTOR
 
 Name Location Bases Statistics Trade Codes Travel Code Allegiance
 
@@ -6098,11 +6206,12 @@ to–time. Unlike other systems, there have been no
 harassment incidents to date.
 
 CENTTI
+
+
 Of the three known [[Terra|Terran]] colonies in Jain, two crashed
 all the way back to barbarism. Centti did not, although it
 got most of the way before stabilising and beginning a
-recovery. Today, the world is divided into small nation-
-states, most possessing TL6 technology, with others
+recovery. Today, the world is divided into small nation-states, most possessing TL6 technology, with others
 at the late TL5 level. Open contact has been made but
 the situation is complicated by antagonism between
 some of the states. In most cases the origins of these
@@ -6111,11 +6220,15 @@ always someone who can cite specific incidents.
 
 JAIN SUBSECTOR
 
+
+
 Kruse
 
 J
 
-TRAVELLER
+
+
+
 
 The wreckage of the original colony ship has been
 identified by Enclave explorers. The locals seem
@@ -6176,7 +6289,7 @@ permission for colonisation has not been sought.
 
 ###### Jain Subsector
 
-# K ANE SUBSECTOR
+# KANE SUBSECTOR
 
 Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giants
 Buojed 2329 E445774-1 Ag, Lt G
@@ -6227,9 +6340,13 @@ Retele 1829 X566774-4 Lt, Ri G
 
 KANE SUBSECTOR
 
+
+
 Kruse
 
 K
+
+
 
 Kane contains a scattering of worlds, with no
 significant mains or clusters. It was the target for
@@ -6256,6 +6373,8 @@ abandoned as civilisation broke down and became
 unable to support such large communities.
 
 ISKULENN
+
+
 Iskulenn has retained a central government but at
 the price of implementing a rather nasty religious
 dictatorship. Contact has been made, although
@@ -6287,6 +6406,8 @@ home. Those who venture out without its protection and
 guidance risk being lost forever.
 
 REQUARRE
+
+
 Requarre is typical of the colonies that regressed but
 regained some technology. Despite having gone through
 difficult times its people remained relatively unified,
@@ -6312,7 +6433,7 @@ operated in this subsector.
 
 ###### Kane Subsector
 
-# L UOMALA SUBSECTOR
+# LUOMALA SUBSECTOR
 
 Name Location Base Statistics Trade Codes Travel Code Allegiance Gas Giants
 Luomala 2526 2526 X667000-0 Ba, Ga
@@ -6361,11 +6482,15 @@ star system itself. These intermittent emissions were
 
 LUOMALA SUBSECTOR
 
+
+
 Kruse
 
 L
 
-TRAVELLER
+
+
+
 
 initially thought to be produced artificially and therefore
 a sign of intelligent life, but their characteristics have
@@ -6376,6 +6501,8 @@ years since they were first detected. Investigation is not
 assigned a high priority by the Kruse Enclave.
 
 FORSSEI
+
+
 The only known human population in the subsector
 resides on Forssei. They are something of an enigma,
 displaying a great deal of genetic drift away from
@@ -6383,8 +6510,7 @@ the human norm. Indeed, the physical proportions
 of these people and their general appearance is
 sufficiently different to the rest of the Solomani people
 that questions have been raised about their origins.
-Normally, when a population is discovered in some far-
-off place the Ancients are assumed to be responsible
+Normally, when a population is discovered in some far-off place the Ancients are assumed to be responsible
 and this has been postulated. However, there is little
 evidence of Ancients activity in the region.
 
@@ -6414,6 +6540,8 @@ in isolation, the opportunity to observe the effects of
 offworld contact is a fascinating one.
 
 FRANKLIN
+
+
 The mainworld of the otherwise strangely empty 0603
 system is a super-earth whose eccentric orbit centres
 on the barycentre of a pair of binary gas giants. There
@@ -6459,8 +6587,7 @@ science ship and her heroic crew, and whilst the
 official permanent population is 100 personnel staff
 the improvised base there. Franklin is a dangerous
 and arduous posting, and therefore one of the
-‘positions of honour’ in the exploration of Kruse. Semi-
-regular supply and support missions rotate personnel
+‘positions of honour’ in the exploration of Kruse. Semi-regular supply and support missions rotate personnel
 and take the data they have gathered back to Kruse
 itself. Typically, these missions consist of more than
 one ship. A vessel will usually remain in orbit over
@@ -6494,7 +6621,7 @@ Dragons. Long-distance instrumentation suggests
 an ordinary star system with a typical mix of planets,
 with nothing to suggest the system is worth the effort
 
-# M ULLINGS SUBSECTOR
+# MULLINGS SUBSECTOR
 
 Name Location Bases Statistics
 
@@ -6530,6 +6657,8 @@ systems awaiting exploration, so HBD may not be
 mapped for a very long time – if ever.
 
 ABITORRA
+
+
 Abitorra is arguably a showcase for the worst the
 Solomani people are capable of. Arriving late in the
 Rule of Man era, a small population of arrogant and
@@ -6549,9 +6678,13 @@ robots and money than sense, and set about creating
 
 MULLINGS SUBSECTOR
 
+
+
 Kruse
 
 M
+
+
 
 a paradise for themselves at the expense of the locals.
 Exploration of the surrounding systems found nobody
@@ -6560,8 +6693,7 @@ dismantled and used to found high-tech cities.
 
 Naturally, there was conflict among the conquerors,
 significantly reducing their already small numbers.
-Sappil made lousy troops but were used as cannon-
-fodder without mercy. They rebelled several times but
+Sappil made lousy troops but were used as cannon-fodder without mercy. They rebelled several times but
 were put down hard each time, again at the expense
 of a few human lives. After decades of conflict the final
 victors established a corporate style of government
@@ -6609,6 +6741,8 @@ patronising friendship into a mutually prosperous future.
 Brutal oppression is the province of amateurs.
 
 TUMMULDT
+
+
 Tummuldt is a chaotic hotbed of small human states, all
 of which seem to be in conflict with one another at least
 some of the time. Armed with gunpowder weapons
@@ -6668,7 +6802,7 @@ to TL11 equipment manufactured on the homeworld.
 However, the sustainable technology of all worlds
 other than Insula Suverana is TL7 and even on the
 
-# N EYZI SUBSECTOR
+# NEYZI SUBSECTOR
 
 Name Location Bases Statistics
 
@@ -6720,9 +6854,10 @@ or through the local Elites if they want to trade in
 anything more advanced.
 
 BOUNDARY
+
+
 Boundary is what passes for a diplomatic and military
-outpost in the Sovereignty. The world itself is a near-
-worthless rockball, whose importance comes from
+outpost in the Sovereignty. The world itself is a near-worthless rockball, whose importance comes from
 location and use. Mission to the Kruse Enclave and
 the Interstellar Republic are staged out of the starport
 before picking their way across Kane. The vessels
@@ -6730,11 +6865,15 @@ involved are typically armed trade ships, tasked with
 
 NEYZI SUBSECTOR
 
+
+
 Kruse
 
 N
 
-TRAVELLER
+
+
+
 
 going out of their way to ‘demonstrate freedom of
 navigation’ in the Interstellar Republic’s vicinity before
@@ -6762,6 +6901,8 @@ powerful enough to rival the homeworld... a fact the
 central authorities are not likely to forget.
 
 INSULA SUVERANA
+
+
 Homeworld and governmental centre of the
 Sovereignty, Insula Suverana is rather dry, with
 a basic ecosystem of its own. This has been
@@ -6812,7 +6953,7 @@ their holdings to subordinates.
 
 ###### Neyzi Subsector
 
-# O STHOFF SUBSECTOR
+# OSTHOFF SUBSECTOR
 
 Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giant
 Camp Osthoff 2133 D576267-D Ht, Lo Solomani G
@@ -6851,9 +6992,13 @@ Osthoff 2439 2439 XXXXXXX-X G
 
 OSTHOFF SUBSECTOR
 
+
+
 Kruse
 
 O
+
+
 
 The Osthoff subsector is relatively dense as the region
 goes, with a significant cluster of systems in the centre
@@ -6877,6 +7022,8 @@ subsector but few worlds have been properly explored
 and some have not been visited at all.
 
 CAMP OSTHOFF
+
+
 Recently established by the Kruse Enclave for the
 exploration of the central cluster and later the rimward
 end of the subsector, Camp Osthoff is intended
@@ -6985,9 +7132,11 @@ Pletneva 3238 3238 XXXXXXX-X G
 Pletneva 3239 3239 XXXXXXX-X G
 Thusfar 2636 X542000-0 Ba, Po G
 
-# P LETNEVA SUBSECTOR
+# PLETNEVA SUBSECTOR
 
 ENCOUNTER
+
+
 Encounter is a potentially habitable world, or rather
 it once was. Today its ecosystem is dying due to an
 invasive species, phenomenon or whatever else it
@@ -7011,9 +7160,13 @@ area they inhabit is hazardous. For that reason they are
 
 PLETNEVA SUBSECTOR
 
+
+
 Kruse
 
 P
+
+
 
 2532
 
@@ -7161,15 +7314,23 @@ To Osthoff
 To subsector
 To subsector
 ENCOUNTER
+
+
 _X-0_
 X887000-0
 THUSFAR
+
+
 _X-0_
 X542000-0
 PLETNEVA
+
+
 _X-0_
 X100000-0
 PLETNEVA
+
+
 2539
 _X-X_
 XXXXXXX-XPLETNEVA
@@ -7178,6 +7339,8 @@ _X-X_
 XXXXXXX-X
 XXXXXXX-X
 PLETNEVA
+
+
 2932
 _X-0_
 X200000-0 PLETNEVA
@@ -7185,50 +7348,72 @@ X200000-0 PLETNEVA
 _X-0_
 X57A000-0
 PLETNEVA
+
+
 3037
 _X-X_
 XXXXXXX-X
 PLETNEVA
+
+
 3136
 _X-X_
 XXXXXXX-X
 PLETNEVA
+
+
 3137
 _X-X_
 XXXXXXX-X
 PLETNEVA
+
+
 3138
 _X-X_
 XXXXXXX-X
 PLETNEVA
+
+
 3139
 _X-X_
 XXXXXXX-X
 PLETNEVA
+
+
 3038
 _X-X_
 XXXXXXX-X
 PLETNEVA
+
+
 3238
 _X-X_
 XXXXXXX-X
 PLETNEVA
+
+
 3239
 _X-X_
 XXXXXXX-X
 PLETNEVA
+
+
 3039
 _X-X_
 PLETNEVA
+
+
 2631
 _X-0_
 X111000-0
 PLETNEVA
+
+
 2540
 _X-X_
 XXXXXXX-X
 
-TRAVELLER
+
 
 being studied in the Encounter system first, in order to
 be prepared for whatever awaits in what may or may
@@ -7242,6 +7427,8 @@ but the possibility that the Hordes might be a threat in
 the long term ensures a continued effort.
 
 HORDE ENCOUNTERS
+
+
 An individual horde member might be anything from
 five metres along its main axis to over a kilometre, with
 thickness and mass increasing proportionately. It has
@@ -7272,8 +7459,7 @@ DM+2, whereas weapon fire adds DM+4.
 
 If Travellers want to try to reduce the chance of a
 response by manoeuvring very gently and reducing their
-ship’s emissions, they may apply the Effect of an Average
-(8+) Pilot or Tactics (naval) check as a negative DM.
+ship’s emissions, they may apply the Effect of an Average (8+) Pilot or Tactics (naval) check as a negative DM.
 
 Horde Response
 2d+DMs Response
@@ -7312,6 +7498,8 @@ a large individual) attacks will be to the death, whereas
 smarter hordes may sacrifice some whilst others escape.
 
 HORDE CHARACTERISTICS
+
+
 A creature under 20 metres in length can be
 considered completely unintelligent and contributes
 nothing perceptible to the group intellect. Those in
@@ -7410,6 +7598,8 @@ of large-scale contamination the only sure option is to
 take off and nuke the site from orbit. Repeatedly.
 
 THUSFAR
+
+
 Thusfar represents the deepest penetration rimward
 into the subsector the Kruse Enclave has yet achieved.
 For reasons connected more with pride than with
@@ -7448,6 +7638,8 @@ of these is a two-sector area of operations with its own
 unique challenges and potential discoveries.
 
 TWO VEILS
+
+
 The Ruthless Veil and Darkly Veiled sectors are
 characterised by spacetime anomalies such as jump
 shoals and reefs. The effect is particularly serious in
@@ -7484,11 +7676,13 @@ indication as to what happened or why, which intrigues
 Solomani scientists to the point where exploration of
 this dangerous area is deemed necessary.
 
-# T AREA OF INTEREST
+# TAREA OF INTEREST
 
 ## HE MID-RIMWARD
 
 THE REACHES
+
+
 RimReach and OutReach are of interest for different
 reasons. There is an old military axiom that it is better
 to fight an enemy in their backyard than your own, and
@@ -7536,6 +7730,8 @@ in RimReach and it is here the Confederation hopes to
 discover a means to nullify this threat.
 
 STRANGE REGION
+
+
 The Strange region consists of two sectors. The
 rimwardmost is dominated by the Flous Nebula from
 which it gets its name. Navigation in this sector is
@@ -7620,7 +7816,7 @@ they settle or return, the programme has served its
 purpose of ensuring the distant enclaves do not drift too
 far from core Solomani values.
 
-# T RIMWARD REGION
+# TRIMWARD REGION
 
 ## HE DISTANT
 
@@ -7633,8 +7829,7 @@ two sectors to trailing. These designations will
 eventually be replaced by names once some event
 or discovery suggests an appropriate one.
 
-The Distant Rimward Corridor proceeds to spinward-
-rimward of Lubbock, passing through the corner
+The Distant Rimward Corridor proceeds to spinward-rimward of Lubbock, passing through the corner
 of the Variance sector before entering Amundsen.
 From there it runs through Humboldt, Cousteau
 and Workman before reaching Xuanzang. This is
@@ -7651,6 +7846,8 @@ these installations exist as described but smaller
 enclaves have been established here and there.
 
 SEEDING THE RIM
+
+
 The Solomani Confederation, whether
 deliberately or not, is slowly seeding the area
 of space to rimward of its borders with colonies.
@@ -7716,7 +7913,7 @@ Lubbock, largely since these are at present little more
 than extensions of the colony at Hsuien Tsang. The
 Enclave also has a lot less warships than Lubbock.
 
-# T HE XUANZANG ENCLAVE
+# THE XUANZANG ENCLAVE
 
 There are plenty of armed auxiliaries and exploration
 vessels but only a handful of combat-oriented ships. If
@@ -7742,6 +7939,8 @@ those who wonder if the Confederation would even
 notice if its most distant outpost broke away.
 
 MOKSADEVA SUBSECTOR
+
+
 Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giant
 Fa-Hien 0507 C532567-D Ht, Ni, Po Solomani G
 Hsuien Tsang 0506 A766667-D Ag, Ga, Ht, Ri Solomani G
@@ -7766,9 +7965,11 @@ Xuan Cang 0606 C664567-A Ag, Ni Solomani G
 
 MOKSADEVA SUBSECTOR
 
+
+
 Xuanzang
 
-TRAVELLER
+
 
 and unwieldy objects with surprising ease. Several
 hundred have been recruited by the Xuanzang
@@ -7786,8 +7987,7 @@ for the Vdknwbo. Their current level of advancement
 approximates TL6 on both worlds, although there
 are differences in approach to the same situations.
 The Vdknwbo have legends of a time when they
-voyaged for ‘a very long time’ aboard slower-than-
-light starships. They understand the concepts of
+voyaged for ‘a very long time’ aboard slower-than-light starships. They understand the concepts of
 interstellar travel but cannot say for certain whether
 their legends speak of in-system exploration and
 colonisation of one other world or whether they came
@@ -7809,6 +8009,8 @@ worlds might be summed up as ‘good friends but not
 necessarily trusted friends’.
 
 THE VDKNWBO
+
+
 Generally referred to as the ‘Unpronouceables’ or
 ‘Crabbers’, the Vdknwbo may be native to Moksadeva
 709 or 808. Their own names for these worlds are,
@@ -7870,8 +8072,7 @@ more about perception than technology, although
 improvements in personnel management have
 contributed to the ability to cover great distances and
 return safely. The main technical obstacle is the jump
-drive, for obvious reasons. A malfunction in well-
-travelled space can be dangerous; out on the rim it
+drive, for obvious reasons. A malfunction in well-travelled space can be dangerous; out on the rim it
 is likely to be fatal. However, jump drives are more
 robust than the average person might believe.
 
@@ -7890,12 +8091,15 @@ explored behind the current frontier.
 
 ADVENTURES IN
 
+
+
 THE XUANZANG ENCLAVE
+
+
 
 The Xuanzang Enclave is all about exploration and
 contact with new alien civilisations. The Enclave was
-set up with the intent of supporting extremely long-
-range expeditions out to the edge of the spiral arm,
+set up with the intent of supporting extremely long-range expeditions out to the edge of the spiral arm,
 with local operations coming a long way second.
 A security sweep for obvious threats was carried
 out before any worlds were colonised, after which
@@ -7934,7 +8138,7 @@ the dominant species’ name for itself.
 
 ###### The Xuanzang Enclave
 
-RIMWARD 0 (-600 TO -120)
+RIMWARD0 (-600 TO -120)
 What are now known as the Rimward 0 missions
 began before the foundation of the Third Imperium,
 probably around -600 or so. The Old Earth Union,
@@ -7968,7 +8172,7 @@ under pressure, with inadequate resources to protect
 them. Rimward expansion and exploration had to be
 curtailed in favour of core activities.
 
-RIMWARD 1 (230–340)
+RIMWARD1 (230–340)
 The Rimward 1 missions began in the 230s, with a
 reopening of trade links and the establishment of
 forward trading bases in the sectors immediately to
@@ -8027,7 +8231,7 @@ requirement to help save the Imperium, or so Solomani
 history records. Certainly the two decades after
 integration were rather one-sided and it may be that the
 
-# E EXPEDITIONS
+# EEXPEDITIONS
 
 ## XTREMELY LONG RANGE
 
@@ -8035,7 +8239,7 @@ seeds of the independence movement were planted
 here. Be that as it may, rimward exploration was not an
 option for many more years.
 
-RIMWARD 2 (720–850)
+RIMWARD2 (720–850)
 
 By the late 600s, the aftershocks of Imperial integration
 had largely faded and the Solomani people enjoyed
@@ -8079,7 +8283,7 @@ a lot of resources. As a result, exploration was local to
 the Kruse and Lubbock Enclaves for the remainder of
 the Rimward 2 period.
 
-RIMWARD 3 (900–950)
+RIMWARD3 (900–950)
 
 The Rimward 3 phase built on the maturing Lubbock
 and Kruse installations, pushing out several subsectors
@@ -8101,8 +8305,7 @@ missions were sent out from the Kruse Enclave despite
 astrographic difficulties, with much the same intent.
 
 At the same time, there was great interest in the area
-of low stellar density roughly seven sectors to trailing-
-rimward of the Lubbock Enclave. Known informally as
+of low stellar density roughly seven sectors to trailing-rimward of the Lubbock Enclave. Known informally as
 ‘The Spinner’, this region contains a number of unusual
 radio sources and possible gravitational anomalies.
 Exactly why the top echelons of Solomani government
@@ -8140,7 +8343,7 @@ short-stopped at Kruse or Lubbock for local operations.
 
 Extremely Long Range Expeditions
 
-TRAVELLER
+
 
 RIMWARD 3A (1010–1028)
 In the years after the Solomani Rim War, there were
@@ -8167,7 +8370,7 @@ re-establishing links and repairing bases rather than
 pushing out. For this reason the project has been
 designated 3a rather than 4.
 
-RIMWARD 4 (1029–1046)
+RIMWARD4 (1029–1046)
 
 Rimward 4 was to be an ambitious drive up the
 Rimward Corridor and far beyond. It was to include a
@@ -8211,7 +8414,7 @@ before the Aslan could find or exploit them. Just what
 was so important is unclear – which is an indication of
 how seriously the Confederation took this conflict.
 
-RIMWARD 5 (1069–PRESENT)
+RIMWARD5 (1069–PRESENT)
 After the derailment of Rimward 4 and, a renewed
 push for exploration began in 1069. At first this was
 a minor matter; a few extra ships assigned to the
@@ -8236,6 +8439,8 @@ come. In the meantime, major expeditions have been
 launched to certain points of interest.
 
 THE GREAT BACKFILL
+
+
 The ‘Great Backfill’ is not a single mission but a major
 project to fill in all the blanks on the navigational charts.
 Even on or close to the Rimward Corridor there are
@@ -8279,6 +8484,8 @@ capable of dealing with an Aslan ihatei band. The
 ‘quiet war’ might not have ended in the 1040s.
 
 PROJECT PERSEUS
+
+
 The most famous of all Solomani exploration projects,
 and perhaps the most grandiose in all history, is
 Project Perseus. Little is known outside the highest
@@ -8323,6 +8530,8 @@ or even mentioned much at all.
 SPINWARD/TRAILING^
 
 BRANCH EXPEDITIONS
+
+
 Several missions have been launched to spinward
 or trailing from the Rimward Corridor. Most stage
 through the Lubbock Enclave before striking out for
@@ -8359,7 +8568,7 @@ returned, bringing with them a wealth of data which
 
 Extremely Long Range Expeditions
 
-TRAVELLER
+
 
 Solsec agent
 
@@ -8401,10 +8610,11 @@ humans somewhere on the predicted expedition route.
 If this is the case, it was not mentioned in the data
 brought home – but that is only to be expected. If they
 do exist, follow-up missions are virtually certain. The
-current status of the three vessels headed for QX-
-07012 is detailed in Deepnight Revelation: Voidshore.
+current status of the three vessels headed for QX-07012 is detailed in Deepnight Revelation: Voidshore.
 
 THE VENTURI EXPEDITIONS
+
+
 The Venturi Expeditions are a private operation
 directed towards something known only as ‘Object
 Venturi’. Launched generally rimward from Lubbock
@@ -8442,7 +8652,7 @@ quite different to those of another.
 
 Extremely Long Range Expeditions
 
-# W MYSTERIES OF THE RIM
+# WMYSTERIES OF THE RIM
 
 ## ONDERS AND
 
@@ -8473,6 +8683,8 @@ inserted to maintain the sense of wonder that should
 accompany a voyage into the unknown.
 
 THE SPINNER
+
+
 The Spinner is an area of low to very low stellar density
 within an otherwise normal area of space. Rifts of
 this sort do occur from time–to–time, but the extent of
@@ -8495,8 +8707,7 @@ location has been forgotten. Any new expedition must
 effectively start from scratch.
 
 The rifts around the ‘eye’ are known to contain high
-concentrations of interstellar gas and there are radio-
-frequency emissions that suggest multiple black holes.
+concentrations of interstellar gas and there are radio-frequency emissions that suggest multiple black holes.
 The Behaypoe people say there is something very
 bad contained in the eye and that their gods ate all
 the surrounding stars to deny it light. Scientists have
@@ -8569,8 +8780,7 @@ approach. In recent years a number of ‘there in one’
 missions have staged through Xuanzang, ranging
 from a single-ship expedition sponsored by a wealthy
 and notorious businessperson to a vastly well-funded
-project which declared its intent to create a chain of on-
-station supply ships connected by transports.
+project which declared its intent to create a chain of on-station supply ships connected by transports.
 
 Some of these expeditions are known to have failed
 and others are overdue. It is known that ships have
@@ -8591,8 +8801,7 @@ no official reports of any such circumstance.
 
 Travellers might get involved in ‘Spinnermania’ in a
 variety of ways. They might decide they want to be the
-first ones to reach the eye and set out on a seat-of-
-the-pants expedition. Alternatively, they may be part of
+first ones to reach the eye and set out on a seat-of-the-pants expedition. Alternatively, they may be part of
 the official expeditions or support missions, in which
 case they will have more backup but less freedom of
 action. There are also some questionable political and
@@ -8601,6 +8810,8 @@ individuals who place the prestige of getting there first
 above the safety of their crews.
 
 THE BEHAYPOE
+
+
 Little is known about the Behaypoe people and most of
 that is classified. It seems they have a multi-world state
 in the Behaypoe sector, presumably established by
@@ -8657,7 +8868,7 @@ Behaypoe society are far more profound, however.
 
 Wonders And Mysteries of the Rim
 
-TRAVELLER
+
 
 All interactions between humans and Behaypoe
 are carried out by what human researchers call
@@ -8715,8 +8926,7 @@ suggesting some kind of hierarchical system is in place.
 It is probable that the Behaypoe are omnivorous but
 little can be said with certainty other than that they really
 like fruit. Spaces in between their buildings are almost
-always given over to orchards or plantations of fruit-
-bearing bushes and interactions between Behaypoe
+always given over to orchards or plantations of fruit-bearing bushes and interactions between Behaypoe
 and humans are always characterised by gifts of fruit.
 The delight with which the Behaypoe received the first
 replies-in-kind has never been surpassed but a basket
@@ -8736,8 +8946,7 @@ Xuanzang Enclave and as such they might someday
 come into conflict with it.
 
 The Behaypoe have not agreed to permanent
-diplomatic missions but vessels are stationed on the
-(presumed) fringe of their territory to facilitate contact.
+diplomatic missions but vessels are stationed on the (presumed) fringe of their territory to facilitate contact.
 Sometimes they invite crews to visit one of their cities
 and it is rumoured there is a graveyard dedicated solely
 to humans on one of their worlds. It is theorised that
@@ -8766,6 +8975,8 @@ good way to achieve this.
 Wonders And Mysteries of the Rim
 
 POINT CETUS
+
+
 Roughly 200 parsecs spinward-rimward of the
 Xuanzang Enclave, Point Cetus is named for the sea
 monster defeated by the legendary hero Perseus.
@@ -8793,8 +9004,7 @@ the Xuanzang Enclave’s population.
 Cetus Station is an orbital installation circling a
 borderline habitable planet in an average red dwarf star
 system. The only remarkable thing about the system
-is its location and the presence of [[Terra|Terran]] species on-
-planet. These were imported at the start of the project
+is its location and the presence of [[Terra|Terran]] species on-planet. These were imported at the start of the project
 and are still confined to the area around the surface
 settlements, a collection of small towns dedicated to
 food production and related industries. Between them
@@ -8820,8 +9030,7 @@ materials from around the system and fuel shuttles
 skim the system’s gas giants for petrochemicals as
 well as hydrogen for fuel.
 
-Cetus Station has its own complement of jump-
-capable vessels and even a warship, an extremely
+Cetus Station has its own complement of jump-capable vessels and even a warship, an extremely
 elderly light cruiser of dubious effectiveness. So
 far there has been nothing to fight so far out, which
 is probably just as well. Ships routinely conduct
@@ -8838,7 +9047,7 @@ of its inhabitants have ever known. There is also the
 
 Wonders And Mysteries of the Rim
 
-TRAVELLER
+
 
 question of pride and the possibility the installation
 might be useful once more. Thus Cetus Station is left
@@ -8861,6 +9070,8 @@ work with. This would be a challenge for any group of
 Travellers, however inventive.
 
 THE MAELSTROM
+
+
 The Maelstrom can be placed wherever the Referee
 wishes, although it will be noticeable from far off.
 Travellers could not possibly jump into this location
@@ -8914,6 +9125,8 @@ tour of duty as a Vantage pilot is a badge of honour and
 a ticket to pretty much any berth the individual wants.
 
 THE TEMPLES OF MAISO
+
+
 The so-called Temples of Maiso are pyramidal
 structures reportedly found on several worlds across
 the Rimward Region. They vary in size and shape;
@@ -8968,8 +9181,7 @@ of modern times and finding them will be prioritised.
 Even just picking through the ruins of their ancient
 cities might yield a wealth of information.
 
-There are of course those who claim the Temple-
-builders have already been found and that information
+There are of course those who claim the Temple-builders have already been found and that information
 has been suppressed. Suggested motives range from
 simple greed to a noble desire to prevent a gold-rush
 of ill-equipped explorers keen to get in on the action.
@@ -8982,6 +9194,8 @@ merits immediate attention. The homeworld of the
 Temple-builders is at the top of the candidate list.
 
 THE GREAT STORM
+
+
 The gas giant Jove Ultra is one of the largest ever
 detected. The Referee can place it in any system
 desired. Jove Ultra is notable for its immense ring
@@ -9015,7 +9229,7 @@ it. This is a wholly unique phenomenon and one the
 
 Wonders And Mysteries of the Rim
 
-TRAVELLER
+
 
 Confederation’s scientists are eager to investigate,
 and to this end a small research installation has
@@ -9028,6 +9242,8 @@ require special authorisation and are considered
 extremely high-risk operations.
 
 PERPETUAL WAVE
+
+
 The small terrestrial planet designated HJF-5634789
 and otherwise known as High Force appears, at first
 glance, to be a typical near-iceball. It has a very thin
@@ -9217,7 +9433,7 @@ entirely. None of this has happened for bad reasons or
 because someone did not care about the end mission;
 it is a question of priorities at each level of command.
 
-# T HE RIMWARD CAMPAIGN
+# THE RIMWARD CAMPAIGN
 
 Travellers might experience this for themselves.
 At the beginning of a long campaign they may be
@@ -9261,6 +9477,8 @@ of those who would prefer some of the budget was
 reallocated to their own pet projects.
 
 GUIDELINES
+
+
 Transiting out to the forward bases will take time – a
 great deal of time. Unless the Referee intends to do
 some adventuring in the close rimward area, it is better
@@ -9335,6 +9553,8 @@ wherever the Travellers are operating. Others can be
 inserted where they are needed.
 
 ADVENTURES
+
+
 Much of the time the Travellers will not be interacting
 with people outside their expedition. This can limit
 the sort of adventures that can be played. Rather
@@ -9356,14 +9576,13 @@ force Travellers to abandon their exploration mission
 
 precisely because they have made themselves
 unwelcome in one of the bastions of civilisation. The
-Travellers should be able to get away with some low-
-level criminality but robbing a major supply cache and
+Travellers should be able to get away with some low-level criminality but robbing a major supply cache and
 blatantly trying to sell the haul to the people who set it
 up will derail a campaign.
 
 ###### The rimward Campaign
 
-TRAVELLER
+
 
 In short, the enclaves are a smaller world and a more
 fragile one than the great states of Charted Space.
@@ -9455,14 +9674,13 @@ Solomani starship design is heavily influenced by standard Imperial practice –
 in turn partly derived from [[Terra|Terran]] concepts and partly from the Vilani way of doing things.
 However, modern Solomani design philosophy has diverged from the Imperial for various
 reasons. Some are practical whilst others are more about ‘not being those damned
-Imperials’ than giving any real benefits. A few of the components listed here have near-
-identical Imperial equivalents but some are uniquely Solomani in character.
+Imperials’ than giving any real benefits. A few of the components listed here have near-identical Imperial equivalents but some are uniquely Solomani in character.
 
 #### HIGH GUARD:
 
 ### SOLOMANI
 
-TRAVELLER
+
 
 DUAL-PURPOSE FUEL/CARGO MODULES (TL8)
 Dedicated fuel/cargo modules allow space to be
@@ -9488,8 +9706,7 @@ SPACE SCIENCE FACILITY (TL13)
 Where Imperial designers prefer separate observatories
 and gravitic research centres, Solomani thinking is
 directed towards space-efficiency. A space science
-facility combines the functions of a basic optical/radio-
-observatory and a gravitic sensor suite into a single
+facility combines the functions of a basic optical/radio-observatory and a gravitic sensor suite into a single
 complex of instrumentation chambers and working
 areas. In addition to its sensor equipment, the facility
 also has dedicated computers and conferencing facilities
@@ -9502,8 +9719,7 @@ It requires a total of four levels of appropriate skills,
 although only one person needs to be a qualified expert
 in any given field. Others can be multiskilled personnel,
 experts from related fields lowering themselves to
-assist, or overworked technicians who do the donkey-
-work for their eminent superiors. Appropriate skills are
+assist, or overworked technicians who do the donkey-work for their eminent superiors. Appropriate skills are
 Science, Investigate, and Electronics (sensors). At least
 one level of a relevant Science skill is required.
 
@@ -9521,8 +9737,7 @@ by interception of emissions, analysis of gravitational
 phenomena and/or direct observation in the infrared,
 visible and ultraviolet wavelengths. For each class of
 object there is an automatic detection range. Beyond this
-distance, detection requires a Difficult (10+) Electronics
-(sensors) check. For each multiple of the automatic
+distance, detection requires a Difficult (10+) Electronics (sensors) check. For each multiple of the automatic
 detection distance DM-1 applies, so attempting to detect
 planets at 25 light-years is subject to DM-2. Failure
 indicates little useful data has been obtained.
@@ -9674,6 +9889,8 @@ generation unit. It requires 1 Power to operate per ton
 and costs Cr50000 per ton.
 
 ACCOMMODATION BLOCK
+
+
 Some Solomani exploration ships employ small
 accommodation blocks to provide minimal living space
 for the crew of a vessel or craft. Such blocks are not
@@ -9681,7 +9898,7 @@ suitable for long deployments unless the ship has lavish
 
 ###### High Guard: Solomanii
 
-TRAVELLER
+
 
 recreation spaces but they are useful aboard small craft
 that might have to stay out for a few days, or to allow
@@ -9717,6 +9934,8 @@ space. An accommodation block consumes six tons and
 costs MCr2.
 
 EXCURSION BAYS
+
+
 An excursion bay is designed to allow safe access to
 the external environment, whether that is space, an
 airless world’s surface or the parking area of a starport.
@@ -9735,8 +9954,7 @@ and analysis equipment that can spot most harmful
 organisms or substances. The airlocked area can
 be decontaminated in a routine manner but also has
 an emergency purge facility. Some versions of the
-excursion bay, designed to be used in an extreme-
-hazard environment, permit cryogenic flooding,
+excursion bay, designed to be used in an extreme-hazard environment, permit cryogenic flooding,
 radiation sterilisation and thermal destruction of
 anything within the airlocked area. This feature is not
 normally fitted to prevent the system being used as a
@@ -9781,6 +9999,8 @@ additional two tons.
 A vehicular excursion bay costs MCr0.75 per ton.
 
 PROBES AND PROBE OPERATIONS
+
+
 Remote sensor operations and routine monitoring
 permit a small party of explorers to cover a wide area.
 The Confederation uses two sizes of probe, with
@@ -9860,7 +10080,7 @@ enormously.
 
 ###### High Guard: Solomanii
 
-TRAVELLER
+
 
 Standard Confederation Probes
 Type Cost Size Notes
@@ -9965,8 +10185,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr909/month
 PURCHASE COST
+
+
 MCr10.91
 
 Power Requirements
@@ -10045,8 +10269,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr2093/month
 PURCHASE COST
+
+
 MCr25.11
 
 Power Requirements
@@ -10104,8 +10332,7 @@ Bridge 6 0.5
 Computer Computer/10 — 0.16
 Sensors Civilian 1 3
 Weapons Single Turret (missile rack ) 1 0.95
-Ammunition Missile/Probe Bay
-(missiles/probes x36)
+Ammunition Missile/Probe Bay (missiles/probes x36)
 
 3 —
 
@@ -10174,8 +10401,7 @@ Cargo 22 —
 9
 
 The Cimarron-class is built on a non-jump-capable
-version of the standard ‘Modulus Four’ hull. This 1,000-
-ton streamlined cylinder is used for vessels ranging
+version of the standard ‘Modulus Four’ hull. This 1,000-ton streamlined cylinder is used for vessels ranging
 from patrol craft to transports and also in a range of
 specialist applications. The Cimarron-class is one of
 those, tirelessly keeping exploration ships and bases
@@ -10211,8 +10437,7 @@ Sensors Military Grade 2 4.1
 Weapons Missile Barbettes x2 10 8
 Double Turrets (pulse lasers) x2 5 2
 Point Defence Battery (type II) 20 20
-Ammunition Missile/Probe Bays
-(missiles/probes x60) x2
+Ammunition Missile/Probe Bays (missiles/probes x60) x2
 
 10 —
 
@@ -10235,8 +10460,12 @@ x3, Gunners x4
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr14371/month
 PURCHASE COST
+
+
 MCr172.45
 
 Power Requirements
@@ -10386,8 +10615,7 @@ Life Scanner 1 2
 Weapons Torpedo Barbettes x2 10 6
 Double Turrets (pulse laser) x2 5 2
 Point Defence Battery (type II) 20 20
-Ammunition Torpedo/Probe Bays
-(torpedoes/probes x60) x2
+Ammunition Torpedo/Probe Bays (torpedoes/probes x60) x2
 
 10 —
 
@@ -10418,8 +10646,12 @@ Administrator
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr27450/month
 PURCHASE COST
+
+
 MCr329.4
 
 Power Requirements
@@ -10588,8 +10820,7 @@ manner that allows it to be readily customised.
 
 The aft part of the main hull is largely taken up with
 a four-parsec jump drive and a surprisingly modest
-power plant. The Tenzing-class can operate in-
-system using its power plant but requires battery
+power plant. The Tenzing-class can operate in-system using its power plant but requires battery
 power to keep all systems running whilst charging
 the jump drive. It is common to shut down the
 manoeuvre drive and observe strict power-regulation
@@ -10637,8 +10868,7 @@ on the dorsal surface aft of the bridge, and eight dual
 laser turrets positioned at intervals across the hull.
 
 The Tenzing-class can carry enough personnel
-to fill its ‘textbook’ roster without using double-
-occupancy in its crew staterooms but adding
+to fill its ‘textbook’ roster without using double-occupancy in its crew staterooms but adding
 mission specialist personnel pushes this limit.
 This is rarely a problem, as exploration ships
 are unlikely to need a full-time complement of
@@ -10652,8 +10882,7 @@ maintenance personnel, with additional personnel
 re-tasked when needed. The typical crew of a
 Tenzing looks nothing like its ‘paper’ complement.
 
-A typical exploration crew consists of a few high-
-capability experts plus a much larger number
+A typical exploration crew consists of a few high-capability experts plus a much larger number
 of multiskilled personnel. Nominal complement
 is around 27, plus mission specialists and their
 support personnel. However, most mission support
@@ -10674,7 +10903,7 @@ EXPLORATION VESSEL **TYPE: TENZIG**
 Hull 2,000 tons, Standard — 100
 Armour Bonded Superdense, Armour: 2 32 16
 M-Drive Thrust 2 40 80
-Jump Drive Jump 4 (energy efficient) 205 338.25
+Jump Drive Jump4 (energy efficient) 205 338.25
 Power Plant Fusion (TL12), Power 1125 75 75
 High Efficiency Batteries (TL12), Power 1,500 25 5
 Fuel Tanks J-4, 8 weeks of operation 815 —
@@ -10708,8 +10937,7 @@ Library 4 4
 Biosphere 20 4
 Multi-Environment Space 21 0.5
 Laboratory 24 6
-Large Personnel Excursion Bay
-(extreme hazard)
+Large Personnel Excursion Bay (extreme hazard)
 
 11 16.5
 
@@ -10742,8 +10970,12 @@ Officers x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr86445/month
 PURCHASE COST
+
+
 MCr1037.34
 
 Power Requirements
@@ -10965,8 +11197,7 @@ saddling the navy with a less than ideal starship.
 Naturally, saving face was more important than
 ensuring the navy got best value for budget Credits
 and the construction orders went ahead. As the first
-batches of Michigans entered service in the mid-
-1010s, their shortcomings were readily apparent.
+batches of Michigans entered service in the mid-1010s, their shortcomings were readily apparent.
 However, it was the frightening time just after the
 Solomani Rim War, when a renewal of hostilities
 was a serious prospect.
@@ -10983,8 +11214,7 @@ to operate in the relatively low-threat environment
 just beyond the Confederation border. The move
 to exploration work was a natural one, although it
 
-necessitated further modifications. Today’s explorer-
-Michigans are recognisable as those befuddled
+necessitated further modifications. Today’s explorer-Michigans are recognisable as those befuddled
 first examples, just about, but they carry a weight of
 experience few more recent classes can match.
 
@@ -11006,8 +11236,7 @@ reserve for a single parsec jump further if necessary.
 Four 1,000-ton subordinate craft are carried in place
 of the original 25-ton vessels. Depending on the
 mission, two to four of these may be fuel/support
-variants of the Cimarron-class, with others as jump-
-capable ships for local exploration. A capacity of 28
+variants of the Cimarron-class, with others as jump-capable ships for local exploration. A capacity of 28
 25-ton craft is retained, of which four boats can be
 maintained in their hangars at any one time.
 
@@ -11047,7 +11276,7 @@ Hull 20,000 tons, Close Structure — 900
 
 Armour Crystaliron, Armour: 4 50 6
 
-M-Drive Thrust 4 (energy efficient) 800 1760
+M-Drive Thrust4 (energy efficient) 800 1760
 
 J-Drive Jump 3 1,505 2257.5
 
@@ -11126,8 +11355,12 @@ mission crew and scientists
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr735967/month
 PURCHASE COST
+
+
 MCr8831.6
 
 Power Requirements
@@ -11326,7 +11559,7 @@ custom designs for any given role. The result is more vehicles for the same amou
 cost of top-end efficiency. Ground vehicles are preferred for day-to-day exploration work, partly for cost reasons
 and partly because ground flown over is not really ground explored.
 
-# S EXPLORATION VEHICLES
+# SEXPLORATION VEHICLES
 
 ## OLOMANI
 
@@ -11393,11 +11626,8 @@ an unpressurised or open mounting.
 **EQUIPMENT AND WEAPONS**
 Airlock, Autopilot (advanced), Bunks x2, Command
 Centre, Communications System (advanced, satellite
-uplink, increased range), Computer/3, Control Systems
-(advanced), Fire Extinguishers, Fresher, Insidious
-Environment Protection, Laboratory, Life Support (short-
-term, 20 personnel), Mini-Galley, Navigation System
-(improved), Sensors (improved, increased range,
+uplink, increased range), Computer/3, Control Systems (advanced), Fire Extinguishers, Fresher, Insidious
+Environment Protection, Laboratory, Life Support (short-term, 20 personnel), Mini-Galley, Navigation System (improved), Sensors (improved, increased range,
 increased fidelity), Smart Wheels, Vacuum Protection
 
 Ring Mounts x2
@@ -11425,6 +11655,8 @@ Camouflage (Recon DM) —
 Stealth (Electronics (sensors) DM) —
 
 ARMOUR
+
+
 FRONT 10 TOP 17 SIDES 10 REAR 8
 
 famat–12 All–Terrain vehicle
@@ -11454,8 +11686,7 @@ from a crane to a mobile telescopic observatory. One
 common, but unpopular, configuration has two rows
 of bench-type outward-facing seats. These allow up
 to six personnel to be driven around a work site in
-modest discomfort. Life support plugs allow vacc-
-suited personnel to extend their time in the field whilst
+modest discomfort. Life support plugs allow vacc-suited personnel to extend their time in the field whilst
 being transported – this is the primary reason for most
 personnel to dislike the FAMAT-4.
 
@@ -11471,12 +11702,11 @@ vehicles in a situation where contact and liaison
 operations have not gone according to plan.
 
 EQUIPMENT AND WEAPONS
-Airlock, Autopilot (advanced), Comms System
-(advanced, encrypted, increased range), Control
+
+
+Airlock, Autopilot (advanced), Comms System (advanced, encrypted, increased range), Control
 Systems (advanced), Corrosive Environment
-Protection, Fire Extinguishers, Life Support (short-
-term),Navigation System (improved), Sensors
-(improved, increased range), Smart Wheels
+Protection, Fire Extinguishers, Life Support (short-term),Navigation System (improved), Sensors (improved, increased range), Smart Wheels
 
 Ring Mount
 
@@ -11504,11 +11734,15 @@ Camouflage (Recon DM) —
 Stealth (Electronics (sensors) DM) —
 
 ARMOUR
+
+
 FRONT 12 TOP 28 SIDES 10 REAR 10
 
 famat–4 All–Terrain vehicle
 
 OUTRIDER GRAV PLATFORM
+
+
 
 The Outrider falls somewhere between grav bike and
 grav sled. It is a semi-open-frame vehicle ridden by a
@@ -11551,11 +11785,9 @@ on the platform, but this configuration is rare; there are
 cheaper weapons carriers with similar capabilities.
 
 EQUIPMENT AND WEAPONS
-Autopilot (advanced), Communications System
-(advanced, increased range), Control Systems
-(advanced), Fire Extinguishers, Life Support (short-
-term), Navigation System (improved), Sensors
-(improved, increased range)
+
+
+Autopilot (advanced), Communications System (advanced, increased range), Control Systems (advanced), Fire Extinguishers, Life Support (short-term), Navigation System (improved), Sensors (improved, increased range)
 
 Ring Mount
 
@@ -11581,9 +11813,13 @@ Camouflage (Recon DM) —
 Stealth (Electronics (sensors) DM) —
 
 ARMOUR
+
+
 FRONT 4 SIDES 4 REAR 4
 
 CHIPMUNK PERSONAL TRANSPORT
+
+
 
 The Chipmunk is a common utility vehicle, designed to
 carry the operator and a small amount of equipment.
@@ -11596,8 +11832,7 @@ feature as much as possible, finely playing the controls
 to provide attitude control whilst in the air. This can
 go badly wrong, as can unwise ground manoeuvres,
 putting the extremely tough roll cage to the test. It is
-absolutely forbidden in the operator manual to grav-
-jump the vehicle onto a transport pallet without using a
+absolutely forbidden in the operator manual to grav-jump the vehicle onto a transport pallet without using a
 hoist. Naturally, it is also standard practice.
 
 **EQUIPMENT AND WEAPONS**
@@ -11629,6 +11864,8 @@ Camouflage (Recon DM) —
 Stealth (Electronics (sensors) DM) —
 
 ARMOUR
+
+
 FRONT 4 SIDES 4 REAR 4
 
 Abitorra 91

@@ -3,6 +3,8 @@
 
 CREDITS
 
+
+
 ```
 Authors
 Martin Dougherty, Christopher
@@ -40,35 +42,55 @@ Tan
 
 ARTICLES
 
+
+
 ```
 ADVENTURE
+
+
 Royal Hunt 22
 A Dagger at Efate 76
 ALIEN
+
+
 Hlanssai 44
 BESTIARY 116
 CENTRAL SUPPLY
+
+
 Gravitic Weapons 31
 CHARTED SPACE
+
+
 The Ways of Kuzu 17
 Marine Task Force Organization
 69
 The Florian League 94
 Siduri Station 49
 ENCOUNTERS
+
+
 Gamaagin Kaashukin 7
 HIGH GUARD
+
+
 Mainstrider 300T 9
 Sensor Operations 37
 Gazelle Close Escort 87
 Latien Hauler 106
 MERCENARY
+
+
 Seastrike 63
 TRAVELLING
+
+
 Trade & Commerce 2
 Traveller & the Referee 34
 Non Main Worlds 80
 VEHICLE HANDBOOK
+
+
 Splorabug & Challenger Car 102
 ```
 
@@ -102,8 +124,12 @@ of the Travellers' Aid Society
 
 TRAVELLINGTRAVELLING
 
+
+
 ```
 TRADE AND COMMERCE
+
+
 Sooner or later in the career of the typical Referee, a group of Travellers
 is going to stumble across the rules pertaining to trade and commerce.
 When this happens, nine times out of ten the Referee is fated to watch
@@ -134,6 +160,8 @@ about adventuring anymore?
 
 ```
 COMMERCE AND ADVENTURE
+
+
 Travellers who carry cargo and passengers for hire are, of course, engaged
 in commerce but the rules are rather carefully balanced to render it very
 difficult to make much of a profit. Even if there are no bank payments to
@@ -174,6 +202,8 @@ other option. Ideally, most or all of these approaches should be used in
 an ongoing campaign to keep things moving.
 
 GO WITH THE FLOW
+
+
 
 The first option is also the simplest – let the Travellers have their
 way. This is best done when they first get involved in speculation and
@@ -300,44 +330,58 @@ Imperial Research station
 
 ```
 MERTACTOR
+
+
 B-B
 ```
 
 ```
 TARKINE
+
+
 C-
 ```
 
 ```
 PAGATON
+
+
 C-
 ```
 
 ```
 ELIXABETH
-B-
-WALSTON
-C-
-SQUALLIA
+
+
+B-WALSTON
+C-SQUALLIA
 C-
 ```
 
 ```
 BOWMAN
+
+
 D-
 ```
 
 ```
 JUDICE
+
+
 ```
 
 ```
 TALOS
+
+
 E-
 ```
 
 ```
 DALLIA
+
+
 B-
 ```
 
@@ -347,31 +391,43 @@ E-
 
 ```
 NOCTOCOL
+
+
 E-
 ```
 
 ```
 FLEXOS
+
+
 E-
 ```
 
 ```
 NIRTON
+
+
 X-O
 ```
 
 ```
 FORINE
+
+
 D-A
 ```
 
 ```
 MILAGRO
+
+
 E-
 ```
 
 ```
 BINGES
+
+
 A-A
 ```
 
@@ -519,44 +575,58 @@ Imperial Research station
 
 ```
 MERTACTOR
+
+
 B-B
 ```
 
 ```
 TARKINE
+
+
 C-
 ```
 
 ```
 PAGATON
+
+
 C-
 ```
 
 ```
 ELIXABETH
-B-
-WALSTON
-C-
-SQUALLIA
+
+
+B-WALSTON
+C-SQUALLIA
 C-
 ```
 
 ```
 BOWMAN
+
+
 D-
 ```
 
 ```
 JUDICE
+
+
 ```
 
 ```
 TALOS
+
+
 E-
 ```
 
 ```
 DALLIA
+
+
 B-
 ```
 
@@ -566,31 +636,43 @@ E-
 
 ```
 NOCTOCOL
+
+
 E-
 ```
 
 ```
 FLEXOS
+
+
 E-
 ```
 
 ```
 NIRTON
+
+
 X-O
 ```
 
 ```
 FORINE
+
+
 D-A
 ```
 
 ```
 MILAGRO
+
+
 E-
 ```
 
 ```
 BINGES
+
+
 A-A
 ```
 
@@ -681,6 +763,8 @@ There are always possibilities...
 
 THE FICKLE FINGER OF FATE
 
+
+
 Travellers can lose their shirts by buying high and selling low, although,
 as we have seen, this can be minimised by sound planning. For instance,
 Travellers rarely go very wrong by hiring a good broker, since the broker
@@ -725,6 +809,8 @@ legitimately cut down profits to a manageable level.
 
 MERCHANT PRINCES
 
+
+
 There is a course of action that a Referee should be willing to explore.
 This is to allow the Travellers to make the fortune they seek (and to keep
 it) but run things in such a way as to set the stage for adventures of a new
@@ -765,6 +851,8 @@ new challenges and your campaign will be a successful one.
 ### 7
 
 GAMAAGIN KAASHUKIIN
+
+
 Gamaagin Kaashukiin, heir to the Barony of Klavos on Adabicci/Lunion,
 served with distinction in the Imperial Navy. An honors graduate
 from the Lunion Naval Academy, she went on to flight school, serving
@@ -795,8 +883,7 @@ To raise money for a ship, Gamaagin was forced to sell the Klavos
 fief (the family fortune was far from sufficient for her needs). No
 longer Baroness Klavos, she was (once again) Captain Kaashukiin,
 commanding a Broadsword-class mercenary cruiser purchased from
-a defunct mercenary outfit. Originally the Boomerang, the ship was re-
-named Retribution by Kaashukiin.
+a defunct mercenary outfit. Originally the Boomerang, the ship was re-named Retribution by Kaashukiin.
 
 Using old contacts in the Imperial Navy, she arranged to have her ship
 and crew hired as mercenaries, and began a campaign of raiding along
@@ -821,8 +908,7 @@ Terms 5
 Money Cr
 Skills
 Astrogation 2, Gun Combat (slug) 3,
-Leadership 2, Melee (blade) 2, Pilot
-(spacecraft) 4, Pilot (small craft) 3,
+Leadership 2, Melee (blade) 2, Pilot (spacecraft) 4, Pilot (small craft) 3,
 Survival 1, Tactics (naval) 3, Vacc Suit 1
 ```
 
@@ -911,8 +997,7 @@ FUEL/CARGO SYSTEM
 
 The key to the vessel's flexibility is its use of dual-purpose fuel/cargo
 containers. Part of the vessel's cargo capacity is of a standard design,
-using a dedicated fuel tank with sufficient capacity to support a one-
-parsec jump plus a few weeks of power plant operation. The additional
+using a dedicated fuel tank with sufficient capacity to support a one-parsec jump plus a few weeks of power plant operation. The additional
 fuel required to make a second or third jump without refuelling is carried
 instead of cargo. Obviously, the 300T takes twice as long to cross a
 two-parsec gap as a dedicated jump-2 vessel but it costs less and can
@@ -926,8 +1011,7 @@ must be suitably shaped to permit non-liquid cargo to be carried. It is
 
 ```
 possible to retrofit cargo space or fuel tanks to dual-use containers but
-this can be a problem on some vessels. Where fuel is carried in oddly-
-shaped tanks fitted around other components or where the cargo bay is
+this can be a problem on some vessels. Where fuel is carried in oddly-shaped tanks fitted around other components or where the cargo bay is
 used to give access to other parts of the ship, conversion is not feasible.
 The pumping and containment systems for fuel also occupy space that
 could otherwise be used for cargo, fuel and other systems. Thus most
@@ -947,6 +1031,8 @@ takes up 105 tons of displacement and costs Cr500000.
 
 ```
 CREW RUNNING COSTS
+
+
 Captain, Pilot, Astrogator,
 Engineer
 ```
@@ -1131,21 +1217,23 @@ stash items beyond the reach of other crewmembers.
 
 OPERATING CONSIDERATIONS
 
+
+
 The 300T is a versatile and relatively comfortable ship to operate. Its
 primary economic advantage is its ability to move between mains and
 clusters, and operate at profit in regions of lower stellar density. Within
 a cluster or on a main the 300T is outperformed by the more common
 free trader and subsidized merchant, however where it can set-up a run
-requiring a mix of one and two parsec jumps it can outperform a jump-
-ship in the long term – though it is slow by comparison.
+requiring a mix of one and two parsec jumps it can outperform a jump-ship in the long term – though it is slow by comparison.
 
 PERFORMANCE
+
+
 
 The performance of the 300T is modest but not disappointing given its price
 tag. Critics have claimed its minimal armor is a waste of tonnage – more
 or none would have given advantages. However, the designers countered
-this allegation by stating that the extra protection on the hull reduced long-
-term costs by decreasing flexing and protecting against micrometeorite
+this allegation by stating that the extra protection on the hull reduced long-term costs by decreasing flexing and protecting against micrometeorite
 damage. Crews of those vessels that actually came under fire would also
 tend to agree that any armor is better than no armor.
 
@@ -1170,6 +1258,8 @@ price range cannot.
 
 ```
 VARIANTS
+
+
 The standard configuration is designed for security and passengers
 are confined to half the lower main hull with no access to critical
 systems. Some operators squeeze extra passengers into the crew
@@ -1195,13 +1285,13 @@ and mobile headquarters for small business groups.
 ### 17
 
 THE WAYS OF KUZU
+
+
 I am Aslan, a warrior of Hoaawli'ukhtai, of the clan Afaikhiyoi. I was born
-on Kuzu (as humans say it), the place of coming, in the city of U'khai-of-
-the-Red-Dawn. As the third eldest of my family's sons, the shape of my
+on Kuzu (as humans say it), the place of coming, in the city of U'khai-of-the-Red-Dawn. As the third eldest of my family's sons, the shape of my
 way was directed from my earliest days; I took the Ah'ukhtai, the Vow of
 Heroes and rose through the ranks to become Leader of Clansmen of
-a mercenary battle group, Kaha a'huye, the brotherhood of the Rose-
-Tinged Waters. I have spent many years in the company of humans and
+a mercenary battle group, Kaha a'huye, the brotherhood of the Rose-Tinged Waters. I have spent many years in the company of humans and
 have a better understanding of their ways than most of my people.
 
 There is an old and venerable saying that the true differences between
@@ -1229,6 +1319,8 @@ otherworldly, removed from the thoughts and strivings of existence.
 Nothing could be farther from the truth.
 
 THOUGHTS SHAPE THE WAY
+
+
 
 Ai yourhai is the first precept, the guiding philosophy of all of my people.
 Its name might be translated roughly as 'thoughts shape the way', a
@@ -1262,6 +1354,8 @@ doing is not achieving.
 
 ```
 THE COMPANY OF HEROES
+
+
 Ukhtai eaiawehi – 'company of heroes' – is a difficult concept for humans,
 a belief that we are surrounded by a vast and unseen throng of those
 who have gone before. It is not, as so many human xenosophontologists
@@ -1285,6 +1379,8 @@ his people.
 
 ```
 THE SHRINE OF HEROES
+
+
 The Shrine of Heroes is the closest thing to a place of worship for Aslan.
 ```
 
@@ -1312,14 +1408,15 @@ skill and battle prowess is increased a thousand-fold if he enters battle
 with his mind cleared and sharpened by the discipline of meditation, his
 arm guided by the purpose of right thinking. Most Aslan carry their own
 ahfa in a small pouch or chest, to be used especially when a Shrine
-of Heroes is not available. Ahfa may be medallions, statuettes, scrolls
-(detailing heroic deeds), a tuft of plant material or lump of soil from a
+of Heroes is not available. Ahfa may be medallions, statuettes, scrolls (detailing heroic deeds), a tuft of plant material or lump of soil from a
 battlefield, anything that may serve as a focus of meditation by reminding
 the warrior of his own deeds and those of his family and clan. A warrior's
 ahfa are considered to be, if not secret, at least best kept private, things
 to be shared only with the closest of comrades.
 
 WITH US IN SPIRIT
+
+
 
 Aslan stress the purity of culture and philosophy that makes Aslan
 what they are. It is for this reason that Aslan culture has remained
@@ -1346,6 +1443,8 @@ goals and a shared direction.
 
 ```
 ANATHEMA
+
+
 There are some things that no Aslan in his right mind would do. This is,
 perhaps, an oversimplification; Aslan are as diverse in their individual
 ways of thinking and behaviour as are humans. However these particular
@@ -1385,17 +1484,17 @@ such is certainly rukhta.
 ```
 
 ```
-The bond of huweihwoweiy is shattered by rukhta and many hrurastea
-(blood quests) are launched by individual Aslan seeking to clear their
+The bond of huweihwoweiy is shattered by rukhta and many hrurastea (blood quests) are launched by individual Aslan seeking to clear their
 names of the taint of rukht by finding and challenging the actual doer
-of some dark deed. Modern customs do not admit to trial by death-
-challenge and combat, but the practice is a common one nonetheless.
+of some dark deed. Modern customs do not admit to trial by death-challenge and combat, but the practice is a common one nonetheless.
 The idea of formal challenge, followed by potentially mortal combat, is
 deeply rooted in our society.
 ```
 
 ```
 IT COMES
+
+
 Tarohaka literally means 'the water that flows without being forced' and
 the philosophy of taro ('it comes') is considered a virtue among Aslan,
 ```
@@ -1425,6 +1524,8 @@ stuff of adventure, the ai of new generations of heroes.
 
 CONCLUSION
 
+
+
 Many humans see in Aslan a likeness of a beast credited in your
 mythology with great strength, wisdom and courage. Aslan see in
 humans a resemblance to a beast, common in our legends as a
@@ -1434,8 +1535,7 @@ drives them, understand their eaia, their personal heart of hearts, that
 they seem not strange but huweihwoweiy-in human-terms; not human
 but brothers.
 
-- Leader-of-
-Clansmen Raearu'he
+- Leader-of-Clansmen Raearu'he
 KhaheakUkhtaikheHoaawlikhe
 Ukhtai
 
@@ -1477,12 +1577,20 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 **SI
 GN
+
+
 AL**
 
 **ADVENTUREADVENTURE**
@@ -1491,6 +1599,8 @@ AL**
 
 ```
 ROYAL HUNT
+
+
 Location : Corben (E545455-8) Gazulin Subsector, Trojan Reach
 ```
 
@@ -1504,6 +1614,8 @@ are its prey.
 
 ```
 CORBEN
+
+
 Corben is a non-industrial world with a thin atmosphere containing a mild
 biological taint tolerable to most humans without a mask, providing they
 have built up an immunity or taken preventative medication. Corben is
@@ -1523,6 +1635,8 @@ any offworld industry hoping to operate on Corben. Until now, the world's
 
 ```
 LIBRARY DATA
+
+
 The following information is widely available through data terminals
 and standard encyclopaediae. It can be considered to be reasonably
 accurate as far as it goes but simple common sense should indicate that
@@ -1562,6 +1676,8 @@ friction among the nobility but the Potentate's position seems unassailable.
 
 ```
 THE SITUATION
+
+
 Corben's substantial deposits of topoline and athast, both useful
 in a number of industrial processes, have attracted the attention of
 Langhausen Industries, LIC, a major mercantile concern. Elas Dulandir,
@@ -1603,6 +1719,8 @@ from the influence of other nobles.
 
 ```
 THE PLOT
+
+
 Unbeknownst to Dulandir or the Travellers, the Potentate has been
 approached by representatives of a rival company, Nusku Trade, LIC.
 Their offer was not as good as that made by Dulandir, at least as far as
@@ -1665,14 +1783,15 @@ Hamir
 
 ```
 THE HUNT
+
+
 The hunt is more a ceremonial camping trip than hunt, although
 occasionally a party will split off to chase quarry. Progress is slow and
 leisurely, with a camp set-up by the advance party in late afternoon
 and often not struck until nearly noon. Evenings are spent feasting and
 carousing around open fires, consuming far more than the royal party
 can carry or hunt. A steady stream of yulya-drawn wagons plies back
-and forth to the city, bringing up yet more delicacies, and from time-to-
-time the Potentate will declare an extra-special feast, which is set-up in
+and forth to the city, bringing up yet more delicacies, and from time-to-time the Potentate will declare an extra-special feast, which is set-up in
 advance by yet more wagon trains.
 ```
 
@@ -1707,6 +1826,8 @@ modern guns. He urges them to keep that in mind.
 
 ```
 SETTING OFF
+
+
 The hunt sets off with great ceremony, wending in a long line of
 yulyas towards the distant foothills. The Potentate and his immediate
 associates ride at the front, of course, and others are sometimes
@@ -1741,6 +1862,8 @@ in the modern world, catching up on events and decisions that need to
 be made using a mobile command post kept well away from the hunt.
 
 THE FIRST INCIDENT
+
+
 
 The first attempt on the Potentate's life is perhaps the most subtle.
 After a week or two of uneventful progress, everyone is used to the
@@ -1859,6 +1982,8 @@ anyone would have the means to set-up such an incident or a reason to.
 
 THE ASSASSINATION ATTEMPT
 
+
+
 After a few more days, the order reaches Hamir's men in the hunting party
 that they are to take direct action. A party splits off as usual to go hunting,
 curving away out of sight as many others have done. A little while later
@@ -1879,8 +2004,7 @@ arrow will hit on a straight check of 8+, unless the Travellers spot the
 archer and do something about it. In addition to its normal wound, the
 arrow carries a powerful poison that will disorientate the victim and may
 cause death due to respiratory complications. If nobody sees the archer
-it is possible that the matter will be ascribed to a stray shot by an over-
-excited hunter but anyone looking the right way can see it is a deliberate
+it is possible that the matter will be ascribed to a stray shot by an over-excited hunter but anyone looking the right way can see it is a deliberate
 attempt on the Potentate's life.
 ```
 
@@ -1895,6 +2019,8 @@ killing their enemy and escaping.
 
 ```
 OUT IN THE WILDERNESS
+
+
 The Travellers are faced with a difficult situation. They are out in the
 wilderness, possibly with a dead Potentate. At least some of the hunting
 party are traitors and everyone seems to suspect everyone else (including
@@ -2036,7 +2162,7 @@ is 24 hours.
 
 ```
 Weapon TL Range Damage Kg Cost
-Gravitic Rifle 14 750 4D+3 8 (3.5) Cr7500
+Gravitic Rifle 14 750 4D+38 (3.5) Cr7500
 ```
 
 ```
@@ -2050,13 +2176,12 @@ Scope, Zero-G
 Gravitic Pistol
 
 The gravitic pistol employs the same technology as its peers and offers
-similar performance to a gauss pistol. However, the addition of the on-
-board computer/1, Agent program and the Zero-G trait make it a cut
+similar performance to a gauss pistol. However, the addition of the on-board computer/1, Agent program and the Zero-G trait make it a cut
 above most pistols. Battery life is 48 hours.
 
 ```
 Weapon TL Range Damage Kg Cost
-Gravitic Pistol 15 30 3D+3 5 (1.5) Cr3500
+Gravitic Pistol 15 30 3D+35 (1.5) Cr3500
 ```
 
 ```
@@ -2075,8 +2200,12 @@ Gravitic Pistol
 
 TRAVELLINGTRAVELLING
 
+
+
 ```
 TRAVELLER AND THE REFEREE
+
+
 Traveller Referees are a curious phenomenon indeed. Possessed of
 omnipotent and godlike powers over a universe of their own creation,
 they are yet a victim of the Travellers who surround them, continually
@@ -2234,6 +2363,8 @@ bolt! Just so long as you have a good time.
 ### 37
 
 SENSOR OPERATIONS
+
+
 Travellers can decide what sort of sensor package their vessel will carry,
 so what DMs it grants on checks to detect and analyse contacts. One
 perfectly viable approach to shipboard sensor operations is to say the
@@ -2272,8 +2403,7 @@ long enough to gain an advantageous firing position.
 Whenever a vessel uses an active sensor package it will automatically
 be detected by every vessel running sensors of the same kind. For
 example, a ship that turns on its radar will be detected by all other ships
-in range that have radar receivers. A vessel that does not have radar
-(which would be unusual, to say the least) will not detect active radar.
+in range that have radar receivers. A vessel that does not have radar (which would be unusual, to say the least) will not detect active radar.
 This can be important when a high-tech ship has a sensor type not
 present on a lesser one. Clever crews might use an active sensor not
 likely to be detected.
@@ -2293,6 +2423,8 @@ this time so the prediction becomes more vague as distance increases.
 
 ```
 SENSOR PACKAGES
+
+
 All starship sensor packages contain passive optical and thermal sensors.
 These are cameras mounted on the vessel, which create separate or
 composite images based on visible light and infrared radiation. A passive
@@ -2335,8 +2467,7 @@ All sensor packages have a base range within which they are fully
 effective. DM-1 applies to all Electronics (sensors) checks for every
 range band outside the system's base range.
 
-Radar indicates the vessel has the capability to emit and detect radio-
-frequency pulses. This includes communications transmissions – ships
+Radar indicates the vessel has the capability to emit and detect radio-frequency pulses. This includes communications transmissions – ships
 can be detected from radio chatter even if it cannot be decrypted. Radar
 can be used to detect vessels and obstructions, and provides basic
 information on a contact such as general size and shape.
@@ -2403,8 +2534,7 @@ and standard thermal/optical systems.
 ELPI, or Extremely Low-Probability-of-Intercept is a modification
 available two Tech Levels higher than the sensor's introductory Tech
 Level. ELPI sensors impose DM-3 to detect the ship by its emissions. A
-vessel that has ELPI (or LPI) sensors must pay the full cost even if the
-(E)LPI capability is not available for some of its advanced sensors.
+vessel that has ELPI (or LPI) sensors must pay the full cost even if the (E)LPI capability is not available for some of its advanced sensors.
 ```
 
 ###### LPI
@@ -2487,14 +2617,12 @@ active sensors at Short range and one using jammers at Medium range.
 Once an object is detected, it will be tracked until contact is lost. This can
 happen if sensor operations are disrupted or the contact passes behind
 some obstruction. A vessel that enters EMCON or otherwise reduces its
-signature and changes course, even slightly, requires a new Electronics
-(sensors) check to maintain contact.
+signature and changes course, even slightly, requires a new Electronics (sensors) check to maintain contact.
 ```
 
 ```
 Scanning a contact means trying to establish exactly what it is, its
-capabilities and condition. This requires an Average (8+) Electronics
-(sensors) check, with DM-4 if the 'scan' attempt is being made with
+capabilities and condition. This requires an Average (8+) Electronics (sensors) check, with DM-4 if the 'scan' attempt is being made with
 passive sensors only. Scanning can only be performed within the sensor
 suite's Base Range.
 ```
@@ -2703,12 +2831,13 @@ term and notoriously sybaritic and hedonistic.
 
 ```
 VRIRHLANZ
+
+
 B-
 ```
 
 ```
-GZAZOEVA-
-ELLU
+GZAZOEVA-ELLU
 C-
 ```
 
@@ -2736,6 +2865,8 @@ Planet (water present)
 
 ```
 GZONGKAEL
+
+
 C-
 ```
 
@@ -2743,6 +2874,8 @@ C-
 
 ```
 LLUERZAEZ
+
+
 E-
 ```
 
@@ -2750,16 +2883,22 @@ E-
 
 ```
 KHAKHANG
+
+
 A-
 ```
 
 ```
 NGANGAZAE UEGHAEN
+
+
 D-
 ```
 
 ```
 UGZFERSUNG
+
+
 C-
 ```
 
@@ -2767,8 +2906,9 @@ C-
 
 ```
 GVONGEL
-C-
-DUVARROEZ
+
+
+C-DUVARROEZ
 C-B
 ```
 
@@ -2782,24 +2922,31 @@ D-
 
 ```
 GZUGO
+
+
 A-C
 SUDHAENGA
+
+
 C-D
 ```
 
 ```
 ITSARRG
+
+
 D-
 ```
 
 ```
-KAEOGZG-
-HUNG
+KAEOGZG-HUNG
 D-
 ```
 
 ```
 DUOENG
+
+
 D-
 ```
 
@@ -2905,12 +3052,13 @@ C100979-D
 
 ```
 VRIRHLANZ
+
+
 B-
 ```
 
 ```
-GZAZOEVA-
-ELLU
+GZAZOEVA-ELLU
 C-
 ```
 
@@ -2938,6 +3086,8 @@ Planet (water present)
 
 ```
 GZONGKAEL
+
+
 C-
 ```
 
@@ -2945,6 +3095,8 @@ C-
 
 ```
 LLUERZAEZ
+
+
 E-
 ```
 
@@ -2952,16 +3104,22 @@ E-
 
 ```
 KHAKHANG
+
+
 A-
 ```
 
 ```
 NGANGAZAE UEGHAEN
+
+
 D-
 ```
 
 ```
 UGZFERSUNG
+
+
 C-
 ```
 
@@ -2969,8 +3127,9 @@ C-
 
 ```
 GVONGEL
-C-
-DUVARROEZ
+
+
+C-DUVARROEZ
 C-B
 ```
 
@@ -2984,24 +3143,31 @@ D-
 
 ```
 GZUGO
+
+
 A-C
 SUDHAENGA
+
+
 C-D
 ```
 
 ```
 ITSARRG
+
+
 D-
 ```
 
 ```
-KAEOGZG-
-HUNG
+KAEOGZG-HUNG
 D-
 ```
 
 ```
 DUOENG
+
+
 D-
 ```
 
@@ -3107,12 +3273,13 @@ C100979-D
 
 ```
 VRIRHLANZ
+
+
 B-
 ```
 
 ```
-GZAZOEVA-
-ELLU
+GZAZOEVA-ELLU
 C-
 ```
 
@@ -3138,6 +3305,8 @@ Planet (water present)
 
 ```
 GZONGKAEL
+
+
 C-
 ```
 
@@ -3145,6 +3314,8 @@ C-
 
 ```
 LLUERZAEZ
+
+
 E-
 ```
 
@@ -3152,16 +3323,22 @@ E-
 
 ```
 KHAKHANG
+
+
 A-
 ```
 
 ```
 NGANGAZAE UEGHAEN
+
+
 D-
 ```
 
 ```
 UGZFERSUNG
+
+
 C-
 ```
 
@@ -3169,8 +3346,9 @@ C-
 
 ```
 GVONGEL
-C-
-DUVARROEZ
+
+
+C-DUVARROEZ
 C-B
 ```
 
@@ -3184,24 +3362,31 @@ D-
 
 ```
 GZUGO
+
+
 A-C
 SUDHAENGA
+
+
 C-D
 ```
 
 ```
 ITSARRG
+
+
 D-
 ```
 
 ```
-KAEOGZG-
-HUNG
+KAEOGZG-HUNG
 D-
 ```
 
 ```
 DUOENG
+
+
 D-
 ```
 
@@ -3307,12 +3492,13 @@ C100979-D
 
 ```
 VRIRHLANZ
+
+
 B-
 ```
 
 ```
-GZAZOEVA-
-ELLU
+GZAZOEVA-ELLU
 C-
 ```
 
@@ -3340,6 +3526,8 @@ Planet (water present)
 
 ```
 GZONGKAEL
+
+
 C-
 ```
 
@@ -3347,6 +3535,8 @@ C-
 
 ```
 LLUERZAEZ
+
+
 E-
 ```
 
@@ -3354,16 +3544,22 @@ E-
 
 ```
 KHAKHANG
+
+
 A-
 ```
 
 ```
 NGANGAZAE UEGHAEN
+
+
 D-
 ```
 
 ```
 UGZFERSUNG
+
+
 C-
 ```
 
@@ -3371,8 +3567,9 @@ C-
 
 ```
 GVONGEL
-C-
-DUVARROEZ
+
+
+C-DUVARROEZ
 C-B
 ```
 
@@ -3386,24 +3583,31 @@ D-
 
 ```
 GZUGO
+
+
 A-C
 SUDHAENGA
+
+
 C-D
 ```
 
 ```
 ITSARRG
+
+
 D-
 ```
 
 ```
-KAEOGZG-
-HUNG
+KAEOGZG-HUNG
 D-
 ```
 
 ```
 DUOENG
+
+
 D-
 ```
 
@@ -3481,8 +3685,7 @@ enduring trust is alien to them.
 ```
 Hlanssai culture had achieved a kind of static equilibrium when the race
 was first contacted by the Vargr and has changed only slightly since.
-Hlanssai psychology dictates that complex, rigid social systems and long-
-range planning are impossible and even familial or tribal bonds are weak.
+Hlanssai psychology dictates that complex, rigid social systems and long-range planning are impossible and even familial or tribal bonds are weak.
 Balancing this, the species' tendency towards cooperation in the face of
 immediate danger is powerful. The result is a system of administration
 ```
@@ -3958,8 +4161,7 @@ more Norse than Babylonian. The Enkidu Tearoom (bar) is surprisingly
 upscale for the Gilgamesh Arms. The wainscoting here is made from real
 teak imported from three parsecs away. Among the several small shops
 is Max's Munitions, which performs gun repairs and modifications for
-reasonable prices, owned/operated by a retired Marine Staff Sergeant
-(Maxine LeDoun).
+reasonable prices, owned/operated by a retired Marine Staff Sergeant (Maxine LeDoun).
 ```
 
 ### OTHER HOTELS
@@ -3992,9 +4194,7 @@ total capacity) as well as accommodations for the hotel staff (32 total:
 12 standard and 20 basic).
 
 Alice's, a takeout restaurant with a surprisingly good breakfast bar,
-opens promptly at 0600 hours. The Golden House is the largest bar on-
-station and certainly the least attractive; this is the place to go for harder-
-to-get information, not only about Siduri Station and Shemhat, but the
+opens promptly at 0600 hours. The Golden House is the largest bar on-station and certainly the least attractive; this is the place to go for harder-to-get information, not only about Siduri Station and Shemhat, but the
 rigs around Enkidu as many of the rig personnel spend their off-time
 here. The Prospector's Palace only contains one (rather large) shop,
 the Forty-Niner, rented out by Hervé Schalt, who specialises in providing
@@ -4012,8 +4212,7 @@ description applies to each. The terminal includes non-station personnel
 long term housing (180 standard, 200 basic apartments), customs and
 a commercial and recreation area for visitors. The commercial and
 recreation area contains a medium-sized casino, a few offices (mainly
-staffed by the representatives of larger companies), a handful of medium-
-sized shops and takeout restaurants that provide quick tasty meals to the
+staffed by the representatives of larger companies), a handful of medium-sized shops and takeout restaurants that provide quick tasty meals to the
 passengers coming off of incoming vessels. Each terminal also has three
 bars, two medium and one large-sized. While this arrangement is not the
 most efficient, the Consortium understands the dictate that passengers,
@@ -4133,8 +4332,7 @@ Scale in Meters
 ### MAIN DOCKING AREA
 
 ```
-Attached to each terminal are a dozen 1,000-dton enclosed hangars
-(thus, 24 in total in Phase II), which are linked by concourses to the
+Attached to each terminal are a dozen 1,000-dton enclosed hangars (thus, 24 in total in Phase II), which are linked by concourses to the
 terminals. There is a spur between them leading to the unenclosed
 landing pad area. This area includes six 5,000-dton engineered landing
 pads and a dozen smallcraft (100-dton) landing pads. The concourses
@@ -4314,8 +4512,7 @@ Talia Ghardishan is not strictly a member of the Consortium but she does
 officially represent the off-world investment bureau Saarbar Landesbank
 AG (SLAG) and votes on their behalf. She has an apartment on
 Siduri Station but spends much of her time looking after SLAG's other
-investments in other nearby systems and thus spends very little time on-
-station. SLAG owns 10% of the stake in the Consortium.
+investments in other nearby systems and thus spends very little time on-station. SLAG owns 10% of the stake in the Consortium.
 ```
 
 ```
@@ -4351,8 +4548,7 @@ keeps to herself.
 Kairavi Channar has, as one might suspect, a disciplined personal style
 but is also well-known for being a good leader who demands much, gives
 much and gets good results. She does not expect perfection but believes
-in drilling constantly to hone skills. She does have a strict view on law-
-and-order (again, as one might suspect) and cleaned up some of the more
+in drilling constantly to hone skills. She does have a strict view on law-and-order (again, as one might suspect) and cleaned up some of the more
 dodgy elements from the station after she placed a not inconsiderable
 part of her severance from the military into the Consortium. This was just
 before the Phase II went online and these funds proved to be necessary at
@@ -4432,10 +4628,14 @@ brief time as a civilian law enforcement officer.
 
 ```
 UPPER DECK
+
+
 ```
 
 ```
 LOWER DECK
+
+
 ```
 
 (^11)
@@ -4443,11 +4643,9 @@ LOWER DECK
 4
 4
 5
-6
-(^77)
+6 (^77)
 8
-9
-(^210)
+9 (^210)
 1
 
 1. Station personnel housing
@@ -4488,8 +4686,7 @@ interfering with other systems.
 The sensor equipment of vessels designed for space will not be damaged
 by submersion to a modest depth but unfurling large equipment such as
 a distributed array – or moving with one deployed – may impose shearing
-forces upon it that will break supports not designed for such loads. Hull-
-mounted sensors and any system within a vessel's streamlining will be
+forces upon it that will break supports not designed for such loads. Hull-mounted sensors and any system within a vessel's streamlining will be
 unharmed by underwater movement, although they may be subject to
 pressure effects in deep water.
 
@@ -4625,8 +4822,7 @@ weapon protruding above the surface. In this case, the weapon must be
 modified, mainly to enable water to be quickly drained from the barrel but
 standard projectiles can still be used.
 
-Modifying a weapon to be used in this manner adds 50% to its mass
-(or displacement) and cost. Providing the draining process has been
+Modifying a weapon to be used in this manner adds 50% to its mass (or displacement) and cost. Providing the draining process has been
 completed, a gun of this sort can be fired normally at any target above
 
 66
@@ -4807,8 +5003,7 @@ combat division. Marine regiments exist for administrative rather than
 combat purposes; task forces are formed out of available units as the
 need arises.
 
-A marine regiment contains three task force headquarters units plus
-(usually) nine marine companies and various smaller units performing
+A marine regiment contains three task force headquarters units plus (usually) nine marine companies and various smaller units performing
 specialist functions. Units are assigned to a headquarters to create a
 force of whatever size and composition may be required. These units
 may not be entirely complete; it is not uncommon for a marine company
@@ -4872,6 +5067,8 @@ medical support.
 
 ```
 MARINE TASK FORCE
+
+
 ```
 
 ###### Force Command Headquarters
@@ -4893,6 +5090,8 @@ urgent situations.
 
 ```
 FORCE COMMAND HQ
+
+
 ```
 
 ###### Command Post Section
@@ -4970,6 +5169,8 @@ Grav APC
 
 ```
 MARINE COMPANY
+
+
 ```
 
 #### Marine Squad
@@ -5046,6 +5247,8 @@ Grav APC
 
 ```
 MESON BATTERY
+
+
 ```
 
 #### Equipment
@@ -5207,12 +5410,20 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 **SI
 GN
+
+
 AL**
 
 # ADVENTUREADVENTURE
@@ -5344,8 +5555,7 @@ ship's systems.
 
 ```
 Dagger will maneuver slightly to make docking very difficult, requiring
-either a highly aggressive boarding maneuver with a Very Difficult
-(12+) Pilot check (DEX) or close pass to allow personnel to jump across
+either a highly aggressive boarding maneuver with a Very Difficult (12+) Pilot check (DEX) or close pass to allow personnel to jump across
 in vacc suits with a Formidable (14+) Vacc Suit check (DEX). Both are
 hazardous undertakings but achievable. The Travellers may come up
 with other solutions.
@@ -5382,8 +5592,7 @@ vessel. It is connected to a set of sensors that will detect if the ship
 is landed on any vacuum world or passes close enough to a vessel of
 1,000 tons displacement or more (dealing 1DD damage). The device
 itself is well concealed but the sensors might be found by Travellers
-investigating the ship using a Very Difficult (12+) Investigate check
-(INT). Tracing control pathways will lead to the bomb with a successful
+investigating the ship using a Very Difficult (12+) Investigate check (INT). Tracing control pathways will lead to the bomb with a successful
 Electronics (sensors) check (INT).
 
 As for the guidance system, the ship is currently being controlled by
@@ -5424,6 +5633,8 @@ transient basis by workers who live elsewhere.
 
 GENERATING
 
+
+
 ## NON-MAINWORLDS
 
 ```
@@ -5446,22 +5657,19 @@ When generating a non-mainworld, use the following procedure.
 ```
 Size
 Roll 2D-2 for Size as normal.
-If Size 10 is indicated, roll 2D again: on 11+ the world is in fact a super-
-Earth.
+If Size 10 is indicated, roll 2D again: on 11+ the world is in fact a super-Earth.
 ```
 
 ```
 Atmosphere
 Roll Atmosphere as normal, with the usual modifiers for size.
-Any Atmosphere code that is not 0, 1 A, B or C should be reset to A
-(exotic). The original code as generated can be used as an indicator of
+Any Atmosphere code that is not 0, 1 A, B or C should be reset to A (exotic). The original code as generated can be used as an indicator of
 atmospheric pressure.
 ```
 
 ```
 Hydrographics
-Roll Hydrographics as normal, using the Atmosphere code. Apply DM-
-if the world is in the hot zone.
+Roll Hydrographics as normal, using the Atmosphere code. Apply DM-if the world is in the hot zone.
 ```
 
 ### 81
@@ -5480,8 +5688,7 @@ Most installations and small outposts have no government as such
 - they answer to an outside agency such as a parent government or
 corporation. If a UWP code is necessary, assign code 6. To randomly
 generate independent settlements, roll 10+ on 2D for a community
-to be self-governing, with a DM equal to the Population code. A self-
-governing community should be assigned a suitable code to indicate the
+to be self-governing, with a DM equal to the Population code. A self-governing community should be assigned a suitable code to indicate the
 Government type the Referee has chosen. Corporate control is most
 common but many small communities are created by groups with strong
 views and may have quite extreme Government types.
@@ -5496,7 +5703,7 @@ equal to that of the parent government or corporation. For independent
 **Example of World Creation**
 
 ```
-Size: 7 (2D-2)
+Size:7 (2D-2)
 Diameter: 11,200km
 Surface Gravity: 0.
 Atmosphere: Exotic (A)
@@ -5507,7 +5714,7 @@ Hydrographics: 46%-55%
 ```
 
 ```
-Population: 0 (2D-8)
+Population:0 (2D-8)
 Government: Captive Government
 Law Level: 9+ (2D-7+6=10)
 Tech Level: 8
@@ -5532,6 +5739,8 @@ likely to be interesting or relevant to the Travellers' activities.
 
 ```
 WITHIN THE THIRD IMPERIUM
+
+
 In the Third Imperium universe, most worlds are self-governing but the
 Imperium has jurisdiction over the space between them. The status of
 possessions such as mining installations on a non-mainworld can vary.
@@ -5542,8 +5751,7 @@ to be honored.
 ```
 
 ```
-To be credible, a claim must be reasonable and enforceable. A low-
-tech world that can only just manage to build railways cannot make a
+To be credible, a claim must be reasonable and enforceable. A low-tech world that can only just manage to build railways cannot make a
 reasonable claim to the mineral resources of a gas giant moon in the
 outsystem but a world that has access to vessels capable of reaching
 the claimed site, and which can build a suitable installation, there could
@@ -5569,6 +5777,8 @@ the form of a city-state within the Imperium rather than a member world.
 
 ```
 OUTSIDE THE IMPERIUM
+
+
 Other interstellar polities may follow the same model as Imperial authorities
 but where there is no over-arching political body the situation tends to be
 a free-for-all. World governments with the capability to enforce territorial
@@ -5671,8 +5881,7 @@ Other worlds in the warm zone may be unsuitable for a lack of resources
 or may have been passed over for colonization because they did not suit
 the needs of those wanting to exploit the system. For example, if a system
 was colonized for mineral extraction purposes, it would make more sense
-to set-up a major colony at the best starport location or most resource-
-rich world in the system. An entirely habitable world might be passed
+to set-up a major colony at the best starport location or most resource-rich world in the system. An entirely habitable world might be passed
 over as uneconomic or settled by a few farmers to act as a breadbasket
 for the industry and extraction operations going on elsewhere.
 ```
@@ -5783,8 +5992,7 @@ generally available from any data terminal.
 
 ## GENERAL SPECIFICATIONS
 
-Imperial Navy doctrine calls for large ships to be accompanied by well-
-armed, small fighting craft capable of engaging the enemy at long range,
+Imperial Navy doctrine calls for large ships to be accompanied by well-armed, small fighting craft capable of engaging the enemy at long range,
 before they can approach the principal ships in a task force or convoy.
 These small ships may be fighter craft carried by the larger vessels or
 independent close escort vessels. Thousands of close escorts of various
@@ -6039,8 +6247,7 @@ their enormous cohorts, the Feskals, come into the picture.
 Feskals average 2 meters in height and typically weigh 110kg or more.
 Feskals have massive frames with immense musculature, particularly in
 the shoulders, upper back and upper legs. Their frames appear top-heavy
-but are exceedingly well balanced. The Feskal brow protrudes over deep-
-set eyes, providing natural protection from intense light and dust.
+but are exceedingly well balanced. The Feskal brow protrudes over deep-set eyes, providing natural protection from intense light and dust.
 
 The Feskal are highly adaptable to a wide range of environments. For
 example, Feskal who live on frigid worlds grow copious amounts of body
@@ -6095,11 +6302,12 @@ yet to be subjected to rigorous testing.
 
 ```
 A BRIEF HISTORY
+
+
 The Floriani experience was different from that of other humans
 uplifted by the Ancients. Most were left with virtually nothing and had
 to rebuild their civilizations from scratch but the Ancient machines
-on Floria were left largely intact, enabling them to maintain a high-
-technology society. The Floriani had only a rudimentary understanding
+on Floria were left largely intact, enabling them to maintain a high-technology society. The Floriani had only a rudimentary understanding
 of how the machines worked but tended to them as best they could.
 Many broke down over the eons, forcing the Floriani to reinvent such
 things as agriculture and industry.
@@ -6154,6 +6362,8 @@ with the Hierate and engaging in trade with the Imperium through the
 interface world of Yggdrasil.
 
 CULTURE AND PSYCHOLOGY
+
+
 
 Despite the lack of physical variation among the Barnai, they exhibit
 a great deal of independence and creativity, perhaps too much given
@@ -6235,6 +6445,8 @@ and when it needs it from the Ancients machines on Floria.
 
 GOVERNMENT AND LAW
 
+
+
 Florian government is conducted by councils comprised of Barnai officials
 who are elected by lottery. If selected, a Barnai serves for a term of four
 years at the local, planetary or League level. Governing a star-spanning
@@ -6275,14 +6487,15 @@ itself to determine if it was justified.
 
 ```
 THE FLORIAN TRIAD
+
+
 The Florian League currently consists of 34 star systems. Three of
 those systems are of exceedingly great importance: Floria, Trossachs
 and Vadada.
 ```
 
 ```
-Most empires are built upon solid foundations and careful planning. Well-
-defended capitals are surrounded by strategically placed resources,
+Most empires are built upon solid foundations and careful planning. Well-defended capitals are surrounded by strategically placed resources,
 industrial centres and military bases. Fortresses and fleets defend the
 frontiers. Not so with the Florian League.
 ```
@@ -6317,6 +6530,8 @@ to save them from utter annihilation.
 
 STARSHIPS
 
+
+
 Florian starships are highly advanced, achieving TL14 with many TL15
 prototypes in service. Their spacecraft are blocky utilitarian monstrosities,
 most bristling with weaponry. Their naval ships are designed to fight
@@ -6336,6 +6551,8 @@ few accoutrements for passengers. Scout ships are overloaded with
 redundant sensory equipment and unnecessary armor and armament.
 
 CHILDREN OF THE STARS
+
+
 
 Created to assist the Ancients and left to their own devices, the Floriani
 find themselves in a state of developmental stasis. They were gifted with
@@ -6426,6 +6643,8 @@ TOP 30
 ```
 Traits
 ATV
+
+
 ```
 
 ```
@@ -6448,9 +6667,13 @@ Stealth (Electronics (sensors) DM) –
 
 SPLORABUG
 
+
+
 ### 104
 
 TALSON AUTOMOTIVE
+
+
 
 ```
 'CHALLENGER' GROUND CAR
@@ -6546,6 +6769,8 @@ Stealth (Electronics (sensors) DM) –
 
 CHALLENGER GROUND CAR
 
+
+
 # HIGH GUARDHIGH GUARD
 
 ### 106
@@ -6620,6 +6845,8 @@ in addition to carrying out maintenance and administrative tasks.
 
 ```
 CREW RUNNING COSTS
+
+
 Captain, Pilot, Astrogator, Engineers
 x 6, Maintenance x 2, Medic,
 Steward, Administrator
@@ -6662,6 +6889,8 @@ Total 361.86
 
 ```
 POWER REQUIREMENTS
+
+
 Basic Ship Systems
 Maneuver Drive
 Jump Drive
@@ -6683,6 +6912,8 @@ Weapons
 
 ```
 HULL POINTS
+
+
 800
 1 2 4 4 4 4 4
 ```
@@ -6827,6 +7058,8 @@ Total 473.86
 
 ```
 CREW RUNNING COSTS
+
+
 Captain, Pilot, Astrogator, Engineers
 x 6, Maintenance x 2, Medic,
 Gunners x 20
@@ -6843,11 +7076,15 @@ MCr473.86
 
 ```
 HULL POINTS
+
+
 800
 ```
 
 ```
 POWER REQUIREMENTS
+
+
 Basic Ship Systems
 Maneuver Drive
 Jump Drive
@@ -6944,6 +7181,8 @@ Fuel 6. Jump drive
 ### 113
 
 LATIEN HAULER GEM
+
+
 The GEM-ship (Gunship-Equipped Merchant) comes and goes over
 time. It is essentially an expedient conversion, adding the capability to
 operate fighters or other small armed craft to a merchant vessel. Where
@@ -7010,6 +7249,8 @@ Total 801.8
 
 ```
 CREW RUNNING COSTS
+
+
 Captain, Pilot, Astrogator, Engineers
 x 6, Maintenance x 2, Medic,
 Gunners x 16
@@ -7026,6 +7267,8 @@ MCr801.8
 
 ```
 POWER REQUIREMENTS
+
+
 Basic Ship Systems
 Maneuver Drive
 Jump Drive
@@ -7045,6 +7288,8 @@ Weapons
 
 ```
 HULL POINTS
+
+
 800
 ```
 
@@ -7213,6 +7458,8 @@ beholding such an operation.
 
 AUWOIL
 
+
+
 The auwoil are small rodents that Aslan like to keep around to hunt. Fast
 but dumb, they are easily tricked into enclosed spaces, around which
 they run until they are caught or find a way out. This behaviour comes
@@ -7252,6 +7499,8 @@ BEHAVIOUR Herbivore, Intermittent
 
 ```
 EAUEAL
+
+
 'Eaueal' translates from Trokh as 'river gun' and that is a fair summary
 of the species. Some landowners within the Aslan Hierate view it as
 traditional to create small streams to mark territory boundaries, if no
@@ -7324,8 +7573,7 @@ fire their water bolts.
 
 ```
 Eyewings are genetically engineered sentries that change their feather
-colour to blend with the sky when viewed from below or with the ground
-(or clouds) when viewed from above. They have sharp enough senses
+colour to blend with the sky when viewed from below or with the ground (or clouds) when viewed from above. They have sharp enough senses
 to avoid incoming grav craft or spacecraft, are acclimated to a particular
 installation (most often a starport) and squawk in radio frequencies when
 they see something unfamiliar, which alerts security to investigate an
@@ -7350,8 +7598,7 @@ for a problem. Natural variations in length and strength meant organisms
 would broadcast in inconsistent wavelengths (much inferior to cybernetic
 implants), with all the lack of formality and training of any beast, meaning
 use was confined to what were frontier worlds at the time.
-As these worlds grew, some eventually outlawed them
-(using their radio speech to hunt and exterminate),
+As these worlds grew, some eventually outlawed them (using their radio speech to hunt and exterminate),
 while others cordoned off the portion of radio
 spectrum that eyewings use. Some of
 these latter worlds have bred and
@@ -7503,8 +7750,7 @@ ore and ice, living off sunlight for energy and stone for nutrition. Entire
 cultures of sophonts are based on living refineries, living on docked
 spaceships (occasionally briefly leaving to tug more asteroids into their
 host's path) until enough ice and/or ore has been accumulated, then
-heading to a nearby world to trade the goods for manufactured wares
-(tens or hundreds of thousands of tons of ore, for a new spaceship to
+heading to a nearby world to trade the goods for manufactured wares (tens or hundreds of thousands of tons of ore, for a new spaceship to
 house the clan's expanded population, is common).
 
 ```
@@ -7694,10 +7940,8 @@ to suggest future ventures, essentially using the ship's cat as captain.
 Some breeds, developed in the Third Imperium before the Psionics
 Suppressions, are psionic, favoring teleportation the way sophonts favor
 telepathy. These add the Psionic (9) trait and Teleportation 2 skill, and rarely
-teleport with equipment; collars are left behind but implanted transponders
-(standard for ship's cats, to make sure they are aboard when it is time
-to leave port) will teleport. They are known for teleporting through walls
-(never into vacuum and are able to escape sudden depressurization of a
+teleport with equipment; collars are left behind but implanted transponders (standard for ship's cats, to make sure they are aboard when it is time
+to leave port) will teleport. They are known for teleporting through walls (never into vacuum and are able to escape sudden depressurization of a
 compartment this way), disappearing around corners or behind furniture
 and generally going anywhere in a ship they want to. There is many a
 tale of a depressed spacer, locked inside their stateroom and refusing all
@@ -7723,8 +7967,7 @@ BEHAVIOUR Carnivore, Pouncer
 # ZIAVBRO
 
 ```
-Terra does not have a monopoly on the basic concept of a furred four-
-legged domesticated companion animal. The ziavbro is an example
+Terra does not have a monopoly on the basic concept of a furred four-legged domesticated companion animal. The ziavbro is an example
 native to Zhodane. Most breeds are waist-high to a Zhodani as adults,
 easily capable of carrying a human child. They are also psionic, having
 been bred to very high levels of talent. While they have no language as

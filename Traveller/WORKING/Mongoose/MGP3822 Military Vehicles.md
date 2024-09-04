@@ -8,7 +8,7 @@ US $24.
 
 Military Vehicles
 
-TRAVELLER
+
 
 MGP 3822
 
@@ -53,6 +53,8 @@ Printed in the USA.
 
 CREDITS
 
+
+
 Classic Traveller
 Marc Miller
 
@@ -63,24 +65,38 @@ David MacDonald, Wayne Roth, Paul R. Banner
 Mongoose Traveller
 
 AUTHOR
+
+
 Simon Beal with additional text by Gareth Hanrahan
 
 EDITOR
+
+
 Nick Robinson
 
 LAYOUT
+
+
 Joeseph McCance
 
 INTERIOR ILLUSTRATIONS
+
+
 Travis Leichssenring, James Gammel
 
 PROOFREADER
+
+
 Charlotte Law
 
 SPECIAL THANKS
+
+
 Stuart Machin, Jake Collins, Arthur Pollard and Donald McKinney
 
 CONTENTS
+
+
 
 INTRODUCTION 2
 
@@ -175,9 +191,7 @@ are listed here coving TL 1–9.
 ## VVEEHICLEHICLE DDEESIGNSIGN
 
 CONCEPTS & DEFINITIONS
-By defi nition, a vehicle needs some kind of motive power
-(termed a **Power Plant** ) and a means to deliver this power
-(termed a **Drive System** ) so the vehicle can move. Some kind
+By defi nition, a vehicle needs some kind of motive power (termed a **Power Plant** ) and a means to deliver this power (termed a **Drive System** ) so the vehicle can move. Some kind
 of control system is also necessary for the vehicle to be able to
 function. This may or may not include a human operator.
 
@@ -188,8 +202,7 @@ into the hull as required, which can include weapons, sensors,
 communications equipment, crew facilities and cargo space.
 
 Each component built into a vehicle takes up a certain amount
-of space. The unit used in this design system is the cubic meter
-(M^3 ). A vehicle cannot carry more than its internal volume
+of space. The unit used in this design system is the cubic meter (M^3 ). A vehicle cannot carry more than its internal volume
 allows, unless it is an open structure with items piled up on top
 or hanging out of the sides such as motorcycles, air/rafts and
 fl atbed trucks.
@@ -286,8 +299,12 @@ remains as a fractional number so no rounding is required.
 
 VVEHICLEEHICLE D DESIGNESIGN
 
+
+
 ```
 CAPACITY EXAMPLE
+
+
 For our example, we will build a small armed van. Using the
 example vehicles listed in the table we can see a van of this
 size has a Base M^3 of 20 but let us make ours a little bigger
@@ -399,12 +416,13 @@ under 'Vehicle Damage'.
 To calculate the Hull and Structure points simply divide the
 vehicle's Base M^3 by four. Round the result down for the Hull
 points and round up for the Structure points. These values can
-be further modifi ed by the material, confi guration and qualities
-(as detailed in Step Two). The minimum base amount for either
+be further modifi ed by the material, confi guration and qualities (as detailed in Step Two). The minimum base amount for either
 of these values is one.
 ```
 
 DESIGN CHECKLIST
+
+
 
 1. Technology Level
     a. Determine maximum Tech Level of the
@@ -446,6 +464,8 @@ DESIGN CHECKLIST
 
 VEHICLE DESIGN
 
+
+
 STEP TWO: HULL
 The vehicle's hull is broken down into three design options, which are the construction material confi guration, and optional
 qualities.
@@ -467,8 +487,7 @@ Multiplier
 ```
 
 ```
-Mass per M^3
-(kg)
+Mass per M^3 (kg)
 ```
 
 ```
@@ -485,6 +504,8 @@ Bonded Superdense 14 3 200 10,000 8
 ```
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
+
+
 
 ```
 Confi guration TL
@@ -560,8 +581,12 @@ or similar vehicle could be built this way.
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 ```
 HULL EXAMPLE
+
+
 Continuing on from the example in Step One, we will build our van from advanced composites to give it additional Hull and
 Structure. We will use the box confi guration to give us our basic van shape and we will add the Rugged add Refl ec Coating
 qualities. The van has a Base M^3 of 26 used to calculate the hull cost as follows:
@@ -621,6 +646,8 @@ components as required.
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
 
+
+
 **STEP THREE: PROPULSION**
 
 Drive System
@@ -656,8 +683,7 @@ M^3 (kg)
 ```
 
 ```
-Cost per M^3
-(Cr.)
+Cost per M^3 (Cr.)
 ```
 
 ```
@@ -704,6 +730,8 @@ by multiplying this value by the M^3 of the drive system. Following on from the 
 
 VEHICLE DESIGN
 
+
+
 The vehicle's Base Speed and Base Agility are used in the fi nal step of the vehicle design and are detailed in Step Seven. For now,
 just make a note of these values.
 
@@ -727,6 +755,8 @@ speed but for now just note the value.
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
 
+
+
 **Power Plant TL**
 
 ```
@@ -742,8 +772,7 @@ M^3 (kg)
 
 ```
 Fuel per
-M^3
-(litres)
+M^3 (litres)
 ```
 
 **Cost per
@@ -809,12 +838,16 @@ Antimatter–19 19 75 100 — 100,
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 The fuel, power output, mass and cost columns all refer to the M^3
 of the power system unless otherwise stated. The fuel column
 lists the fuel consumption in litres per hour when the vehicle is
 travelling at Cruising Speed (see page 26 for details).
 
 POWER AND FUEL SCALE EFFICIENCY
+
+
 Larger engines are more effi cient in their use of fuel and in
 providing power. One large engine will provide more power
 and use less fuel than two engines half its size combined. To
@@ -822,6 +855,8 @@ refl ect this the tables at the bottom of the page help calculate
 the effi ciency to be had as engine size increases.
 
 WIND POWER
+
+
 Wind power usually takes the form of sails and works differently
 to other types of power plant. The speeds achieved from wind
 power will vary depending on the actual wind speed and other
@@ -880,6 +915,8 @@ operates independently depending on the terrain.
 
 POWER EFFICIENCIES OF SCALE
 
+
+
 ```
 Power Plant
 Size (M3) Steam
@@ -906,8 +943,7 @@ Fusion
 ```
 
 ```
-Anti-
-Matter
+Anti-Matter
 10-99.9 1.25 1.25 1.5 1.5 — — — —
 100-999.9 1.5 1.5 2 2 1.25 1.5 1.5 1.
 1,000+ 2 2 2.5 2.5 1.5 2 2 2
@@ -918,6 +954,8 @@ output fi gure.
 
 FUEL EFFICIENCIES OF SCALE
 
+
+
 ```
 Power Plant
 Size (M3) Steam
@@ -944,8 +982,7 @@ Fusion
 ```
 
 ```
-Anti-
-Matter
+Anti-Matter
 10-99.9 1.5 1.5 2 2 — — — —
 100-999.9 2 2 3 3 — — 1.5 —
 1,000+ 3 3 5 5 — — 2 —
@@ -955,6 +992,8 @@ Divide the fuel consumption of the power plant by the relevant number in the abo
 fi gure.
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
+
+
 
 You can also reduce the cost and M^3 of the drive system if
 appropriate. For example, a half track vehicle might halve the
@@ -1020,6 +1059,8 @@ reason the mass cost is more expensive than the hull costs.
 
 ```
 PROPULSION EXAMPLE
+
+
 Installing wheels on our van will use up 2.6 M^3 (10% of 26
 M^3 ), have a mass of 260 kg (2.6 x 100) and cost Cr. 2,
 (Cr. 1,000 x 2.6 M3).
@@ -1036,6 +1077,8 @@ weighs 70 kg and will use 0.07 M^3 (70 ÷ 1000).
 
 ```
 ARMOR EXAMPLE
+
+
 Following on from the previous example, our van (made from advanced composites) has a Base Armor of 4 and a Base M^3 of
 ```
 
@@ -1080,6 +1123,8 @@ dorsal facing (7 base + 4 additional) , and just the base value of
 ```
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 ```
 Armor Material TL
@@ -1165,6 +1210,8 @@ Super Heavy Bomb 6 10,000 16d6 Super–AP 6 4,
 ```
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
+
+
 
 The M^3 of a weapon will largely depend on its weight and can be
 determined by using the Weapon Mass Table as a guideline.
@@ -1286,6 +1333,8 @@ it is an external weapon.
 ```
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 ```
 Example Weapon Mount Type
@@ -1444,8 +1493,12 @@ usage of the weapon it is applied to as indicated in the table.
 
 WEAPON STABILISATION
 
+
+
 ```
 TL
+
+
 ```
 
 ```
@@ -1478,6 +1531,8 @@ None –6 –6 – –
 
 VVEHICLEEHICLE D DESIGNESIGN
 
+
+
 Decoy Devices
 Smoke, decoy and aerosol dischargers can be mounted on any part of a vehicle. Decoys are used to break a sensor lock or distract
 an incoming guided or smart weapon. Chaff must be deployed as a reaction to self–guided missiles and applies a –2 penalty to the
@@ -1509,6 +1564,8 @@ TL M^3 Cost (Cr.) Detection DM
 
 ```
 WEAPONS EXAMPLE
+
+
 We will mount a Light Autocannon on the roof of our van. We will use an external traversing mount, TL 7 stabilization and add
 ammunition space for 10 additional attacks. This will modify the M^3 , mass and cost as follows:
 ```
@@ -1540,6 +1597,8 @@ Total: Cr. 14,
 ```
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 STEP FIVE: OPTIONAL COMPONENTS
 Optional components include sophisticated electronics,
@@ -1609,6 +1668,8 @@ assisting vehicle crews to see 'behind' obstructions.
 
 ```
 SENSOR UPGRADES
+
+
 Most sensor packages can use one or more of the following
 upgrades that modify the range, M^3 , mass and cost. Any given
 sensor package can have only one option that affects range.
@@ -1646,7 +1707,11 @@ Excellent 11 +4 10 5 3 4,
 
 VVEHICLEEHICLE D DESIGNESIGN
 
+
+
 SENSOR EXAMPLE
+
+
 _We will fi t our van with Extended Range Comprehensive
 sensors. This is calculated as follows:_
 
@@ -1667,6 +1732,8 @@ Extended Range: 1,000 x 2 = 2,
 Total cost: Cr. 2,_
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 ```
 Sensor Upgrade TL
@@ -1736,11 +1803,15 @@ Meson–100,000 15 100,000 24 5,000 15,000,
 
 ```
 COMMUNICATION DEVICE EXAMPLE
+
+
 We will add a TL 7 Radio–100 communications device. This
 will use up a further 0.5 M^3 , add 5 kg, and costs Cr. 1,000.
 ```
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
+
+
 
 Underwater Communication
 Conventional methods of communication do not work
@@ -1789,8 +1860,7 @@ atmospheric taints, chemical warfare agents and the like out of
 the vehicle so long as the doors are not opened. Air is provided
 from bottles or drawn in and scrubbed before being compressed
 and used. An overpressure system allows a vehicle to operate
-in a non–breathable atmosphere such as carbon dioxide. High
-(dense atmosphere, or liquids outside) or low (very thin or trace
+in a non–breathable atmosphere such as carbon dioxide. High (dense atmosphere, or liquids outside) or low (very thin or trace
 atmosphere, or vacuum) external pressures will quickly cause
 the system to fail.
 ```
@@ -1850,9 +1920,11 @@ Hostile Environment
 Intake Compressor 6 51 100 1,500
 ```
 
-(^1) The intake compressor M (^3) is calculated from the power plant M (^3) , not base M (^3).
+(^1) The intake compressorM (^3) is calculated from the power plantM (^3) , not baseM (^3).
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 Miscellaneous Equipment and Upgrades
 Additional equipment and upgrades are available as follows:
@@ -2085,6 +2157,8 @@ Gives +2 Agility Potential when offroad and
 
 VVEHICLEEHICLE D DESIGNESIGN
 
+
+
 STEP SIX: CREW FACILITIES
 A minimum of one operator is needed for any vehicle. Large
 vehicles usually require additional operators for critical
@@ -2123,6 +2197,8 @@ normally be equipped with sleeping facilities.
 
 ```
 EQUIPMENT EXAMPLE
+
+
 We will add Improved Suspension to improve the vehicle's
 Agility Potential.
 ```
@@ -2147,6 +2223,8 @@ Equipment cost: Cr. 2,600
 
 ```
 CALCULATING CREW NUMBERS
+
+
 The number of crew assigned to a vehicle depends upon its
 type and the role of the vehicle. The crew numbers are listed
 for each vehicle type, with different numbers being required if
@@ -2164,6 +2242,8 @@ crewmember may have to make. Military crews tend to have
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 larger than normal crews to allow for casualties or so equipment
 can be more easily manned around the clock with no detriment
 to performance. Civilian vehicles, on the other hand, tend to
@@ -2176,8 +2256,7 @@ example, might choose crew from either the watercraft or land
 tables, always taking the worst fi gure for any given role).
 
 In most cases small, personal ships, aircraft and other vehicles
-only require a single crew member, a pilot. Other functions
-(such as maintenance/engineering for a motor car) are done
+only require a single crew member, a pilot. Other functions (such as maintenance/engineering for a motor car) are done
 
 ```
 when the vehicle is not underway, most often at a specialist
@@ -2188,8 +2267,7 @@ long haul craft, but they are not a requirement.
 
 ```
 Military vehicles are slightly different, with a commander
-required for any vehicle expected to be involved in combat
-(tanks, armored cars, APCs and so on).
+required for any vehicle expected to be involved in combat (tanks, armored cars, APCs and so on).
 ```
 
 ```
@@ -2202,18 +2280,22 @@ to skill checks.
 
 LAND VEHICLES
 
+
+
 ```
 Long Haul (6+ hours)
 Role Short Haul +2 DM +1 DM Optimum – 1 DM – 2 DM
 Drivers 1 2 — 1 — —
 Engineers 0 1 per 50 M^3 1 per 100 M^3 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
 Stokers 1 per 100 M3 1 per 50 M^3 1 per 75 M^3 1 per 100 M^3 1 per 200 M^3 1 per 300 M^3
-Communications 0 2 — 1 — 0 (Driver)
+Communications 0 2 — 1 —0 (Driver)
 Stewards 1 per 200 1 per 50 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 ```
 
 WALKERS
+
+
 
 ```
 Long Haul (6+ hours)
@@ -2223,24 +2305,30 @@ Engineers 0 1 per 50 M^3 1 per 100 M^3 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
 Stokers 1 per 100 M3t 1 per 50 M^3 1 per 75 M^3 1 per 100 M^3 1 per 200 M^3 1 per 300 M^3
 Communications 0 0 1 2 3
 Stewards 1 per 200 1 per 50 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 ```
 
 GRAV VEHICLES
+
+
 
 ```
 Long Haul (6+ hours)
 Role Short Haul +2 DM +1 DM Optimum – 1 DM – 2 DM
 Drivers 1 3 — 2 — 1
 Engineers 0 1 per 100 M^3 — 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
-Communications 0 2 — 1 — 0 (Driver)
+Communications 0 2 — 1 —0 (Driver)
 Stewards 1 per 100 5 per 100 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 ```
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
 
+
+
 AIRCRAFT
+
+
 
 ```
 Long Haul (6+ hours)
@@ -2248,9 +2336,9 @@ Role Short Haul +2 DM +1 DM Optimum – 1 DM – 2 DM
 Pilots 1 2 — 2 — 1
 Engineers 0 1 per 100 M^3 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
 Stokers — — 1 per 75 M^3 1 per 100 M^3 1 per 200 M3 1 per 300 M^3
-Communications 0 1 0 (Driver)
+Communications 0 10 (Driver)
 Stewards 1 per 100 3 per 100 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 ```
 
 Aircraft carrying more than eight passengers will require a co-pilot. For commercial aircraft fl ights at least one steward will be
@@ -2260,15 +2348,17 @@ A gunner will be required for all turret anti-personnel weapons.
 
 WATERCRAFT
 
+
+
 ```
 Long Haul (8+ hours)
 Role Short Haul +2 DM +1 DM Optimum – 1 DM – 2 DM
 Helmsmen 1 — — 2 — 1
 Engineers 0 1 per 100 M^3 — 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
 Stokers 1 per 100 M^3 1 per 50 M^3 1 per 75 M3 1 per 100 M^3 1 per 200 M^3 1 per 300 M^3
-Communications 0 — — 1 0 (Driver)
+Communications 0 — — 10 (Driver)
 Stewards 1 per 100 5 per 100 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 ```
 
 Support Crew will be required for long haul ships, with one extra crew per 10 crew members performing other dutires.
@@ -2277,6 +2367,8 @@ For small vessels the command crew (captain) will normally also be the helmsman.
 after any service crew have been added.
 
 WEAPONS
+
+
 
 ```
 Role +2 DM +1 DM +0 DM – 1 DM – 2 DM
@@ -2304,6 +2396,8 @@ to below this level incurs a –2 DM.
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 **Crew
 Component M**^3 **Cost Mass (kg)**
 
@@ -2311,22 +2405,19 @@ Component M**^3 **Cost Mass (kg)**
 M**^3 **(Cr.) Details**
 Operator Station 1.25 125 — One normally needed per person with a job (gunner,
 pilot, radio operator).
-Work Station
-(large crews)
+Work Station (large crews)
 
 1.15 115 — Vehicles with a crew of 10 people or more only require
 two main operator stations plus one work station for
 each additional crew member.
-Work Station
-(very large crews)
+Work Station (very large crews)
 
 1.1 110 — Vehicles with a crew of 50 people or more require
 10 operator stations plus one work station for each
 additional crew member.
 Passenger Seat 1 100/20 — One needed per occupant without a job. Weight of the
 seat is 20kg, with the passenger it is 100kg.
-Sleeping Area
-(simple)
+Sleeping Area (simple)
 
 ```
 2 + 1 per
@@ -2335,8 +2426,7 @@ occupant
 
 20 per M^3250 Simple sleeping bunks, most often used for large
 crews or cheap berths.
-Sleeping Area
-(standard)
+Sleeping Area (standard)
 
 ```
 3 + 2 per
@@ -2345,8 +2435,7 @@ occupant
 
 30 per M^3500 Larger quarters often used by smaller crews or
 command staff.
-Sleeping Area
-(luxurious)
+Sleeping Area (luxurious)
 
 ```
 50 per
@@ -2368,8 +2457,12 @@ purchased separately.
 
 VVEHICLEEHICLE D DESIGNESIGN
 
+
+
 ```
 CARGO SPACE EXAMPLE
+
+
 With our design complete the total M^3 used by the vehicle's
 components is 13.54, which leaves 18.46 M^3 remaining from
 the Total M^3 of 32. We will allocate all of this to cargo space,
@@ -2378,6 +2471,8 @@ which gives us 1.37 dTons of storage (18.46 ÷ 13.5).
 
 ```
 AGILITY EXAMPLE
+
+
 Wheels have a Base Agility of 0 and Improved Suspension
 gives the van +1 Agility Potential. This gives an Agility bonus
 of +1, which we add to the Base Agility for a total of 1.
@@ -2385,6 +2480,8 @@ of +1, which we add to the Base Agility for a total of 1.
 
 ```
 MASS EXAMPLE
+
+
 The vehicle's mass is calculated as follows:
 ```
 
@@ -2420,6 +2517,8 @@ determine the vehicle's speed.
 
 ```
 CREW EXAMPLE
+
+
 Our van needs two crewmembers, one driver and one
 gunner using a total of 2.5 M^3 (2 x 1.25 M^3 ), and adding
 300 kg (2 x 150). There is no cost for the operator stations
@@ -2448,8 +2547,7 @@ Agility Potential Agility Modifi er
 
 ```
 Calculate Speed
-Multiply the total power output (see page 9) by the Base Speed
-(listed in the Drive System Table on page 8). This value is then
+Multiply the total power output (see page 9) by the Base Speed (listed in the Drive System Table on page 8). This value is then
 divided by the Total Mass to get the vehicle's power to weight
 ratio. The power to weight ratio is then multiplied by the Base
 Speed. Now apply any speed modifi ers from the vehicle's
@@ -2490,8 +2588,12 @@ can be calculated as follows:
 
 VEHICLE DESIGN
 
+
+
 ```
 SPEED EXAMPLE
+
+
 The total power output of the power plant is 64, and the vehicle has a total mass of 6,374 kg. Wheels have a Base Speed of
 100 kph, so we can use all these values to calculate our speed as follows:
 ```
@@ -2514,6 +2616,8 @@ Offroad Speed: 15 kph
 ```
 
 EXAMPLE VEHICLE
+
+
 If you have been following the examples, the van we have created has the following statistics:
 
 **Armed Van (TL 7) M**^3 **Mass (kg) Cost (Cr.)**
@@ -2578,6 +2682,8 @@ drive system.
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 ## LLAANDND VVEEHICLESHICLES
 
 **ALL TERRAIN ASSAULT VEHICLE**
@@ -2623,7 +2729,7 @@ Sensors Minimal (0.25 km +0 DM) 0.25 0.5 100
 Communications Radio 50 km (TL 7) 0.25 1 750
 Equipment Drive Wheels (4x4) 0.2 20 400
 — Improved Suspension 0.08 8 800
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 1.25 250 —
 Passengers 3 1.5 300 —
 Cargo 0.015 dTons 0.20 20 —
@@ -2634,6 +2740,8 @@ Ground Pressure 2.91 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **ALL TERRAIN FORTRESS**
 The All Terrain Fortress is a large, slow moving vehicle with multiple armaments. It is used to provide supporting fi re and also
@@ -2712,7 +2820,7 @@ Ammunition: 5 attacks
 ```
 Sensors Advanced Long Range, Compact (50 km +3 DM) 4.5 2.5 20,000
 Communications Laser 50 km 2 8 5,000
-Crew 7 (commander, driver, 4 gunners, loader) — — —
+Crew7 (commander, driver, 4 gunners, loader) — — —
 Operating Stations 7 8.75 875 —
 Cargo 0.177 dTons 2.39 239 —
 Agility +1 DM — — —
@@ -2722,6 +2830,8 @@ Ground Pressure 2.91 — — —
 ```
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **ALL TERRAIN GUN TRANSPORT**
 The All Terrain Gun Transport is essentially a tracked weapons platform that provides mobile defence. The technology level
@@ -2756,7 +2866,7 @@ Ammunition: 20 attacks
 ```
 Sensors Basic, Compact (1 km +1 DM) 0.25 0.5 1,000
 Communications Radio 20 km (TL 4) 0.1 1 500
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.023 dTons 0.315 315
 Agility +1 DM — — —
@@ -2794,7 +2904,7 @@ Ammunition: 6 attacks
 ```
 Sensors Comprehensive Very Long Range (150 km +2 DM) 6 8 20,000
 Communications Radio 50 km (TL 7) 0.25 1 750
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Agility +1 DM — — —
 Speed Cruise: 29 kph Top: 38 kph Offroad: 19 kph — — —
@@ -2803,6 +2913,8 @@ Ground Pressure 1.13 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **ATGT (TL 14) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 25 M^3 , Standard confi guration, Bonded Superdense — 5,000 250,000
@@ -2828,7 +2940,7 @@ Ammunition: N/A
 
 Sensors Excellent Extended Range, Compact (30 km +4 DM) 5 2.25 16,000
 Communications Laser 50 km 2 8 5,000
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Agility +1 DM — — —
 Speed Cruise: 29 kph Top: 39 kph Offroad: 20 kph — — —
@@ -2836,6 +2948,8 @@ Total — 24.56 12,965 15,315,200
 Ground Pressure 2.59 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **ALL TERRAIN VEHICLE**
 An enclosed, pressurised all-terrain ground vehicle. The vehicle is capable of fl oating on calm water, and has a suite of built-in
@@ -2900,7 +3014,7 @@ Fuel Consumption: 24 per hour
 
 ```
 Fuel 120 litres (5 hours operation) 0.12 120 —
-Armor Steel 9 (15/9/9/9/3/3) 0.4 2,400 800
+Armor Steel9 (15/9/9/9/3/3) 0.4 2,400 800
 Sensors Minimal (0.25 km +0 DM) 0.25 0.5 100
 Communications Radio 50 km 0.25 2.5 750
 Crew 1 — — —
@@ -2914,6 +3028,8 @@ Ground Pressure 2.91 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **ANTI-PERSONNEL TANK**
 Anti-Personnel Tanks are armored vehicles designed specifi cally to take out large numbers of enemy troops in trenches and
@@ -2983,7 +3099,7 @@ Ammunition: 40 attacks
 ```
 Sensors Basic (1 km +1 DM) 0.5 1 500
 Communications Radio 10 km (TL 4) 0 0.5 250
-Crew 3 (driver, 2 gunners) — — —
+Crew3 (driver, 2 gunners) — — —
 Operating Stations 3 3.75 375 —
 Cargo 0.004 dTons 0.16 16 —
 Agility +1 DM — — —
@@ -2993,6 +3109,8 @@ Ground Pressure 1.91 — — —
 ```
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **ARMORED CAR**
 The armored car performs a similar function to the light tank (see page 34) but are more commonplace on lower technology
@@ -3014,7 +3132,7 @@ Fuel Consumption: 8 per hour
 
 ```
 Fuel 48 litres (6 hours operation) 0.05 48 —
-Armor Steel 9 (15/10/10/7/6/6) 0.09 540 180
+Armor Steel9 (15/10/10/7/6/6) 0.09 540 180
 Weapons Light Machinegun (dorsal external traversing)
 Ammunition: 60 attacks
 0.575 22.75 4,500
@@ -3023,7 +3141,7 @@ Ammunition: 60 attacks
 ```
 Sensors Minimal (0.25 km +0 DM) 0.25 0.5 100
 Communications Radio 100 km 1 10 1,000
-Crew 2 (commander, driver) — — —
+Crew2 (commander, driver) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.121 dTons 1.63 163 —
 Agility +0 DM — — —
@@ -3068,7 +3186,7 @@ Communications Radio 100 km (TL 7) 0.5 5 1,000
 Equipment Improved Controls 0 0 6,500
 — Drive Wheels (8x8) 1.95 195 3,900
 — Offroad Suspension 0.65 65 5,200
-Crew 3 (commander, driver, gunner) — — —
+Crew3 (commander, driver, gunner) — — —
 Operating Stations 3 3.75 375 —
 Passengers 6 6 600 —
 Cargo 0.014 dTons 0.19 19 —
@@ -3079,6 +3197,8 @@ Ground Pressure 2.76 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **AFV (TL 12) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 36 M^3 , Standard confi guration, Advanced Composites — 3,240 18,000
@@ -3104,7 +3224,7 @@ Ammunition: 35 attacks
 
 Sensors Advanced Compact (5 km +3 DM) 1.5 1.25 4,000
 Communications Laser 50 km 2 8 5,000
-Crew 2 (commander/gunner, driver) — — —
+Crew2 (commander/gunner, driver) — — —
 Operating Stations 2 2.5 250 —
 Passengers 6 6 600 —
 Cargo 0.025 dTons 0.34 34 —
@@ -3114,6 +3234,8 @@ Total — 36 12,863 5,886,000
 Ground Pressure 1.79 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **ARMORED PERSONNEL CARRIER**
 The Armored Personnel Carrier is a common sight in most mechanised military forces. These vehicles allow a squad of troops to
@@ -3135,11 +3257,11 @@ Fuel Consumption: 28 per hour
 
 ```
 Fuel 168 litres (6 hours operation) 0.17 168 —
-Armor Steel 9 (12/10/10/8/7/7) 0.3 1,800 600
+Armor Steel9 (12/10/10/8/7/7) 0.3 1,800 600
 Sensors Minimal (0.25 km +0 DM) 0.25 0.5 100
 Communications Radio 50 km (TL 4) 0.25 2.5 750
 Crew 2 — — —
-Operating Stations 2 (commander, driver) 2.5 250 —
+Operating Stations2 (commander, driver) 2.5 250 —
 Passengers 10 10 1,000 —
 Agility +0 DM — — —
 Speed Cruise: 32 kph Top: 43 kph Offroad: 22 kph — — —
@@ -3168,7 +3290,7 @@ Sensors Minimal (0.25 km +0 DM) 0.25 0.5 100
 Communications Radio 50 km (TL 7) 0.25 1 750
 Equipment Drive Wheels (6x6) 1.5 150 3,000
 Offroad Suspension 0.75 75 6,000
-Crew 2 (commander, driver) — — —
+Crew2 (commander, driver) — — —
 Operating Stations 2 2.5 250 —
 Passengers 12 12 1,200 —
 Cargo 0.073 dTons 1.29 129 —
@@ -3179,6 +3301,8 @@ Ground Pressure 2.53 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **ARMORED TRAIN**
 Trains are used to transport troops and supplies over long distances. Specially designed carriages are also used to transport
@@ -3242,6 +3366,8 @@ Ground Pressure 3.31 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
 
+
+
 **ASSAULT-CYCLE**
 A semi-enclosed, one-man armored motorcycle that moves at very high speeds, while allowing the rider to fi re twin LMGs at
 targets that it passes by.
@@ -3283,6 +3409,8 @@ Ground Pressure 1.75 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **ASSAULT TANK**
 This formidable tank is a heavy vehicle designed to take on enemy armor. The most notable feature of the assault tank is the turret
@@ -3326,7 +3454,7 @@ Ammunition: 25 attacks (each gun)
 Sensors Comprehensive Compact (3 km +2 DM) 0.5 1 2,000
 Communications Radio 20 km (TL 7) 0.1 0.5 500
 Equipment Improved Controls 0 0 20,000
-Crew 6 (commander, driver, sensors, gunner, 2 loaders) — — —
+Crew6 (commander, driver, sensors, gunner, 2 loaders) — — —
 Operating Stations 6 7.5 750 —
 Cargo 0.004 dTons 0.37 37 —
 Agility +2 DM — — —
@@ -3374,7 +3502,7 @@ Ammunition: 12 attacks each
 ```
 Sensors Comprehensive Very Long Range (30 km +2 DM) 6 8 20,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
-Crew 3 (commander, driver, gunner) — — —
+Crew3 (commander, driver, gunner) — — —
 Operating Stations 3 3.75 375 —
 Cargo 0.31 dTons 4.19 419 —
 Agility +1 DM — — —
@@ -3384,6 +3512,8 @@ Ground Pressure 1.80 — — —
 ```
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **BATTLE TANK**
 Battle tanks are a large type of tank, their size required to accommodate a second independent turret. The rear turret is raised
@@ -3441,7 +3571,7 @@ Ammunition: 35 attacks
 ```
 Sensors Comprehensive Hardened (3 km +2 DM) 1.5 4 4,000
 Communications Radio 50 km (TL 7) 0.25 1 750
-Crew 6 (commander, driver, 2 gunners, 2 loaders) — — —
+Crew6 (commander, driver, 2 gunners, 2 loaders) — — —
 Operating Stations 6 7.5 750 —
 Cargo 0.025 dTons 0.34 34 —
 Agility +1 DM — — —
@@ -3451,6 +3581,8 @@ Ground Pressure 2.13 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **HEAVY TANK**
 Heavy tanks are large armored vehicles with powerful weaponry. They are primarily used for breakthrough attacks and engaging
@@ -3493,7 +3625,7 @@ Ammunition: 95 attacks
 ```
 Sensors Basic Extended Range, Hardened (3 km +1 DM) 1.5 3 4,000
 Communications Radio 100 km (TL 4) 1 10 1,000
-Crew 5 (commander, driver, co-driver, gunner, loader) — — —
+Crew5 (commander, driver, co-driver, gunner, loader) — — —
 Operating Stations 5 6.25 625 —
 Cargo 0.099 dTons 1.33 133 —
 Agility +1 DM — — —
@@ -3543,7 +3675,7 @@ Ammunition: 45 attacks
 ```
 Sensors Basic (1 km +1 DM) 0.5 1 500
 Communications Radio 100 km (TL 4) 1 10 1,000
-Crew 3 (commander, driver, gunner) — — —
+Crew3 (commander, driver, gunner) — — —
 Operating Stations 3 3.75 375 —
 Agility +1 DM — — —
 Speed Cruise: 66 kph Top: 88 kph Offroad: 44 kph — — —
@@ -3552,6 +3684,8 @@ Ground Pressure 1.49 — — —
 ```
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **MAIN TANK**
 Main tanks are the mainstay tank of most military forces. They are well armored and have both a turret mounted weapon and a
@@ -3606,7 +3740,7 @@ Ammunition: 10 attacks
 Decoys Smoke Discharger 0.2 0 75
 Sensors Comprehensive (3 km +2 DM) 1 2 1,000
 Communications Radio 20 km (TL 7) 0.1 0.5 500
-Crew 4 (commander, driver, gunner, loader) — — —
+Crew4 (commander, driver, gunner, loader) — — —
 Operating Stations 4 5 500 —
 Agility +1 DM — — —
 Speed Cruise: 51 kph Top: 67 kph Offroad: 34 kph — — —
@@ -3615,6 +3749,8 @@ Ground Pressure 1.93 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 ```
 Main Tank (TL 10) M^3 Mass (kg) Cost (Cr.)
@@ -3655,7 +3791,7 @@ Decoys Smoke Discharger (triple) 0.5 0 150
 Sensors Advanced Compact (5 km +3 DM) 1.5 1.25 4,000
 Communications Laser 20 km 1 6 1,000
 Equipment Performance Tuning 10% 0 0 169,600
-Crew 4 (commander, driver, gunner, loader) — — —
+Crew4 (commander, driver, gunner, loader) — — —
 Operating Stations 4 5 500 —
 Cargo 0.004 dTons 0.9 90 —
 Agility +1 DM — — —
@@ -3716,7 +3852,7 @@ Ammunition: 10 attacks
 ```
 Sensors Basic Compact Extended Range (3 km +1 DM) 0.5 0.75 2,000
 Communications Radio 20 km (TL 4) 0.1 1 500
-Crew 4 (commander, driver, gunner, loader) — — —
+Crew4 (commander, driver, gunner, loader) — — —
 Operating Stations 4 5 500 —
 Agility +1 DM — — —
 Speed Cruise: 42 kph Top: 56 kph Offroad: 28 kph — — —
@@ -3725,6 +3861,8 @@ Ground Pressure 2.05 — — —
 ```
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **MOBILE COMMAND CENTRE**
 The Mobile Command Centre is exactly what its name suggests, a large tactical vehicle used to command military forces in the
@@ -3813,7 +3951,7 @@ operators, 3 gunners, 3 loaders)
 ```
 Operating Stations 2 plus workstations 11.3 1,130 —
 Passengers 6 6 600 —
-Utility Areas 1 (8 occupants) 19 1,425 23,750
+Utility Areas1 (8 occupants) 19 1,425 23,750
 Cargo 0.150 dTons 2.02 202 —
 Agility +1 DM — — —
 Speed Cruise: 29 kph Top: 39 kph Offroad: 19 kph — — —
@@ -3822,6 +3960,8 @@ Ground Pressure 2.60 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **SCOUT BUGGY**
 This fast offroad buggy is equipped with sensors and is used primarily for fast reconnaissance missions where speed is required
@@ -3849,7 +3989,7 @@ Communications Radio 100 km (TL 4) 1 10 1,000
 Equipment Excellent Controls 0.08 6.4 8,000
 — Drive Wheels (4x4) 0.2 20 400
 — Offroad Suspension 0.2 20 1,600
-Crew 2 (commander, driver) — — —
+Crew2 (commander, driver) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.006 dTons 0.08 8 —
 Agility +1 DM (+3 DM offroad) — — —
@@ -3892,7 +4032,7 @@ Laser Sensor TL 9 +2 DM 0.25 0 1,500
 Sensors Advanced Compact (5 km +3 DM) 1.5 1.25 4,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Equipment Drive Wheels (4x4) 0.18 18 350
-Crew 2 (driver, sensor operator) — — —
+Crew2 (driver, sensor operator) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.027 dTons 0.36 36 —
 Agility +0 DM — — —
@@ -3902,6 +4042,8 @@ Ground Pressure 1.64 — — —
 ```
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 ## WWAALKERSLKERS
 
@@ -3957,6 +4099,8 @@ Ground Pressure 2.49 — — —
 
 WWAALKERSLKERS
 
+
+
 **CHIMERA**
 This medium sized walker is a well balanced war vehicle equipped with a variety of weapons. The chimera is a versatile walker that
 can be used in both offensive and defensive roles, as well as escorting heavier vehicles. The amount of weaponry on this walker
@@ -4001,7 +4145,7 @@ Ammunition: N/A
 Sensors Advanced Compact (5 km +3 DM) 1.5 1.25 4,000
 Communications Laser 20km 1 6 1,000
 Equipment Wide Suspension — 650 32,500
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Agility +1 DM — — —
 Speed Cruise: 5 kph Top: 7 kph Offroad: 4 kph — — —
@@ -4060,6 +4204,8 @@ Ground Pressure 2.10 — — —
 ```
 
 WWWAALKERSALLKKEERRSS
+
+
 
 **HYDRA**
 The hydra is a heavy support walker armed only with missile and rockets. Although it can release a devastating volley at multiple
@@ -4126,6 +4272,8 @@ Ground Pressure 2.78 — — —
 
 WWAALKERSLKERS
 
+
+
 **LEVIATHAN**
 This large walker can operate on land and underwater. Not only can it attack underwater vessels and facilities but it is well known
 for launching surprise attacks on coastal targets; a unit of leviathans emerging from the sea is a terrifying sight and can take out
@@ -4190,6 +4338,8 @@ Ground Pressure 2.65 — — —
 
 WWWAALKERSALLKKEERRSS
 
+
+
 **MANTIS**
 The mantis is a small lightly armed walker, most often used as scouting vehicle. A common tactic with these walkers is to deploy a
 large number (often called a 'swarm') to assault larger and less mobile vehicles.
@@ -4232,6 +4382,8 @@ Ground Pressure 2.69 — — —
 ```
 
 WWAALKERSLKERS
+
+
 
 **SCORPION**
 The scorpion is a medium sized walker armed with a plasma gun. These walkers often make up the bulk of walker squadrons and
@@ -4286,6 +4438,8 @@ Ground Pressure 2.81 — — —
 
 GGRRAVAV VVEEHICLESHICLES
 
+
+
 ## GGRRAVAV VVEEHICLESHICLES
 
 **COVERT GRAV VEHICLE**
@@ -4324,7 +4478,7 @@ Communications Laser 5km 0.5 2 200
 Environmental Life Support, Basic 0.09 18 4,500
 Equipment Improved Controls 0 0 2,250
 — Performance Tuning 10% 0 0 262,500
-Crew 2 (driver, sensor operator) — — —
+Crew2 (driver, sensor operator) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.024 dTons 0.33 33 —
 Agility +1 DM — — —
@@ -4333,6 +4487,8 @@ Total — 9 2,122 704,950
 ```
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 **G/BOMBER**
 The grav bomber has replaced the attack helicopter in a ground attack role. This vehicle carries a substantial array of air-to-ground
@@ -4390,6 +4546,8 @@ Total — 32.38 14,308 1,493,363
 ```
 
 GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
+
+
 
 ```
 G/Bomber (TL 14) M^3 Mass (kg) Cost (Cr.)
@@ -4471,7 +4629,7 @@ Ammunition: N/A
 ```
 Sensors Advanced Compact (5 km +3 DM) 1.5 1.25 4,000
 Communications Laser 50km 2 8 5,000
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Passengers 12 12 1,200 —
 Cargo 0.12 dTons 1.61 161 —
@@ -4481,6 +4639,8 @@ Total — 32 14,875 2,666,250
 ```
 
 GRAV VEHICLES
+
+
 
 **G/Carrier (TL 15) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 33 M^3 (base 27), Box confi guration, Superdense,
@@ -4513,7 +4673,7 @@ Ammunition: N/A
 Sensors Advanced Compact (5 km +3 DM) 1.5 1.25 4,000
 Communications Laser 50km 2 8 5,000
 Environmental Life Support, Basic 0.27 54 13,500
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Passengers 14 14 1,400 —
 Cargo 0.121 dTons 1.27 127 —
@@ -4522,6 +4682,8 @@ Speed Cruise: 358 kph Top: 477 kph — — —
 Total — 33 17,613 16,044,750
 
 GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
+
+
 
 **G/FIGHTER**
 Grav fi ghters are the mainstay of modern air forces. These fast and agile craft fulfi l a variety of roles including escort, interception
@@ -4551,7 +4713,7 @@ Fuel Consumption: 8 per hour
 
 ```
 Fuel 80 litres (10 hours operation) 0.08 80 —
-Armor 6 (11 vs. lasers) 0 0 0
+Armor6 (11 vs. lasers) 0 0 0
 Weapons Laser Cannon (front external fi xed, TL 10
 stabilization)
 Ammunition: N/A
@@ -4578,6 +4740,8 @@ Total — 19.85 8,265 1,967,800
 
 GGRRAVAV VVEEHICLESHICLES
 
+
+
 ```
 G/Fighter (TL 12) M^3 Mass (kg) Cost (Cr.)
 Hull 20 M^3 , Super Streamlined confi guration, Superdense,
@@ -4602,7 +4766,7 @@ Fuel Consumption: 10 per hour
 
 ```
 Fuel 80 litres (8 hours operation) 0.08 80 —
-Armor 7 (12 vs. lasers) 0 0 0
+Armor7 (12 vs. lasers) 0 0 0
 Weapons 12mm Light Gauss Cannon (front external fi xed, TL
 10 stabilization)
 Ammunition: 20 attacks
@@ -4668,7 +4832,7 @@ Ammunition: N/A
 ```
 Sensors Advanced Hardened Compact (5 km +3 DM) 2.25 2.5 16,000
 Communications Laser 20km 1 6 1,000
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.056 dTons 0.74 – —
 Agility +0 DM — — —
@@ -4677,6 +4841,8 @@ Total — 26 18,348 3,237,400
 ```
 
 GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
+
+
 
 **G/Tank (TL 12) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 34 M^3 (base 42), Super Sloped confi guration,
@@ -4711,7 +4877,7 @@ Sensors Excellent Hardened (10 km +4 DM) 7.5 6 16,000
 Communications Laser 20km 1 6 1,000
 Equipment Ejection Cocoon 1.5 130 100,000
 Environmental Life Support, Basic 0.42 84 21,000
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.017 dTons 0.09 9 —
 Agility +0 DM — — —
@@ -4749,7 +4915,7 @@ Ammunition: N/A
 Sensors Excellent, Hardened, Compact (30 km +4 DM) 3.75 3 32,000
 Communications Laser 20km 1 6 1,000
 Environmental Life Support, Basic 0.4 80 40,000
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.012 dTons 0.16 16 —
 Agility +0 DM — — —
@@ -4757,6 +4923,8 @@ Speed Cruise: 271 kph Top: 361 kph — — —
 Total — 32 29,318 20,708,000
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 **GRAV ASSAULT VEHICLE**
 The Grav Assault Vehicle is a lightly armored fast attack vehicle. GAVs are usually used for scouting or attacks on distributed
@@ -4811,7 +4979,7 @@ Sensors Excellent Compact (10 km +4 DM) 2.5 1.5 8,000
 Communications Laser 50km 2 8 5,000
 Equipment Airfl ow Device: Wing Slats 0 10.63 1,700
 — Improved Controls 0 0 4,250
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Agility +2 DM — — —
 Speed Cruise: 1,177 kph Top: 1,570 kph — — —
@@ -4819,6 +4987,8 @@ Total — 16.87 4,905 532,513
 ```
 
 GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
+
+
 
 **GRAVCOPTER**
 Fast and agile, the gravcopter uses two small gravitic generators located to either side of the passenger cabin to propel itself
@@ -4864,7 +5034,7 @@ Sensors Comprehensive Compact (3 km +2 DM) 0.5 1 2,000
 Communications Laser 20km 1 6 1,000
 Environmental Life Support, Basic 0.28 56 14,000
 Equipment Improved Controls 0 0 7,000
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Passengers 12 12 1,200 —
 Cargo 0.124 dTons 1.68 168 —
@@ -4874,6 +5044,8 @@ Total — 28 5,365 778,563
 ```
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 ```
 Gravcopter (TL 12) M^3 Mass (kg) Cost (Cr.)
@@ -4917,7 +5089,7 @@ Sensors Advanced Compact (5 km +3 DM) 1.5 1.25 4,000
 Communications Laser 20km 1 6 1,000
 Environmental Life Support, Basic 0.3 60 15,000
 Equipment Improved Controls 0 0 7,500
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Passengers 12 12 1,200 —
 Cargo 0.08 dTons 1.08 108 —
@@ -4968,6 +5140,8 @@ Total — 2.94 755 92,275
 
 GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
 
+
+
 **GUNSKIFF**
 A mobile gun platform that allows passengers to fi re their weaponry over a somewhat precarious railing. Sometimes used to ferry
 troops, but most often used as fi repower platforms. Gunskiffs are a favorite of the Aslan, who also use them to deploy assault
@@ -5003,7 +5177,7 @@ Ammunition: 25 attacks
 Sensors Advanced (5 km +3 DM) 3 2.5 2,000
 Communications Laser 50 km 2 8 5,000
 Equipment Improved Controls 0 0 5,000
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 1.25 250 —
 Passengers 15 7.5 1,500 —
 Cargo 0.08 dTons 0.88 88 —
@@ -5013,6 +5187,8 @@ Total — 20 6,243 543,313
 ```
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 **HEAVY GRAV TRANSPORT**
 The Heavy Grav Transport is a large, lightly armored vehicle used to transport supplies, troops and vehicles. Ramps at the
@@ -5057,7 +5233,7 @@ Ammunition: 60 attacks
 Decoys Chaff Dispenser (6 uses) 0.25 0 600
 Sensors Excellent (10 km +4 DM) 5 3 4,000
 Communications Laser 50km 2 8 5,000
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Passengers 60 60 6,000 —
 Cargo 10.853 dTons 143.83 14,383 —
@@ -5067,6 +5243,8 @@ Total — 264 98,342 6,688,600
 ```
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 **HOVERTRAK**
 A bit of a misnomer, the hovertrak anti-armor tank has no 'trak' portion at all. It was originally named for the tracked version of its
@@ -5122,7 +5300,7 @@ Ammunition: 10 attacks
 Sensors Excellent Compact (10 km +4 DM) 2.5 1.5 8,000
 Communications Laser 50km 2 8 5,000
 Environmental Life Support, Basic 0.33 66 16,500
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.061 dTons 0.44 44 —
 Agility +0 DM — — —
@@ -5131,6 +5309,8 @@ Total — 26 12,866 8,348,438
 ```
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 ## AAIIRCRAFTRCRAFT
 
@@ -5233,6 +5413,8 @@ Total — 5,000 1,229,295 80,521,250
 
 AAAIIRCRAFTIRRCCRRAAFFTT
 
+
+
 **ATTACK HELICOPTER**
 The attack helicopter is designed for anti-tank missions and to provide close air support to ground troops. Air-to-air missiles can
 also be fi tted to provide some defence against other aircraft, but this role is usually fi lled by fi xed wing fi ghters (see page 69).
@@ -5274,8 +5456,7 @@ external fi xed)
 
 ```
 Decoys Chaff Dispenser (6 uses) 0.25 0 600
-Sensors Comprehensive Extended Range, Hardened, Compact
-(9 km +2 DM)
+Sensors Comprehensive Extended Range, Hardened, Compact (9 km +2 DM)
 ```
 
 ```
@@ -5285,7 +5466,7 @@ Sensors Comprehensive Extended Range, Hardened, Compact
 ```
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Equipment Improved Controls 0 0 7,000
-Crew 2 (pilot, co-pilot) — — —
+Crew2 (pilot, co-pilot) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.19 dTons 0.58 58 —
 Agility +2 DM — — —
@@ -5323,7 +5504,7 @@ Decoys Chaff Dispenser (6 uses) 0.25 0 600
 Sensors Advanced Hardened, Compact (5 km +3 DM) 2.25 2.5 16,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Equipment Improved Controls 0 0 7,250
-Crew 2 (pilot, co-pilot) — — —
+Crew2 (pilot, co-pilot) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.08 dTons 0.72 72 —
 Agility +2 DM — — —
@@ -5334,6 +5515,8 @@ Total — 29 9,265 772,363
 (^1) The 30mm cannon used on this aircraft has the capabilities of the standard 120mm cannon in the weapons table on page 13.
 
 AAIIRCRAFTRCRAFT
+
+
 
 **CARRY-ALL**
 The carry-all is a huge helicopter with four rotors positioned at the corner of its expansive crew and cargo compartment. Although
@@ -5379,7 +5562,7 @@ Ammunition: 35 attacks
 ```
 Sensors Advanced (5 km +3 DM) 3 2.5 2,000
 Communications Laser 50 km 2 8 5,000
-Crew 6 (pilot, co-pilot, 4 gunners) — — —
+Crew6 (pilot, co-pilot, 4 gunners) — — —
 Operating Stations 6 7.5 750 —
 Passengers 100 100 10,000 —
 Cargo 3.115 dTons 41.84 4,304 —
@@ -5389,6 +5572,8 @@ Total — 440 127,000 4,612,000
 ```
 
 AAAIIRCRAFTIRRCCRRAAFFTT
+
+
 
 **DIVE BOMBER**
 Designed to give close support to ground troops or make precision attacks against fortifi ed positions or naval vessels the dive
@@ -5433,7 +5618,7 @@ Ammunition: 1 attack
 ```
 Sensors Basic (1 km +1 DM) 0.5 1 500
 Communications Radio 50 km (TL 4) 0.25 2.5 750
-Crew 2 (pilot, gunner) — — —
+Crew2 (pilot, gunner) — — —
 Operating Stations 2 2.5 250 —
 Agility +1 DM — — —
 Speed Cruise: 250 kph Top: 333 kph — — —
@@ -5464,7 +5649,7 @@ Armor Iron 5 0.3 1,980 450
 Weapons 5 x Medium Bomb (ventral internal fi xed) 10 2,250 19,200
 Sensors Minimal (0.25 km +0 DM) 0.25 0.5 100
 Communications Radio 100 km (TL 4) 1 10 1,000
-Crew 2 (pilot, co-pilot) — — —
+Crew2 (pilot, co-pilot) — — —
 Operating Stations 2 2.5 250 —
 Agility +1 DM — — —
 Speed Cruise: 287 kph Top: 383 kph — — —
@@ -5472,6 +5657,8 @@ Total — 28.94 9,556 65,463
 ```
 
 AAIIRCRAFTRCRAFT
+
+
 
 **FIGHTER**
 Fighters are small fast planes designed for air-to-air combat and are a key factor for military forces to gain air superiority. Fighters
@@ -5514,6 +5701,8 @@ Total — 15.61 4,334 29,469
 ```
 
 AAAIIRCRAFTIRRCCRRAAFFTT
+
+
 
 **Jet Fighter (TL 6) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 16 M^3 , Airframe confi guration, Steel — 1,440 4,800
@@ -5585,8 +5774,7 @@ Ammunition: 25 attacks
 — 8x Medium Missile (ventral external fi xed) 0.8 192 16,000
 Decoys Chaff Dispenser (6 uses) 0.25 0 600
 Flare Launcher (6 uses) 0.25 0 400
-Sensors Comprehensive Long Range, Hardened, Compact
-(30 km +2 DM)
+Sensors Comprehensive Long Range, Hardened, Compact (30 km +2 DM)
 
 ```
 2.25 4 40,000
@@ -5603,6 +5791,8 @@ Speed Cruise: 2,681 kph Top: 3,574 kph — — —
 Total — 39.34 10,502 731,500
 
 AAIIRCRAFTRCRAFT
+
+
 
 **Jet Fighter (TL 10** ) **M**^3 **Mass (kg) Cost (Cr.)**
 Hull 60 M^3 , Super Airframe confi guration, Crystaliron,
@@ -5660,6 +5850,8 @@ Total — 56.34 22,032 1,214,000
 
 AAAIIRCRAFTIRRCCRRAAFFTT
 
+
+
 **FIGHTER-BOMBER**
 This type of fi ghter is designed for both air-to-air and air-to-ground attacks. Modern versions are often called strike fi ghters and
 use air-to-ground missiles instead of bombs. Fighter-bombers remove the need for fi ghter escorts and are primarily used for short
@@ -5714,7 +5906,7 @@ Compact (9 km +2 DM)
 ```
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Equipment 2 x Ejector Seat 1 20 10,000
-Crew 2 (pilot, co-pilot) —— —
+Crew2 (pilot, co-pilot) —— —
 Operating Stations 2 2.5 250 —
 Agility +1 DM —— —
 Speed Cruise: 1,249 kph Top: 1,665 kph —— —
@@ -5722,6 +5914,8 @@ Total — 35.16 14,864 359,800
 ```
 
 AAIIRCRAFTRCRAFT
+
+
 
 **INTERCEPTOR**
 Interceptors are lightly armored short range aircraft that are designed to seek and destroy enemy aircraft, particularly bombers.
@@ -5819,7 +6013,7 @@ km +3 DM)
 ```
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Equipment Ejector Cocoon 1.5 130 100,000
-Crew 2 (pilot, navigator) — — —
+Crew2 (pilot, navigator) — — —
 Operating Stations 2 2.5 250 —
 Agility +1 DM — — —
 Speed Cruise: 2,792 kph Top: 3,722 kph — — —
@@ -5827,6 +6021,8 @@ Total — 39.55 10,861 609,500
 ```
 
 AAAIIRCRAFTIRRCCRRAAFFTT
+
+
 
 **JET HELICOPTER**
 These helicopters work just like a traditional helicopter with the addition of jet propulsion used to provide bursts of speed over short
@@ -5881,7 +6077,7 @@ Compact (150 km +2 DM)
 
 ```
 Communications Laser 50 km 2 8 5,000
-Crew 2 (pilot, co-pilot) — — —
+Crew2 (pilot, co-pilot) — — —
 Operating Stations 2 2.5 250 —
 Agility +1 DM — — —
 Speed (normal) Cruise: 220 kph Top: 294 kph — — —
@@ -5890,6 +6086,8 @@ Total — 29.89 4,378 575,350
 ```
 
 AAIIRCRAFTRCRAFT
+
+
 
 **SCOUT HELICOPTER**
 The scout helicopter is lightly armed for fast reconnaissance missions. For situations where heavy ground resistance is expected,
@@ -5940,7 +6138,7 @@ DM)
 
 ```
 Communications Radio 100 km (TL 7) 0.5 5 1,000
-Crew 3 (pilot, co-pilot, sensor operator) — — —
+Crew3 (pilot, co-pilot, sensor operator) — — —
 Operating Stations 3 3.75 375 —
 Cargo 0.068 dTons 0.21 21 —
 Agility +1 DM — — —
@@ -5949,6 +6147,8 @@ Total — 24 3,196 227,375
 ```
 
 AAAIIRCRAFTIRRCCRRAAFFTT
+
+
 
 **SPY PLANE**
 Spy planes are extremely fast aircraft used for surveillance in enemy territory. These aircraft employ stealth technology and use
@@ -5992,7 +6192,7 @@ Communications Laser 100 km 5 10 12,000
 Environmental Life Support, Improved 1.3 325 162,500
 Equipment Ejector Cocoon 1.5 130 100,000
 — Excellent Controls 0.65 41 65,000
-Crew 2 (pilot, co-pilot) — — —
+Crew2 (pilot, co-pilot) — — —
 Operating Stations 2 2.5 250 —
 Agility +3 DM — — —
 Speed Cruise: 3,709 kph Top: 4,946 kph — — —
@@ -6000,6 +6200,8 @@ Total — 57.54 9,216 1,305,844
 ```
 
 AAIIRCRAFTRCRAFT
+
+
 
 **STEALTH BOMBER**
 These planes are strategic bombers that employ stealth technology to avoid detection by enemy forces. The stealth bomber is
@@ -6045,7 +6247,7 @@ DM)
 ```
 Communications Laser 50 km 2 8 5,000
 Equipment Ejector Seat 1 20 10,000
-Crew 2 (pilot. co-pilot) — — —
+Crew2 (pilot. co-pilot) — — —
 Operating Stations 2 2.50 250 —
 Agility +1 DM — — —
 Speed Cruise: 1,412 kph Top: 1,883 kph — — —
@@ -6053,6 +6255,8 @@ Total — 49.36 14,240 443,225
 ```
 
 AAAIIRCRAFTIRRCCRRAAFFTT
+
+
 
 **STRATEGIC BOMBER**
 Strategic bombers are large planes with turret weapons to defend against enemy fi ghters. They are slower than most conventional
@@ -6117,7 +6321,7 @@ Ammunition: 30 attacks
 — 2 x Heavy Bomb (ventral internal fi xed) 8 2,400 9,600
 Sensors Basic Long Range Compact (10 km +1 DM) 0.75 1 5,000
 Communications Radio 100 km (TL 4) 1 10 1,000
-Crew 6 (pilot, co-pilot/bomber, 4 gunners) — — —
+Crew6 (pilot, co-pilot/bomber, 4 gunners) — — —
 Operating Stations 6 7.5 750 —
 Agility +1 DM — — —
 Speed Cruise: 270 kph Top: 360 kph — — —
@@ -6125,6 +6329,8 @@ Total — 45.62 13,598 106,680
 ```
 
 AAIIRCRAFTRCRAFT
+
+
 
 **Strategic Bomber (TL 8) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 150 M^3 , Airframe confi guration, Advanced
@@ -6191,13 +6397,15 @@ DM)
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Equipment Ejector Seats 3 60 30,000
 Environmental Basic 1.5 300 75,000
-Crew 6 (pilot, co-pilot, 4 gunners) — — —
+Crew6 (pilot, co-pilot, 4 gunners) — — —
 Operating Stations 6 7.5 750 —
 Agility +1 DM — — —
 Speed Cruise: 965 kph Top: 1,287 kph — — —
 Total — 149.9 47,337 1,331,752
 
 AAAIIRCRAFTIRRCCRRAAFFTT
+
+
 
 **TRANSPORT HELICOPTER**
 The transport helicopter is designed for troop deployment and to give covering fi re. The sides can be opened, allowing troops to
@@ -6240,7 +6448,7 @@ Ammunition: 10 attacks
 ```
 Sensors Basic (1 km +1 DM) 0.5 1 500
 Communications Radio 50 km (TL 4) 0.25 2.5 750
-Crew 2 (pilot, co-pilot) — — —
+Crew2 (pilot, co-pilot) — — —
 Operating Stations 2 2.5 250 —
 Passengers 12 12 1,200 —
 Cargo 0.048 dTons 0.65 65 —
@@ -6272,7 +6480,7 @@ Fuel Consumption: 50 per hour
 Fuel 1,200 litres (24 hours operation) 1.20 1,200 —
 Armor 2 — — —
 Communications Radio 50 km (TL 4) 0.25 2.5 750
-Crew 2 (pilot, co-pilot) — — —
+Crew2 (pilot, co-pilot) — — —
 Operating Stations 2 2.5 250 —
 Passengers 20 20 2,000 —
 Cargo 4.078 dTons 56.05 5,605 —
@@ -6282,6 +6490,8 @@ Total — 100 22,093 127,125
 ```
 
 AAIIRCRAFTRCRAFT
+
+
 
 ```
 Transport Plane (TL 7) M^3 Mass (kg) Cost (Cr.)
@@ -6310,7 +6520,7 @@ Fuel 4,680 litres (20 hours operation) 4.68 4,680 —
 Armor 4 — — —
 Sensors Comprehensive (3 km +2 DM) 1 2 1,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
-Crew 2 (pilot, co-pilot) — — —
+Crew2 (pilot, co-pilot) — — —
 Operating Stations 2 2.5 250 —
 Passengers 40 40 4,000 —
 Cargo 24.02 dTons 324.32 32,432 —
@@ -6366,7 +6576,7 @@ Sensors Comprehensive, Hardened (3 km +2 DM) 1.5 4 4,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Equipment 2 x Ejector Seat 1 20 10,000
 — Precision Drive 2.63 262.5 735,000
-Crew 2 (pilot, co-pilot) — — —
+Crew2 (pilot, co-pilot) — — —
 Operating Stations 2 2.5 250 —
 Agility +3 DM — — —
 Speed Cruise: 1,261 kph Top: 1,681 kph — — —
@@ -6374,6 +6584,8 @@ Total — 69.87 23,552 1,400,925
 ```
 
 AAIIRCRAFTRCRAFT
+
+
 
 **ZEPPELIN**
 Zeppelins (sometimes referred to as dirigibles) employ a large reinforced balloon to provide lift and a number of vectored propellers
@@ -6446,6 +6658,8 @@ Total — 43 9,758 124,740
 
 AAIIRCRAFTRCRAFT
 
+
+
 ## WWAATERCRAFTTERCRAFT
 
 **BATTLE SUB**
@@ -6492,7 +6706,7 @@ Sensors Comprehensive (3 km +2 DM) 1 2 1,000
 Communications Radio 10 km (TL 7) 0 0.25 250
 Environmental Life Support, Basic 0.22 44 11,000
 Equipment Improved Controls 0 0 5,500
-Crew 2 (pilot, gunner) — — —
+Crew2 (pilot, gunner) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.029 dTons 1.1 110 —
 Agility –1 DM — — —
@@ -6501,6 +6715,8 @@ Total — 22 7,530 148,175
 ```
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
+
+
 
 **BATTLEFOIL**
 These armed hydrofoils are used for fast assaults and interception missions. Foils are mounted under the hull, designed to lift
@@ -6596,6 +6812,8 @@ Total — 1999.9 567,865 8,863,700
 
 WWAATERCRAFTTERCRAFT
 
+
+
 **COASTAL SUBMARINE**
 A small submarine designed to defend home coastal waters, its small size allowing it to operate in shallow waters.
 
@@ -6687,9 +6905,10 @@ Total — 1,000 341,491 16,302,450
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
 
+
+
 **COMBAT SUBMARINE**
-Combat submarines have a variety of uses including attacking enemy vessels, escort duties and blockade running. Later submarines
-(usually nuclear powered) are also capable of launching missiles at land based targets.
+Combat submarines have a variety of uses including attacking enemy vessels, escort duties and blockade running. Later submarines (usually nuclear powered) are also capable of launching missiles at land based targets.
 
 ```
 Combat Submarine (TL 6) M^3 Mass (kg) Cost (Cr. )
@@ -6766,6 +6985,8 @@ Total — 1,200 500,563 3,487,050
 ```
 
 WWAATERCRAFTTERCRAFT
+
+
 
 **CORVETTE**
 The smallest ocean going surface warship in many navies the corvette is outclassed by larger ships but still fulfi ls a valuable role
@@ -6846,6 +7067,8 @@ Total — 3,799.88 2,045,941 7,429,000
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
 
+
+
 **Corvette (TL 9) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 3,700 M^3 , Standard Confi guration, Advanced
 Composites, Waterproof
@@ -6922,6 +7145,8 @@ Speed Cruise: 42 kph Top: 56 kph — — —
 Total — 3,700 1,126,819 22,903,773
 
 WWAATERCRAFTTERCRAFT
+
+
 
 **FRIGATE**
 Frigates are the workhorses of many fl eets performing many details in a modern task force. Although smaller than many major fl eet
@@ -7030,6 +7255,8 @@ Total — 7,000 3,659,382 15,720,230
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
 
+
+
 **Frigate (TL 10) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 6,500 M^3 , Super Streamlined confi guration, Light
 Alloys, Waterproof
@@ -7086,8 +7313,7 @@ Sensors Advanced Long Range, Hardened (50 km +3 DM) 13.5 10 40,000
 Communications Laser 1,000 km 15 20 25,000
 Equipment Fuel Processor 1.5 150 15,000
 Hangar 2 Grav Copters (see page xx) 280 38,478 1,837,126
-Crew 161 (14 offi cers, 4 helmsmen, 60 gunners
-(+1 DM), 50 engineers (+2 DM), 6 sensors, 2
+Crew 161 (14 offi cers, 4 helmsmen, 60 gunners (+1 DM), 50 engineers (+2 DM), 6 sensors, 2
 communications, 13 support, 4 small craft crew, 8
 small craft engineers and support)
 
@@ -7110,6 +7336,8 @@ Speed Cruise: 55 kph Top: 74 kph — — —
 Total — 6,487.76 2,604,901 39,666,376
 
 WWAATERCRAFTTERCRAFT
+
+
 
 **GALLEON**
 The galleon is one of the earliest warships. These large vessels are multi-decked sailing ships with three to fi ve masts. Cannons
@@ -7177,6 +7405,8 @@ Total — 1,587.5 292,345 689,330
 ```
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
+
+
 
 **HOSPITAL SHIP**
 This short ranged ship is designed primarily to ferry troops from a hostile shore to larger and better equipped vessels nearby.
@@ -7295,6 +7525,8 @@ Total — 94.93 17,678 179,550
 
 WWAATERCRAFTTERCRAFT
 
+
+
 **RIVER IRONCLAD**
 These steam powered warships are heavily armored vessels that sit low in the water. Ironclads are armed with heavy artillery
 and are capable of attacking ships and close range land targets. They are mostly used for battle close to shore or upon rivers
@@ -7363,6 +7595,8 @@ Total — 520 230,612 603,580
 ```
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
+
+
 
 **SUBMERSIBLE CARRIER**
 This large submarine is well armored and is designed to carry small short range vessels such as battle subs (see page 81) and
@@ -7437,6 +7671,8 @@ Total — 5,100 1,673,550 62,427,820
 
 WWAATERCRAFTTERCRAFT
 
+
+
 **TRIREME**
 The trireme is a warship used by low technology cultures and derives its name from the three banks of oars used to propel the
 vessel. These ships are fast and agile but unarmed, instead they board other vessels to allow the soldiers and archers carry out
@@ -7489,6 +7725,8 @@ Total — 278.4 44,835 72,540
 ```
 
 WWAATERCRAFTTERCRAFT
+
+
 
 ## HHYYBRIDBRID VVEEHICLESHICLES
 
@@ -7572,6 +7810,8 @@ Ground Pressure 3.46 — — —
 
 HHYYBRIDBRID VVEEHICLESHICLES
 
+
+
 **AMTRACK**
 The amtrack is an amphibious light tank. Although not as heavily armed as other tanks, this tank has a great tactical advantage in
 locations where conventional tanks would be cut off by large bodies of water.
@@ -7614,7 +7854,7 @@ Ammunition: 60 attacks
 ```
 Sensors Basic (1 km +1 DM) 0.5 1 500
 Communications Radio 100 km (TL 7) 0.5 5 1,000
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.059 dTons 1.07 107 —
 Agility +1 DM — — —
@@ -7625,6 +7865,8 @@ Ground Pressure 1.51 — — —
 ```
 
 HHHYYBRIDYBBRRIIDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **ASSAULT CAPSULE**
 A cylindrical vehicle designed for tunnelling under enemy lines to deliver soldiers, the assault capsule can take a squad through
@@ -7665,8 +7907,7 @@ Operating Stations 1 1.25 125 —
 Passengers 8 8 800 —
 Agility +1 DM — — —
 Speed (land) Cruise: 15 kph Top: 20 kph Offroad: 10 kph — — —
-Speed
-(underground)
+Speed (underground)
 ```
 
 ```
@@ -7679,6 +7920,8 @@ Ground Pressure 1.93 — — —
 ```
 
 HHYYBRIDBRID VVEEHICLESHICLES
+
+
 
 **ASSAULT CARRIER**
 A fast open topped hovercraft used to transport troops and small vehicles over land and water. The roll-on/roll-off design allows for
@@ -7732,7 +7975,7 @@ Ammunition: 60 attacks
 Sensors Comprehensive (3 km +2 DM) 1 2 1,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Crew 3 — — —
-Operating Stations 3 (driver, 2 gunners) 3.75 375 —
+Operating Stations3 (driver, 2 gunners) 3.75 375 —
 Passengers 14 14 1,400 —
 Cargo 3.216 dTons 43.41 4,341 —
 Agility -1 DM — — —
@@ -7741,6 +7984,8 @@ Total — 94 22,309 2,950,574
 ```
 
 HHHYYBRIDYBBRRIIDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **ATC**
 The Armed Transport Craft is an armed transport plane that can land on water to provide supplies, troops or vehicles to locations where
@@ -7783,7 +8028,7 @@ Ammunition: 40 attacks
 ```
 Sensors Basic Extended Range (3 km +1 DM) 1 1.5 1,000
 Communications Radio 100 km (TL 4) 1 10 1,000
-Crew 4 (pilot, co-pilot, 2 gunners) — — —
+Crew4 (pilot, co-pilot, 2 gunners) — — —
 Operating Stations 4 5 500 —
 Passengers 20 20 2,000 —
 Cargo 5.98 dTons 80.73 8,073 —
@@ -7843,6 +8088,8 @@ Total — 13.65 2,743 34,850
 ```
 
 HHYYBRIDBRID VVEEHICLESHICLES
+
+
 
 **SUBMERSIBLE FIGHTER**
 The submergible fi ghter is capable of travelling and fi ring in the air and underwater. Although these fi ghters are not as effective
@@ -7909,6 +8156,8 @@ Total — 31.96 8,809 438,700
 
 HHYYBRIDBRID VVEEHICLESHICLES
 
+
+
 **Submersible Fighter (TL 10) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 45 M^3 , Super Airframe confi guration, Light Alloys,
 Sealed
@@ -7958,11 +8207,17 @@ Total — 44.97 18,350 643,188
 
 HHYYBRIDBRID VVEEHICLESHICLES
 
+
+
 M
+
+
 
 ```
 3
 COST
+
+
 ```
 
 (C
@@ -7971,8 +8226,12 @@ R)
 
 M
 
+
+
 ```
 ASS
+
+
 ```
 
 (KG
@@ -7981,9 +8240,13 @@ ASS
 
 M
 
+
+
 ```
 3
 COST
+
+
 ```
 
 (C
@@ -7992,8 +8255,12 @@ R)
 
 M
 
+
+
 ```
 ASS
+
+
 ```
 
 (KG
@@ -8004,9 +8271,13 @@ Power Plant
 
 M
 
+
+
 ```
 3
 COST
+
+
 ```
 
 (C
@@ -8015,8 +8286,12 @@ R)
 
 M
 
+
+
 ```
 ASS
+
+
 ```
 
 (KG
@@ -8027,9 +8302,13 @@ Weapons
 
 M
 
+
+
 ```
 3
 COST
+
+
 ```
 
 (C
@@ -8038,8 +8317,12 @@ R)
 
 M
 
+
+
 ```
 ASS
+
+
 ```
 
 (KG
@@ -8048,7 +8331,11 @@ ASS
 
 ```
 M
+
+
 COST
+
+
 ```
 
 (C
@@ -8057,8 +8344,12 @@ R)
 
 M
 
+
+
 ```
 ASS
+
+
 ```
 
 (KG
@@ -8066,11 +8357,15 @@ ASS
 ```
 )
 M
+
+
 ```
 
 ```
 3
 COST
+
+
 ```
 
 (C
@@ -8079,8 +8374,12 @@ R)
 
 M
 
+
+
 ```
 ASS
+
+
 ```
 
 (KG
@@ -8091,6 +8390,8 @@ ASS
 Armor Facing
 Value
 VALUE
+
+
 ```
 
 ```
@@ -8113,6 +8414,8 @@ Ground Pressure
 ```
 
 AMMO
+
+
 
 Personnel
 
@@ -8148,9 +8451,13 @@ Utility Areas
 
 M
 
+
+
 ```
 3
 COST
+
+
 ```
 
 (C
@@ -8159,8 +8466,12 @@ R)
 
 M
 
+
+
 ```
 ASS
+
+
 ```
 
 (KG
@@ -8303,7 +8614,7 @@ US $24.95
 
 Military Vehicles
 
-TRAVELLER
+
 
 MGP 3822
 

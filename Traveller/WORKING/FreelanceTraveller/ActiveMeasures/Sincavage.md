@@ -8,6 +8,8 @@ aliases:
   - Sir Jeremide
 ---
   
+
+
 Scout (ret) Knight  
 Solomani/Vilani mix
 
@@ -28,6 +30,8 @@ General Martin D. Sincavage, Imperial Marines, one of his sons was one of the Ma
 The second son, Sir Jeremide Alexis Sincavage was born the year his father died, 963. Left alone much of his childhood the young Jeremide wanted nothing to do with his mourning mother, much less with the soon to be crazy brother. For weeks at a time he would spend his time digging around the family estate, uncovering archaeological finds, or spending time researching them on the system data net. At the age of 21, fresh from the local University, he left home for good to explore the universe - joining the scouts. At the age of 23, Jeremide, while on a rescue mission, discovered a strange ship totally destroyed except for a small section of the hold which contained a Lizard like Bi-pedal being; race unidentified. Jeremide's final search to this day is to uncover the mystery of that alien being now called Gig' N'anz.
 
 SINCAVAGE DESCENT FROM CLEON ZHUNASTU
+
+
 
 Cleon Zhunastu  
 Witekind III, Count of Wetten, Core  

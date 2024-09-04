@@ -29,7 +29,6 @@ This book uses certain concepts which will be explained below. Most of these are
 
 Read about the [[Official Traveller Universe]] and it's elements
 
-
 # THE THIRD IMPERIUM
 
 ## OVERVIEW
@@ -184,8 +183,7 @@ However, member worlds have a right of navigation in their own star system (and 
 
 Thus local craft can conduct customs boardings beyond the 100 diameter limit and can take action if local laws are being contravened, but only if they can show that the contraband goods are bound for their own world or are banned by Imperial law. It is not permissible to prosecute a merchant ship passing by on the way to another world where the goods are not illegal. If the ship lands or enters the 100–diameter zone, the situation is nebulous. However, most worlds are not concerned with goods destined elsewhere unless they are banned by Imperial law. Only the most rabidly high–law worlds will interfere with commerce in this manner, and they risk Imperial displeasure by doing so.
 
-There is normally only one 'mainworld' in a star system. Other bodies
-(asteroids, moons and planets) may be home to small outposts or colonies but these are more likely to be possessions than states in their own right. Some of the outposts in a system may be owned by the mainworld government, and these are subject to the same laws as that world or whatever local regulations are in place.
+There is normally only one 'mainworld' in a star system. Other bodies (asteroids, moons and planets) may be home to small outposts or colonies but these are more likely to be possessions than states in their own right. Some of the outposts in a system may be owned by the mainworld government, and these are subject to the same laws as that world or whatever local regulations are in place.
 
 The remainder of the star system is considered to be Imperial territory. Territorial claims to part of the system must be processed via the subsector administration. In the case where a mainworld makes a reasonable claim it will usually be upheld as a matter of course. Claims by other governments or organizations are less certain and usually involve some negotiation.
 
@@ -216,6 +214,8 @@ Ground Force Command includes all the traditional combat and support arms – in
 However, all this is limited by the locally available technology. The armed forces of a world equipped with biplanes and primitive armored cars can be outgunned by a single high–tech infantry company. For this reason may worlds buy in a small quantity of high–tech gear or retain a mercenary force to provide a high–tech spearhead for local forces. The expense of arming an entire planetary force with imported gear is prohibitive, but there will usually be some more advanced weaponry available to governmental guard or elite units.
 
 IMPERIAL HOLDINGS
+
+
 The Imperium possesses only a handful of entire planets. Most of these are outsystem rockballs used as naval installations or similar facilities. However, there are a few mainworlds that are Imperial territories rather than member worlds. Some are prison worlds, others are the personal fiefs of archdukes or the Emperor. There are also a number of 'reserve worlds' which are off–limits to outsiders for various reasons. Each of these types has its own regulations and in many cases access is restricted.
 
 The Imperium also maintains large areas of territory on mainworlds. The most well–known example is the starport of each mainworld, which is technically Imperial territory. Outside the 'extrality line' local law and custom applies; within it a slightly different system is in force.
@@ -255,7 +255,6 @@ General was formed by the merger of several manufacturing concerns after the Civ
 
 General has dominated the cheap–and–good–enough end of the market for many years, but has recently been at the center of controversy as several of its starships have suffered serious defects. Poor build quality and lack of attention to detail have been blamed for the loss of several military and civilian starships, and General's fortunes have declined accordingly. There are rumors that General may shed its shipbuilding interests in some regions or may lose its Navy contracts if it does not meet new tighter standards.
 
-
 HORTALEZ ET CIE, LIC
 Dating from the early 200s, Hortalez et Cie is a financial corporation which owns numerous businesses (including shares in other Megacorporations) but does not operate them under its own corporate identity. Its activities under its own name are almost exclusively limited to the financial sector.
 
@@ -270,11 +269,15 @@ LING STANDARD PRODUCTS, LIC
 LSP started out as a mining concern and remains a major player in that field. Its mineral–mining operations have gradually expanded into related fields including asteroid mining, petroleum skimming from gas giant atmospheres, ore processing, bulk transportation and heavy industry. In addition LSP is now active in the fields of electronics, computers and software, vehicles and high–technology equipment. Its starship components division manufactures mining and prospecting vessels as well as starship weaponry, drives and power systems. LSP also produces a range of simple and easy–to–use power systems and machines aimed at the colonial market, and a cheap but effective range of smallarms that are also popular along the frontiers. LSP operates a number of major mining installations either directly or as owned subsidiaries. Many of these are located in the outsystem, on moons or in planetoid fields which are claimed (sometimes quite aggressively) as company territory. Its activities are not restricted to Imperial space; LSP is actively sponsoring prospecting missions beyond the Imperial border and is known to own large shares in several extra–Imperial industrial and mining concerns.
 MAKHIDKARUN
 
+
+
 Makhidkarun is one of three Megacorporations (Naasirka and Sharurshid being the others) that have their origins in the First Imperium. None was exactly a corporation during that period; they were termed 'Bureaus', each of which was responsible for overseeing a part of the Ziru Sirka. Economic activity was one of the key means by which the Vilani Imperium maintained its control over subject worlds, so the Bureaus were heavily involved in trade, commerce and industry. Although the Bureaus were very similar in function and composition, each had unique characteristics which influenced its development during the primacy of the Vilani Imperium and in the centuries since. Each of the bureaus was based on one of the three powerful groups in traditional Vilani society: the aristocracy, the merchants and the Shugili. The latter were experts in food production, and were vital to human survival on Vland as virtually every potential food item required extensive preparation to make it edible.
 
 Makhidkarun was established by the aristocracy and was particularly interested in governance. Today this is reflected in its status as the premier supplier of luxury goods such as wines and gourmet foods. The communications division deals mainly in data processing equipment and data itself; particularly entertainment and art. Makhidkarun also supplies electronics and computer equipment to the Imperial armed forces and operates an asset–management service.
 
 NAASIRKA
+
+
 Naasirka is the second Vilani Bureau–turned–Megacorporation. Founded primarily by the Shugili, Naasirka moved into other areas when it became apparent that the specialist skills of the Shugili were only required on Vland itself and a few other, similarly borderline worlds. It was not possible to control food production on most worlds, where nothing more than rinsing or heating was necessary to make food edible.
 
 Naasirka became a general and diversified corporation, dealing in electronics, software, computers and robotics as well as transportation and energy production. Naasirka is at the cutting edge of robotics and artificial–intelligence research and supplies most of the electronic and data–transfer equipment used by the Imperial Express–Boat service.
@@ -292,6 +295,8 @@ SuSAG has extensive interests outside the Imperium, and one of the largest Megac
 
 SHARURSHID
 
+
+
 The third of the Vilani Bureaus, Sharurshid was founded by the merchant caste and became a trading rather than manufacturing concern. To this day Sharurshid produces little but makes a vast amount of money buying and selling other firms' produce. In particular Sharurshid is famous for luxury goods, a sector where it competes vigorously with Makhidkarun.
 
 Sharurshid operates a large fleet of trade ships, many of them plying long–distance routes to bring rare goods to the markets of the core worlds. The firm also operates brokerages on many starports, helping others make a profit for a modest percentage.
@@ -308,6 +313,8 @@ TUKERA LINES, LIC
 
 Tukera is the premier Imperial shipping corporation. In some areas it has a virtual monopoly on large–scale freighting and passenger travel. Tukera's assets range from huge bulk freighters and impressive liners to specialised fast couriers and mid–sized mail ships. The firm's revenue mostly comes from regular, dependable routes rather than speculative trade. Where Sharurshid has ships to enable it to trade, Tukera's vessels are the main source of its prosperity. Tukera protects its assets, personnel and interests quite aggressively. Most ships are armed and carry a well–trained security detail. Tukera also operates a number of starports or sections of larger ports, and in many areas uses these assets to ensure preferential treatment for its own vessels and those of its associated companies. Of course, non–Tukera vessels are also permitted to use these ports, though they always come second to Tukera assets. Despite this, Tukera–owned ports are popular with starfarers for their good service and safe environment. The earliest record of Tukera Lines dates from the Sylean Federation but the firm claims to be several centuries older, with a founding date sometime during the Rule of Man.
 ZIRUNKARIISH
+
+
 
 Zirunkariish is a Vilani firm, but one without roots in the great Bureaus. It was founded in –425, during the Long Night. Zirunkariish is primarily an investment and banking firm, and is the largest insurance under–writer in the Imperium. It also funds the development of mid–tech worlds and starports on major routes. Zirunkariish is a majority shareholder in several major starport projects, though it rarely takes much interest in direct ownership. The firm is content to provide capital and take its profit, leaving management to others who are (hopefully) experts in the field. Exactly how much Zirunkariish is worth, and how much influence it has, is open to speculation. With few physical assets it is difficult to make even a general estimate of the firm's value. However, the amount is staggeringly large – that much is certain. In recent years Zirunkariish has been accused of manipulating the money markets due to its effective ownership of many worlds' hard currency reserves. Essentially the firm has loaned capital to a number of worlds, secured against their reserves. There is nothing wrong with this, it being standard practice. However, persistent rumors suggest that Zirunkariish is somehow using its influence over these worlds to create a favorable investment climate elsewhere.
 
@@ -347,8 +354,7 @@ The Navy is an excellent route into the nobility for a young person of good but 
 
 The various levels of nobility are unofficially subdivided into three categories:
 
-Individuals elevated for merit or performance in various fields are termed Honor Nobles. Business, entertainment, the Imperial services or exceptional performance in any other field can earn a knighthood or, less often, one of the lower ranks of the peerage
-(baron, marquis or count).
+Individuals elevated for merit or performance in various fields are termed Honor Nobles. Business, entertainment, the Imperial services or exceptional performance in any other field can earn a knighthood or, less often, one of the lower ranks of the peerage (baron, marquis or count).
 
 Individuals who hold a position are termed Rank Nobles. There are two subtypes. The term 'Local Nobility' is given to relatively minor nobles who represent worlds and other interests such as business groups. The rank is usually hereditary. Most local nobles are barons or, occasionally, marquises. Individuals who hold a non–hereditary Imperial office (e.g. an ambassador) and have been granted a title for that purpose are termed 'Administrators'. They retain their noble title after leaving the post but it is not hereditary unless of course the noble already held the requisite rank when the administrative post was assigned.
 
@@ -360,19 +366,29 @@ Actual noble titles are the same however the individual came by them. In theory 
 
 A knighthood entitles the holder to use the prefix 'Sir' before his or her name. Some females prefer the archaic 'Dame' and certain orders use this prefix for male and other genders as well, for traditional reasons. The initials of the knight's order are often listed after his or her name, and/or a location, such as 'Sir Alexandr of Skiddir'. Locations normally denote the knight's fief but occasionally refer to the event that won their knighthood. This is usually the name of a city or world but can be something more unusual, such as 'Sir Andrea of Two Suns' which refers to a knighthood won at the Battle of Two Suns. There are various orders of knighthood associated with regions or activities, all of which are considered to be generally equal in the grand scheme of things. Within a given order there may be ranks, in which case the Grand Master of an order obviously outranks someone recently inducted into it. Examples include the Order of the Emperor's Household, the Order of the Starship and Crown and regional orders named for the domains, such as The Order of Antares. There is no Order of Deneb as no Archduke was ever appointed to that region. Knights often receive a stipend rather than a fief. Most honor nobles receive neither; their knighthood is simply recognition of achievement. Those knights that do have a fief rarely receive a large area unless it is of low value. A knight might be given several hundred kilometers of wilderness, or a rather more desirable but smaller area on the edge of a major city. Some orders of knighthood can only be bestowed by the holder of a certain office, the Archduke of Ilelish, for example, and others only by the Emperor himself.
 BARONET
+
+
 Technically a rank of knighthood, Baronet is sometimes considered the lowest peer rank instead. The name comes from an archaic [[Terra|Terran]] practice; a senior knight who led others in battle was permitted to display a banner for them to rally to, and was known as a 'Banneret'. The term was gradually corrupted to Baronet, though both are used in some regions. A Baronet is essentially a highly ranked hereditary knight, who may or may not be given a fief. Baronets use the prefix 'Baronet' or occasionally 'Banneret' before their name and usually the location of their fief afterwards, for example Baronet Mikhal Danilo of Slovenos. BARON The lowest rank within the peerage is Baron. Barons usually have a fief of some kind. Those that are associated with a given world usually have their fief there. Barons usually represent relatively undeveloped or unimportant worlds. If a world achieves prominence its Imperial representative is usually promoted to Marquis. Other barons are not representatives of a given world but may hold a fief on one. One baron might have received his rank for service and another because she heads a small but important shipping corporation. All are equal in precedence at the Imperial court as each has contributed to the Imperium in different ways. Barons use the prefix 'Baron' or 'Baroness' and often a range of other honorifics such as 'hault', 'ap' or 'von' before their surname. As with knights, the Baron's fief location is often used as a suffix.
 MARQUIS
+
+
 An imperial Marquis is usually either a powerful businessperson or the representative of an important world. In the latter case the world's name is used after the noble's rank title, for example Marquis of Aramis or Marquis Aramis. Both usages are correct.
 
 COUNT
+
+
 A Count may be an extremely important Imperial officer, such as the ambassador to the Solomani Confederation, or the head of an important corporate body. Alternatively, a Count may be the Imperial administrator for a group of 2–3 worlds within a subsector. In the latter case the count's title is followed by the name of one of the worlds he or she is responsible for.
 DUKE
+
+
 
 Imperial dukes oversee an entire subsector of space and give political guidance to those at lower levels of power within that area. One of the dukes in a sector has precedence over the others and is titled Sector Duke. At present sector dukes answer to the Emperor but if the current reforms continue as planned their allegiance may be switched to the domain Archduke.
 
 All dukes use the subsector they are associated with as a suffix, for example Duke of Rhylanor. This also applies to the Sector Duke who retains direct responsibility for his or her subsector as well as sector–wide concerns. Usually a member of the duke's family is appointed to deal with subsector matters.
 
 ARCHDUKE
+
+
 Each of the six original domains of the Imperium has an Archduke, though for centuries this has been a figurehead appointment only. That is slowly changing as the Archdukes are given increased powers.
 
 There is at present no domain–level structure in the Imperial navy or army, though bureaucratic and business apparatus exists at that level. The Archducal court is, in some regions, becoming useful as a place to resolve very high–level issues. However, this practice is only just becoming established and does not exist at all in the Domain of Deneb which has no Archduke.
@@ -422,6 +438,8 @@ Huscarles are permitted in the Imperium under the same laws that allow for corpo
 However, the huscarles of most noble houses are normally limited to a few light infantrymen. Forces above company size, and forces of any size equipped other than as infantry with some air defence capability, are unusual.
 
 PLAYER NOBLES
+
+
 
 It is likely that a player–character noble will hold a fairly minor rank, such as a knight or baronet. More important people are unlikely to be hanging around with adventurers, and if they do travel it will normally be in the company of their retinue. This could be the basis of a Traveller game, but unless the players all want to play that sort of game it can be a problem.
 
@@ -474,8 +492,7 @@ Most worlds have some form of ground forces for their own defence and security, 
 
 The Imperial forces, however, are mostly equipped to a uniform standard. Some specialist units do exist, mainly of a special–forces nature, which have equipment geared to their role. One example would be a unit drawn from an aquatic species and specialised in underwater combat.
 
-Imperial army formations use combined–arms techniques; artillery, grav armor and aerospace defence assets are integrated into the force at various levels. Most Imperial army units are lift infantry formations. That is, a primarily infantry force with grav vehicles for mobility. The infantry ride in grav armored personnel carriers
-(APCs) and are equipped with combat armor and advanced combat rifles plus support weapons. The formation will usually contain several grav sleds carrying electronic warfare and artillery weapons, and there will usually be some tanks available unless the force is very small.
+Imperial army formations use combined–arms techniques; artillery, grav armor and aerospace defence assets are integrated into the force at various levels. Most Imperial army units are lift infantry formations. That is, a primarily infantry force with grav vehicles for mobility. The infantry ride in grav armored personnel carriers (APCs) and are equipped with combat armor and advanced combat rifles plus support weapons. The formation will usually contain several grav sleds carrying electronic warfare and artillery weapons, and there will usually be some tanks available unless the force is very small.
 
 Other common formations include light infantry (optimized for peacekeeping and urban combat operations), grav cavalry (light armored striking and reconnaissance formations), armored
 
@@ -656,8 +673,7 @@ Both groups were capable of interbreeding and within 400 years there was only on
 
 It is thought that the event known as Mahgiz, (Chaos, in the Darrian language) was caused by a probe sent into the star to conduct an experiment of some sort. Whatever the cause, a series of massive solar flares erupted. These were accompanied by a huge electromagnetic pulse (EMP) which radiated out from the star at lightspeed.
 
-The pulse did no physical damage but destroyed electronics. At a stroke factories, hospitals, businesses and starships lost their electronics systems. Vehicles crashed, automated systems went out of control and communications went down. The pulse was followed by a wavefront of stellar gas moving more slowly. Three weeks after the EMP, Darrian was devastated by fire from space, which killed over 80% of the population and effectively destroyed civilization on the planet. Although the gas dissipated in the Darrian system, the EMP struck other systems as it radiated out. With some warning, it was possible to preserve electronic systems from the worst effects. However, the heart had been torn out of the Darrian civilization. Without the technology and industry of the homeworld there was no way to replace or sustain technological items such as starships possessed by the Darrian colonies. In –905, the Darrians began taking measures to ensure their long– term survival. Starships were placed in storage and each colony looked inward, preparing to survive the difficult times ahead. By –860 the Darrians had ceased all space travel. Over the next six centuries the world of Mire gradually climbed back up to TL10 and began constructing starships. Its cache of surviving vessels were broken out and refurbished, and the Darrians returned to the stars. In –275 they reached out to begin exploring nearby space. What the found was both surprising and ominous. Newcomers in the Marches Settlers set out from Terra and other worlds throughout the Interstellar Wars and the Rule of Man. Some used cryogenic suspension, some attempted to use generation ships. Most had Jump–capable vessels. The fate of many groups will never be known. Indeed, there are almost certainly still a number of sublight vessels filled with now–dead frozen colonists headed out into the unknown. However, the fate of some missions was less grim. One such reached the world now named Gram in Sword Worlds Subsector and in –399 founded a colony there. This group was composed mainly North Europeans from Terra, and possibly due to difficult times early on, developed a rather unique culture based on an idealised version of Icelandic/Scandinavian values. As the colony grew, surrounding worlds were colonized and were named for swords in [[Terra|Terran]] mythology. A government of sorts, based on the world of Sacnoth and known as the Sacnoth Dominate, eventually emerged. In –164 the Sword Worlders, as they were now known, encountered the re–emerging Darrians, much to mutual surprise. The two cultures were very different; the Darrians egalitarian and intellectual, the Sword Worlders chauvinistic, obsessed with personal honor and above all far too 'manly' for their own good. Cultural and occasionally military conflict flared up from time to time between the Darrians and the Sword Worlders, and has never really ceased. However, the Sword Worlders spent most of their time bickering among themselves, and by –102 the Sacnoth Dominate had broken up in rebellion. The subsequent period of civil war caused all interstellar government among the Sword Worlds to collapse by –80. Each of the Sword Worlds went its own way, forming local alliances or honoring old debts of honor for past assistance but never forming a single government. There were many attempts, some of them violent, but none that achieved any real success. Meanwhile, not far to Rimward of the Marches, another group of worlds was being settled. A European long–range colony mission using sublight ships was launched in –2452, just 30 years before the invention of the Jump drive. The mission consisted of three ships, all aimed at worlds close to one another. C–Jammer reached New Home in –6. Van de Lubbe landed its colonists at what became Neubayern in –2 and Voyageur reached Amondiage, in Year 0. The colonists of course knew nothing of the Interstellar Wars or the First, Second or Third Imperium. The colony ships moved on, still using sublight travel, and settled nearby systems. Each then went its own way; New Home being the first to build new spacecraft in 270. Gradually the inhabitants of what became known as Old Islands subsector spread out to other worlds and into New Islands Subsector. However, as these two relatively dense clusters of stars lay in the middle of the Great Rift, they remained cut off from events elsewhere for many centuries. Finally, in 983, an Imperial Interstellar Scout Service vessel
-(IISS Eldorado) Misjumped into the Islands and obtained local assistance in getting home. The secret of the Jump drive was thus obtained by the people of Serendip Belt, who used it to begin a war of conquest. Some years later, in 1016, an IISS mission reached the Islands and discovered the results of the inadvertent intervention. In a misguided attempt to put things right, Jump drive technology was distributed among the other worlds of the subsectors. Since that time, a number of small conflicts have been fought and the various factions have embarked on a massive arms race that none of them can afford. The result is that today the Islands subsectors are divided into a number of armed camps, with over–militarized states itching to use their excessively inflated fleets on one another. The history of the Islands subsectors is peripheral to that of the Marches, except for two factors. Firstly, they form part of a difficult but useable route across the Great Rift for high–Jump couriers and military vessels. This allows much more rapid contact between Imperial holdings in Verge and Gushmege sectors and the Marches than would be possible by going all the way around the Rift. Secondly, the presence nearby of several states that will avidly buy military technology or actual weapon systems has influenced the economic position in the Rimward end of the sector for the past century. Another influence on the region, though a minor one, was exerted by the Aslan. The Aslan home region lies across the Great Rift and although they have possessed the Jump drive for two thousand years the Aslan have only recently arrived in the Marches. In fact the first recorded crossing of the Great Rift occurred in –1104, and gradually a number of colonies were set up on the Coreward side.
+The pulse did no physical damage but destroyed electronics. At a stroke factories, hospitals, businesses and starships lost their electronics systems. Vehicles crashed, automated systems went out of control and communications went down. The pulse was followed by a wavefront of stellar gas moving more slowly. Three weeks after the EMP, Darrian was devastated by fire from space, which killed over 80% of the population and effectively destroyed civilization on the planet. Although the gas dissipated in the Darrian system, the EMP struck other systems as it radiated out. With some warning, it was possible to preserve electronic systems from the worst effects. However, the heart had been torn out of the Darrian civilization. Without the technology and industry of the homeworld there was no way to replace or sustain technological items such as starships possessed by the Darrian colonies. In –905, the Darrians began taking measures to ensure their long– term survival. Starships were placed in storage and each colony looked inward, preparing to survive the difficult times ahead. By –860 the Darrians had ceased all space travel. Over the next six centuries the world of Mire gradually climbed back up to TL10 and began constructing starships. Its cache of surviving vessels were broken out and refurbished, and the Darrians returned to the stars. In –275 they reached out to begin exploring nearby space. What the found was both surprising and ominous. Newcomers in the Marches Settlers set out from Terra and other worlds throughout the Interstellar Wars and the Rule of Man. Some used cryogenic suspension, some attempted to use generation ships. Most had Jump–capable vessels. The fate of many groups will never be known. Indeed, there are almost certainly still a number of sublight vessels filled with now–dead frozen colonists headed out into the unknown. However, the fate of some missions was less grim. One such reached the world now named Gram in Sword Worlds Subsector and in –399 founded a colony there. This group was composed mainly North Europeans from Terra, and possibly due to difficult times early on, developed a rather unique culture based on an idealised version of Icelandic/Scandinavian values. As the colony grew, surrounding worlds were colonized and were named for swords in [[Terra|Terran]] mythology. A government of sorts, based on the world of Sacnoth and known as the Sacnoth Dominate, eventually emerged. In –164 the Sword Worlders, as they were now known, encountered the re–emerging Darrians, much to mutual surprise. The two cultures were very different; the Darrians egalitarian and intellectual, the Sword Worlders chauvinistic, obsessed with personal honor and above all far too 'manly' for their own good. Cultural and occasionally military conflict flared up from time to time between the Darrians and the Sword Worlders, and has never really ceased. However, the Sword Worlders spent most of their time bickering among themselves, and by –102 the Sacnoth Dominate had broken up in rebellion. The subsequent period of civil war caused all interstellar government among the Sword Worlds to collapse by –80. Each of the Sword Worlds went its own way, forming local alliances or honoring old debts of honor for past assistance but never forming a single government. There were many attempts, some of them violent, but none that achieved any real success. Meanwhile, not far to Rimward of the Marches, another group of worlds was being settled. A European long–range colony mission using sublight ships was launched in –2452, just 30 years before the invention of the Jump drive. The mission consisted of three ships, all aimed at worlds close to one another. C–Jammer reached New Home in –6. Van de Lubbe landed its colonists at what became Neubayern in –2 and Voyageur reached Amondiage, in Year 0. The colonists of course knew nothing of the Interstellar Wars or the First, Second or Third Imperium. The colony ships moved on, still using sublight travel, and settled nearby systems. Each then went its own way; New Home being the first to build new spacecraft in 270. Gradually the inhabitants of what became known as Old Islands subsector spread out to other worlds and into New Islands Subsector. However, as these two relatively dense clusters of stars lay in the middle of the Great Rift, they remained cut off from events elsewhere for many centuries. Finally, in 983, an Imperial Interstellar Scout Service vessel (IISS Eldorado) Misjumped into the Islands and obtained local assistance in getting home. The secret of the Jump drive was thus obtained by the people of Serendip Belt, who used it to begin a war of conquest. Some years later, in 1016, an IISS mission reached the Islands and discovered the results of the inadvertent intervention. In a misguided attempt to put things right, Jump drive technology was distributed among the other worlds of the subsectors. Since that time, a number of small conflicts have been fought and the various factions have embarked on a massive arms race that none of them can afford. The result is that today the Islands subsectors are divided into a number of armed camps, with over–militarized states itching to use their excessively inflated fleets on one another. The history of the Islands subsectors is peripheral to that of the Marches, except for two factors. Firstly, they form part of a difficult but useable route across the Great Rift for high–Jump couriers and military vessels. This allows much more rapid contact between Imperial holdings in Verge and Gushmege sectors and the Marches than would be possible by going all the way around the Rift. Secondly, the presence nearby of several states that will avidly buy military technology or actual weapon systems has influenced the economic position in the Rimward end of the sector for the past century. Another influence on the region, though a minor one, was exerted by the Aslan. The Aslan home region lies across the Great Rift and although they have possessed the Jump drive for two thousand years the Aslan have only recently arrived in the Marches. In fact the first recorded crossing of the Great Rift occurred in –1104, and gradually a number of colonies were set up on the Coreward side.
 
 It is not known exactly when the Aslan entered the Marches. Quite probably, explorers were active in the region centuries before the first recorded contacts. It is known that Aslan were present on the world of Romar in District 268 by 454, and contact with the Zhodani was made in 461.
 
@@ -675,8 +691,7 @@ After establishing a forward base at Deneb, the scouts pushed on to open up the 
 
 One of the biggest developments for the Marches was the establishment of a trading settlement at Mora. Set up by Ling Standard Products in Year 60, this was initially the far end of a long trade route through Corridor and Deneb sectors from the Imperial core. Over the years it gradually developed into a forward base for trade with the new colonies of the Marches and with the states encountered there.
 
-Contact with the Sword Worlds was in 73, but it was not until 148 that the Darrians met the Imperials. During this time the Sword Worlds managed to create a new unified government, the Triple Dominion
-(shared by Anduril, Colada and Dyrnwyn) which lasted from 104 to 217. It may be that the Sword Worlders deliberately discouraged the Imperials from moving through their territory and thus meeting their Darrian rivals. Certainly the amount of scouting missions in that direction dropped fairly rapidly.
+Contact with the Sword Worlds was in 73, but it was not until 148 that the Darrians met the Imperials. During this time the Sword Worlds managed to create a new unified government, the Triple Dominion (shared by Anduril, Colada and Dyrnwyn) which lasted from 104 to 217. It may be that the Sword Worlders deliberately discouraged the Imperials from moving through their territory and thus meeting their Darrian rivals. Certainly the amount of scouting missions in that direction dropped fairly rapidly.
 
 By 200, Imperial interest in new territory, especially in distant regions that were hard to reach, had waned. Expansion in the Marches thus proceeded in a disjointed manner, fuelled by economics and on a fairly small scale. The presence of the Spinward Main, a long chain of stars connected by a Jump–1 route, enabled easy access to large parts of the sector. The remainder was largely ignored and there was little interest in pushing out beyond, even to Spinward or Rimward where there were open borders. To Coreward the Zhodani Consulate blocked further expansion in that direction.
 
@@ -776,7 +791,6 @@ Exactly how negative an image this creates seems to depend greatly on the outloo
 
 It would be very surprising if the Zhodani Consulate did not have some kind of intelligence gathering apparatus in place within Imperial space. The availability of psionic powers grants a few extra capabilities but most likely the Consulate uses a fairly mundane system of agents, informants and couriers like all other states. Its own counter–intelligence system seems to be very effective at times, but only sporadically. The rest of the time Imperial agents in Zhodani space seem to be able to operate undiscovered. Asking why this might be leads to the conclusion that perhaps the Zhodani are content to leave most agents in place and only removes those that are troublesome or when something important is about to happen. This sudden ability to become highly competent disturbs Imperial intelligence people, who strongly suspect that the Zhodani are deliberately leaving their agents in place for reasons of their own. The Zhodani Consulate has a maximum tech level of 14 available, and enormous industrial power. The size of its fleets are unknown, but based on previous conflicts they are likely to be huge. Certainly large numbers of patrol craft have been sighted along the border, and these seem to be very efficient. Minor Races Members of the various minor races can be encountered all across the Marches, serving aboard starships, working in the port or settled into a nice job on a planet far from their homeworld. Although the vast majority of citizens are humans or Vargr there is nothing unusual in seeing the odd alien (or group of aliens) going about their business. Some minor races have their homes in the Marches, and most do not have starship technology so tend to be encountered only rarely away from home. Minor races are full members of the Imperium if they are members at all. There is no discrimination based on species. However, the homeworlds of most minor races are relatively undeveloped compared to the more important Imperial worlds in the region, so their economic importance is small. Minor race homeworlds are represented to the Imperium by nobles like any other, unless they are interdicted for their own protection or the safety of others. 
 
-
 ### A Note On Languages 
 
 Within the Imperium and in most areas beyond it, the standard language is Galanglic. Galanglic is a melding of English and several other languages, including Vilani, which has evolved over many centuries. Local dialects and variations are quite common, especially on backwater worlds. Someone who speaks Galanglic in any of its forms can usually make himself understood anywhere in the Marches, even though it may not be the first language on some worlds. Within the Imperium, various groups have their own languages which include High Sylean, Vilani and the languages of various minor races. Worlds that were settled or came to be dominated by people originating among one of Earth's many non–English–speaking cultures may speak very unusual forms of Galanglic but more often have their own tongues based on the language of their forefathers. Of course, centuries of offworld influences and linguistic drift may have changed this language beyond all recognition. Thus on some worlds, although Galanglic may be spoken as a second language, the locals may use some other tongue entirely for daily business. Further confusion can be created by the fact that what one group calls 'German' or 'Chinese' may have drifted so much that another group would identify these with an entirely different ethnicity. In addition, other cultural groups will have their own, entirely separate, languages. Minor races have their own tongues and even modes of communication that are entirely different. The best example of the latter is the sign language of the Hivers, though Hivers are not likely to be encountered so far to Spinward. The Darrians have their own language, which is a melding of their original Darrian tongue and Turkish, the language of the first Solomani to join them. Similarly, the Sword Worlders speak a language that varies somewhat from system to system but is broadly based in the North European and Scandinavian languages of old Earth. It is termed 'Sword Worlder' by outsiders just as the Darrian language is referred to simply as 'Darrian' by outsiders. The Zhodani have a single language spoken throughout the Zhodani Consulate with almost no variation other than a few technical terms. Most Zhodani who have extensive contact with Imperials speak Galanglic, though there is a fair amount of unintentional cultural exchange along the borders which means that it is not hard to learn to speak Zhodani. However, most Galanglic speakers sound 'wrong' when speaking Zhodani even if their pronunciation is good. It is as if they fail to 'get' the ideas behind the words they are trying to say. This does not affect the ability to be understood but is a major barrier to fluency.
@@ -842,31 +856,51 @@ As a rule the Megacorporations can be encountered wherever it is worth their whi
 Some of the lesser firms and organizations operating in the Marches are listed below:
 
 AGWORLD COMBINE
+
+
 A loose trading alliance of agricultural worlds and firms operating in that sector, based out of District 268. The Combine is little more than a collective–bargaining organization that obtains the use of bulk freighters (usually from McClellan Factors) for its members.
 AKERUT
+
+
 An anagram of 'Tukera', Akerut is a wholly–owned subsidiary of that Megacorporation. It operates a fleet of vessels based out of the Aramis subsector, plying routes into the Imperium and across the border into the Vargr Extents. Akerut, like its parent corporation, maintains facilities within commercial starports, allowing its ships preferential docking at private berths. This has led to a couple of 'customs irregularities' in the past but there have been no recent allegations.
 AL MORAI
+
+
 One of the larger non–Megacorporations of the region, Al Morai is a shipping firm based out of Mora and is often referred to as a 'sector line' in merchant–service parlance. This simply means that it serves an area roughly a sector in size. Al Morai vessels operate in Deneb sector as well as much of the Spinward Marches. The firm also conducts exploratory trade, which is more usually the province of smaller lines. It is also one of the few shipping lines to own specialised warships. These 'route protectors' are small escort– sized ships that patrol the routes used by Al Morai and accompany some flights. Less well known is the firm's extensive network of information–gathering assets which pass along what they learn about smuggling and piracy to the Imperial Navy.
 
 ARKESH SPACERS
+
+
 Arkesh started out as an alliance of Free Traders which still maintains a nominal headquarters at Strouden however, it has few permanent facilities, relying on leasing or trading for whatever is needed. Arkesh has a bad reputation for highly dubious practices; some of its ships are known smugglers and there are rumors that acts of piracy have been committed by some members. Thus far, the organization has avoided Imperial attention though some of its members have been prosecuted.
 
 BARACCAI TECHNUM
+
+
 The Baraccai Technum (BT) is based out of Trin. It is primarily a manufacturing and transport firm with interests in freighting, cargo brokerage and general shipping. BT maintains a number of 'trade scouts' and merchant cruisers set up for exploratory trade cruises beyond the Imperium. BILSTEIN YARDS Bilstein Yards are based on Glisten where they manufacture one–off and small–run starships and custom transport assets of extremely high quality. Bilstein workmanship does not come cheap, and there is an element of prestige in owning not merely a yacht but one built by Bilstein. The firm does not construct warships or standard trade vessels.
 
 GENERAL SHIPYARDS
+
+
 A subsidiary of General Products, General Yards is a major contractor to the Imperial Navy and other bulk clients. It is based in Regina subsector with lesser facilities scattered across the sector. The firm has recently begun to emphasise commercial construction over military vessels, perhaps due to rumored Navy dissatisfaction with certain classes of vessel built by General.
 
 IMPERIALLINES
+
+
 Imperiallines is a shipping firm owned by the Imperial family. It mainly serves the major routes, but vessels are sometimes encountered on minor or “feeder” routes and have a number of contracts to the Imperial military and political services. As a result its ships can be encountered even in backwater systems carrying ambassadors, resupplying military installations or carrying out government–related tasks. Imperiallines vessels are very secure and of high quality. Imperiallines is not a Megacorporation but recent growth suggests that it will soon achieve that status.
 
 MAGNETODYNAMICS
+
+
 A mid–sized corporation specialising in the extraction of useful chemicals from gas or water suspension, MagnetoDynamics operates a range of facilities across the Marches. These include Jovian Atmosphere Processing Units (JAPU), better known as 'Sky Rigs'. The latter are grav–suspended platforms which filter and process the atmosphere of gas giant worlds for various useful chemicals. These range from petrochemicals and liquid hydrogen to exotic compounds. MagnetoDynamics also operates on a number of rocky planets, extracting compounds from the atmosphere or oceans.
 
 MCCLELLAN FACTORS
+
+
 McClellan Factors is a cartel of trading concerns operating mainly in District 268 under the leadership of McClellan Trading LIC. Some of the firms involved are registered in the Imperium, others are not. McClellan Factors is involved in restrictive practices which would be illegal in the Imperium, though McClellan Trading keeps its nose clean when operating within the Imperium. This involves treading a fine line but seems to be worth it; McClellan Factors has several markets in District 268 sewn up and recently rebuffed an effort by the Baraccai Technum to move into the region.
 
 NARISKII VEHICLES LIC
+
+
 Nariskii is a business group based in the Lunion subsector. The firm has its origins in a number of companies that provided new and refurbished all–terrain and grav vehicles to early explorers in the sector. After a long period on the fringes, Nariskii has grown rapidly in the past few years, opening manufacturing plants in several worlds. Products are mostly budget and mid–range utility vehicles ranging from Air/Rafts through ATVs to more humble work trucks.
 
 OBERLINDES A 'fledgling' shipping line operating a handful of vessels across Regina and Aramis subsectors and out into the Vargr Extents, Oberlindes is a family concern which has been known to take in free traders seeking a 'home'. As its operations increase in size, Oberlindes risks treading on the toes of Akerut, which operates in the same areas on a much larger scale.
@@ -1050,7 +1084,11 @@ The largest settlement contains about eighty people and is located near a flat a
 
 B
 
+
+
 B
+
+
 
 
 
@@ -1130,37 +1168,69 @@ IndoIndo
 
 C
 
-C
+
 
 C
+
+
+
+C
+
+
 
 D
 
-C
+
 
 C
+
+
+
+C
+
+
 
 B
 
+
+
 A
+
+
 
 D
 
+
+
 E
+
+
 
 C
 
+
+
 E
+
+
 
 A
 
+
+
 B
+
+
 
 E E A D E B
+
+
 
 StaveStave E
 
 E
+
+
 
 ## Jewell Subsector
 
@@ -1176,8 +1246,7 @@ The exposed nature of the deployment has earned the 212th the nickname of 'Santa
 
 The remainder of the subsector is ostensibly neutral, though Imperial access to worlds 'behind the Riverland Wall' is very limited, allowing the Zhodani Consulate much greater influence over Condyole and Puparkin as well as non–aligned worlds in Cronor subsector.
 
-Some of the worlds in the Rimward end of the subsector are coming under the influence of Arden, or more accurately the alliance of political and economic interest groups that is collectively calling itself the Federation of Arden. It is possible that in time some of these worlds may eventually become part of an alliance with Arden. How the Imperium and the Consulate will react to this development
-(if it occurs at all) remains to be seen.
+Some of the worlds in the Rimward end of the subsector are coming under the influence of Arden, or more accurately the alliance of political and economic interest groups that is collectively calling itself the Federation of Arden. It is possible that in time some of these worlds may eventually become part of an alliance with Arden. How the Imperium and the Consulate will react to this development (if it occurs at all) remains to be seen.
 
 Esalin is an unusual case. Literally located between the Imperium and the Consulate it was settled by the Imperium in 835 and was captured by the Zhodani in 1082, at the beginning of the Fourth Frontier War. Imperial and Zhodani cultures have become intermingled since and both groups generally get along quite amicably. As a result, a joint communiqué issued in 1098 established Esalin as a neutral and open world which has since enjoyed good relations with both the Consulate and the Imperium.
 
@@ -1279,25 +1348,39 @@ PuparkinPuparkin
 
 B
 
+
+
 ChwistyochChwistyoch
 
 C
 
+
+
 E
+
+
 
 GougesteGougeste
 
 C
 
+
+
 C
+
+
 
 EsalinEsalin
 
 B
 
+
+
 RubyRuby
 
 B
+
+
 
 EmeraldEmerald
 
@@ -1323,45 +1406,73 @@ NakegeNakege
 
 D
 
+
+
 MongoMongo
 
 C
+
+
 
 RiverlandRiverland
 
 B
 
+
+
 ClanClan
 
 E
+
+
 
 Ao–daiAo–dai
 
 B
 
+
+
 FoelenFoelen
 
 A
+
+
 
 FarreachFarreach
 
 D
 
+
+
 A
+
+
 
 B
 
+
+
 X
 
+
+
 E
+
+
 
 C
 
+
+
 E
+
+
 
 
 
 A
+
+
 
 yy
 
@@ -1435,45 +1546,73 @@ With relatively few seas and rivers to limit travel, a steady creep across the s
 
 A
 
+
+
 B
+
+
 
 C
 
+
+
 B
+
+
 
 E
 
+
+
 C
+
+
 
 B
 
-C
+
 
 C
 
-C
 
-cc
-
-cc
-
-cc
-
-cc
-
-cc
-
-cc
-
-cc
 
 C
 
+
+
 C
+
+
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+C
+
+
+
+C
+
+
 
 X X
 
+
+
 X
+
+
 
 
 
@@ -1488,6 +1627,8 @@ X
 RREGINAEGINA^69
 
 E
+
+
 
 Uthe
 
@@ -1509,6 +1650,8 @@ YresYres
 
 B
 
+
+
 MenorbMenorb
 
 UakyeUakye
@@ -1519,13 +1662,19 @@ KnorbesKnorbes
 
 E
 
+
+
 ForboldnForboldn
 
 E
 
+
+
 JengheJenghe
 
 C
+
+
 
 RuieRuie
 
@@ -1533,15 +1682,21 @@ PixiePixie
 
 A
 
+
+
 BougheneBoughene
 
 A
+
+
 
 HefryHefry
 
 ReginaRegina
 
 A
+
+
 
 FeriFeri
 
@@ -1553,15 +1708,21 @@ YoriYori
 
 C
 
+
+
 DentusDentus
 
 KinorbKinorb
 
 A
 
+
+
 Beck's WorldBeck's World
 
 D
+
+
 
 EnopeEnope
 
@@ -1569,11 +1730,15 @@ WochiersWochiers
 
 E
 
+
+
 YorbundYorbund
 
 HeyaHeya
 
 B
+
+
 
 ShionthyShionthy
 
@@ -1583,9 +1748,13 @@ YurstYurst
 
 E
 
+
+
 IntheInthe
 
 B
+
+
 
 RetheRethe
 
@@ -1593,9 +1762,13 @@ MoughasMoughas
 
 C
 
+
+
 KengKeng
 
 E
+
+
 
 
 cc
@@ -1665,19 +1838,35 @@ Junidy and similar worlds are on the front line of this sort of activity, and th
 
 E
 
+
+
 C
+
+
 
 X
 
-B
 
-C
 
 B
 
-C
+
 
 C
+
+
+
+B
+
+
+
+C
+
+
+
+C
+
+
 
 ~
 
@@ -1701,21 +1890,31 @@ CorfuCorfu
 
 X
 
+
+
 LablonLablon
 
 B
+
+
 
 JesedipereJesedipere
 
 C
 
+
+
 RugbirdRugbird
 
 B
 
+
+
 YebabYebab
 
 C
+
+
 
 TowersTowers
 
@@ -1739,13 +1938,19 @@ PavannePavanne
 
 E
 
+
+
 CarstenCarsten
 
 C
 
+
+
 LewisLewis
 
 X
+
+
 
 PatinirPatinir
 
@@ -1757,9 +1962,13 @@ FocalineFocaline
 
 E
 
+
+
 DhianDhian
 
 C
+
+
 
 PayaPaya
 
@@ -1769,9 +1978,13 @@ ZilaZila
 
 E
 
+
+
 PysadiPysadi
 
 C
+
+
 
 L'oeul d'DieuL'oeul d'Dieu ReacherReacher
 
@@ -1785,6 +1998,8 @@ NatokoNatoko
  B
 
 A
+
+
 
 ## QUERION SUBSECTOR
 
@@ -1853,21 +2068,39 @@ Located on the outer Spinward edge of the Marches, Prinx is a small world with a
 
 B
 
+
+
 E
+
+
 
 C
 
+
+
 C
 
+
+
 E
+
+
 
 D
 
+
+
 E
+
+
 
 B
 
+
+
 E
+
+
 
 π
 
@@ -1885,17 +2118,25 @@ AtsonAtson
 
 B
 
+
+
 Mizan–felMizan–fel
 
 B
+
+
 
 Terra NovaTerra Nova
 
 C
 
+
+
 AsmodeusAsmodeus
 
 E
+
+
 
 PrinxPrinx SansibarSansibar
 
@@ -1903,13 +2144,19 @@ Rapp's WorldRapp's World
 
 C
 
+
+
 LebeauLebeau
 
 B
 
+
+
 QuerionQuerion
 
 B
+
+
 
 AtticaAttica
 
@@ -1917,11 +2164,15 @@ YiktorYiktor
 
 C
 
+
+
 XhosaXhosa
 
 RushuRushu
 
 E
+
+
 
 RetinaeRetinae
 
@@ -1934,6 +2185,8 @@ DekalbDekalb
 WinstonWinston
 
 E
+
+
 
 AnselhomeAnselhome
 
@@ -2003,43 +2256,83 @@ The Arden Society is dedicated to making Arden a major player on the interstella
 
 B
 
+
+
 C
 
+
+
 E
+
+
 
 X
 
+
+
 D E
 
+
+
 C
+
+
 
 X A
 
+
+
 C
 
+
+
 E
+
+
 
 D
 
+
+
 D
 
-E
+
 
 E
+
+
+
+E
+
+
 
 B
 
+
+
 E
 
+
+
 C
+
+
 
 C C
 
+
+
 D
+
+
 
 E
 
+
+
 B
+
+
 
 VVILISILIS^81
 
@@ -2125,8 +2418,7 @@ Curious Jump–related phenomena have been reported in this region for centuries
 
 Despite the bad reputation of the region, the main naval bases for the subsector fleet (the 18th) and those elements of the Sector Fleet that are deployed to Lanth subsector are located in the Rift or along its edge at Ivendo, D'Ganzio, Lanth and Ghandi.
 
-All the worlds in Lanth subsector are Imperial members. Three
-(Wypoc, Quopist and Rhise) are Amber Zoned at present for various reasons. There are also four Red Zones of which three (Ylaven, Victoria and Sonthert) lie within the Abyss Rift. A certain segment of the population takes this as additional proof that the rift is a very bad place where awful things happen.
+All the worlds in Lanth subsector are Imperial members. Three (Wypoc, Quopist and Rhise) are Amber Zoned at present for various reasons. There are also four Red Zones of which three (Ylaven, Victoria and Sonthert) lie within the Abyss Rift. A certain segment of the population takes this as additional proof that the rift is a very bad place where awful things happen.
 
 The fourth Red Zone, Djinni, is an uninhabited but apparently habitable world on the Spinward Main. The Red Zone makes access to Yori in the Regina subsector problematical for Jump–1 ships.
 
@@ -2185,43 +2477,83 @@ The human population numbers about ten million as near as can be estimated. The 
 
 D
 
-X
 
-B
 
 X
 
+
+
+B
+
+
+
 X
 
-E
+
+
+X
+
+
 
 E
+
+
+
+E
+
+
 
 D
 
+
+
 C
+
+
 
 B
 
-D
 
-C
 
 D
 
-C
+
 
 C
 
-C
+
+
+D
+
+
 
 C
+
+
+
+C
+
+
+
+C
+
+
+
+C
+
+
 
 E
 
+
+
 B
 
+
+
 C
+
+
 
 π
 
@@ -2292,6 +2624,8 @@ cc
 
 B
 
+
+
 D'GanzioD'Ganzio
 
  B
@@ -2302,6 +2636,8 @@ LanthLanth
 cc
 
 A
+
+
 
 SonthertSonthert
 
@@ -2390,49 +2726,95 @@ In the century since the war, Vanejen has advanced steadily to tech level 5, wit
 
 B
 
-C
+
 
 C
+
+
+
+C
+
+
 
 E
 
+
+
 B
 
-A
 
-C
 
 A
 
+
+
 C
+
+
+
+A
+
+
+
+C
+
+
 
 E
 
+
+
 C
 
+
+
 X
+
+
 
 A
 
+
+
 B
+
+
 
 X
 
+
+
 C
 
+
+
 B
+
+
 
 X
 
+
+
 B
 
+
+
 C
+
+
 
 D
 
-C
+
 
 C
+
+
+
+C
+
+
 
 π
 
@@ -2440,7 +2822,11 @@ RRHYLANORHYLANOR^89
 
 E
 
+
+
 E
+
+
 
 PowazaPowaza
 
@@ -2535,6 +2921,8 @@ cc
 
 A
 
+
+
 (^90) DDDARRIANARRIANARRIAN
 
 ## DARRIAN SUBSECTOR
@@ -2581,7 +2969,7 @@ Today, Darrian still bears the scars of the Maghiz. There are extensive ruins of
 
 Modern Darrian has a population numbering in the billions. Most of these people live on the surface, contrary to popular images of Darrian as a world of flying cities. The surface is divided more by mountain ranges than by seas, creating five great 'basins' which are the equivalent of continents. In addition there are four flying cities, held aloft by gravitic technology. Each has its own unique characteristics and function, but altogether they contain only a fraction of the world population.
 
-In addition to being the spiritual home of the Darrian Confederation, Darrian is also the main technological center. The IISS has assigned a tech level rating of G (16), but this is slightly misleading. TL 16 artefacts are under study and in some cases can be duplicated and incorporated into devices as black–box components, but the world as a whole does not make use of TL 16 items on a routine basis. Most of the ultra–high technology available on planet is in the form of pre–Maghiz artefacts which are too precious for their scientific value to be used for practical tasks.
+In addition to being the spiritual home of the Darrian Confederation, Darrian is also the main technological center. The IISS has assigned a tech level rating ofG (16), but this is slightly misleading. TL 16 artefacts are under study and in some cases can be duplicated and incorporated into devices as black–box components, but the world as a whole does not make use of TL 16 items on a routine basis. Most of the ultra–high technology available on planet is in the form of pre–Maghiz artefacts which are too precious for their scientific value to be used for practical tasks.
 
 Study of the pre–Maghiz items, coupled with the Darrians' natural aptitude for technology, will undoubtedly result in technological growth to surpass that of the Imperium and perhaps even the pre– Maghiz Darrians. However, even though the government of Darrian is composed largely of scientists, restrictions are in place and any potentially hazardous experimentation is very carefully considered
 
@@ -2609,6 +2997,8 @@ DDARRIANARRIAN^93
 
 C
 
+
+
 NonymNonym
 
 yy
@@ -2623,17 +3013,25 @@ Five Sisters
 
 D
 
+
+
 JunctionJunction
 
 B
+
+
 
 Stern–SternStern–Stern
 
 E
 
+
+
 ZamineZamine
 
 B
+
+
 
 LabervLaberv
 
@@ -2641,13 +3039,19 @@ LabervLaberv
 
 C
 
+
+
 EktronEktron
 
 C
 
+
+
 EngrangeEngrange
 
 B
+
+
 
 IliumIlium
 
@@ -2655,13 +3059,19 @@ IliumIlium
 
 B
 
+
+
 RogetRoget
 
 D
 
+
+
 RorreRorre
 
 A
+
+
 
 MireMire
 
@@ -2669,13 +3079,19 @@ MireMire
 
 E
 
+
+
 CondariaCondaria
 
 A
 
+
+
 DarrianDarrian
 
 C
+
+
 
 SpumeSpume
 
@@ -2683,13 +3099,19 @@ SpumeSpume
 
 X
 
+
+
 494–908494–908
 
 A
 
+
+
 JacentJacent
 
 B
+
+
 
 NoseaNosea
 
@@ -2697,29 +3119,43 @@ yy
 
 C
 
+
+
 TrifugeTrifuge
 
 E
+
+
 
 CunnonicCunnonic
 
 D
 
+
+
 Terant 340Terant 340
 
 X
+
+
 
 TormentTorment
 
 D
 
+
+
 AtorAtor
 
 B
 
+
+
 DebarreDebarre
 
 E
+
+
 
 C DoranniaDorannia
 
@@ -2727,17 +3163,25 @@ BulariaBularia
 
 E
 
+
+
 KardinKardin
 
 D
+
+
 
 886–945886–945
 
 A
 
+
+
 GarooGaroo
 
 E
+
+
 
 UniquaUniqua
 
@@ -2753,8 +3197,7 @@ Spinward–Coreward from Iron is an arm of the Main that leads to Darrian subsec
 
 The Sword Worlds Confederation, occupying a section of the Spinward Main and a couple of spurs from it, is a collection of like– minded world governments that sometimes work together rather than a monolithic political body. The present Confederation capital is at Gram, though exactly how much power is exerted from there can vary considerably depending on the political climate.
 
-The Sword Worlds were settled by a long–range colony mission from Terra; the Imperium arrived much later, As a result there are deep cultural differences between the two groups. Similarly, the Darrians were recovering from the Maghiz when the Sword Worlders arrived and claimed the region for their own. They thus see themselves as rightful overlords of the region, and tend to deal with foreign
-(Darrian or Imperial) ships passing through in a high–handed and arrogant manner.
+The Sword Worlds were settled by a long–range colony mission from Terra; the Imperium arrived much later, As a result there are deep cultural differences between the two groups. Similarly, the Darrians were recovering from the Maghiz when the Sword Worlders arrived and claimed the region for their own. They thus see themselves as rightful overlords of the region, and tend to deal with foreign (Darrian or Imperial) ships passing through in a high–handed and arrogant manner.
 
 The four 'Metal Worlds' (Iron, Bronze, Mithril and Steel) are
 'reserve worlds' held in trust by the Sword Worlds Confederation against future need. Until recently the Confederation has vigorously resisted Imperial efforts to exploit these worlds, but that attitude has recently changed. A theoretically joint project to develop Steel has been put forward. In practice the Sword Worlder involvement is half–hearted at best. Surveying is likely to begin soon, once the last political issues are resolved.
@@ -2821,6 +3264,8 @@ SSWORDWORD W WORLDSORLDS^97
 
 B
 
+
+
 HruntingHrunting
 
 
@@ -2835,11 +3280,15 @@ Vilis
 
 B
 
+
+
 TizonTizon
 
 
 
 B
+
+
 
 ColadaColada
 
@@ -2847,11 +3296,15 @@ ColadaColada
 
 B
 
+
+
 JoyeuseJoyeuse
 
 
 
 B
+
+
 
 MjolnirMjolnir
 
@@ -2859,11 +3312,15 @@ MjolnirMjolnir
 
 B
 
+
+
 GungnirGungnir
 
 
 
 A
+
+
 
 GramGram
 
@@ -2871,11 +3328,15 @@ GramGram
 
 B
 
+
+
 TyrfingTyrfing
 
 
 
 B
+
+
 
 BeaterBeater
 
@@ -2883,11 +3344,15 @@ BeaterBeater
 
 B
 
+
+
 StingSting
 
 
 
 B
+
+
 
 HofudHofud
 
@@ -2895,11 +3360,15 @@ HofudHofud
 
 B
 
+
+
 DurendalDurendal
 
 
 
 B
+
+
 
 DyrnwynDyrnwyn
 
@@ -2907,11 +3376,15 @@ DyrnwynDyrnwyn
 
 B
 
+
+
 BiterBiter
 
 
 
 B
+
+
 
 SacnothSacnoth
 
@@ -2919,11 +3392,15 @@ SacnothSacnoth
 
 B
 
+
+
 ExcaliburExcalibur
 
 
 
 B
+
+
 
 OrcristOrcrist
 
@@ -2931,11 +3408,15 @@ OrcristOrcrist
 
 B
 
+
+
 AndurilAnduril
 
 
 
 B
+
+
 
 NarsilNarsil
 
@@ -2943,13 +3424,19 @@ NarsilNarsil
 
 E
 
+
+
 IronIron
 
 E
 
+
+
 BronzeBronze
 
 E
+
+
 
 E MithrilMithril
 
@@ -2959,9 +3446,13 @@ GunnGunn
 
 E
 
+
+
 CaliburnCaliburn
 
 B
+
+
 
 CaladbolgCaladbolg
 
@@ -2969,9 +3460,13 @@ cc
 
 E
 
+
+
 EnosEnos
 
 A
+
+
 
 FlammarionFlammarion
 
@@ -3050,6 +3545,8 @@ LLUNIONUNION^101
 
 C
 
+
+
 ArbaArba
 
 Lanth
@@ -3062,11 +3559,15 @@ Glisten
 
 D
 
+
+
 RabwharRabwhar
 
 cc
 
 A
+
+
 
 AdabicciAdabicci
 
@@ -3074,9 +3575,13 @@ AdabicciAdabicci
 
 B
 
+
+
 ZaibonZaibon
 
 A
+
+
 
 B TenalphiTenalphi
 
@@ -3086,19 +3591,27 @@ cc
 
 C
 
+
+
 OlympiaOlympia
 
 C
 
+
+
 SmougSmoug
 
 C
+
+
 
 SpirelleSpirelle
 
 cc
 
 E
+
+
 
 IanicIanic C
 
@@ -3108,6 +3621,8 @@ cc
 
 A
 
+
+
 LunionLunion
 
 
@@ -3115,15 +3630,21 @@ cc
 
 B
 
+
+
 ShireneShirene
 
 cc
 
 C
 
+
+
 CarseCarse
 
 B
+
+
 
 CaponCapon
 
@@ -3131,25 +3652,35 @@ CaponCapon
 
 B
 
+
+
 RestenResten
 
 cc
 
 X
 
+
+
 GorramGorram
 
 B
 
+
+
 QuiruQuiru
 
 C
+
+
 
 SharripSharrip E
 
 GandrGandr
 
 E
+
+
 
 A DrolrawDrolraw
 
@@ -3159,13 +3690,19 @@ StroudenStrouden
 
 X
 
+
+
 PenkwharPenkwhar
 
 C
 
+
+
 HarvosetteHarvosette
 
 B
+
+
 
 PersephonePersephone
 
@@ -3249,6 +3786,8 @@ MMORAORA^105
 
 B
 
+
+
 Star Lane
 
 Rhylanor
@@ -3263,9 +3802,13 @@ FoseyFosey
 
 B
 
+
+
 ByretByret
 
 B
+
+
 
 MercuryMercury
 
@@ -3274,21 +3817,31 @@ cc
 
 C
 
+
+
 CareyCarey
 
 A
+
+
 
 DualeDuale
 
 C
 
+
+
 TividTivid
 
 E
 
+
+
 PimanePimane
 
 B
+
+
 
 HexosHexos
 
@@ -3296,27 +3849,39 @@ HexosHexos
 
 C
 
+
+
 MeletoMeleto
 
 cc
 
 A
 
+
+
 MaitzMaitz
 
 E
+
+
 
 GrilleGrille
 
 A
 
+
+
 ForniceFornice
 
 B
 
+
+
 JokotreJokotre
 
 C
+
+
 
 MoranMoran
 
@@ -3324,9 +3889,13 @@ MoranMoran
 
 C
 
+
+
 CatuzCatuz
 
 A
+
+
 
 MoraMora
 
@@ -3335,11 +3904,15 @@ cc
 
 C
 
+
+
 DojodoDojodo
 
 cc
 
 C
+
+
 
 NadrinNadrin
 
@@ -3347,13 +3920,19 @@ cc
 
 C
 
+
+
 RoriseRorise
 
 C
 
+
+
 BrodieBrodie
 
 C
+
+
 
 PedasePedase
 
@@ -3361,21 +3940,29 @@ cc
 
 C
 
+
+
 MainzMainz
 
 cc
 
 A
 
+
+
 PaliquePalique
 
 D
+
+
 
 NexineNexine
 
 cc
 
 C
+
+
 
 Fen's GrenFen's Gren
 
@@ -3447,6 +4034,8 @@ FFIVEIVE S SISTERSISTERS^109
 
 E
 
+
+
 SaxeSaxe
 
 Darrian
@@ -3459,15 +4048,21 @@ Urnian
 
 B
 
+
+
 EmapeEmape
 
 
 
 E
 
+
+
 GotheGothe
 
 B
+
+
 
 MirriamMirriam
 
@@ -3475,11 +4070,15 @@ MirriamMirriam
 
 E
 
+
+
 JoneJone
 
 
 
 A
+
+
 
 KarinKarin
 
@@ -3488,9 +4087,13 @@ cc
 
 C
 
+
+
 PenelopePenelope
 
 D
+
+
 
 UcellaUcella C
 
@@ -3500,15 +4103,21 @@ cc
 
 A
 
+
+
 IderatiIderati
 
 
 
 E
 
+
+
 RalheRalhe
 
 E
+
+
 
 875–496875–496
 
@@ -3516,17 +4125,23 @@ cc
 
 E
 
+
+
 876–574876–574 E
 
 769–422769–422
 
 E
 
+
+
 WonderayWonderay B
 
 JinxJinx
 
 B
+
+
 
 RawehRaweh
 
@@ -3536,35 +4151,51 @@ FroinFroin
 
 B
 
+
+
 WonstarWonstar
 
 
 
 E
 
+
+
 LakouLakou
 
 C
+
+
 
 QuhaiathatQuhaiathat
 
 E
 
+
+
 TondoulTondoul
 
 D
+
+
 
 MeweyMewey
 
 E
 
+
+
 OchecateOchecate
 
 E
 
+
+
 975–452975–452
 
 C
+
+
 
 C CandoryCandory
 
@@ -3584,8 +4215,7 @@ There is no Subsector Fleet as such for District 268. Patrols are maintained fro
 
 Probably the most important non–Imperial world in District 268 is Collace, a high–tech industrial world with pro–Imperial leanings. Collace is a strong contender for the role of subsector capital if and when the district is absorbed. However, many worlds want nothing of the Imperium and are passively resistant to Imperial expansion.
 
-Among these anti–Imperial worlds is Trexalon, which has been involved in a cold war with Collace for many years now. The government of Trexalon and the Trexalon Technical Consortium
-(TTC) it leads knows that the Imperium will not tolerate armed resistance and can bring vast forces to bear if the TTC starts attacking Imperial facilities and ships in the region. Resistance is thus low–key and below the level that will trigger an Imperial response. There are, however, rumors that the TTC is behind a number of insurrections and similar problems on pro–imperial worlds.
+Among these anti–Imperial worlds is Trexalon, which has been involved in a cold war with Collace for many years now. The government of Trexalon and the Trexalon Technical Consortium (TTC) it leads knows that the Imperium will not tolerate armed resistance and can bring vast forces to bear if the TTC starts attacking Imperial facilities and ships in the region. Resistance is thus low–key and below the level that will trigger an Imperial response. There are, however, rumors that the TTC is behind a number of insurrections and similar problems on pro–imperial worlds.
 
 The world of Nirton is Red Zoned, and there are three Amber Zones. Pavabid is one of these, where the world government is a theocracy which follows the 'Pavabidian Heresy' (as it is called elsewhere) of the Church of Stellar Divinity. Like other branches of the church, the Pavabidian version believes that stars are holy, but maintains that all stars other than Pavabid's are evil. Offworlders are from 'enemy stars' and are highly suspect. The world is governed from a flying palace that the locals, who are kept in a state of mid–tech ignorance, are told is kept aloft by divine favor. In fact it was built on Glisten and uses gravitic technology.
 
@@ -3638,6 +4268,8 @@ DDISTRICTISTRICT 268 268 113
 
 B
 
+
+
 AsteltineAsteltine
 
 Sword Worlds
@@ -3650,13 +4282,19 @@ Egyrn
 
 E
 
+
+
 567–908567–908
 
 E
 
+
+
 FaldorFaldor
 
 D
+
+
 
 BowmanBowman
 
@@ -3664,9 +4302,13 @@ cc
 
 C
 
+
+
 SqualliaSquallia
 
 C
+
+
 
 WalstonWalston
 
@@ -3674,17 +4316,25 @@ cc
 
 E
 
+
+
 FlexosFlexos
 
 X
+
+
 
 NirtonNirton
 
 E
 
+
+
 DatrillianDatrillian
 
 E
+
+
 
 DawnworldDawnworld C
 
@@ -3696,6 +4346,8 @@ ElixabethElixabeth
 
 E
 
+
+
 D MilagroMilagro
 
 E ForineForine
@@ -3704,15 +4356,21 @@ NoctocolNoctocol
 
 C
 
+
+
 TarkineTarkine
 
 cc
 
 B
 
+
+
 DalliaDallia
 
 E
+
+
 
 TalosTalos B
 
@@ -3727,13 +4385,19 @@ cc
 
 A
 
+
+
 BingesBinges
 
 C
 
+
+
 PagatonPagaton
 
 E
+
+
 
 B JudiceJudice
 
@@ -3743,11 +4407,15 @@ cc
 
 C
 
+
+
 PavabidPavabid B
 
 TrexalonTrexalon
 
 B
+
+
 
 MotmosMotmos
 
@@ -3755,15 +4423,21 @@ MotmosMotmos
 
 B
 
+
+
 TarsusTarsus
 
 C
+
+
 
 D AvastanAvastan
 
 InchinInchin
 
 D
+
+
 
 SingerSinger C
 
@@ -3846,6 +4520,8 @@ Despite its unappealing nature, Craw is home to some seven million or so humans.
 
 A
 
+
+
 GroteGrote
 
 Trin's Veil
@@ -3858,17 +4534,25 @@ Pax Rulin
 
 E
 
+
+
 LydiaLydia
 
 C
+
+
 
 MithrasMithras
 
 A
 
+
+
 WeissWeiss
 
 C
+
+
 
 WindsorWindsor B
 
@@ -3876,13 +4560,19 @@ AkiAki
 
 B
 
+
+
 OvernaleOvernale
 
 E
 
+
+
 CalliaCallia
 
 D
+
+
 
 MeliorMelior A
 
@@ -3893,11 +4583,15 @@ cc
 
 B
 
+
+
 New RomeNew Rome
 
 
 
 B
+
+
 
 EgyptEgypt
 
@@ -3905,23 +4599,33 @@ EgyptEgypt
 
 C
 
+
+
 AsterAster
 
 C
+
+
 
 CrawCraw
 
 C
 
+
+
 TraneTrane
 
 C
+
+
 
 HoroshoHorosho
 
 cc
 
 B
+
+
 
 RomorRomor
 
@@ -3930,19 +4634,27 @@ cc
 
 C
 
+
+
 WurzburgWurzburg
 
 cc
 
 E
 
+
+
 SorelSorel
 
 D
 
+
+
 TsarinaTsarina
 
 A
+
+
 
 BendorBendor
 
@@ -3951,29 +4663,41 @@ cc
 
 A
 
+
+
 C FfudhFfudh
 
 IntheInthe
 
 C
 
+
+
 CaledoniaCaledonia
 
 C
+
+
 
 TiremTirem
 
 E
 
+
+
 CroutCrout
 
 D
+
+
 
 E MarastanMarastan
 
 CentryCentry
 
 E
+
+
 
 BicornnBicornn
 
@@ -4007,8 +4731,7 @@ Aramis is a very wet world, with extensive oceans and relatively little useable 
 
 One 'island nation' is in fact an industrial enclave on long–term lease to Peabody Instrument, a firm specialising in the manufacture of scientific apparatus and instrumentation components for vehicles and industrial applications. The Peabody enclave has a large population – fully half a million people – and is also the site of the starport. Many visitors to Aramis gain the impression that it is a high–tech industrialised world. In fact, beyond the shores of the Peabody enclave, which takes up the entire mass of a large island, Aramis is a mess of small mid–tech societies.
 
-The mainland is home to the majority of the population. There are several states along the coastal strip, mostly known as 'claves
-(corrupted from enclave) and usually named for their founders. These are independent and often unfriendly if not downright hostile to one another. Each 'clave consists of a few small towns or a couple of larger ones, surrounded by an area of villages and farms.
+The mainland is home to the majority of the population. There are several states along the coastal strip, mostly known as 'claves (corrupted from enclave) and usually named for their founders. These are independent and often unfriendly if not downright hostile to one another. Each 'clave consists of a few small towns or a couple of larger ones, surrounded by an area of villages and farms.
 
 Inland is a wide outback region which is thinly populated and has no formal government. Most outbackers live in steads which are protected by a simple earth rampart with firing positions cut in it. Raids and feuds are not uncommon, and the outbacker towns are similarly protected. As a general rule outbackers do not like coasters (or 'clavers as they are sometimes known) and have little contact with them. There is some trade between the coasters and the outbackers, just as there is some trade between different 'claves. For the most part, wary, armed mistrust is the order of the day as a result of old feuds.
 

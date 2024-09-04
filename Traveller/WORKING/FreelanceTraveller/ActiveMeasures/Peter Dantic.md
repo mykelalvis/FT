@@ -34,7 +34,7 @@ HT 8[-15]
 
 Advantages
 
-Decreased Life support [10], Mild Regeneration [10], Patron (Refinished Evolutions)[5], Wealthy [20], Status 6 (on Narya only) [30/2]
+Decreased Life support [10], Mild Regeneration [10], Patron (Refinished Evolutions)[5], Wealthy [20], Status6 (on Narya only) [30/2]
 
 Disadvantages
 

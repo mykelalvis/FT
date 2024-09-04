@@ -579,7 +579,6 @@ New assignments in the Agent, Citizen, Entertainer and Merchant careers are cons
 
 If the attempt to change assignment is successful, the career begins afresh with the new assignment, with the Traveller starting at rank 0.
 
-
 > [!info]- Contacts, Allies, Rivals and Enemies
 > Over the course of their careers, Travellers will have made friends and foes, and established ties with various people who may play a part in future adventures. There are four categories of such associates.
 > - [[#Contact]]: These are individuals the Traveller knows and has had friendly dealings with in the past. They have useful skills or positions and may be willing to aid the Traveller.
@@ -2234,7 +2233,6 @@ A Traveller's Parole Threshold starts at 1D+2. A Traveller's Parole Threshold ca
 > [!Info] Anagathics
 > Travellers may not use Anagathics in prison.
 
-
 ### Prisoner Mustering Out Benefits
 
 |  1D |  Cash  | Benefits                        |
@@ -2339,8 +2337,7 @@ DM+1 but would still make all other Engineer checks at DM+0 (in other words, wit
 
 ## TASK CHECKS
 
-Most actions undertaken by Travellers do not require a skill check. A Traveller does not have to make an Athletics check to run through a forest or Electronics
-(computers) to access information from their ship's library. Some actions will require the Traveller to have a particular skill but will still not require a check. A Traveller with Flyer 0, for example, can fly an air/raft under normal conditions without having to make a check.
+Most actions undertaken by Travellers do not require a skill check. A Traveller does not have to make an Athletics check to run through a forest or Electronics (computers) to access information from their ship's library. Some actions will require the Traveller to have a particular skill but will still not require a check. A Traveller with Flyer 0, for example, can fly an air/raft under normal conditions without having to make a check.
 
 The referee should only call for checks when:
 
@@ -2402,7 +2399,6 @@ _For example, Kathya (DEX 10, Stealth 0), Erik (DEX 6, Stealth 2) and Morn (DEX 
 > ### Which Characteristic?
 > The characteristic that applies to a skill check will be obvious in most cases – balancing atop a wall is blatantly a DEX-based check, while using brute force to disable a mechanism is governed by STR. The main area of overlap is between INT and EDU. The former covers inspiration, improvization and pure reasoning, while the latter is for trained responses and known solutions. For example, a brilliant but unschooled mechanic might fix a ship using Engineer and INT, while a trained mechanic might follow the procedure in the book using Engineer and EDU. Some checks can be attempted with either characteristic but no amount of EDU will help you deal with a totally unfamiliar problem and no amount of INT will let a Traveller know some piece of trivia or technical information unless they learned it beforehand.
 
-
 ## TASK DIFFICULTIES
 
 Some tasks are easier or harder to complete than others and so far we have just looked at Average checks that need 8+ to succeed. When the referee decides a task should be either easier or harder, they may change the target number needed for the check.
@@ -2433,8 +2429,7 @@ Impossible tasks require near-miracles to pull off, such reconstructing alien DN
 
 These difficulties are summarized on the [[#Task Difficulty table]].
 
-
-_For example, Erik (INT 9, Carouse 1) is trying to find information about a mysterious ship that landed at the starport. He goes to a bar frequented by wanderers and spacers, hoping to pick up a rumor. This is a Carouse check and the referee says that it is a Difficult (10+) task. Erik has one level of Carouse, which grants him DM+1, an INT of 9 (for an additional DM+1), giving him a final of DM+2. He rolls 2D+2 and tries to get 10 or more._
+_For example, Erik (INT 9, Carouse 1) is trying to find information about a mysterious ship that landed at the starport. He goes to a bar frequented by wanderers and spacers, hoping to pick up a rumor. This is a Carouse check and the referee says that it is a Difficult (10+) task. Erik has one level of Carouse, which grants him DM+1, an INT of9 (for an additional DM+1), giving him a final of DM+2. He rolls 2D+2 and tries to get 10 or more._
 
 **Note that if no difficulty is listed for a check, you can always assume it is [[#Average]] (8+).**
 
@@ -2469,7 +2464,6 @@ Each task has a random timeframe of one to six time units. The unit depends on t
 
 Some sample timeframes are listed in the [[#Timeframes table]]. The referee can use these examples for their own checks and actions.
 
-
 ### Going Slower or Faster
  You can choose, before you roll, to move up or down one level on the [[#Timeframes table]]. Moving up (reducing the time increment) inflicts DM-2 on your check; moving down and increasing the time taken gives you DM+2 on your check. You can only move a time increment one level in this way.
 
@@ -2486,7 +2480,6 @@ Finding a buyer for a cargo of illegal goods, for example, calls for a Streetwis
 Alternatively, when coming up with a plan to attack a fortress, the Travellers would begin with a Recon check to scope the place out, then a Tactics check to find weak spots in its defenses, then Stealth and Electronics checks to get past the security system. The quality of information gleaned from the Recon check will certainly have an impact on the tactics the Travellers choose to adopt and this in turn will make their Stealth checks easier or harder, and so on.
 
 When tasks are linked together like this they are called task chains and the result of one check can give a DM to the next – for better or worse. The DM gleaned from one check and then applied to the next is shown on the [[#Task Chain table]].
-
 
 _For example, Erik and Kathya are trying to locate a hidden base on an icy moon. Erik has Electronics (computers) and suggests trying to augment their ship's scanners. Kathya has the Electronics (sensors) skill and stays on the bridge while Erik goes down to the sensor pods with his toolkit._
 
@@ -2571,8 +2564,7 @@ Astrogation #TODO
 
 This skill is for plotting the courses of starships and calculating accurate jumps. See the Spacecraft Operations chapter.
 
-Plotting Course to a Target World Using a Gas Giant for a Gravity Slingshot: Difficult (10+) Astrogation check
-(1D x 10 minutes, EDU). Plotting a Standard Jump: Easy (4+) Astrogation check (1D x 10 minutes, EDU), with DM- equal to the Jump distance.
+Plotting Course to a Target World Using a Gas Giant for a Gravity Slingshot: Difficult (10+) Astrogation check (1D x 10 minutes, EDU). Plotting a Standard Jump: Easy (4+) Astrogation check (1D x 10 minutes, EDU), with DM- equal to the Jump distance.
 
 Athletics The Traveller is a trained athlete and is physically fit. The Athletics skill effectively augments a Traveller's physical characteristics; whatever you can do with Strength alone you can also add your Athletics (strength) DM to, for example. Athletics is also the principal skill used in adverse gravitational environments, specifically Athletics (dexterity) in low or zero-G and Athletics (strength) in high-G locations.
 
@@ -2580,21 +2572,17 @@ Specialties
 
 - Dexterity: Climbing, Juggling, Throwing. For alien species with wings, this also includes flying. Climbing: Difficulty varies. Athletics (dexterity) check (1D x 10 seconds, DEX). So long as they succeed, the Traveller's Effect is usually irrelevant unless they are trying to do something while climbing, in which case the climbing is part of a task chain or multiple action. Sprinting: Average (8+) Athletics (dexterity) check
 
-(1D seconds, DEX). If the Traveller does nothing but sprint flat out they can cover 24 + Effect meters with every check. Avoiding obstacles while sprinting requires another Athletics (dexterity) check (Difficult, because they are performing a multiple action). High Jumping: Average (8+) Athletics (dexterity) check
-(1D seconds, DEX). The Traveller jumps a number of meters straight up equal to the Effect halved. Long Jumping: Average (8+) Athletics (dexterity) check (1D seconds, DEX). The Traveller jumps a number of meters forward equal to the Effect with a running start. Righting Yourself When Artificial Gravity Suddenly Fails on Board a Ship: Average (8+) Athletics
-(dexterity) check (1D seconds, DEX).
+(1D seconds, DEX). If the Traveller does nothing but sprint flat out they can cover 24 + Effect meters with every check. Avoiding obstacles while sprinting requires another Athletics (dexterity) check (Difficult, because they are performing a multiple action). High Jumping: Average (8+) Athletics (dexterity) check (1D seconds, DEX). The Traveller jumps a number of meters straight up equal to the Effect halved. Long Jumping: Average (8+) Athletics (dexterity) check (1D seconds, DEX). The Traveller jumps a number of meters forward equal to the Effect with a running start. Righting Yourself When Artificial Gravity Suddenly Fails on Board a Ship: Average (8+) Athletics (dexterity) check (1D seconds, DEX).
 
 - Endurance: Long-distance running, hiking Long-distance Running: Average (8+) Athletics
 
-(endurance) check (1D x 10 minutes, END). Long-distance Swimming: Average (8+) Athletics
-(endurance) check (1D x 10 minutes, END).
+(endurance) check (1D x 10 minutes, END). Long-distance Swimming: Average (8+) Athletics (endurance) check (1D x 10 minutes, END).
 
 - Strength: Feats of strength, weight-lifting. Arm Wrestling: Opposed Athletics (strength) check
 
 (1D minutes, STR). Feats of Strength: Average (8+) Athletics (strength) check (1D x 10 seconds, STR). Performing a Complicated Task in a High Gravity Environment: Difficult (10+) Athletics (strength) check (1D seconds, STR).
 
-Broker The Broker skill allows a Traveller to negotiate trades and arrange fair deals. It is heavily used when trading
-(see the Trade chapter).
+Broker The Broker skill allows a Traveller to negotiate trades and arrange fair deals. It is heavily used when trading (see the Trade chapter).
 
 Negotiating a Deal: Average (8+) Broker check (1D hours, INT). Finding a Buyer: Average (8+) Broker check (1D hours, SOC).
 
@@ -2604,8 +2592,7 @@ Drinking Someone Under the Table: Opposed Carouse check (1D hours, END). Difficu
 
 Deception Deception allows a Traveller to lie fluently, disguise themselves, perform sleight of hand and fool onlookers. Most underhanded ways of cheating and lying fall under deception.
 
-Convincing a Guard to let you Past Without ID: Very Difficult (12+) Deception check (1D minutes, INT). Alternatively, oppose with a Recon check. Palming a Credit Chit: Average (8+) Deception check
-(1D seconds, DEX). Disguising Yourself as a Wealthy Noble to Fool a Client: Difficult (10+) Deception check (1D x 10 minutes, INT or SOC). Alternatively, oppose with a Recon check.
+Convincing a Guard to let you Past Without ID: Very Difficult (12+) Deception check (1D minutes, INT). Alternatively, oppose with a Recon check. Palming a Credit Chit: Average (8+) Deception check (1D seconds, DEX). Disguising Yourself as a Wealthy Noble to Fool a Client: Difficult (10+) Deception check (1D x 10 minutes, INT or SOC). Alternatively, oppose with a Recon check.
 
 Diplomat The Diplomat skill is for negotiating deals, establishing peaceful contact and smoothing over social faux pas. It includes how to behave in high society and proper ways to address nobles. It is a much more formal skill than Persuade.
 
@@ -2630,8 +2617,7 @@ Specialties
 
 - Wheel: For automobiles and similar groundcars. Driving a Groundcar in a Short Race: Opposed Drive
 
-(wheeled) check (1D minutes, DEX). Longer races might use END instead of DEX. Avoiding an Unexpected Obstacle on the Road: Average
-(8+) Drive (wheeled) check (1D seconds, DEX).
+(wheeled) check (1D minutes, DEX). Longer races might use END instead of DEX. Avoiding an Unexpected Obstacle on the Road: Average (8+) Drive (wheeled) check (1D seconds, DEX).
 
 Electronics This skill is used to operate electronic devices such as computers and ship-board systems. Higher levels represent the ability to repair and create electronic devices and systems. There are several specialties.
 
@@ -2639,9 +2625,7 @@ Specialties
 
 - Comms: The use of modern telecommunications; opening communications channels, querying computer networks, jamming signals and so on, as well as the proper protocols for communicating with starports and other spacecraft. Requesting Landing Privileges at a Starport: Routine (6+) Electronic (comms) check (1D minutes, EDU).
 
-Accessing Publicly Available but Obscure Data Over Comms: Average (8+) Electronic (comms) check (1D x 10 minutes, EDU). _Bouncing a Signal off Orbiting Satellite to Hide Your_ Transmitter: Difficult (10+) Electronics (comms) check (1D x 10 minutes, INT). Jamming a Comms System: Opposed Electronics
-(comms) check (1D minutes, INT). Difficult (10+) for radio, Very Difficult (12+) for laser and Formidable
-(14+) for masers. A Traveller using a comms system with a higher Technology Level than their opponent gains DM+1 for every TL of difference.
+Accessing Publicly Available but Obscure Data Over Comms: Average (8+) Electronic (comms) check (1D x 10 minutes, EDU). _Bouncing a Signal off Orbiting Satellite to Hide Your_ Transmitter: Difficult (10+) Electronics (comms) check (1D x 10 minutes, INT). Jamming a Comms System: Opposed Electronics (comms) check (1D minutes, INT). Difficult (10+) for radio, Very Difficult (12+) for laser and Formidable (14+) for masers. A Traveller using a comms system with a higher Technology Level than their opponent gains DM+1 for every TL of difference.
 
 - Computers: Using and controlling computer systems and similar electronics and electrics. Accessing Publicly Available Data: Easy (4+) Electronics (computers) check (1D minutes, INT or EDU). Activating a Computer Program on a Ship's Computer: Routine (6+) Electronics (computers) check (1D x 10 seconds, INT or EDU). Searching a Corporate Database for Evidence of Illegal Activity: Difficult (10+) Electronics (computers) check (1D hours, INT). 
 - Hacking into a Secure Computer Network: Formidable (14+) Electronics (computers) check (1D x 10 hours, INT). Hacking is aided by Intrusion programs and made more difficult by Security programs. The Effect determines the amount of data retrieved; failure means the targeted system may be able to trace the hacking attempt.
@@ -2757,8 +2741,7 @@ Specialties
 - Bludgeon: Attacking with maces, clubs, staves and so on.
 - Natural: Weapons that are part of an alien or creature, such as claws or teeth.
 
-Swinging a Sword: Average (8+) Melee (blade) check
-(1D seconds, STR or DEX).
+Swinging a Sword: Average (8+) Melee (blade) check (1D seconds, STR or DEX).
 
 Navigation Navigation is the planetside counterpart of astrogation, covering plotting courses and finding directions on the ground.
 
@@ -2793,8 +2776,7 @@ Recon #TODO
 
 A Traveller trained in Recon is able to scout out dangers and spot threats, unusual objects or out of place people.
 
-Working Out the Routine of a Trio of Guard Patrols: Average (8+) Recon check (1D x 10 minutes, INT). Spotting the Sniper Before they Shoot You: Recon check (1D x 10 seconds, INT) opposed by Stealth
-(DEX) check.
+Working Out the Routine of a Trio of Guard Patrols: Average (8+) Recon check (1D x 10 minutes, INT). Spotting the Sniper Before they Shoot You: Recon check (1D x 10 seconds, INT) opposed by Stealth (DEX) check.
 
 Science #TODO
 
@@ -2832,8 +2814,7 @@ Specialities
 - Sail: This skill is for wind-driven watercraft.
 - Submarine: For vehicles that travel underwater.
 
-Controlling a Canoe in a Violent Storm: Formidable
-(14+) Seafarer (personal) check (1D hours, END).
+Controlling a Canoe in a Violent Storm: Formidable (14+) Seafarer (personal) check (1D hours, END).
 
 Stealth A Traveller trained in the Stealth skill is adept at staying unseen, unheard and unnoticed.
 
@@ -3198,8 +3179,7 @@ Poisons operate in the same way as diseases but generally work much faster and o
 
 Disease
 
-END check Difficulty Damage Interval Arsenic Difficult (10+) 2D 1D minutes Tranq Gas Difficult (10+) Unconscious 1D seconds Neurotoxin Very Difficult
-(12+)
+END check Difficulty Damage Interval Arsenic Difficult (10+) 2D 1D minutes Tranq Gas Difficult (10+) Unconscious 1D seconds Neurotoxin Very Difficult (12+)
 
 1D INT 1D seconds
 
@@ -3207,20 +3187,18 @@ END check Difficulty Damage Interval Arsenic Difficult (10+) 2D 1D minutes Tranq
 
 Grav plates are common on spacecraft and space stations and so Travellers may spend most of their lives in comfortable Earth-like gravity (1G). However, grav plates can malfunction and once a Traveller steps off their ship onto the surface of a world, they become subject to the often brutal effects of gravity.
 
-High Gravity: Environments that have a gravity of 1.4 G or more (typically worlds of Size 10) are classed as being High Gravity. Humans find high-gravity worlds unpleasant. Especially high-gravity worlds require
+### High Gravity
+Environments that have a gravity of 1.4 G or more (typically worlds of Size 10) are classed as being High Gravity. Humans find high-gravity worlds unpleasant. Especially high-gravity worlds require the use of pressured or powered suits to support the human frame. Travellers on high-gravity worlds suffer DM-1 to all skill checks until they acclimatise, a process that takes 1D weeks. Travellers with the Athletics (strength) skill acclimatise within 1D days.
 
-the use of pressured or powered suits to support the human frame. Travellers on high-gravity worlds suffer DM-1 to all skill checks until they acclimatise, a process that takes 1D weeks. Travellers with the Athletics
-(strength) skill acclimatise within 1D days.
+### Low Gravity
+#TODO Environments that have a gravity of 0.7 G or less (typically worlds of Size 6 or smaller) are classed as being Low Gravity. Humans tend to find life on low-gravity worlds to be initially pleasant but regular exercise regimes and medicinal supplements are required to prevent bone and muscle degradation. Those who spent too long on low-gravity worlds cannot tolerate higher gravities. Travellers on low-gravity worlds suffer DM-1 to all physical skill checks until they acclimatise, a process which takes 1D weeks. Travellers with the Athletics (dexterity) skill acclimatise within 1D days.
 
-Low Gravity: #TODO Environments that have a gravity of 0.7 G or less (typically worlds of Size 6 or smaller) are classed as being Low Gravity. Humans tend to find life on low-gravity worlds to be initially pleasant but regular exercise regimes and medicinal supplements are required to prevent bone and muscle degradation. Those who spent too long on low-gravity worlds cannot tolerate higher gravities. Travellers on low-gravity worlds suffer DM-1 to all physical skill checks until they acclimatise, a process which takes 1D weeks. Travellers with the Athletics (dexterity) skill acclimatise within 1D days.
+### Zero Gravity
+#TODO A Traveller in a zero gravity situation suffers all the effects of Low Gravity (the world Size is assumed to be 0). In addition, they must be careful to watch for things that can affect their momentum – most notably, firing weapons that have recoil.
 
-Zero Gravity: #TODO A Traveller in a zero gravity situation suffers all the effects of Low Gravity (the world Size is assumed to be 0). In addition, they must be careful to watch for things that can affect their momentum – most notably, firing weapons that have recoil.
+Every time the Traveller uses a close combat weapon or any ranged weapon that does not have the Zero-G trait, they must make an Average (8+) Athletics (dexterity) check or not only automatically miss their target but start to spin helplessly out of control.
 
-Every time the Traveller uses a close combat weapon or any ranged weapon that does not have the Zero-G trait, they must make an Average (8+) Athletics
-(dexterity) check or not only automatically miss their target but start to spin helplessly out of control.
-
-A Traveller spinning out of control in zero gravity may regain control with an Average (8+) Athletics
-(dexterity) check.
+A Traveller spinning out of control in zero gravity may regain control with an Average (8+) Athletics (dexterity) check.
 
 ## RADIATION
 Radiation is a constant danger throughout space. Spacecraft hull materials shield against most radiation; coupled with the added protection offered by hydrogen fuel tanks lining the inner hull means that exposure suffered by most spacers is only a few times that of being planetside. Travellers in vessels flying too close
@@ -3253,8 +3231,7 @@ Without life support, a Traveller begins to suffocate, suffering 1D damage each 
 
 ## Temperature
 
-Unusually hot or cold worlds can cause damage
-(starting with END) unless the Travellers are suitably protected. Temperatures are in Celsius.
+Unusually hot or cold worlds can cause damage (starting with END) unless the Travellers are suitably protected. Temperatures are in Celsius.
 
 ## Vacuum
 
@@ -3320,8 +3297,7 @@ When using any kind of sensor, the Electronics (sensors) skill is used, opposed 
 Many worlds in the galaxy are capable of bearing life and across the galaxy evolution (or genetic engineering) has produced bizarre creatures, forming complex ecosystems very different from those of the worlds the Travellers are used to.
 
 Animal Hits Speed
-Larker 100 9 m Skills Athletics (endurance) 2, Athletics
-(strength) 4, Survival 2 Attacks Charge (5D) Traits Armor (+12), Large (+4) Behaviour Herbivore, Grazer
+Larker 100 9 m Skills Athletics (endurance) 2, Athletics (strength) 4, Survival 2 Attacks Charge (5D) Traits Armor (+12), Large (+4) Behaviour Herbivore, Grazer
 
 Animals are defined by a handful of characteristics as shown in the example here, a larker – a massive but gentle insect found on the open grassy plains where it grazes on long foliage.
 
@@ -3429,8 +3405,7 @@ Animal Hits Speed Klian Sea Sifter 6 2m Skills Recon 1, Stealth 0, Survival 1 At
 Nibbon
 A small cute creature commonly found in pine forests inside the trunks of trees, they make popular pets and companions due to their friendly and loyal demeanour. Nibbons resemble small green fennec foxes with antennae similar to moths, as well as surprisingly strong and colourful wings to warn off predators. They used to be a delicacy on their homeworld but can only be cooked by extremely talented chefs who know where their deadly poison glands are located. Their favorite foods are small insects and fruit.
 
-Animal Hits Speed Nibbon 3 10m Skills Athletics (dexterity) 3, Recon 3, Stealth 2, Survival 2 Attacks Claws (D3) Traits Heightened Senses, Poison
-(difficult/2D/1D hours), Flyer (slow) Behaviour Omnivore, Hunter
+Animal Hits Speed Nibbon 3 10m Skills Athletics (dexterity) 3, Recon 3, Stealth 2, Survival 2 Attacks Claws (D3) Traits Heightened Senses, Poison (difficult/2D/1D hours), Flyer (slow) Behaviour Omnivore, Hunter
 
 Ruuta
 The ruuta is a small ball covered in mottled down. There are no apparent eyes or other features apart from webbed spines protruding from each side of its sphere, like wings, which flap at incredible speed and make a deep buzzing noise. It spends the majority of its life in the upper clouds of its homeworld feeding on chemicals by absorption through its wing membranes and only returns to the surface to lay eggs. The males of this species are approximately four centimeters in diameter and tend to be vibrantly coloured in order to attract mates while the females are around eight centimeters in diameter and tend to be mostly black, white and varying shades of grey.
@@ -3717,7 +3692,7 @@ Grav Assist (TL12) : This upgrade can be added to combat armor or battle dress o
 
 Magnetic Grapples (TL8) : Magnetic plates in the boots of the armor allow the user to walk normally on a spacecraft without artificial gravity. Costs Cr100.
 
-Medikit (TL10) : An internal medical scanner and drug injector, the medikit can be installed in combat armor, battle dress or a vacc suit. It automatically applies first aid if the Traveller is reduced to END 0 (treat as having Medic 3). It can also administer Fast Drug on command or if life support systems are failing. Costs Cr5000. TL11 : A military medikit can also inject combat drugs and metabolic accelerators on command. Costs Cr10000.
+Medikit (TL10) : An internal medical scanner and drug injector, the medikit can be installed in combat armor, battle dress or a vacc suit. It automatically applies first aid if the Traveller is reduced to END0 (treat as having Medic 3). It can also administer Fast Drug on command or if life support systems are failing. Costs Cr5000. TL11 : A military medikit can also inject combat drugs and metabolic accelerators on command. Costs Cr10000.
 
 Self-Sealing (TL11) : Self-sealing systems can be added to any armor (except ablat) when it is being made. The armor can seal breaches and repair minor damage. This cannot reconstruct a severely damaged suit of armor but does ensure that a ripped vacc suit or torn jacket repairs itself. Self-sealing only repairs minor damage - getting shot or stabbed is about the limit of the self-sealing capability to manage. Self-sealing costs Cr2000.
 
@@ -3873,8 +3848,7 @@ Included
 
 Cr200 Cr1000 Cr20000
 
-Security software packages defend against intrusion. Security/0 requires an Average (8+) Electronics
-(computers) check to successfully bypass. Difficult (10+) difficulty. Very Difficult (12+) difficulty. Formidable (14+) difficulty. Intrusion 1
+Security software packages defend against intrusion. Security/0 requires an Average (8+) Electronics (computers) check to successfully bypass. Difficult (10+) difficulty. Very Difficult (12+) difficulty. Formidable (14+) difficulty. Intrusion 1
 
 TL10 TL11 TL13 TL15
 
@@ -3902,8 +3876,7 @@ TL11 TL12 TL13 TL14
 
 Cr500 Cr2000 Cr100000 Cr250000
 
-Agent packages have an Electronics (computers) skill equal to their Bandwidth and can carry out tasks assigned to them with a modicum of intelligence. For example, an Agent package might be commanded to hack into an enemy computer system and steal a particular data file. They are effectively specialized combinations of Expert Electronics
-(computers) and less capable Intellect software packages. Intellect 1
+Agent packages have an Electronics (computers) skill equal to their Bandwidth and can carry out tasks assigned to them with a modicum of intelligence. For example, an Agent package might be commanded to hack into an enemy computer system and steal a particular data file. They are effectively specialized combinations of Expert Electronics (computers) and less capable Intellect software packages. Intellect 1
 
 TL12 TL13 TL14
 
@@ -3970,8 +3943,7 @@ Panaceas (TL8+): These are wide-spectrum medicinal drugs specifically designed n
 
 Slow Drug (TL11): This is a variant of the metabolic accelerator. It can only be applied safely in a medical facility where life-support and cryotechnology is available, as it increases the metabolism to around 30 times normal, allowing a patient to undergo a month of healing in a single day. Using this drug outside of a hospital or sickbay is a messy and painful way to commit suicide, as the user will rapidly cook their internal organs and suffer massive brain damage. Slow drug costs Cr500 per dose.
 
-Stims (TL8): These relieve fatigue, although at a cost. A Traveller who uses stims removes Fatigue
-(see page 80) but also sustains one point of damage. If stims are used repeatedly without natural sleep in between, the user suffers a cumulative additional point of damage every time (so, on the second use, two points of damage are sustained, on the third, three points and so on). Costs Cr50 per dose.
+Stims (TL8): These relieve fatigue, although at a cost. A Traveller who uses stims removes Fatigue (see page 80) but also sustains one point of damage. If stims are used repeatedly without natural sleep in between, the user suffers a cumulative additional point of damage every time (so, on the second use, two points of damage are sustained, on the third, three points and so on). Costs Cr50 per dose.
 
 DRUGS #TODO There are several drugs (or 'meds') in standard use.
 
@@ -4005,14 +3977,15 @@ EM Probe: #TODO This handy device detects the electro- magnetic emissions of tec
 
 Geiger Counter: #TODO Detects radiation.
 
-IR Goggles: #TODO Permits the user to see exothermic
-(heat-emitting) sources in the dark.
+IR Goggles: #TODO Permits the user to see exothermic (heat-emitting) sources in the dark.
 
 Light Intensifier Goggles: #TODO Permits the users to see normally in anything less than total darkness by electronically intensifying any available light. TL9: Combines with IR goggles into a single unit.
 
 NAS: #TODO The Neural Activity Scanner consists of a backpack and detachable handheld unit and can detect neural activity up to 500 meters away. The device can also give a rough estimation of the intelligence level of organisms based on brainwave patterns.
 
 NAS
+
+
 
 Binoculars
 
@@ -4103,8 +4076,7 @@ A scientific toolkit is a set of instruments and dedicated expert computer packa
 
 Toolkit instruments are specific to a specialty or related specialties of scientific endeavors. The tools alone will provide DM+1 to checks related to their specialties for Travellers who have at least Science 0 but will not aid an unskilled individual. Toolkit computers are tablets running Intellect and Expert software in the specified specialty. On their own they provide DM+1 to checks related to their specialties for Travellers who have at least Science 0 or allow unskilled Travellers to attempt Difficult (10+) or easier checks associated with the science specialty without an unskilled penalty.
 
-Archaeology Science Toolkit: The archaeology toolkit provides tools for recovering and understanding the relics of past civilizations using the Science
-(archaeology) skill. The kit does not contain large-scale excavating tools but includes deployable sensors for locating and observing buried objects, including small radar and lidar sensors, remote camera controllers and small observation drones. The toolkit's computing resources contain extensive databases of known relics and their context and a library of published papers. In addition, the archaeology toolkits will provide DM+1 to Science (history) checks related to archaeological finds.
+Archaeology Science Toolkit: The archaeology toolkit provides tools for recovering and understanding the relics of past civilizations using the Science (archaeology) skill. The kit does not contain large-scale excavating tools but includes deployable sensors for locating and observing buried objects, including small radar and lidar sensors, remote camera controllers and small observation drones. The toolkit's computing resources contain extensive databases of known relics and their context and a library of published papers. In addition, the archaeology toolkits will provide DM+1 to Science (history) checks related to archaeological finds.
 
 Cybernetics Science Toolkit: This provides instruments to analyse, troubleshoot and repair cybernetic components using the Science (cybernetics) skill. These tools do not include equipment to construct new cybernetic components but do allow for the installation or reattachment of cybernetic components on a living being. The cybernetic toolkit also provides DM+1 to Medic checks involving the intersection of biological and cybernetic components. The toolkit also provides DM+1 to Electronics (computers) or Profession (robotics) checks to repair cybernetic components.
 
@@ -4126,11 +4098,9 @@ Planetology Science Toolkit: This is a set of instruments intended to analyse th
 
 Psionicology Science Toolkit: Since the psionicology toolkit is focused on the understanding of psionic talent using the Science (psionicology) skill, it is generally considered contraband on worlds that prohibit the use of psionics. On those worlds, toolkits might be in the hands of government operatives but outside the confines of law enforcement or government-sanctioned research mere possession could be a crime. The toolkit includes testing equipment to determine the latent PSI potential of an individual, including tests for PSI strength and understanding talents, which can be trained. The toolkit provides feedback analytics for both psionic training and diagnosis of psionic-related mental conditions or psionic blocks and includes a dose of inhibitor drug to temporarily limit psionic ability.
 
-Robotics Science Toolkit: For use with the Science (robotics) skill, this toolkit includes the tools to diagnose, repair and construct robotic components. It is not intended to allow for the construction of a robot but may aid in repair and enhancement. It includes debugging software for robotic brains, electronics tools to repair or create connections between robotic components and delicate mechanical tools to repair or assemble a robot. This toolkit also provides DM+1 to robotic related tasks performed using Electronics
-(computers) or Profession (robotics).
+Robotics Science Toolkit: For use with the Science (robotics) skill, this toolkit includes the tools to diagnose, repair and construct robotic components. It is not intended to allow for the construction of a robot but may aid in repair and enhancement. It includes debugging software for robotic brains, electronics tools to repair or create connections between robotic components and delicate mechanical tools to repair or assemble a robot. This toolkit also provides DM+1 to robotic related tasks performed using Electronics (computers) or Profession (robotics).
 
-Space Sciences Toolkit: The space sciences toolkit contains sensors and analytic tools valuable to performance of the Science skill specialties of astronomy and cosmology. It does not contain telescopes or other large sensors but does have equipment such as spectroscopic analysers and interferometer calibrators, which aid in the use of those instruments and correlation of results. The toolkit's analytic engine allows an expert to predict conditions and locate planets around distant stars and allows for modelling of the risks of stellar activities such as flares and other magnetic disturbances, plus it can help identify the source of faint emissions across the electromagnetic spectrum. Within a solar system, the toolkit is focused on the properties of the system's stellar objects and general organization and development of smaller system bodies. When used in conjunction with tasks related to the study of planetary and smaller system bodies using the Science
-(planetology) skill this toolkit provides DM+1.
+Space Sciences Toolkit: The space sciences toolkit contains sensors and analytic tools valuable to performance of the Science skill specialties of astronomy and cosmology. It does not contain telescopes or other large sensors but does have equipment such as spectroscopic analysers and interferometer calibrators, which aid in the use of those instruments and correlation of results. The toolkit's analytic engine allows an expert to predict conditions and locate planets around distant stars and allows for modelling of the risks of stellar activities such as flares and other magnetic disturbances, plus it can help identify the source of faint emissions across the electromagnetic spectrum. Within a solar system, the toolkit is focused on the properties of the system's stellar objects and general organization and development of smaller system bodies. When used in conjunction with tasks related to the study of planetary and smaller system bodies using the Science (planetology) skill this toolkit provides DM+1.
 
 Physical Sciences Toolkit: #TODO This toolkit provides instruments and analytic tools for the performance of the Science skill specialties of chemistry and physics. These tools including sampling equipment, chemical analysis tools, sensors to detect electromagnetic or gravitic radiation and ultrasensitive measurement equipment. The toolkit can help a specialist analyse unknown minerals, physical phenomena and the basic composition and properties of everything from atoms to stars. The toolkit can also aid the Science specialties of astronomy and planetology by providing DM+1 in tasks which directly involve the measurement of physical and chemical properties.
 
@@ -4151,6 +4121,8 @@ Melee weapons are a symbol of status among the nobility of many worlds but they 
 These weapons require the Melee skill, using the blade specialty if they have a sharp edge, bludgeon if they do not and unarmed if you are left with nothing but your fists; though fists are a poor substitute against a better prepared enemy.
 
 WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+
+
 Blade 2 Melee 2D 1 Cr100 — — —
 Broadsword 2 Melee 4D 2 Cr500 — — Bulky
 Club 1 Melee 2D 2 — — — —
@@ -4272,13 +4244,19 @@ All energy weapons come with a power pack that can be recharged using a ship's p
 These weapons require the Gun Combat (energy) skill.
 
 WEAPON TL RANGE DAMAGE KG COST MAGAZINE POWER PACK COST TRAITS 
+
+
 PISTOLS 
+
+
 Laser Pistol 9 20m 3D 2 Cr2000 100 Cr1000 Zero-G 
 Laser Pistol 11 30m 3D+3 1 Cr3000 100 Cr1200 Zero-G 
 Stunner 8 5m 2D 0.5 Cr500 100 Cr200 Stun, Zero-G 
 Stunner 10 5m 2D+3 — Cr750 100 Cr200 Stun, Zero-G 
 Stunner 12 10m 3D — Cr1000 100 Cr200 Stun, Zero-G
 RIFLES
+
+
 Laser Carbine 9 150m 4D 4 Cr2500 50 Cr1000 Zero-G 
 Laser Carbine 11 200m 4D+3 2 Cr4000 50 Cr3000 Zero-G Laser Rifle 9 200m 5D 5 Cr3500 100 Cr1500 Zero-G Laser Rifle 11 400m 5D+3 3 Cr8000 100 Cr3500 Zero-G Laser Sniper Rifle
 
@@ -4312,12 +4290,13 @@ Laser Sniper Rifle
 
 These weapons are thrown or launched at an enemy and are typically designed to affect several targets across a wide area at once.
 
-Thrown grenades use the Athletics (dexterity) skill, while those that are launched use the Heavy Weapons
-(portable) skill.
+Thrown grenades use the Athletics (dexterity) skill, while those that are launched use the Heavy Weapons (portable) skill.
 
 Missed attacks with grenades will generally result in nothing interesting happening unless there are dangerous or amusing targets nearby, at the discretion of the referee.
 
 WEAPON TL RANGE DAMAGE KG COST TRAITS
+
+
 Aerosol 9 20 — 0.5 Cr15 Blast 9 Frag 6 20 5D 0.5 Cr30 Blast 9 Smoke 6 20 — 0.5 Cr15 Blast 9 Stun 7 20 3D 0.5 Cr30 Blast 9, Stun
 
 Aerosol: Aerosol grenades create a fine mist that diffuses any lasers that are fired into or through it but the mist does not block normal vision. Any laser attack tracing a line of sight into or through the mist has its damage reduced by -10. Laser communications are completely blocked by the mist. Aerosol clouds dissipate after 1D x 3 rounds, although heavy winds and rain can drastically reduce this time.
@@ -4340,8 +4319,7 @@ Stun: Stun grenades release a powerful pulse of energy, usually in the form or l
 
 These are among the most powerful weapons to appear on the battlefield and require special training to use effectively. Only those mounted on vehicles and ships will be more powerful at any equivalent Tech Level.
 
-These weapons require the Heavy Weapons
-(portable) skill.
+These weapons require the Heavy Weapons (portable) skill.
 
 WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS FGHP-14 14 450m 2DD 12 Cr100000 — — Radiation, Very Bulky FGHP-15 15 450m 2DD 12 Cr400000 — — Bulky, Radiation FGHP-16 16 450m 2DD 15 MCr0.5 — — Radiation Grenade Launcher
 
@@ -4379,9 +4357,13 @@ Rocket Launcher: #TODO A simple tube device that launches rockets. Anyone standi
 
 FGHP
 
+
+
 Machine Gun
 
 PGHP
+
+
 
 Rocket Launcher RAM Grenade Launcher
 
@@ -4392,6 +4374,8 @@ Doubling the amount of explosives used will increase the Damages by 1D and the B
 ### Explosives
 
 WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+
+
 Plastic 6 — 3D — Cr200 — — Blast 9
 Pocket Nuke 12 — 6DD 4 Cr250000 — — Blast 1000, Radiation
 TDX 12 — 4D — Cr1000 — — Blast 15
@@ -4403,6 +4387,8 @@ Pocket Nuke: Hideously illegal on many worlds, the pocket nuke is actually the s
 TDX: An advanced gravity-polarized explosive, TDX explodes only along the horizontal axis.
 
 TDX
+
+
 
 Plastic
 
@@ -4444,8 +4430,7 @@ The Speed Band Number is a useful abbreviation of the Speed Bands and is used fo
 
 ### Rough Terrain
 
-The listed speed for any ground vehicle is what is normally attainable on a relatively flat or even surface, such as a road, track or short grass. If a ground vehicle
-(any vehicle that uses the Drive skill) is taken off-road, the going will get more difficult.
+The listed speed for any ground vehicle is what is normally attainable on a relatively flat or even surface, such as a road, track or short grass. If a ground vehicle (any vehicle that uses the Drive skill) is taken off-road, the going will get more difficult.
 
 Any ground vehicle going off-road will suffer DM-2 to all checks to control it and its maximum speed is reduced by two Speed Bands.
 
@@ -4685,8 +4670,7 @@ An open-topped vehicle supported by anti-gravity technology, Air/rafts are capea
 NOTE : A cargo carrying version of the aircraft is available. This has Crew: 1, Passengers: 0 and Cargo: 1.5ton.
 TL 8 SKILL Flyer (grav) AGILITY +1 SPEED (CRUISE) High (medium) RANGE (CRUISE) 1000 (1500) CREW 1 PASSENGERS 5 CARGO 0.25 ton HULL 16 SHIPPING 4 tons COST Cr250000
 
-Equipment and WEAPONS Autopilot (improved), Communications System
-(improved), Computer/1, Entertainment System, Navigation System (basic), Sensor System (basic).
+Equipment and WEAPONS Autopilot (improved), Communications System (improved), Computer/1, Entertainment System, Navigation System (basic), Sensor System (basic).
 
 ### ATV
 
@@ -4720,6 +4704,8 @@ Equipment and WEAPONS Communications System (improved)
 
 ARMOR
 
+
+
 FRONT 8 REAR 8 SIDES 8
 
 ARMOR FRONT2 REAR 2 SIDES 2
@@ -4752,8 +4738,7 @@ TL 10 SKILL Flyer (grav) AGILITY -1 SPEED (CRUISE) Slow (very slow) RANGE (CRUIS
 
 Designed to transport a fire team or VIP through a war zone, the Gecko can handle a wide veriety of terrain at some speed and, despite being only semi-enclosed, its armor is sufficient to resist small arms fire of an equivalent Tech Level. It also sports a powerful punch, with twin-linked autocannon mounted on the roof.
 
-Equipment and WEAPONS Camouflage (improved), Communications System
-(basic, increased range), Twin Light Autocannon.
+Equipment and WEAPONS Camouflage (improved), Communications System (basic, increased range), Twin Light Autocannon.
 
 Pintle Mount (light autocannon x2, front)
 
@@ -4766,6 +4751,8 @@ Equipment and WEAPONS Open vehicle, Autopilot (basic), Communications System (im
 Fixed Mount (laser cannon, front)
 
 ARMOR
+
+
 
 FRONT 12 REAR 12 SIDES 12
 
@@ -4789,8 +4776,7 @@ Equipment and WEAPONS Wind powered. No weapon.
 
 A grav carrier is effectively a flying armored personnel carrier and is a standard fighting vehicle of many military forces across Charted Space.
 
-Equipment and WEAPONS AFV, Autopilot, Communications System
-(advanced), Computer/5, Navigation (advanced), Sensor System (advanced). Turret (Fusion Gun)
+Equipment and WEAPONS AFV, Autopilot, Communications System (advanced), Computer/5, Navigation (advanced), Sensor System (advanced). Turret (Fusion Gun)
 
 ARMOR FRONT1 REAR 1 SIDES 1
 
@@ -4881,24 +4867,20 @@ An unstreamlined ship is completely non-aerodynamic and if it enters an atmosphe
 
 These two procedures are routine and performed whenever a ship travels between systems, so ship captains should be very familiar with their operation. Note the rules for atmospheric operation will apply whenever a ship lands on a planet with an atmosphere.
 
-LANDING Landing at a starport requires a Routine (6+) Pilot check
-(1D x 10 seconds) but most pilots will take 1D minutes to perform a landing and gain DM+2 on the task.
+LANDING Landing at a starport requires a Routine (6+) Pilot check (1D x 10 seconds) but most pilots will take 1D minutes to perform a landing and gain DM+2 on the task.
 
 Ships have landing gear, allowing them to touch down
-'in the wild', which requires an Average (8+), Difficult
-(10+) or even Very Difficult (12+) Pilot check, depending
+'in the wild', which requires an Average (8+), Difficult (10+) or even Very Difficult (12+) Pilot check, depending
 
 on local terrain. They can also land on bodies of water. Failing a Pilot check while attempting a landing means the ship has landed improperly or even crashed.
 
-DOCKING Two spacecraft may dock if they are close together and neither ship attempts to resist the docking maneuver. Many airlock designs across charted space are compatible; for incompatible airlocks, ships extend flexible plastic docking tubes that adapt to the target airlock. Docking with another vessel requires a Routine
-(6+) Pilot check (1D minutes).
+DOCKING Two spacecraft may dock if they are close together and neither ship attempts to resist the docking maneuver. Many airlock designs across charted space are compatible; for incompatible airlocks, ships extend flexible plastic docking tubes that adapt to the target airlock. Docking with another vessel requires a Routine (6+) Pilot check (1D minutes).
 
 BOARDING Hostile ships may be docked with and boarded, although this is a very dangerous operation at all stages. Boarding attempts are detailed on page 175.
 
 ## POWER
 
-Every spacecraft has a power plant that produces an amount of Power, as listed in its description in the Common Spacecraft chapter. Under normal circumstances, most ships will produce enough Power to run all systems and weapons without any attention needed from the crew. However, some ships may be built underpowered, usually to fulfil specific budgetary or design criteria. Other ships may run into power problems if they receive damage to their power plant
-(see Critical Hits on page 168).
+Every spacecraft has a power plant that produces an amount of Power, as listed in its description in the Common Spacecraft chapter. Under normal circumstances, most ships will produce enough Power to run all systems and weapons without any attention needed from the crew. However, some ships may be built underpowered, usually to fulfil specific budgetary or design criteria. Other ships may run into power problems if they receive damage to their power plant (see Critical Hits on page 168).
 
 A ship needs the following Power points available for each of these listed systems. The spacecraft in the Common Spacecraft chapter have a summary of these systems, which will greatly speed play if Power starts getting low.
 
@@ -5111,8 +5093,7 @@ It is customary for the ship's captain to contribute Cr10 from every low passage
 
 ### Remote Operations
 
-Some ships carry a variety of drones to enable their crew to perform tasks without leaving their ship or manoeuvring their vessel into hostile territory. Drones are piloted from their mother ship with the Electronics
-(remote ops) skill and can operate at up to Medium range (see page 165).
+Some ships carry a variety of drones to enable their crew to perform tasks without leaving their ship or manoeuvring their vessel into hostile territory. Drones are piloted from their mother ship with the Electronics (remote ops) skill and can operate at up to Medium range (see page 165).
 
 Drones are typically man-sized and have gravitic drives that allow them to operate in both space and atmospheres. However, while they can land on a planet, they do not have the power to travel from the surface to orbit and must be recovered manually.
 
@@ -5130,8 +5111,7 @@ Probe drones are for surveying planetary surfaces and are commonly found on boar
 
 Carrying repair drones allows a ship to make repairs during combat, allowing access to exterior components without risking crew. They also have sufficient intelligence to allow repairs to be initiated by a drone controller rather than a dedicated engineer.
 
-Repair drones allows a Traveller with the Electronics
-(remote ops) skill to use the Repair System action (see page 172). The repair drones are considered to have an Engineer skill level of 1 or the level the Traveller has in Electronics (remote ops), whichever is lower, in all specialties for the Repair System action alone.
+Repair drones allows a Traveller with the Electronics (remote ops) skill to use the Repair System action (see page 172). The repair drones are considered to have an Engineer skill level of 1 or the level the Traveller has in Electronics (remote ops), whichever is lower, in all specialties for the Repair System action alone.
 
 Critical Hit Repair Engineer or Mechanic Effect Spare Parts Required
 | 1 | 1 ton |
@@ -5217,6 +5197,8 @@ CAMERAS & SENSORS
 Most vessels have security cameras in public areas, such as the galley, cargo bay and lounge but not in private staterooms (although these can be added). Cameras can be viewed from any terminal by an authorized person. Internal sensors on a ship are limited to environmental detectors like smoke alarms and most ships are not calibrated to, say, detect heat traces or life signs within their own hull. It is possible to detect when a door is opened or closed, although these sensors can easily be disabled.
 
 COMPUTERS
+
+
 The difficulty to hack into a ship's computer depends on what is being accessed and from where. Few ships require anything less than Very Difficult (12+) Electronics (computers) checks to access critical systems from outside the ship but often the security system will apply only to these external connections and a hacker inside the ship will only face Average (8+) Electronics (computers) checks.
 
 Ship Software #TODO
@@ -5242,12 +5224,13 @@ Gaining access to the ship's records requires an Average (8+) Electronics (compu
 Note that Security software (see page 110) can be installed on a ship's computer to make a hacker's job even harder.
 
 LOCKS
+
+
 Doors, airlocks, lockers and other secure panels are locked. In general, external locks are tougher than internal ones (increasing the difficulty by one level). Locks used on spacecraft are generally electronic but other types are possible.
 
 Mechanical: Requiring a key or combination. These can be opened with an Average (8+) Mechanics check or by stealing a key/learning the combination. Electronic: Requiring a keycard or combination. These can be opened with a Difficult (10+) Electronics (computers) check or by stealing a key/ learning the combination. Biometric: Requiring a voiceprint, DNA test, palm print or retina scan. These can be opened with a Very Difficult (12+) Electronics (computers) check or by stealing a sample from an authorized person. Intelligent: Intelligent locks recognise authorized crew. These can be opened with a Very Difficult (12+) Electronics (computers) check or by hacking the ship's computer.
 
-Any non-mechanical lock can be opened or closed remotely if the crew wishes to allow this option (but then the doors can also be hacked). Bulkhead doors
-(also called iris valves) on a ship are airtight but others, such as those leading to staterooms, are not.
+Any non-mechanical lock can be opened or closed remotely if the crew wishes to allow this option (but then the doors can also be hacked). Bulkhead doors (also called iris valves) on a ship are airtight but others, such as those leading to staterooms, are not.
 
 ## SECURITY SYSTEMS
 
@@ -5279,13 +5262,11 @@ Time Required: Time = 2 x Square Root of (Distance/Acceleration) Acceleration Re
 
 While some of you may be very comfortable with such formulae, we know others will not be and so many useful distances are summarized on the Transit Times table.
 
-Transit Times Distance (km) 1G 2G 3G 4G 5G 6G 1,000 633 seconds 447 seconds 365 seconds 316 seconds 283 seconds 258 seconds 10,000 2,000 seconds 1,414 seconds 1,155 seconds 1,000 seconds 894 seconds 816 seconds 100,000 105 minutes 74 minutes 61 minutes 53 minutes 47 minutes 42 minutes 300,000
-(1 light second)
+Transit Times Distance (km) 1G 2G 3G 4G 5G 6G 1,000 633 seconds 447 seconds 365 seconds 316 seconds 283 seconds 258 seconds 10,000 2,000 seconds 1,414 seconds 1,155 seconds 1,000 seconds 894 seconds 816 seconds 100,000 105 minutes 74 minutes 61 minutes 53 minutes 47 minutes 42 minutes 300,000 (1 light second)
 
 183 minutes 129 minutes 105 minutes 91 minutes 82 minutes 74 minutes
 
-400,000 211 minutes 149 minutes 122 minutes 106 minutes 94 minutes 86 minutes 1,000,000 333 minutes 236 minutes 192 minutes 167 minutes 149 minutes 136 minutes 10,000,000 17.6 hours 12.4 hours 10.1 hours 8.8 hours 7.9 hours 7.2 hours 30,000,000 30.42 hours 21.5 hours 17.5 hours 15.2 hours 13.6 hours 12.4 hours 45,000,000 37.3 hours 26.4 hours 21.5 hours 18.6 hours 16.7 hours 15.2 hours 100,000,000 55.6 hours 39.3 hours 32.1 hours 27.8 hours 24.8 hours 22.7 hours 150,000,000
-(1 AU)
+400,000 211 minutes 149 minutes 122 minutes 106 minutes 94 minutes 86 minutes 1,000,000 333 minutes 236 minutes 192 minutes 167 minutes 149 minutes 136 minutes 10,000,000 17.6 hours 12.4 hours 10.1 hours 8.8 hours 7.9 hours 7.2 hours 30,000,000 30.42 hours 21.5 hours 17.5 hours 15.2 hours 13.6 hours 12.4 hours 45,000,000 37.3 hours 26.4 hours 21.5 hours 18.6 hours 16.7 hours 15.2 hours 100,000,000 55.6 hours 39.3 hours 32.1 hours 27.8 hours 24.8 hours 22.7 hours 150,000,000 (1 AU)
 
 68 hours 48.11 39.2 hours 34 hours 30.3 hours 27.8 hours
 
@@ -5354,6 +5335,8 @@ A ship's computer can cover several duties if it is running the appropriate soft
 
 STARTING A BATTLE
 
+
+
 Before a battle begins, it is important to note where ships are relative to one another. In general, all that is required in space is to know how far away each ship is from its opponents. This is determined by using Range Bands, as described in the Combat chapter, although the actual distance for each Range Band is much greater in space combat. Consult the Range Bands table for reference.
 
 Range Bands
@@ -5363,6 +5346,8 @@ Range Band Distance Adjacent 1km or less Close 1–10km Short 11–1,250km Mediu
 Most hostile encounters in space will start at Very Long or Distant ranges, when the combatants first detect one another. However, actual combat will start when one of the combatants manages to move into range of their weapons, typically Long or Medium range. However, in some circumstances ships might get a lot closer before hostilities begin, perhaps getting as near as Close range if a pirate successfully pretends to be an honest merchant, for example.
 
 INITIATIVE
+
+
 Once the relative positions of ships have been determined and crew assigned to duties, the battle begins. Initiative is rolled once for each ship as usual when the combat begins but with spacecraft you roll the following:
 
 2D + the pilot's Pilot skill + the ship's Thrust score
@@ -5376,18 +5361,21 @@ TACTICS (NAVAL) SKILL
 In addition, the commander of each spacecraft (or the commander of a fleet, if more than one ship is present) may make a Tactics (naval) check at the start of a battle. The Effect of this check is added to the Initiative of the spacecraft (or fleet).
 
 SURPRISE
+
+
 Under normal circumstances, surprise is very difficult to achieve in space, as there are few places to hide behind. However, damaged sensors or inattentive sensor operators can mean a ship can approach another without being spotted and some ships may use asteroids or other astronomical objects to hide behind, while others may pretend to be harmless and then suddenly reveal their intentions.
 
 If one ship does manage to surprise another, its opponent will not be able to take any actions in the first round of the combat.
 
 ## MANEUVER STEP
 
-In order of Initiative, each ship can allocate Thrust to either movement (closing or increasing the range between it and another ship) or combat manoeuvring
-(docking with another vessel, lining up a shot or dodging incoming fire).
+In order of Initiative, each ship can allocate Thrust to either movement (closing or increasing the range between it and another ship) or combat manoeuvring (docking with another vessel, lining up a shot or dodging incoming fire).
 
 All movement and combat manoeuvring is performed by the Traveller assigned to pilot duty.
 
 MOVEMENT
+
+
 The amount of Thrust required to increase or decrease the Range Band between ships by one category, up or down, is shown on the Ship Movement table – the Thrust listed is the amount required to move from that Range Band to either the next closest or next furthest. A ship can spend Thrust over multiple rounds to close or open a category.
 
 If two ships are travelling towards one another, then the proportion of their Thrusts devoted to movement are added together for the purposes of Range Band changes. If one ship is trying to escape another, then subtract the lower Thrust from the higher to work out the Range Band change – the faster ship will either gain on or pull away from the slower.
@@ -5535,8 +5523,7 @@ Missiles are handled differently when in double or triple turrets, so do not get
 DAMAGING Spacecraft
 Once the total amount of damage a weapon is causing has been calculated, applying the Effect of the attack roll to the damage rolled as normal, the Armor of the spacecraft is deducted.
 
-The remaining damage is the total that is removed from the spacecraft's Hull. Once a spacecraft has been reduced to zero Hull, it is wrecked and becomes totally inoperable and is beyond any economic repair
-(although see the guidelines for salvage on page 156). Those on board will find themselves without power or life support.
+The remaining damage is the total that is removed from the spacecraft's Hull. Once a spacecraft has been reduced to zero Hull, it is wrecked and becomes totally inoperable and is beyond any economic repair (although see the guidelines for salvage on page 156). Those on board will find themselves without power or life support.
 
 ## CRITICAL HITS
 
@@ -5693,6 +5680,8 @@ Computer destroyed
 Random bridge station destroyed. Occupant takes 1D x 1D damage. Hull Severity increased by +1
 
 REACTIONS
+
+
 Just as in other forms of combat, those on board a spacecraft can perform reactions in response to the enemy they are fighting. Reactions can only be performed by Travellers assigned to specific duties, as described below.
 
 **EVASIVE Action (PILOT)**
@@ -5812,8 +5801,7 @@ MISSILES and TARGETS When a missile salvo reaches its target, the missile makes 
 
 Instead, the number of missiles remaining in the salvo greatly affects their chances of making a successful attack. Apply DM+1 to the attack roll for every missile in the salvo.
 
-Note that missiles almost always have the Smart trait
-(see page 79). For missiles, use the TL of the missile itself or that of the attacking ship, whichever is greater.
+Note that missiles almost always have the Smart trait (see page 79). For missiles, use the TL of the missile itself or that of the attacking ship, whichever is greater.
 
 Finally, missiles launched at Distant range expend most of their fuel just reaching their target, leaving little to counter the target's maneuvers. Missile salvos launched at Distant range suffer DM–2 to their attack rolls.
 
@@ -5824,6 +5812,8 @@ IMPACT If an attack roll for a missile salvo is successful, the target will sust
 High Guard introduces different types of missiles that are more accurate, carry more fuel or are faster but these rules suit the missiles included in the Traveller Core Rulebook. If a ship launches different types of missile at the same target in the same round, then all the missiles of each type are counted as a different salvo.
 
 DOGFIGHTING
+
+
 As mentioned at the start of this chapter, spacecraft fighting at ranges of less than 10km or attacking vehicles or Travellers directly, use the normal six second combat round rather than the six minute round normally used for space combat.
 
 Combat is conducted using the dogfighting rules for vehicles. Remember to take into account scaling differences for damage and attack rolls as described on page 167 if vehicles or Travellers are directly involved.
@@ -5833,6 +5823,8 @@ Dogfighting does not cost an action – it is automatic if two hostile vessels w
 Escaping from a Dogfight requires having greater Thrust than your enemy or for your enemy to be willing to let you leave. If neither of these conditions are true, then your only choice is to win the dogfight!
 
 DOGFIGHTS
+
+
 Battling spacecraft within Close or Adjacent range of one another use these 'dogfight' rules. This is a series of maneuvers whereby the pilot of one ship attempts to gain a position of advantage over another.
 
 Combat rounds in dogfights are six seconds long and follow the normal combat rules as detailed on page 138. The combat steps detailed on page 164 are not used in dogfights.
@@ -5929,19 +5921,33 @@ Hull Armor Armor TL Tonnage Consumed Cost (as percentage of hull cost) Max. Prot
 
 CREATE A HULL
 
+
+
 INSTALL OPTIONAL SYSTEMS
+
+
 
 INSTALL POWER PLANT
 
+
+
 INSTALL STATEROOMS
 
+
+
 INSTALL WEAPONS
+
+
 
 INSTALL MANEUVERand JUMP DRIVES
 
 INSTALL FUEL TANKS
 
+
+
 FINALISE DESIGN
+
+
 
 ALLOCATE CARGOSpace
 
@@ -5949,9 +5955,15 @@ INSTALL COMPUTERand ANY SOFTWARE
 
 INSTALL BRIDGE
 
+
+
 INSTALL SENSORS
 
+
+
 DETERMINE CREW
+
+
 
 Design Checklist
 
@@ -5970,6 +5982,8 @@ Hull Configuration Streamlined? Hull Points Cost Streamlined Yes — +20%
 Hull Configuration Streamlined? Hull Points Cost Standard Partial — —
 
 HULL CONFIGURATIONS
+
+
 
 #### STEP 2
 
@@ -6173,8 +6187,7 @@ Each weapon system uses one Hardpoints.
 
 ## SMALL CRAFT
 
-Ships of less than 100 tons have Firmpoints instead of Hardpoints. A Firmpoint on a small craft is a fixed mount (typically forward-facing but there is no requirement for this) but can be upgraded to a single
-(not double or triple) turret.
+Ships of less than 100 tons have Firmpoints instead of Hardpoints. A Firmpoint on a small craft is a fixed mount (typically forward-facing but there is no requirement for this) but can be upgraded to a single (not double or triple) turret.
 
 A ship of less than 35 tons has one Firmpoint. A ship of 35–70 tons has two Firmpoints, and a ship of 71–99 tons has three Firmpoints. Beyond this size, ships use Hardpoints.
 
@@ -6188,8 +6201,7 @@ TURRETS and FIXED MOUNTS Turrets and fixed mounts use the same type of weapons b
 
 One turret or fixed mount may be attached to each Hardpoint on a ship.
 
-Up to three weapons may be mounted on a fixed mount
-(small craft may only mount one weapon), while turrets can mount one, two or three weapons, depending on their type. These weapons need not be identical.
+Up to three weapons may be mounted on a fixed mount (small craft may only mount one weapon), while turrets can mount one, two or three weapons, depending on their type. These weapons need not be identical.
 
 If two or more weapons are of the same type, they may be fired together. One attack roll is made for all weapons being fired but each additional weapon adds
 +1 per damage dice to the final damage total.
@@ -6304,6 +6316,8 @@ Holographic Hull (TL10) Multiple holographic projectors are embedded within the 
 A holographic hull system costs Cr100000 per ton of hull and uses 1 Power for every two tons of hull. The projectors are small enough that they do not consume tonnage themselves.
 
 LABORATORY
+
+
 Space allocated to laboratories can be used for research and experimentation, effectively turning the ship into a space-going laboratory.
 
 Every four tons dedicated to laboratories space allows one scientist to perform research on board the ship.
@@ -6387,7 +6401,9 @@ All the spacecraft in this chapter are in common use throughout the Third Imperi
 
 ## Older Ships
 
-Many ships serve for decades or even centuries before being scrapped. Travellers and free traders are often forced by necessity to purchase outdated and damaged vessels instead of new and pristine ships. Travellers purchasing an outdated ship may do so by rolling on the Outdated Ships table. Older ships will have a number of 'quirks' that may affect their operation, rolled for on the Spacecraft Quirks table.
+Many ships serve for decades or even centuries before being scrapped. Travellers and free traders are often forced by necessity to purchase outdated and damaged vessels instead of new and pristine ships. Travellers purchasing an outdated ship may do so by rolling on the [[#Outdated Ships]] table. Older ships will have a number of 'quirks' that may affect their operation, rolled for on the [[#Spacecraft Quirks]] table.
+
+### SCOUT/COURIER
 
 **DECKPLAN LEGEND:**
 
@@ -6397,35 +6413,61 @@ Common AREA
 
 FRESHER
 
+
+
 SHIP'S LOCKER
 
 LOW BERTH
 
+
+
 DRONES
 
+
+
 STATEROOM BEDS
+
+
 
 AIR/RAFT
 
 CARGO BAY
 
+
+
 CARGO CRANE
+
+
 
 POWER PLANT/JUMP DRIVE/ MANEUVER DRIVE/MACHINERY
 
 TURRETS
 
+
+
 HULL FUEL
+
+
 
 IRIS VALVE
 
+
+
 AIRLOCK
+
+
 
 LIFT
 
+
+
 IRIS VALVEUP
 
+
+
 IRIS VALVE DOWN
+
+
 
 IRIS VALVEUP/DOWN
 
@@ -6448,8 +6490,6 @@ Maneuver Drive
 Jump Drive
 
 Sensors
-
-**SCOUT/COURIER**
 
 ### SCOUT
 
@@ -6855,11 +6895,7 @@ Sensors
 
 theoretically swallow a free trader whole. This ship normally requires a crew of five, although the pilot also operates the launch, a steward is only necessary if carrying commercial passengers and gunners may be added to the list if weapons are installed.
 
-### SUBSIDISED
-
-### MERCHANT
-
-**TYPE:R**
+### SUBSIDISED MERCHANT TYPE:R
 
 1. Bridge 2. Launch Docking Space 3. Cargo Bay
 
@@ -6991,8 +7027,7 @@ The platoon can be deployed to a planet's surface within the two modular cutters
 
 (^22)
 
-2 2 2 2
-(^22)
+2 2 2 2 (^22)
 
 2 2
 
@@ -8084,6 +8119,8 @@ When creating worlds, a subsector table containing world name, location, profile
 Creating an entire universe is a fun process and can be as detailed as you like!
 
 SIZE
+
+
  The Size code for worlds ranges from 0 to 10 and is determined by rolling 2D-2. Size measures a world's diameter in thousands of kilometers and the bigger a planet, the higher its gravity. The values for gravity in the Size table assume that the world has a density similar to that of Earth. Worlds like gas giants have a lower gravity than their size would indicate, while extremely dense worlds would have a higher gravity.
 
 Intelligent species (sophonts) are unlikely to evolve naturally on worlds smaller than Size 4 or 5. Larger planets tend to imply larger populations, as there is more room for expansion.
@@ -8202,7 +8239,7 @@ Hydrographic code is obtained by rolling 2D-7 and adding the planet's Atmosphere
 
 Size 0 or 1: Hydrographic 0 Atmosphere 0, 1, A-F: DM-4
 
-If the planet's Atmosphere is not D or Panthalassic F (and thick enough to retain water under extreme circumstances), then you can also apply DMs for temperature:
+If the planet's Atmosphere is not D or PanthalassicF (and thick enough to retain water under extreme circumstances), then you can also apply DMs for temperature:
 
 Hot Temperature: DM-2 Boiling Temperature: DM-6
 
@@ -8560,8 +8597,7 @@ A planet's technology may be one or more levels higher or lower in a particular 
 If the planet is below Tech Level 3, then there will be no telecommunication system whatsoever except for whatever facilities the starport offers. If it is between TL4 and TL6, then it has radio and telephone communications between major cities at least but
 
 CHARTED Space: STARPORTS and The LAW
-Technically, a starport is Imperial territory and not under the jurisdiction of the planetary government. The local government may share in the construction costs, running costs and profits of the starport but the port is extraterritorial and run by an Imperium-appointed governor. This means that Travellers can carry locally illegal goods onto a planet so long as they do not leave the starport. It also means that criminals and refugees often claim sanctuary in a starport and that a starport's Tech Level may be considerably higher than that of the rest of the planet. Starports operate according to Imperial Law
-(equivalent to Law Level 1 for most items and forbidding all use of psionics).
+Technically, a starport is Imperial territory and not under the jurisdiction of the planetary government. The local government may share in the construction costs, running costs and profits of the starport but the port is extraterritorial and run by an Imperium-appointed governor. This means that Travellers can carry locally illegal goods onto a planet so long as they do not leave the starport. It also means that criminals and refugees often claim sanctuary in a starport and that a starport's Tech Level may be considerably higher than that of the rest of the planet. Starports operate according to Imperial Law (equivalent to Law Level 1 for most items and forbidding all use of psionics).
 
 However, Travellers should be aware that not every world honors this approach and paranoid governments have been known to forcibly board and inspect ships to root out what they see as unpleasant influences.
 
@@ -9353,7 +9389,6 @@ Turret — See text See text
 |  66 | Exotics                     |                                               |         |            |                                                         |                                                                 |                                                                               |
 
 Exotic goods are outside the normal trade rules, and covers such things are alien relics, prototype technology , unique plant or animal life, priceless treasures and so forth. Buying and selling exotic goods is a matter for roleplaying and adventure.
-
 
 #### Effect Results Table
 

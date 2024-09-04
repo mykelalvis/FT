@@ -15,7 +15,7 @@ The adventure begins when the travelers arrive at the starport that the Referee 
 #### Ket-Ket
 
 Gender Male (Lacerto), Age 7 years      
-Str 5(-1) Dex 9 (+1) End 10 (+1) Int 8 (+0) Edu 3 (-1) Soc 2 (–2)  
+Str 5(-1) Dex9 (+1) End 10 (+1) Int8 (+0) Edu3 (-1) Soc2 (–2)  
 Traits: Ket-Ket is a [Lacerto](https://www.freelancetraveller.com/features/culture/societies/lacerto.html) and has the traits of that species; see the linked article  
 Skills: Athletics 0, Streetwise 0, Persuade 0, Recon 0, Survival 0, Stealth 0, Jack-of-all-Trades 1.  
 Events: (2) He almost died crushed in a garbage compactor  

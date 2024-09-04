@@ -52,6 +52,8 @@ of the Travellers' Aid Society
 
 JOURNAL
 
+
+
 ```
 The
 ```
@@ -66,30 +68,50 @@ of the Travellers' Aid Society - Volume 12
 
 ```
 ADVENTURES
+
+
 The Erline Home System 57
 Adrift 108
 ALIENS
+
+
 Caprisaps 19
 Hhkar 90
 BESTIARY
+
+
 Preenyok 2
 Aknaitr 128
 CENTRAL SUPPLY
+
+
 Suits You, Sophont 38
 CHARTED SPACE
+
+
 Starports of the Imperium 65
 ENCOUNTERS
+
+
 The Wolf of the Marches 4
 HIGH GUARD
+
+
 The Triplebrick 15
 Geonee Ships 73
 Hhkar Sublight Drive Systems 104
 PATRONS
+
+
 Milo Van Ulrik 24
 TRAVELLING
+
+
 Games for Gamblers 36
 Campaign Bloat 52
 VEHICLE HANDBOOK
+
+
 Airships of the Imperium 44
 ```
 
@@ -165,8 +187,7 @@ of the Travellers' Aid Society
 By Katrina Hepburn
 
 Hailing from the Persephone system (Spinward Marches, Lunion), the
-preenyok is a small tentacled cuttlefish-like creature that has a high-
-pitched scream and discharges a vapour that smells like rotten citrus
+preenyok is a small tentacled cuttlefish-like creature that has a high-pitched scream and discharges a vapour that smells like rotten citrus
 when startled. The vapour stings eyes and sinuses but is otherwise
 innocuous, mainly used as a deterrent to attackers.
 
@@ -219,6 +240,8 @@ a prolific figure of the underworld, they are likely to be found in the
 seedier starports and systems.
 
 RUMOURS OF THE WOLF
+
+
 If Travellers are looking for discrete transport for themselves or sensitive
 materials, they may wish to try contacting the crew of the Triplebrick. If so,
 make an Investigate or Streetwise check and consult the Rumors table.
@@ -245,6 +268,8 @@ Here, let me give you directions.'
 ```
 
 POSSIBLE ADVENTURES
+
+
 •  The Triplebrick has been hired to transport some sensitive material
 and will pay the Travellers a cut of the profits to act as extra hands.
 •  Kyriani has been hired to kill one of the Travellers. Evading her will
@@ -300,15 +325,18 @@ qualms about getting their hands dirty in the process.
 
 ```
 SPECIES GENDER
+
+
 Human Female
 ```
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 7 INT 12 Astrogation 0, Athletics (dexterity) 1, Broker
 0, Carouse 1, Deception 1, Diplomat 0,
-Explosives 1, Gambler 2, Gun Combat
-(energy) 3, Investigate 1, Leadership 0,
+Explosives 1, Gambler 2, Gun Combat (energy) 3, Investigate 1, Leadership 0,
 Melee (unarmed) 3, Pilot (spacecraft) 2,
 Recon 1, Stealth 1, Vacc Suit 1
 ```
@@ -373,15 +401,18 @@ often fails miserably and reverts to child-like excitement.
 
 ```
 SPECIES GENDER
+
+
 Human Female
 ```
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 5 INT 11 Animals 1, Astrogation 1, Gun Combat 0,
 Medic 1, Navigation 0, Pilot (spacecraft)
-1, Profession (farmer) 1, Science
-(philosophy) 1, Stealth 1, Steward 0
+1, Profession (farmer) 1, Science (philosophy) 1, Stealth 1, Steward 0
 ```
 
 ```
@@ -401,8 +432,7 @@ Odugarressak has spent
 most of his life as a pirate,
 despite the fact that as an
 engineer he rarely sees
-combat. Born on Gzuga
-(Tuuglikki, Anfharsgzo)
+combat. Born on Gzuga (Tuuglikki, Anfharsgzo)
 in the Vargr Extents, he
 was indoctrinated onto a
 Vargr pirate vessel at a
@@ -448,14 +478,17 @@ holovid movies he can find.
 
 ```
 SPECIES GENDER
+
+
 Vargr Male
 ```
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 8 INT 9 Admin 0, Drive 0, Electronics (computers)
-1, Engineer (J-drive) 3, Gun Combat
-(slug) 1, Jack-of-All-Trades 1, Mechanic
+1, Engineer (J-drive) 3, Gun Combat (slug) 1, Jack-of-All-Trades 1, Mechanic
 1, Recon 1, Streetwise 2, Survival 2, Vacc
 Suit 1
 ```
@@ -513,14 +546,17 @@ Kyriani considers this a small price to pay for such an effective soldier.
 
 ```
 SPECIES GENDER
+
+
 Human Female
 ```
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 11 INT 7 Athletics (strength) 1, Drive (wheel) 1,
-Electronics 0, Explosives 1, Gun Combat
-(slug) 2, Gunner (turret) 2, Medic 1,
+Electronics 0, Explosives 1, Gun Combat (slug) 2, Gunner (turret) 2, Medic 1,
 Melee (unarmed) 1, Recon 0, Survival 0,
 Tactics (military) 1, Vacc Suit 1
 ```
@@ -536,6 +572,8 @@ Armor: Diplo Vest (+3), Combat Armor (+17)
 ```
 
 MAO
+
+
 The Triplebrick picked up Mao, a preenyok, after a stop-off on his home
 world of Persephone (Spinward Marches, Lunion). Mao quickly made a
 new home in the warm ducts near the maneuver drive and has been
@@ -661,8 +699,7 @@ Breaching Tube 3 3
 Cargo Crane 2.5 2.
 Heavy Grappling Arm 6 3
 Cargo Scoop 2 0.
-Forced Linkage Apparatus
-(TL9)
+Forced Linkage Apparatus (TL9)
 ```
 
 ```
@@ -711,8 +748,12 @@ Gunner
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr9494/month
 PURCHASE COST
+
+
 MCr113.
 ```
 
@@ -921,6 +962,8 @@ hosts are having, be it live prey for Aslan meals or the multicultural
 cuisine of Hiver feasts.
 
 CHARACTERISTICS
+
+
 Alpine Caprisap Travellers have the following modifiers applied to their
 characteristics: STR-2, DEX+2.
 
@@ -946,6 +989,8 @@ Natural Starfarers: Caprisaps have a cultural affinity for travelling the
 stars and may choose Astrogation 0 as one of their background skills.
 
 HIGH GUARD
+
+
 Caprisap ships of 100 tons and three listed crew positions need at
 least one arena. For larger ships, one arena must be built for every full
 10,000 tons. The arena cannot be used for occupancy and incurs no
@@ -997,8 +1042,7 @@ refuelling at Chulte and then a jump in towards Corella's orbital starport.
 The ship is capable of early jumps and 9G acceleration, and Milo
 intends to push Excelsior II to its limits all the way back.
 
-Emerging at Chulte, the ship dives in for a fast refuelling at the medium-
-sized gas giant that sits inside the edge of the M1-type star's 100
+Emerging at Chulte, the ship dives in for a fast refuelling at the medium-sized gas giant that sits inside the edge of the M1-type star's 100
 diameter limit but Excelsior II can jump safely at 80 diameters and
 emerges seven million kilometers from the gas giant, a five-hour flight in.
 
@@ -1065,8 +1109,7 @@ an option to temporarily protect against another failure.
 Excelsior II can cross three atmospheric layers in one round but
 returning to orbit will require one round per layer for the Brannigan
 with an Average (8+) Pilot check at each level with appropriate DMs
-at each layer: Depths (-4), Extreme Deep (-3), Deep (-2), Shallow
-(-1), Extreme Shallow (DM+0) and Wisp (no check assuming at least
+at each layer: Depths (-4), Extreme Deep (-3), Deep (-2), Shallow (-1), Extreme Shallow (DM+0) and Wisp (no check assuming at least
 Thrust 1 available). Reaching the Extreme Shallows allows enough
 time for a rescue craft from the starport to arrive and put Brannigan's
 Virtue under tow.
@@ -1106,8 +1149,7 @@ before reaching Corella. Milo will board the Brannigan and make the
 transfer by replacing his life support unit with the hidden drugs. This
 allows him only 15 minutes of breathable air, which could become an
 issue if the ruse goes awry. The Travellers may notice the Brannigan's
-power plant was not really damaged – with a Difficult (10+) Engineer
-(power) check – or the transfer on a Difficult (10+) Recon check, or may
+power plant was not really damaged – with a Difficult (10+) Engineer (power) check – or the transfer on a Difficult (10+) Recon check, or may
 otherwise become suspicious. In any event, Milo is likely to try some
 other smuggling ruse in the future if the Travellers remain in his employ.
 
@@ -1121,6 +1163,8 @@ equipped with one shotgun, one accelerator rifle, four snub pistols and
 four TL12 stunners. Milo is armed with a diamond-tipped duelling foil.
 
 MILO VAN ULRIK
+
+
 Milo Van Ulrik is the son of Rupert Van Ulrik of House Ulrik – the
 famed five-time winner of the Navarre Rally who was lost with his
 ship Excelsior in 1087 while attempting a risky jump above Hilkiah,
@@ -1167,8 +1211,7 @@ Navarre Rally trophies
 the awards given to his
 father and lost with the
 first Excelsior. His suite
-also contains a multi-
-million Credit collection
+also contains a multi-million Credit collection
 of sculpture, most of
 it incomprehensibly
 abstract, with many of
@@ -1186,16 +1229,19 @@ muttering about revenge.
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 8 INT 9 Advocate 0, Astrogation 1, Broker 0,
 Carouse 1, Deception 1, Diplomat 1,
 Drive 0, Electronics 0, Engineer (j-drive)
-1, Flyer (grav) 1, Gambler 1, Gun Combat
-(energy) 1, Gunner 0, Jack-of-all-Trades
+1, Flyer (grav) 1, Gambler 1, Gun Combat (energy) 1, Gunner 0, Jack-of-all-Trades
 1, Mechanic 1, Medic 1, Melee (blade) 1,
 Persuade 1, Pilot (spacecraft) 2, Science
 0, Steward 0, Streetwise 1, Vacc Suit 0
@@ -1211,6 +1257,8 @@ EQUIPMENT Weapons: Duelling Foil (2D+2, AP 2)
 ```
 
 EXCELSIOR II RACING YACHT
+
+
 The Excelsior II is a ship built with a single purpose; winning the
 Navarre Rally, an annual seven-jump race between Corella and
 Navarre. Designed by the famed Heraklion Yard, it is a state-of-the-art
@@ -1284,7 +1332,7 @@ Armor Crystaliron, Armor: 2 5 1.2
 
 M-Drive Thrust 9 18 36
 
-J-Drive Jump 2 (early jump x2) 15 28.125
+J-Drive Jump2 (early jump x2) 15 28.125
 
 Power Plant Fusion (TL12, reduced size),
 Power 250
@@ -1326,8 +1374,7 @@ Systems Fuel Scoops — —
 ```
 Fuel Processor (200 tons/day) 10 0.5
 Aerofins 10 1
-High Efficiency Batteries
-(Power 60)
+High Efficiency Batteries (Power 60)
 ```
 
 ```
@@ -1374,8 +1421,12 @@ Engineer, Gunners x2
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr12847/month
 PURCHASE COST
+
+
 MCr154.164
 ```
 
@@ -1396,6 +1447,8 @@ Fuel Processor
 ```
 
 BRIDGE
+
+
 
 1. Bridge
 2. HE Batteries
@@ -1431,6 +1484,8 @@ Lower Deck
 
 UPPER DECK LOWER DECK
 
+
+
 ```
 2
 ```
@@ -1445,6 +1500,8 @@ Bridge
 ```
 
 DRACO VALIANT GRAV SALOON
+
+
 
 The Draco Consortium produces high quality grav vehicles for personal
 and business use, and some light combat vehicles for governments
@@ -1494,13 +1551,11 @@ SIDES 24
 
 Traits Streamlined
 
-Equipment Autopilot (advanced), Communications system
-(advanced, increased range), Computer/4 (Digital
+Equipment Autopilot (advanced), Communications system (advanced, increased range), Computer/4 (Digital
 Friend, Security/2), Controls (advanced), Ejections
 Seats, Entertainment System, Fire Extinguishers,
 Life Support (short term), Multi-Chromatic Advanced
-Camouflage, Navigation System (improved), Sensors
-(improved), Vacuum Environment, Wet Bar
+Camouflage, Navigation System (improved), Sensors (improved), Vacuum Environment, Wet Bar
 
 Equipment
 
@@ -1529,6 +1584,8 @@ basic principles behind most of these games but others are so bizarre
 that they must be explained before they can be played successfully.
 
 GAMES OF CHANCE
+
+
 Runestones: Common in the Sword Worlds of the Spinward Marches,
 runestones is derived from a popular divination method. Players
 throw small flat or cubical stones, each face of which is marked with
@@ -1550,6 +1607,8 @@ Therefore, Hiver's chess is normally played as a game of chance, with
 players moving pieces almost at random until one of them wins.
 
 GAMES OF SKILL
+
+
 Psi-Topple: Traditionally, psi-topple is played with a small crystal tablet
 that is a psionic resonator. This tablet is especially easy to move with
 telekinesis and even a latent psion with undeveloped powers can push
@@ -1569,6 +1628,8 @@ spacer's deck (suits of Ships, Suns, Blades and Coins, cards from Ace (or
 Low), 2, 3, 4, 5, 6, 7, 8, 9, 10, Knight, Empress and Emperor).
 
 WAGERS
+
+
 Low Lottery: The low lottery is a macabre tradition but still practised on
 many worlds. On a passenger ship with low berths, the captain donates
 Cr10 of the passage price for each low passenger to a pool. Each
@@ -1610,6 +1671,8 @@ Where one culture's suit may comprise of shirt, jacket and trousers,
 another may favor wearing kilts or one-piece jumpsuits.
 
 NOBLES AND CLOTHING
+
+
 Travellers with noble rank, or who enjoy celebrity, must look the part
 if they wish to continue their lifestyle. The SOC Price Modifier table
 shows how much more a Traveller should be paying (as a minimum) for
@@ -1756,6 +1819,8 @@ Thermal Overcoat 9 1 Cr1000
 ```
 
 CLOTHING OPTIONS
+
+
 The following choices can be applied to custom clothing during its
 manufacture.
 
@@ -1819,6 +1884,8 @@ to produce.
 
 AUTOMATED REFINERY DRONE
 
+
+
 The ARD is little more than a fuel processor and storage tank attached
 to an enormous balloon. They are deployed to gas giants to drift and
 process atmospheric hydrogen. A typical drone is able to process 100
@@ -1866,8 +1933,7 @@ Stealth (Electronics (sensors) DM) —
 
 Traits Lifting Body
 
-Equipment Actuation System, Communications Systems
-(improved, increased range, satellite uplink),
+Equipment Actuation System, Communications Systems (improved, increased range, satellite uplink),
 Computer/1, Control Systems (improved), Navigation
 Systems (basic), Refuelling Plant, Robot Brain (basic),
 Sensor Sytem (basic)
@@ -1918,14 +1984,14 @@ Stealth (Electronics (sensors) DM) —
 ```
 Traits —
 Equipment Autopilot (improved), Computer/0, Communications
-System (improved, increased range), Control System
-(improved), Freshers x9, Holo-suite, Hot Tub, Galley,
-Internal Bay, Large Fresher, Navigation Systems
-(basic), Sensor System (improved), Stateroom x10,
+System (improved, increased range), Control System (improved), Freshers x9, Holo-suite, Hot Tub, Galley,
+Internal Bay, Large Fresher, Navigation Systems (basic), Sensor System (improved), Stateroom x10,
 Wet bar
 ```
 
 ZRM AIRSTRIKE PLATFORM
+
+
 
 A large airship for bringing light attack aircraft to the combat theatre,
 this versatile platform is capable of bombing targets from high altitude
@@ -1974,11 +2040,8 @@ Stealth (Electronics (sensors) DM) —
 ```
 Traits Lifting Body
 Equipment Airlocks x2, Autopilot (improved), Bunks x16,
-Camouflage (improved), Communications System
-(basic, increased range, encrypted), Control System
-(improved), Crane (heavy), Fire Control, Fresher,
-Galley, Life Support (short term), Navigation System
-(basic), Sensor System (improved, hardened, increased
+Camouflage (improved), Communications System (basic, increased range, encrypted), Control System (improved), Crane (heavy), Fire Control, Fresher,
+Galley, Life Support (short term), Navigation System (basic), Sensor System (improved, hardened, increased
 range), Stateroom
 Weapons Bay (60 Spaces)
 Fixed Mounts x3 (light anti-air missile)
@@ -2038,8 +2101,7 @@ Stealth (Electronics (sensors) DM) —
 Traits Lifting Body
 Equipment Airlocks x2, Atmospheric Sampler, Autopilot (enhanced),
 Computer/2, Communications System (improved,
-increased range, satellite uplink), Control System
-(advanced), Crane (medium), Fresher, Laboratories
+increased range, satellite uplink), Control System (advanced), Crane (medium), Fresher, Laboratories
 x2, Life Support (long term, insidious environment),
 Mini-galley, Navigation System (improved), Sensor
 System (improved, increased fidelity, increased range),
@@ -2047,6 +2109,8 @@ Staterooms x4
 ```
 
 HOSTILE ENVIRONMENT RESEARCH OUTPOST
+
+
 
 When a starship is not available to conduct a thorough, weeks-long
 survey of a gas giant or planet with a corrosive or insidious atmosphere,
@@ -2110,8 +2174,7 @@ and this could be built upon over time. Likewise, defeating the security
 on a door is entirely acceptable as the outcome of a single check.
 However, it is not reasonable to use a single check to open all the
 doors in a building or to bring someone to a radically different viewpoint
-on a permanent basis. Getting someone to make an instant life-
-changing decision might be possible but they are likely to re-evaluate
+on a permanent basis. Getting someone to make an instant life-changing decision might be possible but they are likely to re-evaluate
 that decision and try to back out, or to resent being manipulated and
 actively work against the Travellers.
 
@@ -2252,8 +2315,7 @@ generating their own adventures.
 Eventually, if the Travellers put in enough effort, they will get what
 they want or at least a part of it. This represents growth rather than
 bloat, if it is handled correctly. It will also lead to new adventures.
-The Travellers' quest for psionic testing might lead on to a new mini-
-campaign where they follow rumors of lost techniques or obscure
+The Travellers' quest for psionic testing might lead on to a new mini-campaign where they follow rumors of lost techniques or obscure
 teachers. This represents a curious situation in which the Travellers
 have set themselves a goal, achieved it and become sufficiently
 invested in that aspect of the campaign that they continue climbing
@@ -2283,6 +2345,8 @@ be assumed that knowledge surrounding the issues met by the Erline
 may remain.
 
 THE HOME SYSTEM
+
+
 The home system consists of a central K4 star, orbited by a total of six
 large planets, four small planets and two gas giants. Between the third
 and fourth worlds exists an enormous asteroid belt, within which the
@@ -2312,6 +2376,8 @@ quarantine maintained over the Erline homeworld by the Prime Citadel.
 
 ERLINE HOME SYSTEM
 
+
+
 ```
 Artifical SatellitesTectonically Active
 ```
@@ -2331,6 +2397,8 @@ Large Asteroid
 ```
 
 THE CITADEL
+
+
 The Prime Citadel faithfully follows its initial programming to this day,
 taking all measures possible to preserve the Erline species. Other
 citadels are still being built with the goal of eradicating the disease
@@ -2356,6 +2424,8 @@ former colony, as well as from exploration ships stranded here, served
 as sources for this.
 
 THE FORMER COLONY
+
+
 The fourth planet of the system, a large gas giant, is orbited by a total
 of nine smaller and larger moons. One of those moons housed the only
 in-system colony of the Erline that was not affected by the purge of
@@ -2386,6 +2456,8 @@ the relocation the buildings fell into disrepair and now only bear witness
 to the remains of a civilization that the Citadel had attempted to save.
 
 THE HABITAT
+
+
 To create an ideal living space for the colonists, the Citadel drew on
 concepts found in old Erline databases; a cylindrical artificial habitat
 created inside a large asteroid. The chunk of rock chosen to realise its
@@ -2432,6 +2504,8 @@ coerced by the Citadel to join the habitat inhabitants, due to the belief
 that Erline can live nowhere as safely and well as there.
 
 TRAVELLERS WITHIN THE HOME SYSTEM
+
+
 Shortly after arriving in the system, the sensors may obtain basic
 information, especially on the armaments aboard the many devices
 flying between the asteroids. In the vicinity of the habitat, their
@@ -2477,8 +2551,7 @@ the Citadel, all necessary information.
 On the issue of the habitat there might be an opportunity for
 dialogue, as the Citadel is desperate to reverse the decline of the
 population. A request for help would only be issued to the Erline on
-board to bring more of their kind to the habitat or for some problem-
-oriented analysis of the data.
+board to bring more of their kind to the habitat or for some problem-oriented analysis of the data.
 
 Some time after the delegation has made contact, the Citadel demands
 that the Erline – after a quarantine period of at least two years – move
@@ -2492,6 +2565,8 @@ compared to the ship and the Citadel is more concerned with pressing
 its case than causing serious damage.
 
 DEALING WITH THE CITADEL
+
+
 An armed confrontation with the Prime Citadel would of course be
 conceivable but it has so many resources in the system that such
 an option would be lengthy and dangerous, despite the Deepnight
@@ -2524,6 +2599,8 @@ infection, eliminating the need for long quarantines and such an
 uncompromisingly violent approach.
 
 WHAT COULD BE GAINED
+
+
 The Erline people stand to gain the history of their origins, for much
 of this information can be recovered from the Citadel's data stores.
 Additionally, the mentally neglected Erline of the habitat could be freed
@@ -2567,6 +2644,8 @@ Aid Society. Within each class, they share certain features, allowing
 visitors to anticipate the types and levels of service available.
 
 CLASS E
+
+
 True frontier outposts, these are lonely bastions in the far reaches of
 space, often many days travel from even minor trade routes. They are
 typically equipped with a single landing area big enough for a few small
@@ -2581,8 +2660,7 @@ significant as it marks the edge of Imperial territory.
 
 Very little in the way of landing guidance can be provided by a Class E
 port. On approach, port personnel may offer basic advice and switch on
-landing lights but that is all. This can make setting down a rather hair-
-raising experience in high winds, fog or cloudy atmospheres.
+landing lights but that is all. This can make setting down a rather hair-raising experience in high winds, fog or cloudy atmospheres.
 
 Class E ports on worlds with a Standard atmosphere have no hangers
 and only the most basic holding facilities for cargo. It is rare indeed
@@ -2611,12 +2689,13 @@ Accordingly, port employees turn a blind eye so long as a visitor is not
 acting suspiciously or aggressively.
 
 CLASS D
+
+
 The key additions that elevate a starport to Class D status are a
 landing strip (on planets with an atmosphere) and the ability to refuel
 visiting craft. In practice, these ports are usually considerably larger,
 housing a dozen or more landing pads. At least one pad will be able to
-accommodate a 2,000 ton vessel. The rest will be a mixture of small
-(up to 200 tons) and medium (up to 500 tons) sized pads.
+accommodate a 2,000 ton vessel. The rest will be a mixture of small (up to 200 tons) and medium (up to 500 tons) sized pads.
 
 In appearance, a Class D starport looks more permanent, housing
 a cluster of buildings, a checkpoint for those entering the site and
@@ -2632,11 +2711,12 @@ Starports in this class can usually provide a limited amount of warehousing
 space for traders to store cargo – 1,000 tons capacity is standard.
 
 Simple repair work may be carried out, although there is often a
-delay of a few hours before this can begin. A few of the more down-
-at-heel starports will maintain a scrap yard but this lends the port an
+delay of a few hours before this can begin. A few of the more down-at-heel starports will maintain a scrap yard but this lends the port an
 unfortunate 'Class E air' and is therefore usually avoided.
 
 CLASS C
+
+
 Starports in this class see a regular flow of traffic and are equipped
 to deal with all manner of craft, from industrial transports to pleasure
 yachts. More significant than that, and the feature which elevates them
@@ -2677,6 +2757,8 @@ be moved to the landing area before disembarkation can begin, which
 slows down the process.
 
 CLASS B
+
+
 Once a starport reaches this size, it becomes a significant hub within
 the local – and even planetary – economy. Many Class B starports
 are at the center of a major, and possibly capital, city. They contain
@@ -2686,8 +2768,7 @@ A Class B starport is large enough to be a settlement in itself and
 will have an indigenous population, supplemented by a stream of
 passengers and visitors.
 
-To earn the status of a Class B starport, a facility must provide an
-(effectively) unlimited supply of refined fuel. It will also contain a
+To earn the status of a Class B starport, a facility must provide an (effectively) unlimited supply of refined fuel. It will also contain a
 shipyard, capable of producing spacecraft and small craft. This, in turn,
 provides excellent repair facilities.
 
@@ -2722,6 +2803,8 @@ activity. Accordingly, the port will operate a range of undercover
 operations to deter or unearth organised crime.
 
 CLASS A
+
+
 With the capacity to accommodate an entire star fleet, Class A starports
 are the true crossroads of the stars. In fact, many are more famous
 than the worlds that accommodate them – and can be the reason that
@@ -2786,6 +2869,8 @@ return, visitors can enjoy an exceptional quality of service, with access to
 exotic delicacies that only a hub of galactic trade can hope to provide.
 
 STARTOWNS
+
+
 Starports – particularly the larger ones – attract people from near and
 far, from all levels of society. To many they are like honey-pots filled
 with the promise of something sweet. It is not uncommon for members
@@ -2823,6 +2908,8 @@ Travellers will elect to visit, even if they are simply passing through.
 By Darren Bulmer
 
 ZORKOTE LIGHT CRUISER
+
+
 At 17,500 tons, the Zorkote stretches the boundaries of a light
 cruiser but has been more than favorably accepted by those who
 have served aboard one. A spinal meson mount is the ship's main
@@ -2844,9 +2931,9 @@ Hull 17,500 tons, Streamlined — 1050
 Reinforced — 525
 ```
 
-M-Drive Thrust 4 (size reduction x3) 490 1470
+M-Drive Thrust4 (size reduction x3) 490 1470
 
-J-Drive Jump 4 (decreased fuel,
+J-Drive Jump4 (decreased fuel,
 size reduction)
 
 ```
@@ -2900,8 +2987,7 @@ yield beam lasers) x10
 ```
 
 ```
-Triple Turrets
-(sandcasters) x10
+Triple Turrets (sandcasters) x10
 ```
 
 ```
@@ -2916,8 +3002,7 @@ missiles)
 ```
 
 ```
-Sandcaster barrel storage
-(1,000 canisters)
+Sandcaster barrel storage (1,000 canisters)
 ```
 
 ```
@@ -2992,8 +3077,12 @@ x10, Marines x10
 ```
 Running Costs
 MAINTENANCE COST
+
+
 MCr10398/month
 PURCHASE COST
+
+
 MCr11433.252
 ```
 
@@ -3162,8 +3251,7 @@ Triple Turrets (sandcasters) x100 100 175
 Ammunition Missile Storage (1,440 missiles) 120 —
 
 ```
-Sandcaster barrel storage
-(1,000 canisters)
+Sandcaster barrel storage (1,000 canisters)
 ```
 
 ```
@@ -3246,8 +3334,12 @@ Officers x10, Marines x80
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr21067/month
 PURCHASE COST
+
+
 MCr22980.247
 ```
 
@@ -3457,7 +3549,7 @@ Hull 200,000 tons, Close Structure — 9000
 Reinforced — 4500
 ```
 
-M-Drive Thrust 3 (size reduction x3) 4,200 12600
+M-Drive Thrust3 (size reduction x3) 4,200 12600
 
 J-Drive Jump 6 35,005 45007.5
 
@@ -3508,16 +3600,14 @@ yield beam lasers) x70
 ```
 
 ```
-Triple Turrets
-(sandcasters) x100
+Triple Turrets (sandcasters) x100
 ```
 
 ```
 100 175
 ```
 
-Ammunitions Sandcaster barrel storage
-(x1,000 canisters)
+Ammunitions Sandcaster barrel storage (x1,000 canisters)
 
 ```
 50 —
@@ -3595,8 +3685,12 @@ Officers x93, Marines x40
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr91025/month
 PURCHASE COST
+
+
 MCr99291.44
 ```
 
@@ -3767,6 +3861,8 @@ unknown, as do the chances of another Hhkar armada arriving at some
 unsuspecting world.
 
 PHYSICAL CHARACTERISTICS
+
+
 With a tail for balance, an adult Hhkar averages 2.5 meters in height
 with a mass of 250 kilograms. Aesthetic variations are common,
 although within a ssaaahk, a family or clan grouping, individuals retain
@@ -3886,9 +3982,10 @@ witchcraft but for the Hhkar, this is the technique that works best to heal
 both body and mind.
 
 EVOLUTIONARY DEVELOPMENT
+
+
 Little is known of the Hhkar's lost homeworld of Ssrar. Evolving from
-carnivorous hunters, the Hhkar are thought to have developed a semi-
-nomadic existence, migrating over the course of generations as climatic
+carnivorous hunters, the Hhkar are thought to have developed a semi-nomadic existence, migrating over the course of generations as climatic
 conditions changed. Ssrar is known to have been very geologically active
 with an atmosphere tainted by sulphur compounds. These conditions
 account for a major trait of Hhkar now living far from this lost home:
@@ -3898,6 +3995,8 @@ the social function of eating shared meals common among other species.
 Hhkar meals are eaten quickly, either raw or only slightly cooked.
 
 LIFE CYCLE
+
+
 Those Hhkar travelling outside their home systems are all male. The
 Hhkar are serially hermaphroditic, born male and able to change genders
 later in life. Females enter oestrus approximately once per standard
@@ -3938,6 +4037,8 @@ enter this state more often and, as the end of life approaches, the
 Hhkar may choose to die of their own will during a final ghraa!ks.
 
 HISTORY
+
+
 With their homeworld far beyond Charted Space, much of Hhkar
 history is based on their mythologies, stories and religious writings.
 From these, xenohistorians can surmise that Ssrar was an extremely
@@ -4017,8 +4118,7 @@ Hhkar fleets and none have returned to the grave of their world.
 ```
 
 Over 10,000 years ago, a group of Hhkar settled on the world they
-now call Skkyhrk. They build an extensive array of giant pyramid-
-like structures on Skkyhrk and some in nearby systems, then
+now call Skkyhrk. They build an extensive array of giant pyramid-like structures on Skkyhrk and some in nearby systems, then
 vanished, apparently becoming extinct by -10000. Early Ziru Sirka
 xenoarchaeologists were unable to translate the pictographic language
 and believed the species had died from disease. The system was a
@@ -4075,6 +4175,8 @@ Skkyhrk, building manufacturing plants to export Hhkar tech to the rest
 of the Protectorate.
 
 SOCIETY
+
+
 Known Hhkar civilization consists of the 25 systems of the Hhkar
 Sphere, although an unknown number of Hhkar systems and fleets
 exist beyond Charted Space. Sublight fleets may be transiting Charted
@@ -4129,6 +4231,8 @@ the death between the leading warriors of each ssaaahk with weapons
 and rules determined by the patriarchs of the respective ssaaahk.
 
 EXTERNAL RELATIONS
+
+
 The Hhkar Sphere has been considered a member state within the
 Julian Protectorate since the late 600s. The Hhkar do not formally
 acknowledge any limits on the sovereignty of the Hhkar Sphere but in
@@ -4149,8 +4253,7 @@ sworn into a military or paramilitary service, such as serving members
 of the Star Legion or those few Hhkar serving in the Imperial Interstellar
 Scout Service.
 
-Hhkarn, the human name for the Hhkar language, is difficult for non-
-Hhkar to speak as it involves loud punctuated sounds such as hisses,
+Hhkarn, the human name for the Hhkar language, is difficult for non-Hhkar to speak as it involves loud punctuated sounds such as hisses,
 growls, coughs, snarls and sharp inhalations and exhalations. The
 Hhkar speak with mouth wide open and pronounce some words with
 a jaw snap translated as a '!'. Hhkar have poor hearing, often not
@@ -4162,6 +4265,8 @@ a word and its representation, making it difficult for even a translation
 device to interpret.
 
 CREATING HHKAR TRAVELLERS
+
+
 Most Hhkar who venture beyond their worlds are first iteration males. It is
 recommended that Travellers should assume that background. Females
 do not venture outside their worlds or space habitats and later iteration
@@ -4264,6 +4369,8 @@ always retained, regardless of gender.
 All Hhkar will refuse to undertake psionic testing or training.
 
 HHKAR EQUIPMENT
+
+
 Most equipment designed for Hhkar is extremely durable and generally
 masses twice that of the equivalent human-designed equipment. Hhkar
 civilization is mainly at TL13 but gravitic technology is no greater than
@@ -4374,6 +4481,8 @@ manufactured drive units are considered TL13 and cannot use advanced
 and primitive technology rules ( see High Guard, pages 48–49).
 
 STARSHIP SYSTEMS
+
+
 Hhkar starships have the following features and limitations:
 •  Most Hhkar vessels employ non-gravity hulls but these vessels
 have no size limitation and require only 10% of hull tonnage in
@@ -4388,6 +4497,8 @@ or both (using tilting segments).
 fusion drives to cross vast distances at sublight speed.
 
 WEAPONRY
+
+
 Hhkar ships favor railguns and mass drivers, and produce superior
 versions of these weapons at all scales, including spinal mounts. All
 Hhkar railguns and mass drivers are TL15. Compared to baseline
@@ -4398,6 +4509,8 @@ Spinal railguns and mass drivers (see Element Cruisers, page 76) have
 no size limits.
 
 HHKAR MAGNETIC DRIVE
+
+
 A Hhkar magnetic drive is a multimode unit, which can provide
 propulsion, braking or gas collection, using magnetic fields to manipulate
 both the solar wind and interstellar medium. Changing modes requires a
@@ -4486,6 +4599,8 @@ Fuel Collected (daily) Power required (operating)
 ```
 
 HHKAR FUSION DRIVE
+
+
 A fusion drive magnetically confines hydrogen to extreme pressure and
 temperature to initiate a fusion reaction while the fuel is accelerating
 within the drive unit. This drive is very fuel efficient compared to a
@@ -4531,6 +4646,8 @@ both feed the fusion drive and provide fuel for the onboard power plant.
 By David Sansom
 
 INTRODUCTION
+
+
 In the year before the start of the Fifth Frontier War, the systems in the
 Spinward Marches are awash with rumors of war and incursions by
 the Zhodani. Tensions are high and cat and mouse games between
@@ -4539,8 +4656,7 @@ eye. In the confusion, other opportunistic players including Vargr
 corsairs take advantage of these distractions for their own gain.
 
 The Travellers have all taken very lucrative contracts for an
-experimental mining operation by Sternmetal Horizons on Whanga
-(Spinward Marches, Regina). However, each have their own reasons
+experimental mining operation by Sternmetal Horizons on Whanga (Spinward Marches, Regina). However, each have their own reasons
 for being on this ship (see page 126). The contracts include passage
 on the Amaranthine Haven, a modified Empress Marava far trader (see
 High Guard page 116). The Amaranthine Haven is on route from Alell
@@ -4550,6 +4666,8 @@ staterooms were already taken, the Travellers have been forced to take
 low passage for the trip.
 
 THE HAVEN
+
+
 The Amaranthine Haven is a typical independent operator owned
 by Bartholomew Crane. The current crew consists of the pilot Chuck
 Baine, the medic Dr Kavenor, the steward Jesse Lopet and a new
@@ -4596,8 +4714,12 @@ x2
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr4511/month
 PURCHASE COST
+
+
 MCr54.1332
 ```
 
@@ -4734,8 +4856,7 @@ This is the room where the Travellers awaken.
 
 In addition to the low berths, the room has a number of cabinets
 with some supplies and a control panel. Supplies available include
-spare jumpsuits, basic refreshments for passengers waking
-(energy drinks, water, protein bars and so forth) and some medical
+spare jumpsuits, basic refreshments for passengers waking (energy drinks, water, protein bars and so forth) and some medical
 supplies to aid reviving passengers.
 
 **2. Low Passage Locker**
@@ -4767,8 +4888,7 @@ is off and clipped to his suit and there are no signs of punctures or
 tears in the suit. However, the Vargr has significant bleeding from
 mouth, eyes and ears.
 
-The power plant is not running but it can be started with an Average
-(8+) Engineer (power) check, taking 1D minutes. Doing so restores
+The power plant is not running but it can be started with an Average (8+) Engineer (power) check, taking 1D minutes. Doing so restores
 lights and power to the doors but whilst the lockdown is still active
 nothing else functions.
 
@@ -4793,8 +4913,7 @@ empty snub pistol.
 The console shows the ship is on lockdown. Until the lockdown is
 cleared the ship has no basic systems, including gravity and life
 support, and cannot use the engines. If power has been restored,
-the lockdown can be cleared at a bridge console with an Average
-(8+) Electronics (computers) check (1D minutes). Once cleared,
+the lockdown can be cleared at a bridge console with an Average (8+) Electronics (computers) check (1D minutes). Once cleared,
 ship systems can each be turned back online with any Routine (6+)
 Engineer or Electronics check (1D minutes). Ship systems include life
 support, artificial gravity, maneuver drive, jump drive and security.
@@ -4892,8 +5011,7 @@ found stashed in a locker.
 The ship's locker is located near the bridge and kept locked unless needed.
 
 The Amaranthine Haven's locker contains; four vacc suits (TL12), spare
-tools appropriate for the ship, four mobile comms (TL10), two medikits
-(TL12), two shotguns, four snub pistols, 50 shotgun shells and eight
+tools appropriate for the ship, four mobile comms (TL10), two medikits (TL12), two shotguns, four snub pistols, 50 shotgun shells and eight
 magazines for the pistols.
 
 **14. Passenger Common Room**
@@ -5007,6 +5125,8 @@ will incur DM-1 to all checks. If the small craft is used to escape, the
 approaching corsair attempts to hail and intercept it.
 
 THE STORY SO FAR
+
+
 The Travellers boarded 12 hours before departure, attended by the
 ship's medical officer. They saw next to nothing of the ship, crew or
 other passengers when boarding, being taken straight from the main
@@ -5033,8 +5153,7 @@ which she is hoping to find at Regina.
 Unbeknownst to Joyce, the 'good samaritan' who aided her sold the
 information on Marcus to a Zhodani spy. This resulted in the Zhodani
 agent activating a sleeper unit, which is now tailing Joyce. When Joyce
-boarded the Amaranthine Haven, the unit shadowed her in a well-
-equipped Type-RQ Subsidized Merchant (Pirates of Drinax: Ships of
+boarded the Amaranthine Haven, the unit shadowed her in a well-equipped Type-RQ Subsidized Merchant (Pirates of Drinax: Ships of
 the Reach, page 18), the Hopeful Wanderer. The Hopeful Wanderer
 used their advanced sensors to analyse their quarry's jump flash and
 followed the Amaranthine Haven to Grant.
@@ -5071,6 +5190,8 @@ space and starts heading towards the gas giant while scanning for
 the Amaranthine Haven.
 
 COMPLICATIONS
+
+
 As the Travellers start to explore the stricken ship, they will meet the
 following challenges.
 
@@ -5096,6 +5217,8 @@ to determine this without visiting these locations. Some crew remain
 aboard the Amaranthine Haven but are slowly being picked off...
 
 MARCUS CARPENTER
+
+
 Dr Marcus Carpenter was an ambitious and accomplished
 xenobiologist, with somewhat flexible morals. The discovery
 of an apparently psionic-capable parasitic lifeform recovered
@@ -5156,23 +5279,24 @@ main hold. There are four of them, two armed with submachine guns
 and the others with laser carbines, each also carries a snub pistol
 sidearm. After the firefight with the crew and repelling the creature
 Marcus, they are low on ammo, having one magazine for each firearm
-and 10 charges in their laser carbines. They are wearing vacc suits
-(TL10, Protection +8).
+and 10 charges in their laser carbines. They are wearing vacc suits (TL10, Protection +8).
 
 ###### MARCUS CARPENTER MARCUS CARPENTER
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 7 INT 12 Admin 1, Awareness 1, Deception 1,
-Electronics 0, Persuade 2, Profession
-(biologist) 3, Science (biology) 2,
-Science (chemistry) 1, Science
-(xenology) 3, Telepathy 3
+Electronics 0, Persuade 2, Profession (biologist) 3, Science (biology) 2,
+Science (chemistry) 1, Science (xenology) 3, Telepathy 3
 ```
 
 ```
@@ -5245,8 +5369,7 @@ behalf of an unnamed Imperial corporation. Either way, they intend to
 board and recover all infected individuals they discover, including Marcus
 and Relton Dalley. The boarding party consists of at least four marines in
 boarding vacc suits (TL12, Protection +10) without any insignia, armed
-with stunners and integrated laser pistols. Another four crew, in vacc suits
-(TL12, Protection +10) and armed with stunners wait at the docking port
+with stunners and integrated laser pistols. Another four crew, in vacc suits (TL12, Protection +10) and armed with stunners wait at the docking port
 in case they are needed. Their pilot remains on the bridge at all times.
 
 If the Travellers attempt to run, the Hopeful Wanderer is armed with two
@@ -5261,6 +5384,8 @@ challenge. The Zhodani crew know not to seek them out; the sleeper
 may have other objectives and want to maintain their cover.
 
 ASSIGNMENTS
+
+
 For the purposes of a one-off adventure, each Traveller may be
 assigned a secret ulterior motive.
 
@@ -5331,6 +5456,8 @@ happens, the important thing is to keep your eyes peeled for an
 opportunity to make some good money, preferably a lot of it.
 
 CONCLUSION
+
+
 Ultimately, the Travellers' main goal is survival but they may be able
 to make the most of a bad situation and come out on top. Dealing with
 the Vargr and Zhodani could be a case of keeping out of their way and
@@ -5429,6 +5556,8 @@ of the Travellers' Aid Society
 ## JJJournal
 
 JOURNAL
+
+
 
 ```
 The

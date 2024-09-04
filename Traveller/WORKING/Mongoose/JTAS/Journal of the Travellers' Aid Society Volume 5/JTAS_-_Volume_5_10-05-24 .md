@@ -5,6 +5,8 @@
 
 CREDITS
 
+
+
 ```
 Authors
 Martin Dougherty, Christopher
@@ -59,32 +61,50 @@ Printed in China
 
 ARTICLES
 
+
+
 ```
 ADVENTURE
+
+
 The Lost Village 41
 Chariots of Fire 73
 ALIEN
+
+
 Virushi 54
 BESTIARY 10
 CENTRAL SUPPLY
+
+
 IISS Field Equipment 105
 CHARTED SPACE
+
+
 World Security Profiles 29
 Fasten your Seatbelt 47
 Salvage Rights 64
 Extremophiles 99
 Black Market 113
 ENCOUNTERS
+
+
 Ramon Sanyarvo 111
 HIGH GUARD
+
+
 Jump Boats 16
 Jump Boat Tender 59
 Towing Ship 82
 Space Combat Primer 120
 TRAVELLING
+
+
 Damage Control Operations 2
 Call out the Guard 90
 VEHICLE HANDBOOK
+
+
 Ground Vehicles 71
 ```
 
@@ -142,6 +162,8 @@ may be overwhelmed by the uncontrolled disaster erupting from the next.
 
 ```
 RULE CHANGES
+
+
 These rules are intended to replace the Repair System action on Page
 161 of the Traveller Core Rulebook and provide for additional damage
 effects in combat or amidst disaster.
@@ -149,6 +171,8 @@ effects in combat or amidst disaster.
 
 ```
 CASCADING HULL FAILURE
+
+
 Under the starship combat rules, each time a vessel takes 10% of its Hull
 score in damage it suffers a critical hit. This rule remains in place but in
 addition each time a 10% damage threshold is passed there is a chance
@@ -176,9 +200,10 @@ damage control action.
 
 ADDITIONAL DAMAGE EFFECTS
 
+
+
 Whenever a ship or craft takes damage there is a chance of additional
-damage effects. These can be used to add drama and tension to a battle
-(if any more is needed); they range from inconvenient to life-threatening.
+damage effects. These can be used to add drama and tension to a battle (if any more is needed); they range from inconvenient to life-threatening.
 These additional effects are less crippling to a ship's systems than critical
 hits but may still need to be dealt with by the crew if they are to continue
 functioning effectively.
@@ -315,6 +340,8 @@ knows how serious any of it is...
 
 ```
 DAMAGE REPORTING
+
+
 Most ships have a 'damage board', of some kind. On military ships this a
 sophisticated display capable of showing the big picture or zooming in on
 specific problems, giving an indication of severity, likelihood of escalation
@@ -378,6 +405,8 @@ control and DM+1 to checks related to repairs.
 
 ASSESSMENT AND PLANNING
 
+
+
 The first stage of any damage control operation is assessment and
 planning. Sometimes this is little more than noticing the console is on
 fire and deciding to put it out but often a plan of action can make all the
@@ -396,8 +425,7 @@ electrical fault when in fact the problem is elsewhere. Running down the
 cause might require ignoring the system and using old-fashioned manual
 methods or creatively reconfiguring readouts to find the false data.
 
-The Effect of a damage assessment can be applied to all damage control
-(but not repair) related checks on systems included in the assessment.
+The Effect of a damage assessment can be applied to all damage control (but not repair) related checks on systems included in the assessment.
 So if, for whatever reason, a Traveller performs a detailed assessment of
 damage to the hull but ignores the ship's internal systems, the Effect of the
 assessment applies only to attempts to shore up the hull. At the Referee's
@@ -408,6 +436,8 @@ through the hull such as power conduits or ventilation systems.
 
 ```
 DAMAGE CONTROL OPERATIONS
+
+
 All personnel who work aboard starships learn about damage control
 operations. Those who serve aboard less formally organised vessels
 such as free traders often gain a rule-of-thumb education in damage
@@ -474,6 +504,8 @@ skill will apply to making a compartment safe for habitation once more.
 
 DEALING WITH A DAMAGE EFFECT
 
+
+
 Sometimes a single check is required to deal with a particular problem. A
 minor air leak can be controlled by slapping an emergency patch on it. In
 most cases the patch will hold or it will not; if it does the problem can be
@@ -494,8 +526,7 @@ Normally once a problem is reduced to trivial (or possibly even minor)
 level it is safe to leave it and deal with something else but some problems
 like fires must be fully dealt with or may start to escalate again.
 
-The difficulty of most damage control checks is Average (8+), with DM-
-if the problem is Serious and DM-4 if it is Severe. A Trivial problem
+The difficulty of most damage control checks is Average (8+), with DM-if the problem is Serious and DM-4 if it is Severe. A Trivial problem
 gives DM+4 if a roll is necessary at all; the Referee may rule that Trivial
 problems can be fixed by anyone making the effort.
 
@@ -536,8 +567,7 @@ almost as widespread as at the present.
 ```
 
 ```
-Beaked monkeys typically weigh 2 to 3 kilograms and measure 60-
-centimeters in length, half of which is generally taken up by the tail. Tails
+Beaked monkeys typically weigh 2 to 3 kilograms and measure 60-centimeters in length, half of which is generally taken up by the tail. Tails
 are sometimes bobbed on animals kept aboard spacecraft. Beakers are
 covered by short fur, most commonly brown or grey. Black is rare, and
 white extremely so (roll 2D for 2-7 brown, 8-10 grey, 11 black and 12 white).
@@ -609,8 +639,7 @@ BEHAVIOUR Omnivore, Gatherer
 12
 
 ```
-BLOODVARK
-(Megalorhinos osmichnilatis claudii)
+BLOODVARK (Megalorhinos osmichnilatis claudii)
 ```
 
 ```
@@ -676,8 +705,7 @@ mother's abdominal hair, where they hang and nurse for about 5 months.
 14
 
 ```
-SEA BEAR
-(Pseudoarctos ansonii, et al)
+SEA BEAR (Pseudoarctos ansonii, et al)
 ```
 
 ```
@@ -755,6 +783,8 @@ than a tiny jump boat.
 
 ```
 STARSTREAK FAST COURIER
+
+
 The Starstreak was developed to meet the needs of corporations
 and governments requiring fast data transfer regardless of the costs
 involved. Built at a mature TL15, the Starstreak is only available from
@@ -809,6 +839,8 @@ maintaining a flotilla of expensive fast couriers.
 
 ```
 CREW RUNNING COSTS
+
+
 Pilot/Astrogator, Engineer Maintenance Cost: Cr7840/month
 Purchase Cost: MCr94.
 ```
@@ -820,11 +852,10 @@ Purchase Cost: MCr94.
 TL15 Tons
 
 ```
-Cost
-(MCr)
+Cost (MCr)
 Hull 100 tons, Streamlined – 6
 Armor Bonded Superdense, Armor: 2 1.6 0.
-M-Drive Thrust 6 (size reduction, energy
+M-Drive Thrust6 (size reduction, energy
 efficient x2)
 ```
 
@@ -854,6 +885,8 @@ Total: 94.
 
 ```
 POWER REQUIREMENTS
+
+
 Basic Ship Systems
 Maneuver Drive
 Jump Drive
@@ -875,6 +908,8 @@ Weapons
 
 HULL POINTS
 
+
+
 (^401)
 2
 3
@@ -883,10 +918,11 @@ HULL POINTS
 4
 5
 9
-10
-(^76)
+10 (^76)
 8
 LEGEND
+
+
 
 1. Sensors
 2. Bridge
@@ -910,6 +946,8 @@ Fuel
 
 ```
 SUPPLY BOAT
+
+
 Compared to the high-capability Starstreak, the supply boat is as
 mundane as a vessel can be. Indeed, it does not even merit a class
 name. Boats of this type are intended to resupply distant outposts,
@@ -918,8 +956,7 @@ impractical to make a normal-space transit.
 ```
 
 ```
-The design is basic yet versatile, with a large fuel tank allowing there-
-and-back jumps without refuelling. Hull form is a basic cylinder, much
+The design is basic yet versatile, with a large fuel tank allowing there-and-back jumps without refuelling. Hull form is a basic cylinder, much
 like a small craft, reflecting the fact that this is an overgrown ship's boat
 with a jump drive rather than a starship in its own right. Nevertheless
 these craft give good, if humble, service to installations and starships
@@ -951,6 +988,8 @@ of this general type.
 
 ```
 CREW RUNNING COSTS
+
+
 Pilot/Astrogator, Engineer Maintenance Cost: Cr3002/month
 Purchase Cost: MCr36.03
 ```
@@ -964,8 +1003,7 @@ Purchase Cost: MCr36.03
 TL12 Tons
 
 ```
-Cost
-(MCr)
+Cost (MCr)
 Hull 100 tons, Standard – 5
 M-Drive Thrust 2 2 4
 J-Drive Jump-1 10 15
@@ -993,6 +1031,8 @@ POWER REQUIREMENTSBasic Ship SystemsManeuver DriveJump DriveSensorsWeapons
 ```
 
 HULL POINTS
+
+
 
 40
 
@@ -1023,6 +1063,8 @@ Fuel
 
 FUEL SUPPLY BOAT
 
+
+
 Built on the same hull as the supply boat, the fuel supply boat is a
 specialist vessel designed to do nothing more than obtain fuel and haul
 it to a refuelling point or installation. Chains of these craft can be used to
@@ -1045,6 +1087,8 @@ crews find long trips in a ship like this a strain on their nerves.
 
 ```
 CREW RUNNING COSTS
+
+
 Pilot/Astrogator, Engineer Maintenance Cost: Cr2840/month
 Purchase Cost: MCr34.08
 ```
@@ -1084,6 +1128,8 @@ POWER REQUIREMENTSBasic Ship SystemsManeuver DriveJump DriveSensorsWeapons
 ```
 
 HULL POINTS
+
+
 
 40
 
@@ -1163,6 +1209,8 @@ LEGEND1. Sensors2. Bridge3. Air lock4. Cargo hold5. UNREP6. Stateroom7. Fresher8
 
 ```
 SHEPHERD PICKET BOAT
+
+
 The Shepherd was developed to provide a distant (in some cases very
 distant) sensor picket capability and has a secondary role as a scout
 vessel. Some operators use the Shepherd to guide flights of fighters
@@ -1208,8 +1256,7 @@ areas, referring to an extremely dull posting.
 TL12 Tons
 
 ```
-Cost
-(MCr)
+Cost (MCr)
 Hull 100 tons, Standard – 5
 Armor Crystalliron, Armor 6 7.5 1.5
 M-Drive Thrust 2 2 4
@@ -1236,6 +1283,8 @@ Total: 68.5
 
 ```
 CREW RUNNING COSTS
+
+
 Pilot/Astrogator, Engineer,
 Electronic Warfare Operator,
 Gunner
@@ -1255,6 +1304,8 @@ POWER REQUIREMENTSBasic Ship SystemsManeuver DriveJump DriveSensorsWeapons
 ```
 
 HULL POINTS
+
+
 
 40
 
@@ -1334,6 +1385,8 @@ offers an optional Security Profile to record that information.
 
 SECURITY FORCES
 
+
+
 Security forces can be divided into three broad categories. These may
 not always be separate agencies under some government types or even
 be present at all on low-population worlds.
@@ -1350,13 +1403,11 @@ the enforcement of laws, they do not usually fill policing roles; however
 more militaristic governments may use their armed forces for internal
 
 **STOP, POLICE!**
-For every world on which the agents of law enforcement are called po-
-lice, there is another where this is not the case. When naming a security
+For every world on which the agents of law enforcement are called po-lice, there is another where this is not the case. When naming a security
 force, the Referee should consider wider factors of the world in question
 but particularly the type of government. A corporation may simply call
 them a security force or know them by a department number. Religious
-or oligarchic societies could have more colourful names, often tied to di-
-vine or regal figures. Military governments and forces will have functional
+or oligarchic societies could have more colourful names, often tied to di-vine or regal figures. Military governments and forces will have functional
 names or extremely flamboyant ones, depending upon their leaders.
 
 The Referee should also decide the nickname the population (and the
@@ -1399,8 +1450,7 @@ trusting in the support of a voluntarily law-abiding population.
 
 Law and Justice: Forces whose primary motivation is to uphold the law
 and protect citizens are often modelled on the police forces familiar to
-most Referees. Bound by a code of conduct and the laws they enforce
-(less those exemptions needed for their role), officers tend to be driven
+most Referees. Bound by a code of conduct and the laws they enforce (less those exemptions needed for their role), officers tend to be driven
 by a wish to keep people safe. Although required to use force in the line
 of duty, many officers attempt to do so only as a last resort. Concerned
 with individual rights, populations typically view these forces positively.
@@ -1485,6 +1535,8 @@ will also have weapons tailored to the environment.
 
 ```
 THE SECURITY PROFILE
+
+
 Referees may use the following profile to summarise the responsiveness,
 proactiveness and approach of the security forces. This profile may be
 appended to the end of World Profile found in the Traveller Core Rulebook,
@@ -1577,11 +1629,8 @@ Base present – – Navy –
 ```
 System Presence: This represents how common security ships and
 devices are beyond the 100 diameter limit, including security at common
-refuelling or transit points and around other bodies in the system. System-
-wide security is extremely resource-intensive and the volume of space to
-monitor and patrol makes it impossible for all but the richest, most high-
-tech systems. Higher values indicate more ships (particularly SDBs on-
-station at key areas in the system) and/or extensive deep-space sensor
+refuelling or transit points and around other bodies in the system. System-wide security is extremely resource-intensive and the volume of space to
+monitor and patrol makes it impossible for all but the richest, most high-tech systems. Higher values indicate more ships (particularly SDBs on-station at key areas in the system) and/or extensive deep-space sensor
 networks. These may be supported by stations in particularly important
 areas where resources permit. Lower values mean fewer ships and likely
 a reliance on patrol ships within the 100 diameter limit to intercept vessels
@@ -1650,8 +1699,7 @@ locations and people, with the rest of the world or system having much
 less. High Presence values with the Focussed code can mean extensive
 passive monitoring, with significant resources available when needed.
 Impersonal: The security forces are less concerned with individual rights
-and justice, and more with the laws themselves and public order. A Difficult
-(10+) Advocate check can reverse the negative DM on sentencing rolls
+and justice, and more with the laws themselves and public order. A Difficult (10+) Advocate check can reverse the negative DM on sentencing rolls
 on these worlds, as Travellers use the letter of the law to their favor.
 Militarised: All key security forces are military in nature. Typically more
 heavily armed and armored than civilian security forces, they will
@@ -1660,6 +1708,8 @@ normally be granted significant latitude by the government.
 
 ```
 BALKANISED WORLDS
+
+
 The Traveller Core Rulebook tells us the Law Level of a balkanised
 planet represents the government closest to the starport. Travellers may
 visit any number of states on the planet, each with its own Law Level and
@@ -1730,6 +1780,8 @@ Volunteer – – 5+
 
 ```
 USING THE SECURITY PROFILE
+
+
 The Security Profile may be used to guide the likelihood of Travellers
 encountering routine security forces in different parts of the world and
 system. When Travellers are involved in an incident the Referee should
@@ -1815,8 +1867,7 @@ Travellers are reasonable. Some examples are:
 the Travellers are observed by cameras; something they are unaware
 of unless they pass an Investigate or Recon check at a difficulty set
 by the Referee to reflect the Tech Level of the devices.
-•  An encounter with one of the forces of a Factionalised (Fa) Impersonal
-(Ip) police force may result in the Travellers observing officers
+•  An encounter with one of the forces of a Factionalised (Fa) Impersonal (Ip) police force may result in the Travellers observing officers
 detaining locals for an offence or action the Travellers themselves
 are also guilty of – but the officers are from an agency whose remit
 does not include policing off-worlders, so do not concern themselves
@@ -1860,14 +1911,26 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 ```
 SI
+
+
 GN
+
+
 AL
+
+
 ```
 
 40
@@ -1890,6 +1953,8 @@ by citizen informants hoping for payment.
 
 ```
 AN EXAMPLE
+
+
 Albe (0601 Sindal, Trojan Reach) has a World Profile of A540A98. Its
 population numbers in the tens of billions, is governed by an Impersonal
 Bureaucracy and has laws that ban almost all weapons.
@@ -1958,12 +2023,20 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 **SI
 GN
+
+
 AL**
 
 ## ADVENTUREADVENTURE
@@ -1995,6 +2068,8 @@ truly deserving of its Class D classification.
 
 ```
 THE SITUATION
+
+
 While in jump, the Travellers notice their air/raft has developed engine
 problems and communications with the starport indicate that replacement
 parts are available in Lucky Downs, the main town. While awaiting
@@ -2131,6 +2206,8 @@ should allow them to find enough clues to take an educated guess.
 
 ```
 THE FATE OF THE LOST VILLAGE
+
+
 Four years ago, Lergei Stallenze arrived on Gadden hoping to make
 his fortune as a hunter. After a discouraging season, he and his partner,
 Toolian DeGuere, found the remains of a burial mound. Inside they found
@@ -2200,6 +2277,8 @@ AT-4
 
 ROUGH TERRAIN SNOWMOBILE
 
+
+
 The AT-4 snowmobile is designed for operations in rougher terrain
 than standard arctic terrain transport. Its blocky central body runs on
 four separate track units, each of which has an inner and outer track.
@@ -2236,8 +2315,7 @@ when a door is opened. There is a cooker/heater unit at the very rear,
 along with some stowage space. The seat can be used as a passable
 bed by one person.
 
-The AT-4 is not a cheap vehicle when new but it is rugged and long-
-lasting. It is common to find examples that have been passed down
+The AT-4 is not a cheap vehicle when new but it is rugged and long-lasting. It is common to find examples that have been passed down
 from one user to another, becoming ever more decrepit in the process.
 Known faults among older AT-4 include a tendency for connections to
 the central track lubrication reservoir to fail, dumping the contents and
@@ -2264,6 +2342,8 @@ Rear 2
 ```
 Traits
 ATV
+
+
 ```
 
 ```
@@ -2278,8 +2358,7 @@ AT-4 ROUGH TERRAIN SNOWMOBILE
 
 ```
 Equipment
-Autopilot (skill level) – • Control Systems
-(basic),
+Autopilot (skill level) – • Control Systems (basic),
 ```
 
 - Communications
@@ -2303,13 +2382,16 @@ Stealth (Electronics (sensors) DM) –
 ## TRAVELLINGTRAVELLING
 
 FASTEN YOUR SEAT BELT
+
+
 Landing is the most stressful part of flying a spacecraft. Despite this, most
 would vastly prefer to handle landing manually than trust a computer.
-For all the statistics about safety and acknowledged contribution of pilot-
-assist systems, there is no reassurance like a person with their hands
+For all the statistics about safety and acknowledged contribution of pilot-assist systems, there is no reassurance like a person with their hands
 on the controls... assuming, of course, the pilot is not trying to show off.
 
 LANDING DIFFICULTY
+
+
 
 The base difficulty of a Pilot check to land a starship or spacecraft on a
 flat surface is Average (8+), assuming a cautious approach and good
@@ -2320,8 +2402,7 @@ longer to set-up the approach and coming in very slowly, or by taking a
 - not hard enough to damage it but in a manner that looks heavy-handed
 and will upset passengers. There are occasions where the pilot may elect
 for an even worse landing – usually when something is dreadfully wrong.
-If the pilot chooses to make what amounts to little more than a crash-
-landing without good cause there may be repercussions but sometimes
+If the pilot chooses to make what amounts to little more than a crash-landing without good cause there may be repercussions but sometimes
 deliberately slamming the ship down hard is the only way to get it on the
 ground fast enough. If so, the base difficulty becomes Easy (4+).
 
@@ -2377,8 +2458,12 @@ onto the pad any old how. The line commodore is not impressed at all...
 
 DOCKING AND
 
+
+
 ```
 ORBITAL PORT LANDINGS
+
+
 In many ways, landing at an orbital starport or docking with another vessel
 is the easiest landing-related task. However, there are still important
 considerations. No well-regulated port ever allows a ship to make a direct
@@ -2491,8 +2576,7 @@ part of the standard data transfer upon contacting the port authority but
 if this information is incorrect (or the gravity generators malfunction)
 a vessel will experience a hazard as the pilot attempts to correct for
 an increase in gravity that does not happen or experiences a sudden
-increase when one is not expected. Dealing with this requires an Average
-(8+) Pilot check, with DM-3 per g of internal gravity.
+increase when one is not expected. Dealing with this requires an Average (8+) Pilot check, with DM-3 per g of internal gravity.
 ```
 
 ```
@@ -2507,6 +2591,8 @@ unless gravity is fluctuating, in which case the DM-3 per g still applies.
 
 ```
 ROCKBALL LANDINGS
+
+
 Planetary landings vary in complexity depending on the local conditions.
 On a very small and low-gravity body it is possible to treat the
 landing area much like an orbital installation, flying straight in without
@@ -2571,6 +2657,8 @@ in a different direction.
 
 ```
 LANDING IN ATMOSPHERE
+
+
 Landing in atmosphere is subject to all the same considerations as a
 rockball landing, with the additional variable of weather. It is rarely feasible
 to streak steeply down from orbit – starports located close to cities do not
@@ -2687,14 +2775,15 @@ in a standard atmosphere are near their lower threshold of hearing.
 
 ```
 SOCIETY
+
+
 As the Virushi progressed towards civilization, an unusual social unit –
 called the 'cooperative' by sophontologists – came into being. Individual
 Virushi had to eat a great deal, and range over a wide area, to feed their
 massive bodies. The tendency, then, was towards a highly individualistic,
 even solitary existence. However, those individuals who cooperated in
 building shelters, making tools, tending fire and, of course, raising families
-had a better chance of survival. The resultant culture today is semi-
-feudal. Obligation and duty are complex and interwoven; the individual's
+had a better chance of survival. The resultant culture today is semi-feudal. Obligation and duty are complex and interwoven; the individual's
 love of freedom is carefully balanced against a feeling of responsibility
 towards others. The concept of coercive government is inconceivable –
 and incomprehensible – to these people. They give freely of their own
@@ -2745,23 +2834,33 @@ cannot be ordered to do something it does not want to do.
 
 ```
 VIRSHASH
+
+
 D-6
 IRLAGGUR SHARRIK
+
+
 B-A
 ```
 
 ```
 HOPE
+
+
 E-4
 ```
 
 ```
 IXION
+
+
 C-9
 ```
 
 ```
 DIABLO
+
+
 B-9
 ```
 
@@ -2792,33 +2891,47 @@ B-9
 
 ```
 INURA
+
+
 C-A
 ```
 
 ```
 ASTORIA
+
+
 B-A
 ```
 
 ```
 URLAQQASH
+
+
 B-9
 ```
 
 ```
 LAVNIA
+
+
 A-D
 ```
 
 ```
 HELA
+
+
 C-9
 MARIANNE
+
+
 C-8
 ```
 
 ```
 FREEHOLD
+
+
 E-7
 ```
 
@@ -2909,23 +3022,33 @@ C6787C9-8
 
 ```
 VIRSHASH
+
+
 D-6
 IRLAGGUR SHARRIK
+
+
 B-A
 ```
 
 ```
 HOPE
+
+
 E-4
 ```
 
 ```
 IXION
+
+
 C-9
 ```
 
 ```
 DIABLO
+
+
 B-9
 ```
 
@@ -2956,198 +3079,47 @@ B-9
 
 ```
 INURA
+
+
 C-A
 ```
 
 ```
 ASTORIA
+
+
 B-A
 ```
 
 ```
 URLAQQASH
+
+
 B-9
 ```
 
 ```
 LAVNIA
+
+
 A-D
 ```
 
 ```
 HELA
+
+
 C-9
 MARIANNE
+
+
 C-8
 ```
 
 ```
 FREEHOLD
-E-7
-```
 
-```
-DA86954-6
-```
 
-```
-B664856-9
-```
-
-```
-C421312-A
-```
-
-```
-B545674-A
-```
-
-```
-E555457-7
-```
-
-```
-B6918CE-A
-```
-
-```
-E65778B-4
-```
-
-```
-C6A1234-9
-```
-
-```
-B9C7477-9 B788777-9
-```
-
-```
-A546657-D
-```
-
-```
-C431300-9
-```
-
-```
-C6787C9-8
-```
-
-```
-2423 3023
-```
-
-```
-2523
-```
-
-```
-2624
-```
-
-```
-2622
-```
-
-```
-2621 2821
-```
-
-```
-2526
-```
-
-```
-2721
-```
-
-```
-2724
-```
-
-```
-2825 3025
-```
-
-```
-2824
-```
-
-```
-VIRSHASH
-D-6
-IRLAGGUR SHARRIK
-B-A
-```
-
-```
-HOPE
-E-4
-```
-
-```
-IXION
-C-9
-```
-
-```
-DIABLO
-B-9
-```
-
-B-6
-
-```
-Gas Giant
-Starport Class & Tech Level
-Imperial Scout Base
-```
-
-```
-Secure System
-Amber Zone
-```
-
-```
-Planet (dry)
-Planet (water present)
-Imperial Naval Base
-```
-
-```
-B-9
-```
-
-```
-INURA
-C-A
-```
-
-```
-ASTORIA
-B-A
-```
-
-```
-URLAQQASH
-B-9
-```
-
-```
-LAVNIA
-A-D
-```
-
-```
-HELA
-C-9
-MARIANNE
-C-8
-```
-
-```
-FREEHOLD
 E-7
 ```
 
@@ -3241,23 +3213,222 @@ C6787C9-8
 
 ```
 VIRSHASH
+
+
 D-6
 IRLAGGUR SHARRIK
+
+
 B-A
 ```
 
 ```
 HOPE
+
+
 E-4
 ```
 
 ```
 IXION
+
+
 C-9
 ```
 
 ```
 DIABLO
+
+
+B-9
+```
+
+B-6
+
+```
+Gas Giant
+Starport Class & Tech Level
+Imperial Scout Base
+```
+
+```
+Secure System
+Amber Zone
+```
+
+```
+Planet (dry)
+Planet (water present)
+Imperial Naval Base
+```
+
+```
+B-9
+```
+
+```
+INURA
+
+
+C-A
+```
+
+```
+ASTORIA
+
+
+B-A
+```
+
+```
+URLAQQASH
+
+
+B-9
+```
+
+```
+LAVNIA
+
+
+A-D
+```
+
+```
+HELA
+
+
+C-9
+MARIANNE
+
+
+C-8
+```
+
+```
+FREEHOLD
+
+
+E-7
+```
+
+```
+DA86954-6
+```
+
+```
+B664856-9
+```
+
+```
+C421312-A
+```
+
+```
+B545674-A
+```
+
+```
+E555457-7
+```
+
+```
+B6918CE-A
+```
+
+```
+E65778B-4
+```
+
+```
+C6A1234-9
+```
+
+```
+B9C7477-9 B788777-9
+```
+
+```
+A546657-D
+```
+
+```
+C431300-9
+```
+
+```
+C6787C9-8
+```
+
+```
+2423 3023
+```
+
+```
+2523
+```
+
+```
+2624
+```
+
+```
+2622
+```
+
+```
+2621 2821
+```
+
+```
+2526
+```
+
+```
+2721
+```
+
+```
+2724
+```
+
+```
+2825 3025
+```
+
+```
+2824
+```
+
+```
+VIRSHASH
+
+
+D-6
+IRLAGGUR SHARRIK
+
+
+B-A
+```
+
+```
+HOPE
+
+
+E-4
+```
+
+```
+IXION
+
+
+C-9
+```
+
+```
+DIABLO
+
+
 B-9
 ```
 
@@ -3288,33 +3459,47 @@ B-9
 
 ```
 INURA
+
+
 C-A
 ```
 
 ```
 ASTORIA
+
+
 B-A
 ```
 
 ```
 URLAQQASH
+
+
 B-9
 ```
 
 ```
 LAVNIA
+
+
 A-D
 ```
 
 ```
 HELA
+
+
 C-9
 MARIANNE
+
+
 C-8
 ```
 
 ```
 FREEHOLD
+
+
 E-7
 ```
 
@@ -3413,6 +3598,8 @@ distinguished themselves on many occasions.
 
 ```
 EQUIPMENT AND VEHICLES
+
+
 Virushi hands are close to human in terms of shape and articulation but
 they prefer equipment built to cope with their size and bulk – human gear
 tends to get crushed or come apart far too easily. As a result, an item built
@@ -3446,6 +3633,8 @@ thick soup Virushi like to breathe.
 
 ```
 VIRUSHI TRAVELLERS
+
+
 Virushi are gentle, compassionate and do not indulge in aggressive
 speech or behaviour. Extremely polite and soft-spoken at all times, the
 Virushi voice is naturally rather quiet and weak, due to differences in
@@ -3594,9 +3783,7 @@ to dock and given departure routes that will not interfere with others.
 Immediately aft of the bridge is a block of four cabins for the most
 essential flight personnel. The remainder of the ship's accommodation
 is arranged in similar blocks interspersed with common areas, a mess
-hall and a recreation chamber. Crew facilities are generous to allow long-
-term deployments but divided up in such a way that part of the common-
-area allocation can be repurposed for additional accommodation or
+hall and a recreation chamber. Crew facilities are generous to allow long-term deployments but divided up in such a way that part of the common-area allocation can be repurposed for additional accommodation or
 equipment without interfering with other common areas.
 
 60
@@ -3605,8 +3792,7 @@ equipment without interfering with other common areas.
 The Gansur is designed to be capable of a two-parsec jump with 400
 tons of craft on its outriggers. Jump performance is not increased when
 operating without craft, unlike maneuver capability. Internal fuel is
-sufficient for two consecutive jumps or more commonly for a there-and-
-back operation without refuelling. The additional 100 ton fuel tank is
+sufficient for two consecutive jumps or more commonly for a there-and-back operation without refuelling. The additional 100 ton fuel tank is
 intended to support craft operations but is constructed in such a way that
 part or all of it can be converted to other uses.
 ```
@@ -3615,8 +3801,7 @@ part or all of it can be converted to other uses.
 This concept pervades the whole design philosophy of the Gansur.
 Common areas can be converted to equipment or working spaces and
 there is room for upgrades and alterations throughout the vessel. One
-or more docking stations could fit with a 100-ton pod carrying mission-
-critical systems or an extra fuel tank. There is also space to upgrade the
+or more docking stations could fit with a 100-ton pod carrying mission-critical systems or an extra fuel tank. There is also space to upgrade the
 vessel's very light armament. As standard, four single beam laser turrets
 are carried as a deterrent and means of defending against minor attack.
 Vessels taken into military service usually receive an upgrade to dual or
@@ -3633,6 +3818,8 @@ even need to build an extra plant into one of the available spaces.
 
 ```
 POWER REQUIREMENTS
+
+
 Basic Ship Systems
 Maneuver Drive
 Jump Drive
@@ -3685,6 +3872,8 @@ Total: 447.75
 
 ```
 CREW RUNNING COSTS
+
+
 Captain, Astrogator, Pilot,
 Engineers x8,
 Maintenance x 2
@@ -3700,6 +3889,8 @@ Purchase Cost: MCr447.75
 
 ```
 HULL POINTS
+
+
 704
 ```
 
@@ -3764,8 +3955,7 @@ Fuel
 14
 9
 9
-10
-(^34)
+10 (^34)
 3
 3
 3
@@ -3803,6 +3993,8 @@ DECK 3
 
 ROLES AND VARIANTS
 
+
+
 The Gansur is commonly encountered supporting survey operations,
 both privately and in Scout Service hands. The manufacturers make
 much use of an image of a Gansur tender conveying four scout/couriers
@@ -3815,8 +4007,7 @@ It may be possible to refuel the scouts at the tender, though capacity is
 limited unless a supply vessel is available. Nevertheless, this technique
 allows more efficient recharting of distant areas than deploying several
 small ships. A similar method can be used to chart a cluster of worlds.
-This is rarely done on an initial survey but follow-up and cartography-
-updating missions are often carried out by a tender plus smaller vessels.
+This is rarely done on an initial survey but follow-up and cartography-updating missions are often carried out by a tender plus smaller vessels.
 
 Tenders of this sort are also used to support interstellar communications
 by minor governments and corporations. A tender stationed in a backwater
@@ -3887,8 +4078,12 @@ in for a bad time.
 
 OWNERSHIP
 
+
+
 ```
 AND SALVAGE RIGHTS
+
+
 In order to conduct legal salvage work, salvage rights must be assigned.
 The simplest situation is where the legal owners of a vessel contract a
 salvage vessel to carry out work on their behalf. This is clear-cut and
@@ -4007,6 +4202,8 @@ more bribery to get moving again.
 
 SALVAGE VALUE
 
+
+
 Bringing in a distressed vessel (such as one that has lost power or has
 had to be evacuated due to an environment control issue) will typically
 net the Travellers a fee equivalent to 0.1% of the ship's new value. This
@@ -4093,6 +4290,8 @@ over MCr16! However, this is a nominal value. What the Travellers
 actually get depends on how much work they are willing to put in.
 
 MAKING MONEY
+
+
 
 The quickest way to make money on a salvaged ship is to sell it to a
 breaker or someone who wants to strip the wreck – or perhaps eventually
@@ -4182,6 +4381,8 @@ and salvage.
 
 UNIFIED MOBILE SOLUTIONS
 
+
+
 F-500 FIELD POWER UNIT
 
 Unified Mobile Solutions is a specialist company producing heavy
@@ -4248,14 +4449,26 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 ```
 SI
+
+
 GN
+
+
 AL
+
+
 ```
 
 72
@@ -4298,6 +4511,8 @@ Rear 15
 ```
 Traits
 ATV
+
+
 ```
 
 ```
@@ -4358,12 +4573,20 @@ Open Water
 
 ```
 DOWN
+
+
 PO
+
+
 RT
+
+
 ```
 
 **SI
 GN
+
+
 AL**
 
 ## ADVENTUREADVENTURE
@@ -4385,6 +4608,8 @@ neighboring government and bring them back across the border safely.
 
 ```
 BACKGROUND
+
+
 Castica and Handor are two small countries on a mid-tech balkanised
 world. Both have about 250,000 inhabitants, Law Level 6 and TL6. Both
 border on and are economically dwarfed by Amit, a larger nation that
@@ -4415,6 +4640,8 @@ crossing the border.
 
 ```
 THE SITUATION
+
+
 As the Travellers pass through Jaco, Castica' s capital, they are
 approached by a major of Castica's military intelligence. He explains,
 in a refreshingly forthright manner, that his country needs the help of
@@ -4437,6 +4664,8 @@ about midway between the cities, so the transportation part will be
 ```
 HANDOR/CASTICA
 BORDER
+
+
 ```
 
 ```
@@ -4445,10 +4674,14 @@ Crew Quarters
 
 ```
 JACO
+
+
 ```
 
 ```
 AZACUL
+
+
 ```
 
 ```
@@ -4621,8 +4854,12 @@ inside the vehicle. Cost is Cr1000 per meter.
 
 HAZARDOUS ENVIRONMENT
 
+
+
 ```
 FIRE ENGINE
+
+
 Two of the advanced firefighting vehicles based at Jaco are designed
 to tackle industrial or complex urban fires, and equipped to deal with
 chemical hazards as well as more conventional fires. They are built on
@@ -4646,6 +4883,8 @@ hazards via the crew intercom system.
 ```
 
 HAZARDOUS ENVIRONMENT FIRE ENGINE
+
+
 
 ```
 TL 10
@@ -4705,10 +4944,11 @@ Stealth (Electronics (sensors) DM) –
 
 ```
 ADVANCED FIRE ENGINE
+
+
 Two of the advanced firefighting vehicles based at Jaco are designed
 for rescue work rather than chemical-laced fires. They have a full set
-of hoses and suppression gear but their primary equipment is a high-
-precision ladder capable of reaching 30 meters up a building or across
+of hoses and suppression gear but their primary equipment is a high-precision ladder capable of reaching 30 meters up a building or across
 an obstruction to create an escape bridge. The vehicle is as fast and
 manoeuvrable as its stable-mates and built on the same chassis –
 although without the advanced life support features.
@@ -4724,6 +4964,8 @@ environment vehicle but sufficient to assist in attacking a fire.
 ```
 
 ADVANCED FIRE ENGINE
+
+
 
 ```
 TL 9
@@ -4783,6 +5025,8 @@ Stealth (Electronics (sensors) DM) –
 
 ```
 TOWING SHIPS
+
+
 The concept of salvage work often conjures up images of grubby ships
 operating on the fringes of the law. That does happen but the salvage
 and rescue field is much broader than many Travellers imagine. There
@@ -4817,6 +5061,8 @@ the distressed vessel elsewhere.
 
 ```
 RESCUE FEES
+
+
 Rescue work can be quite lucrative, although there is no way to predict
 when a job will come along. It may be months before a ship needs help,
 so most rescue vessels either operate on a contract whereby they accept
@@ -4860,6 +5106,8 @@ shooting at one another whilst they have a distressed ship in tow.
 
 TAKING A CRAFT UNDER TOW
 
+
+
 Taking another vessel under tow is not an easy process. The first
 challenge is attaching tow lines; many, but by no means all, vessels have
 attachment points that make the job a little easier but it is still necessary
@@ -4870,8 +5118,7 @@ or crushed. Once cables are attached, towing can begin but this is not a
 simple task.
 
 Attaching Tow Lines
-Jumping across to attach tow lines, or sending a drone, is an Average
-(8+) task, using Vacc Suit or Electronics (remote ops) skill. A tumbling
+Jumping across to attach tow lines, or sending a drone, is an Average (8+) task, using Vacc Suit or Electronics (remote ops) skill. A tumbling
 ship increases the difficulty to Difficult (10+) and if the attempt is failed
 the Traveller or drone will be knocked away. For a drone under power,
 this simply requires getting it back under control but a Traveller might be
@@ -4919,8 +5166,7 @@ to use more than one tug.
 ```
 
 ```
-By way of example, if three 100-ton, Thrust 4 tugs were towing a 2,000-
-ton ship, their combined towing power would be (100x4)x3, or 1,200. This
+By way of example, if three 100-ton, Thrust 4 tugs were towing a 2,000-ton ship, their combined towing power would be (100x4)x3, or 1,200. This
 is divided by the total mass of all ships, (2,300 tons), to give 0.5217g.
 ```
 
@@ -5033,8 +5279,7 @@ Attachment Drone: Attachment drones can be used to carry a cable to
 a distressed ship and fix it to an attachment point. They cannot improvise
 an attachment but creative Travellers might cling to the drone and be
 carried to the target point. A drone can be launched through a missile
-launcher or manually from an airlock. Each drone allows one attempt
-(successful or not) to attach a set of towing cables. Drones cost Cr5000
+launcher or manually from an airlock. Each drone allows one attempt (successful or not) to attach a set of towing cables. Drones cost Cr5000
 each and 10 consume half a ton as cargo.
 ```
 
@@ -5043,6 +5288,8 @@ each and 10 consume half a ton as cargo.
 ```
 
 TOWING POD
+
+
 
 A towing pod is a remotely controlled 10-ton craft equipped with a
 powerful maneuver drive and high-capacity batteries to power it, along
@@ -5085,6 +5332,8 @@ Total: 3.53
 
 ```
 POWER REQUIREMENTS
+
+
 Basic Ship Systems
 Maneuver Drive
 ```
@@ -5096,6 +5345,8 @@ Maneuver Drive
 
 ```
 CREW RUNNING COSTS
+
+
 Remote Pilot Maintenance Cost:
 Cr295.167/month
 Purchase Cost:
@@ -5107,6 +5358,8 @@ MCr3.53
 ```
 
 HULL POINTS
+
+
 
 4
 
@@ -5209,6 +5462,8 @@ needed a weapon he could simply borrow one from a passing gentleman –
 this actually happened during at least one major shots-fired incident!
 
 ORGANISATION AND SIZE
+
+
 
 Security organizations vary considerably in size and may or may not be
 formally organised. Generally speaking, richer and larger societies tend
@@ -5437,6 +5692,8 @@ and may even have a battle dress equipped unit if the Tech Level permits.
 
 COMPETENCE
 
+
+
 A security organization might be extremely well-equipped but incapable
 of carrying out basic functions, or extremely skilled and dedicated but
 lacking the tools to get the job done. The Competence of a security
@@ -5500,6 +5757,8 @@ they get away with it due to the incompetence of local law enforcement.
 
 ```
 CORRUPTION
+
+
 The level of Corruption in a security service indicates its willingness to
 ignore rules for various reasons. This can mean the system is riddled with
 bribery or that cops actively extort money out of those they encounter.
@@ -5522,8 +5781,7 @@ Corruption
 profit from all aspects of their duties.
 3-4 Severe Corruption: Virtually impossible to get anything done
 without bribery, influence or pursuing someone's agenda.
-5-6 Some Corruption: DM+2 on checks that match the corruption type
-(such as an attempt to bribe an official or prosecute someone the
+5-6 Some Corruption: DM+2 on checks that match the corruption type (such as an attempt to bribe an official or prosecute someone the
 state considers undesirable).
 7 Normal Corruption: Few organizations are completely clean.
 8-9 Low Corruption: DM-2 on checks to bribe officials or attempts to
@@ -5546,6 +5804,8 @@ origami on them for someone with the right social connections.
 ```
 
 INCIDENT RESPONSE
+
+
 
 The Incident Response rating indicates how robustly – another word
 might be 'aggressively' – the service responds to an incident. A high
@@ -5667,6 +5927,8 @@ interact in a manner somewhat different from the usual animal encounter.
 
 PEAK TANGLER
 
+
+
 Peak tanglers originated on some distant thin-atmosphere world and
 spread over the centuries to many systems. They are extremely light,
 tenuous webs of fibre, each with many super-fine hairs extending in the
@@ -5743,6 +6005,8 @@ BEHAVIOUR Omnivore, Filter
 
 ARX
 
+
+
 Exactly what ARX stands for – or if it is a word or a corruption of one – is
 a matter for some debate. The name comes from an inscription carved
 on the bulkhead of a derelict First Imperium scout vessel, lost for many
@@ -5781,8 +6045,7 @@ gravitic disturbances similar to a large ship emerging from jump space,
 where no ship was detected. The cause of these gravitic 'ripples' remains
 unclear and it is possible that the legendary ARX caused them.
 
-ARX cannot be assessed like other creatures. They are made of silica-
-based material and are far beyond the boundaries of normal human
+ARX cannot be assessed like other creatures. They are made of silica-based material and are far beyond the boundaries of normal human
 experience. If they exist at all – which scientists continue to dispute –
 they do not seem dangerous under most circumstances. However, a ship
 might find itself being nudged by an inquisitive ARX attracted to its drive
@@ -5802,6 +6065,8 @@ promising claim turns out to have a silica-based nervous system.
 ```
 
 SARGASSO HIVE
+
+
 
 The sargasso hive – or hives; it is not clear if there are others on distant
 worlds – is a gigantic floating cluster of what appears to be seaweed.
@@ -5896,8 +6161,7 @@ D3 PSI, +1 point per extra target. It is not clear how many people or
 other targets can be shocked at once but it is known that at least four
 people can be attacked simultaneously. The attack has a base range of
 Short and can be made once every 1D rounds. This is typically used to
-incapacitate birds and other creatures as food but can be used in self-
-defence.
+incapacitate birds and other creatures as food but can be used in self-defence.
 ```
 
 ```
@@ -6049,8 +6313,7 @@ Translation Analysis Unit
 
 A variety of language translators are used by Travellers throughout
 Charted Space. Many are software systems downloaded to a Traveller's
-personal comm, using its sound pickups and outputs to provide two-
-way translation. Scouts will usually have a few useful languages on
+personal comm, using its sound pickups and outputs to provide two-way translation. Scouts will usually have a few useful languages on
 their comms but those engaged in contact or liaison work need a more
 generally-capable device. The IISS Translation Analysis Unit, or TAU,
 contains a database of hundreds of languages and other communication
@@ -6237,8 +6500,7 @@ dressed individual who, when met, will probably be unemployed. He
 can present excellent credentials showing years of experience handling
 a variety of ship types but, considering the demand for good pilots,
 his appearance and lack of current work will seem suspicious. A little
-research into his background at any starport computer information center
-(consulting lists of accredited pilots, for example) will turn up the fact that
+research into his background at any starport computer information center (consulting lists of accredited pilots, for example) will turn up the fact that
 Ramon has been blacklisted by a large corporation, Acreidiat Lines. The
 notation 'un trustworthy' appears beside his name.
 
@@ -6282,8 +6544,7 @@ revenge – a hijacking, sabotage attempt or similar. He might approach the
 **Ramon Sanyarvo**
 
 ```
-Profes-
-sion
+Profes-sion
 ```
 
 ```
@@ -6308,8 +6569,7 @@ END: 4 SOC: 3
 ```
 
 ```
-Travellers openly, offering to hire them to assist him in such an attempt
-(bankrolled by the line's competitors) or he may try to use them as dupes,
+Travellers openly, offering to hire them to assist him in such an attempt (bankrolled by the line's competitors) or he may try to use them as dupes,
 asking them to deliver a package on board, a package that holds a bomb.
 On the other hand, it may be company officials that approach the Travellers,
 hiring them to keep an eye on Ramon while he travels.
@@ -6360,6 +6620,8 @@ come by. The difficulty of sourcing such an item, and the price that has to
 be paid to get it, depends on a number of factors.
 
 LAW LEVEL
+
+
 
 Generally, although not universally, the higher a world's Law Level the
 more items that be illegal. Penalties are also, in general, more severe
@@ -6452,6 +6714,8 @@ underground workshop and manufacturing prohibited items.
 
 FINDING A SUPPLIER
 
+
+
 It is exceedingly rare for a black-market shopping emporium to exist.
 More commonly, there will be multiple small-scale markets such as a
 shop owner who sells illegal drugs or guns 'under the counter' or an
@@ -6469,8 +6733,7 @@ shady backstreet meeting with nervous and well-armed criminals. These
 delivery agents are usually low-level criminals with no real knowledge of
 the larger operation and no clear links back to the dealer.
 
-The first stage in buying or selling on the black market is to find a supplier
-(or buyer). This can be very easy in some areas where there is little
+The first stage in buying or selling on the black market is to find a supplier (or buyer). This can be very easy in some areas where there is little
 effective law enforcement, and difficult in others. The Travellers will need
 to make discreet enquiries and a successful Average (8+) Streetwise
 check. The 'discreet' part is important here; black marketeers are unlikely
@@ -6598,6 +6861,8 @@ find more black marketeers in the same area.
 
 BUYING AND SELLING
 
+
+
 Goods traded on the black market fall into categories that have more to
 do with the amount of trouble the possessor would get into for having
 them than their actual value. The degree of difficulty inherent in obtaining
@@ -6646,6 +6911,8 @@ or death. Examples include weapons of mass destruction.
 
 ```
 BASE PRICE
+
+
 The black market is heavily biased in favor of those with the right
 connections. This will rarely be the Travellers, so they will have to
 pay the asking price (which will be inflated) or accept a low price for
@@ -6655,8 +6922,7 @@ welcome to try that.
 
 ```
 The base price an item can be bought or sold for is determined by its
-legality and rarity. Note that an item can be Uncommon/Rare/Ultra-
-Rare and Restricted/Illegal/Highly Illegal/Extremely Illegal. Both sets of
+legality and rarity. Note that an item can be Uncommon/Rare/Ultra-Rare and Restricted/Illegal/Highly Illegal/Extremely Illegal. Both sets of
 modifiers then apply.
 ```
 
@@ -6877,6 +7143,8 @@ highly usable sensor rules.
 
 LET THE BATTLE BEGIN
 
+
+
 Once both combatants have located each other with sensors and the
 battle has begun, determine who has the Initiative. Determining Initiative
 is a two-step process, the first of which is performed by having each side
@@ -6895,6 +7163,8 @@ following steps:
 ```
 
 MANOEUVRING
+
+
 
 The Maneuver Step is all about a ship's Thrust score. If a ship has
 little Thrust, this step is simple to assess. However, if there is a fast ship
@@ -6947,6 +7217,8 @@ Signal GK.
 
 ```
 THE GREAT ESCAPE
+
+
 Making a break for jump point does not necessarily mean a ship has to
 accelerate to the halfway point, turn around and decelerate to zero by the
 time the 100-diameter limit is reached. A ship may opt to accelerate from
@@ -6978,6 +7250,8 @@ enough to attack.
 ```
 
 ATTACK
+
+
 
 The ship's gunners have analysed the sensor data, determined where
 the opposing ship is – or will be – and it is time to fire! Weapons are
@@ -7063,6 +7337,8 @@ which location is hit.
 
 ACTIONS
 
+
+
 The spacecraft have moved into position and battle has been joined. Up
 to this point, all of the actions in the Space Combat sequence have been
 performed by the pilot and gunners. The Actions step brings the rest of
@@ -7119,6 +7395,8 @@ armor from the total and multiply the total by the Effect of the attack roll.
 
 ```
 CLOSE RANGE
+
+
 When the range is closed to Close or Adjacent, dogfighting rules are
 applied. Sensor information at this range is extremely detailed and
 combatants enter an intense and probably brief bout of combat that

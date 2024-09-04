@@ -26,9 +26,9 @@ Sue 777CC7 Engineering-2, Carousing-2, Computer-1 (She also has a Type-S, the C
 
 Bill will reduce the time on his own by 8 months; as he has Computer skill, each of his 4 levels of Electrical reduces the time by two months.
 
-Bob will reduce the time by 4 months; although he has EDU D (13), he does not have Computer skill, so each of his levels of Mechanical reduces the time by one month.
+Bob will reduce the time by 4 months; although he has EDUD (13), he does not have Computer skill, so each of his levels of Mechanical reduces the time by one month.
 
-Sue will reduce the time by a full 12 months; with both INT and EDU C (12), plus Computer skill, each of her levels of Carousing (2) and Engineering (2) reduces the time by three months.
+Sue will reduce the time by a full 12 months; with both INT and EDUC (12), plus Computer skill, each of her levels of Carousing (2) and Engineering (2) reduces the time by three months.
 
 In addition, the three have Mechanical, Electrical, and Engineering, so if they are willing to work on maintaining the Worm, they will reduce the total by another month. Sue's ship, if there is someone to operate it, will reduce the total by another 3 months. So these three will reduce the time by (8 + 4 + 12 + 1 + 3) 28 months. If the Referee rolls 12D6 for a total of 48 (48 months), the team will need 20 person-months to complete it. As 4 persons are on the team, they will have a completed project in 5 months.
 

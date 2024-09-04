@@ -49,6 +49,8 @@ of the Travellers' Aid Society
 
 JOURNAL
 
+
+
 ```
 The
 ```
@@ -63,33 +65,53 @@ of the Travellers' Aid Society - Volume 11
 
 ```
 ADVENTURES
+
+
 Button, Button 35
 Zéno Paradise 97
 ALIENS
+
+
 Aezorgh 61
 BESTIARY
+
+
 Perela 43
 Enythba 104
 CENTRAL SUPPLY
+
+
 Stateroom Excess 31
 Musical Instruments 93
 CHARTED SPACE
+
+
 Shushaka 24
 Vrayne 68
 ENCOUNTERS
+
+
 Connte Monson 39
 Chieftan Neandor 90
 HIGH GUARD
+
+
 Ajilchin Prospector Ship 14
 The Sword of Oberon 80
 Starships of the Spinward Extents 110
 PATRONS
+
+
 Trista Galibaan 18
 Del Madrin 44
 TRAVELLING
+
+
 Colonising the Tijian Expanse 2
 Spacecraft as Benefits 89
 VEHICLE HANDBOOK
+
+
 Mighty Maus Mobile Crane 22
 Ragno 87
 Heavy Plant Vehicles 105
@@ -203,8 +225,7 @@ procedures beginning on page 248 of the Traveller Core Rulebook.
 Select a Size, Atmosphere and Hydrographics (making sure to select
 valid values: Size 0 asteroid worlds can only have Atmosphere 0 and
 Hydrographics 0, while Size 9 would roll 2D-7+9 for Atmosphere, which
-has a minimum result of 4). Leave the remaining components as 0
-(or X for Starport) for now; as in the first method, the model begins as
+has a minimum result of 4). Leave the remaining components as 0 (or X for Starport) for now; as in the first method, the model begins as
 colonists are first introduced to the world. Decide where in the Tijian
 Expanse this world exists.
 
@@ -243,8 +264,7 @@ the initial colonists a bit more than two years.
 
 If the world's Atmosphere is Thin (5) or Dense (8), the colony will be
 located in highlands or lowlands respectively, to provide a local equivalent
-of Standard (6). If the world's Atmosphere is other than Thin (5), Standard
-(6) or Dense (8), an atmosphere dome will be provided so the colony itself
+of Standard (6). If the world's Atmosphere is other than Thin (5), Standard (6) or Dense (8), an atmosphere dome will be provided so the colony itself
 is in Standard (6) Atmosphere. If the world's Atmosphere is at least 4 but
 no more than 9 and Hydrographics is at least 1, it may have grasses, trees
 and fauna up to insects, otherwise the world has no biosphere.
@@ -254,6 +274,8 @@ thousands of years ago. Their graveyard worlds form the spinward
 edge of the Tijian Expanse.
 
 STARTING EQUIPMENT
+
+
 A vital set of choices that often determines whether a colony survives
 its first year or dies out and gets replaced, is the selection of equipment
 a colony starts with. Two Steppehaulers with four 500-ton modules
@@ -273,7 +295,7 @@ one quarter to half of the colonists will be children, elderly or otherwise
 unable to meaningfully contribute to a colony's initial workforce, who
 are revived last for this reason.
 
-Refer to The Journal of the Travellers' Aid Society Volume 6 (page 9)
+Refer to The Journal of the Travellers' Aid Society Volume6 (page 9)
 for the downport module's statistics. This module forms the colony's
 initial headquarters. Most functions are intended to eventually be
 replaced with more advanced, locally constructed buildings. The
@@ -301,6 +323,8 @@ parts from those raw materials.
 
 STEPPEHAULER DOWNPORT MODULE
 
+
+
 ```
 1
 ```
@@ -333,14 +357,15 @@ STEPPEHAULER DOWNPORT MODULE
 10 11
 12 12
 STEPPEHAULER DOWNPORT MODULE
+
+
 1
 2
 3
 3 3 3 3
 4
 5
-6
-(^87)
+6 (^87)
 8
 8
 9 9
@@ -365,10 +390,8 @@ STEPPEHAULER DOWNPORT MODULE
 5. Workshop
 6. Medical Bay
 7. Offices
-8. Residential
-(high)
-9. Residential
-(low)
+8. Residential (high)
+9. Residential (low)
 10. Power Plant
 11. Fuel Refinery
 12. Fuel Tank
@@ -422,6 +445,8 @@ cargo manifest; the ship will be buried among other goods and must be
 dug out before use.
 
 THE FIRST RETURN
+
+
 One to six months after a colony is established, it is expected to provide
 its first shipment of ore. The length is negotiated depending on how
 easy it is expected to be to establish the colony. Some overzealous
@@ -448,6 +473,8 @@ colony can place orders for upgrades, purchased with further ore and
 raw materials.
 
 GOALS AND UPGRADES
+
+
 Officially, the colonies of the Tijian Expanse are mining colonies, with an
 informal friendly competition to reach 1,000,000 people. In truth, their
 job is to survive and grow, to establish populations that cannot easily be
@@ -485,8 +512,7 @@ Colony Store
 Module Price* Description
 Cargo 50 An empty 500-ton module intended to
 carry cargo.
-Habitation 300 As described under Starting Equipment
-(page 4).
+Habitation 300 As described under Starting Equipment (page 4).
 988 Colonists 10 Imported via low berth module, which is
 returned to the Khaganate.
 Smelter 250 400 tons of smelter and 100 tons of
@@ -547,6 +573,8 @@ to be the colony's headquarters. Installing a second downport would be
 tantamount to splitting the colony, which Tiji disapproves of.
 
 RESOURCES AND MAINTENANCE
+
+
 The main resources that a new colony focuses on gathering are food,
 minerals and power, in order to grow the colony and maintain a foothold
 on their part of the Tijian Expanse.
@@ -578,6 +606,8 @@ on daily to survive this unfamiliar environment, the usual maintenance
 costs are calculated at the same rate as maintaining a starship.
 
 POPULATION GROWTH
+
+
 As mentioned above, a primary goal of any Expanse colony is to grow.
 A Steppehauler brings in colonists 988 at a time, in a low berth module.
 A colony may request more colonists at any time, typically accompanied
@@ -637,8 +667,7 @@ Forced growth clones age faster than those born and raised in a more
 traditional manner. They suffer DM-2 on aging checks but can resolve
 this through the use of anagathics. Clones born of artificial wombs do
 not have this penalty. The Cloning Tanks table shows the tank tonnage
-needed per child raised, as well as power, crew and cost per ton. Non-
-humans can be made at a rate equal to their average adult mass, in kg,
+needed per child raised, as well as power, crew and cost per ton. Non-humans can be made at a rate equal to their average adult mass, in kg,
 divided by 70 (an average adult human).
 
 **Cloning Tanks**
@@ -696,6 +725,8 @@ MCr
 ```
 
 POLITICS AND CRIME
+
+
 A good colony leader must have the support of the colonists, whilst
 maintaining and executing an almost dictatorial authority. Whilst the
 colony leader does have full authority over the operations of the colony,
@@ -712,6 +743,8 @@ reused to benefit the colony. Visiting non-colonists who break the laws
 of the colony may be removed from the colony or 'recycled'.
 
 TRADE AND MILITARY
+
+
 Trade is a complex operation, illegal for any colony to perform with
 parties outside of Tijian space. Thankfully, trading is not heavily policed.
 Location is key; only colonies near the Pirian border are able to trade
@@ -752,6 +785,8 @@ objective is loot and raids will continue until the plunder runs out or
 sufficient defences are installed.
 
 CAMPAIGN OPTIONS
+
+
 There are two main ways to use this content in a Traveller campaign.
 
 The first is to use these to simulate a growing colony, providing the
@@ -820,8 +855,7 @@ Instead, the cargo bay is often used for exercise, sometimes even
 
 partially refitted as extra commons, with the mining drones being the
 only way that cargo gets in or out. Collapsible fuel tanks are sometimes
-fitted, to allow an Ajilchin to perform two jumps in a row and take a four-
-parsec straight path before refuelling.
+fitted, to allow an Ajilchin to perform two jumps in a row and take a four-parsec straight path before refuelling.
 
 Crew accommodations are provided by a pair of staterooms, with open
 space between them often pressed into service as a ship's locker, with
@@ -889,8 +923,7 @@ Weapons Double Turret (empty) 1 0.
 Systems Fuel Scoops — —
 
 ```
-Fuel Processing Plant
-(20 tons/day)
+Fuel Processing Plant (20 tons/day)
 ```
 
 ```
@@ -927,8 +960,12 @@ Pilot, Astrogator
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr3132/month
 PURCHASE COST
+
+
 MCr37.
 ```
 
@@ -1031,8 +1068,7 @@ but stubbornly resist until all but one are incapacitated. The ship is
 armed with one double turret equipped with a beam laser but only the
 sandcaster will function on auxiliary power and the turret will not rotate.
 
-The crew are armed with rifles and shotguns and have TL10 vacc suits
-(Protection +8) as armor, although they will generally just be wearing
+The crew are armed with rifles and shotguns and have TL10 vacc suits (Protection +8) as armor, although they will generally just be wearing
 jumpsuits unless confronted in hostile environment conditions. They
 should be considered Average Combatants.
 
@@ -1051,8 +1087,7 @@ armor (Protection +4). They will fight on the ground or in space.
 
 4: As 3 but the crew of Reginald's Purse knowns Trista and the
 Travellers are coming and have set an ambush. They wear both their
-vacc suits and cloth (Protection +12) and the captain has the Tactics
-(military) 1 skill and INT 9.
+vacc suits and cloth (Protection +12) and the captain has the Tactics (military) 1 skill and INT 9.
 
 5: As 1 but Trista has no intention of splitting the reward. Although she
 cannot fly the ship, she will try to kill the Travellers while in jumpspace
@@ -1114,10 +1149,11 @@ Marrakesh itself, she set out alone to make her big score.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 6 INT 9 Athletics (dexterity) 1, Deception 2,
 Drive 1, Electronics (computers) 1, Gun
-Combat 0, Investigate 1, Jack-of-all-
-Trades 1, Language 0, Melee (unarmed)
+Combat 0, Investigate 1, Jack-of-all-Trades 1, Language 0, Melee (unarmed)
 1, Recon 2, Stealth 2, Streetwise 2,
 Survival 0, Vacc Suit 0
 ```
@@ -1137,6 +1173,8 @@ Equipment: Pocket Computer/4 with Intrusion/3
 
 ```
 SPECIES GENDER
+
+
 Human Female
 ```
 
@@ -1177,9 +1215,7 @@ SIDES 10
 
 ```
 Traits Off-Roader
-Equipment Bunks, Communications System (improved), Crane
-(super heavy), Fire Extinguishers, Fission Plant
-(advanced), Fresher, Life Support (short term), Smart
+Equipment Bunks, Communications System (improved), Crane (super heavy), Fire Extinguishers, Fission Plant (advanced), Fresher, Life Support (short term), Smart
 Wheels, Vacuum Protection
 ```
 
@@ -1201,8 +1237,7 @@ Stealth (Electronics (sensors) DM) —
 By Tim Heiderich
 
 Adjacent to the capital system of Kaasu (AA7A9CD-F) in the Khukish
-subsector of Corridor lies the industrious system of Shushaka
-(A772988-E). Once a stellar nursery, the Shushaka system is now a
+subsector of Corridor lies the industrious system of Shushaka (A772988-E). Once a stellar nursery, the Shushaka system is now a
 fertile field of industrial plants. Its five gas giants are each orbited by
 innumerable moons, with rich mining opportunities for the enterprising
 belter or trader.
@@ -1233,13 +1268,14 @@ the Sebokea Corporation and a trade hub of industrial and consumer
 products, offering budget goods and services, supported by a
 population of relentless, stimulant-addicted factory workers.
 
-The Sebokea Corporation is a vertically integrated producer of budget-
-model consumer goods, meaning they do not just produce consumer
+The Sebokea Corporation is a vertically integrated producer of budget-model consumer goods, meaning they do not just produce consumer
 products, they produce and export a nearly limitless variety of factory
 equipment as well. Every step in the manufacturing process is
 controlled by the company, with complete self-sufficiency its goal.
 
 HISTORY
+
+
 Despite not being as habitable as its neighbor Kaasu, settlers came
 to the Shushaka system for its rich mineral deposits and eschewed
 creature comforts in favor of the vast wealth that could be made from
@@ -1274,6 +1310,8 @@ with development returned back into the coffers of the Shushakan
 system, to further enrich its tireless workforce.
 
 SOCIETY
+
+
 Somehow, in their fervour to increase their economic output,
 Shushakans began to work themselves to death. At the bottom of the
 workforce are grim, burned-out husks of people, who stay productive
@@ -1286,8 +1324,7 @@ and poor quality of work is overlooked in favor of the company's
 staggering year-over-year growth and there are always eager workers
 to take a fallen one's place.
 
-Executive workers are unethical in their ambition, making under-the-
-table bargains, cutting corners and contracting mercenaries to engage
+Executive workers are unethical in their ambition, making under-the-table bargains, cutting corners and contracting mercenaries to engage
 in industrial espionage, all done to beat the competition – which they
 see everywhere. This ruthless attitude has proven successful, as
 the system continues its inexorable economic ascent. To outsiders,
@@ -1311,6 +1348,8 @@ familiarity and overall efficiency. If the streets of Emptor look familiar, it
 is because every city block looks like every other one.
 
 THE FIVE VIRTUES
+
+
 Named after the original explorers of the system, the management of
 Sebokea has co-opted the symbolism of the system's five gas giants
 as the foundations for their corporate values. Originally, the gas giants
@@ -1328,6 +1367,8 @@ Shushakan culture can usually determine which of these strategies a
 Shushakan follows.
 
 WEATHER
+
+
 Relentless strip mining and industrial production has created clouds of
 toxic chemicals that drift over the planet, exposing the surface to literal
 acid rain and a thick, ashy atmosphere that persists for 2D hours. Roll
@@ -1354,6 +1395,8 @@ Market goods are diverse in keeping with the Law Level and all buying
 of trade goods is at DM+3 – with a catch.
 
 SOME ASSEMBLY REQUIRED
+
+
 Sebokea specialises in budget-model industrial goods that transport
 easily but are difficult and time-consuming to assemble. Their universal
 language construction guides befuddle all but the most patient of
@@ -1386,6 +1429,8 @@ to the affected system, whereas upon a successful Mechanic check the
 vehicle suffers no ill effects and functions as expected.
 
 BUDGET SHIPYARDS AND REPAIRS
+
+
 The moon's primary downport is constantly abuzz with repairs,
 transportation and construction performed with the sort of rushed
 abandon that would paralyse a safety inspector. Ships are constructed
@@ -1399,6 +1444,8 @@ Hits table and will suffer one additional failure if a critical hit is scored
 again on the same area without first making adequate repairs.
 
 STIMS
+
+
 The system permits an active, legal stims market. Despite exports
 being completely legal, rival dealers still violently clash for control of this
 lucrative market. External cartels will limit the ability of traders to export
@@ -1406,6 +1453,8 @@ Sebokea's stims, which are produced in industrial quantities for lower
 prices and can fetch a higher price in nearby systems.
 
 INDUSTRIAL ESPIONAGE
+
+
 Inter-departmental conflict is high and executives are eager to steal, take
 credit for or sabotage the work of competing projects and will pay well for
 information on technological developments from neighboring systems.
@@ -1458,8 +1507,7 @@ Autovalet Walk-in Wardrobe 9 4 Cr150000
 ```
 
 Bio Carpet: An artificial form of life, the bio carpet is specifically
-designed to be the perfect underfoot experience. Not only is it self-
-heating, the thick, springy pile also undulates subtly underfoot providing
+designed to be the perfect underfoot experience. Not only is it self-heating, the thick, springy pile also undulates subtly underfoot providing
 a gentle massage. The carpet is largely self-supporting, gaining most of
 its energy via photosynthesis, but also digests any organic material that
 
@@ -1580,10 +1628,14 @@ Ultrabath 8 500 Cr80000
 **By Michael Demchak**
 
 LOCATION
+
+
 This adventure may occur at almost any Class B starport in Imperial
 space with low port and high port components.
 
 THE SITUATION
+
+
 The Travellers are contacted by Angelik Mosse, a retired former IISS
 senior scout who now works for TCA (The Courier Alliance). Angelik
 offers Cr500 each for a couple of hours work that afternoon at the
@@ -1623,6 +1675,8 @@ preparations. The concourse shops may be useful for last-minute
 purchases to support their efforts.
 
 ARRIVAL TERMINAL
+
+
 The groundside shuttleport is a busy place, with flights coming and
 going to the highport, orbital habitats and other destinations. Baggage
 claim is a limited-access area – only ticketed passengers, crew and
@@ -1638,8 +1692,7 @@ with passengers when shuttles have recently arrived but may be almost
 empty in between landings. A security guard is always present to deter
 theft and prevent incidents.
 
-The baggage claim area opens out into an open, bright and airy multi-
-level concourse filled with shops, restaurants, spectacular (and endlessly
+The baggage claim area opens out into an open, bright and airy multi-level concourse filled with shops, restaurants, spectacular (and endlessly
 changing) holographic ads and small kiosks offering snacks, drinks and
 other conveniences. Large atriums extend down several floors with
 translucent catwalks and bridges for travel overhead while lift shafts and
@@ -1654,6 +1707,8 @@ a starport security guard circulating through the concourse and security
 cameras and sensors cover both areas thoroughly.
 
 THE LIFT
+
+
 Angelik's information is incomplete – there are actually three separate
 crews hired by various parties (or perhaps only one party at the
 Referee's discretion) to 'lift' the cases from Long Tooth once he leaves
@@ -1703,6 +1758,8 @@ the Travellers) will realise the truth – the cases were merely decoys all
 along. The real package is being delivered via a different route!
 
 AFTERMATH
+
+
 So long as the Travellers did not break any laws Angelik will pay them
 off, deciding they served her purpose as decoys. She has no interest
 in trying to find out who was trying to steal the package and will not
@@ -1713,8 +1770,7 @@ the art museum of a travelling exhibit of almost priceless First Imperium
 jewellery. If sold off a Traveller might get as much as Cr250 per pass.
 
 The Referee may decide if further complications follow from this. If the
-group performed well Angelik will keep them in mind for future jobs
-(making her a possible Contact) or might even offer formal membership
+group performed well Angelik will keep them in mind for future jobs (making her a possible Contact) or might even offer formal membership
 in TCA. It is possible the people behind one or more of the crews
 involved in the attempted theft might hold a grudge.
 
@@ -1775,6 +1831,8 @@ prosperous hunting grounds.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 9 INT 8 Animals 0, Athletics 0, Drive 0, Gun
 Combat (archaic) 1, Gun Combat (slug)
 1, Melee (blade) 1, Recon 0, Stealth 1,
@@ -1798,6 +1856,8 @@ Life-Support Mask, Mobile Comm (TL8), Cr1500
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
@@ -1877,8 +1937,7 @@ into a basic suit. The archetypical suit
 offers basic armor as well as radiation
 protection and is environmentally
 sealed and insulated against extreme
-cold and heat. Additionally, a life-
-support mask with additional respirator
+cold and heat. Additionally, a life-support mask with additional respirator
 is integrated, allowing usage in very
 thin and tainted atmospheric conditions.
 A simple switch enables the use of the
@@ -1913,8 +1972,7 @@ The idea of the king – or at least his diplomats – behind this was to
 remain impartial but defuse a situation which could easily spill over and
 cause a war between two large Vespexer factions, potentially souring
 relations between Vespexers and the Floating Palace. This would not
-only make the king's hunting parties a much more difficult undertaking
-(a major concern!) but might also cut off the Scholar's Tower from future
+only make the king's hunting parties a much more difficult undertaking (a major concern!) but might also cut off the Scholar's Tower from future
 missions of relic hunting; since ancient Sindalian artefacts are still a
 major source of revenue for the royal household, paying for trade goods
 from across the sector, peace could not be disturbed.
@@ -2095,6 +2153,8 @@ alert and aid the crew if it is able, at least until Del realises this and
 switches over to the backup computer.
 
 NOTES
+
+
 If captured, the crew will be taken to a hidden Eli base on the moon of
 a rogue gas giant located at hex 1407 of the Vanguard Reaches. This
 location would be the most important piece of intelligence discovered
@@ -2136,6 +2196,8 @@ everything was nice and routine.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 6 INT 6 Admin 2, Astrogation 0, Diplomat 1,
 Electronics (comms) 2, Gun Combat 0,
 Mechanic 0, Medic 0, Pilot (spacecraft) 1,
@@ -2154,6 +2216,8 @@ Armor: TL12 Vacc Suit
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
@@ -2166,8 +2230,7 @@ systems supported by the might of the Imperial Navy. Beyond the
 Imperium, this infrastructure becomes less reliable and on those few
 routes that extend into or around foreign territories, the x-courier is
 often the Express Boat Service's vehicle of choice. Based on a 200-ton
-streamlined hull, the jump-4 Marathon Mk III x-courier is a state-of-the-
-art communications starship capable of operation without supporting
+streamlined hull, the jump-4 Marathon Mk III x-courier is a state-of-the-art communications starship capable of operation without supporting
 infrastructure. Armed, armored and capable of 4G acceleration, the
 Marathon carries a crew of four in a streamlined vehicle which – except
 for a broad blocky central section – somewhat mimics the appearance
@@ -2193,6 +2256,8 @@ can be problematic. Widespread adoption of the Marathon has been
 limited by the need to return to Imperial space for annual maintenance.
 
 ELI MARAUDER CORSAIR
+
+
 The Eli have historically utilised captured ships and 'standard' corsair
 models but since 1100 some Eli have begun appearing in custom
 Marauder ships. The ship is a black flying wing, angular for stealth
@@ -2217,6 +2282,8 @@ crippled ship. Despite their antiquated technology, the ships are new
 constructions and well maintained.
 
 ELI BOARDING PINNACE
+
+
 The Eli Boarding Pinnace seems designed to fit within the recently
 spotted Eli Marauder. The pinnace's wedge-shaped body and triangular
 cross section fit into a custom rear docking bay on the corsair. The
@@ -2239,14 +2306,14 @@ Radiation Shielding — 5
 
 Armor Bonded Superdense Armor 4 6.4 3.84
 
-M-Drive Thrust 4 (energy efficient,
+M-Drive Thrust4 (energy efficient,
 reduced size)
 
 ```
 7.2 18
 ```
 
-J-Drive Jump 4 (reduced size x2) 20 37.5
+J-Drive Jump4 (reduced size x2) 20 37.5
 
 Power Plant Fusion (TL15), Power: 120 6 12
 
@@ -2324,9 +2391,13 @@ Engineer
 
 MAINTENANCE COST
 
+
+
 ```
 Cr12270/month
 PURCHASE COST
+
+
 MCr147.24
 ```
 
@@ -2460,8 +2531,12 @@ Ship's Troops x8
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr16725/month
 PURCHASE COST
+
+
 MCr200.701
 ```
 
@@ -2585,8 +2660,7 @@ Systems Fuel Scoops — —
 Aerofins 2 0.2
 Armory 2 0.5
 Breaching Tube 3 3
-Forced Linkage Apparatus
-(TL9)
+Forced Linkage Apparatus (TL9)
 ```
 
 ```
@@ -2626,9 +2700,13 @@ Pilot, Gunner
 
 MAINTENANCE COST
 
+
+
 ```
 Cr1858/month
 PURCHASE COST
+
+
 MCr22.291
 ```
 
@@ -2692,6 +2770,8 @@ cities and startowns in the sectors near the border between the Third
 Imperium and the Vargr Extents.
 
 PHYSICAL CHARACTERISTICS
+
+
 Iridescent down feathers cover the body of the bilateral hexapod
 Aezorgh. Adapted for life in Soghzalghag's long-lost temperate
 rainforests, the Aezorgh are extremely dexterous, with four arms ending
@@ -2729,6 +2809,8 @@ for the best use of their sensory organs and for movement in three
 dimensions along walls, ceilings, branches, and other surfaces.
 
 EVOLUTIONARY DEVELOPMENT
+
+
 Before the Vargr arrived, the five small continents of Soghzalghag
 were mostly covered by dense flora, from boreal woodlands to tropical
 rainforests. In that environment, the Aezorgh evolved as arboreal
@@ -2749,6 +2831,8 @@ monumental, with settlers soon arriving and beginning to transform the
 pristine wilderness world in irrevocable ways.
 
 LIFE CYCLE
+
+
 The Aezorgh have two genders, female and male. While family bands
 follow a matriarchal line, Aezorgh society is not differentiated by gender
 roles and the genders are externally visually indistinguishable. Aezorgh
@@ -2786,6 +2870,8 @@ For most of the period since first contact with the Vargr, the Aezorgh have
 not known normal circumstances and their traditional way of life is long gone.
 
 HISTORY
+
+
 Vargr colonists reached the world they named Soghzalghag in -2400
 and claimed the planet as their own. The new settlers spent the first few
 decades nearly completely ignoring the indigenous Aezorgh, making just
@@ -2831,6 +2917,8 @@ took decades, with existing owners unwilling to surrender their property
 without compensation and continued discrimination against the 'vermin'.
 
 SOCIETY
+
+
 After 3,500 years of oppression and furtive existence, little remains
 of the Aezorgh's original culture and language. While some Aezorgh
 have been free for thousands of years, others still remember growing
@@ -2877,6 +2965,8 @@ will not betray a fellow Aezorgh, they may decide not to share their
 knowledge or fortune.
 
 EXTERNAL RELATIONS
+
+
 The name Aezorgh derives from an early Ovaghoun dialect, meaning
 'vermin'. The Aezorgh keep this name as an ironic badge of honor to
 spite the Vargr. Relations with Vargr vary greatly. On some worlds, the
@@ -2906,6 +2996,8 @@ known to travel as far as the Hive Federation. They are most certainly not
 welcome in the Two Thousand Worlds.
 
 CREATING AEZORGH TRAVELLERS
+
+
 Aezorgh youths often leave their band to seek adventure or new
 experiences, making them suitable, if uncommon, Travellers.
 
@@ -2965,8 +3057,7 @@ Vrayne is a secondary world designed to be placed in a system of
 the Referee's discretion. It is a planet upon which rival families vie for
 power, their centuries-long disagreements coming to light in the wake
 of modern technology brought by visiting brokers. The startling contrast
-of the different Tech Level equipment within the downport of Vrayne
-(D878530-4) is immense, with holographic displays being guarded by
+of the different Tech Level equipment within the downport of Vrayne (D878530-4) is immense, with holographic displays being guarded by
 soldiers in full plate armor.
 
 The history of the planet is tumultuous, with shifts occurring every
@@ -2982,12 +3073,16 @@ any of these rules, the system main world advises any Travellers
 against visiting Vrayne.
 
 PLANETARY DATA
+
+
 Axial Tilt: 10 o
 Rotation: 32.8 standard hours
 Year: 788.4 standard days
 Diameter: 11,745km
 
 THE FLAG OF VRAYNE
+
+
 The flag is a horizontal duotone gradient with the upper section being
 ivory and the lower teal. In the center lays an emblem of a human hand
 holding a golden goblet, raising it to the sky. The goblet is a depiction
@@ -3012,6 +3107,8 @@ MiningFarming
 
 ```
 HEXSCALE
+
+
 1,230Km
 ```
 
@@ -3026,6 +3123,8 @@ Direction of world rotation
 ##### D878530-4
 
 ENVIRONMENT
+
+
 The atmosphere of Vrayne contains tainted spores and breathing these
 in will, if left untreated, cause the cessation of all cardiovascular activity.
 The native population has become accustomed to such an environment
@@ -3064,6 +3163,8 @@ equatorial region rarely dropping below 15oC. However, the vaguely
 toxic nature of most life makes this more difficult in reality.
 
 INFRASTRUCTURE
+
+
 The infrastructure of Vrayne is minimal, with only the major families
 having truly developed cities. Each of these three cities is situated in
 a different region of the planet, intended to work in a unified manner
@@ -3112,6 +3213,8 @@ a threat in revolution. During the 'forgotten era' of the planet, rebellions
 were near-constant, occurring every four months on average.
 
 THE FORGOTTEN ERA
+
+
 This era is now out of the public eye, only persisting in late-night radio
 shows broadcasted to a handful of listeners and whispered to children
 by elders. Any divergence from the current regime is dangerous and the
@@ -3143,6 +3246,8 @@ them without a formal platform for grievances to be heard.
 
 ```
 NOTABLE REBELS
+
+
 •  Hiarent Laynora – This rebellion was caused by the offence
 of being barred entry to the Senar stronghold, after which
 Hiarent raised 20,000 militiamen. He was shot upon exiting
@@ -3161,6 +3266,8 @@ days and 5,000 'offenders' were killed during this time.
 ```
 
 RELIGION
+
+
 Locals refer to the religion of Vrayne as 'Oshnare' and no Anglic
 translation of this word has been attempted.
 
@@ -3233,6 +3340,8 @@ their local communities.
 
 ```
 OSHNARE AND TRAVELLERS
+
+
 Travellers should be aware of the sometimes-disproportionate
 responses to waste given by followers of Oshnare. The religion's
 pervasive grip on the population has a widespread effect on
@@ -3259,6 +3368,8 @@ Oshnare, their planet is the sole provider of all things they hold dear.
 ```
 
 HOUSE POLTAR
+
+
 Having existed throughout the known history of the planet, the Poltar family
 is the reigning oligarchy. The head of the family, Alder Trimmel Poltar, is the
 public face of the regime. This is a widespread practice on Vrayne, with the
@@ -3300,6 +3411,8 @@ although their faces can be seen smiling down from holographic
 displays dotted around even the smallest of townships.
 
 HOUSE SENAR
+
+
 Frell Senar is a domineering young woman, having recently taken
 over from her father upon his death. Whilst succession typically falls
 to the eldest child, House Senar have implemented a form of elective
@@ -3350,6 +3463,8 @@ impossible to ignore, with the inhabitants of the Poltar lands discussing the
 possibility of rebellion when they believe they will not be overheard.
 
 HOUSE LAYNORA
+
+
 Thanks to its position on the main ocean of the world that hosts the
 downport, Laynora is the most advanced, due to the stream of merchants
 passing through, from whom the house has acquired cutting-edge
@@ -3399,6 +3514,8 @@ Senar, Frell, does not believe Mikra cares for Oshnare and if given the
 chance he would destroy the religion entirely in the name of progress.
 
 VISITING VRAYNE
+
+
 In order to integrate themselves with the population of Vrayne,
 Travellers may find that attending a religious ceremony is a viable
 option. Provided they are aware and respectful of local customs, they
@@ -3488,9 +3605,9 @@ Radiation Shielding — 7200
 
 Armor Bonded Superdense, Armor 9 20,736 13996.8
 
-M-Drive Thrust 5 (energy efficient x2) 14,400 36000
+M-Drive Thrust5 (energy efficient x2) 14,400 36000
 
-J-Drive Jump 3 (reduced fuel x2) 21,605 40509.375
+J-Drive Jump3 (reduced fuel x2) 21,605 40509.375
 
 Power Plant Fusion (TL12) (reduced size
 x2), Power: 256,200
@@ -3553,8 +3670,7 @@ size x2) x16
 ```
 
 ```
-Medium Mass Driver Bays
-(long range) x16
+Medium Mass Driver Bays (long range) x16
 ```
 
 ```
@@ -3621,8 +3737,7 @@ Storage (100 slugs)
 ```
 
 ```
-Medium Mass Driver Storage
-(576 slugs)
+Medium Mass Driver Storage (576 slugs)
 ```
 
 ```
@@ -3699,8 +3814,7 @@ Craft 50-ton Launch Tubes x2 1,000 500
 
 ```
 50-ton Recovery Decks x2 1,000 500
-50-ton Docking Space x20
-(1,000 tons)
+50-ton Docking Space x20 (1,000 tons)
 ```
 
 ```
@@ -3758,8 +3872,12 @@ Gunners x1,620
 ```
 Running Costs
 MAINTENANCE COST
+
+
 MCr16.027235/month
 PURCHASE COST
+
+
 MCr192326.825
 ```
 
@@ -3943,8 +4061,7 @@ extracting spies from dangerous situations before covertly blending
 back into the wilds. Built for two crew, team leaders can sometimes be
 ensconced within the command center, provided they remain there for
 the duration of the mission. As the main use of this vehicle is in covert
-operations, the rotary autocannon exists simply as a means of self-
-defence in case the mission goes awry. It was only used for a small
+operations, the rotary autocannon exists simply as a means of self-defence in case the mission goes awry. It was only used for a small
 number of years before a more agile version was developed.
 
 ```
@@ -3970,10 +4087,8 @@ SIDES 4
 
 ```
 Traits ATV
-Equipment Aquatic Drive, Autodoc (TL13), Camouflage
-(advanced), Command Centre, Communication
-System (advanced), Ejection Seats, Navigation System
-(advanced), Sensors (advanced)
+Equipment Aquatic Drive, Autodoc (TL13), Camouflage (advanced), Command Centre, Communication
+System (advanced), Ejection Seats, Navigation System (advanced), Sensors (advanced)
 ```
 
 Equipment
@@ -4003,8 +4118,7 @@ Rotary Autocannon Cr1200 Auto 5 DM+2 to attack roll
 
 Some Travellers are lucky enough to get their hands on a spacecraft
 when they muster out from their careers; delipidated, full of quirks and
-mortgaged to the hilt but a spacecraft ready for adventure. The space-
-craft gained depends on the career followed but there is a huge variety
+mortgaged to the hilt but a spacecraft ready for adventure. The space-craft gained depends on the career followed but there is a huge variety
 of spacecraft making their way across Charted Space and Travellers
 always like something a little unusual.
 
@@ -4152,10 +4266,10 @@ only wishing to return home.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 9 INT 8 Animals 0, Jack-of-all-Trades 2,
-Leadership 1, Language 1, Melee
-(blade) 3, Science 1 (xenology), Seafarer
-(personal) 2, Stealth 0, Survival 2
+Leadership 1, Language 1, Melee (blade) 3, Science1 (xenology), Seafarer (personal) 2, Stealth 0, Survival 2
 ```
 
 ```
@@ -4170,6 +4284,8 @@ Ship: Starbright (derelict)
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
@@ -4199,6 +4315,8 @@ Hurdy-gurdy 4 0.5 Cr700
 ```
 
 KAKAXXEER
+
+
 This is a set of percussive drums designed to rest on a harness on the
 forward torso of the K'kree. Three drums rest under the arms, each with
 a differing pitch. Used when hunting G'naak, these war-drums inspire
@@ -4212,6 +4330,8 @@ Kakaxxeer 9 2 Cr500
 ```
 
 YAVERKVYUSS
+
+
 This is a large instrument panel, featuring over 100 buttons, dials and
 switches. Most are polyphonic and suit being played by two Droyne
 at a time. A set of keys sits at the base of the machine, the sound of
@@ -4224,6 +4344,8 @@ Yaverkvyuss 12 5 Cr2500
 ```
 
 AUNTRUPUKYULK
+
+
 Oft carried by Droyne whilst they 'do the things that they are doing',
 this is a miniature synthesiser designed to keep morale high on
 longer journeys. It has 10 keys and although it has a smaller number
@@ -4237,6 +4359,8 @@ Auntrupukyulk 10 0.2 Cr350
 ```
 
 AESANGAGH
+
+
 A small handheld instrument initially designed for young Vargr, the
 Aesangagh has thin sheets plucked to create music. These are made
 from braided metal strings, in order to prevent snapping and the Vargr
@@ -4250,6 +4374,8 @@ Aesangagh 12 0.5 Cr400
 ```
 
 OUNGOG
+
+
 A delicate instrument used to honor Aslan ancestors and ask for their
 blessings, the Oungog is used before their Shrine of Heroes. Melodies
 range from melancholic to rousing, weaving the stories of their
@@ -4263,6 +4389,8 @@ Oungog 7 0.1 Cr200
 ```
 
 GLILMAN
+
+
 This is the Gurvin name given to the Hiver instrument. The Glilman is
 a series of buttons, often inlaid in the floor of a Federation ship, that
 produces sound when pressed. Early designs had five buttons but
@@ -4304,6 +4432,8 @@ The Travellers' ship is indisposed, either being refuelled, repaired or loaded
 with freight, making this a great opportunity to earn some quick cash.
 
 BACKGROUND
+
+
 As the crew arrives at the highport, the comms channels are abuzz with
 excitement over tonight's show. There are several nobles, dilettantes
 and members of high society at the station, indicated by the vast
@@ -4318,6 +4448,8 @@ missing equipment vital to the performance. He is offering Cr2000, plus
 bonuses, for less than a day's work.
 
 THE SITUATION
+
+
 Once the Travellers have agreed to assist Mr. Hartmann, he transmits
 to them a 'rider' – a list of requirements an artist makes that must be
 met before they agree to perform. He then transfers the purchase
@@ -4337,6 +4469,8 @@ is because she is short on time and her attention is spread very thin.
 It is 12:00 station time and Zéno is scheduled to perform in eight hours.
 
 EXPLORING THE HIGHPORT
+
+
 The highport has a medium Law Level, meaning visitors can move
 about freely but no one is walking around heavily armed or armored.
 Anyone seen causing a disturbance is met by the station's security
@@ -4358,6 +4492,8 @@ Zéno will be playing a 6,000-seat venue in the entertainment complex
 that evening when the station enters the planet's shadow.
 
 NEGOTIATING AND SHOPPING
+
+
 Hartmann will not negotiate with the Travellers on prices or extra
 expenses, nor will his assistant Sisi.
 
@@ -4408,6 +4544,8 @@ minutes. Afterwards, Travellers must transport the parts to Sisi.
 
 ```
 RIDER ON THE STORM
+
+
 Zéno Paradise requires the following items in order to perform tonight:
 - One ton starship repair parts
 - Six bottles Dom Lishun '63 champagne
@@ -4517,6 +4655,8 @@ with a blunt pipe (2D-2) and another with a knife (1D+2), who attempt to
 steal the stash.
 
 RESOLUTION
+
+
 When it approaches 20:00 and all the items are in, Sisi pays the
 Travellers, including the following bonuses:
 - Cr2000 for one ton of parts
@@ -4567,8 +4707,7 @@ Enythba 70 10m
 Skills Athletics (strength) 1, Melee (natural) 2, Recon 0,
 Stealth 2, Survival 2
 Attacks Pincers (2D), Tentacles (1D-2)
-Traits Amphibious, Bioelectricity (+2D), Fast Metabolism
-(+1), Large (+3)
+Traits Amphibious, Bioelectricity (+2D), Fast Metabolism (+1), Large (+3)
 Behaviour Carnivore, Pouncer
 ```
 
@@ -4587,6 +4726,8 @@ Fitting any of the equipment here to a vehicle will typically reduce its
 speed by at least one Speed Band, at the discretion of the Referee.
 
 COMPACT EXCAVATOR
+
+
 A much smaller version of the same attachment found on heavy plant
 machinery, this model is intended for small engineering works in lighter
 vehicles. Its price puts it in the range of private citizens, although it is
@@ -4598,6 +4739,8 @@ Compact Excavator 7 5 Cr2500
 ```
 
 DEEP DRILL
+
+
 Designed to drill through the earth to depths in excess of 250 meters, this
 drill creates shallow shafts of 10 centimeters wide. To create shafts deeper
 than a few meters, the drill can be paused in operation to insert new
@@ -4609,6 +4752,8 @@ Deep Drill 7 14 Cr80000
 ```
 
 DUMPER
+
+
 An open box bed, typically found at the rear of a vehicle, this
 attachment allows a vehicle to be filled with a cargo and then literally
 'dump' it out at a destination by hydraulically raising one end of the bed.
@@ -4621,6 +4766,8 @@ Dumper 5 — Cr1000/Space
 ```
 
 EXCAVATOR
+
+
 A hydraulic shovel attached to a heavy-duty arm that is designed to
 scoop earth to create trenches, wells and the first stages of foundations.
 This is a common attachment for working vehicles and is truly versatile,
@@ -4632,6 +4779,8 @@ Excavator 5 8 Cr10000
 ```
 
 LIFT
+
+
 A cross between a forklift and a crane, this tall attachment can lift objects
 far higher than other vehicles can manage, while keeping them stable.
 
@@ -4656,6 +4805,8 @@ Multi-Combine 7 20 Cr40000
 ```
 
 PILE DRIVER
+
+
 A very heavy piece of equipment, the pile driver is designed to drive
 pole-like structures into the ground. This can be used to quickly create
 arrays of telegraph or electrical poles, or large-scale fencing.
@@ -4666,6 +4817,8 @@ Pile Driver 7 20 Cr90000
 ```
 
 ROAD ROLLER
+
+
 Constructed of dense metal, sometimes with the capability to fill it with
 ballast (typically water) to regulate its weight, the road roller is designed
 to crush surfaces flat. It is an extremely popular tool for anyone looking
@@ -4683,6 +4836,8 @@ Road Roller 4 20 Cr10000
 **By Geir Lanesskog**
 
 CONESTOGA FREIGHTER
+
+
 Hyperion Lines produces a standardised 800-ton armed freighter
 for use with its shipping division and for sale to other operators. The
 Conestoga freighter is a sturdy, rather utilitarian jump-2 starship.
@@ -4819,8 +4974,12 @@ Engineers x3, Gunners x4
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr20638/month
 PURCHASE COST
+
+
 MCr247.66
 ```
 
@@ -4909,8 +5068,12 @@ Pilot, Gunner
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr1643/month
 PURCHASE COST
+
+
 MCr19.71
 ```
 
@@ -4993,12 +5156,13 @@ DECK 2
 ```
 
 STELLARIS LINER
+
+
 The Allarton Corporation owns nearly all shipyards within the Trelyn
 Domain and produces all but a few speciality starship designs. To
 support smaller scale commercial activity for its own operations and
 for sale to third parties – with financing provided through the Allarton
-Commercial Financing Corporation – Allarton Yards produces the 400-
-ton Stellaris liner and derivative Polaris freighter.
+Commercial Financing Corporation – Allarton Yards produces the 400-ton Stellaris liner and derivative Polaris freighter.
 
 The streamlined Stellaris, capable of jump-2 and 2G thrust, is roughly
 based on the Third Imperium's Type-R subsidized merchant. Rather than
@@ -5046,14 +5210,14 @@ Hull 400 tons, Streamlined — 24
 
 Armor Crystaliron, Armor 1 5 1.2
 
-M-Drive Thrust 2 (reduced size, energy
+M-Drive Thrust2 (reduced size, energy
 efficient)
 
 ```
 7.2 18
 ```
 
-J-Drive Jump 2 (reduced fuel x2) 25 46.875
+J-Drive Jump2 (reduced fuel x2) 25 46.875
 
 Power Plant Fusion (TL12), Power: 150 10 10
 
@@ -5112,8 +5276,12 @@ Engineers x2, Stewards x4
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr11375/month
 PURCHASE COST
+
+
 MCr136.503
 ```
 
@@ -5170,14 +5338,15 @@ DECK 2
 DECK 1
 
 THORN CORVETTE
+
+
 The Royal Navy of Bruhkarr's main external function is commerce
 protection and to accomplish this mission it conducts anti-piracy patrols
 and provides escort services to Bruhkarri-flagged merchant vessels
 travelling beyond the Principality's borders.
 
 The newest vessel tasked with this duty is the Thorn corvette.
-Developed specifically to counter the threat posed by non-
-governmental use of the Mapepire Viper interceptor, the Royal Navy
+Developed specifically to counter the threat posed by non-governmental use of the Mapepire Viper interceptor, the Royal Navy
 required a ship capable of absorbing hits from sustained fusion gun
 fire in close combat and of striking targets at long ranges, neither of
 which were strengths of the older Nail corvette, a derivative of the
@@ -5222,9 +5391,9 @@ Radiation Shielding — 10
 
 **Armor** Crystaliron, Armor: 12 60 14.4
 
-**M-Drive** Thrust 5 (energy efficient) 20 44
+**M-Drive** Thrust5 (energy efficient) 20 44
 
-**J-Drive** Jump 2 (reduced size) 22.5 37.125
+**J-Drive** Jump2 (reduced size) 22.5 37.125
 
 **Power Plant** Fusion (TL12), Power 270 18 18
 
@@ -5311,8 +5480,12 @@ Troops x8, Gunners x4
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr20153/month
 PURCHASE COST
+
+
 MCr241.83
 ```
 
@@ -5428,6 +5601,8 @@ of the Travellers' Aid Society
 ## JJJournal
 
 JOURNAL
+
+
 
 ```
 The

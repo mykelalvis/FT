@@ -1,6 +1,8 @@
 
 ADVENTURE CLASS SHIPS
 
+
+
 Traveller ©2023 Mongoose Publishing. All rights reserved. Reproduction of this work by any means without the written permission of the publisher is expressly forbidden.
 All significant characters, names, places, items, art and text herein are copyrighted by Mongoose Publishing.
 
@@ -18,9 +20,13 @@ Printed in China.
 
 CLASSIC TRAVELLER
 
+
+
 Marc Miller
 
 MONGOOSE TRAVELLER
+
+
 
 **AUTHOR**
 Matthew Sprange
@@ -39,6 +45,8 @@ Lucas Bonatto Guerrini, Alfredo Dosztal
 Charlotte Law
 
 TRAVELLER INNER CIRCLE
+
+
 
 Andrew James Alan Welty, Colin Dunn, M. J. Dougherty,
 Rob Eaglestone, Sam Wissa, Joshua Bell, Maksim
@@ -89,11 +97,9 @@ inserted into adventures as opponents, victims, targets
 for infiltration, or even just background colour. The
 universes of Traveller are wide and varied, and now the
 choice of ships available reflects that. For example, if
-you are currently running the Pirates of Drinax mega-
-campaign, it is likely that your Travellers are plundering
+you are currently running the Pirates of Drinax mega-campaign, it is likely that your Travellers are plundering
 a lot of merchant vessels – with this book, you can
-now provide a much wider variety of potential targets
-(which is entirely reasonable for a campaign set in the
+now provide a much wider variety of potential targets (which is entirely reasonable for a campaign set in the
 wildlands of the Trojan Reach), rather than listing the
 cargoes of another free trader or subsidised merchant.
 
@@ -212,7 +218,7 @@ Adventure Class Ships
 Core Rulebook
 
 
-TRAVELLER
+
 
 
 of the mortgage paid off rather than the normal 25%.
@@ -229,14 +235,12 @@ able to pay in remaining mortgage costs – no one
 is going to lend the Traveller a large sum of money
 that cannot be paid back.
 •	 The ship should be in some way related to the
-original Benefit. No one is going to loan an ex-
-merchant the money for a warship or corsair vessel
+original Benefit. No one is going to loan an ex-merchant the money for a warship or corsair vessel
 but a larger trading ship might make sense.
 
 
 Note that ex-scouts cannot use these rules to get a
-bigger ship but the Referee might consider a well-
-regarded scout eligible for a Type SX extended scout
+bigger ship but the Referee might consider a well-regarded scout eligible for a Type SX extended scout
 or even the likes of a Donosev survey scout. Use the
 Traveller’s final rank, length of service and any relevant
 events rolled during their career as a guide for this.
@@ -283,6 +287,8 @@ outlandish requests.
 
 
 THE DEAL
+
+
 Once a subsidised ship has been agreed to in principle,
 the corporation or government will impose several
 conditions on its use, and free-thinking Travellers will
@@ -311,8 +317,7 @@ themselves on the frontline).
 
 
 If the Traveller is found in breach of these conditions, the
-ship will eventually be removed from their possession
-(losing the down payment they made) and there might
+ship will eventually be removed from their possession (losing the down payment they made) and there might
 not be many warnings before action is taken.
 
 
@@ -333,8 +338,7 @@ way into private hands, either through the detached duty programme or simple pur
 are typified by higher than average jump ranges and specialised equipment which, although usually dedicated to
 survey missions, can be repurposed for many different roles.
 
-There is a wide variety of choice among exploration ships, when looking for a new vessel, and beyond the ever-
-popular Type S scout/courier there is something for all tastes and all budgets. Special builds and roles required by
+There is a wide variety of choice among exploration ships, when looking for a new vessel, and beyond the ever-popular Type S scout/courier there is something for all tastes and all budgets. Special builds and roles required by
 the IISS result in ships capable of tasks simply not possible for standard vessels.
 
 A dedicated exploration ship is fast and well-equipped, and can be the very best vessel for a group of Travellers to crew.
@@ -359,8 +363,12 @@ Pilot, Astrogator, Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr13986/month
 PURCHASE COST
+
+
 MCr167.
 
 
@@ -561,8 +569,12 @@ Pilot, Astrogator, Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr6045/month
 PURCHASE COST
+
+
 MCr72.
 
 
@@ -682,8 +694,12 @@ Pilot, Astrogator, Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr5037/month
 PURCHASE COST
+
+
 MCr60.
 
 
@@ -819,8 +835,7 @@ Cargo 9 —
 ##### FAR SCOUT
 
 At twice the volume of a Type S, the far scout has
-very similar capabilities but with an impressive four-
-parsec jump range. Its primary mission within the
+very similar capabilities but with an impressive four-parsec jump range. Its primary mission within the
 IISS is to operate within areas of low stellar density
 where its superior jump drive can easily cross small
 
@@ -836,8 +851,12 @@ Engineer x
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr7883/month
 PURCHASE COST
+
+
 MCr94.
 
 
@@ -1030,8 +1049,12 @@ Maintenance, Medics x
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr13740/month
 PURCHASE COST
+
+
 MCr164.
 
 
@@ -1166,8 +1189,12 @@ Maintenance, Medics
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr18720/month
 PURCHASE COST
+
+
 MCr224.
 
 
@@ -1247,7 +1274,11 @@ Cargo 36 —
 
 
 LOWER DECK
+
+
 FUEL ONLY
+
+
 
 **MAIN DECK**
 
@@ -1316,7 +1347,7 @@ TL12 Tons Cost (MCr)
 Hull 800 tons, Sphere — 44
 Radiation Shielding — 20
 Armour Crystaliron, Armour: 3 27 5.
-M-Drive Thrust 3 (energy efficient x2) 24 60
+M-Drive Thrust3 (energy efficient x2) 24 60
 J-Drive Jump 3 65 97.
 Power Plant Fusion (TL12), Power 540 36 36
 Fuel Tanks J-3, 16 weeks of operation, plus cutters 258 —
@@ -1363,8 +1394,12 @@ Maintenance, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr32993/month
 PURCHASE COST
+
+
 MCr395.
 
 
@@ -1681,8 +1716,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4773/month
 PURCHASE COST
+
+
 MCr57.28
 
 
@@ -1832,6 +1871,8 @@ Cargo 72 —
 6 6
 UPPER DECK
 
+
+
 **LOWER DECK**
 
 10. Double Turret (beam lasers)
@@ -1898,8 +1939,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4427/month
 PURCHASE COST
+
+
 MCr53.12
 
 
@@ -1940,8 +1985,7 @@ Low Berths
 12. Jump Drive
 13. Fuel
 14. Manoeuvre Drive
-15. Double Turret
-(beam lasers)
+15. Double Turret (beam lasers)
 16. Cargo Crane
 
 
@@ -2026,8 +2070,7 @@ Superficially very similar to other far traders that
 conform to the type A2 specification, the Volitant
 class of ships is visually distinct. Capable of far better
 atmospheric performance than other trader ships,
-the Volitant is sold as the definitive answer to storm-
-swept planetary starports, although if the suggestion
+the Volitant is sold as the definitive answer to storm-swept planetary starports, although if the suggestion
 
 #### FAR TRADER CLASS: VOLITANT
 
@@ -2041,8 +2084,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr5287/month
 PURCHASE COST
+
+
 MCr63.445
 
 
@@ -2156,8 +2203,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr8374/month
 PURCHASE COST
+
+
 MCr100.485
 
 
@@ -2179,8 +2230,7 @@ Low Berths
 
 The shadow trader is an extremely specialised
 modification to the standard far trader and is almost
-never converted from an existing hull, being purpose-
-built instead. Designed to slip past pirates and hostile
+never converted from an existing hull, being purpose-built instead. Designed to slip past pirates and hostile
 navy craft alike, only governments and criminal
 
 
@@ -2285,8 +2335,12 @@ Astrogator, Engineers x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr7645/month
 PURCHASE COST
+
+
 MCr91.745
 
 
@@ -2362,7 +2416,11 @@ Cargo 97.5 —
 
 
 LOWER DECK
+
+
 FUEL ONLY
+
+
 
 **MAIN DECK**
 
@@ -2397,8 +2455,7 @@ sandcasters) (dorsal)
 
 (^24)
 5 5
-5 6 5
-(^187)
+5 6 5 (^187)
 10
 8
 9
@@ -2426,8 +2483,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4882/month
 PURCHASE COST
+
+
 MCr58.589
 
 
@@ -2575,8 +2636,12 @@ Engineers x2, Gunners x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr18456/month
 PURCHASE COST
+
+
 MCr221.475
 
 
@@ -2730,8 +2795,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr9909/month
 PURCHASE COST
+
+
 MCr118.91
 
 
@@ -2865,8 +2934,12 @@ Astrogator, Engineers x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr13421/month
 PURCHASE COST
+
+
 MCr161.05
 
 
@@ -3017,7 +3090,11 @@ laser, sandcaster) (dorsal)
 
 
 UPPER DECK
+
+
 FUEL ONLY
+
+
 
 **LOWER DECK**
 
@@ -3049,8 +3126,12 @@ Gunners x5
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr12181/month
 PURCHASE COST
+
+
 MCr146.175
 
 
@@ -3074,8 +3155,7 @@ Although seen only occasionally on select trade
 routes, the Maru is popular with its captains. It
 combines a large cargo hold with good jump range
 and is very powerfully armed for a merchant. Five
-triple turrets are capable of defeating most small-
-time pirates however, perversely enough, they also
+triple turrets are capable of defeating most small-time pirates however, perversely enough, they also
 
 
 make the Maru a potent choice for corsairs. Beyond
@@ -3213,8 +3293,12 @@ Administrator, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr32894/month
 PURCHASE COST
+
+
 MCr394.73
 
 
@@ -3246,8 +3330,7 @@ design makes some sense in pirate-prone wilderness
 areas but, even there, it can be exceptionally difficult
 to run the ship profitably and most end up either
 converted into other roles or simply scrapped. Still,
-if a group of Travellers can find a use for a high-
-jump, armoured merchant with at least some spare
+if a group of Travellers can find a use for a high-jump, armoured merchant with at least some spare
 cargo space, and they start with a small fortune, the
 Coveter lies waiting.
 
@@ -3358,6 +3441,8 @@ Cargo 182 —
 
 (^14) **LOWER DECK
 TOP DECK
+
+
 MIDDLE DECK**
 
 
@@ -3375,8 +3460,12 @@ Gunners x10, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr29929/month
 PURCHASE COST
+
+
 MCr359.147
 
 
@@ -3408,8 +3497,7 @@ enough to match some light warships, the average
 
 opportunistic corsair is going to find their weapons
 doing little more than scoring paint, while the return
-fire is going to be extremely painful. Given a well-
-trained crew and plenty of planning, the Iris can
+fire is going to be extremely painful. Given a well-trained crew and plenty of planning, the Iris can
 navigate even notorious pirate-laden systems with
 some assurance of safe arrival.
 
@@ -3599,8 +3687,12 @@ Gunners x5
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr13547/month
 PURCHASE COST
+
+
 MCr162.56
 
 
@@ -3753,8 +3845,12 @@ Administrator, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr24618/month
 PURCHASE COST
+
+
 MCr295.41
 
 
@@ -3931,11 +4027,19 @@ Cargo 271 —
 
 
 LOWER MIDDLE
+
+
 DECK
+
+
 
 
 UPPER MIDDLE
+
+
 DECK
+
+
 
 
 ##### TRIAD MERCHANT
@@ -3956,8 +4060,12 @@ Administrator, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr19392/month
 PURCHASE COST
+
+
 MCr232.7
 
 
@@ -4132,13 +4240,21 @@ Cargo 595 —
 TOWER A
 
 
+
+
 TOWER A
 
 
-TOWER B
 
 
 TOWER B
+
+
+
+
+TOWER B
+
+
 
 
 DECK 1
@@ -4169,8 +4285,12 @@ Administrator, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr45124/month
 PURCHASE COST
+
+
 MCr541.485
 
 
@@ -4257,10 +4377,8 @@ Cargo 819 —
 12. Jump Drive
 13. Manoeuvre Drive
 14. Low Berths
-15. Docking Space
-(two decks high)
-16. Double Turret
-(beam lasers) (ventral)
+15. Docking Space (two decks high)
+16. Double Turret (beam lasers) (ventral)
 17. Fuel
 18. Airlock
 
@@ -4294,7 +4412,11 @@ Cargo 819 —
 3 3
 **DECK 6
 COMMAND
+
+
 SECTION
+
+
 DECK 5**
 
 
@@ -4385,8 +4507,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr6535/month
 PURCHASE COST
+
+
 MCr78.4245
 
 
@@ -4518,8 +4644,12 @@ Engineer, Steward, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr12731/month
 PURCHASE COST
+
+
 MCr152.775
 
 
@@ -4657,8 +4787,7 @@ Cargo 11 —
 **UPPER DECK**
 
 
-BRIDGE
-(DORSAL)
+BRIDGE (DORSAL)
 
 
 ##### LONG
@@ -4678,8 +4807,12 @@ Stewards x3, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr27273/month
 PURCHASE COST
+
+
 MCr327.28
 
 
@@ -4864,8 +4997,12 @@ Administrator, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr23442/month
 PURCHASE COST
+
+
 MCr281.3
 
 
@@ -5070,8 +5207,12 @@ Administrator, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr32744/month
 PURCHASE COST
+
+
 MCr392.926
 
 
@@ -5239,8 +5380,12 @@ Medic, Officer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr43396/month
 PURCHASE COST
+
+
 MCr520.751
 
 
@@ -5381,8 +5526,7 @@ Cargo 17 —
 9 9
 5
 **UPPER DECK
-LEISURE DECK
-(TOP)**
+LEISURE DECK (TOP)**
 
 
 1. Theatre
@@ -5522,8 +5666,12 @@ Officers x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr61698/month
 PURCHASE COST
+
+
 MCr740.375
 
 
@@ -5778,6 +5926,8 @@ DECK 1
 FUEL ONLY
 
 
+
+
 There may be few who give working ships a second look but these vessels are responsible for keeping the
 spaceways moving. Repair ships, salvagers, prospectors and customs craft, each is specialised to a narrow range
 of functions vital to anyone hoping to make a living in space.
@@ -5814,8 +5964,12 @@ Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4329/month
 PURCHASE COST
+
+
 MCr51.95
 
 
@@ -5925,8 +6079,12 @@ Pilot, Astrogator, Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4007/month
 PURCHASE COST
+
+
 MCr48.08
 
 
@@ -6065,8 +6223,12 @@ Pilot, Astrogator, Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr28054/month
 PURCHASE COST
+
+
 MCr336.65
 
 
@@ -6197,8 +6359,12 @@ Administrator
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr8534/month
 PURCHASE COST
+
+
 MCr102.41
 
 
@@ -6360,8 +6526,12 @@ Medics, Wardens x3
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr11492/month
 PURCHASE COST
+
+
 MCr137.9
 
 
@@ -6508,8 +6678,12 @@ Pilot/Astrogator, Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr8678/month
 PURCHASE COST
+
+
 MCr104.14
 
 
@@ -6642,8 +6816,12 @@ Marines x20
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr30166/month
 PURCHASE COST
+
+
 MCr361.997
 
 
@@ -6695,8 +6873,7 @@ Systems Fuel Scoops — 1
 Armoury 4 1
 Docking Clamp (type IV) 20 4
 Breaching Tube 3 3
-Forced Linkage Apparatus
-(advanced)
+Forced Linkage Apparatus (advanced)
 
 
 2 0.5
@@ -6748,10 +6925,8 @@ Suite
 Apparatus
 18. Shallow Penetration
 Scanner
-19. Docking Space
-(pinnace)
-20. Docking Space
-(military gig)
+19. Docking Space (pinnace)
+20. Docking Space (military gig)
 21. Fusion Bay
 22. Fuel
 
@@ -6856,8 +7031,12 @@ Maintenance x4, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr20135/month
 PURCHASE COST
+
+
 MCr241.615
 
 
@@ -7004,8 +7183,12 @@ Maintenance x6
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr31048/month
 PURCHASE COST
+
+
 MCr372.575
 
 
@@ -7039,8 +7222,8 @@ simultaneously, this may be well-founded.
 
 TL11 Tons Cost (MCr)
 Hull 1,200 tons, Close Structure — 48
-M-Drive Thrust 2 (Thrust 1 with ships on clamps) 24 48
-J-Drive Jump 2 (Jump 1 with ships on clamps) 65 97.5
+M-Drive Thrust2 (Thrust 1 with ships on clamps) 24 48
+J-Drive Jump2 (Jump 1 with ships on clamps) 65 97.5
 Power Plant Fusion (TL8), Power 500 50 25
 Fuel Tanks J-2, 12 weeks of operation, plus ship’s
 boat
@@ -7209,8 +7392,7 @@ group of Travellers to crew.
 
 There is little to disguise the fact that the strike
 scout is a modification of the traditional Type S
-design, intended purely for pirates. With a double-
-jump capability, the strike scout is specifically
+design, intended purely for pirates. With a double-jump capability, the strike scout is specifically
 designed to jump into a system, force a merchant
 vessel to surrender and abscond with its most
 
@@ -7226,8 +7408,12 @@ Engineer, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr5120/month
 PURCHASE COST
+
+
 MCr61.4425
 
 
@@ -7265,8 +7451,7 @@ Computer Computer/10 — 0.16
 Sensors Military Grade 2 4.1
 Weapons Triple Pop-up Turret (pulse lasers) 2 5
 Systems Fuel Scoops — —
-Forced Linkage Apparatus
-(enhanced)
+Forced Linkage Apparatus (enhanced)
 
 
 2 0.1
@@ -7358,8 +7543,12 @@ Engineers x2, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr20715/month
 PURCHASE COST
+
+
 MCr248.575
 
 
@@ -7530,8 +7719,12 @@ Gunner, Marines x5
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr18459/month
 PURCHASE COST
+
+
 MCr221.51
 
 
@@ -7569,7 +7762,7 @@ be significantly affected if it is carrying larger craft.
 
 TL12 Tons Cost (MCr)
 Hull 300 tons, Dispersed Structure — 7.5
-M-Drive Thrust 3 (Thrust 4 without fighters) 12 24
+M-Drive Thrust3 (Thrust 4 without fighters) 12 24
 J-Drive Jump 2 25 37.5
 Power Plant Fusion (TL12), Power 270 18 18
 Fuel Tanks J-2, 4 weeks of operation, plus craft 85 —
@@ -7735,8 +7928,12 @@ Marines x20
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr17321/month
 PURCHASE COST
+
+
 MCr207.85
 
 
@@ -7841,8 +8038,7 @@ beams) (dorsal)
 16. Fuel
 17. Jump Drive
 18. Manoeuvre Drive
-19. Triple Turret
-(sandcasters, beam laser)
+19. Triple Turret (sandcasters, beam laser)
 20. Double Turret (beam
 lasers)
 
@@ -7896,8 +8092,12 @@ Engineers x3, Gunners x4
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr23175/month
 PURCHASE COST
+
+
 MCr278.1
 
 
@@ -8047,8 +8247,12 @@ Marines x5
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr27259/month
 PURCHASE COST
+
+
 MCr327.105
 
 
@@ -8288,8 +8492,12 @@ Officer, Marines x15
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr44890/month
 PURCHASE COST
+
+
 MCr538.675
 
 
@@ -8322,7 +8530,7 @@ TL15 Tons Cost (MCr)
 Hull 800 tons, Standard — 40
 Armour Bonded Superdense, Armour: 12 76.8 38.4
 M-Drive Thrust 6 48 96
-J-Drive Jump 3 (decreased fuel x2) 65 121.875
+J-Drive Jump3 (decreased fuel x2) 65 121.875
 Power Plant Fusion (TL15), Power 1,000 50 100
 Fuel Tanks J-3, 8 weeks of operation 226 —
 Bridge Holographic Controls 20 5
@@ -8416,10 +8624,15 @@ Suite
 9
 **UPPER
 DECK
+
+
 LOWER
-DECK
-(FUEL ONLY)
+
+
+DECK (FUEL ONLY)
 MIDDLE
+
+
 DECK**
 
 9. Staterooms
@@ -8457,8 +8670,12 @@ Officer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr30050/month
 PURCHASE COST
+
+
 MCr360.6
 
 
@@ -8496,7 +8713,7 @@ TL13 Tons Cost (MCr)
 Hull 800 tons, Standard — 40
 Armour Crystaliron, Armour: 4 40 8
 M-Drive Thrust 3 24 48
-J-Drive Jump 3 (decreased fuel) 65 107.25
+J-Drive Jump3 (decreased fuel) 65 107.25
 Power Plant Fusion (TL12, size reduction), Power 675 40.5 49.5
 Fuel Tanks J-3, 8 weeks of operation, plus craft 249 —
 Bridge Holographic Controls 20 5
@@ -8707,8 +8924,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4395/month
 PURCHASE COST
+
+
 MCr52.736
 
 
@@ -8729,8 +8950,7 @@ Fuel Processor
 ###### CLASS: —
 
 
-in precious metals to match the purchaser’s choice
-(and Credit balance). The jump range is modest
+in precious metals to match the purchaser’s choice (and Credit balance). The jump range is modest
 enough but the manoeuvre drive is top of the class
 
 - the owner will not be waiting around to complete
@@ -8831,6 +9051,8 @@ beam lasers) (dorsal)
 
 AL
 
+
+
 ##### HUNTRESS
 
 ##### WARRANT
@@ -8849,8 +9071,12 @@ Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4521/month
 PURCHASE COST
+
+
 MCr54.25
 
 
@@ -9003,8 +9229,12 @@ Maintenance, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr10209/month
 PURCHASE COST
+
+
 MCr122.505
 
 
@@ -9185,8 +9415,7 @@ lasers) (dorsal)
 The Desiree Keah yachts are a short-run design
 and thus quite sought after by those who know
 what they offer. They are designed to provide a
-single owner or small group of owners the best-in-
-class experience wherever they choose to travel.
+single owner or small group of owners the best-in-class experience wherever they choose to travel.
 The yacht is not fast (the onboard ship’s boat can
 
 #### PRIVATE YACHT
@@ -9201,8 +9430,12 @@ x2, Steward, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr16355/month
 PURCHASE COST
+
+
 MCr196.265
 
 
@@ -9233,8 +9466,8 @@ with the many, many diversions on board.
 TL15 Tons Cost (MCr)
 Hull 400 tons, Streamlined — 24
 Aerofins 20 2
-M-Drive Thrust 1 (energy efficient x3) 4 12
-J-Drive Jump 4 (decreased fuel x2) 45 84.375
+M-Drive Thrust1 (energy efficient x3) 4 12
+J-Drive Jump4 (decreased fuel x2) 45 84.375
 Power Plant Fusion (TL15), Power 260 13 26
 Fuel Tanks J-4, 4 weeks of operation,
 plus ship’s boat
@@ -9331,6 +9564,8 @@ Cargo 4 —
 4
 **UPPER DECK
 LOWER DECK
+
+
 MIDDLE DECK**
 
 
@@ -9350,8 +9585,12 @@ Engineers x3
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr17107/month
 PURCHASE COST
+
+
 MCr205.28
 
 
@@ -9499,7 +9738,11 @@ Cargo 65 —
 
 
 UPPER DECK
+
+
 MIDDLE DECK
+
+
 
 
 ##### TOURING
@@ -9518,8 +9761,12 @@ x2, Maintenance x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr17173/month
 PURCHASE COST
+
+
 MCr206.072
 
 
@@ -9670,8 +9917,12 @@ Stewards x3, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr26875/month
 PURCHASE COST
+
+
 MCr322.495
 
 
@@ -9700,7 +9951,7 @@ while it continues to make money.
 
 TL12 Tons Cost (MCr)
 Hull 900 tons, Standard — 45
-M-Drive Thrust 1 (energy efficient x2) 9 22.5
+M-Drive Thrust1 (energy efficient x2) 9 22.5
 J-Drive Jump 3 72.5 108.75
 Power Plant Fusion (TL12), Power 450 30 30
 Fuel Tanks J-3, 4 weeks of operation, plus craft 275 —
@@ -9821,8 +10072,12 @@ Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr65123/month
 PURCHASE COST
+
+
 MCr781.472
 
 
@@ -9863,8 +10118,8 @@ Hull 1,000 tons, Streamlined — 60
 Stealth (improved) — 100
 Radiation Shielding — 25
 Armour Bonded Superdense, Armour: 6 57.6 28.8
-M-Drive Thrust 3 (size reduction x3) 21 90
-J-Drive Jump 3 (size reduction x3) 56 180
+M-Drive Thrust3 (size reduction x3) 21 90
+J-Drive Jump3 (size reduction x3) 56 180
 Power Plant Fusion (TL15), Power 940 47 94
 Fuel Tanks J-3, 4 weeks of operation, plus craft 307 —
 Bridge Holographic Controls 20 6.25
@@ -10024,8 +10279,12 @@ Gunners x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr7833/month
 PURCHASE COST
+
+
 MCr93.995
 
 
@@ -10170,8 +10429,12 @@ Astrogator, Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr7302/month
 PURCHASE COST
+
+
 MCr87.625
 
 
@@ -10351,8 +10614,12 @@ Engineers x4, Marines x20
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr38719/month
 PURCHASE COST
+
+
 MCr464.63
 
 
@@ -10383,7 +10650,7 @@ target wanders into sensor range.
 TL13 Tons Cost (MCr)
 Hull 800 tons, Streamlined — 48
 Armour Crystaliron, Armour: 9 108 21.6
-M-Drive Thrust 3 (energy efficient) 24 52.8
+M-Drive Thrust3 (energy efficient) 24 52.8
 J-Drive Jump 3 65 97.5
 Power Plant Fusion (TL12), Power 645 43 43
 Fuel Tanks J-3, 8 weeks of operation, plus craft 252 —
@@ -10500,17 +10767,26 @@ Cargo 2 —
 
 
 UPPER
+
+
 DECK
+
+
 
 
 
 MIDDLE
+
+
 DECK
+
+
 
 
 LOWER
-DECK
-(FUEL ONLY)
+
+
+DECK (FUEL ONLY)
 
 1 square = 0.5 Ton
 
@@ -10616,8 +10892,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr2984/month
 PURCHASE COST
+
+
 MCr35.81
 
 
@@ -10688,11 +10968,19 @@ Sensors
 
 
 UPPER
+
+
 DECK
+
+
 
 
 LOWER
+
+
 DECK
+
+
 
 
 ##### SLEIPNIR
@@ -10712,8 +11000,12 @@ Marines x10
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr9370/month
 PURCHASE COST
+
+
 MCr112.44
 
 
@@ -10756,8 +11048,7 @@ Sensors Military Grade 2 4.1
 Shallow Penetration Suite 10 5
 Weapons Fixed Mounts (missile racks x3) x2 — 4.7
 Double Turret (sandcasters) 1 1
-Ammunition Sandcaster Canister Storage
-(80 canisters)
+Ammunition Sandcaster Canister Storage (80 canisters)
 
 
 4 —
@@ -10782,8 +11073,7 @@ Cargo 11 —
 2. Bridge
 3. Airlock
 4. Fresher
-5. Double Turret
-(sandcasters)
+5. Double Turret (sandcasters)
 6. Lounge
 7. Common Area
 8. Armoury
@@ -10796,8 +11086,7 @@ Suite
 14. Missle Storage
 15. Sandcaster Canister
 Storage
-16. Fixed Mounts
-(missile racks x3)
+16. Fixed Mounts (missile racks x3)
 17. Cargo Hold
 18. Power Plant
 19. Jump Drive
@@ -10880,8 +11169,12 @@ Gunners x6, Marines x10
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr16926/month
 PURCHASE COST
+
+
 MCr203.115
 
 
@@ -11100,8 +11393,12 @@ Pilot/Astrogator, Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr8934/month
 PURCHASE COST
+
+
 MCr107.21
 
 
@@ -11236,8 +11533,12 @@ Engineer, Gunners x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr7351/month
 PURCHASE COST
+
+
 MCr88.21
 
 
@@ -11388,8 +11689,12 @@ Engineers x2, Gunners x4
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr8153/month
 PURCHASE COST
+
+
 MCr97.84
 
 
@@ -11601,8 +11906,12 @@ Marines x24
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr19373/month
 PURCHASE COST
+
+
 MCr232.475
 
 
@@ -11760,6 +12069,8 @@ Cargo 29 —
 
 
 A
+
+
 Aihaiyo Hunting Ship 136
 Ambush Frigate 108
 Antique Trader 32
@@ -11768,22 +12079,30 @@ Assault Gunship 104
 
 
 B
+
+
 Blockade Runner 124
 Brigand Commerce Raider 110
 Broadsword Exploration Cruiser 18
 
 
 C
+
+
 Coveter Armoured Merchant 42
 custom Safari Ship 120
 Customs Patrol Cutter 90
 
 
 D
+
+
 Desiree Keah Private Yacht 122
 
 
 E
+
+
 Executive Yacht 116
 Exploration 5
 Express Packet 78
@@ -11792,6 +12111,8 @@ Extended Scout, Type SX 8
 
 
 F
+
+
 Far Reach Survey Scout 16
 Far Scout 12
 Fast Luxury Transport 58
@@ -11801,24 +12122,34 @@ Frontiersman, Type SX 10
 
 
 H
+
+
 Hospice Boat 84
 Huntress Warrant Ship 118
 
 
 I
+
+
 Iris Armoured Packet 44
 
 
 J
+
+
 Jump Cutter 80
 
 
 K
+
+
 Khoghue, Armed Junker 154
 Kteahearl Raider 138
 
 
 L
+
+
 Lady Luck Pleasure Ship 128
 Large Freighter 54
 Large Liner 60
@@ -11830,6 +12161,8 @@ Luxury Starliner 72
 
 
 M
+
+
 Magnadon Provincial Merchant 48
 Maru Standard Merchant 40
 Medical Scout 14
@@ -11839,6 +12172,8 @@ Merchant Trader 30
 
 
 N
+
+
 Nguksu Fast Trader 152
 
 # I NDEX
@@ -11892,6 +12227,8 @@ Surtr Bombardier 146
 
 
 T
+
+
 The Aslan 133
 The Military 97
 The Sword Worlds 141
@@ -11903,11 +12240,15 @@ Triad Merchant Vessel 52
 
 
 V
+
+
 Valour Missile Corvette 106
 Volitant Far Trader 26
 
 
 W
+
+
 Working Ships 77
 
 

@@ -115,8 +115,7 @@ A character's starting Charisma is determined by rolling 1d6+2. Charisma rises a
 
 Traits All subspecies of Vargr have the Natural Weapon (bite) and Uplifted traits (see pages 41 and 42 of the Traveller Core Rulebook). They also have Notable and Weak characteristics depending on the subspecies. With the Referee's permission players can roll or choose one of the Vargr subspecies as listed in the table, otherwise the character will be a standard Vargr. Further details of the Vargr subspecies can be found in the next chapter on page 32.
 
-All Vargr can use their teeth and claws in combat. Teeth do 1d6+1 damage. Vargr claws are not as effective as animal claws and deal standard unarmed damage of 1d6. Teeth and claws can both be used when attacks are made with the Melee
-(infi ghting) skill (see page 28 for details).
+All Vargr can use their teeth and claws in combat. Teeth do 1d6+1 damage. Vargr claws are not as effective as animal claws and deal standard unarmed damage of 1d6. Teeth and claws can both be used when attacks are made with the Melee (infi ghting) skill (see page 28 for details).
 
 Vargr have better hearing and smell than humans, giving them a +1 DM to any Recon and Survival checks that use these senses. Vargr eyesight is less effective than humans in darkness, giving them a –1 DM to any skill check involving eyesight in dark conditions.
 
@@ -125,6 +124,8 @@ Vargr are capable of short bursts of speed and may double their movement speed a
 Gender Vargr may be male or female. There is roughly the same amount of males as females in Vargr society and there are no distinctions or limitations on what roles they may perform. Players may select their gender or roll 1d6; on a roll of 1–3 the character is male, a roll of 4–6 is female.
 
 SUBSPECIES
+
+
 
 | d66 Subspecies Additional Traits
 | 11 Kokasha Notable Intelligence (+2), Weak Strength (–2), Weak Endurance (–2)
@@ -176,6 +177,8 @@ Although Vargr have the same psionic potential as humans, the primary factor hol
 Vargr attitudes towards psionics vary from place to place – many worlds are indifferent but some governments have outlawed the use of psionics, some encourage it and to other cultures such abilities are blasphemous.
 
 CAREERS
+
+
 
 | Career Specialization Qualifi cation Survival Advancement
 | Army Cha 6+
@@ -239,6 +242,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 | Roll Personal Development Service Skills Advanced Education (Minimum Edu 8)
 | 1 +1 Strength Athletics (any) Comms
 | 2 +1 Dexterity Drive (any) Navigation
@@ -269,6 +274,8 @@ Infantry Cavalry Support Survival Str 6+ Dex 7+ End 5+ Advancement Cha 5+ Cha 6+
 
 MISHAPS
 
+
+
 | 1d6 Mishap
 | 1 Severely injured in action. Roll twice on the Injury table and take the lower result.
 | 2 Most of your unit are killed in battle, for which you blame the pack leader. With no other survivors to witness his lack of skill he has you removed from the service; you lose 1 Charisma and gain him as an Enemy.
@@ -278,6 +285,8 @@ MISHAPS
 | 6 Injured. Roll on the Injury table.
 
 EVENTS
+
+
 
 | 2d6 Events
 | 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career.
@@ -293,6 +302,8 @@ EVENTS
 | 12 You perform a heroic deed in battle. Gain 1 Charisma and an automatic promotion.
 
 RANKS AND SKILLS
+
+
 
 | Rank Infantry/Cavalry Skill or Benefi t Support Skill or Benefit
 | 1 Private Melee (any) 1 Battle-Technician Mechanic 1or Medic 1
@@ -319,6 +330,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills Advanced Education (Minimum Edu 8) 1 +1 Education Streetwise Art (any) 2 +1 Intelligence Drive (any) Language (any) 3 Melee (any) Admin Advocate 4 Drive (any) Computers Diplomat 5 Computers Steward Computers 6 Jack of all Trades Trade (any) Science (any) Roll Specialist: Corporate Specialist: Aide Specialist: Worker 1 Admin Steward Trade (any) 2 Broker Admin Drive (any) 3 Computers Advocate Engineer (any) 4 Diplomat Computers Mechanic 5 Leadership Drive (any) Science (any) 6 Admin Steward Trade (any)
 
 Corporate Aide Worker Survival Edu 6+ Int 5+ End 4+ Advancement Cha 6+ Cha 5+ Cha 4+
@@ -327,14 +340,20 @@ MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 1,000 Contact 2 5,000 One Shi
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Injured. Roll on the Injury table. 2 You make a terrible mistake in your job causing a halt in production or the loss of a client. Lose 1 Charisma and suffer a
 –2 DM to your next Advancement roll. 3 Hard times caused by a poor economic climate puts you out of a job. You must change your career. 4 The company you work for is suspected of illegal activities. You can aid in the investigations and gain a +2 DM to the Qualifi cation check for your next career, or refuse and gain an Ally. 5 A revolution, attack or other unusual event forces you to leave the planet. Roll Charisma 7+ to fi nd a new pack or receive a –2 DM to your next Qualifi cation roll. 6 A power struggle in your pack ends badly for you. Lose 1 Charisma and gain a Rival.
 
 EVENTS
 
+
+
 2d6 Events 2 Disaster! Roll on the Mishap table, but you are not ejected from this career. 3 A power struggle in your pack forces you to choose sides. Roll Charisma 8+ to support the winning side and gain a + DM to your next Advancement roll. If you fail, suffer a –2 DM to your next Survival roll. 4 You enrol for further education. Roll on the Advanced Education skills table whether you qualify or not. 5 Your corporation or organization grows. Gain a +1 DM to one Benefi t roll. 6 You receive advanced training. Roll Education 8+ to increase one skill you already have by one level. 7 Life Event. Roll on the Vargr Life Events table (page 28). 8 You learn a corporate secret or political scandal. If you choose to profi t by this gain a +2 DM to your next Advancement roll, +1 to your next benefi ts roll, lose 1 Charisma and gain one of Streetwise 1, Deception 1 or a criminal Contact. 9 Your leader praises you on your excellent work. Gain a +2 DM to your next Advancement roll. 10 Your leader is losing the respect of the pack. Roll Charisma 10+ to become the new pack leader and gain an automatic promotion. 11 You support a pack member who becomes the new leader. Gain an Ally and a +4 DM to your next Advancement roll. 12 You are well respected by your pack and superiors. Gain +1 Charisma or an automatic promotion.
 
 RANKS AND SKILLS
+
+
 
 Rank Corporate Skill or Benefi t Aide Skill or Benefi t Worker Skill or Benefi t 1 Assistant Steward 1 Technician Trade 1 2 Manager Admin 1 Junior Aide 3 Aide 4 Senior Manager Advocate 1 Senior Aide Admin 1 Senior Technician
 
@@ -359,6 +378,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills 1 +1 Strength Vacc Suit 2 +1 Dexterity Zero-G 3 Gambler Stealth 4 Gun Combat (any) Recon 5 Melee (any) Melee (any) 6 +1 Charisma Gun Combat (any) Roll Specialist: Raider Specialist: Pilot Specialist: Reaver 1 Stealth Pilot (any) Engineering (any) 2 Recon Astrogation Computers 3 Melee (any) Comms Gunnery (any) 4 Gun Combat (any) Sensors Mechanic 5 Zero-G Zero-G Zero-G 6 Leader Pilot (any) Engineering (any)
 
 Raider Pilot Reaver Survival End 7+ End 6+ End 6+ Advancement Cha 7+ Cha 6+ Cha 6+
@@ -367,13 +388,19 @@ MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 1,000 Ship Share 2 5,000 +1 D
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Severely injured in action. Roll twice on the Injury table and take the lower result. 2 You are arrested but are able to pay a fi ne to earn your freedom. Lose one Benefi t roll from this career and you lose 1 Charisma. 3 You are betrayed by a member of your band, ending your career as a Corsair. If you have an Ally or Contact in the band he is now an Enemy, otherwise gain an Enemy. 4 A job goes wrong and the pack looks for new leadership. Roll Charisma 8+ to support the winning side. If you fail you are forced to leave the band and gain a Rival. 5 You make a mistake forcing your pack to fl ee from the local law enforcement. You lose 1 Charisma and are forced to leave your corsair band. 6 Injured. Roll on the Injury table.
 
 EVENTS
 
+
+
 2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 You are arrested and hire a lawyer who gets the charges dropped. You lose one Benefi t roll but gain the lawyer as a Contact. 4 You are forced into hiding on a hostile world. Gain Survival 1. 5 You gain a Contact in the criminal underworld. 6 One of your raids is particularly successful. Gain a Benefi t roll. 7 Life Event. Roll on the Vargr Life Events table (see page 28). 8 Your time spent in the criminal underworld gives you one of Streetwise 1, Stealth 1, Melee (any) 1 or Gun Combat (any) 1. 9 You become involved in a territorial war with a rival corsair band. Roll Gun Combat (any) or Melee (any) 8+ to help defeat them. Gain 1 Charisma if you succeed or roll on the Injury table if you fail. 10 Your leader uses poor judgement and your band suffers heavy losses. Roll Charisma 10+ to become the new pack leader and gain an automatic promotion. 11 You support a pack member who becomes the new leader. Gain an Ally and a +4 DM to your next Advancement roll. 12 Your raiding skills have become legendary. You gain an automatic promotion and +1 Charisma.
 
 RANKS AND SKILLS
+
+
 
 Rank Raider Skill or Benefi t Pilot Skill or Benefi t Reaver Skill or Benefi t 1 Raider Melee 1 Sensors 1 Engineer 1 2 Gun Combat 1 Astrogation 1 3 4 Commander Leadership 1 Pilot 1 Leadership 1 5 6 Captain Tactics 1
 
@@ -395,6 +422,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills Advanced Education (Minimum Edu 8) 1 +1 Charisma +1 Intelligence Admin 2 +1 Education Admin Advocate 3 +1 Intelligence Advocate Art (any) 4 Computers Computers Language (any) 5 Carouse Diplomat Science (any) 6 +1 Charisma Carouse Diplomat Roll Specialist: Arbitrator Specialist: Diplomat Specialist: Negotiator 1 Advocate Diplomat Broker 2 Deception Admin Admin 3 Computers Advocate Advocate 4 Investigate Carouse Computers 5 Persuade Computers Persuade 6 Diplomat Diplomat Broker
 
 Arbitrator Diplomat Negotiator Survival Cha 8+ Cha 7+ Cha 7+ Advancement Cha 8+ Cha 6+ Cha 7+
@@ -403,13 +432,19 @@ MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 5,000 +1 Intelligence 2 5,000
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Injured. Roll on the Injury table. 2 Your failed negotiations earn you a bad reputation. You are forced out of your position and lose 1 Charisma. 3 You are outclassed by another Emissary. Gain him as a Rival and roll Charisma 6+ to avoid losing 1 Charisma in the fallout. 4 Failed dealings force your pack to look for new leadership. Roll Charisma 8+ to support the winning side. If you fail you suffer a –2 DM to your next Survival roll. 5 An assassin attempts to take your life. Roll Endurance or Melee (infi ghting) 8+. If you fail you are injured (roll on the Injury table). If you succeed you may continue in this career. 6 An opposing Emissary attempts to humiliate you. Roll Broker, Diplomat or Persuade 10+ to outmaneuver him. If you succeed you may continue in this career and you gain him as a Rival. If you fail you are forced out of your position and you gain him as an Enemy.
 
 EVENTS
 
+
+
 2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 Negotiations are going badly. You can either cut your losses and lose 1 Charisma or roll Broker, Diplomat or Persuade 10+. If you fail you lose 1 Charisma, one Benefi t roll and suffer a –2 DM to your next Advancement roll. If you succeed, gain 1 Charisma and a +2 DM to your next Advancement roll. 4 You successfully negotiate a diffi cult situation and are rewarded. You gain a +1 DM to one Benefi t roll. 5 Through your many dealings and negotiations you have met many infl uential people. Roll Charisma 8+ to gain an Ally. If you fail you gain a Contact instead. 6 You are given advanced training. Roll Education 8+ to gain any skill you are eligible for in this career. 7 Life Event. Roll on the Life Events table. 8 Your dedication and diligence to your career earns you one of Advocate 1, Broker 1 or Diplomacy 1. 9 During some high stake negotiations, a charismatic pack leader from the opposing side offers you a lucrative deal to switch sides. If you accept gain one Benefi t roll and your previous employer becomes a Rival. If you refuse, your current employer becomes an Ally and you gain +2 to your next Survival roll. 10 Your continued success has earned you much respect from your pack. Roll Charisma 10+ to become pack leader and gain an automatic promotion. 11 Your successful career has placed you in a favorable position. Gain one Benefi t roll or +4 DM to your next Advancement roll. 12 You have done exemplary work for your pack and organization. Gain an automatic promotion and +1 Charisma.
 
 RANKS AND SKILLS
+
+
 
 Rank Arbitrator Skill or Benefi t Diplomat Skill or Benefi t Negotiator Skill or Benefi t 1 Emissary Advocate 1 Envoy Carouse 1 Persuade 1 2 Carouse 1 3 Diplomat 1 Ambassador Diplomat 1 Broker 1 4 5 6 +1 Charisma
 
@@ -428,6 +463,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills Advanced Education (Minimum Edu 8) 1 +1 Dexterity Advocate Advocate 2 +1 Endurance Computers Comms 3 +1 Intelligence Investigate Computers 4 Gun Combat (any) Recon Investigate 5 Melee (any) Gun Combat (any) Medic 6 +1 Charisma Melee (blade) Stealth Roll Specialist: Enforcer Specialist: Investigator Specialist: Security 1 Advocate Streetwise Computers 2 Streetwise Computers Investigate 3 Recon Deception Recon 4 Stealth Investigate Melee (any) 5 Melee (any) Persuade Gun Combat (any) 6 +1 Dexterity Stealth +1 Dexterity
 
 Enforcer Investigator Security Survival End 6+ Int 7+ Int 5+ Advancement Cha 5+ Cha 6+ Cha 7+
@@ -436,13 +473,19 @@ MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 1,000 Scientifi c Equipment 2
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Severely injured in action. Roll twice on the Injury table and take the lower result. 2 A charismatic criminal under investigation offers you a deal. Accept and you are forced from this career and lose 1 Charisma. Refuse and you must roll on the Injury table and gain an Enemy. 3 An investigation goes critically wrong, ending your career. Roll Advocate 8+. If you succeed you may keep the Benefi t roll from this term. If you fail you lose 1 Charisma. 4 A failed investigation forces your pack to fi nd new leadership. Roll Charisma 8+ to be on the winning side and remain in this career. If you fail, you leave your pack and career. 5 You uncover important information and people want to kill you for it. Gain one Enemy and you suffer a –2 DM to your next Survival roll if you remain in this career. 6 Injured. Roll on the Injury table.
 
 EVENTS
 
+
+
 2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 An investigation takes a dangerous turn. Roll Investigation or Streetwise 8+. If you fail, roll on the Mishap table. If you succeed, gain 1 Charisma or increase one of the following skills by one level: Deception, Jack of all Trades, Stealth, Streetwise, Tactics (any). 4 You establish a network of contacts. Gain a number of Contacts equal to your Charisma modifi er (minimum of 1). 5 You are rewarded for a successful mission. Gain a +1 DM to any Benefi t roll from this career. 6 You are given advanced training. Roll Education 8+ to gain any skill you are eligible for in this career. 7 Life Event. Roll on the Vargr Life Events table (page 28). 8 An investigation uncovers a warehouse full of illegal goods. You may choose to profi t from your discovery and roll Deception 8+. If you fail, lose 1 Charisma and suffer a –4 DM to your next survival roll. If you succeed, gain one Benefit roll. 9 You go undercover to pursue an investigation. Pick another career to use as your cover and roll Deception 8+. If you fail, roll on the Mishap table for that career. If you succeed, roll on any specialist skill table for the chosen career and gain a +2 DM to your next Advancement in this career. 10 During a dangerous investigation you save the life of one of your pack members. Gain an Ally. 11 Your successes have earned you much respect from your superiors. Gain a +4 DM to your next Advancement roll. 12 You solve a big case or uncover a conspiracy against your employers. You are automatically promoted and gain 1 Charisma.
 
 RANKS AND SKILLS
+
+
 
 Rank Enforcer Skill or Benefi t Investigator Skill or Benefi t Security Skill or Benefi t 1 Corporal Melee (any) 1 Investigator Investigate 1 Melee (any) 1 2 Sergeant Streetwise 1 3 Lieutenant Detective Streetwise Recon 1 4 Superintendent Advocate 1 5 Chief Stealth 1 6 Commissioner +1 Charisma
 
@@ -462,6 +505,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills 1 +1 Dexterity Gun Combat (any) 2 +1 Endurance Melee (any) 3 +1 Intelligence Drive (any) 4 Melee (any) Pilot (any) 5 Survival Sensors 6 +1 Charisma Survival Roll Specialist: Hunter Specialist: Prospector Specialist: Explorer 1 Athletics (any) Astrogation Astrogation 2 Gun Combat (any) Comms Comms 3 Melee (any) Pilot (any) Computers 4 Recon Prospecting Sensors 5 Stealth Sensors Survival 6 +1 Dexterity +1 Intelligence Pilot (any)
 
 Hunter Prospector Explorer Survival Dex 5+ End 7+ End 6+ Advancement Dex 6+ Int 6+ Int 8+
@@ -470,15 +515,21 @@ MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 1,000 Weapon 2 2,000 +1 Endur
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Injured. Roll on the Injury table. 2 You fail to provide for your pack or fi nd suitable territory. Lose 1 Charisma. 3 Another Loner is operating in the area and you must compete to be successful. Gain him as a Rival. 4 You crash on an uninhabited world or are stranded in a hostile region. Gain one of Animals (any) 1, Recon 1 or Survival
 
 1. You may remain in this career but you lose all Benefi t rolls for this term. 5 You are ambushed by a corsair band and lose all Benefi t rolls for this term. Roll Endurance 6+. If you fail, roll on the Injury table. 6 There is a gap in your memory and you have no idea what happened to you.
 
 EVENTS
 
+
+
 2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 A patron offers you a job. If you accept the offer you gain a +4 DM to your next Qualifi cation roll and gain him as a Contact. 4 Your independence has forced you to rely on your own specialist skills. Roll Edu 6+ to gain one skill from your specialist skill table. 5 Your self-reliance allows you to adapt to all situations. Gain the Jack of all Trades skill. 6 You are boarded or attacked by a corsair band but you have nothing of value. Roll Charisma 6+. If you succeed, the Corsairs will offer you a position in their band and you automatically qualify for that career. If you fail the roll or refuse their offer, roll on the Injury table. 7 Life Event. Roll on the Vargr Life Events table (page 28). 8 You fi nd some salvage or abandoned goods on your travels. Gain one Benefi t roll. 9 You have a successful expedition. Gain a +1 DM to one Benefi t roll for this career. 10 You thrive on adversity and learn the wisdom of the old saying 'What doesn't kill you will only make you stronger'. Roll Survival 8+. If you succeed, gain +1 to any physical characteristic. If you fail, roll on the Injury table. 11 You excel at your career. Gain a +2 DM to your next Survival roll and a +2 DM to your next Advancement roll. 12 You hit the mother lode. You are automatically promoted and gain 1 Charisma.
 
 RANKS AND SKILLS
+
+
 
 Rank Hunter Skill or Benefi t Prospector Skill or Benefi t Explorer Skill or Benefi t 1 Stealth 1 Prospecting 1 Pilot 1 2 3 Survival 1 Pilot 1 Survival 1 4 5 6
 
@@ -499,6 +550,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills Advanced Education (Minimum Edu 8) 1 +1 Strength Battle Dress Survival 2 +1 Dexterity Zero-G Drive (any) 3 +1 Endurance Recon Pilot (any) 4 Melee (any) Gun Combat (any) Medic 5 Leadership Melee (blade) Tactics (any) 6 +1 Charisma Tactics (any) Leadership Roll Specialist: Marine Specialist: Special Ops Specialist: Support 1 Athletics (any) Athletics (any) Medic 2 Battle Dress Recon Engineering (any) 3 Recon Stealth Mechanic 4 Gun Combat (any) Pilot (any) Comms 5 Melee (blade) Melee (blade) Engineering (any) 6 Heavy Weapons (any) Gun Combat (any) Medic
 
 Marine Special Ops Support Survival End 6+ Dex 7+ End 5+ Advancement Cha 7+ Cha 8+ Cha 6+
@@ -507,16 +560,21 @@ MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 2,000 Blade 2 5,000 +1 Dexter
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Severely injured in action. Roll twice on the Injury table and take the lower result. 2 You are captured and tortured by an opposing force. Lose 1 Charisma and roll Endurance 8+. If you fail, roll on the Injury table. 3 Your pack fails to defeat an enemy or corsair band. Lose 1 Charisma and gain the opponent as an Enemy. 4 A mission goes wrong and you are stranded behind enemy lines. Increase Stealth or Survival by one level but due to the failure you lose 1 Charisma and are dismissed from service. 5 You oppose your pack leader but fail to win over the rest of the pack. Roll Charisma 8+. If you fail, you are ejected from this career. If successful, you gain a Rival and suffer a –2 DM to your next Advancement roll. 6 Injured. Roll on the Injury table.
 
 EVENTS
+
+
 
 2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 You are captured and tortured by an enemy. You eventually escape and gain +1 Endurance from the ordeal. 4 Your time aboard spacecraft has made you profi cient in the space environment. Gain one level in Vacc Suit or Zero-G. 5 You have become an experienced fi ghter. Gain one level in Gun Combat (any), Melee (any) or Recon. 6 You are given advanced training. Roll Education 8+ to gain any skill you are eligible for in this career. 7 Life Event. Roll on the Vargr Life Events table (see page 28). 8 You save the life of a pack member. Gain an Ally. 9 You are assigned to a black ops mission. Gain Tactics (any) 1 and a +2 DM to your next Advancement roll. 10 Your leader is killed and you attempt to take command of the unit. Roll Charisma 8+. If you succeed, you become the pack leader and gain a +2 DM to your next Advancement role. 11 Your skill and performance in battle earns much respect from your leader. Gain a +4 DM to your next Advancement roll. 12 You perform a heroic deed in battle. You are automatically promoted and gain 1 Charisma.
 
 RANKS AND SKILLS
 
-Rank Marine Skill or Benefi t Special Ops Skill or Benefi t Support Skill or Benefi t 1 Private Melee (blade) 1 Agent Stealth 1 Marine-Tech Mechanic 1or Medic 1 2 Corporal 3 Sergeant Gun Combat
-(any) 1
+
+
+Rank Marine Skill or Benefi t Special Ops Skill or Benefi t Support Skill or Benefi t 1 Private Melee (blade) 1 Agent Stealth 1 Marine-Tech Mechanic 1or Medic 1 2 Corporal 3 Sergeant Gun Combat (any) 1
 
 Field Agent Melee (any) 1 or Gun Combat (any) 1
 
@@ -547,6 +605,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills Advanced Education (Minimum Edu 8) 1 +1 Intelligence Admin Advocate 2 +1 Education Streetwise Admin 3 Melee (any) Computers Astrogation 4 Streetwise Drive (any) Computers 5 Contact Broker Language (any) 6 +1 Charisma Persuade Social Science (any) Roll Specialist: Junk Dealer Specialist: Scrounger Specialist: Free Trader 1 Persuade Broker Persuade 2 Admin Admin Broker 3 Broker Computers Vacc Suit 4 Computers Deception Zero-G 5 Streetwise Persuade Sensors 6 Persuade Broker Pilot (spacecraft)
 
 Junk Dealer Scrounger Free Trader Survival Edu 5+ Int 6+ Int 5+ Advancement Cha 6+ Cha 7+ Cha 5+
@@ -555,13 +615,19 @@ MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 1,000 Scientifi c Equipment 2
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Injured. Roll on the Injury table. 2 A war or local hostilities block trade routes, putting you out of business. Roll Endurance 8+. If you fail, roll on the Injury table. 3 You, or a member of your business pack, were involved in illegal activities. Your business is closed and you lose 1 Charisma. 4 A rival company puts you out of business. You keep your Benefi ts for this term but gain the merchant as a Rival. 5 One of your employees attempts to take leadership of the pack. Roll Charisma 8+. If you fail, you lose your business and gain an Enemy. If you succeed, you may continue in this career and gain a Rival. 6 The economic climate hits you hard forcing you into bankruptcy. Your business fails and you lose all Benefi ts for this term.
 
 EVENTS
 
+
+
 2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 You are approached by someone to buy or smuggle illegal goods for them. If you accept, roll Deception 8+ to gain a Benefi t roll with a +1 DM. If you fail you are arrested and lose 1 Charisma. If you refuse the deal, you gain an Enemy. 4 You fi nd a bargain. Gain a +1 DM to any Benefi t roll for this career. 5 You enrol on a training course to further your knowledge. Roll Education 8+ to gain any skill. 6 Your business is suspected of illegal activities but your own efforts prove your innocence. Gain one of Advocate, Admin, Diplomacy, Investigate or Persuade. 7 Life Event. Roll on the Vargr Life Events table (page 28). 8 You negotiate a lucrative business deal. Gain one Benefi t roll. 9 You do a lot of business with one company, preventing them from going out of business. Gain an Ally. 10 You establish a network of business contacts. Gain a number of Contacts equal to your Charisma modifi er (minimum of 1). 11 You do business with an infl uential corporation or organization. Gain 1 Charisma and a +2 DM to your next Advancement roll. 12 Your business thrives. You are automatically promoted and Gain 1 Charisma.
 
 RANKS AND SKILLS
+
+
 
 Rank Junk Dealer Skill or Benefi t Scrounger Skill or Benefi t Free Trader Skill or Benefi t 1 Persuade 1 Computers 1 Persuade 1 2 3 Broker 1 Broker 1 Pilot 1 4 5 6
 
@@ -582,6 +648,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills Advanced Education (Minimum Edu 8) 1 +1 Strength Gun Combat (any) Admin 2 +1 Dexterity Gunnery (any) Astrogation 3 +1 Endurance Mechanic Comms 4 +1 Intelligence Pilot (any) Computers 5 Melee (any) Vacc Suit Navigation 6 +1 Charisma Zero-G Remote Operations Roll Specialist: Pilot Specialist: Crew Specialist: Engineer 1 Pilot (small craft) Astrogation Engineer (any) 2 Astrogation Comms Computers 3 Flyer (any) Computers Mechanic 4 Gunnery (any) Gunnery (any) Science (any) 5 Zero-G Sensors Zero-G 6 Pilot (any) Zero-G Engineer (any)
 
 Pilot Crew Engineer Survival Dex 7+ Int 5+ Int 6+ Advancement Cha 7+ Cha 6+ Cha 5+
@@ -590,13 +658,19 @@ MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 1,000 Blade 2 2,000 Armor 3 5
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Severely injured in action. Roll twice on the Injury table and take the lower result. 2 You compete with another pack member for power and respect. Gain a Rival. 3 Your pack fails to defeat an enemy or corsair band. Lose 1 Charisma and gain the opponent as an Enemy. 4 You make a critical mistake in battle causing your ship to be disabled. You lose 1 Charisma and are dismissed from service. 5 There is a power struggle in your pack and you support the losing side. Roll Charisma 8+. If you fail, you suffer a –2 DM to your next Advancement roll. 6 Injured. Roll on the Injury table.
 
 EVENTS
 
+
+
 2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 You are given a special assignment onboard ship. Gain a +1 DM to any Benefi t roll for this career. 4 You help out a member of the crew. Gain a Contact. 5 Your time aboard spacecraft has made you profi cient in the space environment. Gain one level in Vacc Suit or Zero-G. 6 You are given advanced training. Roll Education 8+ to gain one level in any skill you are eligible for in this career. 7 Life Event. Roll on the Vargr Life Events table (see page 28). 8 You have become an experienced space hand. Gain one level in Astrogation, Comms or Pilot (any). 9 You have learned to adapt to a variety of situations during your time in space. Gain Jack of all Trades 1. 10 Your leader is killed and you attempt to take command of the unit. Roll Charisma 8+. If you succeed, you become the pack leader and gain a +2 DM to your next Advancement role. 11 Your exemplary performance earns respect from your leader. Gain a +4 DM to your next Advancement roll. 12 Your quick thinking and actions save your ship from destruction. You are automatically promoted and gain 1 Charisma.
 
 RANKS AND SKILLS
+
+
 
 Rank Pilot/Crew Skill or Benefi t Engineer Skill or Benefi t 1 Sub-Lieutenant Vacc Suit 1 Engineer Vacc Suit 1 2 Lieutenant 3 Lieutenant-Commander Pilot (any) 1 Engineering (any) 1 4 Commander Leadership 1 Senior Engineer Mechanic 1 5 Captain 6 Admiral +1 Charisma Chief Engineer Leadership 1
 
@@ -619,6 +693,8 @@ Psionic Abilities: Psions must still make a Psionic Strength roll to acquire psi
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills Advanced Education (Minimum Edu 8) 1 Melee (any) Life Science (psionicology) Admin 2 +1 Strength Telepathy Computers 3 +1 Dexterity Clairvoyance Language (any) 4 +1 Endurance Telekinesis Life Science (any) 5 +1 Psionic Strength Awareness Space Science (any) 6 +1 Charisma Teleportation Social Science (any)
 
 Wild Talent Mentored Institute Survival Edu 6+ Cha 6+ End 6+ Advancement Cha 8+ Psi 6+ Int 8+
@@ -629,13 +705,19 @@ Roll Specialist: Wild Talent Specialist: Mentored Specialist: Institute 1 Awaren
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Injured. Roll on the Injury table. 2 You make telepathic contact with an unknown entity. You go missing for 1d6 days and have no memory of the event. If the roll for number of days was 5–6 you also lose 1 Psionic Strength. 3 Your pack discovers you are a psion and they do not look favorably on your kind. You are humiliated and outcast from the pack and the community. You lose 1 Charisma and your next Survival roll suffers a –2 DM penalty. 4 You visit a world where psionics are outlawed. You are arrested and your time in prison forces you to leave this career. 5 You join a pack of other psions and lose the power struggle for leadership. Gain a Rival. 6 You are experimented on by a corporation, government or psionic institute. Roll 1d6. On a 1–2 you suffer an injury; roll on the Injury table. On a 3–4 you lose 1 Psionic Strength. On a 5–6 there are no complications but you are forced to leave this career.
 
 EVENTS
 
+
+
 2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 You make telepathic contact with an unknown entity. You go missing for 1d6 days and have no memory of the event. If the roll for number of days was 5–6 you also lose 1 Psionic Strength. 4 You come into contact with an alien device. Roll 1d6. On a 1–2 you are injured; roll on the Injury table. On a 3–4 you gain one level in a psionic talent you already know. On a 5–6 you gain 1 Psionic Strength. 5 You excel in your career; gain a +1 DM to one Benefi t roll from this career. 6 You receive advanced training. Roll Education 8+ to gain one level in any non-psionic related skill. 7 Life Event. Roll on the Vargr Life Events table (see page 28). 8 You receive additional psionic training. Roll Psionic Strength 10+ to gain a new psionic talent. If you fail, gain one level in Life Science (psionicology). 9 Your quick thinking and use of psionic abilities save the life of a pack member. Gain 1 Charisma and an Ally. 10 You dedicate your spare time to psionic training. Gain 1 Psionic Strength. 11 You befriend a mentor. Gain a Contact and a +4 DM to your next Advancement roll. 12 You have a natural aptitude for psionics. You are automatically promoted.
 
 RANKS AND SKILLS
+
+
 
 Rank Wild Talent Skill or Benefi t Mentored Skill or Benefi t Institute Skill or Benefi t 1 Survival 1 Journeyman Streetwise 1 Initiate Life Science (psionicology) 1 2 Streetwise 1 3 Adept Telepathy 1 or Clairvoyance 1
 
@@ -661,6 +743,8 @@ Assignments: Choose one of the following:
 
 SKILLS AND TRAINING
 
+
+
 Roll Personal Development Service Skills Advanced Education (Minimum Edu 8) 1 Computers Computers Admin 2 +1 Dexterity Investigate Engineer (any) 3 +1 Endurance Life Science (any) Investigate 4 +1 Intelligence Physical Science (any) Language (any) 5 +1 Education Space Science (any) Medic 6 +1 Charisma Social Science (any) Science (any) Roll Specialist: Doctor Specialist: Researcher Specialist: Technician 1 Medic Investigate Science (any) 2 Computers Computers Comms 3 Investigate Science (any) Computers 4 Persuade Sensors Engineer (any) 5 Science (any) Survival Sensors 6 Medic Investigate Science (any)
 
 Doctor Researcher Technician Survival Edu 6+ Edu 7+ Edu 5+ Advancement Int 8+ Int 7+ Int 6+
@@ -669,15 +753,19 @@ MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 5,000 Scientifi c Equipment 2
 
 MISHAPS
 
+
+
 1d6 Mishap 1 Injured. Roll on the Injury table. 2 A lab accident exposes you to a dangerous substance. Lose 1 Endurance. 3 An experiment goes critically wrong and causes the death of several pack members. You are forced to leave this career and lose 1d6 Charisma. 4 You are assigned to an off-world laboratory but your ship crashes en route. Gain Survival 1 and roll Endurance 8+. If you fail, roll on the Injury table. 5 Your employers cancel your research. You may continue this career but you gain no Benefi ts this term. Alternatively, you can roll Charisma 8+. If successful, you continue your work with another pack but gain an Enemy of your previous employer. If you fail, you are forced to leave this career. 6 A rival scientist discredits you or steals your research. Gain a Rival, lose 1 Charisma and suffer a –2 DM to your next Survival roll.
 
 EVENTS
 
-2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 You are assigned to a military project. Gain a Contact and one of Gun Combat (any), Engineering (any), Heavy Weapons
-(any) or Space Science (any). 4 You are singled out and assigned to work on a secret project and forbidden to discuss this with anyone, even members of your pack. Gain Deception 1. 5 You are assigned to an orbiting laboratory or lab ship. Gain one level in Vacc Suit or Zero-G. 6 You are given advanced training. Roll Education 8+ to gain one level in any skill you are eligible for in this career. 7 Life Event. Roll on the Vargr Life Events table (see page 28). 8 You work with several institutes and research facilities. Gain a number of Contacts equal to your Charisma modifi er
-(minimum of 1). 9 You become friends with a brilliant but eccentric mentor. Gain an Ally and one level in any Science skill. 10 You make a minor scientifi c discovery. Gain 1 Charisma and a +1 DM to a Benefi t roll from this career. 11 You work for a prestigious organization. Gain a +1 DM to a Benefi t roll from this career and a +4 DM to your next Advancement roll. 12 You make a scientifi c breakthrough. You are automatically promoted and gain 1 Charisma.
+
+
+2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 You are assigned to a military project. Gain a Contact and one of Gun Combat (any), Engineering (any), Heavy Weapons (any) or Space Science (any). 4 You are singled out and assigned to work on a secret project and forbidden to discuss this with anyone, even members of your pack. Gain Deception 1. 5 You are assigned to an orbiting laboratory or lab ship. Gain one level in Vacc Suit or Zero-G. 6 You are given advanced training. Roll Education 8+ to gain one level in any skill you are eligible for in this career. 7 Life Event. Roll on the Vargr Life Events table (see page 28). 8 You work with several institutes and research facilities. Gain a number of Contacts equal to your Charisma modifi er (minimum of 1). 9 You become friends with a brilliant but eccentric mentor. Gain an Ally and one level in any Science skill. 10 You make a minor scientifi c discovery. Gain 1 Charisma and a +1 DM to a Benefi t roll from this career. 11 You work for a prestigious organization. Gain a +1 DM to a Benefi t roll from this career and a +4 DM to your next Advancement roll. 12 You make a scientifi c breakthrough. You are automatically promoted and gain 1 Charisma.
 
 RANKS AND SKILLS
+
+
 
 Rank Doctor Skill or Benefi t Researcher Skill or Benefi t Technician Skill or Benefi t 1 Medic 1 Investigate 1 Engineer 2 3 Science 1 Science 1 Computers 1 4 5 Computers 1 Computers 1 Science 1 6
 
@@ -685,9 +773,7 @@ Rank Doctor Skill or Benefi t Researcher Skill or Benefi t Technician Skill or B
 
 Two skills are available in Vargr careers that are not detailed in the Traveller Core Rulebook – Infi ghting and Prospecting. Infi ghting is a new speciality for the Melee skill and unique to the Vargr. Prospecting is fully detailed in Adventure 1: Beltstrike but a short description is included here for convenience.
 
-Melee (Infighting) Infi ghting is a Vargr specialization of the Melee skill that combines aspects of Melee (bite) and the Melee (unarmed) skill used by other races. Vargr have unique close combat techniques that involve the use of their teeth and claws. For this reason, Melee
-(natural weapons) and Melee (unarmed) are not available to Vargr characters, they use Melee (infi ghting) instead. Melee
-(infi ghting) works in much the same way as Melee (unarmed) with the following differences.
+Melee (Infighting) Infi ghting is a Vargr specialization of the Melee skill that combines aspects of Melee (bite) and the Melee (unarmed) skill used by other races. Vargr have unique close combat techniques that involve the use of their teeth and claws. For this reason, Melee (natural weapons) and Melee (unarmed) are not available to Vargr characters, they use Melee (infi ghting) instead. Melee (infi ghting) works in much the same way as Melee (unarmed) with the following differences.
 
 Damage depends on the specifi c type of attack as specifi ed by the player. A bite attack (if practical) deals 1d6+1 damage, all other forms of attack deal 1d6 damage. Due to their physiology, Vargr are unable to kick in close combat.
 
@@ -697,15 +783,13 @@ If two Vargr are fi ghting each other, the person losing the fi ght may choose t
 
 Further details of Vargr infi ghting and the role it plays in their society can be found on page 35 of the Vargr Race chapter.
 
-Attacking in melee: Strength or Dexterity, 1–6 seconds, Average
-(+0).
+Attacking in melee: Strength or Dexterity, 1–6 seconds, Average (+0).
 
 Prospecting Prospecting allows the character to search for mineral deposits on planetary surfaces, moons and asteroids. Characters with this skill have a much better chance of discovering deposits than relying on other skills such as Sensors. A successful roll indicates that something of
 
 potential value has been found but there is no guarantee that the initial readings are totally accurate.
 
-Searching for mineral deposits: Intelligence, 1–6 hours, Average
-(+0).
+Searching for mineral deposits: Intelligence, 1–6 hours, Average (+0).
 
 #### VARGR LIFE EVENTS
 
@@ -716,6 +800,8 @@ PACK EVENTS These events affect the character's pack and their position within t
 1d6 Event 1 Failure: Your failure causes a serious problem for your pack such as the loss of a well paid job or the death of a pack member. Your Charisma is reduced by 1. If you are the leader, your pack will look to new leadership until you can redeem yourself. 2 Leave Pack: A change of situation, disagreement or lack of leadership forces you to leave your pack and your job. If you are not in any other packs, roll Charisma 6+ to fi nd another job or you are ejected from your career. 3 Join Pack: You join a new pack. This can be a change of job or employer within your career, or you become involved with another group such as a religion or recreational group. 4 Power Struggle: The leader of your pack does not live up to the reputation his Charisma suggested and you look to other members to replace him. Roll 1d6. On a roll of 1–3 the current leader keeps his position; gain a Rival. On a roll of 4–6 a new leader takes charge of the pack; gain an Ally. 5 Success: You are successful at a particularly diffi cult task and exceed all expectations. Gain 1 Charisma. 6 Leadership Challenge: The leader of your pack fails in his role and the pack looks to a new leader. Roll Leadership or Charisma 10+ to become the pack's new leader. If you fail another member is chosen and you gain a Rival.
 
 LIFE EVENTS
+
+
 
 2d6 Event 2 Sickness or Injury: The character is injured or sick. Roll on the Injury table 3 Birth or Death: Someone close to the character dies, such as a friend or pack member. Alternatively, someone close to the character gives birth (or is born!). The character is involved in some fashion (father or mother, pack member or similar). 4 Ending of Relationship: A romantic relationship involving the character ends. Roll 1d6. On a 1–2 your mate is killed. On a 3–4 your mate leaves you. On a 5–6 you leave your mate. 5 New Relationship: You become romantically involved with an existing Ally, Contact, another player character or a pack member. 6 Pack Event: Roll on the Pack Event table. Characters that are not currently in a pack roll Charisma 7+ to join a pack or gain a new Rival instead. 7 New Contact: The character gains a new Contact. 8 Pack Event: Roll on the Pack Event table. Characters that are not currently in a pack roll Charisma 7+ to join a pack or gain a new Ally instead. 9 Travel: The character moves to another world. You gain a +2 DM to your next Qualifi cation roll. 10 Good Fortune: Something good happens to the character; he comes into money unexpectedly, has a lifelong dream come true or has another stroke of good fortune. Gain a Benefi t roll in your current career or gain 1 Charisma. 11 Crime: The character commits a crime or is accused of a crime. Reduce your Charisma by 1. 12 Unusual Event: Something weird. Roll 1d6: 1 – Psionics. You have an encounter with a psionic phenomenon, such as a human psionic institute, a Zhodani agent or an alien entity. 2 – Aliens. You spent a long time amongst an alien race. Gain Language and a Contact from that race. 3 – Alien artefact. You come into possession of a curious piece of alien technology or an archaeological relic. 4 – Amnesia. There is a gap in your memory. 5 – Contact with government. Your pack became well known and had dealings with a government leader. Gain 1 Charisma. 6 – Ancient technology. You have an item believed to be left behind by the Ancients when they fi rst brought the Vargr to lair.
 
@@ -740,10 +826,9 @@ Time-Keeping For many Traveller activities and adventures there is a need to kee
 
 Imperial Standards: Timekeeping in the Imperium is based on the standard day, which is composed of 24 standard hours. Timekeeping devices use standard hours, minutes and seconds. The Imperial calendar is divided into 365 days, consisting of 52 seven day weeks. Days are numbered from 1 to 365.
 
-Vargr Standards: Like so many aspects of Vargr society, timekeeping can vary between governments, worlds and even packs. Most worlds have a time system based on the length of the local day. A number of scientifi c standards
-(a close approximation to Imperial standards) were developed centuries ago but these methods are now only used by the Vargr scientifi c community.
+Vargr Standards: Like so many aspects of Vargr society, timekeeping can vary between governments, worlds and even packs. Most worlds have a time system based on the length of the local day. A number of scientifi c standards (a close approximation to Imperial standards) were developed centuries ago but these methods are now only used by the Vargr scientifi c community.
 
-Like their daily timekeeping, Vargr calendars vary from one place to another and are usually based on the local solar year of that planet and in some cases the same method is used over larger areas of space but rarely goes beyond the system. Unlike the Imperial calendar that starts at year 0 (the date the Imperium was founded), Vargr calendars date from whatever local event the government or population decide to use as the starting point. This is usually the date that the planet was settled or a government was formed but more unusual events have also been used.
+Like their daily timekeeping, Vargr calendars vary from one place to another and are usually based on the local solar year of that planet and in some cases the same method is used over larger areas of space but rarely goes beyond the system. Unlike the Imperial calendar that starts at year0 (the date the Imperium was founded), Vargr calendars date from whatever local event the government or population decide to use as the starting point. This is usually the date that the planet was settled or a government was formed but more unusual events have also been used.
 
 For game purposes Imperial timekeeping can be used when dealing with the Vargr but Referees can develop their own time systems for specifi c Vargr worlds or groups as required.
 
@@ -809,8 +894,7 @@ Individuality is still important within the pack and each member strives to beco
 
 Large organizations usually consist of several packs divided by their roles or specialities. Where several packs exist in a single organization, a hierarchy exists where the leader of each one answers to the primary pack. This takes power struggles to new levels as individuals not only compete for dominance within their
 
-NON-VARGR CHARISMA For situations where humans or other races are interacting with Vargr, it might become necessary to make Charisma checks for non-Vargr characters. For the purpose of such tests, treat all non-Vargr as having Charisma equal to one quarter of their Social Standing
-(rounded down).
+NON-VARGR CHARISMA For situations where humans or other races are interacting with Vargr, it might become necessary to make Charisma checks for non-Vargr characters. For the purpose of such tests, treat all non-Vargr as having Charisma equal to one quarter of their Social Standing (rounded down).
 
 own pack but with other packs in the organization – a leader of one pack might seek to become the leader of another or he may try to make his pack more dominant within the organization.
 
@@ -1017,8 +1101,7 @@ Morale Vargr gregariousness and their need for leadership makes them very effect
 
 In such situations where there are casualties or a failure to command causes low morale, Vargr players should roleplay the situation and act accordingly by fl eeing, turning to a new leader or attempting to take command themselves.
 
-To determine the effect on Non-Player Characters, the leader must make a Diffi cult (–2 DM) Charisma roll or risk losing the support of his men. Referees can change the task diffi culty to suit the circumstances
-(such as the number of casualties). If the leader fails this check then the men under his command will look to new leadership. On an exceptional failure, the entire unit will fl ee the battlefi eld unless a new leader takes command and rallies the troops.
+To determine the effect on Non-Player Characters, the leader must make a Diffi cult (–2 DM) Charisma roll or risk losing the support of his men. Referees can change the task diffi culty to suit the circumstances (such as the number of casualties). If the leader fails this check then the men under his command will look to new leadership. On an exceptional failure, the entire unit will fl ee the battlefi eld unless a new leader takes command and rallies the troops.
 
 #### CORSAIR BANDS
 
@@ -1144,6 +1227,8 @@ In addition to these basic rules for constructing words, it is important to note
 The Vargr Sound Frequency table shows the relative frequencies to be expected for each sound of the Vargr language. For example, the relative frequency of D as an initial consonant is 5:115.
 
 VARGR SOUND FREQUENCY
+
+
 
 Sound Freq Pronunciation Initial Consonants (115) D5dog DH 5 this DZ 3 sudz F4fang G10gang GH 6 ach voiced GN 2 hag night GV 4 hag view GZ 4 hag zebra K10kite KF 3 lock fist KH 6 ach German KN 3 lock night KS 3 locks L4lock LL 4 miller N2name NG 2 thing R5run RR 4 perro Spanish S5sun T4toy TH 4 think TS 2 its V5vine Z6zebra Vowels (26) A5lock AE 4 kite E2men
 
@@ -1426,8 +1511,7 @@ To represent the diversity of Vargr armor it is purchased as a complete set, wit
 
 Vargr individuals wearing helmets are less able to exert their infl uence and charisma due to a signifi cant amount of facial expressions and body language being concealed under the armor. For this reason, helmets tend only to be part of full armor suits
 
-Armor is as much an expression of a Vargr's personality and achievements as it is for protection. For this reason it is usually customised by each individual with ornamentation and tattoos
-(see page 36 for details). This is especially true of corsairs and military personnel.
+Armor is as much an expression of a Vargr's personality and achievements as it is for protection. For this reason it is usually customised by each individual with ornamentation and tattoos (see page 36 for details). This is especially true of corsairs and military personnel.
 
 Kforzonga (Shoulder Guards, TL6/8): Made from fl exible metals and plastic mesh, kforzonga provide full shoulder protection. The TL8 variety is made from interlocking plates of advanced polymers providing the same protection with less mass. Kforzonga are a favorite amongst corsairs and the military who commonly paint tattoos of rank and pack for all to see. Kforzonga are used in many armor sets and suits.
 
@@ -1459,8 +1543,7 @@ Kungedz-Vaung (Attack Suit, TL8): An attack suit consisting of a chest plate, sh
 
 Kungedz-Dhaganou (Attack Suit, TL8): Comprising of a chest plate, shoulder guards, gauntlets and boots, this attack suit is commonly used by corsairs and marines who require a little extra protection than is provided by other attack suits.
 
-Dhoukha-Thuegzinga (Warrior Suit, TL8): A warrior suit
-(providing full torso protection) that has an armored vest, bracers and knee plates. Like most warrior suits, the Dhoukha- Thuegzinga is favored by marines and mercenaries.
+Dhoukha-Thuegzinga (Warrior Suit, TL8): A warrior suit (providing full torso protection) that has an armored vest, bracers and knee plates. Like most warrior suits, the Dhoukha- Thuegzinga is favored by marines and mercenaries.
 
 Dhoukha-Laersdheg (Warrior Suit, TL8): This warrior suit includes an armored vest, shoulder guards, bracers and knee plates. Of all the warrior suits, this is the one most often used by corsairs who require heavy armor that looks imposing.
 
@@ -1524,11 +1607,11 @@ As a science, Vargr robotics is not particularly advanced due to the social impl
 
 Rueghz (Taskbot, TL12): This general purpose robot is one of the most advanced robots of Vargr design. A considerable skill set is included with this robot allowing it to perform a wide range of tasks. The rueghz is humanoid in appearance with the head design based on Vargr physiology.
 
-Strength 7 (+0), Dexterity 5 (–1), Hull 1, Structure 1 Intelligence 3 (–1), Education 6 (+0) Traits: Computer/3 running Intellect/1, Expert Admin/1, Expert Drive/1, Expert Engineering/1, Expert Mechanic/1, Expert Medical/1 and Expert Steward/1, Integral toolkit Price: Cr. 100,000
+Strength7 (+0), Dexterity5 (–1), Hull 1, Structure 1 Intelligence3 (–1), Education6 (+0) Traits: Computer/3 running Intellect/1, Expert Admin/1, Expert Drive/1, Expert Engineering/1, Expert Mechanic/1, Expert Medical/1 and Expert Steward/1, Integral toolkit Price: Cr. 100,000
 
 Kfakhsue (Advisor, TL13): This small robot is primarily used in an advisory role by corporations and merchants; it can be consulted on all matters pertaining to bureaucracy, law and trade.
 
-Strength 5 (–1), Dexterity 5 (–1), Hull 1, Structure 1 Intelligence 3 (–1), Education 9 (+1) Traits: Computer/3 running Intellect/2, Expert Admin/2, Expert Advocate/2, Expert Broker/2, Expert Economics/2, Integral grav fl oater Price: Cr. 150,000
+Strength5 (–1), Dexterity5 (–1), Hull 1, Structure 1 Intelligence3 (–1), Education9 (+1) Traits: Computer/3 running Intellect/2, Expert Admin/2, Expert Advocate/2, Expert Broker/2, Expert Economics/2, Integral grav fl oater Price: Cr. 150,000
 
 #### WEAPONS
 
@@ -1570,43 +1653,33 @@ Doekha (Hunting Rifl e, TL5): The successor to the koekkha, the doekha is quiete
 
 Knugzang (Autorifl e, TL7): Designed purely for combat the knugzang automatic rifl e is standard issue in many armed forces and a favorite amongst mercenaries too.
 
-Weapon TL Range Damage Auto Recoil Mass
-(kg)
+Weapon TL Range Damage Auto Recoil Mass (kg)
 
-Magazine Cost
-(Cr.)
+Magazine Cost (Cr.)
 
-Ammo Cost
-(Cr.) Pistols Ueggvun (Pistol) 4 Ranged
-(pistol)
+Ammo Cost (Cr.) Pistols Ueggvun (Pistol) 4 Ranged (pistol)
 
 2d6 No –1 1 8 100 5
 
-Ukszou (Autopistol) 6 Ranged
-(pistol)
+Ukszou (Autopistol) 6 Ranged (pistol)
 
 3d6–3 4 0 0.5 16 200 10
 
-Rifl es Koekkha (Hunting Rifl e) 3 Ranged
-(rifl e)
+Rifl es Koekkha (Hunting Rifl e) 3 Ranged (rifl e)
 
 3d6–3 No –1 6 1 100 10
 
-Doekha (Hunting Rifl e) 5 Ranged
-(rifl e)
+Doekha (Hunting Rifl e) 5 Ranged (rifl e)
 
 3d6+2 No 1 5 10 250 20
 
-Knugzang (Autorifl e) 7 Ranged
-(rifl e)
+Knugzang (Autorifl e) 7 Ranged (rifl e)
 
 3d6 4 1 6 32 1,100 25
 
-Weapon TL Range Damage Auto Recoil M a s s
-(kg)
+Weapon TL Range Damage Auto Recoil M a s s (kg)
 
-Magazine Cost
-(Cr.)
+Magazine Cost (Cr.)
 
 Power Pack (Cr.) Ongrrou (Sonic Pistol) 9 Ranged (pistol) Stun No – 2 10 500 150 Ongrung (Sonic Rifl e) 9 Ranged (rifl e) Stun No – 6 30 1,000 250
 
@@ -1622,8 +1695,7 @@ unaffected, if they fail the target falls unconscious for 1d6 rounds and is diso
 
 Ongrung (Sonic Rifl e, TL9): The sonic rifl e emits a powerful directed sound wave at its target. Anyone hit by the ongrung must make an Endurance check with a –4 DM; if successful the target is disoriented for 1d6 rounds, if they fail the target falls unconscious for 2d6 rounds and are disoriented for a further 1d6 rounds after they recover.
 
-Odhkhu (Sonic Grenade, TL8): Sonic grenades emit a blast of high frequency sound to stun anyone within range. Anyone hit by an odhkhu must make an Endurance check with a –4 DM
-(–6 DM for TL10 version); if successful the target is disoriented for 1d6 rounds, if they fail the target falls unconscious for 1d6 rounds and are disoriented for a further 1d6 rounds after they recover.
+Odhkhu (Sonic Grenade, TL8): Sonic grenades emit a blast of high frequency sound to stun anyone within range. Anyone hit by an odhkhu must make an Endurance check with a –4 DM (–6 DM for TL10 version); if successful the target is disoriented for 1d6 rounds, if they fail the target falls unconscious for 1d6 rounds and are disoriented for a further 1d6 rounds after they recover.
 
 #### VEHICLES
 
@@ -1653,7 +1725,7 @@ Weapons Plasma A Gun (dorsal internal traversing, TL10 stabilization) Ammunition
 
 Plasma Missile (left internal traversing, TL10 stabilization) Ammunition: 4 attacks 2.18 32.6 7,200
 
-Plasma Missile (left internal traversing, TL10 stabilization) Ammunition: 4 attacks 2.18 32.6 7,200 Sensors Advanced Hardened, Compact (5 km +3 DM) 2.25 2.5 4,000 Communications Radio 100 km (TL7) 0.5 5 1,000 Environmental Basic Life Support 0.36 72 18,000 Crew 4 (driver, navigator/sensor operator, 2 gunners) – – – Operating Stations 4 5 500 –
+Plasma Missile (left internal traversing, TL10 stabilization) Ammunition: 4 attacks 2.18 32.6 7,200 Sensors Advanced Hardened, Compact (5 km +3 DM) 2.25 2.5 4,000 Communications Radio 100 km (TL7) 0.5 5 1,000 Environmental Basic Life Support 0.36 72 18,000 Crew4 (driver, navigator/sensor operator, 2 gunners) – – – Operating Stations 4 5 500 –
 
 Cargo 0.129 dTons 1.74 174 – Agility +0 DM – – – Speed Cruise: 312 kph Top: 416 kph – – – Total — 36 20,784 4,092,400
 
@@ -1677,7 +1749,7 @@ Fuel 48 litres (6 hours operation) 0.05 48 – Armor 4 0 0 0
 
 Weapons Plasma A Gun (dorsal external traversing, TL10 stabilization) Ammunition: N/A 1.98 4,125 1,875,000
 
-Decoys Anti-Laser Aerosol (6 uses) 0.5 0 500 Sensors Advanced Compact Hardened (5 km +3 DM) 2.25 2.5 16,000 Communications Radio 100 km TL7 0.5 5 1,000 Environmental Life Support, Basic 0.30 60 15,000 Crew 2 (driver, gunner) – – – Operating Stations 2 2.5 250 –
+Decoys Anti-Laser Aerosol (6 uses) 0.5 0 500 Sensors Advanced Compact Hardened (5 km +3 DM) 2.25 2.5 16,000 Communications Radio 100 km TL7 0.5 5 1,000 Environmental Life Support, Basic 0.30 60 15,000 Crew2 (driver, gunner) – – – Operating Stations 2 2.5 250 –
 
 Passengers 12 12 1,200 – Cargo 0.057 dTons 0.42 42 – Agility +0 DM – – – Speed Cruise: 584 kph Top: 779 kph – – – Total — 30 9,858 2,814,063
 
@@ -1692,7 +1764,7 @@ Hydrogen Fuel Cell-9 Power output: 20 Fuel Consumption: 1 per hour
 
 1 125 2,100
 
-Fuel 5 litres (5 hours operation) 0.01 5 – Armor 2 0 0 0 Sensors Basic Compact (1 km +1 DM) 0.25 0.5 1,000 Crew 2 (pilot, navigator) – – – Operating Stations 2 2.5 250 – Agility +0 DM – – – Speed Cruise: 1,026 kph Top: 1,368 kph – – – Total — 3.96 731 105,100
+Fuel 5 litres (5 hours operation) 0.01 5 – Armor 2 0 0 0 Sensors Basic Compact (1 km +1 DM) 0.25 0.5 1,000 Crew2 (pilot, navigator) – – – Operating Stations 2 2.5 250 – Agility +0 DM – – – Speed Cruise: 1,026 kph Top: 1,368 kph – – – Total — 3.96 731 105,100
 
 Gravitic Speeder These open-topped vehicles are the Vargr equivalent of the Air/Raft commonly found in Imperial space. However, the Vargr speeder is much smaller with space for one passenger but what it lacks in size it makes up for in speed.
 
@@ -1716,10 +1788,11 @@ Passengers 7 7 700 – Cargo 0.167 dTons 2.25 225 – Agility +0 DM – – – 
 
 NEW VEHICLE WEAPONS
 
+
+
 Weapon TL
 
-Range
-(km) Blast Radius (m) Damage Cost (Cr.) M^3 Mass (kg) Plasma A Gun 10 6 – 14d6 1,000,000 6 3,000 Plasma Missile
+Range (km) Blast Radius (m) Damage Cost (Cr.) M^3 Mass (kg) Plasma A Gun 10 6 – 14d6 1,000,000 6 3,000 Plasma Missile
 
 12 15 8 8d6 Mega-AP 3,200 0.5 8
 
@@ -1777,6 +1850,8 @@ Piracy: Piracy, hijacking, raiding and similar crimes are more frequent in Vargr
 
 ENCOUNTER MODIFIERS
 
+
+
 Zone DM Highport –3 Patrolled Region –2 Major Trade Route +2 Minor Trade Route +1 Border System +1 Settled Space +1 Empty Space +0
 
 #### CREWS
@@ -1809,13 +1884,11 @@ CORSAIR ENCOUNTERS D66 Encounter 36 or less Uneventful 41–46 Vargr Scout 51–
 
 Tons Price (Cr.)
 
-Cargo 8 Tons 8 2 Staterooms 8 1,000,000 0 Low Berths Extras Gravitic Speeder 1 105,800 Fuel Scoops – Fuel Processors 20 tons per day 1 50,000 Probe Drones (10) 2 1,000,000 Ship's Locker – Software Jump/2 Rating 10 200,000 Maneuver/0 – Library/0 – Maintenance Cost
-(monthly)
+Cargo 8 Tons 8 2 Staterooms 8 1,000,000 0 Low Berths Extras Gravitic Speeder 1 105,800 Fuel Scoops – Fuel Processors 20 tons per day 1 50,000 Probe Drones (10) 2 1,000,000 Ship's Locker – Software Jump/2 Rating 10 200,000 Maneuver/0 – Library/0 – Maintenance Cost (monthly)
 
 2,618
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 4,000
 
@@ -1823,7 +1896,7 @@ Total Tonnage & Cost
 
 100 31,415,800
 
-Tons Price (Cr.) Hull 200 Tons 4 Hull 8,800,000 Streamlined 4 Structure Armor Titanium Steel 2 Points 10 400,000 Jump Drive B Jump 2 15 20,000,000 Maneuver Drive B Thrust 2 3 8,000,000 Power Plant B 7 16,000,000 Bridge 10 1,000,000 Computer Model/1bis Rating 5 (10 for jump control) 45,000 Electronics Standard –4 DM Weapons Hardpoint #1 Single Turret (Beam Laser) 1 1,200,000 Hardpoint #2 Single Turret (Beam Laser) 1 1,200,000 Fuel 50 Tons One Jump-2 and six weeks of operation 50 Cargo 82 Tons 82 5 Staterooms 20 2,500,000 0 Low Berths Extras Fuel Scoops Fuel Processors 20 tons per day 1 50,000 Software Jump/2 Rating 10 200,000 Maneuver/0 — Library/0 — Maintenance Cost (monthly) 4,950 Life Support Cost (monthly) 10,000 Total Tonnage & Cost 200 59,395,000
+Tons Price (Cr.) Hull 200 Tons 4 Hull 8,800,000 Streamlined 4 Structure Armor Titanium Steel 2 Points 10 400,000 Jump Drive B Jump 2 15 20,000,000 Maneuver Drive B Thrust 2 3 8,000,000 Power Plant B 7 16,000,000 Bridge 10 1,000,000 Computer Model/1bis Rating5 (10 for jump control) 45,000 Electronics Standard –4 DM Weapons Hardpoint #1 Single Turret (Beam Laser) 1 1,200,000 Hardpoint #2 Single Turret (Beam Laser) 1 1,200,000 Fuel 50 Tons One Jump-2 and six weeks of operation 50 Cargo 82 Tons 82 5 Staterooms 20 2,500,000 0 Low Berths Extras Fuel Scoops Fuel Processors 20 tons per day 1 50,000 Software Jump/2 Rating 10 200,000 Maneuver/0 — Library/0 — Maintenance Cost (monthly) 4,950 Life Support Cost (monthly) 10,000 Total Tonnage & Cost 200 59,395,000
 
 #### VARGR TRADER
 
@@ -1847,13 +1920,11 @@ Tons Price (Cr.) Hull 200 Tons 4 Hull 8,800,000 Streamlined 4 Structure Titanium
 
 1 100,000
 
-Extras Fuel Scoops Fuel Processors 20 tons per day 1 50,000 2 Mining Drones 20 2,000,000 Ship's Boat 30 17,829,000 Software Fire Control/1 Rating 5 2,000,000 Jump/1 Rating 5 100,000 Maneuver/0 — Library/0 — Maintenance Cost
-(monthly)
+Extras Fuel Scoops Fuel Processors 20 tons per day 1 50,000 2 Mining Drones 20 2,000,000 Ship's Boat 30 17,829,000 Software Fire Control/1 Rating 5 2,000,000 Jump/1 Rating 5 100,000 Maneuver/0 — Library/0 — Maintenance Cost (monthly)
 
 4,852
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 8,000
 
@@ -2041,7 +2112,7 @@ Referee's Information: Annuek uses her natural charm to her advantage but she ha
 
 #### SAMPLE VARGR NPCS
 
-Character Career Path Str Dex End Int Edu Cha Law Enforcement Agent Law Enforcement (Enforcer) 2 7 9 6 7 6 6 Advocate 1, Computers 0, Investigate 1, Recon 1, Gun Combat (slug pistol) 1, Melee (bludgeon) 1, Streetwise 1 Light Suit (3), Autopistol (3d6–3, Auto 4), Stunstick Soldier Army (Infantry) 2 8 8 9 6 5 7 Athletics (Endurance) 1, Drive 0, Gun Combat (slug rifl e) 1, Heavy Weapons 0, Melee (blade) 1, Recon 1 Attack Suit (4), Autorifl e (3d6, Auto 4) Military Offi cer Army (Infantry) 4 9 8 10 8 7 10 Athletics (Endurance) 1, Drive (wheeled) 1, Gun Combat (slug rifl e) 3, Heavy Weapons 0, Leadership 2, Melee (blade) 3, Recon 2 Fighter Set (2), Laser Pistol (3d6) Marine Marines (Marine) 3 8 9 8 7 6 7 Battle Dress 0, Gun Combat (energy rifl e) 2, Melee (blade) 3, Recon 2, Tactics (military) 1, Zero-G 0 Attack Suit (4) or Combat Armor (15), Laser Carbine (4d6), Long Sword (3d6) Mercenary/Thug Army (Infantry) 1 7 7 8 6 6 5 Athletics 0, Drive 0, Gun Combat 0, Heavy Weapons 0, Melee (blade) 1, Recon 1 Bracers (1), Pistol (2d6), Serrated Knife (1d6+4) Corsair Raider Corsair (Raider) 3 9 7 8 6 5 8 Gun Combat (energy pistol) 2, Melee (blade) 3, Recon 1, Stealth 1, Vacc Suit 0, Zero-G 1 Attack Suit (5), Laser Pistol (3d6), Serrated Sword (3d6+4) Junk Dealer Merchant (Junk Dealer) 2 7 6 6 9 7 8 Admin 0, Broker 1, Computers 1, Drive 0, Persuade 2, Streetwise 1 Hand computer Scrounger Merchant (Scrounger) 3 6 6 7 8 8 9 Admin 1, Broker 3, Computers 2, Drive 0, Persuade 1, Streetwise 0 Hand computer Emissary Emissary (Arbitrator) 5 6 6 8 9 8 11 Admin 2, Advocate 3, Carouse 1, Computers 1, Deception 1, Diplomat 4, Investigate 1, Persuade 2 Hand computer Loner Loner (Explorer) 3 7 8 9 7 4 6 Astrogation 1, Gun Combat (slug rifl e) 1, Melee 0, Drive (wheeled) 1, Pilot (Spacecraft) 1, Sensors 2, Survival 1 Vest (3), Hunting Rifl e (3d6+2), Serrated Knife (1d6+4)
+Character Career Path Str Dex End Int Edu Cha Law Enforcement Agent Law Enforcement (Enforcer) 2 7 9 6 7 6 6 Advocate 1, Computers 0, Investigate 1, Recon 1, Gun Combat (slug pistol) 1, Melee (bludgeon) 1, Streetwise 1 Light Suit (3), Autopistol (3d6–3, Auto 4), Stunstick Soldier Army (Infantry) 2 8 8 9 6 5 7 Athletics (Endurance) 1, Drive 0, Gun Combat (slug rifl e) 1, Heavy Weapons 0, Melee (blade) 1, Recon 1 Attack Suit (4), Autorifle (3d6, Auto 4) Military Offi cer Army (Infantry) 4 9 8 10 8 7 10 Athletics (Endurance) 1, Drive (wheeled) 1, Gun Combat (slug rifl e) 3, Heavy Weapons 0, Leadership 2, Melee (blade) 3, Recon 2 Fighter Set (2), Laser Pistol (3d6) Marine Marines (Marine) 3 8 9 8 7 6 7 Battle Dress 0, Gun Combat (energy rifl e) 2, Melee (blade) 3, Recon 2, Tactics (military) 1, Zero-G 0 Attack Suit (4) or Combat Armor (15), Laser Carbine (4d6), Long Sword (3d6) Mercenary/Thug Army (Infantry) 1 7 7 8 6 6 5 Athletics 0, Drive 0, Gun Combat 0, Heavy Weapons 0, Melee (blade) 1, Recon 1 Bracers (1), Pistol (2d6), Serrated Knife (1d6+4) Corsair Raider Corsair (Raider) 3 9 7 8 6 5 8 Gun Combat (energy pistol) 2, Melee (blade) 3, Recon 1, Stealth 1, Vacc Suit 0, Zero-G 1 Attack Suit (5), Laser Pistol (3d6), Serrated Sword (3d6+4) Junk Dealer Merchant (Junk Dealer) 2 7 6 6 9 7 8 Admin 0, Broker 1, Computers 1, Drive 0, Persuade 2, Streetwise 1 Hand computer Scrounger Merchant (Scrounger) 3 6 6 7 8 8 9 Admin 1, Broker 3, Computers 2, Drive 0, Persuade 1, Streetwise 0 Hand computer Emissary Emissary (Arbitrator) 5 6 6 8 9 8 11 Admin 2, Advocate 3, Carouse 1, Computers 1, Deception 1, Diplomat 4, Investigate 1, Persuade 2 Hand computer Loner Loner (Explorer) 3 7 8 9 7 4 6 Astrogation 1, Gun Combat (slug rifl e) 1, Melee 0, Drive (wheeled) 1, Pilot (Spacecraft) 1, Sensors 2, Survival 1 Vest (3), Hunting Rifle (3d6+2), Serrated Knife (1d6+4)
 
 #### RANDOM ENCOUNTERS
 
@@ -2053,17 +2124,23 @@ Starports are generally chaotic and noisy; Vargr haggle and argue over prices an
 
 STARPORT ENCOUNTERS
 
+
+
 d66 Encounter d66 Encounter 11 Band of corsairs 41 Band of corsairs 12 Corsair ship arrival 42 Vargr infi ghting 13 Corsair ship departure 43 Trade ship arrival 14 Explorer arrives or departs 44 Trade ship departure 15 Prospector arrives or departs 45 Merchant seeks cargo transport 16 Military vessel arrival 46 Passenger looking for a ship 21 Military vessel departure 51 Technician repairing starport systems 22 Mercenaries arrive or depart 52 Engineer repairing ship 23 Emissary arrives or departs 53 Embargo of rival government 24 An arms dealer seeks to transport his goods offworld 54 Random security search of player's ship and possessions. 25 Merchants arguing over prices 55 Religious demonstration 26 A scrounger offers his services 56 A corsair band is arrested 31 Alien diplomats arrive or depart 61 Conman tries to swindle the players 32 Vargr infi ghting 62 Vargr infi ghting 33 Local law enforcement looking for fugitive 63 Mercenary seeks to join a pack or group 34 Alien vessel arrives or departs 64 Clerk has hostile reaction to players 35 Friendly Vargr offers to guide the players 65 An independent junk dealer tries to sell his wares 36 Patron offers players a job 66 A Vargr leaves his pack and is looking to join another
 
 Vargr Cities Vargr cities are much like the starports but on a grander scale. The diversity of architecture and colour is much greater, as is the infi ghting and raised voices. Small bazaars are scattered throughout the city for independent merchants and junk dealers to sell their wares. The result is a cacophony of sound, smell and colour throughout the city with no apparent plan or design.
 
 CITY ENCOUNTERS
 
+
+
 d66 Encounter d66 Encounter 11 Law enforcement offi cers chasing criminal 41 Junk dealer looking to transport cargo offworld 12 Vargr seeking new pack 42 Junk dealer warehouse 13 A Vargr leaves his pack and is looking to join another 43 A pack of thugs attempt to mug the players 14 A merchant peddles illegal goods 44 Food vendor cooking spiced meats 15 Bazaar 45 Bazaar 16 Infi ghting between rival packs 46 Infi ghting between pack members 21 Junk shop 51 Junk shop 22 Two Vargr arguing 52 Religious preacher 23 Local leadership is being questioned 53 A hunter returns from a good days work 24 Military installation 54 Players are being followed 25 Vehicle accident involving the players 55 Rare Vargr subspecies 26 Infi ghting between two strangers 56 Infi ghting between pack members 31 Bar or inn 61 Bar or inn 32 Library or academic institute 62 Large hotel 33 Security patrol 63 Restaurant 34 Band of corsairs 64 Human 35 Patron offers players a job 65 Alien 36 Infi ghting between rival individuals 66 Infi ghting between pack members
 
 Rural Areas Heavily populated worlds, such as Lair, do not have many rural areas and those that do exist tend to be reserved for agricultural needs. On worlds where the Vargr population has not been so invasive there are both agricultural and wild regions.
 
 RURAL ENCOUNTERS
+
+
 
 d66 Encounter d66 Encounter 11 Wild Animal 41 Wild Animal 12 Sudden change in weather 42 Sudden change in weather 13 Paddock 43 Diffi cult terrain 14 Livestock herd 44 Criminal or pack outcast hiding out 15 Dead livestock 45 Loner's dwelling 16 Livestock being transported 46 Farmer heading to city to sell his produce 21 Wild Animal 51 Wild Animal 22 Small pack of farmers 52 Isolated community – hostile 23 Farming community 53 Isolated community – unfriendly 24 Abandoned farm 54 Isolated community – welcoming 25 Small farm 55 Isolated community – rare subspecies 26 Large farm 56 Isolated community – religious 31 Wild Animal 61 Wild Animal 32 Injured hunter 62 Farmer hunting predatory animals 33 Hunter 63 Injured farmer 34 Prospector 64 Hunting pack 35 Crop fi elds 65 Ruined structure 36 Wild Animal 66 Wild Animal
 
@@ -2085,12 +2162,13 @@ To determine the primary government on a Vargr world, roll 2d6
 
 - population level; on a result of 16+ the government is type 7
 
-(Balkanization), otherwise determine the government as normal
-(which can still result in Balkanization).
+(Balkanization), otherwise determine the government as normal (which can still result in Balkanization).
 
 Factions To determine the total number of factions on the world, roll 1d6 with a +1 DM if the government type is 0 or 7, and a –1 DM if the government type is 10 or more, then consult the Factions table.
 
 FACTIONS
+
+
 
 Result Factions 0–1 1 2–3 2 4–5 3 64 75
 
@@ -2115,6 +2193,8 @@ Civil Unrest: Once per week roll 2d6 and add the appropriate modifi ers; a roll 
 Government Type Modifi er Type 7, Balkanization –2 Type 10, Charismatic Dictator +3 Type 12, Charismatic Oligarchy +4
 
 CIVIL UNREST
+
+
 
 2d6 Civil Unrest 2–3 Political demonstration – individuals unhappy with the current administration are demonstrating to gain the support of their brethren. 4–5 Riot – a riot of disaffected Vargr breaks out in a major city or spaceport. 6 Political independence – a group of unsatisfi ed Vargr have declared themselves independent, forming their own government within the boundaries of the existing government. 7 Political uprising – a pack of disaffected Vargr are gaining support to force the current leaders out of power to be replaced with their own charismatic leader. 8–9 Political coup – elements within the government seek to take control by force of personality. 10–11 Military coup – disaffected Vargr with strong ties to the military attempt to seize control by force of arms. 12 Civil war – a civil war has broken out between rival factions.
 
@@ -2382,8 +2462,7 @@ Fanganger Federation: The Fanganger Federation (Fanganger Kunkouag) consists of 
 
 There are no rules or laws imposed by the Federation – the alliance is little more than a trade agreement and mutual defence treaty.
 
-Free Trader's Enterprise: The Free Trader's Enterprise
-(Ghongdhou Kuezgho) was formed in 1063 by two corsair bands in Ongvos subsector. The group has bases on Tarraekhs and Llaegh but they never raid their homeworlds. Over time the corsairs became well respected by many of the locals.
+Free Trader's Enterprise: The Free Trader's Enterprise (Ghongdhou Kuezgho) was formed in 1063 by two corsair bands in Ongvos subsector. The group has bases on Tarraekhs and Llaegh but they never raid their homeworlds. Over time the corsairs became well respected by many of the locals.
 
 The Free Trader's Enterprise eventually seized control of Tarraekhs and Llaegh, a move that was welcomed by most citizens who had become dissatisfied with their previous leaders. Much of the government's finances are supplemented by sanctioned raiding – this policy has
 
@@ -2469,25 +2548,21 @@ With the exception of the Worlds of Leader Rukh, all of the Vargr governments lo
 
 The following corporations and organizations exist within Gvurrdon sector. These represent some of the most well known and infl uential organizations although many similar ones exist throughout Gvurrdon and the Extents.
 
-Dhirrsak's
-(Vargr Subsector-Wide Corporation) Dhirrsak is a junk dealer who started his business on a highly populated world. With so many businesses starting and failing there was a huge market for second hand goods and Dhirrsak capitalised on this. Although other junk dealers operated on Gaelaeth, Dhirrsak had a grander plan and his business guile meant that his company soon grew into a large corporation.
+Dhirrsak's (Vargr Subsector-Wide Corporation) Dhirrsak is a junk dealer who started his business on a highly populated world. With so many businesses starting and failing there was a huge market for second hand goods and Dhirrsak capitalised on this. Although other junk dealers operated on Gaelaeth, Dhirrsak had a grander plan and his business guile meant that his company soon grew into a large corporation.
 
 Dhirrsak's now has dealerships on two other worlds and continues to expand. With the corporation's wide network of dealers and contacts, Dhirrsak's has coverage over a wide area where they can quickly buy up goods from failing companies.
 
 Home Port: Gaelaeth. Territory: Ksits Usathu subsector.
 
-Dzofakael
-(Vargr Sector-Wide Corporation) This corporation is a manufacturer of heavy equipment and ship armaments. Many Vargr ships, including navy and corsair vessels, are armed with Dzofakael weapons and protected by their armor. Dzofakael's other products are primarily aimed at the mining industry and their bulldozers, drillers and even locomotives are used by numerous mining colonies.
+Dzofakael (Vargr Sector-Wide Corporation) This corporation is a manufacturer of heavy equipment and ship armaments. Many Vargr ships, including navy and corsair vessels, are armed with Dzofakael weapons and protected by their armor. Dzofakael's other products are primarily aimed at the mining industry and their bulldozers, drillers and even locomotives are used by numerous mining colonies.
 
 Home Port: Ikkhadzkfaghukh (Thoengling subsector). Territory: Gvurrdon sector.
 
-Gvaeknoks
-(Vargr Sector-Wide Line) Gvaeknoks are one of the largest Vargr shipping lines operating throughout Gvurrdon sector. They have a fl eet of jump-2 traders and jump-3 transports that provide merchant services to every world within the sector. The corporation has maintained political independence from Dzen Aeng Kho despite being based in the government's territory.
+Gvaeknoks (Vargr Sector-Wide Line) Gvaeknoks are one of the largest Vargr shipping lines operating throughout Gvurrdon sector. They have a fl eet of jump-2 traders and jump-3 transports that provide merchant services to every world within the sector. The corporation has maintained political independence from Dzen Aeng Kho despite being based in the government's territory.
 
 Home Port: Kfolaell (Rukh subsector). Territory: Gvurrdon sector.
 
-Kaengvarrg
-(Vargr Sector-Wide Corporation) Kaengvarrg runs a number of psionic academies spread throughout Ongvos, Uerra Rueshken, Kfan Uzangou and Llanic subsectors. Many of their institutes
+Kaengvarrg (Vargr Sector-Wide Corporation) Kaengvarrg runs a number of psionic academies spread throughout Ongvos, Uerra Rueshken, Kfan Uzangou and Llanic subsectors. Many of their institutes
 
 are located in the Thirz Empire but some are also situated on independent worlds.
 
@@ -2495,52 +2570,43 @@ Kaengvarrg academies are the most renowned psionic institutes within Vargr space
 
 Home Port: Gvurrdon (Kfan Uzangou subsector). Territory: Gvurrdon sector.
 
-Krazdo Ashsanzh
-(Zhodani Subsector-Wide Corporation) Krazdo Ashsanzh is one of only a few Zhodani corporations based on a Vargr world. This company is based on the neutral world of Tsukifi and provides a psionic investigation service. Krazdo Ashsanzh has become quite renowned in the Thirz Empire and the psionic investigators are often utilised by the government and large corporations who need specialized agents for numerous tasks.
+Krazdo Ashsanzh (Zhodani Subsector-Wide Corporation) Krazdo Ashsanzh is one of only a few Zhodani corporations based on a Vargr world. This company is based on the neutral world of Tsukifi and provides a psionic investigation service. Krazdo Ashsanzh has become quite renowned in the Thirz Empire and the psionic investigators are often utilised by the government and large corporations who need specialized agents for numerous tasks.
 
 Home Port: Tsukifi. Territory: Uerra Rueshken subsector.
 
-Lorkan Kfoeng
-(Vargr Sector-Wide Corporation) Lorkan Kfoeng is an independent law enforcement agency that hires out experienced and professional agents to the government and corporations. Lorkan Kfoeng has an excellent reputation within the Society of Equals and is located on the empire's capital. Agents are hired by the pack and are generally used as a temporary solution to bolster existing police forces or to command them in areas where the existing law enforcement is ineffective or lacking.
+Lorkan Kfoeng (Vargr Sector-Wide Corporation) Lorkan Kfoeng is an independent law enforcement agency that hires out experienced and professional agents to the government and corporations. Lorkan Kfoeng has an excellent reputation within the Society of Equals and is located on the empire's capital. Agents are hired by the pack and are generally used as a temporary solution to bolster existing police forces or to command them in areas where the existing law enforcement is ineffective or lacking.
 
 Whenever large events require additional security or a political situation develops on a world within the Society of Equals, units of Lorkan Kfoeng will often be deployed. Not only are the Lorkan Kfoeng agents well trained and good at their job but the fact that they are independent of local governments also helps, especially when dealing with political situations.
 
 Home Port: Dzuerongvoe (Dzen subsector). Territory: Society of Equals territories.
 
-Nenngos Goukae
-(Vargr Subsector-Wide Corporation) Nenngos Goukae
-(Nenngos Mining) are the largest and most successful mining company based on Saezghen (see page 134). The corporation was founded by the Nenngos family and has endured the wars and hostile conditions of Saezghen for generations.
+Nenngos Goukae (Vargr Subsector-Wide Corporation) Nenngos Goukae (Nenngos Mining) are the largest and most successful mining company based on Saezghen (see page 134). The corporation was founded by the Nenngos family and has endured the wars and hostile conditions of Saezghen for generations.
 
 Nenngos Goukae control the largest continent on Saezghen, which is reputed to have the richest deposits on the entire planet. Numerous other deposits also fall within the territory of Nenngos Goukae and they currently have seven active mines and four ore refi ning facilities in operation.
 
 Home Port: Saezghen. Territory: Uerra Rueshken subsector.
 
-Sakh Karrgnor
-(Vargr Subsector-Wide Corporation) Sakh Karrgnor was established on Kaeg by two brothers who sensed an opportunity with the vast amounts of wreckage and damaged equipment left by the war that occurred there. The brothers formed a new corporation and claimed salvage rights to most of the unpopulated wastelands. Their business soon prospered gaining them much respect and loyalty from local communities, which ultimately made them rulers of Kaeg.
+Sakh Karrgnor (Vargr Subsector-Wide Corporation) Sakh Karrgnor was established on Kaeg by two brothers who sensed an opportunity with the vast amounts of wreckage and damaged equipment left by the war that occurred there. The brothers formed a new corporation and claimed salvage rights to most of the unpopulated wastelands. Their business soon prospered gaining them much respect and loyalty from local communities, which ultimately made them rulers of Kaeg.
 
 This growing corporation now trades refurbished second hand equipment with many worlds in Fanganger subsector.
 
 Home Port: Kaeg. Territory: Fanganger subsector.
 
-Sueklloukhkna
-(Vargr Sector-Wide Corporation) Sueklloukhkna is the largest courier service within the Thirz Empire and are based on the capital. They operate much like the Imperial X-Boat network but on a smaller scale. The corporation has extensive communication routes within the Empire with less frequent communications to Zhodani worlds. The latter are used primarily for diplomatic communiqués.
+Sueklloukhkna (Vargr Sector-Wide Corporation) Sueklloukhkna is the largest courier service within the Thirz Empire and are based on the capital. They operate much like the Imperial X-Boat network but on a smaller scale. The corporation has extensive communication routes within the Empire with less frequent communications to Zhodani worlds. The latter are used primarily for diplomatic communiqués.
 
 Home Port: Uthgvoe (Uerra Rueshken subsector). Territory: Thirz Empire.
 
-Rrakhthall Shipyards
-(Vargr Subsector-Wide Corporation) Rrakhthall Shipyards started as a family run business in 897. Collectively, the family had amassed a considerable fortune, which they invested in the construction of a modest shipyard and a skilled workforce. They started building small craft primarily for military use and established trade agreements with several governments in nearby systems.
+Rrakhthall Shipyards (Vargr Subsector-Wide Corporation) Rrakhthall Shipyards started as a family run business in 897. Collectively, the family had amassed a considerable fortune, which they invested in the construction of a modest shipyard and a skilled workforce. They started building small craft primarily for military use and established trade agreements with several governments in nearby systems.
 
 As Rrakhthall Shipyards fl ourished, the corporation built new facilities to develop and manufacture different types of components for larger vessels. Even after the deaths of the founding members, their legacy lived on – Rrakhthall Shipyards was instrumental to the success of the Commonality of Kedzudh, with many of the Rrakhthall starships being used to combat the activities of the Kforuzeng corsair band.
 
 Home Port: Ughz. Territory: Firgr subsector.
 
-Rraegnaell Oukh
-(Vargr Interface Line) Rraegnaell Oukh is a shipping line that is based just three parsecs away from Zhodani space and only fi ve parsecs from Imperial territory. They maintain successful trade routes between Vargr, Imperial and Zhodani interests and frequently trans-ship goods that are otherwise forbidden to be traded directly between these governments.
+Rraegnaell Oukh (Vargr Interface Line) Rraegnaell Oukh is a shipping line that is based just three parsecs away from Zhodani space and only fi ve parsecs from Imperial territory. They maintain successful trade routes between Vargr, Imperial and Zhodani interests and frequently trans-ship goods that are otherwise forbidden to be traded directly between these governments.
 
 Home Port: Dhaengae (Spurl subsector). Territory: Gvurrdon sector and Spinward Marches.
 
-Vun Nez Onorka
-(Vargr Corporation) This academic institute specializes in law and politics. Vun Nez Onorka is well known for instilling
+Vun Nez Onorka (Vargr Corporation) This academic institute specializes in law and politics. Vun Nez Onorka is well known for instilling
 
 discipline in its students, something that does not come easily to Vargr so only the very best graduate. However, those that are successful become distinguished amongst the diplomatic and legal communities.
 
@@ -2548,15 +2614,13 @@ Vun Nez Onorka is also known for its strict dress code and most Vargr who receiv
 
 Home Port: Torrrrerz (Firgr subsector). Territory: Torrrerz.
 
-Walker Robotics
-(Human Subsector-Wide Corporation) This corporation is based near the border of the Spinward Marches on a world with a sizable human population. Walker Robotics specializes in quality human-built robots aimed at the Vargr market (in both form and function). The corporation has a large facility where robots are designed and constructed. From here they are shipped out to Vargr merchants and distributors.
+Walker Robotics (Human Subsector-Wide Corporation) This corporation is based near the border of the Spinward Marches on a world with a sizable human population. Walker Robotics specializes in quality human-built robots aimed at the Vargr market (in both form and function). The corporation has a large facility where robots are designed and constructed. From here they are shipped out to Vargr merchants and distributors.
 
 Although there is not a huge demand for robots in Vargr space, Walker Robotics' products are superior to Vargr made equivalents and thus have extremely high profi t margins. The main rivals of Walker Robotics are the corsair bands that steal Imperial-built robots and sell them in Vargr space.
 
 Home Port: Pandrin. Territory: Uthe subsector.
 
-Zhosokh Urs
-(Vargr Corporation) Zhosokh Urs is a guild of highly qualifi ed and respected emissaries. They established their own school called Tsu Thoezhou (Honored Gate) but due to fi nancial diffi culties it was closed down in 1104. Graduates are easily identifi ed by their right ear, which is clipped to signify the 'well respected ear' where the guild gets its name.
+Zhosokh Urs (Vargr Corporation) Zhosokh Urs is a guild of highly qualifi ed and respected emissaries. They established their own school called Tsu Thoezhou (Honored Gate) but due to fi nancial diffi culties it was closed down in 1104. Graduates are easily identifi ed by their right ear, which is clipped to signify the 'well respected ear' where the guild gets its name.
 
 Knoellighz
 
@@ -2658,9 +2722,13 @@ Piprninsh
 
 C
 
+
+
 Enjtodl
 
 E
+
+
 
 Dho Ega
 
@@ -2670,63 +2738,97 @@ Zhenchve'chip
 
 B
 
+
+
 UUnoldhasaellaenoldhasaellae
 
 B
+
+
 
 UUedhoelukhueedhoelukhue
 
 A
 
+
+
 Knoelurzudal
 
 C
+
+
 
 DDuduelluduell
 
 B
 
+
+
 B
+
+
 
 LLlaeghlaegh
 
 A
 
+
+
 Gvuksdourrgh
 
 B
 
+
+
 B
 
+
+
 C
+
+
 
 TTengerkukokhs engerkukokhs
 
 A
 
+
+
 Gantsugh
 
 D
+
+
 
 Zangerr
 
 D
 
+
+
 KKsaghaesaghae
 
 E
+
+
 
 EEllfoegoezoullfoegoezou
 
 B
 
+
+
 Dzukoun
 
 E
 
+
+
 AAngudhngudh
 
 A
+
+
 
 B TTorrvagveorrvagve
 
@@ -2740,7 +2842,11 @@ Roeknughroe
 
 B
 
+
+
 B
+
+
 
 "
 
@@ -2758,11 +2864,17 @@ $
 
 M
 
+
+
 E
+
+
 
 v
 
 G
+
+
 
 the corsair base the people here gain the protection of their new ruler and for the most part have welcomed the pirates to their world.
 
@@ -2816,81 +2928,121 @@ Luerrgnudhlaerz B657337-7 Luerrgnudhlaerz is a large planet with a population of
 
 A
 
+
+
 Onllae
 
 B
+
+
 
 TTaekfoengsegzoaekfoengsegzo
 
 B
 
+
+
 Korruelloko
 
 B
+
+
 
 LLuerrgnudhlaeruerrgnudhlaer
 
 D
 
+
+
 GGzonoughzonough
 
 B
+
+
 
 AAksugzaelksugzael
 
 D
 
+
+
 Ngues
 
 C
+
+
 
 RRueskhenueskhen
 
 B
 
+
+
 TTsuengingegueksuengingeguek
 
 E
+
+
 
 LLouks Aekouks Aek
 
 A
 
+
+
 Uekongull
 
 A
+
+
 
 Kukhvu
 
 C
 
+
+
 Rinvoengerrazodhae
 
 A
+
+
 
 VVaeghovangugh aeghovangugh
 
 B
 
+
+
 Oungeghuegue
 
 B
+
+
 
 Dhueks
 
 A
 
+
+
 NNaenaen
 
 A
+
+
 
 Roedz
 
 B
 
+
+
 Gikhs
 
 D
+
+
 
 Iloungrraegzer
 
@@ -2930,8 +3082,7 @@ Kukhvu A000422-F Kukhvu is a high-tech orbital facility that was built shortly a
 
 government's primary shipyard. Since its construction it has been upgraded several times as new advances in technology have been made.
 
-In addition to constructing and repairing the mainstay vessels of the Seaknouth navy, new designs are also prototyped here
-(many of which originate on Uekongull). Kukhvu is defended by a small fl eet and a substantial defence grid. Many of the ships being worked on can also be called into service if need be.
+In addition to constructing and repairing the mainstay vessels of the Seaknouth navy, new designs are also prototyped here (many of which originate on Uekongull). Kukhvu is defended by a small fl eet and a substantial defence grid. Many of the ships being worked on can also be called into service if need be.
 
 Rinvoengerrazo C11077B-A Rinvoengerrazo is an independent state located between the major empires of the subsector. It is a desert world that was settled by miners just over 100 years ago who established a small city contained within a pressure-dome. The natural resources of this world were spread thin so the starport was constructed some distance away from the city in an area that had no mineral deposits.
 
@@ -2981,51 +3132,77 @@ During the excavation of the fi rst settlement, over 100 Vargr lost their lives.
 
 B
 
+
+
 B
+
+
 
 Gzazogze
 
 B
 
+
+
 RRagzaelagzael
 
 B
+
+
 
 Ikhotakhang
 
 B
 
+
+
 SSagukhunngoagukhunngo
 
 B
+
+
 
 IIlughavolughavo
 
 B
 
+
+
 KKhagogksihagogksi
 
 B
+
+
 
 TTangaanga
 
 C
 
+
+
 UUthisodzugoksaethisodzugoksae
 
 B
+
+
 
 GGaengouraengour
 
 B
 
+
+
 Gkakhaellan
 
 B
 
+
+
 Vorroeng
 
 B
+
+
 
 KKarrksinarkaarrksinarka
 
@@ -3117,67 +3294,103 @@ Dorrorue
 
 B
 
+
+
 UUerkfadzigueerkfadzigue
 
 B
+
+
 
 AAgh Tharsgh Thars
 
 A
 
+
+
 A
+
+
 
 Fukoezo
 
 D
 
+
+
 KKaegaeg
 
 A
+
+
 
 Vakhoell
 
 C
 
+
+
 Ukokhuvoen
 
 A
+
+
 
 Kaekfesa
 
 C
 
-B
+
 
 B
+
+
+
+B
+
+
 
 KKhoekhoerrhoekhoerr
 
 B
 
+
+
 Ozago
 
 A
+
+
 
 NNgersouluekorrukgersouluekorruk
 
 A
 
+
+
 UUtsurrtsurr
 
 B
+
+
 
 FFuedhgusnaezrerzgzanguedhgusnaezrerzgzang
 
 B
 
+
+
 DDhurrgthaedzhurrgthaedz
 
 A
 
+
+
 Gegerrrarrunu
 
 C
+
+
 
 Okhgvonan
 
@@ -3204,6 +3417,8 @@ ll
 Uk
 
 KK
+
+
 
 aaanann
 
@@ -3267,21 +3482,31 @@ The other two continents are currently being occupied by immigrants from Saezghe
 
 E
 
+
+
 FFufoekkfalufoekkfal
 
 B
+
+
 
 TTaraengaraeng
 
 D
 
+
+
 OOnagzorrruell nagzorrruell
 
 B
 
+
+
 KKerkukhaekaerkukhaeka
 
 B
+
+
 
 SSaezghenaezghen B
 
@@ -3289,29 +3514,43 @@ GGzoulakhghazoulakhgha
 
 E
 
+
+
 TTelfazagnouelfazagnou
 
 D
+
+
 
 UUefokungefokung
 
 B
 
+
+
 ZZutsuts AAsgningsgning
 
 A
+
+
 
 UUthgvoethgvoe
 
 B
 
+
+
 Aroelloe
 
 B
 
+
+
 KKhaeknaehaeknae
 
 B
+
+
 
 GGvoeloegnoethuvoeloegnoethu B
 
@@ -3319,15 +3558,23 @@ EEllalluellallue
 
 E
 
+
+
 D
+
+
 
 AAgsaezgsaez
 
 B
 
+
+
 SSuedhuedh
 
 B
+
+
 
 TTsukisukififi
 
@@ -3388,8 +3635,7 @@ Tsukifi B97788C-8 Tsukifi is a large Earth-like world with a population of 500 m
 This part of Tsukifi 's history has been forgotten by most, allowing humans and Vargr to coexist in relative peace. Humans on Tsukifi tend to display Vargr traits and are treated as equals with some charismatic individuals even becoming pack leaders.
 
 Also of historical interest is Tsukifi 's importance to the empire of the Gvurrdon Pact during its reign of power (circa –2700 to
-–2300). Tsukifi is the only world within two parsecs of Gvurrdon
-(Kfan Uzangou subsector), which made it an important trade hub for the capital of the Gvurrdon Pact.
+–2300). Tsukifi is the only world within two parsecs of Gvurrdon (Kfan Uzangou subsector), which made it an important trade hub for the capital of the Gvurrdon Pact.
 
 Even after the decline of the Gvurrdon Pact, Tsukifi has maintained its role as a trade hub. The convenient and neutral position of Tsukifi has attracted a number of well-known corporations such as Krazdo Ashsanzh (see page 119).
 
@@ -3423,21 +3669,31 @@ Gaknau Val
 
 A
 
+
+
 KKsethusethu
 
 B
+
+
 
 OOkskfulkskful
 
 C
 
+
+
 TTongaesodhongaellongaesodhongaell
 
 B
 
+
+
 AAllousllous
 
 A
+
+
 
 DDzerrdhaksezerrdhakse E
 
@@ -3447,53 +3703,83 @@ AAegadhegadh
 
 A
 
+
+
 SSoerkonoerkon AAetheth
 
 B
+
+
 
 LLlingling
 
 B
 
+
+
 OOesar Ginesar Gin
 
 B
+
+
 
 IIlunglung
 
 D
 
+
+
 DDhalloraghallorag
 
 B
 
+
+
 C
+
+
 
 NNgursturgurstur
 
 B
 
+
+
 DDarrugsugarrugsug
 
 B
 
-A
+
 
 A
+
+
+
+A
+
+
 
 UUrkhaksadhrkhaksadh
 
 B
 
+
+
 FFirullvorzkokhirullvorzkokh
 
 B
+
+
 
 DDzuerongvoezuerongvoe
 
 B
 
+
+
 D
+
+
 
 TThadzlaksakhadzlaksak
 
@@ -3529,8 +3815,7 @@ To the amazement of many, this new system was successful and has remained for ov
 
 Aegadh B737ADC-B Aegadh was the capital of the old Khouktae Empire before it was absorbed into the Gvurrdon Pact, which in turn collapsed around –2300. For over 3,000 years, the leadership on Aegadh frequently changed until the Church of the Chosen Ones (see page 35) founded a community here in 986 and established control of the planet. The Church has remained the ruling power despite numerous attempts to push them out of power by other factions.
 
-Due to the government's power, Aegadh has become the primary branch of the Church of the Chosen Ones. The capital city, Errgkhourrraegh, is located 20 kilometers from the starport and is home to the Museum of the Supremacy of Vargr Culture. The museum is well known amongst the Church's followers and illustrates the history of the Church and the Vargr race
-(as perceived by the Church of the Chosen Ones). Anyone is welcome to visit the museum – it is free to enter but a donation is expected.
+Due to the government's power, Aegadh has become the primary branch of the Church of the Chosen Ones. The capital city, Errgkhourrraegh, is located 20 kilometers from the starport and is home to the Museum of the Supremacy of Vargr Culture. The museum is well known amongst the Church's followers and illustrates the history of the Church and the Vargr race (as perceived by the Church of the Chosen Ones). Anyone is welcome to visit the museum – it is free to enter but a donation is expected.
 
 Situated near the museum is a large temple and gardens; these facilities are collectively known as the Church District. This is a
 
@@ -3600,33 +3885,49 @@ Rrouzasun
 
 B
 
+
+
 ZZuerrguelluerrguell
 
 B
+
+
 
 RRirrrronggzerzoellirrrronggzerzoell
 
 B
 
+
+
 GGhugihugi
 
 A
+
+
 
 LLloursouthloursouth
 
 B
 
+
+
 UUzotssazazotssaza
 
 E
+
+
 
 TTsenggvaksdzongsenggvaksdzong
 
 E
 
+
+
 OOsuekhasuekha
 
 D
+
+
 
 AAedzaerzedzaerz B
 
@@ -3634,13 +3935,19 @@ AAekfoekfo
 
 B
 
+
+
 VVanasanas
 
 B
 
+
+
 DDhallashallas
 
 B
+
+
 
 GGurzuengurzueng A
 
@@ -3648,31 +3955,47 @@ KKnaegadaenaegadae B
 
 B
 
+
+
 TTseghagvarzseghagvarz
 
 B
+
+
 
 EEkakhkakh
 
 B
 
+
+
 NNgekoegekoe
 
 B
+
+
 
 AAekhrengekhreng
 
 E
 
+
+
 B
+
+
 
 SSoungadanooungadano
 
 A
 
+
+
 KKfugvugzozoaeksaerfugvugzozoaeksaer
 
 B
+
+
 
 GGoedhungoedhung
 
@@ -3726,65 +4049,97 @@ There are several reasons for the relocation of the Thoengling capital. Firstly,
 
 E
 
+
+
 KKnoerrghnoerrgh
 
 C
+
+
 
 DDzoekhsu-zoekhsu- nnoulloudzuoulloudzu
 
 A
 
+
+
 FFoeloel
 
 B
+
+
 
 TTsorgoelaesorgoelae
 
 A
 
+
+
 GGzaerzaer
 
 B
+
+
 
 DDhanrranoezhanrranoez
 
 B
 
+
+
 UUnggvokhaen-nggvokhaen- ggarsnongguearsnonggue
 
 B
+
+
 
 LLuthoursuthours
 
 D
 
+
+
 AAerzdanthierzdanthi
 
 B
+
+
 
 KKnuerznuerz
 
 B
 
+
+
 RRadellogvateadellogvate
 
 B
+
+
 
 OOlganlgan
 
 B
 
+
+
 KKfuevavaefuevavae
 
 B
+
+
 
 UUefokungefokung
 
 A
 
+
+
 OOuthzaekae-uthzaekae- ffakhsueghzakhsueghz
 
 A
+
+
 
 C EEksfarrarrksfarrarr
 
@@ -3792,9 +4147,13 @@ ZZaersougvivuaersougvivu
 
 B
 
+
+
 OOunoeunoe EEglloeghzglloeghz
 
 A
+
+
 
 TThoenglinghoengling A
 
@@ -3802,15 +4161,21 @@ TTuelehollaruelehollar
 
 A
 
+
+
 IIkkhadzkfaghukhkkhadzkfaghukh
 
 A
+
+
 
 C SSurrghkoegurrghkoeg
 
 KKoesolaedzeoesolaedze
 
 B
+
+
 
 RRroungkhiroungkhi
 
@@ -3825,6 +4190,8 @@ Aelluekh
 $
 
 TTHOENGLINGHOENGLING
+
+
 
 The inhabitants of Thoengling live in two underwater pressure domes. One is reserved for the nobility and has all the facilties one would expect with lavish buildings and large open parks to maintain the lifestyle befi tting the upper class. In contrast to this, the lower classes live in a second rate dome, which provides views of the lifeless and murky ocean. These facilities were necessary given the lack of land but its inaccessibility also provides additional defence against potential attacks. The downport is located on a small landmass located a short distance away from both domes.
 
@@ -3916,21 +4283,35 @@ AAedhueedhue
 
 B
 
+
+
 E
+
+
 
 B EEthuethue
 
 C
 
+
+
 GGvurrdonvurrdon
 
 B
 
-A
+
 
 A
+
+
+
+A
+
+
 
 B
+
+
 
 DDzadozado C
 
@@ -3938,7 +4319,11 @@ ZZulgzigaulgziga
 
 B
 
+
+
 A
+
+
 
 GGzughzuvullingzughzuvulling
 
@@ -3948,23 +4333,33 @@ QQanstanzeanstanze
 
 A
 
+
+
 EEnjqorenjqore
 
 VVlazh Eprlazh Epr
 
 C
 
+
+
 OOenoukhenoukh
 
 B
+
+
 
 KKhoeghersaeng hoeghersaeng
 
 B
 
+
+
 EEblonzyereblonzyereflfl
 
 A
+
+
 
 TTjenljenl B
 
@@ -3972,41 +4367,61 @@ ZZhdaplhdapl
 
 B
 
+
+
 AAzz
 
 B
+
+
 
 TTaknarkagaknarkag
 
 B
 
+
+
 KKsonson
 
 B
+
+
 
 GGhin Uerrhin Uerr
 
 B
 
+
+
 OOraedzaengraedzaeng
 
 B
+
+
 
 RRoegoukhaghoe oegoukhaghoe
 
 C
 
+
+
 FFoggzukoetsaellksakhoggzukoetsaellksakh
 
 B
+
+
 
 GGvoedhoeksvoedhoeks
 
 B
 
+
+
 AAerrighaerrigha
 
 B
+
+
 
 Dzen
 
@@ -4153,87 +4568,135 @@ fangnoksas
 
 B
 
+
+
 UUnganngan
 
 B
+
+
 
 TTsounduekfegunsounduekfegun
 
 B
 
+
+
 TTirrokoelaegz irrokoelaegz
 
 A
 
+
+
 A
+
+
 
 AAengvoungengvoung
 
 C
 
+
+
 AAnkhirnkhir
 
 A
+
+
 
 VVaersngurraersngurr
 
 C
 
+
+
 AAsurrorrsurrorr
 
 B
+
+
 
 Kfenkudhuegzo
 
 B
 
+
+
 GGurzhvoursivazaeurzhvoursivazae
 
 A
+
+
 
 GGaekloungo-aekloungo- eerzaghunrzaghun
 
 A
 
+
+
 KKuengueng
 
 C
+
+
 
 GGaelaethaelaeth
 
 A
 
+
+
 AAellaesgvarzathellaesgvarzath
 
 B
+
+
 
 GGnael Overnael Over
 
 E
 
+
+
 C
+
+
 
 LLluenglueng
 
 B
 
+
+
 AAngasaerngasaer
 
 E
 
-B
+
 
 B
 
+
+
 B
+
+
+
+B
+
+
 
 GGnoengungagnoengungag
 
 A
 
+
+
 UUeksgugeksgug B A
 
 A
+
+
 
 Thoegzekkfak
 
@@ -4351,19 +4814,29 @@ Adegokh
 
 B
 
+
+
 GGvigzaevigzae
 
 B
+
+
 
 VVongouzdhursuengongouzdhursueng
 
 E
 
+
+
 TThaghhagh
 
 A
 
+
+
 B
+
+
 
 RRorroksueknea orroksueknea B
 
@@ -4373,21 +4846,31 @@ OOurkanurkan
 
 B
 
+
+
 TTaekfoengsegzoaekfoengsegzo
 
 E
+
+
 
 UUngrughzngrughz
 
 B
 
+
+
 AAekokfegekokfeg
 
 B
 
+
+
 TThekrakforhekrakfor
 
 A
+
+
 
 B OOtsetse
 
@@ -4395,9 +4878,13 @@ GGnursnurs
 
 C
 
+
+
 OOukgzueredhukgzueredh
 
 E
+
+
 
 B VVouou
 
@@ -4405,47 +4892,69 @@ ZZuekuzunguekuzung
 
 E
 
+
+
 GGoghrraoghrra
 
 B
+
+
 
 AAetskaekhounetskaekhoun
 
 E
 
+
+
 NNgulivuedakhsnarugulivuedakhsnaru
 
 A
+
+
 
 LLlukaeghlukaegh VVoerzoerz
 
 B
 
+
+
 AArragrrag
 
 B
+
+
 
 EEtsgokhue-tsgokhue- nnaellilkueraellilkuer
 
 C
 
+
+
 LLogvoksegh-ogvoksegh- aaghzvoerourghzvoerour
 
 B
+
+
 
 GGhaertuhaertu
 
 B
 
+
+
 GGaegzueaegzue
 
 B
+
+
 
 DDaggueghaezghoguaggueghaezghogu C
 
 DDzaekhzaekh
 
 C
+
+
 
 FFanzuekhanzuekh
 
@@ -4525,15 +5034,21 @@ $
 
 B
 
+
+
 SSatlpenzhatlpenzh B
 
 TTseezhseezh
 
 B
 
+
+
 JJdiprqrafrdiprqrafr
 
 B
+
+
 
 YYiedied B
 
@@ -4541,29 +5056,43 @@ BBlienzkatslienzkats
 
 B
 
+
+
 OOnsanshnsansh
 
 B
+
+
 
 PPliploranshichliploranshich
 
 D
 
+
+
 CChenchhench
 
 B
+
+
 
 VVriaajetsriaajets
 
 A
 
+
+
 AAstanchstanch
 
 B
 
+
+
 TTlrtlrt
 
 B
+
+
 
 DDiekechiekech A
 
@@ -4571,17 +5100,25 @@ AAek ek EElakfough lakfough
 
 B
 
+
+
 OOughaethaughaetha
 
 D
+
+
 
 OOdliadrdliadr
 
 C
 
+
+
 TTagakfaduenagakfaduen
 
 B
+
+
 
 RRougungolougungol B
 
@@ -4589,29 +5126,43 @@ FFourfurrghagh ourfurrghagh
 
 C
 
+
+
 KKuenruekhuenruekh
 
 C
+
+
 
 TTuetingouuetingou
 
 E
 
+
+
 OOgnirrirrgzegukhuekhgnirrirrgzegukhuekh
 
 B
+
+
 
 SSitlshaqritlshaqr
 
 D
 
+
+
 IIzivrzivr
 
 A
 
+
+
 AAldhaghldhagh
 
 B
+
+
 
 B AAeghezeghez
 
@@ -4621,9 +5172,13 @@ KKoror
 
 E
 
+
+
 DDuekhuekh
 
 D
+
+
 
 UUenagenag
 
@@ -4697,77 +5252,115 @@ $
 
 A
 
+
+
 OOgotelloegzlliggotelloegzllig
 
 A
+
+
 
 VVurrfourraeksanurrfourraeksan
 
 B
 
+
+
 SSaksoukueraksoukuer
 
 E
+
+
 
 DDhegheg
 
 A
 
+
+
 AAeggikseggiks
 
 E
+
+
 
 UUdaethaendaethaen
 
 D
 
+
+
 SSethgnakhethgnakh
 
 E
+
+
 
 OOugzsaegugzsaeg
 
 B
 
+
+
 DDharrgkhaksu-harrgkhaksu- zzarorrdzuerarorrdzuer
 
 A
+
+
 
 NNoeoe
 
 B
 
+
+
 UUseresere
 
 B
+
+
 
 DDhaengaehaengae
 
 A
 
+
+
 OOkfozarrgakfozarrga
 
 E
+
+
 
 TThoghaezaehoghaezae
 
 B
 
+
+
 KKsorraknuesorraknue
 
 A
+
+
 
 KKoekhoekh UUezez
 
 B
 
+
+
 AAerrithoerritho
 
 B
 
+
+
 NNeridhueraeng eridhueraeng
 
 C
+
+
 
 GGhinhin B
 
@@ -4777,9 +5370,13 @@ AAkfukhkfukh
 
 B
 
+
+
 UUerzthuerzthu
 
 B
+
+
 
 Inghinfudzolorz
 
@@ -4883,49 +5480,77 @@ huuku
 
 B
 
+
+
 AAethkaekethkaek
 
 E
+
+
 
 EErzthungrzthung
 
 D
 
+
+
 TThaeuevaehaeuevae
 
 B
 
+
+
 B
 
+
+
 E
+
+
 
 KKousuesiousuesi
 
 B
 
-B
+
 
 B
+
+
+
+B
+
+
 
 OOugzdaelzoerrghugzdaelzoerrgh
 
 B
 
+
+
 PPandrinandrin
 
 C
+
+
 
 GGhisaersaehisaersae
 
 A
 
+
+
 UUeghrrozueeghrrozue
 
 B
 
+
+
 KKaetsaets
 
 E
+
+
 
 OOtsesutsesu B
 
@@ -4933,21 +5558,31 @@ TTriadriad
 
 B
 
+
+
 TTinkaeghzzaklezinkaeghzzaklez
 
 E
+
+
 
 ZZoeoe
 
 B
 
+
+
 AAerrkhukhkaek-errkhukhkaek- oouguengdounguguengdoung
 
 B
 
+
+
 GGzogzuzogzu
 
 A
+
+
 
 KKnallnall
 
@@ -4987,11 +5622,15 @@ Roukhagzvaengoer
 
 B
 
+
+
 Ksunekso Galla
 
 Oertsous
 
 B
+
+
 
 Gvutson
 
@@ -5001,19 +5640,29 @@ Thurruegvudhotue
 
 B
 
+
+
 NNgolutsgoluts
 
 C
 
+
+
 B
+
+
 
 OOegaelduegaeldu
 
 B
 
+
+
 KKedzudhedzudh
 
 B
+
+
 
 B GGzoghzzoghz
 
@@ -5021,15 +5670,25 @@ Asugunkhodz
 
 B
 
+
+
 Vakunggvoruego
 
 C
 
+
+
 B
 
-A
+
 
 A
+
+
+
+A
+
+
 
 UUghzghz
 
@@ -5037,35 +5696,55 @@ Afougae
 
 B
 
+
+
 SScangencangen
 
 D
+
+
 
 Fae Kodh
 
 A
 
+
+
 TTorrknungazarrorrknungazarr
 
 E
+
+
 
 GGzaellzaell
 
 A
 
+
+
 TTorrrrerzorrrrerz
 
 E
 
-B
+
 
 B
+
+
+
+B
+
+
 
 RRruthaekuksuruthaekuksu
 
 B E
 
+
+
 E
+
+
 
 Llaekag
 
@@ -5584,25 +6263,37 @@ Symbols
 
 B
 
+
+
 Bases 106 Beliefs 35 Business 38
 
 C
+
+
 
 Careers 4, 5 Charisma 33, 34 Church of the Chosen Ones 35, 115 Cities 102 Citizen 8 Commonality of Kedzudh 112 Contacts 94 Contingency Expert 39 Corporations 118 Corsair 10, 40 Corsair (starship) 78 Courier (starship) 72 Currency 55
 
 D
 
+
+
 Dhaengae 164 Dharrgkhaksuza 162 Dheg 162 Dhirrsak's 118 Dhouzersan Plasma Tank 62 Diaspora 108 Diet 31 Draft 4 Dress 36 Dzen 137 Dzenzaega 152 Dzofakael 118 Dzuerongvoe 140 Dzukoun 124
 
 E
+
+
 
 Economy 39 Emissaries 12, 38 Enjtodl 122 Ethue 146
 
 F
 
+
+
 Faarzgaen 35 Factions 105 Fall of Equals 170 Family 34 Fanganger 131 Fanganger Federation 115 Firgr 167 Free Trader's Enterprise 115 Frigate (starship) 86 Frontier Wars, The 52
 
 G
+
+
 
 Gaegzue 156 Gaelaeth 154 Gaknau Val 140 Gender 3 Genetic Instinct 32 Ghoerruegh G-Carrier 63 Ghugi 140 Glossary 46 Government 37, 105 Gravitic Racer 63 Gravitic Speeder 64
 
@@ -5610,37 +6301,55 @@ Gurzhvoursivaz 154 Gurzueng 141 Gvaeknoks 118 Gvegh 42 Gvegh Wars, The 51, 109 G
 
 H
 
+
+
 Heavy Fighter (starship) 91 Homeworld 37
 
 I
+
+
 
 Ikhotakhang 130 Ikkhadzkfaghuk 145 Imperium 111, 114, 117 Infi ghting 35 Irilitok 43 Izivr 159 Iz Therrg 140
 
 J
 
+
+
 Jdiprqrafr 159 Julian Wars, The 52 Junk Dealer 38
 
 K
+
+
 
 Kaeg 131 Kaekfesa 133 Kaengvarrg 118 Kaneldhuelloug 151 Karrksinarka 130 Kerkukhaeka 134 Kfan Uzangou 145 Kfenkudhuegzo 154 Kfolaell 151 Khaeknae 137 Kherrthazeugh Ground Carrier 64 Khoeghersaeng 146 Knall 165 Knoerrgh 143 Kokasha 32 Krazdo Ashsanzh 119 Ksits Usathu 152 Kukhvu 127
 
 L
 
+
+
 Lair 37 Language 44 Law 38 Law Enforcement 14 Law Levels 106 Lifespan 31 Life Events 28, 29 Llaegh 122 Llanic 158 Lling 140 Lloursouth 141 Logaksu 42 Loner 16 Lorkan Kfoeng 119 Luerrgnudhlaer 125
 
 M
+
+
 
 Marines 18 Markings 36 Melee (Infi ghting) 28 Merchant 20 Military 39
 
 N
 
+
+
 Nakagun 32 Names 44, 95 Nation of Urukhu 113 Navy 22 Nenngos Goukae 119 Ngersouluekorr 133 Ngoerrgh 137 Ngulivuedakhsn 158 Non-Player Characters 94
 
 O
 
+
+
 Okfi tos 128 Okfozarrga 162 Olgan 143 Ongvos 122 Onllae Roungo 125 Orra 149 Ovaghoun 42 Ozago 134
 
 P
+
+
 
 Packet (starship) 82 Packs 32
 
@@ -5648,13 +6357,19 @@ Pack Events 28 Pact of Gaerr 113 Pandrin 165 Patrons 94, 95 Physiology 30 Prospe
 
 R
 
+
+
 Raiders 115 Random Traits 94 Reactions 93 Rinvoengerrazo 127 Rivals 94 Robots & Drones 59 Roedz 127 Roeknughroe 122 Roth Thokken 32 Rraegnaell Oukh 119 Rrakhthall Shipyards 119 Rukh 149
 
 S
 
+
+
 Sack of Gashikan, The 51 Saezghen 134 Sagukhunngo 131 Sakh Karrgnor 119 Scangen 167 Scientist 26 Scout (starship) 66 Scrounger 39 Seaknouth Dependency 113 Second Diaspora 108 Seeker (starship) 75 Skills 28 Society 32 Society of Equals 109, 113 Spurl 162 Starports 101 Subspecies 3, 32 Suedzuk 43 Sueklloukhkna 119
 
 T
+
+
 
 Taekfoengsegzo 125 Tanga 128
 
@@ -5662,17 +6377,25 @@ Tarraekhs 122 Tattoos 36 Thirz Empire 114 Thoengling 143 Thoengling Empire 114 T
 
 U
 
+
+
 Uekongull 127 Uenag 161 Uerra Rueshken 134 Ughz 169 Urzaeng 32, 42 Uthe 164 Uthgvoe 136 Uthith 165 Utsurr 133
 
 V
+
+
 
 Vargr Extents, The 42 Vargr Pillaging 50 Vehicles 62 Voullatueng 149 Vozkell, The 130 Vun Nez Onorka 120
 
 W
 
+
+
 Walker Robotics 120 Weapons 59 Windhorn Rift, The 50 Worlds of Leader Rukh 114
 
 Z
+
+
 
 Zhodani 111, 115, 117 Zhosokh Urs 120 Zoghz 125 Zuts Asgning 136
 

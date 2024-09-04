@@ -46,6 +46,8 @@ of the Travellers' Aid Society
 
 JOURNAL
 
+
+
 ```
 The
 ```
@@ -58,40 +60,64 @@ of the Travellers' Aid Society - Volume 10
 
 ARTICLES
 
+
+
 ```
 ADVENTURES
+
+
 Tamara's Travelling Tavern 35
 The Argon Gambit 111
 ALIENS
+
+
 Nenlat 61
 BESTIARY
+
+
 Hasumbuk 16
 CENTRAL SUPPLY
+
+
 Melee Matters 33
 Intrusion Decks 75
 Iris Valves: A Users And Abusers Guide 97
 CHARTED SPACE
+
+
 Organised Crime in the Core 18
 Thanber 76
 ENCOUNTERS
+
+
 Professor Dania Jereua 58
 HIGH GUARD
+
+
 Evergreen Research Vessel 2
 The Zhodani Fleet 109
 PATRONS
+
+
 Jerzi Gerari 5
 Zoë Tran 86
 TRAVELLING
+
+
 Monetising Heroism 28
 Hunting and Preparing Food 53
 Soldiers, Officers and Specialists 71
 The Price of Villany 92
 Advanced Education 127
 VEHICLE HANDBOOK
+
+
 Unicycle of Mass Destruction 51
 ```
 
 CREDITS
+
+
 
 ```
 Classic Traveller
@@ -153,7 +179,11 @@ of the Travellers' Aid Society
 
 JJ
 
+
+
 OURNAL
+
+
 
 High guardHigh guard
 
@@ -235,8 +265,12 @@ Maintenance, Botanists x
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr6057/month
 PURCHASE COST
+
+
 MCr72.
 ```
 
@@ -323,8 +357,7 @@ skills than his keen intellect.
 Decades earlier, Annabella Gerari, then head of House Gerari, gambled
 away the family's signed copy of the Peace of Kaiear agreement, which
 ended the 1,000 years of Aslan Expeditions and brought peace to
-The Beyond. The document is one of four remaining copies in non-
-Aslan possession and effectively priceless. In the ensuing years the
+The Beyond. The document is one of four remaining copies in non-Aslan possession and effectively priceless. In the ensuing years the
 document changed hands several times. It was recently sold at auction
 for MCr200 to Gordon Delejora, chairman of the Delejora Consortium.
 
@@ -348,8 +381,7 @@ job and force the ship to jump to an unscheduled destination (within
 three parsecs of the starting location – pick a poorly travelled system
 with a Class D or E starport and at least one other system within two
 
-parsecs) and escape aboard the Sequoia Nasirim, a waiting Soho-
-class light freighter (see JTAS Volume 1, page 76). The Travellers are
+parsecs) and escape aboard the Sequoia Nasirim, a waiting Soho-class light freighter (see JTAS Volume 1, page 76). The Travellers are
 instructed to force Gerari to jump at gunpoint, unless they are qualified
 astrogators themselves.
 
@@ -469,6 +501,8 @@ succeeds – certainly not if he is caught, although in success he may
 gain stature among one rather unpleasant family faction.
 
 JERZI GERARI
+
+
 Jerzi Gerari may only be the 20th of 23 great-grandchildren of the head
 of House Gerari but he is a proud member of one of the oldest Great
 Houses of Corella. Athletic and good-looking in his youth, he has gained
@@ -484,11 +518,9 @@ influence got him into the Corellan Naval Academy and his career in
 ```
 STR 7 INT 5 Astrogation 1, Athletics (endurance)
 1, Broker 0, Carouse 2, Deception 1,
-Diplomat 1, Drive 0, Electronics 0, Flyer
-(grav) 1, Gambler 1, Gun Combat 0,
+Diplomat 1, Drive 0, Electronics 0, Flyer (grav) 1, Gambler 1, Gun Combat 0,
 Gunner 0, Leadership 1, Mechanic
-0, Melee (blade) 1, Persuade 1, Pilot
-(spacecraft) 2, Streetwise 1, Vacc Suit 1
+0, Melee (blade) 1, Persuade 1, Pilot (spacecraft) 2, Streetwise 1, Vacc Suit 1
 ```
 
 ### DEX 9 EDU 8
@@ -551,6 +583,8 @@ other options or a way to shift
 blame onto someone else.
 
 PEARL PASSENGER LINER
+
+
 The Pearl passenger liner is Kraken Heavy Industries (KHI) Consortium's
 answer to jump-3 transit between the remote Lyheric Cluster and the
 remainder of the Corellan League. Based on a 25-meter spherical hull,
@@ -594,8 +628,7 @@ an airlock but can be sealed and act as a temporary one.
 
 Half of E deck and most of F deck is dedicated to the fuel tankage
 required for jump-3. G deck is the lowest full deck and with the partially
-usable H deck it is mostly dedicated to the engineering section. An aft-
-facing airlock allows emergency and maintenance egress from the ship.
+usable H deck it is mostly dedicated to the engineering section. An aft-facing airlock allows emergency and maintenance egress from the ship.
 
 In the decades since its introduction, the Pearl has spawned a number
 of variants, most notable the Marble freighter capable of hauling
@@ -616,9 +649,9 @@ TL 10 Tons Cost (MCr)
 
 Hull 600 tons, Sphere — 24
 
-M-Drive Thrust 1 (size reduction x2) 4.8 12
+M-Drive Thrust1 (size reduction x2) 4.8 12
 
-J-Drive Jump 3 (size reduction) 45 74.
+J-Drive Jump3 (size reduction) 45 74.
 
 Power Plant Fusion (TL12, size reduction)
 Power: 200
@@ -639,8 +672,7 @@ Systems Fuel Scoops — 1
 
 ```
 Fuel Processor (60 tons/day) 3 0.
-High Efficiency Batteries
-(Power 180)
+High Efficiency Batteries (Power 180)
 ```
 
 ### 3 0
@@ -683,9 +715,13 @@ Engineers x2, Steward
 
 MAINTENANCE COST
 
+
+
 ```
 Cr14614/month
 PURCHASE COST
+
+
 MCr175.
 ```
 
@@ -744,8 +780,7 @@ DECK 1
 BestiaryBestiary
 
 Hasumbuk
-By Isabella Treccani-Chinelli
-(Gigans Phacochoerus)
+By Isabella Treccani-Chinelli (Gigans Phacochoerus)
 
 The hasumbuk are herd animals found grazing on temperate worlds,
 slow-moving and often unwilling to cooperate with those who manage
@@ -766,8 +801,7 @@ With a height of 120–140 centimeters at the shoulder, they are
 formidable when enraged; a common occurrence when farmhands are
 emptying the troughs used to feed them. In the wild they are usually
 docile enough although if they feel threatened, will attack using their
-teeth to bite any who come near. Aiding in this attack are the forward-
-facing spikes on each shoulder that can be used to pin enemies in
+teeth to bite any who come near. Aiding in this attack are the forward-facing spikes on each shoulder that can be used to pin enemies in
 place. The marks of previous battles can be seen in the rocks and trees
 surrounding their dens. Another evolutionary advantage is their speed
 and the hasumbuk' have long, powerful legs that can outrun many other
@@ -933,8 +967,7 @@ sets of starship components and then have spacecraft built at reduced
 cost at shipyards willing to do work 'off the books'. Class A starports
 on worlds with low populations and low to middle Law Levels where no
 naval or scout bases are present are popular choices, especially those
-off the beaten path. Anarki/Ameros (A200524-F), Kersi Am/Shinkan
-(A427456-E), Per/Sanches (A673410-C), Kisa/Dingtra (A7C6320-E)
+off the beaten path. Anarki/Ameros (A200524-F), Kersi Am/Shinkan (A427456-E), Per/Sanches (A673410-C), Kisa/Dingtra (A7C6320-E)
 and Siniir Sa/Ch'naar (A599367-D) are all suspected purveyors of
 illegally built starships. Much like pirate ships, many of these are
 equipped with variable transponders, used to deceive patrol spacecraft.
@@ -949,6 +982,8 @@ one will find criminals. Among them can be found well-organised crime
 syndicates built to maximise profit and power.
 
 THE YIRSH POY SYNDICATE
+
+
 The Sylean Worlds are an Imperial Cultural Zone, granted special
 privileges and protections that other Imperial worlds do not have. The
 Syleans are a human Minor Race, held in high regard by the Imperium
@@ -974,8 +1009,7 @@ inequality. Like the Solomani mythical character of Robin Hood, the
 Yirsh Poy and other syndicates are allowed to nip away at the profits
 of Sylean corporations to the best of their abilities, redistributing this to
 members of society who have failed to secure more legitimate roles.
-The syndicates generally avoid turf wars but they do occur from time-
-to-time. Most are arbitrated by zone officials but when negotiations
+The syndicates generally avoid turf wars but they do occur from time-to-time. Most are arbitrated by zone officials but when negotiations
 fail syndicates may engage in limited violence with one another. Such
 conflicts are often quite formal, resolved by duels with individual
 leaders, champions or small groups of combatants. The lethality of
@@ -992,6 +1026,8 @@ political interference and other crimes that they find distasteful, they are
 feared by other gangsters due to their brutal efficiency.
 
 DERUSHANGAR
+
+
 The Vilani have been present in the Core for over 8,000 years, calling
 the sector Ukan after colonising it during the first great expansion of
 the Economic Sphere. With no serious contenders to compete with, the
@@ -1045,9 +1081,10 @@ environments to deal with.
 
 ```
 A DISH BEST SERVED COLD
+
+
 Originating as they did on the Ziru Sirka frontier, the shugilii arts
-were very important to the Derushangar. In fact, their kukum
-(leaders) are traditionally expert shugilii. While the primary use
+were very important to the Derushangar. In fact, their kukum (leaders) are traditionally expert shugilii. While the primary use
 of their culinary talents is to feed loyal soldiers, they have also
 been known to use their skills for more nefarious purposes.
 Knowing which foods are safe to consume means also knowing
@@ -1087,6 +1124,8 @@ to be made. The vast majority of its wealth is held by the kukum, rarely
 trickling down to Vilani commoners.
 
 EKILATI ONATI
+
+
 Also known as 'the Antareans', this organization is a multi-sector
 Vargr crime organization that primarily operates out of Aarza Kand in
 Shinkan. The Ekilati Onati are composed of expatriate Irilitok Vargr
@@ -1107,8 +1146,7 @@ bodies of their victims are found with their incisors and often their claws
 - or fingernails if human – removed. Mid-level gangsters sometimes
 wear collected teeth and claws on a necklace.
 
-The Antareans have an interstellar presence but tend to avoid long-
-term ownership of starship assets. Instead, they hijack small traders for
+The Antareans have an interstellar presence but tend to avoid long-term ownership of starship assets. Instead, they hijack small traders for
 temporary use and hack the software of liner and freighter corporations
 to obtain free passage and cargo space to transport personnel and
 goods. The Core's Ekilati Onati chapter are most active on Aarza
@@ -1211,8 +1249,7 @@ sums involved need only be relatively small.
 How small depends on the mission and level of short- and long-term
 risk. Cr5000 is more than a typical starship crewmember makes in a
 month and is reasonable for a few days' expert-level work. Physical
-risk should increase the payment, as should the possibility of long-
-term problems, whilst simple tasks pay less. As a general guideline,
+risk should increase the payment, as should the possibility of long-term problems, whilst simple tasks pay less. As a general guideline,
 an uncomplicated task requiring some creativity or specialist skills
 should pay about two to four times as much the equivalent amount of
 time working aboard a starship. Thus, Cr2500–5000 plus reasonable
@@ -1229,6 +1266,8 @@ unbelievable windfall, yet many Travellers will sniff at such a 'tiny' sum
 and refuse the task.
 
 USING REPUTATION
+
+
 Not every Traveller can trade on their reputation. Those that commit
 a lot of crimes or smash their way through every obstacle are unlikely
 to be considered heroes. However, those that do high-profile good
@@ -1285,6 +1324,8 @@ paparazzi or over-zealous fans at every opportunity.
 ```
 
 GAIN AND LOSS
+
+
 A reputation cannot be built overnight. Travellers will usually gain one
 point of Fame when they carry out newsworthy and positive actions. As
 many as three points of Fame might be gained from some particularly
@@ -1319,6 +1360,8 @@ become a driver for the campaign, leading the Travellers to places they
 otherwise would not have visited.
 
 MAINTAINING A REPUTATION
+
+
 There are a number of ways to maintain Fame, some of which might
 lead to new experiences whilst others are more conventional. If
 the Travellers do something modestly newsworthy, their Fame is
@@ -1329,6 +1372,8 @@ many opportunities here for the Travellers to make fools of themselves
 chasing fading fame but such is the celebrity lifestyle.
 
 BENEFITS OF FAME
+
+
 Some of the benefits of Fame are passive and often will be a
 roleplaying matter rather than one of applying game mechanics.
 Travellers who have done good deeds or saved people might
@@ -1396,15 +1441,13 @@ a major ad campaign.
 ```
 Cr2Dx1000 immediately,
 plus either 20% of this value
-for 2D+12 months or an one-
-off additional Cr3Dx1000.
+for 2D+12 months or an one-off additional Cr3Dx1000.
 ```
 
 ```
 13–14 Major and lasting
 opportunity, such as having
-your autobiography ghost-
-written. Alternatively, a
+your autobiography ghost-written. Alternatively, a
 short-term but high-profile
 event such as a city
 granting the Traveller the
@@ -1450,6 +1493,8 @@ worlds of the Trojan Reach, where advanced melee weapons are status
 symbols wielded by warlords, champions and wandering heroes.
 
 POLEARMS
+
+
 Weaponry such as halberds, glaives and poleaxes are all polearms,
 melee weapons mounted on a long shaft. Capable of delivering
 powerful cutting, slashing or stabbing blows, there are many varieties.
@@ -1465,6 +1510,8 @@ Heavy Polearm 2 Melee 3D+2 6 Cr400 Bulky, AP 2
 ```
 
 ADVANCED BLADE MATERIALS
+
+
 Any melee weapon with a cutting edge can be improved using better
 materials at higher Tech Levels. Although melee weapons become less
 common in lethal battles, there is still a place for bladed combat. As
@@ -1556,6 +1603,8 @@ accompanying stools, while on the opposite wall is a kitchen with tables
 containing patrons drinking or eating rather greasy looking food.
 
 ENTERING THE UNDERWORLD
+
+
 Once the glass elevator opens, they see a grey haired Vargr MC in a
 black top hat striding towards them, his shimmering suit leaving a trail
 of hologram stars in his wake. The Vargr carries with him a steaming
@@ -1637,8 +1686,7 @@ enterprise. Sarge has one of
 the few personal staterooms on
 the cruiser and has modified
 laser resistant airlock doors
-that require a Very Difficult
-(12+) Electronics or Explosives
+that require a Very Difficult (12+) Electronics or Explosives
 check to breach. Not the most
 talkative, he stands guard
 over the mercenaries
@@ -1656,8 +1704,7 @@ STR 13 INT 6 Gun Combat 2, Investigate 0, Melee 2,
 DEX 10 EDU 5 Recon 0, Vacc Suit 1
 END 10 SOC 3
 EQUIPMENT Weapons: Laser Pistol (3D+3, Zero-G),
-Stunner (3D, Stun, Zero-G), Stun Grenades x2
-(3D, Blast 9, Stun)
+Stunner (3D, Stun, Zero-G), Stun Grenades x2 (3D, Blast 9, Stun)
 Armor: Hostile Environment Vacc Suit (+12)
 ```
 
@@ -1668,6 +1715,8 @@ Human Male
 ```
 
 GZIDE LUGH
+
+
 Gzide joined the tavern
 almost immediately
 after it went into
@@ -1715,6 +1764,8 @@ Vargr Male
 ```
 
 TAMARA
+
+
 The famed owner and
 proprietor of the tavern,
 Tamara is a ruthless
@@ -1744,8 +1795,7 @@ rather quickly.
 
 ```
 STR 5 INT 14 Admin 2, Advocate 1, Broker 2, Carouse
-2, Deception 3, Diplomat 2, Gun Combat
-(slug) 2, Leadership 2, Melee (blade) 3,
+2, Deception 3, Diplomat 2, Gun Combat (slug) 2, Leadership 2, Melee (blade) 3,
 Recon 2, Streetwise 2
 ```
 
@@ -1768,6 +1818,8 @@ Human Female
 ```
 
 NICOLAS GESTALT
+
+
 
 'NICK THE KNIFE'
 The ship's resident
@@ -1798,8 +1850,7 @@ lacking any finesse.
 
 ```
 STR 6 INT 10 Carouse 1, Engineer 1, Mechanic 1,
-Medic 3, Science (chemistry) 2, Science
-(cybernetics) 1
+Medic 3, Science (chemistry) 2, Science (cybernetics) 1
 ```
 
 ### DEX 12 EDU 12
@@ -1832,8 +1883,7 @@ Rumors about Gzide
 Check Difficulty Information
 Investigate Average (8+) Gzide designed the stage and balconies
 himself and is supremely proud of this.
-Streetwise Very Difficult
-(12+)
+Streetwise Very Difficult (12+)
 ```
 
 ```
@@ -1974,8 +2024,12 @@ Pirates x20, Stewards x7
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr31762/month
 PURCHASE COST
+
+
 MCr381.15
 ```
 
@@ -2061,6 +2115,8 @@ DECK 3
 4. Cargo Bay
 
 TRADER CAMPAIGNS
+
+
 •  Tamara needs to move anagathics to a system with a higher Law
 Level and will pay the Travellers a cut of the profits to act as escort.
 The cut will be increased if they simply do the trafficking for her.
@@ -2073,11 +2129,12 @@ corporations or 'Imperials'.
 cosmetic surgery, under the radar of the Imperium.
 
 MILITARY CAMPAIGNS
+
+
 •  They encounter a spy who knows the invasion plans on the
 Imperial frontier from a fringe member of nobility. He is waiting in
 the tavern to hire a ship that can get him safely to the Imperium.
-•  Admiral Jackson Ababio has hired the Travellers to link a high tech
-(TL13) tracker to the jump engines, in order for him to follow it. This
+•  Admiral Jackson Ababio has hired the Travellers to link a high tech (TL13) tracker to the jump engines, in order for him to follow it. This
 will require Very Difficult (12+) Electronics and Stealth checks, and
 a good plan.
 •  A small Imperial colony on the frontier wants to break free of a
@@ -2086,6 +2143,8 @@ grown on their farm. A representative offers to pay the Travellers to
 train and accompany them.
 
 EXPLORER CAMPAIGNS
+
+
 •  A down on their luck prospector has the coordinates for an
 uninhabited world with a wealth of metal resources. They will give it
 to the Travellers for a chance to be taken along.
@@ -2121,13 +2180,14 @@ COST Cr79450
 
 UNICYCLE OF MASS DESTRUCTION
 
+
+
 By Isabella Treccani-Chinelli
 
 Some say this is the creation of a lunatic, whereas others view the
 creator as a pioneer. Oft used by revolutionaries on planets plagued by
 cruel governments, pirates raiding frontier colonies and those who have
-truly lost all sense of self preservation, the Unicycle of Mass Destruction
-(UMD) is truly a sight to behold. Only the most adept riders can master
+truly lost all sense of self preservation, the Unicycle of Mass Destruction (UMD) is truly a sight to behold. Only the most adept riders can master
 this vehicle, as it takes multitasking to the extreme. The side-mounted
 light autocannon is counterbalanced by the manipulator arm, which can
 be seen holding up those defeated in battle.
@@ -2150,8 +2210,7 @@ Light Autocannon Cr1000 Auto 3 DM+2 to attack roll
 Traits Open Vehicle
 
 Equipment Autopilot (enhanced), Control System (improved),
-Ejection Seat, Entertainment System, Manipulator Arm
-(basic), Navigation System (improved), Wet Bar
+Ejection Seat, Entertainment System, Manipulator Arm (basic), Navigation System (improved), Wet Bar
 
 Equipment
 
@@ -2197,6 +2256,8 @@ food. Also, starship-grade weaponry will not leave edible remains, nor
 trophies in most cases, unless you are hunting megafauna.
 
 CLASSIFYING YOUR PREY
+
+
 The first step is classifying the prey available, so as to optimize your
 hunting. For instance, if you know you are going to need a large
 amount of meat, it may be worth the extra work to hunt and process
@@ -2233,6 +2294,8 @@ from their living conditions but this is true of any life form.
 ```
 
 LIVING CONDITIONS
+
+
 Understanding the environment where the prey lives is vital to
 ascertaining whether they will be safe for consumption. If an
 environment is highly toxic, filters and specific cooking methods are
@@ -2266,6 +2329,8 @@ the local ecosystem, rather than using more responsible methods
 such as recycling or offworld disposal.
 
 QUICKLY IDENTIFYING COMMON HERBIVORES
+
+
 There are many sayings originating on Terra with guidelines for selecting
 prey. These rules do not apply to birds, insects, reptiles or plants:
 **●** 'Fins and Scales': For sea creatures, many of the least toxic
@@ -2284,6 +2349,8 @@ only have split hooves and are not classified as herbivores due to
 their scavenging/omnivore appetite.
 
 CLEAN YOUR KILL
+
+
 When handling dead animals or harvesting plants, protective gear is a
 must. At a minimum, wear disposable gloves and use a sharp knife to
 remove unusable portions of the kill. A vacc suit is usually overkill but will
@@ -2291,6 +2358,8 @@ suffice, although it should be decontaminated soon after handling the prey.
 
 ```
 DEFENCES
+
+
 No animal particularly wants to be eaten. Due to this, a number of
 species have evolved natural defences:
 - Evasion and physically overpowering foes are a common
@@ -2322,6 +2391,8 @@ recommended, to minimise bacterial contamination from said organs.
 My preference is a static dagger, as it cleans itself.
 
 CONCLUSION
+
+
 When you wish to hunt, be prepared. Bring the right gear, clean and
 preserve your kills quickly and know beforehand what to and what not
 to hunt. Do this and you may provide food for an entire colony. Go off
@@ -2368,8 +2439,7 @@ megacorporations to demean her research.
 
 ```
 STR 6 INT 10 Art (visual media) 1, Athletics (dexterity)
-1, Carouse 2, Medic 1, Profession
-(hydroponics) 2, Science (biology) 3,
+1, Carouse 2, Medic 1, Profession (hydroponics) 2, Science (biology) 3,
 Science (botany) 4, Science (planetology) 1
 ```
 
@@ -2434,6 +2504,8 @@ her current stray from factual science.
 
 ALIENALIEN
 
+
+
 Nenlat
 **By Geir Lanesskog**
 
@@ -2441,17 +2513,17 @@ Nenlat are natives of Deneb (Usani subsector), a marginally habitable
 world named after the bright supergiant star it orbits. Although
 considered native, the species is thought by most xenologists to have
 originated as imports or side-effects of an attempt by the Ancients to
-terraform a world around the five-million-year-old star. Some semi-
-aquatic Nenlat maintain traditional cultures in Deneb's wetlands, while
+terraform a world around the five-million-year-old star. Some semi-aquatic Nenlat maintain traditional cultures in Deneb's wetlands, while
 others have become assimilated into Imperial society.
 
 PHYSICAL CHARACTERISTICS
+
+
 The Nenlat are trilateral beings with a rounded barrel-shaped body
 approximately one meter in diameter and 1.2 meters tall. From that
 body, a tripod of three dexterous legs adds another half meter to the
 height of these beings. In addition to the legs, the Nenlat have three
-arms, three flippers and a forward-facing head with a long tentacle-
-like stringer protruding from the back of the neck. This stinger ends
+arms, three flippers and a forward-facing head with a long tentacle-like stringer protruding from the back of the neck. This stinger ends
 in a pointed knife-like keratin-based stinger capable of delivering a
 neurotoxin fatal to smaller Denebian fauna. All vital organs including the
 brain are located within the central body.
@@ -2465,8 +2537,7 @@ set in a roughly hexagonal pattern, with the flippers set slightly higher
 and occupying the rear and 'side-forward' locations and the three arms
 occupying the forward and 'side-rear' locations.
 
-Sensory organs are located in the head, which is set upon a trunk-
-like neck. Two stalked eyes provide binocular vision, centered on blue
+Sensory organs are located in the head, which is set upon a trunk-like neck. Two stalked eyes provide binocular vision, centered on blue
 wavelength light and ranging far into the ultraviolet. Nenlat eyestalks
 are broad at the base and double as ears, which evolved to hear in thin
 atmospheres and are especially sensitive in a standard atmosphere.
@@ -2487,6 +2558,8 @@ their bodies to regulate oxygen intake in dense atmospheres to avoid
 suffering oxygen intoxication and associated delirium.
 
 EVOLUTIONARY DEVELOPMENT
+
+
 Deneb's ecosystem is complex but the age of the star Deneb – less than
 five million years – and the age of the solid crust of the planet Deneb
 
@@ -2507,6 +2580,8 @@ have a progenitor species and archaeological records point to their
 occupation of the abandoned Ancients arcology as early as -290,000.
 
 LIFE CYCLE
+
+
 As with much of Denebian fauna and flora, the Nenlat have three
 genders: activator, bearer and egg layer. Reproduction is external and
 ritualised. A bearer will prepare a two-meter-diameter nesting lodge
@@ -2519,8 +2594,7 @@ layer considers a nesting lodge acceptable, they will enter it and deposit
 their egg. Scent from the egg will attract activators, who often engage
 in ritual combat for the right to enter the nesting lodge and inseminate
 the egg with their stinger. This fertilization causes a chemical reaction,
-which changes the odour of the egg and triggers the return of the nest-
-building bearer, who will then guard the egg for three standard months,
+which changes the odour of the egg and triggers the return of the nest-building bearer, who will then guard the egg for three standard months,
 until it hatches into a juvenile Nenlat, whom the bearer then brings back
 to their village.
 
@@ -2564,10 +2638,11 @@ is approximately 80 years but life expectancy among those living in
 traditional villages is closer to 60 years.
 
 HISTORY
+
+
 The origins of the Nenlat remain shrouded in contradictory theories
 and fragmentary evidence. The Nenlat themselves have numerous
-creation myths, some centered on the vast ruined Ancient arcology half-
-submerged in marshlands; others believe, like the majority of Deneb's
+creation myths, some centered on the vast ruined Ancient arcology half-submerged in marshlands; others believe, like the majority of Deneb's
 human inhabitants, in the divinity of the star itself. In any case, by
 -290,000 Nenlat villages existed. Some were squatter camps occupying
 many layers of the fallen arcology but most were primitive villages
@@ -2608,6 +2683,8 @@ Imperial officials, Deneb's world government formally recognized the
 Nenlat's ownership of 70% of the world's surface.
 
 SOCIETY
+
+
 The Nenlat number 24 billion individuals, of which more than half – 14
 billion – continue to live traditional lives. Another eight billion live in Imperial
 urban areas on Deneb itself and more than two billion live offworld in
@@ -2652,6 +2729,8 @@ numerous mercenary units that have a reputation for maintaining good
 order as well as for their expertise in amphibious operations.
 
 EXTERNAL RELATIONS
+
+
 The lack of a world government does not seem to bother the traditional
 Nenlat; they are content to keep their culture and let the 'Imperials' deal
 with the outside world. They are not opposed to visitors but they tend
@@ -2668,8 +2747,7 @@ Other species find even assimilated Nenlat abrasive at times, with most
 voice boxes not able to communicate subtleties of expression – these
 are not translation boxes but allow an Anglic 'speaking' Nenlat to better
 approximate a human voice. Most Nenlat can lack patience and even
-those who have rejected traditional values have little time for 'rule-
-breakers' or 'time-wasters'.
+those who have rejected traditional values have little time for 'rule-breakers' or 'time-wasters'.
 
 Certain stereotypes apply to the various genders of Nenlat. Such
 behaviours are far from universal but common enough to be almost
@@ -2680,6 +2758,8 @@ confrontation. A Bearer seems more even-keeled and agreeable but
 this is often a reflection of passive-aggression.
 
 CREATING NENLAT TRAVELLERS
+
+
 Nenlat Travellers can be of any gender and either traditional or
 assimilated. A Traveller can either choose a background and gender or
 determine it randomly with a pair of 1D rolls:
@@ -2718,8 +2798,7 @@ longer than green light and have poor night vision, meaning they suffer
 DM-1 on Recon checks at night or in low or red light.
 
 Very Thin Atmosphere: Nenlat can function in Very Thin (3)
-atmospheres without assistance but require clothing to thrive in Dense
-(8) atmospheres or risk oxygen euphoria. If they engage in vigorous
+atmospheres without assistance but require clothing to thrive in Dense (8) atmospheres or risk oxygen euphoria. If they engage in vigorous
 activity such as combat or running, they must pass an Easy (4+)
 END check every round or suffer temporary 1D damage to DEX and
 INT. This effect is cumulative but recovery requires only five minutes
@@ -2737,6 +2816,8 @@ for humans. Apply DM-1 to all checks using tools or weapons not
 designed for Nenlat.
 
 CAREERS
+
+
 All careers from the Traveller Core Rulebook are suitable for Nenlat.
 Both traditional and assimilated Nenlat who are religious may enter the
 Believer career from the Traveller Companion. Nenlat have difficulty
@@ -2749,6 +2830,8 @@ Nenlat begin their first term at age 14 and must begin to check for aging
 at the conclusion of their fourth term at age 30.
 
 NENLAT EQUIPMENT
+
+
 Nenlat equipment is specific to their species and is only common in
 Deneb and surrounding systems. A Nenlat will need to check availability
 with DM-3 anywhere outside the Deneb system to acquire specific
@@ -2782,8 +2865,7 @@ acts as translator, both allowing a non-Galanglic or Vilani speaking
 Nenlat to understand the language and converting native speech to
 either Galanglic or Vilani based on the detected speech of the target
 audience. The rarely available advanced voice box acts as a universal
-translator. These voice boxes are ruggedised to withstand a semi-
-aquatic environment.
+translator. These voice boxes are ruggedised to withstand a semi-aquatic environment.
 
 ```
 Voice Box TL Kg Cost
@@ -3897,7 +3979,7 @@ Rotational Period: 19 days, 17 hours, 21 minutes, 50.4 seconds (tidal-locked)
 Atmospheric Pressure: 0.5 [[Terra|Terran]] (thin)
 Atmospheric Composition: Oxygen/Nitrogen with biological
 atmospheric taint
-**Average Temperature:** 310 K (at the hot pole). Twilight belt
+**Average Temperature:** 310K (at the hot pole). Twilight belt
 averages temperate
 **Hydrographics:** 34%
 Population: 2,003,000 (second survey)
@@ -3955,11 +4037,15 @@ GenthoManth
 
 THANBER
 
+
+
 UWP:
 
 B543653-C
 
 SYSTEM DETAILS
+
+
 The Thanber system consists of Than, a red M0 V main sequence
 star, a small cluster of rocky planets huddled closely around it, an icy
 planetoid belt and the companion M1 V star Treso orbiting far beyond
@@ -3978,6 +4064,8 @@ probably had their origin there. Treso has no known planets circling it
 and has seldom been visited.
 
 MAINWORLD
+
+
 The system mainworld, Thanber, is a mid-sized rocky world (diameter
 7,684 kilometers) that orbits Than in its innermost orbit. The orbit is
 so close that Thanber is tidally-locked, with one side of the planet
@@ -3992,8 +4080,7 @@ forms approximately one-third of the surface area of the planet.
 The companion star Treso is too distant, even at its closest approach,
 to provide much light or heat to Thanber, but its orbit does give the
 mainworld very long, fairly mild seasons. Because of Treso's eccentric
-orbit 'summer' is the shortest season, lasting approximately 15 years
-(Imperial), while 'winter' is the longest at 31 years. Temperature
+orbit 'summer' is the shortest season, lasting approximately 15 years (Imperial), while 'winter' is the longest at 31 years. Temperature
 variations between the height of summer and the depth of winter are
 only around 5°C above or below the average.
 
@@ -4015,6 +4102,8 @@ with stationary collectors.
 Thanber has no natural satellites.
 
 BIOSPHERE
+
+
 The atmosphere of Thanber is a thin but breathable oxygen-nitrogen mix
 with a biological taint consisting of the pollens and spores of local plants.
 Native Thanbers are usually fully acclimated but visitors are advised to
@@ -4081,6 +4170,8 @@ atmospheric taint are common. Native forms, such as the pacers, have
 proven nutritious to humans and are actively farmed.
 
 HISTORY
+
+
 Thanber was first surveyed by Darrian explorers from Entrope during
 the Long Night. The Darrians appreciated the blackwood forests and
 found the Thanber condor beautiful but the atmospheric taint, lack
@@ -4140,6 +4231,8 @@ Worlds, and exotic offworld goods from the Sword Worlds and Darrian
 Federation have become common in Thanber markets.
 
 GOVERNMENT
+
+
 The Thanber government consists of hereditary nobles descended
 from leaders of the original Villis refugees and the ruling body is a High
 Council of 11 nobles elected from the peerage. To qualify for election
@@ -4150,8 +4243,7 @@ are created by the ruling board of the University of Thanber, which is
 supposedly independent of noble control. They cover a wide variety of
 political, social and technical subjects and are intended to verify broad
 competence. All lesser government offices also have tests to qualify
-for office, also designed by the university. Member of the High Council
-(MHC) is the highest noble title on the planet. Former council members
+for office, also designed by the university. Member of the High Council (MHC) is the highest noble title on the planet. Former council members
 are known as High Council Member Emeritus (HCME).
 
 Each member of the High Council has a region of the planet for which
@@ -4187,6 +4279,8 @@ militia, supplying their own arms, but there has never been a need to
 mobilise them.
 
 INFRASTRUCTURE AND ECONOMY
+
+
 Thanber receives most of its power production from solar collectors
 built in the high desert of the lightside but there are some fusion plants
 on-planet to ensure uninterrupted power to vital facilities.
@@ -4206,6 +4300,8 @@ cargo and fuel lighters in support of the highport. Tourism is not a
 major part of the economy.
 
 SOCIETY
+
+
 Most Thanbers speak Galanglic as a native tongue, with a slight
 spinward accent. There is a small ethnic community of Sword Worlders
 on the planet who speak the Icelandic of the Sword Worlds as well.
@@ -4223,6 +4319,8 @@ in living where no one else wanted to live and consider themselves
 Thanbers first and foremost, proud of their independence.
 
 THE FUTURE OF THANBER
+
+
 Since the occupation of the Querion worlds by the Zhodani a century
 ago Thanber has had an increasingly important strategic location. Its
 exceptional technology and spaceport have only added to its value.
@@ -4319,8 +4417,7 @@ out of any proceeds from the recovered artefacts and will offer to split
 the remaining proceeds with the Travellers. Alternatively, if the Travellers
 do not have access to a ship, they can find a decrepit century-old safari
 ship available for a monthly lease of Cr300000. Upfront payment will be
-required but few questions asked. The ship has no crew. Roll for 10 quirks
-(Traveller Core Rulebook, Page 188).
+required but few questions asked. The ship has no crew. Roll for 10 quirks (Traveller Core Rulebook, Page 188).
 
 When approaching the sites of the team's base or the ruins they
 uncovered, it is clear the jungle has overgrown any possible landing
@@ -4328,8 +4425,7 @@ zone. The terrain precludes the landing of anything as large as a
 starship or spacecraft except in the middle of the river Zoë used for her
 escape, about 10 kilometers from the base camp and 12 from the ruins.
 An air/raft-sized vehicle could navigate through the triple-canopy jungle
-and land at the base camp on a Very Difficult (12+) Flyer (grav) check
-(1D minutes, DEX) or a Difficult (10+) check for a grav bike or grav belt
+and land at the base camp on a Very Difficult (12+) Flyer (grav) check (1D minutes, DEX) or a Difficult (10+) check for a grav bike or grav belt
 landing. A TDX charge or any explosive that can clear a 15-meter-wide
 landing zone can make enough space for an air/raft or similarly sized
 vehicle to land with a Routine (6+) check.
@@ -4384,8 +4480,7 @@ journey. Check normally for a starship encounter on the outbound journey.
 If the Travellers or Zoë take the time to find the right experts – on a
 TL12+ world with at least Population 6 – they can determine the artefacts
 are likely 200,000 years old and probably Kursae. If the Travellers find
-the right buyer – Difficult (10+) Broker or Science (archaeology) check
-(1D days, INT) – each box of artefacts is worth 1D x Cr200000.
+the right buyer – Difficult (10+) Broker or Science (archaeology) check (1D days, INT) – each box of artefacts is worth 1D x Cr200000.
 
 2: As in 1, but two team members made it back to the base camp
 without the artefact cases. They died of injuries or other factors
@@ -4397,9 +4492,7 @@ remains are located as in 1.
 vessel on approach. Check to see if the Travellers detect the ship at
 Very Long range. The ship sends a message to the nearest plantation,
 who will dispatch a team of four security guards in an air/raft. The
-guards are armed with scoped lightweight versions of big game rifles
-(200m, 3D+3, 5 shots, Scope), equipped with TL10 Cloth armor
-(Protection +8) and are Average Combatants. They have no capability
+guards are armed with scoped lightweight versions of big game rifles (200m, 3D+3, 5 shots, Scope), equipped with TL10 Cloth armor (Protection +8) and are Average Combatants. They have no capability
 to contact their base via radio. If they do not return, the plantation will
 send out another team as a search party after 48 hours.
 
@@ -4408,8 +4501,7 @@ incoming vessel and launch pursuit if appropriate. The ship, Snowplum
 IV, is a cargo-only subsidized liner with a pulse laser-equipped slow
 boat (Thrust 3) instead of a launch. The Snowplum IV itself will not
 actively pursue but is equipped with a double beam laser turret and a
-single sandcaster turret for self-defence and will fire upon hostile or non-
-responding ships within Medium range. The boat will not attempt to board
+single sandcaster turret for self-defence and will fire upon hostile or non-responding ships within Medium range. The boat will not attempt to board
 a vessel but will insist the ship head to the ocean for refuelling and depart
 immediately while under guard. If combat with the boat occurs, there are
 four guards (see 3) with TL12 vacc suits in addition to the pilot aboard.
@@ -4472,11 +4564,12 @@ Human Female
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 6 INT 10 Advocate 1, Deception 1, Diplomat
 0, Drive 0, Electronics (computers) 1,
 Electronics (sensors) 1, Investigate 1,
-Medic 1, Melee (unarmed) 1, Science
-(xenology) 3, Stealth 1, Streetwise 1,
+Medic 1, Melee (unarmed) 1, Science (xenology) 3, Stealth 1, Streetwise 1,
 Survival 1, Vacc Suit 0
 ```
 
@@ -4505,6 +4598,8 @@ between a career as pirates and wanton murderers is up to the individual
 Referee but there should always be a price for villainy.
 
 NOTORIETY
+
+
 Travellers who do bad stuff will earn a Notoriety characteristic. This is
 rated from 0–15 and can change over time. Note that Notoriety is nothing
 to do with what can be proven in a court of law; it is an impression other
@@ -4697,6 +4792,8 @@ be extreme
 ```
 
 GAIN AND LOSS
+
+
 Notoriety gradually fades if it is not increased by further misdeeds,
 dropping by 1 every 2D+12 weeks, until it reaches a value of 3. Unless
 the Traveller changes their identity or otherwise leaves their reputation
@@ -4720,6 +4817,8 @@ create a situation where the authorities are trying to apprehend the
 Travellers and their fans are trying to protect them.
 
 PROBLEMS RESULTING FROM NOTORIETY
+
+
 For every 3 Notoriety, Travellers suffer DM-1 when interacting with
 honest people, in a non-threatening way, and receive DM+1 to attempts
 to intimidate or bully anyone who knows about the Travellers' reputation.
@@ -4767,8 +4866,7 @@ local cooperation but will actively hunt the Traveller
 for 2D+12 months.
 13 One agency or service makes a priority of eliminating
 or apprehending the Traveller. This might be a widely
-publicised law enforcement operation or an off-the-
-books assassination squad sent by the military.
+publicised law enforcement operation or an off-the-books assassination squad sent by the military.
 Significant resources are assigned but only for a
 period of 1D+6 months.
 14 A powerful individual becomes obsessed with
@@ -4810,6 +4908,8 @@ during failed boarding actions and decompression events that people
 really appreciate an iris valve, he argued.
 
 FORM AND FUNCTION
+
+
 The then crescent-shaped sections that make up the door are called
 leaves and, depending on manufacturer, there will typically be five to
 nine of them. The structure the leaves are within is called the surround.
@@ -4895,6 +4995,8 @@ real reason you are here. All iris valves can be digitally or mechanically
 locked, so let us go from there.
 
 DIGITAL SECURITY
+
+
 This lock is a security protocol, which must be bypassed before the
 computer signals the iris valves' motor to open. What that protocol is
 will vary from some sort of identity tag to a retinal scanner, although
@@ -4932,6 +5034,8 @@ action will be to turn off power to that iris valve, followed by a member
 of the crew dashing to mechanically lock it.
 
 MECHANICAL LOCKING
+
+
 Before I go on, it must be stated that you cannot lock an iris valve in
 the open position; from a manufacturer's point of view there is no point.
 They can be mechanically locked from the inside only and cannot be
@@ -4965,6 +5069,8 @@ to shock the mechanism instead of a sledgehammer. Shot-popping is
 easier to do with older iris valves that have developed some pliancy.
 
 HOTWIRING
+
+
 It is also possible to take away the surround's panelling to get inside
 the control box and trigger an iris valve to open by interfering with the
 wiring between control pad, power source and motor. This is not as easy
@@ -4987,6 +5093,8 @@ electronic security useless and lets you crank open the iris valve,
 provided it is not mechanically locked.
 
 BRIDGES AND ENGINE ROOMS
+
+
 I have mentioned the outside of space-valves as facing out into the
 environment the habitat is hosted by but there are exceptions, such
 as the entrance into the bridge of a ship or space station's operations
@@ -5022,6 +5130,8 @@ although if it has previously been digitally locked it will not unlock simply
 due to prior power loss.
 
 AIRLOCKS
+
+
 Where two iris valves are paired into an airlock, getting past the
 security of the outside space-valve often means two minutes waiting
 whilst atmosphere is pumped into storage. The last thing anyone
@@ -5041,6 +5151,8 @@ but sometimes if the outside space-valve is hacked it could trigger the
 inside valve to lock. It all depends on security protocols.
 
 REFEREE INFORMATION
+
+
 Hacking electronic security on an iris valve requires a successful
 Difficult (10+) Electronics (computers) check (2D minutes, INT) using a
 computer terminal. If hacking the outside door of an airlock, the Referee
@@ -5052,8 +5164,7 @@ Removing panelling in the surround on the inside of an iris valve requires a
 successful Routine (6+) Engineer or Mechanic check (1D minutes, DEX).
 
 Removing the panelling on the outside of an iris valve requires a
-successful Difficult (10+) Engineer or Mechanic check using basic tools
-(1Dx2 minutes, DEX). If in zero gravity the DEX DM may be replaced
+successful Difficult (10+) Engineer or Mechanic check using basic tools (1Dx2 minutes, DEX). If in zero gravity the DEX DM may be replaced
 with the Vacc Suit skill. If using a panel hacking kit this becomes
 Average (8+) and only takes D3 minutes.
 
@@ -5065,8 +5176,7 @@ should consider how new and well-maintained the iris valve is, as this
 will be a Formidable (14+) task on a new iris valve.
 
 Using a sledgehammer in Zero or Low Gravity requires a successful
-Average (8+) Athletics (dexterity) check to avoid spinning out of control
-(see Traveller Core Rulebook, page 81). Using the clamped shotgun
+Average (8+) Athletics (dexterity) check to avoid spinning out of control (see Traveller Core Rulebook, page 81). Using the clamped shotgun
 and solid copper slugs means the Traveller does not need to hold the
 shotgun when firing, nor do they need to make the check to avoid
 spinning out of control.
@@ -5097,6 +5207,8 @@ Bypass control panel
 
 ```
 OR
+
+
 ```
 
 ```
@@ -5113,6 +5225,8 @@ Bypass control panel
 
 ```
 OR
+
+
 ```
 
 ```
@@ -5183,6 +5297,8 @@ Ye s
 ```
 
 EQUIPMENT
+
+
 The following equipment can be used to gain access to an iris valve,
 whether it be your own or one on another ship.
 
@@ -5190,8 +5306,7 @@ whether it be your own or one on another ship.
 This is a heavy-duty bag with a magnetic pad used to clamp it onto the
 hull of a starship. Inside, attached to wire tethers, are a sledgehammer
 and a hand-crank with a variety of fittings for different manufacturers
-of airlocks. For an additional cost, the kit contains a modified short-
-barrel shotgun with magnetic muzzle-clamp and 10 solid copper slugs.
+of airlocks. For an additional cost, the kit contains a modified short-barrel shotgun with magnetic muzzle-clamp and 10 solid copper slugs.
 The operator should take care, as the shotgun comes flying off the
 mechanism when fired, if untethered.
 
@@ -5253,8 +5368,7 @@ Panel Hacking Kit 7 0.2 Cr250
 Iris Valve Power Pack
 This is a battery box with a variety of easy-to-use couplings specific to
 iris valves, which can be plugged in to provide power. It is designed to be
-strapped to an individual in a vacc suit so the operator can use it hands-
-free. Power packs are simple to jerry-rig, provided you have a suitable
+strapped to an individual in a vacc suit so the operator can use it hands-free. Power packs are simple to jerry-rig, provided you have a suitable
 size of battery and a basic grasp of electronics. Typically, given the power
 required, it will open two standard 1.5 meter iris valves on a full charge.
 
@@ -5327,8 +5441,7 @@ they are likely to be useful.
 
 The range of many talents places limits on how effective they can be
 and the availability of personnel with the correct abilities must also be
-taken into account. As a result, psionics are mainly used by special-
-operations or support vessels. For example, a flight of Zhodani fighters
+taken into account. As a result, psionics are mainly used by special-operations or support vessels. For example, a flight of Zhodani fighters
 might include a two-seat command model, with the squadron leader
 using Tactical Awareness or similar talents to provide their force with an
 advantage. A stealthy reconnaissance craft or fleet picket might carry a
@@ -5353,8 +5466,7 @@ Those classes of Zhodani warships that operate en masse tend to be
 smaller and more numerous than Imperial equivalents. Major vessels
 are the opposite; they are built for maximum individual capability.
 
-Like many naval powers, the Zhodani Consulate uses a high-end/low-
-end procurement strategy. Ships intended to confront a major navy are
+Like many naval powers, the Zhodani Consulate uses a high-end/low-end procurement strategy. Ships intended to confront a major navy are
 built to a high standard, whilst those intended for patrol and security
 work use a lesser specification. This trade-off allows the Consulate to
 maintain enough hulls to meet its security needs whilst not impacting
@@ -5393,6 +5505,8 @@ democracy, enjoying a high degree of personal freedom, and is widely
 known for its political and religious tolerance.
 
 ACROSS THE BAR ROOM TABLE
+
+
 When the ship jumped into the Janosz system, it developed a bad
 fuel leak that destroyed much of the wiring in several power plant
 subsystems. The ship was taken in tow and parked in orbit above the
@@ -5450,6 +5564,8 @@ with Grant's employer may implicate him if anything were to go wrong.
 His employer will pay MCr1 for successful completion of the mission.
 
 RUMOURS
+
+
 The Argon Gambit is a mystery which the Travellers, to survive, must
 puzzle out, at least in part. The clues to the solution of the mystery can
 be obtained in several ways but most of them are contained in rumors.
@@ -5643,8 +5759,7 @@ not a Solomani sympathiser but he does not care much for the
 Imperium either. Their powerlessness makes him feel smug.
 •  A man in a bar orders a round of drinks for the house and then
 loudly offers a toast to the anti-redemptionists. Several others
-join him, others throw their drinks at him and a general free-for-
-all ensues. Questioning of locals reveals the anti-redemptionists
+join him, others throw their drinks at him and a general free-for-all ensues. Questioning of locals reveals the anti-redemptionists
 are a local political movement opposed to an immediate demand
 for payment on large amounts of Imperial war bonds held by the
 Intanevaci government since the Solomani Rim War.
@@ -5662,6 +5777,8 @@ its borders, thus avoiding any Imperial charge that they are
 harbouring rebels.
 
 THE SQUEEZE
+
+
 The Travellers are not the only ones interested in Kashkanun's villa
 and word will leak back to those who have an interest in keeping them
 away. As a result, the following two events will happen, the first should
@@ -5691,6 +5808,8 @@ Central Supply Catalogue, page 124) and it is advised not to attempt to
 steal the guns from them.
 
 COURSES OF ACTION
+
+
 After they have gained some idea of what is going on, the Travellers
 may want to consider their many options. The following are several of
 the possibilities available.
@@ -5738,8 +5857,7 @@ detective can easily prosecute them for their crimes thus far and that
 would be the end of their ship. He instead may choose to offer them
 amnesty from prosecution in return for unravelling the mystery. Who
 is after what and why? If the deal is offered, he will tell them what he
-knows. Grant has leaked to the police the date of their planned break-
-in to Kashkanun's villa and the police are planning to seize them when
+knows. Grant has leaked to the police the date of their planned break-in to Kashkanun's villa and the police are planning to seize them when
 they leave, hoping to get both them and the documents, which the
 police hope will somehow incriminate Kashkanun.
 
@@ -5818,6 +5936,8 @@ the basis of a tip that there is a burglary in progress the documents they
 recover will embarrass the Imperium somehow.
 
 REFEREE INFORMATION
+
+
 The nation of Intanevac on the planet Janosz is a representative
 democracy committed to freedom of political expression. Thus, the
 Solomani Party is a legitimate and open political movement in the
@@ -5915,6 +6035,8 @@ operatives had been assigned to follow them and to guard them against
 just such an attack. It is they who killed the four thugs.
 
 CHARACTERS
+
+
 The thugs encountered by the Travellers are listed here, although in
 Part Two (page 119) they also carry autopistols (3D-3).
 
@@ -5940,6 +6062,8 @@ Weapons: Truncheon (2D+1)
 ```
 
 TRUNCHEONS
+
+
 Truncheons act similarly to clubs, being short-range melee weapons.
 They are often used by planetary police forces as close-range solutions
 to subduing criminals. Sometimes little more than a reinforced stick,
@@ -5984,6 +6108,8 @@ the Traveller is highly specialized with automatic entry to the career of
 their choosing should they be successful.
 
 FLIGHT SCHOOL
+
+
 For both air forces and space navies there exist flight schools designed
 to produce the very best pilots. The most famous of these cater to
 fighter pilots of agile aircraft and small space-going craft but no less
@@ -6002,13 +6128,14 @@ Graduation: INT 8+. If 10+ is rolled, graduate with honors.
 •  Gain two more levels to either Flyer or Pilot (any); these two levels
 must be put into different specialities.
 •  Graduation grants automatic enlistment to the Navy (line/crew
-or flight) if the Traveller has at least one Pilot skill, or the Army
-(cavalry) if the Traveller has at least one Flyer skill, with an
+or flight) if the Traveller has at least one Pilot skill, or the Army (cavalry) if the Traveller has at least one Flyer skill, with an
 automatic commission before the career's first term, allowing
 the Traveller to start at officer rank 1. Graduating with honors
 increases this to officer rank 2.
 
 MEDICAL SCHOOL
+
+
 There is more than one route to becoming a doctor, be it specialist or
 researcher, but the very best tend to be those who graduate from a
 respected medical school. Successful graduation at medical school will
@@ -6082,6 +6209,8 @@ of the Travellers' Aid Society
 ## JJJournal
 
 JOURNAL
+
+
 
 ```
 The

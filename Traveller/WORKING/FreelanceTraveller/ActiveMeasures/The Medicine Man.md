@@ -8,6 +8,8 @@ Synopsis:
 
  
 
+
+
 A primitive tribe asks the PCs to rescue its healer, kidnapped by a rival tribe.
 
 ### Pre-Adventure Prep
@@ -46,7 +48,7 @@ Possible directions to take this adventure:
 3. As 2, but the doctor is an unwilling guest. He is otherwise unharmed. He doesn't resist rescue attempts, but doesn't actively help either. The tribals react as if attacked, as above.
 4. As 3, but the doctor eagerly participates in efforts to get rescued. He is unharmed.
 5. As 2, but the doctor was injured during his abduction by the rival tribe (2D hits) and can't travel without help. He will neither help nor hinder efforts to rescue him.
-6. Whether he went willingly to the rivals' camp or not, when the PCs arrive, the doctor is in the middle of a delicate procedure (surgery, childbirth, etc.) and refuses to leave until it is finished. The procedure or event takes 1D+2 hours. Meanwhile, the tribal members grow increasingly restless. Throw their Reaction to the PCs every hour; if a result of 2 (Violent. Immediate attack) or 3 (Hostile. Attack on 5+) comes up, the tribe attacks as outlined above.
+6. Whether he went willingly to the rivals' camp or not, when the PCs arrive, the doctor is in the middle of a delicate procedure (surgery, childbirth, etc.) and refuses to leave until it is finished. The procedure or event takes 1D+2 hours. Meanwhile, the tribal members grow increasingly restless. Throw their Reaction to the PCs every hour; if a result of2 (Violent. Immediate attack) or3 (Hostile. Attack on 5+) comes up, the tribe attacks as outlined above.
 
 If the group for whatever reason returns to the original tribe without the doctor, the chief will order his warriors to go and fetch their healer, even though his fighters aren't as powerful. The survivors of the resulting massacre will blame the PCs.  
 The referee must determine the flow of subsequent events.

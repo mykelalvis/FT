@@ -48,4 +48,6 @@ Gaea:
 
  
 
+
+
 Gaea/Albadawi 0702 A986986-E. ([Link to Traveller Map](http://travellermap.com/?x=4.763&y=-101.5&scale=64)) This is the subsector capital and is a thriving, prosperous planet. In its jungles is one of the more unusual archaeological riddles—the Jala'lak and their temples. As such then, Gaea has become a mecca for archaeologists across the Solomani Rim.

@@ -29,8 +29,7 @@ Behind the scenes and unbeknownst to the travellers is an agreement between a va
 
 # Tyr
 
-Acis' perennial adversary is down but not out. For centuries, Tyr's technological advantages and starship-manufacturing capabilities enabled them to oppress the other star systems of the region known as the Dustbelt
-(a.k.a., the Sindalian Main).
+Acis' perennial adversary is down but not out. For centuries, Tyr's technological advantages and starship-manufacturing capabilities enabled them to oppress the other star systems of the region known as the Dustbelt (a.k.a., the Sindalian Main).
 
 Now in tatters after losing a series of space and ground battles to Acis and the Aslan, Tyr desperately defends its shipyards with all of its remaining strength. They hope to rise from the ashes and once again dominate the region, but it might be too late to regain what they have lost.
 
@@ -161,7 +160,6 @@ Radio chatter is intense and staccato with starport officials brusquely granting
 Other than the occasional rescue or cleanup team rushing from one end of the starport to the other, the Tyrians have tried to maintain an aura of business as usual.
 
 Amid the chaos, the travellers may dock, refuel their ship, engage in trade, or perform whatever other tasks they want. Despite the occasional explosion or hail of gunfire, things proceed normally provided they stay away from any “hot zones” where the fighting is more intense.
-
 
 As they interact with locals and visitors, the travellers may check for rumors using the[[#Tyr Rumor Table]] after a successful Streetwise or Carouse check).
 
@@ -320,8 +318,7 @@ Tktk is a very dry world, with little vegetation. It would be an exaggeration to
 
 **If the invaders persist and refuse to leave, the bomb bugs exhibit their namesake, randomly selecting an individual, congregating near his or her body, and exploding in an act of self-sacrificial defense for the hive. The explosion is fairly loud and gooey, releasing a mild acid, and causing 3D damage to the victim. Armor protects the individual, but the acid will slowly eat through the armor, rendering it ineffective, over the course of a few days unless an industrial solvent is used to clean it off.**
 
-Tktk has several rodent and reptile species, but nothing much larger than a [[Terra|Terran]] iguana. A few of the reptilian species are poisonous. There are also several insect species, some of which sustain themselves on blood
-(e.g., the Tktk tic) and one highly unusual hive-based insect (known as “the bomb bug”) that the travellers might encounter (see "Bomb Bugs," on this page). There are no large predatory animals to speak of, but the planet's harsh conditions and the omnivorous tktk seem to successfully keep the fauna population at bay.
+Tktk has several rodent and reptile species, but nothing much larger than a [[Terra|Terran]] iguana. A few of the reptilian species are poisonous. There are also several insect species, some of which sustain themselves on blood (e.g., the Tktk tic) and one highly unusual hive-based insect (known as “the bomb bug”) that the travellers might encounter (see "Bomb Bugs," on this page). There are no large predatory animals to speak of, but the planet's harsh conditions and the omnivorous tktk seem to successfully keep the fauna population at bay.
 
 As the travellers are likely to spend at least one night in the outback on their way to the dig site, they might encounter either a poisonous reptile, the Tktk tic, or the bomb bug. A first aid application addresses any wound received, but a traveller with Survival skill endures the experience better. If bitten or otherwise injured by any of the listed creatures, have the traveller make an Average (8+) Survival check. If the roll is made, the traveller is able to tough it out with no lingering effects provided they receive first aid.
 
@@ -376,13 +373,11 @@ After a cursory examination, Klaaves lets the travellers examine the marble puzz
 [[TktTkt-085.jpg|Marble Puzzle]]
 After several days of digging, one of the travellers strikes a hard object with his pick. An archaeologist stops everyone from digging and obtains hand brushes and a soft solvent. Clearing away the dust and debris, they find what appears to be a puzzle of some sort.
 
-Essentially the object is a flat rectangular board, approximately 15x12 cm, with a 1-cm high grid on its surface. The board and grid are made of an unknown
-(and virtually indestructible) material that defies current materials science. It must exceed TL 20.
+Essentially the object is a flat rectangular board, approximately 15x12 cm, with a 1-cm high grid on its surface. The board and grid are made of an unknown (and virtually indestructible) material that defies current materials science. It must exceed TL 20.
 
 Many of the grid spaces contain small, colored spheres, each of which is about a centimeter in diameter. The spheres are black, blue, yellow, and purple. The colors in the spheres seem to shift and undulate, a little bit like a lava lamp. They look as if they can be extracted from the grid, but they can not. No matter how much physical force is applied, the “marbles” stay put.
 
-**Referee's Note:** The grid is a starmap of the local region that uses a grid in lieu of the typical hex map. For reference, the sphere at the bottom is Akhwohkyal
-(Trojan Reach hex 1621 in Goertel Subsector) and the one two spaces above it is Acis (1619 in Dpres Subsector). The colors of the spheres indicate the type of mainworld planet: blue for the presence of water, yellow for desert worlds, black for vacuum worlds, and purple for exotic atmospheres. Note that there is no obvious "right side up" to the object, so you might want to print a copy of the image and give it to the players without specifying which side is the top.
+**Referee's Note:** The grid is a starmap of the local region that uses a grid in lieu of the typical hex map. For reference, the sphere at the bottom is Akhwohkyal (Trojan Reach hex 1621 in Goertel Subsector) and the one two spaces above it is Acis (1619 in Dpres Subsector). The colors of the spheres indicate the type of mainworld planet: blue for the presence of water, yellow for desert worlds, black for vacuum worlds, and purple for exotic atmospheres. Note that there is no obvious "right side up" to the object, so you might want to print a copy of the image and give it to the players without specifying which side is the top.
 
 Activating a sphere requires a simple telekinetic or telepathic action directed toward the object by a psion. When a psion activates a sphere, it rises approximately half a meter above the board and morphs into a beautifully rendered map of the stellar system it represents. The map is not to scale, but does provide examples of all the major stellar and planetary objects in the system (stars, planets, gas giants, planetoid belts, comets, etc.).
 
@@ -472,7 +467,6 @@ This situation could get out of hand if it's not managed right and the traveller
 
 The tensions between the various groups escalates but does not explode into a full conflagration before the events of the [[#The Yentrai Attack]].
 
-
 ![[TktTkt-112.jpg|100]]
 [[TktTkt-112.jpg|Coyn Table]]
 ### A Shocking Discovery
@@ -491,9 +485,7 @@ The culmination of this adventure occurs when the Yetrai clan attacks the dig si
 
 The Yetrai have been scouting the site for days with two recon squads. The squads are camouflaged and adept at stealth. With radio communications jammed and the discovery that the artifact is a ruse, the travellers might become suspicious and begin investigating the area.
 
-Discovering the recon squads, or even identifying their presence, requires a successful opposed Recon check
-(INT) with a base DM of -4 on the part of the travellers. The recon squads are very well camouflaged and have maintained their positions for extensive periods of time.
-
+Discovering the recon squads, or even identifying their presence, requires a successful opposed Recon check (INT) with a base DM of -4 on the part of the travellers. The recon squads are very well camouflaged and have maintained their positions for extensive periods of time.
 
 Read a successful check with effect as follows:
 
@@ -619,7 +611,6 @@ For a world of middling size, Tktk has remarkably low gravity due to its porous 
 
 Another unusual feature of Tktk is its volatile river system. Broad streaks of water line the planet, typically covering 18-22% of its surface. The gravitational tug- of-war between the system's primary star, large gas giant, and companion star causes the waterways to change frequently. For an up-to-date depiction of Tktk's hydrosphere, visiting travellers must download the most current map upon arrival in system.
 
-
 # Aslan Corvette
 
 ![[TktTkt-160.jpg|100]]
@@ -650,7 +641,11 @@ Hull 300 tons, streamlned – 18 Armor Crystaliron, Armor: 4 15 3.6 M-Drive Thru
 
 MANEUVER DRIVE
 
+
+
 BASIC SHIP SYSTEMS
+
+
 
 **WEAPONS**
 
@@ -703,12 +698,11 @@ EQUIPMENT Combat armor, gauss pistol
 Ahfoisa Yetrai is the primary wife of Ferlyewá's harem. She is his trusted confidante. Ahfoisa is known for her cunning and resolve. Some say that she is the brains of the Yetrai operation where her husband is the brawn.
 ```
 
-
 ## Bomeyo
 ![[TktTkt-099.jpg|100]]
 [[TktTkt-099.jpg|Bomeyo]]
 
-SPECIES GENDER AGE Droyne Male 28 TRAITS – STR 5 INT 10 SKILLS DEX 5 EDU 11 Leader-3, Prediction-2, Tactics (Naval)-2, Appeal-2, Telepathy-2, Teleportation-2, Invisibility-0, Diplomat-1, Galanglic-3
+ Droyne Male 28 TRAITS – STR 5 INT 10 SKILLS DEX 5 EDU 11 Leader-3, Prediction-2, Tactics (Naval)-2, Appeal-2, Telepathy-2, Teleportation-2, Invisibility-0, Diplomat-1, Galanglic-3
 
 END 6 SEN 6
 

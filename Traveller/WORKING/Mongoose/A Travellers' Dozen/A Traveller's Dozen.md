@@ -147,6 +147,8 @@ websites, blogs etc.
 [[AT12-018.jpg|Arkula]]
 Vilani , Female , 34
 STR DEX END INT EDU SOC
+
+
 4 9 12 8 10 4
 
 Careers: University, Entertainer (Journalist) x 2,Citizen (Corporate)
@@ -214,6 +216,8 @@ At a class A or B star port, Arkurla has been investigating a criminal organisat
 
 Vilani , Male , 34 -
 STR DEX END INT EDU SOC
+
+
 4 7 7 8 8 14
 Careers: Noble (Dilettante) x 6
 
@@ -330,6 +334,8 @@ Islander , Female , 34
 
 
 STR DEX END INT EDU SOC
+
+
 
 
 3 9 8 7 6 8
@@ -484,8 +490,7 @@ Debt Collection
 KagarGaadima islookingtocollectondebts
 thatshebelievesClaraowesher,andhasput
 outabountyforthecaptureandreturnofthe
-shipwhichsheclaimswasstolenfromher-
-the Dawn'sEarlyLight .ShewillpayCr500,
+shipwhichsheclaimswasstolenfromher-the Dawn'sEarlyLight .ShewillpayCr500,
 to anyone who brings her the ship, with a
 bonusifClaraisreturnedaliveaswell.Legally,
 theclaimisnotvalid,butintheOutrimVoid
@@ -511,6 +516,8 @@ Vilani , Male , 42
 
 
 STR DEX END INT EDU SOC
+
+
 
 
 9 7 6 10 13 12
@@ -688,6 +695,8 @@ Islander , Female , 38
 
 
 STR DEX END INT EDU SOC
+
+
 
 
 6 9 5 7 3 11
@@ -883,6 +892,8 @@ Islander , Male , 46
 STR DEX END INT EDU SOC
 
 
+
+
 6 11 5 5 5 8
 
 
@@ -1039,8 +1050,7 @@ needed to leave suddenly.
 
 Bounty
 There is a bounty out on Fernando Fabian,
-rewardingCr50,000forhiscaptureandreturn
-(alive) to Esperanza (or similar polity) for
+rewardingCr50,000forhiscaptureandreturn (alive) to Esperanza (or similar polity) for
 burglary and theft.
 
 
@@ -1065,6 +1075,8 @@ Islander , Female , 34
 
 
 STR DEX END INT EDU SOC
+
+
 
 
 4 6 6 12 14 5
@@ -1252,6 +1264,8 @@ Aslan , Male , 34
 STR DEX END INT EDU SOC TER
 
 
+
+
 10 6 8 6 11 3 0
 
 
@@ -1417,11 +1431,13 @@ Vilani , Female , 38
 STR DEX END INT EDU SOC
 
 
+
+
 9 9 7 6 15 9
 
 
 Careers: University, Entertainer (Journalist) x4
-Rank 2 (Staff Writer)
+Rank2 (Staff Writer)
 
 
 Admin 1 Art (Writing) 2 Broker 1
@@ -1604,6 +1620,8 @@ Vilani , Male , 34
 
 
 STR DEX END INT EDU SOC
+
+
 
 
 10 6 8 6 11 3
@@ -1926,6 +1944,8 @@ Islander , Female , 38
 STR DEX END INT EDU SOC
 
 
+
+
 3 11 6 9 6 4
 
 
@@ -2054,8 +2074,7 @@ and bringing her back to the boss’s
 organisation alive.
 
 
-Doing this will undoubtedly result in Kathy’s
-(eventual) death.
+Doing this will undoubtedly result in Kathy’s (eventual) death.
 
 
 Extra Cargo
@@ -2082,6 +2101,8 @@ Vilani , Male , 30
 
 
 STR DEX END INT EDU SOC
+
+
 
 
 4 6 6 6 6 9
@@ -2882,8 +2903,7 @@ system,wherethetargetwillbemetbyalarge,
 lightlyarmedfreightermodifiedtohavealarge
 dockingbay.Thiscouldpossiblybea2,500t
 _Agricultural-TransferShip_ (TheGreatRift,Book
-2, p.24) ora similar sizedMerchant Cruiser
-(The Great Rift, Book 2, p.86). Both are Jump-2.
+2, p.24) ora similar sizedMerchant Cruiser (The Great Rift, Book 2, p.86). Both are Jump-2.
 
 SagMekilure is willingto pay Cr100,000for
 details on who collects the ship.
@@ -3113,9 +3133,7 @@ Jane White
 
 Solomani, Female, 35
 UPP: 8A8765
-Gunner (Turret) 2, Hvy Wpns
-(Man Portable) 2, Gun Combat
-(Slug) 2, Melee (unarmed) 2
+Gunner (Turret) 2, Hvy Wpns (Man Portable) 2, Gun Combat (Slug) 2, Melee (unarmed) 2
 
 
 Jane is the ship’s gunner and also acts as a

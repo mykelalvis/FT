@@ -60,11 +60,15 @@ Egypt:
 
  
 
+
+
 Hang gliding in an Insidious atmosphere. Did the guys at HQ read the UWPs?
 
 Mertactor:
 
  
+
+
 
 Huntin', shootin', and skinnin'—the first 2 should be pretty safe, but count your fingers and toes after sitting down to talk art with “the Fat Man”. It is almost inevitable he has something just precisely right to sell you.
 
@@ -72,11 +76,15 @@ Tarkine:
 
  
 
+
+
 A 2 day tour in Cessnas on a planet that is infinitesimally short of a shooting war.
 
 Sqallia:
 
  
+
+
 
 Touring a live volcano with a bunch of guys paid for by the Sword Worlds. Are you sure they don't think you are INS? Plus homestays. Can you spell “Drug the Impie Spy to the eyeballs and interrogate them?”. Or maybe we will play “Let's kill the Impie Spy by the Old Exploding Engine in the Rented Fighter” trick.
 
@@ -84,10 +92,14 @@ Asteline:
 
  
 
+
+
 Gov zip. Law 2. Pop 4. TL A. 4 parsecs from Narsil. And we're heading to the Asteroid Belt to visit miners. This is prime pirate country. And let's see how much of the old ordnance on the old battlefield is still active—you know, like drone missiles with californium warheads.
 
 Ator:
 
  
+
+
 
 So we're jumping to the fringes of a barely-controlled system, in the expectation of meeting up with the Darrian Navy. Uhuh. I'm sure.

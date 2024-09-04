@@ -304,8 +304,7 @@ Wannabee (Esti) Someone who has established themselves as a collector of lore an
 
 Estis are worth talking to at a convention or in a Datanet discussion. This status is recognition that the person has done some work and put time into learning Ancients' lore.
 
-Wannabee
-(Deludo or Fanpy)
+Wannabee (Deludo or Fanpy)
 
 Deludos (deluded) or Fanpersons (Fanpy) are a special case of Estis who follow a false belief set or base their 'knowledge' on being a fan of certain experts rather than their own work.
 
@@ -486,8 +485,7 @@ ANCIENTS TECH Most Droyne suffer from a superstitious terror of Ancients devices
 
 APPEAL The Appeal skill deals with what might be termed internal diplomacy in Droyne society. External interactions are governed by Diplomat as usual but Appeal is used when a Droyne wants a superior or the Droyne in charge of a different group – this might be a force of Warriors or an entire planetary Oytrip – to hear what they have to say. Success ensures the Droyne has observed the correct formalities – if not they will not be heard at all – in addition to presenting the case well.
 
-ART (DROYNE) Droyne art is not purely decorative. It conveys information and may even play a part in the correct function of an installation or device. A starship that is decorated properly will 'feel' better to her crew and might actually perform better. A basic level of skill in Art
-(Droyne) allows the creation of proper decoration for routine purposes. At skill level 2 the Droyne can create informative and 'improving' art, such as that which is felt to make a starship jump better. At skill level 4 the Droyne can create psionic trigger-art, which conveys detailed information by triggering the observer's brain to essentially imagine what the artist wanted them to.
+ART (DROYNE) Droyne art is not purely decorative. It conveys information and may even play a part in the correct function of an installation or device. A starship that is decorated properly will 'feel' better to her crew and might actually perform better. A basic level of skill in Art (Droyne) allows the creation of proper decoration for routine purposes. At skill level 2 the Droyne can create informative and 'improving' art, such as that which is felt to make a starship jump better. At skill level 4 the Droyne can create psionic trigger-art, which conveys detailed information by triggering the observer's brain to essentially imagine what the artist wanted them to.
 
 CASTE (CASTE) There are six caste-related skills – Warrior, Drone and so forth – which can only be received by members of that caste. This skill indicates how well the Droyne can perform the routine duties of their caste, including rituals and operation of devices. It is tied almost directly to rank within the caste. Droyne do not have a formal rank structure in the usual sense but each time a Droyne gains a level in their caste Profession skill they are likely to take on more responsibility. The Leader-of-Leaders with the highest Caste (leader) skill in an Oytrip is in overall charge, even if there is – for example – a Leader-of- Warriors with a higher Caste (leader) skill.
 
@@ -505,15 +503,13 @@ In addition, where responses of the subject are important – such as using Brok
 
 **SPECIAL PSIONIC TALENT: INVISIBILITY** Invisibility is considered to fall within the Telepathy field, since it acts upon the minds of others, but it is believed to be available to all Droyne and Chirpers as an instinctive ability. The user is not actually invisible; they can be seen as normal by cameras, motion detectors and other devices, or by psionically shielded individuals. What happens is that the target fails to notice the 'invisible' Droyne due to distractions, something more interesting or some other circumstance.
 
-The Invisibility power is activated instinctively by untrained individuals but can be selected by anyone who has the Telepathy ability. If uncontrolled, it activates whenever an individual feels threatened. If active, it affects all unshielded minds within 400 meters. This can be awkward if the sudden disappearance was unintentional. To be affected, a being must possess at least rudimentary intelligence. A Droyne or Chirper could thus become undetectable to a snake or a shark but very primitive creatures
-(and plants) will not be affected.
+The Invisibility power is activated instinctively by untrained individuals but can be selected by anyone who has the Telepathy ability. If uncontrolled, it activates whenever an individual feels threatened. If active, it affects all unshielded minds within 400 meters. This can be awkward if the sudden disappearance was unintentional. To be affected, a being must possess at least rudimentary intelligence. A Droyne or Chirper could thus become undetectable to a snake or a shark but very primitive creatures (and plants) will not be affected.
 
 Those affected by the Invisibility power will normally be quite unable to spot the Droyne using the ability and will temporarily forget about them. Even attempts to draw attention to the 'invisible' Droyne will fail. A shielded individual may be amused to see their companions fiddling with equipment, gazing intently at a discarded pizza box or updating their social media status whilst a party of Droyne wanders by but will find they also fail to notice attempts to point the Droyne out.
 
 There are limitations to this power. People under threat will snap back to focus and will be able to perceive the 'invisible' Droyne providing they realise the threat is coming from them. A shielded Traveller who strikes their companion to try to alert them will more than likely find themselves the target of annoyance or even retaliation, even as the Droyne Warriors are levelling their plasma guns. However, the Invisibility power is relatively subtle and the target's subconscious can break through with a warning. Essentially the target's conscious mind is directed to other things but their eyes still see and their brain still processes the information. A gun pointed at the Traveller will usually be enough of a threat to make them take notice. There are innumerable tales of ambushes by Droyne along the lines of 'they were right on top of us before we saw them' or 'we had no idea they were there until they opened fire'.
 
-In a situation where an 'invisible' Droyne presents a clear threat to someone, such as aiming a weapon, or causes such a disturbance that the Traveller cannot fail to notice it, the Traveller may make an Average
-(8+) Recon or INT check to realise what is happening. The difficulty falls to Routine (6+) if the Droyne causes harm to the Traveller. It is still possible that the Traveller might get hurt yet fail to perceive the Droyne who just shot them. In this case the Traveller will misinterpret the situation and believe the damage came from some other source but can make another check each round until the reality of the situation finally intrudes.
+In a situation where an 'invisible' Droyne presents a clear threat to someone, such as aiming a weapon, or causes such a disturbance that the Traveller cannot fail to notice it, the Traveller may make an Average (8+) Recon or INT check to realise what is happening. The difficulty falls to Routine (6+) if the Droyne causes harm to the Traveller. It is still possible that the Traveller might get hurt yet fail to perceive the Droyne who just shot them. In this case the Traveller will misinterpret the situation and believe the damage came from some other source but can make another check each round until the reality of the situation finally intrudes.
 
 Droyne and the Ancients
 
@@ -723,8 +719,7 @@ The Traveller's perception of reality is scrambled, for example due to psychotro
 
 bits in front of them and it had been edited it out of their memory. Of course, that implies that there are others out there – or perhaps other creatures and people able to do the same trick.
 
-In any case, the chance to throw off the conditioning starts at a Very Difficult (12+) on a straight check and is the same for both first (temporary) and second
-(permanent) rolls. This is subject to the modifiers listed on the Invisibility Effect Factors table.
+In any case, the chance to throw off the conditioning starts at a Very Difficult (12+) on a straight check and is the same for both first (temporary) and second (permanent) rolls. This is subject to the modifiers listed on the Invisibility Effect Factors table.
 
 These modifiers are cumulative and permanent (except the last two, which last only as long as the condition is in effect), but a roll of 2 always indicates that the Traveller has failed to throw off the conditioning no matter what previous events have occurred.
 
@@ -819,8 +814,7 @@ pressure is too low to crush it whilst smaller vehicles lack sufficient mass to 
 
 BURNING Burning the creature is an interesting proposition. It can pull in energy from its surroundings at a rapid pace and might be able to extinguish a burning chemical before taking excessive damage, emerging faster and stronger. However, intense heat can damage or even kill it, so immersion in a pool of blazing fuel might work if the creature could be kept in the intense heat for longer than it can stand. This is a risky prospect however.
 
-GRAVITY Gravity might be used one of two ways. If the creature were taken up to a great height in an air/raft
-(which would be more than slightly hazardous for the pilot!) then dropped, it would probably not survive. It could also be pushed off a building or cliff, although it might not fall far enough to kill it. The other use of gravity would be to drop something on it. Crushing or impacts from falling objects would cause harm and could kill the creature.
+GRAVITY Gravity might be used one of two ways. If the creature were taken up to a great height in an air/raft (which would be more than slightly hazardous for the pilot!) then dropped, it would probably not survive. It could also be pushed off a building or cliff, although it might not fall far enough to kill it. The other use of gravity would be to drop something on it. Crushing or impacts from falling objects would cause harm and could kill the creature.
 
 EXPLOSIVES Simply blowing the creature up is also an option. Bombs, grenades, booby-traps, mines and even primitive explosive rockets could be improvised by the Travellers. A sufficiently large explosion would destroy the creature or dismember it to the point where it could not regenerate, allowing it to be contained or finished off.
 
@@ -847,6 +841,8 @@ Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giants Aki
 Glisten Subsector and District 268
 
 O
+
+
 
 GLISTEN subsector
 
@@ -1080,6 +1076,8 @@ MITHRAS CENTRY C-8 CROUT
 
 TIREM
 
+
+
 E-7
 
 FFUDN A-C
@@ -1087,6 +1085,8 @@ FFUDN A-C
 WINDSOR C-9
 
 X
+
+
 
 E550852-6
 
@@ -1158,9 +1158,7 @@ The following incidental characters are not part of the campaign plot as written
 
 #### TRAITS — SKILLS
 
-STR 7 INT 7 Admin 3, Electronics
-(sensors) 2, Gun Combat
-(slug) 1, Leadership 1, Steward 1, Vacc Suit 2
+STR 7 INT 7 Admin 3, Electronics (sensors) 2, Gun Combat (slug) 1, Leadership 1, Steward 1, Vacc Suit 2
 
 #### DEX 8 EDU 6
 
@@ -1168,7 +1166,7 @@ STR 7 INT 7 Admin 3, Electronics
 
 WEAPONS Usually none ARMOR Usually none EQUIPMENT: Tools and instruments connected with shipboard technical tasks
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Female 35
 
@@ -1185,9 +1183,7 @@ The following characters are subdivided according to their skills or area of exp
 
 #### TRAITS — SKILLS
 
-STR 5 INT 9 Admin 3, Electronics
-(sensors) 2, Gun Combat
-(slug) 1, Leadership 1, Steward 1, Vacc Suit
+STR 5 INT 9 Admin 3, Electronics (sensors) 2, Gun Combat (slug) 1, Leadership 1, Steward 1, Vacc Suit
 
 #### DEX 9 EDU 7
 
@@ -1197,9 +1193,7 @@ WEAPONS Usually none ARMOR Usually none EQUIPMENT: Usually none carried
 
 #### TRAITS — SKILLS
 
-STR 8 INT 7 Admin 2, Gun Combat
-(slug) 1, Melee
-(unarmed) 1
+STR 8 INT 7 Admin 2, Gun Combat (slug) 1, Melee (unarmed) 1
 
 #### DEX 5 EDU 6
 
@@ -1207,11 +1201,11 @@ STR 8 INT 7 Admin 2, Gun Combat
 
 WEAPONS Baton (2D) and Autopistol (3D-3) when necessary ARMOR Usually none, Flak Jacket (+5) when needed EQUIPMENT: Security equipment when needed
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Male 58
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Male 32
 
@@ -1237,11 +1231,11 @@ STR 8 INT 5 Admin 4, Advocate 2, DEX 6 EDU 9 Broker 3 END 7 SOC 8
 
 EQUIPMENT: He can get almost anything he needs
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Male 28
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Male 42
 
@@ -1279,11 +1273,11 @@ STR 6 INT 5 Melee (blade) 1, Stealth 1, Streetwise 3, other skills as necessary
 
 WEAPONS: Knife (1D+2) EQUIPMENT: Anything an ordinary person might have, plus perhaps some stolen items.
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
-#### SPECIES GENDER AGE
+#### 
 
 The Comms Mystic undoubtedly has a name but Human Male 24 nobody knows what it is. They never deal with anyone in person, instead using a holographic image of a hooded wizard-like figure over a secure and untraceable comms link. The Mystic is a communications and electronic security expert, who excels at getting information for those willing to pay for it. Jamming, disrupting and spoofing are also specialities. There are many rumors about the Comms Mystic. Among them is a claim that they are actually an artificial intelligence pretending to be a secretive person. A wilder version of this tale claims that the Mystic is in fact an Ancients device; a supercomputer or robotic system... or something... that has evolved sentience and sells its services to the highest bidder. It is also claimed that the Mystic has embedded code into various worlds' datanets allowing it to exist in several places at once and that the original may or may not ever be identified.
 
@@ -1297,8 +1291,7 @@ Incidental Characters
 
 STR 7 INT 6 Gun Combat (slug) 2, DEX 6 EDU 9 Profession 2 END 8 SOC 8
 
-WEAPONS: Advanced Combat Rifle
-(3D, Auto 3, Scope) EQUIPMENT: Appropriate to profession
+WEAPONS: Advanced Combat Rifle (3D, Auto 3, Scope) EQUIPMENT: Appropriate to profession
 
 #### TRAITS — SKILLS
 
@@ -1306,11 +1299,11 @@ STR 5 INT 8 Profession 2 DEX 7 EDU 6 END 4 SOC 6
 
 EQUIPMENT: Appropriate to profession
 
-#### SPECIES GENDER AGE
+#### 
 
 — Female 32
 
-#### SPECIES GENDER AGE
+#### 
 
 Vargr Male 26
 
@@ -1414,8 +1407,7 @@ The LiteBeam 6L delivers a more potent pulse than most laser pistols, although i
 
 Weapon TL Range Damage Kg Cost Capacity
 
-Ammunition Cost
-(box of 50 rounds) Traits LiteBeam 6L Heavy Laser Pistol
+Ammunition Cost (box of 50 rounds) Traits LiteBeam 6L Heavy Laser Pistol
 
 13 35 4D+1 1.1 Cr15000 6 Cr200 Zero-G
 
@@ -1433,12 +1425,13 @@ Other vessels from the 100th Fleet are based at Mille Falcs, one parsec away but
 
 Egypt Highport Egypt's highport is large and of good quality. Its extensive commercial docks handle large freighters, with a small-ship berthing area elsewhere. There is also a dedicated passenger terminal for upmarket vessels and a section owned by the Scout Service which is used to support the x-boat and courier network. The system's naval base is located elsewhere in the system but there are always naval personnel enjoying liberty time in the port and there is usually at least one cruiser- sized system defence vessel within range. This is more about deterrence than defence. As a port of entry into Imperial space, it is useful to remind new arrivals of the power of the Imperial Navy. These vessels are home- ported at the naval base and commanded from there.
 
-There is usually a fair amount of traffic around the port but its controllers are efficient and logjams are rare. When they do happen, it is usually because a vessel ignored instructions. The authorities are not tolerant of this behaviour and will usually dispatch a couple of fighters to escort the offender to a special docking area. There, the ship will be held until a fine is paid. Fines are not much in spacecraft-operator terms, typically Cr10000 for a minor infraction and more for flagrant disregard for the traffic controllers' authority. However, the process of paying a fine is deliberately
-(and notoriously) drawn-out, often taking several days during which a ship is likely to be losing money. Most ship operators find it best to obey instructions and refrain from hot-dogging.
+There is usually a fair amount of traffic around the port but its controllers are efficient and logjams are rare. When they do happen, it is usually because a vessel ignored instructions. The authorities are not tolerant of this behaviour and will usually dispatch a couple of fighters to escort the offender to a special docking area. There, the ship will be held until a fine is paid. Fines are not much in spacecraft-operator terms, typically Cr10000 for a minor infraction and more for flagrant disregard for the traffic controllers' authority. However, the process of paying a fine is deliberately (and notoriously) drawn-out, often taking several days during which a ship is likely to be losing money. Most ship operators find it best to obey instructions and refrain from hot-dogging.
 
 Egypt UWP: BAC6567-9 Starport B Good Size A 16,000km Atmosphere C Insidious Hydrosphere 6 60% Population 5 Hundreds of thousands Government Type 6 Captive government/colony Law Level 7 Shotguns prohibited Technology Level 9 Anti-gravity
 
 EGYPT
+
+
 
 UWP: BAC6567-9
 
@@ -1532,7 +1525,11 @@ Pod 3
 
 THE MUSEUM OF THE
 
+
+
 ANCIENTS
+
+
 
 **ENTRY AREA** This 'pod' has a 'who were the Ancients?' theme and seems to be as much about convincing visitors that whatever they knew is wrong as attempting to answer that question. There are physical models, cheaply made holograms and wall displays showing great works, incredible structures and strangely empty landscapes. The (presumed) development, golden age and decline of the Ancients is hinted at, with many questions about what they did and how they did it. The Travellers may suspect that some of the scenes are entirely made-up, or that they depict natural phenomena, or the works of non-Ancient races. At least one of the holos is actually from a very old entertainment vid show.
 
@@ -1609,7 +1606,7 @@ STR 4 INT 7 Carouse 3, Investigate 2, DEX 8 EDU 2 Leadership 1, Persuade 6 END 9
 
 WEAPONS: None but if you point to any object he will explain how to use it to its most deadly effect.
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Male 45
 
@@ -1789,6 +1786,8 @@ turret
 
 LEGEND
 
+
+
 1. Sensors 2. Bridge 3. Office 4. Airlock 5. Stateroom 6. Workshop 7. Power plant 8. Jump drive 9. Maneuver drive 10. Double turret 11. Cargo hold 12. Fuel processor
 
 1 square = 0.5 Ton
@@ -1837,18 +1836,15 @@ All dwellings have a garden area, which is irrigated by a diverter from the hous
 
 Weapon TL Range Damage Kg Cost Capacity Ammunition Cost Traits Tranq Prodder 8 Melee 1D+ drug 1.2 Cr200 1 Varies Stun Tranq Shooter 8 10 1D+Drug 1.4 Cr250 6 Varies Stun
 
-**TRANQ DELIVERY SYSTEMS** Aboard Garnette there are various homemade devices for delivering drugs to an unwilling target. Most make use of snub pistol tranq cartridges, either in their standard form or modified to use as a propellant. The simplest device is a tubular handle about 120 centimeters long with a cup-type cartridge holder on the end. The tip of a snub pistol tranquiliser round (or, in theory, some other type of ammunition) protrudes from the end. When the end is rammed into the target
-(requiring a successful melee attack) the cartridge is fired. This causes some damage to the target but is mainly a means of introducing drugs. The second type is a sort of rifle created by attaching a smoothbore barrel extension to a snub pistol. Whilst clumsy, this device does allow delivery from a safer distance. Both weapons do 1D damage to the target and deliver a dose of whatever drug has been set up.
+**TRANQ DELIVERY SYSTEMS** Aboard Garnette there are various homemade devices for delivering drugs to an unwilling target. Most make use of snub pistol tranq cartridges, either in their standard form or modified to use as a propellant. The simplest device is a tubular handle about 120 centimeters long with a cup-type cartridge holder on the end. The tip of a snub pistol tranquiliser round (or, in theory, some other type of ammunition) protrudes from the end. When the end is rammed into the target (requiring a successful melee attack) the cartridge is fired. This causes some damage to the target but is mainly a means of introducing drugs. The second type is a sort of rifle created by attaching a smoothbore barrel extension to a snub pistol. Whilst clumsy, this device does allow delivery from a safer distance. Both weapons do 1D damage to the target and deliver a dose of whatever drug has been set up.
 
 **NANTO'S COACH GUN** Nanto's favored weapon was simple and reliable. Its limited firepower was not a problem; Nanto used it to intimidate or deter smart threats and scare off animals with a loud bang. Nanto never had any intention of going near a protracted gunfight. Weapons of this sort resemble a short-barrelled sporting shotgun but are marketed for the personal defence and shipboard emergency marketplace. Reloading is by way of break- open action, allowing different ammunition types to
 
-Weapon TL Range Damage Kg Cost Capacity Ammunition Cost Traits Coach Gun
-(lethal load)
+Weapon TL Range Damage Kg Cost Capacity Ammunition Cost Traits Coach Gun (lethal load)
 
 7 30m 3D+4 3.2 Cr100 2 Cr2 —
 
-Coach Gun
-(less lethal load)
+Coach Gun (less lethal load)
 
 7 30m 1D+2D Stun 3.2 Cr100 2 Cr2 —
 
@@ -1879,6 +1875,8 @@ THE WORKS OF PROFESSOR A Few Ancients Hunters have not heard of Professor A, one
 6
 
 MAKINTOWN
+
+
 
 About 150 of the town's 400 inhabitants have seen the creature and therefore cannot accept its existence. Most of the remainder are puzzled at some slightly odd things that have happened but are busy with their daily lives. Whilst there is a sense of unease among these people, friends they have known all their lives have provided explanations which have generally been accepted. Some occurrences seem downright strange but strange occasionally happens here as a result of Blanca's presence.
 
@@ -1927,8 +1925,7 @@ THE TOWNSFOLK The Travellers will encounter a variety of people at Makintown, mo
 
 #### TRAITS — SKILLS
 
-STR 8 INT 6 Athletics (any) 1, Drive
-(wheel) 1, Gun Combat 0, Profession (farmer or herder) 2, Survival 1
+STR 8 INT 6 Athletics (any) 1, Drive (wheel) 1, Gun Combat 0, Profession (farmer or herder) 2, Survival 1
 
 #### DEX 6 EDU 4
 
@@ -1944,9 +1941,9 @@ STR 5 INT 9 Drive (wheel) 1, Gun Combat 0, Medic 1, Profession (herder) 2
 
 #### END 8 SOC 7
 
-WEAPONS: Rifle (3D, Scope) EQUIPMENT: Auto-Diagnosis Unit SPECIES GENDER AGE Human — —
+WEAPONS: Rifle (3D, Scope) EQUIPMENT: Auto-Diagnosis Unit  Human — —
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Female 42
 
@@ -1986,7 +1983,7 @@ STR 9 INT 7 Athletics (Endurance) 1, DEX 7 EDU 5 Mechanic 2, Survival 1 END 9 SO
 
 WEAPONS: Something blunt and heavy (2D)
 
-#### SPECIES GENDER AGE
+#### 
 
 — Male 40
 
@@ -2003,8 +2000,7 @@ This is what it is to have the Ancients in proximity. Just as humans would clear
 
 #### TRAITS — SKILLS
 
-STR 6 INT 7 Athletics 1, Gun Combat
-(slug) 1, Recon 2, Stealth 2, Survival 4
+STR 6 INT 7 Athletics 1, Gun Combat (slug) 1, Recon 2, Stealth 2, Survival 4
 
 #### DEX 9 EDU 3
 
@@ -2012,7 +2008,7 @@ STR 6 INT 7 Athletics 1, Gun Combat
 
 WEAPONS: Knife (1D+2), Rifle (3D, Scope)
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
@@ -2030,8 +2026,7 @@ There are five Jonkeereen in their hunting party, although townsfolk may remembe
 
 The typical hunter has a rifle, often handed down from grandparents or even older but in perfect condition, and a knife. They are hunters, not warriors, and far more likely to take part in an ambush or trapping drive than a stand-up fight.
 
-Blanca's House Blanca's home is much larger than the other houses at Makintown, with a domed roof supporting multiple antennae. The ground floor is almost entirely taken up with a rather sparse but nicely appointed open-plan living area. Here Blanca cooks meals to share with her
-(few) guests and entertains in style when it suits her. The rest of the time the lower floor provides space to pace around, followed by cameras as Blanca makes one of her famous Ancients-Lore datacasts.
+Blanca's House Blanca's home is much larger than the other houses at Makintown, with a domed roof supporting multiple antennae. The ground floor is almost entirely taken up with a rather sparse but nicely appointed open-plan living area. Here Blanca cooks meals to share with her (few) guests and entertains in style when it suits her. The rest of the time the lower floor provides space to pace around, followed by cameras as Blanca makes one of her famous Ancients-Lore datacasts.
 
 Upstairs has a main and guest bedrooms, a smaller lounge area and an office filled with Ancients-related papers. Another chamber has racks for Blanca's many weapons and lockers for valuable items. Some of these are Ancients-related, although the majority are not functional or are replicas. Among them, hidden in plain sight, is a metallic statuette of a humanoid creature whose proportions are slightly 'off'. It is a bit too tall, with very long fingers and reminiscent of some of the
 'Ancient' representations in the Captain of Knowledge's museum. There is also a locked box containing what at first sight seems to be a pile of vacc suit components.
@@ -2053,7 +2048,7 @@ STR 8 INT 10 Investigate 4, Recon 2, DEX 5 EDU 11 Stealth 2, Survival 3 END 8 SO
 
 WEAPONS: Gauss Sniper Rifle (4D, Scope, AP 5)
 
-#### SPECIES GENDER AGE
+#### 
 
 Aslan Female —
 
@@ -2069,8 +2064,7 @@ As a result of this background, Blanca is rather prickly about respect and accep
 
 Assuming the Travellers can get past this, Blanca will help them tackle G482 and afterward will be a useful source of information and assistance to them. She will not leave her this world unless absolutely unavoidable.
 
-Blanca is a former associate of Mercedes Karamaka
-(see page 222) and has a set of override codes for Garnette – as well she might, since for a time Blanca flew with Mercedes before wearying of all the travel. If the Travellers win her friendship she will turn Garnette over to them. Its logs will reset to show them as the current operators, although not the owners. That information remains rather cryptic.
+Blanca is a former associate of Mercedes Karamaka (see page 222) and has a set of override codes for Garnette – as well she might, since for a time Blanca flew with Mercedes before wearying of all the travel. If the Travellers win her friendship she will turn Garnette over to them. Its logs will reset to show them as the current operators, although not the owners. That information remains rather cryptic.
 
 BLANCA AND MERCEDES The Travellers may not think to ask about Garnette's former owners and Blanca will not volunteer information. If they do inquire, Blanca is very willing to talk about Bernadatta and her crew, and has some stories to tell about Sorrel. Questions about the ship before Bernadatta had it are deflected. In truth Blanca does not know all that much about Mercedes' past. All she can offer is 'Garnette belongs to a very... formidable... human woman called Mercedes. I don't know where she is now but I have no reason to suppose she is not still alive. She handed the ship over to Bernadatta a few years back. Planned to retire I think. Or maybe she just wanted to get rid of that damned book.' She is of course referring to the manuscript of Twilight's Peak.
 
@@ -2274,6 +2268,8 @@ Hell at Perihelion
 
 CALEFACTION
 
+
+
 UWP: D600217-B
 
 STARSHIP HEAT DAMAGE The Referee will need to keep track of how much heat the ship has absorbed. An unarmored starship can absorb an amount of heat equal to 10% of its tonnage before suffering damage. Armor increases this threshold by 5% per point of armor. Thus a 400-ton ship with four points of armor can absorb 120 points of heat (10%+20% of 400) before damage occurs.
@@ -2342,6 +2338,8 @@ It would be far more sensible to land at Shelter Canyon and travel overland from
 Hell at Perihelion
 
 THE SHELTER CANYON REGION
+
+
 
 Approaching Calefaction Whatever ship they are on, the Travellers will need to approach Calefaction. The system's star is gigantic now, swollen and bloated. Its core is inert helium, surrounded by hydrogen fusion which produces small flares and varying – but always intense – radiation. Any inner planets were long ago swallowed up and the expansion process is not yet complete.
 
@@ -2448,6 +2446,8 @@ Hell at Perihelion
 
 SHELTER CANYON SETTLEMENT
 
+
+
 an emergency departure – down to 20–30% output. Any drop below 80% capacity would be considered a major emergency, however, with evacuation mandatory at 50% output. At that point, personnel would be receiving harmful doses of radiation and electronic disruption would be a serious problem.
 
 HOTSIDE TUNNEL (3) Officially named the Aslett Tunnel, a huge set of doors gives access to a second ATV bay, with another set covering a sloping tunnel which finally emerges below the Aslett Ridge. This is currently the bright face of Calefaction. ATVs set up to operate there are stowed in the bay, which has de-irradiation facilities and an access tunnel leading to either the landing area of the main admin building.
@@ -2514,6 +2514,8 @@ Maneuver Drive 48 Systems 8
 **Hull: 24**
 
 LEGEND
+
+
 
 1. Bridge 2. Maneuver drive 3. Power plant 4. High efficiency batteries 5. Basic gel heat management system 6. Standard heat management gel 7. Survival pods 8. Cargo 9. Airlock
 
@@ -2588,14 +2590,13 @@ Hell at Perihelion
 
 #### TRAITS — SKILLS
 
-STR 8 INT 10 Admin 2, Electronics
-(remote ops) 3, Leadership 2, Mechanic 1, Profession (mining engineer) 3, Vacc Suit 3
+STR 8 INT 10 Admin 2, Electronics (remote ops) 3, Leadership 2, Mechanic 1, Profession (mining engineer) 3, Vacc Suit 3
 
 #### DEX 8 EDU 9
 
 #### END 7 SOC 7
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Female 38
 
@@ -2605,14 +2606,13 @@ Human Female 38
 
 #### TRAITS — SKILLS
 
-STR 8 INT 10 Admin 2, Electronics
-(remote ops) 3, Leadership 2, Mechanic 1, Profession (mining engineer) 3, Vacc Suit 3
+STR 8 INT 10 Admin 2, Electronics (remote ops) 3, Leadership 2, Mechanic 1, Profession (mining engineer) 3, Vacc Suit 3
 
 #### DEX 8 EDU 9
 
 #### END 7 SOC 7
 
-#### SPECIES GENDER AGE
+#### 
 
 — Male 21
 
@@ -2687,8 +2687,7 @@ The primary threat is overheating and the amount of heat absorbed depends on lev
 
 Each obstacle the Travellers encounter has a base time to transit, given in minutes, and a Drive check difficulty level. This assumes a cautious and professional approach to driving the ATV. For every difficulty level easier the Traveller wants to check to be – representing greater caution – the transit time is increased by +2 minutes per dice. Existing modifiers are not affected.
 
-For example, if a Traveller does not like the look of a Difficult (10+) transit taking 3D+8 minutes, they could drop the difficulty by two levels to Routine
-(6+) but this increases the time by +4 per dice. The transit will be safer in terms of avoiding obstacles but it will take 3D+20 minutes during which the ATV may start to overheat.
+For example, if a Traveller does not like the look of a Difficult (10+) transit taking 3D+8 minutes, they could drop the difficulty by two levels to Routine (6+) but this increases the time by +4 per dice. The transit will be safer in terms of avoiding obstacles but it will take 3D+20 minutes during which the ATV may start to overheat.
 
 If the Travellers want to transit faster they can increase the Drive check difficulty by as many levels as they like, up to Formidable (14+). Each level reduces the time taken for the transit by one dice.
 
@@ -2740,8 +2739,7 @@ Hell at Perihelion
 
 Drive check. The rough area takes 1D+4 minutes to cross and requires a Difficult (10+) Drive check. If this one is failed the Travellers receive DM-4 on the ATV Mishap table. Finally another fast run on flat ground is required, taking 1D+2 minutes.
 
-If the Travellers prefer to pick a path through the rough areas, seeking to create the fastest run, maps are available. The Travellers must make a Difficult
-(10+) Navigation check. The route they come up with is a nominal 6D+12 minutes, minus three minutes for every point of Effect. Failure does not increase the transit time. Once the route is planned the Travellers can choose how fast to make the run as usual. If no planning is done and the Travellers just try to charge through by the seat of their collective pants the run consists of three sections, each of 2D+6 minutes. A Drive check is necessary for each, with the usual chances of a mishap.
+If the Travellers prefer to pick a path through the rough areas, seeking to create the fastest run, maps are available. The Travellers must make a Difficult (10+) Navigation check. The route they come up with is a nominal 6D+12 minutes, minus three minutes for every point of Effect. Failure does not increase the transit time. Once the route is planned the Travellers can choose how fast to make the run as usual. If no planning is done and the Travellers just try to charge through by the seat of their collective pants the run consists of three sections, each of 2D+6 minutes. A Drive check is necessary for each, with the usual chances of a mishap.
 
 Comms Ridge Comms ridge is not an obstacle as such. The Travellers can transit in the shadow of a small canyon and will spot a small tower atop one wall. They may be alarmed to see a turret pop up as they approach within 500 meters, at which point their vehicle is hit by a comms laser. It makes a quick data dump and retracts. Much of the data seems to be telemetry on various vehicles or robots as well as data on the status of comms towers like this one and the base itself. It would take some time to figure out what it all means but one piece of data is very clear. It is a distress call from a stranded ATV. There is no personal message, just a beacon, but the signal states: 'ATV/Fuller Installation/Sorrel Tergaii'. There is no indication of who else might be aboard but Sorrell is in command of the vehicle and she needs help. The ATV is more or less on the approach route to Fuller.
 
@@ -2832,10 +2830,9 @@ STR 7 INT 8 Athletics (dexterity) 1, Deception 1, Electronics (computers) 2, Ele
 
 #### END 8 SOC 6
 
-WEAPONS: LiteBeam 6L Heavy Laser Pistol
-(4D+1) ARMOR: None but the jewel provides Protection +2D against energy attacks EQUIPMENT: Sorrel has the missing wristband from the Fuller Installation command office. She does not wear it openly, since she has given herself command-level security access. She might even give it to a Traveller in order to solve some problem if it suits her overall purpose
+WEAPONS: LiteBeam 6L Heavy Laser Pistol (4D+1) ARMOR: None but the jewel provides Protection +2D against energy attacks EQUIPMENT: Sorrel has the missing wristband from the Fuller Installation command office. She does not wear it openly, since she has given herself command-level security access. She might even give it to a Traveller in order to solve some problem if it suits her overall purpose
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Female 42
 
@@ -2862,7 +2859,7 @@ STR 7 INT 8 Drive (track) 1, Electronics (sensors) 3, Mechanic 1, Vacc Suit 1
 
 #### END 5 SOC 6
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Female 24
 
@@ -2962,8 +2959,7 @@ BREACHING SECURITY Doors through major structural elements cannot be forced usin
 
 If the Travellers can get access to the main computer room and into the system they can directly control the security settings for the installation or set themselves up as Command level accounts. Alternatively, doors can be controlled from their security panels by fiddling with the electronics. A Traveller who successfully gets into the electronics of the system can decide what they want the door to do – open once, lock shut and ignore commands, revert to manual control or whatever else the Traveller prefers.
 
-Doing this for a standard internal door takes 1D minutes and requires a successful Difficult (10+) Electronics (computers) check. Travellers can make a case for using Electronics (comms) or Electronics
-(sensors) instead depending on the approach they are taking.
+Doing this for a standard internal door takes 1D minutes and requires a successful Difficult (10+) Electronics (computers) check. Travellers can make a case for using Electronics (comms) or Electronics (sensors) instead depending on the approach they are taking.
 
 Doors piercing structural elements, such as those separating the vehicle garage from the laboratory area, are much harder to get into. It will usually be necessary to cut into the armored security panel before beginning any electronics work. This adds an additional 1D minutes to the task assuming a suitable tool is available. Cutting into a security panel is much easier than attacking the door itself but will leave rather obvious damage.
 
@@ -2971,8 +2967,7 @@ Personnel Information on staffing levels at Fuller is contained in the database 
 
 The Travellers will not interact with most of these people. Some are dead and most have left in the EAV. Only three members of the installation staff remain alive and inside the structure, to be joined by Kaigh and Sorrel.
 
-FINISTERRE SUMMER
-(ENVIRONMENTAL SYSTEMS MANAGER) Finisterre Summer was an engineering manager at a completely safe arcology. Bored witless after 20 years, he took the job of running the plant at Fuller about five years ago and is the longest-serving member of staff. He has never left in all that time and is considering retiring to spend the gigantic wad of cash he has built up for lack of anywhere to spend it.
+FINISTERRE SUMMER (ENVIRONMENTAL SYSTEMS MANAGER) Finisterre Summer was an engineering manager at a completely safe arcology. Bored witless after 20 years, he took the job of running the plant at Fuller about five years ago and is the longest-serving member of staff. He has never left in all that time and is considering retiring to spend the gigantic wad of cash he has built up for lack of anywhere to spend it.
 
 Finisterre is a typical middle-aged engineer. He is very good at what he does and can apply his engineering methodology to problem-solving. However, he is not accustomed to danger and will be very reluctant to do anything other than the safest option. There is no conflict between this attitude and a job in Hell – Finisterre has spent his whole life keeping bad things on the far side of a comfortingly thick wall.
 
@@ -3004,11 +2999,11 @@ STR 6 INT 10 Electronics (comms) 1, Science (astrophysics) 2, Vacc Suit 0
 
 #### END 8 SOC 7
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Male 47
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Male 20
 
@@ -3030,7 +3025,7 @@ STR 9 INT 7 Athletics (endurance) 1, Carouse 1, Drive (track) 2, Electronics (se
 
 #### END 9 SOC 6
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Female 29
 
@@ -3183,8 +3178,7 @@ When the robots began attacking, the installation's engineering manager, Finiste
 
 SECONDARY REACTOR CHAMBER (12) The secondary reactor chamber is similar to the main one, except that the reactor itself is a mobile self- contained unit which takes up much of the chamber. Cooling and life-support systems are built around the central power unit and make no less noise than in the main chamber. It is clear that other than maintenance this chamber is rarely used.
 
-COMMAND SUITE (13) This end of the sub-level is given over to the rather grandly termed command suite. A grouping of rooms
-(13a) contains the actual control room, a couple of offices and an ancillary chamber which serves as the armory. Nominal weaponry for the installation is four snub revolvers with a mix of less-lethal and lethal ammunition, plus two laser carbines. There is a container, never opened, which holds four stun batons. The weaponry is locked in a cabinet which is usually blocked by boxes, odd pieces of equipment and whatever else has been dumped against that wall. It is apparent that security has never been an issue here. Access to the command suite is set to All Staff.
+COMMAND SUITE (13) This end of the sub-level is given over to the rather grandly termed command suite. A grouping of rooms (13a) contains the actual control room, a couple of offices and an ancillary chamber which serves as the armory. Nominal weaponry for the installation is four snub revolvers with a mix of less-lethal and lethal ammunition, plus two laser carbines. There is a container, never opened, which holds four stun batons. The weaponry is locked in a cabinet which is usually blocked by boxes, odd pieces of equipment and whatever else has been dumped against that wall. It is apparent that security has never been an issue here. Access to the command suite is set to All Staff.
 
 In a cluttered drawer in the installation manager's desk is a clip capable of holding three wristbands. Two are still present. These grant Command level access to the wearer and are used as a convenient bypass for security. They are rather clunky things, knocked together in the installation's workshop to make it unnecessary to keep adding and taking away access privileges. The wristbands were intended only to allow personnel to move unhindered by secure doors but they cause the wearer to be recognized by all systems as having Command access. This can be used to spoof the main computer system, effectively allowing the wearer to grant permanent access to anyone they please. Travellers with a background in security of any sort may throw up their hands in despair at learning this
 
@@ -3228,6 +3222,8 @@ Hell at Perihelion
 EAV Silo
 
 FULLER STATION
+
+
 
 SUB -LEVEL 2
 
@@ -3277,14 +3273,19 @@ B^18
 
 FULLER STATION
 
+
+
 UPPER LEVEL AND
+
+
 
 TOWER
 
+
+
 Vaughan Clemens is holed up in here. When the security robots emerged from their cubicles and started shooting he was unconscious on the floor. He came to in time to see a couple of others get into the tower access shaft, presumably headed down to the lower level. Clemens was on the wrong side of the robot to make such an attempt. Instead he got through the access door and locked himself in the garage. Since then he has been trying to calm his nerves by sampling the products of the still. Now he is drunk enough, he has decided, he will make a try for the EAV or the vehicle bay. He is already too drunk to succeed but not enough to make the attempt. If the Travellers rescue him he will be incoherent and not all that much use for a while.
 
-**DINING AND UTILITY SPACE (18)** The tower core opens out into a mostly open area
-(18). There are two internal structures. One (18a) is the galley complex, consisting of a main and two smaller cooking areas plus storage for meals. Opposite the galleys is a second enclosed area (18b) which contains meeting rooms. Some of these have minor clutter indicating they were in regular use, whilst others have never been needed. Some of the office furniture still has its factory wrappers in place. The remainder of area 18 is mostly open, with storage lockers against the walls in places. Heavy doors give access to the dwelling and recreation areas, and to the grav vehicle garage.
+**DINING AND UTILITY SPACE (18)** The tower core opens out into a mostly open area (18). There are two internal structures. One (18a) is the galley complex, consisting of a main and two smaller cooking areas plus storage for meals. Opposite the galleys is a second enclosed area (18b) which contains meeting rooms. Some of these have minor clutter indicating they were in regular use, whilst others have never been needed. Some of the office furniture still has its factory wrappers in place. The remainder of area 18 is mostly open, with storage lockers against the walls in places. Heavy doors give access to the dwelling and recreation areas, and to the grav vehicle garage.
 
 It was in the main dining area that Keith Ayala confessed to his crewmates that he had sabotaged Sorrel's ATV and asked them to mount a rescue if possible. Matters never proceeded that far; they grabbed him, planning to drag him in front of the command staff right away and let them decide what to do. This triggered the security robots and within seconds Ayala was dead, along with two support staff named Giem Romero and Wade Durmin plus Iszechu Soto, the chief space scientist. Another staff member, a planetary science researcher named Donald Saha, was hit as he tried to reach the lift shaft. His body lies right across the doors.
 
@@ -3386,7 +3387,7 @@ Getting into Yusote's persona might be a challenge for the Referee. He possesses
 
 **YUSOTEYUSOTE**
 
-SPECIES GENDER AGE Droyne Male — TRAITS — SKILLS STR 7 INT 8 Athletics (dexterity) 1, Deception 1, Electronics (computers) 2, Electronics (remote ops) 2, Gun Combat 0, Investigate 1, Mechanic 1, Vacc Suit 2
+ Droyne Male — TRAITS — SKILLS STR 7 INT 8 Athletics (dexterity) 1, Deception 1, Electronics (computers) 2, Electronics (remote ops) 2, Gun Combat 0, Investigate 1, Mechanic 1, Vacc Suit 2
 
 #### DEX 9 EDU 9
 
@@ -3398,8 +3399,7 @@ WEAPONS: Claws (1D+2), Leader-Rod (3D+3) ARMOR: Leading-Armor (+15)
 
 **OTSHAYYUK (LEADER)OTSHAYYUK (LEADER)**
 
-SPECIES GENDER AGE Droyne Male — TRAITS — SKILLS STR 5 INT 10 Admin 1, Advocate 2, Appeal 2, Awareness 1, Caste (leader) 2, Clairvoyance 2, Diplomat 2, Gun Combat (energy) 1, Leadership 2, Outsider
-(human) 3, Telepathy 2,
+ Droyne Male — TRAITS — SKILLS STR 5 INT 10 Admin 1, Advocate 2, Appeal 2, Awareness 1, Caste (leader) 2, Clairvoyance 2, Diplomat 2, Gun Combat (energy) 1, Leadership 2, Outsider (human) 3, Telepathy 2,
 
 #### DEX 7 EDU 10
 
@@ -3425,18 +3425,17 @@ SSARTSSE Ssartes is a Droyne, who leads ceremonies aboard the ship and seems to 
 
 **DIUSKDIUSK**
 
-#### SPECIES GENDER AGE
+#### 
 
 Droyne Female —
 
-#### SPECIES GENDER AGE
+#### 
 
 Droyne Male —
 
 #### TRAITS — SKILLS
 
-STR 4 INT 10 Admin 1, Ancients Technology 4, Art (Droyne) 2, Awareness 2, Caste
-(drone) 4, Clairvoyance 1, Telepathy 1
+STR 4 INT 10 Admin 1, Ancients Technology 4, Art (Droyne) 2, Awareness 2, Caste (drone) 4, Clairvoyance 1, Telepathy 1
 
 #### DEX 9 EDU 7
 
@@ -3462,26 +3461,25 @@ Yusote and his Followers
 
 **DROYNE WARRIORSDROYNE WARRIORS DROYNE WORKERSDROYNE WORKERS**
 
-#### SPECIES GENDER AGE
+#### 
 
 Droyne — —
 
-#### SPECIES GENDER AGE
+#### 
 
 Droyne — —
 
-#### SPECIES GENDER AGE
+#### 
 
 Droyne — —
 
-#### SPECIES GENDER AGE
+#### 
 
 Droyne — —
 
 #### TRAITS — SKILLS
 
-STR 6 INT 8 Awareness 1–2, Caste
-(technician) 1–3, Telepathy 1–2, technical and spacecraft
+STR 6 INT 8 Awareness 1–2, Caste (technician) 1–3, Telepathy 1–2, technical and spacecraft
 
 #### DEX 9 EDU 9
 
@@ -3491,7 +3489,7 @@ WEAPONS: Claws (1D+2), Defence-Rod (3D) ARMOR: Serving-Armor (+10)
 
 #### TRAITS — SKILLS
 
-STR 10 INT 3 Awareness 1, Caste DEX 6 EDU 2 (worker) 1–3, Mechanic 1 END 11 PSI 4
+STR 10 INT 3 Awareness 1, Caste DEX 6 EDU2 (worker) 1–3, Mechanic 1 END 11 PSI 4
 
 WEAPONS: Claws (1D+2) ARMOR: Serving-Armor (+10)
 
@@ -3507,16 +3505,13 @@ WEAPONS: Claws (1D+2) ARMOR: Serving-Armor (+10)
 
 #### TRAITS — SKILLS
 
-STR 10 INT 4 Awareness 1–2, Caste
-(warrior) 1–3, Gun Combat
-(energy) 2, Gunner 1–2, Recon 1, Telepathy 1-
+STR 10 INT 4 Awareness 1–2, Caste (warrior) 1–3, Gun Combat (energy) 2, Gunner 1–2, Recon 1, Telepathy 1-
 
 #### DEX 8 EDU 3
 
 #### END 8 PSI 7
 
-WEAPONS: Claws (1D+2), Plasma Carbine
-(5D+2) ARMOR: Fighting-Armor (+15), Eclipse Shield
+WEAPONS: Claws (1D+2), Plasma Carbine (5D+2) ARMOR: Fighting-Armor (+15), Eclipse Shield
 
 Yusote and his Followers
 
@@ -3556,7 +3551,7 @@ Hull 962 tons, Streamlined, Auspicious of Seeking
 
 Armor Molecular Bonded, Armor: 20 96.2 2886
 
-M-Drive Thrust 6 (energy efficient x3) 57.72 173.16
+M-Drive Thrust6 (energy efficient x3) 57.72 173.16
 
 J-Drive Jump-4 (decreased fuel x3) 101.2 227.7
 
@@ -3604,6 +3599,8 @@ Deck 1
 Deck 2
 
 LEGEND
+
+
 
 1. Bridge 2. Maneuver drive 3. Jump drive 4. Power plant 5. Ceremonial space 6. Sensors 7. Tachyon cannon bay 8. Meson screens 9. Nuclear dampers 10. Black globe generator 11. Repair drones 12. Deep penetration scanners 13. Improved signal processing 14. Life scanner analysis suite 15. Military countermeasures suite 16. Fuel processor 17. Ejectable pod-clusters 18. Cargo 19. Airlock
 
@@ -3772,7 +3769,7 @@ WILLEM RAFEM, ENTREPRENEUR Rafem is a successful businessman, which in this envi
 
 STR 3 INT 10 Admin 2, Advocate 2, DEX 6 EDU 9 Broker 3, Diplomat 2 END 7 SOC 7
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Male 38
 
@@ -3816,25 +3813,23 @@ TECHNICAL ADVISOR, PETTY OFFICER It is typical with small ships for personnel to
 
 **TECHNICAL ADVISOR, PETTY OFFICERTECHNICAL ADVISOR, PETTY OFFICER**
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Female 30
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
 #### TRAITS — SKILLS
 
-STR 6 INT 10 Admin 2, Gun Combat
-(slug) 1, Gunner (turret) 1, Leadership 1, Vacc Suit 1
+STR 6 INT 10 Admin 2, Gun Combat (slug) 1, Gunner (turret) 1, Leadership 1, Vacc Suit 1
 
 #### DEX 9 EDU 11
 
 #### END 8 SOC 7
 
-WEAPONS: Dress Sword (2D), Gauss Pistol
-(3D, AP 3, Auto 2)
+WEAPONS: Dress Sword (2D), Gauss Pistol (3D, AP 3, Auto 2)
 
 #### TRAITS — SKILLS
 
@@ -3852,11 +3847,11 @@ WEAPONS: Snub Pistol (3D-3, Zero-G)
 
 **GIG CREWGIG CREW**
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
@@ -3940,7 +3935,7 @@ The 12 tons of fuel tankage that were converted have been set up as two chambers
 The second chamber is an armory, with far more space than the crew need for their weapons. When the liner is carrying out a covert operation it may be assigned additional personnel and heavy weapons. Currently the armory contains a set of ground- combat equipment for each crewmember, which will be broken out at need, plus a few items for
 'special circumstances'.
 
-Holstered on each set of personal combat equipment is a standard gauss pistol and there is a laser carbine for each crewmember. In addition, racks contain a gauss sniper rifle and a hand flamer (see the Central Supply Catalogue, page 146-149). There is a grenade box containing a (properly labelled) mix of fragmentation, concussion, tranq gas and tear gas grenades.
+Holstered on each set of personal combat equipment is a standard gauss pistol and there is a laser carbine for each crewmember. In addition, racks contain a gauss sniper rifle and a hand flamer (see the Central Supply Catalogue, page 146-149). There is a grenade box containinga (properly labelled) mix of fragmentation, concussion, tranq gas and tear gas grenades.
 
 Aki
 
@@ -3948,7 +3943,11 @@ Aki
 
 SUBSIDISED
 
+
+
 LINER
+
+
 
 The subsidized liner is built for carrying passengers and cargo along lucrative routes, with amenities providing an elevated level of comfort and luxury. The high number of stewards includes cooks and entertainers, as well as shop, salon and gym staff. Overall, the ship is capable of carrying 24 passengers in addition to its crew, with a further 20 in low berths.
 
@@ -3967,9 +3966,11 @@ Low Berths 2
 
 The three-parsec jump capability commands higher passenger and freight fees, and allows less desirable ports to be bypassed. Although the hull of the ship itself is only partially streamlined, a launch allows passengers to be ferried to the surface of a world or act as a lifeboat in emergencies.
 
-TL12 Tons Cost (MCr) Hull 600 tons, Standard — 30 M-Drive Thrust 1 (energy efficient) 6 13.2 J-Drive Jump 3 (decreased fuel x2) 50 93.75 Power Plant Fusion (TL12), Power 360 24 24 Fuel Tanks J-3, 4 weeks of operation 165 — Bridge 20 2 Computer Computer/10bis — 0.24 Computer Core/40 45 Sensors Military Grade 2 4.1 Weapons Triple Pop-Up Turrets (pulse lasers, sandcaster) x6 12 37.5 Craft Docking Space (20 tons) 22 5.5 Launch — 2.83 Systems Biosphere 1 0.2 Gourmet Kitchen (12 diners) 12 2.4 Swimming Pool 8 0.16 Theatre 8 1.6 Wet Bar — 0.002 Medical Bay 4 2 Studios x 2 (shops, salons) 8 0.8 Training Facilities (gym) 4 0.8 Armory 2 0.5 Staterooms Standard x10 40 5 High x10 60 8 Low Berths 10 1 Software Maneuver — — Library — — Intellect — — Jump Control/3 — 0.3 Virtual Gunner/0 — 1 Fire Control/3 — 6 Common Areas 84 8.4 Cargo 58 — Total: MCr296.82
+TL12 Tons Cost (MCr) Hull 600 tons, Standard — 30 M-Drive Thrust1 (energy efficient) 6 13.2 J-Drive Jump3 (decreased fuel x2) 50 93.75 Power Plant Fusion (TL12), Power 360 24 24 Fuel Tanks J-3, 4 weeks of operation 165 — Bridge 20 2 Computer Computer/10bis — 0.24 Computer Core/40 45 Sensors Military Grade 2 4.1 Weapons Triple Pop-Up Turrets (pulse lasers, sandcaster) x6 12 37.5 Craft Docking Space (20 tons) 22 5.5 Launch — 2.83 Systems Biosphere 1 0.2 Gourmet Kitchen (12 diners) 12 2.4 Swimming Pool 8 0.16 Theatre 8 1.6 Wet Bar — 0.002 Medical Bay 4 2 Studios x2 (shops, salons) 8 0.8 Training Facilities (gym) 4 0.8 Armory 2 0.5 Staterooms Standard x10 40 5 High x10 60 8 Low Berths 10 1 Software Maneuver — — Library — — Intellect — — Jump Control/3 — 0.3 Virtual Gunner/0 — 1 Fire Control/3 — 6 Common Areas 84 8.4 Cargo 58 — Total: MCr296.82
 
 LEGEND
+
+
 
 1. Docking space 2. Cargo hold 3. Biosphere 4. Kitchen 5. Common area 6. Sensors 7. Training facilities 8. Airlock 9. Stateroom 10. Pool 11. Studio 12. High stateroom 13. Medbay 14. Power plant 15. Jump drive 16. Maneuver drive 17. Low berths 18. Bridge 19. Armory 20. Theatre
 
@@ -4094,10 +4095,8 @@ Most of this is true. Aedhko Ueang did serve 20 years in the navy and retired to
 
 **MASTER STARFARER AEDHKO UEANG (CAPTAIN)MASTER STARFARER AEDHKO UEANG (CAPTAIN)**
 
-SPECIES GENDER AGE
-— Male 55 TRAITS — SKILLS STR 4 INT 8 Admin 1, Astrogation 2, Diplomat 3, Electronics
-(sensors) 2, Gun Combat
-(slug) 1, Leadership 2, Tactics (naval) 2, Vacc Suit 1
+
+— Male 55 TRAITS — SKILLS STR 4 INT 8 Admin 1, Astrogation 2, Diplomat 3, Electronics (sensors) 2, Gun Combat (slug) 1, Leadership 2, Tactics (naval) 2, Vacc Suit 1
 
 #### DEX 9 EDU 9
 
@@ -4111,10 +4110,8 @@ Aki
 
 Han is also the ship's intelligence chief, a role he is well-versed in. He is equally adept at worming information out of passengers during a social interaction, or conducting a field interrogation by whatever means are necessary. Han is cold and ruthless but not cruel. In fact, like many Omicron personnel, he does not really believe in the 'Ancients mission'. It is enough for him that his superiors consider the potential threat to be worth countering. If he encounters proof they exist he will not be surprised but to him they are just one more distant possible threat. Tomorrow it could be Zhodani, or Solomani agitators, or a particularly virulent potato blight. Han seeks out threats and deals with them. He does not really care what the threat is, all that matters is that the threat is to the Imperium.
 
-SEPAND HAN (FIRST OFFICER)SEPAND HAN (FIRST OFFICER) SPECIES GENDER AGE
-— Male 42 TRAITS — SKILLS STR 8 INT 10 Admin 1, Diplomat 2, Gun Combat (slug) 1, Gunner
-(turret) 1, Investigate 3, Leadership 1, Melee
-(unarmed) 2, Steward 2, Vacc Suit 1
+SEPAND HAN (FIRST OFFICER)SEPAND HAN (FIRST OFFICER) 
+— Male 42 TRAITS — SKILLS STR 8 INT 10 Admin 1, Diplomat 2, Gun Combat (slug) 1, Gunner (turret) 1, Investigate 3, Leadership 1, Melee (unarmed) 2, Steward 2, Vacc Suit 1
 
 #### DEX 7 EDU 9
 
@@ -4124,15 +4121,12 @@ WEAPONS: Gauss Pistol (3D, AP 3, Auto 2)
 
 Aki
 
-ELAINE GOSISSCH (CHIEF PILOT)ELAINE GOSISSCH (CHIEF PILOT) KANSAMSHA KEREMEI (CHIEF ENGINEER)KANSAMSHA KEREMEI (CHIEF ENGINEER) SPECIES GENDER AGE
+ELAINE GOSISSCH (CHIEF PILOT)ELAINE GOSISSCH (CHIEF PILOT) KANSAMSHA KEREMEI (CHIEF ENGINEER)KANSAMSHA KEREMEI (CHIEF ENGINEER) 
 — Female 35
 
-#### SPECIES GENDER AGE
+#### 
 
-— Female 30 TRAITS — SKILLS STR 8 INT 10 Astrogation 1, Gun Combat
-(slug) 1, Electronics
-(sensors) 2, Pilot
-(spacecraft) 4, Vacc Suit 1
+— Female 30 TRAITS — SKILLS STR 8 INT 10 Astrogation 1, Gun Combat (slug) 1, Electronics (sensors) 2, Pilot (spacecraft) 4, Vacc Suit 1
 
 #### DEX 7 EDU 9
 
@@ -4164,19 +4158,19 @@ Aki
 
 **ILYA SANTOS (STEWARD/GUNNER)ILYA SANTOS (STEWARD/GUNNER)**
 
-#### SPECIES GENDER AGE
+#### 
 
 — Male 38
 
-#### SPECIES GENDER AGE
+#### 
 
 — Female 29
 
-#### SPECIES GENDER AGE
+#### 
 
 — Male 42
 
-#### SPECIES GENDER AGE
+#### 
 
 — Male 42
 
@@ -4202,8 +4196,7 @@ WEAPONS: Gauss Pistol (3D, AP 3, Auto 2)
 
 #### TRAITS — SKILLS
 
-STR 11 INT 7 Diplomat 1, Gun Combat
-(slug) 2, Gunner (turret) 1, Medic 1, Melee (unarmed) 4, Steward 2, Vacc Suit 2
+STR 11 INT 7 Diplomat 1, Gun Combat (slug) 2, Gunner (turret) 1, Medic 1, Melee (unarmed) 4, Steward 2, Vacc Suit 2
 
 #### DEX 8 EDU 6
 
@@ -4213,8 +4206,7 @@ WEAPONS: Gauss Pistol (3D, AP 3, Auto 2)
 
 #### TRAITS — SKILLS
 
-STR 11 INT 7 Diplomat 1, Gun Combat
-(slug) 2, Gunner (turret) 1, Medic 1, Melee (unarmed) 4, Steward 2, Vacc Suit 2
+STR 11 INT 7 Diplomat 1, Gun Combat (slug) 2, Gunner (turret) 1, Medic 1, Melee (unarmed) 4, Steward 2, Vacc Suit 2
 
 #### DEX 8 EDU 6
 
@@ -4234,8 +4226,7 @@ WEAPONS: Gauss Pistol (3D, AP 3, Auto 2)
 
 Aki
 
-VLEN BACKETTVLEN BACKETT SPECIES GENDER AGE Human Male 52 TRAITS — SKILLS STR 10 INT 10 Admin 1, Advocate 1, Astrogation 2, Broker 2, Carouse 2, Deception 3, Diplomat 2, Drive 0, Electronics (comms) 1, Electronics (computers) 3, Electronics (sensors) 2, Engineer (all) 3, Flyer
-(grav) 1, Gambler 2, Gun Combat (energy) 3, Investigate 2, Jack-of- all-Trades 2, Leadership 2, Mechanic 4, Medic 2, Navigation 1, Persuade 2, Pilot (spacecraft) 4, Stealth 4, Steward 2, Recon 3, Vacc Suit 2
+VLEN BACKETTVLEN BACKETT  Human Male 52 TRAITS — SKILLS STR 10 INT 10 Admin 1, Advocate 1, Astrogation 2, Broker 2, Carouse 2, Deception 3, Diplomat 2, Drive 0, Electronics (comms) 1, Electronics (computers) 3, Electronics (sensors) 2, Engineer (all) 3, Flyer (grav) 1, Gambler 2, Gun Combat (energy) 3, Investigate 2, Jack-of- all-Trades 2, Leadership 2, Mechanic 4, Medic 2, Navigation 1, Persuade 2, Pilot (spacecraft) 4, Stealth 4, Steward 2, Recon 3, Vacc Suit 2
 
 #### DEX 12 EDU 14
 
@@ -4259,16 +4250,15 @@ VINCENTIA DASHLE Vincentia is a typical Wannabee, keen to learn about everyone e
 
 Vincentia's Persuade skill is more a measure of her ability to talk loudly over anyone else than anything to do with reason or logical argument.
 
-VINCENTIA DASHLEVINCENTIA DASHLE ARJUN NATHUSOUARJUN NATHUSOU SPECIES GENDER AGE Human Female 40
+VINCENTIA DASHLEVINCENTIA DASHLE ARJUN NATHUSOUARJUN NATHUSOU  Human Female 40
 
-#### SPECIES GENDER AGE
+#### 
 
 Human Male 26 TRAITS — SKILLS STR 4 INT 6 Broker 2, Carouse 3, DEX 8 EDU 11 Investigate 1, Persuade 4 END 5 SOC 8
 
 #### TRAITS — SKILLS
 
-STR 7 INT 5 Drive (wheel) 1, Investigate 1, Profession
-(retail worker) 1
+STR 7 INT 5 Drive (wheel) 1, Investigate 1, Profession (retail worker) 1
 
 #### DEX 4 EDU 8
 
@@ -4278,12 +4268,11 @@ ARJUN NATHUSOU Arjun considers himself to be something of an adventurer, althoug
 
 Aki
 
-JESSICA UUUMGIJESSICA UUUMGI ZENHUA ALEXEI-KHUDAZENHUA ALEXEI-KHUDA SPECIES GENDER AGE Human Female 46
+JESSICA UUUMGIJESSICA UUUMGI ZENHUA ALEXEI-KHUDAZENHUA ALEXEI-KHUDA  Human Female 46
 
-#### SPECIES GENDER AGE
+#### 
 
-Human Female 24 TRAITS — SKILLS STR 5 INT 9 Admin 2, Investigate 2, Persuade 1, Science
-(history) 3
+Human Female 24 TRAITS — SKILLS STR 5 INT 9 Admin 2, Investigate 2, Persuade 1, Science (history) 3
 
 #### DEX 6 EDU 12
 
@@ -4291,7 +4280,7 @@ Human Female 24 TRAITS — SKILLS STR 5 INT 9 Admin 2, Investigate 2, Persuade 1
 
 #### TRAITS — SKILLS
 
-STR 8 INT 5 Flyer (grav) 1, Profession DEX 7 EDU 6 (ordinary job) 1 END 4 SOC 6
+STR 8 INT 5 Flyer (grav) 1, Profession DEX 7 EDU6 (ordinary job) 1 END 4 SOC 6
 
 JESSICA UUUMGI Jessica works in administration for the University of Glisten and is a pretty fair scholar, although most of what she knows is unconnected to the Ancients. She subscribes to the common view that the Ancients were a coalition, a culture rather than a species. She is also sure that the remnants of the Ancients culture include some species alive today. This makes her receptive to the idea that perhaps the Ancients were humans, or that some ancient humans were Ancients. Jessica can split this particular hair down to the microscopic level if given the chance but she is willing to listen to other viewpoints.
 
@@ -4809,6 +4798,8 @@ THE RAIL YARD (10) The single-line railway through town has a wide passing loop 
 
 RESPIS
 
+
+
 **ARRIVING AT RESPIS** The Travellers might reach Respis one of a few ways. Travelling by ground vehicle, driving parallel to the rail line, is doing it the hard way but other than being a long cross-country drive there are no undue hazards. Trains run the length of the island every few hours, so getting one will be easy enough. They are not particularly comfortable but again there are no real hazards. Travellers who use a starship, small craft or grav vehicle can reach the town easily and need only contend with the problem of where to land. With no prepared landing area there is always a risk of hitting soft ground or an undetected obstacle. A careful pilot can minimise this.
 
 New arrivals will elicit a minimal response from the townsfolk. Mercedes (Dreya) receives offworld visitors from time-to-time, but otherwise few people stop at Respis. Anyone asking about Mercedes gets a blank look but the only person they would be likely to want to see is Dreya so the Travellers will be directed to her. The townsfolk do not know where she came from and assume she is a starfarer who wanted to settle down and avoid some aspect of her past. They do not ask what that might be and judge Dreya for what she has been – a good friend to the town.
@@ -4973,13 +4964,10 @@ In fact Mercedes was in the Scout Service before finding Twilight's Peak and fun
 
 In her identity as Dreya Elinnier, Mercedes is reserved and professional. Her actual personality is much warmer and she is a loyal friend to those she deems worth it. Despite, or perhaps because of, a lifetime piecing together distorted truths and discerning falsehoods, Mercedes has a well-developed respect for the truth. She respects those who know the boundaries of their knowledge and are willing to admit what they do not know. Those who extrapolate into the realms of fantasy are beneath her contempt, as are the so-called Ancients Hunters who just make stuff up to sound important.
 
-MERCEDES KARAMAKAMERCEDES KARAMAKA SPECIES GENDER AGE
-— Female 46 TRAITS — SKILLS STR 7 INT 12 Admin 2, Astrogator 1, Diplomat 1, Electronics
-(computers) 2, Electronics
-(sensors) 4, Gun Combat
-(energy) 1, Gun Combat
-(slug) 2, Investigate 5, Jack-of-all-Trades 2, Leadership 1, Melee
-(unarmed) 1, Pilot 2, Science (archaeology) 2, Science (history) 3, Steward 2, Vacc Suit 3
+MERCEDES KARAMAKAMERCEDES KARAMAKA 
+
+
+— Female 46 TRAITS — SKILLS STR 7 INT 12 Admin 2, Astrogator 1, Diplomat 1, Electronics (computers) 2, Electronics (sensors) 4, Gun Combat (energy) 1, Gun Combat (slug) 2, Investigate 5, Jack-of-all-Trades 2, Leadership 1, Melee (unarmed) 1, Pilot 2, Science (archaeology) 2, Science (history) 3, Steward 2, Vacc Suit 3
 
 #### DEX 8 EDU 11
 
@@ -5024,7 +5012,9 @@ MERCENARY GRUNT There are three 'grunts' in team 1 and two in team
 
 2. These are the run-of-the-mill combatants fielded by the unit. They are equipped with flak jackets and helmets, TL9 assault rifles with a backup autopistol and two grenades. The usual mix is a flashbang and a fragmentation grenade but preferences vary.
 
-MERCENARY GRUNTMERCENARY GRUNT SPECIES GENDER AGE
+MERCENARY GRUNTMERCENARY GRUNT 
+
+
 — — —
 TRAITS — SKILLS STR 9 INT 4 Athletics (strength) 1, Gun DEX 6 EDU 3 Combat (slug) 1, Recon 1 END 8 SOC 3
 
@@ -5036,11 +5026,11 @@ Mercedes
 
 **MERCENARY LEADERMERCENARY LEADER**
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
@@ -5064,11 +5054,11 @@ WEAPONS: Submachinegun (3D-2, Auto 3), Autopistol (3D-3), Stunner (2D, Stun, Zer
 
 **MERCENARY SUPPORT GUNNERMERCENARY SUPPORT GUNNER**
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
@@ -5090,8 +5080,7 @@ STR 10 INT 6 Athletics (endurance) 1, Gun Combat (slug) 2, Recon 1, Stealth 1
 
 #### END 10 SOC 4
 
-WEAPONS: Machinegun (3D, Auto 4), Autopistol
-(3D-3), Stunner (2D, Stun, Zero-G) ARMOR: Body Armor (+6)
+WEAPONS: Machinegun (3D, Auto 4), Autopistol (3D-3), Stunner (2D, Stun, Zero-G) ARMOR: Body Armor (+6)
 
 **MERCENARY LEADER/SCOUT** Each team is led by a more skilled combatant, who is equipped with a stunner in addition to the loadout used by the grunts.
 
@@ -5352,6 +5341,8 @@ MACHINERY SPACE (4) Most of the installation's heavy machinery is located in a s
 
 TT
 
+
+
 **WILIGHT'S**
 
 **PEAK AND ENVIRONS**
@@ -5364,8 +5355,7 @@ FISSURES (7) The meteorite impact caused cracks to open up in the mountainside a
 
 The Crater and the Fissures If the Travellers investigate the crater they will find that for the most part it is a typical large-impact crater. The floor is of exposed rock, with areas of loose dust. The crater lies in permanent darkness, making it impossible for even the hardy Akenplant to colonize it. There are a few ridges and dips, and the odd deep ravine, but for the most part the floor is as navigable as the surface of any other trace-atmosphere world.
 
-The canyon walls are steep and jagged, posing a hazard to anyone trying to climb up or down in a vacc suit. Most sections are impassable to ground vehicles but every few kilometers there is an area where the rim has crumbled. It is possible to predict where this might have occurred by observing nearby conditions of the rim and extrapolating with an Average (8+) Science (planetology) check. Driving an ATV up or down a natural ramp of this sort requires an Average
-(8+) Drive check.
+The canyon walls are steep and jagged, posing a hazard to anyone trying to climb up or down in a vacc suit. Most sections are impassable to ground vehicles but every few kilometers there is an area where the rim has crumbled. It is possible to predict where this might have occurred by observing nearby conditions of the rim and extrapolating with an Average (8+) Science (planetology) check. Driving an ATV up or down a natural ramp of this sort requires an Average (8+) Drive check.
 
 1
 
@@ -5405,9 +5395,13 @@ TWILIGHT'S PEAK
 
 SIDE VIEW
 
+
+
 TWILIGHT'S PEAK
 
 TOP DOWN
+
+
 
 The Centre At the center of the crater lies the impact point, where a large bolide of nickel-iron smashed down long ago. It was liquified by the impact and partially distributed over the surrounding surface, with a concentration at the impact point. The bolide might be worth extracting and purifying if someone with the right equipment wanted to make the effort, and it shows up on even basic instruments as a strong magnetic contact. If the Travellers get close enough to visually inspect the bolide they will find something very strange indeed.
 
@@ -5459,6 +5453,8 @@ Twilight's Peak and Environs
 
 THE FISSURES
 
+
+
 was apparently torn. She seems to have been trying to crawl back to the entrance when her air ran out. She has a laser carbine and a wicked-looking knife which is clearly intended to snag and tear vacc suits. This is one of the corsairs who followed Mercedes into the fissures. She did not make it past the squeeze (6).
 
 **THE SQUEEZE (6)** The tunnel runs downward for a while then levels off before reaching a particularly narrow area of the tunnel. Squeezing through is accomplished in the same manner as at the entry point (3).
@@ -5467,8 +5463,7 @@ was apparently torn. She seems to have been trying to crawl back to the entrance
 
 **THE BOTTOMLESS CAVERN (8)** In the entry to this cavern lies a scattering of biological matter. Inspection shows that it is the remains of one of the creatures from the crater. The Travellers may be able to figure out it crawled all the way here in an effort to enter the caves, perhaps seeking to get into the base. How it knew where to go is a mystery; perhaps it sensed something or maybe it simply got lucky. Not too lucky, however; it expired here and was eaten by another of its kind.
 
-The cavern floor slopes sharply downward from a point a few meters in. Unwary Travellers could slip and fall, in which case they will roll towards the far wall until they reach one of three sinkholes near that end. These are very deep – and slightly damp, although that is unlikely to be much concern. A Traveller can halt their roll or slide with an Average
-(8+) DEX check, or with assistance from someone else. As in other cases, a roleplayed solution is better than all the checks in the cosmos so Travellers who come up with a bold, workable and, above all, immediate plan should be rewarded with success.
+The cavern floor slopes sharply downward from a point a few meters in. Unwary Travellers could slip and fall, in which case they will roll towards the far wall until they reach one of three sinkholes near that end. These are very deep – and slightly damp, although that is unlikely to be much concern. A Traveller can halt their roll or slide with an Average (8+) DEX check, or with assistance from someone else. As in other cases, a roleplayed solution is better than all the checks in the cosmos so Travellers who come up with a bold, workable and, above all, immediate plan should be rewarded with success.
 
 THE WAY ONWARD (9) The tunnel slopes down for a while, then levels out and begins to climb. The passage is wide enough for Travellers to walk comfortably but still rough and uneven underfoot. There are cracks and fissures to the sides but only one practicable path. Eventually the tunnel comes out into the natural cavern holding part of the Ancients base, however first the Travellers must negotiate two more obstacles. The first is another creature, almost dead despite the sustenance it obtained from eating another of its kind. It will try desperately but weakly to reach the Travellers and consume them. The creature is in such a pathetic state that the Travellers might actually feel bad about killing it but it will try to harm them if they just climb over it. There is no way around.
 
@@ -5510,6 +5505,8 @@ The entry chamber is otherwise completely devoid of features and furniture. The 
 8
 
 THE CAVERNS
+
+
 
 MACHINERY SPACE (4) This large ovoid chamber once held machinery used to expand the cavern, cut the moat into the bedrock and similar tasks. It has long since been moved elsewhere, leaving an oddly empty space. This may puzzle the Travellers if they think what they have seen is the whole of the base, and may serve as a clue to the existence of many more chambers elsewhere.
 
@@ -5584,8 +5581,7 @@ uncomfortable to breathe. Large creatures can be seen through the trees, tearing
 
 This location is a distant world on the fringes of Charted Space. The Travellers could survive there, perhaps someday getting picked up by a passing starship and making their way back to the Spinward Marches. This might be a last-chance escape route if things go very badly wrong at Twilight's Peak. Yusote has sent a party through to explore the swamp but all they found was more swamp, more trees and several types of dangerously territorial creatures.
 
-CHAMBER OF UNKNOWN PURPOSE (7) An oval chamber with exits in its long faces, this chamber has depressions in the floor at each end. Yusote's people have not figured out what they are for but have learned that stepping onto one is highly dangerous. Anyone doing so will begin to slowly sink through the metal as if in quicksand. Self-rescue is tricky but might be accomplished with a Difficult
-(10+) STR or DEX check. A second person, unless spectacularly inept, can pull a victim out without difficulty.
+CHAMBER OF UNKNOWN PURPOSE (7) An oval chamber with exits in its long faces, this chamber has depressions in the floor at each end. Yusote's people have not figured out what they are for but have learned that stepping onto one is highly dangerous. Anyone doing so will begin to slowly sink through the metal as if in quicksand. Self-rescue is tricky but might be accomplished with a Difficult (10+) STR or DEX check. A second person, unless spectacularly inept, can pull a victim out without difficulty.
 
 Left alone, the victim will slowly sink through the metal floor without apparently coming to harm. The depression at one end deposits the Traveller in a slurry of biological matter, in which a person will slowly sink and drown. Rescue is still possible – someone else can force an arm through the metal floor and support the sinking Traveller, hand them a rope or whatever other plan they have come up with. The other receptor deposits the victim in a chamber full of scrap metal fragments and lumps of rock. In both cases the matter is very slowly being disintegrated into its constituent atoms. These are used in the base for various purposes ranging from creating food to fabricating tools.
 
@@ -5725,10 +5721,11 @@ Twilight's Peak and Environs
 
 OUTER BASE LOWER LEVEL
 
+
+
 **LEG MODULE** The leg module has six articulated legs, enabling the drone to scuttle at a rate of eight meters per round and lock itself into a position of stability. Feet will bond to the metal of the facility, enabling the drone to become essentially a piece of furniture, a barricade in a door or an equipment holder on a wall.
 
-**GRAV MODULE** The grav module contains a gravitic generator, enabling the drone to fly at 12 meters per round. An otherwise unarmed drone could smash into someone, causing 2D damage, unless they dodge by making an Average
-(8+) DEX check. Stability within the installation is near- perfect, enabling someone to jump from one hovering drone to another or perform similar feats of acrobatics.
+**GRAV MODULE** The grav module contains a gravitic generator, enabling the drone to fly at 12 meters per round. An otherwise unarmed drone could smash into someone, causing 2D damage, unless they dodge by making an Average (8+) DEX check. Stability within the installation is near- perfect, enabling someone to jump from one hovering drone to another or perform similar feats of acrobatics.
 
 **ARM MODULE** Up to six standard arm modules can be added, each ending in a gripper or an embedded item such as a scientific instrument or construction tool. An arm could be used as a club, doing 1D damage or 2D if a heavy object were gripped. The most deadly implement wielded by a drone arm is a light plasma cutter, which does 4D damage out to a range of five meters and 2D to ten meters. Beyond this the plasma dissipates very quickly.
 
@@ -5740,20 +5737,13 @@ Drones can exert roughly twice the force a human could using their robotic arms 
 
 Twilight's Peak and Environs
 
-Robot Hits Locomotion Speed TL Cost General Worker 50 Walker 9m?? Skills Athletics (dexterity) 4, Athletics (endurance) 3, Athletics (strength) 3, Melee 0, Profession
-(labourer) 2, Recon 1 Attacks Improvised (1D or 2D), Plasma Cutter (4D) Manipulators 6 x (STR 15 DEX 10) Endurance Unlimited Traits Armor (+12), ATV, Heightened Senses, IR/UV Vision, Large (+2) Programming Basic (labourer) (INT 4) Options Auditory Sensor (broad spectrum), Electronics Toolkit (advanced) x3, Mechanical Toolkit
-(advanced) x3, PRIS Sensor, Radiation Environment Protection (+1,000 rads), Recon Sensor
-(improved), Self-Maintenance Enhancement (advanced), Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount (medium), Wireless Data Link
+Robot Hits Locomotion Speed TL Cost General Worker 50 Walker 9m?? Skills Athletics (dexterity) 4, Athletics (endurance) 3, Athletics (strength) 3, Melee 0, Profession (labourer) 2, Recon 1 Attacks Improvised (1D or 2D), Plasma Cutter (4D) Manipulators 6x (STR 15 DEX 10) Endurance Unlimited Traits Armor (+12), ATV, Heightened Senses, IR/UV Vision, Large (+2) Programming Basic (labourer) (INT 4) Options Auditory Sensor (broad spectrum), Electronics Toolkit (advanced) x3, Mechanical Toolkit (advanced) x3, PRIS Sensor, Radiation Environment Protection (+1,000 rads), Recon Sensor (improved), Self-Maintenance Enhancement (advanced), Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount (medium), Wireless Data Link
 
-Robot Hits Locomotion Speed TL Cost Constructor 50 Grav 12m?? Skills Athletics (dexterity) 4, Athletics (endurance) 3, Athletics (strength) 3, Heavy Weapons 0, Melee 0, Profession (labourer) 2, Recon 1 Attacks Improvised (1D or 2D), Industrial Disintegrator (special), Plasma Cutter (4D) Manipulators 4 x (STR 15 DEX 10) Endurance Unlimited Traits Armor (+12), Flyer, Heightened Senses, IR/UV Vision, Large (+2), Programming Basic (labourer) (INT 4) Options Auditory Sensor (broad spectrum), Electronics Toolkit (advanced), Mechanical Toolkit
-(advanced), PRIS Sensor, Radiation Environment Protection (+1,000 rads), Recon Sensor
-(improved), Self-Maintenance Enhancement (advanced), Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount (medium),Weapon Mount
-(medium), Wireless Data Link
+Robot Hits Locomotion Speed TL Cost Constructor 50 Grav 12m?? Skills Athletics (dexterity) 4, Athletics (endurance) 3, Athletics (strength) 3, Heavy Weapons 0, Melee 0, Profession (labourer) 2, Recon 1 Attacks Improvised (1D or 2D), Industrial Disintegrator (special), Plasma Cutter (4D) Manipulators 4x (STR 15 DEX 10) Endurance Unlimited Traits Armor (+12), Flyer, Heightened Senses, IR/UV Vision, Large (+2), Programming Basic (labourer) (INT 4) Options Auditory Sensor (broad spectrum), Electronics Toolkit (advanced), Mechanical Toolkit (advanced), PRIS Sensor, Radiation Environment Protection (+1,000 rads), Recon Sensor (improved), Self-Maintenance Enhancement (advanced), Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount (medium),Weapon Mount (medium), Wireless Data Link
 
-Robot Hits Locomotion Speed TL Cost Transporter 50 Walker or Grav 9m or 12m?? Skills Athletics (dexterity) 4, Athletics (endurance) 3, Profession (labourer) 2, Recon 1 Attacks Improvised (1D or 2D) Manipulators None Endurance Unlimited Traits Armor (+12), ATV or Flyer, Heightened Senses, IR/UV Vision, Large (+2), Programming Basic (labourer) (INT 4) Options Auditory Sensor (broad spectrum), PRIS Sensor, Radiation Environment Protection
-(+1,000 rads), Recon Sensor (improved), Self-Maintenance Enhancement (advanced), Storage Compartment (hazardous material) x50, Transceiver 500 km (advanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+Robot Hits Locomotion Speed TL Cost Transporter 50 Walker or Grav 9m or 12m?? Skills Athletics (dexterity) 4, Athletics (endurance) 3, Profession (labourer) 2, Recon 1 Attacks Improvised (1D or 2D) Manipulators None Endurance Unlimited Traits Armor (+12), ATV or Flyer, Heightened Senses, IR/UV Vision, Large (+2), Programming Basic (labourer) (INT 4) Options Auditory Sensor (broad spectrum), PRIS Sensor, Radiation Environment Protection (+1,000 rads), Recon Sensor (improved), Self-Maintenance Enhancement (advanced), Storage Compartment (hazardous material) x50, Transceiver 500 km (advanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
-Robot Hits Locomotion Speed TL Cost External Scout 50 Grav 12m?? Skills Athletics (dexterity) 4, Athletics (endurance) 3, Athletics (strength) 3, Recon 3 Attacks Improvised (1D or 2D) Manipulators 4 x (STR 15 DEX 10) Endurance Unlimited Traits Armor (+12), Flyer, Heightened Senses, IR/UV Vision, Large (+2) Programming Basic (recon) (INT 4) Options Auditory Sensor (broad spectrum), Environment Processor, Olfactory Sensor (advanced), PRIS Sensor, Radiation Environment Protection (+1,000 rads), Recon Sensor (advanced), Self-Maintenance Enhancement (advanced), Transceiver 5,000km (advanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+Robot Hits Locomotion Speed TL Cost External Scout 50 Grav 12m?? Skills Athletics (dexterity) 4, Athletics (endurance) 3, Athletics (strength) 3, Recon 3 Attacks Improvised (1D or 2D) Manipulators 4x (STR 15 DEX 10) Endurance Unlimited Traits Armor (+12), Flyer, Heightened Senses, IR/UV Vision, Large (+2) Programming Basic (recon) (INT 4) Options Auditory Sensor (broad spectrum), Environment Processor, Olfactory Sensor (advanced), PRIS Sensor, Radiation Environment Protection (+1,000 rads), Recon Sensor (advanced), Self-Maintenance Enhancement (advanced), Transceiver 5,000km (advanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 Twilight's Peak and Environs
 
@@ -5843,12 +5833,16 @@ Twilight's Peak and Environs
 
 MACHINERY LEVEL
 
+
+
 1
 
 3
 
 (^32) 4
 HIGH ENTRY
+
+
 
 **THE ROD (4)** In the center of the machinery spaces is a rod, similar to those seen on Calefaction but much thicker. It extends deep into the core of the planet and is used to draw geothermal energy up to the machinery chambers.
 
@@ -5901,6 +5895,8 @@ Twilight's Peak and Environs
 
 INNER BASE
 
+
+
 Base Defences
 
 System Effects Disintegrator Shield, Primary
@@ -5945,9 +5941,8 @@ SOC is an irrelevant concept in Tellsadiu's home society. Everyone has a place a
 
 TELLSADIU'S DISINTEGRATOR Servitors of an Ancient do not fight. Lowly warriors fight. Attendants and workers throw themselves in front of threats with a glad heart. Tellsadiu's disintegrator is not very powerful because it is meant to be used slowly. It affects anything he wants it to, that he can see through his own eyes or those of a subordinate using a telepathic link. Tellsadiu might use the device to confuse the Travellers, say by disintegrating something they are carrying. As a weapon the device is very potent but Tellsadiu will simply not think of using it that way. He might disintegrate someone who is attacking him as a punishment for their temerity but to him that is not fighting.
 
-TELLSADIU, SERVANT OF AN ANCIENTTELLSADIU, SERVANT OF AN ANCIENT SPECIES GENDER AGE
-— Male — TRAITS — SKILLS STR 9 INT 15 Awareness 6, Tactics
-(what would my master want me to do?) 6, Telepathy 6. No other skills required.
+TELLSADIU, SERVANT OF AN ANCIENTTELLSADIU, SERVANT OF AN ANCIENT 
+— Male — TRAITS — SKILLS STR 9 INT 15 Awareness 6, Tactics (what would my master want me to do?) 6, Telepathy 6. No other skills required.
 
 #### DEX 9 EDU 15
 
@@ -5959,10 +5954,9 @@ Tellsadiu, Servant of the Ancients
 
 ATTENDANT/MESSENGERS The two messengers are humans with augmented mental powers. They do not fight but might direct drones to fight for them. If necessary they will throw themselves in front of Tellsadiu or carry a remotely detonated antimatter bomb into a crowded room. They will simply die if Tellsadiu does. This conditioning might be overcome but the attendants have no desire to try. Serving is their entire life and free will is an irrelevance.
 
-ATTENDANT/MESSENGERSATTENDANT/MESSENGERS SPECIES GENDER AGE
+ATTENDANT/MESSENGERSATTENDANT/MESSENGERS 
 — — —
-TRAITS — SKILLS STR 9 INT 13 Awareness 4, Profession
-(servitor) 4, Telepathy 4, Teleportation 4. No other skills are required.
+TRAITS — SKILLS STR 9 INT 13 Awareness 4, Profession (servitor) 4, Telepathy 4, Teleportation 4. No other skills are required.
 
 #### DEX 9 EDU 13
 
@@ -5976,16 +5970,15 @@ TECHNICIANS Tellsadiu has at least two worker/technicians intended for mental an
 
 **WARRIORSWARRIORS**
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
-#### SPECIES GENDER AGE
+#### 
 
 Droyne — —
 
-TRAITS — SKILLS STR 9 INT 11 Awareness 2, Profession
-(worker) 4, Telepathy
+TRAITS — SKILLS STR 9 INT 11 Awareness 2, Profession (worker) 4, Telepathy
 
 2. No other skills are required.
 
@@ -6012,6 +6005,8 @@ Once Yusote knows about Tellsadiu, he immediately begins working towards his des
 Tellsadiu's Agenda Tellsadiu wants to control the base and have it ready for his master's arrival. There can be no compromise there. He would like to experiment with the G482 creatures using the interlopers as test subjects and will pursue this until it becomes apparent he needs to concentrate on controlling the base.
 
 TT
+
+
 
 **HE TRAVELLERS**
 
@@ -6105,6 +6100,8 @@ The Travellers at Twilight's Peak
 
 SWAMPY DISTANT PLACE
 
+
+
 This is a problem to be solved or a straight fight, depending on the inclinations of the Travellers. They might be able to distract the creature, scare it off or otherwise avoid killing it, but blasting the beast into bits will also work. Inventive Travellers might wonder what will happen if they somehow attach one of their teleporters to the creature. The answer is that it will work but the chamber at Twilight's Peak is too small for the animal. The result will be explosively messy, as some of its molecules interact with the walls causing a release of energy. The Travellers will end up with most of a carcass, partially cooked and partially exploded, and several very puzzled Droyne. Anyone in the chamber when the creature arrives may also suffer a molecular interaction with similarly destructive results. The Travellers could use their emergency teleporters to simply escape, of course, or to bring Uegvon's body back.
 
 Animal Hits Speed Swamp Dinosaur 100 4m Skills Melee (natural) 1, Survival 1 Attacks Head Bash or Tail Whip (6D) Traits Armor (+8), Large (+6) Behaviour Omnivore, Grazer
@@ -6182,10 +6179,9 @@ Yusote has instructed his crew to grab artefacts and prepare for a dash to his s
 
 STR 10 INT 8 Gun Combat (slug) 2, DEX 9 EDU 7 Medic 1 END 11 SOC 7
 
-WEAPONS Gauss Rifle
-(4D, AP 5, Auto 3, Scope) ARMOR Combat Armor with Psi Shield (+19) EQUIPMENT: Grav Belt
+WEAPONS Gauss Rifle (4D, AP 5, Auto 3, Scope) ARMOR Combat Armor with Psi Shield (+19) EQUIPMENT: Grav Belt
 
-#### SPECIES GENDER AGE
+#### 
 
 #### — — —
 
@@ -6205,7 +6201,7 @@ Diusk was grabbed by... someone... and dragged up to the machinery level where t
 
 If at all possible, Duisk wants the Travellers to save Yusote and the rest of the Droyne crew. He will accompany the Travellers and do all he can to aid them but he knows his identity is failing. He demands a promise; he will say his name every few seconds. If he has not said it for half a minute, the Travellers must kill him. This is for their protection to some extent but mainly for him; faced with an unimaginably awful situation he wants only to die whilst there is something left of Diusk.
 
-MORPHED DIUSKMORPHED DIUSK SPECIES GENDER AGE Droyne — — TRAITS — SKILLS STR 15 INT 3 Melee (natural) 1 DEX 10 EDU 1 END 9 PSI 10
+MORPHED DIUSKMORPHED DIUSK  Droyne — — TRAITS — SKILLS STR 15 INT 3 Melee (natural) 1 DEX 10 EDU 1 END 9 PSI 10
 
 WEAPONS: Claws, teeth and anything he can improvise (2D) ARMOR: Shimmering Robe with Built-in Shields, Natural Armor (+6)
 
@@ -6229,11 +6225,9 @@ If the Travellers flee they will initially find they are stuck in the base. Howe
 
 Eliminating Tellsadiu The simplest option is to kill Tellsadiu and try to gain control over the base. Simple, but not necessarily easy. Dealing with the guards is a normal fight but Tellsadiu is more of a problem. Enough firepower will breach his shield but smart Travellers might try something else. He is not protected against gas or secondary energy effects such as a primitive firebomb. Alternatively, the Travellers could wreck the command podium in the hope of putting the shield out of action.
 
-The podium is built as solidly as the rest of the inner fittings – Protection +30. Its total hits do not matter; the Travellers do not need to destroy it. They need to damage the shield generation nodes or controlling electronics. Shooting blindly into the podium is not a reliable method; any penetrating hit has a 1 in 36
-(12 on 2D) chance of hitting a vital component. If any damage penetrates the podium and hits one of these targets, roll 1D. On 1–5 a node is hit and the strength of the shield against kinetic and energy weapons is reduced by 2D. On a 6 the control system is put out of action and the shield goes down. At this point Tellsadiu is vulnerable to all attacks including disintegrators.
+The podium is built as solidly as the rest of the inner fittings – Protection +30. Its total hits do not matter; the Travellers do not need to destroy it. They need to damage the shield generation nodes or controlling electronics. Shooting blindly into the podium is not a reliable method; any penetrating hit has a 1 in 36 (12 on 2D) chance of hitting a vital component. If any damage penetrates the podium and hits one of these targets, roll 1D. On 1–5 a node is hit and the strength of the shield against kinetic and energy weapons is reduced by 2D. On a 6 the control system is put out of action and the shield goes down. At this point Tellsadiu is vulnerable to all attacks including disintegrators.
 
-If the Travellers can obtain schematics of the podium or figure out where the nodes are likely to be, the problem becomes less severe. Ancients equipment is laid out rather differently to what the Travellers are used to, so just taking an educated guess requires a Formidable
-(14+) Investigate or Electronics (sensors) check with positive DMs for any experience the Travellers have had with similar devices. Once locations can be estimated the chance of hitting something vital increases to 8+ on 2D.
+If the Travellers can obtain schematics of the podium or figure out where the nodes are likely to be, the problem becomes less severe. Ancients equipment is laid out rather differently to what the Travellers are used to, so just taking an educated guess requires a Formidable (14+) Investigate or Electronics (sensors) check with positive DMs for any experience the Travellers have had with similar devices. Once locations can be estimated the chance of hitting something vital increases to 8+ on 2D.
 
 There are brute-force methods of breaching the podium and eliminating the shield. The most obvious is the weapons used by Tellsadiu's own guards. These can do 16D damage, for an average of around 56 points of damage, on full power. They are telepathically triggered and Tellsadiu does not expect mere insects like the Travellers to perform such a feat, so will ignore the threat until the first shot is fired. At that point the Traveller becomes a priority target for the remaining Warriors. Other methods, such as rigging an antimatter battery to rupture and having a hijacked robotic drone carry it in, have a good chance of success as Tellsadiu is distracted.
 

@@ -27,9 +27,13 @@ Printed in China.
 
 CLASSIC TRAVELLER
 
+
+
 Marc Miller
 
 MONGOOSE TRAVELLER
+
+
 
 **AUTHOR**
 Martin J. Dougherty
@@ -48,6 +52,8 @@ Shane Watson, Gary Trow, Sergio Villa
 Charlotte Law
 
 TRAVELLER INNER CIRCLE
+
+
 
 Andrew James, Alan Welty, Colin Dunn, M. J. Dougherty,
 Rob Eaglestone, Sam Wissa, Joshua Bell, Maksim
@@ -131,8 +137,7 @@ year 1107.
 Whispers on the Abyss begins at Rhylanor starport.
 If the Referee wants to build in a job offer to an
 existing campaign, this could take place anywhere in
-the region, although the default opening of the mini-
-campaign assumes the Travellers have already agreed
+the region, although the default opening of the mini-campaign assumes the Travellers have already agreed
 to undertake the mission. There are several reasons
 why they might have done this, as discussed under
 Traveller Motivations on page 3. It is not necessary for
@@ -273,6 +278,8 @@ accountability on the mission and the type of reward
 they can expect to receive.
 
 RVSC EMPLOYEE
+
+
 The Traveller was already working for RVSC when the
 mission was conceived. They may have responded
 to a call for volunteers or been ordered to take part.
@@ -292,7 +299,7 @@ need to make enough money to disappear afterward.
 
 ##### Introduction
 
-TRAVELLER
+
 
 Employee Motivations and Agendas
 Agenda Notes
@@ -332,6 +339,8 @@ that seems better, the employee may
 well take it.
 
 FREELANCE EXPERT
+
+
 The Traveller is a freelancer in their field, sought out
 and hired by the firm for this one mission. These might
 be crewmembers but experts in related fields and
@@ -371,6 +380,8 @@ cover for something else. They may be
 a Fake, a Plant or both.
 
 RVSC
+
+
 employee
 
 Freelance
@@ -502,9 +513,11 @@ an entirely unrelated reason.
 
 ##### Introduction
 
-TRAVELLER
+
 
 PLANT
+
+
 A plant is someone working for an outside agency or
 government. Examples include intelligence personnel
 serving the Zhodani Consulate, Sword Worlds
@@ -579,8 +592,7 @@ access to information unavailable on the datanets.
 
 ##### Introduction
 
-The Travellers have taken a contract with the Reidd-
-Valaasii Starship Corporation, a medium-sized
+The Travellers have taken a contract with the Reidd-Valaasii Starship Corporation, a medium-sized
 corporate body active in the starship customisation and
 refurbishment sector. Their mission is to showcase a new
 variant of the Type R subsidised merchant to a number of
@@ -603,15 +615,13 @@ fulfils its design brief more than acceptably.
 During its long career many variants of the Type R have
 appeared. Most are minor conversions, retaining the
 standard jump-1 and 1G acceleration performance of
-the original and therefore both its limitations and cost-
-effectiveness. RVSC has long been a source of these
+the original and therefore both its limitations and cost-effectiveness. RVSC has long been a source of these
 minor conversions but has also created significant
 variants with improved performance. The latest of these is
 the R2A4, which features jump-2 and 4G capability, along
 with internal modifications and enhanced armament.
 
-The R2A4 is primarily intended to serve as a high-
-capacity secure trader capable of crossing between
+The R2A4 is primarily intended to serve as a high-capacity secure trader capable of crossing between
 mains and clusters but has potential in other roles.
 These range from political and diplomatic duties as a
 low-cost yacht substitute, to patrol and escort work. A
@@ -680,7 +690,7 @@ The real payoff comes at the end of the mission and
 depends on how well the Travellers do. Starship
 procurement takes time and there is no guarantee that
 
-TRAVELLER
+
 
 any agreement in principle will lead to sales. However,
 RVSC will pay bonuses based on the Travellers’
@@ -748,6 +758,8 @@ It will hopefully offset the cost of building the prototype
 but if not little has been lost.
 
 JOACHIM KRYSTALFUCHS
+
+
 Joachim’s surname translates to ‘crystal fox’ in an
 archaic [[Terra|Terran]] language, predictably leading to the
 nickname of ‘foxy’, which irritates him to a considerable
@@ -764,8 +776,7 @@ and scout life was that Joachim cannot tolerate
 disorganisation and chaos. He is not a particularly
 imaginative individual but finds satisfaction in knowing
 what he is supposed to do and being recognised for
-doing it. In that, he is a perfect crewmember for a well-
-run ship – competent, reliable and not prone to having
+doing it. In that, he is a perfect crewmember for a well-run ship – competent, reliable and not prone to having
 brilliant ideas that go against policy or the current plan.
 
 Joachim is aboard as a crewmember-in-general. He
@@ -823,8 +834,7 @@ confident and assured they will rise to the challenge;
 at others they worry about wrecking the mission with a
 bad decision. Travellers who become good friends with
 Stannen might act as mentors and help them blossom
-into an excellent leader, which will earn them long-
-term advantages as Stannen rises up the ranks of the
+into an excellent leader, which will earn them long-term advantages as Stannen rises up the ranks of the
 company. Stannen’s Agenda can be taken as ‘corporate
 ladder’ with an unhealthy dose of ‘blagging it.’
 
@@ -841,9 +851,10 @@ everyone’. One problem here is that for cultural reasons
 
 JOACHIM KRYSTALFUCHS,
 CREWMEMBER FIRST CLASS
+
+
 STR 8 DEX 9 END 9 INT 4 EDU 6 SOC 6
-Diplomat 0, Electronics (sensors) 1, Engineer
-(power) 1, Jack-of-all-Trades 1, Mechanic 2,
+Diplomat 0, Electronics (sensors) 1, Engineer (power) 1, Jack-of-all-Trades 1, Mechanic 2,
 Navigation 0, Persuade 0, Pilot 0, Streetwise 0,
 Steward 1, Vacc Suit 1
 
@@ -854,6 +865,8 @@ Equipment: Maintenance Tools
 
 STANNEN VAANAII,
 JUNIOR RVSC EXECUTIVE
+
+
 STR 4 DEX 8 END 5 INT 11 EDU 13 SOC 9
 Admin 2, Advocate 1, Broker 0, Diplomat
 2, Electronics (computers) 0, Leadership 1,
@@ -864,7 +877,7 @@ Equipment: Portacomp
 
 ##### the Mission
 
-TRAVELLER
+
 
 Stannen is a little too honest for the role and may have
 to be... guided... by more savvy Travellers from being
@@ -880,6 +893,8 @@ by a crewmember. Stannen’s home society is rather
 hierarchical and such a thing would not be expected.
 
 MANINRA HEISS
+
+
 Maninra is aboard as a security advisor, which means
 she is concerned with the safety of the vessel and the
 mission as well as making sure the Travellers do not
@@ -892,8 +907,7 @@ her an offer Tukera was unwilling to match. On the
 current mission she has reverted to a poise she used
 with Tukera; the helpful and friendly steward nobody
 notices. Her brief is to quietly observe and facilitate the
-mission when it is going well, offering advice or straight-
-out shutting down any activity that seems too risky or is
+mission when it is going well, offering advice or straight-out shutting down any activity that seems too risky or is
 not in the interests of the company.
 
 In-keeping with her role as the near-invisible steward,
@@ -930,8 +944,7 @@ Gun Combat (energy) 1, Gun Combat (slug) 2,
 Investigate 2, Steward 1, Vacc Suit 1
 
 Weapons: Shipboard-Eight or Compact-Eight
-Semi-Automatic Pistol (3D-2), Laser Carbine
-(4D+4, Zero-G)
+Semi-Automatic Pistol (3D-2), Laser Carbine (4D+4, Zero-G)
 Armour: RVSC Vacc Suit (+9)
 Equipment: Modified Comm (with verification
 codes for intelligence uploads)
@@ -1052,7 +1065,7 @@ desires. The details of starship operations might not be
 of much interest to a governmental official representing
 an industrial or social sector but the effects of buying
 
-TRAVELLER
+
 
 those ships will be. Will the purchase create jobs? Will
 it bring greater prosperity to certain cities? Could the
@@ -1316,8 +1329,7 @@ price tag of the ship and was installed primarily to allow
 virtual crew packages to run alongside more common
 software. This vessel is a technology demonstrator and
 was never intended to be able to pay for itself directly.
-Whether any prospective client would want the auto-
-crew system is an open question but it does give the
+Whether any prospective client would want the auto-crew system is an open question but it does give the
 operators some additional options.
 
 **TYPE R2A**
@@ -1328,9 +1340,9 @@ Hull 400 tons, Streamlined — 24
 
 Aerofins 20 2
 
-M-Drive Thrust 4 (energy efficient) 16 35.
+M-Drive Thrust4 (energy efficient) 16 35.
 
-J-Drive Jump 2 (energy efficient) 25 41.
+J-Drive Jump2 (energy efficient) 25 41.
 
 Power Plant Fusion (TL12), Power 345 23 23
 
@@ -1398,8 +1410,12 @@ Special
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr22569/month
 PURCHASE COST
+
+
 MCr270.
 
 Power Requirements
@@ -1493,13 +1509,16 @@ systems
 19
 12
 3
-3
-(^33)
+3 (^33)
 2
 1
 **UPPER DECK
 LOWER DECK
+
+
 MIDDLE DECK
+
+
 DORSAL BUMP**
 
 ###### UPPER DECK
@@ -1581,6 +1600,8 @@ remains as a 20-ton open space which could be used
 for stowage but which is very awkward as a cargo area.
 
 MISSILE BATTERY
+
+
 The missile battery modification uses two of the vessel’s
 four hardpoints to add a formidable arsenal of missiles
 to the ship’s capabilities. Two barbettes are fitted, each
@@ -1589,6 +1610,8 @@ between them. If other turrets are shipped these can be
 controlled from the gunnery room.
 
 ACCOMMODATION SUITE
+
+
 The accommodation suite might be used to turn the
 ship into a low-cost yacht or to carry high-paying
 passengers who feel they are too good for the ship’s
@@ -1599,6 +1622,8 @@ and a secure stowage section equivalent to a rather
 more luxurious armoury.
 
 SECURE TRANSPORTATION UNIT
+
+
 The Travellers are unlikely to choose this option
 but some users might find it desirable to be able to
 transport prisoners. This variant is on offer to the
@@ -1617,8 +1642,12 @@ Gunnery Officer, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr833/month
 PURCHASE COST
+
+
 MCr
 
 Power Requirements
@@ -1627,8 +1656,12 @@ Weapons
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr272/month
 PURCHASE COST
+
+
 MCr3.
 
 Power Requirements
@@ -1637,8 +1670,12 @@ Weapons
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr427/month
 PURCHASE COST
+
+
 MCr5.
 
 Crew
@@ -1646,8 +1683,12 @@ None
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr229/month
 PURCHASE COST
+
+
 MCr2.
 
 **MISSILE BATTERY**
@@ -1723,6 +1764,8 @@ is surrounded by a solid bulkhead, more for structural
 than defensive reasons.
 
 VEHICLE GARAGE
+
+
 This modification converts the forward secure cargo
 area into a small vehicle garage with a maintenance
 area. Standard configuration allows for two ground
@@ -1734,6 +1777,8 @@ bikes, grav floaters, air/rafts and ground cars. ATVs
 and military vehicles are not available.
 
 HOSPITALITY SUITE
+
+
 Often paired with an additional accommodation unit,
 the hospitality suite turns the forward secure cargo area
 into a recreation and dining area. It has a dedicated
@@ -1769,14 +1814,22 @@ Total: MCr 7
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr75/month
 PURCHASE COST
+
+
 MCr0.
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr583.33/month
 PURCHASE COST
+
+
 MCr
 
 ##### The R2A4 Prototype
@@ -1799,8 +1852,7 @@ in the system to take responsibility for its actions.
 
 The Autocrew can carry out most other functions,
 although physical tasks that cannot be performed by
-the ship’s cleaning robots are impossible. The auto-
-steward function can, for example, regulate the oven
+the ship’s cleaning robots are impossible. The auto-steward function can, for example, regulate the oven
 temperature to cook a pie perfectly but someone will
 have to combine the ingredients and place the dish
 in the oven. The Travellers may worry about their
@@ -1814,8 +1866,7 @@ systems intended to help the crew.
 Normally the Autocrew can be given instructions by
 anyone designated as a crewmember, with preference
 given to those with responsibility for the relevant
-area. Thus when the pilot gives orders to the auto-
-manoeuvring system these will over-rule whatever
+area. Thus when the pilot gives orders to the auto-manoeuvring system these will over-rule whatever
 the steward has told it to do. There are exceptions to
 this; the three RVSC employees aboard can over-rule
 anything the Travellers have ordered the system to do
@@ -1823,6 +1874,8 @@ and Joachim can trigger the emergency lockdown no
 matter what anyone else has to say about it.
 
 AUTOBRIDGE
+
+
 The AutoBridge function is more than an automatic pilot.
 It can plot normal-space courses and fly the ship, and is
 also capable of handling communications and sensors
@@ -1851,6 +1904,8 @@ impress those who understand the value of shaving a
 few minutes off an interplanetary transit.
 
 AUTOENGINEER
+
+
 The AutoEngineer function runs the drives and power
 systems, and is capable of making fine corrections
 on a constant basis. This in theory saves a little fuel
@@ -1939,6 +1994,8 @@ will have to experiment with the settings to find a level
 they are happy with, or simply ignore its advice.
 
 USING AUTOCREW
+
+
 The Autocrew packages can be used to allow a
 band of Travellers lacking critical skills to carry out
 the mission, or add a little personality to the ship.
@@ -1986,7 +2043,7 @@ of the usual DM+1.
 
 ##### AutocrewAutocrew
 
-TRAVELLER
+
 
 AutoEngineer Faults
 2D + DMs Result
@@ -2013,8 +2070,7 @@ DM increases by +3.
 2Dx2D hours. DM-3 applies to all checks associated with this system during the problem. Failure
 DM increases by +4.
 26+ All systems aboard ship are malfunctioning and generating false alarms. For any given 2D
-hour period, a negative DM determined by rolling 1D applies to each of the four main segments
-(Gunnery, Bridge, Engineering and General). DMs may vary between segments. Failure DM does
+hour period, a negative DM determined by rolling 1D applies to each of the four main segments (Gunnery, Bridge, Engineering and General). DMs may vary between segments. Failure DM does
 not increase.
 
 ##### Autocrew
@@ -2241,98 +2297,160 @@ Imperium Border
 X-5
 
 VANEJEN
+
+
 C-5
 
 CIPATWE
+
+
 B-6
 
 LONESEDA
+
+
 C-7
 
 NATOKO
+
+
 C-9
 
 GARRINCSKI
+
+
 B-7
 
 RHYLANOR
+
+
 A-F
 
 GEROME
+
+
 X-0
 
 KEGENA
+
+
 E-3
 
 BELIZO
+
+
 B-5
 
 HUDERU
+
+
 X-0
 
 POROZLO
+
+
 A-B
 
 GILEDEN
+
+
 C-6
 
 FULACIN
+
+
 A-D
 
 KINORB
+
+
 C-9
 
 RISEK
+
+
 A-A
 
 VALHALLA
+
+
 E-5
 
 HENOZ
+
+
 A-B
 
 CELEPINA
+
+
 B-9
 
 NUTEMA
+
+
 B-8
 
 VINORIAN
+
+
 B-9
 
 MARGESI
+
+
 A-C
 
 **To Lanth**
 
 TACAXEB
+
+
 C-B
 
 HERONI
+
+
 E-8
 
 SOMEM
+
+
 C-B
 
 PANNET
+
+
 E-9
 
 BEVEY
+
+
 D-A
 
 JAE TELLONA
+
+
 A-8
 
 ZIVIJE
+
+
 C-B
 
 POWAZA
+
+
 C-5
 
 GITOSY
+
+
 B-9
 
 MACENE
+
+
 B-E
 
 B-6 Starport Class & Tech Level
@@ -2397,9 +2515,13 @@ E565432-5
 
 RHYLANOR SUBSECTOR
 
+
+
 Spinward Marches
 
 H
+
+
 
 The Rhylanor subsector contains 32 star systems
 of which 25 are located on one of the arms of the
@@ -2456,8 +2578,7 @@ destruction and suffering.
 ##### Rhylanor subsector
 
 All but six of the 27 star systems in Lanth lie on the
-Spinward Main or can be reached from it by a jump-
-2 capable ship. The Jenghe system provides jump-1
+Spinward Main or can be reached from it by a jump-2 capable ship. The Jenghe system provides jump-1
 access coreward into the Regina subsector, whilst the
 neighbouring naval base at Extolay is tasked with trans-
 
@@ -2683,82 +2804,130 @@ B-7
 **To Vilis**
 
 RHISE
+
+
 C-A
 
 D’GANZIO
 B-D
 
 GHANDI
+
+
 B-A
 
 DINOM
+
+
 D-A
 
 WYPOC
+
+
 E-9
 
 K’KIRKA
 C-8
 
 LANTH
+
+
 A-B
 
 SKULL
+
+
 C-9
 
 COGRI
+
+
 C-9
 
 IVENDO
+
+
 B-A
 
 ICETINA
 
+
+
 EQUUS
+
+
 B-B
 
 LA’BELLE
 C-4
 
 VREIBEFGER
+
+
 E-3
 
 QUOPIST
+
+
 B-A
 
 TUREDED
+
+
 C-9
 
 PIREMA
+
+
 D-5
 
 ECHISTE
+
+
 C-A
 
 TREECE
+
+
 D-8
 KEANOU
+
+
 C-7
 
 DINOMN
+
+
 B-9
 
 RECH
+
+
 D-6
 
 DJINNI
+
+
 X-0
 
 EXTOLAY
+
+
 B-A
 
 YLAVEN
+
+
 X-4
 
 VICTORIA
+
+
 D-2
 
 SONTHERT
+
+
 D-7
 
 B-6 Starport Class & Tech Level
@@ -2819,16 +2988,19 @@ B5245A9-7
 
 LANTH SUBSECTOR
 
+
+
 spinward Marches
 
 G
 
+
+
 27
 
-TRAVELLER
 
-The Lanth segment of the Spinward Main is well-
-travelled and generally secure, but that does not
+
+The Lanth segment of the Spinward Main is well-travelled and generally secure, but that does not
 always translate to it being safe. The majority of
 the subsector is very sparse, known colloquially as
 the Abyss Rift. This region has a bad reputation for
@@ -2838,8 +3010,7 @@ statistics do show a higher incidence of misjump in the
 region surrounding the rift.
 
 Lanth is politically complex, in that its capital is located
-in the rimward-spinward corner and requires a jump-
-4 transit to reach. Thus Lanth itself receives little
+in the rimward-spinward corner and requires a jump-4 transit to reach. Thus Lanth itself receives little
 commercial traffic other than large corporate freighters
 capable of long jumps. Information and instruction
 turnaround is at least four weeks for any world on
@@ -3030,26 +3201,44 @@ Planet (water present)
 Imperium Border
 **To Querion**
 QUARE
+
+
 B-9
 EDININA
+
+
 E-7
 TREMOUS DEX
+
+
 B-C
 ZETA 2
 X-0
 CHOLEOSTI
+
+
 C-9
 FRENZIE
+
+
 A-A
 STELLATIO
+
+
 E-6
 899-076
 E-8
 ASGARD
+
+
 X-5
 FICANT
+
+
 E-5
 ARKADIA
+
+
 E-6
 GARDA-VILIS
 B-A
@@ -3058,28 +3247,50 @@ A-A
 728-907
 E-0
 MIRRIAM
+
+
 E-8
 CALIT
+
+
 C-7
 DENOTAM
+
+
 B-A
 DIGITIS
+
+
 E-6
 **ARDEN**
 B-9
 CALORAN
+
+
 C-5
 RANGENT
+
+
 E-7
 TIONALE
+
+
 C-8
 PHLUME
+
+
 C-8
 TAVONNI
+
+
 E-0
 SAURUS
+
+
 D-7
 MARGESI
+
+
 C-6
 B-6 Starport Class & Tech Level
 X5437C7-5
@@ -3104,13 +3315,16 @@ E201300-8
 B5549CB-9
 C796746-5
 VILIS SUBSECTOR
+
+
 Spinward Marches
 F
 
+
+
 The Vilis subsector lies at the spinward edge of the Third
 Imperium. 16 of its 26 star systems are Imperial members,
-although most are of relatively low value. The spinward-
-rimward corner of the subsector borders the Sword
+although most are of relatively low value. The spinward-rimward corner of the subsector borders the Sword
 Worlds Confederation, whilst the spinward-coreward
 edge contains part of the demilitarised zone created after
 the Third Frontier War. This region is influenced by the
@@ -3146,16 +3360,14 @@ but they have never been allocated Numbered Fleet
 status. Instead, there are two small area commands
 based at Frenzie and Mirriam, whilst the naval base
 at Denotam is intended to house forward-deployed
-elements of the sector fleet. It is well protected by in-
-system craft but usually plays host only to a handful
+elements of the sector fleet. It is well protected by in-system craft but usually plays host only to a handful
 of destroyers and light cruisers which show the flag in
 the demilitarised zone. In wartime the base would be
 used to stage movements of heavy fleet elements out
 to spinward against the Zhodani or spinward-rimward
 against the Sword Worlds.
 
-Naval Security Force Frenzie patrols the rimward-
-spinward corner of the subsector and makes forays out
+Naval Security Force Frenzie patrols the rimward-spinward corner of the subsector and makes forays out
 into the Querion subsector. Most of its vessel allocation
 is a mix of patrol corvettes and similar low-capability
 ships and refitted obsolescent destroyers. This is wholly
@@ -3342,6 +3554,8 @@ any Travellers who are involved in shady dealings
 within RVSC are likely to be connected to Levoreen.
 
 IMPERIAL NAVAL INTELLIGENCE
+
+
 The INI knows that one of its experimental intelligence
 gathering and analysis packages is missing but they
 have no idea it is aboard the R2A4 prototype. A
@@ -3382,7 +3596,7 @@ Arden and its associated worlds.
 
 ##### Setting up the Campaign
 
-TRAVELLER
+
 
 ###### GENERAL PRODUCTS
 
@@ -3416,6 +3630,8 @@ the Travellers are in port and what level of presence
 General Products has.
 
 OTHER PATRONS
+
+
 A variety of other people have an interest either in the
 region or in starship procurement. The Travellers might
 become involved with almost any of them, although
@@ -3494,6 +3710,8 @@ been observed that on worlds such as this most of the
 # R HYLANOR
 
 RHYLANOR
+
+
 Profile A434934-F
 Starport A Excellent
 Size 4 6,400km
@@ -3532,7 +3750,7 @@ Imperial Civil War and established herself as regent.
 In time she was chosen as Emperor, the first of the
 current ruling dynasty.
 
-TRAVELLER
+
 
 Rhylanor is ruled by a hereditary oligarchy made up
 of Imperial noble families. Some of these families
@@ -3541,8 +3759,7 @@ varying degrees of separation, although some
 connections are rather tenuous, often by way of
 someone assumed to be a lover or a distant relative
 of some member of the Plankwell or Alkhalikoi
-families. Claims that would be dismissed as over-
-stretched elsewhere are readily accepted by
+families. Claims that would be dismissed as over-stretched elsewhere are readily accepted by
 members of the social elite and those who wish to
 join it. There is a game to be played in the upper
 echelons of Rhylanor’s society and those who do not
@@ -3616,8 +3833,7 @@ The downport is rather less impressive. It might be
 considered the ‘first among equals’ on a world with
 multiple ports serving its primary cities. Although
 officially part of the designated starport, Rhylanor
-Down receives only a little more traffic than the city-
-spaceports. Its startown is rather shabby, partly due
+Down receives only a little more traffic than the city-spaceports. Its startown is rather shabby, partly due
 to a lack of investment and partly because the local
 population consider the downport to be the province
 of those who are insufficiently important to establish
@@ -3655,8 +3871,7 @@ although there are shipyards in the system which are
 owned by corporations and private concerns. Much of
 the work they undertake is for the navy, typically rather
 humble but necessary vessels such as auxiliaries,
-tankers and supply transports. Freighters and jump-
-2 commercial ships are also regularly constructed
+tankers and supply transports. Freighters and jump-2 commercial ships are also regularly constructed
 or overhauled at these yards, usually for clients who
 have pre-ordered a large batch. However, sometimes
 deals go awry or orders are reduced in which case
@@ -3747,8 +3962,7 @@ Agenda if it suits their purposes.
 Once everyone is introduced the socialising gives
 way to a briefing and allocation of tasks. A set of very
 well created holographic images showcase the R2A4,
-progressing from its humble origins as a broken-
-down old Type R subsidised merchant to its sleek
+progressing from its humble origins as a broken-down old Type R subsidised merchant to its sleek
 new look as a fast and elegant vessel to rival anything
 the megacorporations can field. Internal and optional
 features are mentioned, and the Travellers have the
@@ -3764,8 +3978,7 @@ Internal Accommodation Unit (reduces cargo capacity
 by 40 tons)?
 
 FORWARD SECURE CARGO AREA: Retain as
-cargo or convert to vehicle garage or hospitality suite
-(both reduce cargo capacity by 20 tons)?
+cargo or convert to vehicle garage or hospitality suite (both reduce cargo capacity by 20 tons)?
 
 The Travellers are reminded that this is not a
 commercial cargo-hauler any more. It is a showcase,
@@ -3906,11 +4119,10 @@ introduces him as Davis Levoreen, a regional manager
 
 ##### The Great Gates of Rhylanor
 
-TRAVELLER
+
 
 who has overseen the creation of the prototype. He
-is accompanied by an adminbot; essentially a self-
-propelled desk and portacomp terminal.
+is accompanied by an adminbot; essentially a self-propelled desk and portacomp terminal.
 
 Levoreen greets the Travellers in a professionally
 friendly manner and welcomes them to the project.
@@ -4010,9 +4222,7 @@ The Travellers could be lazy about the trials, merely
 ordering the Autocrew to go through the motions.
 Testing Autocrew is part of the trials but the Travellers
 should be more involved if they are doing their jobs
-properly. The Referee should ask for a Difficult
-(10+) check in each relevant area: Pilot, Electronics
-(sensors), Astrogator, Engineer and Mechanic. These
+properly. The Referee should ask for a Difficult (10+) check in each relevant area: Pilot, Electronics (sensors), Astrogator, Engineer and Mechanic. These
 checks are not to perform operations and manoeuvres
 but to determine if the Traveller can spot any problems
 that may exist. Any number of Travellers can make
@@ -4144,6 +4354,8 @@ the Imperial megacorporation Sternmetal Horizons with
 oversight from the Imperial Navy.
 
 JAE TELLONA
+
+
 Profile A560565-8
 Starport A Excellent
 Size 5 8,000km
@@ -4202,8 +4414,7 @@ Upon emerging from jump at Jae Tellona, the
 Travellers’ instruments quickly confirm they are in the
 right place. Traffic signals from the orbital port offer a
 slot in the busy arrivals schedule and advise against
-causing irregularities. A helpful list of fines for non-
-compliance pops up as ‘additional information’. At the
+causing irregularities. A helpful list of fines for non-compliance pops up as ‘additional information’. At the
 same time an automated signal from the small naval
 base advises against attempting to approach.
 
@@ -4288,7 +4499,7 @@ violation of traffic regulations. Failure to take evasive
 
 #### ORSAIRS AND
 
-TRAVELLER
+
 
 action will result in their vessel being detained for
 investigation and a heavy fine imposed. The port’s
@@ -4469,6 +4680,8 @@ knowledge, or else General Products are just keen on
 wasting money.
 
 SEARCHING THE RECORDS
+
+
 Raking through old datanet entries and news reports is
 a time-consuming business but Travellers willing to put
 in a day or so may make an Average (8+) Investigate
@@ -4487,7 +4700,7 @@ volume of production from the Jae Tellona yards does
 
 ##### Corsairs and competitors
 
-TRAVELLER
+
 
 not match the materials going in. The discrepancy is
 not large; around 5-6,000 tons of shipping over the
@@ -4562,13 +4775,11 @@ curtailment of legal action.
 Bwap, as the Travellers can probably tell from his
 name. Bwaps are excellent natural administrators
 and it is not uncommon to find them in senior
-bureaucratic posts all across the Imperium. Sir Ba-
-abtab Atwa is also an Imperial knight, suggesting
+bureaucratic posts all across the Imperium. Sir Ba-abtab Atwa is also an Imperial knight, suggesting
 that either he has served very well or his family did
 so at some time in the past.
 
-As representative for General Procurement, Sir Ba-
-abtab Atwa is actually the most prestigious of the
+As representative for General Procurement, Sir Ba-abtab Atwa is actually the most prestigious of the
 potential clients. He will be impressed by an orderly
 atmosphere for the meeting and by solid projections of
 cost and return – he favours hard numbers over pizazz
@@ -4577,6 +4788,8 @@ they think about the nature of Bwaps and may be able
 to tailor their approach to his expected characteristics.
 
 MAKING THE PITCH
+
+
 However they choose to do it, the Travellers’ pitch to Sir
 Ba-abtab Atwa will need to be set up in advance and
 there is a protocol to be followed. He is a representative
@@ -4661,8 +4874,7 @@ positive DM but those who roleplay delivering a glacier
 of facts, statistics and ever more numbers should be
 granted DM+1 or even +2 if they do it well. Ultimately,
 the Travellers must make an Average (8+) Diplomat or a
-Difficult (10+) Persuade check. Failure indicates Sir Ba-
-abtab Atwa is not interested at this time, though he may
+Difficult (10+) Persuade check. Failure indicates Sir Ba-abtab Atwa is not interested at this time, though he may
 be open to a revised pitch later.
 
 Success does not instantly sell starships. However, if
@@ -4711,11 +4923,10 @@ ennobled for their services to the Imperial bureaucracy.
 
 ##### Corsairs and competitors
 
-TRAVELLER
+
 
 Like most Bwaps outside their swampy home
-environment Sir Ba-abtab Atwa wears a loose kaftan-
-like garment designed to keep his skin moist. Even so
+environment Sir Ba-abtab Atwa wears a loose kaftan-like garment designed to keep his skin moist. Even so
 he finds human-normal conditions uncomfortable and
 will drink a great deal of water during any encounter.
 He has been working in human-standard conditions
@@ -4791,8 +5002,7 @@ anyone who does know will be impressed without any
 need for a tawdry display of self-importance.
 
 Kapiten Borressen has a favour to ask of the
-Travellers. They are representatives of a starship-
-related corporation and therefore could be presented
+Travellers. They are representatives of a starship-related corporation and therefore could be presented
 
 SIR BA-ABTAB ATWA
 STR 2 DEX 8 END 5 INT 9 EDU 10 SOC 10
@@ -4876,8 +5086,7 @@ might be supplied with weaponry.
 
 The Tanoose Freedom League is a rebel organisation,
 although one that professes loyalty to the Imperium. It
-is in revolt against the imposed government of Garda-
-Vilis which it accuses of corruption and profiteering on a
+is in revolt against the imposed government of Garda-Vilis which it accuses of corruption and profiteering on a
 planetary scale. This makes the intentions of the Zueng
 distinctly questionable but since the Imperium itself
 has not taken a position on the rebellion, supporting it
@@ -4913,9 +5122,11 @@ credible and unbiased to respond to his questions.
 
 ##### Corsairs and competitors
 
-TRAVELLER
+
 
 ABOARD A DENISOV
+
+
 If the Travellers agree, Borressen invites them to
 dine aboard his ship. He will send a shuttle for them
 in a few hours and in the meantime must prepare for
@@ -5139,7 +5350,7 @@ simplify actions against its members. If the Travellers
 
 ##### Corsairs and competitors
 
-TRAVELLER
+
 
 confound this the Tanoose Freedom League will receive
 additional weapons and support, to the detriment of the
@@ -5158,6 +5369,8 @@ but not before they reach Arden and great events begin
 to unfold around them.
 
 KAPITEN IM RAUM SVAN BORRESSEN
+
+
 Kapiten Borressen is a high flyer in the Sword Worlds
 Confederation Navy. By a combination of charisma, drive
 and talent he gained rapid promotion, rising to command
@@ -5179,11 +5392,11 @@ dangerous hole in an otherwise capable crew; they are
 also deceiving their crewmates.
 
 KAPITEN IM RAUM SVAN BORRESSEN
+
+
 STR 9 DEX 7 END 8 INT 9 EDU 10 SOC 10
 
-Admin 1, Astrogation 3, Diplomat 2, Gun Combat
-(slug) 1, Leadership 4, Melee (blade) 2, Tactics
-(naval ) 4, Vacc Suit 2
+Admin 1, Astrogation 3, Diplomat 2, Gun Combat (slug) 1, Leadership 4, Melee (blade) 2, Tactics (naval ) 4, Vacc Suit 2
 
 Weapons: Holmgang Sword (2D)
 Armour: Vacc Suit (+8)
@@ -5295,6 +5508,8 @@ rather than profitable mines.
 # F ULACIN
 
 FULACIN
+
+
 Profile A674210-D
 Starport A Excellent
 Size 6 9,600km
@@ -5359,8 +5574,7 @@ ANALYSIS: Vessel has been forced to crash-land or
 has been brought down. Communications offline or
 deliberately disabled.
 
-This information dump has been triggered by a low-
-powered distress signal emitted by the wreck on an
+This information dump has been triggered by a low-powered distress signal emitted by the wreck on an
 unusual band. It would be mistaken for interference
 by anyone without the equipment to decode it. That
 has been done automatically by the intelligence
@@ -5489,8 +5703,7 @@ The plan was relatively simple. The operatives aboard
 Malishu would wait until their vessel met with that of Sir
 Hamex Calston over Fulacin. With the assistance of the
 operatives on-planet they would pinch both the ship and
-the noble, then make a dash for the border. With a jump-
-4 ship at their disposal they could be in Zhodani space in
+the noble, then make a dash for the border. With a jump-4 ship at their disposal they could be in Zhodani space in
 a little over a month. Risky, perhaps, but the payoff was
 potentially worth it. They made the decision to try.
 
@@ -5516,7 +5729,7 @@ She slipped into orbit undetected, exchanging low-
 
 ##### Rescue at Fulacin
 
-TRAVELLER
+
 
 emission tightbeam greetings with the yacht. Neither
 was supposed to be there, nobody knew they were. As
@@ -5580,9 +5793,7 @@ formal designation NN-4A6 and warns of toxic dust
 conditions as normal, with an elevated risk due to a
 storm in progress. No further communication is possible.
 
-Descending through the dust storm is a little nerve-
-wracking. Sensor readings are distorted whilst optical-
-spectrum devices cannot see more than a few metres
+Descending through the dust storm is a little nerve-wracking. Sensor readings are distorted whilst optical-spectrum devices cannot see more than a few metres
 at times. A good pilot, proceeding cautiously, should not
 get into serious trouble although there are occasional
 dips or buffeting side gusts. The Referee should call for
@@ -5743,7 +5954,7 @@ finished vessel still in the hands of its builders.
 
 ##### Rescue at Fulacin
 
-TRAVELLER
+
 
 There are a handful of robots aboard. These are
 commercially available types and not necessarily the
@@ -5769,8 +5980,7 @@ command level officer. working in that department.
 How the Referee uses the bots is subject to dramatic
 interpretation. A crippled bot might cause a disturbance,
 thrashing about amid the wreckage, and bring nervous
-Travellers to investigate. Or it might be lying, powered-
-down or smashed in the crash, as nothing more than
+Travellers to investigate. Or it might be lying, powered-down or smashed in the crash, as nothing more than
 scenery. Bots cannot be used to gain information
 and will not actively help the Travellers, other than by
 obeying direct commands, but they may be useful at
@@ -6079,6 +6289,8 @@ ammunition and spare magazines, may still be present.
 There are no heavier weapons.
 
 A DECK AFT
+
+
 Only the forward access valve in the security chamber
 requires command level. Up, down or aft requires
 only Crew level access. What would eventually be the
@@ -6316,6 +6528,8 @@ It is now buckled and distorted. There are a few boxes of
 mission supplies in this area but it is otherwise empty.
 
 D DECK AFT
+
+
 The aft part of this deck is less damaged than the
 forward end and served as a refuge for those who
 managed to escape the initial surprise attack. The
@@ -6370,7 +6584,7 @@ realise there is something afoot here.
 
 ##### Rescue at Fulacin
 
-TRAVELLER
+
 
 The Travellers may or may not be attacked by
 Zhodani survivors during the investigation stage of
@@ -6423,6 +6637,8 @@ Referee but it is advisable to keep numbers small to
 avoid having to keep track of multiple people.
 
 CREWMEMBERS
+
+
 Legitimate crewmembers will be confused, frightened
 and angry at the betrayal of their trust. They will
 try to hide or avoid anyone they do not know and
@@ -6436,15 +6652,18 @@ part, and quite probably know less than the Travellers
 about what happened and why.
 
 TYPICAL CREWMEMBER
+
+
 STR 6 DEX 8 END 7 INT 9 EDU 8 SOC 7
 Melee 0, various shipboard skills
 
-Weapons: Something that can be used as a club
-(2D), possibly Autopistol (3D-3)
+Weapons: Something that can be used as a club (2D), possibly Autopistol (3D-3)
 Equipment: Tools, medical supplies, whatever
 they could grab
 
 ZHODANI AGENTS
+
+
 Some of the Zhodani agents are dressed as
 crewmembers. Others wear typical planetside working
 garb. All are dedicated to their cause and will stalk the
@@ -6454,6 +6673,8 @@ for a chance to strike, or try to eliminate the opposition
 whenever they can.
 
 ZHODANI OPERATIVE
+
+
 STR 7 DEX 9 END 8 INT 7 EDU 7 SOC 6
 Gun Combat (slug) 2, Persuade 1, Stealth 1
 
@@ -6461,6 +6682,8 @@ Weapons: Autopistol (3D-3) or Shotgun (4D)
 Equipment: Possibly some tools
 
 BODYGUARD
+
+
 One bodyguard survived the attack and possibly the
 crash too. If alive, he is currently sneaking around
 the wreck trying to find weapons and ammunition to
@@ -6491,6 +6714,8 @@ Fulacin system at all. That might lead to them having to
 answer some difficult questions, however.
 
 COMMODORE SIR HAMEX CALSTON
+
+
 Sir Hamex Calston is slightly overweight and physically
 lazy by inclination, although his mind moves at an
 alarming pace. He comes from an ‘old navy’ family of
@@ -6527,11 +6752,12 @@ the sector commander to move some battleships to
 deployments they want.
 
 BODYGUARD
+
+
 STR 8 DEX 9 END 9 INT 6 EDU 6 SOC 6
 Gun Combat (slug) 2, Melee (unarmed) 1, Recon 1
 
-Weapons: Guardian Compact Submachinegun
-(3D-1) or whatever else he has found
+Weapons: Guardian Compact Submachinegun (3D-1) or whatever else he has found
 Equipment: Possibly some tools
 
 ###### SIR HAMEX CALSTON
@@ -6572,7 +6798,7 @@ was not supposed to be there at all but what if the yacht
 
 ##### Rescue at Fulacin
 
-TRAVELLER
+
 
 Sir Hamex is part of a group of nobles who support
 the Duchess of Mora in her bid to become sector
@@ -6651,6 +6877,8 @@ the authorities and actually have the means to force
 that to happen. The Travellers will face protest and
 
 COMMODORE SIR HAMEX CALSTON
+
+
 STR 4 DEX 5 END 4 INT 12 EDU 11 SOC 10
 Admin 4, Diplomat 3, Profession (naval architect)
 2, Vacc Suit 1
@@ -6892,8 +7120,7 @@ any sign of it even if they suspect the presence of
 some additional electronic system.
 
 It would be unwise to acknowledge the presence of
-the warship. It is operating under Emission Control
-(EMCON) status and should not be detectable to
+the warship. It is operating under Emission Control (EMCON) status and should not be detectable to
 passing civilian vessels. Acknowledging the vessel
 demonstrates the Travellers have exceptionally
 good sensors and the skill to use them, which will
@@ -6941,8 +7168,7 @@ reached 230,000 and is unlikely to grow much more.
 Dinom does not really have a planetary government
 as such. Each of the cities is run by a board of
 directors who answer to the shareholders of the mining
-and ore processing companies. Workers and non-
-shareholders receive little representation at any level,
+and ore processing companies. Workers and non-shareholders receive little representation at any level,
 creating an effective oligarchy. Offworld affairs are
 the responsibility of the World Board, which meets in
 Rhylan. Theoretically responsible for system security
@@ -6970,6 +7196,8 @@ the situation to its own people and outsiders alike...
 putting a bright face on things, if you will.
 
 DINOM
+
+
 Profile D300535-A
 Starport D Poor
 Size 3 4,800km
@@ -7088,7 +7316,7 @@ obviously far upmarket of the other. Since the Travellers
 are on expenses and are expected to live a certain
 lifestyle, it is the obvious choice.
 
-TRAVELLER
+
 
 Hotel rooms come with a business package, which
 amounts to use of a small office and the chance to rent
@@ -7314,7 +7542,7 @@ the World Board for several years. He is an effective
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 businessman and generally considered to be one of
 the more fair members of the upper echelon of society.
@@ -7483,6 +7711,8 @@ quite quickly, with the hardcore routed by inept but
 enthusiastic security personnel.
 
 CITY RIOTERS
+
+
 STR 8 DEX 6 END 8 INT 6 EDU 4 SOC 4
 Athletics (various) 1, Melee 0
 
@@ -7491,9 +7721,11 @@ Equipment: Possibly tools
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 DINOM SECURITY PERSONNEL
+
+
 About half of the city’s security personnel are locals.
 They are treated slightly better than the average worker
 and generally loyal to the ruling elite. This is in part
@@ -7563,14 +7795,15 @@ The quickest way to locate Streen would be to take a
 ballistic path in the direction of his last known location
 and begin a sensor search once above the mountains.
 Locating the ATV takes just a few minutes but if the
-Travellers succeed in an Average (8+) Electronics
-(sensors) check they can gain some additional
+Travellers succeed in an Average (8+) Electronics (sensors) check they can gain some additional
 information. Streen’s party are aboard a wheeled ATV,
 proceeding roughly north-west at what appears to be
 an oddly low speed. There are other vehicles some
 distance behind, apparently pursuers.
 
 SECURITY PERSONNEL
+
+
 STR 9 DEX 7 END 8 INT 7 EDU 5 SOC 6
 Athletics (strength) 1, Gun Combat (slug) 1,
 Melee (unarmed) 1, Recon 1
@@ -7623,8 +7856,7 @@ their vehicle to be pulled up into the ship.
 
 **LANDING**
 Selecting a suitable landing spot and directing the
-ATV to head for it requires an Average (8+) Electronics
-(sensors) check. Setting the ship down in such rough
+ATV to head for it requires an Average (8+) Electronics (sensors) check. Setting the ship down in such rough
 terrain without damaging it requires a Formidable (14+)
 Pilot check. Failure does not indicate a crash unless
 there are extreme circumstances such as a double 1 on
@@ -7696,6 +7928,8 @@ launching missiles upward in a very high arc to give
 them time to arm, then driving down again. A couple
 
 REBELS
+
+
 STR 8 DEX 6 END 8 INT 6 EDU 4 SOC 3
 Gun Combat 0, Recon 0
 
@@ -7705,7 +7939,7 @@ Equipment: Tools and prospecting instruments
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 of hundred metres is a rather small margin however,
 though AutoGunner is happy to give it a try. A missile
@@ -7728,8 +7962,7 @@ meantime the rebels will continue to shoot and close in.
 
 Hits on an ATV with a starship laser are devastating.
 The ATVs used by the rebels are a standard design,
-with Protection +6 and Hull 60. Hits with starship-
-grade weapons multiply damage by 10. Thus the
+with Protection +6 and Hull 60. Hits with starship-grade weapons multiply damage by 10. Thus the
 ship’s dual pulse laser mounts do 2D+1 damage
 plus Effect, all multiplied by 10. On average, this is
 around 80–100 damage. Even after taking armour into
@@ -7777,8 +8010,7 @@ the World Board out of hand, creating a great deal of
 uncertainty and not really aiding the workers’ cause.
 All of these messages are being fed onto the world
 datanet and it may be possible to track their origins. A
-Traveller willing to spend an hour and attempt a Difficult
-(10+) Electronics (computers) check can obtain one of
+Traveller willing to spend an hour and attempt a Difficult (10+) Electronics (computers) check can obtain one of
 the following pieces of information on every success:
 •	 The moderate messages are coming from two
 sources. One is in the Cold Face mines south of
@@ -7896,6 +8128,8 @@ hands of the Workers Council, although there is some
 fighting still ongoing. They have captured numerous
 
 CHIEF EXECUTIVE ARLENT STREEN
+
+
 STR 4 DEX 6 END 8 INT 9 EDU 10 SOC 9
 Admin 2, Broker 2, Carouse 3, Persuade 4
 
@@ -7906,7 +8140,7 @@ Equipment: He has people for that.
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 members of the planetary elite, whose fate is at present
 unknown. Others have attempted an escape from
@@ -7920,8 +8154,7 @@ been forced to leave the city eastward towards the
 unfinished section of the monorail.
 
 There is no way to reach the stranded people before
-the rebels do, other than the Travellers’ starship. Streen
-(or his replacement) therefore requests they proceed
+the rebels do, other than the Travellers’ starship. Streen (or his replacement) therefore requests they proceed
 immediately to the unfinished monorail section and
 attempt a rescue. There should be a dozen or so people
 there, most of them families and dependents. If they
@@ -7931,6 +8164,8 @@ Travellers that at least some of the rebels are openly
 calling for the execution of captured enemies.
 
 COMPLICATIONS
+
+
 If the Travellers agree, the end of the monorail is not
 hard to find; just fly east and follow the tracks or pick
 them up after crossing the mountains west of Rhylan.
@@ -8009,12 +8244,10 @@ detonation range by the amount of Thrust applied that
 round but this is not without hazards. The missiles are
 all following different trajectories so Thrust must be
 applied separately between them if the pilot wants to
-increase impact time for more than one. An Average
-(8+) Pilot check must be made with a negative DM
+increase impact time for more than one. An Average (8+) Pilot check must be made with a negative DM
 equal to the maximum Thrust being applied against any
 one missile to avoid getting too close to the ground. If
-this is failed the pilot must immediately pass a Difficult
-(10+) Pilot check with no DM for thrust to avoid clipping
+this is failed the pilot must immediately pass a Difficult (10+) Pilot check with no DM for thrust to avoid clipping
 an obstruction close to the ground. This will do 1D
 damage to the ship per point of negative Effect.
 
@@ -8132,7 +8365,7 @@ must be done. The best approach would be a firm but
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 patient insistence in person, accompanied by assistance
 in donning emergency suits or getting kids into rescue
@@ -8306,7 +8539,7 @@ occupants rolling helplessly away.
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 ONTO THE GANTRY: If the Travellers think of it, they
 can reverse the train a little and step straight onto the
@@ -8329,8 +8562,7 @@ Out the Front Door: Rather than using the gantry,
 the Travellers might go out the nearby end of the tube.
 This is well above ground level, however. Jumping is
 an option, given the low gravity, but the landing area is
-uneven and strewn with construction debris. A Difficult
-(10+) Vacc Suit check is required to avoid injury, with the
+uneven and strewn with construction debris. A Difficult (10+) Vacc Suit check is required to avoid injury, with the
 unfortunate subject suffering 1D damage for every point
 of negative Effect. Damage to ankles is the most likely
 result but a fall results on Effect -2 or worse. This could
@@ -8535,7 +8767,7 @@ made under duress will necessarily be honoured.
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 1. Outskirts of Medianne: The city is composed of
    multiple complexes of sealed buildings linked by
@@ -8560,6 +8792,8 @@ TRAVELLER
    gantries. Spoil is deposited in the bottom.
 
 COURSE OF THE BATTLE
+
+
 The battle for Medianne begins as the first rebel
 vehicles crest the Anakka Ridge. A fierce but rather
 inept firefight breaks out, with vehicles ramming one
@@ -8704,7 +8938,7 @@ cause a retreat. This would not be a simple matter of
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 a single check of course. Whether they try to help or
 hinder, the Travellers will find themselves using skills
@@ -8931,7 +9165,7 @@ missile but is very solidly built and able to take a lot
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 of hits. The defenders are at first rather liberal with
 their ammunition but soon begin to run short. This
@@ -9141,7 +9375,7 @@ resistance continues.
 
 ##### The Bright Face
 
-TRAVELLER
+
 
 Thus as the battle for Medianne winds down, both sides
 are willing to talk. A truce is declared, although there will
@@ -9224,8 +9458,7 @@ After their adventure on Dinom, the Travellers still have a
 mission to complete. The most important potential client
 of the voyage is the government of Arden, eight parsecs
 away. The quickest route is by way of Phlume, Rangent
-and Pequan, taking advantage of the Travellers’ jump-
-2 range. However, there are no meetings scheduled
+and Pequan, taking advantage of the Travellers’ jump-2 range. However, there are no meetings scheduled
 until Arden so the Travellers can go any way they want
 and there is no reason the Travellers could not add
 in additional stops. They will have to justify these to
@@ -9290,6 +9523,8 @@ of those strange sensor glitches. This time the data
 comes together faster and indicates three ships.
 
 PHLUME
+
+
 Profile C887624-8
 Starport C Routine
 Size 8 12,800km
@@ -9301,7 +9536,7 @@ Law Level 4 Light assault weapons
 prohibited
 Technology Level 8 Quality Computers
 
-TRAVELLER
+
 
 VESSEL TYPE: Chrysanthemum-class, 98% Confidence.
 VESSEL IDENTITY: Kiiki.
@@ -9390,6 +9625,8 @@ of in a series of incidents involving attacks on shipping
 or harassment of trader crews on-planet. Some of
 
 RANGENT
+
+
 Profile E67A612-7
 Starport E Frontier Installation
 Size 6 9,600km
@@ -9435,6 +9672,8 @@ takes place. This one takes a little longer to resolve
 than the previous few.
 
 PEQUAN
+
+
 Profile E5656B9-4
 Starport E Frontier Installation
 Size 5 8,000km
@@ -9481,14 +9720,13 @@ find out about this soon enough.
 
 ##### Accross the Border
 
-TRAVELLER
+
 
 ###### JEFFE KHALID
 
 Jeffe Khalid is a legend – legend in the sense that
 the term is used for a cover identity in the intelligence
-community. His real name is Karl Rashid – Lieutenant-
-Commander Karl Rashid, Imperial Navy. An honours
+community. His real name is Karl Rashid – Lieutenant-Commander Karl Rashid, Imperial Navy. An honours
 graduate of the Deneb naval academy, Karl served
 for a time in the engineering department of various
 warships but soon found his talents lay elsewhere. He
@@ -9536,8 +9774,7 @@ Travellers can be trusted.
 JEFFE KHALID/LT-COMMANDER KARL RASHID
 STR 6 DEX 7 END 8 INT 8 EDU 11 SOC 3/8
 Admin 1, Athletics (dexterity) 1, Carouse 2,
-Deception 3, Electronics (sensors) 2, Engineer
-(power) 1, Gun Combat (slug) 1, Investigate 2,
+Deception 3, Electronics (sensors) 2, Engineer (power) 1, Gun Combat (slug) 1, Investigate 2,
 Mechanic 1, Pilot (spacecraft) 1, Tactics (naval) 1,
 Vacc Suit 1
 
@@ -9579,6 +9816,8 @@ businesses on nearby worlds and own a number of
 # A RDEN
 
 ARDEN
+
+
 Profile B5549CB-9
 Starport B Good
 Size 5 8,000km
@@ -9588,6 +9827,8 @@ Population 9 Billions
 Government Type C Charismatic Oligarchy
 Law Level
 B
+
+
 Rigid control of civilian
 movement
 Technology Level 9 Anti-Gravity
@@ -9811,12 +10052,11 @@ systems come online after a few seconds, which are
 
 ##### Escape from Arden
 
-TRAVELLER
+
 
 separate from the main flight package and free from
 interference. They are also not very good, imposing
-DM-2 on Pilot checks. There is in addition the non-
-trivial fact that the ship’s lifters and drive have no
+DM-2 on Pilot checks. There is in addition the non-trivial fact that the ship’s lifters and drive have no
 power whilst the system is down.
 
 The pilot will have to rely on the rather small amount
@@ -9869,8 +10109,7 @@ their system. A brute-force power reboot succeeds
 on 8+ on a straight 2D check. This can be attempted
 
 each round instead of an attempt to crash the control
-system. The latter requires a Difficult (10+) Electronics
-(computers) check. If either succeeds the Travellers
+system. The latter requires a Difficult (10+) Electronics (computers) check. If either succeeds the Travellers
 have control of their ship once more. The override code
 will have to be removed from the system somehow but
 that can wait until they have escaped.
@@ -10040,7 +10279,7 @@ recent events. RVSC had expected the mission to end
 
 ##### Escape from Arden
 
-TRAVELLER
+
 
 with a sales pitch at Arden and maybe some opportunistic
 sales attempts on the homeward cruise. Instead, a
@@ -10192,6 +10431,8 @@ great many items of merchandise. A waistcoat in
 dark grey or company tartan is worn, with a white
 
 ARMOUR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 Working Dress +2 12 0 0 Cr60 None
 Full Dress (suit) +0 12 0 0 Cr1000 None
 Full Dress (protected suit) +2 12 0 0 Cr5000 None
@@ -10200,8 +10441,7 @@ Vacc Suit +9 12 80 6 Cr25000 Vacc Suit 0
 
 shirt or blouse. This uniform is for formal occasions
 and can be toned down to normal business-casual
-by removing the waistcoat and switching to a single-
-breasted jacket.
+by removing the waistcoat and switching to a single-breasted jacket.
 
 Most personnel are issued a formal dress uniform at
 regular intervals or upon submitting a valid request
@@ -10224,7 +10464,7 @@ RVSC Vacc Suits
 
 & Attire
 
-TRAVELLER
+
 
 The ‘tactical’ version of the suit also incorporates
 provision for a concealed holster for a small handgun,
@@ -10313,13 +10553,14 @@ avoid endangering critical components and to reduce
 the danger from ricochets.
 
 The S8 has trigger, grip and magazine safety devices
-but no manual safety. The weapon can be carried un-
-cocked with a round in the chamber, with no chance
+but no manual safety. The weapon can be carried un-cocked with a round in the chamber, with no chance
 
 **WEAPON TL RANGE DAMAGE KG COST MAGAZINE**
 
 MAGAZINE/POWER
 PACK COST TRAITS
+
+
 SCD Shipboard-8
 Handgun (Ball)
 
@@ -10341,13 +10582,11 @@ Handgun (Security)
 10 10m 3D-1 0.6 Cr375 8 Cr12 Lo-Pen 4*
 
 Laser Carbine 12 250m 4D+4 3 Cr4500 50 Cr3000 Zero-G
-SCD Guardian
-(Standard Shot)
+SCD Guardian (Standard Shot)
 
 10 30m 4D-2 2.8 Cr320 3 Cr3 Bulky,
 Lo-Pen 2*
-SCD Guardian
-(Light Shot)
+SCD Guardian (Light Shot)
 
 10 20m 2D+2 2.8 Cr320 3 Cr3 Bulky,
 Lo-Pen 4*
@@ -10364,7 +10603,7 @@ Weapons
 
 ##### Equipment and Weaponry
 
-TRAVELLER
+
 
 of an accidental discharge and brought into action
 immediately using a double-action trigger pull. After
@@ -10410,6 +10649,8 @@ it ideal for small, fast targets like vermin or to injure
 rather than kill human-sized opponents.
 
 ESCAPE GRENADES
+
+
 Escape grenades are small metallic cylinders not
 unlike certain data storage devices – this resemblance
 is intentional. Once activated, they are triggered by
@@ -10431,8 +10672,7 @@ Unless there is some reason why it is not pure chance
 - such as someone realising what is about to happen
 
 and looking away – roll 2D. On 11–12 the victim was
-looking right at the flash and suffers DM-6 on all vision-
-based actions. There is a 50% (1–3 on 1D) chance the
+looking right at the flash and suffers DM-6 on all vision-based actions. There is a 50% (1–3 on 1D) chance the
 penalty is reduced by 1 each round thereafter until it
 reaches zero. On 5–10, the flash was in the subject’s
 field of view and the DM starts at -2. On 2–4, the target
@@ -10444,8 +10684,7 @@ slight concussive effect. Everyone exposed must
 make an Average (8+) END check, or be stunned
 for a number of rounds equal to the negative Effect.
 Anyone expecting the bang gains DM+4 for this check.
-Regardless of the outcome, anyone without protection
-(such as ear defenders or a sealed armour suit) suffers
+Regardless of the outcome, anyone without protection (such as ear defenders or a sealed armour suit) suffers
 DM-2 the following round on all checks. This includes
 the user’s allies but that is often considered acceptable
 if it buys time for an extraction.
@@ -10483,13 +10722,11 @@ Dinom are somewhere in between; a mix of grenades
 smuggled in and others made in secret workshops
 using mining explosives.
 
-The warhead section is cone-shaped, with a pre-
-fragmented case and a hard penetrator tip. On a direct
+The warhead section is cone-shaped, with a pre-fragmented case and a hard penetrator tip. On a direct
 hit this allows the warhead to punch into light vehicles
 before detonating, although it performs poorly against
 armoured vehicles. The warhead is a combination of a
-shaped charge and fragmentation, as is typical of high-
-explosive dual-purpose (HEDP) weapons.
+shaped charge and fragmentation, as is typical of high-explosive dual-purpose (HEDP) weapons.
 
 Propulsion is by way of a small rocket motor in the
 base of the warhead section, using offset vents to
@@ -10510,8 +10747,7 @@ moving vehicle even just using a basic optical sight.
 The standard launcher for an RP-60 is a reusable
 tube with a basic optical sight, fed from a rotating
 two-shot ammunition canister. Canisters can be
-reused but reloading involves replacing blow-
-out panels at the rear in a workshop. Swapping
+reused but reloading involves replacing blow-out panels at the rear in a workshop. Swapping
 a second projectile into place is a Minor Action;
 replacing a canister is a Major Action.
 
@@ -10544,7 +10780,7 @@ Weapons
 
 ##### Equipment and Weaponry
 
-TRAVELLER
+
 
 100mm Anti-armour Missile
 Typically known as an AT-100, this standard
@@ -10564,8 +10800,7 @@ These weapons are intended to take out mid-tech
 armoured vehicles and lighter vehicles of all Tech
 Levels, including grav craft. However, they can engage
 spacecraft if they are low enough. DM+2 applies as
-usual when targeting a space vessel with a ground-
-based weapon but damage is reduced to a tenth.
+usual when targeting a space vessel with a ground-based weapon but damage is reduced to a tenth.
 
 Mining Laser
 Mining lasers are intended for intense focus at very
@@ -10586,7 +10821,11 @@ scale and suffer DM-2 to attack rolls.
 
 MAGAZINE/
 POWERPACK
+
+
 COST TRAITS
+
+
 RP-60
 Projectile
 
@@ -10620,8 +10859,7 @@ Launcher
 Anti-armour
 Missile
 
-60mm Rocket-
-Propelled
+60mm Rocket-Propelled
 Grenade
 
 Mining Laser
@@ -10640,8 +10878,7 @@ handgrip. Usually a 12-round carry magazine is used,
 allowing the weapon to be holstered like a handgun.
 Users typically carry a spare 12-round magazine and
 two 26-round extension magazines which project
-from the bottom of the weapon. First shot is double-
-action, after which conventional semi-automatic or
+from the bottom of the weapon. First shot is double-action, after which conventional semi-automatic or
 full-automatic fire continues. The usual ammunition
 choice is designed for maximum stopping power
 rather than penetration and to avoid ricochets. When
@@ -10670,14 +10907,15 @@ shield is awkward to use and not much use against
 melee attacks but it will get in the way of bullets and
 provide some protection. This can vary and should
 be determined by 1D+2 each time the shield is hit.
-The laser weapon is an oversized pistol with a large-
-capacity powerpack. Similar guns are available without
+The laser weapon is an oversized pistol with a large-capacity powerpack. Similar guns are available without
 the case; those bought without the case cost Cr4500.
 
 **WEAPON TL RANGE DAMAGE KG COST MAGAZINE**
 
 MAGAZINE/
 POWERPACK COST TRAITS
+
+
 
 Guardian Compact
 Submachinegun
@@ -10704,7 +10942,7 @@ Weapons
 
 ##### Equipment and Weaponry
 
-TRAVELLER
+
 
 Starships, along with transportation systems and
 structures built in hostile environments such as
@@ -10744,10 +10982,14 @@ suitable for long-term use and provide no protection
 against damage or radiation.
 
 ITEM TL KG COST
+
+
 Survival Shelter 9 6 Cr100
 Rescue Ball 9 0.5 Cr225
 
 ARMOUR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 Softsuit +0 9 0 — Cr400 Vacc Suit-0
 
 THE Abyss COLLECTION
@@ -10764,37 +11006,65 @@ DOOR G/CHAIR
 
 COMMON AREA
 
+
+
 FRESHER
+
+
 
 SHIP'S LOCKER
 
 LOW BERTH
 
+
+
 DRONES
 
+
+
 STATEROOM BEDS
+
+
 
 AIR/RAFT
 
 CARGO BAY
 
+
+
 CARGO CRANE
+
+
 
 POWER PLANT/JUMP DRIVE/ MANOEUVRE DRIVE/MACHINERY
 
 TURRETS
 
+
+
 HULL FUEL
+
+
 
 IRIS VALVE
 
+
+
 AIRLOCK
+
+
 
 LIFT
 
+
+
 IRIS VALVE UP
 
+
+
 IRIS VALVE DOWN
+
+
 
 IRIS VALVE UP/DOWN
 
@@ -10975,8 +11245,12 @@ Varies
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr16938/month
 PURCHASE COST
+
+
 MCr203.26
 
 Power Requirements
@@ -11017,8 +11291,7 @@ Storage
 18. Sensors
 19. Triple turrets (missile
 racks, beam laser)
-20. Triple turrets
-(sandcasters, beam laser)
+20. Triple turrets (sandcasters, beam laser)
 21. Triple turrets (pulse
 lasers)
 
@@ -11073,6 +11346,8 @@ lasers)
 1
 **UPPER DECK
 MIDDLE DECK
+
+
 LOWER DECK**
 
 The original Kinunir vanguard cruiser was a
@@ -11176,8 +11451,8 @@ TL15 Tons Cost (MCr)
 Hull 1,250 tons, Standard — 62.5
 Reinforced — 31.25
 Armour Bonded Superdense, Armour: 2 20 10
-M-Drive Thrust 4 (size reduction x2) 40 125
-J-Drive Jump 4 (size reduction x2) 104 243.75
+M-Drive Thrust4 (size reduction x2) 40 125
+J-Drive Jump4 (size reduction x2) 104 243.75
 Power Plant Fusion (TL15), Power 1400 70 140
 Fuel Tanks J-4, 8 weeks of operation 514 —
 
@@ -11240,8 +11515,12 @@ x2, Officers x4, Marines x8
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr66435/month
 PURCHASE COST
+
+
 MCr797.225
 
 Power Requirements
@@ -11482,8 +11761,7 @@ if there are local considerations such as bias against
 certain nobles, governments or business groups. Library
 data represents what is commonly known, not the whole
 truth. Some entries are entirely false, although this is
-rare. Such data tends to get weeded out by routine fact-
-checking, although there are some persistent myths and
+rare. Such data tends to get weeded out by routine fact-checking, although there are some persistent myths and
 falsehoods that just will not go away.
 
 ###### ABYSS RIFT
@@ -11536,8 +11814,7 @@ and the possibility of being turned loose to conduct a
 spectacular raiding cruise makes the Denisov the most
 desirable posting an officer could wish for.
 
-The Denisovs were designed as highly mobile super-
-cruisers rather than true capital ships, capable of
+The Denisovs were designed as highly mobile super-cruisers rather than true capital ships, capable of
 undertaking devastating raiding cruises into enemy
 territory. Layout is conventional for Sword Worlds
 ships, with a central hull in the shape of a blocky
@@ -11574,7 +11851,7 @@ well they were integrated are sketchy. Arden joined
 the Imperium after the First Frontier War but became
 independent after the Third.
 
-TRAVELLER
+
 
 Ever since independence, in 986, Arden has been
 reinventing itself in two ways. It promotes its port as
@@ -11741,7 +12018,7 @@ escalating the organisation’s level of violence.
 
 ##### Library Data
 
-TRAVELLER
+
 
 Officially, the Ine Givar is a peaceful organisation
 promoting a move towards greater democracy and

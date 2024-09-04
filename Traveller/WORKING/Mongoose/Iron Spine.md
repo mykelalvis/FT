@@ -420,6 +420,8 @@ STR 8 INT 9
 DEX 9 EDU 5 
  END 10 SOC 1(9)
  
+
+
 Stealth-1, Deception-2, Melee (Blades)-2, Leadership-1, Vacc Suit-0, Streetwise-2, Mechanic-0
 EQUIPMENT Jack armor, cudgel, small blade
 
@@ -434,7 +436,7 @@ As a slave, Khahei's SOC is 1 among his Aslan masters, but rises to a 9 among th
 
 ## Ahfoisa Yetrai
 
-##### SPECIES GENDER AGE
+##### 
 
 Aslan Female 39 TRAITS Dewclaw, Heightened Senses STR 9 INT 11 SKILLS DEX 7 EDU 10 Admin-3, Diplomat-2, Broker-3, Astrogation-3, Science (Psychology)-2, Vacc Suit-1, Dewclaw-1, Gun Combat (Slug)-1, Language (Anglic)-
 

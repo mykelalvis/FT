@@ -46,6 +46,8 @@ In addition to the immediate relief work that needs to be undertaken the council
 Image from [wikimedia](http://commons.wikimedia.org/wiki/File:Lake_Hume_on_the_Upper_Murray.jpg).  [Creative Commons Attribution-Share Alike 2.0 Generic license](http://creativecommons.org/licenses/by-sa/2.0/deed.en).
 
   
+
+
 **Referee's Information:**  
 1. There has been a crater made by a recent meteor strike on the other side of the planet to Clark's Town that has caused a disturbance in the weather patterns. Predictions show that the patterns are likely to return to normal in the coming weeks.
 

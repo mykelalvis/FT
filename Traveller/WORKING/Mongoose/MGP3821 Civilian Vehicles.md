@@ -8,7 +8,7 @@ US $24.
 
 Civilian Vehicles
 
-TRAVELLER
+
 
 MGP 3821
 
@@ -45,6 +45,8 @@ Printed in the USA.
 
 CREDITS
 
+
+
 Classic Traveller
 Marc Miller
 
@@ -55,25 +57,39 @@ David MacDonald, Wayne Roth, Paul R. Banner
 Mongoose Traveller
 
 AUTHOR
+
+
 Simon Beal with additional text by Gareth Hanrahan
 
 EDITOR
+
+
 Nick Robinson
 
 LAYOUT
+
+
 Joseph McCance
 
 INTERIOR ILLUSTRATIONS
+
+
 Travis Leichssenring
 
 PROOFREADER
+
+
 Charlotte Law
 
 PLAYTRSTING
+
+
 Stuart Machin, Andrew Welty, Jake Collins, Arthur Pollard, Robert
 Eaglestone, Don McKinney
 
 CONTENTS
+
+
 
 INTRODUCTION 2
 
@@ -161,9 +177,7 @@ here coving TL 1–9.
 ## VVEEHICLEHICLE DDEESIGNSIGN
 
 CONCEPTS & DEFINITIONS
-By defi nition, a vehicle needs some kind of motive power
-(termed a **Power Plant** ) and a means to deliver this power
-(termed a **Drive System** ) so the vehicle can move. Some kind
+By defi nition, a vehicle needs some kind of motive power (termed a **Power Plant** ) and a means to deliver this power (termed a **Drive System** ) so the vehicle can move. Some kind
 of control system is also necessary for the vehicle to be able to
 function. This may or may not include a human operator.
 
@@ -174,8 +188,7 @@ into the hull as required, which can include weapons, sensors,
 communications equipment, crew facilities and cargo space.
 
 Each component built into a vehicle takes up a certain amount
-of space. The unit used in this design system is the cubic meter
-(M^3 ). A vehicle cannot carry more than its internal volume
+of space. The unit used in this design system is the cubic meter (M^3 ). A vehicle cannot carry more than its internal volume
 allows, unless it is an open structure with items piled up on top
 or hanging out of the sides such as motorcycles, air/rafts and
 fl atbed trucks.
@@ -260,6 +273,8 @@ remains as a fractional number so no rounding is required.
 
 VVEHICLEEHICLE D DESIGNESIGN
 
+
+
 STEP ONE: CAPACITY
 Capacity is measured in cubic meters (abbreviated M^3 hereafter).
 The shape taken by this volume is not relevant here. For large
@@ -316,11 +331,12 @@ under 'Vehicle Damage'.
 To calculate the Hull and Structure points simply divide the
 vehicle's Base M^3 by four. Round the result down for the Hull
 points and round up for the Structure points. These values can
-be further modifi ed by the material, confi guration and qualities
-(as detailed in Step Two). The minimum base amount for either
+be further modifi ed by the material, confi guration and qualities (as detailed in Step Two). The minimum base amount for either
 of these values is one.
 
 DESIGN CHECKLIST
+
+
 
 1. Technology Level
     a. Determine maximum Tech Level of the
@@ -360,6 +376,8 @@ DESIGN CHECKLIST
     d. Calculate Speed.
 
 CAPACITY EXAMPLE
+
+
 For our example, we will build a small armed van. Using the
 example vehicles listed in the table we can see a van of this
 size has a Base M^3 of 20 but let us make ours a little bigger
@@ -371,6 +389,8 @@ Base Hull: 26 ÷ 4 = 6.5 round down to 6
 Base Structure: 26 ÷ 4 = 6.5 round up to 7
 
 VEHICLE DESIGN
+
+
 
 STEP TWO: HULL
 The vehicle's hull is broken down into three design options, which are the construction material confi guration, and optional
@@ -388,8 +408,7 @@ Material TL
 Hull & Structure
 Multiplier
 
-Mass per M^3
-(kg)
+Mass per M^3 (kg)
 
 Cost per
 M^3 (Cr.) Base Armor
@@ -403,6 +422,8 @@ Superdense 12 2 150 5,000 7
 Bonded Superdense 14 3 200 10,000 8
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
+
+
 
 Type TL Quality
 
@@ -466,7 +487,11 @@ or similar vehicle could be built this way.
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 HULL EXAMPLE
+
+
 Continuing on from the example in Step One, we will build our van from advanced composites to give it additional Hull and
 Structure. We will use the box confi guration to give us our basic van shape and we will add the Rugged add Refl ec Coating
 qualities. The van has a Base M^3 of 26 used to calculate the hull cost as follows:
@@ -513,6 +538,8 @@ components as required.
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
 
+
+
 **STEP THREE: PROPULSION**
 
 Drive System
@@ -541,8 +568,7 @@ Base M^3
 Mass per
 M^3 (kg)
 
-Cost per M^3
-(Cr.)
+Cost per M^3 (Cr.)
 
 Base
 Speed
@@ -582,6 +608,8 @@ by multiplying this value by the M^3 of the drive system. Following on from the 
 
 VEHICLE DESIGN
 
+
+
 The vehicle's Base Speed and Base Agility are used in the fi nal step of the vehicle design and are detailed in Step Seven. For now,
 just make a note of these values.
 
@@ -605,6 +633,8 @@ speed but for now just note the value.
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
 
+
+
 **Power Plant TL**
 
 Power
@@ -615,8 +645,7 @@ Mass per
 M^3 (kg)
 
 Fuel per
-M^3
-(litres)
+M^3 (litres)
 
 **Cost per
 M**^3 **(Cr.) Notes**
@@ -681,12 +710,16 @@ Antimatter–19 19 75 100 — 100,
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 The fuel, power output, mass and cost columns all refer to the M^3
 of the power system unless otherwise stated. The fuel column
 lists the fuel consumption in litres per hour when the vehicle is
 travelling at Cruising Speed (see page 26 for details).
 
 POWER AND FUEL SCALE EFFICIENCY
+
+
 Larger engines are more effi cient in their use of fuel and in
 providing power. One large engine will provide more power
 and use less fuel than two engines half its size combined. To
@@ -694,6 +727,8 @@ refl ect this the tables at the bottom of the page help calculate
 the effi ciency to be had as engine size increases.
 
 WIND POWER
+
+
 Wind power usually takes the form of sails and works differently
 to other types of power plant. The speeds achieved from wind
 power will vary depending on the actual wind speed and other
@@ -744,6 +779,8 @@ drive system operates independently depending on the terrain.
 
 POWER EFFICIENCIES OF SCALE
 
+
+
 Power Plant
 Size (M3) Steam
 
@@ -759,8 +796,7 @@ Fission
 Nuclear
 Fusion
 
-Anti-
-Matter
+Anti-Matter
 10-99.9 1.25 1.25 1.5 1.5 — — — —
 100-999.9 1.5 1.5 2 2 1.25 1.5 1.5 1.
 1,000+ 2 2 2.5 2.5 1.5 2 2 2
@@ -770,6 +806,8 @@ output fi gure.
 
 FUEL EFFICIENCIES OF SCALE
 
+
+
 Power Plant
 Size (M3) Steam
 
@@ -785,8 +823,7 @@ Fission
 Nuclear
 Fusion
 
-Anti-
-Matter
+Anti-Matter
 10-99.9 1.5 1.5 2 2 — — — —
 100-999.9 2 2 3 3 — — 1.5 —
 1,000+ 3 3 5 5 — — 2 —
@@ -795,6 +832,8 @@ Divide the fuel consumption of the power plant by the relevant number in the abo
 fi gure.
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
+
+
 
 You can also reduce the cost and M^3 of the drive system if
 appropriate. For example, a half track vehicle might halve the
@@ -853,6 +892,8 @@ armor much more than just bolting on some plates. For this
 reason the mass cost is more expensive than the hull costs.
 
 PROPULSION EXAMPLE
+
+
 Installing wheels on our van will use up 2.6 M^3 (10% of 26
 M^3 ), have a mass of 260 kg (2.6 x 100) and cost Cr. 2,
 (Cr. 1,000 x 2.6 M3).
@@ -866,6 +907,8 @@ running time of 7 hours, weighs 70 kg and will use 0.
 M^3 (70 ÷ 1000).
 
 ARMOR EXAMPLE
+
+
 Following on from the previous example, our van (made from advanced composites) has a Base Armor of 4 and a Base M^3 of
 
 _26. We will allocate 2% of the van's M_^3 _to additional armor made from Light Alloys. This will use up 0.52 M_^3 _(2% of 26 M_^3 _), has
@@ -902,6 +945,8 @@ dorsal facing (7 base + 4 additional) , and just the base value of
 7 points on the ventral facing.
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 Armor Material TL
 
@@ -969,6 +1014,8 @@ Heavy Bomb 5 4,000 14d6 AP 4 1,
 Super Heavy Bomb 6 10,000 16d6 Super–AP 6 4,
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
+
+
 
 The M^3 of a weapon will largely depend on its weight and can be
 determined by using the Weapon Mass Table as a guideline.
@@ -1072,6 +1119,8 @@ position, it is an internal weapon. If it moves outside the armor,
 it is an external weapon.
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 Example Weapon Mount Type
 Aircraft cannon Fixed, Internal
@@ -1184,7 +1233,11 @@ usage of the weapon it is applied to as indicated in the table.
 
 WEAPON STABILISATION
 
+
+
 TL
+
+
 
 Move at Half
 Speed or Less:
@@ -1207,6 +1260,8 @@ None –6 –6 – –
 10+ No DM No DM 1.25 1.
 
 VVEHICLEEHICLE D DESIGNESIGN
+
+
 
 Decoy Devices
 Smoke, decoy and aerosol dischargers can be mounted on any part of a vehicle. Decoys are used to break a sensor lock or distract
@@ -1234,6 +1289,8 @@ TL M^3 Cost (Cr.) Detection DM
 13 0.1 3,500 +
 
 WEAPONS EXAMPLE
+
+
 We will mount a Light Autocannon on the roof of our van. We will use an external traversing mount, TL 7 stabilization and add
 ammunition space for 10 additional attacks. This will modify the M^3 , mass and cost as follows:
 
@@ -1258,6 +1315,8 @@ Stabilization: 11,250 x 1.25 = 14,
 Total: Cr. 14,
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 STEP FIVE: OPTIONAL COMPONENTS
 Optional components include sophisticated electronics,
@@ -1320,6 +1379,8 @@ and ground stations allows a composite viewpoint to be created,
 assisting vehicle crews to see 'behind' obstructions.
 
 SENSOR UPGRADES
+
+
 Most sensor packages can use one or more of the following
 upgrades that modify the range, M^3 , mass and cost. Any given
 sensor package can have only one option that affects range.
@@ -1350,7 +1411,11 @@ Excellent 11 +4 10 5 3 4,
 
 VVEHICLEEHICLE D DESIGNESIGN
 
+
+
 SENSOR EXAMPLE
+
+
 _We will fi t our van with Extended Range Comprehensive
 sensors. This is calculated as follows:_
 
@@ -1371,6 +1436,8 @@ Extended Range: 1,000 x 2 = 2,
 Total cost: Cr. 2,_
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 Sensor Upgrade TL
 
@@ -1427,12 +1494,18 @@ Meson–10,000 15 10,000 16 3,000 6,000,
 Meson–100,000 15 100,000 24 5,000 15,000,
 
 COMMUNICATION DEVICE EXAMPLE
+
+
 We will add a TL 7 Radio–100 communications device. This
 will use up a further 0.5 M^3 , add 5 kg, and costs Cr. 1,000.
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
 
+
+
 UNDERWATER COMMUNICATION
+
+
 Conventional methods of communication do not work
 underwater, so alternative means must be employed depending
 on the technology being used. At TL 4 submarines must be at
@@ -1478,8 +1551,7 @@ atmospheric taints, chemical warfare agents and the like out of
 the vehicle so long as the doors are not opened. Air is provided
 from bottles or drawn in and scrubbed before being compressed
 and used. An overpressure system allows a vehicle to operate
-in a non–breathable atmosphere such as carbon dioxide. High
-(dense atmosphere, or liquids outside) or low (very thin or trace
+in a non–breathable atmosphere such as carbon dioxide. High (dense atmosphere, or liquids outside) or low (very thin or trace
 atmosphere, or vacuum) external pressures will quickly cause
 the system to fail.
 
@@ -1522,9 +1594,11 @@ Hostile Environment
 
 Intake Compressor 6 51 100 1,500
 
-(^1) The intake compressor M (^3) is calculated from the power plant M (^3) , not base M (^3).
+(^1) The intake compressorM (^3) is calculated from the power plantM (^3) , not baseM (^3).
 
 VVEEHICLEHICLE DDEESIGNSIGN
+
+
 
 Miscellaneous Equipment and Upgrades
 Additional equipment and upgrades are available as follows:
@@ -1679,7 +1753,11 @@ and –1 in normal conditions.
 
 VVEHICLEEHICLE D DESIGNESIGN
 
+
+
 EQUIPMENT EXAMPLE
+
+
 We will add Improved Suspension to improve the vehicle's
 Agility Potential.
 
@@ -1728,6 +1806,8 @@ hours duration. Vehicles with the ability to travel for longer will
 normally be equipped with sleeping facilities.
 
 CALCULATING CREW NUMBERS
+
+
 The number of crew assigned to a vehicle depends upon its
 type and the role of the vehicle. The crew numbers are listed
 for each vehicle type, with different numbers being required if
@@ -1742,14 +1822,15 @@ crewmember may have to make. Military crews tend to have
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 when the vehicle is not underway, most often at a specialist
 facility (a garage in the case of the car above, for example). this
 does not forbid additional crew in roles normally fi lled only in
 long haul craft, but they are not a requirement.
 
 Military vehicles are slightly different, with a commander
-required for any vehicle expected to be involved in combat
-(tanks, armored cars, APCs and so on).
+required for any vehicle expected to be involved in combat (tanks, armored cars, APCs and so on).
 
 Skeletal levels of crew can operate machinery and do the
 required tasks but are considered to fail any skill checks they
@@ -1759,16 +1840,20 @@ to skill checks.
 
 LAND VEHICLES
 
+
+
 Long Haul (6+ hours)
 Role Short Haul +2 DM +1 DM Optimum – 1 DM – 2 DM
 Drivers 1 2 — 1 — —
 Engineers 0 1 per 50 M^3 1 per 100 M^3 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
 Stokers 1 per 100 M3 1 per 50 M^3 1 per 75 M^3 1 per 100 M^3 1 per 200 M^3 1 per 300 M^3
-Communications 0 2 — 1 — 0 (Driver)
+Communications 0 2 — 1 —0 (Driver)
 Stewards 1 per 200 1 per 50 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 
 WALKERS
+
+
 
 Long Haul (6+ hours)
 Role Short Haul +2 DM +1 DM Optimum – 1 DM – 2 DM
@@ -1777,17 +1862,19 @@ Engineers 0 1 per 50 M^3 1 per 100 M^3 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
 Stokers 1 per 100 M3t 1 per 50 M^3 1 per 75 M^3 1 per 100 M^3 1 per 200 M^3 1 per 300 M^3
 Communications 0 0 1 2 3
 Stewards 1 per 200 1 per 50 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 
 GRAV VEHICLES
+
+
 
 Long Haul (6+ hours)
 Role Short Haul +2 DM +1 DM Optimum – 1 DM – 2 DM
 Drivers 1 3 — 2 — 1
 Engineers 0 1 per 100 M^3 — 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
-Communications 0 2 — 1 — 0 (Driver)
+Communications 0 2 — 1 —0 (Driver)
 Stewards 1 per 100 5 per 100 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 
 larger than normal crews to allow for casualties or so equipment
 can be more easily manned around the clock with no detriment
@@ -1801,21 +1888,24 @@ example, might choose crew from either the watercraft or land
 tables, always taking the worst fi gure for any given role).
 
 In most cases small, personal ships, aircraft and other vehicles
-only require a single crew member, a pilot. Other functions
-(such as maintenance/engineering for a motor car) are done
+only require a single crew member, a pilot. Other functions (such as maintenance/engineering for a motor car) are done
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
 
+
+
 AIRCRAFT
+
+
 
 Long Haul (6+ hours)
 Role Short Haul +2 DM +1 DM Optimum – 1 DM – 2 DM
 Pilots 1 2 — 2 — 1
 Engineers 0 1 per 100 M^3 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
 Stokers — — 1 per 75 M^3 1 per 100 M^3 1 per 200 M3 1 per 300 M^3
-Communications 0 1 0 (Driver)
+Communications 0 10 (Driver)
 Stewards 1 per 100 3 per 100 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 
 Aircraft carrying more than eight passengers will require a co-pilot. For commercial aircraft fl ights at least one steward will be
 required if there are this many passengers or more.
@@ -1824,14 +1914,16 @@ A gunner will be required for all turret anti-personnel weapons.
 
 WATERCRAFT
 
+
+
 Long Haul (8+ hours)
 Role Short Haul +2 DM +1 DM Optimum – 1 DM – 2 DM
 Helmsmen 1 — — 2 — 1
 Engineers 0 1 per 100 M^3 — 1 per 200 M^3 1 per 400 M^3 1 per 600 M^3
 Stokers 1 per 100 M^3 1 per 50 M^3 1 per 75 M3 1 per 100 M^3 1 per 200 M^3 1 per 300 M^3
-Communications 0 — — 1 0 (Driver)
+Communications 0 — — 10 (Driver)
 Stewards 1 per 100 5 per 100 1 per 75 1 per 100 1 per 250 1 per 500
-Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 — 0 (Driver)
+Sensors 1 per 3 M^3 2 per 3 M^3 — 1 per 3 M^3 —0 (Driver)
 
 Support Crew will be required for long haul ships, with one extra crew per 10 crew members performing other dutires.
 Command crew will be required on all vessels, with one extra crew per 10 crew members performing other dutires (round down).
@@ -1839,6 +1931,8 @@ For small vessels the command crew (captain) will normally also be the helmsman.
 after any service crew have been added.
 
 WEAPONS
+
+
 
 Role +2 DM +1 DM +0 DM – 1 DM – 2 DM
 Anti-Personnel Weapon — 2 1 0*—
@@ -1864,6 +1958,8 @@ to below this level incurs a –2 DM.
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 **Crew
 Component M**^3 **Cost Mass (kg)**
 
@@ -1871,38 +1967,33 @@ Component M**^3 **Cost Mass (kg)**
 M**^3 **(Cr.) Details**
 Operator Station 1.25 125 — One normally needed per person with a job (gunner,
 pilot, radio operator).
-Work Station
-(large crews)
+Work Station (large crews)
 
 1.15 115 — Vehicles with a crew of 10 people or more only require
 two main operator stations plus one work station for
 each additional crew member.
-Work Station
-(very large crews)
+Work Station (very large crews)
 
 1.1 110 — Vehicles with a crew of 50 people or more require
 10 operator stations plus one work station for each
 additional crew member.
 Passenger Seat 1 100/20 — One needed per occupant without a job. Weight of the
 seat is 20kg, with the passenger it is 100kg.
-Sleeping Area
-(simple)
+Sleeping Area (simple)
 
 2 + 1 per
 occupant
 
 20 per M^3250 Simple sleeping bunks, most often used for large
 crews or cheap berths.
-Sleeping Area
-(standard)
+Sleeping Area (standard)
 
 3 + 2 per
 occupant
 
 30 per M^3500 Larger quarters often used by smaller crews or
 command staff.
-Sleeping Area
-(luxurious)
+Sleeping Area (luxurious)
 
 50 per
 occupant
@@ -1920,18 +2011,26 @@ purchased separately.
 
 VVEHICLEEHICLE D DESIGNESIGN
 
+
+
 CARGO SPACE EXAMPLE
+
+
 With our design complete the total M^3 used by the vehicle's
 components is 13.54, which leaves 18.46 M^3 remaining from
 the Total M^3 of 32. We will allocate all of this to cargo space,
 which gives us 1.37 dTons of storage (18.46 ÷ 13.5).
 
 AGILITY EXAMPLE
+
+
 Wheels have a Base Agility of 0 and Improved Suspension
 gives the van +1 Agility Potential. This gives an Agility bonus
 of +1, which we add to the Base Agility for a total of 1.
 
 MASS EXAMPLE
+
+
 The vehicle's mass is calculated as follows:
 
 Base M^3 : 26
@@ -1961,6 +2060,8 @@ the Base Mass of the vehicle in kilograms (kg) and is used to
 determine the vehicle's speed.
 
 CREW EXAMPLE
+
+
 Our van needs two crewmembers, one driver and one
 gunner using a total of 2.5 M^3 (2 x 1.25 M^3 ), and adding
 300 kg (2 x 150). There is no cost for the operator stations
@@ -1985,8 +2086,7 @@ Agility Potential Agility Modifi er
 11+ +5
 
 Calculate Speed
-Multiply the total power output (see page 9) by the Base Speed
-(listed in the Drive System Table on page 8). This value is then
+Multiply the total power output (see page 9) by the Base Speed (listed in the Drive System Table on page 8). This value is then
 divided by the Total Mass to get the vehicle's power to weight
 ratio. The power to weight ratio is then multiplied by the Base
 Speed. Now apply any speed modifi ers from the vehicle's
@@ -2024,7 +2124,11 @@ can be calculated as follows:
 
 VEHICLE DESIGN
 
+
+
 SPEED EXAMPLE
+
+
 The total power output of the power plant is 64, and the vehicle has a total mass of 6,374 kg. Wheels have a Base Speed of
 100 kph, so we can use all these values to calculate our speed as follows:
 
@@ -2040,6 +2144,8 @@ Cruising Speed: 75 kph
 Offroad Speed: 15 kph
 
 EXAMPLE VEHICLE
+
+
 If you have been following the examples, the van we have
 created has the following statistics:
 
@@ -2095,9 +2201,13 @@ drive system.
 
 VVEEHICLEHICLE DDEESIGNSIGN
 
+
+
 ## LLAANDND VVEEHICLESHICLES
 
 ARMORED VAN
+
+
 This is an armored version of the vans commonly used by traders and companies for moderate cargo haulage. The model listed
 here has additional passenger seats in the rear. These armored vans are the vehicle of choice for traders and travellers who need
 require cheap, reliable transport with a little protection.
@@ -2132,7 +2242,11 @@ Ground Pressure 2.32 — — —
 
 LLAANDND VVEEHICLESHICLES
 
+
+
 ARTICULATED TRUCK
+
+
 Articulated trucks are used for large scale cargo haulage. The separate cab and trailer allows for greater turning than a similar
 sized fi xed vehicle.
 
@@ -2165,6 +2279,8 @@ Total — 108 18,937 82,250
 Ground Pressure 2.10 — — —
 
 CHASE CAR
+
+
 The chase car is used by many law enforcement divisions. Its speed and handling make it ideal for high speed chases and the
 surveillance equipment ensures that the driver never loses sight of their target.
 
@@ -2188,7 +2304,7 @@ Sensors Comprehensive Extended Range (9 km +2 DM) 2 3 2,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Equipment Improved Controls 0 0 2,000
 — Improved Suspension 0.08 8 800
-Crew 2 (driver, sensor operator) — — —
+Crew2 (driver, sensor operator) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.038 dTons 0.51 51 —
 Agility +2 DM — — —
@@ -2198,7 +2314,11 @@ Ground Pressure 1.475 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
 
+
+
 DRILLER
+
+
 This large vehicle is used by colonists to excavate large areas for underground settlements and mining facilities. The drill direction
 can be independently turned up to 90 degrees in any direction (left, right, up and down) making the driller a versatile tool for
 excavating tunnel networks as well as large caverns.
@@ -2223,7 +2343,7 @@ Sensors Advanced Long Range (50 km +3 DM) 9 5 10,000
 Communications Laser 50 km 2 8 5,000
 Environmental Life Support, Basic 1 200 50,000
 — Drill (custom) 40 8,000 50,000
-Crew 2 (driver, sensor operator) — — —
+Crew2 (driver, sensor operator) — — —
 Operating Stations 2 2.5 250 —
 Cargo 0.022 dTons 0.3 30 —
 Agility +1 DM — — —
@@ -2237,7 +2357,11 @@ Ground Pressure 1.61 — — —
 
 LLAANDND VVEEHICLESHICLES
 
+
+
 DUNE BUGGY
+
+
 The dune buggy is a lightweight offroad vehicle. Its small size makes it a popular choice with travellers as it provides fast transport
 for two people and does not take up too much space in the spacecraft. In addition to reconnaissance and exploration, dune buggies
 are commonly used for recreational purposes as well.
@@ -2268,7 +2392,11 @@ Ground Pressure 1.78 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
 
+
+
 ELECTRIC TRAIN
+
+
 The electric train is a common sight on most worlds with a Technology Level of fi ve to eight. Not only is the train a good method of
 public transport between cities and settlements but trains are an economical and effi cient means of transporting cargo. The train
 detailed below has two stats for passengers and cargo representing a passenger train and a freight train respectively.
@@ -2291,15 +2419,13 @@ Fuel 2,400 litres (16 hours operation) 2.4 2,400 —
 Armor 2 0 0 0
 Sensors Minimal (0.25 km +0 DM) 0.25 0.5 100
 Communications Radio 50 km (TL 7) 0.25 1 750
-Crew 2 (driver, steward) — — —
+Crew2 (driver, steward) — — —
 Operating Stations 2 2.5 250 —
-Passengers
-(Passenger)
+Passengers (Passenger)
 
 405 405 40,500 —
 
-Passengers
-(Freight)
+Passengers (Freight)
 
 000—
 
@@ -2311,6 +2437,8 @@ Total — 600 99,112 312,850
 Ground Pressure 1.98 — — —
 
 GROUND CAR
+
+
 Once the internal combustion engine becomes a viable power source, cars become a common sight on most worlds. Early
 versions of the car are slow and unwieldy but speed and handling improves greatly with later technologies. Three variations are
 presented here for TL 5, 6 and 7.
@@ -2342,6 +2470,8 @@ Total — 9 1,779 4,800
 Ground Pressure 1.98 — — —
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **Ground Car (TL 6) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 8 M^3 , Standard confi guration, Light Alloys — 640 2,000
@@ -2395,6 +2525,8 @@ Ground Pressure 1.86 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
 
+
+
 **HALF TRACK AT V**
 This vehicle has two wheels at the front and half length tracks at the rear; the combination of drive systems provides the advantages
 of both. The half track is used by explorers and travellers alike with space for passengers and cargo.
@@ -2428,6 +2560,8 @@ Total — 14 3,879 31,575
 Ground Pressure 1.11 — — —
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **JET CAR**
 The jet car is not as common as other road vehicles and is usually found on worlds where the internal combustion engine is not
@@ -2487,6 +2621,8 @@ Ground Pressure 1.72 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
 
+
+
 **MOTORCYCLE**
 The motorcycle is popular on many worlds for its speed and versatility compared to larger vehicles. Some travellers carry
 motorcycles as a quick means of planetary transport since they use up little storage space onboard the ship.
@@ -2513,6 +2649,8 @@ Total — 1.52 450 1,000
 Ground Pressure 2.25 — — —
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 Motorcycle (TL 7) M^3 Mass (kg) Cost (Cr.)
 Hull 2 M^3 , Cycle confi guration, Light Alloys — 120 250
@@ -2572,6 +2710,8 @@ Ground Pressure 2.08 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
 
+
+
 **OFFROAD TRUCK**
 Offroad trucks are robust and designed exclusively for offroad conditions, making them more diffi cult to control when on smoother
 driving surfaces. These vehicles have a small cab and an open–topped rear cargo area (called the 'bed'). Although the bed is not
@@ -2608,6 +2748,8 @@ Ground Pressure 2.21 — — —
 
 LLAANDND VVEEHICLESHICLES
 
+
+
 **OFFROADER**
 The offroader is a robust vehicle which, as its name suggests, is designed for offroad use. With four seats and a small cargo area
 at the back, the offroader is commonly used by colonists to transport and explore over rough terrain.
@@ -2638,6 +2780,8 @@ Total — 8 1,453 12,325
 Ground Pressure 1.82 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **PICKUP TRUCK**
 Pickup trucks have a small cab and an open–topped rear cargo area (often called the 'bed') for easy access. Pickup trucks may
@@ -2700,6 +2844,8 @@ Ground Pressure 2.43 — — —
 
 LLAANDND VVEEHICLESHICLES
 
+
+
 **QUAD BIKE**
 The quad bike is another common choice for travellers who require a small but versatile land vehicle. The quad bike is open–topped
 with room for a small amount of cargo and one passenger who sits directly behind the driver.
@@ -2757,7 +2903,7 @@ Ammunition: 20 attacks
 
 Sensors Basic (1 km +1 DM) 0.5 1 500
 Communications Radio 10 km (TL 7) 0 0.25 250
-Crew 2 (driver, gunner) — — —
+Crew2 (driver, gunner) — — —
 Operating Stations 2 2.5 250 —
 Passengers 12 12 1,200 —
 Cargo 0.04 dTons 0.53 53 —
@@ -2767,6 +2913,8 @@ Total — 18 4,377 19,050
 Ground Pressure 2.43 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **SNOWCAT**
 The snowcat is a tracked vehicle designed for use in cold and snowy conditions. Snowcats can carry up to six people and provides
@@ -2826,6 +2974,8 @@ Total — 2.94 848 5,500
 Ground Pressure 1.41 — — —
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 **SOLAR CAR**
 Although a solar powered car has obvious limitations, they can be found on worlds with high solar exposure or fuel limitations due
@@ -2887,6 +3037,8 @@ Ground Pressure 1.68 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
 
+
+
 **STEAM CAR**
 Steam cars are not commonly seen except on some low–tech worlds them where other forms of transport are not available or
 practical. These vehicles are slow and noisy, making them less than ideal.
@@ -2915,6 +3067,8 @@ Ground Pressure 2.41 — — —
 
 LLAANDND VVEEHICLESHICLES
 
+
+
 **STEAM TRAIN**
 On low–tech worlds, the steam train is often a widely used method of transport for both passengers and cargo. On worlds with this
 level of technology, trains are usually the only means of travelling long distances over land. The train detailed below has two stats
@@ -2933,7 +3087,7 @@ Fuel Consumption: 266.7 per hour
 Fuel 2,000 litres (7.5 hours operation) 2 2,000 —
 Armor 2 0 0 0
 Sensors Minimal (0.25 km +0 DM) 0.25 0.5 100
-Crew 3 (driver, stoker, steward) — — —
+Crew3 (driver, stoker, steward) — — —
 Operating Stations 3 3.75 370 —
 Passengers (Passenger) 180 180 18,000 —
 Passengers (Freight) 0 0 0 —
@@ -2945,6 +3099,8 @@ Total — 312 65,571 77,300
 Ground Pressure 2.56 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **SUV**
 The Sports Utility Vehicle (SUV) is a large four wheeled drive car that can seat eight people in comfort. The offroad capability and
@@ -2990,6 +3146,8 @@ Ground Pressure 1.9 — — —
 
 LAND VEHICLES
 
+
+
 **TEV**
 The Tracked Exploration Vehicle (TEV) can house up to eight people and the life support systems can maintain a comfortable
 environment indefi nitely. Although expensive, this vehicle is often the best choice for scouts and explorers who can travel great
@@ -3013,11 +3171,11 @@ Armor 3 0 0 0
 Sensors Comprehensive Long Range (30 km +2 DM) 3 4 5,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Environmental Life Support, Improved 0 150 125,000
-Crew 2 (driver, sensor operator) — — —
+Crew2 (driver, sensor operator) — — —
 Operating Stations 2 2.5 250 —
 Passengers 6 6 600 —
 Sleeping Areas Simple (8 occupants) 10 200 2,500
-Utility Areas 1 (4 occupants) 11 825 13,750
+Utility Areas1 (4 occupants) 11 825 13,750
 Cargo 0.519 dTons 7 700 —
 Agility +1 DM — — —
 Speed (full load) Cruise: 36 kph Top: 48 kph Offroad: 24 kph — — —
@@ -3025,6 +3183,8 @@ Total — 60 14,909 329,750
 Ground Pressure 1.49 — — —
 
 LLLAANDANNDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **VAN**
 The vehicle of choice for many businesses and merchants, the van can travel at moderate speeds and provides a good amount of
@@ -3080,9 +3240,10 @@ Ground Pressure 2.07 — — —
 
 LLAANDND VVEEHICLESHICLES
 
+
+
 **WAGON**
-One of the very fi rst wheeled vehicles, the wagon is a common sight on many primitive worlds. Wagons are drawn by pack animals
-(such as horses and oxen) with an open space at the front for the driver and up to two passengers. Most of the vehicle is covered
+One of the very fi rst wheeled vehicles, the wagon is a common sight on many primitive worlds. Wagons are drawn by pack animals (such as horses and oxen) with an open space at the front for the driver and up to two passengers. Most of the vehicle is covered
 and used for cargo space but it is not uncommon for wagons to have living and passenger space inside.
 
 Wagon (TL 1) M^3 Mass (kg) Cost (Cr.)
@@ -3106,6 +3267,8 @@ Total — 17 2,593 2,595
 Ground Pressure 1.85 — — —
 
 LLAANDND VVEEHICLESHICLES
+
+
 
 ## WWAALKERSLKERS
 
@@ -3136,6 +3299,8 @@ Total — 1.33 542 7,500
 Ground Pressure 2.71 — — —
 
 WWAALKERSLKERS
+
+
 
 Sealed Cargo Lifter (TL 10) M^3 Mass (kg) Cost (Cr.)
 Hull 3 M^3 , Standard confi guration, Advanced
@@ -3196,6 +3361,8 @@ Ground Pressure 2.15 — — —
 
 WWWAALKERSALLKKEERRSS
 
+
+
 **SUB–WALKER**
 The sub–walker is an enclosed walker vehicle that allows workers to perform technical work underwater. The walker can be fi tted
 with a variety of tools and equipment that are remotely operated from inside the vehicle. All Engineer and Mechanic skill checks
@@ -3230,6 +3397,8 @@ Ground Pressure 2.58 — — —
 
 WWAALKERSLKERS
 
+
+
 **TECH–WALKER**
 The tech–walker is an enclosed walker vehicle that allows workers to perform technical work in hostile conditions. The walker can
 be fi tted with a variety of tools and equipment remotely operated from inside the vehicle. All Engineer and Mechanic skill checks
@@ -3263,6 +3432,8 @@ Total — 4 1,127 125,100
 Ground Pressure 2.81 — — —
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 ## GGRRAVAV VVEEHICLESHICLES
 
@@ -3322,7 +3493,7 @@ DM)
 
 Communications Laser 20 km 1 6 1,000
 Environmental Life Support, Basic 1 200 50,000
-Crew 2 (driver, engineer) — — —
+Crew2 (driver, engineer) — — —
 Operating Stations 2 2.5 250 —
 Cargo 7.296 dTons 96.5 9,650 —
 Agility +0 DM — — —
@@ -3330,6 +3501,8 @@ Speed Cruise: 278 kph Top: 371 kph — — —
 Total — 120 25,858 2,829,000
 
 GRAV VEHICLES
+
+
 
 **CARGO LOADER**
 This is a small, one–man, vehicle is used to carry, tow or push cargo. Cargo loaders are used in low gravity environments where
@@ -3365,6 +3538,8 @@ Total — 5 929 136,200
 
 GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
 
+
+
 **G/BIKE**
 The g/bike is much like a standard motorcycle (see page 34) but its grav drive makes it much more versatile. Additionally, its
 high speed and small size makes it a great vehicle to have onboard any spacecraft, for quick and convenient transport out of the
@@ -3395,6 +3570,8 @@ Total — 2 495 54,100
 
 GRAV VEHICLES
 
+
+
 **G/RUNNER**
 The g/runner is a smaller and cheaper version of the grav car that seats two people. It is a common alternative to the g/bike for
 many commuters and travellers.
@@ -3421,6 +3598,8 @@ Speed Cruise: 378 kph Top: 503 kph — — —
 Total — 4 715 103,900
 
 GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
+
+
 
 **GRAV CAR**
 Grav cars are the vehicle of choice on most worlds with grav technology. Some are designed to look like their ground car
@@ -3487,6 +3666,8 @@ Total — 8 1,645 254,150
 
 GGRRAVAV VVEEHICLESHICLES
 
+
+
 **GRAV RACER**
 Grav racers are small, lightweight and streamlined vehicles designed for optimum speed. With no cargo space and barely enough
 room for the driver, grav racers are primarily recreation vehicles. Grav racing is a fast paced sport that is popular on many worlds
@@ -3516,6 +3697,8 @@ Total — 2.89 526 85,400
 
 GGRAVRAV V VEHICLESEHICLES
 
+
+
 **GRAV TRAIN**
 An advanced version of the electric train (see page 30) that uses grav technology and a specially designed grav track. Grav trains
 can achieve incredibly high speeds and unlike their mechanical predecessors, the grav technology makes it virtually impossible
@@ -3544,7 +3727,7 @@ Sensors Comprehensive, Extended Range, Compact (9 km
 
 Communications Laser 100 km 5 10 12,000
 Environmental Life Support, Basic 8 1,600 400,000
-Crew 4 (driver, engineer, 2 stewards) — — —
+Crew4 (driver, engineer, 2 stewards) — — —
 Operating Stations 4 5 500 —
 Passengers 560 560 56,000 —
 Utility Areas 1 buffet (20 occupants) 43 3,225 53,750
@@ -3554,6 +3737,8 @@ Speed (full load) Cruise: 629 kph Top: 839 kph — — —
 Total — 800 157,387 22,109,750
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 **GRAVLINER**
 The gravliner is the successor to the airliner, designed to transport large numbers of passengers over long distances. A number of
@@ -3578,7 +3763,7 @@ Armor 2 0 0 0
 Sensors Advanced Extended Range (15 km +3 DM) 6 3.75 4,000
 Communications Laser 1,000 km 15 20 25,000
 Environmental Life Support, Basic 4.2 840 210,000
-Crew 6 (driver, co–driver, 4 stewards) — — —
+Crew6 (driver, co–driver, 4 stewards) — — —
 Operating Stations 6 7.5 750 —
 Passengers 270 270 27,000 —
 Utility Areas Bar/buffet (10 occupants) 13 975 16,250
@@ -3617,14 +3802,15 @@ Total — 12 2,758 332,850
 
 GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
 
+
+
 **HOVERCART**
 These small platforms use a contragrav drive to hover several feet above the ground and are designed to carry heavy loads.
 Hovercarts have no motive power so they must either be pushed by hand or used as a trailer (see page 12). The platform is 6ft x
 2ft but can be extended up to 8ft x 4ft.
 
 Hovercart (TL 8) M^3
-Mass
-(kg)
+Mass (kg)
 Cost (Cr.)
 
 Hull 1 M^3 , Open confi guration, Light Alloys — 72 250
@@ -3662,7 +3848,7 @@ DM)
 
 Communications Laser 100 km 5 10 12,000
 Environmental Life Support, Advanced 12 4,200 3,000,000
-Crew 4 (operators and engineers) — — —
+Crew4 (operators and engineers) — — —
 Operating Stations 4 5 500 —
 Utility Areas 1 workshop (4 occupants) 11 825 13,750
 Cargo 31.793 dTons 416.8 41,680 —
@@ -3671,6 +3857,8 @@ Speed Cruise: 11 kph Top: 15 kph — — —
 Total — 479.94 125,253 15,703,750
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 **SEV**
 The very best in survey vehicles, the Survey and Exploration Vehicle (SEV) boasts excellent sensors within a sealed environment
@@ -3696,7 +3884,7 @@ Armor 7 0 0 0
 Sensors Excellent Long Range (100 km +4 DM) 15 6 20,000
 Communications Laser 100 km 5 10 12,000
 Environmental Life Support, Hostile Environment 3 1,200 1,500,000
-Crew 3 (driver, sensor operator, engineer) — — —
+Crew3 (driver, sensor operator, engineer) — — —
 Operating Stations 3 3.75 375 —
 Passengers 3 3 300 —
 Sleeping Areas 1 simple (6 occupants) 8 160 4,000
@@ -3708,6 +3896,8 @@ Speed Cruise: 324 kph Top: 432 kph — — —
 Total — 60 17,765 4,741,750
 
 GGRRAVAV VVEEHICLESHICLES
+
+
 
 ## AAIIRCRAFTRCRAFT
 
@@ -3730,7 +3920,7 @@ Armor 2 0 0 0
 Sensors Comprehensive Long Range (30 km +2 DM) 3 4 5,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Environmental Life Support, Basic 4.8 960 240,000
-Crew 6 (pilot, co–pilot, stewards) — — —
+Crew6 (pilot, co–pilot, stewards) — — —
 Operating Stations 6 7.5 750 —
 Passengers 285 285 28,500 —
 Utility Areas Galley (4 occupants) 11 825 13,750
@@ -3740,6 +3930,8 @@ Speed Cruise: 887 kph Top: 1,183 kph — — —
 Total — 480 85,614 3,229,750
 
 AIRCRAFT
+
+
 
 **AIRPLANE**
 The fi rst aircraft to be used on most worlds are small single winged vehicles powered by a propeller. For the purposes of game
@@ -3770,6 +3962,8 @@ Total — 10 1,904 13,150
 
 AAAIIRCRAFTIRRCCRRAAFFTT
 
+
+
 **BEHEMOTH HELICOPTER**
 These large helicopters have two rotors to increase the lifting capacity of the vehicle. Behemoths are used to transport heavy
 or large amounts of cargo where vertical takeoff and landing are required. A loading ramp at the rear provides easy access for
@@ -3791,7 +3985,7 @@ Fuel 1,080 litres (16 hours operation) 1.08 1,080 —
 Armor 2 0 0 0
 Sensors Comprehensive (3 km +2 DM) 1 2 1,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
-Crew 2 (pilot, co–pilot) — — —
+Crew2 (pilot, co–pilot) — — —
 Operating Stations 2 2.5 250 —
 Passengers (Passenger) 25 25 2,500 —
 Passengers (Freight) 0 0 —
@@ -3802,6 +3996,8 @@ Speed Cruise: 229 kph Top: 306 kph — — —
 Total — 52 10,759 388,250
 
 AAIIRCRAFTRCRAFT
+
+
 
 **CARGO PLANE**
 The cargo plane is designed to carry large amounts of cargo over great distances. Four propellers are required to power these
@@ -3826,7 +4022,7 @@ Fuel 960 litres (12 hours operation) 0.96 960 —
 Armor 2 0 0 0
 Sensors Basic Extended Range (3 km +1 DM) 1 3 1,000
 Communications Radio 100 km 1 10 1,000
-Crew 2 (pilot, co–pilot) — — —
+Crew2 (pilot, co–pilot) — — —
 Operating Stations 2 2.5 300 —
 Passengers 8 8 800 —
 Cargo 5.336 dTons 72.04 7,204 —
@@ -3867,6 +4063,8 @@ Total — 28 4,537 192,250
 
 AAAIIRCRAFTIRRCCRRAAFFTT
 
+
+
 **DIRIGIBLE**
 Dirigibles (sometimes called zeppelins) employ a large reinforced balloon to provide lift and a number of vectored propellers to
 power and turn the vehicle. The lift provided by the gasbag doubles the effectiveness of the propellers. Space for crew, passengers
@@ -3889,7 +4087,7 @@ Armor 2 0 0 0
 Sensors Minimal (0.25 km +0 DM) 0.25 0.5 100
 Communications Radio 50 km (TL 4) 0.25 2.5 750
 Equipment Precision Drive 0.31 18.75 37,500
-Crew 2 (pilot, co–pilot) — — —
+Crew2 (pilot, co–pilot) — — —
 Operating Stations 2 2.5 250 —
 Passengers (Passenger) 15 15 1,500 —
 Passengers (Freight) 0 0 0 —
@@ -3900,6 +4098,8 @@ Speed Cruise: 40 kph Top: 54 kph — — —
 Total — 25 4,204 66,588
 
 AAIIRCRAFTRCRAFT
+
+
 
 **HANG GLIDER**
 Hang gliders are solo aircraft that suspend the pilot from a lightweight frame and need to be launched from high altitude. On low
@@ -3946,6 +4146,8 @@ Total — 2.9 313 1,913
 
 AAIRCRAFTIRCRAFT
 
+
+
 **JET PLANE**
 These small jet propelled aircraft are most commonly used by wealthy individuals and business executives. Jet planes are utilised
 as much for status as they are for speed.
@@ -3969,7 +4171,7 @@ Armor 4 0 0 0
 Sensors Comprehensive (3 km +2 DM) 1 2 1,000
 Communications Radio 100 km (TL 7) 0.5 5 1,000
 Environmental Life Support, Basic 0.4 80 20,000
-Crew 2 (pilot, co–pilot) — — —
+Crew2 (pilot, co–pilot) — — —
 Operating Stations 2 2.5 250 —
 Passengers 8 8 800 —
 Utility Areas Lounge (6 occupants) 15 1,125 18,750
@@ -3979,6 +4181,8 @@ Speed Cruise: 639 kph Top: 852 kph — — —
 Total — 40 7,046 311,750
 
 AAIIRCRAFTRCRAFT
+
+
 
 **POLICE HELICOPTER**
 Police helicopters are used by various law enforcement agencies for surveillance and pursuit, often aiding ground chases by
@@ -4004,7 +4208,7 @@ DM)
 
 Communications Laser 50 km 2 8 5,000
 Equipment Improved Controls 0 0 6,000
-Crew 2 (pilot, sensor/comms operator) — — —
+Crew2 (pilot, sensor/comms operator) — — —
 Operating Stations 2 2.5 250 —
 Passengers 2 2 200 —
 Cargo 0.049 dTons 0.66 66 —
@@ -4047,6 +4251,8 @@ Speed Cruise: 322 kph Top: 430 kph — — —
 Total — 8.99 1,361 45,125
 
 AAAIIRCRAFTIRRCCRRAAFFTT
+
+
 
 **SOLAR PLANE**
 The solar plane is a light aircraft primarily used for short fl ights. The limitations of solar power plants make solar planes a poor
@@ -4105,6 +4311,8 @@ Total — 60 9,250 519,700
 
 AAIIRCRAFTRCRAFT
 
+
+
 **SUPERSONIC AIRLINER**
 Supersonic airliners provide an extremely fast method of transport and are usually reserved for the higher classes of society, lower
 class citizens can rarely afford to travel in such luxury. Although travelling on a supersonic aircraft is expensive, the cost usually
@@ -4134,7 +4342,7 @@ km +2 DM)
 Communications Radio 1,000 km (TL 7) 2 15 5,000
 Environmental Life Support, Basic 3 600 150,000
 Equipment Performance Tuning 10% 0 0 1,745,000
-Crew 4 (pilot, co–pilot, stewards) — — —
+Crew4 (pilot, co–pilot, stewards) — — —
 Operating Stations 4 5 500 —
 Passengers 160 160 16,000 —
 Utility Areas Galley (2 occupants) 7 525 8,750
@@ -4144,6 +4352,8 @@ Speed Cruise: 1,639 kph Top: 2,184 kph — — —
 Total — 300 44,628 4,115,625
 
 AAIIRCRAFTRCRAFT
+
+
 
 **VTOL JET**
 Vertical Landing and Takeoff (VTOL) planes are more expensive than helicopters but can achieve much greater speeds. VTOL
@@ -4179,6 +4389,8 @@ Total — 40 7,112 678,750
 
 AAIIRCRAFTRCRAFT
 
+
+
 ## WWAATERCRAFTTERCRAFT
 
 **AIRBOAT**
@@ -4206,6 +4418,8 @@ Speed Cruise: 55 kph Top: 73 kph — — —
 Total — 6.985 1,365 9,800
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
+
+
 
 **BARGE**
 A barge is a narrow, fl at bottomed, boat primarily designed to transport cargo on canals but they can also be used on rivers. Earlier
@@ -4264,6 +4478,8 @@ Total — 68 8,920 13,776
 
 WWAATERCRAFTTERCRAFT
 
+
+
 **CANOE**
 A small, narrow, water vehicle that is powered by up to four oarsmen. Canoes are commonly used on primitive worlds for hunting
 and fi shing. Some cultures use canoes to transport goods for trade, but wagons (see page 47) and similar vehicles are more
@@ -4293,6 +4509,8 @@ Speed (per oarsman) Cruise: 10 kph Top: 13 kph — — —
 Total — 2 319 249
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
+
+
 
 **CATAMARAN**
 These small double–hulled boats have a single mast and sail. In low technology cultures they are used for fi shing and transporting
@@ -4346,6 +4564,8 @@ Speed Cruise: 40 kph Top: 53 kph — — —
 Total — 8 961 4,115
 
 WWAATERCRAFTTERCRAFT
+
+
 
 **DEEPWATER SUB**
 These high technology vessels are capable of reaching much deeper depths than earlier submarines. Deepwater subs are most
@@ -4416,6 +4636,8 @@ Total — 525 76,841 556,500
 
 WWATERCRAFTATERCRAFT
 
+
+
 **HYDROFOIL**
 These boats have foils mounted under the hull that are designed to lift the vessel at high speeds. Once this lift has been achieved,
 the reduced drag greatly increases the top speed but reduces the manoeuvrability.
@@ -4449,6 +4671,8 @@ Total — 26 4,320 71,250
 
 WWAATERCRAFTTERCRAFT
 
+
+
 **LUXURY YACHT**
 Luxury yachts are most commonly used by the rich and famous for recreation and entertaining friends or clients. Yachts often
 serve as a status of wealth on many worlds, the example below is an extreme example of one of the larger vessels which might
@@ -4476,8 +4700,7 @@ Crew 40 20 2,000 —
 Operating Stations 20 25 2,500 —
 Passengers 10 10 1,000 —
 Sleeping Areas (Crew) 40 Standard (individual cabins) 200 6,000 100,000
-Sleeping Areas
-(Passengers)
+Sleeping Areas (Passengers)
 
 20 Luxury 1,000 50,000 1,000,000
 
@@ -4494,6 +4717,8 @@ Speed Cruise: 24 kph Top: 32 kph — — —
 Total — 33,749.8 6,146,012 95,370,500
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
+
+
 
 **MOTOR BOAT**
 Motor boats are propeller driven vessels with a small cabin and deck. They have many applications but they are most often used
@@ -4553,7 +4778,7 @@ Armor 2 0 0 0
 Sensors Comprehensive (3 km +2 DM) 1 2 1,000
 Communications Radio 100km 0.5 5 1,000
 Equipment Excellent Controls 0.12 7.68 12,000
-Crew 2 (pilot, sensor operator) — — —
+Crew2 (pilot, sensor operator) — — —
 Operating
 Stations
 
@@ -4566,6 +4791,8 @@ Speed Cruise: 72 kph Top: 96 kph — — —
 Total — 12 2,035 41,400
 
 WATERCRAFT
+
+
 
 **POWER BOAT**
 Powerboats are small and lightweight to achieve high speeds. Their open topped design makes them ideal for recreational use,
@@ -4603,6 +4830,8 @@ Speed Cruise: 92 kph Top: 122 kph — — —
 Total — 14 2,386 29,800
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
+
+
 
 **RESCUE BOAT**
 These medium sized boats are used to rescue people from sea disasters. Rescue boats are designed for easy access to other
@@ -4663,10 +4892,10 @@ Armor 4 0 0 0
 Sensors Advanced Long Range (50 km +3 DM) 9 5 10,000
 Communications Laser 50km 2 8 5,000
 Environmental Life Support, Advanced 3.06 1,071 765,000
-Crew 3 (pilot, engineer, sensor operator) — — —
+Crew3 (pilot, engineer, sensor operator) — — —
 Operating Stations 3 3.75 375 —
 Passengers 7 7 700 —
-Sleeping Areas 1 (6 occupants) 15 510 8,500
+Sleeping Areas1 (6 occupants) 15 510 8,500
 Utility Areas Laboratory, galley (8 occupants) 14 1,050 17,500
 — 2 x Computer/1 0 0 200
 Cargo 0.314 dTons 0.72 72 —
@@ -4675,6 +4904,8 @@ Speed Cruise: 12 kph Top: 16 kph — — —
 Total — 101.99 22,865 1,262,650
 
 WWAATERCRAFTTERCRAFT
+
+
 
 **RESEARCH SHIP**
 Research ships are used for a wide variety of scientifi c applications. The vessel provides passenger facilities for long journeys and
@@ -4716,6 +4947,8 @@ Total — 118 33,152 190,750
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
 
+
+
 **RIVER STEAMBOAT**
 Plying major rivers these craft are important vessels and are capable of operating over short distances in coastal regions.
 
@@ -4735,10 +4968,10 @@ Fuel Consumption: 400 per hour
 
 Fuel 4,800 litres (12 hours operation) 4.8 4,800 —
 Armor 2 0 0 0
-Crew 5 (pilots and engineers) — — —
+Crew5 (pilots and engineers) — — —
 Operating Stations 5 6.25 625 —
 Passengers 50 50 5,000 —
-Utility Areas 1 (25 occupants) 53 3,975 35,000
+Utility Areas1 (25 occupants) 53 3,975 35,000
 Cargo 1.366 dTons 18.45 1,845 —
 Agility –2 DM — — —
 Speed Cruise: 30 kph Top: 40 kph — — —
@@ -4774,6 +5007,8 @@ Total — 16 2,077 3,311
 
 WWAATERCRAFTTERCRAFT
 
+
+
 **Sloop (TL 6) M**^3 **Mass (kg) Cost (Cr.)**
 Hull 16 M^3 , Open confi guration, Light Alloys, Lightweight,
 Waterproof
@@ -4799,6 +5034,8 @@ Total — 16 1,760 7,731
 
 WWWAATERCRAFTATTEERRCCRRAAFFTT
 
+
+
 **SUBMARINE**
 Civilian submarines are most often used on ocean worlds for transporting passengers and goods between underwater settlements,
 but are also used for salvage, exploration and maintenance of underwater facilities.
@@ -4821,7 +5058,7 @@ Armor 4 0 0 0
 Sensors Comprehensive Extended Range (9 km +2 DM) 2 3 2,000
 Communications Laser 20km 1 6 1,000
 Environmental Life Support, Improved 1.1 275 137,500
-Crew 2 (pilot, engineer) — — —
+Crew2 (pilot, engineer) — — —
 Operating Stations 2 2.5 250 —
 Passengers 4 4 400 —
 Cargo 0.741 dTons 8.9 890 —
@@ -4866,6 +5103,8 @@ Speed Cruise: 42 kph Top: 56 kph — — —
 Total — 8 1,529 22,450
 
 WWAATERCRAFTTERCRAFT
+
+
 
 **TENDER**
 Most large seagoing vessels have a number of tenders which are used to transport people and cargo between the ship and the
@@ -4927,6 +5166,8 @@ Can pull larger vessels at this speed.
 Total — 60 9,226 125,200
 
 WWAATERCRAFTTERCRAFT
+
+
 
 ## HHYYBRIDBRID VVEEHICLESHICLES
 
@@ -4993,6 +5234,8 @@ Total — 58 8,856 96,650
 
 HHYYBRIDBRID VVEEHICLESHICLES
 
+
+
 **FLYING BOAT**
 The fl ying boat has a fuselage that acts like a boat's hull, enabling it to land on the water. Flying boats can travel on the water, but
 their speed and manouverability is limited. These large planes have space for both passengers and cargo but due to the design
@@ -5016,7 +5259,7 @@ Fuel 648 litres (18 hours operation) 0.65 648 —
 Armor 2 0 0 0
 Sensors Basic Long Range (10 km +1 DM) 1.5 2 2,500
 Communications Radio 100km 1 10 1,000
-Crew 2 (pilot, co–pilot) — — —
+Crew2 (pilot, co–pilot) — — —
 Operating Stations 2 2.5 250 —
 Passengers 16 16 1,600 —
 Cargo 5.968 dTons 74.35 7,435 —
@@ -5026,6 +5269,8 @@ Speed (water) Cruise: 26 kph Top: 34 kph — — —
 Total — 120 18,567 196,100
 
 HHHYYBRIDYBBRRIIDD V VVEEHICLESEHHIICCLLEESS
+
+
 
 **HOVERCRAFT**
 Hovercraft create a cushion of air that allows the vehicle to travel over land and water without the usual penalties for rough terrain.
@@ -5082,6 +5327,8 @@ Ground Pressure 1.58 — — —
 
 HHYYBRIDBRID VVEEHICLESHICLES
 
+
+
 **HOVER FERRY**
 These large hover vehicles are primarily designed to transport passengers and vehicles but a reasonable amount of cargo space
 is also available. Hover ferries are often used for short sea journeys between islands and because they are not restricted to the
@@ -5111,6 +5358,8 @@ Speed Cruise: 106 kph Top: 141 kph — — —
 Total — 120 19,376 3,059,000
 
 HHYYBRIDBRID VVEEHICLESHICLES
+
+
 
 **SEA PLANE**
 The sea plane is a small plane with fl oats that allow it to land on water instead of conventional runways. Sea planes are common
@@ -5172,10 +5421,16 @@ Total — 80 13,849 536,250
 
 HHYYBRIDBRID VVEEHICLESHICLES
 
+
+
 M
+
+
 
 3
 COST
+
+
 
 (C
 
@@ -5183,7 +5438,11 @@ R)
 
 M
 
+
+
 ASS
+
+
 
 (KG
 
@@ -5191,8 +5450,12 @@ ASS
 
 M
 
+
+
 3
 COST
+
+
 
 (C
 
@@ -5200,15 +5463,25 @@ R)
 
 M
 
+
+
 ASS
+
+
 
 Power Plant
 
 M
 
+
+
 3
 C
+
+
 OST
+
+
 
 (C
 
@@ -5216,7 +5489,11 @@ R)
 
 M
 
+
+
 ASS
+
+
 
 (KG
 
@@ -5226,8 +5503,12 @@ Weapons
 
 M
 
+
+
 3
 COST
+
+
 
 (C
 
@@ -5235,7 +5516,11 @@ R)
 
 M
 
+
+
 ASS
+
+
 
 (KG
 
@@ -5243,8 +5528,12 @@ ASS
 
 M
 
+
+
 3
 COST
+
+
 
 (C
 
@@ -5252,16 +5541,26 @@ R)
 
 M
 
+
+
 ASS
+
+
 
 (
 KG
+
+
 
 )
 M
 
+
+
 3
 COST
+
+
 
 (C
 
@@ -5269,10 +5568,16 @@ R)
 
 M
 
+
+
 ASS
+
+
 
 (
 KG
+
+
 
 )
 
@@ -5280,6 +5585,8 @@ Armor Facing
 Value
 
 VALUE
+
+
 
 Additional
 Equipment
@@ -5297,6 +5604,8 @@ Total Cost
 Ground Pressure
 
 AMMO
+
+
 
 Personnel
 
@@ -5326,8 +5635,12 @@ Utility Areas
 
 M
 
+
+
 3
 COST
+
+
 
 (C
 
@@ -5335,10 +5648,16 @@ R)
 
 M
 
+
+
 ASS
+
+
 
 (
 KG
+
+
 
 )
 
@@ -5492,7 +5811,7 @@ US $24.95
 
 Civilian Vehicles
 
-TRAVELLER
+
 
 MGP 3821
 

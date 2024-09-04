@@ -21,7 +21,7 @@ While carousing around on Montero (1010 Old Expanses), he met up with Fineous Tr
 **Sir Pembroke Colton Krankheilt “Colt”** CR 50,000  
 Ex-Marine(2) Noble(2) Mercenary(2) Traveller (1) Yacht  
 St: 12, Dx: 16, Co: 14, In: 15, Ed: 14, Wi: 11, Ch: 10, SS: 16  
-Stamina: 46 Lifeblood: 14.; Level 7 (27000/28000)  
+Stamina: 46 Lifeblood: 14.; Level7 (27000/28000)  
 **Feats:** Brawling, Stealthy, Pt. Blank Shot, Armor Prof (Light), Vessel (Wheeled), Sniper, Tactics, Weapon Prof (Marksman), Weapon Prof (Swordsman), Trust Fund, Armor Prof (Medium), Obscure Knowledge, Weapon Focus (Cutlass), Sneak Attack, Armor Prof(Vacc Suit), Weapon Prof (Combat Rifleman), Tracking, Precise Shot.  
 **Skills (inc. Stat Mods):** Move Silently-9, Hide-9, Driving-7, P/Hunting-6, Navigation-6, T/Computer-4, Pilot-4, Spot-4, Survival-4, Appraisal-3, Gambling-3, K/Homeworld-3, K/Imperial History-3, K/Interstellar Law-3, Leader-3, Listen-3, T/Mechanical-3, K/Psionics-3, Search-3, K/Xeno-sociology-3, P/Banker-2, Gather Info-2, Sense Motive-2, Use Alien Device-2, Bribery-1, Bluff-1, Innuendo-1, Intimindate-1, Liason-1, Read-Write K'Kree-1, E/Singing-1.  
-BAB: 8 (5 + 3 dex) Fort: 9, Ref: 4, Will: 8
+BAB:8 (5 + 3 dex) Fort: 9, Ref: 4, Will: 8

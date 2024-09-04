@@ -10,7 +10,6 @@ Game License, please go to [http://www.mongoosepublishing.com.](http://www.mongo
 This material is protected under the copyright laws of the United Kingdom and of the United States. This product is a work of fiction. Any similarity to actual people,
 organisations, places or events is purely coincidental.
 
-
 is a registered trade mark of Mongoose Publishing Ltd.
 
 Printed in China.
@@ -19,9 +18,13 @@ Printed in China.
 
 CLASSIC TRAVELLER
 
+
+
 Marc Miller
 
 MONGOOSE TRAVELLER
+
+
 
 **AUTHOR**
 Geir Lanesskog
@@ -42,12 +45,13 @@ Charlotte Law
 
 TRAVELLER INNER CIRCLE
 
+
+
 Andrew James, Alan Welty, Colin Dunn, M. J. Dougherty,
 Rob Eaglestone, Sam Wissa, Joshua Bell, Maksim
 Smelchak, Geir Lanesskog, Christopher Griffen
 
 **CONTENTS**
-
 
 INTRODUCTION 02
 IISS OVERVIEW 07
@@ -60,7 +64,6 @@ EQUIPMENT 235
 GLOSSARY 244
 CHECKLISTS 246
 DESIGNER'S NOTES 255
-
 
 # I NTRODUCTION
 
@@ -113,7 +116,6 @@ system generation and physical world development in
 line with current knowledge. It will include formulas and
 approximations based on physics that are unlikely to
 
-
 change, regardless of what properties worlds around
 distant suns will actually become known to have. The
 social characteristics of a world are likely to better
@@ -121,7 +123,6 @@ stand the test of time but they suffer, like the original
 books’ physical world characteristics assumptions, from
 the limitation of being based on a limited exemplar of
 past and present human society.
-
 
 This book allows a Referee to expand on the basic
 world characteristics generated and detailed in the
@@ -143,7 +144,6 @@ detailing a single system and its worlds at a point
 in time, not on a larger interstellar region and its
 historical development.
 
-
 This book includes star system generation procedures
 for determining the type and location of a system’s
 significant stars and worlds, an expansion of mainworld
@@ -152,20 +152,17 @@ specifics for applying these rules to determine the
 physical and (if inhabited) social characteristics of the
 star system’s other worlds.
 
-
 It is not necessary or advisable to detail every world in
 every system or even every world in any one system.
 These worldbuilding procedures exist to support the
 game, not the other way around. Traveller is built
-upon a principle of Map Only As Really Necessary
-(MOARN). The Referee can determine the level of
+upon a principle of Map Only As Really Necessary (MOARN). The Referee can determine the level of
 detail necessary for the enjoyment of all involved.
 Referees who want to develop detail beyond what is
 necessary are free to do so but it is usually not needed
 for the completion of an adventure or campaign. When
 information is a prerequisite for developing a specific
 point of detail, it will be noted in the text.
-
 
 While the book provides formulas and tables
 compatible with known states of sciences, physical,
@@ -217,12 +214,11 @@ each chapter will illustrate the procedures:
     how to present existing data and expand upon it.
 3. Terra and the Solar System of the 2020s – a
     familiar world and solar system that relates the
-    information into a (literally) real world example.
+    information intoa (literally) real world example.
 
 As details develop for a system and mainworld, the
 book provides profile shorthand to record information
 and a set of standardised forms to display this
-
 
 information – although they do not need to be
 completely filled out for any world or star system.
@@ -241,21 +237,21 @@ creation procedures. These checklists summarise the
 material in this book based on creation method and
 characteristics to be detailed.
 
-
 CREATION METHODS
+
+
 The chapters in the World Builder’s Handbook provide
 procedures for a Referee to record and generate a
-system in multiple ways, either as an unknown system
-(as illustrated in Example #1) – this is known as the
+system in multiple ways, either as an unknown system (as illustrated in Example #1) – this is known as the
 expanded method – or as a system with some known
 properties (as illustrated in Example #2) – this is known
 as the continuation method – or as a way to codify
-existing information into Traveller-specific characteristics
-(as illustrated in Example #3) – this is not so much a
+existing information into Traveller-specific characteristics (as illustrated in Example #3) – this is not so much a
 procedure as it is a categorisation method.
 
-
 EXPANDED METHOD
+
+
 The expanded method begins with a hex with no
 information except that a system exists. This method
 is most appropriate for newly created or previously
@@ -263,13 +259,11 @@ uncharted systems. While methodical and focused
 on creating a naturally occurring star system, it also
 demands the most work. Unlike the continuation
 
-
 USING WORLD BUILDER’S HANDBOOK
 This book goes into great detail about the
 processes of world generation, including how
 to fully create atmospheres, the creation of
-weather systems and calculating all socio-
-economic factors required for a functioning
+weather systems and calculating all socio-economic factors required for a functioning
 world. The Referee is free to use as much or
 as little information as they like and it may be
 beneficial to only use what is truly necessary to
@@ -279,15 +273,12 @@ the systems herein.
 introduction
 
 
-TRAVELLER
-
 
 method, every world and significant moon has a chance
 of becoming the mainworld and should at least undergo
 a cursory determination of their physical characteristics
 
 - or at least Size.
-
 
 After determining the worlds in the system, the Referee
 should choose one world to be the mainworld and
@@ -296,8 +287,9 @@ is uninhabited, then choosing a mainworld is less
 important but each system should have a world
 designated to give the system its UWP.
 
-
 CONTINUATION METHOD
+
+
 The continuation method assumes a mainworld
 exists. In every version of Traveller, a mainworld UWP
 exists. In some alternate role playing game systems
@@ -319,7 +311,6 @@ may also define temperature, whether the world
 is tidally locked to its sun or whether it is a moon,
 amongst other information.
 
-
 The continuation method can accept this existing
 information and structure more detail around it. The
 amount of detail is still entirely up to the Referee and
@@ -331,8 +322,9 @@ only interested in a deeper look at a world’s culture or
 economy, those sections can be examined with only
 minimal reference to the rest of the book.
 
-
 CATEGORISATION METHOD
+
+
 If all or most of the information about a system already
 exists from other sources or previous Referee notes,
 the categorisation method is really an extreme example
@@ -342,8 +334,9 @@ information in a standardised structure. Any missing
 information can be left blank or developed using the
 continuation method as warranted.
 
-
 DICE
+
+
 Traveller is based on standard six-sided dice but some
 procedures in this book require a linear result of 0–9 or
 1–10. The obvious method to achieve this result is to
@@ -351,7 +344,6 @@ use 10-sided dice but if those are unavailable or if the
 Referee wants to stick with six-sided dice, the following
 2D method (among others) with D2 as 1–3 = 1 and 4–
 = 2, provides the same result:
-
 
 D10 Emulation
 D26 Result D26 Result
@@ -361,7 +353,6 @@ D26 Result D26 Result
 14 4 24 9
 15 5 25 0 or 10
 16 Roll again 26 Roll again
-
 
 Different coloured dice aid this process. To indicate
 that either actual 10-sided dice or an emulated method
@@ -375,8 +366,9 @@ be noted when intended.
 
 introduction
 
-
 UNITS
+
+
 This handbook uses units based on standard planet
 and star physical properties and the Kelvin (K) absolute
 temperature scale. Planetary properties are based
@@ -413,13 +405,13 @@ further calculation may result in slightly divergent final
 answers. In most cases, such differences are not
 consequential to a usable result.
 
-
 EXPANDED HEX CODE
+
+
 Various versions of Traveller have long used the
 Expanded Hex Code (eHex) to allow the single-digit
 presentation of numbers larger than 9. This code uses
-traditional Arabic numbers from 0–9, then hexadecimal
-(base 16) digits to represent numbers from 10–15 as
+traditional Arabic numbers from 0–9, then hexadecimal (base 16) digits to represent numbers from 10–15 as
 A–F. To represent additional numbers, the eHex code
 expands this alphabetic enumeration, excluding I and O
 for clarity, to reach the number 33 with Z. The Traveller
@@ -427,7 +419,6 @@ Core Rulebook incorporates the hexadecimal range
 of 0–F for 0–15 and some procedures and examples
 in this book can take advantage of the entire eHex
 character set to represent numbers 0–33.
-
 
 eHex Conversion
 Value eHex Value eHex
@@ -451,16 +442,12 @@ Value eHex Value eHex
 
 Base Units
 
-
 Unit Terra (867)⊕ Sol (G2V)
-Mass = 1 5.972×10^24 kg
-(0.000003033)
+Mass = 1 5.972×10^24 kg (0.000003033)
 
-
-1.9885×10^30 kg
-(332,971⊕)
+1.9885×10^30 kg (332,971⊕)
 Diameter = 1 12,742km (0.009) 1,391,400km (109⊕)
-Density = 1 5.514 g/cm^3 1.408g/cm^3
+Density = 1 5.514 g/cm<sup>3</sup> 1.408g/cm<sup>3</sup>
 Gravity = 1 9.8066m/s^2 274m/s^2
 Day = 1 24 hours (solar) 26.5 days (equatorial)
 Year = 1 365.25 days or 8,766 hours —
@@ -471,8 +458,6 @@ Luminosity = 1 — 3.828×10^26 W
 
 introduction
 
-
-TRAVELLER
 
 
 In most instances, this book will use eHex as the
@@ -485,7 +470,10 @@ existing Mongoose Traveller publication usage.
 RECOMMENDED MATERIALS
 
 
+
 AND OTHER RESOURCES
+
+
 To use this book, the Referee only requires the
 Traveller Core Rulebook. References to page numbers
 in that book are based on the 2022 update but the
@@ -500,7 +488,6 @@ DSE, but some survey techniques and all equipment
 and ships in that book are useful additions to any
 exploration-focused campaign.
 
-
 Another useful optional resource is the Central
 Supply Catalogue, which provides an extensive list
 of equipment, tools and weapons, as well as rules for
@@ -511,7 +498,6 @@ references but, to reiterate, nothing but the Traveller
 Core Rulebook is required, although a calculator,
 spreadsheet or equivalent app is practically required
 to handle some formulas.
-
 
 Traveller has existed in one form or another since 1977.
 During that time, many enthusiasts have provided
@@ -524,12 +510,10 @@ Third Imperium) but in periods before and after that
 time. Travellermap also provides tools for entering
 data and mapping custom sectors for any Traveller
 
-
 campaign. It can also act as convenient gateway to two
 other valuable on-line tools, the Traveller Wiki (wiki.
 travellerrpg.com) and Traveller Worlds (members.
 ozemail.com.au/~jonoreita/TravellerWorlds).
-
 
 The Traveller Wiki is a fan-maintained repository of
 information for all versions of Traveller. As with any
@@ -541,7 +525,6 @@ Charted Space information but allows import of custom
 information and the creation of random or deliberate
 systems compatible with the Traveller 5 ruleset.
 
-
 Traveller 5, or T5 is a set of rules maintained by
 Traveller’s creator Marc Miller. Its mechanics and
 design rules are its own but formats for much of the
@@ -552,8 +535,9 @@ compatibility with T5 formats with regards to system
 and world features and statistics, although the methods
 to generate these results may vary greatly.
 
-
 RULE ZERO
+
+
 The procedures in this World Builder’s Handbook are
 meant as a guide to a enhance Referee’s creativity, not
 to enforce arbitrary procedures or results. If any roll of
@@ -566,7 +550,6 @@ be possible if the Referee wishes it so. It might require
 a little extra handwaving to explain the result but that is
 still the Referee’s prerogative.
 
-
 Also, while certain procedures may have prerequisites
 beyond what is minimally necessary to describe a
 world, for most part, the Referee does not need to
@@ -576,7 +559,6 @@ adventure. The World Builder’s Handbook allows for
 completeness but it does not require it.
 
 introduction
-
 
 The Imperial Interstellar Scout Service (IISS) is one
 of the major services within the Third Imperium, equal
@@ -598,6 +580,8 @@ both absolutely true and entirely false, depending on the
 branch of service and particular assignment.
 
 HISTORY
+
+
 Of the three Major Races of Humaniti, the Vilani were
 first to the stars. The Vilani ventured into space 10,
 years before the foundation of the Third Imperium,
@@ -627,12 +611,10 @@ systems began to fail after the Solomani seized control
 
 # I ISS OVERVIEW
 
-
 of the stultified imperial edifice. By -1776 the dark
 age known as the Long Night had begun. Exploration
 essentially ceased, except that conducted by private
 expeditions or the efforts of individual worlds.
-
 
 In the latter centuries of the Long Night, the Sylean
 Federation was one of many pocket empires –
@@ -655,7 +637,6 @@ of the IISS in year 0, which removed the mercantile
 purview and focused the IISS strictly on exploration and
 supporting activities.
 
-
 The IISS was a major contributor to the rise of the
 Third Imperium, recontacting many isolated worlds
 and providing demonstrations of the value of joining
@@ -666,7 +647,6 @@ reached the Spinward Marches. In 62, Emperor
 Artemsus established an order of knighthood
 exclusive to exemplary members of the Scout Service,
 the Order of the Arrow.
-
 
 As the Imperium expanded, IISS records remained
 incomplete and often not updated beyond initial
@@ -681,13 +661,10 @@ demographic and cultural data to help provide a basis
 for increasing the cohesiveness of the Third Imperium.
 
 
-TRAVELLER
-
 
 The effort began in 300 and took more than a century
 to conduct, with what is now known as the First Grand
 Survey completing in 420.
-
 
 Two decades earlier in 399, on the world then named
 Aadkhien (Core/0140), scouts had discovered an
@@ -702,7 +679,6 @@ turning it into the repository of Grand Survey
 information. They expanded Reference’s subterranean
 vaults to store the information collated from across the
 Imperium and beyond.
-
 
 During the latter 40 years of the Grand Survey,
 Emperor Martin III expanded its scope to include
@@ -719,7 +695,6 @@ completing the survey and the expense of travelling
 ever further reduced the emphasis and funding for
 these career-long expeditions after 500.
 
-
 Conflicts with the Zhodani in the first two Frontier Wars,
 spanning 589–620 with a brief respite in between, and
 the chaotic Civil War of 606–622 strained budgets
@@ -729,28 +704,23 @@ Arbellatra when she proclaimed her Regency in 622,
 but the impetus for exploration was much diminished
 and surveying had become routine.
 
-
 In 624 Arbellatra gave the IISS a new responsibility:
-that of maintaining a communications web of jump-
-vessels, the Express Boat or x-boat, network. This
+that of maintaining a communications web of jump-vessels, the Express Boat or x-boat, network. This
 network led to a proliferation of x-boat waystations
 and expansion of scout bases. It also led to a move to
 control expenses by standardising common designs
 for many of the IISS vessels, including the now iconic
 Suleiman-class scout/courier.
 
-
 The creation of the Communications Office and
 supporting infrastructure brought the IISS to its
 modern structure and established it as a stabilising
-
 
 force within the Imperium. Exploration continued
 to occur, and the occasional expedition would still
 venture far into the unknown, but the IISS’s focus was
 closer to home where it was more visible to those who
 approved its funding.
-
 
 By 990 the newly installed Emperor Gavin had two
 major issues to confront. The first was the looming
@@ -771,7 +741,6 @@ and artefacts to reach Reference, where they were
 displayed in massive edifices dedicated to each of the
 Imperium’s 27 sectors and many regions beyond.
 
-
 The Imperial Interstellar Scout Service continues to
 play a major role in Imperial affairs. X-boats and scout/
 couriers are omnipresent, survey ships update data
@@ -782,8 +751,9 @@ system of the Third Imperium, carrying signals
 throughout its body and peering both internally and
 externally to keep it healthy.
 
-
 ORGANISATION
+
+
 As with any large organisation, the IISS also
 requires a large support establishment. The Scout
 Service is divided into two main groups of offices,
@@ -792,8 +762,9 @@ functions, and the field, which includes the operational
 purposes of the service: exploration, survey and
 communications offices.
 
-
 FIELD OFFICES
+
+
 The exploration office is the oldest field office of the Scout
 Service, descending directly from the non-commercial half
 of the Sylean Federation Scout Service. It is tasked with
@@ -803,7 +774,6 @@ cultures. These two halves are the exploration branch and
 the contact and liaison branch.
 
 IISS Overview
-
 
 The exploration branch is responsible for actual
 exploration of star systems and of other space
@@ -860,19 +830,15 @@ offices. It is responsible for interstellar messaging and
 data flow within the Imperium. With communications
 limited to the speed of jump, the communications
 
-
 office acts as the data network of the Imperium. Its
 two branches are the express boat service and the
 Imperial courier service.
 
-
-The express boat service operates the jump-
-x-boats that are the spine of this Imperium-wide
+The express boat service operates the jump-x-boats that are the spine of this Imperium-wide
 network. The service provides crews for express
 boats and their tenders. Some x-boat routes cross
 Imperial borders and continue into neighbouring
 client states and neutral territory.
-
 
 The Imperial courier service operates on feeder
 routes off the x-boat network, providing final delivery
@@ -883,7 +849,6 @@ reach vital destinations in a timely manner. When scout
 vessels are not available or suitable for final delivery,
 the Imperial courier service will sometimes contract out
 mail delivery to responsible commercial providers.
-
 
 Most people associate the Scout Service with those
 three field offices. These offices are organised to support
@@ -899,18 +864,17 @@ knowledge and perspective. Special skills, peer reviews
 and personnel availability determine roles within field
 offices, not rank or strict seniority.
 
-
 However, no organisation can exist without some
 structure and control. Even in the case of the field
 offices, the bureaucracy’s operations office provides
 control and direction for field operations.
 
-
 BUREAUCRACY OFFICES
+
+
 The bureaucracy is composed of four main offices:
 administration, detached duty, technical services
 and operations.
-
 
 The administration office is the back office of the
 IISS. Its three branches are personnel, finance and
@@ -920,30 +884,23 @@ activities of active duty scouts, budgets, payments
 and the acquisition of everything from office supplies
 to starships.
 
-
-The detached duty office keeps records of all ex-
-scout personnel. Scouts do not retire but switch to
+The detached duty office keeps records of all ex-scout personnel. Scouts do not retire but switch to
 detached duty status, allowing them to be recalled to
 
 IISS Overview
 
 
-TRAVELLER
-
 
 Administration
 Office
-
 
 technical
 services
 Office
 
-
 detached
 duty
 Office
-
 
 operations
 Office
@@ -953,18 +910,15 @@ Office
 
 
 
-
 
 
 
-
 
 
 
 
 
 
-
 
 	
 
@@ -973,31 +927,25 @@ Office
 
 
 
-
 
 
 
 
 
-
 exploration
 Office
 
-
 communications
 Office
-
 
 survey
 Office
 
 
 
-
 
 
 
-
 
 
 	
@@ -1006,22 +954,18 @@ Office
 	
 
 
-
 
 
 
 
 
-
 Operational Control
-
 
 Fleet Support
 
 Imperial Interstellar Scout Service Organisational Chart
 
 IISS Overview
-
 
 service until the age of 66 and sometimes beyond,
 if warranted by special situations. These range from
@@ -1079,11 +1023,9 @@ sometimes recruited from field office scouts. Some
 Imperial research stations are under the authority of the
 research and development branch.
 
-
 The operations office is responsible for keeping the
 Scout Service running. Its branches are maintenance,
 security, base and scout fleet.
-
 
 The maintenance branch is responsible for repairs
 and preventive maintenance of all IISS equipment.
@@ -1092,7 +1034,6 @@ to maintain Imperial Navy assets if necessary,
 especially in times of war. Detached-duty scouts in
 possession of scout ships may use maintenance
 facilities and crews at cost.
-
 
 The security branch provides security and law
 enforcement for the Scout Service. This branch conducts
@@ -1108,14 +1049,12 @@ cooperation from local authorities as needed. The
 security branch is responsible for the active enforcement
 of IISS-initiated Red Zone interdictions.
 
-
 A small elite group with the branch, the special security
 service, or S3, is responsible for the recovery of scout
 personnel and equipment captured or lost to hostile
 control. An even more elite group is the Scout Service
 Imperial Protection Detail, whose sole function is to
 prevent the assassination of the Emperor.
-
 
 The base branch is responsible for the operation of
 all scout bases, waystations and other installations,
@@ -1124,7 +1063,6 @@ offices as needed. Often staffed locally, this branch can
 act as an entry point into the Scout Service for natives
 of the host world of the scout facility.
 
-
 The scout fleet has authority over all of the active-duty
 spacecraft operated by the Scout Service. These ships
 are all theoretically assigned to numbered scout fleets
@@ -1132,7 +1070,6 @@ and loaned to other offices. The ships assigned to
 field offices are assigned by the scout fleet, even if not
 crewed by fleet personnel, although some ships have
 fleet operators as part of their crew.
-
 
 Whether part of the bureaucracy or the field, the many
 offices and branches of the Imperial Interstellar Scout
@@ -1145,10 +1082,10 @@ nerves and memory of the Imperium.
 IISS Overview
 
 
-TRAVELLER
-
 
 SURVEY OPERATIONS
+
+
 Despite the name, both the exploration and survey
 office perform survey operations. The exploration
 branch has a motto of ‘First In’ and usually conducts
@@ -1171,7 +1108,6 @@ an uninteresting and uninhabited star system may only
 receive a cursory remote scan if it is merely a refuelling
 waypoint on the way to the mission objective.
 
-
 It is the responsibility of the survey office and its
 external and internal mapping branches to ensure
 these blanks are filled in and that initial data is later
@@ -1183,12 +1119,10 @@ of scrutiny. While the exploration office often receives
 notice for exciting discoveries, it is survey office charts
 that pave the way for the Imperium to follow.
 
-
 Survey missions have procedural checklists and
 specific data requirements. These have long been
 grouped into standardised survey classifications as
 described on the Survey Classes table.
-
 
 The two Grand Surveys conducted between 300–
 and 995–1065 compiled Class IV surveys of all
@@ -1201,7 +1135,6 @@ sophont inhabitants, or which are targeted for
 colonisation or other development. Chapters within
 this book will detail procedures and outcomes for
 surveys of various classes.
-
 
 One general outcome of surveys is an increase in
 standardised survey information referred to as the
@@ -1216,7 +1149,6 @@ and sophisticated data analysis. This data provides
 information for astronomical data for many distant
 systems never visited by the Scout Service.
 
-
 The IISS provides standardised forms for gathering
 survey data. Class 0 and I surveys utilise a very
 simple format, Class II and III surveys use a form
@@ -1228,65 +1160,49 @@ of pages and contains exabytes of supplementary
 material. The book provides blanks and examples of
 the Class 0, I, II/III and IV survey forms.
 
-
 Survey Classes
 Survey Type Description Duration
 Class I Remote survey from
 1–2 parsecs or further
 
-
 Confirm stellar information, locate system ecliptic plane, locate
 large gas giants.
 
-
 1 day
-
 
 Class II In-system survey Locate all significant planets, moons and planetoid belts. Deploy
 probes as necessary.
 
-
 1 week
-
 
 Class III Detailed in-system
 survey
 
-
 Determine orbits and physical characteristics of all major bodies.
 Deploy landing parties as necessary.
 
-
 10 weeks
-
 
 Class IV Complete system
 survey
 
-
 Thoroughly map habitable zone worlds, deploy probes and landing
 parties to confirm information. Study, but not contact natives.
 
-
 30 weeks
-
 
 Class V Extensive system
 survey
-
 
 Deploy landing parties to all significant bodies. Examine
 major worlds in detail. Study longer-term climate effects.
 Contact natives.
 
-
 5–10 years
 
 IISS Overview
 
-
 Survey Index
-
 
 Survey
 Index Survey Class Known Data
@@ -1300,8 +1216,7 @@ Index Survey Class Known Data
 bodies, presence of planetoid belts
 7 — As above plus general planetary conditions such as presence of an atmosphere
 and surface liquids
-8 Class III As above plus reasonably accurate estimate of first three planetary profile digits
-(Size, Atmosphere and Hydrographics)
+8 Class III As above plus reasonably accurate estimate of first three planetary profile digits (Size, Atmosphere and Hydrographics)
 9 — As above plus correct first three planetary profile digits. Reasonable estimate of
 local population and Tech Level
 10 Class IV Full planetary profile data of all significant bodies in the system. Detailed census
@@ -1310,7 +1225,6 @@ data on inhabited worlds
 12 Class V Detection of rogue cometary bodies associated with the system
 
 IISS Overview
-
 
 A parsec-sized hex on a Traveller sector or subsector
 map can contain at most one star system. The
@@ -1329,6 +1243,8 @@ hexes is covered in detail in the Special Circumstances
 chapter of this book.
 
 STAR CLASSIFICATION
+
+
 Astronomers categorise stars by their spectral type, in
 categories which generally correspond to their spectra,
 temperatures and luminosity class, which generally
@@ -1362,7 +1278,6 @@ Class II are bright giant stars, Class III are normal giant
 
 # S TARS
 
-
 stars, Class IV are subgiant stars and Class V are main
 sequence stars, the most common variety of stars, also
 referred to as ‘dwarf’ stars. Class VI is a subdwarf – less
@@ -1373,7 +1288,6 @@ capital letters denoting spectral anomalies based on their
 composition. Again, for the purpose of Traveller, all white
 dwarfs are treated as class D with no additional letters or
 luminosity class listed.
-
 
 Most stars similar in size to Sol are Class V main
 sequence stars. Towards the end of their lives as they
@@ -1392,15 +1306,15 @@ short as a few million years for the massive and bright
 O-type stars or it can be trillions of years for the low
 mass and dim M-types.
 
-
 More massive stars – those with more than eight
 times Sol’s mass at the end of their giant phase – will
 end their lives in massive supernova explosions,
 leaving behind either a neutron star, a black hole, or
 sometimes nothing at all.
 
-
 PRIMARY STAR
+
+
 A star system has one or more stars. For the
 generation of a new system, the first step is the
 determination of the system’s primary star. More than
@@ -1409,15 +1323,12 @@ of these, the primary star is considered the one that is
 the most massive. In most cases it is also the brightest
 star in the system.
 
-
 Most stars will be small main sequence stars with
 straightforward generation procedures. The special
 cases requiring extra detail are the rare bright stars,
 giants and unusual objects.
 
-
 Star Type Determination
-
 
 2D+DM Type* Hot* Special Unusual Giants Peculiar
 2- Special A Class VI Peculiar Class III Black Hole
@@ -1435,89 +1346,80 @@ Star Type Determination
 *Stars are Class V main sequence stars unless they result from Special or Unusual rolls.
 stars
 
-
 30,000 10,000 6,000 3,
 
-
 O B A F G K M
+
 
 
 Increasing
 Temperature
 
-
 Luminosity
-
 
 Decreasing
 Surface Temperature (Kelvin) Temperature
 
-
 Ia
 
-
 III
+
 
 
 V
 
 
+
 D
+
 
 
 BD
 
 
+
 VI
+
 
 
 IV
 
 
+
 II
+
 
 
 Ib
 
+0.
 
 0.
 
+0.
 
 0.
 
-
 0.
-
-
-0.
-
-
-0.
-
 
 1
 
-
 10
-
 
 100
 
-
 1000
-
 
 10,
 
-
 100,
-
 
 1,00,
 
 PRIMARY STAR TYPES
-To determine the type of the primary star roll 2D on the Star Type Determination table and consult the Type column.
 
+
+To determine the type of the primary star roll 2D on the Star Type Determination table and consult the Type column.
 
 In reality, brown dwarfs may be as or more common
 than all hydrogen-fusing stars and white dwarfs may
@@ -1544,26 +1446,24 @@ primary stars, as opposed to relegating these objects
 secondary (or tertiary, etc.) members of a star system.
 
 
-TRAVELLER
-
 
 Any result starting with Class requires a second roll on
 the Type column with DM+1. Additionally, Class IV and
 VI stars are limited in their range of types:
 •	 Class IV is limited to types B0 to K4. Add 5 to any
-rolled result of M (3-6) on the Type roll and change
+rolled result ofM (3-6) on the Type roll and change
 any result of O to B on an Hot roll.
 •	 Class VI is comprised of two separate populations,
 but neither include type F or A. Treat results of F as
 G and A as B.
 
-
 A result of Class III+ requires a roll in the giants column
 to determine the final luminosity class of the star,
 followed by a roll on the type column with DM+1.
 
-
 OPTIONAL VARIANT
+
+
 This process skews more towards traditional Traveller
 star type frequencies than nature provides. A more
 realistic type column would have 3-8=M, 9=K, 10=G,
@@ -1572,8 +1472,9 @@ a two-dimensional space of quantised parsecs, the
 Referee can keep the tables as presented and assume
 many colder M-type systems are underrepresented.
 
-
 PECULIAR STAR TYPES
+
+
 A result of 2 on the Unusual column requires more work
 on the part of the Referee. This is an unlikely result
 and often only suitable for the expanded method of
@@ -1582,18 +1483,15 @@ mainworld generation. These results are treated in
 greater depth in the Special Circumstances chapter
 starting on page 219.
 
-
 If this result occurs for a primary star, the Referee may
 choose to ignore the result and roll again or instead
 resolve the unusual result with 1D, with a result of 1–
 meaning neutron star and 6 resulting in black hole.
 
-
 A nebula is a dense region of interstellar gas. It could
 be a planetary nebula around a recently formed white
 dwarf, or a black cloud contracting to form a new star. A
 nebula may span multiple hexes.
-
 
 A protostar is an early phase of star formation, a star
 just beginning to burn, subject to chaotic fluctuations
@@ -1607,7 +1505,6 @@ of the Star Type table Determination with DM+1 to
 determine protostar type. Change any result of O-type
 to B-type to avoid large protostars – these rare and
 
-
 massive stars pass into the main sequence too quickly
 to pass through a protostar phase. If a primary star is a
 protostar, then any other stars in the same system are
@@ -1615,21 +1512,20 @@ also protostars. If the primary star is not a protostar,
 then no subsequently determined stars in the system
 can be protostars.
 
-
 A star cluster is a dense nursery of stars and may
 include nebula, protostars, main sequence stars, giant
 stars and brown dwarfs. The members of a star cluster
 may number in the dozens or hundreds, all within one
 parsec or a multi-parsec region of space.
 
-
 A result of anomaly can be anything the Referee
 decides: hypothetical exotic stars (quark, strange,
 electroweak, dark matter, and so on), alien
 megastructures, wormholes, star gods and so forth.
 
-
 SUBTYPES
+
+
 The subtype, or numeric value of the star type can be
 determined one of two ways:
 
@@ -1641,7 +1537,6 @@ determined one of two ways:
     appropriate for Primary M-type stars, but additional
     M-types in a system should use the Numeric
     column or a straight 0–9 for subtype.
-
 
 Star Subtype
 2D Numeric M-type (Primary only)
@@ -1657,10 +1552,8 @@ Star Subtype
 11 2 7
 12 0 9
 
-
-For a K-type Class IV star, subtract 5 (make lower) any
+For a K-type Class IV star, subtract5 (make lower) any
 subtype result above 4.
-
 
 Here we begin a running in-line example of a star
 system named ‘Zed’ in the distant Storr sector. To begin
@@ -1669,7 +1562,6 @@ a type G-type main sequence, Class V star. A 2D roll of
 
 stars
 
-
 6 on the Star Subtype table using the Numeric column
 for a non-M-type star results in a subtype 7, making the
 primary star a G7 V. (Had it been a type-M-type star,
@@ -1677,10 +1569,12 @@ the same 2D roll of 6 on the M-type column would have
 resulted in a M0 V star.)
 
 STAR MASS AND TEMPERATURE
+
+
 The Star Mass and Temperature by Class table
 provides approximate values for a star’s mass in units
 of Sol’s mass, , and associated surface temperature.
-This table lists the values for numeric 0 and 5 (and
+This table lists the values for numeric 0 and5 (and
 9 for M-type) subtypes, but masses between these
 entries can be extrapolated or estimated. The values
 presented are not absolute limits or precise; the
@@ -1701,7 +1595,6 @@ extrapolated from the table below but should not
 be varied outside the range for that stellar subtype,
 although linear variability within that range is possible.
 
-
 Zed, the example type G7 V star, falls between G
 and K0 or a mass range of 0.9 to 0.8, a difference
 of 0.1. By treating a K0 V as a ‘G10 V’ the math
@@ -1714,7 +1607,6 @@ the variance of 20% of 0.86. This is 0.4 times 0.
 (which is 0.2 × 0.86) or 0.0688, which is then added to
 0.86 to become 0.9288, rounded to 0.929.
 
-
 Zed’s temperature is also possible to interpolate as
 the difference between a G5 V and a K0 V star but a
 broad variance should not be applied to this value. The
@@ -1725,10 +1617,10 @@ no more than half of the difference between a G7 and a
 G6 or a G8, so 5,440 +40, with a linear variance being
 more appropriate.
 
-
 UNUSUAL AND PECULIAR OBJECT MASS
-If a star is defined as a hydrogen fusing object
-(standard hydrogen composed of one proton and
+
+
+If a star is defined as a hydrogen fusing object (standard hydrogen composed of one proton and
 no neutrons), then objects such as brown dwarfs,
 white dwarfs, neutron stars and black holes are not
 technically stars. All of these items are covered in
@@ -1737,7 +1629,6 @@ starting on page 219. If these objects are the primary or
 only star, the procedures in that chapter should govern
 
 Star Mass and Temperature by Class
-
 
 Star Type Ia Ib II III IV V VI Temperature Colour
 O0 200 150 130 110 — 90 2 50,000K Blue
@@ -1759,21 +1650,19 @@ M9 30 25 18 8 — 0.08 0.075 2,400K
 stars
 
 
-TRAVELLER
-
 
 the entire system’s generation. If they are Secondary or
 Companion stars, consult the Special Circumstances
 chapter for mass and temperature specifics.
 
-
 STAR DIAMETER
+
+
 The diameter of a star affects its luminosity, as a larger
 surface area at the same temperature puts out more
 energy. The same variances optionally applied to star
 mass can apply to the values in the Star Diameter by
 Class table page 19.
-
 
 Note that most of this book’s text will refer to diameter
 instead of radius. Diameter is used to ease calculation
@@ -1787,7 +1676,6 @@ radius of the star itself. In most cases, no planet can
 survive inside the surface of a star. The radius of Sol
 is 695,700km or 0.00465AU.
 
-
 The G7 V star Zed might be a little more massive
 than normal but its diameter is independently based
 on its class. It is again 2/5 of the way between a G
@@ -1797,15 +1685,17 @@ Adding a 20% variance roll of (2D-7) results in +1 and
 adds 1/5 of 20% of 0.93 to the diameter to bring it to
 0.9672 or 0.967.
 
-
 UNUSUAL AND PECULIAR OBJECT DIAMETER
+
+
 Non-stellar objects have diameters that do not necessarily
 follow a clear relationship between mass and diameter.
 Detailed information on these object’s properties is
 included in the Special Circumstances chapter.
 
-
 STAR LUMINOSITY
+
+
 A star’s luminosity is its brightness and energy output.
 For the purpose of determining the habitable zone, this
 includes all wavelengths of light. O-type and B-type
@@ -1816,7 +1706,6 @@ human observer. The total, or bolometric, luminosity
 is what will determine the energy output of a star and
 therefore the location of the habitable zone where the
 environment is comfortable for human life.
-
 
 STELLAR 100D JUMP LIMITS
 Traditionally in Traveller, the jump shadow of a star is
@@ -1831,7 +1720,6 @@ stars that are often little more massive than Sol but
 have diameters as much as 100 times greater. At
 certain late stages in these star’s lives, they become
 variable, with widely fluctuating diameters.
-
 
 The Referee can choose to deal with such
 situations in one of three methods:
@@ -1860,7 +1748,6 @@ situations in one of three methods:
     700,000 kilometres for a Sol-massed main
     sequence star).
 
-
 The Star Luminosity by Class table provides luminosity
 values typical for a star of the indicated type and class.
 Actual luminosity values can have a variance of 30%
@@ -1872,29 +1759,33 @@ considerable variability.
 stars
 
 
-
 Class
 O/B
 
-
 Class
 F
+
 
 
 Class
 K
 
 
+
 Class
 A
+
 
 
 Class
 G
 
 
+
 Class
 M
+
+
 
 (^01)
 ,^0
@@ -1902,94 +1793,80 @@ M
 
 -^
 
-
 30
-
 
 ,^0
 00
 
-
 +^ K
-
 
 6 ,
 
-
 00
-
 
 0
 
 -^7
-
 
 ,^5
 00
 K
 
 
+
 3 ,
 
-
 70
-
 
 0
 
 -^5
-
 
 ,^2
 00
 K
 
 
+
 , 7
 50
-
 
 0
 
 -^1
 
-
 0 ,
 00
 
-
 0 K
-
 
 , 5
 20
 
-
 0
 
 -^6
-
 
 ,^0
 00
 K
 
 
+
 , 2
 40
-
 
 0
 
 -^3
 
-
 ,^7
 00
 K
 
-Star Diameter by Class
 
+
+Star Diameter by Class
 
 Star
 Type Ia Ib II III IV V VI
@@ -2011,7 +1888,6 @@ M9 1,800 800 500 200 — 0.1 0.
 
 Star Luminosity by Class
 
-
 Star Type Ia Ib II III IV V VI
 O0 3,400,000 3,200,000 2,700,000 2,400,000 — 2,200,000 180
 O5 1,100,000 900,000 730,000 510,000 — 330,000 73
@@ -2032,14 +1908,13 @@ M9 90,000 19,000 7,300 1,200 — 0.00029 0.
 stars
 
 
-TRAVELLER
-
 
 LUMINOSITY FORMULA
+
+
 A more accurate method of determining luminosity that
 is directly related to a star’s diameter and temperature
 is to use the formula:
-
 
 The value for diameter in this formula is in solar units.
 The temperature (T) of Sol is 5,772K, but can be
@@ -2048,21 +1923,17 @@ underlying physics and pre-determined values, so it is
 neither necessary or appropriate to apply a variance to
 the formula-derived value.
 
-
 For this example, Zed’s luminosity can be determined
 two ways, by formula or by chart. By formula, Zed’s
 diameter is 0.967 and Zed’s temperature of 5,440
 divided by the Sol standard of 5,772 results in:
 
-
 Luminosity = (0.967 ÷ 1)^2 × (5440 ÷ 5772)^4 = 0.7378
-
 
 This rounds to 0.74 or 0.738. Notice the advantage of
 using Sol-based units for diameter in this calculation;
 in future examples a denominator of 1 will be omitted
 for brevity.
-
 
 Using the table instead, Zed falls between 0.78 and
 0.52. Its interpolated value is 0.52 + (0.78 - 0.52) ×
@@ -2073,8 +1944,9 @@ high as 0.88. However, the computed value considers
 the established diameter, temperature variance and is
 more consistent, so it will be used in the example.
 
-
 UNUSUAL AND PECULIAR OBJECT LUMINOSITY
+
+
 As with regular stars, the luminosity of an unusual
 object is related to its diameter and temperature.
 Protostars should determine luminosity based on their
@@ -2086,8 +1958,9 @@ orbit can influence the object’s temperature effect on
 surrounding bodies. See the Special Circumstances
 chapter for specific details.
 
-
 SYSTEM AGE
+
+
 In most cases, the Primary star determines the
 system’s age, the exception being when subsequent
 stars created in the same system are determined to be
@@ -2095,8 +1968,9 @@ post-stellar objects such as white dwarfs, neutron stars
 or black holes. In that exception, post-stellar objects set
 the parameters for the minimum age of the system.
 
-
 MAIN SEQUENCE LIFESPAN
+
+
 Technically only Class V stars are main sequence
 stars but the ‘normal’ phase of a star’s life is
 similarly determined for Class Ia, Ib, II, V and VI
@@ -2108,7 +1982,6 @@ be abbreviated as Gyrs or Gyr for giga-year. The
 relationship between mass and lifespan on the main
 sequence is approximately:
 
-
 This means a star with a mass of 20 will spend only
 six million years in the main sequence while one of
 mass 0.1 will last for more than three trillion years. As
@@ -2116,7 +1989,6 @@ the universe is only 13.8 billion years old and the oldest
 stars are perhaps 13.5, even the first stars of less than
 about 0.89 – essentially G6 V or cooler – have not
 yet left the main sequence.
-
 
 Different galaxies experience star formation at different
 rates at different times but for Traveller purposes, star
@@ -2128,7 +2000,6 @@ fit. The galaxy is thought to be 13 billion years old. Any
 normal star of mass less than 0.9 – which is by far the
 majority of stars in the galaxy, have been in the main
 sequence for between 0.1 and 12 billion years.
-
 
 To randomly determine this age, roll 1D and multiply
 by 2. Then roll D3-1 and add that value to the first
@@ -2143,23 +2014,18 @@ stars
 
 ### ( ) ( )
 
-
 Diameter
 Diameter
 
-
 Temperature
 Temperature
-
 
 2 4
 
 **_Main Sequence Lifespan_** **=** Gyr
 
-
 10
 Mass 2.5
-
 
 Adding additional digits of accuracy requires additional
 d10 rolls. Most star system ages will not be known to
@@ -2198,11 +2064,9 @@ midpoint and brighter stars indicating older stars in
 accordance with the variance range and dimmer stars
 similarly indicating younger stars. This book does not
 
-
 dwell on detailed calculations of changes to luminosity
 from age, stellar metal content or other factors, but the
 Referee can implement this to the degree desired.
-
 
 Additionally, if a system developed by the
 continuation method is known to host a native
@@ -2210,7 +2074,6 @@ sophont species, the Referee may choose to make
 the system at least two (possibly three) billion years
 old to give the biosphere of the mainworld enough
 time to evolve the necessary complexity.
-
 
 The example star Zed with a mass of 0.929 is just large
 enough to have had a chance to become a subgiant
@@ -2231,7 +2094,6 @@ million years to the systems age, making it 6.336 billion
 years old – although this accuracy would only show up
 on a Class II or more detailed survey form.
 
-
 SUBGIANT (CLASS IV) LIFESPAN
 Class IV stars have completed their main sequence
 lifespan and are on their way towards becoming a true
@@ -2240,7 +2102,6 @@ lifespan of a star as a subgiant, although more massive
 stars spend increasingly shorter periods of time in this
 phase. For simplicity, apply the following approximate
 formula for total time a star spends as a subgiant:
-
 
 Next determine the star’s fraction of time spent in the
 subgiant phase. This linear variation can be determined
@@ -2263,34 +2124,25 @@ or
 
 Main Sequence Lifespan (Gyr) x
 
-
 d10
 10
-
 
 d100
 100
 
-
 1D - 1 +
 6
-
 
 1D
 6
 
 **_Subgiant Lifespan_** **=**
 
-
 Subgiant Lifespan =
 Subgiant Lifespan × Variance between 0 and 1
 
+Main Sequence Lifespan (4 + Mass)
 
-Main Sequence Lifespan
-(4 + Mass)
-
-
-TRAVELLER
 
 
 Alternatively, the Referee could rule that any
@@ -2298,14 +2150,12 @@ predetermined variation from standard subgiant
 luminosity influences the age, with brighter stars being
 older. In either case, the total age for the Class IV star is:
 
-
 GIANT (CLASS III) LIFESPAN
 Main sequence stars end their fusing era years as Class
 III giant stars. The giant phase of a star’s life is actually
 quite dramatic, with luminosity generally brightening over
 age but being subject to large variations. For simplicity,
 treat the star’s giant lifespan as:
-
 
 The elapsed fractional period of the star’s giant phase
 is determined in a linear fashion as above but stronger
@@ -2315,8 +2165,9 @@ phase. Extra complications such a mass loss late in the
 giant phase are beyond the scope of this description. A
 giant’s total age can be computed as:
 
-
 FINAL AGE
+
+
 Stars that have evolved into white dwarfs or more
 exotic dead star objects should consider the total age
 prior to the death of a star. The mass of these remnant
@@ -2326,12 +2177,9 @@ lifetime, multiply the mass of these dead stars by 2
 + D3 before computing lifespans for input into the
 following formula:
 
-
 Or, more concisely:
 
-
-The value of (D3+2) × dead star mass is used for post-
-stellar objects to account for the mass loss associated
+The value of (D3+2) × dead star mass is used for post-stellar objects to account for the mass loss associated
 with their death. However, the progenitor star must
 have begun life with at least enough mass to create
 the proper type of object. For a neutron star, this mass
@@ -2340,8 +2188,9 @@ be at least 20. In all cases, objects should be less
 than 13.8 billion years old. Unless the Referee wants to
 create an anomaly.
 
-
 UNUSUAL AND PECULIAR OBJECT AGE
+
+
 Sub-stellar objects such as brown dwarfs can be as old
 as the universe. As such, the small star age formula can
 determine age. Post stellar objects should consider two
@@ -2356,9 +2205,7 @@ oldest stars and so can use the small star range.
 
 Special and Unusual Object Age by Type
 
-
 Object
-
 
 Age Determination (+ Age of
 any previous phase)
@@ -2379,24 +2226,19 @@ Protostar 10 million years ÷ 2d10
 
 stars
 
-
 Main Sequence Lifespan
 10 x Mass^3
 
-
 10
 Mass2.5
-
 
 Total Class IV Star Age =
 Main Sequence Lifespan + Subgiant Lifespan x
 Variance between 0 and 1
 
-
 Star Final Age =
 Main Sequence Lifespan + Subgiant Lifespan +
 Giant Lifespan
-
 
 Total Class III Star Age =
 Main Sequence Lifespan + Subgiant Lifespan + Giant
@@ -2407,14 +2249,14 @@ Lifespan x Variance
 **_Star Final Age_** **=**
 
 x (^) ( 1 + + (^) )
-1
-(4 + Mass)
+1 (4 + Mass)
 1
 10 x Mass^3
 **_Mass_** = (D3+2) x Dead Star Mass
 
-
 SYSTEMS WITH MULTIPLE STARS
+
+
 Most stars exist as part of a system with more
 than one star. Binary stars are very common but
 astronomers have discovered systems of up to seven
@@ -2457,7 +2299,6 @@ the properties of the primary star.
 
 Multiple Stars Presence
 
-
 Orbit Class Presence (2D)
 Close* 10+
 Near 10+
@@ -2469,36 +2310,32 @@ secondary stars
 
 BARYCENTRE VIEW
 
+
+
 PRIMARY CENTRE VIEW
+
+
 
 stars
 
-
-TRAVELLER
 
 
 Primary star of Class Ia ,Ib, II, III or IV DM+1
 Primary star of Class V or VI and type O, B,
 A or F
 
-
 DM+1
-
 
 Primary star of Class V or VI and type M DM-1
 Primary star is a Brown Dwarf or White
 Dwarf
 
-
 DM-1
-
 
 Primary star is a Pulsar, Neutron Star or
 Black Hole
 
-
 DM-1
-
 
 Roll for a companion star presence for the primary
 and for any star determined to be present in the
@@ -2507,14 +2344,12 @@ not the primary star or companions of other stars will
 sometimes be referred to as the secondary stars of
 the system.
 
-
 The G7 V star Zed has no modifications to the multiple
 star presence rolls. The Referee first rolls to see if there
 are any secondary stars, with the first 2D roll resulting
 in a 4, which indicates no Close star, then rolling a 10
 which indicates a Near star, and finally an 11, indicating
 a Far secondary star.
-
 
 For each of these three existing stars, the Referee rolls
 again for companion stars. The results of these rolls are
@@ -2523,9 +2358,7 @@ then a roll of 9 indicates no companion for the Near
 star and finally, a roll of 10 indicates the Far star has a
 companion. Zed is a quintuple star system.
 
-
-LOCATION OF STARS IN EXISTING SYSTEMS
-(CONTINUATION METHOD ONLY)
+LOCATION OF STARS IN EXISTING SYSTEMS (CONTINUATION METHOD ONLY)
 Some existing systems will have multiple stars already
 indicated but no information on their relative location. This
 is true for most systems published on Travellermap.com.
@@ -2534,7 +2367,6 @@ may indicate pre-existing locations for these stars but
 most entries do not include this information. To determine
 the orbit class of the second star in a binary system, roll
 1D and consult the following table:
-
 
 Existing Star Locations (Binaries)
 1D Orbit Class
@@ -2547,16 +2379,13 @@ Existing Star Locations (Binaries)
 * Stars of class Ia, Ib, II and III cannot have Close
 secondary stars
 
-
 The term ‘same Class and Type’ means that the listed
 non-primary star has the same Class and Type (but not
 necessarily subtype number) as the primary star.
 
-
 Systems with three or more stars need additional rolls
 for tertiary, quaternary or even quinary or later stars.
 Roll again with a slightly modified table:
-
 
 Existing Star Locations (Three or more Stars)
 1D Orbit Class
@@ -2567,11 +2396,9 @@ Existing Star Locations (Three or more Stars)
 5 Roll again or Companion of same Class and Type
 6 Far
 
-
 If the orbit class is already occupied, make the star
 a companion of that orbit class’s star. If a companion
-class is already present, move out one orbit class
-(Close to Near to Far) until an open orbit class is
+class is already present, move out one orbit class (Close to Near to Far) until an open orbit class is
 available. For instance, a duplicate companion of the
 primary would become a Close star; if Close were
 occupied, it would become a companion of the Close
@@ -2584,7 +2411,6 @@ star to be ‘pushed’ beyond the ‘slot’ for a companion
 of the Far star, then start again at the closest open
 slot from the primary and move outward until a vacant
 position is available.
-
 
 ORBIT# OVERVIEW
 A star’s initial location within the system is based
@@ -2606,8 +2432,9 @@ with Orbit#s, they form a basis for describing star
 stars
 
 
-
 DEFAULT STAR DESIGNATIONS
+
+
 In multiple star systems, the stars are designated
 alphabetically. For a binary star system, the
 primary star is always star A and the secondary,
@@ -2630,7 +2457,6 @@ table provides an illustration of a sextuple system
 with a primary and its companion, a Close star, a
 Near star with a companion and a Far star.
 
-
 In the primary-centric procedures of this book,
 when a companion exists unless the stars are
 very dim, neither the companion or its parent
@@ -2646,16 +2472,11 @@ to introduce such possible orbits, a secondary
 multi-star orbit designation procedure would
 need to be inserted into the process.
 
-
 Star Designation
 
+Planetary Orbit Prefix (basic)
 
-Planetary Orbit Prefix
-(basic)
-
-
-Planetary Orbit Prefixes
-(exterior to combination)
+Planetary Orbit Prefixes (exterior to combination)
 Primary Aa Aa Aab
 Companion Ab Ab Aab
 Close B B AabB (abbreviated to AB)
@@ -2668,15 +2489,12 @@ on fractional Orbit#s allows them to conform to known
 extrasolar planetary system architectures.
 stars
 
-
 Also useful for many of the formulas in this book are
 actual distances, either in astronomical units (AU) or in
 kilometres. The relationship between these values is
 indicated the Orbit# table with examples, mostly from
 the Solar System, included.
 
-
-TRAVELLER
 
 
 Orbit#
@@ -2703,14 +2521,12 @@ Orbit# Distance (AU) Difference (AU) Million Km Example
 19 39,500 39,200 5,925,000 Outer Oort Cloud
 20 78,700 — 11,805,000 > 1 light-year
 
-
 The Difference (AU) column provides the difference
 between the current Orbit# and the next, allowing
 easier computation of fractional, or decimal orbits,
 e.g., Orbit# 0.1 would be 0.4 × 0.1 or 0.04AU. The
 Million Km column indicates the distance in millions of
 kilometres of the orbit from the centre of the star.
-
 
 FRACTIONAL ORBIT#S
 To determine fractional Orbit#s, the whole number
@@ -2721,7 +2537,6 @@ result by 10 and adding this value to Orbit# – 1 + 0.5.
 For instance, Orbit#2 with fractional variance would
 become Orbit#1.5 + d10 ÷ 10.
 
-
 Orbit# 0 is treated differently as 0 is the minimum value.
 For an Orbit# 0 fractional range, the roll is 0 + d10 ÷
 20, giving a range of Orbit # 0.00 to 0.50. Some tightly
@@ -2729,7 +2544,6 @@ packed star systems may have all of the worlds in the
 Orbit# zero range, so this Orbit# can be divided into
 100 ths. Any Orbit# can have add an extra d10 ÷ 100 to
 the result to provide a two digit fractional value.
-
 
 FRACTIONAL ORBIT# CONVERSION TO AU
 As Orbit#s are of unequal sizes, determining the
@@ -2741,7 +2555,6 @@ and the next highest Orbit# (this is the Difference (AU)
 value on the Orbit# table) times the fractional portion
 of the Orbit#:
 
-
 For instance, an Orbit# of 4.3 is equal to 1.6 (Orbit
 #4) + 1.2 (Orbit#4’s Difference(AU) column value)
 × 0.3 or 1.96AU. To determine the orbital distance
@@ -2751,10 +2564,8 @@ table on page 5.
 
 stars
 
-
 AU = Distance (AU) column for whole Orbit# +
 Difference (AU) column x Fractional value
-
 
 **AU CONVERSION TO FRACTIONAL ORBIT#**
 To convert an AU value back to an Orbit# requires
@@ -2768,17 +2579,17 @@ instance, 3.4 - 2.8 (the AU value of Orbit# 5) = 0.6 and
 value of 5.25. To summarise, with ‘Full Orbit#’ defined
 as the largest full Orbit# exceeded:
 
-
 ECCENTRICITY
+
+
 The star orbit generation method assumes roughly
 circular orbits. Real star orbits are often far from circular.
 Eccentricity is a measure of variation in an orbit, from
-0 (circular) to 1 (no longer an orbit but a parabolic
+0 (circular) to1 (no longer an orbit but a parabolic
 approach fading off to infinity – values greater than 1.0
 indicate a hyperbolic orbit of an unbound interstellar
 object). Adding orbital eccentricity is optional; it adds
 realism but also complicates systems dramatically.
-
 
 Simulating the range and distribution of possible
 eccentricity for orbits of any object in a system requires
@@ -2796,17 +2607,13 @@ never exceed 0.999 and can never be below 0.
 
 Eccentricity Values
 
-
 2D+DM Base
-
 
 + Second
 Roll
 
-
 = Resultant
 Range
-
 
 Average
 Result
@@ -2818,28 +2625,21 @@ Result
 12+ 0.30 2D ÷ 20 0.40–0.90 0.65
 All DMs apply only to the first roll.
 
-
 Star eccentricities DM+2
 For each star an object directly orbits
 beyond the first
 
-
 DM+1
-
 
 For all Orbit#s below 1.0 if System Age
 greater than 1 Gyr
 
-
 DM-1
-
 
 Object is a significant body in an asteroid or
 planetoid belt
 
-
 DM+1
-
 
 The eccentricity value allows calculation of a minimum
 and maximum separation distance (with AU equal to
@@ -2859,13 +2659,10 @@ Orbit#s are determined as:
 
 Stellar Orbit# Ranges
 
-
 Orbit Class
-
 
 Orbit#
 Determination
-
 
 Orbit#
 Range AU range
@@ -2874,7 +2671,6 @@ Near 1D+5 6–11 4.0–231
 Far 1D+11 12–17 231–14650
 Companion† 1D÷10 +
 (2D-7)÷100
-
 
 0.05–0.65 0.02–0.26
 
@@ -2898,18 +2694,14 @@ variance values to each of the other stars results in: 6.1
 and 12.2. The equivalent AU values for all four stars are
 Ab: 0.036, B: 5.68, Ca: 338.7, and Cb: 0.084 (from Ca).
 
-
 Minimum separation = AU × (1 – Eccentricity)
 Maximum separation = AU × (1 + Eccentricity)
 
 **_Orbit# (with fractional value)_** = Full Orbit# +
 
-
 AU - Distance(AU) of Full Orbit#
 Difference(AU) of Full Orbit#
 
-
-TRAVELLER
 
 
 In some cases, adding these factors will cause stellar
@@ -2918,7 +2710,6 @@ that inclinations, orientations, or timing prevent stellar
 collisions, or add one full Orbit# to the outer crossing
 star’s Orbit# and recompute until the issue resolves.
 
-
 For the Zed system, rolling for eccentricity and adding
 fractional values results in 0.11 for the companion, 0.08
 for the Near star, a large 0.47 for the Far star and 0.27
@@ -2926,41 +2717,31 @@ for its companion. A table can help keep track of the
 orbits of multiple stars of varying distances. The stars are
 parenthetically named using standard multi-star protocols.
 
-
 Star Orbit# Ecc AU Min Max
 Primary (Aa) 0 — — — —
-Companion
-(Ab)
-
+Companion (Ab)
 
 0.09 0.11 0.036 0.032 0.040
-
 
 Near (B) 6.1 0.08 5.68 5.23 6.13
 Far (Ca) 12.1* 0.47 338.7 179.5 497.9
 Far
-Companion
-(Cb)
-
+Companion (Cb)
 
 0.21** 0.24 0.084 0.064 0.104
-
 
 *For combined Ca and Cb
 **From Ca
 
-
 TRUE ORBITAL CHARACTERISTICS
+
+
 In this book, orbits are simplified. Real orbits have
-six properties, which can be expressed as semi-
-major axis, eccentricity, inclination, longitude of the
+six properties, which can be expressed as semi-major axis, eccentricity, inclination, longitude of the
 ascending node, argument of periapsis and true
 anomaly. For simplification, only two of these are
-considered: the eccentricity and semi-major axis
-(AU) properties. This produces a simplified two-
-dimensional view of a star system and does not
+considered: the eccentricity and semi-major axis (AU) properties. This produces a simplified two-dimensional view of a star system and does not
 consider position of objects in their orbits.
-
 
 For the purposes of determining plausible orbits
 and temperature variations over time, the two
@@ -2970,20 +2751,17 @@ planetary diameters) provide sufficient information
 but for the purist, the other four orbital properties
 could be calculated and recorded.
 
-
 Inclination
 This is the value in degrees of an orbit’s inclination
 to the plane of the star system – usually defined
 by the equator of the central star but sometimes by
 an average inclination of the system’s worlds. In
 
-
 a system with multiple stars there may be multiple
 definitions of this plane, or they may all use a
 single value based on the primary star. Inclinations
 range in value from 0 to 180 degrees. To determine
 an object’s inclination:
-
 
 2D Inclination severity Degrees
 2–6 Very Low 1D ÷ 2
@@ -2997,7 +2775,6 @@ the result from 180
 Anomalous planetary orbits can determine
 inclination as indicated on page 50.
 
-
 Longitude of Ascending Node: This is the point at
 which an inclined orbit crosses its plane of reference
 in an upward direction. It is essentially a random
@@ -3008,7 +2785,6 @@ for creating this value. It is most often expressed as
 a range of -180 to +180 degrees and requires the
 establishment of the system’s reference point.
 
-
 Argument of Periapsis: This is the angle from
 the ascending node to the point in the orbit where
 the object is closest to its primary (where distance
@@ -3018,7 +2794,6 @@ may be expressed as -180 to +180. Alternatively,
 the longitude of periapsis is sometime used,
 determining this point from the same reference
 point as used for the ascending node.
-
 
 True Anomaly: This is the position of the body
 in its orbit at a certain time (or epoch). It is
@@ -3033,7 +2808,6 @@ object’s position as a fraction of its ‘year’ elapsed
 since periapsis at the time of the epoch.
 
 stars
-
 
 **STELLAR CLASSES AND**
 
@@ -3058,13 +2832,10 @@ nature of the non-primary protostars.
 
 Non-Primary Star Determination
 
-
 2D+
 DMs Secondary Companion
 
-
-Post-
-Stellar Other
+Post-Stellar Other
 2- Other Other Other D*
 3 Other Other Other D
 4 Random Random Random D
@@ -3080,7 +2851,6 @@ Stellar Other
 *The Referee may choose to consider this result a neutron
 star (NS) or other exotic object.
 
-
 Class III or IV primary stars DM-1 for all columns
 
 The table’s results indicate next steps in star type
@@ -3095,7 +2865,6 @@ Lesser: Treat the new star as the same class and one
 type cooler than the primary or parent , e.g., F becomes
 G, K becomes M, and reroll the new subtype. The
 
-
 lesser of a M-type star is another M-type star, but if this
 second star has a higher subtype than its parent, it is a
 brown dwarf instead. For post-stellar objects, a lesser
@@ -3104,7 +2873,6 @@ neutron star or pulsar becomes a white dwarf, and a
 lesser white dwarf becomes a brown dwarf. If a Class
 IV star has a lesser which is too cool to be a Class IV,
 convert the lesser to a Class V lesser type star instead.
-
 
 Sibling: The new star is slightly smaller than the
 parent. Subtract 1D from the subtype. If this becomes
@@ -3115,17 +2883,16 @@ in the same class, but less massive by 1D × 10% of
 the mass of the parent, but do not reduce size past
 minimums for that type of object.
 
-
 Twin: The new star is essentially the same size and
 type as its parent. Use the same class, type and
 subtype. Optional subtract 1D-1% from the mass and
 diameter of the new star to allow for some variation.
 
-
 Other: Roll again on the other column.
 
-
 SYSTEM AGE ADJUSTMENT
+
+
 If a new star is a post stellar object but the primary
 is a fusing star, the age of the entire stellar system
 could be reset. Use the final age (see page 22) of
@@ -3133,7 +2900,6 @@ the post-stellar object, remembering to multiply its
 post-stellar mass by an appropriate amount, and
 add the elapsed age of the object’s post stellar life to
 determine system age.
-
 
 If this new age exceeds the main sequence lifespan
 of a main sequence primary star, the Referee can
@@ -3146,7 +2912,6 @@ white dwarf, will result in the mass of the post-stellar
 object becoming large enough to change its class,
 forcing it to be a neutron star or black hole. This is an
 acceptable result.
-
 
 For the continuation method, if the results of system
 age determination are too young to account for known
@@ -3161,24 +2926,19 @@ Space, the fallback explanation is that the Ancients
 stars
 
 
-TRAVELLER
-
 
 have something to do with it; more generically such
 interference in the natural order of things can be
 attributed to ‘Alien Space Bats’.
 
-
 Rolling for Zed’s other four stars, first, the companion
 is 8: sibling; a further 1D roll of 1 makes its subtype just
 one dimmer than the primary, so Zed Ab is a G8 V star.
-
 
 For the near star, rolling on the secondary column
 and getting an 8 means the near star is lesser, so it
 is a K-type star and rolling for subtype (using the Star
 Subtype table on page 16) makes it a K8 V.
-
 
 The Far star is also considered a secondary and the
 roll of 6 indicates random, so going back to the Star
@@ -3186,12 +2946,10 @@ Type Determination table, a roll of 6 indicates an
 M-type and rolling on the M column of the Star Subtype
 chart results in a 0, so the Far star is an M0 V.
 
-
 The Far star’s companion treats the Far star (M0 V) as
 its primary and rolls on the companion column but rolls
 a 2, indicating other. Rolling again on the other column
 results in a 7, which is a white dwarf, or D.
-
 
 These four additional stars require their own
 determination of mass, diameter and luminosity but
@@ -3207,14 +2965,12 @@ an optional and potentially tedious procedure from a
 record-keeping standpoint. However, it was done for
 this example system.
 
-
 The fourth new star, the white dwarf companion to the
 Far star requires more work as it might affect the age
 of the entire system. It also requires referencing the
 Special Circumstances chapter’s White Dwarfs section
 on page 227 to determine its mass. A roll for mass
 using 2D-1 ÷ 10 + d10 ÷ 100 results in 0.49.
-
 
 To determine the age of this white dwarf, multiply
 its mass by 2+D3 – a 3 – is 1.47 and plug it into the
@@ -3226,23 +2982,21 @@ to adjust the system’s age and the white dwarf’s age
 
 - meaning how long it has been a white dwarf – is the
 
-
 difference between the system’s age and its final age,
 or 6.336 - 4.635 equals 1.701 billion years old. Looking
 at the White Dwarf aging table on page 227, this
 places it between the 1.5 and 2.5 billion year columns
-and a linear estimation of the temperature difference
-(-.201 x 1,500 +7,000) is 6,699 K or 6,700 K, which,
+and a linear estimation of the temperature difference (-.201 x 1,500 +7,000) is 6,699 K or 6,700 K, which,
 when plugged into the luminosity equation assuming a
 diameter of 0.017 equals 0.000525.
 
-
 STAR ORBIT PERIOD
+
+
 The time period (in standard years) required for two
 large masses to orbit each other is equal to the square
 root of the value of their separation (in AU) cubed,
 divided by their combined (solar) masses or:
-
 
 With the mass of one star being M and the other
 m. When considering multiple stars orbiting each
@@ -3254,42 +3008,30 @@ For short periods, it may be more meaningful to convert
 years (y) to standard days (d) by multiplying the result
 by 365.25, or even to hours (h) by multiplying by 8,766.
 
-
 With the masses of all the stars in the Zed system
 known, we can compute their various orbital periods.
 The mass of each star in the table below is the
 equivalent of m in the formula. The value of M is the
 sum of the stars indicated in the orbits around column:
 
-
 Star Orbit# Ecc AU
-
 
 Orbits
 Around Period
 Primary (Aa) 0 — — —
-Companion
-(Ab)
-
+Companion (Ab)
 
 0.09 0.11 0.036 Aa 1.849d
 
-
 Near (B) 6.1 0.08 5.68 Aab (A) 8.793y
-Far (Ca) 12.1* 0.47 338.7 AabB
-(AB)
-
+Far (Ca) 12.1* 0.47 338.7 AabB (AB)
 
 3,673y
 
-
 Far
-Companion
-(Cb)
-
+Companion (Cb)
 
 0.21** 0.27 0.084 Ca 8.892d
-
 
 *For combined Ca and Cb
 **From Ca
@@ -3298,16 +3040,14 @@ stars
 
 **_Period (years) =_**
 
-
-AU^3
-(M + m)
-
+AU^3 (M + m)
 
 STAR SYSTEM PROFILE
+
+
 The IISS shorthand profile for a star system has two
 formats, one for a single star and one for a multi-star
 system. The single star format is:
-
 
 `#-T# C-M-D-L-A`
 
@@ -3326,9 +3066,7 @@ profile would be 1-G7 V-0.929-0.967-0.738-6.336.
 The multi-star variant appends additional stars after the
 primary star:
 
-
-`#-T# C-M-D-L-A:D-O-E-T# C-M-D-L:D-O-E-T# C-M-
-D-L...`
+`#-T# C-M-D-L-A:D-O-E-T# C-M-D-L:D-O-E-T# C-M-D-L...`
 
 Where each star beyond the primary is indicated by:
 D = Designation (e.g., B or Ab),
@@ -3341,12 +3079,12 @@ star(s) separated by a colon.
 
 _The profile for the entire Zed system is the long string:_
 5-G7 V-0.929-0.967-0.738-6.336:Ab-0.09-0.11-G8
-V-0.907-0.957-0.681:B-6.1-0.08-K8 V-0.626-0.777-
-0.136:Ca-12.1-0.47-M0 V-0.510-0.728-0.0895:Cb-0.21-
-0.24-D-0.490-0.017-0.000525
+V-0.907-0.957-0.681:B-6.1-0.08-K8 V-0.626-0.777-0.136:Ca-12.1-0.47-M0 V-0.510-0.728-0.0895:Cb-0.21-0.24-D-0.490-0.017-0.000525
 Or, in simpler format just: G7 V:G8 V:K7 V:M0 V:D.
 
 IISS PROCEDURAL
+
+
 The Imperial Interstellar Scout Service is responsible
 for maintaining star charts and information on stellar
 systems for all of Charted Space and many places
@@ -3358,7 +3096,6 @@ objects, however, are data the IISS can gather remotely.
 The survey branch, or Imperial Grand Survey,
 is responsible for creating and maintaining this
 information. In most cases, stellar-level data is evident
-
 
 from potentially hundreds of parsecs distance. Long
 observation from multiple locations within the Third
@@ -3384,15 +3121,12 @@ even further distances, provides only a single data
 point and at best a provisional one-time marking on an
 external mapping branch chart.
 
-
 The Scout Service categorises surveys in five Classes,
 from Class I to Class V. Remote observation from
 established scout bases and reference to thousands
 
 stars
 
-
-TRAVELLER
 
 
 of years of charts provides something else, a Class 0
@@ -3402,7 +3136,6 @@ as passengers when transferring between posts or
 attending conferences on other worlds. Class 0 data
 gathered by remote observation from distances beyond
 30 parsecs corresponds to a Survey Index (SI) of 3.
-
 
 CLASS 0 SURVEY
 Class 0 Surveys, also called ‘armchair surveys’ are
@@ -3423,7 +3156,6 @@ personnel, although some information is redacted for
 unspecified reasons. This database is referred to as the
 Reference Star Chart or RSC.
 
-
 A general public version of this database is freely
 available from every scout base and contains
 information for all Charted Space sectors within
@@ -3439,7 +3171,6 @@ Second Survey. Updates are published annually but
 these provide only incremental data on a small fraction
 of surveyed systems.
 
-
 The RSC includes many distant systems never visited
 by the IISS or its predecessors but some of these
 systems still have partial information related to some
@@ -3452,11 +3183,9 @@ survey data review is an increase of the SI of a system
 to 4. Some records in the RSC include only SI 1, 2, or 3
 data for distant unvisited stars.
 
-
 The format for Class 0 and Class I surveys, complete
 or incomplete, is identical and has not changed since
 the end of the First Survey.
-
 
 For very distant systems, especially when precise
 stellar orbits are unknown, records are often kept in a
@@ -3470,12 +3199,12 @@ secondary and companions, usually filled in with
 stellar Type, Subtype and Class and any detected gas
 giants or other remarks.
 
-
 CLASS I SURVEY
+
+
 Determining the orbital characteristics of stars and
 planetary objects requires a closer survey. A Class I
-survey can be conducted by a massive observatory-
-equipped scout survey cruiser from within 30 parsecs
+survey can be conducted by a massive observatory-equipped scout survey cruiser from within 30 parsecs
 or by a smaller Armstrong- or Donosev-class survey
 vessel from one or two parsecs distant. These surveys
 will detect any substellar objects down to the mass of
@@ -3486,16 +3215,15 @@ scan is an increase of the SI of a system to 5, which
 confirms some partial information about a system’s
 large to medium gas giants and probable orbital planes.
 
-
 Only systems with complete and verified Class I survey
 data are included in the RPSC. All records in the RPSC
 have at least a completed Class 0/I survey form. This is
-a SI 4 record allowing for an arbitrary number of stellar-
-like objects with a comments field for each which may
+a SI 4 record allowing for an arbitrary number of stellar-like objects with a comments field for each which may
 include additional information.
 
-
 EXAMPLES
+
+
 These examples use a partially complete filled-out
 Class 0/I survey record from the RSC database
 emulating the data available in a full Class 0 survey.
@@ -3512,141 +3240,105 @@ identical to a Class 0/I survey form.
 
 stars
 
-
 IISS CLASS 0 SECTOR SURVEY
 
 FORM 0398D-0
 
-
 Sector | Grid
-
 
 Initial Survey:
 
-
 Last Updated:
-
 
 IISS DesignationLocation
 
-
 Primary
 
-
 +
-
 
 Close
 
-
 +
-
 
 Near
 
-
 +
-
 
 Far
 
-
 +
-
 
 GG
 
 
-Notes
 
+Notes
 
 Comments IISS CLASS 0/I SURVEY
 
-
 FORM 0421B-0I
-
 
 Sector | Location
 
-
 Initial Survey:
-
 
 Last Updated:
 
-
 IISS Designation
-
 
 System Age (Gyr):
 
-
 Objects
-
 
 Stellar:
 
-
 Planetary Detections?
-
 
 Class I Status?
 
-
 Stars
-
 
 Component
 
-
 Class
-
 
 Mass
 
-
 Temp
-
 
 Diameter
 
-
 Luminosity
 
-
 Orbit
-
 
 AU
 
 
+
 Ecc
 
-
 Period
-
 
 HZCO
 
 
+
 notes
 
-
 :
-
 
 Comments
 
 
-TRAVELLER
-
 
 ZED SYSTEM
+
+
 The example Zed quintuple star system will serve as
 a further illustration of the completed process. Rather
 than repeat the steps provided in text, this section
 includes the completed Class 0/I Survey Form. Note
-
 
 the separate entries for composite components (Aab,
 AB, Cab and ABC). This allows the computation of
@@ -3655,16 +3347,12 @@ one star. By convention, the primary star (Aa) is defined
 as being at Orbit# 0, although in fact Aa and Ab orbit
 each other around a common barycentre.
 
-
 IISS CLASS 0/I SURVEY FORM 0421B-0I
 Sector | Location Storr | 0602 Initial Survey: 207–568 Last Updated: 218–1061
 
-
 IISS Designation Zed System Age (Gyr): 6.3
 
-
 Objects Stellar: 5 Planetary Detections? n/a Class I Status? No
-
 
 Stars Component Class Mass Temp Diameter Luminosity Orbit AU Ecc Period HZCO
 Aa G7 V 0.929 5,440 0.967 0.738 0 — — — —
@@ -3683,19 +3371,18 @@ Notes :^1 1.841 standard days
 stars
 
 
-
 CORELLA
+
+
 The Corella system is home to Corella, the capital
 world of the Corellan League. It has a designated
 mainworld and stellar statistics from Travellermap.com
 indicating two stars: a G2 V and a G8 V. Text from the
 Spinward Extents (page 113) indicates that Corella is
 ‘orbiting two suns’, so rather than using the Existing
-Star Locations (Binaries) table in the Existing Systems
-(Continuation) section, the Referee can specify that the
+Star Locations (Binaries) table in the Existing Systems (Continuation) section, the Referee can specify that the
 G8 V is a companion star and determine characteristics
 of the orbit on that basis.
-
 
 Values for the stars’ mass, diameter and other
 parameters were determined with variances and by
@@ -3710,22 +3397,17 @@ have been rerolled or adjusted by the Referee.
 
 IISS Class 0/I Survey Form 0421B-0I
 
-
 Sector | Location The Beyond | 0314 Initial Survey: 174–203 Last Updated: 305–1090
-
 
 IISS Designation Corella System Age (Gyr): 4.9
 
-
 Objects Stellar: 2 Planetary Detections? n/a Class I Status? no
-
 
 Stars Component Class Mass Temp Diameter Luminosity Orbit AU Ecc Period HZCO
 A G2 V 1.224 5,840 0.998 1.045 0 — — — —
 B^1 G8 V 0.974 5,360 0.957 0.681 0.30 0.120 0.010 0.028y —
 Aab — 2.198 — — 1.725 0.30 0.120 0.010 0.028y 3.5
 Notes :^1 10.24 standard days
-
 
 Comments :
 
@@ -3734,25 +3416,19 @@ As many of the units used to characterise systems are based on Sol and Terra, th
 
 IISS Class 0/I Survey Form 0421B-0I
 
-
 Sector | Location Solomani Rim | 1827 Initial Survey: 001-(-2500) Last Updated: 001-(-2498)
-
 
 IISS Designation Terra System Age (Gyr): 4.568
 
-
 Objects Stellar: 1 Planetary Detections? n/a Class I Status? No
-
 
 Stars Component Class Mass Temp Diameter Luminosity Orbit AU Ecc Period HZCO
 Sol A G2 V 1.000 5,772 1.000 1.000 0 3.0
 Notes :
 
-
 Comments :
 
 stars
-
 
 
 Besides stars and stellar-like objects detailed in the
@@ -3770,24 +3446,20 @@ all other significant worlds present in a system. This
 chapter deals with the initial enumeration, placement
 and sizing of these bodies.
 
-
 WORLD TYPES AND QUANTITIES
-All systems have a designated mainworld. For a pre-
-existing system, this world is already detailed using the
+
+
+All systems have a designated mainworld. For a pre-existing system, this world is already detailed using the
 basic system generation procedures in the Traveller
-Core Rulebook or is available from some other pre-
-existing source. If generating a new ‘clean’ system
+Core Rulebook or is available from some other pre-existing source. If generating a new ‘clean’ system
 strictly by the expanded method, this mainworld is not
 yet designated but will be determined by the Referee
 as system generation proceeds.
 
-
-PRE-EXISTING MAINWORLDS
-(CONTINUATION METHOD ONLY)
+PRE-EXISTING MAINWORLDS (CONTINUATION METHOD ONLY)
 Any existing system created using the Traveller Core
 Rulebook or defined by many Traveller supplements
-and/or the Travellermap.com web site will have a pre-
-existing mainworld. In many cases, this will just be the
+and/or the Travellermap.com web site will have a pre-existing mainworld. In many cases, this will just be the
 basic UWP data from the mainworld and an indication
 of whether a gas giant is present within the system. In
 other cases, it may include additional information on
@@ -3795,7 +3467,6 @@ stars, other worlds and planetoid belts. This data may
 have been generated by different methods, including
 those in Book 6 Scouts, the DGP’s World Builder’s
 Handbook or T5.
-
 
 When scouts survey a new system, a mainworld is not
 automatically generated. If native sophonts or some
@@ -3808,7 +3479,6 @@ the Referee designates.
 # S WORLDS AND ORBITS
 
 ## YSTEM
-
 
 For pre-existing mainworlds, most of the procedures
 that follow still apply. This chapter will add further
@@ -3823,9 +3493,7 @@ and number of gas giants. Also, the count of planetoid
 belts and terrestrial planets may be altered if an existing
 mainworld affects the ‘raw’ count of such objects.
 
-
-KNOWN WORLDS IN EXISTING SYSTEMS
-(CONTINUATION METHOD ONLY)
+KNOWN WORLDS IN EXISTING SYSTEMS (CONTINUATION METHOD ONLY)
 In addition to the presence of the mainworld and
 possibly a gas giant, many systems have additional
 information published about them. Much of this
@@ -3841,8 +3509,9 @@ giant number (G) from the W code. If these values are
 known, the process of creating a system can move to
 on to the Available Orbits section on page 38.
 
-
 GAS GIANTS
+
+
 A gas giant is defined as any world with a thick
 atmosphere primarily consisting of hydrogen, generally
 of at least twice Terra’s diameter and ranging in mass
@@ -3856,7 +3525,6 @@ to determine if a gas giant exists is roll 1D and indicate
 existence on a 2+. The Referee can pick the method
 that works best for them and stick with it:
 
-
 There are no DMs to the gas giant existence roll
 unless the primary star is subject to rules covered
 in the Special Circumstances chapter. If a gas giant
@@ -3864,7 +3532,6 @@ is present, roll on the Gas Giant Quantity table to
 determine the number of gas giants present.
 
 Gas Giant Quantity
-
 
 2D+DM Quantity
 4- 1
@@ -3874,37 +3541,25 @@ Gas Giant Quantity
 12 5
 13+ 6
 
-
 System consists of a
 single Class V star
 
-
 DM+1
-
 
 Primary star is a brown
 dwarf
 
+DM-2
+
+Primary star is a post-stellar object
 
 DM-2
 
+Total number of post-stellar object(s)
 
-Primary star is a post-
-stellar object
-
-
-DM-2
-
-
-Total number of post-
-stellar object(s)
-
-
-DM-1 per post-stellar object
-(including primary star)
+DM-1 per post-stellar object (including primary star)
 System consists of four
 or more stars
-
 
 DM-1
 
@@ -3926,10 +3581,8 @@ planetoid belt for other defined regions of many small
 bodies, is arbitrary but this distinction allows for Size 0
 mainworlds of varying types.
 
-
 Regardless of the nature of the mainworld, a planetoid
 belt is present on a roll of 8+.
-
 
 There are no DMs to the planetoid belt existence roll
 unless the primary star is subject to rules covered in
@@ -3937,48 +3590,34 @@ the Special Circumstances chapter. If a planetoid belt
 is present, roll on the Planetoid Belt Quantity table to
 determine the number.
 
-
 Planetoid Belt Quantity
 2D+DM Quantity
 6- 1
 7-11 2
 12+ 3
 
-
 System has 1 or more
 gas giants
 
-
 DM+1
-
 
 Primary star is a
 protostar
 
-
 DM+3
 
-
 Primary star is primordial DM+2
-Primary star is a post-
-stellar object
-
+Primary star is a post-stellar object
 
 DM+1
 
+Total number of post-stellar object(s)
 
-Total number of post-
-stellar object(s)
-
-
-DM+1 per post-stellar object
-(including primary star)
+DM+1 per post-stellar object (including primary star)
 System consists of two
 or more stars
 
-
 DM+1
-
 
 Continuation Method Only: If a mainworld already
 exists and is known to be an asteroid belt (not some
@@ -3989,11 +3628,12 @@ allocating worlds, especially in multi-star systems but this
 extra belt must be subtracted when importing planetoid
 belt data (but not total world data) into Travellermap.
 
-
 TERRESTRIAL PLANETS
+
+
 Besides the mainworld and any gas giants or planetoid
 belts, a system may have additional planets. These
-worlds can range in Size from 1 to F (15). They are
+worlds can range in Size from 1 toF (15). They are
 termed terrestrial planets, because like Terra they are
 
 system worlds and orbits
@@ -4005,12 +3645,9 @@ or
 **_Gas Giant Exists on 2+:_** roll 1D
 **_Planetoid Belt Exists on 8+:_** roll 2D
 
-
-Planetoid Belts = Planetoid Belts + 1 (Continuation
+Planetoid Belts = Planetoid Belts +1 (Continuation
 Method Mainworld Asteroid Belt)
 
-
-TRAVELLER
 
 
 mostly solid bodies in orbit around their sun. Some, but
@@ -4019,37 +3656,29 @@ These worlds could also include bodies orbiting within
 planetoid belts (think of the ‘dwarf planets’ of Ceres,
 Pluto and Eris).
 
-
 All systems will have a quantity of terrestrial planets:
 
+Total number of post-stellar objects
 
-Total number of post-
-stellar objects
-
-
-DM-1 per post-stellar object
-(including primary star)
+DM-1 per post-stellar object (including primary star)
 If the resultant terrestrial
 planets are less than 3
 
-
 Reroll as D3+2
-
 
 If the resultant terrestrial
 planets are 3 or more
 
-
 Add D3-1
-
 
 Continuation Method: If a mainworld already exists
 and is not an asteroid belt or moon of a gas giant, the
 Referee should consider this world to be one of the
 resultant terrestrial planets.
 
-
 TOTAL WORLDS
+
+
 A system’s value of total worlds is simply the sum of
 planetoid belts, gas giants and terrestrial planets, with
 any mainworld that is not a moon counted as one of
@@ -4058,10 +3687,8 @@ as one of the planetoid belts, unless it is determined to
 be something else: a ring, artificial body or lone small
 system object. However, in general:
 
-
 Total Worlds = Planetoid Belts + Gas Giants +
 Terrestrial Planets
-
 
 Continuing with the example, Zed’s mainworld is not
 defined, so this system will be entirely created using
@@ -4071,28 +3698,27 @@ Giant Quantity table with DM-1 for the post-stellar
 object (the white dwarf) and DM-1 for four or more stars
 results in 11-2 = 9, which is four gas giants.
 
-
 Rolling for planetoid belts, a 9 indicates they are
 present and a Planetoid Belt Quantity table roll of 7 with
 DMs for gas giants, the white dwarf, and having two or
 more stars results in a 10, or two planetoid belts.
 
-
-A 2D-2 roll for terrestrial planets is 12-2 -1(for the post-
-stellar object) = 9, and the Referee adds a DM+D3-1
+A 2D-2 roll for terrestrial planets is 12-2 -1(for the post-stellar object) = 9, and the Referee adds a DM+D3-1
 resulting in 2, totalling 11 terrestrial planets. The Zed
 system has 4+2+11 = 17 worlds.
 
-
 AVAILABLE ORBITS
+
+
 The location of additional stars and worlds within a
 system is expressed in Orbit#s as described earlier, on
 page 24. Planets can only occupy certain orbits around
 one or more star depending on the configuration of the
 stars and their size.
 
-
 SINGLE STAR SYSTEMS
+
+
 For a single star system, determining available orbits
 is a straightforward process, with the only restrictions
 being based on the diameter of very large giant stars,
@@ -4106,7 +3732,6 @@ the listed stellar diameter. Converting this distance to
 Orbit#s and assuming a minimum fractional Orbit# of
 0.01 provides the results of the Minimum Allowable
 Orbit# table next page.
-
 
 MULTI-STAR SYSTEM ALLOWABLE ORBITS
 Star systems with multiple stars add complexity to
@@ -4146,7 +3771,6 @@ system worlds and orbits
 
 **_Terrestrial Planets =_** 2D-2 +DMs
 
-
 3. The primary star (and its possible companion) can
     have Orbit# up to 20 available.
 4. For each star in Close, Near or Far orbits, note the
@@ -4180,7 +3804,6 @@ system worlds and orbits
 
 Minimum Allowable Orbit# (MAO)
 
-
 Star Type Ia Ib II III IV V VI
 O0 0.63 0.60 0.55 0.53 — 0.5 0.01
 O5 0.55 0.50 0.45 0.38 — 0.3 0.01
@@ -4199,7 +3822,6 @@ M5 7.20 6.17 5.30 3.00 — 0.01 0.01
 M9 7.80 6.59 5.92 4.34 — 0.01 0.01
 
 See the Special Circumstances chapter for the MAO of post-stellar objects and brown dwarfs.
-
 
 an eccentricity of more than 0.5, the primary star
 could not use Orbit#s between 3.10 and 9.10.
@@ -4235,7 +3857,6 @@ to Far secondary stars.
 system worlds and orbits
 
 
-TRAVELLER
 
 11. If any Close, Near or Far star has an eccentricity
     of greater than 0.5, reduce the available Orbit#s of
@@ -4244,9 +3865,7 @@ TRAVELLER
     Orbit#s would be reduced again to 0.10. Again, this
     condition can only be triggered once per star.
 
-
 Consider the following for the example Zed star system:
-
 
 Star Orbit# Ecc MAO
 Primary (Aa) 0 — —
@@ -4255,7 +3874,6 @@ Near (B) 6.10 0.08 0.02
 Far (Ca) 12.01 0.47 —
 Far Companion (Cb) 0.21 0.24 —
 
-
 In this example, the Minimum Allowable Orbit# (MAO)
 was determined by the table (and ignored for now for
 the white dwarf) and neither of the companions nor
@@ -4263,7 +3881,6 @@ their direct primaries are allowed to have direct Orbit#s.
 The orbital configurations to consider are that of the
 primary and companion (here referred to as plain A),
 the Near star (B) and the Far star and companion (C).
-
 
 For A, the companion’s orbit with eccentricity 0.11
 prevents Orbit#s less than 0.50 + 0.11 or 0.61 from
@@ -4284,22 +3901,20 @@ range is an interrupted pattern of 0.61 – 5.10, 7.10
 Orbit#s is the sum of these numbers, 13.39 , which will
 become important later.
 
-
-For star B, it would normally have Orbit#s 0.02 to 3.10
-(6.10 - 3) available but the ‘adjacent’ Far star, reduces
+For star B, it would normally have Orbit#s 0.02 to 3.10 (6.10 - 3) available but the ‘adjacent’ Far star, reduces
 the outer bound to 2.10 and the Far star’s eccentricity
 of 0.47 reduce it again to Orbit 1.10, so B’s final
 available range is 0.02 to 1.10 or a total of 1.08 Orbit#s.
-
 
 The pair of stars at C cannot have Orbit#s less than
 0.5 + 0.24 or 0.74 available. The pair start with Orbit#s
 out to 9.10 (12.10 - 3) available but this is modified by
 the presence of star B and by the eccentricity of their
 
-
 ALTERNATE MULTI-STAR
 ORBIT DETERMINATION
+
+
 The method above requires only minimal math
 to determine available Orbit#s in a multi-star
 system. A more realistic physics-based approach
@@ -4312,20 +3927,17 @@ sphere – and the edge of the stable region within
 that region where planets are likely to form and
 remain in place. For this process:
 
-
 Step 1: Convert all Orbit# to AU. For this iteration,
 assume that companions and their ‘parent’ star
 have no Orbit#s but this process can also be used
 to determine stable orbits around each of these
 stars as well.
 
-
 Step 2: Determine the Hill sphere for each star,
 starting with the primary star and working outward.
 The formula is:
 
-**_Hill Sphere_** _= AU x (1 - ecc) x_
-
+**_Hill Sphere_** _= AUx (1 - ecc) x_
 
 Step 2a: For the primary star, AU = AU distance of
 closest secondary star and for each of these stars
@@ -4336,7 +3948,6 @@ eccentricity of that secondary star’s orbit, m =
 mass of the primary star + mass of its companion
 if it has one, and M = mass of the secondary star
 + its companion if it has one.
-
 
 Step 2b: For each secondary star, AU distance
 from the primary for that star and for each of
@@ -4350,13 +3961,10 @@ companion if it has one.
 
 system worlds and orbits
 
-
 m
 3 x M
 
-
 3
-
 
 Step 2c: If more than one secondary star exists,
 also check each against the other(s). For the AU
@@ -4384,7 +3992,7 @@ including the primary.
 
 Step 5: To determine stable orbits around multiple
 stars (including the companion) multiply the
-outermost star’s Hill sphere AU value by 2 (if an
+outermost star’s Hill sphere AU value by2 (if an
 orbit was around A and B, this would be B’s Hill
 sphere) and add this value to the outermost star’s
 AU × (1 + ecc). Convert to Orbit#s. This is the
@@ -4403,7 +4011,6 @@ the star and companion, although 3 × Orbit# × (1+
 ecc) can be used to substitute for the standard
 MAO of a star and companion, if desired.
 
-
 orbit around the primary by a total of -2.00 leaving only
 Orbit#s 0.74 - 7.10 available. While this outer bound
 seems high, Orbit# 7.10 is only 11 AU and the pair
@@ -4411,6 +4018,7 @@ never come even as close as 179 AU to any inner star.
 The total range for the C pair is equal to 6.36 Orbit#s.
 
 DETERMINING HABITABLE ZONE
+
 
 
 CENTRE ORBIT# (HZCO)
@@ -4429,19 +4037,15 @@ distance and luminosity is:
 
 **_Temperature ≈_**
 
-
 Considering temperature to be constant and solving
 for distance:
 
 **_Distance ≈_**
 
-
 Luminosity
 Distance^2
 
-
 4
-
 
 2
 
@@ -4449,8 +4053,6 @@ system worlds and orbits
 
 Luminosity
 
-
-TRAVELLER
 
 
 Or the distance of [[Terra|Terran]]-equivalent habitable zone
@@ -4461,12 +4063,10 @@ luminosity. Plugging this into the Star Luminosity by
 Class table gives the following values in AU in the
 table above.
 
-
 This table only applies to single stars. For circumbinary
 worlds of a star with a companion, the total luminosity of
 the two components can be added together to determine
 the effective location of the HZCO. Multiple stars in other
-
 
 Habitable Zone Centre Orbit#s (HZCO)
 Star Type Ia Ib II III IV V VI
@@ -4486,7 +4086,6 @@ M0 12.2 11.0 10.2 8.2 — 0.72 0.40
 M5 12.1 11.1 10.2 8.4 — 0.13 0.07
 M9 12.0 10.8 10.1 8.8 — 0.04 0.03
 
-
 Habitable Zone Centre (AU)
 Star Type Ia Ib II III IV V VI
 O0 1,844 1,789 1,643 1,549 — 1,483 13.4
@@ -4505,7 +4104,6 @@ M0 361 155 94 24.5 — 0.29 0.16
 M5 316 161 94 26.8 — 0.054 0.027
 M9 300 138 85 34.6 — 0.017 0.014
 
-
 orbits, especially if those orbits are outside the location
 of the world in question, become more complex but such
 effects will be considered in detail later. As a first pass
@@ -4515,12 +4113,10 @@ the planet effectively orbits, are simply added together
 to arrive at a combined luminosity value to use in the
 distance equation.
 
-
 Converting the above AU values into Orbit#s results in
 the following:
 
 system worlds and orbits
-
 
 For the Zed system, determining the habitable zone
 of a star and its companion involves adding their
@@ -4576,7 +4172,6 @@ the result is modified by dividing by the smaller of the
 HZCO or the worlds’ Orbit number and will result in a
 greater effective deviation.
 
-
 This calculation is not perfect but provides a good
 estimation of deviation from the HZCO to use in the
 Basic Temperature section’s table on page 109. For
@@ -4590,15 +4185,15 @@ based on various orbits to determine the bounds
 of temperature regions for use in the Step 3d when
 placing existing mainworlds in the following section.
 
-
 PLACEMENT OF WORLDS
+
+
 With the ranges of available Orbit#s determined
 and the location of the HZCO computed, the
 Referee can place the worlds within a system. The
 placement process assigns orbit slots to stars and star
 combinations and determines the Orbit# of each orbit
 slot, then places worlds within those slots.
-
 
 Disclaimer: The placement of worlds is a multistep
 process. It is straightforward in single star systems but
@@ -4620,9 +4215,7 @@ the Referee envisions, any planets can be placed as
 desired rather than as the dice fall and any available
 orbit around any star can be used as an orbit slot.
 
-
-STEP 1: ALLOCATIONS BY STAR IN SYSTEMS
-(MULTIPLE STARS ONLY)
+STEP 1: ALLOCATIONS BY STAR IN SYSTEMS (MULTIPLE STARS ONLY)
 Single star systems skip this step. In systems with
 multiple stars, planets could orbit different stars. To
 determine how many worlds are in orbit around each
@@ -4634,12 +4227,9 @@ section on page 38 – and if that star does not have a
 
 system worlds and orbits
 
-
 Orbit# - HZCO
 smaller of Orbit# or HZCO
 
-
-TRAVELLER
 
 
 companion but has at least some non-zero number of
@@ -4648,25 +4238,19 @@ Orbits are added (possibly plus 1), round down any
 fractional remainder to determine each star’s Total
 Star Orbits.
 
-
 Total Star(X) Orbits = ∑ Star(X)'s Allowable Orbits (with
 fractions) + 1 if no Companion*
-
 
 *Only if the star had more than zero previously computed Allowable
 Orbits
 
-
 Round down resulting Total Star Orbits to nearest whole number
-
 
 See the example for clarification. Next, add up the Total
 Star Orbits to compute the Total System Orbits.
 
-
 Total System Orbits = Total Star(1) Orbits + Total
 Star(2) Orbits + ... + Total Star(Last) Orbits
-
 
 Next to determine how many worlds are assigned per
 star, multiply the Total Worlds by that star’s Total Star
@@ -4674,10 +4258,8 @@ Orbits and divide by the Total System Orbits.
 
 **_Star(N)Worlds =_**
 
-
 round up for Star(1), down for Star(2) to (Last–1), assign all
 remaining worlds to Star(Last)
-
 
 Calculate this value for each star starting with the
 primary star and working ‘outward’ to stars in their
@@ -4686,7 +4268,6 @@ this value up, for intermediate stars, round down, and
 for the outermost star, assign all remaining worlds.
 The example below walks through this process for a
 fairly complex system:
-
 
 For the Zed system’s total worlds of 17, the allocation
 would proceed in this manner:
@@ -4697,13 +4278,11 @@ values where Star Aab, 13.39, Star B 1.08, Star Cab,
 its total to get 2.08. This rounds down to 13, 2 and 6 so
 Total System Orbits is 13 + 2 + 6 equals 21.
 
-
 Next, the number of worlds per star is determined for
 each star (or pair). Star Aab receives 17 × 13 ÷ 21
 = 10.52, rounded up to 11, Star B receives 17 × 2 ÷
 21 = 1.62, rounded down to 1, and Star Cab gets the
 remainder, which is 17 - 11 - 1 = 5.
-
 
 STEP 2: DETERMINE SYSTEM BASELINE NUMBER
 Although the number of worlds is already determined,
@@ -4721,7 +4300,6 @@ the habitable zone entirely. It is possible the entire
 planetary system lies inside the habitable zone or that
 all the worlds lie outside it.
 
-
 In some instances, specifically in multi-star systems
 with one or more close stars, the HZCO is unavailable
 for placement of an orbit. These systems can have two
@@ -4730,7 +4308,6 @@ available to the primary star(s) until beyond the close
 stars(s). In this case, the baseline number is set to 0
 and the first orbit occurs beyond the orbits not allowed
 by the close star(s). This system is considered ‘cold’.
-
 
 In the second case, some orbits are available to the
 primary star(s) prior to the unallowed zone. In this
@@ -4744,7 +4321,6 @@ separated by a minimum of 0.01 Orbits. For these ‘split’
 systems, the baseline number is one more than the
 number of orbits placed in this inner region.
 
-
 If the HZCO is available to the primary star(s), to
 determine baseline number for the primary star, roll 2D
 and apply the listed DMs:
@@ -4753,10 +4329,8 @@ and apply the listed DMs:
 
 system worlds and orbits
 
-
 Total worlds x Total Star(N) orbits
 Total System Orbits
-
 
 
 Primary star has a companion DM-2
@@ -4812,7 +4386,6 @@ one of four methods based on the conditions below:
 4. An existing mainworld occupies a habitable zone of
     the system. (Continuation Method Only)
 
-
 If the results of any of these processes place the
 baseline Orbit# in an unavailable Orbit#, the Referee
 should place the baseline orbit at the nearest available
@@ -4823,26 +4396,21 @@ placement is unacceptable because of a known
 mainworld environment, the Referee may need to move
 stars to different Orbits#.
 
-
 STEP 3A: BASELINE NUMBER IS BETWEEN 1 AND THE
 SYSTEM’S TOTAL WORLDS
 If the baseline number meets this condition, then it
 should correspond to a world lying well inside the
 habitable zone. Determine the exact location of this
 baseline Orbit# by rolling 2D-7 and dividing by 10 (or by
-100 if the HZCO is less than 1.0) to determine the +0.5
-(or 0.05) Orbit# variance.
-
+100 if the HZCO is less than 1.0) to determine the +0.5 (or 0.05) Orbit# variance.
 
 If HZCO greater than or equal to 1.0:
 
 **_Baseline Orbit# =_** HZCO +
 
-
 Or, if HZCO less than 1.0:
 
 **_Baseline Orbit# =_** HZCO +
-
 
 Zed’s baseline number of 5 meets condition a) above
 and places the fifth world’s orbit within the habitable
@@ -4855,22 +4423,18 @@ Orbit equal to 3.3 + (-2 ÷ 10) = 3.1. Therefore, of the
 four worlds are within Orbit# 3.1 and six are further
 away from the stars.
 
-
 STEP 3B: BASELINE NUMBER IS LESS THAN 1
 If the baseline number is less than 1, all of the system’s
 worlds are further than the primary star’s HZCO. This
 is a cold system. The first orbit is beyond a point either
 based on the primary star(s) minimum Orbit#, its
 HZCO or MAO, whichever is greater. To determine the
-baseline Orbit#, subtract this negative (or zero) number
-(i.e., add the absolute value) - or a tenth of the baseline
+baseline Orbit#, subtract this negative (or zero) number (i.e., add the absolute value) - or a tenth of the baseline
 Orbit# if the HZCO is less than 1.0 – from the value of
 the HZCO and add a variance:
 
-
 (2D - 7)
 100
-
 
 (2D - 7)
 10
@@ -4878,25 +4442,21 @@ the HZCO and add a variance:
 system worlds and orbits
 
 
-TRAVELLER
-
 
 If minimum Orbit# greater than or equal to 1.0:
-
 
 Baseline Orbit# =
 HZCO-Baseline Number + Total Worlds +
 
-
 Or, if minimum Orbit# less than 1.0:
-
 
 Baseline Orbit# =
 Minimum Orbit# -
 
-
 STEP 3C: THE BASELINE NUMBER IS GREATER
 THAN TOTAL WORLDS
+
+
 If the baseline number is greater than the total worlds,
 all of the primary star’s worlds are closer than its
 HZCO. This is a hot system. The baseline Orbit#
@@ -4908,14 +4468,11 @@ then compute it as the HZCO minus baseline number
 divided by 10 plus the total worlds divided by 10. A
 variance can be added to the result.
 
-
 If HZCO – baseline number + total worlds is greater
 than or equal to 1.0 then:
 
-
 Baseline Orbit# =
 HZCO - Baseline Number + Total Worlds +
-
 
 Or, if HZCO – Baseline Number + total worlds is less
 than 1.0 then:
@@ -4924,12 +4481,10 @@ than 1.0 then:
 
 HZCO -
 
-
 If the latter formula still results in a negative number,
 then treat the baseline Orbit as the HZCO – 0.1 but no
 lower than the primary star’s MAO + the primary star’s
 total worlds x 0.01.
-
 
 STEP 3D: PLACING EXISTING MAINWORLD AT THE
 BASELINE ORBIT (CONTINUATION METHOD ONLY)
@@ -4939,7 +4494,6 @@ the case, then the mainworld’s Orbit# becomes the
 baseline Orbit#.
 
 _+_
-
 
 When the pre-existing mainworld is not in the habitable
 zone, determination of the baseline Orbit# uses one
@@ -4955,7 +4509,6 @@ because of baseline number values, they are placed in
 Orbit#s appropriate to their temperature regardless of
 baseline numbers or Orbit#s, if possible.
 
-
 For a habitable zone mainworld, determining an
 unknown baseline Orbit# involves reverse-engineering
 the Traveller Core Rulebook’s page 251 Temperature
@@ -4970,73 +4523,55 @@ temperature’. The unmodified 2D roll can therefore
 stand in as a proxy for the relative location of the world
 within the habitable zone.
 
-
 The Habitable Zones Regions table provides the initial
 orbital locations for varying baseline climatic conditions,
 although Atmosphere-related DMs could modify these
 
-
 (2D - 7)
 5
 
-
 (2D - 7)
 5
-
 
 (2D - 2)
 100
-
 
 (2D - 2)
 10
 
 system worlds and orbits
 
-
 ( Baseline Number + Total Worlds + )
 10
-
 
 Baseline Number
 10
 
-
 Habitable Zones Regions
-
 
 Raw
 Roll HZCO Deviation Type
-
 
 Average
 Temperature Description
 2- +1.1 or more
 Frozen
-< 222K
-(< -51°C)
+< 222K (< -51°C)
 Frozen world. No liquid water, very dry atmosphere.
-
 
 3 +1.00
 Cold
-222 – 273K
-(-51°C – 0°C)
-
+222 – 273K (-51°C – 0°C)
 
 Icy world. Little liquid water, extensive ice caps,
 4 +0.50 few clouds.
 5 +0.20
 
-
 Temperate
-273 – 303K
-(0°C – 30°C)
-
+273 – 303K (0°C – 30°C)
 
 Temperate world. Earth-like. Liquid and vaporised
 water are common, moderate ice caps.
-
 
 6 +0.10
 7 +0.00
@@ -5044,16 +4579,13 @@ water are common, moderate ice caps.
 9 -0.20
 10 -0.50
 Hot
-304 – 353K
-(31°C – 80°C)
-
+304 – 353K (31°C – 80°C)
 
 Hot world. Small or no ice caps, little liquid water.
 11 -1.00 Most water in the form of clouds.
 12+ -1.1 or less
 Boiling
-> 353K
-(> 80°C)
+> 353K (> 80°C)
 Boiling world. No ice caps, little liquid water.
 
 results. Raw roll refers to the 2D roll on the Traveller
@@ -5087,19 +4619,16 @@ to between 3 and 11. The location of the HZCO
 corresponds to a raw roll of 7 on the Traveller Core
 Rulebook Temperature table. Different roll results will
 
-
 change the world’s placement within the range of the
 habitable zone, for instance, a raw roll of 8 would
 result in a ‘hotter’ or closer orbit with a deviation of
 -0.10 Orbit#s from the HZCO.
-
 
 A temperate atmosphere location does not necessarily
 result in temperate conditions on the world’s surface.
 The DMs from the atmosphere code can skew the
 actual surface temperature significantly. Those DMs are
 listed below for easier reference:
-
 
 Atmosphere 0 or 1 No modifiers but temperature
 swings from roasting during
@@ -5110,7 +4639,6 @@ Atmosphere 6 or 7 DM+0
 Atmosphere 8 or 9 DM+1
 Atmosphere A, D or F DM+2
 Atmosphere B or C DM+6
-
 
 To determine the raw roll with limited information,
 assume the modified roll for a world known to be cold
@@ -5125,12 +4653,11 @@ atmosphere and estimating the original dice roll.
 
 system worlds and orbits
 
-
 HZCO
+
+
 1 - Deviation
 
-
-TRAVELLER
 
 
 The reverse-engineered raw roll is used below to
@@ -5144,13 +4671,11 @@ Habitable Zones Regions table, the mainworld’s Orbit#
 would be 3.0 - 0.2 = 2.8. The Referee can add a linear
 variance or an additional fractional digit if desired.
 
-
 If the mainworld is known to be a moon of another
 body – usually a gas giant but possibly any larger Size
 world – then place the mainworld’s parent planet in
 the baseline Orbit# and designate the mainworld as a
 moon of that planet.
-
 
 If the Orbit#s of multiple stars make appropriate
 mainworld placement impossible, e.g., none of the
@@ -5168,19 +4693,16 @@ place them – locations either near the habitable zone or
 outside any star’s 100D jump shadow are more likely,
 but not necessary, choices.
 
-
 STEP 4: EMPTY ORBITS
 In some systems the relatively neat progression of
 orbits is disrupted by an empty orbit not occupied by a
 planet or planetoid belt. Rolls for these orbital slots is
 assumed to be performed for the entire system but a
-Referee may choose to add more variance to a multi-
-star system by rolling for empty and anomalous orbits
+Referee may choose to add more variance to a multi-star system by rolling for empty and anomalous orbits
 for each star in the system, rather than for the system
 as a whole. For each system (or star) check for the
 presence of an empty orbit with a 2D roll on the Empty
 Orbits table to determine the quantity.
-
 
 Empty Orbits
 2D Empty Orbits
@@ -5188,7 +4710,6 @@ Empty Orbits
 10 1
 11 2
 12 3
-
 
 Empty orbits first increase the number of orbital slots
 available to a star – to make room for the gap without
@@ -5200,7 +4721,6 @@ empty orbits are placed (if possible) in Close, then
 Near, then Far star orbits, with the remainder allocated
 to the primary star.
 
-
 For the Zed system, empty orbits are rolled for the
 system as a whole. The roll is a 10, indicating one
 empty orbit. Since the Near star (B) has a non-zero
@@ -5210,13 +4730,11 @@ empty orbit will be placed around the Near star, just that
 the extra slot goes to Zed B increasing its allocation
 from 1 to 2.
 
-
 STEP 5: DETERMINE SYSTEM SPREAD
 The spread is the average separation between Orbit#s
 for the system’s planets and planetoid belts. If the
 baseline number is less than 1, treat baseline number
 as 1 for spread calculations.
-
 
 Determine the spread by subtracting the baseline
 Orbit# by the Minimum Allowable Orbit# (MAO, see
@@ -5226,7 +4744,6 @@ result by the baseline number. This value is the default
 fractional Orbit# separating worlds within the system:
 
 **_Spread =_**
-
 
 In some cases, especially where the baseline number
 is 1 or less and planets are plentiful, or if many Orbit#s
@@ -5243,14 +4760,11 @@ from MAO to the outermost allowed Orbit#, divided by
 the number of worlds is more than the system spread,
 system worlds and orbits then the spread can be changed to:
 
-
 (Baseline Orbit# - MAO)
 Baseline Number
 
-
 (Primary star(s) Available Orbits)
 Primary's Allocated Orbits + Total Stars
-
 
 In rare cases, large spread and baseline values and a
 series of random rolls may still place orbital slots beyond
@@ -5300,7 +4814,6 @@ as a starting point for the next spread addition. Using
 
 **_Maximum Secondary Spread =_**
 
-
 cumulative varied values with many inner Orbit#s risks
 the chance the Orbit# slot just prior to the Baseline
 Orbit# becomes very close to, or possibly even larger
@@ -5308,7 +4821,6 @@ than, the baseline Orbit#. With the expanded method,
 the Referee can choose to consider the baseline Orbit#
 as only a convention to establish spread, and let all
 orbital slots fall as the dice indicate.
-
 
 Optional Rule: In very compact systems, the Referee
 may choose to separate each orbital slot by a minimum
@@ -5325,14 +4837,12 @@ period relationships. The easiest method is to add 10%
 to the Orbit# (or AU) if the current orbital slot is within
 10% of the previous.
 
-
 Orbits# slots outside the baseline number slot are
 determined by continuing to add the spread to
 slots above the baseline Orbit#. If multi-star system
 considerations cause an Orbit# result to be unavailable,
 then add the width of that exclusion zone to the spread
 value to place the next slot.
-
 
 With Zed Aab’s MAO of 0.61, the Orbit# for the
 innermost orbital slot is determined as the MAO plus
@@ -5349,11 +4859,9 @@ The fourth becomes 2.1 +0.5 +a variance of 0.1 or
 Orbit# 2.7, and the fifth is the baseline number world
 with the predetermined baseline Orbit# 3.1.
 
-
 For orbital slots outside the baseline, continue to add
 the spread and variance, if any: slot six is at Orbit# 3.5,
 seven at Orbit# 4.1, eight at Orbit# 4.6.
-
 
 The ninth slot should be at Orbit# 5.2 but that Orbit#
 is excluded by the presence of star B. This exclusion
@@ -5363,27 +4871,20 @@ Orbit# 7.2 as the location for the nineth orbit of Zed
 Aab, which is actually the first circumtrinary orbit
 around AB. The tenth orbit then proceeds to Orbit#
 
-
-system worlds and orbits
-(2D - 7) x Spread
+system worlds and orbits (2D - 7) x Spread
 10
-
 
 (2D - 7) x Spread
 10
-
 
 Outermost Allowable Orbit# - Secondary MAO
 Secondary's Allocated Orbits + 1
 
 
-TRAVELLER
-
 
 7.8 and finally the eleventh is at Orbit# 8.3, which is
 still below the star of the next exclusionary zone which
 begins after Orbit# 10.1.
-
 
 For star B now with two slots, its Orbit# will be the MAO
 + Spread. A K8 V star has a MOA of 0.02, therefore the
@@ -5392,7 +4893,6 @@ roll is a 7, so it does not change. The second orbit is
 placed at Orbit #1.02, which the Referee rounds to Orbit
 #1.0. As this Orbit is below the maximum allowed Orbit#
 of 1.1 there is no reason to adjust the spread.
-
 
 For the star Cab pair, with five orbits to place in the
 potential range of Orbit#s 0.74 – 7.1, there is likewise
@@ -5405,16 +4905,13 @@ locations is 1.8 + 0.5 - 0.05, which rounds up to Orbit#
 2.3. The fourth orbit is 2.3 + 0.5 + 0.1 = Orbit# 2.9 and
 the fifth 2.9 + 0.5 – 0.15 rounded up to orbit #3.3.
 
-
 STEP 7: ADD ANOMALOUS PLANETS
 An anomalous orbit is one that does not follow the
 system’s regular orbit pattern. The planet occupying
 this orbit may be a captured body, or just a world in an
 unusual orbit, such as one that is inclined, retrograde
-or highly elliptical. It could even be a trojan world co-
-orbiting with another planet either 60° ahead or behind
+or highly elliptical. It could even be a trojan world co-orbiting with another planet either 60° ahead or behind
 it in orbit. Roll 2D on the Anomalous Orbits table.
-
 
 Anomalous Orbits
 2D Anomalous Orbits
@@ -5423,12 +4920,10 @@ Anomalous Orbits
 11 2
 12 3
 
-
 If anomalous orbits exist, the count of terrestrial
 planets (and total worlds) is increased by one for each
 anomalous orbit. Consult the Anomalous Orbit Type
 table for details on this planet’s orbital slot.
-
 
 Anomalous Orbit Type
 2D Description
@@ -5438,13 +4933,11 @@ Anomalous Orbit Type
 10–11 Retrograde orbit
 12 Trojan orbit
 
-
 The maximum number of terrestrial planets in any
 system is 13. If adding anomalous orbit increases this
 amount beyond 13, then any additional anomalous
 orbits add planetoid belts to the system instead and
 increase the total worlds accordingly.
-
 
 Random orbit: The location of the orbit does not
 correspond to the spread pattern. In a multi-star
@@ -5463,11 +4956,9 @@ Orbit# but should avoid multipliers below 0.5 in systems
 with many worlds. A random orbit has a DM+2 when
 rolling on the Eccentricity Values table.
 
-
 Eccentric orbit: Assign the orbit using the random
 orbit procedure above but apply DM+5 when rolling on
 the Eccentricity Values table.
-
 
 Inclined orbit: Assign the orbit using a random orbit
 procedure above and apply DM+2 when rolling for
@@ -5477,7 +4968,6 @@ notes on IISS forms, indicate the orbit as ‘Inclined XX°’
 with XX as the number of degrees. As inclination is not
 normally considered for Traveller orbits, this may be
 more for flavour than for effect.
-
 
 Retrograde orbit: Assign the orbit using the random
 orbit procedure above and apply DM+2 when rolling
@@ -5500,30 +4990,23 @@ orbital companion should be placed in an available
 system worlds and orbits unassigned slot using the following precedence:
 
 
-
 SOLAR SYSTEM PLANET AND OBJECT ORBITS
+
 
 
 1
 
-
 8 9
-
 
 7
 
-
 6
-
 
 5
 
-
 3
 
-
 2
-
 
 4
 
@@ -5572,7 +5055,6 @@ been inserted in the primary and companion stars’
 Aab Orbit sequence as ‘A1’ to give that pair of stars a
 total of twelve orbits.
 
-
 STEP 8: PLACING WORLDS
 After determining all the orbit slots in the system,
 worlds are placed into those slots in the following
@@ -5586,7 +5068,6 @@ the primary and other stars, i.e., those with Orbit#
 numbers based on the primary star, should be listed
 prior to those for the other stars themselves, although
 this is not required.
-
 
 After compiling the list, determine a method to randomly
 select an orbital slot. One method to accomplish this is
@@ -5602,7 +5083,6 @@ With a 1D prefix, rolls above the top prefix number (6
 and likely 5) are rerolled. See the Zed example for a
 walkthrough of this process.
 
-
 Mainworlds with no climate-based pre-existing
 information determined could be in any orbital slot but
 those with atmospheres 4–9 will almost always be in
@@ -5613,15 +5093,12 @@ worlds should be placed at least 1.0 full Orbit#s inside
 system worlds and orbits
 
 
-TRAVELLER
-
 
 the HZCO (or 0.1 if dealing with Orbit#s less than 1.0),
 frozen worlds at least 1.0 (or 0.1) full Orbit#s outside
 the HZCO. If the mainworld is known to be a moon,
 then both the mainworld and its parent planet should
 occupy the proper slot.
-
 
 If a mainworld is not known to be a moon, but being
 a moon is not excluded, this world placement method
@@ -5634,7 +5111,6 @@ to roll again or could consider the mainworld to be
 inside this planetoid belt as a significant body – in
 that case the system would also gain one more
 terrestrial planet to place.
-
 
 For each world (or empty orbit) in the order indicated
 above, roll the dice and place the world in the slot
@@ -5651,11 +5127,9 @@ left-over orbit. Additionally, anomalous orbital slots are
 exempt from placement of empty orbits; if this occurs,
 roll again.
 
-
 Once all the empty orbits, gas giants and planetoid
 belts are placed, fill the remaining orbits with
 terrestrial planets.
-
 
 For the Zed star system, consider the orbit table opposite.
 The ‘empty’ additional orbit slot has been placed in order
@@ -5667,7 +5141,6 @@ orbits. With 19 orbits, the prefix is 1D with only 1–4 as
 valid results and with a following 1D, which on a prefix of
 4, anything but a 1 would require a reroll
 
-
 Since there is no mainworld established, the empty
 orbit is determined first as: 3:3 or orbit slot C1. This
 is the orbit closest to the Cab pair, so the Referee
@@ -5676,26 +5149,21 @@ discretion to change or alter any of these rolls to create
 the desired vision of the system, to modify this result
 and use orbit slot C2 (the 3:4 result) instead.
 
-
 Next, the Referee places the four gas giants and
 then two planetoid belts randomly. Ignoring a slew of
-rerolls, the results are gas giants at 3:5 (C3), then 1:5
-(A5). The next roll is also 1:5 – this already exists, so
+rerolls, the results are gas giants at 3:5 (C3), then 1:5 (A5). The next roll is also 1:5 – this already exists, so
 1 is added to the second dice to get 1:6 (Aab6) and
 finally 2:6 (A11).
-
 
 Next, the two planetoid belts will be at 3:3 – the one
 orbit the Referee did not want empty – this time the roll
 stands and it becomes a belt. The second planetoid
 belt is at 1:4 (A4).
 
-
 Next, the remaining orbits (not the one marked as
 empty) will be filled with terrestrial planets. The
 completed picture of worlds in orbit around the five
 stars of Zed look like this:
-
 
 Orbit
 Slot 1D:1D Star Orbit# World
@@ -5713,8 +5181,7 @@ A10 2:5 AB 7.8 Terrestrial Planet
 A11 2:6 AB 8.3 Gas Giant
 B1 3:1 B 0.52 Terrestrial Planet
 B+ 3:2 B 1.0 Terrestrial Planet
-C1 3:3 Cab 1.4 Planetoid Belt-
-C2 3:4 Cab 1.8 Empty
+C1 3:3 Cab 1.4 Planetoid Belt-C2 3:4 Cab 1.8 Empty
 C3 3:5 Cab 2.3 Gas Giant
 C4 3:6 Cab 2.9 Terrestrial Planet
 C5 4:1 Cab 3.3 Terrestrial Planet
@@ -5729,7 +5196,6 @@ determine the eccentricity of its orbit around its star(s)
 using the Eccentricity Values table on page 27,
 adding any DMs listed with the table or received from
 system worlds and orbits anomalous orbit types.
-
 
 Determining a planet’s eccentricity is not required but it
 will add realism to a system and may have significant
@@ -5748,8 +5214,9 @@ planets, these factors need to be explicitly explored but
 as this is not recommended, they can be assumed to
 be in effect for planetary orbits which appear to cross.
 
-
 DEFAULT PLANET DESIGNATIONS
+
+
 Planetary designations begin with the star
 designation of their component parent or parent
 stars. Single star systems will forgo the ‘A’
@@ -5784,6 +5251,7 @@ AB I not Zed AabB I.
 PLANETARY ORBITAL PERIODS
 
 
+
 (LENGTH OF ‘YEARS’)
 A basic value to determine is the time a planet takes
 to orbit its sun(s). This is usually straightforward for a
@@ -5796,29 +5264,27 @@ an AU distance using the fractional Orbit# conversion
 to AU formula on page 26. Then determine the orbital
 period based on one of these three scenarios:
 
-
 PLANET ORBITING A SINGLE STAR
+
+
 Assuming the mass of the star is much larger than the
 mass of the planet, the simple formula for determining
-orbital period is the square root of the distance cubed
-(AU) divided by the star’s mass in Solar units (M) or:
+orbital period is the square root of the distance cubed (AU) divided by the star’s mass in Solar units (M) or:
 
 **_P =_**
 
-
 This formula provides an answer in years. Multiply by
 365.25 to determine days or 8766 to determine hours.
-
 
 For the case of the Zed system, the planet Zed B I orbits
 a single star. The planet’s Orbit# is 0.52 and the star’s
 mass is 0.626. Converting the Orbit# into AU yields 0
 + 0.4 × 0.52 = 0.208 AU. Using the above formula, the
-period or year length for this planet is the square root of
-(0.208^3 ÷ 0.626) = 0.1199 years or 43.79 days.
-
+period or year length for this planet is the square root of (0.208^3 ÷ 0.626) = 0.1199 years or 43.79 days.
 
 PLANETS ORBITING MULTIPLE STARS
+
+
 If a planet orbits a primary and its companion or any
 two stars, or even three or more stars, the total mass
 of all the stars it orbits around is considered. The
@@ -5826,10 +5292,8 @@ formula then becomes:
 
 **_P =_**
 
-
 In this case Σ M  is the sum of the masses of all the
 stars interior to the planet’s orbit.
-
 
 The Planet Zed AB I actually orbits three stars, the
 primary, its companion, and the Near star, Aa, Ab, B,
@@ -5837,16 +5301,10 @@ at an Orbit# of 7.2. The AU distance = 10 + 10 × 0.2 =
 
 system worlds and orbits
 
+AU^3 (M  )
 
-AU^3
-(M  )
+AU^3 (Σ M  )
 
-
-AU^3
-(Σ M  )
-
-
-TRAVELLER
 
 
 12 AU. The total of the three solar masses is 0.929 +
@@ -5854,8 +5312,9 @@ TRAVELLER
 2.462)1/2 = 26.493 years or, using just the fractional part
 for days, 26 years and 180 days.
 
-
 LARGE PLANETS ORBITING STARS
+
+
 The formula for orbital periods contains a simplification
 as the value M is actual (M + m) with the smaller
 case m indicating the mass of the orbiting body. In
@@ -5869,16 +5328,18 @@ masses by multiplying by 0.000003.
 
 **_P =_**
 
-
 BASIC WORLD SIZING
+
+
 If a mainworld is to emerge from the extended
 system generation process, the system’s planets and
 significant moons need at least basic Size information
 to begin determining which worlds may be suitable for
 mainworld generation.
 
-
 TERRESTRIAL WORLD SIZE
+
+
 The category of terrestrial worlds covers anything
 that is not a planetoid belt or gas giant, meaning any
 world large enough to be round and yet small enough
@@ -5889,18 +5350,16 @@ environment but that they are primarily composed of
 metal, rock, and/or ice, less than twice the diameter of
 Terra, and in most cases less than 10 [[Terra|Terran]] masses.
 
-
 Categorising these worlds requires some Size codes
 for worlds both smaller and larger than those provided
 for in the Traveller Core Rulebook system generation
 method. The Basic Terrestrial World Size table provides
 the full range of these Size codes.
 
-
 Basic Terrestrial World Size
 Size Basic Diameter Size Basic Diameter
-0 0 (planetoid) 7 11,200km
-R 0 (ring) 8 12,800km
+00 (planetoid) 7 11,200km
+R0 (ring) 8 12,800km
 S 600km 9 14,400km
 1 1,600km A 16,000km
 2 3,200km B 17,600km
@@ -5909,12 +5368,10 @@ S 600km 9 14,400km
 5 8,000km E 22,400km
 6 9,600km F 24,000km
 
-
 The Sizes of terrestrial worlds have more diversity than
 mainworlds typically exhibit. To determine the size of
 these worlds first roll 1D and then make a second roll
 as indicated in the Terrestrial World Sizing table.
-
 
 Terrestrial World Sizing
 1D Second Roll Size Ranges
@@ -5922,13 +5379,13 @@ Terrestrial World Sizing
 3–4 2D 2–C (12)
 5–6 2D+3 5–F (15)
 
-
 Other physical characteristics of these terrestrial
 planets will be determined World Physical
 Characteristics chapter, if or when necessary.
 
-
 ORBITAL RESONANCES
+
+
 Gravitational interactions between worlds and
 stars may result in orbits which are multiples of
 each other. For instance, in the Solar System,
@@ -5955,10 +5412,7 @@ near exact resonant relationship.
 
 system worlds and orbits
 
-
-AU^3
-(Σ M + m⊕^ x 0.000003)
-
+AU^3 (Σ M + m⊕^ x 0.000003)
 
 **GAS GIANT SIZE**
 Gas giants themselves are never mainworlds but
@@ -5974,8 +5428,7 @@ diameter but they do not follow a simple sizing curve.
 Instead, they require a 1D and up to two subsequent
 rolls on the Gas Giant Sizing table.
 
-The first 1D roll determines the general size category
-(Small, Medium or Large) of the gas giant. If precision
+The first 1D roll determines the general size category (Small, Medium or Large) of the gas giant. If precision
 is not needed, the Referee can stop there. The second
 roll based on the initial sizing result row determines
 the actual diameter as a factor of [[Terra|Terran]] diameter (1
@@ -5991,7 +5444,7 @@ digit indicating gas giant size category instead of
 Atmosphere: GS, GM, GL. The third SAH digit for gas
 giants corresponds to its diameter in [[Terra|Terran]] diameters
 and can use eHex notation as necessary to record the
-gas giant diameter from 2 to J (18). Gas giant mass
+gas giant diameter from 2 toJ (18). Gas giant mass
 can be recorded in the notes field in the IISS Class III
 form (see the end of the chapter). The Referee can add
 a variance to the mass value for variety but gas giants
@@ -6001,16 +5454,18 @@ Rolls and results for determining Size for the example
 Zed star system’s worlds are shown on page 56 with
 Size codes indicated.
 
-
 SIGNIFICANT MOONS
+
+
 A planet may have many moons; some gas giants may
 have over 100, not counting large clumps within their
 rings. This process determines only significant moons,
 those of size S or above and also indicates whether a
 planet has significant rings.
 
-
 QUANTITY OF SIGNIFICANT MOONS
+
+
 The possible number of significant moons depends
 on the Size and Orbit# of the planet. The Significant
 Moon Quantity table specifies the quantity rolls for
@@ -6018,7 +5473,6 @@ various planet Sizes, with DMs applying to location
 within a system. A negative number result indicates no
 significant moons. A result of exactly 0 indicates the
 presence of a planetary ring (Size code R).
-
 
 Significant Moon Quantity
 Planet Size Quantity
@@ -6028,7 +5482,6 @@ Planet Size A–F 2D-6
 Small Gas Giant (GS#) 3D-7
 Medium or Large Gas Giant (GM# or GL#) 4D-6
 
-
 If any of the below conditions apply: DM-1 per dice
 •	 Planet’s Orbit# is less than 1.0
 •	 Planet is an orbital slot adjacent to a companion
@@ -6036,7 +5489,6 @@ If any of the below conditions apply: DM-1 per dice
 adjacent to a Close or Near star unavailability range
 •	 Planet is in the adjacent orbital slot to the
 outermost Orbit# range of a Close, Near or Far star
-
 
 A DM per dice is a DM-1 for 1D rolls, DM-2 for 2D rolls,
 etc. Only one DM can apply regardless of the number
@@ -6046,28 +5498,20 @@ the unavailability zone condition indicated.
 
 Gas Giant Sizing
 
-
 1D+DM
-
 
 Description (Gas Giant
 Size Category) Code
 
-
-Second Roll
-(Diameter)
-
+Second Roll (Diameter)
 
 Diameter
 Ranges
 
-
-Third Roll
-(mass) Mass Ranges
+Third Roll (mass) Mass Ranges
 2- Small Gas Giant (Neptune) GS D3+D3 2–6⊕ 5 × (1D+1) 10–35⊕
 3–4 Medium Gas Giant (Jupiter) GM 1D+6 6–12⊕ 20 × (3D-1) 40–340⊕
 5+ Large Gas Giant (Superjovian) GL 2D+6 8–18⊕ D3 × 50 × (3D+4) 350–4,000⊕*
-
 
 Primary star is a Brown Dwarf, M-type Class V star, or any Class VI star: DM-1
 System Spread is less than 0.1: DM-1
@@ -6077,8 +5521,6 @@ subtract 200 times the result from 4,000 to determine its actual mass: (4,000 - 
 
 system worlds and orbits
 
-
-TRAVELLER
 
 
 Rolls and results for determining Size for the example Zed star system’s worlds
@@ -6102,20 +5544,15 @@ Cab Cab I 2.3 Gas Giant 1: 1+3 = 4; 5 × (1+1) = 10 GS4
 Cab Cab II 2.9 Terrestrial 1: 4 = 4 4
 Cab Cab III 3.3 Terrestrial 6: 6+1+3 = 10 or A A
 
-
 Optional Rule: If the Referee wishes to
-pre-determine Hill spheres for every planet
-(see page 75) the DM-1 per dice can instead
+pre-determine Hill spheres for every planet (see page 75) the DM-1 per dice can instead
 apply to any planet with a Hill sphere of less
 than 60 planetary diameters.
 
-
 For Zed’s planets – removing entries
 for the planetoid belts– significant moon
-quantity dice rolls and results are as follows
-(with DMs and why they apply (or do not)
+quantity dice rolls and results are as follows (with DMs and why they apply (or do not)
 indicated to the right):
-
 
 Planet Orbit Size Moon Rolls Results
 Aab I^1 1.0 B 2D-6 - 2 8-8 = 0 R
@@ -6142,15 +5579,12 @@ Near star’s unavailability zone start (5.11)
 (^3) DM-1 per dice for being adjacent to the Near
 star’s unavailability zone start end (7.09)
 (^4) No penalty for being adjacent to a Far
-star’s zone
-(^5) DM-1 per dice for being in an orbit of less
-than 1.0
-(^6) DM-1 per dice for being adjacent to the
+star’s zone (^5) DM-1 per dice for being in an orbit of less
+than 1.0 (^6) DM-1 per dice for being adjacent to the
 Near star’s outer range (1.1)
 (^7) No penalty as it is more than the spread away from the Far star’s
 outer range (7.1)
 system worlds and orbits
-
 
 _The results call for 32 total significant moons (and_
 two rings) across 16 planets. The principle of MOARN
@@ -6208,17 +5642,14 @@ For a gas giant, a roll of 6 indicates a larger moon and
 requires a 1D roll on the Gas Giant Special Moon Sizing
 table, followed by a final roll for Size.
 
-
 Significant Moon Sizing
 1D Second Roll Size Ranges
 1–3 none S
-4–5 D3-1 0 (R) – 2
+4–5 D3-10 (R) – 2
 6 Terrestrial: Size-1 -1D
 Gas Giant: Special
 
-
 0 (R) – F
-
 
 If a planet is Size 1, then any moon less than its Size
 is Size S. If any terrestrial world’s moon has a Size of
@@ -6227,16 +5658,14 @@ result of 2 the moon is just 1 Size less than the parent
 and on a 12, the moon is a twin world of identical Size
 to its primary world, otherwise it retains its current size.
 
-
 The Gas Giant Special Sizing table allows for larger
 moons to exist.
-
 
 Gas Giant Special Moon Sizing
 1D Second Roll Size Ranges
 1–3 1D 1 – 6
-4–5 2D-2 0 (R) – A (10)
-6 2D+4 6 – G (16)*
+4–5 2D-20 (R) –A (10)
+6 2D+4 6 –G (16)*
 *A second roll result of 16 or Size G indicates
 that the moon is a Small gas giant. On this result,
 determine the characteristics of the moon using
@@ -6249,15 +5678,12 @@ Medium gas giant instead.
 system worlds and orbits
 
 
-TRAVELLER
-
 
 Completing this process for all of Zed’s planets and
 significant moons is a repetitive but straightforward
 exercise, below are the results of moon sizing with
 each planet’s moon’s size separated by comma in the
 order they were generated.
-
 
 Planet Orbit Size Results Moon Sizes
 Aab I 1.0 B R R
@@ -6277,7 +5703,6 @@ Cab I 2.3 GS4 6 R, 1, S, 2, 2, R
 Cab II 2.9 4 0 —
 Cab III 3.3 A R R
 
-
 The moon results end up converting four of the moons
 to rings, providing rather significant double ring systems
 for planets Aab VI and Cab I. A total of 13 moons are
@@ -6289,8 +5714,9 @@ system, whose HZCO of 3.3 stretches from 2.3 to 4.3.
 These three moons of Size 3, 5 and A are among the
 best candidates for Mainworld.
 
-
 INSIGNIFICANT MOONS
+
+
 The Referee is free to specify insignificant moons by fiat.
 These moons are generally considered to be at least
 one kilometre in diameter but can approach 400km.
@@ -6299,15 +5725,15 @@ eccentric, retrograde or chaotic orbits. As a rule of
 thumb, a planet can have as many of these moons as its
 Size, multiplying Size by eight for gas giants.
 
-
 The Zed system could have more than 400
 insignificant moons, not to mention the denizens of the
 two planetoid belts and some other random flotsam
 such as cometary bodies. The Referee can toss these
 in as plot points if desired.
 
-
 PLANETARY SYSTEM PROFILE
+
+
 A star system’s planetary system profile does not
 contain much information about the distribution of
 worlds or their significant moons but serves as an
@@ -6316,27 +5742,25 @@ form. The short profile follows the format:
 
 G-P-T-N-S
 
-
 Where G = gas giant quantity, P = planetoid belt
 quantity, T = terrestrial planet quantity, N = baseline
 number, S = spread. If a baseline number is less than
 zero it is recorded as 0.
-
 
 The longer profile indicates relative position of these
 worlds, in the format:
 
 St-N-W-W-W...-S:-N-St-W-W...-S:...
 
-
 Where St = star designation (A, B, Ab, etc.), N =
-baseline number, W = planet type, a G, P, T or M (for
+baseline number, W = planet type, a G, P, T orM (for
 mainworld, if designated – a moon of a gas giant, or
 asteroid belt mainworld is indicated as GM or PM,
 respectively), and S = spread. For all stars, the N
 
-
 DEFAULT MOON DESIGNATIONS
+
+
 A significant moon is designated by an alphabetic
 character appended after the name of its parent
 world. These moons are ordered from the closet
@@ -6346,7 +5770,6 @@ the Size 5 moon in the example Zed system’s
 habitable zone would be initially designated as
 Aab IV d; the Size A and Size 3 moons would be
 Aab V b and Aab V d.
-
 
 Insignificant moons are often not initially
 discovered and occasionally transitory.
@@ -6362,7 +5785,6 @@ they could range up to Aab IV 117.
 
 system worlds and orbits
 
-
 is the placement in the string of the world closest
 to the HZCO, which might be different than the
 earlier determined baseline number, considering the
@@ -6373,11 +5795,11 @@ inside then N= X.
 _The short profile for the Zed system is: 4-2-C-5-0.5. The
 long profile for the Zed System (without Mainworld) is:_
 
-
-Aab-5-T-T-T-P-G-G-T-T-T-0.5:B-2-T-T-
-0.5:AB-0-T-T-G-0.5:Cab-0-P-G-T-T-0.5
+Aab-5-T-T-T-P-G-G-T-T-T-0.5:B-2-T-T-0.5:AB-0-T-T-G-0.5:Cab-0-P-G-T-T-0.5
 
 MAINWORLD CANDIDATE
+
+
 If a mainworld is not designated, a system’s habitable
 zones are the best places to initially search for a likely
 candidate. The habitable zone is generally considered
@@ -6412,19 +5834,17 @@ Size A world Aab VI.
 
 For Aab IV d, the Size 5 moon of Aab IV, its
 atmosphere and hydrographics can be rolled with a
-predetermined Temperature result of 9 (Orbit# 3.1
+predetermined Temperature result of9 (Orbit# 3.1
 is 0.2 Orbit#s closer than the HZCO and therefore
 warmer by +2). Rolling 8 for atmosphere results in
 a Standard (6) Atmosphere (2D-7 + Size(5)), which
 provides no DM on the temperature table. A roll of 7
 
-
-for hydrographics results in 6 (2D-7 + Atmosphere(6)),
+for hydrographics results in6 (2D-7 + Atmosphere(6)),
 giving the world a temperate environment and
 physical characteristics of 566, a little too small to be
 classified as a garden world but it could potentially
 become a rich and/or agricultural world.
-
 
 Other worlds in the habitable zone with some potential
 for atmosphere or liquid water include the Size 2
@@ -6436,11 +5856,9 @@ codes of 0. The two moons of Aab V are at Orbit#
 3.5, which makes the simulated temperature raw roll
 a 5. The planet Aab VI is at Orbit# 4.1 which gets a
 raw roll of 3. The results for these four worlds are
-200 (temperate), AA6 (temperate), 340 (cold), AB6
-(temperate). The 340 cold desert moon of Aab V is at
+200 (temperate), AA6 (temperate), 340 (cold), AB6 (temperate). The 340 cold desert moon of Aab V is at
 least survivable with a filter mask but not pleasant as
 it has an automatic trade code of poor.
-
 
 For Star B the HZCO is 0.92, leaving a range of
 0.82–1.02 – but since this outer limit crosses 1.0, the
@@ -6451,20 +5869,19 @@ table. Rolling 9 for atmosphere results in an Exotic (A)
 Atmosphere (2D-7 + Size(8)), which provides DM+2
 on the temperature table, adjusting the result to be 5,
 more temperate, but still unbreathable. A roll of 7 for
-hydrographics results in 6 (2D-7 + Atmosphere(A) -4),
+hydrographics results in6 (2D-7 + Atmosphere(A) -4),
 noted for a final SAH of 8A6.
-
 
 Stars Cab have a HZCO of 0.75, which creates the
 range of 0.65 to 0.85, excluding all of its worlds.
 
-
 Based on these results, the Referee designates Aab
-IV d (SAH = 566) as the mainworld candidate and
+IVd (SAH = 566) as the mainworld candidate and
 names it Zed Prime.
 
-
 IISS PROCEDURAL
+
+
 The initial survey within a star system is a Class II
 survey. Both the exploration and survey branches
 of the IISS perform Class II surveys, with the
@@ -6482,8 +5899,6 @@ system thought to be more interesting.
 system worlds and orbits
 
 
-TRAVELLER
-
 
 Class II survey information is recorded in RSC
 databases using a partial Class III data format. As
@@ -6491,8 +5906,9 @@ much of the data is incomplete and preliminary, it is
 not available to the RPSC until the completion of a
 Class III survey.
 
-
 CLASS II SURVEY
+
+
 After jumping into a system, a Class II survey
 establishes the location of all planetary-sized bodies,
 major planetoid belts and moons of significant size. The
@@ -6506,7 +5922,6 @@ obvious presence of abundant life by detecting certain
 combinations of atmospheric gases or clear biological
 spectra anomalies from surface vegetation.
 
-
 A Class II survey requires 2D days to conduct. It does
 not generally involve the deployment of probes, except
 for triangulation purposes and to detect worlds blocked
@@ -6515,7 +5930,6 @@ Landing parties are never deployed and contact with
 any local sophonts is not attempted. The only physical
 contact with a world might be for refuelling at a gas
 giant, waterworld or icy body.
-
 
 At the end of the survey, the SI of the system is 6,
 providing a reasonably accurate estimate of the orbits
@@ -6532,13 +5946,11 @@ piloting spacecraft in the vicinity of the scout craft, any
 contact and potential detection of the scout vessel and
 probes by the locals is actively avoided.
 
-
 Class II surveys are preliminary and usually followed-up
 by a Class III survey of the entire system. The Class II
 survey does not have a unique format but uses a Class
 II/III Survey data format with a flag marking the data as
 provisional and incomplete.
-
 
 ‘Sub’ is an abbreviation for subordinate bodies – in this
 case significant moons but it may also include dwarf
@@ -6548,42 +5960,33 @@ relevant profile information or miscellaneous remarks.
 
 system worlds and orbits
 
-
 IISS CLASS II/III SURVEY FORM 0421D-II.III
-
 
 Sector | Location Initial Survey Last Updated
 
-
 IISS Designation System Age (Gyr)
-
 
 Objects
 Stellar Gas Giants Planetoid Belts Terrestrials Class III Status?
 
-
 Stars Component Class Mass Temp Diameter Luminosity Orbit# AU Ecc Period MAO HZCO
-
 
 Notes :
 
-
 Objects Primary Object Orbit# AU Ecc Period SAH/UWP Sub Notes
-
 
 Comments :
 
 
-TRAVELLER
-
 
 EXAMPLES
+
+
 The information for the Class II/III survey form is
 incomplete after a Class II survey but is provided here
 as provisional non-public information following a Class
 II survey. The completed Class III from will be provided
 at the end of the following chapter.
-
 
 ZED SYSTEM (PAGE 63)
 For Zed, partial information has been developed in
@@ -6593,7 +5996,6 @@ not done as part of the inline example but have been
 added. Moons with a potential for mainworld status are
 detailed as separate objects.
 
-
 CORELLA (PAGE 65)
 The Corella system has a known number and type of
 worlds in Travellermap.com data. In addition to the
@@ -6601,19 +6003,17 @@ mainworld, there are four gas giants, three planetoid
 belts and three other (terrestrial) worlds for 11 total
 worlds. It will be detailed using the continuation method.
 
-
 The two stars have a combined luminosity of 1.74
 which computes to a habitable zone centred at the
 square root of that value in AU or 1.32AU, which
 is Orbit 3.5# – the HZCO value. All 11 worlds orbit
-these two stars, so a 2D roll of 6 minus 2 (DM-2 for
+these two stars, so a 2D roll of 6 minus2 (DM-2 for
 the companion) for the progression of the habitable
 zone world results in a baseline number of 4. Corella,
 the habitable zone world is the fourth world in the
 system. It is known to be neither too hot nor too cold,
 so a variance of -0.2 is acceptable, shifting its Orbit#
 from the HZCO of 3.5 to 3.3. The MAO is based
-
 
 on the primary and companion – Orbit# 0.5 as the
 companion’s orbit has no eccentricity. The spread is
@@ -6626,18 +6026,15 @@ Referee adds one orbit but not another world. There
 are now 12 orbits for 11 worlds. This allows a prefix of
 D2 followed by a D6 to assign all worlds to orbits.
 
-
 Corella is pre-placed in the fourth orbital position. The
 seventh orbit is determined to be empty and the rest of
 the worlds are placed, gas giants followed by planetoid
 belts followed by the three terrestrial worlds.
 
-
 Corella is known to have two ‘medium-sized moons’, so
 no roll for moon quantity is necessary. Rolling for size
 indicates two Size S moons, which fits acceptably with
 the given information.
-
 
 Consistent with a Class II survey, the other worlds and
 their moons have been added but a full SAH has only
@@ -6645,7 +6042,6 @@ been done for those in the HZ. Note the second planet
 is barely within the hot edge of the habitable zone and
 its large moon is suffering from very hot conditions with
 a raw temperature roll of 11.
-
 
 TERRA/SOL (PAGE 67)
 The Solar System is a known quantity but to simulate
@@ -6657,20 +6053,16 @@ the Kuiper Belt) they can be considered later.
 
 system worlds and orbits
 
-
 IISS CLASS II/III SURVEY FORM 0421D-II.III
-
 
 Sector | Location Initial Survey Last Updated
 Storr | 0602 207-568 218-1061
-
 
 IISS Designation System Age (Gyr)
 Zed (system) 6.336
 Objects
 Stellar Gas Giants Planetoid Belts Terrestrials Class III Status?
 5 4 2 12 Yes
-
 
 Stars Component Class Mass Temp Diameter Luminosity Orbit# AU Ecc Period MAO HZCO
 Aa G7 V 0.929 5,440 0.967 0.738 0 — — — — —
@@ -6683,7 +6075,6 @@ Cb^1 D 0.49 6,700 0.017 0.000525 0.21 0.084 0.24 8.761d — —
 Cab (C) — 1.030 — — 0.0896 0.21 0.084 0.24 8.761d 0.74 0.75
 ABC — 3.492 — — 1.6446 12.10 338 0.47 3,598y 14.10 —
 Notes:^1 1.701 Gyr as D-type
-
 
 Objects Primary Object Orbit# AU Ecc Period SAH/UWP Sub Notes
 Aab Aab I 1.0 0.40 0.20 0.187y B?? 0 R01
@@ -6709,22 +6100,19 @@ Aab IV Aab IV d* — — — — 566* — Temperate
 Aab V Aab V b — — — — AA6 — Temperate
 Aab V Aab V d — — — — 340 — Cold
 
-
 Comments *Further investigation required for mainworld candidate Aab IV d
 Tentative system designation: 566-837
 
 **ZED SYSTEM**
 
-
 ZED SYSTEM OVERVIEW
+
 
 
 IISS CLASS II/III SURVEY FORM 0421D-II.III
 
-
 Sector | Location Initial Survey Last Updated
 The Beyond | 0314 174-203 305-1090
-
 
 IISS Designation System Age (Gyr)
 Corella 4.984
@@ -6732,13 +6120,11 @@ Objects
 Stellar Gas Giants Planetoid Belts Terrestrials Class III Status?
 2 4 3 4 Yes
 
-
 Stars Component Class Mass Temp Diameter Luminosity Orbit# AU Ecc Period MAO HZCO
 A G2 V 1.224 5,840 0.998 1.045 0 — — — — —
 B G8 V 0.974 5,360 0.957 0.681 0.3 0.12 0.01 10.24d — —
 Aab — 2.198 — — 1.725 0.3 0.12 0.01 10.24d 0.50 3.5
 Notes:
-
 
 Objects Primary Object Orbit# AU Ecc Period SAH/UWP Sub Notes
 Aab Aab PI 1.2 0.46 n/a 0.210y 000?
@@ -6753,273 +6139,210 @@ Aab Aab VII 7.4 14.0 0.03 35.333y GLG 5 750 ⊕ , R01, S, S, 1, S, 4??
 Aab Aab VIII 8.1 22.0 0.15 69.602y GS4 3 20 ⊕ , R03, S, 1, S
 Aab Aab PIII 8.7 34.0 n/a 133.723y 000?
 
-
 Comments *Corella, Aab III, is the inhabited mainworld
 
 **CORELLA**
 
 
-
 0.0
-
 
 0.50
 
-
 0.25
-
 
 1.00
 
-
 1.50
-
 
 2.00
 
-
 0.75
-
 
 1.25
 
-
 1.75
-
 
 2.50
 
-
 3.00
-
 
 3.50
 
-
 4.00
-
 
 5.00
 
-
 6.00
-
 
 4.50
 
-
 5.50
-
 
 2.25
 
-
 2.75
-
 
 3.25
 
-
 3.75
-
 
 4.75
 
-
 5.75
-
 
 4.25
 
-
 5.25
-
 
 7.00
 
-
 6.50
-
 
 6.75
 
-
 6.25
 
-
 8.00
-
 
 7.50
 7.75
 
-
 7.25
-
 
 9.00
 
-
 8.50
-
 
 8.75
 
-
 8.25
-
 
 0.0
 
-
 0.50
-
 
 0.25
 
-
 1.00
-
 
 1.50
 
-
 2.00
-
 
 0.75
 
-
 1.25
-
 
 1.75
 
-
 2.50
-
 
 3.00
 
-
 3.50
-
 
 4.00
 
-
 5.00
-
 
 6.00
 
-
 4.50
-
 
 5.50
 
-
 2.25
-
 
 2.75
 
-
 3.25
-
 
 3.75
 
-
 4.75
-
 
 5.75
 
-
 4.25
-
 
 5.25
 
-
 7.00
-
 
 6.50
 
-
 6.75
-
 
 6.25
 
-
 8.00
-
 
 7.50
 7.75
 
-
 7.25
-
 
 9.00
 
-
 8.50
-
 
 8.75
 
-
 8.25
-
 
 A
+
 
 
 B
 
 
+
 Corella
 
-
 VI
+
 
 
 VII
 
 
+
 VIII
+
 
 
 II
 
 
+
 IV
+
 
 
 PI
 
 
+
 PII
+
 
 
 PIII
 
 
+
 I
+
 
 
 V
 
+
+
 0.0
 
 0.50
-
 
 0.25
 
@@ -7029,12 +6352,9 @@ V
 
 2.00
 
-
 0.75
 
-
 1.25
-
 
 1.75
 
@@ -7054,27 +6374,19 @@ V
 
 5.50
 
-
 2.25
-
 
 2.75
 
-
 3.25
-
 
 3.75
 
-
 4.75
-
 
 5.75
 
-
 4.25
-
 
 5.25
 
@@ -7082,9 +6394,7 @@ V
 
 6.50
 
-
 6.75
-
 
 6.25
 
@@ -7092,9 +6402,7 @@ V
 
 7.50
 
-
 7.75
-
 
 7.25
 
@@ -7102,21 +6410,18 @@ V
 
 8.50
 
-
 8.75
-
 
 8.25
 
 CORELLA SYSTEM OVERVIEW
 
 
-IISS CLASS II/III SURVEY FORM 0421D-II.III
 
+IISS CLASS II/III SURVEY FORM 0421D-II.III
 
 Sector | Location Initial Survey Last Updated
 Solomani Rim | 1827 001-(-2500) 001-(-2498)
-
 
 IISS Designation System Age (Gyr)
 Terra 4.568
@@ -7124,11 +6429,9 @@ Objects
 Stellar Gas Giants Planetoid Belts Terrestrials Class III Status?
 1 4 2 4 Yes
 
-
 Stars Component Class Mass Temp Diameter Luminosity Orbit# AU Ecc Period MAO HZCO
 Sol A G2 V 1.0 5,772 1.00 1.00 0 0.03 3
 Notes:
-
 
 Objects Primary Object Orbit# AU Ecc Period SAH/UWP Sub Notes
 Mercury A A I 0.98 0.387 0.205 0.241y 300 0
@@ -7142,13 +6445,12 @@ Uranus A A VII 7.9 19.19 0.047 84.021y GS4 5 14.5 ⊕ , S, 1, 1, 1, 1
 Neptune A A VIII 8.5 30.07 0.009 164.79y GS4 2 17.1 ⊕ , S, 2
 Kuiper Belt A A PII 9.5 58.5 n/a 447.44y 000?
 
-
 Comments *Terra is the inhabited mainworld
 
 **TERRA/SOL**
 
-
 SOL SYSTEM OVERVIEW
+
 
 
 
@@ -7164,7 +6466,6 @@ also allow for the creation of the SAH (Size,
 Atmosphere, Hydrographics) characteristics of other
 worlds within the system.
 
-
 While the procedures in this section include the
 process for creating a world from scratch, in the case of
 the continuation method where a whole UWP is known
@@ -7173,18 +6474,15 @@ the Size of a world is known, these established values
 can be carried forward and act as the starting point for
 additional details specific to a world.
 
-
 These procedures assume a ‘middle-aged’ star system
 and are baseline procedures. Modifications to these
 procedures for protostar systems (most systems under
 10 million years old with planets still under formation
-and constant bombardment) and primordial systems
-(those under 100 million years old with atmospheres
+and constant bombardment) and primordial systems (those under 100 million years old with atmospheres
 retaining primordial gases and with still chaotic orbits
 of minor and possibly major bodies causing frequent
 impacts) are covered in more depth in the Special
 Circumstances chapter.
-
 
 This chapter’s procedures will expand the generic
 Size, Atmosphere and Hydrographics characteristics
@@ -7198,8 +6496,9 @@ procedures in this book, they build upon basics
 introduced in the Traveller Core Rulebook and need
 only be taken as far as the Referee desires.
 
-
 SIZE
+
+
 The Size characteristic of a world determines much
 about its nature but it is a generic value, with a fairly
 broad range and no details as to the world’s density,
@@ -7207,7 +6506,6 @@ broad range and no details as to the world’s density,
 # W CHARACTERISTICS
 
 ## ORLD PHYSICAL
-
 
 which determines its gravity. Other basic physical details
 emerge from a world’s Size and density, including
@@ -7218,19 +6516,17 @@ during normal Traveller Core Rulebook world generation.
 Each Size corresponds to a range of diameters indicated
 on the World Size table overleaf.
 
-
 If the Referee wishes to introduce world Sizes larger
-than A (10) without the procedures for creating an
+thanA (10) without the procedures for creating an
 entire system using the System Worlds and Orbits
 chapter, worlds rolled with 2D-2 that result in Size A
-can be rerolled to allow for larger Sizes up to F (15).
+can be rerolled to allow for larger Sizes up toF (15).
 This can be done by rolling 1D+9 for Size in these
 cases, or, to create a less linear distribution: first roll
 1D for a Size A world and on a 4+ increase its Size to
 B, then roll 1D again and on a result of 4+, increase
 the Size to C, and so on, up to Size F. Beyond Size F,
 gas giants almost always form.
-
 
 If a world is Size 0 and is an asteroid or planetoid belt,
 as opposed to a single natural or artificial body, the
@@ -7239,8 +6535,9 @@ the detailing of Size-related properties for belts can
 proceed in the Planetoid Belt Characteristics section
 beginning on page 72.
 
-
 DIAMETER
+
+
 The World Size table (page 70) provides conversion
 from a world’s Size characteristic to its diameter in
 kilometres. The diameter of a world is based on a
@@ -7254,14 +6551,11 @@ diameter from the minimum diameter value of a
 particular Size. Add the results from the D3 and 1D
 rolls. If the total is 1,600 or more, roll both dice again.
 
-
 D3 Increase from Minimum
 1 +0
 2 +600km
 3 +1,200km
 
-
-TRAVELLER
 
 
 1D Increase D3 Result
@@ -7273,11 +6567,9 @@ TRAVELLER
 6 +500km*
 *Reroll both dice if the D3 result was 3
 
-
 To achieve even more detail, down to the kilometre
 level, roll d10 twice as a d100 to get a number from 00
 to 99 and add that number to the determined diameter.
-
 
 For a Size S world, simply roll on the second table,
 rerolling a 5 or 6, and then add that number to 400
@@ -7285,12 +6577,12 @@ kilometres to get the dwarf planet’s diameter. As with
 larger worlds, a d100 linear variance can be added to
 the result.
 
-
 COMPOSITION AND DENSITY
+
+
 The density of a world depends greatly on its
 composition. Iron has a density of 7.8 times that of
 water and may be even more dense when compressed
-
 
 by the extreme pressures near the core of a world.
 Most ‘rocks’ have a density of about 2.5–3.0 – granite
@@ -7303,13 +6595,11 @@ although rocky, they are overall less dense than water.
 In general, the worlds that are larger and hotter will be
 denser, but exceptions will always occur.
 
-
 The formulas based on density are also based on
 other Terra-centric units, so the value of 5.514g/
-cm^3 is defined as 1.0 or standard density. On this
+cm<sup>3</sup> is defined as 1.0 or standard density. On this
 scale, regular water or ice has a density of 0.181 and
 hydrogen ice has a density of 0.0126.
-
 
 To determine the density of a world, first determine its
 basic structure on the Terrestrial Composition table,
@@ -7321,9 +6611,7 @@ the Referee wishes.
 
 World Size
 
-
 Size
-
 
 Average
 Diameter Diameter Range Notes
@@ -7348,9 +6636,7 @@ F 24,000km 23,200– 4,799km Maximum Super-Earth
 
 world physical characteristics
 
-
 Terrestrial Composition
-
 
 2D+DM Composition
 -4or less Exotic Ice
@@ -7359,7 +6645,6 @@ Terrestrial Composition
 7–11 Rock and Metal
 12–14 Mostly Metal
 15+ Compressed Metal
-
 
 Size 0–4 DM-1
 Size 6–9 DM+1
@@ -7371,30 +6656,23 @@ System age greater than 10 Gyr DM-1
 
 Terrestrial Density
 
-
 2D
-
 
 Exotic
 Ice
 
-
 Mostly
 Ice
 
-
 Mostly
 Rock
-
 
 Rock
 and
 Metal
 
-
 Mostly
 Metal
-
 
 Compressed
 Metal
@@ -7416,7 +6694,7 @@ chart for variability.
 **GRAVITY AND MASS**
 Gravity is density multiplied by Size. Size in this
 case can be determined in two ways, either as world
-UWP Size ÷ 8 (Size of Terra) or as world diameter
+UWP Size ÷8 (Size of Terra) or as world diameter
 in kilometres divided by 12,742 (diameter of Terra).
 Either way the formula is:
 
@@ -7442,14 +6720,12 @@ metres per second:
 
 **_Escape Velocity (EscV) =_** × 11,186
 
-
 Divide by 1,000 to determine the velocity in
 kilometres per second. To determine the orbital
 velocity at the equivalent surface of the planet, divide
 this result by the square root of 2:
 
 **_Orbital Velocity (surface) =_** EscV ÷ √2
-
 
 This number is the velocity required to reach orbit,
 ignoring any additional thrust needed to overcome
@@ -7460,15 +6736,12 @@ juggling of formulas provides:
 
 **_Orbital Velocity(h) =_** 11,186 x
 
-
 3
 
 world physical characteristics
 
-
 Density x Diameter
 Diameter⊕
-
 
 Diameter
 Diameter⊕
@@ -7477,43 +6750,36 @@ Diameter
 
 #### ( )Diameter⊕
 
-
 Mass
 Mass⊕
 
-
 2
-
 
 Mass
 Mass⊕
 Radius + h
 Radius⊕
 
-
 2
 
 2 x
 
-
-TRAVELLER
 
 
 In this latter case, use kilometres for the radius (half the
 world’s diameter) and the height above the surface and
 6,371 kilometres as the value for Terra.
 
-
 SIZE PROFILE
+
+
 A Size profile is a concise information summary of
 related material, expressing:
 
 S-Dkm-D-G-M
 
-
 Where S=Size, Dkm = Diameter in kilometres, D =
 Density, G = Gravity, M = Mass.
-
 
 For the Zed system’s proposed mainworld of Size 5,
 rather than use the standard 8,000km diameter, actual
@@ -7524,7 +6790,7 @@ is determined by a 2D roll with DM+1 for being closer
 than the HZCO (Orbit 3.1 is within 3.3) resulting in 10
 + 1 = 11 or rock and metal. Rolling on the Terrestrial
 Density table in the rock and metal column results in
-a 9, giving a density of 1.03 (about 5.68g/cm^3 ). With
+a 9, giving a density of 1.03 (about 5.68g/cm<sup>3</sup> ). With
 these values, gravity can be computed as 1.03 × 0.64
 = 0.66G, and mass as 1.03 × 0.64^3 = 0.27⊕.. Further
 calculations indicate an escape velocity from this world
@@ -7533,8 +6799,9 @@ metres per second at the surface and, for example,
 4,847 at 500km orbital altitude. This world’s Size profile
 is 5-8163-1.03-0.66-0.27.
 
-
 PLANETOID BELT CHARACTERISTICS
+
+
 A Size 0 world is a special case. It is not a world at all,
 but either a belt of planetoids, a single small body or an
 artificial body such as a space station. A Size 0 mainworld
@@ -7542,7 +6809,6 @@ could even be a tiny moon or a ring around another world.
 This section will consider the general case, an asteroid/
 planetoid belt, whether mainworld or not. The term ‘belt’
 will be used below as a generic designation.
-
 
 Major considerations for a belt are the breadth or span,
 its overall population or bulk, the composition of its
@@ -7552,8 +6818,9 @@ of smaller bodies down to countless pebble-sized
 rocks but often the majority of a belt’s overall mass is
 distributed in just a few large bodies.
 
-
 BELT SPAN
+
+
 A belt’s Orbit# is the orbit of the middle of the belt,
 halfway between its inner and outer established
 boundaries. Individual planetoids, sometimes quite
@@ -7569,20 +6836,15 @@ determined by the formula:
 
 **_Belt Span =_**
 
-
 If the ‘next’ inner or outer orbital slot
 contains a gas giant:
 
-
 DM-1
-
 
 If the belt occupies the outermost orbital
 slot of a system:
 
-
 DM+3
-
 
 If a spread has not been determined for a system, use
 the value of 2D × 0.1 Orbit# as the spread value in the
@@ -7590,8 +6852,9 @@ belt span determination. A span is the total width of the
 belt, meaning the Orbit#s of most of its bodies are plus
 or minus half of this value from the belt’s overall Orbit#.
 
-
 BELT COMPOSITION
+
+
 Most belts have a varied composition consisting of
 metallic (m), stony (s) and icy or carbonaceous (c)
 bodies. Other types exist, including peculiar bodies
@@ -7610,13 +6873,10 @@ percentages of each type of body.
 
 world physical characteristics
 
-
-Spread x (2D)
+Spreadx (2D)
 10
 
-
 Belt Composition Percentages
-
 
 2D+DM m-type s-type c-type
 0- 60+1D×5 1D×5 0
@@ -7633,7 +6893,6 @@ Belt Composition Percentages
 11 D3 5+1D×2 60+1D×5
 12+ 0 1D 70+1D×5
 
-
 Belt Orbit# inside the HZCO DM-4
 Belt Orbit# is beyond HZCO+2 DM+4
 
@@ -7642,8 +6901,9 @@ any excess % first from m-type, then from s-type. If the
 total is less than 100%, then all the remaining % are
 allocated as ‘other’ composition.
 
-
 BELT BULK
+
+
 A belt’s bulk is an overall factor of the volume of the
 bodies comprising the belt. It considers the mass and
 density of all the bodies within the belt’s span. A belt
@@ -7658,34 +6918,30 @@ bulk is a relative factor determined by:
 
 **_Belt Bulk =_** 2D2+DMs
 
-
-System Age DM-System Age (Gyr) ÷ 2 (round down)
+System Age DM-System Age (Gyr) ÷2 (round down)
 Composition DM+(c-type%) ÷ 10 (round down)
-
 
 If the belt bulk is less than 1, treat it as 1. For example,
 a belt in a system aged 4.5 Gyrs composed of
 33% c-type bodies has DM-2 for age and DM+3 for
 composition for a total DM+1.
 
-
 BELT RESOURCE RATING
+
+
 An asteroid belt does not use the same procedures as a
 large world for determining resource rating but instead:
 
 **_Resource Rating =_** 2D-7 + DMs
 
-
 Bulk DM+bulk
 Composition DM+(m-type% ÷ 10) (round down)
 Composition DM-(c-type% ÷ 10) (round down)
-
 
 For example, a belt with a bulk of 4 and composed of
 22% m-type bodies, and 18% c-type bodies has DM+4
 for bulk and both +2 and -2 (since -1.8 rounds down to
 -2) for composition, or DM+4 in total.
-
 
 If the belt is in an inhabited system with an industrial
 trade code and at least TL8, reduce the resource rating
@@ -7694,7 +6950,6 @@ rule that long-exploited belts, regardless of current
 trade codes and population levels, have the equivalent
 or greater reductions in their resource rating.
 
-
 As belts always have some resources available, even
 if it is only ice for fuel or just salvage of abandoned
 facilities, resource rating results of less than 2 are still
@@ -7702,15 +6957,14 @@ facilities, resource rating results of less than 2 are still
 world physical characteristics
 
 
-TRAVELLER
-
 
 treated as 2. Ratings above 12 should be reduced to
 12, although any industrial depletion can be subtracted
 prior to setting this upper limit.
 
-
 BELT SIGNIFICANT BODIES
+
+
 A belt may contain significant bodies or worlds of Size
 1 or S. These bodies are large enough to be mostly
 round and may have complex differentiated interiors.
@@ -7724,49 +6978,39 @@ bodies of a certain size indicates a lack of such objects.
 
 **_Belt Size 1 Bodies =_** 2D-12 + Bulk + DMs
 
-
 Belt Orbit# beyond HZCO+3 DM+2
 Belt span less than 0.1 DM-4
 
 **_Belt Size S Bodies =_** 2D-10 + (DM +1) × (Bulk + 1)
 
-
 Belt Orbit# between HZCO+2 and +3 DM+1
 Belt Orbit# beyond HZCO+3 DM+3
 Belt span greater than 1.0 DM+1
 
-
 If belt span is less than 0.1 divide the number of Size S
 bodies (if any) by 2, (round up).
-
 
 Optional Variance: If more than 50 Size S bodies exist
 and the belt occupies the outermost orbit of a system,
 multiply the total by 1D/D3 and add 1D.
 
-
 To determine the Orbit#: of a significant body:
-
 
 Belt Significant Body Orbit# =
 Belt Orbit# +
-
 
 Additional 10% variance to the span may be
 appropriate to add. To determine the orbital eccentricity
 of the body, roll on the Eccentricity Values table on
 page 27 with relevant DMs.
 
-
 Belt Size 1 significant bodies are treated as moons for
 the purpose of default naming, using a letter suffix, but
 Size S objects, often discovered in a haphazard and
 
-
 incomplete manner especially in the outer system, are
 named in order of discovery with a numeral designation
 similar to that of insignificant moons.
-
 
 The physical characteristics of significant bodies are
 based on the general population of the belt. Each
@@ -7777,13 +7021,10 @@ physical characteristics, the density of each type of
 body is determined from the Terrestrial Density table
 on page 71 as follows:
 
-
 m-type Use the Mostly Metal column
 s-type Use the Mostly Rock column
 c-type Use the Mostly Ice column
-other type Roll on the Terrestrial Composition table
-(page 71) to determine the column
-
+other type Roll on the Terrestrial Composition table (page 71) to determine the column
 
 With density established, the Referee can determine
 additional physical characteristics as if they were a
@@ -7791,21 +7032,20 @@ normal world. Also, Size 1 significant bodies have
 the same chance of having a significant moon as a
 terrestrial planet.
 
-
 BELT PROFILE
+
+
 A specialised Class IV form exists for belt information
 recording but for a Class III survey, a shorthand in the
 notes field can record relevant belt information as:
 
 S-CC.CC.CC.CC-B-R-#-s
 
-
 Where S = Span, C = Composition divided into four
 dotted separated fields, as demonstrated in the
 examples below, B = Bulk, R = Resource Rating, # =
 number of Size 1 significant bodies, s = number of Size
 S significant bodies.
-
 
 The Zed system has two planetoid belts: Aab PI, which
 occupies Orbit# 2.7, which is inside the HZCO of that
@@ -7825,13 +7065,11 @@ Belt Composition = 6-4 = 2: 40+15 = 55% m-type,
 Belt Bulk = 4 + 2 - 6.3÷2 + 2÷10 6 – 3 - 0 = 3
 world physical characteristics
 
-
 (2D - 7) x Belt Span
 8
 
-
 Belt Resource Rating = 11-7 + 3 +55÷10 - 2÷10 11-7 +
-3 + 5 - 1= B (11)
+3 + 5 - 1=B (11)
 _Belt Significant Bodies = 8-12 + 3 = -1: 0 Size 1, and_
 10-10 + 3 +0 × (6+1) = 0 + 3 = 3 Size S bodies
 _Belt Profile: 0.25-55.40.02.03-3-B-0-3_
@@ -7855,7 +7093,11 @@ bodies at this time but for Aab PI bodies it would be
 
 CHARACTERISTICS OF
 
+
+
 SIGNIFICANT MOONS AND RINGS
+
+
 
 During expanded method system creation, the
 Significant Moons procedures starting on page 55
@@ -7886,7 +7128,6 @@ universal fixed scale, but the former is a flexible scale
 which helps with the placement of moon orbits around
 planets of varying sizes.
 
-
 A moon can only exist in regions of space where a
 planet’s gravitational influence is greater than that of
 its star(s) and where the force of the planet’s gravity
@@ -7894,19 +7135,16 @@ is not so strong as to rend the moon apart into a
 ring. These bounds are known as the Hill sphere and
 Roche limit respectively.
 
-
 For a planet in orbit around a star (or multiple stars) the
 radius of the Hill sphere depends on respective masses
 of star(s) and planet and their nearest separation
-distance – a value based on both semi-major axis
-(AU) and eccentricity (ecc). In this equation, the mass
+distance – a value based on both semi-major axis (AU) and eccentricity (ecc). In this equation, the mass
 of the planet (m) must be converted to solar units by
 multiplying by 0.000003 and M is the total of the mass
 of all of the stars that the planet orbits – but not any
 orbiting beyond the planet’s Orbit#.
 
-**_Hill Sphere =_** AU x (1 - ecc) x
-
+**_Hill Sphere =_** AUx (1 - ecc) x
 
 The result of this equation is the approximate
 Hill sphere radius of the planet expressed in AU.
@@ -7916,10 +7154,8 @@ dividing that result by the planetary diameter in
 kilometres provides the Hill sphere limit for the planet
 in planetary diameters (PD):
 
-
 Hill Sphere (PD) =
 Hill sphere(AU) ×
-
 
 The gas giant Aab IV in the Zed system has an
 eccentricity of 0.10. This gas giant, with 14 times the
@@ -7929,7 +7165,6 @@ mass of 1,200⊕ converts to 0.0036 to yield a Hill
 sphere radius of 1.06 × (1 - 0.10) × (0.0036 ÷ (3 ×
 1.836))1/3 = 0.083AU or about 12,430,000km, which is
 69.37 planetary diameters.
-
 
 While the surface of the Hill sphere is the point where
 the gravity of planet and sun(s) balance, it is not the
@@ -7945,28 +7180,22 @@ system generation purposes, the Hill sphere moon
 limit can be determined to be one-half the planetary
 diameter value of the Hill sphere radius, rounded down.
 
-
 3
 
 world physical characteristics
 
-
 m
 3 x M
-
 
 149,597,870.9
 Planet' s diameter(km)
 
 
-TRAVELLER
 
 **_Hill Sphere Moon Limit =_**
 
-
 For Zed Aab IV, the Hill Sphere Moon Limit is 69.37 ÷ 2
 = 34.685 Planetary Diameters.
-
 
 While the Hill sphere determines the outer limit for
 moons, the Roche limit determines the inner boundary.
@@ -7984,10 +7213,8 @@ the Roche limit, the physics requires knowledge of the
 primary body’s diameter, the density of the primary (M)
 and the density of the secondary body (m).
 
-
 Roche Limit ≈
 1.22 x Planetary Diameter x
-
 
 As the Roche limit around any one body varies with
 the density of the smaller body in question, there is no
@@ -8009,12 +7236,12 @@ the planet as measured from its centre. Essentially, this
 limit stretches one full planetary diameter above the
 surface of a planet.
 
-
 MOON REMOVAL
+
+
 If a computed Hill Sphere Moon Limit is less than 1.5
 PD, then it is below the Roche limit and no significant
 moons can exist around that planet. If moons were
-
 
 indicated during the creation process, the first of
 these adds one significant ring or creates a ring
@@ -8028,25 +7255,22 @@ precludes the existence of rings. Note that these limits
 only apply to significant moons. Smaller moons may
 exceed these limits, at least temporarily.
 
-
 MOON ORBIT DETERMINATION
+
+
 Moons can be formed by accretion processes,
 collisions or capture of errant bodies. Regardless of
 origin, if they persist, they will be within the bounds
 imposed by the Hill sphere and Roche limit. Moon
 Orbits are assigned by Planetary Diameters (PD) from
-the primary body. Determine the Moon Orbit Range
-(MOR) by subtracting the Roche limit (rounded to up to
+the primary body. Determine the Moon Orbit Range (MOR) by subtracting the Roche limit (rounded to up to
 2) from the Hill Sphere Moon Limit (rounded down):
-
 
 Moon Orbit Range (MOR) = Hill Sphere Moon
 Limit(round down) – 2
 
-
 if MOR is greater than 200, treat MOR as 200 +
 number of moons (or actual MOR, if less)
-
 
 This overall range determines the boundaries of a
 planet’s Inner, Middle and Outer moon orbit ranges.
@@ -8060,9 +7284,7 @@ of the moon in planetary diameters (PD).
 
 **MOON ORBIT LOCATION**
 
-
 1D+DM Range
-
 
 Orbit in Planetary
 Diameters (PD)
@@ -8073,22 +7295,17 @@ Diameters (PD)
 5 Middle (2D-2) × MOR ÷ 30 + MOR ÷ 6 + 3
 6+ Outer (2D-2) × MOR ÷ 20 + MOR ÷ 2 + 4
 
-
 For 1D roll: if MOR is less than 60 DM+1
 
 world physical characteristics
 
-
 Hill Sphere (PD)
 2
-
 
 Density(M)
 Density(m)
 
-
 3
-
 
 The result in PD can be rounded to the nearest full
 number, or to add detail, a linear variance of 0.5 PD
@@ -8109,7 +7326,7 @@ have its orbit determined in turn and its designation
 changed to reflect the new ascending orbital location.
 If two moons occupy exactly the same orbit, or if they
 orbit close enough for their diameters to overlap, either
-move one moon out a further 1 (or 1+0.5) PD, or treat
+move one moon out a further1 (or 1+0.5) PD, or treat
 the smaller moon as a trojan moon, giving it the same
 orbital characteristics as the larger.
 
@@ -8148,14 +7365,12 @@ Optional Anomalous Moons Procedure: If the
 Referee desires additional variation, any planet with
 existing significant moons may have one or more
 
-
 that is anomalous. On a roll of 12 on 2D – either
 once for the planet or for each moon – a moon’s orbit
 follows the Anomalous Orbit procedures on page 50,
 however a random orbit for an anomalous moon is
 determined by MOR ÷ (2D-1) PD plus a variance and
 must be at least 2 PD.
-
 
 PERIOD OF A MOON’S ORBIT
 The period of the orbit of a moon relies on the same
@@ -8170,28 +7385,25 @@ If greater precision is required, the moon’s mass must
 be computed and the Mp value instead becomes (Mp +
 Mm) where Mm is the mass of the moon.
 
-
 To compute the period of the moon’s orbit using the
 planet’s Size and the moon’s PD orbital value:
 
 **_Period (hours) =_** 0.176927 x
-
 
 Alternatively, using kilometres for the moon’s orbital
 distance from the planet in (Orbit(km)):
 
 **_Period (hours) =_** ÷ 361730
 
-
 Zed Prime orbits its parent planet in 0.17693 × (22 ×
-14 × 8)^3 ÷ 1,200)1/2 = 624.69 hours or 26.03 days. Or
-(3,942,400)^3 ÷ 1,200)1/2 ÷ 361,730 = 624.69, calculated
+14 × 8)^3 ÷ 1,200)1/2 = 624.69 hours or 26.03 days. Or (3,942,400)^3 ÷ 1,200)1/2 ÷ 361,730 = 624.69, calculated
 by the second method, is essential the same answer. If
 the mass of the moon was added to either equation, the
 result would be 624.62 hours, or about four minutes less.
 
-
 SIGNIFICANT RINGS
+
+
 A world’s rings generally occur inside its Roche limit.
 Temporary rings may form further out, either early in
 a planet’s life or after a collision, but over time these
@@ -8204,19 +7416,14 @@ conditions. Saturn has obvious bright rings and Uranus
 
 world physical characteristics
 
-
 (PD x Size)^3
 Mp
 
-
 (PD x Size)^3
 Mp
-
 
 2
 
-
-TRAVELLER
 
 
 has rings somewhat more complex than the simple
@@ -8234,18 +7441,15 @@ definition, across the entire Solar System, only three of
 Saturn’s rings count as significant and none of the other
 planets’ rings are considered such.
 
-
 Rings have two properties: location and span.
 The initial placement of a significant ring uses the
 following formula:
 
 **_Ring Centre Location (PD) =_** 0.4 +
 
-
 To determine each significant ring’s span:
 
 **_Ring Span (PD) =_** + 0.07
-
 
 If this result causes overlap in the case of a planet
 with two rings, move the outer ring further outward
@@ -8253,7 +7457,6 @@ until its inner edge matches the inner ring’s outer
 edge. The outer ring's new centre location is
 determined adding half of the span of both rings to the
 inner ring’s centre location.
-
 
 If three or more rings exist, the third and subsequent
 rings must be moved to be either adjacent to or
@@ -8268,20 +7471,21 @@ then that moon will create a gap in the ring of size in
 kilometres of at least three times (roll as 1D+2) the
 moon’s diameter in kilometres.
 
-
 RING PROFILE
+
+
 Often, the only information recorded about a ring
 system is the number of rings, e.g., R01, or R03. A
 more detailed ring profile is:
 
 R0#:C-S,C-S, ...
 
-
 Where R0# = Number of Rings, C = Ring Centre
 Location, S = Ring Span, repeated for each ring.
 
-
 ATMOSPHERE
+
+
 A world’s Atmosphere code is determined by a roll
 of 2D–7 plus the world’s Size. Worlds of Size 0 or
 1, or S, do not have significant atmospheres and
@@ -8298,7 +7502,6 @@ section of this chapter will deal with atmosphere code
 generation and classification on worlds far beyond the
 edges of the habitable zone.
 
-
 Variants: While not stated in the Traveller Core
 Rulebook, much of mapped and previously developed
 Charted Space assumes that worlds of Size 4 or
@@ -8314,10 +7517,8 @@ world’s gravity is below 0.4G or DM-1 if it is between
 during the expanded method, perhaps altering the
 candidate choices for mainworld.
 
-
 Atmospheric composition based on the Atmosphere
 code is listed in the Atmosphere Codes table.
-
 
 Some large terrestrial worlds may be closer to gas
 giants in atmospheric composition, Atmosphere code
@@ -8338,14 +7539,11 @@ the atmosphere’s tiny hydrogen molecules will soon
 
 world physical characteristics
 
-
 2D
 8
 
-
 3D
 100
-
 
 penetrate anything less than bonded superdense
 armour and will cause havoc with equipment and
@@ -8375,7 +7573,6 @@ this, the Referee can examine any world within the
 habitable zone that has an Atmosphere code of 2–F
 and is boiling (adjusted temperature roll of 12+) or hot
 
-
 (10 or 11) as a result of basic generation – this can
 result from a combination of the real roll or Orbit# –
 simulated raw roll for temperature and the DMs applied
@@ -8383,13 +7580,10 @@ for Atmosphere code as shown on page 47. For these
 
 Atmosphere Codes
 
-
 Atmosphere Composition
-
 
 Pressure
 Range (bar) Span
-
 
 Survival Gear
 Required Notes
@@ -8415,8 +7609,6 @@ H Gas, Hydrogen 1,000+ Varies Not Survivable Gas Dwarf
 world physical characteristics
 
 
-TRAVELLER
-
 
 worlds with a base temperature result of hot or boiling
 the Referee can determine if a runaway greenhouse
@@ -8424,22 +7616,17 @@ occurred by rolling 2D:
 
 **_Runaway Greenhouse occurred on 12+:_** roll 2D +DMs
 
-
 System Age DM+1 per Gyr (round up)
 Boiling Temperature (12+) DM+4
-
 
 If desired, this roll can also be performed on any world
 closer than the HZCO, with DM-2 for a world with
 Temperate conditions.
 
-
 Finally, this runaway greenhouse check can also be
 performed after detailed temperature determination for
-any world where the mean temperature exceeds 303K
-(30°C). For such worlds, use DM+1 for every full 10°
+any world where the mean temperature exceeds 303K (30°C). For such worlds, use DM+1 for every full 10°
 above 303K instead of the boiling temperature DM.
-
 
 If the world already has an Atmosphere code of A, B,
 C or F+, then the only effect of a runway greenhouse
@@ -8450,21 +7637,18 @@ those with atmosphere codes 2–9, D, or E, a runaway
 greenhouse converts their atmosphere code to A, B or
 C, based on a 1D roll:
 
-
 RUNAWAY GREENHOUSE ATMOSPHERES
+
+
 1D New Atmosphere Code
 1 A
 2–4 B
 5+ C
 
-
 If World Size is 2–5 DM-2
-If original atmosphere was tainted
-(2, 4, 7 or 9)
-
+If original atmosphere was tainted (2, 4, 7 or 9)
 
 DM+1
-
 
 The temperature of any runaway greenhouse world
 is assumed to be boiling for Hydrographics code
@@ -8474,26 +7658,26 @@ this categorisation. All worlds suffering a runaway
 greenhouse receive a DM+4 on Atmosphere code
 subtypes determination rolls.
 
-
 HABITABLE ZONE ATMOSPHERES
+
+
 While the atmosphere codes are descriptive enough
 for most purposes, the Referee may choose to develop
 more precise values for both total atmospheric pressure
 and the partial pressure of oxygen for a world.
 
-
 TOTAL ATMOSPHERIC PRESSURE
+
+
 The value that determines an atmosphere’s
 classification as thin, standard or dense is its pressure
 measured in bar at a defined point, the world’s mean
 baseline altitude. For worlds with a globally consistent
 major ocean level (most worlds with a Hydrographics
 code of 6 or above), the mean baseline altitude is
-usually defined as mean sea level. For more land-
-dominated worlds with multiple ocean or sea levels or
+usually defined as mean sea level. For more land-dominated worlds with multiple ocean or sea levels or
 with none at all, an average value of sea levels or often
 just the world’s mean diameter is used instead.
-
 
 To determine a more precise atmospheric pressure of
 a world, use a linear variance across the atmosphere
@@ -8504,25 +7688,22 @@ requirement is to provide a linear result between 0 and
 1 to multiply by the span, so a real or emulated roll of
 d100 ÷ 100 is just as valid:
 
-
 Total Atmospheric Pressure (bar) =
 Minimum Pressure Range + Span x
-
 
 or
 
-
 Total Atmospheric Pressure (bar) =
 Minimum Pressure Range + Span x
-
 
 Round results to two or three digits. This procedure is
 valid for determining the Atmospheric pressures for any
 Atmosphere code with a value listed in span column of
 the Atmosphere Codes table.
 
-
 OXYGEN PARTIAL PRESSURE
+
+
 The factor that most makes a world habitable, to
 humans at least, is the partial pressure of oxygen
 in the atmosphere. This value is computed from the
@@ -8542,14 +7723,11 @@ compressors or filters, unmodified humans can adapt
 to long term survival under oxygen partial pressures
 world physical characteristics
 
-
 (1D - 1) x 5 + 1D - 1
 30
 
-
 d100
 100
-
 
 between 0.08 and 0.60 bar, although anything beyond the
 range of 0.1 to 0.5 bar will be difficult for an unacclimated
@@ -8566,7 +7744,6 @@ of worlds with Atmospheres 2–9, D or E:
 
 **_or +_**
 
-
 System age greater than 4 Gyr DM+1 to 1D roll
 
 *If using d10, treat it as a range of 1-10
@@ -8582,12 +7759,11 @@ the Referee might want in a universe. These DMs are
 only recommended for use with the extended method
 of system generation.
 
-
 System Age 3-3.5 Gyr DM-1
 System Age 2-3 Gyr DM-2
 System Age less than 2 Gyr DM-4
 
-This results in a value from 0–0.4. If the value is 0 (or
+This results in a value from 0–0.4. If the value is0 (or
 less with the optional DMs method), then determine it
 instead as 1D × 0.01, plus a variance, if desired.
 
@@ -8606,15 +7782,12 @@ computed values for either ppo or total pressure or both
 to bring the ppo back into the ‘safer’ 0.1–0.5 human
 range. Otherwise, the Referee may choose to alter the
 
-
-Atmosphere code of the world to its tainted equivalent
-(4, 7 or 9) and use high or low oxygen as at least the
+Atmosphere code of the world to its tainted equivalent (4, 7 or 9) and use high or low oxygen as at least the
 first factor in its taint (see taint type on page 82). This
 latter method works well for newly created systems
 using the extended system generation method but it is
 not a practical choice for existing defined mainworlds
 during in the continuation method.
-
 
 If a Referee wants to specify the concentration of other
 gases in the atmosphere, then for nitrogen-oxygen
@@ -8625,20 +7798,19 @@ about 0.3–2.0% for other gases such as argon, carbon
 dioxide or neon. Concentrations of carbon dioxide
 above 0.015 bar will result in a gas mix taint type.
 
-
 Alternatively, on worlds which can retain significant
 helium, (see the exotic atmosphere gases section
-starting on page 86) helium may be a major non-
-oxygen component in addition to nitrogen, especially
+starting on page 86) helium may be a major non-oxygen component in addition to nitrogen, especially
 for dense and very dense atmospheres.
 
-
 SCALE HEIGHT
+
+
 Another factor to consider for worlds is the rate at
 which atmospheric pressure decreases with altitude.
 This is the scale height of the atmosphere, a number
 corresponding to the altitude at which the pressure
-drops by a factor of e (the base of natural logarithms,
+drops by a factor ofe (the base of natural logarithms,
 approximately 2.718). Each multiple of the scale height
 decreases the atmosphere by another factor of e, and
 interpolation of values can approximate atmospheric
@@ -8649,7 +7821,6 @@ atmospheric composition (M – the mean mass of one
 mol of atmospheric particles) and its gravity (g):
 
 **_Scale Height(H) ≈_**
-
 
 The scale height value for Terra is approximately 8.5
 kilometres. Assuming near-[[Terra|Terran]] temperature and
@@ -8666,32 +7837,27 @@ This book will use the approximation:
 
 world physical characteristics
 
-
 1D + DMs
 20
 1D - 1 + DMs
 20
-
 
 2D - 7
 100
 d10*
 100
 
-
 1D - 1
 20
 
-
 T
-M x g
 
+
+M x g
 
 8.5km
 g
 
-
-TRAVELLER
 
 
 This should be roughly valid for worlds with Atmospheres
@@ -8703,7 +7869,6 @@ and increase as temperatures become warmer:
 
 **_Scale Height(H) ≈_**
 
-
 Another result based on scale height that can be
 of interest to any Traveller climbing a mountain or
 descending into a chasm – and even more important
@@ -8714,12 +7879,12 @@ the arbitrary height(a) divided by the scale height (H) or:
 
 **_Pressure(a) =_** Pressure(m) ÷
 
-
 This equation requires both H and height(a) to be
 expressed in the same units (usually kilometres).
 
-
 ATMOSPHERE PROFILE
+
+
 For worlds with a nitrogen-oxygen atmosphere, a
 minimal shorthand record of the atmosphere needs to
 consider most of all the oxygen partial pressure of the
@@ -8727,29 +7892,23 @@ world. The profile is written as:
 
 **_A-bar-ppo_**
 
-
 Where A = Atmosphere code, bar = atmospheric pressure
 in bar and ppo = partial pressure of oxygen in bar. For
 instance, for Terra it would be 6-1.013-0.212. The exotic
-atmosphere profile (see page 88) and any taint profiles
-(see page 84) can accompany this information after a
+atmosphere profile (see page 88) and any taint profiles (see page 84) can accompany this information after a
 colon, e.g., 6-1.013-0.212:N 2 -78:O 2 -21:Ar-01.
-
 
 Zed Prime’s Atmosphere is 6, meaning standard with
 no taint. To determine its actual atmospheric pressure,
 take the lower range value standard (0.7) and add
-a variable portion of the span (0.79). Using the six-
-side dice only method: rolling 1D-1 for 2,which gets
+a variable portion of the span (0.79). Using the six-side dice only method: rolling 1D-1 for 2,which gets
 multiplied by 5 to 10 and adding 1D-1 for 3 results in
 13, so the pressure is 0.7 + 0.79 × 13 ÷ 30 = 1.0423,
 rounded to 1.042 bar.
 
-
 Oxygen partial pressure benefits from the age of the
 system (DM+1) so it is rolled as (1D+1 ÷ 20) + (2D-7
 ÷ 100) with 1D = 5 and 2D = 5, the result is (5+1) ÷
-
 
 20 + (5-7 ÷ 100) = 0.28 or 28%. Multiplied by the total
 atmospheric pressure, this results in an oxygen partial
@@ -8762,7 +7921,6 @@ pressure at an arbitrary height of 5km above the mean
 baseline altitude would be 0.707 bar, with oxygen partial
 pressure at that altitude of 0.206 bar. A basic atmosphere
 profile for Zed Prime would be 6-1.042-0.292.
-
 
 SUBTYPES: TAINT
 Some worlds have nitrogen-oxygen atmospheres
@@ -8778,7 +7936,6 @@ is human-centric. Taint applies to Atmosphere codes
 persistence. To determine the cause of this taint, roll 2D
 and consult the Taint Subtype table.
 
-
 Taint Subtype
 2D+DM Taint Subtype Subtype Code
 2- Low Oxygen L
@@ -8792,20 +7949,17 @@ Taint Subtype
 10 Particulates and roll
 again*
 
-
 P
+
 
 
 11 Radioactivity R
 12+ High Oxygen H
 
-
 Atmosphere 4 DM-2
-Atmosphere 9 DM+2
-(There are no DMs for very thin or very dense
+Atmosphere 9 DM+2 (There are no DMs for very thin or very dense
 atmospheres – they are by definition already low or
 high oxygen)
-
 
 *A result of 10 indicates a taint from both particulates
 and one other cause – the outcome of this second
@@ -8813,15 +7967,14 @@ roll can be a separate subtype of particulates or
 
 world physical characteristics
 
-
 8.5 km x Mean Temperature (K)
 g
 
 e
 
-
 height(a)
 H
+
 
 
 even another result of 10, requiring a roll for a third
@@ -8853,8 +8006,7 @@ Biologic (B): A biologic taint results from airborne
 or surface microbes. These could be virus, bacteria,
 fungi or some other microscopic organism causing
 harm if inhaled or touched. A result of a biologic taint
-or irritant forces the world to have a Biomass rating
-(see page 127) of at least 1.
+or irritant forces the world to have a Biomass rating (see page 127) of at least 1.
 
 Gas Mix (G): The composition or percentage mixture
 of various atmospheric components is harmful to
@@ -8879,7 +8031,6 @@ Low Oxygen (L): The partial pressure of oxygen
 is below 0.1 bar. Ranges near this level might be
 survivable with acclimation but levels below 0.06
 
-
 bar will always cause cell damage and eventual
 death unless significant medical interventions such
 as genetic manipulation or lung modifications are
@@ -8890,13 +8041,11 @@ thin (2 or 3). If the atmosphere was already very thin,
 tainted (2), then a more powerful respirator at twice
 the cost of a standard unit is necessary.
 
-
 Particulates (P): The atmosphere contains airborne
 particulates such as dust, smoke or industrial
 pollutants. These particulates often cause haze,
 smog or other visibility impairments and are
 hazardous to inhale.
-
 
 Radioactivity (R): Radioactive gases such as radon
 may be present in harmful concentrations. This taint
@@ -8907,16 +8056,15 @@ or it may occur from external conditions such as solar
 activity or the magnetic fields from nearby gas giants
 or neutron stars.
 
-
 Sulphur Compounds (S): Sulphur compounds are
 present in the atmosphere. These gases may be
 volcanic or biologic in origin. On worlds that are cold
 or frozen (with mean temperatures below 273K)
-treat sulphur compound (S) results as particulates
-(P), instead.
-
+treat sulphur compound (S) results as particulates (P), instead.
 
 TAINT SEVERITY AND PERSISTENCE
+
+
 The effects and severity of taints vary greatly. In some
 instances, acclimation or inoculation can alleviate the
 consequences for residents even if the taint remains
@@ -8931,7 +8079,6 @@ and Taint Persistence tables. If a world has multiple
 taints, the severity and persistence of each can be
 rolled separately.
 
-
 Taint Severity and Persistence is an optional property.
 It can be ignored, or the Referee can use the tables for
 inspiration without making a roll. These tables are also
@@ -8940,8 +8087,6 @@ corrosive and insidious atmospheres.
 
 world physical characteristics
 
-
-TRAVELLER
 
 
 Taint Severity
@@ -8956,17 +8101,14 @@ Taint Severity
 11 8 Inevitably lethal: death within 1D days Filter masks required; protective clothing recommended
 12+ 9 Rapidly lethal: death within 1D minutes Filter masks and protective clothing required
 
-
 High and Low Oxygen taints DM+4*
 Insidious Atmosphere (C) DM+6
-
 
 *Optionally, for these taints, set severity to levels
 specific to ppo: for low oxygen, Severity = 2 if ppo is at
 least 0.09, 3 if ppo is at least 0.08 and 8 or 9 if ppo is
 lower. For high oxygen, Severity = 2 if ppo is less than
 0.6, 7 if ppo is less than 0.7 and 8 or 9 if ppo is higher.
-
 
 Some individuals may overcome a minor irritant. This
 could come from immunity, acclimation, the will to
@@ -8981,11 +8123,9 @@ Filter masks and/or TL10+ medical intervention is also
 always effective against minor, surmountable and
 trivial taints. A medical procedure involves surgery
 
-
 or genetic manipulations and costs 1D × Cr1000 ×
 minimum TL, though some worlds may offer free or
 reduced cost procedures to entice colonists.
-
 
 Occasional taints that occur periodically can be
 triggered by seasonal effects, lifecycles of native
@@ -8993,18 +8133,17 @@ organisms, the proximity of external objects, such as
 a secondary star or an eccentric planet, or some other
 regular event determined by the Referee.
 
-
 TAINT PROFILE
+
+
 An atmosphere’s taint(s) or irritant can be written as:
 
 **_T.S.P_**
-
 
 Where T = Taint type, S = Severity and P = Persistence.
 For instance, a biologic major irritant of fluctuating
 persistence can be recorded as B.4.5. Multiple taints
 are listed separated by a comma
-
 
 The mainworld of the Zed system does not have a
 taint but the fourth moon of Aab V, with a SAH of 340,
@@ -9020,11 +8159,9 @@ Taint Persistence
 8 8 Varying: Always present but roll 2D daily: on 2, reduce severity by one level for 1D hours
 9+ 9 Constant: Ever-present at indicated severity
 
-
 High and Low Oxygen taints DM+4 (DM+6 if Severity is 8+)
 
 world physical characteristicsAtmosphere C DM+6
-
 
 some detailed generation on this moon to ensure that it
 _does not automatically suffer from the low oxygen taint._
@@ -9056,7 +8193,6 @@ So, visitors to this moon could occasionally be
 safe from all taints but sudden dust or radiation
 storms could cause one or both conditions to occur.
 
-
 Protective equipment of a filter mask and a very good
 sunscreen (or protective clothing) prevents long-term
 damage to visitors and inhabitants. An inhabitant
@@ -9067,7 +8203,6 @@ dust storms likely requires at least some protection
 and radiation protection likely requires an expensive
 treatment – if available at all. The subtype codes for
 this world’s taints are P.6.3 and R.5.4.
-
 
 SUBTYPES: EXOTIC (A)
 An exotic Atmosphere code (A) is unbreathable but
@@ -9082,7 +8217,6 @@ and may contain a number of irritants. This variety
 of atmospheres is optionally further detailed by the
 Exotic Atmosphere Subtype table.
 
-
 Irritant is the exotic equivalent of a taint. This could
 require the donning of protective equipment in
 addition to oxygen tanks to survive. The Referee
@@ -9090,7 +8224,6 @@ can use the Taint Subtype, Severity and Persistence
 tables from the preceding Subtype: Taint section
 
 Exotic Atmosphere Subtype
-
 
 2D Code Exotic Atmosphere Type Pressure Range (bar) Span
 2- 2 Very Thin, Irritant 0.1–0.42 0.32
@@ -9107,7 +8240,6 @@ Exotic Atmosphere Subtype
 13 A Very Dense 2.50–10.0 7.50
 14+ B Very Dense, Irritant 2.50–10.0 7.50
 
-
 Size 2–4 DM-2
 Orbit less than HZCO-1 DM-2
 Orbit greater than HZCO+2 DM+2
@@ -9116,30 +8248,25 @@ Runaway greenhouse result DM+4 if the atmosphere became exotic because of a runa
 world physical characteristics
 
 
-TRAVELLER
-
 
 to determine the nature and dangers of the irritant.
 Irritant gases can include ammonia and various
 compounds of nitrogen and sulphur.
 
-
 Occasional corrosive atmospheres contain components
 such as chlorine or fluorine or other compounds
 which at some times and some locations make the
-atmosphere dangerous enough to qualify as corrosive
-(B). Treat such atmospheres as having a gas mix (G)
+atmosphere dangerous enough to qualify as corrosive (B). Treat such atmospheres as having a gas mix (G)
 irritant with a roll of 1D+9 on the Taint Severity table
 and a roll of 1D+1 on the Taint Persistence table.
 
-
 More detailed atmospheric pressures for exotic
-atmospheres can be determined from pressure range
-(bars) and span using either of the total atmospheric
+atmospheres can be determined from pressure range (bars) and span using either of the total atmospheric
 pressure (bar) equations on page 80.
 
-
 EXOTIC ATMOSPHERE GASES
+
+
 The actual composition of an exotic atmosphere can
 vary widely and include more than one gas. In most
 cases these atmospheres will include inert gases
@@ -9147,11 +8274,9 @@ such as argon or krypton, and on young or more
 massive worlds, neon and possibly helium gas may be
 present in substantial quantities. The major factors in
 
-
 determining possible gas mixes are the world’s mass,
 temperature, age and the relative natural abundance of
 different elements or molecules.
-
 
 For Referees who just want a quick answer to gas
 compositions, the Atmosphere Gas Mix Tables section
@@ -9160,14 +8285,12 @@ on atmosphere type and temperature. For those who
 wish to explore possibilities with greater realism, the
 following section provides this detail.
 
-
 Caution: In most cases, detailed interactions
 between gas types and other chemistry-related
 factors are not considered in this section. Such
 interactions may cause some gas combinations
 to be unstable over geological periods. This is not
 intended to be a chemistry textbook.
-
 
 Over time – a billion or more years – lighter gases will
 gradually migrate to the top of a world’s atmosphere
@@ -9189,15 +8312,12 @@ methane and ammonia but these heavy gases may
 be liquid or solid on the worlds that are too cold. An
 assumption for this book is that only those worlds
 capable of retaining hydrogen ions are considered
-likely to remain gas giants or dwarfs over their multi-
-billion-year lifespans.
-
+likely to remain gas giants or dwarfs over their multi-billion-year lifespans.
 
 Gas Can Exist if its Escape Value on the Atmosphere
 Composition meets the criteria:
 
 < 1,000 ×
-
 
 In the above formula, M and D are the world’s mass
 and diameter in terms of units of Terra and K is the
@@ -9207,24 +8327,18 @@ and 340 and 240 as the habitable zone extremes.
 
 world physical characteristics
 
-
 Mass
 Diameter x Temperature
 
-
 Atmospheric Gas Composition
 
-
 Gas Code Escape Value Atomic Mass
-
 
 Boiling
 Point (K)
 
-
 Melting
 Point (K)
-
 
 Relative
 Abundance Taint
@@ -9273,11 +8387,9 @@ used to describe the major gas or gases in any
 atmosphere. The taint column indicates whether the
 gas is automatically considered a taint or irritant.
 
-
 However, any gas, including oxygen and nitrogen,
 could potentially be considered a taint at certain
 concentrations and under certain conditions.
-
 
 If the temperature of the world is greater than the
 Boiling Point (K) of the gas, that gas can potentially
@@ -9293,8 +8405,6 @@ proportional the molecule’s likely abundance, although
 world physical characteristics
 
 
-TRAVELLER
-
 
 this can vary widely across different worlds and
 systems. In the Atmospheric Gas Composition table
@@ -9307,8 +8417,9 @@ use the abundance to estimate the probability of a
 gas being present in an exotic atmosphere and/or its
 relative abundance in that atmosphere.
 
-
 EXOTIC ATMOSPHERE PROFILE
+
+
 An exotic atmosphere’s subtype is simply recorded
 as A–St# with A as the atmosphere code and the #
 indicating the subtype code. Irritants are recorded in
@@ -9330,10 +8441,8 @@ form:
 
 A-St#:bar:XX-##:YY-##:ZZ-## I.S.P
 
-
 I = irritant type – equivalent to taint type, followed by
 the taint profile components
-
 
 As an example, this section can also allow a Referee to
 examine if the desert moon Aab V d should really retain
@@ -9347,11 +8456,9 @@ need to be 0.75 or 0.86, to retain oxygen or nitrogen,
 respectively, and higher still to retain water. As the
 system is 6.3 billion years old, some other factor
 such as terraforming by the Ancients or continued
-outgasing from deep reservoirs of nitrogen and oxygen-
-rich materials must be replenishing the atmosphere.
+outgasing from deep reservoirs of nitrogen and oxygen-rich materials must be replenishing the atmosphere.
 A moon in orbit around a gas giant, especially
 accompanied by another large moon (see the Seismic
-
 
 Stress section on page 125) might experience enough
 tidal activity to remain geologically active even late
@@ -9360,14 +8467,12 @@ the atmosphere. But it is little wonder this desert moon
 has lost all surface water, as water vapor has an even
 higher escape value than oxygen and nitrogen.
 
-
 To examine a world with an actual exotic atmosphere
 in the Zed system, look to another moon of Aab V. The
 second moon has an SAH of AA6. First, back up and
 determine the moon’s actual diameter, density, gravity,
 and mass, rolling to get 15,992km (1.255⊕), 0.94,
 1.18G and 1.86⊕, respectively.
-
 
 Next, a 2D roll on the Exotic Atmosphere Subtype
 table results in 9:dense, irritant. Actual atmospheric
@@ -9388,7 +8493,6 @@ retain everything except hydrogen and helium. The
 gases with boiling points above 300 are all of the rest
 except water (good, since it would be best to stay
 liquid) and hydrochloric acid.
-
 
 To determine the actual atmospheric composition of
 Aab V b, the Referee can look at the remainder of the
@@ -9412,7 +8516,6 @@ required to retain methane.
 
 world physical characteristics
 
-
 **SUBTYPES: CORROSIVE (B) AND INSIDIOUS (C)**
 Atmosphere codes B and C are corrosive and
 insidious. Insidious is like corrosive, only more so.
@@ -9429,7 +8532,6 @@ For both corrosive and insidious atmospheres roll on
 the Corrosive and Insidious Atmosphere Subtype table
 with the DMs indicated.
 
-
 Size 2–4 DM-3
 Size 8+ DM+2
 Orbit less than HZCO-1 DM+4
@@ -9441,12 +8543,10 @@ Runaway greenhouse result* DM+4
 greenhouse check
 
 More detailed atmospheric pressures for these
-atmospheres can be determined from pressure range
-(bars) and span using either of the total atmospheric
+atmospheres can be determined from pressure range (bars) and span using either of the total atmospheric
 pressure (bar) equations on page 80.
 
 Corrosive and Insidious Atmosphere Subtype
-
 
 2D Code Atmosphere Type Pressure Range (bar) Span
 1- 1 Very Thin, Temperature 50K or less 0.1–0.42 0.32
@@ -9464,7 +8564,6 @@ Corrosive and Insidious Atmosphere Subtype
 13 D Extremely Dense, Temperature 500K+ 10.0+ unbound
 14+ E Extremely Dense, Temperature 500K+, Irritant 10.0+ unbound
 
-
 Consult the Possible Gas Composition table on
 page 87 or the Atmosphere Gas Mix tables section
 beginning on page 95 to determine likely corrosive
@@ -9478,13 +8577,11 @@ atmosphere of this type (subtype D). Only insidious
 extremely dense atmospheres should have pressures
 exceeding 1,000 bar.
 
-
 A corrosive or insidious atmosphere may include an
 irritant if indicated by type. The Referee can use the
 Taint Subtype, Severity and Persistence tables from
 the preceding Subtype: Taint section to determine the
 nature and dangers of the irritant.
-
 
 In addition to a possible irritant, an insidious
 atmosphere always has an inherently hazardous
@@ -9503,8 +8600,6 @@ Insidious Atmosphere Hazard table.
 world physical characteristics
 
 
-TRAVELLER
-
 
 Insidious Atmosphere Hazard
 2D Hazard Hazard Code
@@ -9520,16 +8615,13 @@ Insidious Atmosphere Hazard
 *If the insidious subtype is D or E, a T hazard
 automatically exists, roll again for an additional hazard.
 
-
 Atmosphere is extremely dense DM+2
-
 
 Biologic (B): A lifeform, possibly of exotic biochemistry,
 or even an organism based on plasma is a virulent
 danger to equipment and possibly to carbon-based
 lifeforms. A result of a Biologic hazard forces the world
 to have at Biomass Rating (see page 127) of at least 1.
-
 
 Gas Mix (G): Consult the Atmospheric Gas
 Composition table and select appropriate hazardous
@@ -9542,7 +8634,6 @@ hydrogen gas which will infiltrate all but the highest
 technology armour (TL15+), and cause an explosive
 reaction when mixed with oxygen.
 
-
 Radioactivity (R): Either as an effect of radiation
 belts, natural deposits or radioactive isotopes in the air
 itself, exposure outside of extremely heavily sheltered
@@ -9554,7 +8645,6 @@ equipment will degrade even with decontamination.
 Treat non-hardened equipment as under the constant
 effect of an EMP weapon of TL6 +1D.
 
-
 Temperature (T): Most often this is an issue of very
 high temperatures, either caused by solar radiation,
 atmospheric pressure or volcanic activity – some
@@ -9563,25 +8653,23 @@ rare cases, extremely cold temperatures – below 5K
 
 - may cause damage to equipment and overwhelm a
 
-
 suit’s heating capabilities. At 4 K, helium becomes a
 superfluid, flowing up walls, acting as a superconductor
 and causing other unexpected effects. Insidious
 subtype D or E always has a temperature hazard.
 
-
 CORROSIVE AND INSIDIOUS ATMOSPHERE PROFILE
+
+
 Profiles for these atmospheres are similar to those for
 exotic atmospheres. For a corrosive atmosphere it is:
 
 **_B-St#:bar:XX-##:YY-##:ZZ-## I.S.P_**
 
-
 For an insidious atmosphere it includes the hazard
 code in the form:
 
 **_C-St#.H:bar:XX-##:YY-##:ZZ-## I.S.P_**
-
 
 With H = hazard code and I = irritant, followed by the
 taint profile components. Insidious atmospheres of
@@ -9590,7 +8678,6 @@ their additional hazard is normally indicated after the
 subtype. As with exotic atmosphere profiles, bar:XX-
 ##:YY-##:ZZ-## are optional profile components.
 
-
 In the Zed system, the world AaB VI has a SAH of
 AB6 and resides in the outer regions of the system’s
 habitable zone. The size profile determined for this
@@ -9598,7 +8685,6 @@ world is A-16134-1.03-1.30G-2.09. Rolling on the
 Corrosive and Insidious Atmosphere Type table
 results in a 4 with DM+2 for Size = 6:standard. Total
 atmospheric pressure is rolled as 1.21 bar.
-
 
 Next, determine the gas mix that makes this world
 corrosive: although in the outer part of the habitable
@@ -9616,7 +8702,6 @@ perhaps it would be better to make the other major
 component carbon dioxide, which makes for a nice
 corrosive world recorded as B-St6:1.21:NH 3 :CO 2.
 
-
 TYPE: VERY DENSE (D)
 A very dense atmosphere is a nitrogen-oxygen
 atmosphere whose pressure is too high to support
@@ -9625,7 +8710,6 @@ experience oxygen toxicity from prolonged exposure
 of over 0.50 bar and will experience nitrogen narcosis
 
 world physical characteristics
-
 
 - a degradation in function similar to euphoria or
 intoxication – at partial pressures of nitrogen above 2.0
@@ -9683,7 +8767,6 @@ TL10 and above, this can lead to grav-supported flying
 cities. At lower Tech Levels, cities held aloft by balloons
 of lighter or heated gas might support sky settlements.
 
-
 Habitable locations are defined by the minimum safe
 altitude for long-term survival and occur at altitudes
 which meet both of the following criteria:
@@ -9692,18 +8775,15 @@ might be acceptable)
 •	 Oxygen partial pressure < 0.5 bar (though < 0.6
 might be acceptable)
 
-
 A derivative of the scale height formula – with help
 from a computer or calculator – can help determine the
 required altitude by taking the worst violation of these
 two criteria and comparing it to the safe level of that gas:
 
-
 First, determine the ‘bad ratio’, or the ratio the worst
 offender must be reduced to be safe:
 
 **_Bad Ratio =_**
-
 
 Next, determine the minimum safe altitude as a
 multiple of the scale height. The natural log (ln) of the
@@ -9714,12 +8794,9 @@ minimum safe altitude:
 
 world physical characteristics
 
-
 Pressure of 'bad' gas at mean baseline altitude
 Safe Pressure of bad gas
 
-
-TRAVELLER
 
 
 If the minimum safe altitude for nitrogen causes
@@ -9727,7 +8804,6 @@ oxygen levels to be below 0.1 bar, then a compressor
 would still be required to thrive and no level of
 the world’s atmosphere would be compatible with
 unprotected human existence.
-
 
 At the Referee’s discretion, very dense atmospheres
 may also have a taint on a 1D roll of 4+. If a taint
@@ -9737,7 +8813,6 @@ section on page 83 to determine the type(s), Severity,
 and Persistence of the taint. The format of the profile of
 a very dense atmosphere is similar to that of standard
 atmospheres but the leading character is a D.
-
 
 TYPE: LOW (E)
 A low atmosphere is in some ways the opposite of a
@@ -9752,7 +8827,6 @@ breathable. In some cases, worlds with low atmosphere
 levels may have artificial depressions created to
 support habitable regions.
 
-
 Scale height equations apply to negative altitudes. To
 determine the altitude below mean baseline altitude
 required to support life, first determine the oxygen
@@ -9762,19 +8836,15 @@ extreme limit of human tolerance) by that number. This
 should result in a value greater than 1.0. This number
 is the ‘low bad ratio’:
 
-
 Low Bad Ratio =
-
 
 Next, compute the natural log (ln) of the low bad
 ratio and multiply it by the scale height. The result is
 the altitude below mean baseline altitude required to
 support human life:
 
-
 Safe Altitude Below Mean Baseline Altitude =
 ln(Low Bad Ratio) x Scale Height
-
 
 Nitrogen will increase in density in proportion to oxygen.
 If the low bad ratio times the nitrogen partial pressure
@@ -9786,7 +8856,6 @@ the Referee may choose to impose a taint on low
 atmosphere worlds on a 1D roll of 4+. The format of the
 profile of a low atmosphere is similar to that of standard
 atmospheres but the leading character is an E.
-
 
 SUBTYPE: UNUSUAL (F)
 An unusual atmosphere is a category best described by
@@ -9813,8 +8882,9 @@ rerolled if the world does not meet the requirements.
 Alternatively, the world’s other properties could be
 altered to meet the prerequisites.
 
-
 UNUSUAL ATMOSPHERE PROFILE
+
+
 An unusual atmosphere can use the same format
 as an exotic atmosphere, with subtype listed. If the
 atmosphere has more than one subtype, they can be
@@ -9824,18 +8894,14 @@ conditions would be:
 
 **_F-St#.#_**
 
-
 Where # = each subtype.
 
 world physical characteristics
 
-
 0.1
 ppo
 
-
 Unusual Atmosphere Subtypes
-
 
 D26 Code Subtype Atmospheric Conditions
 11 1 Dense, Extreme Density between 10 and 100 bar, possibly with free oxygen
@@ -9851,7 +8917,7 @@ permeating an otherwise normal atmosphere
 above 1.2
 21 7 Panthalassic A world ocean hundreds of kilometres deep covers the world; atmospheric
 pressure is at least standard and often very or extremely dense
-prerequisites: Hydrographics A (10), atmospheric pressure 1.0+ bar
+prerequisites: HydrographicsA (10), atmospheric pressure 1.0+ bar
 22 8 Steam Water vapor merges with oceans; very dense or above pressures.
 Prerequisite: Hydrographics 5+, atmospheric pressure 2.5+ bar
 23 9 Variable Pressure Tides or storms cause large variations in atmospheric pressure
@@ -9889,7 +8955,6 @@ indigo, perhaps, rather than violet.
 Starting from the bluest blue a human can perceive,
 the sky can only get redder. The amount of reddening
 
-
 depends on the star – a red dwarf may actually look
 rather yellow-orange in space but it puts out very little
 blue light to scatter. The other factor in reddening
@@ -9904,7 +8969,6 @@ atmospheres will redden the sky. All other things being
 equal, the sky of a world with a dense atmosphere
 orbiting a red dwarf will look rather yellow, fading to
 orange and red near the horizon.
-
 
 But all other things are not necessarily equal. Any
 atmosphere with a taint, especially if the taint is
@@ -9923,8 +8987,6 @@ the first place and may actually look a little green.
 
 world physical characteristics
 
-
-TRAVELLER
 
 
 NON-HABITABLE ZONE ATMOSPHERES
@@ -9953,7 +9015,6 @@ worlds beyond even these more generous habitable
 zone boundaries will not possess standard 2–9, D or
 E Atmospheres.
 
-
 On the hot side of the habitable zone, the temperature
 component of the escape value equation for the
 Atmospheric Gas Composition table (see page 87)
@@ -9967,7 +9028,6 @@ world, the more likely its ‘heavy’ retained gases will
 have turned into solids or liquids, though few liquids
 will remain liquid under very low pressures.
 
-
 To create atmospheres for worlds outside the
 habitable zones, roll 2D-7 plus Size on either the
 Hot Atmospheres or Cold Atmospheres tables in the
@@ -9975,7 +9035,6 @@ column appropriate for the world orbit’s deviation
 from the HZCO. Divide by 10 for a HZCO below 1.0
 and change the increment back to normal once past
 Orbit# 1.0.
-
 
 Hot Atmospheres
 Result HZCO -2.01 or less HZCO -1.01 – -2.0
@@ -9987,7 +9046,6 @@ Irritant
 4 Exotic (A), Very
 Thin*†
 
-
 Exotic (A), Thin,
 Irritant
 5 Exotic (A), Thin*† Exotic (A), Thin
@@ -9997,9 +9055,7 @@ Irritant
 8 Exotic (A), Very
 Dense*†
 
-
 Exotic (A), Dense
-
 
 9 Corrosive (B) Exotic (A), Dense,
 Irritant
@@ -10022,12 +9078,11 @@ dense or very dense:
 6+ Insidious (C)
 
 An example of a hot world is the innermost planet of
-the Zed system’s central stars: Zed Aab I, a Size B (11)
+the Zed system’s central stars: Zed Aab I, a SizeB (11)
 world in Orbit# 1.0, a full 2.3 Orbit#s inside the HZCO.
 It determines its Atmosphere type from the HZCO
 -2.01 or less column of the Hot Atmospheres table. A
-2D roll of 5 results in 5-7 + 11 = 9, which is corrosive
-(B). Despite that result satisfying the Class III survey
+2D roll of 5 results in 5-7 + 11 = 9, which is corrosive (B). Despite that result satisfying the Class III survey
 form for the world’s SAH, further generation on the
 corrosive and Insidious Atmosphere Type table is a 2D
 roll of 7 to which DM+2 for being Size 8+ and DM+4 for
@@ -10037,9 +9092,7 @@ perhaps not surprising for a world so close to its sun;
 Zed Aab I might be termed a ‘Super-Venus’ world.
 world physical characteristics
 
-
 Cold Atmospheres
-
 
 Result HZCO +1.01 – +3.0 HZCO +3.01 or more
 0- None (0) None (0)
@@ -10048,13 +9101,10 @@ Result HZCO +1.01 – +3.0 HZCO +3.01 or more
 3 Exotic (A), Very
 Thin*
 
-
 Exotic (A), Very Thin*
-
 
 4 Exotic (A), Thin,
 Irritant
-
 
 Exotic (A), Thin,
 Irritant
@@ -10063,19 +9113,16 @@ Irritant
 7 Exotic (A),
 Standard, Irritant
 
-
 Exotic (A), Standard,
 Irritant
 8 Exotic (A), Dense Exotic (A), Dense
 9 Exotic (A), Dense,
 Irritant
 
-
 Exotic (A), Dense,
 Irritant
 10 Exotic (A), Very
 Dense*
-
 
 Exotic (A), Very
 Dense*
@@ -10114,7 +9161,6 @@ Looking also at Zed Cab III, a Size A world which is
 further out at orbit 3.3, no math is necessary, since it
 is further out than II, so already in the colder column
 
-
 of the Cold Atmosphere table. A 2D roll of 10 results
 in 10-7 + 10 = 13 or gas, helium (G) – this world has a
 thick helium atmosphere and might even have some
@@ -10122,8 +9168,9 @@ free hydrogen for those who wish to do the extra
 work to attempt to skim it but landing is likely to be
 impossible for a normal spacecraft.
 
-
 ATMOSPHERE GAS MIX TABLES
+
+
 Although the Referee can customise atmospheric gas
 types for exotic, corrosive and insidious atmosphere
 types based on the Atmospheric Gas Composition table
@@ -10143,7 +9190,6 @@ the atmosphere is determined. To ensure no gas receives
 100%, the Referee can instead choose to use (1D+3) ×
 10% for each roll.
 
-
 Caution: Other than the notes on carbon monoxide,
 these tables do not take chemical interactions into
 account and may also result in rarer gases (krypton,
@@ -10155,8 +9201,6 @@ and need not be followed slavishly.
 
 world physical characteristics
 
-
-TRAVELLER
 
 
 Boiling Atmosphere Gas Mix (HZCO -2.01-)
@@ -10180,12 +9224,10 @@ Boiling Atmosphere Gas Mix (HZCO -2.01-)
 13 Methane Methane Methane
 *Worlds without H 2 O only. otherwise CO 2
 
-
 Mean temperature 700–2,000K DM-2
 Mean temperature above 2,000 K DM-5
 Size 1–7 DM-1
 Size A+ DM+1
-
 
 Boiling Atmosphere Gas Mix (HZCO -1.01 – -2.0)
 (Use for mean temperatures of 353–453K | 80–180°C)
@@ -10208,10 +9250,7 @@ Size 1–7 DM-1
 Size A+ DM+1
 world physical characteristics
 
-
-Hot Atmosphere Gas Mix
-(Use for mean temperatures of 303–353K | 30–80°C)
-
+Hot Atmosphere Gas Mix (Use for mean temperatures of 303–353K | 30–80°C)
 
 2D+DM Exotic (A) Corrosive (B) Insidious (C)
 1 Krypton Argon Hydrochloric Acid
@@ -10228,15 +9267,12 @@ Hot Atmosphere Gas Mix
 12 Neon Ammonia Hydrofluoric Acid
 13 Methane Methane Helium
 
-*Worlds with Hydrographics 0 (or non-H 2 O hydrographics) only, otherwise CO 2
-
+*Worlds with Hydrographics0 (or non-H 2 O hydrographics) only, otherwise CO 2
 
 Size 1–7 DM-1
 Size A+ DM+1
 
-Temperate Atmosphere Gas Mix
-(Use for mean temperatures of 273–303K | 0–30°C)
-
+Temperate Atmosphere Gas Mix (Use for mean temperatures of 273–303K | 0–30°C)
 
 2D+DM Exotic (A) Corrosive (B) Insidious (C)
 1 Krypton Krypton Argon
@@ -10253,8 +9289,7 @@ Temperate Atmosphere Gas Mix
 12 Methane Helium Helium
 13 Helium Hydrogen Hydrogen
 
-*Worlds with Hydrographics 0 (or non-H 2 O hydrographics) only, otherwise CO 2
-
+*Worlds with Hydrographics0 (or non-H 2 O hydrographics) only, otherwise CO 2
 
 Size 1–7 DM-1
 Size A+ DM+1
@@ -10262,11 +9297,8 @@ Size A+ DM+1
 world physical characteristics
 
 
-TRAVELLER
 
-
-Cold Atmosphere Gas Mix
-(Use for mean temperatures of 223–273K | -50–0°C)
+Cold Atmosphere Gas Mix (Use for mean temperatures of 223–273K | -50–0°C)
 2D+DM Exotic (A) Corrosive (B) Insidious (C)
 1 Krypton Krypton Argon
 2 Argon Chlorine Chlorine
@@ -10275,10 +9307,8 @@ Cold Atmosphere Gas Mix
 5 Carbon
 Monoxide*
 
-
 Carbon
 Monoxide*
-
 
 Carbon
 Monoxide*
@@ -10286,10 +9316,8 @@ Monoxide*
 7 Carbon
 Dioxide
 
-
 Carbon
 Dioxide
-
 
 Carbon
 Dioxide
@@ -10299,16 +9327,13 @@ Dioxide
 11 Neon Methane Methane
 12 Methane Helium Helium
 13 Helium Hydrogen Hydrogen
-*Worlds with Hydrographics 0 (or non-H 2 O
+*Worlds with Hydrographics0 (or non-H 2 O
 hydrographics) only, otherwise CO 2
-
 
 Size 1–7 DM-1
 Size A+ DM+1
 
-
-Frozen Atmosphere Gas Mix
-(HZCO +1.01–+3.0)
+Frozen Atmosphere Gas Mix (HZCO +1.01–+3.0)
 (Use for mean temperatures of 123–223K | -150–
 -50°C)
 2D+DM Exotic (A) Corrosive (B) Insidious (C)
@@ -10320,10 +9345,8 @@ Frozen Atmosphere Gas Mix
 6 Carbon
 Monoxide*
 
-
 Carbon
 Monoxide*
-
 
 Carbon
 Monoxide*
@@ -10334,18 +9357,14 @@ Monoxide*
 11 Neon Methane Helium
 12 Methane Helium Hydrogen
 13 Helium Hydrogen Hydrogen
-*Worlds with Hydrographics 0 (or non-H 2 O
+*Worlds with Hydrographics0 (or non-H 2 O
 hydrographics) only, otherwise N 2.
-
 
 Size 1–7 DM-2
 Size A+ DM+1
 
-
-Frozen Atmosphere Gas Mix
-(HZCO + 3.00+)
+Frozen Atmosphere Gas Mix (HZCO + 3.00+)
 (Use for mean temperatures below 123K | -150°C)
-
 
 2D+DM Exotic (A) Corrosive (B) Insidious (C)
 1 Krypton Krypton Krypton
@@ -10355,10 +9374,8 @@ Frozen Atmosphere Gas Mix
 5 Carbon
 Monoxide*
 
-
 Carbon
 Monoxide*
-
 
 Carbon
 Monoxide*
@@ -10370,15 +9387,13 @@ Monoxide*
 11 Hydrogen Hydrogen Hydrogen
 12 Hydrogen Hydrogen Hydrogen
 13+ Hydrogen Hydrogen Hydrogen
-*Worlds with Hydrographics 0 (or non-H 2 O
+*Worlds with Hydrographics0 (or non-H 2 O
 hydrographics) only, otherwise N 2.
-
 
 Mean temperature 70–100K DM+3
 Mean temperature below 70K DM+5
 Size 1–7 DM-3
 Size A+ DM+1
-
 
 For the Zed system examples, Aab I has a corrosive
 Atmosphere, with a subtype of D: ‘extremely dense,
@@ -10402,7 +9417,6 @@ changes the dominant gas rolls 8:water vapour at 60%
 
 world physical characteristics
 
-
 of the remainder, or 3% of the total. Leaving the world
 as 48% CO 2 , 47% NH 3 , 3% H 2 O and 2% other gases,
 _the Referee notes the profile as B-StD:CO_ 2 -48:NH 3 -
@@ -10425,6 +9439,8 @@ is 96% nitrogen 3.8% argon, 0.2% other gases or
 A-St7:0.98:N 2 -96:Ar-04 P.4.7.
 
 HYDROGRAPHICS
+
+
 The hydrographics percentage is fairly
 straightforward to generate and comprehend for a
 world in the habitable zone with water as its liquid
@@ -10450,7 +9466,6 @@ a provisional temperature range for the world. This
 provisional temperature range can determine DMs for
 the hydrographics roll.
 
-
 Hydrographics Ranges
 Hydrographics Percentage Range
 0 0%–5%
@@ -10465,15 +9480,12 @@ Hydrographics Percentage Range
 9 86%–95%
 A (10) 96%–100%
 
-
 Hot temperature DM-2
 Boiling temperature DM-6
-
 
 Note that these temperature-related DMs are ignored
 for very dense (D) or the panthalassic subtype (7) of
 unusual (F) atmospheres.
-
 
 To determine a more precise value for hydrographics,
 use a linear variation. For most ranges, this involves
@@ -10487,7 +9499,6 @@ with results above 100% treated as 100%, with
 worlds above Size code 9 with Hydrographics code A
 always treated as 100% liquid.
 
-
 Precision beyond 1% or at most 0.1% is not necessary,
 as temporary conditions may cause variation in surface
 coverage. By convention, for worlds with environmental
@@ -10500,10 +9511,10 @@ considered in these numbers.
 world physical characteristics
 
 
-TRAVELLER
-
 
 OUTER SYSTEM HYDROGRAPHICS
+
+
 On worlds where liquid water is not supported by
 atmospheric conditions (or lack of atmosphere)
 the Hydrographics code is considered to be the
@@ -10519,13 +9530,10 @@ outer system worlds – which might be half ice by
 mass – this number can seem arbitrary. This can
 be addressed in one of two ways:
 
-
 Method 1: No change. Leave the hydrographics
-generation process alone and consider the result
-(at most 1 or 2) as fields of pure or near pure
+generation process alone and consider the result (at most 1 or 2) as fields of pure or near pure
 water ice, as opposed to mixtures of water ice
 and other frozen gases or rocks.
-
 
 Method 2: Treat the Hydrographics code as
 more representative of the make-up of the
@@ -10537,47 +9545,40 @@ in regions beyond HZCO+3. On worlds in the 2.1
 - 3.0 range beyond the HZCO, just use a DM-2
 instead of DM-4 and still allow rolls for Size 1.
 
-
 SURFACE FEATURE DISTRIBUTION
+
+
 Worlds with Hydrographics codes of 6 or more tend
 to be dominated by oceans, often an interconnected
 ‘world ocean’ as on Terra, and have individual
 continents and islands separated by water. Worlds
 with Hydrographics codes of 4 or less tend to be
-dominated by land, often an interconnected world-
-spanning landmass, with isolated oceans and seas
+dominated by land, often an interconnected world-spanning landmass, with isolated oceans and seas
 with perhaps differing ‘sea levels’ despite them
 being connected by river systems. A world with
 a Hydrographics code of 5 could trend in either
 direction, depending on the concentration and
 morphology of continents.
 
-
 These are not absolutes. A world with many water-filled
 craters or depressions could have a Hydrographics
 code of 6 or 7 and yet still have a single landmass and
 many unconnected sea or ocean basins. To determine
-the extent to which the dominant surface feature
-(land or water) is distributed, roll 2D-2 on the Surface
+the extent to which the dominant surface feature (land or water) is distributed, roll 2D-2 on the Surface
 Distribution table. The definition of ‘body’ depends on
 the Hydrographics code of the world.
-
 
 If Hydrographics is 6+, the foundational geography is a
 world ocean and the bodies are continents (major and
 minor) and islands (small).
 
-
 If Hydrographics is 4-, the foundational geography is
-land or a world continent and the bodies are oceans
-(major and minor) and seas (small).
-
+land or a world continent and the bodies are oceans (major and minor) and seas (small).
 
 If the world’s Hydrographics code is an unrefined 5 and/
 or the percentage of hydrographics is exactly 50%, roll
 1D and assume the fundamental geography is ocean
 on a 1–3, or land on a 4–6.
-
 
 Surface Distribution
 2D-2 Description Effect
@@ -10594,11 +9595,9 @@ Surface Distribution
 A Extremely
 Concentrated
 
-
 Single very large major body: 95% or more of body coverage is in one body
 
 world physical characteristics
-
 
 Optionally, the Referee could choose to allow
 unexpected distributions (land versus water) by
@@ -10631,7 +9630,6 @@ covers the world. The Referee rolls 1D with a DM-1
 since the Hydrographics is 6, and gets a 4-1 = 3, which
 still leaves oceans as dominant.
 
-
 WHAT IS A CONTINENT?
 On Terra, land is split into sometimes arbitrarily
 divided continents; most people would say
@@ -10650,7 +9648,7 @@ non-continental landmass is 2.17 million square
 kilometres or about 0.42% of the surface area.
 The purpose of this diversion is to illustrate that
 a ‘continent’ can exist perhaps even on a world
-with a Hydrographics code of A (10) if even just
+with a Hydrographics code ofA (10) if even just
 1–2% of the surface is concentrated in a single
 landmass. Since Size affects surface area,
 determination of ‘continent’ status will depend
@@ -10669,11 +9667,9 @@ be considered a continent by area measurement
 on the larger world, but for its world, it is still
 considered a major continent.
 
-
 If using a standard world map 35 hexes
 across, about five hexes equals 1% of a
 world’s surface area.
-
 
 Next, a roll of 5 on the Surface Distribution table
 indicates a mix of continent sizes. With 100-62 =
@@ -10688,8 +9684,6 @@ continents could number from as low as four, if they
 world physical characteristics
 
 
-TRAVELLER
-
 
 were all just below the major threshold (unlikely),
 to 19, if they were all just above the threshold (also
@@ -10698,7 +9692,6 @@ unlikely). If they were about 3%, there would be about
 Referee decides to roll 3D-3 for the number of minor
 continents, conceding that a low result might require a
 re-roll and receives 12-3 = 9 minor continents.
-
 
 OPTIONAL RULE: EXOTIC LIQUIDS
 The standard procedure for determining hydrographics
@@ -10710,17 +9703,14 @@ subtype (pages 92 to 93) as a baseline for the 2D-7 +
 Atmosphere roll (for example a standard density exotic
 atmosphere would use 6, not 10 for the atmosphere
 factor to add). In such instances, the Referee can keep
-the DM-4 for A+ types and a DM for hot (-2) or boiling
-(-6) temperatures, if appropriate. This will statistically
+the DM-4 for A+ types and a DM for hot (-2) or boiling (-6) temperatures, if appropriate. This will statistically
 lead to less liquids on Atmosphere A–C worlds.
-
 
 Even on worlds with exotic atmospheres, water is a
 possible source of the world’s liquid surface area if
 temperatures allow for it. For much of Terra’s early
 history, it would have been considered Atmosphere A
 but its liquid surface would still be composed of water.
-
 
 On worlds with corrosive or insidious atmosphere
 types, the liquid is less likely to be water but its
@@ -10729,7 +9719,6 @@ temperature of the world. Consult the Atmospheric Gas
 Composition table on page 87 and select from those
 ‘gases’ in between their melting point and boiling point
 at the mean temperature at the world’s surface.
-
 
 If using the surface temperature calculations beginning
 on page 108, the results of those calculations could
@@ -10741,18 +9730,14 @@ on the properties of each gas under varying pressure
 conditions is an exercise for an ambitious world
 designer or chemist and outside the scope of this book.
 
-
 If the surface temperature exceeds 1,000K, it is
 possible that the liquid on a surface is actually magma,
 or liquid rock.
 
-
 The best candidates for surface liquids are molecules
 with a broader range of temperatures between their
 melting and boiling points. The molecules with at least
-20° difference are listed in the Possible Exotic Liquids
-(Fluidic Worlds) table in order of their boiling point.
-
+20° difference are listed in the Possible Exotic Liquids (Fluidic Worlds) table in order of their boiling point.
 
 Possible Exotic Liquids (Fluidic Worlds)
 Molecule Code Boiling Point (K) Melting Point (K) Relative Abundance
@@ -10774,7 +9759,6 @@ Sulphuric Acid H 2 SO 4 718 388 20
 *Not listed on the Exotic Atmosphere Gas table but a viable liquid in isolation or combination
 
 world physical characteristics
-
 
 The actual fluid for a particular Atmosphere code and
 subtype should bear some resemblance to the gas mix,
@@ -10831,12 +9815,10 @@ to have a boiling point of more than 500K and that
 makes sulphuric acid (H 2 SO 4 ) the likely choice,
 ajthough the Referee may want to allow for ‘polar’
 
-
 or high altitude seas of formamide (CH 3 NO) instead,
 given the CO 2 and NH 3 atmosphere.
 
-
-Cab II hydrographics roll is 6-7 + 7 (for Atmosphere
+Cab II hydrographics roll is 6-7 +7 (for Atmosphere
 code A but using subtype 7 as the base) – 4(for
 Atmosphere A) equals 2. The fluid needs to be liquid
 between 70 and 100K on a world with a predominantly
@@ -10846,7 +9828,6 @@ roll, assigning some probability to each (a low one
 for fluorine) but instead decides to make the seas full
 of liquid oxygen – just add heat and the world could
 become habitable (if tainted).
-
 
 ROTATION PERIOD (DAY LENGTH)
 The length of a world’s day is an important detail, not
@@ -10866,28 +9847,25 @@ largest moon to avoid lock is Saturn’s moon Phoebe, a
 likely captured outer system object orbiting more than
 100 planetary diameters from its parent body.
 
-
 BASIC DAY LENGTH
+
+
 If no external factors, such as stars, planets or moons
 have significant impact on a world’s spin rate, the
 rotation period in hours is determined as:
-
 
 Basic Rotation Rate (hours) =
 (2D-2) x 4* +2 +1D + DMs
 *For gas giant or small body (Size 0 or S) rotation,
 multiply by 2 instead
 
-
 System age DM+1 per 2 Gyrs (round down)
-
 
 This yields a range of 3–48+ hours. If the result of
 this roll is 40 or greater, then roll 1D: on a 5+, add the
 results of another determination of basic rotation rate
 and then roll 1D again: on a further roll of 5+, roll for
 another addition of the basic rotation rate and so on.
-
 
 To add greater precision to the length of the day,
 consider the hour value as a base value and add
@@ -10896,12 +9874,9 @@ consider the hour value as a base value and add
 world physical characteristics
 
 
-TRAVELLER
-
 
 emulated by rolling 1D-1 for the ‘tens’ digit and d10
 for the ‘ones’ digit.
-
 
 For Zed Prime, a roll for base rotation rate with DM+3
 for system age results in (11-2) × 4 + 2 + 1 + 3= 42
@@ -10910,8 +9885,9 @@ is required. For extra accuracy, additional rolls result
 in 42 hours, 22 minutes and 15 seconds, or in decimal
 form, 42.37 hours.
 
-
 DAYS IN A YEAR AND SOLAR DAYS
+
+
 A day as determined above is one rotation, the period
 of time required for a world to spin once on its axis.
 This is called its sidereal day. While the world rotates,
@@ -10928,7 +9904,6 @@ sidereal day is equal to the length of its year but its
 solar day is infinite: the sun never moves (well, maybe
 a little, but not all the way across the sky).
 
-
 The number of solar days in a year is equal to the
 length of the local year (in hours – use 8,766 hours for
 one standard year) divided by the length of the sidereal
@@ -10939,7 +9914,6 @@ number of solar days in the local year.
 **_Solar Days in a local year =_** - 1
 
 **_Solar Days (hours) =_**
-
 
 Notice that if the length of the year and sidereal day are
 the same, there are zero solar days in a year and the
@@ -10954,7 +9928,6 @@ the climatic effects from temperature swings but it is the
 length of the sidereal day that impacts such things as the
 Coriolis effect of weather patterns.
 
-
 For Zed Prime, the extra level of complexity is
 that it is a moon. Its sidereal day is 42.37 hours
 but since the sun is the source of heat, not its gas
@@ -10966,15 +9939,15 @@ minus 1 equals 165.548 days in a year and the solar
 day becomes 7,056.63 ÷ 165.548 = 42.626 hours or
 42 hours, 37 minutes and 33 seconds.
 
-
 AXIAL TILTS
+
+
 The axial tilt of a world, also known as its obliquity, is
 the angle between its rotational axis and its orbital axis
 or the plane in which it orbits its sun or parent body.
 The axial tilt of a world influences the severity of a
 world’s seasons and its resistance to becoming tidally
 locked to its parent body. To determine axial tilt:
-
 
 Axial Tilt
 2D Tilt Range
@@ -10985,7 +9958,6 @@ Axial Tilt
 8–9 5 + 1D × 5 10–35°
 10+ Roll on the Extreme Axial Tilt
 table
-
 
 Extreme Axial Tilt
 1D Tilt Range Remarks
@@ -10999,13 +9971,11 @@ retrograde
 retrograde with
 high variance
 
-
 Linear variance for axial tilt values is appropriate and
 should be additive (using the result as a base) on the
 Extreme Axial Tilt table. Since sub-divisions of degrees
 are expressed as minutes and seconds, they can be
 added using the same procedures as day length variation.
-
 
 Retrograde rotation is any rotation between 90°
 and 180°. It means the planet spins in the direction
@@ -11013,14 +9983,11 @@ opposite to that of its revolution around its primary – by
 
 world physical characteristics
 
-
 Years(hours)
 Sideral Day(hours)
 
-
 Years(hours)
 Solar Days in a local year
-
 
 convention a counter-clockwise or ‘right-hand’ direction
 is the default. Tilts of greater than 90° can also be
@@ -11052,7 +10019,6 @@ Tides are differential forces applied to the planet
 across the breadth of its diameter by potentially both
 parent and child objects. They can impact the length
 
-
 of day and even cause a tidal lock where the same
 face of a world always faces the body. Tidal forces
 also impact the magnitude of tides on a world’s
@@ -11065,13 +10031,12 @@ the cube of the distance between them.
 
 **_Tidal Force ~_**
 
-
-The following sections will use this basic relationship
-(without as much mathematics) to determine how a
+The following sections will use this basic relationship (without as much mathematics) to determine how a
 world is affected by tidal force.
 
-
 TIDAL LOCK EFFECT
+
+
 A strong tidal force can cause a world to stop
 independent rotation and keep one face toward that
 body, rotating once per revolution. This can lock a
@@ -11082,7 +10047,6 @@ eccentricity, the presence and movements of other
 gravitational sources, or even a thick atmosphere. To
 
 Tidal Lock Status
-
 
 2D+DM Effect Remarks
 2- No effect on day length Retain existing sidereal day length
@@ -11108,30 +10072,24 @@ of the original or new values.
 
 world physical characteristics
 
-
 Other Body's Mass x Affected Body's Diameter
 Distance^3
 
-
-TRAVELLER
 
 
 AXIAL TILT EXAMPLES
 
 
-30 O
 
+30 O
 
 60 O
 
-
 90 O
-
 
 account for these many factors, the tidal lock status of
 a world is the result of one or more rolls on the Tidal
 Lock Status table.
-
 
 This table determines tidal locks for three cases: the
 lock of a planet to a sun, the lock of a moon to a planet
@@ -11146,7 +10104,6 @@ moon and then the star if there are multiple possible
 moons with the same DM) and apply the effect of
 highest adjusted roll to the world.
 
-
 This table has many DMs, some common to all cases,
 some to the specific case. All relevant DMs, common
 and specific apply to roll for the relevant case. The
@@ -11154,44 +10111,35 @@ result applies to the world’s sidereal day and assumes
 that this value was determined using the procedure in
 the Basic Day Length section on page 103.
 
-
 TIDAL LOCK DMS
-The following DMs apply to the Tidal Lock Status table
-(each case has a Base DM). In ‘edge’ conditions where
+
+
+The following DMs apply to the Tidal Lock Status table (each case has a Base DM). In ‘edge’ conditions where
 a value corresponds to more than one DM or falls
 between two DMs, use the DM closer to 0.
 
-
 DMs for all cases:
-Size 1 or more DM+Size ÷ 3
-(round up)
-Eccentricity greater than 0.1 DM-Eccentricity × 10
-(round down)
+Size 1 or more DM+Size ÷ 3 (round up)
+Eccentricity greater than 0.1 DM-Eccentricity × 10 (round down)
 Axial tilt above 30° DM-2
 Axial tilt between 60° and 120° DM-4
 Axial tilt between 80° and 100° DM-4
 Atmospheric pressure above
 2.5 bar
 
-
 DM-2
-
 
 System age less than 1 Gyr DM-2
 System age between 5 and
 10 Gyrs
 
-
 DM+2
-
 
 System age greater than 10
 Gyrs
 
-
 DM+4 (Axial tilt DMs
 are additive)
-
 
 DMs for a planet’s lock to a star (or
 multiple stars) only:
@@ -11206,31 +10154,24 @@ Star mass(es) less than 0.5 DM-2
 Star mass(es) between 0.5
 and 1.0
 
-
 DM-1
-
 
 Star mass(es) between 2
 and 5
 
-
 DM+1
-
 
 Star mass(es) greater than 5 DM+2
 Planet orbits more than
 one star
-
 
 DM-Total number of
 stars orbited
 Planet has a significant
 moon of Size 1+
 
-
 DM-Total Size of all
 moons (Size 1+)
-
 
 DMs for a moon’s lock to a planet only:
 Base DM DM+6
@@ -11241,19 +10182,15 @@ Planet mass between 1 and 10 DM+2
 Planet mass between 10 and
 100
 
-
 DM+4
-
 
 Planet mass between 100 and
 1,000
-
 
 DM+6
 
 Planet mass greater than 1,000 DM+8
 world physical characteristics
-
 
 DMs for a planet’s lock to its moon only:
 Check a planet’s moons first, only if the planet has
@@ -11261,42 +10198,35 @@ one or more moons that are locked to it can the planet
 also be locked to one of those moons. Check only for
 terrestrial worlds (Size 1-F).
 
-
 Base DM DM-10
 Moon is Size 1 or above DM+Moon Size
-Moon orbit less than 5 PD DM+5 + (5 – PD) × 5
-(round up)
+Moon orbit less than 5 PD DM+5 + (5 – PD) × 5 (round up)
 Moon orbit between 5 and 10
 PD
 
 
-DM+4
 
+DM+4
 
 Moon orbit between 10 and
 20 PD
 
-
 DM+2
-
 
 Moon orbit between 20 and
 40 PD
 
-
 DM+1
-
 
 Moon orbit greater than 60
 PD
 
 
-DM-6
 
+DM-6
 
 Planet has more than one
 significant moon
-
 
 DM-2 per moon
 beyond the first
@@ -11343,7 +10273,6 @@ To summarise, a tidal lock has the following effects:
           with DM-2 if it is greater than 0.1 and use the lower
           of the original or new values.
 
-
 Zed Prime is a moon in orbit around a gas giant. The
 gas giant has a mass of 1,200 and Zed Prime is a Size 5
 world that orbits retrograde at 22 PD with an eccentricity
@@ -11351,11 +10280,10 @@ of 0.25. The system age is 6.3 billion years. The
 resultant DM for all cases is +2 (Size), -2 (eccentricity),
 -2 (tilt greater than 30°), -4 (tilt between 60° and 120°),
 and +2 (system age) or a global -4 DM for all cases.
-DMs for a moon locked to a planet are +6 (Base), -1
-(planetary diameters), -2 (retrograde), +8 (planet mass),
+DMs for a moon locked to a planet are +6 (Base), -1 (planetary diameters), -2 (retrograde), +8 (planet mass),
 or DM+11 in this case. Adding all DMs together results
 in a total DM of +7. Rolling 2D gets a 6 + 7 = 13, which
-is a 1:1 lock. But a (fudged by Referee) further roll of 12
+is a 1:1 lock. Buta (fudged by Referee) further roll of 12
 results in a ‘DM free’ roll on the Tidal Lock Status table
 and that result is a 4 which doubles the sidereal day
 length to 84 hours, 44 minutes and 30 seconds, or in
@@ -11363,8 +10291,9 @@ decimal form, 84.74 hours. The number of days in a year
 becomes 82.2739 and the solar day is now 85.77 hours,
 or 85 hours, 46 minutes and 12 seconds.
 
-
 SURFACE TIDAL EFFECTS
+
+
 One ironic effect of a tidal lock is that the daily effects
 associated with ‘tides’ between the two bodies no
 longer directly affects the locked world. A world locked
@@ -11384,25 +10313,20 @@ amplitude on the average ocean tides of a planet is:
 
 **_Star Tidal Effect =_**
 
-
 For comparison, Sol causes a tidal amplitude effect
 of 0.25 metres on Terra’s oceans. The force of a
 star’s tides also applies to the moons of a planet
 
 world physical characteristics
 
-
 Star Mass x Planet Size
 32 x AU^3
 
-
-TRAVELLER
 
 
 even when those moons are tidally locked to their
 parent planet – substitute the moon’s Size for the
 planet’s Size in the equation above.
-
 
 The tidal effect of a moon, locked or not, on a planet
 which is not locked to that moon is computed using the
@@ -11410,16 +10334,13 @@ moon’s distance from the planet in millions of kilometres:
 
 **_Moon Tidal Effect =_**
 
-
 For comparison, Luna causes a tidal effect of 0.54
 metres on Terra’s oceans.
-
 
 In cases where a moon is not tidally locked to its
 parent, the parent planet causes tides on the moon:
 
 **_Planet Tidal Effect =_**
-
 
 Finally, around planets with multiple large moons, these
 moons can apply tidal pressures on each other. This
@@ -11432,18 +10353,15 @@ total of their orbit distances from the planet:
 
 **_Moon to Moon Tidal Effect =_**
 
-
 This effect will wax and wane as the separation between
 the two bodies varies. Technically, this calculation could
 be done between all moon pairs but it should only be
 done at all if the Referee thinks it is important.
 
-
 For all of these cases, the tidal effect in metres
 represents a near minimum amplitude value, what
 could be expected in the open ocean. On Terra,
 coastal features often channel tidal effects, causing
-
 
 a rise in tides of as much as 16 times the value
 computed in the above equations. On worlds with
@@ -11455,7 +10373,6 @@ tides a day from each tide-producing body into what
 seems like a random fluctuation that might on rare
 occasions all combine to create extremely high or
 low ‘rogue tides’.
-
 
 With a little fudging, Zed Prime manages without a
 tidal lock but is still subject to the tides of its primary
@@ -11472,13 +10389,13 @@ from the two relatively distant suns is only 1.836 ×
 same as the effect of Sol and Terra and hardly worth
 mentioning for this world. Note that had Zed Prime
 been locked to its primary, only this solar force, plus
-any minor force from the only other substantially-
-sized moon would be in effect – but tidal heating (to
+any minor force from the only other substantially-sized moon would be in effect – but tidal heating (to
 be covered later) from its eccentric orbit could remain
 a large factor.
 
-
 MEAN TEMPERATURE
+
+
 Warning: This section is the most mathematics-heavy
 of the book, though there will be tables to bypass
 the need to calculate everything. A Referee could
@@ -11488,8 +10405,9 @@ profiles. In most cases, the only temperature needed
 for describing a world is the basic temperature, which
 can be used as the mean temperature.
 
-
 BASIC TEMPERATURE
+
+
 The Referee does not need to do any temperature
 calculations if all that is necessary is a vague idea of
 the world’s general temperature: Is it hotter or colder
@@ -11520,30 +10438,22 @@ Planet Mass x Moon Size
 
 3.2 x
 
+Moon Distance(km)
+1,000,000
 
 Moon Distance(km)
 1,000,000
 
-
-Moon Distance(km)
-1,000,000
-
-
 3
 
-
 3
-
 
 Moon Separation(km)
 1,000,000
 
-
 3
 
-
 Basic Mean Temperature
-
 
 Modified Roll Mean Temperature
 -1 another -5° per result below 0*
@@ -11562,20 +10472,16 @@ Modified Roll Mean Temperature
 12 115°C 388K
 13 or more another +50° per result above 12
 
-*Temperature must be 3K or more, and if below 10K
-(lower than a modified -33), should be recomputed
+*Temperature must be 3K or more, and if below 10K (lower than a modified -33), should be recomputed
 as 1D+5.
-
 
 If Orbit# less
 than HZCO-1
-
 
 DM+4 +1 per 0.5 Orbit# below
 HZCO-1 (round to nearest)
 If Orbit# greater
 than HZCO+1
-
 
 DM-4 -1 per 0.5 Orbit# above
 HZCO+1 (round to nearest)
@@ -11606,11 +10512,9 @@ its star(s), how much gets reflected and how much is
 trapped. Sometimes inherent heat is generated by the
 planet itself and added to other values.
 
-
 Thumb rule two: Many of the conditions and equations
 in this section lead to modifications of the Luminosity
-factor in the temperature equation. The base or mean
-(not necessarily an arithmetical mean but a ‘normal’
+factor in the temperature equation. The base or mean (not necessarily an arithmetical mean but a ‘normal’
 value) for the world as a whole should always use a
 factor of luminosity × 1.0. A high temperature should
 never use a factor of more than luminosity × 1.999 and
@@ -11620,7 +10524,6 @@ to 1.0 but never beyond those limits. Local factors can
 exceed the high and low temperatures list under certain
 conditions but not over the course of a full year.
 
-
 Thumb rule three: The basic temperature equation
 determines temperature in degrees Kelvin (K) and is
 of the form:
@@ -11628,7 +10531,6 @@ of the form:
 **_Temperature (K) =_**
 
 279 x
-
 
 Thumb rule four: If a temperature factor is independent
 from solar radiation (luminosity) and other variables
@@ -11639,7 +10541,6 @@ total of the fourth power of each factor:
 
 **_Temperature Addtion Equation:Ttotal =_**
 
-
 Rule five : All of the equations below except the
 mean temperature are probably wrong, at least
 under certain conditions. Climate scientists with
@@ -11647,12 +10548,12 @@ supercomputers do not always agree on models for
 temperature effects and even when their models
 agree, the results can be indeterminate.
 
-
 With more thumbs than hands, the temperature
 section commences:
 
-
 MEAN TEMPERATURE DETERMINATION
+
+
 Computing the mean temperature of a world by formula
 requires four values:
 
@@ -11667,21 +10568,15 @@ world physical characteristics
 
 T 1 + T 2 + ...
 
-
-Luminosity x (1 - Albedo) x (1 + Greenhouse Factor)
+Luminosityx (1 - Albedo)x (1 + Greenhouse Factor)
 Distance^2
 
-
 4
 
-
 4
-
 
 4 4
 
-
-TRAVELLER
 
 
 The first and second values are determined in previous
@@ -11691,8 +10586,9 @@ is added to determine luminosity and any ‘exterior’ stars
 are initially ignored. If a world is a moon, use the Orbit# of
 the world’s parent planet to determine the AU distance.
 
-
 ALBEDO
+
+
 The third value is the world’s albedo. More specifically
 for temperature generation, these formulas consider
 the Bond or bolometric albedo, which covers all
@@ -11706,7 +10602,6 @@ higher: Venus is 0.75 and gas giants range between
 0.3 and 0.5. Icy outer system bodies often have high
 albedos, such as Enceladus at 0.81 and Eris at 0.96.
 
-
 The Albedo Range table provides guidance for
 determining the albedo of different types of worlds.
 Select the proper type of world, then if the world has
@@ -11717,13 +10612,13 @@ greater than 0.4. The potential exception is a snowball
 world with extreme glaciation, which should be treated
 instead as an icy terrestrial beyond HZCO+2.
 
-
 In the unlikely event of generating a result greater than
 0.98 or less than 0.02, treat the albedo results as 0.02
 and 0.98 respectively.
 
-
 GREENHOUSE FACTOR
+
+
 The fourth value for determining the base temperature
 is the greenhouse factor. Vacuum worlds have a
 greenhouse factor of 0 by definition. For worlds
@@ -11740,23 +10635,18 @@ than attempting to model various gas interactions at
 differing pressures and temperatures, the greenhouse
 factor can be emulated using the following guidelines:
 
-
 The initial greenhouse factor is equal to 0.5 times the
 square root of the world’s atmospheric pressure in bar:
 
 **_Initial Greenhouse Factor =_** 0.5 x
 
-
 Next, apply the following modifiers to the factor:
-
 
 Greenhouse Modifiers
 Condition Modifier
 Atmosphere 1–9 or D or E + 3D × 0.01
 Atmosphere A or F × 1D-1 (minimum 0.5)
-Atmosphere B, C, G, or H 1D: on 1–5, × the result
-(of 1–5); on 6, × 3D
-
+Atmosphere B, C, G, or H 1D: on 1–5, × the result (of 1–5); on 6, × 3D
 
 Albedo Range
 World Types Albedo Range Midpoint
@@ -11776,7 +10666,6 @@ Modifiers
 world physical characteristicsvary widely. On any result of 0.4 or less, subtract 1D-1 × 0.05 from the albedo to lower the limit of 0.02.
 
 bar
-
 
 After modifications, this value is the world’s effective
 greenhouse factor at mean baseline altitude. It
@@ -11799,13 +10688,11 @@ number. The Celsius equivalent is
 **_Temperature Celsius (°C) =_** Temperature (K)-273
 
 In many cases, this is the only temperature calculation
-required for a world but it is a generic world-wide, year-
-long average number.
+required for a world but it is a generic world-wide, year-long average number.
 
 If Referees have a particular temperature range in
 mind for their vision of the world, altering the values of
-albedo or greenhouse factors is the best way to ‘fine-
-tune’ a world’s climate to meet those expectations.
+albedo or greenhouse factors is the best way to ‘fine-tune’ a world’s climate to meet those expectations.
 
 **OPTIONAL RUNAWAY GREENHOUSE CHECK**
 If using the optional runaway greenhouse check
@@ -11828,8 +10715,9 @@ has a pressure of 1.04 bar. This yields a greenhouse
 factor of 0.5 × 1.041/2+3D × 0.01 which, with a 3D roll
 of 8 results in 0.59.
 
-
 TEMPERATURE AND MOARN
+
+
 The most important temperature value for a world
 is its mean temperature – not necessarily an
 arithmetic mean but an expected average-like
@@ -11837,7 +10725,6 @@ temperature over the period of a local year at
 45° latitude at the world’s mean baseline altitude.
 This can be computed using the Basic Mean
 Temperature table or the temperature equation.
-
 
 Additional temperature calculations can
 become very complex, especially if dealing
@@ -11851,7 +10738,6 @@ computer program or convoluted spreadsheet,
 and some variations may not repeat over the
 course of years or even decades.
 
-
 Each of this section’s temperature-varying
 calculations assumes different factors and if
 needing anything beyond the mean temperature
@@ -11859,7 +10745,6 @@ to describe or further develop a world, the Referee
 should focus on those most likely to have the
 biggest impact: for seasonal effects, it would
 normally be axial tilt.
-
 
 Short term effects are less important for global
 values. For instance, the 44-hour orbit at a
@@ -11876,7 +10761,6 @@ it is a long-term increase but in the short term it is
 merely noise, unless relevant to how Travellers or
 locals behave.
 
-
 These four values entered into the mean temperature
 equation results in: 279 × (1.419 × (1 - 0.33) × (1 +
 0.59) ÷ 1.06^2 )1/4 = 300K. This is 12° warmer than Terra,
@@ -11884,18 +10768,16 @@ although averages will not give a complete picture.
 
 world physical characteristics
 
-
-Luminosity x (1 - Albedo) x (1 + Greenhouse Factor)
+Luminosityx (1 - Albedo)x (1 + Greenhouse Factor)
 AU^2
-
 
 4
 
 
-TRAVELLER
-
 
 HIGH AND LOW TEMPERATURES
+
+
 A single mean temperature value does not describe the
 ranges of temperatures experienced on a daily basis
 across a world’s surface. Various scenarios can cover
@@ -11904,7 +10786,6 @@ will consider the values to record as High and Low
 temperatures for the world. These are not the world’s
 most extreme temperatures but are bounds on expected
 temperature values under most circumstances.
-
 
 A major factor in determining temperature variations
 on many worlds is axial tilt. The effects of axial tilt
@@ -11919,7 +10800,6 @@ the world moves close and further from its suns. This
 section will build these factors in steps to compute the
 high and low temperature values.
 
-
 STEP 1: AXIAL TILT FACTOR
 The major influence on Terra’s annual temperature
 variation at a particular time of year comes from axial
@@ -11928,7 +10808,6 @@ summer and winter. In simple terms, the tilt of the
 world as it orbits its star is such that one hemisphere
 receives more energy than another – it has a longer
 day and the sun strikes at less of an angle. Locations
-
 
 above the arctic circle, those of higher latitude than
 90 degrees minus axial tilt degrees, will experience at
@@ -11940,7 +10819,6 @@ tilt factor for the world. The basic axial tilt factor is
 equal to the sine of the axial tilt:
 
 **_Basic Axial Tilt Factor =_** sin(axial tilt)
-
 
 For the purposes of this calculation the axial tilt should
 be considered to be in the range of 0–90°. If the
@@ -11963,14 +10841,12 @@ be easier to render as ‘π÷180’, or use the
 RADIANS() function.
 world physical characteristics
 
-
 Rather than struggling with equations, the following
 table provides the basic axial tilt factor in 5°
 increments from 5° to 90°. Extrapolate to the nearest
 degree if desired.
 
 Basic Axial Tilt Factor
-
 
 Axial Tilt Modifier Axial Tilt Modifier
 5° 0.09 50° 0.77
@@ -12017,7 +10893,6 @@ length of the absolute value of the solar day (see page
 
 **_Rotation Factor =_**
 
-
 Two exceptions to this exist, both based on the
 principle that no temperature modification factor to
 luminosity can be greater than 1.0:
@@ -12026,12 +10901,10 @@ a rotation factor of 1.0
 •	 All worlds in a 1:1 tidal lock to their sun(s) have a
 rotation factor of 1.0
 
-
 Zed Prime’s solar day is 85.77 hours long, so the
 resulting rotation factor is determined by taking the
 square root of that number and then dividing by 50
 to get 0.185.
-
 
 STEP 3: GEOGRAPHIC FACTOR
 Liquid water has a moderating effect on temperature.
@@ -12043,17 +10916,13 @@ the Surface Distribution table on page 100:
 
 **_Geographic Factor =_** + Modifier
 
-
 If the world’s Hydrographics code is between 2–8, then
 geography can modify the factor:
-
 
 Surface Distribution is ‘Very Concentrated’ (9 +) +0.1
 Surface Distribution is ‘Very Distributed’ (1-) -0.1
 
-
 A modified result can result in a negative number.
-
 
 STEP 4: VARIANCE FACTOR ADDITION
 At different times and locations, the factors above
@@ -12065,29 +10934,22 @@ possible across a world’s surface but overall values
 to determine expected variation. For this purpose, the
 factors determined above can be added together:
 
-
 Variance Factors = Axial Tilt Factor + Rotation Factor +
 Geographic Factor
 
-
 If this result is greater than 1.0, it must be reduced to
 1.0; if it is less than 0, it becomes 0.
-
 
 The variance factors for Zed Prime add up to 0.865.
 
 world physical characteristics
 
-
 Absolute value of Solar Day (hours)
 50
-
 
 10 - HYD
 20
 
-
-TRAVELLER
 
 
 STEP 5: ATMOSPHERIC FACTOR
@@ -12099,10 +10961,8 @@ pressure in bar:
 
 **_Atmospheric Factor =_** 1 + Atmosphere in bar
 
-
 Zed Prime has an atmospheric pressure of 1.04 bar, so
 its atmospheric factor is 2.04
-
 
 STEP 6: LUMINOSITY MODIFIER
 The Luminosity Modifier is equal to the variance factors
@@ -12111,14 +10971,11 @@ somewhere between 1 and 0:
 
 **_Luminosity Modifier =_**
 
-
 If the variance factors remain within the bounds of 0
 and 1, the luminosity modifier can never be more than
 1 or less than 0.
 
-
 Zed Prime’s luminosity modifier = 0.865 ÷ 2.04 = 0.424
-
 
 STEP 7: HIGH AND LOW LUMINOSITY
 A major element in the temperature equation used to
@@ -12127,16 +10984,13 @@ is set by applying the luminosity modifier to determine
 the effective luminosity experienced by the world under
 differing conditions. These modified values are:
 
-
 High Luminosity =
 Luminosity × (1 + Luminosity Modifier)
 Low Luminosity =
 Luminosity × (1 – Luminosity Modifier)
 
-
 With total luminosity from Stars Aab at 1.419, Zed Prime’s
 high and low luminosity values are 2.021 and 0.817.
-
 
 STEP 8: ECCENTRICITY MODIFIERS: NEAR AND FAR AU
 The final factor to consider in determining high and
@@ -12145,21 +10999,17 @@ For a planet, the eccentricity of its orbit is the value
 to consider and for a moon, it is the eccentricity of
 the parent planet. The Referee could also compute
 
-
 the difference in orbital location based on the moon’s
 orbit for extra complexity but in the interest of sanity,
 that is optional.
-
 
 For the high temperature, the AU value of an orbit
 should be multiplied by 1 – eccentricity to set a Near
 AU value. For a low temperature by 1 + eccentricity to
 set a Far AU value:
 
-
 Near AU = AU × (1 - eccentricity)
 Far AU = AU × (1 + eccentricity)
-
 
 For Zed Prime, its parent planet’s orbit (of 1.06AU) is
 what matters for eccentricity. Its eccentricity is 0.10,
@@ -12170,7 +11020,6 @@ kilometres to this value but that is less than the variance
 of the planet’s eccentricity and the Referee feels no need
 to try to determine any difference this could cause.
 
-
 STEP 9: HIGH AND LOW TEMPERATURE CALCULATION
 From the combination of the above luminosity
 and distance modifiers, the world’s high and low
@@ -12178,50 +11027,40 @@ temperatures are:
 
 **_High Temperature (K) =_**
 
-
 279 x
 
 **_Low Temperature (K) =_**
 
-
 279 x
-
 
 Using albedo = 0.33 and greenhouse factor = 0.59, with
 the above computed factor values, Zed prime’s high
-and low temperatures are 346K and 250K, respectively
-(73°C and -24°C). For comparison, the [[Terra|Terran]] values for
+and low temperatures are 346K and 250K, respectively (73°C and -24°C). For comparison, the [[Terra|Terran]] values for
 these two temperatures computed in the same manner
 are 312K and 261K (38°C and -12°C).
 
-
 ADDITIONAL TEMPERATURE SCENARIOS
+
+
 The mean, high and low temperatures are planetwide
-values valid at mean baseline altitude and temperate-
-zone regions. Changes to the luminosity modifier’s
+values valid at mean baseline altitude and temperate-zone regions. Changes to the luminosity modifier’s
 components can provide different temperatures and
 ranges for differing latitudes and times of year or day.
 
 world physical characteristics
 
-
 Variance Factors
 Atmospheric Factor
 
-
-High Luminosity x (1 - Albedo) x (1 + Greenhouse Factor)
+High Luminosityx (1 - Albedo)x (1 + Greenhouse Factor)
 (Near AU)^2
 
-
 4
 
-
-Low Luminosity x (1 - Albedo) x (1 + Greenhouse Factor)
+Low Luminosityx (1 - Albedo)x (1 + Greenhouse Factor)
 (Far AU)^2
 
-
 4
-
 
 Differing altitudes are addressed by modifying the
 greenhouse factor based on the varying atmospheric
@@ -12242,8 +11081,9 @@ The axial tilt factor sets bounds for global seasonal
 variation but actual variance depends on the latitude
 and the time of the year. If the axial tilt factor is
 
-
 TEMPERATURE VARIANCES
+
+
 If the Referee just wants to estimate worst
 case temperatures for a world, they can set the
 variance factors of a world equal to 1.0 and use
@@ -12251,7 +11091,6 @@ only half of a world’s atmospheric pressure to set
 the atmospheric factor:
 
 **_Worst Case Luminosity Modfier =_**
-
 
 For Zed Prime, the worst case luminosity modifier
 is 0.657. This results in worst case high and
@@ -12273,20 +11112,17 @@ conditions, the worst case low temperature value
 determined by the formula could be multiplied by
 0.84 or 0.85 for simplicity.
 
-
 significant (meaning the axial tilt factor divided by the
 atmospheric factor is more than 0.05) the Referee
 may wish to determine temperatures for the current
 season or the current day of the year in the ‘warmer’
 or ‘colder’ hemisphere.
 
-
 The temperature for each season changes the axial
 tilt factor from its maximum value in local summer, to
 zero at the equinoxes and to the negative in winter,
 but the change is not linear and it will lag as the
 ground slowly heats and cools.
-
 
 To model this effect, begin by calculating an adjusted
 fractional year by assigning a time to the beginning
@@ -12301,7 +11137,6 @@ locked or very slowly rotating worlds:
 
 **_Adjusted Fractional Year =_**
 
-
 Assuming a basically circular orbit around the star,
 multiply this interval by 360 and use the cosine of that
 value to determine the fraction of the axial tilt factor to
@@ -12311,13 +11146,13 @@ for the axial tilt factor when determining the luminosity
 modifier (which, regardless of all factor values, must
 still be between 0 and 1).
 
-
 Seasonal Axial Tilt Factor =
 cos(Adjusted Fractional Year x 360) x Axial Tilt Factor
 
-
 TEMPERATURE SCENARIO:
 MEAN TEMPERATURE BY LATITUDE
+
+
 Another modification to the axial tilt factor can help
 determine a temperature specific to a latitude between
 0°–90°. For these procedures, convert an axial tilt that
@@ -12329,7 +11164,6 @@ of three basic seasonal zone types:
 
 world physical characteristics
 
-
 bar
 2
 
@@ -12337,12 +11171,10 @@ bar
 
 1 +
 
-
 Days since summer solstice - 0.1 x lag (days)
 local year length (days)
 
 
-TRAVELLER
 
 1. The tropical zone, defined as a region of a world
     with a latitude of less than or equal to the axial
@@ -12364,7 +11196,6 @@ TRAVELLER
     processes below, the term middle zone will be used
     instead of temperate zone.
 
-
 Part A: Worlds with Axial Tilts of less than 45°
 The mean temperature of a world is defined as the
 mean temperature of the world at 45° latitudes. For
@@ -12375,12 +11206,10 @@ and everything else, both the middles and the arctics.
 For each of these cases a latitude adjustment applies,
 determined for each as:
 
-
 CASE 1, TROPICAL ZONE: In the tropical zone,
 an axial tilt is not a significant factor for differences
 in temperature during the course of varying seasons;
-tropical temperatures have little seasonal variation
-(from axial tilt, although a large eccentricity could
+tropical temperatures have little seasonal variation (from axial tilt, although a large eccentricity could
 provide season-like effects). Year-long temperatures
 remain essentially constant in the tropic zone
 and calculations regarding them can ignore
@@ -12391,33 +11220,27 @@ difference between 45° and the axial tilt.
 
 **_Tropical Zone Latitude Adjustment =_** sin(45°- axial tilt)
 
-
 This provides the temperature adjustment for
 a location in this zone. If estimating varying
 temperatures during the course of the year in the
 tropical zone, an axial tilt factor modifier is not applied
 to the temperature equation.
 
-
 CASE 2, MIDDLE AND ARCTIC ZONES: The
 following provides a roughly accurate match of
 temperatures above the tropical zone:
 
-
 Middle and Arctic Zone Luminosity Adjustment =
 sin(45°- latitiude)
-
 
 This adjustment is independent of tilt but during
 different seasons, the axial tilt factor will also apply to
 daily temperature variance factors in this zone.
 
-
 BOTH CASES: After determining a zone luminosity
 adjustment, it is applied to the luminosity modifier:
 
 **_Luminosity Modifier =_**
-
 
 This luminosity modifier is used to determine the
 mean annual temperature for a specific latitude. In the
@@ -12432,19 +11255,15 @@ that time period and any other factors before dividing
 by the atmospheric factor to determine the mean
 temperature at that time of the year.
 
-
 The luminosity multiplier for latitude to use in
 the temperature equation is equal to 1 plus the
 luminosity modifier:
 
-
 Latitude Luminosity =
 Luminosity×(1+Luminosity Modifier)
 
-
 This is then added to the temperature equation to
-determine the mean temperature of a specific latitude
-(or latitude temperature):
+determine the mean temperature of a specific latitude (or latitude temperature):
 
 **_Latitude Temperature (K) =_**
 
@@ -12452,17 +11271,13 @@ determine the mean temperature of a specific latitude
 
 world physical characteristics
 
-
 Zone Latitude Adjustment
 Atmospheric Factor
 
-
-Latitude Luminosity x (1 - Albedo) x (1 + Greenhouse Factor)
+Latitude Luminosityx (1 - Albedo)x (1 + Greenhouse Factor)
 (AU)^2
 
-
 4
-
 
 Part B: Worlds with Axial Tilts of 45° or more
 If a world has an axial tilt of 45°or more, it has no
@@ -12517,7 +11332,6 @@ in a solar day to determine the adjusted fractional day:
 
 Adjusted Fractional Day = + 0.15
 
-
 Multiply the interval by 360 and use the sine of that
 value to determine the fraction of the rotation factor to
 apply to the temperature equation. This will result in a
@@ -12525,10 +11339,8 @@ number between +1 and -1 to multiply by the previously
 computed rotation factor to be used as a substitute
 rotation factor when determining the luminosity modifier.
 
-
 Hourly Rotation Factor =
 sin(Adjusted Fractional Day x 360) x Rotation Factor
-
 
 METHOD 2, UNEVEN LENGTH DAYS: When day
 and night have unequal lengths, the calculation becomes
@@ -12539,46 +11351,40 @@ following formula for adjusted fractional day:
 
 **_Adjusted Fractional Day =_**
 
-
 During the night, use the following formula for adjusted
 fractional day:
 
 **_Adjusted Fractional Day =_**
-
 
 Both day and night will then use the same hourly
 rotation factor equation as method 1.
 
 world physical characteristics
 
-
 Hours since dawn
 Solar Day (hours)
-
 
 Hours since dawn
 Solar Day (hours) x Sunlight Portion x 2
 
 + 0.15
 
-
 Hours since dawn
-Solar Day (hours) x (1 - Sunlight Portion) x 2
+Solar Day (hours)x (1 - Sunlight Portion) x 2
 
 + 0.15
 
 
-TRAVELLER
-
 
 CALCULATING SUNLIGHT PORTION AND HOURS
+
+
 The length of a day at a certain time of the year
 at a certain latitude requires math and a few
 simplifying assumptions. This calculation assumes
 no atmospheric refraction and no solar disk size –
 for guidance on the effects of those factors see the
 procedures for twilight zone worlds.
-
 
 STEP 1: Calculate the solar declination, the angle
 between a sun’s rays and the plane of the world’s
@@ -12589,7 +11395,6 @@ as the date, divided by solar days in the year:
 
 **_Solar Declination =_** Axial Tilt x cos
 
-
 STEP 2: Determine the solution to the sunrise
 equation, the angular span of time between noon
 and sunrise, by multiplying the tangent of the current
@@ -12598,19 +11403,16 @@ solution is the cosine of the sunrise value:
 
 **_cos(Sunrise) =_** tan(Latitude) x tan(Solar Declination)
 
-
 •	 If the cos(sunrise) is greater than 1.0, that latitude
 has no sunrise and zero sunlight hours.
 •	 If it is less than -1.0, that latitude experiences
 constant daylight and the entire day is sunlit.
-
 
 •	 If it is between -1 and 1, determine the actual
 angle by taking the arccosine of the cosine of
 sunrise:
 
 **_Sunrise Angle =_** arccos(cos(Sunrise) )
-
 
 This is the angle from 0° degrees (the location of
 the sun at noon) of the actual sunrise. A value of 90°
@@ -12619,17 +11421,14 @@ larger number means a long day, until reaching 180°,
 which means sunset also stretches backwards to
 180° degrees from 0° and that daylight is constant.
 
-
 STEP 3: For days with sunrises, the sunlight portion
 of the day is:
 
 **_Sunlight Portion =_**
 
-
 And the actual number of hours of sunlight is:
 
 **_Sunlight Hours =_**
-
 
 STEP 4: Putting everything together, this sunlight
 portion equation is valid on days when the sun rises
@@ -12641,23 +11440,19 @@ world physical characteristics
 
 ##### ( )
 
-
 360 x Date
 Solar Days (year) Sunrise Angle
 
 180
-
 
 Solar Day(hours) x Sunlight Angle
 180
 
 arccos(tan (Latitude) x tan(Axial Tilt x cos( )))
 
-
 360 x Date
 Solar Days (year)
 180
-
 
 
 HOW BIG IS THAT THING IN THE SKY?
@@ -12672,19 +11467,16 @@ object from the surface of the world is equal to the
 diameter of object star divided by its distance. To
 determine this, first covert all values into kilometres:
 
-
 1 Stellar Diameter = 1.39 million kilometres
 1 AU = 150 million kilometres
 1 Planetary Diameter = Actual planetary
 diameter in kilometres, or
 its Size × 1,600 kilometres
 
-
 From there, assuming the object is at the local
 zenith or straight overhead:
 
 **_Angual Size (degrees) =_**
-
 
 For Sol from Terra’s surface, the angular size is
 0.009267 radians, multiplied by = 0.53 degrees
@@ -12702,7 +11494,6 @@ distance, the diameter of the world is unimportant
 to the calculation. It matters more for closer objects
 such as a moon or a station or ship in low orbit.
 
-
 Luna’s angular size is 0.00919 radians from
 Terra’s surface, also 0.53 degrees but more
 precisely 31.592 arcminutes, slightly smaller
@@ -12712,7 +11503,6 @@ but also where on the surface of the world the
 Travellers are standing, are what make Luna’s
 eclipses of Sol both possible and rare.
 
-
 HOW BRIGHT IS THAT THING IN THE SKY?
 A world’s sun, possibly other stars in the system,
 moons and maybe planets, might be visible in
@@ -12720,53 +11510,40 @@ the daytime or night-time sky. This brightness is
 usually expressed in terms of apparent magnitude.
 Common reference points include:
 
-
 Apparent Magnitude
 Reference Point Magnitude
 Sol from Terra -26.74
 Object painful (and dangerous) to
 look at
 
-
 -25.00
-
 
 Luna from Terra (full moon,
 average distance)
 
-
 -12.74
 
-
 Venus from Terra at brightest -4.92
-Limit of visible object in daylight
-(on Terra)
-
+Limit of visible object in daylight (on Terra)
 
 -4.00
-
 
 Sirius (brightest star) from Sol -1.47
 Limit of normal human vision +6.00
 Limit of perfect human eyes in
 perfect conditions
 
-
 +6.50
 
-
-To determine the brightness of a star in the sky
-(ignoring any atmospheric dimness) the formula is:
+To determine the brightness of a star in the sky (ignoring any atmospheric dimness) the formula is:
 
 **_Star Apparent Magnitude =_**
 
 - 26.74-2.5 x log 10 ( )
 
-
 Where the luminosity of the star is expressed
 in solar units and AU is the distance in AUs
 between the observer and the star.
-
 
 Planets and moons shine by reflected light and
 are more complicated. The procedure below
@@ -12775,14 +11552,12 @@ planet or moon under the illumination of a single
 star. More complicated calculations are left as an
 exercise for the Referee.
 
-
 First, determine the intrinsic brightness of the
 object. This assumes all the luminosity of a star
 encompasses a sphere the size of the object’s
 orbit – or its distance from the star – and the
 object is a two-dimensional disk on that sphere.
 In that simplified case:
-
 
 Object Luminosity =
 Star Luminosity x Albedo x
@@ -12793,27 +11568,22 @@ Object Diameter
 
 Object Distance -
 
-
 World Diameter
 2
-
 
 Luminosity
 AU^2
 
-
 180
 �
 
-
 X
+
 
 
 Radius^2
 4 x Distance^2
 
-
-TRAVELLER
 
 
 TEMPERATURE SCENARIO: TWILIGHT ZONE WORLDS
@@ -12822,10 +11592,8 @@ star(s), which has an infinite solar day, the rotation
 factor calculation is rather straightforward at the
 edge cases:
 
-
 Bright Side Rotation Factor = +1.0
 Dark Side Rotation Factor = -1.0
-
 
 The twilight zone has a Rotation Factor of about 0.0.
 However, the twilight zone is a ‘zone’, not just a terminator
@@ -12835,29 +11603,26 @@ effects based on world-specific factors, the Referee can
 determine how far from this terminator centreline the
 extreme rotation factors take hold.
 
-
 TWILIGHT ZONES VARIABILITY FACTORS
+
+
 A number of factors impact the breadth and
 characteristics of a twilight zone, including terrain,
 libration, solar disk size, atmospheric refraction and the
 effects of a twilit sky itself.
 
-
 (Continued)
 Here, the radius is that of the object in kilometres
 
 - either half the objects’ diameter, or the object’s
-Size × 800, and the distance is also in kilometres
-(AU × 150,000,000). Albedo is the object’s
+Size × 800, and the distance is also in kilometres (AU × 150,000,000). Albedo is the object’s
 albedo as determined from page 110.
-
 
 With that object’s luminosity determined, the
 actual apparent magnitude can use the star
 apparent magnitude equation above, with any
 distance in kilometres (usually for moons) first
 converted to AU.
-
 
 Actual brightness will be somewhat dimmer than
 the computed magnitude number, depending
@@ -12872,7 +11637,6 @@ be visible from ‘planet-shine’, e.g., a new moon
 under ‘Earthshine’ is magnitude -3.69 (but really
 not visible at that point, since it would be near
 the sun, during the day).
-
 
 Terrain: An effect on all worlds is the actual terrain
 and altitude of intervening geography. This can both
@@ -12889,13 +11653,11 @@ The distance to the horizon in kilometres is:
 
 **_Distance(km) ≈_** (Height(km) x World's diameter(km))
 
-
 For compatibility with the following equations, which are
 based on degrees on the world surface, the distance in
 degrees is:
 
 **_Distance(°) =_**
-
 
 Libration: A world can experience a wobble as it
 revolves around its sun. An eccentric orbit results in
@@ -12907,7 +11669,6 @@ and poles. Unless the year is very short this is a slow
 process but it might allow certain regions near the
 terminator to experience periods of ‘summer’ and
 ‘winter’ as sunlight periodically strikes the surface.
-
 
 During the course of an eccentric orbit, a locked world’s
 rotation rate stays constant (one rotation per orbit) but
@@ -12921,7 +11682,6 @@ amplitude of the libration and estimate the span of the
 libration in longitude on the equator is equal to 145
 times the eccentricity:
 
-
 Eccentricity Longitudinal Libration (degrees) =
 145 x eccentricity
 
@@ -12930,10 +11690,8 @@ the region near the terminator, especially near the
 equator to periods of sunlight and sunset. This formula
 world physical characteristics
 
-
 360 x Distance(km)
 � x World's Diameter(km)
-
 
 is likely to be less realistic for very eccentric orbits. For
 eccentricities above 0.3 the Referee should consider
@@ -12987,16 +11745,13 @@ the stars in AU plus their diameters (converted to AU)
 to determine their angular separation as the angular
 size for use in the equation. The period of the stars’
 
-
 = ± Angular Size(°)
 2
-
 
 orbit determines the rise and fall of the (assumed for
 these purposes) smaller of the two stars above the
 terminator. This calculation assumes the plane of the
 stars’ orbit and those of the planet are the same.
-
 
 Atmospheric Refraction: Atmospheric refraction can
 cause a sun to appear to be on the horizon or above
@@ -13010,12 +11765,10 @@ temperature or roughly:
 
 **_Refraction (°) =_** 0.5 x
 
-
 For extra complexity, the atmospheric pressure
 would be lower at higher altitudes but so would the
 temperature and the distance to the horizon. These
 factors could also be considered.
-
 
 Atmospheric Scale Height, Horizon and Twilight:
 Light persists after the full setting of the sun or before
@@ -13032,7 +11785,6 @@ vague shapes are discernible
 between 12° and 18° degrees below the horizon
 and most astronomical objects are visible but fainter
 objects at sixth magnitude or dimmer are not visible.
-
 
 The dark edge of each of these periods is considered
 to be their ‘dusk’ at night or ‘dawn’ in the morning. Many
@@ -13051,24 +11803,19 @@ scale height and the world’s Size:
 
 world physical characteristics
 
-
 Atmospheric Pressure (bar) x 300
 Temperature (K)
 
 from Terminator
 
-
 Scale Height(km)
 8.5km
-
 
 World Size
 8
 
 x 6° x
 
-
-TRAVELLER
 
 
 The previous equation determines the spread of each
@@ -13078,9 +11825,12 @@ surface. Each could indicate a stepwise or gradual
 decrease of the rotational factor until -1.0 is reached at
 the dark edge of astronomical twilight.
 
-
 SIMPLIFIED METHOD FOR
+
+
 MAPPING TWILIGHT ZONE WORLDS
+
+
 All factors above can lead to special situations and
 unexpected effects but the level of detail provided is
 not necessary in most cases. To map a tidally locked
@@ -13121,9 +11871,10 @@ twilight zone world, the following principles can apply:
           distance between the terminator and the end of the
           central triangles.
 
-
 TEMPERATURE SCENARIO:
 ALTITUDE TEMPERATURE FACTOR
+
+
 Rather than delving into possible atmospheric layers,
 inversion effects, cloud levels and other minutia,
 this book will simply assume that on worlds with an
@@ -13140,27 +11891,20 @@ _Bright side_
 
 _Dark side_
 
-
 North
 Pole
 
-
 Nautical Twilight
-
 
 Civil Twilight
 
-
 Terminator
 
-
 Astronomical Twilight
-
 
 0.25 O Half Disk Size 0.5 O Refraction
 
 world physical characteristics
-
 
 Determination of the effects of altitude can come from
 two previously introduced equations. The first is derived
@@ -13209,11 +11953,9 @@ value and an average distance to compute the
 temperature – computing the temperature by using this
 combined luminosity value should result in the same
 
-
 value as computing them separately for each star at
 the same AU then combining the temperatures with the
 temperature addition equation.
-
 
 Each star except the primary has an Orbit# and
 an eccentricity value, as does the world (or parent
@@ -13226,7 +11968,6 @@ parameters: the eccentricity and semi-major axis (AU)
 property. To calculate the temperature extremes and
 a mean value, the following procedure assumes that
 these orbits line up with each other.
-
 
 For each star, the high temperature contribution for a
 star is the temperature when the star is closest, the
@@ -13241,7 +11982,6 @@ previously considered as one, the Referee can create
 a table of high, mean and low temperature influences
 from each star in the system.
 
-
 The simplest approach computes each star’s high
 contribution distance from nearest by subtracting the
 planet’s AU orbit from the star’s AU orbit (0 in the
@@ -13251,7 +11991,6 @@ contribution distance from the average distance, or the
 square root of the squares of the planet’s AU orbit plus
 the star’s AU orbit. Low is the furthest distance or the
 sum of the planet’s AU orbit and the star’s AU orbit.
-
 
 When considering adding eccentricity to these AU
 values, the Referee can assume an average effect
@@ -13271,15 +12010,12 @@ whether the star is interior or exterior.
 
 world physical characteristics
 
-
 height(a)
 e H
 
-(^4) Luminosity(x) x (1 - Albedo) x (1+ Greenhouse Factor(a))
+(^4) Luminosity(x)x (1 - Albedo)x (1+ Greenhouse Factor(a))
 Distance^2
 
-
-TRAVELLER
 
 
 The Referee could potentially incorporate other factors,
@@ -13299,7 +12035,6 @@ reaching the extremes computed in the other, or the
 closest approach could occur in spring or fall, meaning
 axial tilt values should perhaps not be considered at all.
 
-
 The Referee may choose what is appropriate for
 luminosity values for these equations. For multiple star
 systems, it can be complex to even make a detailed
@@ -13307,7 +12042,6 @@ approximation of high, mean and low temperatures. If
 desiring precision and to understand the benefit and
 effort trade-off for making approximations of ‘reality’,
 consider the Zed Prime example:
-
 
 This example is purely based on the orbit of Aab
 IV, Zed Prime’s gas giant primary and ignores any
@@ -13319,29 +12053,24 @@ planet, but this will also be ignored here. A table is
 needed to determine the combined effects of different
 stars at differing distances:
 
-
 The MaxS and MinS column values represent the
 maximum (AU × (1 + eccentricity)) and minimum (AU ×
 (1 - eccentricity)) separation from the primary star. The
 pair Cab stars are treated as one star for simplicity.
 
-
 The MaxP AveP, and MinP column values represent
 the furthest, mean and nearest distance a star comes
 to the planet in this simplified representation. For
 
-
 the primary star (Aa), this the same as the planet’s
 MaxS, AU and MinS values. For the other values are
 determined as described in the section’s text.
-
 
 Next, for each star, calculate the temperature
 contribution for each low, mean and high values
 using the temperature formula with albedo = 0.33 and
 greenhouse factor = 0.59. Finally add these columns
 together using the temperature addition equation.
-
 
 Star Temperature Contributions
 Body Luminosity Low Mean High
@@ -13350,7 +12079,6 @@ Star Ab 0.681 234.47 250.02 269.32
 Star B 0.136 63.71 71.61 85.43
 Star Cab 0.896 12.36 15.00 20.67
 Total — 284.41 300.68 320.48
-
 
 This provides the following temperature ranges for
 Zed Prime, rounded to the nearest degree: low =
@@ -13366,7 +12094,6 @@ degrees at the margins – a value earlier discounted as
 too short term to be relevant, so the Referee should
 decide how much precision is necessary.
 
-
 None of this accounts for axial tilt, geographic or
 rotation effects. The Referee in this case will choose to
 ignore all of the above complexity – negating the value
@@ -13375,7 +12102,6 @@ and use the values of 346, 300, and 262 – a broader
 range already established using the effects computed
 for the single star ‘approximation’ of high, mean and
 low already determined.
-
 
 Star Distances
 Body Eccentricity AU MaxS MinS MaxP AveP MinP
@@ -13386,7 +12112,6 @@ Star Cab 0.47 338.000 496.860 179.140 498.026 338.002 177.974
 Planet 0.10 1.060 1.166 0.954 — —- —
 
 world physical characteristics
-
 
 _A complete and accurate temperature profile of this_
 one world of Zed Prime orbiting a gas giant would
@@ -13441,14 +12166,12 @@ temperature is:
 
 **_Temperature (K) =_** 80 x √ Mass⊕ ÷ Age (Gyr)
 
-
 This effect would be added to the temperature of the
 gas giant from the luminosity of its sun(s) using the
 temperature addition equation. The Referee could
 then consider the gas giant a dim ‘star’ and use the
 luminosity formula to determine its heating effect on
 nearby moons.
-
 
 For Zed Prime’s gas giant at 1,200⊕, its size could be
 a factor in heating even after 6.336 billion years. Its
@@ -13462,15 +12185,17 @@ any significant way but it seems unlikely at a distance
 of 3.92 million kilometres (it actually adds 0.0055K to
 the planet-facing temperature).
 
-
 SEISMOLOGY
+
+
 Some worlds are geologically dead, others in a state
 of constant eruption, bursting with rivers of magma.
 Several factors, internal and external, contribute to
 seismic stress.
 
-
 RESIDUAL SEISMIC STRESS AND HEATING
+
+
 Residual heat is based on the cooling rate of a world
 from its formation and from the decay of radioactive
 elements. It is most directly related to a world’s Size
@@ -13483,11 +12208,9 @@ elements in the world’s interior.
 
 **_Residual Seismic Stress =_** (Size – Age(Gyrs) + DMs)^2
 
-
 World is a moon DM+1
 World has Size 1 or
 larger moons
-
 
 DM+1 for each Size (1 or
 greater) of each moon,
@@ -13495,38 +12218,31 @@ up to a maximum DM+12
 Density greater than 1.0 DM+2
 Density less than 0.5 DM-1
 
-
 Round down the value prior to squaring.
 Values of less than 1 prior to squaring are treated as 0.
-
 
 For instance, Terra (density exactly 1), a Size 8 world
 with a Size 2 moon is 4.568 billion years old: 8 -
 4.568 + 2 = 5.4322 rounded down to 5 and squared,
 
-
 world physical characteristics
 4
 
-
 4
 
-
-TRAVELLER
 
 
 so its residual seismic stress is 25. Luna (density
 0.6) is: 2 – 4.568 + 1 = -1.5, which is less than 1 and
 therefore 0 residual stress.
 
-
 Zed Prime is a Size 5 moon with density 1.03 and is 6.3
-billion years old: residual seismic stress is: 5 - 6.3 +1
-(for being a moon) +1 (for density) = 0.7, rounded down
+billion years old: residual seismic stress is: 5 - 6.3 +1 (for being a moon) +1 (for density) = 0.7, rounded down
 to 0 prior to squaring.
 
-
 TIDAL STRESS FACTOR
+
+
 To determine overall stress on a world from tides,
 add together all tidal effects in metres from page 126
 and divide this number by 10 to determine a tidal
@@ -13534,19 +12250,17 @@ stress factor:
 
 **_Tidal Stress Factor =_**
 
-
 Round down the result. In most cases, except planets
 orbiting close to stars and moons orbiting large planets,
 this result will be less than 1.
 
-
-For Zed Prime, the resultant effect of its parent planet
-(30.6) and stars (0.24) and other minor factors from
+For Zed Prime, the resultant effect of its parent planet (30.6) and stars (0.24) and other minor factors from
 the other moons is relatively low, so ~30÷10 is 3
 stress from tides.
 
-
 TIDAL HEATING EFFECTS
+
+
 Another effect of tidal forces is tidal heating. Even
 if a world is locked to its primary, if its orbit retains
 any eccentricity, the changing forces on the world
@@ -13568,7 +12282,6 @@ primary can be approximated from this relationship:
 
 **_Tidal Heating~_**
 
-
 For a moon in orbit around a planet, use standard days
 for the value of period and millions of kilometres for
 distance. For Io, this formula results in a value of about
@@ -13581,22 +12294,20 @@ would be 11) and ignore numbers less than 1.
 
 **_Tidal Heating Factor=_**
 
-
 Zed Prime is also subject to tidal heating forces in
 its rather eccentric orbit around its primary. Plugging
 values into the equation results in a Tidal Heating
 Factor of 14, more in line with Enceladus than Io but
 still substantial.
 
-
 TOTAL SEISMIC STRESS
+
+
 Total seismic stress is the sum of the residual seismic
 stress, ongoing tidal stress and tidal heating factors:
 
-
 Total Seismic Stress = Residual Seismic Stress + Tidal
 Stress Factor +Tidal Heating Factor
-
 
 The value for total seismic stress determines the
 chances of both earthquakes and volcanic eruptions.
@@ -13610,10 +12321,8 @@ by adding an inherent temperature factor to all high,
 low, mean, local or periodic temperature values to
 determine the actual temperature:
 
-
 New Temperature =
 Old Temperature^4 + Total Seismic Stress^4 )
-
 
 For Terra, this adds only 0.004K to its temperature,
 which is inconsequential, drowned out by its external
@@ -13621,23 +12330,18 @@ heating. Howver if Terra’s base temperature had been
 25K instead of 288K, seismic stress factors would
 have added 4.7K to temperature and if Terra had been
 
-
 4
 
 world physical characteristics
 
-
 Σ^ Tidal Effects^
 10
 
-
-(Primary Mass)^2 x (World Size)^5 x eccentricity^2
+(Primary Mass)^2x (World Size)^5 x eccentricity^2
 Distance^5 x Period x World Mass
 
-
-(Primary Mass⊕)^2 x (World Size)^5 x eccentricity^2
+(Primary Mass⊕)^2x (World Size)^5 x eccentricity^2
 3,000 x Distance(Mkm)^5 x Period(days) x World Mass⊕
-
 
 a rogue world in deep space with a base temperature
 of 10K, the seismic stress heating value would be the
@@ -13663,7 +12367,6 @@ tectonic plates exist and the number of plates is:
 **_Number of Major Tectonic Plates =_**
 
 Size + Hydrographics – 2D + DMs
-
 
 Total seismic stress between 10 and 100: DM+1
 Total seismic stress greater than 100: DM+2
@@ -13693,14 +12396,14 @@ See the Determining World Surface Features
 section on page 134 to apply tectonic plate details
 to world mapping.
 
-
 Zed Prime has a total seismic stress factor of 17 and
 so has some tectonic activity. The total number of
 major tectonic plates is 5 + 6 - 2D + 1. A 2D roll of 8
 results in 4 major plates.
 
-
 NATIVE LIFEFORMS
+
+
 A world’s native life is life that has evolved with or
 completely acclimated to a world’s environment.
 These rules make no distinction based on the
@@ -13712,15 +12415,12 @@ of years earlier. Native life is an integral part of the
 planet’s biosphere, which helps regulate its present
 atmosphere and temperature.
 
-
 By this definition nearly all worlds with Atmosphere
 codes 4–9 or D, and most with Atmosphere codes 2, 3
 and E have native life. Some worlds with Atmospheres
-A, B, C, F+, or even those with a Trace (1) or Vacuum
-(0) Atmosphere codes may have native life but these
+A, B, C, F+, or even those with a Trace (1) or Vacuum (0) Atmosphere codes may have native life but these
 biospheres might be very different from ‘normal’
 carbon-based lifeforms.
-
 
 Suggested Usage: The Referee does not need
 to check every significant world in the system for
@@ -13735,8 +12435,9 @@ a natural 12 as a target number might be more
 appropriate, with placement of the actual life-bearing
 world determined by choice or chance.
 
-
 BIOMASS RATING
+
+
 Biomass is a descriptive indicator of the amount of
 native life present on a world. Only systems older
 than 0.1 Gyrs have natively evolved recognisable
@@ -13744,14 +12445,11 @@ life. To determine the presence and amount of native
 life present on a world roll 2D with a large number of
 possible DMs:
 
-
 Biomass Rating = 2D + DMs*
 *Maximum combined modifiers: DM+4, minimum: DM-12
 
 world physical characteristics
 
-
-TRAVELLER
 
 
 Atmosphere 0 DM-6
@@ -13777,10 +12475,8 @@ Mean temperature below 273K† DM-2
 Mean temperature between 279 and 303K† DM+2
 † When applying temperature DMs, if, and only if, detailed
 temperature calculations were not determined for the
-world, assume a temperate world receives a temperature-
-related of DM+2, a cold world receives DM-2 and a boiling
+world, assume a temperate world receives a temperature-related of DM+2, a cold world receives DM-2 and a boiling
 or frozen world receives DM-6.
-
 
 A biomass rating of 0 or less indicates no native life
 exists. A healthy garden world has a biomass rating of
@@ -13793,12 +12489,10 @@ area of the two worlds, the larger world would have
 more total life – absolute world-wide biomass scales by
 a factor of the square of world Size.
 
-
 Special Case 1: If a world has an atmospheric taint
 or irritant of type ‘biologic’ but rolls a biomass rating of
 0, its biomass rating becomes 1 and its biocomplexity
 rating is automatically set to 1.
-
 
 Special Case 2: A rolled biomass rating of 1 or
 more on a world with Atmospheres 0, 1, A, B, C or
@@ -13808,22 +12502,18 @@ this environment. Add one less than the negative
 Atmosphere DM to the biomass rating for such worlds,
 e.g., for Atmosphere B, add 4.
 
-
 Optional Rule: The Referee may rule that any
 world with oxygen in the atmosphere (Atmosphere
 codes 2–9, D and E), has at least a biomass rating
-of 1. This may not be appropriate, as some non-
-biological processes may result in atmospheric
+of 1. This may not be appropriate, as some non-biological processes may result in atmospheric
 oxygen. The Referee could choose to apply this rule
 only to Atmosphere codes 4–9 and D, instead. The
 Referee could also apply a ‘rare earth’ variant of this
-rule and change the Atmosphere code of any world
-(with codes 2–9, D, and E) with a biomass rating
+rule and change the Atmosphere code of any world (with codes 2–9, D, and E) with a biomass rating
 of 0 to Atmosphere code A and retain the previous
 atmospheric code as this exotic atmosphere’s subtype.
 
 world physical characteristics
-
 
 Zed Prime has an Atmosphere of 6 and a
 Hydrographics of 6. Its mean temperature is 300K, and
@@ -13843,7 +12533,6 @@ positive biomass rating:
 
 2D-7 + Biomass Rating* + DMs
 *Biomass ratings above 9 are treated as 9 for this roll
-
 
 Atmosphere not 4-9 DM-2
 Low oxygen taint DM-2
@@ -13865,7 +12554,6 @@ rating of 8+ does not necessarily mean that native
 
 Biocomplexity Rating
 
-
 Biocomplexity Description Examples
 1 Primitive single-cell organisms Procaryotes such as bacteria and archaea
 2 Advanced cellular organisms Eucaryotes such as algae and amoebae
@@ -13878,7 +12566,6 @@ Biocomplexity Description Examples
 9 Extant or extinct sophonts At some point, this world had sophont lifeforms
 A (10)+ Ecosystem-wide superorganisms Cooperative sophont-like behaviour
 
-
 sophonts exist, but that forms exist that could easily
 evolve or qualify as sophonts. This is likely to include
 many ‘borderline’ species such as cetaceans and
@@ -13886,7 +12573,6 @@ primates. Additionally, at biocomplexity 8, some
 lifeforms may have evolved psionic abilities; this need
 not be associated with intelligence but may be just a
 form of psionic lure or camouflage.
-
 
 At biocomplexity 9 a sophont species either currently
 exists or has existed in the past, although it may
@@ -13904,7 +12590,6 @@ organism; this behaviour might not be immediately
 obvious to an observer, or could take an overt
 form at the Referee’s option, potentially including
 recognisable consciousness.
-
 
 Biocomplexity does not necessarily follow [[Terra|Terran]]
 patterns or look anything like the examples provided
@@ -13924,8 +12609,6 @@ parameters of this book.
 world physical characteristics
 
 
-TRAVELLER
-
 
 Zed Prime has a biomass rating of A, treated as 9
 for the biocomplexity roll, and a system age above 4
@@ -13934,13 +12617,12 @@ only 5, so the life is complex, but not overly complex:
 simple plants and animals, perhaps similar to the
 Devonian age on Terra.
 
-
 Rare Earth Universe Variant: In some universes,
 advanced life will be rare, occurring only after an
 unlikely series of events. In these settings, the
 Referee can impose a DM-2 on all biocomplexity rolls
 and only allow a positive modifier of biomass rating
-÷ 2 (with no limit). In these universes, and perhaps
+÷2 (with no limit). In these universes, and perhaps
 even in those without a negative DM to complexity,
 the Referee should consider changing the Atmosphere
 codes for all worlds of Atmosphere codes 4–9 with a
@@ -13949,35 +12631,30 @@ A) to reflect a lack of free oxygen and impose the low
 oxygen taint, if not already present, on any worlds of
 biocomplexity rating 2 and 3.
 
-
 NATIVE SOPHONTS
+
+
 If the world’s biocomplexity rating is 8 or above, determine
 if a native sophont currently exists or once existed:
-
 
 Current Native Sophont Exists on 13+:
 roll 2D + Biocomplexity* – 7
 *Biocomplexity ratings above 9 are treated as 9 for
 this roll
 
-
 To determine if evidence exists of an extinct native
 sophont on the world:
-
 
 Extinct Native Sophont Existed on 13+:
 roll 2D + Biocomplexity* - 7 + DMs
 *Biocomplexity ratings above 9 are treated as 9 for
 this roll
 
-
 If system age is greater
 than 5 Gyrs
 
-
 DM+1 (for the extinct
 sophont check only)
-
 
 Even if the biocomplexity rating is 9 or more, an
 extinct sophont, especially a primitive race that died
@@ -13988,12 +12665,12 @@ existence. Detailed generation of native sophonts is
 covered in The Sector Construction Guide’s Sophont
 Design chapter (page 50).
 
-
 Zed Prime’s life is not advanced enough to warrant a
 check for native sophonts.
 
-
 BIODIVERSITY RATING
+
+
 A world’s biodiversity rating is an indicator of the
 number of species present on a world. In some cases,
 it represents the health and resilience of its biomass
@@ -14012,22 +12689,21 @@ world’s biodiversity rating:
 
 2D - 7 +
 
-
 Results are rounded up and if the result is less than 1, it
-becomes 1. A biodiversity of A (10) or greater indicates
+becomes 1. A biodiversity ofA (10) or greater indicates
 complexity equivalent to pre-human Terra. Biodiversity
 of less than 3 indicates a very uniform biosphere with
 limited species dominating most environments.
 
-
-Zed Prime’s biomass rating is A (10) and its
+Zed Prime’s biomass rating isA (10) and its
 biocomplexity rating is 5, so on 2D-7 + (10+5)÷2, a roll
 of 6 equals 6.5 rounded up to a biodiversity rating of 7,
 not particularly diverse, but probably not a problem for
 the ecosphere’s stability and resilience.
 
-
 COMPATIBILITY RATING
+
+
 Another important attribute of native life is its
 compatibility, or how well the native life’s biochemistry
 meshes with other biochemistries. The compatibility
@@ -14038,7 +12714,6 @@ sophonts. A world’s compatibility rating should be
 independently determined for commonality with each
 interested sophont species.
 
-
 A high compatibility rating is a two-edged sword. It
 means that [[Terra|Terran]] organisms are able to survive on the
 world and that many native forms of life may be edible
@@ -14048,10 +12723,8 @@ predators and parasites may find Terragens tasty. Only
 
 world physical characteristics
 
-
 Biomass Rating + Biocomplexity Rating^
 2
-
 
 worlds with a biomass rating of more than 0 can have
 a compatibility rating of other than 0. To determine the
@@ -14060,7 +12733,6 @@ compatibility rating:
 **_Compatibility Rating =_**
 
 2D - + DMs
-
 
 Atmosphere 0, 1, B, G, or H DM-8
 Atmosphere 2,4,7,9 or otherwise tainted DM-2
@@ -14081,7 +12753,7 @@ taints could still be hazardous, potentially behaving
 more like particulates than lifeforms but still be
 dangerous or at least irritating.
 
-A compatibility rating of A (10) is equivalent to full
+A compatibility rating ofA (10) is equivalent to full
 [[Terra|Terran]] compatibility and greater values are possible.
 If the world’s life has a compatibility rating of at least
 1, any particular biological material’s compatibility
@@ -14109,17 +12781,17 @@ as a string of four eHex digits:
 MXDC
 
 
+
 Where M = Biomass, X = Biocomplexity,
 D = Biodiversity, and C= Compatibility.
 
-
 Zed Prime’s lifeform profile is A579.
 
-
 RESOURCE RATING
+
+
 Prerequisite: For worlds with native life, determine all
 native lifeforms rating characteristics.
-
 
 A world may have a variety of natural resources,
 including recoverable minerals, liquids, gases of
@@ -14133,7 +12805,6 @@ various lifeform ratings apply:
 
 **_Resource Rating =_** 2D-7 + Size + DMs
 
-
 Density greater than 1.12 DM+2
 Density less than 0.5 DM-2
 Biomass rating 3+ DM+2
@@ -14143,12 +12814,10 @@ Compatibility rating 0-3 DM-1 (only if biomass
 rating is at least 1)
 Compatibility rating 8+ DM+2
 
-
 If a world’s resource rating is less than 2, treat it as
-2, if it greater than C (12), treat it as C. A resource
+2, if it greater thanC (12), treat it as C. A resource
 rating determines the value and likelihood of resource
 extraction enterprises:
-
 
 Resource
 Rating Remarks
@@ -14166,12 +12835,9 @@ when first opened up for exploitation
 
 world physical characteristics
 
-
 Biocomplexity Rating^
 2
 
-
-TRAVELLER
 
 
 A world’s resource rating can decline over time. Every
@@ -14182,12 +12848,9 @@ and/or convert resources into sustainable industry.
 In no case should this exploitation reduce a world’s
 resource rating below 2.
 
-
 Zed Prime is a Size 5 world. DM+3 results from its
-biomass rating of A (+1), and compatibility rating of 9
-(+2). Rolling 10 on 2D, its resource rating is 10-7 + 5 +3
+biomass rating ofA (+1), and compatibility rating of 9 (+2). Rolling 10 on 2D, its resource rating is 10-7 + 5 +3
 = 11 or B, meaning it likely experienced a resource rush
-
 
 Size 0–4† DM-1 Limited surface area
 Size 9+† DM+1 Additional surface area
@@ -14223,12 +12886,12 @@ assume a hot or cold world receives DM-2 and a boiling or frozen world receives 
 †Assume the worst DM for gravity at the edges of a DM criteria. If gravity is not computed, use the Undefined gravity DM
 instead.
 
-
 and may continue to be a profitable place to extract
 resources, including biological products.
 
-
 HABITABILITY RATING
+
+
 A world may be perfectly suited to its native lifeforms
 but partly or wholly unsuitable to settlers from another
 world. A world’s habitability rating is particular to one
@@ -14241,12 +12904,10 @@ sophonts might require separate ratings.
 
 world physical characteristics
 
-
 The base natural (pre-human) habitability rating of
-Terra is considered A or 10. A world’s rating depends on
-(usually) negative DMs from this value.
+Terra is considered A or 10. A world’s rating depends on (usually) negative DMs from this value.
 
-Theoretically, a habitability rating of C (12) is possible
+Theoretically, a habitability rating ofC (12) is possible
 but very unlikely. A habitability rating of less than 0 is
 treated as 0. Surveyors also include a miscellaneous
 scoring category which can raise or lower a world’s
@@ -14257,7 +12918,6 @@ D3-1, or the Referee can examine certain features,
 such as the type and severity of taint in a world’s
 atmosphere and deliberately apply a +1 miscellaneous
 habitability rating adjustment.
-
 
 Habitability
 Rating Remarks
@@ -14295,14 +12955,14 @@ at 7. Zed Prime is only regionally habitable, mainly
 because of the heat, so it is likely some areas would
 experience more temperate conditions, although
 
-
 with such a high axial tilt, it may take the Referee
 some time and effort to determine the best locations,
 especially since coastal areas suffer from very high (if
 slow) tides from the parent planet.
 
-
 FINAL MAINWORLD DETERMINATION
+
+
 If a mainworld has yet to be determined, the Referee
 must pick a mainworld prior to moving on to developing
 this world’s social characteristics in the following
@@ -14312,11 +12972,9 @@ chapter. Criteria for choosing a mainworld include:
 •	 Highest resource rating
 •	 Best refuelling location
 
-
 Still, the Referee is free to ignore these
 recommendations and pick another world, based on
 any factor including the Referee’s whims.
-
 
 For the Zed system, the Referee could perhaps choose
 the barely habitable (SAH = 340) moon of the next
@@ -14329,10 +12987,10 @@ world characteristics in the following chapter.
 world physical characteristics
 
 
-TRAVELLER
-
 
 MAINWORLD MAPPING
+
+
 A mainworld is most often an entire planet, with a large
 variety of terrain, ecosystems and local conditions. The
 effort a Referee puts into developing this depends on
@@ -14344,21 +13002,20 @@ and derived characteristics – particularly Law Level
 and Tech Level are more worthy of the effort to develop
 further than geography.
 
-
 If a map is needed, it could be a world map for
 reference, or local maps specific to the region(s) where
 the Travellers will adventure. Here MOARN – Map Only
 As Really Necessary – comes to the forefront.
 
-
 WORLD MAPS
+
+
 Traveller world maps are based on a 20-triangle
 regular icosahedron (a D20) approximation of a
 sphere. Each triangle is subdivided into hexagons.
 When mapping a world, a Referee may choose one
 of two methods to determine the size and number of
 these hexagons:
-
 
 METHOD 1: Standard map, variable hex size.
 The standard world map template method assumes
@@ -14376,7 +13033,6 @@ would be 143 kilometres per hex. Therefore, Size ×143
 kilometres would set the hex scale for any Size world.
 For a Size 7 world this is about 1,000 kilometres.
 
-
 METHOD 2: Standard scale, variable hex number.
 Another paradigm for creating world maps assumes
 a standard hexagon size of 1,000 kilometres across.
@@ -14386,11 +13042,8 @@ the standard world map template but separate map
 templates with differing numbers of hexagons per
 triangle would be necessary for each world Size.
 
-
 The advantage of using a standard scale is presenting
-a more-or-less constant distance across each hex size
-(close, not completely accurate if using exact kilometre
-
+a more-or-less constant distance across each hex size (close, not completely accurate if using exact kilometre
 
 diameters for worlds). A disadvantage, besides the
 need for 10 or more different map templates, is that
@@ -14398,7 +13051,6 @@ their total hex count will vary, making continent or
 ocean sizing less consistent. Still, a consistent number
 of triangles (20) allows for the assumption that a full
 triangle is 5% of a world’s surface area.
-
 
 Standard scale, variable hex number maps allow for
 the extension of standard scale sub-maps within each
@@ -14415,11 +13067,11 @@ be equal to the world hex scale (143km × Size) divided
 by 100, or else the sub-hex would need to continue the
 paradigm of standard map, variable hex size.
 
-
 DETERMINING WORLD SURFACE FEATURES
+
+
 For worlds with continents and oceans, the
-Hydrographics code and surface feature distribution
-(see page 100) can inform the size, quantity and
+Hydrographics code and surface feature distribution (see page 100) can inform the size, quantity and
 distribution of land and water. On a standard
 490-hexagon world map, five hexes equal about 1%
 of the surface area, so major bodies should occupy
@@ -14427,7 +13079,6 @@ at least 25 hexes and each minor body at least five.
 A scattering of small bodies can also help reach the
 proper number of land and water hexes for the world’s
 Hydrographics code.
-
 
 For placing terrain features, one consideration is
 temperature. On a world with liquid water, if a Referee
@@ -14442,12 +13093,10 @@ above 273K
 •	 Unprotected settlements require a high temperature
 below 323K or a mean below 318K
 
-
 Unprotected settlements’ assume humans. Other
 species might have other restrictions. Detailed climatic
 classifications and weather patterns are beyond the scope
 of this book but temperature can inform local conditions.
-
 
 The seismology of a world has an impact on terrain
 features such as mountain ranges and volcanoes.
@@ -14455,13 +13104,11 @@ A total seismic stress level above 1 implies at least
 
 world physical characteristics
 
-
 **METHOD 1: STANDARD 7 HEXES MAP**
 
 **METHOD 2: 5 HEXES MAP**
 
 
-TRAVELLER
 
 World Hex Map
 
@@ -14471,12 +13118,10 @@ World Hex Map
 
 Scale in Km
 
-
 World Map
 Triangle
 
 world physical characteristics
-
 
 some periodic seismic activity, which can include
 mountain-building from volcanic activity or plate
@@ -14509,6 +13154,8 @@ side to the top, or ‘north’ and the dark side to the
 bottom or ‘south’.
 
 IISS PROCEDURAL
+
+
 One basic objective of the Scout Service is to ensure
 that any system within or near the Imperial border is
 subject to at least a Class III survey, detailing all of the
@@ -14526,12 +13173,10 @@ normally the minimum effort of an expedition.
 
 Plate Interaction
 
-
 2D Interaction Effect
 2-5 Converging The plates are colliding, causing mountain building at their intersection
 6-8 Transversing The plates are sliding past each other forming faults or terrain discontinuities
 9-12 Diverging The plates are moving apart, causing trenches or rift valleys
-
 
 A statutory, but often partially unfulfilled, objective of
 the IISS is to verify the data in a Class III survey every
@@ -14549,8 +13194,9 @@ of outposts and commercial stations at different
 locations within a system. This detection can result in
 a thorough follow-up investigation.
 
-
 CLASS III SURVEY
+
+
 The purpose of a Class III survey is to accurately
 record the physical characteristics of all the significant
 bodies within a system. This involves the deployment
@@ -14567,7 +13213,6 @@ but if local populations belong to a contacted culture,
 communications are not prohibited and may occur at
 the discretion of the scout team leaders.
 
-
 The time required for completing a Class III survey is
 usually about 10 weeks. Some of this period involves
 flight time between various worlds. If the system
@@ -14577,7 +13222,6 @@ worlds or subsidiary stars in far orbits, short-range
 jumps might be used to complete the survey and its
 duration may exceed 100 days.
 
-
 At the end of the survey, the SI of the system is 8,
 providing a reasonably accurate estimate of the
 Size, Atmosphere and Hydrographics of all planets
@@ -14586,75 +13230,55 @@ receive the most attention but no attempt is made to
 
 world physical characteristics
 
-
 IISS CLASS IV SURVEY FORM 0407F-IV PART P
-
 
 World SAH/UWP
 
-
 Sector | Location Initial Survey Last Updated
 
-
 Primary Object(s) System Age (Gyr) Travel Zone
-
 
 Orbit O# AU Eccentricity Period
 Notes:
 
-
-Size Diameter(km) Composition Density Gravity: Mass Esc v (kps)
-
+Size Diameter(km) Composition Density Gravity: Mass Escv (kps)
 
 Notes:
 
-
-Atmosphere Pressure (bar) Composition O 2 (bar)
-
+Atmosphere Pressure (bar) Composition O2 (bar)
 
 Taints Scale Height
 Notes
-
 
 Hydrographics Coverage (%) Composition Distribution
 Major bodies Minor bodies Other
 Notes
 
-
 Rotation Sidereal Solar Solar days/
 year
-
 
 Axial
 Tilt
 Tidal lock? Tides
 Notes
 
-
 Temperature High Luminosity Notes:
 Mean Albedo
 Low Greenhouse
 Seismic Stress Residual Stress Tidal Stress Tidal Heating Major Tectonic Plates
 
-
 Life Biomass Biocomplexity Sophonts? Biodiversity Compatibility
 Notes
 
-
 Resources Rating Notes
-
 
 Habitability Rating Notes
 
-
 Subordinates SAH/UWP Orbit (PD) Orbit (km) Ecc Diameter Density Mass Period (h) Size(°)
-
 
 Notes
 
-
 Comments
-
 
 do a detailed study of a world’s physical or xenological
 characteristics. Other information, such as a detection
@@ -14680,7 +13304,6 @@ system. This survey is often referred to as a Class
 IV Part P or Class IV-P world survey. While a full
 Class IV survey may require more than half a year
 
-
 to complete, a physical survey of even a complex
 life-bearing world usually requires no more than 30
 days. This survey almost always includes at least one
@@ -14692,7 +13315,6 @@ highly corrosive atmospheres, the surveyors will only
 conduct one-way probe missions and gather nothing
 more than data and images from the surface with no
 expectation of probe recovery.
-
 
 Most Class IV-P surveys are investigations of
 unexplored worlds beyond the Imperial border. The
@@ -14711,57 +13333,48 @@ Class IV physical surveys of planetoid belts use a specialised version of the fo
 
 IISS CLASS IV SURVEY FORM 0407K-IV PART P.B
 
-
 World SAH/UWP:
-
 
 Sector | Location Initial Survey Last Updated
 
-
 Primary Object(s) System Age (Gyr) Travel Zone
-
 
 Orbit O# Average AU: Span: Average Period:
 Notes:
-
 
 Composition m-type(%) : s-type(%) : c-type(%) : other(%) : Bulk :
 Major Bodies Size 1: Size S:
 Notes:
 
-
 Resources Rating: Notes:
-
 
 Major Bodies SAH/UWP Orbit# Orbit (AU) Ecc Period Type Diameter Density Mass
 
-
 Notes:
-
 
 Comments
 
 world physical characteristics
 
 
-TRAVELLER
-
 
 EXAMPLES
+
+
 The examples below contain completed Class III survey
 forms for the three systems. The notes section includes
 information on significant moons, with complete
 SAH for Size 2 and above and includes atmosphere
 subtypes and taint information.
 
-
 ZED SYSTEM
+
+
 Below, the Zed system worlds are now completely filled
 out to Class III standards. Gas subtype codes are listed
 for Atmosphere types A-F with an St:#:gas mix notation
 in remarks; taints are noted as X.#.#. Class IV Part P
 data is included for both Zed Prime and Zed Secundus.
-
 
 IISS CLASS II/III SURVEY FORM 0421D-II.III
 Sector | Location Storr | 0602 Initial Survey 207-568 Last Updated 218-1061
@@ -14769,7 +13382,6 @@ IISS Designation 566-837 (Zed Prime) System Age (Gyr) 6.336
 Objects
 Stellar Gas Giants Planetoid Belts Terrestrials Class III Status?
 5 4 2 12 Yes
-
 
 Stars Component Class Mass Temp Diameter Luminosity Orbit# AU Ecc Period MAO HZCO
 Aa G7 V 0.929 5,440 0.967 0.738 0 — —
@@ -14810,76 +13422,55 @@ Aab V Aab V d† 340 — Cold, P.6.4, R.5.5
 †Freeport at Aab V d: Zed Secundus
 world physical characteristicsNative life present on Zed Prime: A579, Zed Secundus: 4736, AB I: 2212, B I: 4145, B II:6565
 
-
 IISS CLASS IV SURVEY FORM 0407F-IV PART P
-
 
 World Zed Prime (Zed Aab IV d) 566-837 SAH/UWP 566
 
-
 Sector | Location Storr | 0602 Initial Survey 207-568 Last Updated 218-1061
 
-
 Primary Object(s) Zed Aab IV, GLE, orbiting Zed Aab System Age (Gyr) 6.336 Travel Zone
-
 
 Orbit O# 3.1 AU 1.06 Eccentricity 0.10 Period Solar: 0.805y (294.026 std d)
 Notes Orbital information for primary planet Aab IV, GLE, Mass 1,200, specific moon orbital information in the
 Subordinates section
 
-
-Size Diameter(km) Composition Density Gravity Mass Esc v (kps)
+Size Diameter(km) Composition Density Gravity Mass Escv (kps)
 8,163 Rock and metal 1.03 0.66 0.27 7.262
 Notes
-
 
 Atmosphere Pressure (bar) 1.042 Composition Nitrogen 71%, Oxygen
 28% O 2 , others 1%
 
-
-O 2 (bar) 0.292
-
+O2 (bar) 0.292
 
 Taints none Scale Height 12.88
 Notes
-
 
 Hydrographics Coverage (%) 62 Composition H 2 O Distribution 5: Mixed, world ocean
 Major bodies 2 major
 continents
 
-
 Minor bodies 9 minor
 continents
 
-
 Other
-
 
 Notes:
 
+Rotation Sidereal 84h 44m 30s (84.74)
 
-Rotation Sidereal 84h 44m 30s
-(84.74)
-
-
-Solar 85h 46m 12s
-(85.77)
-
+Solar 85h 46m 12s (85.77)
 
 Solar
 days/year
 
-
 82.2739 Axial
 Tilt
-
 
 73° 39’
 (73.65°)
 Tidal lock? No Tides 30.6m from primary, 0.24m from stars
 Notes
-
 
 Temperature High 346K | 73°C Luminosity 1.419 Notes: Worst case extremes are 359K
 Mean 300K | 27°C Albedo 0.33 and 230K
@@ -14887,120 +13478,86 @@ Low 262K | -24°C Greenhouse 0.59
 Seismic Stress 17 Residual
 Stress
 
-
 0 Tidal Stress 3 Tidal
 Heating
-
 
 14 Major Tectonic
 Plates
 
-
 4
-
 
 Life Biomass Biocomplexity Sophonts? Biodiversity Compatibility
 A 5 no 7 9
 Notes:
 
-
 Resources Rating B Notes Biological resources highly exploitable
 
-
 Habitability Rating 7 Notes High temperatures hinder habitability
-
 
 Subordinates SAH/UWP Orbit (PD) Orbit (km) Ecc Diameter Density Mass Period (h) Size(°)
 Aab IV d 566 22.0 3,942,400 R 0.25 8,163 1.03 0.27 624.69
 Notes Zed Prime (self)
-
 
 Comments
 
 world physical characteristics
 
 
-TRAVELLER
-
 
 IISS CLASS IV SURVEY FORM 0407F-IV PART P
 World Zed Secundus (Zed Aab V d) SAH/UWP 340
 
-
 Sector | Location Storr | 0602 Initial Survey 207-568 Last Updated 218-1061
 
-
 Primary Object(s) Zed Aab V, GLC, orbiting Zed Aab System Age (Gyr) 6.336 Travel Zone
-
 
 Orbit O# 3.5 AU 1.30 Eccentricity 0.002 Period 1.094y (399.548 std d)
 Notes Orbital information for primary planet, Aab V, GMB, Mass 800, specific moon orbital information in
 Subordinates section
 
-
-Size Diameter(km) Composition Density Gravity Mass Esc v (kps)
+Size Diameter(km) Composition Density Gravity Mass Escv (kps)
 5,225 Rock 0.65 0.267 0.045 3.698
 Notes
 
-
-Atmosphere Pressure
-(bar)
-
+Atmosphere Pressure (bar)
 
 0.544 Composition Nitrogen 78%, Oxygen
 21%, others 1%
 
-
-O 2 (bar) 0.114
-
+O2 (bar) 0.114
 
 Taints Particulates (P.6.3) from dust storms and radiation (R.5.4) from
 primary radiation belt incursions
 
-
 Scale Height
 31.890
 
-
 Notes
-
 
 Hydrographics Coverage (%) 5% Composition H 2 O Distribution 1: Very concentrated,
 world continent
 Major bodies: Single ocean in southern
 high latitudes
 
-
 Minor bodies Other
-
 
 Notes Ocean surface freezes during night and thaws during day
 
+Rotation Sidereal 696.116h (29.005d)
 
-Rotation Sidereal 696.116h
-(29.005d)
-
-
-Solar 750.606h
-(31.275d)
-
+Solar 750.606h (31.275d)
 
 Solar
 days/year:
 
-
 12.775 Axial Tilt 1.2°
-
 
 Tidal lock? Yes, 1:1
 Primary lock
 
-
 Tides Minor solar, primary does not affect locked world
 
-
 Notes
-
 
 Temperature High 317K | 44°C Luminosity 1.419 Notes:
 Mean 279K | 6°C Albedo 0.20
@@ -15008,59 +13565,46 @@ Low 215K | -58°C Greenhouse 0.499
 Seismic Stress 0 Residual
 Stress
 
-
 0 Tidal Stress 0 Tidal
 Heating
-
 
 0 Major Tectonic
 Plates
 
-
 0
-
 
 Life Biomass 4 Biocomplexity 7 Sophonts? no Biodiversity 3 Compatibility 6
 Notes
 
-
 Resources Rating: 6 Notes
 
-
 Habitability Rating: 1 Notes Barely habitable
-
 
 Subordinates SAH/UWP Orbit (PD) Orbit (km) Ecc Diameter Density Mass Period (h) Size(°)
 Aab V d 340 24.1 3,704,760 0.009 5,225 0.65 0.27 696.116
 Notes Zed Secundus (self)
 
-
 Comments
 
 world physical characteristics
-
 
 **CORELLA**
 The remaining Corella system worlds have been partially generated from information in this chapter.
 
 IISS CLASS II/III SURVEY FORM 0421D-II.III
 
-
 Sector | Location The Beyond | 0314 Initial Survey: 174-203 Last Updated: 305-1090
-
 
 IISS Designation Corella System Age (Gyr): 4.984
 Objects
 Stellar Gas Giants Planetoid Belts Terrestrials Class III Status?
 2 4 3 4 Yes
 
-
 Stars Component Class Mass Temp Diameter Luminosity Orbit# AU Ecc Period MAO HZCO
 A G2 V 1.224 5,840 0.998 1.045 0 — — — — —
 B G8 V 0.974 5,360 0.957 0.681 0.3 0.12 0.01 10.24d — —
 Aab — 2.198 — — 1.725 0.3 0.12 0.01 10.24d 0.50 3.5
 Notes
-
 
 Objects Primary Object Orbit# AU Ecc Period SAH/UWP Subs Notes
 Aab Aab PI 1.2 0.46 n/a 0.210y 000 3 0.35-30.45.14.-5-9-0-3
@@ -15077,11 +13621,9 @@ A-St5:N 2 :CH 4
 Aab Aab VIII 8.1 22.0 0.15 69.602y GS4 3 20 ⊕, R03, S, 1, S
 Aab Aab PIII 8.7 34.0 n/a 133.723y 000 67 0.21-00.02.95.03-F-5-2-65
 
-
 Comments *Corella, Aab III, is the inhabited mainworld
 
-
-Native lifeforms present on Aab II a (Condor: 3515 R:7 H:5), Aab III (Corella: 87A7 R:8 H:8 ), Aab
+Native lifeforms present on Aab IIa (Condor: 3515 R:7 H:5), Aab III (Corella: 87A7 R:8 H:8 ), Aab
 VI (Cassandra: 5111 R:6 H:0)
 
 For a Class IV-P survey of Corella (see next
@@ -15089,7 +13631,6 @@ page), a complete pass through the processes in
 this chapter results in the indicated values. Items
 to note are a low oxygen partial pressure (14%
 oxygen in the atmosphere), a complete lack of major
-
 
 oceans and uncomfortably hot equatorial and lower
 latitude zones, with settlement likely focussed in
@@ -15100,138 +13641,104 @@ subsequent chapter processes.
 world physical characteristics
 
 
-TRAVELLER
-
 
 IISS CLASS IV SURVEY FORM 0407F-IV PART P
 World Corella SAH/UWP A864855-D
 
-
 Sector | Location The Beyond | 0314 Initial Survey: 174-203 Last Updated: 305-1090
 
-
 Primary Object(s): Corella Aab System Age (Gyr): 4.984 Travel Zone:
-
 
 Orbit O# 3.3 AU: 1.18 Eccentricity: 0.003 Period: 0.865y (315.79 std d)
 Notes:
 
-
-Size Diameter(km) Composition Density Gravity Mass Esc v (kps)
+Size Diameter(km) Composition Density Gravity Mass Escv (kps)
 12,359 Rock and Metal 1.00 0.970 0.913 10.850
 Notes:
-
 
 Atmosphere Pressure (bar): 1.04 Composition: Nitrogen 84.5%, Oxygen
 14.5%, Argon 1%
 
-
-O 2 (bar): 0.151
-
+O2 (bar): 0.151
 
 Taints: none Scale Height: 8.763
 Notes: Atmosphere marginally breathable (0.1 ppo) to 3.6 km altitude
-
 
 Hydrographics Coverage (%): 43 Composition: H 2 O Distribution 0:Extremely Dispersed,
 world continent
 Major bodies: 0 major oceans Minor bodies: 16 minor
 oceans
 
-
 Other: complex riverine/lake
 patterns
 Notes: No common sea level, three major complex riverine /lake/sea/ocean basins and six minor
 drainage basins
 
+Rotation Sidereal: 23h 30m 23s (23.506)
 
-Rotation Sidereal: 23h 30m 23s
-(23.506)
-
-
-Solar: 23h 34m 46s
-(23.580)
-
+Solar: 23h 34m 46s (23.580)
 
 Solar
 days/year:
 
-
 321.422 Axial
 Tilt:
-
 
 2° 55’ 18”
 (2.992°)
 Tidal lock? no Tides: Solar tide: 0.334m, Lunar tides inconsequential
 Notes:
 
-
 Temperature High: 331K | 58°C Luminosity: 1.725 Notes: Uncomfortably hot below 43° N/S.
 Equatorial temperature averages 51°C,
 poles average -2°C
-
 
 Mean: 302K | 29°C Albedo: 0.31
 Low: 275K | 2°C Greenhouse: 0.605
 Seismic Stress: 9 Residual
 Stress:
 
-
 9 Tidal Stress: 0 Tidal
 Heating:
-
 
 0 Major Tectonic
 Plates:
 
-
 9
-
 
 Life Biomass: 8 Biocomplexity: 7 Sophonts? no Biodiversity: 8 Compatibility: 7
 Notes: Extreme diversity between basins which act as continent-like barriers and create many microclimate zones
 
-
 Resources Rating: 8 Notes: Varied and complex lifeforms; exotic mineralogy
 
-
 Habitability Rating: 8 Notes: Equatorial and mid-temperate zones uncomfortable from excessive heat
-
 
 Subordinates SAH/UWP Orbit (PD) Orbit (km) Ecc Diameter Density Mass Period (h) Size(°)
 Steady GS00565-D 7.1 87,749 0.015 681 0.68 0.000104 75.74 0.478°
 Flake GS00364-D^1 16.3 201,452 R 0.496 432 0.59 0.000023 270.76 varies:
 Notes:^1 0.260–0.084°
 
-
 Comments
-
 
 :
 
 world physical characteristics
-
 
 **TERRA/SOL**
 This is the completed Class III survey form for the Terra/Sol system as of -2498.
 
 IISS CLASS II/III SURVEY FORM 0421D-II.III
 
-
 Sector | Location Solomani Rim | 1827 Initial Survey: 001-(-2500) Last Updated: 001-(-2498)
-
 
 IISS Designation Terra System Age (Gyr): 4.568
 Objects
 Stellar Gas Giants Planetoid Belts Terrestrials Class III Status?
 1 4 1 4 Yes
 
-
 Stars Component Class Mass Temp Diameter Luminosity Orbit# AU Ecc Period MAO HZCO
 Sol — G2 V 1.00 5772 1.00 1.00 0 — — — 0.03 3.0
 Notes:
-
 
 Objects Primary Object Orbit# AU Ecc Period SAH/UWP Subs Notes
 Mercury A A I 0.98 0.387 0.205 0.241y 300 0
@@ -15241,9 +13748,7 @@ Mars A A IV 3.9 1.524 0.093 1.881y 411 0 HZ, Frozen
 Asteroid
 Belt
 
-
 A A PI 5.0 2.8 n/a 4.685y 000 4 0.4-10.17.70.03-3-5-1-3
-
 
 Jupiter A A V 6.0 5.204 0.049 11.862y GMB 4 318 ⊕, 200, 201, 300, 300
 Saturn A A VI 6.9 9.583 0.057 29.457y GM9 6 95 ⊕, R03, S, S, 1, 1, 3A0:
@@ -15253,9 +13758,7 @@ Neptune A A VIII 8.5 30.07 0.009 164.79y GS4 2 17.1⊕, S, 2
 Kuiper
 Belt
 
-
 A A PII 9.5 58.5 n/a 447.44y 000 129 1.1-02.03.90.05-E-6-9-120
-
 
 Comments Terra is the inhabited mainworld
 Native life and sophonts present on Terra: A89A, R:8, H:A
@@ -15268,68 +13771,49 @@ between 800–400 km diameter is likely more than 120.
 world physical characteristics
 
 
-TRAVELLER
-
 
 IISS CLASS IV SURVEY FORM 0407F-IV PART P
 World Terra SAH/UWP: E867974-8
 
-
 Sector | Location Solomani Rim | 1827 Initial Survey: 001-(-2500) Last Updated: 001-(-2498)
 
-
 Primary Object(s): Sol System Age (Gyr): 4.568 Travel Zone:
-
 
 Orbit O# 3.0 AU: 1.00 Eccentricity: 0.017 Period: 1.00y (365.25 std d)
 Notes
 
-
-Size Diameter(km) Composition Density Gravity Mass Esc v (kps)
+Size Diameter(km) Composition Density Gravity Mass Escv (kps)
 12,742 Rock and Metal 1.00 1.00 1.00 11.186
 Notes:
-
 
 Atmosphere Pressure (bar) 1.013 Composition Nitrogen 78.08%, Oxygen
 20.95%, Argon 0.93%
 
-
-O 2 (bar) 0.212
-
+O2 (bar) 0.212
 
 Taints: none Scale Height: 8.5
 Notes:
-
 
 Hydrographics Coverage (%): 70.8 Composition: H 2 O Distribution: 5: Mixed, world ocean
 Major bodies: 2 major continents Minor bodies: 5 minor
 continents
 
-
 Other:
-
 
 Notes:
 
-
-Rotation Sidereal: 23h 56m 4s
-(23.934)
-
+Rotation Sidereal: 23h 56m 4s (23.934)
 
 Solar: 24h (24.00) Solar
 days/year:
 
-
 365.25 Axial
 Tilt:
 
-
 23.439°
-
 
 Tidal lock? No Tides: Luna 0.54m, Sol 0.25m
 Notes:
-
 
 Temperature High: 311K | 38°C Luminosity: 1.00 Notes:
 Mean: 288K | 15°C Albedo: 0.30
@@ -15337,17 +13821,13 @@ Low: 262K | -11°C Greenhouse: 0.622
 Seismic Stress: 25 Residual
 Stress:
 
-
 25 Tidal Stress: 0 Tidal
 Heating:
-
 
 0 Major Tectonic
 Plates:
 
-
 7
-
 
 Life Biomass : A Biocomplexity : 8 Sophonts? Yes^1 Biodiversity : 9 Compatibility : A
 Notes: Homeworld of Humaniti, source of all Terragen life
@@ -15362,10 +13842,8 @@ Notes:
 world physical characteristics
 
 
-
 Inhabited worlds, mainworlds or others, have codes not
-only for their population, government and Law Level
-(PGL) but also for their Tech Level and starport class,
+only for their population, government and Law Level (PGL) but also for their Tech Level and starport class,
 though only the mainworld is considered to have an
 official starport – the rest are classified as ‘spaceports’
 and use a different rating. These UWP ratings are
@@ -15381,8 +13859,9 @@ UWP already exists.
 
 PREREQUISITE: INITIAL UWP AND
 
-
 TRADE CODE COMPLETION
+
+
 Prior to adding detail to a world’s social characteristics,
 the Referee should complete the basic rolls for
 population, government, Law Level, starport type and
@@ -15394,13 +13873,10 @@ considerably greater detail in their own sections, but
 having these initial values established allows for a
 smoother flow through the processes in this chapter.
 
-
 Some DMs also require knowledge of trade
-codes which are based on the UWP. Trade codes
-(agricultural, et. al.) can be determined from the table
+codes which are based on the UWP. Trade codes (agricultural, et. al.) can be determined from the table
 on page 260 of the Traveller Core Rulebook or from
 page 186 of this book.
-
 
 For Zed Prime the physical UWP or the SAH portion
 of the world is already computed. To complete the
@@ -15412,15 +13888,14 @@ a 1D roll for Tech Level with DM+2 for government and
 DM+2 for the starport is a 4, making the Tech Level
 
 8. Zed Prime’s complete UWP is C566776-8. These
-characteristics give the world the trade codes of Ag
-(Agricultural) and Ri (Rich).
-
+characteristics give the world the trade codes of Ag (Agricultural) and Ri (Rich).
 
 NATIVE SOPHONT MODIFICATIONS
+
+
 A world with a native sophont population, especially a
 newly contacted population, should use modified UWP
 generation procedures appropriate to that species.
-
 
 Population: In most cases, native sophont
 populations will number in the millions or greater.
@@ -15436,14 +13911,12 @@ sophont populations:
 either 6 or 7
 •	 Rolling 2D3+4
 
-
 An alternate way creating rare ‘odd’ or low population
 native sophont worlds could be to roll 1D and add 4 for
 most worlds but if the 1D result is a 1, then instead roll
 2D-7. If the result of the 2D-7 roll is negative, treat it as
 positive. Subtract the result of this roll from 6 to get a
 population of 1–5.
-
 
 Beyond the mainworld, at least during a sophont
 species’ initial expansion, populations of other worlds
@@ -15452,7 +13925,6 @@ mainworld’s population or at least overshadowed
 by it and should not exceed its value unless some
 disaster forced an exodus.
 
-
 Government and Law Level: In most cases
 determination of government and Law Level for native
 sophonts can use the procedures in this book, although
@@ -15460,7 +13932,6 @@ the Referee may choose to implement special cases for
 unique sophonts, either creating different government
 types or enforcing certain governments and legal
 systems specific to the sophont.
-
 
 Starport: The Referee may choose to impose a
 negative DM on starport class for native sophonts
@@ -15474,13 +13945,10 @@ to be starfaring, at least not by jump drive, a starport of
 ## ORLD SOCIAL
 
 
-TRAVELLER
-
 
 class A should be unavailable, likewise, if the Referee
 does not want the species to be capable of spaceflight,
 class D or worse is most appropriate.
-
 
 Tech Level: Native sophonts are assumed to be
 adapted to their homeworld. They do not receive any
@@ -15488,8 +13956,9 @@ Tech Level DMs for SAH characteristics of their native
 world, nor are they bound by any Tech Level minimums
 for their homeworld’s environment.
 
-
 POPULATION
+
+
 Determination of population for a mainworld depends
 on the origin of the population. For most worlds, the
 general population procedure is sufficient but worlds
@@ -15497,14 +13966,12 @@ with a native sophont population warrant a modified
 procedure (see above), especially if they are the only
 intelligent inhabitants of the world.
 
-
 The population digit of the UWP is generated with a roll
 of 2D-2 for a system’s mainworld. The population code
 indicates the number of people to the power of 10 living
 on a world, e.g., Population 6 indicates 1–9 million
 people. A Population of 0 generally means zero people,
 although it could refer to any number less than 10.
-
 
 Population Code Values
 Population Range
@@ -15522,7 +13989,6 @@ A (10) 10,000,000,000 – 99,999,999,999
 B (11) 100,000,000,000 – 999,999,999,999
 C (12) 1,000,000,000,000 – 9,999,999,999,999
 
-
 MegaTraveller introduced the PBG numbers to
 extended system information, with the P standing for
 population and giving a numeric value (1–9) to the
@@ -15532,12 +13998,10 @@ This information exists for many Charted Space
 systems but for a newly generated system, it can
 be created with two D3 rolls, the first equalling 0, 3,
 
-
 or 6, and the second adding 1–3 to that number, as
 indicated in the Population P Value table. The end
 result will be referred to in the follow sections as the
 total world population.
-
 
 Population P Value
 First D3 + Second D3 = P Value
@@ -15551,15 +14015,13 @@ First D3 + Second D3 = P Value
 3 = 6 2 8
 3 = 6 3 9
 
-
 Instead of the above, a Referee could roll d10 and
 reroll a 0. Adding a population P value allows for
 documentation of a world’s population to at least one
 significant number. It does however pose a question
 about how the Referee should deal with the extreme
-population codes of 0 and A (10) or how to indicate
+population codes of 0 andA (10) or how to indicate
 greater population precision.
-
 
 POPULATION 0
 For most purposes, this population code should be
@@ -15588,7 +14050,6 @@ travel for 10 millennia and other methods than natural
 reproduction such as cloning can account for large
 populations in shorter timeframes. Alien sophonts may
 world social characteristics
-
 
 have differing rates of natural increase and extreme
 longevity may drive populations ever upward, even
@@ -15623,8 +14084,9 @@ people. A Population code 6 world with a P value of 9
 and a subsequent d10 roll of 9 would have 9,900,000
 people, but its Population code would still be 6.
 
-
 REGIONAL POPULATION DIFFERENCES
+
+
 Recently settled regions are less likely to abide by the
 standard 2D-2 population roll. The Sector Construction
 Guide provides suggestions for developing frontier
@@ -15637,7 +14099,6 @@ sectors where backwaters may still exist, although it
 could be appropriate to add a small positive DM to
 worlds along established trade routes, in important
 system clusters, or on major interstellar jump-1 mains.
-
 
 Adding a positive DM to the population roll allows
 for the possibility of worlds with populations in the
@@ -15652,7 +14113,6 @@ population values so large, a variant method for
 generating diminishing P values should be considered,
 at least for the largest population code.
 
-
 For Zed Prime, the Population code is 7, or tens of
 millions. Rolling for the P number results in a D3:D3 roll
 of 1:1 or 1, and the Referee chooses to add one more
@@ -15662,16 +14122,15 @@ world population of 18,000,000.
 world social characteristics
 
 
-TRAVELLER
-
 
 DEMOGRAPHICS
+
+
 The population value and P digit make no distinction
 as to what sort of ‘people’ inhabit a world. They could
 all be human, a combination of sophonts and in some
 universes (not generally in Charted Space) they could
 even be robots.
-
 
 From a sophont perspective, noting variance from
 the ‘normal’ population is more important than listing
@@ -15684,7 +14143,6 @@ any significant deviations from a normal population.
 This is especially relevant for a sophont species’
 homeworld or worlds with unusual immigrant or
 secondary population groups.
-
 
 Travellermap maintains a list of four-character sophont
 codes for Charted Space and uses these on the map
@@ -15699,8 +14157,9 @@ representing less than 10% and an appended W
 indicating that the sophont represents the bulk, or close
 to 100% of the planet’s population.
 
-
 POPULATION CONCENTRATION
+
+
 While no pattern is absolute, as technology begins to
 advance, worlds tend towards greater urbanisation.
 Two factors govern this: the first is the decrease in
@@ -15722,11 +14181,9 @@ reasons but options become greater at higher Tech
 Levels; by TL10 whole cities may float in the sky or be
 composed of sub-units that could disperse or cluster
 
-
 as desired. Cities may even exist in orbit, either hosting
 a world’s highport, providing exclusive domains for
 industry or for a world’s coddled elites.
-
 
 Other factors, such as general habitability or the
 available habitable area, limited to the twilight zone of
@@ -15735,14 +14192,12 @@ world, may also affect concentration and urbanisation
 levels. The size of the population is also a factor in
 global dispersion of that population.
 
-
 A world’s urbanisation ratio depends upon the
 concentration of its population to specific regions of a
 world’s surface (or orbital space). On a world with a
-Population code below 6 (less than 1,000,000 people)
+Population code below6 (less than 1,000,000 people)
 roll 1D. If the roll is greater than the population value,
 then the entire population resides in one settlement area.
-
 
 On most worlds, a settlement area is defined as a
 single 1,000km hex on a world map. For a Size 0 world,
@@ -15750,20 +14205,16 @@ this implies all settlement is on a single asteroid or
 space station. Concentration into one region gives a
 world a population concentration rating (PCR) of 9.
 
-
 If 1D roll is greater than Population code , PCR = 9,
 otherwise
 
-
 Roll 1D + DMs on the Population Concentration
 Rating (PCR) table
-
 
 If the roll is less than the population value or if the
 population value is 6 or more, roll 1D on the on the
 population concentration rating (PCR) table with DMs
 for a world’s specific conditions:
-
 
 Population Concentration Rating (PCR)
 1D+DM PCR Population Concentration
@@ -15779,7 +14230,6 @@ Population Concentration Rating (PCR)
 9+ 9 Extremely Concentrated
 
 world social characteristics
-
 
 
 Size 1 DM+2
@@ -15827,7 +14277,6 @@ on the maximum or minimum as indicated for that
 DM instead. A minimum value will supersede a
 conflicting maximum value.
 
-
 Urbanisation Percentage
 2D+DM Range Urbanisation %
 0- — Less than 1%
@@ -15845,15 +14294,12 @@ Urbanisation Percentage
 12 96 + D3 97–99%
 13+ 100 Greater than 99%
 
-
 PCR 0–2 DM-3+PCR
 PCR 7+ DM-6+PCR
 Minimal sustainable
 TL is 0–3
 
-
 DM-1
-
 
 Size 0 DM+2
 Population 8 DM+1
@@ -15869,14 +14315,11 @@ TL10+ DM+1
 Agricultural DM-2, Maximum = 90%+ 1D
 Non-Agricultural DM+2
 
-
 A world’s total urban population can be computed from
 population and urbanisation values:
 
-
 Total Urban Population = Total World Population X
 Urbanisation %
-
 
 People are considered part of the urban population
 if they reside in a town or city of more than 10,000
@@ -15885,11 +14328,8 @@ people or in a settlement that includes 50% or more
 world social characteristics
 
 
-TRAVELLER
 
-
-of the world’s total population. On a balkanised
-(government code 7) world the definition includes
+of the world’s total population. On a balkanised (government code 7) world the definition includes
 any settlement with 50% or more of the nation’s total
 population. On worlds of Tech Levels greater than 9,
 ‘virtual cities’ may exist as cultural or demographic
@@ -15901,7 +14341,6 @@ may be in the millions per square kilometre and such
 giant edifices often measure their population density
 in people per cubic kilometre instead.
 
-
 Zed Prime’s UWP is C566776-8 and its trade codes
 are agricultural and rich. To determine the PCR, the
 1D roll has DM+1 (Tech Level), DM-2 (government),
@@ -15912,10 +14351,8 @@ land or coastal surface – the extreme tides make
 the Referee rule out the coastal waters and limit
 settlements anywhere near the coast.
 
-
 For Zed Prime’s urbanisation %, the Referee rolls 2D
-with DM-1 (minimum sustainable TL is 0-3) and DM+2
-(Tech Level), DM-2 (agricultural) for net DM-1, rolling a
+with DM-1 (minimum sustainable TL is 0-3) and DM+2 (Tech Level), DM-2 (agricultural) for net DM-1, rolling a
 7 - 1 = 6, which requires a 1D and D2 roll on the range
 table resulting in 34 + 2 × 2 + 1 = 39%. Checking that
 against maximum and minimum restrictions from Tech
@@ -15924,8 +14361,9 @@ no changes. Total world population × 39% gives Zed
 Prime a total urban population of 7,020,000, which the
 Referee chooses to round to 7,000,000.
 
-
 NUMBER OF MAJOR CITIES
+
+
 Major city population is the combined population of its
 major cities – if the world only has major cities, then
 this is the entire urban population. As populations
@@ -15935,7 +14373,6 @@ the number of major cities or urban concentrations
 depends on the world’s population code and PCR.
 Varying cases have varying procedures:
 
-
 Case 1: Any world with a PCR of 0. For worlds with a
 PCR of 0, no large cities exist, although a multitude of
 smaller urban areas may dot the planet.
@@ -15944,14 +14381,12 @@ smaller urban areas may dot the planet.
 
 **_Major City Population =_** 0
 
-
 Case 2: Population code is 5 or less and PCR is 9. In
 this situation:
 
 **_Major Cities =_** 1
 
 **_Major City Population =_** Total Urban Population
-
 
 Case 3: Population code is 5 or less and PCR is
 1 – 8. The world cannot have more major cities than its
@@ -15967,7 +14402,6 @@ Case 4: Population code is 6 or greater and PCR is 9:
 
 **_Major City Population =_** Total Urban Population
 
-
 The result is the number of major cities present on
 the world. If the result is 1 then as with the previous
 case, the world has only one concentrated city with
@@ -15977,13 +14411,11 @@ but is considered one contiguous city. For results
 of multiple cities, follow the procedure for major city
 populations below to determine actual populations.
 
-
 Case 5: For all other concentration values:
 
 **_Major Cities =_** 2D - PCR +
 
 **_Total Major City Population =_**
-
 
 Round results up. Results of less than 1 are equal to
 
@@ -15993,18 +14425,19 @@ city quantity for that world is limited the value of its
 Population code. The actual population of each major
 city can be determined by the methods described in
 
-
 PCR
-1D + 7
 
+
+1D + 7
 
 Urbanisation % x 20
 PCR
 
+
+
 world social characteristics
 
 x Total Urban Population
-
 
 the next section. In the interests of sanity and time, the
 Referee may wish to limit the described major cities to
@@ -16058,12 +14491,10 @@ determine atmospheric gases:
 **_First Major City Population =_**
 ((1D + 3) x 10% ± variance) x Total Major City Population
 
-
 Repeat this procedure for the second and third major
 city using the remaining unallocated total major city
 population, ensuring that each city receives at least
 1%, and assigning any remainder to the first city.
-
 
 Case 4: Worlds with a PCR of 1–8 and four or more
 major cities. All major cities should have at least 1%
@@ -16118,12 +14549,8 @@ table and follow this process:
 world social characteristics
 
 
-TRAVELLER
 
-
-See the Zed Prime example below for a demonstration
-(with table) of Case 4:
-
+See the Zed Prime example below for a demonstration (with table) of Case 4:
 
 For Zed Prime (PCR 3)the total major city population is
 3 ÷ (1D+7) × 7,000,000 rolled as 3 ÷ (3+7) × 7,000,000
@@ -16155,8 +14582,9 @@ City 1% Chunks Chunks×3 =% ×21,000
 6 1 2 6 7% 147,000
 7 1 6 18 19% 399,000
 
-
 UNUSUAL CITIES
+
+
 Higher technology worlds may have cities that move,
 float, or exist underwater, below ground or in space.
 Each of these situations have a minimum required
@@ -16164,12 +14592,11 @@ Tech Level for viability.
 
 Unusual City Types
 
-
 City Type
-
 
 Minimum
 TL
+
 
 
 City
@@ -16192,7 +14619,6 @@ Water, deep ocean 12 Wx
 
 world social characteristics
 
-
 With each % equal to 21,000 people. The totals
 are 336,000, 525,000, 336,000, 273,000, 84,000,
 147,000 and 399,000.
@@ -16203,8 +14629,9 @@ are 336,000, 525,000, 336,000, 273,000, 84,000,
 10. To vary the identical population of the third and fourth
     city, change them to 342,000 and 330,000 instead.
 
-
 ADDITIONAL CITIES
+
+
 Any unallocated urban population, or total urban
 population minus major city population, reflects the
 residency of medium and small-sized cities. No
@@ -16213,7 +14640,6 @@ major city population and small cities should be no
 larger than 0.1% of the major city population but the
 Referee is otherwise free to allocate the remaining
 urban population as desired.
-
 
 An unusual city of any type is more expensive to build
 and maintain than a normal city. These cities exist for a
@@ -16225,15 +14651,13 @@ manufacturing may also warrant an unusual city type.
 Prototech versions of cities are also possible, although
 extremely expensive – a steam-punk city on rails is
 certainly a possibility. This list of types is not meant to
-be entirely comprehensive; a city inside a giant nuclear-
-powered gyro-stabilised mono-wheel could certainly
+be entirely comprehensive; a city inside a giant nuclear-powered gyro-stabilised mono-wheel could certainly
 exist, coded as Mx, but the Referee should invent a
 backstory for its existence.
 
 If Referees wish to randomly determine if a city is
 of an unusual type, they can roll 2D for 12+ with the
 following DMs:
-
 
 Starport A with highport DM+1
 Starport E or X DM-2
@@ -16267,7 +14691,6 @@ section starting on page 156) or as host of a starport or
 spaceport. As with any unusual city types, the Referee
 can list these codes after the city’s name.
 
-
 City Capital Designation Codes
 City Designation City Code
 World capital Cw
@@ -16275,8 +14698,9 @@ Faction capital Cf
 National capital Cn
 Regional (province, state, etc) capital Cr
 
-
 BALKANISED WORLD POPULATION DISTRIBUTION
+
+
 In addition to a world population and city populations, a
 balkanised world has its population allocated to various
 factions and/or nations as indicated by procedures
@@ -16292,45 +14716,40 @@ The number and distribution of both major geographical
 bodies and cities may give the Referee some ideas
 about how to distribute the population.
 
-
 POPULATION PROFILE
+
+
 A population profile is a compressed version of some of
 the information determined in the section. The format is:
 
 P-p.pp-C-%%-M
 
-
 Where P = population code, p.pp = P value with
 optional additional fractional digits, C = PCR , %% =
 urbanisation%, and M = number of major cities.
-
 
 Major cities may have standard profiles in the form:
 
 Name (Codes): Population: Port
 
-
 Where codes can include any city designation and
 possibly faction or nation information and port is any
 associated starport or spaceport class.
 
-
-The population profile for Zed Prime would be 7-1.8-
-3-39-7. Each city would receive at least a faction
+The population profile for Zed Prime would be 7-1.8-3-39-7. Each city would receive at least a faction
 code, to be developed in the Government section
 and these are presented in the Zed example form at
 the end of this chapter.
 
-
 SECONDARY WORLD POPULATIONS
+
+
 Other worlds besides the mainworld may have a
 population, either affiliated with the mainworld or
 independent. These worlds will almost always have
 
 world social characteristics
 
-
-TRAVELLER
 
 
 a smaller population than the mainworld and if
@@ -16340,14 +14759,12 @@ government, these secondary world populations could
 be included in the total for the mainworld or be treated
 as additional populations.
 
-
 It is possible a secondary world population exists in a
 city in space with no associated world but most often
 these populations are considered to belong to some
 significant body within the system. Except in rare
 circumstances, the maximum population of a secondary
 world is one less than mainworld’s Population code.
-
 
 Rather than check every significant body in the system,
 the Referee may choose to set the maximum offworld
@@ -16358,14 +14775,12 @@ to assign a Population code to specific secondary
 worlds. The secondary world’s population digit, or P
 value, can remain random in any case.
 
-
 At Zed Prime’s TL8, the prospect of worlds with
 secondary populations is rather low but with a
 balkanised government, it could be more likely than in
 some cases. A roll of Zed’s Population code (7) minus
 1D (a 2) indicates that secondary worlds of Population
 code 5 or less could exist.
-
 
 The Referee decides that the only secondary
 populations of note would reside on other moons of
@@ -16377,7 +14792,6 @@ of 1, then using d10 to add further precision gives this
 moon a population of 140,000. Additional work provides
 a population profile of 5-1.4-8-90-2.
 
-
 For the other four significant moons of Aab IV, the
 Referee arbitrarily chooses to roll 1D for the population
 value, with a result of 5 or 6 meaning no population.
@@ -16386,13 +14800,13 @@ the two outer Size S moons have a population, the first
 numbering (P digit randomly assigned) 30,000 people
 and the other 700.
 
-
 GOVERNMENT
+
+
 A world’s Government code is determined by a roll
 of 2D-7 plus the world’s Population code, resulting
 in a number between 0 and 15 as indicated on the
 Government Types table.
-
 
 A government’s code may not correspond to its ‘official’
 name or structure. A government claiming to be a
@@ -16408,8 +14822,9 @@ treat the government and how the government will
 treat the Travellers, regardless of whatever label the
 government places upon itself.
 
-
 BALKANISATION
+
+
 If a world’s Government code is 7, then there
 is no recognised central government that has
 effective control over the entire world. As with other
@@ -16420,7 +14835,6 @@ localised dominant control over their territories and
 people. Each of these subordinate governments could
 be rolled for separately.
 
-
 If the Referee chooses, these subordinate
 governments may be represented by a total of D3+1
 factions (see the Factions section on page 160), with
@@ -16428,7 +14842,6 @@ all members of a faction treated as having the same
 government, Law Level and culture, or the Referee
 can choose to subdivide these factions into individual
 governments or nations.
-
 
 If choosing to portray individual nations, roll 1D for each
 faction to determine the number of nations within that
@@ -16448,91 +14861,71 @@ develop. When in doubt, the Referee can choose the
 faction or nation surrounding or adjacent to the world’s
 starport as the government to further develop.
 
-
 Balkanised world factions each roll for a Government
 code using the same Population code as the world
 as a whole, regardless of the strength of the faction.
 
 world social characteristics
 
-
 Government Types
-
 
 Code Government Type Description Examples
 0 None No government structure. In many cases, family bonds
 predominate
 
-
 Family, clan, anarchy
-
 
 1 Company/
 Corporation
-
 
 Ruling functions are assumed by a company
 managerial elite and most citizenry are company
 employees or dependants
 
-
 Corporate outpost, asteroid
 mine, feudal domain
-
 
 2 Participating
 Democracy
 
-
 Ruling functions are reached by the advice and consent
 of the citizenry directly
-
 
 Collective, tribal council,
 comm-linked consensus
 3 Self-Perpetuating
 Oligarchy
 
-
 Ruling functions are performed by a restricted minority,
 with little or no input from the mass of citizenry
-
 
 Plutocracy, hereditary ruling
 caste
 4 Representative
 Democracy
 
-
 Ruling functions are performed by elected
 representatives
 
-
 Republic, democracy
-
 
 5 Feudal
 Technocracy
-
 
 Ruling functions are performed by specific individuals
 for persons who agree to be ruled by them.
 Relationships are based on the performance of
 technical activities that are mutually beneficial
 
-
 Those with access to
 advanced technology tend
 to have higher social status
 
-
 6 Captive
 Government
 
-
 Ruling functions are performed by an imposed
 leadership answerable to an outside group
-
 
 A colony or conquered
 area, military rule
@@ -16540,39 +14933,31 @@ area, military rule
 complete for control. Law Level refers to the
 government nearest the starport
 
-
 Multiple governments,
 civil war
-
 
 8 Civil Service
 Bureaucracy
 
-
 Ruling functions are performed by government agencies
 employing individuals selected for their expertise
-
 
 Technocracy, meritocracy,
 communism
 9 Impersonal
 Bureaucracy
 
-
 Ruling functions are performed by agencies that have
 become insulated from the governed citizens
-
 
 Entrenched castes of
 bureaucrats, decaying empire
 A (10) Charismatic
 Dictatorship
 
-
 Ruling functions are performed by agencies directed
 by a single leader who enjoys the overwhelming
 confidence of the citizens
-
 
 Revolutionary leader,
 monarch, emperor,
@@ -16580,33 +14965,26 @@ president for life
 B (11) Non-Charismatic
 Dictatorship
 
-
 A previous charismatic dictator has been replaced by a
 leader through normal channels
-
 
 Military dictatorship,
 hereditary kingship
 C (12) Charismatic
 Oligarchy
 
-
 Ruling functions are performed by a select group of
 members of an organisation or class that enjoys the
 overwhelming confidence of the citizenry
 
-
 Junta, revolutionary council
-
 
 D (13) Religious
 Dictatorship
 
-
 Ruling functions are performed by a religious
 organisation without regard to the specific individual
 needs of the citizenry
-
 
 Cult, transcendent
 philosophy, psionic group
@@ -16614,36 +14992,28 @@ mind
 E (14) Religious
 Autocracy
 
-
 Government by a single religious leader having
 absolute power over the citizenry
 
-
 Messiah
-
 
 F (15) Totalitarian
 Oligarchy
-
 
 Government by an all-powerful minority which maintains
 absolute control through widespread coercion and
 oppression
 
-
 World church, ruthless
 corporation
-
 
 However, individual nations might roll based upon a
 modified Population code derived from their individual
 population levels if the Referee desires greater variety.
 
-
 This handbook will not delve into specific procedures
 for determining the sizes of each nation on a
 balkanised world but the Referee can use similar
-
 
 methods and results as for determining major city
 populations on page 153 or even the guidelines and
@@ -16653,10 +15023,10 @@ surface on page 134 as guides.
 world social characteristics
 
 
-TRAVELLER
-
 
 GOVERNMENT STRUCTURE
+
+
 Developing the internal workings of a government is
 definitely an optional procedure. It may be important to
 a specific adventure or be an interesting background
@@ -16666,24 +15036,20 @@ world happens to be a group of senators chosen by an
 electorate of property owners and a group of random
 citizens chosen by a lottery.
 
-
 A world with a Government code of 0 has no
 functioning government and the procedures that
 follow are unnecessary. Otherwise, to be called a
 government, the ruling authority must perform three
 basic government functions:
 
-
 Legislative: This function makes the laws. It tells the
 people of the world what is legal and what is not, how to
 behave and maybe even the required colour of footwear.
-
 
 Executive: This function enforces the law. It ensures
 the people follow the law and backs it up with whatever
 force is necessary or legal, as determined by the
 legislative function and evaluated by the judicial branch.
-
 
 Judicial: This function interprets the law. It determines
 whether the executive function is carrying out the laws
@@ -16692,14 +15058,12 @@ some laws created by the legislative function illegal
 because of some pre-existing or pre-emptive law, such
 as a constitution or a holy book.
 
-
 These functions may all be performed by a single
 drunken half-mad dictator or by multiple meritoriously
 selected councils of experts but they must be
 performed in some manner for a government to be
 effective. A world’s government profile development
 uses the following steps:
-
 
 Step 1: Degree of Centralisation
 Governments range in structure from a unitary or
@@ -16708,12 +15072,10 @@ sovereign states bound by a weak authority. In between
 are varying degrees of unity, of which the middle
 ground is a federal government, where the central
 
-
 government and component states share or divide
 powers in a roughly balanced manner. This procedure
 will consider centralisation characteristic of one of these
 three forms as determined on the Centralisation table:
-
 
 Government 2–5 DM-1
 Government 6, 8-B DM+1
@@ -16724,11 +15086,9 @@ PCR 0–3 DM-1
 PCR 7–8 DM+1
 PCR 9 DM+3
 
-
 Centralisation rolls for the governments and factions
 of balkanised worlds receive both the DM+1 for
 balkanisation and any DM for their specific government.
-
 
 Step 2: Authority
 A government’s structural components may take a
@@ -16736,7 +15096,6 @@ variety of names but the structure is dependent on
 whether one aspect is the authoritative or dominant
 function or whether a balance exists between the three
 functions of legislative, executive and judicial power.
-
 
 In some systems, the legislature may be authoritative,
 choosing an executive and ministers from within its
@@ -16755,10 +15114,8 @@ concerned with the functional authoritative structure
 rather than any legal fictions which do not actually
 describe the functioning of the governmental system.
 
-
 The Authority table determines the operational
 functioning and authority of the government.
-
 
 Centralisation
 2D+DM Centralisation Code Description
@@ -16767,9 +15124,7 @@ Centralisation
 
 world social characteristics9+ Unitary U Central government dominant
 
-
 Authority
-
 
 2D+DM Code Authoritative Function
 4- L Legislative
@@ -16781,7 +15136,6 @@ Authority
 10 E Executive
 11 J Judicial
 12+ E Executive
-
 
 Government 1, 6, A, D, E DM+6
 Government 2 DM-4
@@ -16820,7 +15174,6 @@ function in a balanced authority.
 •	 For Governments 8 and 9, the result is always
 Multiple Councils.
 
-
 •	 For Governments 3, C or F, roll 1D: 1–4 = Single
 Council, 5–6 = Multiple Councils.
 •	 For Governments A, B, D and E, for the
@@ -16838,7 +15191,6 @@ composition of the other functions.
 •	 Except as indicated above, for each functional roll
 2D on the Functional Structure table:
 
-
 Functional Structure
 2D+DM Code Structure
 3- D Demos
@@ -16852,15 +15204,15 @@ Functional Structure
 11 M Multiple Councils
 12+ S Single Council
 
-
 GOVERNMENT PROFILE
+
+
 Subtyping for Government codes include entries for
 centralisation, authority, structure, with a balanced
 authority including the structure for all branches. The
 basic format of a government profile is:
 
 G-CAS
-
 
 Where G = Government code, C = centralisation
 code, A = primary authority code , S = structure code
@@ -16875,25 +15227,22 @@ profile would be 4-FES-LM-JS.
 world social characteristics
 
 
-TRAVELLER
-
 
 In the case of a balanced primary authority, the profile
 needs to include all branches of government:
 
 G-CBB-LS-ES-JS
 
-
 Where BB = balance branches, L = legislative, S =
 structure (of each function individually), E = executive
 and J = judicial.
 
-
 As Zed Prime is a balkanised world, its governmental
 structure will be determined by faction.
 
-
 FACTIONS
+
+
 Even an effectively united government may have
 factions of various strengths as separate centres of
 power and influence. These could be a minority political
@@ -16904,10 +15253,8 @@ government. To determine the number of factions:
 
 **_Number of Factions_** = D3 +DMs
 
-
 Government 0 or 7 DM+1
 Government A+ DM-1
-
 
 A result of 0 or 1 indicates there are no significant
 factions on the world outside the official power
@@ -16923,16 +15270,13 @@ group. If the resulting faction Government code is 7 or
 balkanisation, this spawns D3+1 factions – this could
 spiral into dozens of factions with repeated rolls of 7.
 
-
 For worlds with Government code 0, factions represent
 the unofficial political and social powers of a world, a
 code of 0 indicates a familial grouping, whether just an
 extended family or a larger band, clan or tribe.
 
-
 Roll 2D for each faction (beyond the first) on the
 Faction Strength table to indicate its relative influence.
-
 
 Faction Strength
 2D Code Relative Strength
@@ -16946,7 +15290,6 @@ government
 12 P Overwhelming popular support –
 more powerful than government
 — G Code reserved for official government
-
 
 On a balkanised world, the size of each external
 faction or nation should be determined as indicated
@@ -16963,9 +15306,7 @@ DM to any relationship or might set the relationship as
 desired and forego the roll.
 world social characteristics
 
-
 Faction Relationships
-
 
 1D+DM Code Relationship Description
 0- 0 Alliance Factions present united front against any opposition
@@ -16979,13 +15320,10 @@ Faction Relationships
 8 8 War Ongoing conventional warfare between factions
 9+ 9 Total War Warfare with the aim over conquest or annihilation
 
-
 Between the ruling faction and all external
 factions
 
-
 DM+1
-
 
 Factions have the same Government code DM-1
 
@@ -17021,7 +15359,6 @@ governing faction of an impersonal bureaucracy would
 be I-9-G, while an obscure movement for a democratic
 revolution might be II-4-O.
 
-
 Each relationship between factions can be expressed
 by their Roman numerals (or their names, or both)
 separated by a plus character ‘+’, then an equal sign ‘=‘
@@ -17029,11 +15366,9 @@ and their relationship:
 
 I + II = #
 
-
 Where # = the faction relationship code. For example,
 resistance between the governing faction and faction II
 would be I+II=4.
-
 
 This format can be used on balkanised worlds as
 well, with internal factions represented by a fractional
@@ -17045,7 +15380,6 @@ the documentation of relationships between factions
 or even different nations. Again, the Referee may also
 choose to use names instead of Roman numerals,
 especially on worlds with many nations.
-
 
 Zed Prime is a balkanised world. A D3+1 roll indicates
 two factions and the Referee decides to subdivide
@@ -17066,8 +15400,6 @@ proportions based on each city’s population.
 world social characteristics
 
 
-TRAVELLER
-
 
 The Referee can roll to determine relationships
 between the two blocks (or between all seven
@@ -17080,7 +15412,6 @@ to treat this uprising result as a condition of disputed
 borders on a world with a relatively low and disperse
 population, meaning incursions and raids on mining or
 logging camps in sparsely occupied regions.
-
 
 Determining government particulars by faction, for the
 first group of nations, centralisation is rolled as 2D
@@ -17097,7 +15428,6 @@ that the first group of nations is led by now-hereditary
 colonisation (hereafter faction I is referred to as the
 ‘governorship faction’), each coded as UER.
 
-
 For the second group, centralisation is 2D
 -1(government 3) +1(government 7) -1(PCR3) = 5 or a
 confederal government. Authority is 2D -3(government
@@ -17113,7 +15443,6 @@ landowners (and faction II is hereafter referred to as
 the ‘oligarch faction’) who rule as senators. The four
 oligarchies are coded as CLS-ES-JS.
 
-
 Each of these seven governments might have
 individual factions within them. This can get tedious,
 so the Referee decides to concentrate on the largest
@@ -17127,11 +15456,9 @@ government – an impersonal bureaucracy. A roll of 8
 determines that this faction’s strength is notable, so
 it can be recorded as I.I.II-9-N. A roll of 4 +2 = 6 for
 
-
 uprising, indicating ongoing low-level assassinations
 and active hostility between the governor and the
 bureaucracy or I.I.I+I.I.II=6.
-
 
 Given these data points, the Referee considers a
 scenario akin to the latter period of many dynasties,
@@ -17143,14 +15470,14 @@ the ministerial offices are only ostensibly under the
 governor’s direct authority, and none of it benefits the
 people of the small realm.
 
-
 The Referee could choose to apply this same factional
 result to the other governorships, or to roll separately for
 each, but deems it only necessary if the Travellers are
 likely to get involved in the politics of a specific realm.
 
-
 SECONDARY WORLD GOVERNMENTS
+
+
 If other worlds within a system have a population, they
 also have a government, or at least Government code.
 The Referee is free to decide whether the secondary
@@ -17164,11 +15491,9 @@ government on the mainworld, they are treated as a
 secondary government using the table for Case 1 with
 modifiers based on their owner’s government.
 
-
 Case 1: Secondary worlds under the authority
 of the mainworld or a nation or faction on the
 mainworld, roll 1D:
-
 
 Secondary World Government Codes
 Result Government Code
@@ -17178,17 +15503,14 @@ Result Government Code
 4 3
 5+ 6
 
-
 Mainworld Government 0 DM-2
 Mainworld Government 6 DM + Mainworld Population
-
 
 Case 2: If the secondary world is independent,
 either as a ‘nation’ on a balkanised world or as a
 freeport. The world’s government is independently
 
 world social characteristics rolled using the secondary world’s population. If the
-
 
 result is Government 6, the Referee can choose to
 reroll or change the status of the secondary world to a
@@ -17213,6 +15535,8 @@ has already arbitrarily declared it so regardless of the
 roll) and a roll of 5 indicates it is not a research base.
 
 LAW LEVEL
+
+
 A world’s Law Level is determined by rolling 2D-7 and
 adding the world’s Government code. This Law Level is
 an overall categorisation of the extent and enthusiasm
@@ -17226,20 +15550,16 @@ on weapons and prevalence of law enforcement. It
 
 Secondary World Categorisation
 
-
 Classification Code Requirements Roll
 Colony Cy Population 5+, Government 6 Automatic if requirements met
 Farming Fa Habitable zone, Atmosphere 4–9,
 Hydrographics 4–8, Population 2+
 
-
 Automatic if requirements met
-
 
 Freeport Fp Government 0–5, TL8+ 10+*, DM-2 if mainworld starport is A or B
 Military Base Mb Mainworld is TL8+ and is not Poor,
 Government 6
-
 
 12+, DM+4 if mainworld has bases, DM+2 if
 secondary world is Government 6
@@ -17248,18 +15568,14 @@ mining facility on a roll of 6+, Otherwise 10+
 Penal Colony Pe Mainworld is TL9+ and is Law Level
 8+, Government 6
 
-
 10+, DM+2 if Law Level 8+
-
 
 Research Base Rb Mainworld is Population 6+ and is
 TL8+ and is not Poor
 
-
 10+, DM+2 if mainworld TL12+
 
 *The Referee may choose to establish a freeport on a secondary world, regardless of the roll on the categorisation chart.
-
 
 also influences personal freedoms such as speech and
 assembly, and determines the amount of regulation
@@ -17267,7 +15583,6 @@ in economic matters such as trade and contracts.
 Another consideration is the law’s applicability; in some
 societies the law applies equally to all, in others, either
 by statute or by custom, the law applies unequally.
-
 
 On balkanised worlds, the Law Level presented in the
 UWP might not apply to the entire world but only to the
@@ -17280,8 +15595,9 @@ the starport authority. The actual Law Level is 1 but
 restrictions on disruptive behaviour and open display of
 weapons and armour is usually stricter.
 
-
 JUDICIAL SYSTEM
+
+
 Different worlds have different judicial systems. They
 are most commonly based on an inquisitorial or an
 adversarial system but may also be based on religious
@@ -17290,7 +15606,6 @@ factors. Some systems presume innocence, others
 presume guilt and in a few the applicability of law may
 depend on who committed it, who was victimised by it
 and where or when the crime took place.
-
 
 Worlds with no established governments (code 0)
 may still have an associated Law Level but it is based
@@ -17302,20 +15617,16 @@ an established government may have an overall
 world social characteristics
 
 
-TRAVELLER
-
 
 Law Level of 0 but still have a judicial system and
 subcategories of Law Level may still apply to different
 aspects of the law.
-
 
 System of Justice
 2D+DM Code Judicial System
 5- I Inquisitorial
 6–8 A Adversarial
 9+ T Traditional
-
 
 Government 1, 8-C or F DM-2
 Government D or E DM+4
@@ -17325,14 +15636,12 @@ TL1–2 DM+2
 Judicial authoritative government DM-2
 *This DM does not apply to Government D or E
 
-
 Inquisitorial: Also called civil law or an administrative
 legal system. Statutes and procedures take precedent.
 A judge or group of officials investigate and determine
 if a crime has occurred. The proceedings are based
 on evidence collected and decisions of guilt are
 determined by the court officers.
-
 
 Adversarial: Also called common law. Precedents
 and interpretations of the law are paramount. The
@@ -17341,7 +15650,6 @@ defendant who present evidence to determine guilt.
 Final determination may be by judicial court officials, a
 jury or some other method.
 
-
 Traditional: Often religious or tribal law but potentially
 any other cultural practices or the idiosyncrasies of
 a dictator’s whims. Guilt is determined by an expert
@@ -17349,7 +15657,6 @@ in the tradition or a local official. Guilt depends on
 interpretations of texts, local customs or potentially
 other practices including divination, trial by ordeal or
 even trial by combat.
-
 
 Secondary system: Even if a world’s justice system
 is adversarial or traditional in criminal and private
@@ -17360,12 +15667,12 @@ economic infractions are handled by an administrative
 court using an inquisitional procedure instead of the
 general judicial system.
 
-
 UNIFORMITY OF LAW
+
+
 Laws do not always apply equally to all people, nor do
 they apply equally in all local jurisdictions. Laws can be
 personal, territorial or universal.
-
 
 Personal: Laws vary based on a person’s status. This
 may refer to social status, profession, caste, religion,
@@ -17375,7 +15682,6 @@ laws may not apply at all to some people, others only
 to certain groups. Some groups may receive a DM to
 determination of guilt and/or sentencing.
 
-
 Territorial: Within the world or nation’s government,
 subdivisions or local governments are able to set
 specific laws that may not apply to the government
@@ -17383,7 +15689,6 @@ as a whole. Often, such differing restrictions apply
 to only one or two subcategories of Law Level or
 may result in complications such as non-transferable
 contracts, licenses or permits.
-
 
 Universal: The same laws apply equally to all.
 Certain government structures have a tendency
@@ -17394,11 +15699,9 @@ is always territorial (T)
 territorial (T) on a 1D roll of 1–5 and personal (P)
 on a 6
 
-
 For a unitary government and for any territory within
 a confederal or federal government which has overall
 territorial uniformity, roll 1D on the Law Uniformity table:
-
 
 Law Uniformity
 1D+DM Code Uniformity
@@ -17406,10 +15709,8 @@ Law Uniformity
 3 T Territorial
 4+ U Universal
 
-
 Government 3, 5 or A+ DM-1
 Government 2 DM+1
-
 
 The specific effects of personal and territorial law
 are left to the discretion of the Referee but may
@@ -17417,13 +15718,13 @@ be related to cultural details of that world. In some
 cases, the entire judicial system may be different for
 varying groups or territories.
 
-
 PRESUMPTION OF INNOCENCE
+
+
 The basic legal tenet of whether a suspect is assumed
 to be innocent until proven guilty, as opposed to being
 
 world social characteristics assumed guilty unless the judicial system is otherwise
-
 
 convinced, has a major impact on the outcome of
 legal proceedings. To determine if the principle of a
@@ -17432,7 +15733,6 @@ proceedings, rule 2D and subtract the world’s Law
 Level, with a DM+2 if the judicial system is adversarial:
 
 **_Presumption of innocence exists on 0+: r_** oll 2D +DMs
-
 
 Law Level DM-Law Level
 Adversarial system DM+2
@@ -17448,7 +15748,6 @@ whether a society accepts the death penalty for certain
 crimes, or may determine it randomly:
 
 **_Death penalty exists on 8+: roll 2D +DMs_**
-
 
 Government 0* DM-4
 Law Level 9+ DM+4
@@ -17478,27 +15777,28 @@ inquisitorial process for economic and private matters,
 with presumption of innocence, no death penalty and
 territorial variation can be recorded as AIT-Y-N, while
 
-
 as a unitary system, traditional in nature, with no
 presumption of innocence and subject to the death
 penalty would be TTU-N-Y.
 
-
 LAW LEVEL SUBCLASSIFICATIONS
+
+
 The UWP Law Level code provides the basis for
 the severity of a world’s laws. Subcategories of Law
 Level include restrictions on weapons, economic
 law, criminal law, private law and personal freedoms.
 Each subcategory is based on a variance from this
 overall Law Level. Results of less than zero are
-treated as 0 and those above J (18) may be treated
-as J. Beyond Law Level C (12), law enforcement is
+treated as 0 and those aboveJ (18) may be treated
+as J. Beyond Law LevelC (12), law enforcement is
 broadly oppressive and its qualities are covered by
 the universal characteristics of the Law Level Effects:
 Criminal, Private and Personal table (page 168).
 
-
 WEAPONS AND ARMOUR
+
+
 This subcategory is not typically a distinct body of
 law but it covers a specific topic of great interest to
 Travellers. The weapons and armour banned at each
@@ -17519,16 +15819,15 @@ regarding weapons equal to the overall Law Level for
 clarity and to account for pre-existing expectations, or
 may choose to vary it as with other subcategories:
 
-
 Weapons and Armour Law Level = Overall Law Level
 + 2D3-4 + DMs
-
 
 PCR 0-3 DM-1
 PCR 8+ DM+1
 
-
 ECONOMIC LAW
+
+
 Economic laws are often more regulatory than
 actual criminal law and may be adjudicated by an
 administrative or inquisitional process regardless of
@@ -17539,8 +15838,6 @@ permitting, zoning and licensing of commercial
 
 world social characteristics
 
-
-TRAVELLER
 
 
 activities. At lower Law Levels, many activities
@@ -17554,18 +15851,17 @@ and issuing of multiple licenses and permits.
 
 **_Economic Law Level =_** Overall Law Level + 2D3-4 + DMs
 
-
 Government 0 DM-2
 Government 1 DM+2
 Government 2 DM-1
 Government 9 DM+1
 
-
 CRIMINAL LAW
+
+
 When someone commits what the government
 considers a crime, they are subject to criminal law. This
 law determines not only the extent of what is illegal but
-
 
 Law Level Effects: Weapons and Economics
 Code Weapons and Armour banned Economic Law
@@ -17573,13 +15869,11 @@ Code Weapons and Armour banned Economic Law
 1 Poison gas, explosives, undetectable weapons,
 weapons of mass destruction, battle dress (C5)
 
-
 Optional registration of private agreements, claim
 registration
 2 Portable energy and laser weapons, combat armour Registration of corporations, enforcement of claims
 3 Military weapons (all portable heavy weapons), flak
 jackets and obvious armour (C4)
-
 
 Basic permitting and zoning laws, required
 licensing of corporations and tax reporting,
@@ -17587,18 +15881,15 @@ bankruptcy law
 4 Light assault weapons and submachine guns (all
 fully automatic weapons), cloth armour (C3)
 
-
 Registration of professional licenses, periodic
 random auditing of major financial transactions
 5 Personal concealable ranged weapons (auto
 pistols and revolvers), mesh armour
 
-
 Required professional licenses for most skilled
 professions
 6 All firearms except shotguns and stunners; carrying
 weapons discouraged
-
 
 Moderate permitting and zoning laws, registration
 fees required for professional licenses
@@ -17608,32 +15899,29 @@ periodic auditing of major financial transactions
 9 All weapons, including knives longer than 10cm, all
 armour
 
-
 Active auditing of all financial transactions
-
 
 A (10) All weapons violations are treated as Serious crimes Arduous permitting and zoning laws
 B (11) Random sweeps for weapons violations Continuous auditing of all financial transactions
 C (12) Active monitoring for ownership violations All economic regulation enforcement transferred to
 criminal justice system
 
-
 the enforcement and legal proceedings that accompany
 any violation of criminal law. The Crime Categories
 section on page 169 provides examples of activities
 that qualify for each level of crime. Violations of any
 category could result in criminal law proceedings. At
-Law Levels above C (12) nearly all legal proceedings
+Law Levels aboveC (12) nearly all legal proceedings
 occur under the jurisdiction of the often arbitrary and
 severe criminal legal system.
 
 **_Criminal Law Level =_** Overall Law Level + 2D3-4 + DMs
 
-
 Inquisitorial legal system DM+1
 
-
 PRIVATE LAW
+
+
 Some legal action is not initiated by the government
 but by one individual against another. In this instance,
 the legal action is covered by private law (sometimes
@@ -17644,7 +15932,6 @@ would be considered a crime on more restrictive
 
 world social characteristics
 
-
 worlds. Private law covers agreements between two
 parties, including contracts, dispute resolution, tort law
 and private or government arbitration regulations. At
@@ -17654,7 +15941,6 @@ no differently than criminal law or arbitrarily imposing
 settlements or penalties upon the two feuding parties.
 
 **_Private Law Level =_** Overall Law Level + 2D3-4 + DMs
-
 
 Government 3, 5 or C DM-1
 
@@ -17672,28 +15958,27 @@ to think freely or exist may be restricted or eliminated.
 
 + DMs
 
-
 Government 0 or 2 DM-1
 Government 1 DM+2
 
-
 LAW LEVEL PROFILE
+
+
 A detailed Law Level is recorded as follows:
 
 **O-WECPR**
-
 
 Where O = overall Law Level, W = weapons and
 armour, E = economic law , C = criminal law, P =
 private law, R = personal rights.
 
-
 If Law Level is personal or territorial, differing groups
 and differing territorial jurisdictions may have differing
 Law Levels or differing laws and penalties noted.
 
-
 CRIMINAL CONVICTION
+
+
 In some cases, determination of guilt can depend
 nearly as much on the legal system as to whether a
 person is actually guilty of a crime. In addition to actual
@@ -17709,8 +15994,6 @@ Thursday was a crime – will be found guilty.
 world social characteristics
 
 
-TRAVELLER
-
 
 Law Level Effects: Criminal, Private, and Personal
 Code Criminal Law Private Law Personal Rights
@@ -17718,10 +16001,8 @@ Code Criminal Law Private Law Personal Rights
 1 Grave and serious crimes
 prosecuted
 
-
 Duelling restricted, contract
 law enforceable
-
 
 Speech risking physical harm (e.g., yelling
 fire in a crowded theatre) prohibited
@@ -17729,70 +16010,52 @@ fire in a crowded theatre) prohibited
 3 Minor crimes prosecuted Private settlement of
 Moderate crimes prohibited
 
-
 Group-related regulations (e.g., drinking
 age)
 4 Petty crimes prosecuted Private settlement of all
 crimes prohibited
 
-
 Hate speech prohibited
-
 
 5 Trivial crimes prosecuted Public filing of all disputes
 and settlements
 
-
 Mandatory identification papers
-
 
 6 Public surveillance Government venue required
 for all settlements
 
-
 Public surveillance
-
 
 7 Insignificant crimes
 prosecuted
 
-
 Limits on all tort settlements ‘Offensive’ speech prohibited
-
 
 8 Indefinite detention allowed Government review of all
 settlements
 
-
 No right to protect personal data
-
 
 9 No effective right to counsel Government approval for all
 settlements
 
-
 ‘Subversive’ speech prohibited
-
 
 A (10) Pre-emptive detention
 allowed
 
-
 Government adjudicated
 arbitration required
 
-
 Restrictions on movement and residency
-
 
 B (11) Arbitrary indefinite detention
 allowed
 
-
 Arbitrary government
 adjudication, government
 approval of all contracts
-
 
 Warrantless searches, government
 control of all information, routine
@@ -17800,10 +16063,8 @@ surveillance of private activities
 C (12) Arbitrary verdicts without
 defendant participation
 
-
 All civil proceedings transferred
 to criminal justice system
-
 
 Unrestricted surveillance of private
 activities, group punishments
@@ -17814,7 +16075,6 @@ G (16) Thoughts controlled, disproportionate punishments
 H (17) Legalised oppression
 J (18) Routine oppression
 
-
 A Referee may choose to forgo or modify a roll for
 the determination of guilt for adventure purposes but
 if a random result is desired, a defendant can avoid
@@ -17822,48 +16082,35 @@ conviction on a 2D roll of 8+:
 
 **_Avoid conviction on 8+:_** roll 2D +DMs
 
-
 Judicial system is
 adversarial
 
-
 DM+2
-
 
 Judicial system has
 presumption of innocence
 
-
 DM+2
-
 
 Defendant was caught ‘red
 handed’
 
-
 DM-6 or,
-
 
 Evidence of guilt is
 overwhelming
 
-
 DM-4 or,
-
 
 Evidence of guilt is
 circumstantial
 
-
 DM-2 or,
-
 
 The defendant did not
 actually commit the crime
 
-
 DM+4
-
 
 Criminal Law Level DM-Criminal Law Level
 In favour of the prosecution DM-Advocate skill of
@@ -17872,7 +16119,6 @@ traditional expert
 In favour of the accused DM+Advocate skill if an
 
 world social characteristics advocate is allowed
-
 
 Additional DMs based on bribes or other interference in
 the judicial system may also influence the conviction roll.
@@ -17907,7 +16153,6 @@ a crime is always pursued. At lower Law Levels,
 a perpetrator may escape with a warning on a
 successful Advocate or Persuasion check.
 
-
 The severity of the crime influences the penalty
 imposed. Where applicable, if the law broken generally
 relates to a specific restriction on a column of the
@@ -17919,7 +16164,6 @@ crime, e.g., possession of a weapon that is banned at
 Law Level 2 on a Law Level 6 world results in a DM of
 6 - 2 = +4 on sentencing.
 
-
 For general criminal activity crimes, the sentencing DM
 is related to the crime’s severity as indicated on the
 Crime Severity table. For instance, an armed robbery
@@ -17930,8 +16174,9 @@ economic Law Level was only 2, a moderate economic
 crime such as major tax evasion would have a DM of
 the economic Law Level minus 2 or DM = 2 - 2 = +0.
 
-
 CRIMINAL LAW PENALTIES
+
+
 Conviction of a crime, whether by trial or government
 fiat, will lead to sentencing. Depending on the judicial
 system, the convict may attempt to use Advocate
@@ -17946,46 +16191,35 @@ Criminal Penalty table.
 
 Crime Severity
 
-
 Severity Enforcement Examples DM
 Insignificant 7 Technical violation of possibly forgotten law causing no harm Law Level -10
 Trivial 5 Littering, speeding violations, permit infractions Law Level -8
 Petty 4 Misdemeanour assault or fraud, false identity, licensing
 infractions
 
-
 Law Level -5
-
 
 Minor 3 Destruction of property, significant theft, minor tax evasion Law Level -3
 Moderate 2 Assault causing serious injury, armed robbery, major tax
 evasion
 
-
 Law Level -2
-
 
 Serious 1 Manslaughter, negligent homicide, major fraud Law Level -1
 Grave 1 Murder, extremely serious fraud or economic disruption,
 espionage
 
-
 Law Level +0
-
 
 Appalling 0 Multiple murders, treason, possession of weapons of mass
 destruction
 
-
 Law Level +2
-
 
 Horrific 0 Major atrocity, use of weapons of mass destruction Law Level +5
 
 world social characteristics
 
-
-TRAVELLER
 
 
 Criminal Penalty
@@ -18001,13 +16235,13 @@ Criminal Penalty
 15+ Death*
 *Life imprisonment or alternative most-severe punishment if the death penalty is prohibited.
 
-
 Severity of crime DM + Crime Severity Modification (see Crime Severity table, page 169)
 In favour of the prosecution DM - Advocate skill of prosecutor, judge, or traditional expert
 In favour of the accused DM + Advocate skill if an advocate is allowed
 
-
 ECONOMIC LAW PENALTIES
+
+
 Violations of economic laws are often handled by
 administrative or specialised courts. Criminal violations
 such as fraud or theft are considered under the criminal
@@ -18021,7 +16255,6 @@ same methods as criminal law, although the Referee
 should exercise some discretion: failure to comply with
 zoning laws is one thing, illegal dumping of dangerous
 chemicals is another matter, most likely criminal.
-
 
 Economic Penalty
 2D+DM Penalty
@@ -18037,11 +16270,9 @@ Economic Penalty
 *If the world’s Law Level is 9+ or above and allows the death penalty, it could be imposed on economic crimes at the
 Referee’s discretion.
 
-
 As with conviction, additional DMs based on bribes
 or other interference in the judicial system may also
 influence the conviction roll.
-
 
 A result of exile is usually only applicable to Travellers
 not native to the world and generally results in an
@@ -18050,13 +16281,11 @@ although the Referee may limit the period to a set
 duration such as 10 years or allow the Traveller to
 reapply for entry after such a time has passed.
 
-
 Some legal systems may allow an automatic appeal of
 a death sentence; others will carry it out the same day
 as the conviction.
 
 world social characteristics
-
 
 The process for determining guilt is identical to that for
 criminal law but fines are possibly more prevalent and
@@ -18100,10 +16329,9 @@ into the details of these factional governments. On a
 balkanised world, the UWP Law Level is considered
 to be that of the government nearest to or hosting the
 starport. In this case, despite a Government code of B
-generating a Law Level of 6 (by rolling a 2) it is more
-likely that one of the nations of the oligarch faction
-(Faction II), with a Government code of 3 has a Law
-Level of 6 (rolling a 10 is three times as likely as rolling
+generating a Law Level of6 (by rolling a 2) it is more
+likely that one of the nations of the oligarch faction (Faction II), with a Government code of 3 has a Law
+Level of6 (rolling a 10 is three times as likely as rolling
 a 2), so the Referee arbitrarily assumes one of these
 oligarch governments, the largest, is host to the world’s
 downport (if any highports exist, they will be determined
@@ -18112,7 +16340,6 @@ later, in the starport section).
 Moving through the process with an oligarch
 government of CLS-ES-JS, the roll for system
 of justice has no DM and rolling 6 results in an
-
 
 adversarial justice system. A roll of 12 makes the
 secondary justice system for economic and private
@@ -18129,7 +16356,6 @@ the justice system assumes a defendant is innocent.
 The death penalty roll of 3 has no relevant DMs,
 so there is no death penalty. The oligarch judicial
 system is AIP-Y-N.
-
 
 But moving on for Law Level subclassifications, the
 Referee rolls 2D3-4 from an overall Law Level of 6
@@ -18150,9 +16376,8 @@ oligarchs’ private matters are handled outside the
 courts, including infractions that might be treated as
 criminal if they had been committed by others.
 
-
 Repeating the process for the governorships results
-in a separate overall Law Level rolled as A (10), an
+in a separate overall Law Level rolled asA (10), an
 adversarial law system, also with an inquisitorial
 secondary system and a personal uniformity – by
 chance exactly the same as the oligarchies. The
@@ -18173,24 +16398,21 @@ of the oligarchies that hosts the downport.
 world social characteristics
 
 
-TRAVELLER
-
 
 SECONDARY WORLD LAW LEVELS
+
+
 Secondary world Law Levels are based on Government
 code and allegiance.
-
 
 Case 1: Captive Governments
 If the secondary world has a captive Government (6),
 it will tend to have a Law Level equal to the owning
 government or even higher. Roll 1D:
 
-
 Captive Secondary World Law Levels
 1D Result
-1–2 Law Level is rerolled for a Government 6 world
-(2D-7 + 6)
+1–2 Law Level is rerolled for a Government 6 world (2D-7 + 6)
 3–4 Law Level is equal to the owning mainworld
 government’s Law Level
 5 Law Level is equal to the owning mainworld
@@ -18198,13 +16420,10 @@ government’s Law Level +1
 6+ Law Level is equal to the owning mainworld
 government’s Law Level + 1D
 
-
 If the secondary world is a penal colony or
 military base:
 
-
 DM+1
-
 
 Case 2: Government codes 1-3 under
 Mainworld authority
@@ -18219,13 +16438,11 @@ Level of the world is equal to this 1D result; on
 a 4–6, the Law Level is rolled again with the
 secondary world’s Government code as the DM.
 
-
 Case 3: Other
 For all other Government codes, roll normally for
 the Law Level based on the Government code. The
 Referee may choose to apply a DM-1 to Law Level rolls
 for worlds that host a freeport.
-
 
 Zed Secundus has a Government code of 5 and is
 entirely independent of Zed Prime. For case 3, a 2D
@@ -18234,7 +16451,6 @@ roll of 5 with a DM-1 for the freeport results in 5-7 + 5
 - 1 = 2 for an overall Law Level of 2. The Referee can
 proceed through details of the justice system if a trip to
 Zed Secundus is in the Travellers’ future.
-
 
 Tech Level Modifiers
 Code Starport Size Atmosphere Hydrographics Population Government
@@ -18260,8 +16476,9 @@ Y — — — — — —
 
 world social characteristicsX -4 — — — — —
 
-
 TECHNOLOGY
+
+
 A world’s Tech Level represents the technology that is
 commonly available and representative of the world’s
 infrastructure. Depending on local population and
@@ -18284,7 +16501,6 @@ or worse on a particular world. A detailed Tech Level
 
 Tech Level Categories: Quality of Life
 
-
 TL Energy Electronics Manufacturing Medical Environmental
 0 Muscle Mind Hand tools Herbs Early settlement
 1 Waterwheel Abacus, heliograph Milling machines Diagnosis Bridges, cities
@@ -18297,28 +16513,22 @@ TL Energy Electronics Manufacturing Medical Environmental
 8 Basic fusion,
 Basic power cell
 
-
 Mobile computer,
 Basic robot brains
 
-
 Basic fabs,
 Orbital factories
-
 
 Basic clones,
 Early cybernetics,
 gene editing
 
-
 Arcologies,
 Orbital spin cities
-
 
 9 Improved solar Core computers,
 Holographic
 projectors
-
 
 External fabs Spare part clones Underwater cities,
 early weather
@@ -18326,55 +16536,42 @@ control
 10 Basic fusion+,
 improved power cell
 
-
 Advanced robot
 brains
-
 
 Improved fabs,
 Robotic factories
 
-
 Hibernation,
 accelerated clones
 
-
 Grav cities
-
 
 11 Advanced solar — — Brain transplants Weather control
 12 Improved fusion,
 advanced power cell
 
-
 Very advanced robot
 brains, basic meson
 comms
 
-
 — Full body cyborgs Early terraforming
-
 
 13 Improved fusion plus Neural link
 integration
 
-
 Enhanced fabs,
 Basic nanobots
-
 
 Quick clones Nanobot
 constructors
 14 Collectors Advanced meson
 comms
 
-
 — Reanimation Mobile grav cities
-
 
 15 Advanced fusion Self-aware brains Improved
 nanobots
-
 
 Anagathics Improved
 terraforming
@@ -18383,15 +16580,12 @@ terraforming
 world social characteristics
 
 
-TRAVELLER
-
 
 profile of a world covers subcategories relating to
 quality of life, transportation, military and novelty
 technologies, the latter being items not common but
 occasionally present through imports, prototypes or
 artefacts from a different era.
-
 
 These subcategories have upper and lower
 bounds based on the general UWP Tech Level.
@@ -18407,10 +16601,8 @@ street crowded with autonomous vehicles and robots.
 In the sections below, all fractional Tech Level values
 are rounded down.
 
-
 Common devices and their capabilities (except novelty)
 are listed in the tables.
-
 
 Prototype and early prototype items may be available
 up to two Tech Levels lower than listed in the
@@ -18418,8 +16610,9 @@ tables but such objects should be rare, expensive
 and unreliable. See page 10 of the Central Supply
 Catalogue for prototech rules.
 
-
 MINIMAL SUSTAINABLE TECH LEVELS
+
+
 Many worlds are hostile enough to require
 technology to survive. In general, a world cannot
 sustain a population unless it meets minimum Tech
@@ -18427,7 +16620,6 @@ Level limits based on environment. In some cases,
 the world can survive at one or two Tech Levels
 lower than the limits indicated in the Tech Level
 and Environment table but use of such prototype or
-
 
 Tech Level Categories: Transportation and Military
 TL Land Sea Air Space Personal Military Heavy Military
@@ -18437,37 +16629,28 @@ TL Land Sea Air Space Personal Military Heavy Military
 3 Early Train,
 Bicycle
 
-
 Early
 Steamship
 
-
 Balloon — Foil, Musket Cannon
-
 
 4 Train Steamship Early Airplane,
 Dirigible
 
-
 — Revolver, Shotgun Artillery
-
 
 5 Automobile Submersible Airplane — Rifle, Machinegun Heavy Artillery, Tank
 6 Amphibius
 Vehicle
 
-
 Hydrofoil,
 Nuclear Ship
-
 
 Helicopter,
 Supersonic Jet
 
-
 Rocket Auto Rifle,
 Rocket Launcher
-
 
 Missile,
 Nuclear Weapons
@@ -18475,37 +16658,29 @@ Nuclear Weapons
 8 Autonomous
 Car, Walker
 
-
 Autonomous
 Ship
-
 
 Autonomous
 Plane,
 Hypersonic Jet,
 Air/Raft
 
-
 Early Grav Stun Weapons Precision Weapons
-
 
 9 Superconducting
 Monorail Train
 
-
 — Grav Car M-Drive,
 Jump-1
-
 
 Laser Rifle Laser Gun, Grav
 Tank, Rail Gun
 10 Merges With Air Merges With
 Air
 
-
 Universal Grav
 Vehicles
-
 
 Beanstalk Advanced Rifle Plasma Gun,
 Crystaliron
@@ -18513,9 +16688,7 @@ Crystaliron
 12 — — Grav Belt Jump-3 Gauss Rifle,
 Plasma Gun
 
-
 Gauss Cannon
-
 
 13 — — — Jump-4 Battledress Fusion Gun
 14 — — — Jump-5 Fusion Gun Bonded
@@ -18526,7 +16699,6 @@ Globe
 
 world social characteristics
 
-
 jury-rigged equipment makes most of these worlds
 economically unviable and prone to the dangers
 of life support failures. These Tech Level limits
@@ -18536,7 +16708,6 @@ common Tech Level should be no more than two
 below this minimum as well for the world to prosper.
 
 Tech Level and Environment
-
 
 Environment Minimum Tech Level
 Atmosphere 0, 1 or A 8
@@ -18563,44 +16734,38 @@ the modifier using the following table:
 
 **Tech Level Modifier (TLM)**
 
-
 2D TL Modifier
-
 
 2 -3
 3 -2
 
-
 4 -1
-
 
 5 0
 6 0
 
-
 7 0
 8 0
 
-
 9 0
-
 
 10 +1
 11 +2
 
-
 12 +3
 
-
 TECH LEVEL BOUNDS
+
+
 Each of the various Tech Level subcategories has
 defined upper and lower bounds. If any subcategory
 result is outside these bounds, the subcategory is
 instead equal to the bound it violated. All bounds are
 rounded down.
 
-
 HIGH AND LOW COMMON TECH LEVELS
+
+
 For most items, the highest technology generally
 available on a world is its high common Tech Level.
 This is always the same as the overall Tech Level
@@ -18609,7 +16774,6 @@ otherwise, is always the Tech Level used as a basis
 for Tech Level DMs.
 
 **_High Common TL =_** UWP TL
-
 
 The low common Tech Level is the floor Tech Level
 of current capabilities and equipment. It does not
@@ -18622,10 +16786,8 @@ common Tech Level is equal to:
 
 **_Low Common TL =_** High Common TL + TLM + DMs
 
-
 Upper bound: High Common TL
 Lower bound: High Common TL ÷ 2
-
 
 Population 1–5 DM+1
 Population 9+ DM-1
@@ -18635,14 +16797,14 @@ Government 7 DM-2
 PCR 0-2 DM-1
 PCR 7+ DM+1
 
-
 BALKANISED GOVERNMENT TECH LEVELS
+
+
 If a world has a balkanised government, any particular
 government on the world could have a high common
 TL equal to a value between the world’s high and low
 common values. For all nations except the one hosting
 or adjacent to the starport:
-
 
 Non-starport hosting nation High Common TL =
 World High Common TL - 2 + TLM + DMs
@@ -18650,10 +16812,10 @@ World High Common TL - 2 + TLM + DMs
 world social characteristics
 
 
-TRAVELLER
-
 
 UPPER AND LOWER TECH LEVELS
+
+
 Many procedures for determining the upper
 bounds of Tech Levels for various subcategories
 of technology allow for these Tech Levels to
@@ -18661,8 +16823,7 @@ increase above the listed UWP Tech Level and
 potentially above the local polity maximums
 established within a certain universe. For
 instance, TL15 is the Charted Space maximum
-for the Third Imperium in 1105. The Imperial-
-wide upper bounds limit for any Tech Level
+for the Third Imperium in 1105. The Imperial-wide upper bounds limit for any Tech Level
 subcategory is one greater than the overall
 maximum for that polity, e.g., in the Third
 Imperium in the year 1105, the global upper
@@ -18673,7 +16834,6 @@ for the existence of rare very high technology
 items. In Charted Space, these are often Ancient
 artifacts and subject to government confiscation
 if discovered, whether they still function or not.
-
 
 In some universes, certain governments or regions
 may have a lower bound for Tech Level. This could
@@ -18690,35 +16850,30 @@ Regardless of the DMs for determining Tech
 Levels, Referees may set and/or override these
 limits as they see fit.
 
-
 Upper bound: world High Common TL
 Lower bound: world Low Common TL
-
 
 Government 5 DM+2
 Government 0, 6, D or E DM-2
 
-
 Non-starport hosting nation Low Common TL =
 World Low Common TL + DMs
 
-
 Upper bound: Non-starport nation High Common TL
 Lower bound: World Low Common TL
-
 
 Government 5 DM+2
 Government 0, 6, D or E DM-2
 PCR 7+ DM +1
 
-
 QUALITY OF LIFE TECH LEVEL SUBCATEGORIES
+
+
 The five quality of life Tech Level subcategories cover
 the basics of civilisation on a world. The subcategories
 are energy, electronics, manufacturing, medical and
 environmental. These are determined separately with
 the following formulas:
-
 
 Energy Tech Level
 This subcategory determines the devices available on a
@@ -18726,14 +16881,11 @@ world to produce or store energy.
 
 **_Energy TL =_** High Common TL + TLM + DMs
 
-
 Upper bound: High Common TL × 1.2
 Lower bound: High Common TL ÷ 2
 
-
 Population 9+ DM +1
 Industrial DM +1
-
 
 Electronics Tech Level
 This broad subcategory covers available electronic
@@ -18743,15 +16895,12 @@ devices and robots.
 
 **_Electronics TL =_** High Common TL + TLM + DMs
 
-
 Upper bound: Energy TL + 1
 Lower bound: Energy TL - 3
-
 
 Population 1–5 DM+1
 Population 9+ DM-1
 Industrial DM+1
-
 
 Manufacturing Tech Level
 The industrial and production capabilities of a world are
@@ -18759,12 +16908,10 @@ based on this subcategory.
 
 **_Manufacturing TL =_** High Common TL + TLM + DMs
 
-
 Upper bound: greater of Energy TL or Electronics TL
 Lower bound: Electronics TL - 2
 
 world social characteristics
-
 
 
 Population 1-6 DM-1
@@ -18780,7 +16927,6 @@ knowledge of biology and access to enabling technology.
 Upper bound: Electronics TL
 Lower bound: The higher of 0 or the system’s starport
 class Tech Level DM: 6 for A, 4 for B and 2 for C.
-
 
 Rich DM+1
 Poor DM-1
@@ -18798,10 +16944,8 @@ be set to the minimum sustainable level.
 Upper bound: Energy TL
 Lower bound: Energy TL - 5
 
-
 Habitability rating is less
 than 8
-
 
 DM = 8-Habitability Rating
 
@@ -18819,7 +16963,6 @@ and definitely incapable of interstellar flight, so a
 distinction between air and space travels persists
 even at higher Tech Levels.
 
-
 Land Transport Tech Level
 Travel over land begins with foot and animal power
 and continues over roads, rails and terrain until
@@ -18829,14 +16972,11 @@ travel within their cities.
 
 **_Land Transport TL =_** Energy TL + TLM + DMs
 
-
 Upper bound: Energy TL
 Lower bound: Electronics TL - 5
 
-
-Hydrographics A (10) DM-1
+HydrographicsA (10) DM-1
 PCR 0–2 DM+1
-
 
 Water Transport Tech Level
 Water transport is reliant on a navigable liquid
@@ -18845,17 +16985,14 @@ location such as subterranean oceans under ice or rock.
 
 **_Water Transport TL =_** Energy TL + TLM + DMs
 
-
 Upper bound: Energy TL
 Lower bound: Electronics TL - 5, or 0 if
 Hydrographics = 0
-
 
 Hydrographics 0 DM-2
 Hydrographics 8 DM+1
 Hydrographics 9+ DM+2
 PCR 0–2 DM+1
-
 
 Air Transport TL
 At lower Tech Levels air transport is impossible or
@@ -18873,24 +17010,19 @@ a viable atmosphere can only use land or space
 transportation prior to TL8. For those worlds, the lower
 bound and actual air transport TL are both 0.
 
-
 Air Transport TL* = Energy TL + TLM + DMs
 *Automatically 0 if Atmosphere 0 and TL 5-
 
 world social characteristics
 
 
-TRAVELLER
-
 
 Upper bound: Energy TL but see text above
 Lower bound: Electronics TL - 5, but see text above
 
-
 Atmosphere 0–3, or E and TL0–7 DM-2
 Atmosphere 4 or 5, and TL0–7 DM-1
 Atmosphere 4 or 5, and TL0–7 DM+1
-
 
 Space Transport Tech Level
 Spaceflight covers surface to orbit, interplanetary and
@@ -18906,18 +17038,15 @@ would not be available for commercial purchase.
 
 **_Space Transport TL =_** Manufacturing TL + TLM + DMs
 
-
 Upper bound: lesser of Energy TL or Manufacturing TL
 Lower bound: lesser of Energy TL - 3 or
 Manufacturing TL - 3
-
 
 Size 0, S, or 1 DM+2
 Population 1–5 DM-1
 Population 9+ DM+1
 Starport Class A DM+2
 Starport Class B DM+1
-
 
 In isolated regions, the Referee may wish to set a
 minimum space transport TL requirement for a world
@@ -18933,8 +17062,9 @@ existence or extinction. For more suggestion on
 isolation limits, the Referee can reference page 21 of
 the Sector Construction Guide.
 
-
 MILITARY TECH LEVEL SUBCATEGORIES
+
+
 Military technology is a subset of technologies
 presented in the quality of life and transportation
 sections but as with the weapon limitations in the
@@ -18943,7 +17073,6 @@ separately as they may impact a Traveller campaign in
 more significant ways than the workings of solar farms
 and industrial facilities. military technology has two
 subcategories: personal military and heavy military.
-
 
 Personal Military Tech Level
 Weapons and armour that can be carried or worn,
@@ -18956,18 +17085,15 @@ encounter those so equipped.
 
 **_Personal Military TL =_** Manufacturing TL + TLM + DMs
 
-
 Upper bound: Electronics TL
 Lower bound: 0, or Manufacturing TL if the weapons
 and armour Law Level = 0
-
 
 Government 0 or 7 DM+2
 Law Level 0 or D+ DM+2
 Law Level 1-4, or 9–C DM+1
 
 world social characteristics
-
 
 On a world with Government code of 7, the DM+2 applies
 to all nations, regardless of their local government, but
@@ -18985,7 +17111,6 @@ armed forces of a world or licensed mercenary units.
 
 Upper bound: Manufacturing TL
 Lower bound: 0
-
 
 Population 1-6 DM-1
 Population 8+ DM+1
@@ -19023,7 +17148,6 @@ exorbitant prices, are often of questionable reliability
 and only available up to two Tech Levels above any
 regional maximum upper bound.
 
-
 •	 A previous fallen culture, either recent or ancient,
 may have relic technology. These items will become
 increasingly rare with age and usually do not include
@@ -19044,7 +17168,6 @@ or ritual understanding of how to keep the ‘Great
 Machine of the Tunnels’ operating and no method
 to duplicate it but it would still exist.
 
-
 To summarise:
 Novelty Tech Level = Highest of nearby rich or
 industrial Class A port world, or Highest subcategory
@@ -19052,15 +17175,15 @@ Tech Level, or Previous culture Tech Level, or
 Survivable early prototype tech required to meeting
 environmental limits
 
-
 TECH LEVEL PROFILE
+
+
 The full technology profile of a world is a string of eHex
 Tech Level values arranged as the common high and
 low Tech Levels, followed by subcategories for quality of
 life, transportation, military and the novelty Tech Level:
 
 **_Tech Level Profile =_** H-L-QQQQQ-TTTT-MM-N
-
 
 Zed Prime has a UWP TL of 8. Its habitability rating
 of 7 imposes a requirement of TL3 for its minimum
@@ -19082,8 +17205,6 @@ uses world’s Population Code of 7.
 world social characteristics
 
 
-TRAVELLER
-
 
 Rolling for Zenobia’s quality of life TL subcategories,
 energy TL can be as high as 8 × 1.2 = 9.6, rounded
@@ -19097,13 +17218,11 @@ and 7 and has only a TLM (6 = 0 ) DM; it is therefore
 the same as the high common TL of 8. Medical is
 bound by electronics (TL9) and the starport-derived
 minimum (Class C = 2). Also, the world is categorised
-as rich, providing a DM+1 in addition to the TLM roll
-(10 = +1) the result would be TL10, but it is limited
+as rich, providing a DM+1 in addition to the TLM roll (10 = +1) the result would be TL10, but it is limited
 to TL9, because it is bound by the electronics TL.
 Environmental TL is bound to 8 and 3, with the DM for
 habitability rating being 8 - 7 = DM+1 but the TLM roll is
 a 3 for DM-2, so environmental TL is only TL7.
-
 
 For transportation TLs, Land transport TL is bound at 8
 and 4 with just the TLM, a 4, providing a DM-1, so land
@@ -19117,14 +17236,12 @@ even if boats and cars stick to the world’s roads and
 waterways. Space transport TL is bound by 8 and 5
 and is rolled as TL8.
 
-
 Personal military TL is bound by 9 and 0. The local
 government benefits from the balkanised status of the
 world, a DM+2, and a TLM gives it +1, which would be
 TL11 but it is bound to TL9 maximum. Heavy military
 gains DM+2 but it is bound by 8 and 0, after the TLM
 roll of 7, it remains TL8.
-
 
 Finally, the novelty TL. The Referee rules that a TL12
 world exists nearby, and imports do occur. If that world
@@ -19133,8 +17250,7 @@ of TL9 could produce some TL9 prototypes of other
 subcategory items. The Referee rules no previous
 local culture has left functioning higher tech relics for
 recovery. So, the novelty TL stands at TL12 or C. The
-Tech Level profile for Zed Prime is 8-6-89897-7888-
-98-C. This applies to Zenobia, the nation nearest the
+Tech Level profile for Zed Prime is 8-6-89897-7888-98-C. This applies to Zenobia, the nation nearest the
 starport. Other nations may have a slightly different,
 often lower, TL profile, although none would have a
 high common or low common TL outside the range of
@@ -19142,8 +17258,9 @@ high common or low common TL outside the range of
 faction’s largest nation – the Referee calls it ‘Zeno’ – is
 7-6-77765-7777-77-C, or 7 overall.
 
-
 SECONDARY WORLD TECH LEVELS
+
+
 The Tech Level of secondary worlds depends on their
 ownership and purpose. Those owned by a mainworld
 or a nation or organisation on a mainworld have Tech
@@ -19157,7 +17274,6 @@ keep a secondary world outpost functional, unless the
 Referee explicitly allows for it. The Secondary World
 Tech Level Guidelines table provides parameters for
 different types of secondary world settlements.
-
 
 If a secondary world requires a minimal sustainable
 Tech Level that is greater than the higher of the
@@ -19182,7 +17298,6 @@ Research Base Mainworld TL
 All others Higher of mainworld TL-1 or minimal sustainable Tech Level
 world social characteristics
 
-
 Zed Secundus is a freeport with a UWP of C340552-
 
 9. Its habitability rating is 1 so its minimal sustainable
@@ -19196,6 +17311,8 @@ technology and, not surprisingly, water transport and
 has a weak industrial base.
 
 CULTURE
+
+
 In even the most integrated interstellar polity, space
 travel is an expensive opportunity for the few and
 information delays between just the nearest stars are
@@ -19220,8 +17337,7 @@ categorise the culture of a world in a manner suitable
 to the collection and organisation of social data from
 a large number of worlds in a manner that bridges a
 simple description with specific values. Where relevant,
-the values of cultural traits in this section will cross-
-reference potentially relevant cultural characteristics
+the values of cultural traits in this section will cross-reference potentially relevant cultural characteristics
 from the Cultural Differences table. The Referee can
 choose to alter a roll on a trait to match pre-existing
 cultural attributes, or to use the descriptions provided in
@@ -19239,7 +17355,6 @@ whether a positive or negative DM applies depends
 greatly on the situation. When using cultural traits,
 appropriate DMs are:
 
-
 Potential Cultural Trait DMs
 Trait value Possible + DM
 1–2 2
@@ -19250,10 +17365,8 @@ C–E (12–14) 2
 F–H (15–17) 3
 J+ (18+) 4
 
-
 The following sections describe each cultural trait in
 greater detail.
-
 
 Diversity
 Some worlds have a single culture or set of beliefs;
@@ -19265,7 +17378,6 @@ world’s diversity cultural trait:
 
 **_Diversity =_** 2D + DMs
 
-
 Population 1–5 DM-2
 Population 9+ DM+2
 Government 0–2 DM+1
@@ -19276,14 +17388,12 @@ Law Level A+ DM-1
 PCR 0–3 DM+1
 PCR 7–9 DM-2
 
-
 Diversity values of 3 or less indicate a monolithic
-culture while those of C (12) or more indicate diversity
+culture while those ofC (12) or more indicate diversity
 to the point where no culture is considered dominant or
 representative of the whole world.
 
-
-On balkanised worlds, a result of C (12) or greater
+On balkanised worlds, a result ofC (12) or greater
 indicates divergence among nations and the Referee
 may decide to develop completely different cultural
 profiles for each faction or nation based on their
@@ -19297,20 +17407,15 @@ to the starport.
 world social characteristics
 
 
-TRAVELLER
-
 
 Potentially Relevant Cultural Differences: Any result
-may be relevant. Roll diversity÷4 number of times
-(rounding as desired) for various Cultural Differences of
+may be relevant. Roll diversity÷4 number of times (rounding as desired) for various Cultural Differences of
 diverse subpopulations.
-
 
 Xenophilia
 Some worlds are open to offworld visitors and
 influences, others are opposed to contact with
-foreign ideas or people. Acceptance ranges from low
-(xenophobic) to high (xenophilic) and can vary based
+foreign ideas or people. Acceptance ranges from low (xenophobic) to high (xenophilic) and can vary based
 on numerous cultural factors, although contact with
 other worlds through interstellar trade and travel tends
 to limit the extremes of xenophobia, assuming those
@@ -19318,7 +17423,6 @@ relationships are not hostile or disruptive. To determine
 a world’s xenophilia trait:
 
 **_Xenophilia =_** 2D + DMs
-
 
 Population 1–5 DM-1
 Population 9+ DM+2
@@ -19332,11 +17436,9 @@ Starport X DM-4
 Diversity 1–3 DM-2
 Diversity C+ DM+1
 
-
 A value of 9+ equals a welcoming attitude to outside
 visitors and ideas. A result of 3 or less indicates
 active xenophobia.
-
 
 Potentially Relevant Cultural Differences: 16:
 Xenophobic and 23: Liberal map fairly directly to
@@ -19346,7 +17448,6 @@ Nexus, 41: Tourist Attraction, 51: Unusual Custom:
 Offworlders, 52: Unusual Custom: Starport and 65:
 Unusual Custom: Travel.
 
-
 Uniqueness
 As a world’s culture evolves, it may vary from interstellar
 norms in peculiar ways. A culture with low uniqueness
@@ -19355,14 +17456,12 @@ in terms of language, dress, behaviour, coffee shops
 or other cultural touchpoints. A highly unique culture
 may diverge from neighbouring worlds or from an
 
-
 encompassing interstellar polity to the point where a
 visitor will have no cultural touchpoints and has a high
 probability of being misunderstood or inadvertently
 violating some tradition or law. To determine uniqueness:
 
 **_Uniqueness =_** 2D + DMs
-
 
 Starport A DM-2
 Starport B DM-1
@@ -19373,12 +17472,10 @@ Diversity 1–3 DM+2
 Xenophilia 9–B DM-1
 Xenophilia C+ DM-2
 
-
 Potentially Relevant Cultural Differences: Any
 custom especially if caried to extremes can apply to
 uniqueness with a special emphasis on 21: Taboo and
 the 51–66 Unusual Customs series.
-
 
 Symbology
 Certain symbols may hold cultural importance for a
@@ -19400,7 +17497,6 @@ To determine symbology:
 
 **_Symbology =_** 2D + DMs
 
-
 Government D or E DM+2
 TL 0–1 DM-3
 TL 2–3 DM-1
@@ -19409,7 +17505,6 @@ TL12+ DM+4
 Uniqueness 9–B DM+1
 
 world social characteristics Uniqueness C+ DM+3
-
 
 **Potentially Relevant Cultural Differences:** Any
 custom could apply to symbology but especially
@@ -19427,7 +17522,6 @@ whether familial, social, caste or ethnic ahead of the
 needs of the individual. To determine cohesion:
 
 **_Cohesion =_** 2D + DMs
-
 
 Government 3 or C DM+2
 Government 5, 6 or 9 DM+1
@@ -19455,14 +17549,13 @@ economies and technologies. Progressiveness is a
 measure of this cultural trait. Worlds of progressiveness
 3 or less are in moribund decay, those of less than 6
 are rather conservative and those of 9 or above are
-moving forward. A progressiveness value of C (12) or
+moving forward. A progressiveness value ofC (12) or
 more indicates a society that values change for its own
 sake and is willing to experiment with new ideas and
 technology with little concern for what came before. To
 determine progressiveness:
 
 **_Progressiveness =_** 2D + DMs
-
 
 Population 6–8 DM-1
 Population 9+ DM-2
@@ -19478,14 +17571,12 @@ Xenophilia 9+ DM+2
 Cohesion 1–5 DM+2
 Cohesion 9+ DM-2
 
-
 Potentially Relevant Cultural Differences: 14:
 Ritualised, 15: Conservative, 21: Taboo, 23: Liberal,
 32: Remnant, 33: Degenerate, 34: Progressive, 36:
 Nexus, 54: Unusual Custom: Technology, 56: Unusual
 Custom: Social Standing are most relevant, although
 others can apply.
-
 
 Expansionism
 A culture’s desire to expand itself is expressed in the
@@ -19503,13 +17594,11 @@ culture. To determine expansionism:
 
 **_Expansionism =_** 2D + DMs
 
-
 Government A or C+ DM+2
 Diversity 1–3 DM+3
 Diversity C+ DM-3
 Xenophilia 1–5 DM+1
 Xenophilia 9+ DM-2
-
 
 Potentially Relevant Cultural Differences: 16:
 Xenophobic, 25: Influenced, 26: Fusion, 34: Progressive,
@@ -19518,8 +17607,6 @@ with any other aspect of a world’s culture.
 
 world social characteristics
 
-
-TRAVELLER
 
 
 Militancy
@@ -19536,7 +17623,6 @@ defensively as well. To determine militancy:
 
 **_Militancy =_** 2D + DMs
 
-
 Government A+ DM+3
 Law Level 9–B DM+1
 Law Level C+ DM+2
@@ -19546,30 +17632,27 @@ Expansionism 1–5 DM-1
 Expansionism 9–B DM+1
 Expansionism C+ DM+2
 
-
 Potentially Relevant Cultural Differences: 14:
 Ritualised, 31: Barbaric, 33: Degenerate, 42: Violent,
 43: Peaceful and 46: At War are the most relevant
 cultural characteristics of an especially aggressive or
 passive culture.
 
-
 CULTURAL PROFILE
+
+
 The full cultural profile of a world is a string of eHex trait
 values arranged in the order presented in this section as:
 
 DXUS-CPEM
 
-
 Where D = diversity, X = xenophilia, U = uniqueness, S
 = symbology, C = cohesion, P = progressiveness, E =
 expansionism and M = militancy.
 
-
 T5 CULTURAL EXTENSION CONVERSION
 The first four cultural values functionally correspond
-to the T5 Cultural Extension or Cx codes of HASS
-(Heterogeneity, Acceptance, Strangeness and
+to the T5 Cultural Extension or Cx codes of HASS (Heterogeneity, Acceptance, Strangeness and
 Symbols) which are displayed on Travellermap. Note
 that differing procedures will result in different bounds
 for some of these values. To convert the values created
@@ -19579,25 +17662,24 @@ the Population code ±5; values exceeding these
 bounds should be converted to Population-5 or
 Population+5, respectively.
 
-
 •	 Xenophilia equals Acceptance but Acceptance is
 bound by Importance + Population code ±5; values
 exceeding these bounds should be converted to
 Importance + Population ±5 accordingly.
 •	 Uniqueness translates into a Strangeness value
-between 0 and A (10); multiply the uniqueness
+between 0 andA (10); multiply the uniqueness
 value by ⅔ and round up to the nearest number.
 •	 Symbology equals Symbols but is bounded by
 TL ±5; values exceeding these bounds should be
 converted to TL-5 or TL+5, respectively.
 
-
 In all cases, worlds with Population code 0 have T5
 Cultural values of 0 and populated worlds have a value
 of at least 1.
 
-
 CULTURAL SUMMARY
+
+
 The terms and coding of values for cultural traits can
 be slightly obscure, partially in a response to trying
 to be consistent with other cultural rating systems.
@@ -19605,7 +17687,6 @@ To help a Referee or Traveller looking at a cultural
 profile the Cultural Summary Trait Summary table can
 provide a quick reference to what the low and high
 values of each trait represent.
-
 
 Cultural Trait Summary
 Trait Code Low Value High Value
@@ -19617,7 +17698,6 @@ Cohesion C Individualistic Collective
 Progressiveness P Reactionary Radical
 Expansionism E Passive Expansionistic
 Militancy M Peaceful Militant
-
 
 As Zed Prime is a balkanised world, its culture can be
 considered as a whole or by faction or nation. A quick
@@ -19637,7 +17717,6 @@ population, the result is a 6. Next, xenophilia has no
 DMs for this factional or national culture and the 2D roll
 is a 9, indicating a fairly welcoming society. Uniqueness
 world social characteristics
-
 
 _has DM-1 for xenophilia and is rolled as a 10 modified_
 to 9, so the culture is distinct from that of interstellar
@@ -19659,8 +17738,7 @@ oligarchies is 6999-B656. The Referee can pick or roll
 on the Traveller Core Rulebook’s _Cultural Differences_
 table but instead both chooses 56: Unusual Customs:
 Social Standings as a basis of the culture and randomly
-rolls 15: Conservative, but decides this is inappropriate
-(or at least slightly redundant) and instead rolls again
+rolls 15: Conservative, but decides this is inappropriate (or at least slightly redundant) and instead rolls again
 for 24: Honourable.
 
 Repeating the process for faction I, the non-charismatic
@@ -19695,8 +17773,9 @@ tendencies are literally agnostic to religion. Any cultural
 value can be the result of a religious belief or practice
 and the Referee is free to treat them as such if desired.
 
-
 SECONDARY WORLD CULTURES
+
+
 The culture of a secondary world may correspond
 to that of the mainworld or diverge in one or more
 aspects. Referees wishing to create separate cultures
@@ -19712,7 +17791,6 @@ environment. The Referee could choose to tweak just
 one aspect of the culture or roll randomly for all or as
 many of them as the needs of an adventure require.
 
-
 As Zed Secundus is entirely independent it gets its own
 culture based on its UWP of C340552-9. The result
 of the rolls is 159D-5A97, a monolithic, rather insular,
@@ -19721,8 +17799,9 @@ culture – perhaps one that plans on expanding to other
 moons and worlds in the system, someday challenging
 the status of Zed Prime as the mainworld.
 
-
 ECONOMICS
+
+
 A world’s influence and importance are tied directly or
 indirectly to its wealth. Many factors determine not only
 a world’s total wealth but how it is distributed among
@@ -19730,8 +17809,6 @@ its population and how efficiently all the resources
 
 world social characteristics
 
-
-TRAVELLER
 
 
 of a world contribute to its status. Some of the
@@ -19745,8 +17822,9 @@ product, per capita income and inequality rating are
 basic economic evaluation values to guide a Referee in
 both describing a world and determining its capabilities.
 
-
 TRADE CODES
+
+
 A world’s trade codes are shorthand for the combination
 of characteristics that describe a world’s basic nature
 and are often the basis of factors related to the world’s
@@ -19757,19 +17835,18 @@ description on page 156 but it is included below for
 reference. A world must match all of the conditions across
 the classification row to qualify for a specific trade code.
 
-
 IMPORTANCE
+
+
 Trade codes, starport class and base presence from
 the Starport Facilities table on page 194 are necessary
 for some importance factors. Some worlds have
-
 
 characteristics which make them more important than
 others. Importance is a relative value that can act as a
 DM or an indicator for economic or political activities.
 In general, it can range from +5 to -3. To determine
 importance, add the following values:
-
 
 Importance Modifiers
 Condition Value
@@ -19788,10 +17865,8 @@ X-Boat waystation present +1
 *The presence of a corsair base does not count as a
 basis for importance calculations.
 
-
 Trade Codes
 Classification Code Size Atmosphere Hydrographics Population Government
-
 
 Law
 Level TL
@@ -19814,7 +17889,6 @@ Rich Ri 6, 8 6–8 4–9
 Vacuum Va 0
 
 world social characteristicsWaterworld Wa 2–9, D, E A
-
 
 **RESOURCE FACTOR**
 The raw resource rating is determined on page
@@ -19843,7 +17917,6 @@ giant in the star system.
 
 **_Resource Factor =_** Resource Rating + DMs
 
-
 TL8+ DM+Each of the system’s planetoid
 belts and gas giants
 Industrial DM+1-1D
@@ -19870,11 +17943,9 @@ population directly contributes to the world’s wealth.
 This rough number does not correspond to the
 realities of many disparate situations but varying
 
-
 factors are considered in the efficiency factor of a
 world’s economy. A world with a Population code of 1
 or 0 has a labour factor of 0.
-
 
 Infrastructure Factor
 To allow a pool of labour to access the world’s
@@ -19891,16 +17962,15 @@ both internal and external investment and development.
 
 **_Infrastructure Factor =_** Importance + DMs
 
-
 Population 4–6 DM+1D
 Population 7+ DM+2D
-
 
 If a world has no population or if the world’s infrastructure
 factor is less than 0, it has no infrastructure.
 
-
 EFFICIENCY FACTOR
+
+
 Regardless of a world’s wealth, people and
 infrastructure, their effectiveness depends on a
 number of factors including how well the infrastructure
@@ -19908,15 +17978,12 @@ is maintained, how much wealth is wasted through
 corruption and poor governance, and factors beyond
 anyone’s control, such as topography and weather.
 
-
 Variance in efficiency factors depends on population
 values and various other modifiers:
-
 
 Efficiency Factor (Population 0) = -5
 Efficiency Factor (Population 1–6) = 2D-7 + DMs
 Efficiency Factor (Population 7+) = 2D3-4 + DMs
-
 
 Government 0, 3, 6, 9, B, C or F DM-1
 Government 1, 2, 4, 5 or 8 DM+1
@@ -19932,8 +17999,6 @@ Expansionism 9+ DM+1
 world social characteristics
 
 
-TRAVELLER
-
 
 A world’s efficiency factor is limited to a range of +5 to
 -5 but a factor of 0 is always treated as +1 instead. The
@@ -19943,8 +18008,9 @@ or private industry providing services, or in the
 likelihood of bribery or influence being a more effective
 method of achieving results than official channels.
 
-
 RESOURCE UNITS
+
+
 Resource units (RU) are a measure of a system’s
 net contribution to an interstellar polity. Resource
 unit values, especially when negative, are not useful
@@ -19955,10 +18021,8 @@ shorthand for determining the economic impact
 and value of a particular system within the overall
 economy of the polity or region.
 
-
 RU = Resource Factor × Labour Factor × Infrastructure
 Factor × Efficiency Factor
-
 
 If any of these factors is has a value of 0, for the
 purposes of the RU calculation their value is treated as
@@ -19972,8 +18036,9 @@ direct intervention to improve a world’s efficiency factor
 may be a viable alternative to continually transferring
 resources to a moribund system.
 
-
 GROSS WORLD PRODUCT
+
+
 The most direct measure of a world’s wealth is its
 gross world product (GWP), the total value of the
 output of the world’s economy over the course of
@@ -19985,12 +18050,10 @@ to arrive at this global value. For balkanised worlds,
 this value can be computed for each nation, faction, or
 for the world as a whole.
 
-
 Base Value: The base value of a world’s GWP is a per
 capita (per person) value related to its infrastructure
 factor plus the value of its resource factor but only up to
 the infrastructure factor value. For the purposes of this
-
 
 calculation, if the world has a population greater than
 0 each factor is assumed to have a value of at least 1.
@@ -20003,16 +18066,12 @@ a resource factor of 2, the base value would still be 1
 
 **_Base Value =_** Infrastructure Factor + Resource Factor
 
-
 Upper Bound: 2 × Infrastructure Factor
 Lower Bound: 2
 
-
 GWP Modifiers: The base value of the per capita GWP
-is modified by a number of factors including the world’s
-(or nation or faction) ports, Tech Level, Government
+is modified by a number of factors including the world’s (or nation or faction) ports, Tech Level, Government
 code, and trade classifications.
-
 
 Tech Level Modifier: A world’s Tech Level modifier is
 simply the world’s UWP Tech Level divided by 10. For
@@ -20020,14 +18079,11 @@ TL0 worlds, the modifier is 0.05.
 
 **_Tech Level Modifier =_** TL ÷ 10
 
-
 Lower Bound: 0.05
-
 
 Port Modifier: The world’s starport or spaceport
 has a modifier based on the type listed in the Port
 Modifier table:
-
 
 Port Modifier
 Port Modifier
@@ -20042,15 +18098,12 @@ H 0.4
 Y 0.2
 X 0.2
 
-
 Government Modifier: Each Government code has a
 modifier listed in the Government Modifier table.
 
 world social characteristics
 
-
 **Government Modifier**
-
 
 Government Modifier
 0 1.0
@@ -20079,7 +18132,6 @@ GWP modifiers, as indicated in the following table:
 
 **Trade Code Modifier**
 
-
 Trade Code Modifier
 Agricultural 0.9
 Asteroid 1.2
@@ -20102,19 +18154,15 @@ together to determine the total modifiers:
 
 Government Modifier x Trade Code Modifiers
 
-
 Efficiency Factor: Efficiency has the greatest impact
 on GWP. It matters whether the world’s efficiency is
 positive or negative (it cannot be zero):
 
-
 Case 1: Positive Efficiency Factor. Efficiency is a
 multiplier to GWP:
 
-
 GWP per capita = Cr1000 × Base Value × Total
 Modifiers × Efficiency Factor
-
 
 Case 2: Negative Efficiency Factor. Efficiency acts as
 a divisor to GWP. The efficiency factor minus 1 is used
@@ -20125,7 +18173,6 @@ factor was -1, the divisor would be -(-1 - 1) = 2.
 
 Cr1000 X
 
-
 Total GWP: The world’s total GWP is simply the
 GWP per capita multiplied by the world’s total world
 population, which should at least be known to one digit
@@ -20135,11 +18182,9 @@ value should be used.
 
 **_Total GWP =_** GWP per capita x Total World Population
 
-
 On balkanised worlds, the actual population of the
 faction or nation may be the ‘total population’ value used
 for determining that region’s contribution to the GWP.
-
 
 Optional Balkanised World Procedure: Factions or
 nations (subunits) of balkanised worlds can potentially
@@ -20154,8 +18199,7 @@ efficiency) should retain global values. On some worlds
 and in some campaigns, the Referee could choose to
 compute all economic factors, including the four that
 determine RU at a subunit level, but unless it serves
-a specific need, it is not practical – it would be time-
-consuming and may not easily create a result similar
+a specific need, it is not practical – it would be time-consuming and may not easily create a result similar
 to that of the world as a whole (e.g., if no nation had a
 population over one billion, the world could never be
 high population or industrial, despite at a world-wide
@@ -20168,10 +18212,10 @@ Base Value x Total Modifiers
 - (Efficiency Factor - 1)
 
 
-TRAVELLER
-
 
 WORLD TRADE NUMBER
+
+
 Another statistical rating used to determine a world’s
 economic and propensity for trade is the world trade
 number (WTN), based on a world’s Tech Level,
@@ -20180,15 +18224,12 @@ world’s base WTN:
 
 **_Base WTN =_** Population code + DMs
 
-
 TL0–1 DM-1
 TL5–8 DM+1
 TL9–14 DM+2
 TL15+ DM+3
 
-
 Then, determine the WTN starport modifier:
-
 
 WTN Starport Modifier
 Base WTN Class A Class B Class C Class D Class E Class X
@@ -20201,11 +18242,9 @@ A-B (10–11) 0 0 -1 -2 -3 -8
 C-D (12–13) 0 -1 -2 -3 -4 -9
 E+ (14+) 0 -2 -3 -4 -5 -10
 
-
 These values add to determine the world trade number:
 
 **_WTN =_** Base WTN + WTN Starport Modifier
-
 
 If the result is less than 0, it is recorded as 0. The
 WTN is an eHex index number recorded by the
@@ -20219,8 +18258,9 @@ passengers based on its value as a characteristic,
 similar to the cultural traits DMs on the Potential
 Cultural Traits DMs table on page 181.
 
-
 INEQUALITY RATING
+
+
 A world’s per capita GWP does not mean that each of
 its people has a standard of living comparable to that
 amount. All societies have some level of inequality,
@@ -20237,12 +18277,10 @@ is decreased (more equality) by positive efficiency
 ratings and increased (less equality) by negative
 values and then modified by a variety of factors:
 
-
 Inequality Rating = 50 – Efficiency Rating × 5 + (2D-7)
 × 2 + DMs
 
 world social characteristics
-
 
 
 Government 6, B, F DM+10
@@ -20294,24 +18332,19 @@ likely to know the tariff rate at a destination world prior
 to departure, although the Referee may impose a skill
 check or decide to alter the tariffs literally in flight.
 
-
 Tariff Rates
 2D+DM Tariff Regimen Percentage
 3- Free trade zone, no tariffs —
 4 Tariff only on foreign polity
 goods, roll again for rates*
 
-
 —
-
 
 5 Tariff only applies on a class
 of goods on an 8+, roll again
 for rates*
 
-
 —
-
 
 6 Low tariffs apply 1D%
 7 Moderate tariffs apply 2D%
@@ -20321,15 +18354,12 @@ trade good type (the D66 on
 the Trade Goods table) or
 class (the first D on the table)
 
-
 1D × 1D%
-
 
 10-11 High tariffs apply 2D × 5%
 12-13 Extreme tariffs apply 2D × 10%
 14+ Prohibitive tariffs 2D × 20%
 *Roll again with 1D+5, ignoring the DMs below
-
 
 Government 0 DM-7
 Government 2 or 4 DM-4
@@ -20340,17 +18370,14 @@ Xenophilia 1–3 DM+2
 Xenophilia 9+ DM-2
 WTN DM-WTN starport modifier
 
-
 See page 181 (positive DM for a negative modifier)
 Interstellar polity policy DM varies (Third Imperium, DM–6)
-
 
 A result of 4, meaning a tariff only on foreign polity
 goods, applies to goods crossing interstellar borders,
 e.g., between the Darrian Confederation and the
 Sword Worlds. They could apply to independent worlds
 outside the polity as well.
-
 
 The Third Imperium was founded on the principles of
 free trade and frowns on any tariffs imposed between
@@ -20364,31 +18391,26 @@ the sale value. Trade goods originating from outside the
 Imperium are not subject to free trade restrictions and
 tariffs have a standard chance of applying.
 
-
 world social characteristics
 x (1 - )
 
-
 GWP per capita
 1000
-
 
 Inequality Rating
 100
 
 
-TRAVELLER
-
 
 TAXES
+
+
 Taxes may be inevitable but taking them into account
 in Traveller is something Referees should consider
 ignoring for game purposes. The Referee can assume
-that most worlds raise revenue by a value added tax
-(VAT) built into the cost of goods. Where starports are
+that most worlds raise revenue by a value added tax (VAT) built into the cost of goods. Where starports are
 extraterritorial, this may result in ‘duty-free’ stores within
-the starport itself which sell certain items at a discount
-(or the starport authority may be collecting a VAT for their
+the starport itself which sell certain items at a discount (or the starport authority may be collecting a VAT for their
 own operating budgets), or the Referee can assume list
 prices are the duty-free prices and add a percentage
 cost to all items purchased on a particular world outside
@@ -20397,14 +18419,14 @@ and could be different for different classes of items or
 buyers; the Referee insisting on this level of detail could
 use the Tariff Rates table for inspiration.
 
-
 ECONOMIC PROFILE
+
+
 The economic aspects of a world are complex and
 varying. To maintain consistency with other formats, an
 economic profile record is as follows:
 
 Tc, Im, RL+E, RU, pcGWP, WTN, IR, DR
-
 
 Where Tc = Trade codes alphabetically and separated
 by spaces, Im = importance, R = resource factor, L =
@@ -20412,7 +18434,6 @@ labour factor, I = infrastructure factor, +E = + efficiency
 factor, RU = resource units, pcGWP = per capita
 GWP, WTN = WTN, IR = inequality rating, and DR =
 development rating.
-
 
 Zed Prime is a balkanised world. For illustrative
 purposes, this example will consider the economics
@@ -20422,7 +18443,7 @@ rating and development score. Zed Prime’s trade codes
 are agricultural and rich. Each of these adds one to
 the world’s importance but its Tech Level of 8 causes
 a decrease of one, so its final importance is +1. Its
-resource factor is initially its resource rating B (11). For
+resource factor is initially its resource ratingB (11). For
 agricultural resource depletion it receives +1 minus 1D
 rolling a 3 for a net loss of 2, but as the world is TL8, it
 also gets +4 and +2 for gas giants and planetoid belts,
@@ -20432,12 +18453,10 @@ entire world. The infrastructure factor is equal to its
 importance (+1) plus 2D (a 12!) for a population of 7+,
 which equals 13 or D.
 
-
 Zed Prime’s efficiency factor should not normally
 receive a penalty for Government 7, despite both
 faction Government codes 3 and B receiving a DM-1 –
 the Referee decides to stick with no penalty to simulate
-
 
 competition between the various factions and nations.
 The PCR of 3 does cause DM-1, the progressiveness
@@ -20445,7 +18464,6 @@ and expansionism ratings for both factions is identical
 and neither warrants another DM, so with a Population
 of 7, the roll for efficiency factor is 2D3 -4 -1, resulting
 in a -2 efficiency factor. Not good.
-
 
 RU is always a world-wide computation. The RU
 value for Zed Prime is negative because of its
@@ -20457,13 +18475,11 @@ an independent system in a border region, so this RU
 does not matter much – the world is on its own to keep
 things running (and may be failing in that regard).
 
-
 The Referee decides to compute the economic
 might of Zed Prime by faction, first determining that
 the share of population is 54% or 9.72 million for
-governorships (I) and 46% or 8.28 million for oligarchs
-(II). First, both factions receive a base value from the
-infrastructure factor D (13) + resource factor F (15),
+governorships (I) and 46% or 8.28 million for oligarchs (II). First, both factions receive a base value from the
+infrastructure factorD (13) + resource factorF (15),
 bounded by the infrastructure factor to 2 × 13 = 26.
 To this value, various modifiers apply: Tech Level is
 8 ÷ 10 = 0.8, the port modifier for a Class C port is
@@ -20475,14 +18491,12 @@ Their respective modifiers are I: 0.7, 0.9, and II: 0.8,
 governorships (I) 0.7 × 1 × 0.9 × 0.9 × 1.2 = 0.6804,
 oligarchs 0.8 × 1 × 0.8 × 0.9 × 1.2 = 0.6912.
 
-
 Since Zed Prime has a negative efficiency factor, its
 GWP per capita for governorships is 1,000 × 26 ×
 0.6804 ÷ (-(-2-1)) = Cr5896.8 and for oligarchs 1000
 × 26 × 0.6804 ÷ (-(-2-1)) = Cr5990.4. As a weighted
 average, this is Cr5940 per capita for the world and to
 the nearest billion, MCr107000 total world GWP.
-
 
 WTN is always computed for the entire world. It is 7 for
 population, +1 for Tech Level and +0 from the table for
@@ -20499,7 +18513,6 @@ oligarchs, DMs net +5 and the 2D roll is a 5, resulting in
 -4, for a net DM+1 or inequality rating of 51. The world
 population-weighted average score rounds to 58.
 world social characteristics
-
 
 The development score for governorships is 5,896.8 ÷
 _1,000 × (1 - 64 ÷ 100) = 2.12 to two significant digits,_
@@ -20558,7 +18571,6 @@ roll with DM+5 (for government, Law Level, PCR,
 progressiveness, and expansionism) is 9-7 + 5 = 7, but
 _the efficiency rating maxes out at +5._
 
-
 Computing base value, infrastructure is the limiting
 factor, so it is 2 × 3 = 6. TL modifier is 0.9, Port is 1.0,
 government is 1.3 and trade codes are 0.9 and 0.8 for
@@ -20571,7 +18583,6 @@ gives it a per capita wealth of more than three times
 its rich, agricultural, but rather overindulgent and
 backwards neighbour.
 
-
 Zed Secundus has an inequality rating of 50 - 5 × 5
 + 2D-7 × 2 + 8 - 3 = 28. That helps its development
 score equal 18.20. The freeport’s RU is 7 × 4 × 3 × 5
@@ -20581,8 +18592,9 @@ for Zed Secundus is 5 + 2 = 7 + 0 = 7. As a freeport,
 the DM-7 to the tariff roll results in a negative value,
 indicating no tariffs.
 
-
 STARPORTS
+
+
 A world’s starport is its gateway to the larger universe.
 It may be anything from a vast city in space capable of
 producing massive warships and mega-freighters to an
@@ -20594,7 +18606,6 @@ even built. By convention in Charted Space, only one
 facility on the mainworld’s surface and one facility (if any)
 in orbit is considered the starport of the system.
 
-
 Within the Third Imperium, a designated starport facility
 is considered extraterritorial and under the jurisdiction
 of the Imperial Starport Authority (SPA), originally part
@@ -20605,20 +18616,15 @@ a starport classification is recorded for every charted
 mainworld. To determine the class of starport serving a
 system, roll 2D with the listed modifiers:
 
-
 Starport Class
 2D+DM Starport Class
 
-
 2- X
-
 
 3–4 E
 5–6 D
 
-
 7–8 C
-
 
 9–10 B
 11+ A
@@ -20626,18 +18632,13 @@ Starport Class
 world social characteristics
 
 
-TRAVELLER
-
 
 Population 0–2 DM-2
-
 
 Population 3–4 DM-1
 Population 8–9 DM+1
 
-
 Population A+ DM+2
-
 
 Additionally, if the Population code is 0,
 a starport is usually no better than Class
@@ -20650,20 +18651,16 @@ class but a roll of 2 might still result in a
 Class X starport, as it is the indication of a
 prohibited or interdicted system.
 
-
 A starport classification implies the existence
 or the possible existence of certain types of
 facilities and services.
 
 Starport Facilities
 
-
 Class Highport? Fuel Repair Shipyard
-
 
 Naval
 Base?
-
 
 Scout
 Base?* Military Base? Corsair Base?
@@ -20676,20 +18673,16 @@ X — — — — — — — 10+
 *An Imperial Scout base on a major trade route associated with an express boat route has a 1D = 6 chance of being a
 waystation instead.
 
-
 To determine whether a highport is present use
 these DMs:
 Population 9+ DM+1
 
-
 TL9–11 DM+1
 TL12+ DM+2
-
 
 To determine whether a corsair base is present:
 Law Level 0 DM+2
 Law Level 2+ DM-2
-
 
 The nearby civilisations and naval presence may alter
 the odds of a corsair base. Well-patrolled regions receive
@@ -20698,7 +18691,6 @@ wilderness regions may receive a DM+1. Rarely will a
 scout and corsair base occupy the same port, although
 they may both be present within a system.
 
-
 In addition to the facilities and services available at
 different starport classifications, the SPA has certain
 minimum qualifications relating to the specific capabilities
@@ -20706,24 +18698,18 @@ and regulated costs for berthing for each class.
 
 world social characteristics
 
-
 Minimum Starport Capabilities and Costs
 
-
 Class Sensors
-
 
 Total Docking
 Space Berthing Fees
 
-
 Refined Fuel
 per Day
 
-
 Commercial
 Zones
-
 
 Residential
 Zones Shipyard
@@ -20763,7 +18749,6 @@ designated landing spot may become unsuitable and
 the E classification more a notation in a database than
 a fact on the ground.
 
-
 These rules apply in regions where interstellar contact
 is common. Even worlds without the Tech Level to
 support the construction of starships might have a
@@ -20773,14 +18758,14 @@ a world of TL7 is unlikely to have a Class A port
 regardless of the roll, although the Referee could have
 fun with a prototech ‘clockwork starship’ if desired.
 
-
 SPACEPORTS
+
+
 Every facility in a system capable of handling
 spacecraft that is not the starport is a spaceport. This is
 the official policy of the Third Imperium but it does not
 hold outside its borders and is often more a policy than
 a reality even within Imperial borders.
-
 
 Spaceports exist on secondary worlds with a permanent
 population or at least regular visitors. They may also
@@ -20796,7 +18781,6 @@ with the listed modifiers:
 
 Spaceport Class and Facilities
 
-
 1D+DM Class Fuel Repair Remarks Equivalent Starport Class
 2- Y — — No spaceport X
 3 H — — Primitive installation E
@@ -20805,15 +18789,12 @@ Spaceport Class and Facilities
 7 F Refined Overhaul Possible spacecraft shipyard B
 8 F Refined Overhaul Possible starship shipyard A
 
-
 Population 6+ DM+2
 Population 1 DM-1
 Population 0 DM-3
 
 world social characteristics
 
-
-TRAVELLER
 
 
 Spaceport classifications indicate the minimum
@@ -20822,7 +18803,6 @@ worlds and cities on any world may have public
 spaceports. Referees can use the previous table and
 DMs to randomly check for a spaceport in a particular
 mainworld location, if desired.
-
 
 On the mainworld, many facilities listed as Class F
 may even approach Class A or B standards, despite
@@ -20834,7 +18814,6 @@ starport class column of the table page 195, although
 these secondary ports are usually of no better Class
 than the first or official starport.
 
-
 A Class G facility is not much better than a pad,
 minimal and possibly automated traffic control and a
 fuel pump. On some privately owned worlds, those
@@ -20842,20 +18821,19 @@ with corporate governments especially, this may be
 the ‘public’ port but a private corporate port might be
 substantially better.
 
-
 A Class H spaceport is the spaceport equivalent of
 a class E starport, a cleared landing area deemed
 safe enough for landing a starship without crashing or
 causing the ground to collapse.
-
 
 Class Y is the equivalent of a class X starport without
 the stigma or restriction. No safe landing zone is
 identified and anyone setting down on this world is
 on their own.
 
-
 PRIVATE PORTS
+
+
 A private port is a spaceport that is not open to general
 traffic. It may be a corporate-owned facility at a mining
 outpost, transportation hub or shipyard facility or it
@@ -20863,7 +18841,6 @@ may be limited to government-operated spacecraft for
 military, customs control or research purposes. Some
 wealthy individuals and nobles may own a private port,
 accessible to outsiders only by invitation.
-
 
 The Referee may assign a private port as desired
 or use the Spaceport Class and Facilities table
@@ -20876,8 +18853,9 @@ influence effective Tech Levels within its controlling
 enclave, it does not provide any bonuses to a world’s
 Tech Level roll.
 
-
 FREEPORTS
+
+
 A freeport is a public or quasi-public port not officially
 recognised by the SPA or by the local system
 government. Usually situated outside the effective
@@ -20886,7 +18864,6 @@ around a remote gas giant or above or upon some
 other distant world, the freeport can be either a
 spaceport or a starport, corporately run or independent.
 
-
 The Referee can choose to roll on the Starport Class
 or the Spaceport Class and Facilities table with DMs
 for the world’s population to determines the class of
@@ -20894,7 +18871,6 @@ starport or spaceport for the freeport. For independent
 secondary worlds, the any Tech Level DM associated
 with the classification does potentially provide a bonus
 to the freeport’s Tech Level roll.
-
 
 Any spaceport randomly generated on a secondary
 world that is independent of the mainworld, meaning it
@@ -20906,19 +18882,16 @@ These categorisations are at the Referee’s decision,
 independent of the random roll for freeport on the
 Secondary World Categorisation table on page 163.
 
-
 Corporate freeports tend to be tightly run ports.
 They can range from austere to luxurious but their
 main purpose is to earn a profit. Prices will be high
 and security will at least be good enough to prevent
 disruption to economic activities.
 
-
 In general, a freeport will have no affiliation with the
 local government at all, as in the GeDeCo port at
 Oghma or the independent freeport at Blue, both in
 the Trojan Reach.
-
 
 If a Referee so desires, a freeport does not need to
 be linked with any world. If treated as a starport and a
@@ -20937,7 +18910,6 @@ importance, WTN and efficiency required below.
 The amount of ship traffic a port receives has direct
 influence on the size of a starport. While some
 world social characteristics
-
 
 starports might be overbuilt as part of a prestige project
 and others might be bursting at the seams with ships
@@ -20975,47 +18947,35 @@ traffic, not capacity, as it does not necessarily bring in
 
 **Expected Ship Traffic**
 
-
 Importance Definition Daily Traffic Daily Maximum Expected Weekly
-
 
 + Exceptional Trade Hub 3D × 20 + 2D-7 365 2,000
 5 Very Important 3D × 10 + 2D-7 185 1,000
 
-
 4 Important 2D+10 22 150
-
 
 3 Ordinary 2D-5 7 30
 2 Ordinary 1D-2 4 20
 
-
 1 Ordinary 1D-3 3 10
 0 Unimportant 1D-4 2 5
 
-
 -1 Unimportant 1D-5 1 3
-
 
 -2 Very Unimportant 2D-11 1 2
 -3 Very Unimportant 2D-11 1 1
 
-
 — Uncharted 3D-17 1 0
-
 
 — Unexplored 4D-23 1 0
 
-
 the massive freighters required by a world of greater
-inherent importance. For worlds on or beyond a frontier
-(but not at a border with another interstellar state with
+inherent importance. For worlds on or beyond a frontier (but not at a border with another interstellar state with
 which there is trade), or for worlds with a WTN of 4 or
 less, the effective importance of a world for ship traffic
 purposes is decreased by one. The expected weekly
 column is based on a rounded number from daily traffic
 and a reasonable variance to cover surges.
-
 
 A result of 0 or less on the daily traffic roll equals no
 traffic arriving that day. If the safe jump diameter is far
@@ -21030,7 +18990,6 @@ table from page 14 of The Pirates of Drinax Book 1.
 Values for uncharted and unexplored are included as
 reference for explorers of barren worlds beyond the
 bounds of civilised space.
-
 
 Starports also have minimum size requirements for
 various features as detailed in the Minimum Starport
@@ -21047,29 +19006,28 @@ following formulas for each type of port.
 world social characteristics
 
 
-TRAVELLER
-
 
 HIGHPORT TOTAL DOCKING CAPACITY
+
+
 If a highport is present, total highport docking capacity
 is based on starport class:
 
 **_A =_** 100,000 + Importance x Expected Weekly x 500 x
 
-Population x ( 1 + )
+Populationx ( 1 + )
 
 **_B =_** 50,000 + Importance x Expected Weekly x 500 x
 
-Population x ( 1 + )
+Populationx ( 1 + )
 
 **_C =_** 20,000 + Importance x Expected Weekly x 200 x
 
-Population x ( 1 + )
+Populationx ( 1 + )
 
 **_D =_** 500 + Importance x Expected Weekly x 100 x
 
-Population x ( 1 + )
-
+Populationx ( 1 + )
 
 These equations assume the following:
 •	 If the effective importance was adjusted by a high
@@ -21082,7 +19040,6 @@ Ship Traffic table on page 197.
 •	 Population refers to the population code of the world.
 •	 Round results up to the nearest 100.
 
-
 Highport internal docking capacity (which requires three
 times the displacement of the ships it can accommodate)
 varies greatly, sometimes using spare shipyard capacity
@@ -21091,7 +19048,6 @@ docking capacity will be no more than 10% of total
 docking capacity; a Class D highport rarely has any
 internal capacity and may be little more than a converted
 hull with airlocks marked as docking ports.
-
 
 Repairs, annual maintenance and any other overhaul
 work requires an internal bay. A highport will generally
@@ -21103,8 +19059,9 @@ world of importance 0 or less rarely has any bays
 accommodating ships larger than 600–800 tons and
 most bays will be sized for ships of 400 tons or less.
 
-
 DOWNPORT TOTAL DOCKING CAPACITY
+
+
 A downport’s capacity depends on the existence of a
 highport. On many worlds, a downport supporting a
 major highport is little more than a transit terminal for
@@ -21116,14 +19073,12 @@ has the following size calculation:
 
 **_E=_** 400 + Importance × Expected Weekly ×100 ×
 
-Population x ( 1 + )
-
+Populationx ( 1 + )
 
 This is barely different than a Class D but a Class
 E has no internal bays and no facilities beyond
 a (possibly) functional beacon and maybe some
 lighting and a control tower.
-
 
 Also important for downports is their pad sizes. Few
 ships larger than 5,000 tons are capable of planetary
@@ -21136,7 +19091,6 @@ ports will also have pads dedicated to 200 and 100 ton
 ships for more efficient space usage. A 1,000 ton pad is
 normally the largest available at Class C ports.
 
-
 As with highports, most downports will only have
 enclosed and pressurised pads available to support
 10% of capacity but on inclement worlds, especially
@@ -21147,7 +19101,6 @@ people but not to ships; on worlds with vacuum or trace
 atmospheres a terminal with docking arm extensions
 serves most vessels in a manner similar to highports’
 external docking terminals.
-
 
 If a highport exists, the Referee may decide to limit
 the size of the downport to 1D × 10% of the highport
@@ -21163,26 +19116,20 @@ less but few ports of this class focus on shipbuilding,
 except perhaps to support a local mining community.
 world social characteristics
 
+1D + Efficiency Factor
+5
 
 1D + Efficiency Factor
 5
 
+1D + Efficiency Factor
+5
 
 1D + Efficiency Factor
 5
 
-
 1D + Efficiency Factor
 5
-
-
-1D + Efficiency Factor
-5
-
-
-1D + Efficiency Factor
-5
-
 
 For certification, a Class A starport must have a
 shipyard of 25,000 tons but a shipyard requires two
@@ -21205,7 +19152,6 @@ Infrastructure + 1D + DMs) x
 **_Class C Yard Build Capacity =_** (Efficiency +
 
 Infrastructure + 1D-3 + DMs) x
-
 
 TL0–8 DM-4
 TL12–14 DM+2
@@ -21239,11 +19185,9 @@ If the Class C result is less than 0, then no functional
 Class C shipyard exists. Even where such yards
 exist, they may be detached or unaffiliated spacecraft
 
-
 builders. The Referee can rule that no shipyards exist
 for any particular Class C port. On worlds of less than
 TL8, such Class C yards rarely exist.
-
 
 Maximum construction bay size of any shipyard
 does not normally exceed 10% of total shipyard
@@ -21253,7 +19197,6 @@ shipyards. If no highport exists, this option is limited
 to Size 0 worlds. Where highports exist, the Referee
 is free to allocate the total shipyard capacity between
 the highport and downport.
-
 
 The construction of some ships, especially larger
 ships, may tie down yard capacity for years or possibly
@@ -21269,30 +19212,29 @@ To determine annual output:
 
 **_Annual Shipyard Output (for Importance 1+) =_**
 
-
 Annual Shipyard Output (for Importance 0-) =
-Shipyard Build Capacity x (1 - Importance)
-
+Shipyard Build Capacityx (1 - Importance)
 
 This factor does not apply to Class C shipyards. As
 they only produce small craft, their shipyard output is
 always equal to 10 times their shipyard build capacity.
 
-
 ADDITIONAL STARPORT DETAILS
+
+
 For features related to the idiosyncrasies of various
 ports, consult the Traveller Companion Starports and
 Spaceports chapter starting on page 125.
 
-
 STARPORT PROFILE
+
+
 A starport profile is rather limited, including only the
 class, what sorts of ports (high, or down) exists and the
 adjusted Importance for determining weekly expected
 traffic, recorded as:
 
 C-HX:DX:±#
-
 
 Where C = class, H = highport, X = Y(es) or N(o), D =
 downport, +# = + importance# adjusted for traffic volume.
@@ -21301,24 +19243,24 @@ berthing costs and other information is not included.
 
 world social characteristics
 
-
 TWP
+
+
 20000
 
-
 TWP
-15000
 
+
+15000
 
 Shipyard Build Capacity
 Importance
 
-
 TWP
+
+
 100000
 
-
-TRAVELLER
 
 
 Zed Prime has a previously rolled Class C starport.
@@ -21329,7 +19271,6 @@ bases; the roll for scout base is a 12 – one definitely
 exists and for military base, 9, none. The Referee
 makes no roll for a waystation.
 
-
 The Class C starport designation corresponds
 to one of the nations in the oligarch faction. For
 other nations, the Referee decides against rolling
@@ -21339,7 +19280,6 @@ least 6. A roll of 4 + 2 = 6 and indicates a Class F
 spaceport, which is potentially effectively a Class
 C equivalent, or would be if an outside authority
 recognised it as the primary starport.
-
 
 Zed Prime has an importance of +1 and a WTN of 8, so
 there is no reason to change the effective importance
@@ -21354,15 +19294,13 @@ world population is always used for starport capacity,
 as this port at least theoretically provides access to the
 stars for the entire world.
 
-
 The Referee determines that the largest pad is 1,000
 tons (and decides there are two) and only 3,400 tons
 of enclosed landing facility (seven bays supporting
 400 tons each and one 600 ton bay) are available.
 This facility is actually rather overbuilt for the amount
 of expected traffic, so likely one of the large pads and
-a large portion of the standard 600 and 400 ton pads
-(there are a dozen of the larger and three dozen of
+a large portion of the standard 600 and 400 ton pads (there are a dozen of the larger and three dozen of
 the smaller, the rest of the space is for small craft) are
 leased to the scout base for its use. On most weeks,
 the starport would require less than 4,000 tons of pad
@@ -21372,7 +19310,6 @@ rolled as 2 × Cr100 or Cr200 for a standard six day
 berthing but the Referee decides to make it Cr500
 instead, to cover the inefficiency.
 
-
 Zed Prime does not require any shipyard facility
 but for illustrative purposes, the roll for yard build
 capacity is (-2 + 13 + 1D-3 - 4) × 18,000,000 ÷
@@ -21380,21 +19317,17 @@ capacity is (-2 + 13 + 1D-3 - 4) × 18,000,000 ÷
 overbuilt infrastructure provides for a local small
 craft building industry despite the low tech level. As
 
-
 a Class C shipyard, the annual shipyard output is
 10 times the same as its yard capacity. The starport
 profile for Zed Prime is C-HN:DY:+1.
-
 
 Moving to Zed Secundus, the Referee has previously
 decided to make this world’s port an independent
 starport-class freeport, rolled as if it were an
 independent world and resulting in a Class C starport.
 The Referee decides the freeport is a downport by
-default and checks for a highport with DM+1 for TL9-
-11, rolling a 7 +1 = no, and getting no for scout and
+default and checks for a highport with DM+1 for TL9-11, rolling a 7 +1 = no, and getting no for scout and
 military bases as well.
-
 
 The freeport of Zed Secundus has an Importance of -1
 and a WTN of 7. Since it is a freeport, its importance is
@@ -21416,7 +19349,6 @@ Berthing is rolled as Cr300, less expensive than the
 port at Zed Prime and with a lower Law Level and lack
 of tariffs – all things to entice more traffic.
 
-
 At TL9, Zed Secundus is more likely to have a shipyard
 than its less advanced neighbour with a capacity of
 5 + 3 + 1D-3 + -2) × 140,000 ÷ 100,000 resulting in
@@ -21428,8 +19360,9 @@ that level. Annual output of the Class C shipyard is 10
 times greater, or 2,000 tons. The starport profile for Zed
 Secundus is C-HN:DY:-1.
 
-
 MILITARY
+
+
 The economics section provides the values for
 efficiency and the culture section provides many of the
 modifiers for branch existence. Detailed Tech Level
@@ -21440,7 +19373,6 @@ able to act as an armed defence force. The amount of
 budget spent on armed forces and the nature of those
 
 world social characteristics forces can vary greatly among different governments
-
 
 and societies and it will change over time in response
 to prolonged peace or the threat, or actuality, of war.
@@ -21479,9 +19411,7 @@ For all branches, a nation or faction on a world with
 Government code 7 receives both its own government
 DMs (if any) and any for Government code 7.
 
-
 Militancy DMs apply to all branches:
-
 
 Militancy 1–2 DM-4
 Militancy 3–5 DM-1
@@ -21489,11 +19419,9 @@ Militancy 6–8 DM+1
 Militancy 9–B DM+2
 Militancy C+ DM+4
 
-
 In addition to militancy and the DMs listed for each
 branch below, the following DMs exist when the branch
 is involved in active or potential warfare:
-
 
 Heightened Tensions DM+1
 Insurgency DM+2
@@ -21502,31 +19430,23 @@ Total War DM+8
 
 Military Branch Descriptions
 
-
 Military Branch Category TL Description
-
 
 Enforcement Surface 0+ Armed law enforcement, including paramilitary internal security
 Militia Surface 0+ Defensive light armed forces, often semi-professional or reservists
 
-
 Army Surface 0+ Professional army
 Wet Navy Surface 0+ Professional wet navy
 
-
 Air Force Close Support 4+ Professional air or close orbit forces
-
 
 System Defence System Support 7+ Defensive spacecraft and space weapon platforms
 Navy Space Combat 8+ Professional system or interstellar space combat forces
-
 
 Marines Space Assault 8+ Professional offworld assault troops
 
 world social characteristics
 
-
-TRAVELLER
 
 
 These conditions can be drawn from the Faction
@@ -21547,14 +19467,14 @@ receive that DM if its government was fighting a foe in a
 different star system or if two governments faced off over
 a desert border region.
 
-
 Some branches have a DM for risk. By default risk is
 defined as potentially hostile systems within 10 parsecs,
 but the Referee may choose to redefine risk to adhere to
 local conditions
 
-
 ENFORCEMENT BRANCH
+
+
 Nearly every world will have some form of law
 enforcement branch, even if it is a Law Level 0 world with
 a posse raised as necessary. Organisation and equipment
@@ -21564,9 +19484,7 @@ depending on the world’s government and/or Law Level.
 
 **_Enforcement Exists by Default_**
 
-
 Its relative Effect is abstracted as: 3 + DMs:
-
 
 Government 0 DM-5
 Government B DM+2
@@ -21578,16 +19496,14 @@ Law Level C+ DM+4
 PCR 0-4 DM+2
 Factional Uprisings DM+2
 
-
 Any Effect of less than 1 is treated a 1 unless the
 Referee purposely wishes to create a world without any
 law enforcement.
 
-
 MILITIA BRANCH
-Not all worlds have militias. These units are often part-
-time, retired personnel subject to recall or lightly armed
 
+
+Not all worlds have militias. These units are often part-time, retired personnel subject to recall or lightly armed
 
 defenders of property with tenuous at best connection
 to the local government structure. Militias most often
@@ -21599,7 +19515,6 @@ or determine it randomly:
 
 **_Militia Exists on 4+:_** roll 2D +DMs
 
-
 Government 1 DM-4
 Government 2 DM+2
 Government 6 DM-6
@@ -21608,8 +19523,9 @@ PCR 0–2 DM+2
 PCR 3–4 DM+1
 PCR 6+ DM-1
 
-
 ARMY BRANCH
+
+
 A professional army exists on most balkanised worlds,
 those with military bases, some where external or
 internal conflict is potentially likely and others that have
@@ -21621,14 +19537,12 @@ organisation of armed individuals whose mandate
 is applying lethal or destructive force to solve the
 government’s problems qualifies functionally as an army.
 
-
 At TL10 and above, as grav vehicles become dominant,
 the army often absorbs some or all of the functions
 of the wet navy and air force. A Referee may decide
 whether a world has an army or determine it randomly:
 
 **_Army Exists on 4+:_** roll 2D +DMs
-
 
 Militia exists DM-2
 Government 0 DM-6
@@ -21640,13 +19554,11 @@ Military Base DM+6
 Risk DM+2
 Factional Uprisings DM+2
 
-
 A world with Government code 6 uses the DMs of its
 owning world and DM+8 if it is, or hosts, a military base
 or penal colony or is under direct military rule.
 
 world social characteristics
-
 
 **WET NAVY BRANCH**
 A wet navy only exists on worlds with Hydrographics 1
@@ -21667,7 +19579,6 @@ determining the existence or size of the wet navy, but
 if determined randomly:
 
 **_Wet Navy Exists on 4+:_** roll 2D +DMs
-
 
 Hydrographics 0 DM-20
 Hydrographics 1–3 DM-5
@@ -21703,7 +19614,6 @@ determine randomly if an air force exists:
 
 **_Air Force Exists on 4+:_** roll 2D +DMs
 
-
 Atmosphere 0 or 1 and TL0–8 DM-20
 Atmosphere 2, 3 or E and TL0–8 DM-8
 Atmosphere 4 or 5 and TL0–8 DM-2
@@ -21713,11 +19623,11 @@ TL3 DM-10
 TL10–12 DM-4
 TL13+ DM-6
 
-
 SYSTEM DEFENCE BRANCH
+
+
 System defence covers a variety of capabilities, from
-surface emplacements to multi-thousand ton asteroid-
-hull monitors armed with spinal weapons. The key
+surface emplacements to multi-thousand ton asteroid-hull monitors armed with spinal weapons. The key
 feature of a system defence force is its ability to
 fight an opponent in space. This includes planetary
 defence missiles, advanced guns, laser installations
@@ -21728,7 +19638,6 @@ larger spacecraft often termed monitors. Monitors
 range in size from thousands of tons to multi-hundred
 thousand ton asteroid or battle-rider class ships
 whose mission is to defend the homeworld.
-
 
 A system defence branch can theoretically exist as early
 as TL6, providing missile defence to a world’s key surface
@@ -21741,7 +19650,6 @@ these systems are expensive. To randomly determine if a
 system defence branch exists:
 
 **_System Defence Exists on 4+:_** roll 2D +DMs
-
 
 Population 0–3 DM-6
 Population 4–5 DM-2
@@ -21762,10 +19670,10 @@ Risk DM+2
 world social characteristics
 
 
-TRAVELLER
-
 
 NAVY BRANCH
+
+
 In this context a naval branch is a military force capable
 of interstellar travel. Not every ship in the naval fleet
 need be a starship: support vessels, fighters and even
@@ -21785,7 +19693,6 @@ navy branch exists:
 
 **_Navy Exists on 4+:_** roll 2D +DMs
 
-
 Population 0–3 DM-6
 Population 4–6 DM-3
 TL0-5 DM-20
@@ -21804,15 +19711,15 @@ Expansionism 9–B DM+2
 Expansionism C+ DM+4
 Risk DM+2
 
-
 MARINE BRANCH
+
+
 A marine branch is defined as a fighting force equipped
 for space combat. Marines may be called ‘security
 officers’ or ‘naval infantry’ and might be part of a naval
 force structure but their function is to fight battles
 aboard ships or on worlds not their own. Army troops
 might occupy other worlds but marines are equipped
-
 
 to establish beachheads, conduct raids and act as the
 vanguard of any spaceborne military force. A marine
@@ -21827,7 +19734,6 @@ determine if a marine branch exists:
 
 **_Marines Exists on 4+:_** roll 2D +DMs
 
-
 Population 0–5 DM-4
 TL0–8 DM-6
 Naval Base DM+2
@@ -21839,8 +19745,9 @@ Expansionism 9–B DM+1
 Expansionism C+ DM+2
 Risk DM+2
 
-
 MILITARY BUDGET
+
+
 Before allocating funds to various military functions, a
 world must acquire those funds, either through taxation
 or transfer of payments from an outside party. The basic
@@ -21859,21 +19766,17 @@ personnel, facilities and services is:
 
 **_Basic Military Budget% =_**
 
-2% × (1 + ) x (1 + )*
-
+2% × (1 + )x (1 + )*
 
 *Minimum value of (2D-7+DMs) is -9
 
 world social characteristics
 
-
 Efficiency
 10
 
-
 2D - 7 + DMs
 10
-
 
 
 Government 0, 2 or 4 DM-2
@@ -21904,7 +19807,6 @@ multipliers apply to the basic military budget:
 
 **State of Readiness Modifiers**
 
-
 State of Readiness Modifier
 Complacent peace ×0.5
 Low threat level ×0.75
@@ -21912,9 +19814,7 @@ Normal readiness ×1.0
 Heightened tensions, threat of war or
 internal uprisings
 
-
 ×1.2
-
 
 War or internal insurgency ×2.0
 Total war: full mobilisation ×5.0
@@ -21931,7 +19831,6 @@ and operational lives.
 
 x State of Readiness Modifier
 
-
 The number determined as the total military budget
 is the total pool of money for personnel, equipment
 and bases and serves as a comparison value to other
@@ -21941,13 +19840,13 @@ may be available for equipment. If a world’s armed
 forces are primarily robotic, the portion spent on
 equipment may be higher.
 
-
 MILITARY PROFILE
+
+
 The eight functions of a military can be summarised in
 an eHex string of the format:
 
 EMAWF-SNM
-
 
 Where the latter three digits (SNM) represent the
 forces available outside the world’s atmosphere:
@@ -21958,14 +19857,14 @@ does not consider actual funding or Tech Level. An
 optional addition to the profile is the military budget
 percentage added as :#.##%.
 
-
 BASES
+
+
 A world may have various associated bases including
 navy, scout and military bases. Their existence is
 established during the starport determination process
 based on the Starport Facilities table on page 194 and
 any associated DMs.
-
 
 If bases exist, they may be associated with the
 world itself or a larger interstellar polity. In the latter
@@ -21978,7 +19877,6 @@ system. Based on the particulars of the system and
 region, the Referee determines whether a base facility
 is associated with a larger polity or the mainworld.
 
-
 The following base profiling sections concern those
 bases under the control of the system’s mainworld.
 In some cases, these may even share facilities or
@@ -21990,21 +19888,18 @@ owned and operated by the mainworld.
 world social characteristics
 
 
-TRAVELLER
-
 
 NAVAL BASE
-A naval base is most often a space-based facility:
 
+
+A naval base is most often a space-based facility:
 
 Existing Naval Base is Space-based on 4+:
 Roll 2D + DMs
 
-
 No Highport DM-2
 TL0–7 DM-8
 TL8 DM-4
-
 
 A space-based facility can be constructed as a space
 station using High Guard or can be abstracted based
@@ -22025,14 +19920,13 @@ accounted for by the tonnage already allocated, as
 a base can accommodate 200% of its total tonnage
 in externally docked ships.
 
-
 Note that for ease of calculation ‘docking tonnage’
 means space devoted to internal docking facilities, not
-actual internal docking capacity, which would be one-
-third of this value.
-
+actual internal docking capacity, which would be one-third of this value.
 
 SCOUT BASE
+
+
 An independent scout base is uncommon, especially
 as a separate installation. When present, they are
 often referred to as an exploration base instead. For
@@ -22041,18 +19935,14 @@ scout branch but may allocate a portion of its navy
 or even system defence branch (for in-system-only
 scouts) spacecraft to a scout base.
 
-
 As with a naval base, a scout base is likely to be
 space-based if a highport exists:
-
 
 Existing Scout Base is Space-based on 4+:
 Roll 2D + DMs
 
-
 No Highport DM-4
 TL0–8 DM-4
-
 
 An IISS waystation is always space-based. A scout
 base has similar requirements to a naval base but
@@ -22072,20 +19962,19 @@ specified = 2 × weapon size (turrets, bays and so on).
 •	 Enough external docking capacity for 20% of the
 fleet based in or out of the base.
 
-
 For scout bases, docking tonnage means space
 devoted to internal docking facilities, not actual internal
 docking capacity, at a third of this value.
 
-
 MILITARY BASE
+
+
 A military base is most often a facility owned and
 operated by the mainworld. Many worlds will have more
 than one military base, perhaps hundreds or thousands
 of facilities to support their land, sea and air combat
 branches. System defence forces can use an existing
 local navy base for support.
-
 
 Corsair Base
 Costs for a corsair base are normally only borne by
@@ -22095,7 +19984,6 @@ camp are responsible for their own costs. However, the
 Referee may rule that the mainworld government is
 being extorted into paying for the corsair base upkeep
 as ‘protection money’.
-
 
 There are no standards for corsair bases. The Referee
 is free to use any of the base sizing procedures above
@@ -22114,7 +20002,6 @@ their profile and then calculate the effective military_
 budget percentage.
 world social characteristics
 
-
 Starting with the governorships, militancy of C grants
 _an overall DM+4. Despite simmering conflicts, the DMs
 for insurgency are not in effect but the Referee will
@@ -22127,8 +20014,7 @@ _Effect of 3, to be 15 – or F – for enforcement effect._
 For militia branch existence, the DMs are -10 for Law
 Level, +1 for PCR 3 and the standing DM+4 for a
 total DM-5. A roll of 11 on 2D is adjusted to 6, which
-_is more than 4, so a militia branch exists with Effect 2_
-(6-4=2). It is up to the Referee to determine if these
+_is more than 4, so a militia branch exists with Effect 2_ (6-4=2). It is up to the Referee to determine if these
 are reserves, self-defence forces, death squads or
 potential insurrectionists.
 
@@ -22139,7 +20025,7 @@ _still results in an Effect of 12 or C._
 
 For the wet navy, the DM+4 for government 7 applies
 for a total DM+8. The roll of 5 means a navy exists with
-_Effect 9 (5+8-4 = 9), although the Referee decides this_
+_Effect9 (5+8-4 = 9), although the Referee decides this_
 is more a coast guard and riverine patrol force than a
 _‘blue water’ offensive branch._
 
@@ -22171,18 +20057,15 @@ examining the DMs, Tech Level causes DM-6, no
 navy DM-6, low expansionism DM-4 and the Referee
 allows heightened tensions to provide DM+2 because
 
-
 dropping marines from the sky could help put down an
 insurrection. With net DM-10 even after militancy, a roll
 can still not succeed, so no marines exist either.
-
 
 For the aggressive, repressive governorships, the basic
 military budget percentage is = 2% × (1 – 2 ÷ 10) × (1
 + (9-7+2+12-5+4-4) ÷ 10) or 3.36% but with internal
 unrest present, this becomes 3.04 × 1.2 = 4.032% of
 the faction’s share of GWP.
-
 
 The final results for the governorships are a strong
 enforcement branch, a possibly dodgy militia and a
@@ -22191,7 +20074,6 @@ defence capabilities. The string of F2C96-000:4.03%
 is more than enough to describe the military of
 this faction. Going into further detail would only be
 necessary to run a mercenary campaign or wargame.
-
 
 For the less aggressive (6 for a global DM+1), more
 peaceful (no heightened tensions) oligarchs, the
@@ -22211,7 +20093,6 @@ for system defence boats.
 world social characteristics
 
 
-TRAVELLER
 
 # Travel Zones
 See [[Travel Zones]].  Default is [[Green Zone]], and is rarely indicated as-such.
@@ -22220,6 +20101,8 @@ See [[Travel Zones]].  Default is [[Green Zone]], and is rarely indicated as-suc
 
 If random determination is desired, the Referee can apply [[Amber Zone]]s with the following results:
   
+
+
 Amber Zone Exists on 12+:
 roll 2D +DMs
 
@@ -22292,11 +20175,8 @@ the survey and the world is obligated to provide the
 required information. However, the IISS cannot simply
 gather a set of data from the local authorities and
 move onto the next system. There are a number of
-reasons for this: the data may be of poor quality, out-
-of-date, too low Tech Level format to be easily usable
-(a TL1 world may have records on scrolls or stone
+reasons for this: the data may be of poor quality, out-of-date, too low Tech Level format to be easily usable (a TL1 world may have records on scrolls or stone
 tablets) and it may be intentionally misleading.
-
 
 To ensure the census data is accurate, the survey
 team has access to local Imperial authorities such as
@@ -22310,7 +20190,6 @@ establish more subtle cultural information. The Scout
 Service relies on observation, questionnaires and
 scoring procedures to determine such things as cultural
 diversity, progressiveness and militancy.
-
 
 A potential complication specific to internal surveys
 is the appeals process. After gathering and analysing
@@ -22331,7 +20210,6 @@ back to statistically valid efficiency factors from a
 database of more than 11,000 systems made most of
 these appeals doomed to failure.
 
-
 The Second Survey ensured census data was
 statistically correct as of the time period 995–1065,
 but that in itself was a 70 year span. More concrete
@@ -22340,8 +20218,9 @@ but the cultural data for many systems even within
 the Imperium has not been verified since the Second
 Survey teams departed the system.
 
-
 EXTERNAL BRANCH SURVEYS
+
+
 Systems near the Imperial borders that have already
 been contacted and are aware of interstellar society are
 surveyed by the survey office’s external mapping branch.
@@ -22359,8 +20238,6 @@ idea of its actual scope and powers.
 
 world social characteristics
 
-
-TRAVELLER
 
 
 The job of an external mapping branch census
@@ -22387,7 +20264,6 @@ The census team also interviews other Imperial citizens
 or friendly outsiders to corroborate or correct data
 gathered by indirect means.
 
-
 One advantage of an external survey is that it is not
 subject to appeal. While a client state might attempt
 to influence findings through diplomatic or economic
@@ -22398,8 +20274,9 @@ Imperial diplomatic representative. Worlds far from the
 Imperium in distance and influence may never even see
 the results of the survey, much less contest the data.
 
-
 CONTACT AND LIAISON BRANCH SURVEYS
+
+
 Contact procedures for a new sophont species are the
 same as those for an existing sophont species that
 has been long isolated, whether a minor human race
@@ -22421,7 +20298,6 @@ who have never heard of the Third Imperium and might
 not even know they live on a sphere and not on the
 back of a cosmic turtle.
 
-
 Whenever possible, first contact begins with covert
 operations. If the inhabitants of a newly explored
 system are not spacefaring, this is simply a matter
@@ -22432,7 +20308,6 @@ effective hostility. If the uncontacted natives have space
 travel observation is even more careful, with detection
 and tracking of local system traffic a priority for active
 concealment and avoidance procedures.
-
 
 If the natives are advanced enough to broadcast radio
 or television signals, the contact team can attempt to
@@ -22448,7 +20323,6 @@ is not usually recommended. For more advanced
 locals, the team must gauge the level of hostility and
 probable reaction to first contact.
 
-
 In the early days of the Imperium, the emphasis was
 on making this first contact, introducing the Imperium to
 the locals and making a case for Imperial membership.
@@ -22460,7 +20334,6 @@ gaining friendly local allies. However such contact
 decisions usually occurred after a Class IV covert
 survey report arrived on an Imperial administrator’s
 desk and a contact mission received approval.
-
 
 The initial scout contact team retains great latitude in
 making decisions far from Imperial borders and may
@@ -22474,7 +20347,6 @@ ended in hostilities, the team is likely to report back to
 base without establishing contact and to return only if
 adequately supported.
 
-
 Class IV Part C Form
 The standard display form for a Class IV social or
 census survey assumes the completion of a physical
@@ -22485,28 +20357,20 @@ separate Part C forms for each faction or government.
 
 world social characteristics
 
-
 IISS CLASS IV SURVEY FORM 0407F-IV PART C
-
 
 World UWP:
 
-
 Sector | Location Initial Survey: Last Updated:
 
-
 Primary Object(s): System Age (Gyr): Travel Zone:
-
 
 Population Total: Demographics:
 PCR Urbanisation% Major Cities Capital/Port
 
-
 Major Cities:
 
-
 Notes:
-
 
 Government Type: Centralisation: Authority: Profile :
 Notes:
@@ -22515,122 +20379,100 @@ Profiles :
 Relationships:
 Faction Notes:
 
-
 Law Level Primary Secondary Uniformity Presumption of Innocence? Death Penalty?
 Legal System: - -
 Categories Overall Weapons Economics Criminal Private Personal Rights
 Profile : -
 Notes:
 
-
 Technology Common High : Energy : Land : Personal Military :
 Common Low : Electronics : Water : Heavy Military :
 Notes: Manufacturing : Air : Novelty :
 Medical : Space : Environmental :
 
-
 Culture Diversity: Xenophilia: Uniqueness: Symbology:
 Cohesion: Progressiveness: Expansionism: Militancy:
 Notes:
-
 
 Economics Trade Codes: Importance:
 Factors
 and
 Ratings
 
-
 Resources : Labour : Infrastructure : Efficiency : RU :
 GWP per
 capita :
 
-
 WTN : Inequality
 Rating :
-
 
 Development
 Score :
 GWP (MCr) : Tariffs :
 Notes:
 
-
 Starport Class: Highport? Expected Weekly Traffic: Berthing Fees:
 Capacity Docking Shipyard: Annual Output:
 Bases Navy: Scout : Military: Other:
 Notes:
 
-
 Military Effective Budget % : Structure:
 Branches Enforcement Militia Army Wet Navy Air Force System Defence Navy Marines
 
-
 Notes:
-
 
 Comments
 
-
-TRAVELLER
 
 
 Rather than completing a full Class IV Part C form
 for a balkanised world’s factions or nations, a shorter
 profile based listing, the Census Subunit Profile
 
-
 Form (CSPF), is often provided to summarise these
 subunits of a world. Often this is the only public
 information available in the RPSC for anything less
 than an entire world’s data:
-
 
 IISS CLASS IV SURVEY FORM 0407F-IV CSPF
 Subunit: PGL:
 World UWP:
 Description:
 
-
 Population Total: Demographics: PCR:
 Urban% Major Cities Capital/Port
 
-
 Notes:
-
 
 Government Profile: Factions:
 Notes:
 
-
 Law Level Legal Profile: Law Level Profile:
 Notes:
 
-
 Technology Profile: Notes:
 
-
 Culture Profile: Notes:
-
 
 Economics GWP (MCr): per capita: Inequality: Development:
 Notes:
 
-
 Military Profile: Budget%:
 Notes:
 
-
 Comments
 
-
 EXAMPLES
+
+
 The following examples show completed Part C forms
 for each example mainworld, with CSPFs for details
 of nations, factions or secondary worlds for both Zed’s
 governorship of Zeno and for Zed Secundus.
 
-
 ZED SYSTEM
+
+
 Zed Prime’s main Part C form uses government and
 cultural values for the Oligarchy of Zenobia, which
 surrounds the starport. A separate CSPF covers the
@@ -22640,9 +20482,7 @@ and economy, requires a full Part C form.
 
 world social characteristics
 
-
 IISS CLASS IV SURVEY FORM 0407F-IV PART C
-
 
 World Zed Prime (Zed Aab IV b) UWP: C566776-8
 Sector | Location Storr | 0602 Initial Survey: 207-568 Last Updated: 218-1061
@@ -22670,13 +20510,10 @@ Notes: Law applies as 4-46624 for elites, for Travellers and other foreigners it
 Technology Common High: 8 Energy: 8 Land: 7 Personal Military: 9
 Common Low: 6 Electronics: 9 Water: 8 Heavy Military: 8
 Notes: Specific profiles vary by faction. Oligarchs (II)
-as listed. Governorships (I) 7-6-77765-7777-
-77-C
-
+as listed. Governorships (I) 7-6-77765-7777-77-C
 
 Manufacturing: 8 Air: 8 Novelty: C
 Medical: 9 Space: 8 Environmental: 7
-
 
 Culture Diversity: 6 Xenophilia: 9 Uniqueness: 9 Symbology: 9
 Cohesion: B Progressiveness: 5 Expansionism: 5 Militancy: 6
@@ -22686,7 +20523,6 @@ Economics Trade Codes: Agricultural (Ag), Rich (Ri) Importance: +1
 Factors and
 Ratings:
 
-
 Resources: F Labour: 6 Infrastructure: D Efficiency: -2 RU: -2340
 GWP per capita: Cr5940 WTN: 8 Inequality Rating: 58 Development Score: 2.49
 GWP (MCr): 170,000 Tariffs: 12% on all inbound goods
@@ -22695,16 +20531,12 @@ Notes: Economic data computed for entire world. Oligarch faction: GWP per capita
 Starport Class: C Highport? No Expected Weekly Traffic: 10 Berthing Fees: Cr500
 Capacity:
 
-
 Bases:
-
 
 Docking: 34,000 tons (includes 50%
 leased to scout base)
 
-
 Shipyard: 1,500 tons Annual Output: 1,500 tons
-
 
 Navy: no Scout: Yes Military: No Other: No
 Notes: Capacity: Enclosed bays: 1x600, 7x400, Pads: 2x1000, 12x600, 36x400, 7000 small craft, max shipyard
@@ -22712,12 +20544,9 @@ bay = 150 tons (75 build)
 Military Effective Budget %: 1.76% Structure: Unified Army command
 Branches Enforcement Militia Army Wet Navy Air Force System Defence Navy Marines
 5 0 6 3 3 3 0 0
-Notes: Data for Zenobia only. See individual nation CSPF data. Starport defence includes missiles, four cut-
-ters, one light fighter squadron
+Notes: Data for Zenobia only. See individual nation CSPF data. Starport defence includes missiles, four cut-ters, one light fighter squadron
 Comments
 
-
-TRAVELLER
 
 
 IISS CLASS IV SURVEY FORM 0407F-IV CSPF
@@ -22725,52 +20554,38 @@ Subunit Zeno PGL: 6BA
 World Zed Prime (Zed Aab IV d) | Storr | 0602 UWP: C566776-8
 Description: Most populous of Zed Prime’s seven nations, leader of the governorship block (I)
 
-
 Population Total: 4,500,000 Demographics: PCR: 3
 Urban%: 39% Major Cities 1 Capital/Port: Zeno (I.I): 525,000 Class F
 Notes: remaining population scattered
-
 
 Government Profile: (I.I.I-B-G): B-UER Factions: Internal bureaucratic faction I.I.II-9-N=6 actively
 frustrates governor’s control
 Notes: Hereditary governor as sole executive over inefficient bureaucratic ministries
 
-
 Law Level Legal Profile: AIP-Y-Y Law Level Profile: A-989B9
 Notes: Elites 8-76797, outsiders: C-BABDB
 
-
 Technology Profile: 7-6-77765-7777-77-C Notes: Notably poor housing and medical facilities
 
-
 Culture Profile: 757A-B65C Notes: Cliquish police state. Conservative and degenerate society
-
 
 Economics GWP (MCr): 26,537 per capita: Cr5897 Inequality: 62 Development: 2.12
 Notes:
 
-
 Military Profile: F2C96-000 Budget%: 4.03%
 Notes: Paramilitary police force and strong army. Militia death squads in rural areas.
 
-
-Comments Amber Zone: Strong caution for Travellers: ongoing civil strife, aggressive and unfettered law en-
-forcement, militia activity
+Comments Amber Zone: Strong caution for Travellers: ongoing civil strife, aggressive and unfettered law en-forcement, militia activity
 
 world social characteristics
 
-
 IISS CLASS IV SURVEY FORM 0407F-IV PART C
-
 
 World Zed Secundus (Zed Aab V d) – Independent freeport UWP: C340552-9
 
-
 Sector | Location Storr |0602 Initial Survey: 207-568 Last Updated: 218-1061
 
-
 Primary Object(s): Zed Aab V, GLC orbiting Zed Aab System Age (Gyr): 6.336 Travel Zone: Amber
-
 
 Population Total: 140,000 Demographics:
 PCR: 8 Urbanisation%: 90% Major Cities: 2 Capital/Port: Secundus Major: 106,400
@@ -22778,11 +20593,9 @@ Class C
 Major Cities: Secundus Minor: 5,600
 Notes:
 
-
 Government Type: Centralisation: Authority: Profile:
 5: Feudal Technocracy Federal Judicial 5-FJR-LM-ES
 Notes:
-
 
 Factions Types and Designations:
 Profiles: I: government, II: fringe supporters of ‘Emperor of Secundus' based in Secundus Minor and led by an
@@ -22790,29 +20603,24 @@ impeached alderman
 Relationships: I+II=4
 Faction Notes:
 
-
 Law Level Primary Secondary Uniformity Presumption of Innocence? Death Penalty?
 Legal System: Inquisitorial Inquisitorial Universal - Y - Y
 Categories: Overall Weapons Economics Criminal Private Personal Rights
 Profile: 2 - 2 1 4 1 2
 Notes:
 
-
 Technology Common High: 9 Energy: 9 Land: 9 Personal Military: 9
 Common Low: 9 Electronics: 9 Water: 7 Heavy Military: 7
 Notes: Manufacturing: 8 Air: 9 Novelty: C
 Medical: 7 Space: 7 Environmental: 9
 
-
 Culture Diversity: 1 Xenophilia: 5 Uniqueness: 9 Symbology: D
 Cohesion: 5 Progressiveness: A Expansionism: 9 Militancy: 7
 Notes:
 
-
 Economics Trade Codes: Desert (De), Non-Industrial (Na), Poor (Po) Importance: -1
 Factors and
 Ratings:
-
 
 Resources: 7 Labour: 4 Infrastructure: 3 Efficiency: +5 RU: 420
 GWP per capita: Cr25272 WTN: 7 Inequality Rating: 28 Development Score: 18.20
@@ -22824,30 +20632,26 @@ Capacity: **Docking:** 27,200 **Shipyard:** 200, max bay = 40dt **Annual Output:
 Bases: **Navy:** no **Scout:** no **Military:** no **Other:** no
 Notes: Capacity: Enclosed Bays: 2x600, 5x400, 4x200, Pads: 2x1000, 10x600, 10x400, 20x200, 4,000 small craft
 
-
 Military Effective Budget %: 4.8% Structure: Military is the space command, headquartered at the starport
 Branches: Enforcement: Militia: Army: Wet Navy: Air Force: System Defence: Navy: Marines:
 3 1 3 0 4 7 1 4
 Notes: Military focus is defence of starport and gas giant, with patrols around other moons, interstellar asset is
 one used patrol corvette and an armed A2
 
-
 Comments
 
 
-TRAVELLER
-
 
 CORELLA
+
+
 Corella’s census details can be worked out with this
 chapter’s processes. From Spinward Extents, little more
 is known than the UWP – A864855-D – and that great
 
-
 houses are a dominant power in some sort of senatorial
 government. The results of the creation process for the
 social details are noted in Corella, IV Part-C form.
-
 
 TERRA/SOL PAGE 218
 Terra’s Part C form uses the United States of America
@@ -22857,14 +20661,11 @@ example only. No CSPFs were attempted.
 
 world social characteristics
 
-
 IISS CLASS IV SURVEY FORM 0407F-IV PART C
-
 
 World Corella UWP A864855-D
 Sector | Location The Beyond | 0314 Initial Survey: 174-203 Last Updated: 305-1090
 Primary Object(s): Corella Aab System Age (Gyr): 4.984 Travel Zone: Green
-
 
 Population Total: 838,000,000 Demographics: Mostly human PCR: 4
 Urbanisation%: 55% Major Cities: 9 Capital/Port: Darwin (Cw) 57,625,000,
@@ -22901,14 +20702,11 @@ Economics Trade Codes: Rich (Ri) Importance: +4
 Factors and
 Ratings:
 
-
 Resources: F Labour: 7 Infrastructure: C Efficiency: +1 RU: 1260
 GWP per capita: Cr73008 WTN: A Inequality Rating: 38 Development
 Score:
 
-
 45.265
-
 
 GWP (MCr): 61,180,000 Tariffs: Free trade zone
 Notes: Universal income of Cr3000 per month for all citizens
@@ -22916,19 +20714,15 @@ Starport Class: A Highport? Y Expected Weekly Traffic: 1000 Berthing Fees: Cr600
 Capacity: Docking: 20.5Mtons highport, 5.2Mt
 downport
 
-
 Shipyard: 1.17Mt,
 100Kt max
 
-
 Annual Output: 293Kt
-
 
 Bases: Navy: Yes Scout: No Military: Yes Other:
 Notes:
 Military Effective
 Budget %:
-
 
 4.65% Structure: Army controls all surface forces, navy controls system
 defence and marine functions
@@ -22938,10 +20732,8 @@ Notes: Fortresses on both moons and ports, permanent monitor and SDB patrols at 
 Comments
 
 
-TRAVELLER
 
 IISS CLASS IV SURVEY FORM 0407F-IV PART C
-
 
 World Terra UWP D867974-8
 Sector | Location Solomani Rim |1827 Initial Survey: 001-(-2500) Last Updated: 001-(-2498)
@@ -22950,9 +20742,7 @@ Population Total: 7,990,000,000 Demographics: By faction: developed
 democracy 15%, authoritarian
 21%, developing 61%
 
-
 PCR: 5
-
 
 Urbanisation%: 55% Major Cities: 11 Capital/Port: New York (I) 23.6M – UN capital
 Major Cities: Tokyo (I) 39.1M Jakarta (III) 35.3M Delhi (III) 31.9M
@@ -22987,7 +20777,6 @@ Economics Trade Codes: Garden (Ga). High (Hi) Importance: -1
 Factors and
 Ratings:
 
-
 Resources: C Labour: 8 Infrastructure: 6 Efficiency: +1 RU: 576
 GWP per capita: Cr9216 WTN: 8 Inequality Rating: 60 Development Score: 3.686
 GWP (MCr): 73,600,000 Tariffs: Varies by nation
@@ -22996,21 +20785,17 @@ Starport Class: D Highport? No Expected Weekly Traffic: 0 Berthing Fees: n/a
 Capacity:
 Bases:
 
-
 Docking: Minimal pad and fuel services Shipyard: n/a Annual Output: n/a
 Navy: No Scout: No Military: Yes Other:
 Notes: Kennedy Space Center used as example
 Military Effective Budget %: 2.64% world
 average
 
-
-Structure Varies by nation. System defence strictly ground-
-based. No navy or marines
+Structure Varies by nation. System defence strictly ground-based. No navy or marines
 Branches: Enforcement: Militia: Army: Wet Navy: Air Force: System Defence: Navy: Marines:
 6 8 8 A A 1 0 0
 Notes: Profile based on USA
 Comments
-
 
 
 The star system creation rules work well for main
@@ -23025,8 +20810,9 @@ the special object is the primary or only ‘star’ in the
 system and others still may appear in hexes otherwise
 described as ‘empty’.
 
-
 EMPTY HEXES
+
+
 Systems listed on Travellermap are almost all hosted
 by at least one star, very few have brown dwarf or
 white dwarf primary stars, despite the former being
@@ -23049,7 +20835,6 @@ empty. The Scout Service has sensors to probe these
 depths and charts of some of these objects but most
 remain unexplored and many are undiscovered.
 
-
 The Scout Service has mapped all of the empty hexes
 within the Third Imperium to a level of SI 8, detecting
 most objects down to gas giant size. Their databases
@@ -23064,12 +20849,12 @@ and not always reliable.
 
 ## PECIAL
 
-
 OBJECT TYPES
+
+
 A variety of objects can be present in ‘empty’ hexes.
 The smaller the object the higher the probability and/or
 quantity of its potential existence.
-
 
 Rogue Neutron Stars and Black Holes
 While neutron stars spinning as pulsars and black holes
@@ -23091,7 +20876,6 @@ be less common by a factor of 19 or more but they too
 exist in the darkness. See the Dead Stars section for
 detailed neutron star and black hole generation.
 
-
 White Dwarf Primaries
 An otherwise empty hex may be host to a white dwarf
 primary star system. This is defined as either a lone
@@ -23102,7 +20886,6 @@ most are slowly cooling objects, sometimes surrounded
 by the debris or survivors of their former planetary
 systems. See the Dead Stars section (pages 227-228)
 for detailed white dwarf generation.
-
 
 Brown Dwarf Primaries
 A brown dwarf has the same probability of occupying
@@ -23115,8 +20898,6 @@ system. See the Brown Dwarf section (page 227) for
 detailed brown dwarf generation.
 
 
-TRAVELLER
-
 
 Rogue Gas Giants
 A rogue gas giant (or several) may exist within a
@@ -23128,20 +20909,18 @@ the gas giant sizing rules on page 55. Rogue gas
 giants have a DM-1 per dice on the Significant Moon
 Count table on page 55.
 
-
 Rogue Terrestrial Worlds
 An empty hex very likely has rogue planet-sized
 objects floating about. However, finding them can be
 a challenge. These may be generated as terrestrial
 planets, with large terrestrials determining size with
 1D+9, and small terrestrials determining size by
-2D-2, but with 0 treated as 1 and A (10) treated as 9.
+2D-2, but with 0 treated as 1 andA (10) treated as 9.
 Their position of origin in a star system is somewhat
 random, so they have a negative DM of 1D-1 on the
 Terrestrial Composition table on page 71. Terrestrial
 worlds larger than Size 2 have a fixed DM-2 on the
 Significant Moon Count table.
-
 
 Rogue Small Bodies
 Empty space is littered with small bodies. One could
@@ -23156,8 +20935,9 @@ be made remotely with any degree of certainty. Once
 a ship jumps to this distant spec, on a roll of 9+, the
 actual composition must be rolled again.
 
-
 PROBABILITIES
+
+
 The likelihood of the presence of objects in empty
 hexes depends on the star density of the region of
 space. In standard density regions of space, a system
@@ -23173,7 +20953,6 @@ are easier to detect but finding dimmer objects, such
 as gas giants or smaller planets requires specialised
 equipment, time and luck.
 
-
 For simplicity, except in dense star clusters, an empty
 hex will have only one system with star-like objects:
 black holes, neutron stars, white dwarfs or brown
@@ -23183,7 +20962,6 @@ and then for brown dwarfs. Rogue planets are more
 common and can coexist in any hex. If desired, the
 Referee could even place such rogue planets in hexes
 already occupied by star systems.
-
 
 For each ‘empty’ hex, the process is:
 
@@ -23213,7 +20991,6 @@ region’s system existence check four times.
 e. Determine if small terrestrial worlds exist: roll
 the regions system existence check 10 times.
 
-
 A hex will have an effectively unlimited number of
 smaller objects floating about. The Referee need
 only check for the existence of one of these objects
@@ -23233,7 +21010,6 @@ Some objects may be redacted for security reasons.
 special circumstances
 
 
-
 A scout service-only map will include all detected
 and charted objects down to SI 12 but this is not a
 complete survey of every rogue planet and small
@@ -23248,37 +21024,27 @@ small error could leave the ship fatally stranded.
 
 Empty Hex Objects
 
-
 Object Type Existence Probability SI Detection
-
 
 Neutron star/
 black hole
 
-
 18 on 3D, then equal to system density
 11+ on 2D it is a black hole instead
 
-
 7 80
-
 
 White dwarf 6 on 1D, then equal to system density 3 Automatic
 
-
 Brown dwarf Equal to system density 4 20
-
 
 Large gas giant Equal to system density 6 60
 Medium gas giant Equal to system density (up to 2*) 7 80
 
-
 Small gas giant Equal to system density (up to 3*) 8 160
 Terrestrial world (A+) Equal to system density (up to 4*) 9 240
 
-
 Terrestrial world (1–9) Equal to system density (up to 10*) 10 480
-
 
 Small bodies (0, S) Equal to system density (unlimited†) 12 480
 
@@ -23287,8 +21053,9 @@ Small bodies (0, S) Equal to system density (unlimited†) 12 480
 
 special circumstances
 
-
 DETECTION
+
+
 The Empty Hex Objects table’s Detection column
 indicates the number of detection points required to
 make a detection roll in a single hex for the object
@@ -23303,34 +21070,26 @@ to accumulate hourly detection points.
 
 Detectors
 
-
 Detector TL Detection Points per hour Notes
 Military Grade Sensors 10 0
 
-
 Improved Sensors 12 1
-
 
 Advanced Sensors 15 2
 Superior Sensors 16 3
 
-
 Observatories 7–13 1–3 × Effect Multiplier Depends on size and TL, see DSE p.24
 
 
-TRAVELLER
-
 
 Sensors require the Electronics (sensors) skill
-to operate and observatories require Science
-(astronomy), though a person with either skill can
+to operate and observatories require Science (astronomy), though a person with either skill can
 operate the opposite technology at skill level -1. An
 automated search requires a computer running Intellect
 and an Expert/2 software package for the appropriate
 skill. Options and distance will affect the capabilities of
 these detectors with applicable DMs applied to each
 hour’s detection points.
-
 
 Once a sensor scan has accumulated enough
 detection points, the sensor operator may attempt an
@@ -23342,7 +21101,6 @@ accumulating detection points, these Electronics
 and Science specialties can be used on ‘opposite’
 equipment with a DM-1 to the check.
 
-
 Ideally, the Referee should make this check hidden
 from the Traveller and should not tell the Traveller
 whether an object actually exists, only that the check
@@ -23351,12 +21109,10 @@ access to charts indicating something should be there,
 Travellers can make the roll themselves – unless the
 Referee determines the chart is wrong.
 
-
 An Effect of 2+ is needed to initially determine a
 detected object’s vector, without which a jump to its
 location suffers a DM-8 if it occurs within one month
 of detection, a further DM-1 for every month thereafter
-
 
 and a further DM-4 for every parsec distant. Since
 the object in question is likely at least a large fraction
@@ -23368,7 +21124,6 @@ initial detection can provide that information and any
 success, meaning both first and second detection rolls
 have an Effect of at least 0, indicating a high probability
 of capturing the correct data.
-
 
 Detection points are accumulated for all objects in a
 particular hex. A general scan of a parsec hex will allow
@@ -23392,7 +21147,6 @@ find a large gas giant occurs and if by this sixth attempt
 to find a brown dwarf, the Traveller will likely assume
 that none are present in the hex. Still, detection is
 
-
 Detection Options and Conditions
 Options and Conditions TL DM Notes
 Distributed arrays 11 +1 HG p.55
@@ -23411,7 +21165,6 @@ HG p.## refers to the High Guard (2022), DSE p.## refers to the Great Rift Book 
 Handbook.
 
 special circumstances
-
 
 entirely independent of existence: the Referee makes
 the existence rolls first and no amount of detection can
@@ -23452,27 +21205,22 @@ step below is not necessary.
 
 An accurate jump to an empty hex adds an additional
 step to the jump task chain. As usual, the process
-begins with the initial Easy (4+) Astrogation check
-(1D × 10 minutes, EDU) with DM-1 for each parsec
+begins with the initial Easy (4+) Astrogation check (1D × 10 minutes, EDU) with DM-1 for each parsec
 to the destination. The astrogator is aware of the
 success or failure of this check and may try again on
 a failure. Once successful, this check provides a task
-
 
 chain modifier to the Easy (4+) Engineer (j-drive)
 check (1D × 10 minutes, EDU) with normal DMs and
 chances for misjump.
 
-
 The extra step for a jump to a specific location in
 the ‘empty hex’ requires the astrogator to make an
 additional instantaneous Astrogation check. This check
 is normally Easy (4+) but if the astrogator made the first
-check hurried or carefully, this task becomes Routine
-(6+) or Simple (2+) respectively. This check uses the
+check hurried or carefully, this task becomes Routine (6+) or Simple (2+) respectively. This check uses the
 same modifiers as the earlier check, but the target
 destination adds a further DM to this second check:
-
 
 White dwarf, brown dwarf DM-2
 Neutron star, black hole, gas giant DM-3
@@ -23480,7 +21228,6 @@ Terrestrial planet (Size 1+) DM-4
 Asteroid, comet, station, deep space DM-6
 Effect of a misjump DM-Effect × 2
 Use of prepared jump template DM+4
-
 
 This Astrogation check can also benefit from any task
 chain DM from the initial Astrogation check. A prepared
@@ -23496,7 +21243,6 @@ running its Jump/x program with 10 extra Bandwidth for
 requires input of astrogation data from a ship that has
 visited the target within the last month.
 
-
 The Effect of the Astrogation check determines the
 precision of arrival at the destination. A destination
 location is computed as ‘diameters’ if the target is a
@@ -23505,7 +21251,6 @@ Size S dwarf planet or larger object. Otherwise, the
 comet or artificial body and distance is in kilometres.
 
 Empty Hex Arrival Variance
-
 
 Effect Variance Diameters (Size S+) Kilometres (planned location)
 6+ On target 100 within 1 kilometre of location
@@ -23518,10 +21263,10 @@ Negative Failure -1000 x Effect -1,000 x Effect kilometres from location
 special circumstances
 
 
-TRAVELLER
-
 
 STAR TYPE AND MASS
+
+
 A protostar primary star has its star type
 determined with a roll on the Star Type
 table with DM+1. If the primary star is a
@@ -23539,7 +21284,6 @@ stars do not undergo a protostar period at
 
 special circumstances
 
-
 M-Drive Efficiency In Deep Space
 Body Size 1D+ 10D+ 100D+ 1000D+ 1,000,000D+
 Star or brown dwarf 0.013 Mass+ 100% 100% 100% 1% 0.1%
@@ -23548,14 +21292,12 @@ Big object 1km+ 100% 1% 0.1% 0.1% 0.1%
 Medium object 100,000 tons + 1% 0.1% 0.1% 0.1% 0.1%
 Small object Smaller 0.1% 0.1% 0.1% 0.1% 0.1%
 
-
 When emerging in an empty hex far from the benefits
 of a stellar or planetary gravity well, a ship’s m-drive
 will only achieve a small percentage of its rated thrust
 as indicated in the table below. Once it reaches the
 threshold distance of a closer limit column, performance
 improves as indicated on the nearer column.
-
 
 For reference, 1D from an object is measured from
 the centre of an object and extends to half a diameter
@@ -23567,8 +21309,9 @@ one-thousandth of normal thrust applies throughout all
 empty hexes. In intergalactic space, drive efficiency is
 theoretically even smaller but still not zero.
 
-
 PROTOSTAR SYSTEMS
+
+
 A protostar is a star still in the process of formation. It
 burns brightly and erratically but its energy is mostly
 generated from the gravitational collapse. Planets are
@@ -23580,26 +21323,26 @@ with debris. Smaller worlds are subject to shattering
 collisions and larger worlds are covered in oceans of
 magma or surrounded by blistering gas.
 
-
 all, quickly burning away their gas disks and entering
 their short main sequence lives almost immediately.
 For simplicity, this book will assume a duration of 10
 million years for the protostar era of all stars of less
 than 8 mass.
 
-
 DIAMETER AND LUMINOSITY
+
+
 To simulate the random behaviour of protostars, treat
 their type and subtype as similar Class V stars but
-multiply the diameter of the protostar star by 1 + (2D-
-2) ÷ 10. Changes in diameter will affect luminosity
+multiply the diameter of the protostar star by 1 + (2D-2) ÷ 10. Changes in diameter will affect luminosity
 by a factor of the square of the change in diameter.
 These changes can occur as often as 1D months
 from a previous change and are not predictable from
 interstellar distances.
 
-
 JUMP RESTRICTIONS
+
+
 A jump into a protostar system suffers from
 considerable risks. The star is inherently unstable,
 with diameter and luminosity randomly shifting. The
@@ -23610,7 +21353,6 @@ into an empty hex but with a DM-6 and an additional
 DM-1D to the Astrogation check. Additionally, jumps
 both into and out of a protostar system receive DM-4
 on the Engineer (j-drive) skill check.
-
 
 **PLANETARY SYSTEM**
 The planetary system of a protostar is still forming.
@@ -23663,11 +21405,12 @@ magma oceans is more than 1,500K.
 •	 None of these worlds have recognisable native life.
 
 PRIMORDIAL SYSTEMS
+
+
 A primordial system is a star system younger than 100
 million years but beyond its protostar stage (if any).
 In these systems, planets have formed but debris is
 still widespread and larger bodies are still covered
-
 
 in molten magma oceans heated by radioactivity,
 gravitational contraction and the occasional massive
@@ -23677,13 +21420,12 @@ entire main sequence lives in this primordial state.
 Stars of less than this mass enter this state after they
 exit the protostar phase at an age of 10 million years.
 
-
-All stars of Class Ia, Ib and II and all O-type stars
-(except O subdwarf stars) are automatically hosts to
+All stars of Class Ia, Ib and II and all O-type stars (except O subdwarf stars) are automatically hosts to
 primordial systems.
 
-
 JUMP RESTRICTIONS
+
+
 A star system in the primordial state is still filled
 with debris but constant output from stellar fusion
 of hydrogen stabilises the star’s energy output and
@@ -23691,8 +21433,9 @@ diameter, making the jump safer. A jump into a
 primordial system imposes a DM-2 to both Astrogation
 and Engineer (j-drive) checks.
 
-
 PLANETARY SYSTEM
+
+
 By the time a system reaches the age of 10 million
 years, the stars have ‘cleared’ gas and dust from the
 system, leaving behind larger particles of debris and
@@ -23730,8 +21473,6 @@ become C, D–F become F, and G or H become H.
 special circumstances
 
 
-TRAVELLER
-
 
 •	 Planetary surfaces of large worlds may still be
 covered by an ocean of magma. Treat magma
@@ -23742,8 +21483,9 @@ crust can form after (Size - 2)^2 + 2 million years.
 magma oceans is more than 1,500K.
 •	 None of these worlds have recognisable native life.
 
-
 BROWN DWARFS
+
+
 Brown dwarfs are sometimes called failed stars. They
 are not massive enough to fuse regular hydrogen
 in their cores but can fuse deuterium, a heavier and
@@ -23765,8 +21507,9 @@ may choose to record them by their specific types: L,
 T, and Y, followed by a numeric subtype but without a
 Class Roman numeral.
 
-
 DENEB AND OTHER ALTERED SYSTEMS
+
+
 In Charted Space, the A2 Ia star Deneb
 is clearly too young to support an evolved
 planetary system, especially one that
@@ -23783,15 +21526,15 @@ insert, move or remove planets to fit the setting
 but should have at least a vague idea of what
 intervention created the situation.
 
-
 BROWN DWARF CHARACTERISTICS
+
+
 Brown dwarf masses generally range between
 0.013 and 0.085 but composition details can
 blur these distinctions, especially at the margins. To
 determine mass:
 
 **_Brown Dwarf Mass(_** **ʘ** **_) =_** +
-
 
 Most brown dwarfs have the same diameter as large
 gas giant (0.1) but may decrease in diameter by
@@ -23800,7 +21543,6 @@ same diameter roll as for large gas giants on the Gas
 Giant Sizing table (2D+6⊕) with DM-2 for brown dwarfs
 between 0.05 and 0.07 mass.
 
-
 The largest brown dwarfs begin life as L-type objects.
 Brown dwarfs of smaller mass begin or pass through
 types T and Y, with the smallest and oldest Y-type
@@ -23808,7 +21550,6 @@ brown dwarfs being cool enough to host liquid
 water. The Brown Dwarf Types table summarises
 brown dwarfs based on mass and temperature at an
 approximate age of one billion years.
-
 
 Brown Dwarf Types
 Type Temperature Mass Diameter Luminosity
@@ -23838,14 +21579,11 @@ billion years for brown dwarfs above 0.05 mass
 and by two subtypes for smaller brown dwarfs.
 special circumstances
 
-
 1D
 100
 
-
 4D - 1
 1000
-
 
 **JUMP RESTRICTIONS**
 If a system hosts no ‘normal’ stars, the Empty Hex
@@ -23865,6 +21603,8 @@ giant is only present on a roll of 7 or less.
 brown dwarf is 0.005.
 
 DEAD STARS
+
+
 After spending the majority of their lives in the main
 sequence, most stars swell to become giant stars and
 then expel their outer layers and, after a brief moment
@@ -23885,11 +21625,12 @@ neutron stars (including pulsars and magnetars) and
 black holes.
 
 WHITE DWARFS
+
+
 Stars that mass less than eight times Sol at the end
 of their giant star phase end their lives by shedding
 outer layers, briefly forming a planetary nebula around
 their scorching hot cores and slowly cooling over time.
-
 
 Different spectral lines indicating surface composition
 are used to determine subtypes of white dwarfs, usually
@@ -23901,13 +21642,11 @@ Type Ia supernova explosion. To determine actual mass:
 
 **_White Dwarf Mass(_** ʘ **_) = +_**
 
-
 White dwarf diameters follow an inverse mass
 distribution and have diameters similar to those of
 terrestrial planets:
 
 **_White Dwarf Diameter(_** ʘ **_) =_** x 0.01 
-
 
 White dwarf temperatures decrease as they age,
 cooling from over 100,000K to about 4,000K. Most
@@ -23919,7 +21658,6 @@ another 0.7 billion but requires another billion
 to cool another 500 degrees. Larger mass white
 dwarfs will take longer to cool.
 
-
 The White Dwarf Aging table provides very rough
 temperature guidelines to allow for interpolation of
 white dwarf temperatures and resultant luminosity by
@@ -23928,8 +21666,9 @@ table is based on a white dwarf of mass 0.6. To
 determine the temperature value for different masses
 multiple the resultant temperature by Mass ÷ 0.6.
 
-
 NEUTRON STARS
+
+
 Stars massive enough to die in a supernova explosion
 but not big enough to form a resultant black hole
 become neutron stars. While most neutron stars are
@@ -23939,13 +21678,10 @@ a neutron star is NS.
 
 White Dwarf Aging (Mass 0.6ʘ)
 
-
 Years 0.000 0.1 0.5 1 1.5 2.5 5 10 13
 Diameter 0.017 0.017 0.017 0.017 0.017 0.017 0.017 0.017 0.017
 
-
 Temperature 100000 25000 10000 8000 7000 5500 5000 4000 3800
-
 
 Luminosity 2500 0.20 0.0025 0.0010 0.00059 0.00023 0.00015 0.000063 0.000051
 
@@ -23953,23 +21689,20 @@ More precise luminosity can be calculated with the luminosity formula from page 
 
 special circumstances
 
-
 d10
 100
 
-
 2D - 1
 10
-
 
 1
 Mass
 
 
-TRAVELLER
-
 
 PULSAR
+
+
 A pulsar is a fast-rotating neutron star emitting strong
 radio pulses with each sub-second rotation. Most
 known neutron stars are pulsars, but most pulsars (not
@@ -23979,8 +21712,9 @@ Of all the neutron stars in existence since the origin
 of the universe, likely only one in 100 is a pulsar. The
 Traveller designation for a pulsar is PSR.
 
-
 MAGNETAR
+
+
 A magnetar is a sub-class of neutron star with an
 extremely strong magnetic field; it may or may not
 also be a pulsar. Magnetars are rare. Although 10% of
@@ -23990,8 +21724,9 @@ the course of the galaxy’s age, all but one in a million
 have already shut down to become a more common
 pulsar or neutron star.
 
-
 NEUTRON STAR CHARACTERISTICS
+
+
 A neutron star’s mass is generally greater than a white
 dwarf and less than a black hole. Neutron stars more
 massive than 2.16 will continue to collapse, becoming
@@ -24001,11 +21736,9 @@ black holes. To determine mass:
 
 on a roll of 6 add
 
-
 Regardless of mass, all neutron stars have a similar
 diameter of 20–25 kilometres. This can be generated
 as 19 +1D kilometres, if necessary.
-
 
 Neutron stars cool not so much from radiating
 photons (heat) as more normal objects might but, at
@@ -24024,8 +21757,9 @@ modification to temperature based on the neutron star’s
 mass. If computing luminosity, a diameter value of
 0.000015 corresponds to about 20.87 kilometres.
 
-
 BLACK HOLES
+
+
 A black hole occurs when a massive star explodes
 in a supernova and its core retains enough mass
 to continue to contract until its gravity becomes so
@@ -24033,8 +21767,9 @@ extreme that light cannot escape. The barrier where
 this occurs is referred to as the event horizon and is
 considered the surface of a black hole.
 
-
 BLACK HOLE CHARACTERISTICS
+
+
 Black holes have no theoretical maximum mass,
 although most heavier than 100 are likely to have
 formed through mergers or other methods, not stellar
@@ -24042,10 +21777,8 @@ collapse. To determine a black hole’s mass:
 
 **_Black Hole Mass (_** ʘ **_) =_** 2.1 + 1D† - 1 +
 
-
 †For a 6 and each additional 1D roll of 6, continue to
 add 1D to mass.
-
 
 Black holes smaller than 2.17 may exist but would
 have formed through some process other than stellar
@@ -24054,11 +21787,9 @@ Primordial black holes with a mass of less than 200
 million tons will likely have already evaporated through
 a process known as Hawking radiation.
 
-
 Black hole diameter is directly related to mass:
 
 **_Black Hole Diameter =_** 5.9km x Mass (ʘ)
-
 
 A black hole by definition does not radiate heat. The
 accretion disk around it, if any, may generate a great
@@ -24069,31 +21800,30 @@ free to set whatever luminosity value is required for the
 situation, ranging from zero to a torrent of light from the
 shredded remains of giant stars.
 
-
 DEAD STAR SYSTEM CHARACTERISTICS
+
+
 A dead star generally disrupts its system and the
 local environment during the process of dying. This
 affects both travel into the system and what remains
 after the star’s death.
 
-
 JUMP RESTRICTIONS
+
+
 If a system hosts no ‘normal’ stars, the Empty Hex Jump
 DMs table affects jumps to these systems. If the dead
 star is a member of a star system that contains normal
 
 special circumstances
 
-
 1D
 10
 1D - 1
 10
 
-
 d10
 10
-
 
 hydrogen-burning stars, no such restrictions apply.
 However, pulsars and black holes cast unusual jump
@@ -24125,7 +21855,6 @@ system when the primary star is a dead star roll 2D:
 
 **_Dead Star Planetary System Exists on 8+:_** 2D + DMs
 
-
 Multiple ‘dead star’ system DM-2
 Neutron star (or pulsar, magnetar) present DM-2
 Black hole present DM-4
@@ -24136,12 +21865,10 @@ following modifications apply to system:
 •	 The check to see if a gas giant is absent is 6+
 instead of the standard 10+. Alternatively, a gas
 giant is only present on a roll of 9+. The roll to
-determine the number of gas giants has post-
-stellar object DMs.
+determine the number of gas giants has post-stellar object DMs.
 •	 The check to see if a planetoid belt is present is 6+
 instead of the standard 8+. The roll to determine the
 number of planetoid belts has post-stellar object DMs.
-
 
 •	 The check to determine the number of terrestrial
 planets is 1D-2 instead of the standard 2D-2.
@@ -24151,8 +21878,9 @@ dead star is 0.001.
 have the radioactive taint or irritant at severity and
 persistence 9 in addition to any other taints or irritants.
 
-
 NEBULAE
+
+
 The term nebula is a broad characterisation of a
 diffuse interstellar cloud composed of gases, ions and/
 or dust. A nebula may be associated with star birth
@@ -24175,7 +21903,6 @@ mostly vacuum with the volume of a planet containing
 only a few kilograms of diffuse material. Only their vast
 size makes them appear solid.
 
-
 For Traveller purposes, nebulae can occur in two ways:
 they could be the result of a system generation roll or
 may be a structure placed on a map by the Referee.
@@ -24184,18 +21911,17 @@ may hold some unknown objects within its borders, the
 latter is subject to the whims of the Referee and could
 span whole sectors.
 
-
 RANDOM NEBULA GENERATION
+
+
 A Referee assigning random characteristics to a nebula
 can use the Random Nebula Type table as a guide.
-
 
 A planetary nebula should have an associated white
 dwarf. Planetary nebulae do not last more than a few
 thousand or tens of thousands of years before fading.
 
 Random Nebula Type
-
 
 1D Type Comments
 1 Planetary nebula Roll 1D: on a 1 it is a single hex with a new white dwarf, on 2–6 a ring of six
@@ -24207,8 +21933,6 @@ hexes surrounding a young white dwarf.
 special circumstances
 
 
-TRAVELLER
-
 
 The central white dwarf uses the 0.000 column on the
 White Dwarf Aging table on page 227 to determine
@@ -24217,11 +21941,9 @@ adjust a subsector or sector map to create a ring of
 nebula around the central star or declare the nebula to
 be a single hex with a white dwarf at the centre.
 
-
 A dark nebula is opaque to visual light but infrared light
 can pass through it. It may span multiple hexes at the
 Referee’s discretion.
-
 
 An ionised hydrogen nebula or H II Nebula is generally
 associated with star formation. Examples of these
@@ -24232,7 +21954,6 @@ Referee may choose to place such nebulae near these
 bright stars or add a bright star to an otherwise empty
 hex adjacent to such a nebula.
 
-
 A supernova remnant is the wispy remains of matter
 expelled by a dying star. Depending on the age of the
 remnant, it can be quite large. Such remnants may be
@@ -24242,11 +21963,9 @@ this ring may contain a neutron star, a black hole or the
 remnant object could have been ejected by an uneven
 explosion, leaving a missing or off-centre object.
 
-
 If the Referee wishes to randomly expand the size of
 any nebula other than a planetary nebula, assign a
 probability such as 1 in 6 to surrounding hexes and add
-
 
 a hex of the nebula to any hex with a positive result.
 Continuing this process around each new hex can
@@ -24258,28 +21977,24 @@ supernova remanent, to draw a circle around the central
 remnant and assign a probability of nebula existence to
 each hex in that circle.
 
-
 OBJECTS WITHIN A NEBULA
+
+
 A one hex nebula can contain any of the objects possible
 to find in an empty hex as indicated on the Empty Hex
 Objects table on page 221, with two differences:
-
 
 First, any nebula except a planetary nebula may contain
 protostars in early formation. Replace the white dwarf
 row on the table with the following protostar entry:
 
-
 Protostar 6 on 1D, then equal to
 system density
 
-
 3 Automatic
-
 
 Second, multiply the table’s detection column value by
 four for all smaller objects.
-
 
 A multi-hex nebula may engulf incidental systems.
 The Referee may choose to roll normally for system
@@ -24288,7 +22003,6 @@ system in question is ‘just passing through’ the region
 of nebula and while views of the night sky will be
 
 special circumstances
-
 
 affected, the sparse nature of most nebulae are such
 that little additional effects occur, although the Referee
@@ -24315,6 +22029,8 @@ same DM but they cannot communicate the severity of
 the penalty to one another.
 
 STAR CLUSTERS
+
+
 A star cluster is a dense conglomeration of stars. These
 may be open star clusters resulting from recent star
 formation, with all the stars in a tight grouping recently
@@ -24323,8 +22039,7 @@ globular clusters bound by gravity for billions of years.
 In either case, a general characteristic of a star cluster
 is that the stars within the cluster tend to have the same
 age. One or more interlopers may have wandered into
-the cluster through random motion but for all systems
-(except one if the Referee places an interloper) in any
+the cluster through random motion but for all systems (except one if the Referee places an interloper) in any
 given hex, they will be identical in age.
 
 For settings in the galactic spiral arms, star clusters are
@@ -24344,8 +22059,9 @@ another star cluster, treat it as a BD (brown dwarf)
 result instead. A Referee can also choose to treat
 anomaly results as brown dwarfs.
 
-
 GENERATING CLUSTER SYSTEMS
+
+
 As noted above, all systems in a star cluster have
 the same age. If a massive star should have aged
 out of the main sequence by the age of the cluster it
@@ -24357,7 +22073,6 @@ would technically be a DM+2 for the default method
 of determining gas giant presence) and all orbits will
 have DM+2 on the eccentricity table.
 
-
 For each hex within a cluster (except the hex rolled
 as the cluster hex, if it was a random consequence
 of star determination) there is a chance equal to
@@ -24366,8 +22081,9 @@ system appearing – in other words, if it ‘spills’ into a
 mapped region the existing systems can still exist,
 surrounded by cluster stars.
 
-
 JUMP RESTRICTIONS
+
+
 Jumping into a dense star cluster poses challenges.
 Unless the jump is to a directly adjacent star within the
 cluster (Referee’s discretion) or from the outside to a
@@ -24376,8 +22092,9 @@ a DM-1D to all Astrogation and Engineer (j-drive)
 checks. Like the nebula modifier above, this DM
 changes on a daily basis.
 
-
 ARTIFICIAL WORLDS
+
+
 Artificial structures in space range in size from single
 module space stations to Dyson spheres. The former
 is possible at TL6, the latter at perhaps TL29. For the
@@ -24395,7 +22112,6 @@ a naturally created planet and use the host world’s Size
 code. Others, such as orbitals, ringworlds and Dyson
 spheres are entirely constructed.
 
-
 Objects from full-sized orbitals and larger have surface
 areas that are greater than a full-sized planet. Many
 variations of these object are possible. A Dyson sphere,
@@ -24405,15 +22121,14 @@ most of the energy of the system’s central star could
 special circumstances
 
 
-TRAVELLER
-
 
 be possible as early as TL8, given enough industrial
 capacity and time to completely mine and transform an
 asteroid belt or disassemble a small planet or moon.
 
-
 IISS PROCEDURAL
+
+
 Systems or objects that do not show up on
 commercial maps are the subject of many of the
 exploration office’s expeditions, some of which
@@ -24423,7 +22138,6 @@ have marginally habitable planets. In other empty
 locations, rogue worlds can act as refuelling points or
 convenient gravity wells on journeys otherwise too far
 or dangerous to cross in a single jump.
-
 
 Expeditions to these publicly uncharted locations
 begin with remote observation, often over the course
@@ -24436,7 +22150,6 @@ jump with enough return fuel for one of them, allowing
 the crews to consolidate onto a single ship and return
 without becoming stranded. Drop tanks and external
 fuel bladders wrapped in jump nets are also options
-
 
 Artificial World Types
 Object TL Size Code Description
@@ -24459,10 +22172,8 @@ Ringworld 27 X Sun encompassing ring (any main sequence star)
 Small Dyson Sphere 28 X Sun encompassing rigid sphere (red dwarf habitable zone only)
 Dyson Sphere 29 X Sun encompassing rigid sphere (any main sequence star)
 
-
 to extend the range of vehicles beyond their rated
 maximum, especially when crossing rift areas.
-
 
 The communications office is often involved in
 provisioning and operating deep space jump bridges,
@@ -24473,7 +22184,6 @@ package delivery to systems that would otherwise be
 considerably delayed or not possible by normal means.
 Such bridge stations rarely have commercial service, a
 major reason for their absence on the RPSC charts.
-
 
 Protostar systems are rare and almost always
 interdicted by the IISS for safety reasons. This
@@ -24489,7 +22199,6 @@ communities but most are too hazardous for settlement.
 The Scout Service may place a base on a protected or
 
 special circumstances distant planetesimal in such systems.
-
 
 Neutron stars and black holes are rare. Most known
 exemplars of such objects in Charted Space are either
@@ -24516,11 +22225,9 @@ Lower tech objects such as massive space habitats
 are common. More unusually artefacts, such as a small
 ring moon, exists at Hliyh in the Trojan Reach and
 
-
 Antra in Deneb has its Worldroof, as do many smaller
 ‘tented’ Selenite worlds in the Solomani Confederation.
 Kaskii in Core is a tiered world.
-
 
 The Ancients attempted to create greater wonders such
 as the rosette of seven worlds at Tireen in Knaeleng, the
@@ -24532,8 +22239,9 @@ rumours of these finds are as old as starflight. As such
 massive artefacts would be interdicted, the Scout
 Service is not inclined to publicise any such finds.
 
-
 PROFILE FORMS
+
+
 Regardless of the type of system, the forms displayed
 for public use are actually not those used by Scout
 Service personnel familiar with the shorthand of profile
@@ -24541,7 +22249,6 @@ descriptions. For a mainworld, this form can compress
 information into a format that an experienced scout can
 interpret at a glance. What follows are a blank form and
 one filled out for Zed Prime.
-
 
 Name
 Location
@@ -24572,99 +22279,72 @@ Other
 special circumstances
 
 
-TRAVELLER
-
 
 Name Zed Prime
 
-
 Location Storr 0602
-
 
 Star(s) G7 V:G8 V:K7 V:M0 V:D,
 
-
-5-G7 V-0.929-0.967-0.738-6.336:Ab-0.09-0.11-G8 V-0.907-0.957-0.681:B-6.1-0.08-
-K8 V-0.626-0.777-0.136:Ca-12.1-0.47-M0 V-0.510-0.728-0.0895:Cb-0.21-0.24-
-D-0.490-0.017-0.000525
-
+5-G7 V-0.929-0.967-0.738-6.336:Ab-0.09-0.11-G8 V-0.907-0.957-0.681:B-6.1-0.08-K8 V-0.626-0.777-0.136:Ca-12.1-0.47-M0 V-0.510-0.728-0.0895:Cb-0.21-0.24-D-0.490-0.017-0.000525
 
 World(s) 4-2-C-5-0.5, Aab-5-T-T-T-P-G-G-T-T-T-0.5:B-2-T-T-0.5:AB-0-T-T-G-0.5:Cab-0-P-G-T-T-0.5
 
-
 Starport C-HN:DY+1 (II)
-
 
 Size 5-8163-1.03-0.66-0.27
 
-
 Atmosphere 6-1.042-0.292:N 2 -71:O 2 -28
-
 
 Hydrographics 6-5:62:H 2 O
 
-
 Population 7-1.8-3-44-7
 
-
-Government 7: I-B-G:B-UER-LR-LR (x3), II-3-G:3-CLS-ES-JS 9 (x4), I+II:6
-
+Government 7: I-B-G:B-UER-LR-LR (x3), II-3-G:3-CLS-ES-JS9 (x4), I+II:6
 
 Law Level 6-68846 AIP-Y-N (II), A-989B9 AIP-Y-Y (I); vP:(Elites-2, Vistors+2)
 
-
 Tech Level 8-6-89897-98-C (II), 76-7765-7777-77C (I)
-
 
 Year 0.805
 
-
 Solar Day 85.77
-
 
 Axial Tilt 73.65
 
-
 Temperature 346-300-262
-
 
 Life A579
 
-
 Resource B
-
 
 Habitability 7
 
-
 Culture 6999-B556 (II), 757A-B65C (I)
-
 
 Economics Ag Ri, F6D-2, -2340, 5940, 8, 58, 2.49
 
-
 Military 50633-300:1.76% (II), F2A96-100:4.03% (I)
-
 
 Bases Scout
 
-
 Zone Amber
-
 
 Other Satellite mainworld (Aab IV d). See also Zed Secundus freeport (Aab V d: C340552-9)
 
 special circumstances
 
 
-
 TOOLS
+
+
 Survey scouts carry a large variety of specialised
 equipment. The examples below are among those less
 commonly available as surplus or civilian models.
 
-
 PLANETOLOGY SENSOR PACK
+
+
 This backpack is equipped with a suite of instruments
 intended to analyse the characteristics of a planetary
 environment, providing a full workup of atmosphere
@@ -24672,28 +22352,25 @@ and surface composition, climatic conditions and
 rough internal planetary structure. The set includes
 an atmospheric sensor with an advanced chemical
 sniffer capable of identifying trace gases, organic
-compounds and other airborne contaminants, a wide-
-angle PRIS EM-spectrum detector, a densitometer and
+compounds and other airborne contaminants, a wide-angle PRIS EM-spectrum detector, a densitometer and
 high-bandwidth interfaces to a DD/R display or neural
 comm. It provides a DM+2 to any Science (planetology,
 life sciences or chemistry) checks in addition to any
 bonuses from a relevant science toolkit.
 
-
 Item TL Effect Kg Cost
 Planetology
 Sensor Pack
-
 
 14 +2 to relevant
 physical or life
 science checks
 
-
 10 Cr50000
 
-
 ENVIRONMENT SPIKE
+
+
 An environment spike, sometimes called a survey
 stick, is a miniaturised sensor array the size of a fist
 atop a metre-long pole. The pole ends in a retractable
@@ -24712,7 +22389,6 @@ audio and video, and up to two years of 15-minute data
 
 # E QUIPMENT
 
-
 reads and sample audio/video captures. The spike’s
 surface is covered in solar cells and the weather
 station’s wind sensors can be used to generate minimal
@@ -24724,22 +22400,20 @@ six months of operation if limited to data bursts of
 legs have AP 6 and cause 2D damage, penetrating up
 to 10 centimetres into the target.
 
-
 Environment spikes are weighted and configured to
 land upright and deploy into the ground if dropped from
 a moving vehicle or can be hand-placed by landing
 parties. A switch on the side of the pole retracts the
 barbed tips of the spike legs for easy retrieval.
 
-
 Item TL Effect Kg Cost
 Environment Spike 13 Remote environmental data collector 1 Cr5000
 
 
-TRAVELLER
-
 
 VEHICLES
+
+
 The IISS uses a variety of vehicles in field operations, ranging from g-carrier-sized survey vehicles to grav
 belts. The procurement branch has made a major effort to standardise on a few basic models of vehicles,
 allowing interoperability and ease of maintenance and training. The survey pod line of vehicles is an attempt to
@@ -24748,6 +22422,7 @@ adoption of pod variants has been slow, hampered by a surprisingly conservative 
 offices to accept something new.
 
 IISS SURVEY POD
+
 
 
 A survey pod is a pressurised spherical grav vehicle
@@ -24770,23 +22445,21 @@ passenger a wide field of view but the vehicle is
 not armoured, making it vulnerable to damage from
 meteoritic activity or hostile natives.
 
-
 The survey pod’s life support system can sustain its
 occupants for up to 90 days and will support a third
-occupant if seated in the storage area behind the side-
-by-side forward seats. It is capable of reaching orbit and
+occupant if seated in the storage area behind the side-by-side forward seats. It is capable of reaching orbit and
 descending safely to the surface of a world, making it an
 excellent lifeboat in emergency circumstances.
 
-
 EQUIPMENT AND WEAPONS
+
+
 Autopilot (advanced), Communications (advanced,
 encryption, increased range x3), Computer/4,
 Control System (advanced), Ejections Seats, Fire
 Extinguishers, Life Support (long term), Navigation
 System (advanced), Sensors (advanced, 250km),
 Vacuum Protection
-
 
 TL 15
 SKILL Flyer (grav)
@@ -24800,7 +22473,6 @@ HULL 8
 SHIPPING 2 tons
 COST Cr638000
 
-
 Equipment
 Autopilot (skill level) +3
 Communications (range) 100,000km
@@ -24809,14 +22481,16 @@ Sensors (Electronics (sensors) DM) +2
 Camouflage (Recon DM) —
 Stealth (Electronics (sensors) DM) —
 
-
 ARMOUR
+
+
 FRONT 4 REAR 4 SIDES 4
 
 equipment
 
-
 IISS COVERT OPERATIONS POD
+
+
 
 The covert operations pod or COP is a modified
 survey pod developed for use in hostile environments.
@@ -24850,12 +22524,10 @@ Autopilot (advanced), Camouflage (advanced),
 Communications (advanced, encryption, increased range
 x3), Computer/4, Control System (advanced), Corrosive
 
-
 Environment, Ejections Seats, Fire Extinguishers,
 Insidious Environment, Life Support (long term),
 Navigation System (advanced), Sensors (advanced,
 250km), Stealth (advanced), Vacuum Protection
-
 
 TL 15
 SKILL Flyer (grav)
@@ -24869,7 +22541,6 @@ HULL 8
 SHIPPING 2 tons
 COST MCr1.025
 
-
 Equipment
 Autopilot (skill level) +3
 Communications (range) 100,000km
@@ -24878,29 +22549,30 @@ Sensors (Electronics (sensors) DM) +2
 Camouflage (Recon DM) -4
 Stealth (Electronics (sensors) DM) -4
 
-
 ARMOUR
+
+
 FRONT 50 REAR 50 SIDES 50
 
 equipment
 
 
-TRAVELLER
-
 
 ROBOTS
+
+
 The scout service’s field offices pride themselves on their independent spirit and endurance in difficult
 environments but at times the environment is either too hazardous or the staff too thinly stretched to accomplish the
 mission. At these times, survey and exploration teams can employ a variety of robots to help them complete their
 tasks. These tireless servants receive none of the acclaim for their discoveries and much distain from their users
 but without them many missions would not achieve success.
 
-
 SURVEY HELPER
+
+
 A survey helper looks like a flying drum with two arms
 and 20 eyes scattered atop its rounded head. Designed
-to accompany survey teams as an extra pair of hands
-(and many pairs of eyes), the survey helper can act as
+to accompany survey teams as an extra pair of hands (and many pairs of eyes), the survey helper can act as
 a field investigator and data acquirer in conjunction with
 a survey team, or can operate alone in environments
 too hazardous to sophont life. Although unarmoured,
@@ -24908,25 +22580,18 @@ it can withstand high radiation and insidious
 environments and report back to a ship in orbit or a
 team awaiting data in a safe location.
 
-
 Robot Hits Locomotion Speed TL Cost
 Survey Helper 20 Grav 6m 15 Cr300000
 
-
-Skills Investigate 2, Navigation 4, Recon 3, Science (biology) 1, Science (chemistry) 1, Science
-(planetology) 2, Science (xenology) 1
-
+Skills Investigate 2, Navigation 4, Recon 3, Science (biology) 1, Science (chemistry) 1, Science (planetology) 2, Science (xenology) 1
 
 Attacks —
-Manipulators 2 X (STR 9 DEX 9)
-
+Manipulators 2X (STR 9 DEX 9)
 
 Endurance 96 hours
 Traits Armour (+4), Flyer (idle), Heightened Senses, IR/UV Vision
 
-
 Programming Very Advanced (INT 9)
-
 
 Options Auditory Sensor (broad spectrum), Corrosive Environment Protection, Densitometer Sensor,
 Drone Interface, Insidious Environment Protection, Navigation System (advanced), Olfactory
@@ -24936,7 +22601,6 @@ Submersible Environment Protection 4,000m (superior), Transceiver 5,000km (advan
 Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 equipment
-
 
 **MICROSPY**
 The microspy is a covert surveillance tool
@@ -24961,7 +22625,6 @@ dim lighting, it can operate indefinitely, collecting
 information about its surroundings and storing it for
 years or passing it on to an orbital satellite.
 
-
 Robot Hits Locomotion Speed TL Cost
 Remote Environment Sentinel 1 — 0m 15 Cr49000
 Skills Recon 3
@@ -24970,11 +22633,9 @@ Manipulators —
 Endurance 1,728 hours
 Traits Armour (+4), Heightened Senses, IR/UV Vision, Small (-4)
 Programming Basic (recon) (INT 4)
-Options Drone Interface, Environment Processor, Gecko Grippers, Olfactory Sensor
-(advanced), PRIS Sensor, Recon Sensor (advanced), Satellite Uplink, Solar
+Options Drone Interface, Environment Processor, Gecko Grippers, Olfactory Sensor (advanced), PRIS Sensor, Recon Sensor (advanced), Satellite Uplink, Solar
 Coating (improved), Transceiver 500km (advanced), Vacuum Environment
 Protection, Wireless Data Link
-
 
 Robot Hits Locomotion Speed TL Cost
 MicroSpy 1 Grav 3m 15 Cr80000
@@ -24984,18 +22645,17 @@ Manipulators —
 Endurance 96 hours
 Traits Flyer, Hardened, Heightened Senses, IR/UV Vision, Small (-4)
 Programming Advanced (INT 6)
-Options Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage: Olfactory
-(advanced), Camouflage: Visual (superior), Drone Interface, Environment Processor, Olfactory
+Options Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage: Olfactory (advanced), Camouflage: Visual (superior), Drone Interface, Environment Processor, Olfactory
 Sensor (advanced), PRIS Sensor, Radiation Environment Protection (750 rads), Transceiver
 5,000km (advanced), Vacuum Environment Protection, Wireless Data Link
 
 equipment
 
 
-TRAVELLER
-
 
 POD DROID
+
+
 The pod droid is a robot in the body of a IISS
 covert survey pod. Designed to operate in
 environments too hazardous for crews, this
@@ -25012,25 +22672,19 @@ this robot ‘too smart’ for its duties and has
 requisitioned a version with a less advanced
 brain for cost-containment reasons.
 
-
 Robot Hits Locomotion Speed TL Cost
-
 
 Pod Droid 72 Grav 6+m 15 MCr5.2
 Skills Athletics (endurance) 3, Athletics (strength) 3, Flyer (grav) 3, Investigate 4, Navigation 4,
 Recon 3, Science (all) 4, Stealth 4
 
-
 Attacks —
 
-
-Manipulators 2 X (STR 15 DEX 15)
+Manipulators 2X (STR 15 DEX 15)
 Endurance 384 (64) hours
-
 
 Traits Armour (+50), Flyer (very fast), Hardened, Heightened Senses, IR/UV Vision, Large (+3),
 Stealth (+4)
-
 
 Programming Self-aware (INT 12)
 Options Auditory Sensor (broad spectrum), Autopilot (advanced), Bioscanner Sensor, Camouflage:
@@ -25044,8 +22698,9 @@ Environment Protection, Voder Speaker (broad spectrum), Wireless Data Link
 
 equipment
 
-
 SOFTWARE
+
+
 
 **CENSUS ESTIMATOR**
 Initially developed for the First Survey, but still in use
@@ -25064,12 +22719,12 @@ with no modifiers. On a failure, the check can
 be repeated after a number of days equal to the
 world’s Population code.
 
-
 Software Bandwidth TL Cost
 Census Estimator 3 13 Cr10000
 
-
 SYSTEM SURVEYOR
+
+
 This software package performs the basic task of
 surveying a star system, using whatever sensors are
 available and data from any deployed probe. A system
@@ -25082,17 +22737,13 @@ or DM+2 if they are advanced probe drones. A failed
 check allows a second attempt after a number of days
 equal to the negative Effect.
 
-
 Software Bandwidth TL Cost
 Deep Space Surveyor (basic) 3 12 Cr10000
 
-
 Deep Space Surveyor (improved) 4 13 Cr100000
-
 
 Software Bandwidth TL Cost
 System Surveyor (basic) 3 12 Cr10000
-
 
 System Surveyor (improved) 4 13 Cr100000
 
@@ -25114,9 +22765,12 @@ objects. The improved version of this software
 grants DM+2 to both instead.
 
 
-
 HAZARDOUS ENVIRONMENT
+
+
 EXPLORATION BOAT
+
+
 
 The IISS has spent centuries attempting to
 standardise on just a few basic ship types but
@@ -25130,7 +22784,6 @@ time but the cutter modules are plentiful, many
 mothballed after the completion of the Second
 Survey or repurposed as additional living quarters
 adjacent to scout bases.
-
 
 Designed to penetrate the most hostile environments,
 the hazardous exploration environment boat (HEEB),
@@ -25147,13 +22800,12 @@ performing deep exploration with a second boat
 operating in a more benign environment and standing
 by as a rescue vessel as necessary.
 
-
 TL15 Tons Cost (MCr)
 Hull 24 tons, Streamlined Pressure Hull 6 14.4
 Heat Shielding — 2.4
 Radiation Shielding — 0.6
 Armour Bonded Superdense, Armour: 4 — —
-M-Drive Thrust 4 (energy efficient) 0.96 2.112
+M-Drive Thrust4 (energy efficient) 0.96 2.112
 Power Plant Fusion (TL15), Power 20 1 2
 Fuel Tanks 4 weeks of operation 1 —
 Bridge Holographic Controls 3 0.625
@@ -25172,23 +22824,23 @@ Cargo 0.04 —
 
 **SPACECRAFT**
 
-
 Hazardous Environment
 Exploration Boat
-
 
 Crew
 Pilot, Sensor Operator
 
 **Hull: 10**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr2446/month
 PURCHASE COST
-MCr29.347
 
+
+MCr29.347
 
 Power Requirements
 Basic Ship Systems
@@ -25198,9 +22850,7 @@ Manoeuvre Drive
 Sensors
 6
 
-
-The survey cutter module is a specialised sensor-
-laden module designed for long term in-depth analysis
+The survey cutter module is a specialised sensor-laden module designed for long term in-depth analysis
 of a world. It is equipped with an advanced sensor
 suite with specialised sensors for both life and mineral
 analysis, plus four tons of cargo capacity and three
@@ -25209,28 +22859,27 @@ specialised sensors. An onboard computer system
 
 **SPACECRAFT**
 
-
 Surveyor Cutter
 Module
-
 
 Crew
 Sensor Operators x2
 
 **Hull: 10**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1622/month
 PURCHASE COST
-MCr19.46
 
+
+MCr19.46
 
 Power Requirements
 Sensors
 7
-
 
 can accommodate specialised software for survey
 operations. Two sensor stations and three staterooms
@@ -25238,7 +22887,6 @@ allow a crew of a cutter pilot and two specialists to
 remain onboard for months. It is not intended to
 operate independently from its cutter, and if detached
 life support is very limited while sensors are operating.
-
 
 TL15 Tons Cost (MCr)
 Hull 30 tons, Streamlined — 0.9
@@ -25274,7 +22922,6 @@ Cargo 3 —
 8
 5 7 7 9
 4
-
 
 
 Accretion Disk: A broad ring-like structure formed
@@ -25319,7 +22966,6 @@ output of a world’s economy in a standard year. The
 ‘per capita GWP’ measures the GWP divided by the
 total population of a world.
 
-
 Gyr: Giga-year. Short for one billion years. The
 plural is ‘Gyrs’.
 HZCO: Habitable Zone Centre Orbit#. The ideal orbital
@@ -25343,8 +22989,7 @@ L4, sometimes called the leading trojan point, is in the
 same orbit as the smaller body but 60° ahead of it. L5,
 or the trailing trojan point, is 60° behind it. Only L4 and
 L5 orbits are stable over long periods.
-Luminosity: The total or ‘bolometric’ brightness
-(energy output) of a star, expressed in values relative
+Luminosity: The total or ‘bolometric’ brightness (energy output) of a star, expressed in values relative
 to Sol (1.0).
 Main Sequence Star: Most stars during the majority of
 their lifespans. Also known as ‘Class V’ or ‘dwarf’ stars.
@@ -25364,7 +23009,6 @@ average temperature of a region of 45° latitude at the
 world’s mean baseline altitude.
 
 # G LOSSARY
-
 
 Minimum Allowable Orbit#: The closest a world can
 orbit a star or number of stars. Abbreviated as MAO.
@@ -25428,7 +23072,6 @@ height above mean baseline altitude required for the
 atmospheric pressure to be reduced by a factor of e
 or 2.718.
 
-
 Semi-Major Axis: The average orbital distance of a
 body around its primary, measured centre to centre.
 Sidereal Day: The amount of time required for an
@@ -25459,8 +23102,7 @@ includes Vargr, Dolphins, Apes and any other uplifted or
 genetically modified lifeforms from [[Terra|Terran]] stock.
 Trojan World: A co-orbiting planet or moon, orbiting
 60 degrees before or behind another world in the same
-orbit. The world may either be leading (L4) or trailing
-(L5) the larger world in the same orbit.
+orbit. The world may either be leading (L4) or trailing (L5) the larger world in the same orbit.
 Twilight Zone World: A world tidally locked to its
 primary star(s) so that one side is in perpetual daylight,
 another in perpetual night, with a narrow twilight zone
@@ -25476,10 +23118,11 @@ significant moon or planetoid belt.
 
 glossary
 
-
 NEW SYSTEM CREATION:
 
 EXPANDED METHOD
+
+
 
 1. Determine primary star type and class from chart
     a. Determine numeric subtype from d10 roll or
@@ -25493,10 +23136,8 @@ EXPANDED METHOD
 
 # C HECKLISTS
 
-
 d. Determine initial system age based on
 primary star:
-
 
 e. Determine actual system age based on
 primary star mass and class
@@ -25510,7 +23151,6 @@ primary star mass and class
     d. Adjust system age to account for post-stellar
        objects (if any)
     e. Determine star orbital periods:
-
 
 i. P =
 
@@ -25528,7 +23168,6 @@ i. P =
     b. In multiple star systems, follow process to
        exclude orbital ranges
 
-
 b. Convert AUs into Orbit#s using the table
 c. Determine habitable zone breadth
 
@@ -25540,14 +23179,13 @@ c. Determine habitable zone breadth
        of these conditions:
           i. Step 3a: Baseline number is in habitable
              zone
-ii. Step 3b: Baseline is less than 1 (cold
+ii. Step 3b: Baseline is less than1 (cold
 system: all worlds outside HZCO)
 iii. Step 3c: Baseline is greater than total
 worlds (hot system: all worlds inside HZCO)
     d. Step 4: Determine empty orbits from table and
        assign orbital slot
     e. Step 5: Determine system spread:
-
 
 i. Adjust maximum spread and secondary
 spread if necessary
@@ -25564,67 +23202,47 @@ i. Step 9: Determine eccentricity for planets
 7. Determine orbital periods (year length)
     a. Planets orbiting single stars:
 
-
 P =
 
-
 P =
-
 
 b. Planets orbiting multiple stars:
 
-
 Luminosity =
-
 
 Main Sequence Lifespan = Gyr
 
+AU^3 ( Σ M)
 
-AU^3
-( Σ M)
-
-
-AU^3
-(M)
+AU^3 (M)
 
 (^) X
 
 ###### ( )
 
-
 Diameter
 Diameter
-
 
 2
 
 ###### ( )
 
-
 Temperature
 Temperature
 
-
 4
 
-
-AU^3
-(M + m)
-
+AU^3 (M + m)
 
 10
 Mass2.5
 
-
 Spread =
-
 
 Distance ≈ Luminosity
 
-
 (Baseline Orbit - MAO)
 Baseline Number
-
 
 
 c. Large planets orbiting stars: e. Record total worlds = GG + PB + TP +
@@ -25652,6 +23270,8 @@ NEW SYSTEM CREATION:
 
 CONTINUATION METHOD
 
+
+
 1. Record existing star classes and types or determine
     primary star type and class from chart, and:
        a. Determine numeric subtype from d10 roll or
@@ -25660,16 +23280,12 @@ CONTINUATION METHOD
           and interpolation
        c. Determine luminosity from formula or chart:
 
-
 Luminosity =
-
 
 Main Sequence Lifespan = Gyr
 
-
 d. Determine initial system age based on primary
 star:
-
 
 e. Determine actual system age based on
 primary star mass and class
@@ -25697,9 +23313,7 @@ primary star mass and class
        ii. Include mainworld as one of the terrestrial
           planets rolled
 
-
 Distance ≈
-
 
 b. Convert AUs into Orbit#s using the table
 c. Determine habitable zone breadth
@@ -25712,7 +23326,7 @@ c. Determine habitable zone breadth
        of these conditions:
           i. Step 3a: Baseline number is in habitable
              zone
-ii. Step 3b: Baseline is less than 1 (cold
+ii. Step 3b: Baseline is less than1 (cold
 system: all worlds outside HZCO)
 iii. Step 3c: Baseline is greater than total
 worlds (hot System: all worlds inside
@@ -25724,7 +23338,6 @@ Orbit#
     d. Step 4: Determine Empty Orbits from table
        and assign orbital slot
     e. Step 5: Determine system spread:
-
 
 i. Adjust maximum spread and secondary
 spread if necessary
@@ -25743,61 +23356,44 @@ i. Step 9: Determine eccentricity for planets
 
 checklists
 
+AU^3 (M)
 
-AU^3
-(M)
-
-
-AU^3
-(M + m⊕ x 0.000003)
+AU^3 (M + m⊕ x 0.000003)
 
 (^) X
 
 ###### ( )
 
-
 Diameter
 Diameter
-
 
 2
 
 ###### ( )
 
-
 Temperature
 Temperature
 
-
 4
-
 
 10
 Mass2.5
-
 
 Spread =
 (Baseline Orbit - MAO)
 Baseline Number
 
-
 P =
-
 
 Luminosity
 
 
-TRAVELLER
-
 
 b. Planets orbiting multiple stars:
 
-
 i. Hill Sphere = AU×(1-ecc) x
 
-
 c. Large planets orbiting stars:
-
 
 P =
 
@@ -25809,7 +23405,11 @@ P =
 
 PHYSICAL CHARACTERISTICS
 
+
+
 CHECKLIST
+
+
 
 1. Begin with Size or SAH from the expanded
     method or UWP from the continuation method,
@@ -25825,39 +23425,28 @@ CHECKLIST
        d. Determine gravity, mass and escape velocities
           based on density and diameter
 
-
 i. Gravity =
-
 
 ii. Mass = Density x
 
-
 iii. Escape Velocity (EscV) =
-
 
 x 11,186
 
-
-e. Record Size profile: Size-Diameter km-
-Density-Gravity-Mass
+e. Record Size profile: Size-Diameter km-Density-Gravity-Mass
 
 3. **Determine characteristics of significant moons**
     and rings
        a. Determine the Hill sphere and the Hill sphere
           moon limit in planetary diameters (PD)
 
-
 ii. Hill Sphere (PD) =
-
 
 iii. Hill Sphere Moon Limit =
 
-
 Hill sphere (AU) x
 
-
 (round down)
-
 
 b. Determine the Roche Limit:
 i. Assume 1.5 PD in most circumstances
@@ -25867,16 +23456,13 @@ d. Determine moon orbit locations in PD by rolls
 and table and optional variance
 e. Determine moon period:
 
-
 f. Period (hours) = 0.176927 x or
-
 
 Period (hours) = ÷ 361730
 
 **ASTEROID BELT CHECKLIST**
 
 1. Determine belt span
-
 
 a. Belt Span =
 
@@ -25894,99 +23480,73 @@ a. Belt Span =
 6. Record belt profile: [span]-[composition%s]-
     [bulk]-[resource rating]-[#Size1]-[#Size0]
 
-
 +
-
 
 g. Determine moon eccentricity and orbital
 direction (prograde or retrograde)
-
 
 2D + 2 -
 
 checklists
 
-
-Spread x (2D - 2)
+Spreadx (2D - 2)
 10
-
 
 Hill Sphere (PD)
 2
 
-
 m
 3 x M
-
 
 Diameter
 Diameter⊕
 
-
 Density x Diameter
 Diameter⊕
 
+AU^3 (M + m⊕ x 0.000003)
 
-AU^3
-(M + m⊕ x 0.000003)
-
-
-AU^3
-(ΣM)
-
+AU^3 (ΣM)
 
 P =
 
 #### ( )
 
-
 Diameter
 Diameter⊕
-
 
 Mass
 Mass⊕
 
-
 149,597,870.9
 Planet's diameter(km)
 
-
 (PD x Size)^3
 Mp
 
-
 (PD x Size)^3
 Mp
-
 
 System Age (Gyr)
 2
 
-
 c-type%
 10
-
 
 m-type%
 10
 
-
 c-type%
 10
 
-
 3
-
 
 
 h. Determine ring width and centre location, i. Bad Ratio =
 adjusting as necessary:
 i. Ring Centre Location (PD) = 0.4 +
 
-
 ii. Ring Width (PD) = + 0.07
-
 
 iii. Record ring profile: R0#:[ring centre]-[ring
 span], [ring centre]-[ring span], ...
@@ -26002,17 +23562,13 @@ span], [ring centre]-[ring span], ...
           i. Total Atmospheric Pressure = Minimum
              Pressure Range + Span x
 
-
 ii. Total Atmospheric Pressure = Minimum
 Pressure Range + Span x
-
 
 e. If Atmospheres 2-9, D or E, determine oxygen
 fraction and partial pressure of oxygen (ppo):
 
-
 i. Oxygen Fraction =
-
 
 ii. Partial pressure of oxygen (ppo) bar =
 Oxygen Fraction x Total Atmospheric
@@ -26020,15 +23576,11 @@ Pressure
 f. Determine scale height and note the pressure
 at altitude formula:
 
-
 i. Scale Height(H) ≈ or
-
 
 Scale Height(H) ≈ or
 
-
 ii. Pressure(a) = Pressure(m) ÷
-
 
 g. If Atmosphere is Tainted (2, 4, 7 or 9)
 determine taint type, severity and persistence
@@ -26050,14 +23602,12 @@ Scale Height
 k. If Atmosphere is Low (E) determine low bad
 ratio for oxygen and safe altitude below mean:
 
-
 i. Low Bad Ratio = (ppo = partial
 pressure of oxygen (bar) at mean
 baseline altitude)
 ii. Safe Altitude Below Mean Baseline Altitude
 = ln(Low Bad Ratio) × Scale Height
-l. If Atmosphere is Unusual (F) determine type
-(s) from table
+l. If Atmosphere is Unusual (F) determine type (s) from table
 m. For non-habitable zone worlds, determine
 Atmosphere codes, subtypes and
 composition from tables
@@ -26086,12 +23636,9 @@ ii. Add minutes and seconds (1D-1 + d10) to
 final hour figure
     b. Determine days in a year and solar day:
 
-
 i. Days in a year = - 1
 
-
 ii. Solar Days(hours) =
-
 
 c. Determine axial tilt from tables
 d. Determine tidal lock status from table with
@@ -26101,47 +23648,38 @@ ii. Moon lock to planet
 
 checklists
 
-
 Pressure of ‘bad’ gas at mean baseline altitude
 Safe Pressure
-
 
 8.5km x Mean Temperature(K)
 g x 288
 
-
 3D
 100
-
 
 2D
 8
 
-
 0.1
 ppo
-
 
 (1D - 1) x 5 + 1D - 1)
 30
 
-
 d100
 100
 
-
 T
+
+
 M x g
 8.5km
 g
 
-
 or
-
 
 1D + DMs
 20
-
 
 2D - 7
 100
@@ -26149,9 +23687,9 @@ or
 
 e
 
-
 height(a)
 H
+
 
 
 Years(hours)
@@ -26160,30 +23698,23 @@ Years(hours)
 Solar Days in a year
 
 
-TRAVELLER
-
 
 iii. Planet lock to its moon
 iv. Recompute day, axial tilt and eccentricity
 for locked conditions, if necessary
 e. Determine surface tidal effects:
 
-
-h. Low luminosity = Luminosity x (1 – Luminosity
+h. Low luminosity = Luminosityx (1 – Luminosity
 Modifier)
-i. Near AU = AU x (1 - eccentricity)
-j. Far AU = AU x (1 + eccentricity)
+i. Near AU = AUx (1 - eccentricity)
+j. Far AU = AUx (1 + eccentricity)
 k. High temperature (K) = 279 x
-
 
 i. Star Tidal Effect =
 
-
 ii. Moon Tidal Effect =
 
-
 iii. Planet Tidal Effect =
-
 
 iv. Moon to Moon Tidal Effect =
 
@@ -26197,7 +23728,6 @@ iv. Moon to Moon Tidal Effect =
              greenhouse factor
        d. Determine mean temperature (K) = 279 x
 
-
 e. Optional: Recheck for runaway greenhouse if
 mean temperature is above 303K
 
@@ -26205,27 +23735,20 @@ mean temperature is above 303K
     additional temperature factors:
        a. Basic axial tilt factor = sin(axial tilt)
 
-
 b. Rotation factor =
 
-
 c. Geographic factor = + Modifier
-
 
 d. Variance factors = Axial Tilt Factor + Rotation
 Factor + Geographic Factor
 e. Atmospheric factor = 1 + Atmosphere in bar
 
-
 f. Luminosity modifier =
 
-
-g. High luminosity = Luminosity x (1 + Luminosity
+g. High luminosity = Luminosityx (1 + Luminosity
 Modifier)
 
-
 l. Low temperature (K) = 279 x
-
 
 m. Determine temperature modifications based
 on various scenarios: Tidally locked, multiple
@@ -26239,9 +23762,7 @@ Temperature (K) = 80 x ÷
        Age(Gyrs) + DMs)^2
     b. Determine tidal stress factor =
 
-
 c. Determine tidal heating factor =
-
 
 d. Determine total seismic stress
 i. Total seismic stress = Tidal Stress
@@ -26250,7 +23771,6 @@ Seismic Stress
 e. Adjust temperatures by totals seismic stress
 value:
 i. New Temperature =
-
 
 f. Determine number of major tectonic plates =
 Size + Hydrographics – 2D +DMs
@@ -26273,103 +23793,78 @@ Existed on 13+: roll 2D + Biocomplexity –
 
 checklists
 
-3.2 x ( )
+3.2x ( )
 
-3.2 x ( )
+3.2x ( )
 
-3.2 x ( )
-
+3.2x ( )
 
 Star Mass x Planet Size
 32 x AU^3
-
 
 Moon Mass x Planet Size
 Moon Distance(km)
 1,000,000
 
-
 Planet Mass x Moon Size
 Moon Distance(km)
 1,000,000
-
 
 Other Mass x Moon Size
 Moon Separation(km)
 1,000,000
 
+3
 
 3
 
-
 3
 
-
-3
-
-
-Luminosity x (1 - Albedo) x (1 + Greenhouse Factor)
+Luminosityx (1 - Albedo)x (1 + Greenhouse Factor)
 AU2
-
 
 4
 
-
-(Primary Mass)^2 x (World Size)^5 x eccentricity^2
+(Primary Mass)^2x (World Size)^5 x eccentricity^2
 3,000 x Distance^5 x Period x World Mass
-
 
 Solar Days (hours)
 50
 
-
 2
-
 
 Old Temperature^4 + Total Seismic Stress^4
 
-
 4
-
 
 10 - HYD
 20
 
-
 Variance Factors
 Atmospheric Factor
 
-
-Hot Luminosity x (1 - Albedo) x (1 + Greenhouse Factor)
+Hot Luminosityx (1 - Albedo)x (1 + Greenhouse Factor)
 (Near AU)^2
-
 
 4
 
-
-Cold Luminosity x (1 - Albedo) x (1 + Greenhouse Factor)
+Cold Luminosityx (1 - Albedo)x (1 + Greenhouse Factor)
 (Far AU)^2
-
 
 Σ Tidal Effects
 10
-
 
 4
 
 Mass⊕ Age(Gyr)
 
-
 4
 
 
-
-c. D e t e r m i n e : B i o d i v e r s i t y R a t i n g = 2 D - 7 + c. Determine government primary authority
-(Legislative, Executive, Judicial or Balanced)
+c. D e t e r m i n e : B i o d i v e r s i t y R a t i n g = 2 D - 7 + c. Determine government primary authority (Legislative, Executive, Judicial or Balanced)
 d. Determine government structure from
 procedure or table
-e. Record government profile: G-CAS or G-CBB-
-LS-ES-JS
+e. Record government profile: G-CAS or G-CBB-LS-ES-JS
 f. Determine factions within a government
 i. Determine number of factions
 ii. For each faction determine government
@@ -26421,15 +23916,11 @@ Law Level + 2D3-4 + DMs
        e. Determine balkanised world factional or
           national High and Low cCommon TLs
 
-
 (round up)
-
 
 d. Determine: Compatibility Rating = 2D -
 
-
 + DMs
-
 
 e. Record native lifeform profile: MXDC or
 [Biomass][Biocomplexity][Biodiversity]
@@ -26444,7 +23935,11 @@ e. Record native lifeform profile: MXDC or
 
 SOCIAL CHARACTERISTICS
 
+
+
 CHECKLIST
+
+
 
 1. Complete UWP if not already established
     a. Use modified procedures for native sophonts
@@ -26482,29 +23977,22 @@ CHECKLIST
 
 checklists
 
-
 Biomass Rating + Biocomplexity Rating
 2
-
 
 Biomass Rating
 2
 
 
-TRAVELLER
 
-
-f. Determine quality of life Tech Levels within
-(upper, lower) bounds for
-i. Energy: High common TL + TLM + DMs
-(TL x 1.2, TL ÷ 2)
+f. Determine quality of life Tech Levels within (upper, lower) bounds for
+i. Energy: High common TL + TLM + DMs (TL x 1.2, TL ÷ 2)
 ii. Electronics: High common TL + TLM +
 DMs (Energy+1, Energy-3)
 iii. Manufacturing: High common TL + TLM
 + DMs (Greater of energy or electronics,
 electronics-2)
-iv. Medical: Electronics TL + TLM + DMs
-(Electronics, 0 or starport DM)
+iv. Medical: Electronics TL + TLM + DMs (Electronics, 0 or starport DM)
 v. Environmental: Manufacturing TL + TLM +
 DMs (Energy, Energy-5)
 g. Determine transportation Tech Levels within
@@ -26516,8 +24004,7 @@ electronics-5 or 0 if Hydrographics 0)
 iii. Air: Energy TL + TLM + DMs (Energy,
 electronics-5) but automatically 0 if
 Atmosphere 0 and TL0-5
-iv. Space: Manufacturing TL + TLM + DMs
-(Lesser of energy or manufacturing,
+iv. Space: Manufacturing TL + TLM + DMs (Lesser of energy or manufacturing,
 Lesser of energy-3 or manufacturing-3)
 h. Determine military Tech Levels within
 bounds for:
@@ -26527,8 +24014,7 @@ manufacturing if LL (W) = 0)
 ii. Heavy military equipment: Manufacturing
 TL + TLM + DMs (Manufacturing, 0)
 i. Determine novelty Tech Level (see procedure)
-j. Record technology profile: H-L-QQQQQ-
-TTTT-MM-N
+j. Record technology profile: H-L-QQQQQ-TTTT-MM-N
 k. Determine secondary world Tech Levels (if any)
 
 6. Determine cultural characteristics: all are 2D +
@@ -26550,7 +24036,6 @@ k. Determine secondary world Tech Levels (if any)
     c. Determine resource factor from previous
        resource rating and DMs
 
-
 d. Determine labour factor as Population - 1
 e. Determine infrastructure from importance and
 population related DMs
@@ -26570,9 +24055,7 @@ iv. Determine GWP per capita:
     x Total Modifiers x Efficiency Factor
 2. If efficiency -1-: GWP per Capita =
 
-
 Cr1000 x
-
 
 v. World GWP = GWP per capita x Total
 World Population
@@ -26582,7 +24065,6 @@ modifier table
 j. Determine inequality rating = 50 – Efficiency
 Rating x 5 + (2D-7) x 2 + DMs
 k. Determine development score
-
 
 l. Determine tariff rates from table
 m. Determine secondary world economic
@@ -26608,23 +24090,18 @@ v. Arbitrarily determine and assign freeports
 
 checklists
 
-
 Base Value x Total Modifiers
 -(Efficiency Factor - 1)
 
 #### ( )
 
-
 GWP per capita
 1,000
-
 
 Inequality Rating
 100
 
-
 X 1 -
-
 
 
 d. Determine downport total docking capacity (if
@@ -26652,10 +24129,8 @@ viii. Marines
 
 checklists
 
-
 b. Determine total effective military budget
 i. Basic Military Budget% = 2% x
-
 
 ii. Determine state of readiness modifiers
 iii. Total Military Budget = GWP x Basic
@@ -26675,26 +24150,25 @@ iv. Corsair
 
 #### ( )
 
-
 2D - 7 + DMs
 10
 
 #### ( )X 1 +
 
-
 Efficiency
 10
-
 
 1 +
 
 
-TRAVELLER
 
 QUICK SURVEY GUIDE FOR
 
 
+
 EXPLORATION ADVENTURES
+
+
 A sane Referee is unlikely to take the time to fully
 develop dozens or hundreds of systems for an
 adventure or campaign focused on exploring unknown
@@ -26706,17 +24180,14 @@ map – consider this ‘Step 0’ – then enough information
 for a rough Class 0 survey can proceed using just the
 ‘meaty’ part of the Class 0 form:
 
-
 The first three steps can be done in one Yahtzee-like
 toss, using two identical dice for step one and five
 differently coloured dice for steps 2 and 3.
-
 
 Step 1: Primary star: For each hex with a system,
 roll 2D on the Star Type Determination table (page
 15) and record the primary star’s type and class –
 subtype is not necessary.
-
 
 Step 2: Other stars: Use a modified version of the
 Multiple Stars Presence table (page 23). A roll of 10+
@@ -26729,24 +24200,19 @@ closest and furthest from the Referee or any other
 method that varies the result – for stars with a DM+1.
 Count every other 5 as a 6 by some similar method.
 
-
 Step 3: Gas giants: Roll 1D and on a 1 there is no
 gas giant present in the system.
-
 
 Step 4: If any Close, Near or Far stars are present,
 roll 1D for each, assigning a companion on a roll of 6.
 
-
 Location Primary + Close + Near + Far + GG? Notes
-
 
 Step 5: Determine the types of other stars from the
 Non-Primary Star Determination table (page 29).
 Results of sibling can be provisional noted with a
 -1D notation (or roll), going back to subtype stars
 later, if necessary.
-
 
 If the Travellers decide to jump to the star system, the
 Referee can take further measures to complete the
@@ -26757,7 +24223,6 @@ page 16)
 20 – for anything dimmer than G6 use the small
 star age)
 
-
 While in jump transit, the Referee can prep a Class
 II survey:
 •	 Assign Orbit#s to stars (multiple star systems only
@@ -26767,14 +24232,12 @@ II survey:
 36 – remember, gas giant existence is already
 checked)
 
-
 If the adventure does not call for a survey of the
 system, the only worlds that likely matter are gas
 giants – for refuelling, and any habitable zone worlds.
 In this case:
 •	 Determine the HZCO for the star(s) from the
-Habitable Zone Centre Orbit#s (HZCO) table
-(page 41)
+Habitable Zone Centre Orbit#s (HZCO) table (page 41)
 •	 Determine the baseline number from placement
 of worlds. If it is between 1 and the system’s total
 worlds, randomly assign a world to that location.
@@ -26791,7 +24254,6 @@ wilderness refuelling operation.
 completely detailing a system only if necessary.
 
 checklists
-
 
 
 Traveller has existed since 1977 and its advanced
@@ -26815,7 +24277,6 @@ look naïve or just plain wrong in a few decades time
 when better information becomes available. To repeat
 an adage: all models are wrong; some models are
 useful. Hopefully these are useful.
-
 
 Still, a goal of this effort has been to try to bridge
 existing Traveller material and decades of accumulated
@@ -26841,16 +24302,13 @@ Adding fractional Orbit#s is something that has already
 crept into other Traveller publications and its extensive
 use here just expands upon it.
 
-
 The principle (a generic statement which may turn out
 to be incorrect) that planets are as densely packed as
 possible led to the concept of spread, which allows
 
-
 for both densely and sparsely packed systems while
 still keeping some sort of period-based ratio – a very
 modified Titus-Bode.
-
 
 Rules for available Orbits# in multi-star systems are
 simplified and based on these arbitrary Orbit#s, not
@@ -26861,13 +24319,11 @@ solve a three (or more) body with spreadsheet math.
 Astronomers and physicists may cringe at the result
 but it is close enough for game use, and a Referee is
 always free to move an offending Orbit# to another
-location. Likewise, the true hierarchical view of a multi-
-star system with barycentres and such was abandoned
+location. Likewise, the true hierarchical view of a multi-star system with barycentres and such was abandoned
 for a primary-centric Orbit# view. Again, good enough
 for game use and a large number of calculations will in
 most cases likely result in outcomes similar to the rules
 of thumb presented here.
-
 
 Temperatures, for all the complexity presented here
 are much more complex than modelled in this book.
@@ -26877,11 +24333,9 @@ resulted in a full page of explanation and calculation,
 followed by frustration. The approximations in the book
 at least provide plausible results.
 
-
 Still, it is possible that I have made some fundamental
 mistakes and that reviewers and editors will not catch
 them. For that, I apologise in advance.
-
 
 Finally, as mentioned in the introduction, this book
 is intended as a guide, not a straitjacket. The rules
@@ -26900,11 +24354,9 @@ should move worlds around, adjust greenhouse and
 albedo values or change atmospheric gas mixes if that
 is what makes a world match their vision.
 
-
 The game belongs to the players, not the dice.
 
 # D ESIGNER NOTES
-
 
 ## INDEX
 
@@ -26949,7 +24401,6 @@ Organisation 8
 Physical Characteristics Checklist 248
 Placement of Worlds 43
 
-
 Planetary Orbital Periods (Length of ‘Years’) 53
 Planetary System Profile 58
 Planetoid Belt characteristics 72
@@ -26989,6 +24440,5 @@ Units 5
 Vehicles 236
 White Dwarfs 227
 World Types and Quantities 36
-
 
 

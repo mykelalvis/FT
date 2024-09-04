@@ -18,9 +18,13 @@ Printed in China.
 
 CLASSIC TRAVELLER
 
+
+
 Marc Miller
 
 MONGOOSE TRAVELLER
+
+
 
 **AUTHOR**
 Christopher Griffen
@@ -44,11 +48,15 @@ Charlotte Law
 
 TRAVELLER INNER CIRCLE
 
+
+
 Andrew James Alan Welty, Colin Dunn, M. J. Dougherty,
 Rob Eaglestone, Sam Wissa, Joshua Bell, Maksim
 Smelchak, Geir Lanesskog, Christopher Griffen
 
 CONTENTS
+
+
 INTRODUCTION 02
 IMPERIAL SOCIETY AND CULTURE 04
 IMPERIAL MILITARY FORCES 12
@@ -111,8 +119,7 @@ time has burned away the utopian dreams of its first
 
 Emperor and yet his Imperium lives on. At its heart, the
 Imperium was intended to be a sprawling free-trade
-zone, its worlds free to chart their own fates within well-
-defended borders. This it has achieved. The Imperium
+zone, its worlds free to chart their own fates within well-defended borders. This it has achieved. The Imperium
 has proven to be a worthy successor to the previous
 great empires.
 
@@ -410,7 +417,7 @@ worlds in Charted Space in modern times.
 
 Imperial Society and Culture
 
-TRAVELLER
+
 
 The spirit of free trade on the frontiers lives on with the
 exploratory trade companies. Spinward Marches-based
@@ -452,8 +459,7 @@ Vargr Extents have matched this level of achievement.
 The Aslan Hierate, Zhodani Consulate and Solomani
 Confederation are standardised on a slightly lower Tech
 Level of 14. The single level of advantage is significant,
-with TL15 granting the ability to manufacture jump-
-drives, significantly more output from fusion power
+with TL15 granting the ability to manufacture jump-drives, significantly more output from fusion power
 plants and many other innovations.
 
 Imperial scientific agencies, the military and
@@ -477,8 +483,7 @@ There are numerous safeguards in place to ensure
 the safety of this technology but innovation is always
 being pushed to the limit. At the Imperial Naval Base
 on Celetron, there are experiments under way to
-create the first fully autonomous starships. The Ye-
-lu system has taken it a step further by automating
+create the first fully autonomous starships. The Ye-lu system has taken it a step further by automating
 an entire world. The Saregon system has foregone
 traditional government and allowed an AI computer
 to govern billions of sophonts. The fear of unbridled
@@ -631,7 +636,7 @@ creeps in. Foremost among these is artificial
 
 Imperial Society and Culture
 
-TRAVELLER
+
 
 intelligence. The war machines that were left on Vland
 by the Ancients, destructive automatons that posed an
@@ -746,32 +751,64 @@ Imperial Society and Culture the Moot struggle with on a daily basis.
 
 ASLAN HIERATE
 
+
+
 SOLOMANI SPHERE
 
+
+
 TROJAN
+
+
 REACH
 
+
+
 RIFTSPAN
+
+
 REACHES
+
+
 
 **REAVER'SDEEP**
 
 DARK
+
+
 NEBULA
 
+
+
 USTRAL
+
+
 QUADRANT
+
+
 
 **SOLOMANIRIM**
 
 ALPHA
+
+
 CRUCIS
 
+
+
 SPINWARD
+
+
 MARCHES
 
+
+
 EMPTY
+
+
 QUARTER
+
+
 
 **GLIMMERDRIFTREACHES**
 
@@ -782,7 +819,11 @@ QUARTER
 **CORRIDOR**
 
 ANTARES
+
+
 DENEB VLAND LISHUN
+
+
 
 **REFT**
 
@@ -799,8 +840,14 @@ DENEB VLAND LISHUN
 **ZARUSHAGAR**
 
 DAIBEI
+
+
 DIASPORA
+
+
 HINTERWORLDS
+
+
 
 **HLAKHOI**
 
@@ -852,7 +899,7 @@ league of antares
 
 _CULTURAL ZONES_
 
-TRAVELLER
+
 
 Interstellar Relations
 The Imperium has a complex array of relationships with
@@ -1152,8 +1199,7 @@ and various auxiliary spacecraft. Subsector navies may
 **Imperial Navy Squadron Types**
 
 Squadron Type Typical Composition Mission
-Assault Squadrons
-(AssaultRons)
+Assault Squadrons (AssaultRons)
 
 Flagship: Cruiser
 Components: Tanker or dromedary, 3–
@@ -1163,8 +1209,7 @@ various auxiliary spacecraft, 4 escorts
 Take thousands of troops into battle and drop
 them upon the enemy in lift-infantry operations.
 
-Battle Squadrons
-(BatRons)
+Battle Squadrons (BatRons)
 
 Flagship: Battleship, dreadnought or
 battle tender (containing battle riders)
@@ -1174,8 +1219,7 @@ battleships/dreadnoughts, 3 scouts,
 
 Meet enemy battleships and destroy them.
 
-Cruiser Squadrons
-(CruRons)
+Cruiser Squadrons (CruRons)
 
 Flagship: Cruiser or carrier
 Components: auxiliary, 4 cruisers, 2
@@ -1185,16 +1229,14 @@ Support AssaultRons and BatRons by engaging
 in battle, providing cover for lift-infantry drops,
 supplying ordnance and taking on larger ships
 when necessary.
-Scout Squadrons
-(ScoutRons)
+Scout Squadrons (ScoutRons)
 
 Flagship: Scout cruiser
 Components: Auxiliaries and scouts
 
 Reconnaissance, intelligence gathering,
 communication and exploration.
-Tanker Squadrons
-(TankRons)
+Tanker Squadrons (TankRons)
 
 Flagship: Cruiser
 Components: 2 auxiliaries, 4 tankers, 4
@@ -1227,6 +1269,8 @@ navies and those below may import one with the means
 available to them.
 
 SQUADRON AND FLEET ORGANISATION
+
+
 The basic unit of the Imperial Navy is the squadron.
 There are 3–10 ships in a squadron. This number
 refers primarily to capital ships – destroyers, cruisers,
@@ -1238,7 +1282,7 @@ Imperial sector has 1,000 ships in its subsector fleets.
 
 Imperial Military Forces
 
-TRAVELLER
+
 
 The sector fleet is composed of the largest, most
 powerful ships – the heavy carriers, battle tenders,
@@ -1255,6 +1299,8 @@ tight formation in order to deliver the most powerful
 attacks possible.
 
 NAVY BASES AND DEPOTS
+
+
 The Imperial Navy maintains a system of bases
 and depots. Bases include repair and maintenance
 facilities, resupply stations, administrative offices and
@@ -1284,6 +1330,8 @@ system. For a complete description of [[Core sector]]
 Depot, located in the Mekee subsector, see page 144.
 
 IMPERIAL QUARANTINE AGENCY
+
+
 The Quarantine Agency is a semi-autonomous
 force integrated into the Imperial Navy. Its primary
 role is to protect the empire from internal threats by
@@ -1322,6 +1370,8 @@ and is always prepared to run a cleansing operation
 should one be deemed necessary.
 
 QUARANTINE AGENCY TRAVELLERS
+
+
 The Quarantine Agency has a parallel structure
 within the Imperial Navy with the same ranks,
 although the maximum achievable rank
@@ -1350,37 +1400,65 @@ DOOR G/CHAIR
 
 COMMON AREA
 
+
+
 FRESHER
+
+
 
 SHIP'S LOCKER
 
 LOW BERTH
 
+
+
 DRONES
 
+
+
 STATEROOM BEDS
+
+
 
 AIR/RAFT
 
 CARGO BAY
 
+
+
 CARGO CRANE
+
+
 
 POWER PLANT/JUMP DRIVE/ MANEUVER DRIVE/MACHINERY
 
 TURRETS
 
+
+
 HULL FUEL
+
+
 
 IRIS VALVE
 
+
+
 AIRLOCK
+
+
 
 LIFT
 
+
+
 IRIS VALVE UP
 
+
+
 IRIS VALVE DOWN
+
+
 
 IRIS VALVE UP/DOWN
 
@@ -1396,8 +1474,8 @@ Hull 100,000 tons, Standard — 5000
 Reinforced — 2500
 Radiation Shielding — 2500
 Armor Bonded Superdense, Armor: 10 8,000 6000
-M-Drive Thrust 6 (size reduction x3) 4,200 12600
-J-Drive Jump 4 (decreased fuel x2) 10,005 18759.
+M-Drive Thrust6 (size reduction x3) 4,200 12600
+J-Drive Jump4 (decreased fuel x2) 10,005 18759.
 Power Plant Fusion (TL15), Power 95,000 4,750 9500
 Fuel Tanks J-4, 20 weeks of operation 32,375 —
 Bridge Command Bridge 80 750
@@ -1413,19 +1491,16 @@ Medium Fusion Gun Bays x50 5,000 800
 Medium Particle Beam Bays x100 10,000 4000
 Small Missile Bays x50 2,500 600
 Particle Barbettes x25 125 200
-Triple Turrets
-(long range beam lasers) x
+Triple Turrets (long range beam lasers) x
 
 150 431.
 
-Triple Turrets
-(accurate pulse lasers) x
+Triple Turrets (accurate pulse lasers) x
 
 150 712.
 
 Triple Turrets (sandcasters) x100 100 175
-Point Defence Batteries
-(type III) x
+Point Defence Batteries (type III) x
 
 200 200
 
@@ -1459,8 +1534,12 @@ Marines x 50
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr5.729152/month
 PURCHASE COST
+
+
 MCr68749.
 
 Power Requirements
@@ -1614,10 +1693,9 @@ DECK 6
 28
 25
 16
-15
-(^1515)
+15 (^1515)
 
-TRAVELLER
+
 
 Imperial Marines
 The Imperial Marines are the primary shipborne fighting
@@ -1678,9 +1756,10 @@ are riflemen' and they are capable infantry.
 
 IMPERIAL MILITARY FORCES
 
+
+
 Marines are organised in regiments of 3,500 for lift
-infantry deployments or Marine Expeditionary Forces
-(MEFs) of 2,000 for jump-troop operations. MEFs
+infantry deployments or Marine Expeditionary Forces (MEFs) of 2,000 for jump-troop operations. MEFs
 are austere units that include just enough support
 personnel to enable the unit to operate independently
 after a drop. The subordinate organizational structure
@@ -1759,6 +1838,8 @@ not carrying anything in their cargo hold that could be
 construed as contraband.
 
 A CASE OF MISTAKEN IDENTITY
+
+
 Patron: Sergeant Laon Kantil, Imperial Marines
 103 rd Provisional Expeditionary Force
 Mission: After coming out of jump at the
@@ -1786,15 +1867,19 @@ Sergeant Kantil.
 
 Imperial Military Forces
 
-TRAVELLER
+
 
 ARMOR TYPE PROTECTION TL RAD STR DEX SLOTS KG COST REQUIRED SKILL
+
+
 Imperial Marine
 Assault Battle Dress
 
 +31 15 350 +8 +4 20 130 Cr360000* Vacc Suit 1
 
 MODIFICATION TL SLOTS COST
+
+
 Advanced Life Support 13 2 Cr20000
 Anti-Missile System 15 2 Cr125000
 Camouflage 12 — Cr5000
@@ -1807,6 +1892,8 @@ Prismatic Aerosol 13 2 Cr6000
 Sensor Suite (+3) 15 2 Cr65000
 
 IMPERIAL MARINE ASSAULT BATTLE DRESS
+
+
 Imperial Marine battle dress maintains its distinctive
 look at all Tech Levels. The suit described here is
 the top-of-the-line model worn by most marines in
@@ -1832,6 +1919,8 @@ fuel cell or integrated tool kit.
 equipment
 
 ITEM TL KG REQUIRED SKILL COST
+
+
 Disposable re-entry kit 8 15 Flyer (any) 2 Cr15000
 Disposable re-entry kit 10 11 Flyer (any) 1 Cr12000
 Disposable re-entry kit 13 8 Flyer (any) 0 Cr10000
@@ -1869,12 +1958,11 @@ accuracy and other factors are scored.
 **Making a drop with a portable re-entry kit:** Difficult (10+) Flyer (any) check (variable timeframe, DEX). The
 timeframe varies with atmosphere type. If the Atmosphere code is 5 or below, it is 2D x 10 minutes; if 6–7, it is
 D3 hours; and if 8–9 it is D6 hours to complete the drop. The Referee may adjust the drop difficulty to account for
-other factors. For example, if the Traveller is dropping into a region in which a tropical storm is brewing, the in-
-atmosphere portion of the drop might warrant a higher level of difficulty.
+other factors. For example, if the Traveller is dropping into a region in which a tropical storm is brewing, the in-atmosphere portion of the drop might warrant a higher level of difficulty.
 
 equipment
 
-TRAVELLER
+
 
 Imperial Army
 The armies of the Imperium are much like planetary
@@ -1962,8 +2050,7 @@ contain significant cavalry and/or artillery elements.
 
 Brigadier General
 
-Division Several regiments or brigades. Divisions are tasked with small- to medium-
-scale orbital assaults, planetary occupations and similar deployments.
+Division Several regiments or brigades. Divisions are tasked with small- to medium-scale orbital assaults, planetary occupations and similar deployments.
 
 Major General
 
@@ -1978,6 +2065,8 @@ joint structure of the Imperial Army.
 
 General
 IMPERIAL MILITARY FORCES
+
+
 
 Branches of the Army
 The _Traveller Core Rulebook_ includes three branch
@@ -2062,13 +2151,15 @@ energy weapons that inflict massive amounts of damage
 
 Imperial Military Forces
 
-TRAVELLER
+
 
 to enemy structures and personnel alike. Artillery is often
 referred to as simply 'the killer' for its astounding ability
 to suppress mobility and inflict casualties.
 
 BUILDING IMPERIAL ARMY UNITS
+
+
 The concept of an empire-wide army did not take
 hold until the advent of the Third Imperium. The
 Sylean Federation had no unified army to speak of,
@@ -2148,6 +2239,8 @@ worlds. As such, each has a unique persona and
 characteristics. Deploying the army of one world
 
 MESON REBELLION
+
+
 A recent example of an interstellar deployment
 was the Meson Rebellion in 1032 on Khikaba
 in Lishun. After Imperial Navy squadrons
@@ -2168,6 +2261,8 @@ the standard for the deployment.
 
 IMPERIAL MILITARY FORCES
 
+
+
 to another can result in a clash of cultures. For
 this reason, most Imperial Army deployments are
 composed of contributed formations from several
@@ -2177,8 +2272,7 @@ homogenised Imperial Army.
 Clashing cultures are not the only factors to contend
 with when assembling a subsector army out of
 contributed formations. The Imperium has a broad
-range of population and Tech Levels. There are high-
-tech worlds with large populations, low-tech worlds with
+range of population and Tech Levels. There are high-tech worlds with large populations, low-tech worlds with
 medium populations, mid-tech worlds with middling
 populations and every other combination in between.
 The Tech Level differences between armies can be
@@ -2193,7 +2287,7 @@ battalions of Shiirand's army are regularly deployed
 to Ushra to train with weapons and vehicles of higher
 
 Population Imperial Army Presence
-4 or below No independent army unless Government code is 6 (see below). A militia may be present or the
+4 or below No independent army unless Government code is6 (see below). A militia may be present or the
 world might be defended by a detachment from a nearby world that has a higher population.
 5 Militia or Imperial Army present. Worlds with Population 5 are on the dividing line. Some will
 have a large militia and others a small army. If the world has an army, it may be part of the
@@ -2219,14 +2313,12 @@ Law Level almost certainly indicates the presence of a larger, more intrusive po
 cases, the two go hand-in-hand.
 
 technology. Likewise, soldiers in Ushra's army might be
-rotated to TL14 Alekvadin to learn how to use man-
-portable fusion weapons in a separate cross-training
+rotated to TL14 Alekvadin to learn how to use man-portable fusion weapons in a separate cross-training
 program. It is not cost-effective for every soldier
 in a multi-million-sophont army to be shipped out to
 multiple worlds over the course of a military career.
 To help remedy this situation, soldiers who have been
-trained on weapons, vehicles and gear from higher-
-tech worlds are usually assigned the task of training
+trained on weapons, vehicles and gear from higher-tech worlds are usually assigned the task of training
 their own soldiers in the use of the same equipment.
 Ultimately, a lower-tech army returns to its standard
 equipment but chances are that most of the soldiers in
@@ -2237,6 +2329,8 @@ soldiers of any world's army are generally proficient at
 the technological standard that is provided.
 
 ENCOUNTERS WITH THE IMPERIAL ARMY
+
+
 The Imperial Army is almost everywhere in the
 Imperium. Use a world's Universal World Profile as a
 guide with the following caveats. Note that this applies
@@ -2244,7 +2338,7 @@ strictly to worlds within the boundaries of the Imperium.
 
 Imperial Military Forces
 
-TRAVELLER
+
 
 Soldiers of the Imperial Army are a common sight on
 many Imperial worlds but are most visible on worlds
@@ -2263,6 +2357,8 @@ by a nearby star system, which may install a local
 representative to administer it.
 
 A LITTLE PIECE OF HOME
+
+
 Patron: Captain Qilaria Odom, Requisitions
 Officer, 467th Infantry.
 Mission: The garrison at Adkhi/Core has
@@ -2306,6 +2402,8 @@ foodstuffs and other agricultural products.
 
 IMPERIAL MILITARY FORCES
 
+
+
 The _Invader_ , built by Ling Standard Products, is the
 standard battle tank on most worlds of TL14 or higher. The
 tank has a crew of four including a commander, driver and
@@ -2324,6 +2422,8 @@ SHIPPING 30 TONS
 COST MCr35.44
 
 WEAPONS RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
+
+
 Fusion Gun-Y 5 3DD — — AP 20, Blast 20,
 Radiation
 
@@ -2332,6 +2432,8 @@ Radiation
 Gauss Cannon 2 1DD 200 Cr1000 AP 10, Auto 3 +4
 
 EQUIPMENT
+
+
 Autopilot (skill level) 2
 Communications (range) 1,000km
 Navigation (Navigation DM) +4
@@ -2342,17 +2444,18 @@ Stealth (Electronics (sensors) DM) -4
 Invader Light Grav Tank
 
 EQUIPMENT AND WEAPONS
-Anti-Missile System (advanced laser), Autopilot
-(enhanced), Bunks, Camouflage (advanced),
+
+
+Anti-Missile System (advanced laser), Autopilot (enhanced), Bunks, Camouflage (advanced),
 Communications System (advanced, encrypted, satellite
 uplink, tightbeam), Computer/5, ECM (advanced),
 Control system (enhanced), Fire Extinguishers, Fusion
 Plant (advanced), Life Support (short term), Navigation
-System (advanced), Prismatic Aerosol, Reactive Armor
-(advanced), Large Turret (fusion gun-Y), Small Turret
-(gauss cannon), Vacuum Protection
+System (advanced), Prismatic Aerosol, Reactive Armor (advanced), Large Turret (fusion gun-Y), Small Turret (gauss cannon), Vacuum Protection
 
 TRAITS
+
+
 AFV, Streamlined
 
 **ARMOR**
@@ -2374,6 +2477,8 @@ SHIPPING 24 tons
 COST MCr31.64
 
 EQUIPMENT
+
+
 Autopilot (skill level) 2
 Communications (range) 1,000km
 Navigation (Navigation DM) +4
@@ -2382,11 +2487,15 @@ Camouflage (Recon DM) -4
 Stealth (Electronics (sensors) DM) -4
 
 WEAPON TL RANGE DAMAGE TONS SPACES COST TRAITS
+
+
 Fusion Gun-RFX 14 5 3DD 4 16 MCr3 AP 10, Auto 2, Blast 5, Radiation
 Fusion Gun-RFY 15 5 3DD 4 16 MCr8 AP 15, Auto 2, Blast 10, Radiation
 Fusion Gun-RFZ 16 5 3DD 4 16 MCr10 AP 20, Auto 3, Blast 15, Radiation
 
 WEAPON RANGE DAMAGE TRAITS FIRE CONTROL
+
+
 Fusion Gun-RFY 5 3DD AP 15, Auto 2, Blast 10, Radiation +4
 
 Currently available as a prototype, the _Trepida_ is
@@ -2406,17 +2515,17 @@ prefix 'RF' and preclude the need for an auxiliary
 automatic weapon.
 
 EQUIPMENT AND WEAPONS
-Anti-Missile System (advanced laser), Autopilot
-(enhanced), Bunks, Camouflage (advanced),
+
+
+Anti-Missile System (advanced laser), Autopilot (enhanced), Bunks, Camouflage (advanced),
 Communications System (advanced, encrypted,
-satellite uplink, tightbeam), Computer/5, ECM
-(advanced), Control system (enhanced), Fire
-Extinguishers, Fusion Plant (advanced), Life Support
-(short term), Navigation System (advanced), Prismatic
-Aerosol, Reactive Armor (advanced), Large Turret
-(Fusion-RFY gun), Vacuum Protection
+satellite uplink, tightbeam), Computer/5, ECM (advanced), Control system (enhanced), Fire
+Extinguishers, Fusion Plant (advanced), Life Support (short term), Navigation System (advanced), Prismatic
+Aerosol, Reactive Armor (advanced), Large Turret (Fusion-RFY gun), Vacuum Protection
 
 TRAITS
+
+
 AFV, Streamlined
 
 **ARMOR**
@@ -2426,15 +2535,17 @@ FRONT 130 (+30) REAR 72 (+30) SIDES 110 (+30)
 Astrin Grav APC
 
 EQUIPMENT AND WEAPONS
+
+
 Autopilot (enhanced), Camouflage (advanced),
 Communications System (advanced, encrypted,
-satellite uplink, tightbeam), Computer/5, ECM
-(advanced), Control system (enhanced), Fire
-Extinguishers, Fusion Plant (advanced), Life Support
-(short term), Navigation System (advanced), Prismatic
+satellite uplink, tightbeam), Computer/5, ECM (advanced), Control system (enhanced), Fire
+Extinguishers, Fusion Plant (advanced), Life Support (short term), Navigation System (advanced), Prismatic
 Aerosol, Small Turret (VRF gauss gun)
 
 TRAITS
+
+
 AFV, Streamlined
 
 The _Astrin_ is the latest in the line of grav troop carriers
@@ -2443,6 +2554,8 @@ APC has a crew of two, a driver and gunner, and seats
 12 armed and armored soldiers.
 
 EQUIPMENT
+
+
 Autopilot (skill level) 2
 Communications (range) 1,000km
 Navigation (Navigation DM) +4
@@ -2463,13 +2576,15 @@ SHIPPING 20 tons
 COST MCr20.25
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
+
+
 VRF Gauss Gun 750 4D 400 Cr1000 AP5, Auto 8 +4
 
 **ARMOR**
 
 FRONT 100 REAR 70 SIDES 100
 
-TRAVELLER
+
 
 Lift Infantry Regiments
 
@@ -2480,6 +2595,8 @@ these armies is the Imperial Guard, composed of 11
 regiments of crack troops and other support units.
 
 LIFT INFANTRY REGIMENTS
+
+
 Largely a conceit of the Civil War era, powerful noble
 houses established personal bodyguard regiments,
 some of which were later converted into regular
@@ -2495,8 +2612,7 @@ subsequent Frontier Wars as contributed formations of
 the Imperial Army.
 
 In the modern era, many noble houses retain similar
-units which have varying degrees of utility and battle-
-readiness. Based on the precedent set by the 4518th,
+units which have varying degrees of utility and battle-readiness. Based on the precedent set by the 4518th,
 these units are called household troops or simply
 Huscarles. These private regiments may be established
 as attached or contributed formations of the Imperial
@@ -2541,6 +2657,8 @@ on the 4518th Lift Infantry in Journal of the Travellers'
 Aid Society Volume 2.
 
 THE IMPERIAL GUARD
+
+
 The greatest of all household troops are the Emperor's
 Imperial Guard. Headquartered on Capital, the Imperial
 Guard are responsible for the defence of the Imperial
@@ -2580,6 +2698,8 @@ Imperii , the 10,000-ton yacht that serves as the flagship
 of the Emperor's personal fleet. Members of the
 
 IMPERIAL MILITARY FORCES
+
+
 
 Imperial Guard Service Skills
 1D Skill
@@ -2700,14 +2820,12 @@ of varying difficulty, depending on the
 configuration requested.
 
 Configure the common area for Princess Iphegenia's
-16 th Birthday Party Bash: Average (8+) Electronics
-(remote ops) check (1D hours, SOC).
+16 th Birthday Party Bash: Average (8+) Electronics (remote ops) check (1D hours, SOC).
 
 Configuring the common area for a summit conference
 that involves multiple regional powers, including
 several alien dignitaries. A task chain is required. First,
-design the common area for the conference: Difficult
-(10+) Diplomat check (2D hours, SOC); followed by
+design the common area for the conference: Difficult (10+) Diplomat check (2D hours, SOC); followed by
 the implementation, configure the common area for
 the conference: Difficult (10+) Electronics (remote
 ops) check (2D hours, EDU + the effect of the
@@ -2803,8 +2921,12 @@ Stewards x7
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr422222/month
 PURCHASE COST
+
+
 MCr5066.668
 
 Power Requirements
@@ -2865,10 +2987,8 @@ DECK 2
 6. Airlock
 7. Small Ion Cannon Bays
 8. Small Railgun Bays
-9. Triple turrets
-(long range beam lasers)
-10. Triple turrets
-(long range pulse lasers)
+9. Triple turrets (long range beam lasers)
+10. Triple turrets (long range pulse lasers)
 11. Triple turrets (sandcasters)
 12. Point Defence Batteries
 13. Fuel Processor
@@ -2933,13 +3053,15 @@ DECK 4
 31. Bridge
 32. Sensors
 
-TRAVELLER
+
 
 **SURVEY COMMUNICATIONS**
 
 **EXPLORATION**
 
 PROJECT SHORTBOW
+
+
 As the Major Races began to reach out to
 the stars and build interstellar polities, most
 established the seat of empire in a single star
@@ -3017,6 +3139,8 @@ unincorporated star systems.
 
 IMPERIAL MILITARY FORCES
 
+
+
 Exploration is often seen as the most glamourous
 branch of the Scout Service but it is also the most
 dangerous. More scouts serving in Exploration are lost
@@ -3080,7 +3204,7 @@ special equipment to accommodate those from exotic
 
 Imperial Military Forces
 
-TRAVELLER
+
 
 environments. Subordinate to Administration are
 the Technical Services and Detached Duty offices.
@@ -3121,6 +3245,8 @@ job it is to prevent an assassination from taking place,
 sacrificing their lives if necessary.
 
 SCOUT BASES AND WAY STATIONS
+
+
 The IISS maintains a system of bases and way
 stations. Scout bases include administrative centres
 and repair and maintenance facilities for scout vessels.
@@ -3190,6 +3316,8 @@ lower end, some are barely more than vagabonds
 with a few combat skills who hire on as paid killers.
 IMPERIAL MILITARY FORCES
 
+
+
 Independent contractors with a higher degree of
 professionalism sell their skills to more reputable
 clients and often hire on with a bonded mercenary
@@ -3208,8 +3336,7 @@ _Mercenary_ box set.
 Deep Dive
 **Security, Platoon. Cr100000 per month plus salaries
 and bonus. Ongoing.**
-Zirgamsa Ruaka Corporation (ZRC) is a resource-
-extraction firm focused on obtaining materials for the
+Zirgamsa Ruaka Corporation (ZRC) is a resource-extraction firm focused on obtaining materials for the
 starship manufacturing industry. ZRC is a well-funded
 firm whose lead investor is Achenaar Antilles, the
 sector-wide merchant line. ZRC is headquartered on
@@ -3265,6 +3392,8 @@ operatives are providing support and intelligence to
 the miners.
 
 MISSION PHASES
+
+
 The first phase of the mission is to secure the starport
 on Gaen Luum while mining equipment and vehicles
 are loaded onto Achenaar Antilles freighters. The
@@ -3291,7 +3420,7 @@ listening posts in the region.
 
 Imperial Military Forces
 
-TRAVELLER
+
 
 The final phase is to provide cover for ZRC during the
 return jump to Gaen Luum.
@@ -3309,6 +3438,8 @@ Their morale is initially high but drops quickly if they
 encounter setbacks.
 
 CHARACTERISTIC VALUE DM
+
+
 Force Name Miners' Union —
 Unit Size Two platoons —
 Unit Type Infantry —
@@ -3323,6 +3454,8 @@ Morale 8 0
 Reputation 3 -2
 
 THE OPPOSITION
+
+
 The goal of the miner's union is to disrupt the ZRC
 operation on Arvlaa Gam and to prevent it from
 extracting lanthanum from the mine. If they can
@@ -3345,6 +3478,8 @@ to ZRC. The attack is likely to be multi-faceted, with the
 mercenaries forced to defend multiple sites at once.
 
 TICKET SUCCESS INDICATORS
+
+
 This ticket has the following success criteria:
 1: CRITICAL: Secure the mining platform, mining
 equipment and protect all ZRC personnel from attack.
@@ -3390,6 +3525,8 @@ on all Imperial worlds and those of foreign polities
 near Imperial borders.
 
 IMPERIAL MILITARY FORCES
+
+
 
 **IMPERIAL NAVAL INTELLIGENCE**
 Perhaps the best-known spy agency is Imperial
@@ -3492,7 +3629,7 @@ careers based on terms served in each.
 
 Imperial Military Forces
 
-TRAVELLER
+
 
 excellent spies. Scouts who run the networks are not
 called minders as they are in the INI but do have a
@@ -3568,6 +3705,8 @@ named Jonathan Bland. The Traveller is under
 Bland's control as long as the wafer is in place.
 
 IMPERIAL MILITARY FORCES
+
+
 
 ## THE NOBILITY
 
@@ -3668,7 +3807,7 @@ it does happen, contention for the patent can be quite
 fierce and the Imperial Navy may be called upon to
 ensure a peaceful transition of power.
 
-TRAVELLER
+
 
 In addition to the more formal appellations listed above,
 'Your Grace' or 'Your Majesty' may be used in reference
@@ -3697,16 +3836,16 @@ simply esq.
 
 None.
 
-11 Knight Sir or Lord. Some female recipients use Dame. None for honor nobles. Up to 100km^2
+11 Knight Sir or Lord. Some female recipients use Dame. None for honor nobles. Up to 100km<sup>2</sup>
 for rank nobles on their homeworld only.
-12 Baronet Baronet followed by the family name. None for honor nobles. Up to 100km^2
+12 Baronet Baronet followed by the family name. None for honor nobles. Up to 100km<sup>2</sup>
 for rank nobles on their homeworld only.
 12 Baron The Right Honorable Baron (or Baroness),
 followed by the family name, which is preceded
 by haut, hault or von. For example, Baron Jarem
 haut-Devereux.
 
-None for honor nobles. Up to 100km^2
+None for honor nobles. Up to 100km<sup>2</sup>
 for rank nobles on any world of the
 Imperium.
 
@@ -3759,6 +3898,8 @@ enables the archdukes to build allegiances within their
 domains without the aid of the Emperor.
 
 RANKS WITHIN THE RANKS
+
+
 Noble rank and the origin of patent are only half the
 story. There is a complex hierarchy within the nobility
 guided as much by tradition as the letter of the law.
@@ -3861,6 +4002,8 @@ Ascendant'. More information about the Moot Spire is
 provided in the description of [[Capital]] on page 155.
 
 ORDERS OF KNIGHTHOOD
+
+
 Among the most lively institutions within the nobility are
 its many orders of knighthood. Upon achieving the rank
 of knight, recipients of the title are granted membership
@@ -3877,7 +4020,7 @@ orders, some of which are quite exclusive.
 
 The Nobility
 
-TRAVELLER
+
 
 Many orders have been established to represent
 certain goals, responsibilities and achievements.
@@ -3957,6 +4100,8 @@ Travellers who wander between the stars, searching
 for adventure in the service of the Emperor.
 
 POLITICAL ROLES
+
+
 The Imperial bureaucracy and the nobles who serve
 within it manage the 11,000 worlds of the Imperium.
 The practice of enfeoffment grants them land holds of
@@ -4078,9 +4223,11 @@ of the Imperium.
 
 The Nobility
 
-TRAVELLER
+
 
 THE NOBILITY OF CORE
+
+
 The Core peerage includes some of the oldest families
 of the Imperium. Many have held their patents for
 centuries and some even trace their origins all the way
@@ -4244,9 +4391,7 @@ standing depends upon it.
 
 TRAITS — SKILLS
 STR 7 INT 10 (13) Admin 4, Art (visual media)
-2, Carouse 1, Electronics
-(remote ops) 1, Language
-(Vilani) 1, Leadership 3,
+2, Carouse 1, Electronics (remote ops) 1, Language (Vilani) 1, Leadership 3,
 Persuade 1, Pilot (small
 craft) 2, Science (genetics)
 1, Science (history) 1,
@@ -4260,18 +4405,22 @@ END 8 SOC 17
 EQUIPMENT Advanced Desert Suit, Portable
 Computer/1
 PERSONAL
+
+
 AUGMENTATION
+
+
 
 Cognitive Augmentation (INT+3),
 Enhanced Vision, Neural Comm,
 Neural Link, Wafer Jack
 
-SPECIES GENDER AGE
+
 — Male 56
 
 The Nobility
 
-TRAVELLER
+
 
 The Fourth Frontier War woke Strephon up to the
 reality that the Imperium was becoming too broad and
@@ -4288,8 +4437,7 @@ The Chancellor of the Moot, a strong believer in
 the efficacy of psychohistory, advised Strephon to
 take heed of Ilelish, where one revolt was put down
 centuries earlier and which could very well be the
-source of renewed unrest. In an attempt to pre-
-emptively address such problems, the Emperor has
+source of renewed unrest. In an attempt to pre-emptively address such problems, the Emperor has
 recently appointed one of his closest friends, Dulinor
 Astrin Ilethian, as Archduke of the Domain of Ilelish
 in an effort to forestall any problems from the highly
@@ -4325,9 +4473,7 @@ Autonomous Region, the Lancian Cultural Region,
 **EMPRESS IOLANTHE ALKHALIKOIEMPRESS IOLANTHE ALKHALIKOI**
 
 TRAITS — SKILLS
-STR 7 INT 11 Admin 3, Art
-(performance) 1, Athletics
-(dexterity) 1, Carouse
+STR 7 INT 11 Admin 3, Art (performance) 1, Athletics (dexterity) 1, Carouse
 3, Language (Gvegh) 2,
 Leadership 2, Persuade 2,
 Science (psychology) 1
@@ -4338,13 +4484,17 @@ END 5 SOC 17
 EQUIPMENT Advanced Desert Suit, Portable
 Computer/1
 PERSONAL
+
+
 AUGMENTATION
+
+
 
 Cognitive Augmentation (INT+3),
 Enhanced Vision, Neural Comm,
 Neural Link, Wafer Jack
 
-SPECIES GENDER AGE
+
 — Female 53
 
 The Nobility
@@ -4364,13 +4514,17 @@ END 7 SOC 16
 
 EQUIPMENT Imperial Raiment and Gold Tiara
 PERSONAL
+
+
 AUGMENTATION
+
+
 
 Cognitive Augmentation (INT+3),
 Neural Comm, Neural Link,
 Wafer Jack
 
-SPECIES GENDER AGE
+
 — Female 16
 
 the Amec Protectorate, the League of Antares and
@@ -4388,8 +4542,7 @@ The Chanestin worlds are a source of internecine
 strife in the Core, so she is careful not to stir the pot
 by advocating one way or the other. She does express
 great admiration for the historical achievements of
-the Chanestin people and actively engages in fund-
-raising activities to preserve their unique and ancient
+the Chanestin people and actively engages in fund-raising activities to preserve their unique and ancient
 architectural monuments, some of which are now
 nearly 3,000 years old.
 
@@ -4424,9 +4577,11 @@ Stations before she eventually sits upon the throne.
 
 The Nobility
 
-TRAVELLER
+
 
 IMPERIAL WARRANTS
+
+
 Imperial warrants are instructions printed on physical
 or encrypted electronic Imperial stationery from the
 Emperor, an archduke or a duke and given to trusted
@@ -4575,6 +4730,8 @@ Common Areas 2 0.2
 Cargo 0 —
 
 MEGACORPORATE COURIER
+
+
 CLASS:INTELL
 
 Despite the excellent record of the x-boat network,
@@ -4612,8 +4769,12 @@ Astrogator,Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr10100/month
 PURCHASE COST
+
+
 MCr121.2
 
 Power Requirements
@@ -4638,6 +4799,8 @@ M-Drive
 
 MDA
 
+
+
 Vault
 
 Stateroom
@@ -4648,9 +4811,13 @@ Sensor
 
 CA
 
+
+
 J-Drive
 
 PP
+
+
 
 Bridge
 
@@ -4696,7 +4863,7 @@ DECK 2
 11. Low Berths
 12. Common Area
 
-TRAVELLER
+
 
 Megacorporation Business
 Delgado Trading, LIC The youngest of the megacorporations, Delgado excels in several businesses,
@@ -4705,8 +4872,7 @@ auctioning, and most recently the toy industry. Founded 997.
 General Products, LIC Heavy machinery, starships and small craft manufacturing of adequate quality at
 low prices. Built from a series of mergers in 620–622.
 Gesellschaft feur
-Sternschiffbau AG
-(GSbAG)
+Sternschiffbau AG (GSbAG)
 
 High-end starship manufacturing. Big break came when they got the contract
 to build Sylean Federation Naval ships in -334. Eventually bought out Zhunastu
@@ -4814,7 +4980,7 @@ an existential imperative for the [[Terra|Terran]]s to advance
 as quickly as possible in order to oppose the massive
 Vilani Imperium.
 
-TRAVELLER
+
 
 The Interstellar Wars were a mixed affair. The
 [[Terra|Terran]]s encountered pockets of strong resistance as
@@ -4981,7 +5147,7 @@ resulting in heated debate.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 A Brief Timeline of Imperial History
 Year Event
@@ -5142,11 +5308,13 @@ ultimately fell to Sylean forces.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 _THE INTERSTELLAR_
 
 CONFEDERACY
+
+
 In the Bunkeria and Cemplas subsectors of Core,
 there were a string of worlds known collectively as
 the Great Spiral that managed to survive the Long
@@ -5279,76 +5447,200 @@ The Interstellar Confederacy
 Planet (dry)
 Planet (water present)
 SKETOLA
+
+
 DRAL
+
+
 IRLU
+
+
 TREVOR
+
+
 ACMED
+
+
 OORPIC
+
+
 GISHALEM
+
+
 BENTAX
+
+
 HELLHOLE
+
+
 F'RNOW
 ONTAR
+
+
 ANTAR
+
+
 LALANDRA DUNLEK ESS NUUR
+
+
 CROMIND
+
+
 SIMIC DINHE
+
+
 DOMITAR
+
+
 BELLUM
+
+
 ASALAM
+
+
 IKARUS
+
+
 RANDAR
+
+
 MARSUS ROLLABON
+
+
 HEKTALUS
+
+
 FEROT
+
+
 RAX
+
+
 TARSHII
+
+
 RELLE
+
+
 IRDU
+
+
 DESECA PROTALUS KATOCKL
+
+
 Cemplas
 VELPARE
+
+
 BENDO
+
+
 SHIBASHLIIM
+
+
 KHUSGURLU
+
+
 KEPLO
+
+
 LISHIRUUD
+
+
 WASTAM CELETRON
+
+
 DRAG
+
+
 YE-LU
 EHOK-TA
 RENU
+
+
 BELICOSE
+
+
 EORVIN
+
+
 EXOD
+
+
 SHALAM
+
+
 PIXTOME
+
+
 DINGUS
+
+
 CHOKTA
+
+
 BOGUSTIN
+
+
 HERALDIA
+
+
 SUHTLAM
+
+
 MEMAN GASHIL EVAD
+
+
 ESHON
+
+
 NOESH
+
+
 KIRKUS
+
+
 BIIRKE
+
+
 USHTAR
+
+
 ORGUUSH
+
+
 UR
+
+
 DIGITUS
+
+
 SPIRN
+
+
 SHIRG
+
+
 SANTAR
+
+
 ALTON
+
+
 RASHIUON
+
+
 CALESSON
+
+
 Asteroids (no atmoshpere/water)
 _THE INTERSTELLAR CONFEDERACY_
 
-TRAVELLER
+
 
 THE CHANESTIN KINGDOM
+
+
 When the Long Night fell, travel between star
 systems came to a halt throughout most of civilised
 space. Many worlds died out if they could not
@@ -5407,8 +5699,7 @@ the technology to begin the arduous task of building
 a new fleet of warships. The Chanestin Kingdom
 recognized the Sylean Federation for the existential
 threat that it was and invested every iota of their
-energy into the preservation of their millennium-
-old empire. Within a few short years, they had the
+energy into the preservation of their millennium-old empire. Within a few short years, they had the
 makings of a fleet and went on the offensive against
 the Syleans.
 
@@ -5453,8 +5744,7 @@ History of the Third Imperium
 1935 1936 1940
 2034 2038
 2138
-2235 2236 2237 2239 2240
-(^233423382339)
+2235 2236 2237 2239 2240 (^233423382339)
 2436 2438 2440
 1735 1736 1737
 1834 1835 1836 1837 1838 1839
@@ -5476,46 +5766,122 @@ Planet (dry)
 Planet (water present)
 Dunea
 ARVLESAAISH
+
+
 MISHED
+
+
 KHEA
+
+
 UUNDI ZI
+
+
 MIREGZI
+
+
 IIDKEK
+
+
 SIDZER
+
+
 GINNA EHSHUUAR
+
+
 ANSHAR
+
+
 MISHAA
+
+
 KHASHERLIGUU
+
+
 IRKHAR KIRK
+
+
 ANLUMIR IRADDII RILI AASH
+
+
 SARUUMDIIUSH
+
+
 NII
+
+
 KESHI
+
+
 DAAUD URLE
+
+
 KIIR
+
+
 ADKHI
+
+
 NIG
+
+
 DILIIG
+
+
 BUSIRKHER
+
+
 UUMAD
+
+
 GISH ADAN
+
+
 SHINZARKAN
+
+
 LIGMUU INMAEG
+
+
 DAINDKHARA
+
+
 ZISHMA KHA
+
+
 GIMMI UUSSHA
+
+
 SHUESHLAR
+
+
 UURME
+
+
 DIMANAAM
+
+
 MALAAASH
+
+
 MINDUUN SAMMAD
+
+
 GID
+
+
 DIIRMUU
+
+
 UMKASHUU
+
+
 KUKA RID
+
+
 _HISTORICAL MAP OF THE CHANESTIN KINGDOM_
 
-TRAVELLER
+
 
 While the conflict with the Interstellar Confederacy
 might best have been described as a war of attrition,
@@ -5689,9 +6055,11 @@ single corporate entity: Zhunastu Industries.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 SECRETS OF THE ZHUNASTU DYNASTY
+
+
 The ageless story of the Zhunastu dynasty has transcended into the realm of myth. There is little doubt that
 the family was a talented bunch but some aspects of their story are shrouded in mystery.
 
@@ -5745,8 +6113,7 @@ use of technology were tenets of Vilani philosophy and
 Cleon won his hosts over with a spirited statement of
 their shared heritage.
 
-Felix Zhunastu died in -30, leaving a young but wise-
-beyond-his-years Cleon as his heir. Cleon assumed the
+Felix Zhunastu died in -30, leaving a young but wise-beyond-his-years Cleon as his heir. Cleon assumed the
 mantle of Grand Duke, president of the Grand Senate
 and chairman of Zhunastu Industries at the tender age
 of 27. He did not waste time making his mark.
@@ -5843,7 +6210,7 @@ expanding merchant lines.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 Cleon broke ground on the first Grand Palace of the
 Imperium. The project was completed in two years. It
@@ -5972,8 +6339,7 @@ began to take shape, one in which even the lowliest
 scout had a voice. The flat structure of the Scout
 Service would soon be reflected in its fleet of starships
 as well. The venerable _Iiken_ -class scout/courier was
-adopted as the ship of choice, a small, durable, multi-
-faceted and most of all economical spacecraft that
+adopted as the ship of choice, a small, durable, multi-faceted and most of all economical spacecraft that
 could be operated by a light crew (one individual if
 necessary) and which could perform most of the jobs
 the scouts needed done: communications, survey and
@@ -6062,7 +6428,7 @@ thereafter but it became increasingly apparent that
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 it would over time. They had only to look at the Core
 worlds to see the proof. The Wayward Worlds and
@@ -6225,6 +6591,8 @@ Gaining the favor of such a well-established region of
 space would require a longer game to be played.
 
 THE ANTARES CAMPAIGN
+
+
 Conquering the Quarantine Worlds of Lishun and
 Antares was difficult due to the proximity of the Vargr
 Extents. Quarantines and blockades were routinely
@@ -6233,7 +6601,7 @@ worlds with virtually whatever they needed. Whatever
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 the Vargr could not provide from the Extents, they
 obtained by pirating Imperial merchant ships and
@@ -6254,6 +6622,8 @@ each of which had been partially or entirely in the
 possession of the Ziru Sirka.
 
 THE ILELISH CAMPAIGN
+
+
 The Archduke of Ilelish had a remarkably easy job
 to do during the Pacification Campaigns; most of the
 worlds in the domain were amenable to integration.
@@ -6277,6 +6647,8 @@ centuries but at this time they were happy to become
 a part of it.
 
 THE VILANI CAMPAIGN
+
+
 Archduke Lukgirigaasa of Vland easily integrated
 most of the Dagudashaag sector, much of which
 already benefited from Imperial largesse. The trade
@@ -6314,6 +6686,8 @@ extreme methods employed, the end result was the
 full integration of all worlds in the domain.
 
 THE SYLEAN CAMPAIGN
+
+
 The archduke of the Domain of Sylea is also the
 Emperor, so Artemsus himself was responsible for
 the pacification and integration of Core, Fornast and
@@ -6411,7 +6785,7 @@ highly advanced Sindalian Empire, which had imploded
 in an apocalyptic civil war during the Long Night.
 History of the Third Imperium
 
-TRAVELLER
+
 
 The stories out of Deneb were a welcome distraction
 from the failures of the Antares Pacification Campaign.
@@ -6625,7 +6999,7 @@ mistakes of the Julian War.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 Greener Pastures
 Colonization efforts in the Domain of Deneb saw a
@@ -6839,7 +7213,7 @@ to violent conflict, sometimes with devastating results.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 Dynastic Crisis
 Upon his death in 244, Martin II left the Vargr
@@ -6849,8 +7223,7 @@ he died confident that the Imperium would extend
 into the Domain of Deneb via Corridor in due time.
 Unfortunately, Martin did not leave an heir to the throne,
 bringing a brief pause to the Lentuli line. The ensuing
-dynastic crisis resulted in the selection of the great-
-great-great grandson of Cleon II.
+dynastic crisis resulted in the selection of the great-great-great grandson of Cleon II.
 
 There were concerns about his stability before the
 selection was finalised but powerful members of
@@ -6886,6 +7259,8 @@ the case may be, the Moot approved the action and
 she was made Empress Porfiria I in 245.
 
 THE RIGHT OF ASSASSINATION
+
+
 This unorthodox method of selecting a new
 Emperor was devised after the selection of
 Cleon III proved to be a bad one. The Moot
@@ -7021,7 +7396,7 @@ with a bright future.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 Upon her death in 326, Porfiria's son Anguistus was
 crowned Emperor. Anguistus was much loved by the
@@ -7060,8 +7435,7 @@ became keenly aware of the costs of war. He saw his
 father struggle daily with the management of the Vargr
 Campaigns. It was a long and costly affair but deemed
 worth the price. As a student of history, he knew that the
-expansionist Aslan posed a similar threat. While the as-
-yet-unincorporated Domain of Sol served as a de facto
+expansionist Aslan posed a similar threat. While the as-yet-unincorporated Domain of Sol served as a de facto
 buffer state between the Imperium and Hierate, Martin
 recognized the danger posed by this burgeoning alien
 race. After learning more about Aslan customs and the
@@ -7080,8 +7454,9 @@ two species, Martin authorized the establishment of an
 Aslan regiment in the Imperial Guard.
 
 PLAN LAZARUS
-The Peace of Ftahalr established a 30-parsec-
-wide gap between the Imperium and Aslan Hierate
+
+
+The Peace of Ftahalr established a 30-parsec-wide gap between the Imperium and Aslan Hierate
 but Emperor Martin and his military high command
 were still concerned about the expansionist
 Aslan. The acquisition of land was a biological
@@ -7138,8 +7513,7 @@ years, the entirety of its findings was collated and
 stored at Reference.
 
 I Was One of the 1,300
-We docked our trader at Maaruur Highport on 108-
-350, intending to make planetfall two days later. Plans
+We docked our trader at Maaruur Highport on 108-350, intending to make planetfall two days later. Plans
 changed when five Imperial Navy dreadnoughts came
 out of jump at the 100-diameter limit.
 
@@ -7238,7 +7612,7 @@ SuSAG acquired an unfavorable reputation due to its
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 involvement with psionic drugs and other controversial
 projects but the corporation and others like it produced
@@ -7260,11 +7634,12 @@ civilization. The Imperium felt otherwise; any evolution
 that was happening stopped at the Iridium Throne.
 
 THE ILELISH REVOLT
+
+
 In 418, the government of the Ilelish system, capital of
 a sector by the same name, declared its independence
 from the Imperium. Ilelish was the homeworld of the
-Suerrat human Minor Race. It and many other high-
-population worlds in the domain had begun to feel
+Suerrat human Minor Race. It and many other high-population worlds in the domain had begun to feel
 neglected by the expanding empire, which had focused
 most of its resources on defence of the borders,
 growth of the frontier and the construction of the Star
@@ -7376,8 +7751,7 @@ Moot was hoping for.
 Despite the continued expansion of the Imperium,
 the Moot and its Chancellor were frustrated by
 the unwillingness of the Empress to address the
-Imperium's most pressing issues. Nicholle's great-
-grandfather had left unfinished business to his heirs.
+Imperium's most pressing issues. Nicholle's great-grandfather had left unfinished business to his heirs.
 The Peace of Ftahalr was a singular achievement but
 most believed it merely delayed confrontation with the
 Aslan; a long-term solution was required. Furthermore,
@@ -7417,7 +7791,7 @@ places, most of whom were of either pure or mixed
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 Solomani blood. Coinciding with these events were
 a number of declarations made by the Emperor that
@@ -7634,7 +8008,7 @@ Baron Caranda of Regina.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 The Civil War
 At the end of the First Frontier War, a furious Grand
@@ -7679,6 +8053,8 @@ and honor upon which it was built. It was time for the
 Imperium to pay the consequences.
 
 EMPERORS OF THE FLAG
+
+
 From 609 to 622, a series of short-lived Emperors
 ruled the Third Imperium. All of them ascended to
 the throne by Right of Assassination or Right of Fleet
@@ -7765,7 +8141,7 @@ Gustus 621–622 Proclaimed Emperor by Right of Assassination. Confirmed by the 
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 Saviour of the Empire
 Grand Admiral Arbellatra Alkhalikoi is sometimes
@@ -7868,6 +8244,8 @@ military presence.
 History of the Third Imperium
 
 A TALE OF TRAMP TRADERS
+
+
 A curious historical sidenote from the Civil War era was the creation of the Empress Marava -class far
 trader. While Marava's reign was a short one, lasting less than a year, her singular achievement was the
 felling of the Grand Palace of Martin II, destroying its gravitic suspensors and bringing the fairy tale-style
@@ -7934,7 +8312,7 @@ deemed them necessary nonetheless.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 The Empress established several new orders of
 knighthood, including the Order of Hlyuea for loyal
@@ -7978,8 +8356,7 @@ two millennia earlier but the spectre of Solomani
 culture still hung over it like a dark cloud. The
 Solomani nobles who dominated the Moot, fairly or
 unfairly, were blamed for much of the chaos that
-had occurred. Their greed precipitated the non-
-dynastic emperors and fomented the Civil War in
+had occurred. Their greed precipitated the non-dynastic emperors and fomented the Civil War in
 which each of the usurpers was of Solomani descent.
 Empress Arbellatra and her heir, Zhakirov, devised
 
@@ -8089,6 +8466,8 @@ Imperium over the edge and into conflict.
 **SOLOMANI CONFEDERATION**
 
 DISSOLUTION OF THE NOBILITY
+
+
 Noble patents are vacated. Hardliners come under fire
 from a hostile Solomani population.
 •  716: The Archduke of the Domain of Sol dies.
@@ -8100,11 +8479,12 @@ coups force many into exile. Some are recalled
 to [[Capital]].
 
 REVOLUTION
+
+
 The Solomani Movement sweeps over the Rim.
 •  Pro-Imperial factions voted out, forced into exile
 or violently overthrown.
-•  720: The Esperance World War: Majority-
-Vegan nation of Waothan defeated by Nueva
+•  720: The Esperance World War: Majority-Vegan nation of Waothan defeated by Nueva
 Argentina. Waothanian Vegans become
 second-class citizens.
 •  750: Government of Nusku overthrown by
@@ -8122,12 +8502,16 @@ independent Solomani state.
 by settling worlds in the buffer zone.
 
 THE NEVER IMPERIAL MOVEMENT
+
+
 •  The Imperial Civil War interrupted the full
 integration of the Solomani Rim.
 •  Border worlds forego Imperial membership for
 Solomani. The Movement spreads.
 
 SOLOMANI CONFEDERATION
+
+
 •  The Solomani Autonomous Region secedes
 from the Imperium in 871, declaring the
 Solomani Confederation. The Imperium ignores
@@ -8139,9 +8523,11 @@ published on Home in Aldebaran in 881.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 AND THE BAND PLAYED ON
+
+
 Despite the imminent showdown with the Solomani Rim
 on the horizon, the Imperium as a whole was perhaps
 more stable than it had ever been. The Alkhalikoi
@@ -8294,8 +8680,7 @@ suppression orders for all psionic institutes operating
 within Imperial space. All of the institutes were
 ordered to cease operations and training programs
 immediately. The hysteria carried over the border into
-the Solomani Autonomous Region where a similar anti-
-psionic pogrom took place. By 826, all of the institutes
+the Solomani Autonomous Region where a similar anti-psionic pogrom took place. By 826, all of the institutes
 had their charters revoked and practicing psions were
 forced underground.
 
@@ -8335,9 +8720,11 @@ element of society that had long been thought benign.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 CONSPIRACY THEORIES
+
+
 At the conclusion of the Psionic Suppressions,
 there were numerous conspiracy theories about
 who the 'real' culprits were. Many theorized that
@@ -8383,6 +8770,8 @@ the late 700s, but that the Psionic Suppressions
 effectively delayed the war for 200 years.
 
 PROJECT LONGBOW
+
+
 For reasons that were mysterious at the time,
 the Empress initiated a covert project in 830
 called Project Longbow or more accurately,
@@ -8432,8 +8821,7 @@ History of the Third Imperium
 Tomutova died in 908, passing the torch to her oldest
 child, who was crowned Margaret II. The Alkhalikois
 continued to play the long game and a succession of
-wise rulers paved the way towards a psychohistory-
-guaranteed victory over the Solomani. This was a game
+wise rulers paved the way towards a psychohistory-guaranteed victory over the Solomani. This was a game
 the Imperium had been preparing for since Artemsus
 wisely resisted the temptation to integrate Terra in
 the early 200s. Every psychohistorical prediction that
@@ -8542,7 +8930,7 @@ Solomani looking over their shoulders as well.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 Interlude: Third Frontier War
 With the Imperium almost completely focused on
@@ -8753,7 +9141,7 @@ and auxiliaries before returning to the front.
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 Despite the attrition the Solomani fleets had
 suffered, Wolfe managed to inflict major damage
@@ -8768,6 +9156,8 @@ was harried by the Imperial 1st Fleet during his retreat
 to Aldebaran.
 
 TEST OF LOYALTY
+
+
 Pureblood and mixed-heritage Solomani occupied many stations in the Imperium. Prior to the Alkhalikoi
 Dynasty, the Solomani dominated the Moot and composed most of the Imperial Navy High Command.
 There were some defections to the Solomani Confederation but the vast majority remained loyal to the
@@ -8794,8 +9184,7 @@ was thought of as the far-more-effective successor state to the Rule of Man.
 
 One of the more understated subtexts of the Imperial narrative was its advancement of technology. Before
 the Rim War, the Imperium was on the fast track to TL15, two full levels over that of the front-line Solomani.
-Coupled with the growing wealth of its worlds and its vast trade routes, it was difficult to argue with the pre-
-eminence of Imperial power. It was hard to recruit defectors from a side whose progress and growth was so
+Coupled with the growing wealth of its worlds and its vast trade routes, it was difficult to argue with the pre-eminence of Imperial power. It was hard to recruit defectors from a side whose progress and growth was so
 clear for all to see. There may have been Solomani sympathisers among the ranks but there were simply
 too many reasons to remain loyal to the Third Imperium for most of them to switch sides.
 
@@ -8828,8 +9217,7 @@ new Archduchess of Sol in 1003. The archduchess at
 first administered the affairs of the domain from Muan
 Gwi, elevating the standing of the Vegans to new
 heights and then eventually moved her offices to the
-sector capital at Dingir. The manor of the Secretary-
-General on Terra was converted into a center for
+sector capital at Dingir. The manor of the Secretary-General on Terra was converted into a center for
 diplomacy, dedicated to finding peaceful solutions to
 all of the issues that the Imperials and Solomani had
 with one another. Adair got started with the long and
@@ -8874,8 +9262,7 @@ the advent of the Authentic Movement. The principles
 of the movement were developed in 988 by Dr.
 Johann Kramm at a university on Shudusham, only
 four parsecs from [[Capital]]. This movement posited
-that the human spirit was diminished in high-
-technology societies but that it could be replenished
+that the human spirit was diminished in high-technology societies but that it could be replenished
 by celebrating one or more of the myriad cultures
 of Charted Space, both current or historical. People
 were encouraged to select a culture, study it with
@@ -8926,7 +9313,7 @@ remaining fringe resistance movements had been
 
 History of the Third Imperium
 
-TRAVELLER
+
 
 brought to the negotiating table and pacified. This event
 was celebrated by the reestablishment of the Solomani
@@ -9009,8 +9396,7 @@ an armistice was signed in 1084, causing the war to
 be nicknamed the 'False War'. By the time word had
 arrived at Capital, the fighting was essentially over.
 Nevertheless, clever messaging was devised to make
-Strephon look like a highly capable commander-in-
-chief. As had so often been the case with the Frontier
+Strephon look like a highly capable commander-in-chief. As had so often been the case with the Frontier
 Wars, a few systems changed hands and things
 returned to the status quo.
 
@@ -9090,6 +9476,8 @@ has standardised at TL16, particularly in the realms of
 communications and electronics.
 
 LONGBOW II
+
+
 Unbeknownst to the rank and file of the Imperium,
 Emperor Strephon commissioned the highly
 confidential Project Longbow II in 1103. The
@@ -9255,8 +9643,7 @@ display. This makes for a patchwork of freewheeling
 anarchies, authoritarian regimes, would-be utopias,
 struggling colonies, balkanised jigsaw puzzles and just
 about every other type of society that one can imagine.
-There is a greater concentration of high-tech and high-
-population worlds than on the frontiers. High-population
+There is a greater concentration of high-tech and high-population worlds than on the frontiers. High-population
 worlds tend to have complex governments and high
 Law Levels as well. Authoritarianism runs strong in the
 heart of the Imperium.
@@ -9628,55 +10015,107 @@ Research Station
 
 APGE
 
+
+
 IRKIGKHAN
+
+
 
 SHANA MA
 
+
+
 NIIZEDIJU
+
+
 
 SHAR
 
+
+
 ARKAG KA
+
+
 
 PASLIIR
 
+
+
 CASTELL
+
+
 
 KIID
 
+
+
 DAKE AG
+
+
 
 DASHGAD
 
+
+
 NIIR
+
+
 
 URAS
 
+
+
 GEKSHIIUUN
+
+
 
 MAG
 
+
+
 GIN
+
+
 
 KHAUR GA
 
+
+
 MUUDESHI
+
+
 
 KUUNAA
 
+
+
 TROKUSIAN
+
+
 
 IRLI UN
 
+
+
 MAARUUR
+
+
 
 KHUUMIAM SABSEE
 
+
+
 KIKIM
+
+
 
 KHAAM
 
+
+
 AZIMUTH
+
+
 
 C9C4733-9
 
@@ -9794,8 +10233,7 @@ of appointing the third-born child of the family as heir.
 This practice propagated to other tiers of society
 and resulted in a massive population boom. Under
 normal circumstances, this hallowed Vilani practice
-would precipitate the migration of first- and second-
-born offspring to other worlds, thereby serving as an
+would precipitate the migration of first- and second-born offspring to other worlds, thereby serving as an
 engine for colonization. However, during the Long
 Night, migration was not an option. The population of
 Apge flowered without access to enough resources
@@ -9867,7 +10305,7 @@ they are loath to accept.
 
 Apge
 
-TRAVELLER
+
 
 Maaruur
 Maaruur is the largest moon and solitary habitable
@@ -9979,8 +10417,7 @@ of its population are living on the edge of financial
 
 apge
 
-disaster and reliant on the charity of its more well-to-
-do inhabitants, many of whom are loath to provide
+disaster and reliant on the charity of its more well-to-do inhabitants, many of whom are loath to provide
 assistance. This has resulted in a financially stratified
 society with a great deal of tension between the social
 classes and the paralysed ruling council has done little
@@ -10033,7 +10470,7 @@ Ion Shield 14 1 Cr5000
 
 Apge
 
-TRAVELLER
+
 
 Personal Energy Shield
 There are times when armor is needed but the
@@ -10051,8 +10488,7 @@ presence. A standard battery provides six hours
 of protection.
 
 A skilled wearer can overload the battery to get more
-Protection by making a Difficult (10+) Electronics
-(computers) check to recalibrate the device. Success
+Protection by making a Difficult (10+) Electronics (computers) check to recalibrate the device. Success
 with an Effect of 0-3 provides Protection +18 but
 reduces the battery life by one half. Effect of 4–5
 provides Protection +24 with one half the battery
@@ -10096,8 +10532,7 @@ returned to the Vilani language, traditions and
 rituals that had guided their lives for thousands of
 years before the disastrous Interstellar Wars and
 subsequent Rule of Man. After contact with the
-Sylean Federation in approximately -450 and the re-
-emergence of interstellar trade, Perite became more
+Sylean Federation in approximately -450 and the re-emergence of interstellar trade, Perite became more
 of a hybrid culture but even today visitors can see the
 tension that exists between cosmopolitan Imperial
 society and traditional Vilani boroughs.
@@ -10153,7 +10588,7 @@ pick out during joint exercises elsewhere in the Core.
 The flagship of the fleet is a heavy cruiser that is called
 Khidenuum iru Argukege , the 'Duty of the Wise'.
 
-TRAVELLER
+
 
 Name Location Bases Statistics Trade Codes Travel Code Gas Giants
 Akussanja 1308 S D557613-6 Ag Ni G
@@ -10378,65 +10813,125 @@ Planet (water present)
 
 KARNIKA KIIMI DI
 
+
+
 SHAZEKU
+
+
 
 DISAL
 
+
+
 MUUMUU
 
+
+
 GISH
+
+
 
 TINEA-FABRE
 
 MISHAAR
 
+
+
 UUSLA
+
+
 
 LUUMIILIIPLEN
 
+
+
 UUMEAXAN
+
+
 
 GIRIKASH
 
+
+
 RAE
+
+
 
 UURUUN KUU
 
+
+
 KARGI
+
+
 
 LIMASHIMII
 
+
+
 MIILAP KAS
+
+
 
 ASHDUUMA
 
+
+
 UUMAAD NURIR
+
+
 
 AKUSSANJA
 
+
+
 UUNILUU
+
+
 
 GAKXAAL
 
+
+
 IMGUU
+
+
 
 UURGIN
 
+
+
 KUUM
+
+
 
 ZEKTIND IR
 
+
+
 KINUU
+
+
 
 ASMI
 
+
+
 KAKAAGUUR
+
+
 
 SIRMA
 
+
+
 GIIAKIIS E
 
+
+
 NAGAN
+
+
 
 A-C D-9
 
@@ -10556,7 +11051,7 @@ D567225-5
 
 ###### PERITE subsector
 
-TRAVELLER
+
 
 Akussanja
 Akussanja hosts a variety of unusual life forms as
@@ -10616,8 +11111,7 @@ on the planet never managed to produce complex
 animal species but microbial life runs rampant in its
 oceans, seas and low-lying valleys. However, little of
 its native life may be found at an elevation of more
-than 1,000 meters. The planet has a dense, high-
-pressure atmosphere with significant carbon dioxide,
+than 1,000 meters. The planet has a dense, high-pressure atmosphere with significant carbon dioxide,
 sulphur dioxide and hydrogen sulphide taints spewed
 from its dozens of active volcanos.
 
@@ -10687,7 +11181,7 @@ breed of starfighter.
 
 perite
 
-TRAVELLER
+
 
 The Annililik Run
 The legendary 'silk road' between Vland and Capital
@@ -10889,8 +11383,7 @@ and net income. The Grand Champion is given an
 enormous cash prize and gains fame and fortune to last
 a lifetime.
 
-For some, making the Annililik Run is a once-in-
-a-lifetime adventure, a break from the norm and
+For some, making the Annililik Run is a once-in-a-lifetime adventure, a break from the norm and
 an adventure they will never forget. After a Run is
 completed, most contestants return to their lives as
 crewmembers on liners, freighters and tramp traders.
@@ -10937,8 +11430,8 @@ their privileges after all.
 
 TL14 Tons Cost (MCr)
 Hull 200 tons, Streamlined — 12
-M-Drive Thrust 2 (energy efficient x2) 4 10
-J-Drive Jump 2 (decreased fuel x3) 15 33.75
+M-Drive Thrust2 (energy efficient x2) 4 10
+J-Drive Jump2 (decreased fuel x3) 15 33.75
 Power Plant Fusion (TL12), Power 90 6 6
 Fuel Tanks J-2, 4 weeks of operation 35 —
 Bridge 10 1
@@ -10975,8 +11468,12 @@ Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr6437/month
 PURCHASE COST
+
+
 MCr77.245
 
 Power Requirements
@@ -11406,61 +11903,119 @@ Planet (water present)
 
 KHIZUUN
 
+
+
 NUUDLE
+
+
 
 AARUU ZI
 
+
+
 NIMLUIN
+
+
 
 KAMA ZANIIN
 
+
+
 IRKHEDI
+
+
 
 UNNAGILU
 
+
+
 GAMIIGELA
+
+
 
 AMUR ISARK EDIRKISDII
 
+
+
 LAGAASHIN
+
+
 
 ARNAKI
 
+
+
 MASHAA UUNGIP
+
+
 
 LISKA ASHGI
 
+
+
 AMEROS
+
+
 
 GIS
 
+
+
 ISKI KUU
+
+
 
 KINNED
 
+
+
 IRBI
+
+
 
 SHIZA
 
+
+
 ANDKAG PA
+
+
 
 ERKIIM
 
+
+
 DAASH
+
+
 
 EREM DASH
 
+
+
 GEMI
+
+
 
 LUUNNI MIU
 
+
+
 INLUN RA
+
+
 
 RAVIA
 
+
+
 ERDI
 
+
+
 KHERIP AG
+
+
 
 E-9
 
@@ -11697,7 +12252,7 @@ equipment on the agricultural combines until more
 
 ameros
 
-TRAVELLER
+
 
 efficient technological means were imported. While
 the kovil does not object to being led or ridden,
@@ -11806,16 +12361,14 @@ the bickering megacorporations from
 having an influence.
 
 **IISS EVA Suit**
-The Scout Service EVA suit is a hardier, more well-
-equipped version of its standard vacc suit. The suit is
+The Scout Service EVA suit is a hardier, more well-equipped version of its standard vacc suit. The suit is
 designed to handle multiple challenging and hazardous
 working environments with improved heat and radiation
 shielding, internal grav-assist, precise handling and
 extended life support for up to 48 hours. The equipment
 consists of two components: the vacc suit itself,
 which may be worn in non-vacuum, standard-gravity
-environments; and the EVA rig which is a heavy, multi-
-purpose apparatus that the suit clips into.
+environments; and the EVA rig which is a heavy, multi-purpose apparatus that the suit clips into.
 
 The rig includes a set of waldos for sample collection
 and several sealed storage containers to store them
@@ -12181,71 +12734,139 @@ Planet (water present)
 
 NINUA
 
+
+
 DUREIJA
+
+
 
 DERKU
 
+
+
 GEKHUU
+
+
 
 ISHNUUNAR
 
+
+
 ERANI
+
+
 
 KERLIAR
 
+
+
 MARGISH LIIR
+
+
 
 KALENDAE
 
+
+
 SEKWON
+
+
 
 EBBA
 
+
+
 SHUSA LIISHLI
+
+
 
 MINOS
 
+
+
 KIMVLE
+
+
 
 GIGI
 
+
+
 SAGAKU
+
+
 
 ARUNDE
 
+
+
 DAMKI IM
+
+
 
 AARZA KAND
 
+
+
 HREOWAN
+
+
 
 AGDUU
 
+
+
 IMKHAG GUU
+
+
 
 ENKAIEIN
 
+
+
 DIM
+
+
 
 KIR
 
+
+
 FLUERE
+
+
 
 MAEGHEN
 
+
+
 ROSKA
+
+
 
 KERSI AM
 
+
+
 ISUUR
+
+
 
 EDZA
 
+
+
 IIDSHA
+
+
 
 GAREN
 
+
+
 AADKHA NA
+
+
 
 B-F
 
@@ -12395,15 +13016,13 @@ for minor merchant convoys and just about every other
 hazardous, life-threatening job that needs to be done. If
 there is money to be made and no one else wants to do
 it, the Irilitok will avail themselves for the job. They are
-heedless of danger and serve in roles that most right-
-minded Imperial citizens refuse to take. However, there
-is a dark side to the Irilitok: the Ekilati Onati, a star-
-spanning organised crime organization that occupies
+heedless of danger and serve in roles that most right-minded Imperial citizens refuse to take. However, there
+is a dark side to the Irilitok: the Ekilati Onati, a star-spanning organised crime organization that occupies
 the lower rung of their society.
 
 Shinkan
 
-TRAVELLER
+
 
 In most sectors, the Ekilati Onati are an afterthought,
 low-level thugs who extort protection money from
@@ -12422,8 +13041,7 @@ just about every spaceport in the outer system. The
 Vargr are a minority race and try to keep a low profile
 as best they can but when crossed, the Antareans
 respond with violent retribution. They often employ
-humans as enforcers and assassins to prevent law-
-enforcement officers from easily implicating them.
+humans as enforcers and assassins to prevent law-enforcement officers from easily implicating them.
 Their signature act of retribution is to perform a
 'defanging' before offing someone. The bodies of their
 victims are found with their incisors and often their
@@ -12466,8 +13084,7 @@ into Fornast sector before it finally terminates. Traffic
 on the main is high and Dim's modest starport is
 designed to facilitate trade as best it can. The central
 pod of its highport is a busy thoroughfare where
-freight and speculative cargo flows from ship-to-
-ship. Low-tech robots, large and small, scurry about
+freight and speculative cargo flows from ship-to-ship. Low-tech robots, large and small, scurry about
 transporting cargo modules, product samples, mail
 pods and other materials between wheeling and
 dealing merchants. Visitors learn to watch their step
@@ -12503,8 +13120,7 @@ Shinkan
 
 Robot Hits Locomotion Speed TL Cost
 Dim Highport Cargo Robot 50 Walker (Vehicle) 12 Cr430000
-Skills Athletics (endurance) 3, Athletics (strength) 4, Athletics (strength) 4, Profession
-(labourer) 2, Mechanic 1
+Skills Athletics (endurance) 3, Athletics (strength) 4, Athletics (strength) 4, Profession (labourer) 2, Mechanic 1
 Attacks Inadvertent Trample (3D)
 Manipulators 2x (STR 18, DEX 7)
 Endurance 864 (173) hours
@@ -12512,8 +13128,7 @@ Traits Armor (+4), ATV, Large (+2), Vehicle Speed: Very Slow (Slow), Hardened
 Programming Advanced (INT 6)
 Options Auditory Sensor, Drone Control Interface (advanced), Visual Spectrum Sensor,
 Voder Speaker, Wireless Data Link, Magnetic Grippers, Forklift (medium),
-Transceiver 50 km (improved), Vacuum Environment Protection, Cutting Torch
-(improved), Mechanical Toolkit (basic)
+Transceiver 50 km (improved), Vacuum Environment Protection, Cutting Torch (improved), Mechanical Toolkit (basic)
 
 Dim Highport Cargo Robot
 Dim cargo bots of various shapes and sizes
@@ -12532,8 +13147,7 @@ from time-to-time.
 
 Operating a Dim Highport cargo robot
 without trampling innocent bystanders:
-Difficult (10+) Electronics (remote ops) check
-(2D minutes, DEX).
+Difficult (10+) Electronics (remote ops) check (2D minutes, DEX).
 
 Maeghen
 After living under the rule of a feudal monarchy
@@ -12568,7 +13182,7 @@ around them. Its serviceable and utilitarian highport
 
 Shinkan
 
-TRAVELLER
+
 
 welcomes visitors who are travelling along the Lishun
 Main but the downport scarcely rates a Class E facility.
@@ -12617,8 +13231,7 @@ manufacture synthetic Zuchai crystals, all of which are
 key components in the construction of jump drives.
 
 The initial plan was for a conglomerate of local
-companies to ship the materials offworld on mid-
-to long-range freighters, to be used in shipyards
+companies to ship the materials offworld on mid-to long-range freighters, to be used in shipyards
 located elsewhere. Much to everyone's surprise, the
 megacorporation GSbAG orchestrated a hostile takeover
 
@@ -12743,7 +13356,7 @@ spectre of the Ilelish Revolt still looms large and the
 Imperium is determined that such a thing should never
 occur again, especially on its proverbial doorstep.
 
-TRAVELLER
+
 
 **Name Location Bases Statistics Trade Codes Travel Code Gas Giants**
 Alekvadin 0811 B675AAB-E Hi Ht In A G
@@ -12969,69 +13582,135 @@ Planet (water present)
 
 SANCHES
 
+
+
 DUDIN
+
+
 
 SHARDI
 
+
+
 RUNDAN
+
+
 
 IGGAAR
 
+
+
 KHUKHI
+
+
 
 ALEKVADIN
 
+
+
 PER
+
+
 
 KHID
 
+
+
 IDPUU
+
+
 
 KEIN
 
+
+
 DARNII KIMI
+
+
 
 INIR NIRGEM
 
+
+
 NEKI
+
+
 
 EMUUIS
 
+
+
 UURZE
+
+
 
 UUPIG
 
+
+
 IRUUKZI
+
+
 
 ZAN
 
+
+
 KHISHI
+
+
 
 MAARSHIGERVLIG
 
+
+
 MAISH AKUSH KAMAN
+
+
 
 KAKHU GASH
 
+
+
 RUUNI
+
+
 
 GAADIR
 
+
+
 KASH
+
+
 
 ARLA UN
 
+
+
 DANKAHLAS
+
+
 
 SHIINAUA
 
+
+
 SHIGA SHA
+
+
 
 KIISHAD
 
+
+
 KESHI
 
+
+
 GIR
+
+
 
 A-C
 
@@ -13167,7 +13846,7 @@ C544403-A
 
 ###### SANCHES subsector
 
-TRAVELLER
+
 
 Arla Un
 Arla Un orbits a bright blue-white subgiant star called
@@ -13211,8 +13890,7 @@ developing all the time, they must take care to ensure
 that there are no surprises in front of them. The
 constant movement of living on a mobile platform is
 unusual but for the most part, they function as typical
-cities complete with all the trappings of a modern, high-
-tech civilization. Arla Un has two Class B downports
+cities complete with all the trappings of a modern, high-tech civilization. Arla Un has two Class B downports
 emplaced in mobile cities, one on tracks and the other
 on a gravitic platform. The largest of the cities is a
 massive linked caravan of tracked platforms, which
@@ -13223,14 +13901,12 @@ with shipping Arla Un's metals and minerals off planet
 and importing the many goods and services that its
 citizens need. There is a residential and hospitality
 district but for the most part, the highport is quite
-utilitarian. The majority of permanent residences are on
-(or just above) the planet itself. The world is governed
+utilitarian. The majority of permanent residences are on (or just above) the planet itself. The world is governed
 by the Arla Un Mining Consortium, a federal union
 of representatives from its mobile and subterranean
 cities, which manages the exploitation of the planet's
 natural resources and acts as a mediator with large,
-off-world mining concerns. Megacorporate and sector-
-wide corporate mining and resource-extraction firms
+off-world mining concerns. Megacorporate and sector-wide corporate mining and resource-extraction firms
 have attempted to invest in Arla Un by purchasing local
 companies but none have broken ranks thus far. The
 Arla Unians are solemnly proud of the way they have
@@ -13267,6 +13943,8 @@ SHIPPING 14 tons
 COST MCr2.579
 
 EQUIPMENT
+
+
 Autopilot (skill level) +3
 Communications (range) 500km
 Navigation (Navigation DM) +2
@@ -13275,17 +13953,19 @@ Camouflage (Recon DM) —
 Stealth (Electronics (sensors) DM) —
 
 EQUIPMENT AND WEAPONS
-Airlock, Autopilot (advanced), Communications System
-(improved, satellite uplink), Computer/1, Environment
+
+
+Airlock, Autopilot (advanced), Communications System (improved, satellite uplink), Computer/1, Environment
 Protection (hostile, vacuum), Fire Extinguishers,
 Galley (seats 5), Life Support (long term), Manipulator
-Arm (basic), Navigation System (improved), Sensors
-(improved, sensor mast).
+Arm (basic), Navigation System (improved), Sensors (improved, sensor mast).
 
 ARMOR
+
+
 FRONT 3 REAR 3 SIDES 3
 
-TRAVELLER
+
 
 Dudin
 The society of Dudin is what many citizens of the
@@ -13340,8 +14020,7 @@ produce are electronics for complex and extravagant
 entertainment equipment that is used throughout
 the Core and beyond. Dudinians would find such
 devices overly stimulating, possibly even causing
-them physical pain. They prefer the simplicity of low-
-tech artistic, hobbyist or gaming pastimes that do not
+them physical pain. They prefer the simplicity of low-tech artistic, hobbyist or gaming pastimes that do not
 threaten to overload their pleasure centres.
 
 While most live solitary lives, there are also families
@@ -13431,8 +14110,7 @@ although their order has shifted considerably. A
 tremendous amount of prestige is held by those
 designates who occupy the top five spots.
 
-Artificial intelligence is anathema to most Vilani-
-influenced cultures but Sanches is a unique world.
+Artificial intelligence is anathema to most Vilani-influenced cultures but Sanches is a unique world.
 It was annexed by the [[Terra|Terran]]s late in the Interstellar
 Wars, oppressed by military rule for centuries and
 was the capital of a Solomani-dominated pocket
@@ -13461,8 +14139,7 @@ services if they time the market right. The futures
 market in the corporations ranked 26–50 is always
 active with investors striving to pick the eventual
 winners. One might make a fortune by buying the
-stock of a corporation just before they acquire a long-
-term position on the board.
+stock of a corporation just before they acquire a long-term position on the board.
 
 The Imperial Navy and Scout Service both have
 bases in the system. Each service has administrative
@@ -13753,33 +14430,89 @@ Research Station
 Prison, Exile Camp
 To Cemplas
 USHRA
+
+
 SHIIRAND
+
+
 KIKED IIG
+
+
 KISH
+
+
 AMAN URK
+
+
 MUSKOXAH
+
+
 VLAAGESH IIRKI
+
+
 GUUN
+
+
 IRSHIISH
+
+
 SHUUNKHA
+
+
 AMED
+
+
 KISHDUSH
+
+
 VLUURVLASH
+
+
 DEPOT
+
+
 SHER
+
+
 ADKAASH
+
+
 UURMU KUU
+
+
 ADGUU UUN
+
+
 GIPKIKHAR
+
+
 IMDI MI
+
+
 MUKIID
+
+
 ANSHAM
+
+
 MARLAKASI
+
+
 SHAUUG
+
+
 LIGA KA
+
+
 RHUAN
+
+
 COPPELIA
+
+
 X
+
+
 _C-9
 C-A
 A-E
@@ -13805,6 +14538,8 @@ B-A
 B-B
 E-7_
 X
+
+
 C545448-9
 C310403-A
 A577300-E
@@ -13916,7 +14651,7 @@ requires more time to make the decision.
 
 Mekee
 
-TRAVELLER
+
 
 •  Security Fleet – The alert and highly active
 Security Fleet defends Depot from all possible
@@ -14118,7 +14853,7 @@ the neighboring Dagudashaag Sector. Most of these
 subsectors are lightly populated, so the Sylean Main
 is not as lucrative as those found in heavily populated
 
-TRAVELLER
+
 
 sectors like Massilia or Ilelish. Savvy traders contend that
 any shortcomings the Sylean Main may have are more
@@ -14151,12 +14886,10 @@ At the dawn of the Third Imperium, Cleon Zhunastu's
 appeal to the worlds of the Sylean Federation were
 not accepted by all. Thirteen worlds initially rejected
 membership in the new Imperium. Cleon managed to
-convince six of them to reconsider only to see three flip-
-flop once again shortly after his coronation. Only eight
+convince six of them to reconsider only to see three flip-flop once again shortly after his coronation. Only eight
 of the original Sylean worlds accepted roles as founding
 systems of the new empire outright. The founding worlds
-were Kiiri (now Nesdo), Lauursha (Shudusham), Khash
-(Rhylea), Laairer (Rib), Idmum (Ercan), Gikuu (Codsen),
+were Kiiri (now Nesdo), Lauursha (Shudusham), Khash (Rhylea), Laairer (Rib), Idmum (Ercan), Gikuu (Codsen),
 Kuunen Ish (Yirsh Poy) and of course Sylea itself,
 which became [[Capital]]. The Syleans had deep cultural
 resentment of the Vilani after a millennium of oppression
@@ -14166,9 +14899,7 @@ its name shortly after being contacted by the Sylean
 Federation, retained its name largely due to the presence
 of such a large Vilani population.
 
-The Wayward Worlds were Unrair (now Thass), Unkuu
-(Balpan), Irurk (Ankod), Aggii Ganaan (Ploiqu), Irmap Muu
-(Traak), Nirinirk (Crompton), Bala (Morii), Zuarkri (Ion) and
+The Wayward Worlds were Unrair (now Thass), Unkuu (Balpan), Irurk (Ankod), Aggii Ganaan (Ploiqu), Irmap Muu (Traak), Nirinirk (Crompton), Bala (Morii), Zuarkri (Ion) and
 Kain (Onon). Many of these worlds retained their original
 names for many years before being renamed one-by-one
 in an attempt to shed the burden of their traitorous past.
@@ -14182,13 +14913,11 @@ Core
 (^1912191819191920)
 1711 1713
 1812 1813 1815 1819
-2115
-(^20112014)
+2115 (^20112014)
 (^211121122118)
 (^2012201620172020)
 2316 2317
-2211 2214 2218
-(^2312231823192320)
+2211 2214 2218 (^2312231823192320)
 2213 2216 2219 2220
 2314
 2413 2414 2416 2419
@@ -14216,59 +14945,165 @@ Wayward Worlds
 Asteroids (no atmoshpere/water)
 N'DAO
 SISTAR
+
+
 KISHKEIIM
+
+
 LEER
+
+
 KHIUUR LA
+
+
 MARKASHER
+
+
 KHIIRI
+
+
 KASKII
+
+
 CURAST
+
+
 THASS BALPAN
+
+
 RHYLEA
+
+
 YIRSH POY UMGADIN
+
+
 ASE
+
+
 TERTHA
+
+
 SHION
+
+
 RISON
+
+
 ANCES
+
+
 TIWATH MORII
+
+
 ION ONON
+
+
 DUDAKA
+
+
 SIDUKA
+
+
 ROMSTAND
+
+
 SHUSHAN
+
+
 SEKU
+
+
 KUUIR AM
+
+
 KHUIR
+
+
 IMAAR PA RIID IRMAN
+
+
 CAPION
+
+
 ISPUMER
+
+
 KHUUMA
+
+
 MIKHAG KUU KHIINRA ASH
+
+
 ANUUG
+
+
 SHAND
+
+
 LEMIKI
+
+
 LAUDUM
+
+
 RUIGIUR
+
+
 ZIKHI
+
+
 KINEKESH
+
+
 INDSHIIM GANME
+
+
 LIKHAMII
+
+
 LIR
+
+
 FIRST
+
+
 SENTARK
+
+
 4
 SEVEN
+
+
 RIB
+
+
 ERCAN CODSEN
+
+
 CRYSTALAN
+
+
 NESDO
+
+
 SHUDUSHAM
+
+
 SYROE XALM
+
+
 KNABBIB CAPITAL
+
+
 ANKOD PLOIQU TRAAK
+
+
 CROMPTON
+
+
 LECTORSEN
+
+
 _THE WAYWARD WORLDS_ FORNOL
 
 **Name Location Bases Statistics Trade Codes Travel Code Gas Giants**
@@ -14548,89 +15383,171 @@ B-6
 
 CAPITAL
 
+
+
 FORNOL
+
+
 
 SHUDUSHAM
 
+
+
 XALM
 
+
+
 UMGADIN
+
+
 
 N'DAO
 
 CURAST
 
+
+
 TRAAK
+
+
 
 ONON
 
+
+
 RHYLEA
+
+
 
 CODSEN
 
+
+
 ERCAN
+
+
 
 FIRST
 
+
+
 SYROE
+
+
 
 SEVAN
 
+
+
 CRYSTALAN
 
+
+
 YIRSH POY
+
+
 
 SENTARK 4
 
 ASE
 
+
+
 PLOIQU
+
+
 
 ION
 
+
+
 THASS
+
+
 
 ANKOD
 
+
+
 MORII
+
+
 
 KNABBIB
 
+
+
 NESDO
+
+
 
 RISON
 
+
+
 SISTAR ROMSTAND
+
+
 
 RIB
 
+
+
 CAPION
+
+
 
 SEKU
 
+
+
 SHUSHAN
+
+
 
 SIDUKA
 
+
+
 DUDAKA
+
+
 
 ANCES TIWATH
 
+
+
 LECTORSEN
+
+
 
 BALPAN
 
+
+
 TERTHA
+
+
 
 SHION
 
+
+
 CROMPTON
 
-R
+
 
 R
 
+
+
 R
+
+
+
+R
+
+
 
 D-9
 
@@ -14804,8 +15721,7 @@ at Ankod has a partnership with universities on
 neighboring Knabbib to develop security technology
 that provides a protective cordon for [[Capital]] and
 the subsector at large. Naval astronomers and
-technologists come to Ankod to work on the ultra-
-secret Project Shortbow at its secure training and
+technologists come to Ankod to work on the ultra-secret Project Shortbow at its secure training and
 development facilities.
 
 Ankod is a key stop on the Annililik Run (for more on
@@ -14834,8 +15750,7 @@ peerage, who assemble at the Moot Spire.
 
 [[Capital]] is a pleasant world with a varied climate,
 oceans that cover almost two thirds of its surface
-and a dense atmosphere of a suitable oxygen-
-nitrogen mix. The residents of [[Capital]] have gotten
+and a dense atmosphere of a suitable oxygen-nitrogen mix. The residents of [[Capital]] have gotten
 used to the density of its air over time but the
 atmospheric pressure at high levels of elevation
 are more comfortable for un-adapted humans. The
@@ -14856,8 +15771,7 @@ a pleasant and fruitful stay for visitors to the world.
 [[Capital]] has two small moons, neither of which are
 near enough to create significant tidal forces. Despite
 its middling size, [[Capital]] has higher-than-expected
-gravity at 0.69G due to its thin mantle and larger-than-
-normal nickel-iron core.
+gravity at 0.69G due to its thin mantle and larger-than-normal nickel-iron core.
 
 The world's 20 billion inhabitants are well-distributed
 among its land masses and oceans, with residential
@@ -15084,8 +15998,7 @@ The major Imperial retreat is the central palace and
 surrounding government buildings, poised on a sheer
 cliff overlooking a scum-choked sea; much of the
 surrounding city is also in ruin. An obsidian fortress
-has been built for the Emperor on one of Onon's mid-
-size mountains, overlooking a wide basalt plain. Its
+has been built for the Emperor on one of Onon's mid-size mountains, overlooking a wide basalt plain. Its
 stark vistas and noxious black cloud cover make it an
 excellent place for brooding and deep contemplation.
 
@@ -15168,7 +16081,7 @@ and its successor, the Third Imperium.
 
 Core
 
-TRAVELLER
+
 
 For over 700 years, Shudusham has been the site
 of the famous Shudusham Robotics Conference.
@@ -15258,8 +16171,7 @@ and a half meters from head to tail and its leathery
 wings span from three to four meters, ending in
 sharp talons. Males and females use their talons
 for different purposes. Males use them to establish
-mating privileges and females to crack open hard-
-shelled or skinned prey for their young to eat and to
+mating privileges and females to crack open hard-shelled or skinned prey for their young to eat and to
 ward off males when they are not ovulating. Syrocs
 are graceful and precise flyers and are often seen in
 flocks of two to five, slicing their way through Syroe's
@@ -15302,8 +16214,7 @@ to the surface when they are over. The return to the
 surface is marked by glorious festivals followed by the
 building of new habitations and the planting of new
 crops. Tiwathans are avid naturalists and enjoy hiking
-into their marshes and forests to watch the wildlife re-
-emerge from its dormant state.
+into their marshes and forests to watch the wildlife re-emerge from its dormant state.
 
 Every few centuries, the flare cycle has a 'hiccup' of
 sorts in which the star breaks its rhythm, producing
@@ -15324,8 +16235,7 @@ The Kaskii subsector has a low stellar density but
 a surprisingly high population. With only 24 star
 systems – the fewest in all of the Core – it is home to
 the second-highest number of people in the sector,
-second only to Saregon. Of Kaskii's seven high-
-population worlds, three are classified as industrial.
+second only to Saregon. Of Kaskii's seven high-population worlds, three are classified as industrial.
 Of these, Kaskii and Khuir are models of efficiency;
 the other, Markasher, is plagued with problems that
 prevent it from becoming one.
@@ -15644,51 +16554,99 @@ Planet (water present)
 
 KASKII
 
+
+
 KHUIR
+
+
 
 ISPUMER
 
+
+
 MIKHAG KUU
+
+
 
 LAUDUM
 
+
+
 MARKASHER
+
+
 
 LEMIKI
 
+
+
 KUUIR AM
+
+
 
 KISHKEIIM
 
+
+
 IMAAR PA
+
+
 
 RIID IRMAN
 
+
+
 LIR
+
+
 
 LIKHAMII
 
+
+
 KHUUMA
+
+
 
 LEER
 
+
+
 INDSHIIM GANME
+
+
 
 KHIUUR LA
 
+
+
 ZIKHI
+
+
 
 ANUUG
 
+
+
 SHAND
+
+
 
 KHIINRA ASH
 
+
+
 RUIGIUR
+
+
 
 KHIIRI
 
+
+
 KINEKESH
+
+
 
 C-9
 
@@ -15856,7 +16814,7 @@ Its atmosphere, magnetic field and other factors are
 
 Kaskii
 
-TRAVELLER
+
 
 suitable to support life but the added stellar energy
 exacerbates the world's meteorological conditions,
@@ -15939,21 +16897,28 @@ into the ocean over the edge of an escarpment or other
 angled surface.
 
 EQUIPMENT AND WEAPONS
+
+
 Autopilot (advanced), Bunks x6, Communications
 System (advanced, satellite uplink), Computer/3, Fire
 Extinguishers, Fresher, Fusion Plant (advanced), General
 Purpose Laboratory, Hostile Environment Protection,
 Internal Bay (5 tons), Life Support (long term), Manipulator
-Arm (advanced), Mini-galley, Navigation System
-(improved), Sensors (improved).
+Arm (advanced), Mini-galley, Navigation System (improved), Sensors (improved).
 
 TRAITS
+
+
 AFV, Tracked
 
 ARMOR
+
+
 FRONT 24 REAR 24 SIDES 24
 
 EQUIPMENT
+
+
 Autopilot (skill level) 3
 Communications (range) 1,000km
 Navigation (Navigation DM) +2
@@ -15996,6 +16961,8 @@ SHIPPING 10 tons
 COST Cr559950
 
 EQUIPMENT
+
+
 Autopilot (skill level) 0
 Communications (range) 1,000km
 Navigation (Navigation DM) +2
@@ -16004,12 +16971,16 @@ Camouflage (Recon DM) -4
 Stealth (Electronics (sensors) DM) —
 
 EQUIPMENT AND WEAPONS
+
+
 Autopilot (advanced), Communications System (advanced),
 Computer/3, Fire Extinguishers, Holding Tank (1 space),
 Hydrographic Sampler, Navigation System (improved),
 Sensors (improved, underwater).
 
 ARMOR
+
+
 FRONT 4 REAR 4 SIDES 4
 
 Khiinra Ash
@@ -16031,8 +17002,7 @@ long, winding archipelagos. Because of its high gravity,
 Khiinra Ash has no large mountain ranges to speak of but
 its porous, cracked land masses have enormous canyon
 systems, some of which are over 100km in depth. The
-atmosphere on the surface is trace but a thin oxygen-
-nitrogen atmosphere may be found deep in the canyons.
+atmosphere on the surface is trace but a thin oxygen-nitrogen atmosphere may be found deep in the canyons.
 Not surprisingly, this is also where its complex land-based
 life resides. Khiinra Ash is an unlikely candidate to harbour
 life and yet it has a teeming biosphere.
@@ -16046,8 +17016,7 @@ which are immediately mobile upon birth. Bhu'oovaakaylaa
 have a thick, elongated body with rear flippers for
 swimming, an armored carapace on their dorsal surface
 like that of a crustacean, two dextrous appendages that
-end in three fingers with an opposable thumb and a head-
-like structure at the front. The head has four eyes that
+end in three fingers with an opposable thumb and a head-like structure at the front. The head has four eyes that
 wrap most of the way around it to provide 270o vision. The
 species is omnivorous with a large mouth that contains a
 dozen large molar-like teeth to masticate plant food and
@@ -16071,8 +17040,7 @@ represents only the humans present.
 Alien Hits Speed
 Bhu'oovaakaylaa 70 6m (aquatic),
 4m (flight)
-Skills Athletics (dexterity) 2, Flyer
-(natural) 2, Melee (natural) 1,
+Skills Athletics (dexterity) 2, Flyer (natural) 2, Melee (natural) 1,
 Recon 2, Survival 1
 Attacks Bite (2D)
 Traits Amphibious, Armor (+2),
@@ -16081,7 +17049,7 @@ Behaviour Omnivore
 
 Kaskii
 
-TRAVELLER
+
 
 While it is not classified as such, Khiinra Ash
 is effectively a reserve, with few humans living
@@ -16112,8 +17080,8 @@ Ash more comfortable.
 Markasher
 The mainworld of the Markasher system is not a
 planet at all but simply one of the larger planetoids
-of its two belts, Markasher α (the inner belt) and
-Markasher β (the outer belt). This 'world' is fortuitously
+of its two belts, Markasher$1 (the inner belt) and
+Markasher$1 (the outer belt). This 'world' is fortuitously
 located in a less dense region between the two belts
 where collisions are rare. Most of the system's actual
 terrestrial planets are far into the outer zone of the
@@ -16133,8 +17101,7 @@ the previous owner. Markasheri mining 'clans' work in
 
 concert to extract the resources from the belts that are
 needed to build infrastructure for the high-population
-worlds of the Kashii subsector. Thousands of hollowed-
-out planetoids contain a variety of habitats, few of
+worlds of the Kashii subsector. Thousands of hollowed-out planetoids contain a variety of habitats, few of
 which have artificial gravity. In most cases, these
 planetoids have been given spin to simulate gravity but
 in others the belters live in low- or zero-G environments
@@ -16225,8 +17192,7 @@ to their characteristics: STR-1 and EDU+1.
 
 **TRAITS
 Cooperation** : Syleans are exceptionally cooperative
-with others of their species. When on a Sylean World
-(one with a Sylean population of 50 percent or more),
+with others of their species. When on a Sylean World (one with a Sylean population of 50 percent or more),
 Sylean Travellers receive DM+2 on Admin, Diplomat
 and Streetwise checks. This reflects the Syleans' innate
 ability to close ranks and cooperate with one another to
@@ -16269,6 +17235,8 @@ Sylean faiths. Sylean Travellers in the priesthood may
 use the Believer career from the Traveller Companion.
 
 WEALTH AND PROSPERITY
+
+
 Syleans are driven by a desire for prosperity and
 wealth and receive DM+1 on all Cash Benefit rolls
 when mustering out of their careers.
@@ -16304,8 +17272,7 @@ the confines of the Imperium. Bunkerians celebrate
 Liberation Day to commemorate the reacquisition
 of Sketola from the rebels. The celebration includes
 festivals to honor famous war heroes, politicians and
-other historical figures. There are art exhibits, re-
-enactments of great battles, feasts and banquets and
+other historical figures. There are art exhibits, re-enactments of great battles, feasts and banquets and
 all sorts of other entertainments. Bunkerian worlds are
 drawn together by a shared history and heritage that
 unites them in ways that most subsectors are not.
@@ -16569,71 +17536,137 @@ Imperial Reserve
 
 SKETOLA
 
+
+
 DRAL
+
+
 
 IRLU
 
+
+
 TREVOR
+
+
 
 ACMED
 
+
+
 OORPIC
+
+
 
 GISHALEM
 
+
+
 BENTAX
 
+
+
 HELLHOLE
+
+
 
 F'RNOW
 
 ONTAR
 
+
+
 ANTAR
+
+
 
 DUNLEK
 
+
+
 ESS NUUR
+
+
 
 LALANDRA
 
+
+
 CROMIND
+
+
 
 SIMIC
 
+
+
 DINHE
+
+
 
 DOMITAR
 
+
+
 BELLUM ASALAM
+
+
 
 IKARUS
 
+
+
 RANDAR
+
+
 
 MARSUS
 
+
+
 ROLLABON
+
+
 
 HEKTALUS
 
+
+
 FEROT
+
+
 
 RAX
 
+
+
 TARSHII
+
+
 
 RELLE
 
+
+
 IRDU
+
+
 
 DESECA
 
+
+
 PROTALUS
+
+
 
 KATOCKL
 
+
+
 R
+
+
 
 B-B
 
@@ -16696,6 +17729,8 @@ B-C
 E-A
 
 R
+
+
 
 B664410-B
 
@@ -16843,8 +17878,7 @@ is amiss.
 
 Irlu
 The Meritocracy of Irlu purportedly uses a nonpartisan
-selection process to identify and appoint the best-
-qualified sophonts among its population to fill its
+selection process to identify and appoint the best-qualified sophonts among its population to fill its
 administrative and governmental positions. Like so
 many other corrupt bureaucracies, its levers have
 been usurped by those in power to obtain roles for
@@ -16877,17 +17911,13 @@ best-qualified fighting forces in the subsector. The
 
 Bunkeria
 
-TRAVELLER
+
 
 **MAJOR RAYNIER GRGICMAJOR RAYNIER GRGIC**
 
 TRAITS — SKILLS
 STR 9 INT 11 Admin 3, Advocate 2, Athletics
-1 (strength), Broker 3, Drive
-(tracked) 2, Electronics
-(sensors) 1, Gun Combat
-(slug) 3, Heavy Weapons
-(man-portable) 1, Leadership
+1 (strength), Broker 3, Drive (tracked) 2, Electronics (sensors) 1, Gun Combat (slug) 3, Heavy Weapons (man-portable) 1, Leadership
 3, Melee (blade) 1, Recon 2
 
 DEX 6 EDU 11
@@ -16898,7 +17928,7 @@ Weapons: Gauss Pistol (3D), Static
 Blade (3D+2, AP 6)
 Armor: Flak Jacket (+5)
 
-SPECIES GENDER AGE
+
 — Male 55
 
 Imperium imported the best and brightest mercenary
@@ -16933,6 +17963,8 @@ a practice which thus far has not been corrupted by
 Irlu's disingenuous meritocracy.
 
 MAJOR RAYNIER GRGIC
+
+
 Major Grgic is a retired ex-mercenary and
 current regional manager for the bonding
 authority of the OMA. If the Travellers are
@@ -16967,8 +17999,7 @@ facility located in one of the Lalandra Belt's largest
 planetoids and 'The Shipyard', a large collection of
 now ancient naval starships that have been arranged
 for the viewing pleasure of its visitors. Tourists may
-spend days or even weeks, travelling from ship-to-
-ship. Most have been restored to resemble their
+spend days or even weeks, travelling from ship-to-ship. Most have been restored to resemble their
 original states but some have been deliberately left
 as wrecks. Two of the most popular exhibits in the
 naval museum are the cryogenically preserved body
@@ -16978,8 +18009,7 @@ the _Exatar_ , an espionage ship that used unique
 'ramscoop' technology.
 
 In addition to its normal duties, the Lalandra Scout
-Base has liaison officers who work with the local ship-
-building industry. Some of the scouts' most advanced
+Base has liaison officers who work with the local ship-building industry. Some of the scouts' most advanced
 craft are assembled here, including advanced
 versions of its _Suleiman_ - and _Donosev_ -class
 starships. For years, the Colonial Naval Administration
@@ -17081,8 +18111,7 @@ electronics. The governors of Shibashliim have large
 stakes in the megacorporation Naasirka, which holds
 a monopoly of the planet's industrial capital. The fourth
 industrial world, Lishiruud, is located in the rimward
-portion of the subsector and sits upon a small jump-
-1 main where competing merchant companies run
+portion of the subsector and sits upon a small jump-1 main where competing merchant companies run
 liners and megafreighters and operate a network of
 subsidized merchant routes in the surrounding markets.
 
@@ -17372,21 +18401,39 @@ Planet (water present)
 
 VELPARE
 
+
+
 BENDO
+
+
 
 SHIBASHLIIM
 
+
+
 KHUSGURLU
+
+
 
 KEPLO
 
+
+
 LISHIRUUD
+
+
 
 CELETRON
 
+
+
 WASTAM
 
+
+
 DRAG
+
+
 
 YE-LU
 
@@ -17394,55 +18441,107 @@ EHOK-TA
 
 RENU
 
+
+
 BELICOSE
+
+
 
 EORVIN
 
+
+
 EXOD
+
+
 
 SHALAM
 
+
+
 PIXTOME
+
+
 
 DINGUS
 
+
+
 CHOKTA
+
+
 
 BOGUSTIN
 
+
+
 HERALDIA
+
+
 
 SUHTLAM
 
+
+
 EVAD
+
+
 
 GASHIL
 
+
+
 MEMAN
+
+
 
 ESHON
 
+
+
 NOESH
+
+
 
 KIRKUS
 
+
+
 BIIRKE
+
+
 
 USHTAR
 
+
+
 ORGUUSH
+
+
 
 UR
 
+
+
 DIGITUS
+
+
 
 SPIRN SHIRG
 
+
+
 SANTAR
+
+
 
 ALTON RASHIUON
 
+
+
 CALESSON
+
+
 
 E-8
 
@@ -17521,6 +18620,8 @@ B-C
 B-E
 
 O
+
+
 
 E6A7777-8
 
@@ -17603,8 +18704,7 @@ places. The system's bright white main sequence star
 and its unstable red dwarf companion have swept most
 of the resource-poor planets clean of atmospheres and
 water, leaving little reason for settlers to stay. Biirke
-itself is a cold dustball chosen by a small resource-
-development company to host an automated Class D
+itself is a cold dustball chosen by a small resource-development company to host an automated Class D
 highport. Small craft pilots were hired to fly tankers to
 and from the system's gas giants, bringing unrefined
 liquid hydrogen to be sold as fuel. Robots would
@@ -17684,8 +18784,7 @@ Heraldia is a trinary system with three red dwarf stars,
 the largest of which is in distant circumbinary orbit
 around the smaller two, which orbit each other around
 a common center of mass. There are two key worlds
-in the system: Heraldia and Gyga. Heraldia orbits Uli-
-Beta, the second largest star in the system, while the
+in the system: Heraldia and Gyga. Heraldia orbits Uli-Beta, the second largest star in the system, while the
 gas giant Gyga orbits Uli-Alpha, the largest of the three
 red dwarves.
 
@@ -17705,9 +18804,11 @@ bears the scars of the war. Its atmosphere was tainted
 
 Cemplas
 
-TRAVELLER
+
 
 TRINARY STAR SYSTEM
+
+
 
 1
 
@@ -17752,8 +18853,7 @@ each year. During peak months, the tourist population
 outnumbers the planet's permanent residents.
 
 Khusgurlu
-The supreme pontiff of Khusgurlu is Aulonn Jhourdan-
-Valestin. While this particular 'instance' of the man has
+The supreme pontiff of Khusgurlu is Aulonn Jhourdan-Valestin. While this particular 'instance' of the man has
 led the Church of the Chosen Few for only the last
 two decades, he has in a way led it for the last 2,000
 years. Jhourdan-Valestin and virtually all 20 billion
@@ -17779,8 +18879,7 @@ ritual activity, natural reproduction is not. Motherhood
 only occurs at the behest of the Church and only
 through implantation. Despite a comprehensive
 high-tech surveillance network and virtually infallible
-contraception, natural childbirths do occur from time-
-to-time. Natural reproduction is a high crime and
+contraception, natural childbirths do occur from time-to-time. Natural reproduction is a high crime and
 punishable by the death of both parents and their
 naturally created child. The parents are referred to as
 'heretics' and children as 'abominations'.
@@ -17884,7 +18983,7 @@ and subsequent dishonorable discharge for their
 
 Cemplas
 
-TRAVELLER
+
 
 actions. Having saved face and maintained the pristine
 condition of their world, Confederacy forces sued for
@@ -17917,8 +19016,7 @@ representing Cemplas.
 
 The barons of Velpare lead with a light touch and
 allow for a great many personal freedoms including
-the possession of non-military weapons for self-
-defence. House militias may legally use military
+the possession of non-military weapons for self-defence. House militias may legally use military
 weapons provided they pledge to engage in joint
 exercises and assist with the planet's defence
 should the need arise. Unfortunately, the spectre of
@@ -17980,8 +19078,7 @@ technologies present that prevent applications like
 Mother from being truly autonomous. Ye-lu skirts these
 regulations very closely.
 
-The entire world is, metaphorically speaking, a multi-
-cellular organism. Mother controls all of its computer
+The entire world is, metaphorically speaking, a multi-cellular organism. Mother controls all of its computer
 systems, utilities, thousands of robots and trillions
 of microbots and nanites, making her own decisions
 about what needs to be added, removed or altered as
@@ -18044,8 +19141,7 @@ expansion into the Core but over the millennia,
 ecological collapse, war and the effects of the Long
 Night decimated its worlds. The remnants of lost
 civilizations are everywhere, in particular at Merat
-and Avthaus where sprawling Vilani ruins sit side-
-by-side with the structures of the modern Imperium.
+and Avthaus where sprawling Vilani ruins sit side-by-side with the structures of the modern Imperium.
 On Effinity, the deserts and equatorial marshes have
 reclaimed the ruins and new cities have sprung up in
 the temperate latitudes to take their place.
@@ -18400,77 +19496,147 @@ Planet (water present)
 
 VVRIN
 
+
+
 SKEEN
+
+
 
 RAAMI
 
+
+
 TEMRA SORCA AFFINITY
+
+
 
 EFFINITY
 
+
+
 RO ANII
+
+
 
 MERAT
 
+
+
 ANTHER LEYSTROAK
 
+
+
 ELINZ
+
+
 
 REK-SHONS
 
 TELL
 
+
+
 AKEYOLARIX
+
+
 
 HOLEX
 
+
+
 CITRO
+
+
 
 TOMAA
 
+
+
 ELIOGRAH
+
+
 
 RADD CAULO
 
+
+
 CHANT
+
+
 
 MEIZ
 
+
+
 ROUSTAMI AKIN AKUN
 
+
+
 WADUUKA
+
+
 
 C'RE
 
 MANDHEM
 
+
+
 BRANED
+
+
 
 PREMPT
 
+
+
 WREBIL
+
+
 
 PRUBISK
 
+
+
 RHYDINO
+
+
 
 FARHOME
 
+
+
 TRAA
+
+
 
 BASILLING
 
+
+
 RORPA DIN
+
+
 
 PORT AWAY
 
+
+
 SHURGIISHULU
+
+
 
 DRIVOREA
 
+
+
 AVTHAUS
 
+
+
 KAMODOO
+
+
 
 B-A B-A
 
@@ -18694,10 +19860,12 @@ END 8 SOC 8
 EQUIPMENT Hand Computer, Decryptor (TL12)
 Armor: Tailored Vacc Suit (+8)
 
-SPECIES GENDER AGE
+
 — Female —
 
 ALMA SANTOLUCIO
+
+
 Alma is a humorless bureaucrat whose job it is to
 ferret out corruption and expose it to higher-ups in
 the Imperial Justice Department so they may seek
@@ -18718,7 +19886,7 @@ activities exposed.
 
 Chant
 
-TRAVELLER
+
 
 Chant
 Chant has an unusual ecology that exists mostly
@@ -19222,75 +20390,147 @@ Scout Way Station
 
 KAMSII
 
+
+
 UDAA
+
+
 
 GURDAAN
 
+
+
 BISHAAKUUKA
+
+
 
 MISH
 
+
+
 KUGGAR
+
+
 
 GURISHI
 
+
+
 EKUGUSH
+
+
 
 KADUSHII
 
+
+
 KAGASH
+
+
 
 IDAS
 
+
+
 SHASHUUA
+
+
 
 GLIMMER
 
+
+
 BERUMI
+
+
 
 MANLUUSHAGI
 
+
+
 DUUKA
+
+
 
 USHBA SIND
 
+
+
 KANKUUP IR
+
+
 
 KIRUUDA
 
+
+
 IMSHA
+
+
 
 KISA
 
+
+
 SHESH
+
+
 
 GASHKANAN
 
+
+
 GAAR
+
+
 
 GISHASHUM
 
+
+
 MAAN
+
+
 
 VILAKHU
 
+
+
 DANUUVLAN
+
+
 
 NAVIA SHA
 
+
+
 DURGUU
+
+
 
 ARKADKHI
 
+
+
 ASHASH AS
+
+
 
 KERAS VLA
 
+
+
 AGDAM GII
+
+
 
 GUUZA BEM
 
+
+
 UUMESHAL
+
+
 
 E-7 B-9
 
@@ -19433,8 +20673,7 @@ A541632-C
 years either at Kamsii the 'pleasure planet' or another
 suitable world in the subsector. In addition, most
 Dingtraian societies are members of one traditional
-Vilani religion or another with almost no Solomani-
-inspired faiths among them.
+Vilani religion or another with almost no Solomani-inspired faiths among them.
 
 Offworlders often find Dingtraians to be aloof or
 perhaps even a bit hostile. With the exception of
@@ -19540,7 +20779,7 @@ favorably disposed towards the Sovereign.
 
 Dingtra
 
-TRAVELLER
+
 
 Idas' roughly one billion citizens are equipped with
 internal devices at birth that track their whereabouts
@@ -19747,8 +20986,7 @@ the densely populated Shardi Cluster in neighboring
 Dagudashaag. Naasirka has recently made Reel a
 regional R&D and manufacturing hub, which has made
 the long journey to the spur worthwhile for merchants
-who want to obtain the megacorporation's popular high-
-tech products.
+who want to obtain the megacorporation's popular high-tech products.
 
 The spinward-rimward (lower left) corner of Cadion also
 contains worlds that are linked to the Shardi Cluster but
@@ -19796,8 +21034,7 @@ leery of festering unrest in the other sectors and has
 instructed the navy to keep a watchful eye on events
 as they transpire.
 
-By and large, the worlds of Cadion make up a free-
-wheeling, laissez-faire society. In comparison with other
+By and large, the worlds of Cadion make up a free-wheeling, laissez-faire society. In comparison with other
 subsectors, there are few authoritarian governments
 present and most of its worlds have low Law Levels.
 Unlike most of Core, Cadion has the look and feel of
@@ -20044,61 +21281,113 @@ Research Station
 
 NIGHT
 
+
+
 CADION ZZUGEP
+
+
 
 LIA
 
+
+
 BRYGELLA
+
+
 
 KIIRIS
 
+
+
 RUSHUGIM
+
+
 
 QUNGWYLD
 
+
+
 BETRAS
+
+
 
 BLANUM
 
+
+
 AZPUN
+
+
 
 TUURQU GAASH
 
+
+
 XAMDAS
+
+
 
 MARKUN
 
+
+
 BREKIN KYSIZI
 
+
+
 LYTRAS
+
+
 
 L'ROTUU
 
 PATU
 
+
+
 DOUBLE STAR
+
+
 
 FERRÉ
 
 MEGATINA
 
+
+
 BAITUU
+
+
 
 DELTA 4
 
 REFERENCE
 
+
+
 HOLT
+
+
 
 ERTHUN
 
+
+
 ZORZAA
+
+
 
 SINGING
 
+
+
 REEL
 
+
+
 DASHUU AARDIR
+
+
 
 B-E
 
@@ -20305,8 +21594,7 @@ The majority of Kysizi's land masses are uninhabited
 but being picked over by millions of salvage robots
 who recycle materials found for incorporation into
 new buildings and other structures. Thanks to the
-investment of Naasirka, Kysizi has a very high-
-technology society. However, its citizenry are spread
+investment of Naasirka, Kysizi has a very high-technology society. However, its citizenry are spread
 out and do not share a single government. Each of
 the major settlements has its own regional authority
 and the Law Level may be seen as an aggregate
@@ -20314,7 +21602,7 @@ rating of the various city states.
 
 Cadion
 
-TRAVELLER
+
 
 A new wave of colonists have come to Kysizi to
 exploit its massive and revitalised fisheries. After
@@ -20336,8 +21624,7 @@ Lia is known throughout the Core as 'the world of
 planned progress' where a complex terraforming,
 colonization and civilization-development project
 has been under way for millennia. Formerly an
-uninhabited Vilani reserve world with a thick, high-
-pressure carbon dioxide atmosphere, it has gradually
+uninhabited Vilani reserve world with a thick, high-pressure carbon dioxide atmosphere, it has gradually
 been transformed into a habitable, self-sufficient
 society with one of the highest populations in the
 sector. During the Rule of Man, the world was
@@ -20398,8 +21685,7 @@ their way to Night.
 
 It is unknown whether the Lians will ever reach their
 utopia but the ongoing attempt shows no signs of
-abating. It stands to reason that their spirit of self-
-reliance and the effort of generation upon generation
+abating. It stands to reason that their spirit of self-reliance and the effort of generation upon generation
 to achieve the goal is, in itself, the glue that holds
 society together.
 
@@ -20469,8 +21755,7 @@ off by the creatures noticeably change human
 behaviour. While all humans can technically mate
 
 with one another provided there are no physiological
-ailments or other disabilities that prevent it, long-
-term exposure to the Whistlers causes humans to
+ailments or other disabilities that prevent it, long-term exposure to the Whistlers causes humans to
 segment themselves into breeding groups. Males
 and females devote themselves to the practice of
 reproduction, aided by the skills of 'matchers' who
@@ -20481,8 +21766,7 @@ contain two males and a female or two females and
 a male. The 'neuters' among Night's humans are
 physically capable of mating but choose a life of
 celibacy, focusing instead on the construction and
-maintenance of Night's rather well-developed high-
-tech society. An interesting side effect enjoyed by
+maintenance of Night's rather well-developed high-tech society. An interesting side effect enjoyed by
 the human neuters is a virtually unmatched ability
 to focus and concentrate on a task at hand. This
 supreme ability has enabled Night to achieve the
@@ -20506,8 +21790,7 @@ Navy base in the system maintains a mostly separate
 existence for obvious reasons but naval personnel
 may sometimes be found on planet for short periods
 of time, after which they are subjected to a physical
-examination and pollen cleansing to ensure no long-
-term effects occur.
+examination and pollen cleansing to ensure no long-term effects occur.
 
 The Imperial Navy and bureaucracy are keeping a
 close eye on Night. The effects of exposure to its
@@ -20525,7 +21808,7 @@ unique ecosystem.
 
 Cadion
 
-TRAVELLER
+
 
 CREATING OO-NE-BETO-PON-TEE (WHISTLER) TRAVELLERS
 Whistlers rarely leave Night but when they do they must typically take a decent number of their kind with
@@ -20544,11 +21827,15 @@ For the purposes of roleplaying, only the neuter sex is recommended. The extreme
 males and females make them less-than-capable Travellers.
 
 CHARACTERISTICS
+
+
 Roll Whistler characteristics as follows: D3 for STR, END and SOC, 1D+4 for DEX, 2D-1 for INT and
 2D for EDU. Whistlers are not actually less intelligent than the Major Races but the reduced Intellect
 reflects their extreme focus and specialization.
 
 TRAITS
+
+
 Whistlers have the following traits:
 
 Sticky Feet: Whistlers have sticky and clawed feet that enable them to climb just about any surface.
@@ -20623,8 +21910,7 @@ for a single world, such as Capital, Vland or Terra. Not
 all data is publicly accessible and there are secure
 rooms and vaults that contain confidential information
 and materials, some of which have remained secret for
-centuries. The sector towers are separated by four-
-kilometer-wide spaces within which there are residential
+centuries. The sector towers are separated by four-kilometer-wide spaces within which there are residential
 districts, shopping centres and other amenities.
 
 On the outskirts of Encyclopaediopolis, there are
@@ -20720,8 +22006,7 @@ Bridge 60 300
 Computer Core/80 — 95
 Sensors Improved 3 4.3
 Distributed Arrays 6 8.6
-Weapons Particle Accelerator Spinal Mount
-(TL12)
+Weapons Particle Accelerator Spinal Mount (TL12)
 
 6,300 2200
 
@@ -20758,8 +22043,12 @@ distribution array.
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr2.2264734/month
 PURCHASE COST
+
+
 MCr26717.680
 
 Power Requirements
@@ -20814,8 +22103,7 @@ Cargo 317 —
 *The ship's Intellect program is a TL15 prototype that approaches the
 functionality of a Conscious Intelligence. It answers to the name 'Libby'
 and may be treated as a computer-bound NPC with INT 13 and EDU
-13, with a range of skills that can be uploaded, changed and improved
-(typically in the skill level 2–4 range).
+13, with a range of skills that can be uploaded, changed and improved (typically in the skill level 2–4 range).
 
 **ARGUSHIIGI**
 
@@ -21014,8 +22302,7 @@ security. Ekhuurme has a large Chanestin minority
 whom the Aursisians gleefully oppress. The flagship
 of the 150th is a hardy prototype of the new Voroshilef -
 class battleship which the shipyards at Dimanaam
-hope to make a staple of the Sector Fleet. The less-
-well-appointed 150th Colonial Fleet is tasked with
+hope to make a staple of the Sector Fleet. The less-well-appointed 150th Colonial Fleet is tasked with
 patrolling Ch'naar's spinward flank.
 
 Tensions run high in Ch'naar, with nine systems
@@ -21292,70 +22579,138 @@ Scout Way Station
 
 AURSIS
 
+
+
 UMKASHUU
+
+
 
 MALAASH
 
+
+
 SHUESHLAR
+
+
 
 SINIIR SA
 
+
+
 GAVIN
+
+
 
 DIAM KANI
 
+
+
 OKEFIR
+
+
 
 ILLAPPU
 
+
+
 ANSHAR GIDEKIS
+
+
 
 GANDAR
 
+
+
 EMSHA LA
+
+
 
 SAAR
 
+
+
 MAUR NA
+
+
 
 ALLAMU
 
+
+
 KAAMIND
+
+
 
 KIRBARUS
 
+
+
 HUDMILL
+
+
 
 VALA
 
+
+
 KHUUNISH
+
+
 
 ISHMAL
 
+
+
 KRAIN
+
+
 
 DIIRMUU
 
+
+
 ARVLESSAISH
+
+
 
 EKHUURME
 
+
+
 HIILEV
+
+
 
 ZAGI UUN
 
+
+
 MIIKUU AR
 
+
+
 MINDUUN
+
+
 SAMMAD
+
+
 
 PRIN
 
+
+
 MIRROR
+
+
 
 DIMANAAM
 
+
+
 DAVLA
+
+
 
 A-D
 
@@ -21547,34 +22902,31 @@ supplements in an effort to stay fit as a fiddle.
 **DUCHESS COLYERE HAJESTA DAMAEDUCHESS COLYERE HAJESTA DAMAE**
 
 TRAITS — SKILLS
-STR 8 (9) INT 13 Admin 2, Athletics (strength)
+STR8 (9) INT 13 Admin 2, Athletics (strength)
 1, Flyer (grav) 1, Diplomat
 1, Electronics (comms) 1,
 Gun Combat (energy) 2,
 Heavy Weapons (portable) 1,
 Leadership 4, Melee (blade)
 2, Melee (unarmed) 1,
-Persuade 4, Recon 2, Tactics
-(military) 3, Vacc Suit 2
+Persuade 4, Recon 2, Tactics (military) 3, Vacc Suit 2
 
-DEX 8 (9) EDU 12
+DEX8 (9) EDU 12
 END 9 SOC 15
 
 EQUIPMENT Muscular Bridging, Neural Comm,
 Neural Jack, Wafer Jack
-Weapons: Marine Static Cutlass
-(3D+2, AP6) when in dress uniform,
+Weapons: Marine Static Cutlass (3D+2, AP6) when in dress uniform,
 Laser Pistol (high yield, 4D, AP 2)
 when a sidearm is allowed
-Armor: Personal Energy Shield
-(+12) or TL15 Battle Dress (+25)
+Armor: Personal Energy Shield (+12) or TL15 Battle Dress (+25)
 
-SPECIES GENDER AGE
+
 — Female 68
 
 Ch'naar
 
-TRAVELLER
+
 
 Diam Kani
 Diam Kani is the site of a failed terraforming experiment
@@ -21617,12 +22969,10 @@ So far, Diam Kani has only been the site of a few small
 battles, all of which were staged to resolve disputes
 between bickering nobles. The wreckage of each
 conflagration has been left behind on the planet like so
-much rubbish. Subsequent battles have used the burned-
-out chassis of tanks and APCs from previous conflicts
+much rubbish. Subsequent battles have used the burned-out chassis of tanks and APCs from previous conflicts
 as cover and field fortifications. Salvagers are allowed to
 scour dormant battlefields at their leisure but the hostile
-environment of the planet prevents all but the most well-
-geared crews from doing so.
+environment of the planet prevents all but the most well-geared crews from doing so.
 
 While the war world concept has yet to fully catch on,
 megacorporation Instellarms and other weapons dealers
@@ -21847,13 +23197,11 @@ Sensors Improved x2 6 8.6
 Distributed Arrays x2 18 18
 Enhanced Signal Processing x2 4 16
 Countermeasures Suites x2 4 8
-Weapons Particle Accelerator Spinal Mount
-(TL13)
+Weapons Particle Accelerator Spinal Mount (TL13)
 
 23,800 9600
 
-Large Missile Bays
-(reduced size x3) x24
+Large Missile Bays (reduced size x3) x24
 
 8,400 4500
 
@@ -21881,8 +23229,12 @@ Marines x200
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr9.98744/month
 PURCHASE COST
+
+
 MCr119849.28
 
 Power Requirements
@@ -21986,8 +23338,7 @@ DECK 3
 2. J–Drive
 3. Power Plant
 4. Airlocks
-5. Triple Turrets
-(pulse lasers)
+5. Triple Turrets (pulse lasers)
 
 **VOROSHILEF-CLASS BATTLESHIP**
 
@@ -22037,8 +23388,7 @@ DECK 3
 26
 27
 28
-30
-(^3332)
+30 (^3332)
 34
 17
 31
@@ -22114,8 +23464,7 @@ the ability to actually make things uncomfortable for
 the Imperium, it would appear that the Chanestins
 do not have much of a leg to stand on. However,
 this is the Core and appearances are important.
-The Emperor certainly does not want to see a multi-
-world insurgency occur in his home sector, even one
+The Emperor certainly does not want to see a multi-world insurgency occur in his home sector, even one
 hopelessly doomed to fail. The Moot is divided on the
 subject. While some are determined that the Imperium
 must draw a line in the sand and deny the Chanestin
@@ -22448,152 +23797,232 @@ To Ch'naar
 
 MAASAANIN
 
+
+
 B-C
 
 ZIMMEL
+
+
 B-C
 
 SANTRY
 
+
+
 KIRAK
+
+
 
 B-D
 
 GINNA
+
+
 C-B
 
 ENSHUUKKAR
+
+
 
 B-B
 
 MINAMULAM
 
+
+
 B-B
 
 KIM
+
+
 D-8
 
 LIGEMUM
+
+
 D-8
 
 INNAMEG
+
+
 B-B
 
 UURAMAG
+
+
 C-8
 
 LIDKEK
+
+
 B-A
 
 C-7
 
 GIRRIK
 
+
+
 D-8
 
 SHAARAM
+
+
 
 B-B
 
 KUUSHRUU
 
+
+
 B-D
 
 DINDAKHARA
+
+
 
 A-F
 
 UUNDIZI
 
+
+
 E-9
 
 DEGKAK UUN
+
+
 
 B-B
 
 KUUMA
 
+
+
 B-D
 
 MIREZI
+
+
 
 B-E
 
 BUSSIRKA
 
+
+
 B-B
 
 GISH
 
+
+
 D-6
 
 ADAN
+
+
 
 B-A
 E-6 SHINZARKAN
 
 ADKHI
 
+
+
 B-C
 
 GINNAKAR
+
+
 
 C-A
 
 SIDZER
 
+
+
 D-7
 
 DILIIG
+
+
 
 A-F
 
 KIIR
 
+
+
 A-B
 
 KHII ISIS
+
+
 
 B-D
 
 DAAUD URLE
 
+
+
 B-C
 
 GIMMI
+
+
 UUSSHAA
+
+
 
 B-8
 
 ZISHMA KHA
 
+
+
 B-A
 
 NADIR
+
+
 
 B-9
 
 KESHI
 
+
+
 B-D
 
 KHEA
+
+
 
 B-E
 
 ANLUMIR
 
+
+
 D-7
 
 BELLHAM
+
+
 
 B-B
 
 RILIK AASH
 
+
+
 E-6
 
 SARUUMDIIUSH
+
+
 
 B758554-C
 
@@ -22632,6 +24061,8 @@ D661696-6
 E88876A-6 B555720-A
 
 GINNAKAR
+
+
 
 C20079D-A
 
@@ -22726,7 +24157,7 @@ immigrants who came from the Indian subcontinent.
 
 Dunea
 
-TRAVELLER
+
 
 Animal Hits Speed
 Dunvic 34 8m
@@ -22789,8 +24220,7 @@ sometimes become wilderness and safari guides
 for tourists who come to see the planet's stark and
 beautiful vistas, and hunt its unusual animals. The
 most elusive of these creatures is the dunvic, also
-known as the 'sandlion'. This 100 kilogram four-
-legged predator resembles a [[Terra|Terran]] lion in form
+known as the 'sandlion'. This 100 kilogram four-legged predator resembles a [[Terra|Terran]] lion in form
 but is more similar to an armadillo in other regards.
 The dunvic is a stealthy animal with a carapace that
 provides camouflage, making it difficult to find, much
@@ -22821,8 +24251,7 @@ environmental challenges this posed, the idea had
 broad appeal. In the early days of Imperial history,
 many worlds in the Core were still recovering from
 the Long Night. Chanestin worlds like Uundizi had
-survived the era largely intact and provided a ready-
-made infrastructure for colonial development. In
+survived the era largely intact and provided a ready-made infrastructure for colonial development. In
 addition, Chanestin art and architecture was known
 throughout the Core for its beauty and intricacy.
 
@@ -22899,9 +24328,11 @@ Imperial fold.
 
 Dunea
 
-TRAVELLER
+
 
 THE SALO LOGO
+
+
 The logo of Salo merchant lines is one small
 orange star and two large stars, one red and
 one orange, representing the stars of Zimmel,
@@ -22956,8 +24387,7 @@ Dunea
 ## SAREGON
 
 Saregon is the Core's most populated subsector with
-286 billion sophonts living on 39 worlds. It has nine high-
-population worlds, four of which are industrial. Saregon
+286 billion sophonts living on 39 worlds. It has nine high-population worlds, four of which are industrial. Saregon
 is one of the most powerful subsectors in the Core,
 second only to Kaskii when it comes to industrial might.
 With its rich and growing economy, vibrant jump-1 main
@@ -23092,8 +24522,12 @@ Administrators x10
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr1.813632/month
 PURCHASE COST
+
+
 MCr21764.335
 
 Power Requirements
@@ -23238,8 +24672,7 @@ DECK 3
 DECK 4
 
 12. Meson Spinal Mount
-13. Triple Turrets
-(long range beam lasers)
+13. Triple Turrets (long range beam lasers)
 14. Triple Turrets (missile racks)
 15. Triple Turrets (sandcasters)
 16. Armories
@@ -23259,7 +24692,7 @@ DECK 4
 30. Sensors
 31. Distributed Arrays
 
-TRAVELLER
+
 
 Name Location Bases Statistics Trade Codes Travel Code Gas Giants
 Amuur Keiir 2935 C572355-A Lo G
@@ -23491,75 +24924,147 @@ To Dunea SAREGON
 
 DISHADSHII
 
+
+
 SINAD
+
+
 
 KHUIR
 
+
+
 IGLA
+
+
 
 SHAKIIGA
 
+
+
 GANAD
+
+
 
 UNLAKHAR
 
+
+
 KERGUMIR
+
+
 
 MIDDENA
 
+
+
 DUUDIN
+
+
 
 VALED
 
+
+
 SUURASHUUR GAESHME KIIGGURA
+
+
 
 GUMIR GAEG
 
+
+
 DUUNPIGAMUUR
+
+
 
 ARVLAA GAM
 
+
+
 GAEN LUUM
+
+
 
 UURIGGER
 
+
+
 LASHUPII
+
+
 
 LISHIDE
 
+
+
 IIMDII
+
+
 
 TALIYAN
 
+
+
 AMUUR KEIIR
+
+
 
 IISHAANKA
 
+
+
 DISHE
+
+
 
 ASHMELAM
 
+
+
 ARLA
+
+
 
 GAU
 
+
+
 NINDAKIR
+
+
 
 KINURI
 
+
+
 ASHGA
+
+
 
 BUMINA
 
+
+
 MIE DUUR
+
+
 
 MILPA
 
+
+
 UURKUUMLUU
+
+
 
 SHIMARAAK
 
+
+
 DINENRUUM
+
+
 
 B-D B-C
 
@@ -23711,7 +25216,7 @@ B614ACG-F
 
 ###### SAREGON subsector
 
-TRAVELLER
+
 
 Dinenruum
 Dinenruum is a Trojan planet, perched in the L4
@@ -23816,14 +25321,12 @@ some of which are industrious and some more artistic
 or social in nature. All citizens are outfitted with wafer
 jacks into which they plug software they need to
 perform their assigned tasks. The end result is a culture
-that seems to be terribly busy, flitting from place-to-
-place, engaged in one activity or another but little of
+that seems to be terribly busy, flitting from place-to-place, engaged in one activity or another but little of
 which appears to be absolutely necessary. Some have
 joked that the Saregonians are on a life-long scavenger
 hunt forced upon them by its ruling computer system.
 
-The world's opportune location on a sizable jump-
-1 main has made it rich from trade, the bounties of
+The world's opportune location on a sizable jump-1 main has made it rich from trade, the bounties of
 which are shared among its populace. Wealth is not
 shared equally but according to need and relatively
 few Saregonians argue with the outcome. Those who
@@ -23864,8 +25367,7 @@ world has a bountiful and varied ecosphere.
 
 Shimaraak is a large, high-gravity world with a thin,
 low atmosphere. The world has few mountain ranges
-of note but its shallow oceans are rich in high-
-grade metals and rare-earth minerals. The industrial
+of note but its shallow oceans are rich in high-grade metals and rare-earth minerals. The industrial
 worlds of Saregon are eager to get their hands on
 these untapped resources but the Scout Service
 has acquired a proclamation from the Emperor
@@ -23883,7 +25385,7 @@ vigilantly watch over the world.
 
 Saregon
 
-TRAVELLER
+
 
 Creating Ssienjhiovla Travellers
 The Ssienjhiovla are shelled, mollusc-like species
@@ -23956,10 +25458,14 @@ endure the drier conditions and reduced gravity of
 human starships.
 
 CHARACTERISTICS
+
+
 Ssienjhiovla Travellers have the following modifiers
 applied to their characteristics: STR-2, DEX+1.
 
 TRAITS
+
+
 Ssienjhiovla Travellers have the following traits:
 
 Carapace : The Ssienjhiovla carapace gives them

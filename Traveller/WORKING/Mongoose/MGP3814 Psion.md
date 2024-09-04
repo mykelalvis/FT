@@ -10,6 +10,8 @@ Printed in the USA.
 
 CREDITS
 
+
+
 Classic Traveller
 Marc Miller
 
@@ -20,22 +22,34 @@ David MacDonald, Wayne Roth, Paul R. Banner.
 Mongoose Traveller
 
 AUTHOR
+
+
 Lawrence Whitaker
 
 EDITOR
+
+
 Richard Ford
 
 LAYOUT
+
+
 Will Chapman
 
 INTERIOR ILLUSTRATIONS
+
+
 Ryan Horvath, Ricardo Mendes, Danilo Morreti, Tony Parker,
 German Ponce, Evan Shipard & Ronald Smith
 
 PROOFREADING
+
+
 Charlotte Law
 
 CONTENTS
+
+
 
 INTRODUCTION 2
 
@@ -60,16 +74,19 @@ INDEX 96
 ##### PSION
 
 SPECIAL THANKS
+
+
 Dominic Mooney, Stuart Machin, David Ives
 
 PLAYTESTERS
+
+
 Adam Gulwell, Alexander Fennell, Roger Calver, Dave Lai, Scott
 Hughes
 
 Chapter 3: Psion Careers
 Core career tables for psion characters, including Life Events,
-Mishaps, Career Progression and so forth. Special, campaign-
-type Genre Tables help to gear psion characters to the style of SF
+Mishaps, Career Progression and so forth. Special, campaign-type Genre Tables help to gear psion characters to the style of SF
 campaign being run.
 
 Chapter 4: Psionic Powers
@@ -92,6 +109,8 @@ time machines and trans-dimensional
 vessels.
 
 WHAT ELSE IS
+
+
 
 NEEDED?
 Only the Traveller Core Rulebook is a
@@ -179,6 +198,8 @@ telepathy, telekinesis and even teleportation. In the Imperium, learning_
 
 PSIONICS TECH LEVEL
 
+
+
 Tech Level TL Definition Psionic Understanding and Development
 0 Primitive Psionics are viewed as gifts from the gods – or devils and demons.
 1 Psionics are viewed as magical or sorcerous powers.
@@ -212,6 +233,8 @@ instantaneous, forms of travel.
 
 DDEFININGEFINING P PSIONICSSIONICS DEFINING PSIONICS
 
+
+
 _to harness this gift is a difficult process, made even harder by the Imperial
 ban on psionics. The psionics institutes that study mental powers have
 gone underground, following a disastrous attempt to guide human
@@ -219,8 +242,9 @@ development centuries ago. In other civilizations, such as the Zhodani
 Consulate, psionics are an accepted part of the human condition._
 
 CORE PSIONIC RULES
-Psionics are powered by the Psionic Strength characteristic
-(abbreviation Psi). This characteristic cannot be rolled or bought
+
+
+Psionics are powered by the Psionic Strength characteristic (abbreviation Psi). This characteristic cannot be rolled or bought
 during character creation without the Referee's permission. To
 determine a character's Psionic Strength, roll 2d6 and subtract
 the number of terms served by the character in any career (Psionic
@@ -276,6 +300,8 @@ Psi x 2
 Transcendent Cultures
 SF
 
+
+
 Dune, The Culture Psi x 2.
 
 When applying a multiplier as the modifier, always round up. For
@@ -286,6 +312,8 @@ Psi Strength of 7+3.5, rounded to 4 – so 11.
 TESTING FOR PSIONICS –
 
 BASIC PROCEDURE
+
+
 The basic procedure for testing for psionic ability is presented here
 and is identical to that found in the Traveller Core Rulebook. More
 detailed options are provided in the next chapter but for a quick start
@@ -311,6 +339,8 @@ order but suffers a –1 DM per check attempted. If a character learns
 a talent, he gains that talent at level 0.
 
 COMMON PSIONIC TALENTS
+
+
 Talent Learning DM
 Telepathy +
 Clairvoyance +
@@ -330,7 +360,11 @@ at level 0.
 
 DEFINING PSIONICS DDEFININGEFINING P PSIONICSSIONICS
 
+
+
 BASIC PSIONIC TALENTS
+
+
 There are several basic psionic talents; each of which works like
 a skill for the powers in question. A character trained in the use
 of psionics may develop his talents over time just as if they were
@@ -347,6 +381,8 @@ Each talent grants access to all of its powers – a character with Telepathy 0 
 use life detection , read surface thoughts or assault as the situation demands.
 
 ADVANCED PSIONIC TALENTS
+
+
 This book introduces several new advanced talents that include
 extended groups of powers. These advanced talents are designed to
 
@@ -373,6 +409,8 @@ DM in the same manner as basic talents.
 
 DDEFININGEFINING P PSIONICSSIONICS
 
+
+
 - Ship Integration – integrating psionic capabilities with a
     starship, augmenting or even replacing certain functions.
 - Tapping – drawing psionic power from others and from one's
@@ -381,6 +419,8 @@ DDEFININGEFINING P PSIONICSSIONICS
     allowing time travel.
 
 ADVANCED PSIONIC TALENTS
+
+
 
 Talent Learning DM
 Aura Perception +
@@ -397,6 +437,8 @@ Temporal Manipulation –
 Per previous talent acquisition check –
 
 USING A PSIONIC TALENT
+
+
 Basic and Advanced talents are fully explored in the next chapter but
 all use the same rules for psionic talents.
 
@@ -424,6 +466,8 @@ points (2 for the ability, 1 for the range).
 
 DEFINING PSIONICS
 
+
+
 This chapter details the development of psionic abilities; how they
 occur, how they are discovered and how they are then trained and
 developed.
@@ -434,12 +478,13 @@ your campaign. Various ways for uncovering and training psionic
 talents are explored in this chapter.
 
 LATENT PSIONIC POTENTIAL
+
+
 The old myth has it that only 10% of the brain is used to its full
 potential, inferring that the other 90% is where psionic powers
 are stored, locked from sight until some trigger blows away the
 cobwebs and reveals a psion in all their glory. Yet brain imaging
-techniques such as PET (Positron Emission Tomography) and FMRI
-(Functional Magnetic Resonance Imaging) have established that a
+techniques such as PET (Positron Emission Tomography) and FMRI (Functional Magnetic Resonance Imaging) have established that a
 great deal of the brain is in constant use, with different sections
 being used to different degrees for different tasks. Small amounts
 of damage to the brain can have profound physical and neurological
@@ -491,6 +536,8 @@ not been able to realise his Latent Psionic Potential. He may attempt
 again in a year but must throw 12+ to realise that potential.
 
 PSIONIC TRAINING
+
+
 Having realised psionic potential and calculated Psionic
 Strength, the character is now in a position to be formally
 trained in psionics, developing his talents and powers. The
@@ -511,14 +558,18 @@ adventuring.
 
 DDOORSOORS OFOF P PERCEPTIONERCEPTION DOORS OF PERCEPTION
 
+
+
 LATENT PSIONIC POTENTIAL MODIFIERS
+
+
 
 History/Circumstances Modifier Notes
 One parent is a trained psion +1 to +4 Roll 2d6 for the parent's Psionic Strength; DM is equal to their
-Psionic Strength divided by 3 (round to nearest and always with a
+Psionic Strength divided by3 (round to nearest and always with a
 minimum of 1)
 Both parents are trained psions +1 to +8 Roll 2d6 for the both parents' Psionic Strength; DM is equal to
-their combined Psionic Strength divided by 3 (round to nearest
+their combined Psionic Strength divided by3 (round to nearest
 and always with a minimum of 1)
 Character has been exposed to mutagens leading to
 strengthened Latent Psionic Potential
@@ -593,6 +644,8 @@ under his wing as a protégé
 
 DOORS OF PERCEPTION DDOORSOORS OFOF P PERCEPTIONERCEPTION
 
+
+
 2d6 Quality University Psionic Institute
 2-3 Poor –1 –
 4-6 Mediocre 0 0
@@ -610,6 +663,8 @@ seat of learning. DMs are gained for:
 - Aged 30+ –
 
 ENROLMENT TABLE
+
+
 Quality University Institute
 Poor 5+ 6+
 Mediocre 6+ 7+
@@ -647,6 +702,8 @@ test for Latent Psionic Ability and then attending the courses and
 partaking in trials and experiments.
 
 IF PSIONICS ARE OPENLY TOLERATED AND PROMOTED
+
+
 Both universities and psionic institutes are available. Both can
 test for Latent Psionic Potential and the level of competence may
 provide an additional DM to the Latent Psionic Potential roll. Roll
@@ -654,6 +711,8 @@ provide an additional DM to the Latent Psionic Potential roll. Roll
 applicable to the Latent Psionic Potential throw.
 
 UNIVERSITY
+
+
 
 Quality Learning DM
 
@@ -668,6 +727,8 @@ Outstanding +3 1d3+2 150,000 1d3+2 300,
 
 PSIONIC INSTITUTE
 
+
+
 Quality Learning DM
 
 Basic Talents Advanced Talents
@@ -680,6 +741,8 @@ Excellent +3 1d3+2 135,000 1d3+2 260,
 Outstanding +4 1d3+2 160,000 1d3+3 320,
 
 DDOORSOORS OFOF P PERCEPTIONERCEPTION DOORS OF PERCEPTION
+
+
 
 Once enrolled, study and development is conducted in blocks of 4
 months. As part of their training, characters can attempt to learn
@@ -703,6 +766,8 @@ three years full study) before he must find a new establishment to
 continue his psionic development.
 
 IF PSIONICS ARE ILLEGAL
+
+
 Psions are often viewed with fear and distrust. In some campaigns,
 psionic development may be actively outlawed with known psions
 not just registered with the authorities but persecuted, exiled or
@@ -749,6 +814,8 @@ devotion and understanding of practices and requirements. A DM
 
 MYSTICAL ORDER PSIONICS APPROACH
 
+
+
 2d6 Approach Latent Psionic Potential DM Basic Talents
 
 Advanced
@@ -782,6 +849,8 @@ system. All members are trained.
 +4 1d3+2 1d3+2 +
 
 DOORS OF PERCEPTION DDOORSOORS OFOF P PERCEPTIONERCEPTION
+
+
 
 for Psionic Strength may also be appropriate, if the order places high
 stock on psionic capability and if the character has already tested for
@@ -891,6 +960,8 @@ Talent, determined randomly.
 
 DDOORSOORS OFOF P PERCEPTIONERCEPTION
 
+
+
 Developing the Raw Talent into a fully trained talent requires either
 a mentor or formal training as previously discussed.
 
@@ -950,6 +1021,8 @@ complement.
 
 DOORS OF PERCEPTION
 
+
+
 This chapter provides career paths for psions: both psions who are
 part of a dedicated psionics agency (such as the Psi Corp of Babylon
 5's universe) and psions as part of the established career paths
@@ -960,8 +1033,7 @@ psion has been identified and given some form of basic training and
 development before the career takes place; he is therefore known to
 his superiors as a psion and given duties and assignments that make
 the most of his capabilities. This assumes, of course, that services
-in your Traveller campaign make active use of psions: if they do not
-(because they fear them or because psions are outlawed) then you
+in your Traveller campaign make active use of psions: if they do not (because they fear them or because psions are outlawed) then you
 need not use the career tables and options presented in this chapter
 and stick with those of the Traveller Core Rulebook.
 
@@ -974,8 +1046,7 @@ advanced, found in this book.
 
 This chapter also provides several new careers tailored specifically
 to psions with certain talents. There is therefore the Temporal
-Agency career, the Inter-Dimensional Agent career and the Psion-
-Spacefarer career. These are careers designed to use the advanced
+Agency career, the Inter-Dimensional Agent career and the Psion-Spacefarer career. These are careers designed to use the advanced
 talents found in the next chapter and both players and Referees will
 need to be familiar with those talents (and Referees allow them in
 the first place, as part of the campaign).
@@ -983,6 +1054,8 @@ the first place, as part of the campaign).
 ### PPSIONSION C CAREERSAREERS
 
 DEDICATED PSION AGENCY
+
+
 The dedicated Psion Agency is a body concerned with identifying,
 recruiting, developing and policing other psions. Its resources
 are contracted out to other services although it maintains its own
@@ -1022,6 +1095,8 @@ determine which talent:
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 If you roll Special, you may select 1d3+2 Powers from _any_ of the Basic Talents. These form a Talent particular to you; give it an appropriate
 name. This Talent begins at 0 and improves in the same way as any other Talent. However, when you learn new Talents, the Powers it
 contains that replicate your specialized talent are not replaced with others.
@@ -1039,6 +1114,8 @@ Roll Cash (Cr.) Other Benefit
 campaign) membership
 
 RANKS AND BENEFITS
+
+
 
 Rank Pursuit/Liaison Skill or Benefit
 0 Intern
@@ -1060,6 +1137,8 @@ Rank Research Skill or Benefit
 
 MISHAPS
 
+
+
 2d6 Mishap
 2 Severely injured. Roll twice on the Injury table and take the lower result.
 3 You suffer Psionic Backlash as a result of strenuous psionic activity. Gain 2 levels of Psionic Trauma.
@@ -1080,19 +1159,19 @@ succeed, gain either Deception, Investigate or Stealth, as well as 1 level of Ps
 
 SKILLS AND TRAINING
 
+
+
 Personal
 Development Service Skills
 
 Advanced
-Education
-(Minimum Edu 8)
+Education (Minimum Edu 8)
 1 +1 Str Drive (any) Comms
 2 +1 Dex Athletics Investigate
 3 +1 End Gun Combat (any) Computers
 4 +1 Psi Admin Deception
 5 +1 Int Melee (any) Leader
-6 +1 Psi Talent
-(any already
+6 +1 Psi Talent (any already
 trained in)
 
 New Basic Talent Stealth
@@ -1102,13 +1181,11 @@ Research
 
 Specialist: Pursuit Specialist: Liaison
 
-1 Social Science
-(any)
+1 Social Science (any)
 
 Gun Combat (any) Diplomat
 
-2 Life Science
-(any)
+2 Life Science (any)
 
 Persuaded Leadership
 
@@ -1130,6 +1207,8 @@ already trained in)
 
 CAREER PROGRESS
 
+
+
 Survival Advancement
 Research End 5+ Int 8+
 Pursuit Psi 6+ End 7+
@@ -1137,7 +1216,11 @@ Liaison Int 8+ Soc 8+
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
 
+
+
 EVENTS
+
+
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
 12 A mission results in you using your psionic powers overzealously. Gain +1 to any trained Talent but also gain 1d3 Rivals from
@@ -1194,6 +1277,8 @@ becomes impotent and you cannot use it.
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 54 Your commanding officer takes an interest in your career. Either gain Tactics or take a +4DM to your next Advancement roll (in
 any career) thanks to his aid.
 55 You are enlisted in a special advancement program. Roll Int 8+. If you succeed, you gain +1 to your Psionic Strength. If you
@@ -1231,7 +1316,11 @@ must leave this career next term.
 
 PSION CAREERS PSION CAREERS
 
+
+
 PSION AGENTS
+
+
 Psion Agents are recruited, trained and used by government
 agencies, such as the police. Psions in this career use their abilities
 in the service of the agency's agenda, which may have little to do
@@ -1252,6 +1341,8 @@ Assignments: Choose one of the following:
     more powerful.
 
 CAREER PROGRESS
+
+
 Survival Advancement
 Law Enforcement End 7+ Int 7+
 Operations Dex 9+ Int 5+
@@ -1269,6 +1360,8 @@ Roll Cash (Cr.) Other Benefit
 campaign) membership
 
 RANKS AND BENEFITS
+
+
 Rank Law
 Enforcement
 
@@ -1284,8 +1377,7 @@ Benefit
 1 Corporal Streetwise 1 Agent Deception 1
 2 Sergeant Investigate 1
 3 Lieutenant
-4 Detective Investigate 1 Field Agent Gun Combat
-(any) 1
+4 Detective Investigate 1 Field Agent Gun Combat (any) 1
 5 Chief Admin 1
 6 Com -
 missioner
@@ -1294,13 +1386,13 @@ missioner
 Strength
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
-1 Gun Combat
-(any)
+Advanced Education (Minimum Edu 8)
+1 Gun Combat (any)
 
 Streetwise Advocate
 
@@ -1308,11 +1400,9 @@ Streetwise Advocate
 3 +1 End Investigate Computers
 4 Melee (any) Computers Medic
 5 +1 Int Recon Stealth
-6 Athletics Gun Combat
-(any)
+6 Athletics Gun Combat (any)
 
-Basic Psionic Talent
-(+1)
+Basic Psionic Talent (+1)
 Specialist: Law
 Enforcement
 
@@ -1330,7 +1420,11 @@ Specialist: Corporate
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 MISHAPS
+
+
 
 2d6 Mishap
 2 Severely Injured. Roll twice on the Injury table and take the lower result.
@@ -1354,6 +1448,8 @@ either Deception, Investigate or Stealth, as well as 1 level of Psionic Trauma.
 
 EVENT
 
+
+
 d66 Event
 11 Disaster! Roll on the mishap table but you are not ejected from this career.
 12 An investigation takes on a dangerous turn. Roll Investigate 10+ or Streetwise 10+. If you fail, roll on the mishap table. If you
@@ -1362,8 +1458,7 @@ succeed, gain one of these skills: Deception, Jack of All Trades, Persuade or Ta
 14 You establish a network of contacts. Gain 1-3 Contacts.
 15 You are given advanced training in a specialist field. Throw Education 10+ to gain any one skill.
 16 Life Event. Roll on the Life Events table.
-21 You go undercover to investigate an enemy. Roll Deception 10+. If you succeed, roll immediately on the Criminal or Citizen
-(Corporate) Events table and make one roll on the Specialist skill table for that career. If you fail, roll immediately on the Criminal
+21 You go undercover to investigate an enemy. Roll Deception 10+. If you succeed, roll immediately on the Criminal or Citizen (Corporate) Events table and make one roll on the Specialist skill table for that career. If you fail, roll immediately on the Criminal
 or Citizen (Corporate) Mishaps table.
 22 You go above and beyond the call of duty.
 Gain a +2 DM to your next Advancement check.
@@ -1385,6 +1480,8 @@ have not accrued any Psionic Trauma, you may ignore the first level you receive.
 succeed, you gain Investigate as a result.
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
+
+
 
 36 A friend or lover dies. Roll Investigate 8+. If successful, you discover the death was murder. Gain the murderer as an Enemy and
 dedicate your life to bringing him to justice. If you fail, you have your suspicions of murder but not enough evidence to prove
@@ -1442,10 +1539,13 @@ leave this career next term.
 
 PSION CAREERS PSION CAREERS
 
+
+
 PSION ARMY
+
+
 Some armies make use of psions to supplement field capabilities
-and for intelligence-gathering purposes. Although psionically-
-trained soldiers may well be attractive, their use on the battlefield
+and for intelligence-gathering purposes. Although psionically-trained soldiers may well be attractive, their use on the battlefield
 can be counterproductive; developing a psion is costly and placing
 a psion soldier in the line of fire poses a risk to that investment.
 However, some armies may well deploy psionic troops in a field of
@@ -1472,6 +1572,8 @@ Assignments: Choose one of the following:
 
 CAREER PROGRESS
 
+
+
 Survival Advancement
 Intelligence Int 5+ Edu 9+
 Infantry Str 7+ Psi 7+
@@ -1490,6 +1592,8 @@ Roll Cash (Cr.) Benefits
 
 RANKS AND BENEFITS
 
+
+
 Rank Title Skill or Benefit
 0 Private Gun Combat (any) 1
 1 Lieutenant Leadership 1
@@ -1501,11 +1605,12 @@ Rank Title Skill or Benefit
 Standing, whichever is higher
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 1 +1 Str Drive (any) Comms
 2 +1 Dex Athletics Sensors
 3 +1 End Gun Combat (any) Computers
@@ -1523,8 +1628,7 @@ Specialist: Infantry Specialist: Special
 Forces
 1 Comms Gun Combat (any) Stealth
 2 Recon Melee (any) Deception
-3 Computers Heavy Weapons
-(any)
+3 Computers Heavy Weapons (any)
 
 Gun Combat (any)
 
@@ -1542,7 +1646,11 @@ already trained in)
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
 
+
+
 MISHAPS
+
+
 2d6 Mishap
 2 Severely injured. Roll twice on the Injury table and take the lower result.
 3 You suffer Psionic Backlash as a result of strenuous psionic activity. Gain 2 levels of Psionic Trauma.
@@ -1567,6 +1675,8 @@ gain either Deception, Investigate or Stealth, as well as 1 level of Psionic Tra
 12 Injured. Roll on the Injury table.
 
 EVENTS
+
+
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
 12 A mission results in you using your psionic powers overzealously. Gain +1 to any trained Talent but also gain 1d3 Rivals from
@@ -1597,6 +1707,8 @@ his aid.
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 26 You fall in love with a colleague. This results in you gaining a Rival as your lover spurns their existing companion for you. Roll
 2d6 for the number of years your love affair lasts. If this takes you into your adventuring career properly, then you are still with
 your lover when play begins and the relationship may continue indefinitely. Your lover is also an Ally.
@@ -1621,8 +1733,7 @@ Leadership. If you throw 12, you also gain a +1 DM to one Power from one of your
 51 You are assigned to a peacekeeping role. Gain Admin 1, Investigate 1, Deception 1 or Recon 1.
 52 Life Event. Roll on the Life Events table.
 53 You are given advanced training in a specialist field. Throw Education 8+ to gain any one skill.
-54 Your commanding officer takes an interest in your career. Either gain Tactics or take a +4 DM to your next Advancement roll
-(in any career) thanks to his aid.
+54 Your commanding officer takes an interest in your career. Either gain Tactics or take a +4 DM to your next Advancement roll (in any career) thanks to his aid.
 55 You are awarded a citation for meritorious conduct. Gain +2 to your next advancement roll and a +2 DM on the benefits table
 for this term.
 56 An Enemy makes an attempt on your life. Make a further Survival roll for this term. If you fail, roll twice on the Injury table and
@@ -1651,7 +1762,11 @@ Regardless of the result, you are rescued and gain a +2 DM on your Benefit roll 
 
 PSION CAREERS PSION CAREERS
 
+
+
 PSION DRIFTER
+
+
 Psion Drifters may well be renegades from a regime that actively
 persecutes psions. Alternatively, they may have become drifters
 following some form of mental trauma related to their abilities
@@ -1672,6 +1787,8 @@ Assignments: Choose one of the following:
     crew, keeping your abilities hidden as much as possible.
 
 CAREER PROGRESS
+
+
 Survival Advancement
 Barbarian End 9+ Str 9+
 Wanderer End 9+ Int 9+
@@ -1689,6 +1806,8 @@ the Learning roll.
 7 8,000 Two Ship Shares
 
 RANKS AND BENEFITS
+
+
 
 Rank Barbarian
 
@@ -1709,15 +1828,13 @@ Street
 Vacc
 Suit 1
 1
-2 Warrior Melee
-(blade)
+2 Warrior Melee (blade)
 1
 
 Decep
 -tion 1
 
-Trade
-(belter) or
+Trade (belter) or
 Mechanic
 1
 3
@@ -1728,8 +1845,7 @@ SKILLS AND TRAINING:
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 1 +1 Str Athletics N/A
 2 +1 End Melee (Unarmed
 combat)
@@ -1757,7 +1873,11 @@ Specialist: Scavenger
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 MISHAPS
+
+
 
 2d6 Mishap
 2 Severely injured. Roll twice on the Injury table and take the lower result.
@@ -1776,6 +1896,8 @@ reduce Social Standing by 1d3 (to a minimum of 1).
 them.
 
 EVENTS
+
+
 
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
@@ -1806,6 +1928,8 @@ automatically next term. If you choose not to, you still gain the network as a C
 35 You are forcibly drafted. Roll on the Draft next term.
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
+
+
 
 36 A friend or lover dies. Roll Investigate 8+. If successful, you discover the death was murder. Gain the murderer as an Enemy and
 dedicate your life to bringing him to justice. If you fail, you have your suspicions of murder but not enough evidence to prove
@@ -1857,7 +1981,11 @@ a favor.
 
 PSION CAREERS PSION CAREERS
 
+
+
 PSION NAVY
+
+
 As with the army, psions are valuable to the navy for their capabilities in
 intelligence gathering and surveillance. However, given the complexities of
 space travel and the nature of some psionic talents, they can also be useful
@@ -1888,6 +2016,8 @@ Assignments: Choose one of the following:
 
 CAREER PROGRESS
 
+
+
 Survival Advancement
 Line/Crew Int 5+ Edu 9+
 Engineering/Gunnery Int 7+ Edu 7+
@@ -1906,6 +2036,8 @@ Roll Cash (Cr.) Benefits
 
 RANKS AND BENEFITS
 
+
+
 Rank Title Skill or Benefit
 0 Crewman
 1 Ensign
@@ -1918,11 +2050,12 @@ Standing, whichever is higher
 Standing, whichever is higher
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 1 +1 Str Pilot (any) Remote Operations
 2 +1 Dex Vacc Suit Astrogation
 3 +1 End Zero-G Engineer (any)
@@ -1936,8 +2069,7 @@ Specialist: Psion Aux
 
 1 Comms Comms Comms
 2 Mechanic Mechanic Science (any)
-3 Gun Combat
-(any)
+3 Gun Combat (any)
 
 Sensors Tactics
 
@@ -1947,7 +2079,11 @@ Sensors Tactics
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
 
+
+
 MISHAPS
+
+
 2d6 Mishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
 3 You fall in love with, or develop a crush on, a serving colleague. Roll 1d6: 1-4, Fellow Crewman; 5-6, an Officer. The affection is
@@ -1969,6 +2105,8 @@ one Talent.
 the lives of several colleagues. Receive Meritorious Conduct Under Fire as a decoration.
 
 EVENTS
+
+
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
 12 You join a gambling circle on board. Gain Gambling 1 or Deception 1.
@@ -2000,6 +2138,8 @@ cited for meritorious conduct.
 roll 1d6. On a 1-2, roll on the Injury table. On a 3+ gain him as an Ally.
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
+
+
 
 34 Your ship is part of a naval display or goodwill tour. Gain one of Carouse 1, Diplomat 1, Art 1 or Streetwise 1.
 35 Your ship is involved in a first contact with an alien species. Gain Life Science 1, Diplomat 1, Remote Operations 1 or a Contact.
@@ -2057,7 +2197,11 @@ value. However the experiment has fortuitous consequences and you gain +2 Psi St
 
 PSION CAREERS PSION CAREERS
 
+
+
 PSION ROGUE
+
+
 Psions who use their abilities for personal gain are Rogues: criminals,
 fraudsters and so forth. This is a self-serving profession and the psion
 may have been forced into it as a result of persecution. However, by
@@ -2080,6 +2224,8 @@ Assignments: Choose one of the following:
     need for weapons.
 
 CAREER PROGRESS
+
+
 Survival Advancement
 Thief Int 7+ Dex 5+
 Mind Stealer Int 7+ Psi 7+
@@ -2096,6 +2242,8 @@ Roll Cash (Cr.) Benefits
 7 100,000 Corsair
 
 RANKS AND BENEFITS
+
+
 
 Rank Thief
 
@@ -2114,18 +2262,15 @@ Benefit
 suade 1
 
 Pilot (any) 1
-or Gunner
-(any) 1
+or Gunner (any) 1
 1
 2 Streetwise
 1
 
 Gun
-Combat
-(any)
+Combat (any)
 1 or
-Melee
-(any) 1
+Melee (any) 1
 
 Gun Combat
 1 (any) or
@@ -2142,18 +2287,18 @@ Engineer
 Navigation 1
 
 SKILLS AND TRAINING
+
+
 Personal
 Development
 
-Service Skills Advanced Education
-(Minimum Edu 10)
+Service Skills Advanced Education (Minimum Edu 10)
 1 Carouse Deception Computers
 2 +1 Dex Recon Comms
 3 +1 End Athletics Medic
 4 Gambler Gun Combat (any) Investigation
 5 Melee (any) Stealth Persuade
-6 Gun Combat
-(any)
+6 Gun Combat (any)
 
 Streetwise Advocate
 
@@ -2175,7 +2320,11 @@ Streetwise Melee (blades)
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 MISHAPS
+
+
 
 2d6 Mishap
 2 Severely Injured. Roll twice on the Injury table and take the lower result.
@@ -2195,6 +2344,8 @@ Strength by 1d3.
 12 Injured. Roll on the Injury table.
 
 EVENTS
+
+
 
 d66 Event
 11 Disaster! Roll on the mishap table but you are not ejected from this career.
@@ -2235,6 +2386,8 @@ continues as normal but you always have suspicions concerning a Contact or Ally,
 - even if your suspicions are unfounded.
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
+
+
 
 42 A space-based criminal mission leads you into contact with an alien intelligence or artefact. Roll Endurance 8+. If you succeed,
 you may test for one Advanced Talent in the usual way. If you fail, gain the aliens or alien intelligence as a Contact.
@@ -2294,7 +2447,11 @@ chosen is always half (rounded down with a minimum of 1 point) the usual cost.
 
 PSION CAREERS PSION CAREERS
 
+
+
 PSION SCHOLAR
+
+
 Psion scholars use their abilities to further academic studies and
 scientific endeavor. They may study the nature of psionics or
 specialize in other fields. However, they are teachers, students,
@@ -2316,6 +2473,8 @@ Assignments: Choose one of the following:
 
 CAREER PROGRESS
 
+
+
 Survival Advancement
 Student Edu 5+ Int 11+
 Scientist Edu 5+ Int 9+
@@ -2334,6 +2493,8 @@ Roll Cash (Cr.) Benefits
 
 RANKS AND BENEFITS
 
+
+
 Rank Student
 
 Skill or
@@ -2347,8 +2508,7 @@ Benefit Physician
 
 Skill or
 Benefit
-0 Science
-(any) 1
+0 Science (any) 1
 
 Medic 1
 
@@ -2359,25 +2519,24 @@ skill 0
 - gate 1
 
 Life
-Sciences
-(biology) 1
+Sciences (biology) 1
 3
 4 Comp -
 uters 1
 
 Physical
-Sciences
-(chemistry) 1
+Sciences (chemistry) 1
 5
 6 Gain any
 skill 0
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 10)
+Advanced Education (Minimum Edu 10)
 1 +1 Int Comms Art (any)
 2 +1 Edu Computers Advocate
 3 +1 Soc Diplomat Computers
@@ -2393,8 +2552,7 @@ Physician
 2 Gamble Computers Comms
 3 Streetwise Language (any) Investigate
 4 Computers Engineer (any) Medic
-5 Science
-(Psionics)
+5 Science (Psionics)
 
 Science (any) Persuade
 
@@ -2402,7 +2560,11 @@ Science (any) Persuade
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
 
+
+
 MISHAPS
+
+
 2d6 Mishaps
 2 Severely Injured. Roll on the Injury table twice and take the lower result.
 3 A disaster leaves several injured and others blame you. Roll on the Injury table twice, taking the higher result and gain a Rival.
@@ -2427,6 +2589,8 @@ in your next career. The authorities try to wipe your psionic powers. Roll Psi 1
 12 Injured. Roll on the Injury table.
 
 EVENTS
+
+
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
 12 You are called upon to perform research that goes against your conscience. Accept and you gain an extra Benefit roll and two
@@ -2455,6 +2619,8 @@ Benefit or Advancement check this term.
 of the fellowship after your name (such as IFPR for Imperial Fellowship for Psionic Research, for example).
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
+
+
 
 26 You have the opportunity to backstab a fellow scientist for personal gain. If you do so, gain a +4 DM to your next Advancement
 check. If you refuse, gain him as an Ally.
@@ -2506,7 +2672,11 @@ chosen is always half (rounded down with a minimum of 1 point) the usual cost.
 
 PSION CAREERS PSION CAREERS
 
+
+
 PSION SCOUTS
+
+
 In the same way that the army and navy use psions, so does the
 Scout service. However, given the hazardous nature of scouting,
 psion scouts are a relative rarity owing to the costs involved.
@@ -2529,6 +2699,8 @@ Assignments: Choose one of the following:
     space.
 
 CAREER PROGRESS
+
+
 Survival Advancement
 X-Boat End 5+ Psi 11+
 Survey End 7+ Int 9+
@@ -2545,6 +2717,8 @@ Roll Cash (Cr.) Benefits
 7 50,000 Scout Ship
 
 RANKS AND BENEFITS
+
+
 Rank Title Skill or Benefit
 0 Scout Jack of all Trades 1
 1
@@ -2555,11 +2729,12 @@ Rank Title Skill or Benefit
 6
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 
 (^1) +1 Str Pilot (any) Medic
 2 +1 Dex Vacc Suit Navigation
@@ -2568,16 +2743,13 @@ Advanced Education
 5 +1 Psi Comms Science (any)
 6 Jack of all
 Trades
-Gun Combat
-(any)
+Gun Combat (any)
 Basic Psionic Talent
-Specialist: X-
-Boat
+Specialist: X-Boat
 Specialist: Survey Specialist: Exploration
 1 Comms Sensors Sensors
 2 Sensors Persuade Pilot (spacecraft)
-3 Pilot
-(spacecraft)
+3 Pilot (spacecraft)
 Pilot (small craft) Pilot (small craft)
 4 Vacc Suit Navigation Navigation
 5 Zero-G Diplomat Basic Psionic Talent
@@ -2587,7 +2759,11 @@ Recon
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 MISHAPS
+
+
 
 2d6 Mishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
@@ -2608,6 +2784,8 @@ Int. However, gain a +1 DM to any Basic or Advanced Talent.
 12 Injured. Roll on the Injury table
 
 EVENTS
+
+
 
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
@@ -2646,6 +2824,8 @@ a DM for Survival. If you succeed, you survive unscathed and are rescued. If you
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
 
+
+
 16 You become involved in a personal research project that lends deep insight to a particular culture you are studying. Gain either +1
 Edu or one level of any Life Science.
 21 Spend the entire term on an alien world. Gain Language 1 and Social Sciences (sophontology) 1.
@@ -2660,8 +2840,7 @@ you fail, gain an Enemy.
 31 You are assigned to a research team studying an alien language or cipher. Gain either Edu +1, Social Sciences (linguistics) 1 or
 Social Sciences (philosophy) 1.
 32 You are given extra training in combat. Choose one of the following skills – Gun Combat, Medic, Melee (blade) or Zero-G.
-33 You come across a piece of alien technology that legally becomes your property. Either sell it for another Benefit roll or keep it
-(your Referee will determine what it is).
+33 You come across a piece of alien technology that legally becomes your property. Either sell it for another Benefit roll or keep it (your Referee will determine what it is).
 34 A message you are charged with handling turns out to have profound implications for a family member or friend. Roll 1d6:
 1 The person you know is in grave danger.
 2 The person you know is involved in dangerous criminal activity.
@@ -2704,6 +2883,8 @@ tantalising glimpse of a place you are drawn to. These dreams and visions will k
 the star system that haunts you.
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
+
+
 
 44 A boring assignment leads to temptation. If you develop a drinking problem or addiction, gain Streetwise and a reliance on a
 semi-legal drug or alcohol. Whilst using the stimulant, you gain a +1 DM to your Psi but when the stimulant is not available, you
@@ -2764,7 +2945,11 @@ are rescued. You recall nothing of your time away but you have developed one Adv
 
 PSION CAREERS PSION CAREERS
 
+
+
 UNDERGROUND PSION NETWORK
+
+
 This career is for those campaigns where psions are outlawed and
 hunted by the authorities. The underground psion network supports
 and hides psions through its own clandestine infrastructure.
@@ -2787,6 +2972,8 @@ Assignments: Choose one of the following:
     missions against the repressive regime.
 
 CAREER PROGRESS
+
+
 Survival Advancement
 Resistance Int 8+ Dex 7+
 Fifth Columnist Soc 6+ Int 9+
@@ -2803,6 +2990,8 @@ Roll Cash (Cr.) Benefits
 7 50,000 1 Ship Share
 
 RANKS AND BENEFITS
+
+
 Rank Title Skill or Benefit
 0
 1 Operative
@@ -2813,11 +3002,12 @@ Rank Title Skill or Benefit
 6 Resistance Leader Advocate 1
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 1 +1 Str Deception Medic
 2 +1 Dex Persuasion Vehicle (any)
 3 +1 End Investigate Advocate
@@ -2841,7 +3031,11 @@ Specialist: Saboteur
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 MISHAPS
+
+
 
 2d6 Mishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
@@ -2865,6 +3059,8 @@ transferred to a separate branch of the network. If you fail, roll on the Injury
 12 Injured. Roll on the Injury table
 
 EVENTS
+
+
 
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
@@ -2896,6 +3092,8 @@ Language or Trade.
 roll (in any Scout career).
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
+
+
 
 34 The only solution to a particular situation you have been monitoring or have uncovered is the assassination of one of your
 Contacts. You may either attempt this yourself or call-in specialists. If you attempt the assassination yourself, roll Int + Stealth.
@@ -2955,7 +3153,11 @@ guilt.
 
 PSION CAREERS PSION CAREERS
 
+
+
 TEMPORAL AGENCY
+
+
 The Temporal Agency monitors the time streams, using psions to
 move forward and backward through time to counteract those forces
 that would use temporal manipulation as a weapon and cause either
@@ -2983,6 +3185,8 @@ Assignments: Choose one of the following:
 
 CAREER PROGRESS
 
+
+
 Survival Advancement
 Warden Int 8+ Dex 7+
 Monitor Soc 6+ Int 9+
@@ -3001,6 +3205,8 @@ Roll Cash (Cr.) Benefits
 
 RANKS AND BENEFITS
 
+
+
 Rank Title Skill or Benefit
 0
 1 Time Operative Computers 1
@@ -3011,11 +3217,12 @@ Rank Title Skill or Benefit
 6 Time Master Science (Temporal) 1
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 1 +1 Str Athletics (any) Medic
 2 +1 Dex Persuasion Temporal Paradox
 3 +1 End Investigate Advocate
@@ -3033,8 +3240,7 @@ Warden
 Specialist: Monitor Specialist: Nomad
 
 1 Survival Comm Science (Temporal)
-2 Temporal Paradox Science
-(Temporal)
+2 Temporal Paradox Science (Temporal)
 
 Diplomacy
 
@@ -3051,7 +3257,11 @@ Jack of All Trades
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
 
+
+
 MISHAPS
+
+
 2d6 Mishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
 3 Your actions cause a cataclysmic change to history changing something fundamental in your present or future. It takes a great deal
@@ -3082,6 +3292,8 @@ lose 1 Psi in putting things right.
 12 Injured whilst trapped somewhere in time. Roll on the Injury table and lose your skill and advancement rolls for this term.
 
 EVENTS
+
+
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
 12 You find a way to bring about improvements to your present through subtly manipulating the past. Roll Temporal Manipulation 9+. If you succeed,
@@ -3104,6 +3316,8 @@ a roll on any of the skill tables for this career.
 26 You are forced to account for and defend your actions in manipulating time. Gain Advocate 1 but also gain a Rival.
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
+
+
 
 31 You are invited to form an advisory council, along with other time manipulating psions. If you accept, roll 1d6 for the benefit membership brings:
 1 +2 to your next advancement roll
@@ -3164,6 +3378,8 @@ your Referee chooses, gaining a +1 DM to the Learning of that Talent.
 
 PSION CAREERS PSION CAREERS
 
+
+
 INTER-DIMENSIONAL AGENCY
 The Inter-Dimensional Agency monitors nearby parallels of existence
 and, to some extent, polices them, counteracting those who would
@@ -3172,8 +3388,7 @@ disrupt the fabric of the multiverse
 Characters who are part of the inter-dimensional agency must be
 Dimensionally Aware or qualified Dimensional Manipulators; or the
 Referee must be willing to allow dimensional travel via some other
-means (typically inter-dimensional gates, portals or multiverse-
-manipulation machines) as part of his campaign.
+means (typically inter-dimensional gates, portals or multiverse-manipulation machines) as part of his campaign.
 
 Enlistment: Dimensional Manipulation Talent 7+.
 –2 DM for every previous career.
@@ -3191,6 +3406,8 @@ Assignments: Choose one of the following:
     how or why.
 
 CAREER PROGRESS
+
+
 Survival Advancement
 Troubleshooter End 7+ Int 7+
 Dimensional Agent Psi 6+ Int 9+
@@ -3207,6 +3424,8 @@ Roll Cash (Cr.) Benefits
 7 50,000 Dimensional Ship
 
 RANKS AND BENEFITS
+
+
 Rank Title Skill or Benefit
 0 Operative Computers 1
 1
@@ -3217,11 +3436,12 @@ Rank Title Skill or Benefit
 6 Director +1 Soc
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 1 Melee (any) Athletics (any) Medic
 2 +1 Str Persuasion Life Science (any)
 3 +1 Dex Investigate Advocate
@@ -3231,8 +3451,7 @@ Manipulation
 
 Science (Dimensional)
 
-6 +1 Psi Gun Combat
-(any)
+6 +1 Psi Gun Combat (any)
 
 Dimensional
 Manipulation
@@ -3244,20 +3463,22 @@ Specialist: Agent Specialist: Wayfarer
 1 Survival Comms Science (Temporal)
 2 Investigate Computers Diplomacy
 3 Diplomacy Sensors Carouse
-4 Persuasion Science
-(Dimensional)
+4 Persuasion Science (Dimensional)
 
 Streetwise
 
 5 Stealth Advocate Stealth
-6 Gun Combat
-(any)
+6 Gun Combat (any)
 
 Jack of All Trades Jack of All Trades
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 MISHAPS
+
+
 
 2d6 Mishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
@@ -3291,6 +3512,8 @@ become detached and have difficulty connecting emotionally.
 
 EVENTS
 
+
+
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
 12 You become the custodian of an inter-dimensional gateway or the secret location of such. Gain +1 Edu or +1 Social and a +2 DM to your
@@ -3318,6 +3541,8 @@ Benefit roll.
 your colleagues.
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
+
+
 
 26 Life Event. Roll on the Life Events table.
 31 You complete a mission for your superiors and are suitably rewarded. Gain a +1 DM to any one Benefit roll from this career.
@@ -3380,7 +3605,11 @@ results. If you succeed, make a roll against any one combat skill. If you succee
 
 PSION CAREERS PSION CAREERS
 
+
+
 PSION SPACEFARER
+
+
 This career is available if psion-powered spacecraft are a part of
 the campaign. Characters following the career need to be qualified
 Machine Symbiotic psions to qualify.
@@ -3425,6 +3654,8 @@ Assignments: Choose one of the following:
 
 CAREER PROGRESS
 
+
+
 Survival Advancement
 Pilot Int 7+ Dex 7+
 Navigator Edu 7+ Int 7+
@@ -3442,11 +3673,12 @@ Roll Cash (Cr.) Benefits
 7 50,000 Ship of 1d3 x100 tons
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 1 +1 Int Discipline Tactics (naval)
 2 +1 End Pilot (any) Computers
 3 +1 Soc Comms Space Science
@@ -3470,6 +3702,8 @@ Talent
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
 
+
+
 RANKS AND BENEFITS (PILOT AND NAVIGATOR)
 Rank Title Skill or Benefit
 0 Rating Computers 1
@@ -3491,6 +3725,8 @@ Rank Max Hull Size (tons) Upgrade
 6 2,000 Advanced Talent
 
 MISHAPS
+
+
 2d6 Mishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
 3 Through either tiredness or negligence a routine maneuver results in a collision with another ship. You must forgo your
@@ -3516,6 +3752,8 @@ Advancement rolls for this term.
 12 Injured – roll once on the Injury table.
 
 EVENTS
+
+
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
 12 Your psionic abilities help extend the capabilities of your ship. Gain +4 to your next advancement roll.
@@ -3527,6 +3765,8 @@ uncharted area.
 Conduct.
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
+
+
 
 16 Your ship is assigned to a pirate hunting mission. To your surprise, one of your Contacts (or a new Contact if you have no existing
 suitable Contacts) is a member of the pirate crew. If you intercede on their behalf, roll Social + Advocate. Succeed and you may
@@ -3586,7 +3826,11 @@ Advanced Talent in the usual way. If you fail, gain the aliens or alien intellig
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
 
+
+
 MYSTICAL ORDER
+
+
 Some science fiction and science fantasy campaigns support
 orders that treat psionic powers as mystical abilities – either as the
 manifestation of power from a higher force or as an energy that
@@ -3609,6 +3853,8 @@ Assignments: Choose one of the following:
     enlightenment to where it is needed.
 
 CAREER PROGRESS
+
+
 Survival Advancement
 Adviser Psi 5+ Soc 6+
 Bodyguard Str 6+ Dex 7+
@@ -3625,6 +3871,8 @@ Roll Cash (Cr.) Benefits
 7 30,000 1 Ship Share
 
 RANKS AND BENEFITS
+
+
 Rank Title Skill or Benefit
 0 Initiate
 1 Apprentice Weapon* 1
@@ -3639,11 +3887,12 @@ or a psionic weapon, such as an energy blade. Your Referee will decide
 according to the nature of your order.
 
 SKILLS AND TRAINING
+
+
 Personal
 Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 
 (^1) +1 Str Lore (order) Gun Combat (any)
 2 +1 Dex Melee (any) Tactics
@@ -3661,13 +3910,16 @@ Specialist: Pilgrim
 3 Broker Melee (any) Lore (order)
 4 Advocate Stealth Diplomat
 5 Steward Tactics Advocate
-6 Life Science
-(any)
+6 Life Science (any)
 Comms Jack of All Trades
 
 PPSIONSION C CAREERSAREERS PSION CAREERS
 
+
+
 MISHAPS
+
+
 
 2d6 Mishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
@@ -3687,6 +3939,8 @@ either Deception, Investigate or Stealth but also gain 1 level of Psionic Trauma
 12 Injured. Roll on the Injury table.
 
 EVENTS
+
+
 
 d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
@@ -3720,6 +3974,8 @@ gaining a level of Psionic Trauma.
 Advocate, Leadership or Lore (order)
 
 PSION CAREERS PPSIONSION C CAREERSAREERS
+
+
 
 26 You are assigned to a research team studying an alien language or cipher. Gain either Edu +1, Social Sciences (linguistics) 1 or
 Social Sciences (philosophy) 1.
@@ -3774,7 +4030,11 @@ Advancement roll (in any career) thanks to his aid.
 
 PPSIONSION C CAREERSAREERS
 
+
+
 NEW SKILLS
+
+
 This chapter introduces several new skills for psionic characters,
 relating to certain professions. Most of these skills relate to temporal
 and dimensional events but they can also be studied by non-psion
@@ -3787,8 +4047,7 @@ problem solving, convincing others of your veracity and in dealings
 with others within your order or who follow it without any formal
 membership.
 
-_Using your knowledge and piety to impress others: 1-6 seconds, Average
-(+0)_
+_Using your knowledge and piety to impress others: 1-6 seconds, Average (+0)_
 
 _Using Lore to understand a particular practice or gain an insight into its
 significance, 1-6 minutes, Average (+0)_
@@ -3840,13 +4099,13 @@ worlds and planes.
 Identifying a portal, gate or inter-dimensional pathway: 1-6 hours,
 Average (+0)
 
-Studying the nature of a newly discovered parallel: 1-6 weeks, Difficult
-(–2)
+Studying the nature of a newly discovered parallel: 1-6 weeks, Difficult (–2)
 
-Building a trans-dimensional device: 1-6 months (or years), Very Difficult
-(–4)
+Building a trans-dimensional device: 1-6 months (or years), Very Difficult (–4)
 
 TEMPORAL PARADOX
+
+
 This skill provides the practitioner with the reasoning, insight and
 logic abilities to extrapolate the likely effects of a paradox resulting
 from time travel or anomalies in the space-time continuum. With
@@ -3859,10 +4118,11 @@ Average (+0)
 
 Working out the best way to resolve a paradox: 1-6 hours, Difficult (–2)
 
-Correcting the nature of the paradox: 1-6 days (or longer), Very Difficult
-(–4)
+Correcting the nature of the paradox: 1-6 days (or longer), Very Difficult (–4)
 
 PSION CAREERS
+
+
 
 ### PPSIONICSIONIC P POWERSOWERS
 
@@ -3880,6 +4140,8 @@ scales of distance and the Psionic Strength points required to use
 powers at different ranges.
 
 OPTIONS FOR TALENTS AND POWERS
+
+
 The range of talents and powers presented in this chapter is
 comprehensive enough for most science fiction campaigns,
 however new abilities will always present themselves – inspired
@@ -3941,6 +4203,8 @@ of their abilities. Striving for perfect game balance should not be an
 all-consuming concern but a question considered in the light of a new
 power's effects and consequences for the Players Characters.
 PSIONIC RANGE CHART
+
+
 Range Distance to Target Telepathy or Clairvoyance Telekinesis Teleportation
 Personal Less than 1.5 meters 0 1 1
 Close 1.5 to 3 meters 0 1 1
@@ -3955,7 +4219,11 @@ Planetary 5,000 to 50,000 kilometers 4 — 8
 
 PPSIONICSIONIC P POWERSOWERS PSIONIC POWERS
 
+
+
 BASIC TALENTS
+
+
 Basic talents are the common psionic talents and cover the
 most familiar psychic territory; telepathy, ESP, telekinesis and
 teleportation. The word 'basic' is a misnomer; the powers found
@@ -3963,6 +4231,8 @@ in these talents can be every bit as potent as those found in the
 advanced talents, tackled later.
 
 BASIC TALENT LEARNING DMS
+
+
 
 Talent Learning DM
 Telepathy +4
@@ -3978,6 +4248,8 @@ but can also be used to bluntly crush the wills of those who oppose
 the telepath.
 
 LIFE DETECTION
+
+
 The most elementary form of telepathy is the ability to detect the
 presence of other minds. Life detection enables a character to
 sense the presence of other minds, the number of minds present,
@@ -3993,6 +4265,8 @@ _Telepathy, Psionic Strength, 10-60 seconds, Easy (+4).
 Costs 1+Range_
 
 TELEMPATHY
+
+
 The communication of emotions and basic feelings is accomplished
 by telempathy. This ability serves well in the handling of animals
 and beasts of burden but may also be applied as a psychological
@@ -4011,6 +4285,8 @@ _Telepathy, Psionic Strength, 10-60 seconds, Routine (+2).
 Costs 1+Range._
 
 READ SURFACE THOUGHTS
+
+
 The most widely known feature of Telepathy is the ability to read the
 thoughts of other individuals. Only active, current thoughts are read
 by this ability, with the subject (if himself not a telepath) unaware
@@ -4023,6 +4299,8 @@ Telepathy, Psionic Strength, 10-60 seconds, Average (+0).
 Costs 2+Range.
 
 SEND THOUGHTS
+
+
 Complementary to the ability to read surface thoughts is the ability
 to send thoughts to others. Such individuals need not themselves
 be telepathic to receive such thoughts. Telepathic individuals are
@@ -4033,6 +4311,8 @@ Telepathy, Psionic Strength, 10-60 seconds, Difficult (–2).
 Costs 2+Range.
 
 PROBE
+
+
 The application of great psionic strength will enable a telepath
 to delve deep into the mind of a subject and to then read his
 innermost thoughts. Questioning can be used in the procedure to
@@ -4053,16 +4333,19 @@ perceptions.
 
 PSIONIC POWERS PPSIONICSIONIC P POWERSOWERS
 
+
+
 Telepathy, Psionic Strength, 1-6 minutes, Very Difficult (–4).
 Costs 4+Range.
 
 ASSAULT
+
+
 Violence may be dealt by a telepath. An unshielded mind, when assaulted
 telepathically, is rendered unconscious immediately and the character
 suffers 2d6 + Effect damage. Unlike normal damage, assault damage
 is applied to Psionic Strength (if the victim has it), then Intelligence,
-then Endurance. Psionic Strength and Endurance return as normal
-(see pages 152 and 74 of the Traveller Core Rulebook respectively).
+then Endurance. Psionic Strength and Endurance return as normal (see pages 152 and 74 of the Traveller Core Rulebook respectively).
 Intelligence returns at the rate of one point per day. When a shielded
 mind is assaulted the two telepaths make opposed Telepathy checks. If
 the attacker wins, the victim suffers damage as normal.
@@ -4071,6 +4354,8 @@ Telepathy, Psionic Strength, 1-6 seconds, Formidable (–6).
 Costs 8+Range.
 
 SHIELD
+
+
 All telepathically able characters learn how to create a mental shield,
 which protects the mind against unwanted telepathic interference.
 Shield is automatically in force at all times and requires no Psionic
@@ -4090,6 +4375,8 @@ a room is occupied or empty. Clairvoyant activity cannot be sensed
 by others, including by other psionic individuals.
 
 SENSE
+
+
 The basic ability to sense things at some point in the distance. A
 character will become aware of the most rudimentary characteristics
 of a location when applying this ability. For example, the Referee
@@ -4104,6 +4391,8 @@ Clairvoyance, Psionic Strength, 10-60 seconds, Routine (+2).
 Costs 1+Range.
 
 TACTICAL AWARENESS
+
+
 With this ability, the character can perceive dangers and foes around
 him using his clairvoyant abilities. This enhanced spatial perception
 
@@ -4116,6 +4405,8 @@ Clairvoyance, Psionic Strength, 1-6 seconds, Average (+0).
 Costs 2+Range
 
 CLAIRVOYANCE
+
+
 This specific ability allows actual remote viewing of a situation
 at some displaced point. Rather than the 'snapshot' that sense
 gives, clairvoyance allows the psion to observe as if he was there
@@ -4128,6 +4419,8 @@ Clairvoyance, Psionic Strength, 10-60 seconds, Average (+0).
 Costs 2+Range.
 
 CLAIRAUDIENCE
+
+
 This ability is identical to clairvoyance, with the exception that it
 allows hearing instead of seeing.
 
@@ -4135,6 +4428,8 @@ Clairvoyance, Psionic Strength, 10-60 seconds, Average (+0).
 Costs 2+Range.
 
 CLAIRSENTIENCE
+
+
 This power combines the effects of clairvoyance and clairaudience.
 The character is capable of both seeing and hearing a specific
 situation.
@@ -4151,6 +4446,8 @@ amount of sensory awareness, sufficient to allow actual intelligent
 manipulation.
 
 TELEKINESIS
+
+
 This basic form of the talent allows the character to move objects
 at range. The Effect of the check determines the duration of the
 telekinesis in rounds. The number of points spent determines the
@@ -4162,7 +4459,11 @@ Costs Strength+Range.
 
 PPSIONICSIONIC P POWERSOWERS PSIONIC POWERS
 
+
+
 FLIGHT
+
+
 By applying telekinesis to his own body the character can fly, or
 at least levitate, over short distances. The character can fly for a
 number of rounds equal to the Effect of the check at a speed of up
@@ -4172,6 +4473,8 @@ _Telekinesis, Psionic Strength, 1-6 seconds, Average (+0).
 Costs 5._
 
 TELEKINETIC PUNCH
+
+
 Telekinesis can be used as a direct attack, smashing the foe with a
 blast of telekinetic force. The damage inflicted is 2d6 + the Effect of
 the check.
@@ -4180,6 +4483,8 @@ _Telekinesis, Psionic Strength, 1-6 seconds, Average (+0).
 Costs 1+Range._
 
 MICROKINESIS
+
+
 This more challenging form of telekinesis allows for fine manipulation
 of very small or even microscopic objects. A telekinetic can use this
 power to pick locks, perform microsurgery, sabotage a computer
@@ -4189,6 +4494,8 @@ _Telekinesis, Psionic Strength, 10-60 seconds, Difficult (–2).
 Costs 3._
 
 PYROKINESIS
+
+
 By exciting the substance of an object the character can raise its
 temperature, possibly even causing it to burst into flames. Roll 1d6
 and add the Effect of the check.
@@ -4206,9 +4513,10 @@ body. Awareness powers never have a range – they are used only
 on yourself.
 
 SUSPENDED ANIMATION
+
+
 Personal body activity may be suspended for varying periods of time.
-A character with Awareness may enter a suspended animation state
-(similar to cold sleep but without the intrinsic danger of death) by
+A character with Awareness may enter a suspended animation state (similar to cold sleep but without the intrinsic danger of death) by
 willing himself into it. Such a state continues for 7 days without need
 for food or water and with minimal air needs. Such a person could
 effectively travel in a low passage berth without actually undergoing
@@ -4220,6 +4528,8 @@ Awareness, Psionic Strength, 1-6 minutes, Average (+0).
 Costs 3.
 
 ENHANCED AWARENESS
+
+
 By focussing his mind, the character can improve his concentration
 and ability to perform complex tasks. While under the effects of
 enhanced awareness, the character may add his Psionic Strength
@@ -4230,6 +4540,8 @@ Awareness, Psionic Strength, 1-6 seconds, Average (+0).
 Costs 1.
 
 PSIONICALLY ENHANCED STRENGTH
+
+
 Psionic Strength points may be converted to normal Strength
 points on a temporary basis. The character makes the commitment,
 reduces his Psionic Strength by a specific number of points and
@@ -4248,6 +4560,8 @@ Awareness, Psionic Strength, 1-6 seconds, Average (+0).
 Costs boosted Strength.
 
 PSIONICALLY ENHANCED ENDURANCE
+
+
 Psionically enhanced endurance works in exactly the same way as
 psionically enhanced strength except the characteristic boosted
 is Endurance rather than Strength, including its lack of healing
@@ -4272,10 +4586,14 @@ or enhancing other characters.
 
 PSIONIC POWERS PPSIONICSIONIC P POWERSOWERS
 
+
+
 Awareness, Psionic Strength, 10-60 seconds, Very Difficult (–4).
 Costs amount healed.
 
 BODY ARMOR
+
+
 By channelling psionic strength to his skeletal structure and
 boosting his healing rate, the character can enhance his ability to
 absorb damage. Body armor lasts for a number of rounds equal to
@@ -4331,6 +4649,8 @@ such materials, commission their invention or seek them out from
 those who already have them.
 
 ADVANCED TALENTS
+
+
 Advanced talents go beyond the powers available under the basic
 talents found in this chapter and the Traveller Core Rulebook. Some
 are very powerful, specific effects that will not suit all campaign types
@@ -4360,9 +4680,15 @@ Teleporting with up to 500 kg of equipment is Very Difficult (–4 DM)
 and costs 4 + range Psionic Strength points.
 
 PPSIONICSIONIC P POWERSOWERS
+
+
 PSIONIC POWERS
 
+
+
 MANIPULATE AURA
+
+
 With this power the psion can manipulate his aura's appearance.
 On a successful Aura Perception roll he can convey perfect health,
 appear to be more powerful than he is actually is or manipulate any
@@ -4375,6 +4701,8 @@ Aura Perception, Psionic Strength, 1d6+Psi DM minutes, Difficult (–2).
 Costs 3.
 
 PROJECT AURA
+
+
 Through this power the psion can project his aura to a distance and
 even overlay his aura onto another organism. The distance of the
 projection is a base of 10 meters + the psion's Psi DM; however,
@@ -4402,6 +4730,8 @@ barriers between dimensions are particularly weak or reduce it if
 they are especially strong.
 
 DIMENSIONAL PORTALS
+
+
 Travel between dimensions is possible only if a Dimensional
 Portal is available. This may be a rift in time/space or an artificially
 generated break in the dimensional barriers. Every portal is
@@ -4411,11 +4741,15 @@ applied as a negative DM to the psion's Dimensional Manipulation
 powers, as noted below.
 
 LOCATE PORTAL
+
+
 The psion can scan his local area (a radius of 10 x Psi DM in meters)
 to see if a portal exists. If successful, the psion can gain an idea of
 the portal's Barrier Strength depending on the Effect of his roll:
 
 ADVANCED PSIONIC TALENTS
+
+
 
 Talent Learning DM
 Aura Perception +1
@@ -4433,8 +4767,7 @@ Per previous talent acquisition check –1
 
 Aura Perception
 All living organic creatures create an aura; a personal signature that
-is as unique as DNA and which can be perceived and read by aura-
-sensitive psions. To a trained psion, an aura indicates the following:
+is as unique as DNA and which can be perceived and read by aura-sensitive psions. To a trained psion, an aura indicates the following:
 
 - State of physical health
 - State of mental health
@@ -4448,6 +4781,8 @@ understanding of what the aura reveals about its owner is then
 dependent on the Read Aura power.
 
 READ AURA
+
+
 The psion can drill-deep into the scintillating energy of an aura to
 identify specifics about its owner. On a successful Aura Perception
 roll he can determine if the organism is injured, either physically
@@ -4462,6 +4797,8 @@ _Aura Perception, Psionic Strength, 10-60 seconds, Easy (+4).
 Costs 1._
 
 MASK AURA
+
+
 The psion can successfully mask his aura from other, aura-perceptive
 psions. When masked, the psion produces no perceptible aura,
 effectively becoming psychically invisible. Masking lasts for 1d6
@@ -4471,7 +4808,11 @@ _Aura Perception, Psionic Strength, 1d6+Psi DM minutes, Average (+0).
 Costs 2._
 
 PSIONIC POWERS
+
+
 PPSIONICSIONIC P POWERSOWERS
+
+
 
 Effect Result
 0 Is aware of the existence of a portal but cannot gauge
@@ -4480,11 +4821,12 @@ Barrier Strength
 very weak)
 3-4+ Can gauge specific Barrier Strength
 
-Dimensional Manipulation, Psionic Strength, 10-60 Seconds, Average
-(+0).
+Dimensional Manipulation, Psionic Strength, 10-60 Seconds, Average (+0).
 Costs 1.
 
 DIMENSIONAL COMMUNICATION
+
+
 The psion can communicate with others using a located portal
 without having to move into the dimension itself. The Barrier
 Strength of the portal is applied as a negative DM to the skill roll.
@@ -4508,6 +4850,8 @@ depends on Portal Barrier Strength.
 Costs 3.
 
 CREATE PORTAL
+
+
 Through this power the psion creates a portal between his own
 and another dimension. This is always a Very Difficult task (–4)
 and the created portal has a Barrier Strength equal to the number
@@ -4517,11 +4861,12 @@ portal lasts for a number of hours equal to the psion's Psi DM x
 1d6 – after which the portal must be re-established. The psion who
 created the portal always treats it as Barrier Strength 0.
 
-Dimensional Manipulation, Psionic Strength, 1-6 Minutes, Very Difficult
-(–4)
+Dimensional Manipulation, Psionic Strength, 1-6 Minutes, Very Difficult (–4)
 Costs 4 + Additional points for Barrier Strength.
 
 MANIPULATE PORTAL
+
+
 The psion can manipulate a dimensional portal, either reducing its
 Barrier Strength, extending its existence or closing it altogether. The
 Barrier Strength is applied as a negative DM to the skill roll and the
@@ -4551,7 +4896,11 @@ reflecting its extended capabilities.
 
 PSIONIC POWERS PSIONIC POWERS
 
+
+
 ELECTROKINESIS
+
+
 Electrokinesis is the manipulation of electrical energy and currents.
 Using it, psions can divert power from one source to another (a
 battery for instance or another, unpowered set of circuits), create
@@ -4566,8 +4915,7 @@ to influence, electrically. For the basic Psi cost the psion can:
 - Overload the device with energy, causing it to fuse or short-
     circuit.
 
-By introducing more Psi points, the psion converts his own, brain-
-generated electrical energy into a usable energy source for the
+By introducing more Psi points, the psion converts his own, brain-generated electrical energy into a usable energy source for the
 device. In this way, a device that is lacking a power source can be
 activated, with the amount of Psi points being commensurate with
 the size of the device to be activated:
@@ -4615,6 +4963,8 @@ Energy Kinesis, Psionic Strength, 10-60 seconds, Average (+0).
 Costs 2.
 
 LUMINOKINESIS
+
+
 Luminokinesis is the mental manipulation of light waves – both
 visible and invisible. With a successful use of the power, the psion
 can:
@@ -4649,6 +4999,8 @@ Energy Kinesis, Psionic Strength, 10-60 seconds, Difficult (–2).
 Costs 2+Variable, depending on effect.
 
 THERMOKINESIS
+
+
 By influencing the substance of an object the character can raise or
 lower its temperature, which may cause it to burst into flames or
 even freeze. Roll 1d6 and add the Effect of the check.
@@ -4678,13 +5030,14 @@ is integral to the campaign.
 
 PSIONIC POWERS PPSIONICSIONIC P POWERSOWERS
 
+
+
 Once hypothermia takes hold, the only cure is to gradually warm the
 body again, through a steady and gentle application of heat through
 blankets, warm drinks and shelter. Hypothermia occurs in stages:
 
 Stage 1
-Body Temperature drops by 1-2°C below normal temperature (35-
-36°C). Mild to strong shivering occurs. The victim is unable to
+Body Temperature drops by 1-2°C below normal temperature (35-36°C). Mild to strong shivering occurs. The victim is unable to
 perform complex tasks with the hands as they become numb.
 Breathing becomes quick and shallow. Goose bumps form, raising
 body hair on end in an attempt to create an insulating layer of air
@@ -4750,6 +5103,8 @@ substituting their Psi DM; the specifics of the talent are discussed
 in the description of each power.
 
 INTERROGATE
+
+
 The psion can 'communicate' psychically with a machine,
 determining its physical state of repair, properties, age, programming
 and so forth. The psion effectively reads the psychometric aura that
@@ -4782,12 +5137,16 @@ with modifiers for anti-interrogation, if present).
 Costs: 2.
 
 CONTROL
+
+
 The psion is able to control a machine's functions, overriding
 fixed settings, program routines and so forth. Machines can be
 switched on or off and their functions changed, as long as the device
 is capable of performing the instruction the psion gives to it. The
 
 PPSIONICSIONIC P POWERSOWERS PSIONIC POWERS
+
+
 
 Effect of the Machine Symbiosis roll indicates the degree of success
 of the attempt to control the machine; lower Effects reflect a partial
@@ -4818,6 +5177,8 @@ Personal Enhancement, Psionic Strength, 1-6 seconds, Average (+0).
 Costs: 2 points per 1 level of Athletics skill.
 
 ENHANCED ART
+
+
 Through entering a trance-like state, for every 2 Psi points invested,
 the character's Art skill is temporarily increased by 1 level, with
 the duration of the power lasting for the physical activity being
@@ -4833,6 +5194,8 @@ activity, Average (+0).
 Costs: 2 points per 1 level of Art skill.
 
 ENHANCED CHARISMA
+
+
 The psion uses his psychic powers to enhance his personal charisma
 when dealing with others, no matter what the circumstances. For
 every 2 Psi points invested, the character temporarily increases
@@ -4853,6 +5216,8 @@ astral projection or astral travelling but the talent also governs the
 powers of projecting emotions and the entire personality.
 
 OUT OF BODY EXPERIENCE
+
+
 The psion's psyche leaves the body and is able to travel for a
 distance determined by the Psionic Range table on page 55 (using
 the Telepathy column). The speed of travel is as fast or as slow as
@@ -4867,10 +5232,14 @@ certain physical capabilities, in much the same way that Psionic
 Strength points are used to augment Strength and Dexterity.
 
 ENHANCED ACROBATICS
+
+
 For every 2 Psi points invested, the character's Athletics skill is
 temporarily increased by 1 level, with the duration of the power
 
 PSIONIC POWERS PPSIONICSIONIC P POWERSOWERS
+
+
 
 surroundings and is invisible to mundane sight – although his aura
 travels with him and may thus be seen by aura-aware psions.
@@ -4886,6 +5255,8 @@ DM, Average (+0).
 Costs: 2 points plus range.
 
 PROJECT PERSONALITY
+
+
 The psion creates a psychic representation of his personality
 and appearance that visibly appears before others. The power is
 ranged, so the psion can project his personality over great but not
@@ -4903,11 +5274,12 @@ Projection, Psionic Strength, 10-60 seconds, Difficult (–2).
 Costs: 4 plus range (+1 point for added verbal projection).
 
 PROJECT EMOTION
+
+
 The psion is able to project his emotions into the psyche of another.
 The target only experiences the same emotional state as that being
 experienced by the psion and, unless the target is a willing recipient
-of the projection, he resists the projection attempt with his Int DM
-(if positive). The Effect of the psion's Project Emotion determines
+of the projection, he resists the projection attempt with his Int DM (if positive). The Effect of the psion's Project Emotion determines
 the intensity of the emotional experience felt by the target; an Effect
 of 0 or 1 indicates that the target feels the emotions at the same
 intensity as the psion; a higher Effect indicates a more intense
@@ -4923,6 +5295,8 @@ Projection, Psionic Strength, 10-60 minutes, Difficult (–2).
 Costs: 3 plus range.
 
 GLAMOUR
+
+
 This power allows the psion to project a subtle distraction within a
 radius in meters equal to the number of Psi points invested in the
 power. Those within the radius cease to pay the psion any attention,
@@ -4949,6 +5323,8 @@ psion can inflict large amounts of damage without even having to
 touch his intended victim.
 
 PAIN
+
+
 The psion overloads the pain receptors of his intended victim with
 psychic energy, causing either great or subtle pain to flood the
 target's body. The pain attack causes no lasting physical damage
@@ -4971,6 +5347,8 @@ Psionic Attack, Psionic Strength, Variable, Difficult (–2)
 Costs: Variable, plus range.
 
 PARALYSIS
+
+
 Paralysis inflicts no pain but it renders the target immobile for a
 period dependent on the Effect of the attack. The Psi cost is variable,
 with specific parts of the body costing differing amounts:
@@ -4983,6 +5361,8 @@ Torso 3 points
 Head 3 points
 
 PPSIONICSIONIC P POWERSOWERS PSIONIC POWERS
+
+
 
 Thus, to completely paralyse a person, ensuring no mobility of
 any kind, it would require 15 Psi points. A paralysed location is
@@ -5005,6 +5385,8 @@ _Psionic Attack, Psionic Strength, Variable, Difficult (–2).
 Costs: Variable, plus range._
 
 MIND BLAST
+
+
 A more powerful version of the Telekinetic Punch power, Mind Blast
 delivers an extremely powerful shockwave of psionic energy either
 at a specific target or to a number of targets within a specific radius.
@@ -5024,6 +5406,8 @@ _Psionic Attack, Psionic Strength, Variable, Difficult (–2).
 Costs: Variable, plus range._
 
 MIND SHOCK
+
+
 Mind Shock is used against other psions and is designed to deliver
 Psionic Trauma rather than immediate damage. If the attack is
 successful, the target psion sustains 1 level of Psionic Trauma, plus
@@ -5035,6 +5419,8 @@ _Psionic Attack, Psionic Strength, Variable, Average (+0).
 Costs: 3, plus range._
 
 UNLOCK
+
+
 The Unlock power uses the subconscious of the target as the weapon.
 The psion unlocks those parts of the brain where nightmares,
 fears and dark secrets are stored, filling the target's psyche with
@@ -5067,10 +5453,14 @@ that all combat psions study defence – or that all defensive psionics
 are necessarily peaceful.
 
 MIND BLANK
+
+
 The psion turns his mind into a blank void that cannot be detected
 by other psions, even those who are aura-aware. The power renders
 
 PSIONIC POWERS PPSIONICSIONIC P POWERSOWERS
+
+
 
 the psion immune to any psionic attacks for the duration of the
 Mind Blank but neither can he exercise his own psionic powers.
@@ -5081,6 +5471,8 @@ Psionic Defence, Psionic Strength, Int in minutes, Average (+0).
 Costs: 1.
 
 MIND MIRROR
+
+
 This powerful ability turns the psion's mind into a mirror, reflecting
 any psionic attack back at the attacker. It is, however, dangerous
 as the defending psion does not know how many Psi points will be
@@ -5103,6 +5495,8 @@ Psionic Defence, Psionic Strength, 1-6 seconds, Difficult (–2).
 Costs: 1+Psi Points of attacking power.
 
 PSYCHIC ARMOR
+
+
 Psychic Armor places a psionic barrier in front of the psion's mind,
 absorbing damage from psionic attacks in the same way physical
 armor protects against physical damage. The amount of damage
@@ -5112,6 +5506,8 @@ Psionic Defence, Psionic Strength, 1-6 seconds, Average (+0).
 Costs: 1, per point of damage defended.
 
 PSYCHIC ABSORPTION
+
+
 This power works in exactly the same way as Psychic Armor but
 the defending psion absorbs the Psi points charging the attack
 and places them at his own disposal. Any excess Psi points act as
@@ -5146,6 +5542,8 @@ the necessary functions but risks both psionic power overload and
 Psionic Trauma in doing so.
 
 FOLD SPACE
+
+
 Starships are simply too large to be teleported. However, space/
 time can be manipulated to facilitate ship movement between two
 points. Space is literally folded; a portal opened between the fold
@@ -5184,10 +5582,14 @@ Jump 4 drive also being spun-up to achieve Jump 8. Instead, either
 
 PPSIONICSIONIC P POWERSOWERS PSIONIC POWERS
 
+
+
 the fold or conventional jump must first be completed before the
 second way of travelling is used.
 
 FOLD SPACE DMS
+
+
 Integrated psions are still subject to certain DMs when attempting
 to fold space. Preparing for and initiating the fold, takes 10-60
 minutes; DMs are applied for emergency or unprepared folds, along
@@ -5202,6 +5604,8 @@ Ship is returning fire –1
 Psion has already folded space within the previous 24 hours –1
 
 MISJUMPS THROUGH FOLDED SPACE
+
+
 If a psion fails his Ship Integration roll and applied DMs take the
 result to 0 then a misjump occurs, exactly as if a misjump has
 occurred as described on page 141 of the _Traveller Core Rulebook_. If
@@ -5213,6 +5617,8 @@ _Ship Integration, Psionic Strength, 10-60 minutes, Average (+0).
 Costs: 2 per Jump 1 equivalent._
 
 DRIVE AUGMENTATION
+
+
 This power enables a psion to augment the capabilities of a
 conventional J or M drive. He does not fold space but provides
 psionic power to increase the ship's speed whilst the conventional
@@ -5230,6 +5636,8 @@ _Ship Integration, Psionic Strength, 10-60 minutes, Average (+0).
 Costs: 2 per Jump or Thrust 1 equivalent._
 
 FAR SEEING
+
+
 This power assists with Astrogation checks prior to a jump being made
 or space folded. The psion projects his mind through the astrogation
 sensors, either plotting a course or assisting an existing Astrogator.
@@ -5242,11 +5650,12 @@ Ship Integration, Psionic Strength, 10-60 minutes, Average (+0).
 Costs: 1 per Jump 1 equivalent.
 
 SHIP OPERATION ENHANCEMENT
+
+
 Being integrated with a ship's control systems, a psion can enhance
 engineering, maintenance and combat activities. An integrated psion
 can therefore add his Psionic Strength DM to any of the following
-skills at no Psi point cost: Engineer (all), Gunner (all), Mechanic, Pilot
-(all), Remote Operations and Sensors. This zero-point enhancement
+skills at no Psi point cost: Engineer (all), Gunner (all), Mechanic, Pilot (all), Remote Operations and Sensors. This zero-point enhancement
 still requires a successful Ship Integration roll.
 
 However, if the integrated psion wishes or it is needed, he may spend
@@ -5274,6 +5683,8 @@ Tapping is therefore a powerful and feared talent, its practitioners
 often pariahs in both the psion and mundane communities.
 
 TAP SELF
+
+
 The psion taps one of his characteristics, transforming the electrical
 energy into usable Psi points. Every characteristic point tapped
 generates 1 Psi point. All characteristics, with the exceptions of
@@ -5293,21 +5704,26 @@ as per the damage rules found in the Traveller Core Rulebook.
 
 PSIONIC POWERS PPSIONICSIONIC P POWERSOWERS
 
+
+
 Tapping, Psionic Strength, 1-6 seconds, Average (+0).
 Costs: 1 Characteristic point.
 
 TAP OTHER
+
+
 This power works in exactly the same way as Tap Self. However,
 the tapping psion suffers a DM equal to the characteristic DM of
 the characteristic he is attempting to leach. The psion must also be
-in physical contact with the target and cannot tap more than half
-(round down) of the targeted characteristic in a single attempt.
+in physical contact with the target and cannot tap more than half (round down) of the targeted characteristic in a single attempt.
 
 Tapping, Psionic Strength, 1-6 seconds minus Target Characteristic
 DM.
 Costs: 1 Characteristic point from target.
 
 TAP EMOTION
+
+
 Instead of tapping physical characteristics, the psion instead uses
 emotional energy, transferring it into himself and converting it to
 Psionic Strength. The psion must target another individual and
@@ -5330,6 +5746,8 @@ Tapping, Psionic Strength, 10-60 seconds, Difficult (–2).
 Costs: 1 Emotional Strength from Target.
 
 MIND SWITCH
+
+
 This power allows the psion to swap minds with another. Physical
 contact must be maintained as the switch occurs.
 
@@ -5378,12 +5796,16 @@ permit time machines to exist alongside such psions.
 
 PPSIONICSIONIC P POWERSOWERS PSIONIC POWERS
 
+
+
 The powers in this talent therefore need to be considered carefully. A great
 deal of enjoyment can be had with time travel, however this will impose
 a certain burden on the Referee in adjudicating just how profound the
 effects are and how powerful the psion characters can become.
 
 TIME SHIFT
+
+
 This is the power of time travel – the ability to move forwards or
 backwards through time.
 
@@ -5418,6 +5840,8 @@ If the character wants to travel to a precise point in time, then he may
 attempt to do so but increases the difficulty to Formidable (–6).
 
 MOVING ADDITIONAL PEOPLE AND CARGO
+
+
 A psion can time shift with no difficulty when wearing clothing and
 carrying personal items that can be easily carried on the back, in the
 hands, in pockets and so forth. Large and bulky items increase the
@@ -5437,6 +5861,8 @@ Temporal Manipulation, Psionic Strength, Very Difficult (–4).
 Cost: dependent on degree of time travel.
 
 THE PHYSICS OF TIME SHIFTING
+
+
 If one applies hard and fast physics to Time Shifting – i.e. moving
 in time but not in space – then every Time Shift would end in
 tragedy. Any body in motion – planets, starships, vehicles – do
@@ -5455,6 +5881,8 @@ in both space and time, so that he remains synchronised with
 his surroundings.
 
 TIME FREEZE
+
+
 Using this power the psion freezes time, yet is unfrozen himself.
 Time can only be frozen for short periods; 1d6 seconds per Psi
 point invested in the power. For each additional Psi point invested
@@ -5466,6 +5894,8 @@ the environment based on common sense principles. For instance,
 moving a tank that is frozen in time requires driving it and, as its
 
 PSIONIC POWERS PSIONIC POWERS
+
+
 
 mechanisms will be frozen in time, it cannot be moved unless the
 psion extends the range of the unfrozen bubble to include it (which
@@ -5481,6 +5911,8 @@ Cost: 1 point per 1d6 seconds of frozen time plus 1 point per meter radius
 extended.
 
 PARADOX ADJUSTMENT
+
+
 Changing time can result in all manner of paradoxes: accidentally
 killing a wasp in the past my irrevocably alter the course of the
 future, for instance. This power allows the psion to rectify a known
@@ -5501,6 +5933,8 @@ Temporal Manipulation, Psionic Strength, Very Difficult (–4).
 Cost: Variable, depending on the strength of the paradox.
 
 HANDLING TEMPORAL PARADOX
+
+
 Any campaign involving time travel must address the nature of paradox: the ability to influence the past with the possibility that the
 future is changed, leading to anomalies that would negate (completely or partially) the actions and existence of those who created the
 change – meaning that the change, in the first place, might become impossible.
@@ -5518,6 +5952,8 @@ altogether (literally disappearing) because he should not exist at all. This is 
 the overall realism of time travel in the first place).
 
 PSIONIC POWERS
+
+
 
 The Bradbury Effect
 Here, any change, no matter how tiny, reverberates through the timestreams like ripples of water on a still lake. Stepping on an insect in
@@ -5574,6 +6010,8 @@ occurring but limits characters' options to that of merely reporting them.
 
 PSIONIC POWERS
 
+
+
 ### PPSIONICSIONIC T TRAUMARAUMA
 
 Psions wield huge power, yet the ability to access the hidden
@@ -5614,6 +6052,8 @@ may go unnoticed for years by others but continually wounds the
 sufferer.
 
 THE CONDITIONS IN GAME TERMS
+
+
 Traveller psions may go through the process of mental collapse in
 the following order:
 
@@ -5662,6 +6102,8 @@ when:
 - Sudden or prolonged exposure to a stressful environment.
 
 LOSING INT
+
+
 If Int is reduced to half its current level as a result of damage inflicted
 by a psionic attack or through other means, one level of Psionic
 Trauma is accrued. Psionic Trauma is not removed when Int regains
@@ -5669,6 +6111,8 @@ its former level; it can only be treated through medical means. If Int
 is reduced to zero, two levels of Psionic Trauma are gained.
 
 POWERS ARE USED IN RAPID SUCCESSION
+
+
 A character can use a single power or combination of powers, a
 number of times per day (or 24 hour period) equal to half his Int
 characteristic (rounded up). If this number is exceeded, he gains
@@ -5676,11 +6120,17 @@ a level of Psionic Trauma. If he uses his powers a number of times
 equal to his Int, two levels are gained and so forth.
 
 PSIONIC STRENGTH POINTS ARE EXCEEDED
+
+
 Psions may use all their Psionic Strength points and draw upon the
 Int and End characteristics to provide 'reserve' points on a like-for-
 
 PPSIONICSIONIC T TRAUMARAUMA
+
+
 PSIONIC TRAUMA
+
+
 
 like basis. Reducing Int obviously incurs Psionic Trauma; reducing
 Endurance does likewise and on the same basis: if Endurance is
@@ -5699,6 +6149,8 @@ a particular experience is so profound, stressful or shocking that a
 level is accrued immediately.
 
 EFFECTS OF PSIONIC TRAUMA
+
+
 Each level of Psionic Trauma has the following game effects:
 
 - Imposes a –1 DM to _all_ Psionic Talents
@@ -5714,6 +6166,8 @@ before Mental Instability becomes a real risk. The Psionic Trauma
 table outlines how this works.
 
 PSIONIC TRAUMA LEVELS
+
+
 
 Levels of Psionic Trauma
 
@@ -5748,6 +6202,8 @@ Psionic Trauma cannot be alleviated without treatment. The options
 are as follows:
 
 PSYCHIATRIC CARE
+
+
 One month of dedicated psychiatric care and convalescence is
 required per level of Psionic Trauma. At the end of the period, the
 psion rolls Int 8+ with DMs for Medic and Life Sciences (Psychology)
@@ -5766,6 +6222,8 @@ possible. He must therefore roll 5+ on 2d6. He succeeds, rolling 8 and,
 after three months convalescence, emerges mentally fit and well.
 
 DRUGS
+
+
 In the absence of residential convalescence, certain drugs are
 available that either block or cure Psionic Trauma; these are
 described in the Psionic Equipment chapter, beginning on page 83.
@@ -5774,6 +6232,8 @@ Trauma and drugs can be combined with psychiatric care to improve
 the chances of recovery.
 
 SUBSTANCE ABUSE
+
+
 Narcotics that dull the senses can suppress the effects of Psionic
 Trauma but do not remove it. In the long-term they may increase
 the chances of Psionic Trauma returning and, of course, the psion
@@ -5793,9 +6253,15 @@ The Referee should decide in which of the ways a substance will
 work. Some guidance is given Drug Effects table.
 
 PSIONIC TRAUMA
+
+
 PPSIONICSIONIC T TRAUMARAUMA
 
+
+
 DRUG EFFECTS
+
+
 Substance Effect on DMs to talents and Psi Points Effect on Mental Instability checks
 Alcohol, Mild psychoactive drugs Psionic Trauma is considered to be one level
 lower
@@ -5844,6 +6310,8 @@ number, resulting from Psionic Trauma, is equalled or exceeded on
 may be chosen by the Referee or rolled for randomly. These are
 quantified in the Behavioural Effects table.
 BEHAVIOURAL EFFECTS
+
+
 2d6 Instability Behavioural Effects Game Effects
 2 Phobia (roll on or
 consult, Phobia
@@ -5888,6 +6356,8 @@ satisfied, then the character may behave normally.
 
 PPSIONICSIONIC T TRAUMARAUMA PSIONIC TRAUMA
 
+
+
 4 Paranoia Paranoia typically includes
 persecutory beliefs concerning
 perceived threats, conspiracy
@@ -5902,8 +6372,7 @@ something that might trigger a paranoia attack or a stressful situation. The
 Effect of the failed roll is the DM applied to all skills that may need to be
 used whilst the paranoia is prevalent. Once it or the character, is removed,
 then the paranoia subsides. The Effect also indicates the level of behaviour
-the character exhibits when faced with a potential source of paranoia
-(mistrust, anger, panic attacks, flight response and so forth).
+the character exhibits when faced with a potential source of paranoia (mistrust, anger, panic attacks, flight response and so forth).
 5 Bipolar Disorder Extreme mood swings, veering
 between high elation, 'normal'
 behaviour and deep depression. A
@@ -5965,6 +6434,8 @@ will go in pursuing their delusions and the extremes of behaviour that
 accompany them.
 
 PSIONIC TRAUMA PPSIONICSIONIC T TRAUMARAUMA
+
+
 
 8 Hallucinations The character experiences audio
 and visual hallucinations, usually
@@ -6029,8 +6500,7 @@ Psychosis
 disconnection from reality.
 Sufferers experiencing psychotic
 episodes may experience
-hallucinations or delusional beliefs
-(see those entries in this table)
+hallucinations or delusional beliefs (see those entries in this table)
 and may exhibit complete changes
 in personality. This may be
 accompanied by unusual or bizarre
@@ -6050,7 +6520,11 @@ additional effects they suffer:
 
 PPSIONICSIONIC T TRAUMARAUMA PSIONIC TRAUMA
 
+
+
 TREATING MENTAL INSTABILITY
+
+
 Mental instability typically requires long-term treatment,
 convalescence and drugs. Many sufferers go through life without
 requiring treatment, depending on the condition's intensity but
@@ -6098,6 +6572,8 @@ provide some interesting opportunities for roleplaying (and insane
 Non-Player Characters always do).
 
 PHOBIAS
+
+
 The following is a comprehensive list of phobias for use with
 the Phobia Mental Disorder. If a character or psion gains
 a phobia, choose one from this list that closely matches the
@@ -6105,6 +6581,8 @@ circumstances that may have triggered or contributed to, the
 contraction of the phobia.
 
 PSIONIC TRAUMA PSIONIC TRAUMA
+
+
 
 Ablutophobia- Fear of washing or bathing.
 Acarophobia- Fear of itching.
@@ -6210,6 +6688,8 @@ Cymophobia - Fear of waves or wave like motions.
 
 PSIONIC TRAUMA PSIONIC TRAUMA
 
+
+
 Cynophobia- Fear of dogs or rabies.
 Cypridophobia - Fear of prostitutes or venereal disease.
 Decidophobia- Fear of making decisions.
@@ -6221,8 +6701,7 @@ Demophobia- Fear of crowds. (Agoraphobia)
 Dendrophobia- Fear of trees.
 Dentophobia- Fear of dentists.
 Dermatophobia- Fear of skin lesions.
-Dermatosiophobia or Dermatophobia or Dermatopathophobia-
-Fear of skin disease.
+Dermatosiophobia or Dermatophobia or Dermatopathophobia-Fear of skin disease.
 Dextrophobia- Fear of objects at the right side of the body.
 Diabetophobia- Fear of diabetes.
 Didaskaleinophobia- Fear of going to school.
@@ -6310,6 +6789,8 @@ Hypnophobia- Fear of sleep or of being hypnotized.
 Hypsiphobia- Fear of height.
 
 PSIONIC TRAUMA PSIONIC TRAUMA
+
+
 
 Iatrophobia- Fear of doctors.
 Ichthyophobia- Fear of fish.
@@ -6414,6 +6895,8 @@ Philophobia- Fear of falling in love or being in love.
 Phobophobia- Fear of phobias.
 
 PSIONIC TRAUMA
+
+
 
 Photoaugliaphobia- Fear of glaring lights.
 Photophobia- Fear of light.
@@ -6528,6 +7011,8 @@ Symbolophobia- Fear of symbolism.
 
 PSIONIC TRAUMA
 
+
+
 Any society that gains an understanding of psionics will, inevitably,
 find ways of producing equipment that either utilizes psionic energy,
 manipulates it or enhances it.
@@ -6607,6 +7092,8 @@ other version of Engineer but applies specifically to psi device
 functions.
 
 DRUGS
+
+
 Psi-Drugs
 These drugs restore Psionic Strength if taken when the character
 has already spent Psionic Strength points or temporarily increase
@@ -6627,20 +7114,22 @@ Double 9 6 4 4,000
 Special 10 9 6 10,000
 Extra Special 12 12 10 100,000
 
-A character who takes more than one dose of Standard or Double Psi-
-Drug or a single dose of the Special drug must make an Endurance
+A character who takes more than one dose of Standard or Double Psi-Drug or a single dose of the Special drug must make an Endurance
 check, with a –1 DM per dose of psi-drug taken in the last week (not
 
 PPSIONICSIONIC E EQUIPMENTQUIPMENT PSIONIC EQUIPMENT
 
+
+
 ENHANCERS
+
+
 Enhancers are technical devices, psionically calibrated, to enhance either
 the overall performance of a psion's capabilities or a specific talent.
 
 Psi Enhancer
 Available either as a skull implant (in which the enhancer circuits are
-etched directly into the skull) or as an external, battery-powered headset-
-like array, the Psi Enhancer improves the Psionic Strength DM – but
+etched directly into the skull) or as an external, battery-powered headset-like array, the Psi Enhancer improves the Psionic Strength DM – but
 not the Psi Points – by +1 for every level of complexity. Psi Enhancers
 are necessarily expensive; especially for the implant option.
 
@@ -6689,6 +7178,8 @@ is empty.
 PPB Cost: Cr. 30,000.
 
 NEUTRALISERS
+
+
 Neutralisers work to defend and protect against psionic interference
 and can be used by non-psions.
 
@@ -6727,6 +7218,8 @@ standard power source, taking 1 minute per point to recharge.
 Disruption Unit Cost: Cr. 20,000.
 
 WEAPONS
+
+
 Psionic Energy Sword
 Available at TL 14+ and a favored weapon of some mystical orders.
 The haft of this weapon is a tube of about 30cm in length and
@@ -6744,6 +7237,8 @@ operation. The skill required to use the weapon is Melee (blade).
 Psionic Energy Sword Cost: Cr. 100,000 (limited availability).
 
 PSIONIC EQUIPMENT PSIONIC EQUIPMENT
+
+
 
 Psi Gun
 Available at TL 14+. This weapon resembles a somewhat bulbous
@@ -6790,19 +7285,21 @@ Trauma Grenade Cost: Cr. 3,000.
 
 PPSIONICSIONIC E EQUIPMENTQUIPMENT PSIONIC EQUIPMENT
 
+
+
 PSIONIC WEAPONS
+
+
 
 Weapon TL Range Damage Heft Mass (kg) Cost (Cr.)
 Energy Sword 14 Melee (large blade) 4d6+Effect 1 0.5 100,000
 
 Weapon TL Range Damage Auto Recoil Mass (kg) Magazine Cost (Cr.) Power Cell (Cr.)
-Psi Gun 14 Ranged
-(pistol)
+Psi Gun 14 Ranged (pistol)
 
 1d6+2 per Psi point No — 3.5 — 200,000 1,500
 
-Psi Rifle 14 Ranged
-(rifle)
+Psi Rifle 14 Ranged (rifle)
 
 2d6+3 per Psi point No — 9 — 400,000 2,000
 
@@ -6818,6 +7315,8 @@ Trauma
 0.5 3+1d6 meters 3,000
 
 VEHICLES
+
+
 Any vehicle can be equipped with a Psi interface to enhance its
 capabilities – and starships receive their own chapter in this book.
 The vehicles here are those that fall outside of the conventional,
@@ -6830,8 +7329,7 @@ enhance the Fly power of the Telekinesis talent. The throne can have
 many configurations; from an ornate chair, through to an enclosed
 bubble but is usually a personal transportation device. Psionically
 calibrated sensors built into the throne amplify Psionic Strength,
-allowing the user to fly at 6 meters per round for a number of hours
-(rather than rounds) per Psi point drawn from the user. The psion
+allowing the user to fly at 6 meters per round for a number of hours (rather than rounds) per Psi point drawn from the user. The psion
 needs to be trained in Telekinesis but does not need to make a
 Telekinesis roll to activate and use the throne; all that is necessary
 is a constant flow of 1 Psi point per hour.
@@ -6880,12 +7378,11 @@ lock-on and return. The return transfer attempt works in the same
 way as before.
 
 Teleportation systems are available in a variety of sizes, allowing
-multiple people and cargo to be teleported simultaneously. A single-
-system costs MCr. 2 and displaces 1 ton; larger systems displace a
+multiple people and cargo to be teleported simultaneously. A single-system costs MCr. 2 and displaces 1 ton; larger systems displace a
 further 0.5 tons for each individual or 100kg to be transported and
 cost a further MCr. 1 per 0.5 tons.
 
-Teleportation System Cost: MCr 2 (+MCr 1 for each additional 0.5
+Teleportation System Cost: MCr2 (+MCr 1 for each additional 0.5
 tons).
 
 Teleportation Tractor Beam
@@ -6896,6 +7393,8 @@ and other electronics. It weighs 10 kg but is too bulky for a single
 person to move it.
 
 PSIONIC EQUIPMENT PPSIONICSIONIC E EQUIPMENTQUIPMENT
+
+
 
 The device works by picking-up Psionic Strength used to power
 a teleport attempt using a powerful sensor array and psionically
@@ -6931,6 +7430,8 @@ single hour when using successive jumps.
 Teleportation Suit Cost: Cr. 50,000.
 
 MISCELLANEOUS EQUIPMENT
+
+
 Psi Detector
 For use by non-psionics, the psi detector is a hand-held device that
 detects residual or active psi energy within a radius of 500 meters.
@@ -6976,6 +7477,8 @@ do not suffer from these effects.
 Image Sliver Cost: Cr. 250.
 
 PPSIONICSIONIC E EQUIPMENTQUIPMENT
+
+
 
 Mind Reader
 Available at TL 12+. A device for non-psions, a Mind Reader is a
@@ -7040,6 +7543,8 @@ Mind Switch Device Cost: Cr. 250,000 (limited availability).
 
 PSIONIC EQUIPMENT
 
+
+
 Ships powered by the mind figure large in science fiction stories:
 Anne McAffrey's Helva ( The Ship Who Sang ) and M John Harrison's
 Seria Mau Genlicher ( Light ) being two obvious examples; there
@@ -7047,14 +7552,15 @@ are many others – the Cylon Hybrid from Battlestar Galactica and
 the semi-psionic Mass Detectors from Larry Niven's Known Space
 series, for instance.
 
-The Psionic Powers chapter includes the psionic rules for mind-
-powered ships in the form of the Ship Integration talent, whereby one
+The Psionic Powers chapter includes the psionic rules for mind-powered ships in the form of the Ship Integration talent, whereby one
 or more psions can move a ship or augment drives, at both sub and
 supra light speeds. This chapter includes the essential information
 needed for adapting starships built using the Traveller rules (either
 the basic rules or High Guard ) to support psionic integration.
 
 DEGREE OF INTEGRATION
+
+
 The rules in Traveller: Psions assumes that, at the least, a psionic pilot
 will be highly integrated with the ship's architecture and systems.
 The reason for this is simple; even in small ships requiring just a
@@ -7087,6 +7593,8 @@ additional crew members.
 
 DRIVE AND POWERPLANT
 
+
+
 POTENTIAL, FUEL
 Using psions to either move or augment ship drives means that the
 usual requirements for drive and powerplant size and fuel storage,
@@ -7115,6 +7623,8 @@ great enough to offset reliance on conventional systems in terms of
 cost. On the other hand, the gains might be just what is required.
 
 MIND SHIP COMPONENTS
+
+
 The following components are available at TL14 and above. This is
 a guideline only; psion-enabled ships may have been developed at
 lower tech levels in your campaign. Not all of them are essential and
@@ -7146,6 +7656,8 @@ tons for every 4 Psi Strength points the additional psions have.
 ### MMINDIND S SHIPSHIPS
 
 MMINDIND S SHIPSHIPS MIND SHIPS
+
+
 
 If the PIC is built directly into a starship hull, it is fixed in place. Its
 displacement and cost is 25% less than the modular equivalent.
@@ -7230,6 +7742,8 @@ Integration is the obvious talent but others can also benefit).
 
 MIND SHIPS MMINDIND S SHIPSHIPS
 
+
+
 The psion needs to use the Gunnery power of the Ship Integration
 talent and can power the Defence Grid with as many or as few Psi
 points as needed. Every 2 Psi points used in the grid offers 1 point of
@@ -7247,8 +7761,7 @@ Psion Stateroom
 Kitted and equipped to promote rest, peace and silence – everything
 a weary psion needs to regenerate his energies, the psion stateroom
 is similar in size to a standard stateroom, with the same hull
-displacement. The room is fitted with psionically calibrated, mood-
-calming environment sensors, that promote the regeneration
+displacement. The room is fitted with psionically calibrated, mood-calming environment sensors, that promote the regeneration
 of Psionic Strength points. A psion using a psion stateroom
 commences Psi regeneration 1 hour after using a psionic talent and
 at the rate of 1.5 points per hour.
@@ -7269,8 +7782,7 @@ Strength to the psion. The K-Web requires both a Psion Integration
 Chamber and K Interface to work correctly. Its machinery displaces
 0.25 tons per 100 tons of hull.
 
-The K-Web generates and channels, 1 Psi point for every 20 (non-
-psion) people aboard the ship. This is not a continuous activity
+The K-Web generates and channels, 1 Psi point for every 20 (non-psion) people aboard the ship. This is not a continuous activity
 as the process drains Psionic Strength from the crew and it takes
 the same length of time to regenerate the latent Psi points as
 for a psion. Psions can, if they wish, resist the K-Web's draw by
@@ -7287,8 +7799,7 @@ unused energy naturally dissipates.
 Ordinarily, all non-psions are subject to the K-Web's draw but
 insulators, in the form of bracelets or headbands, can be made
 
-available which prevent latent Psionic Strength from being taken
-(for religious or ethical reasons, for instance). These insulators also
+available which prevent latent Psionic Strength from being taken (for religious or ethical reasons, for instance). These insulators also
 protect psions.
 
 K-Web Cost: MCr. 1 per 0.25 tons.
@@ -7317,6 +7828,8 @@ movement (hours, days, months, years and so forth) depends on
 the drive code and the Hull Volume.
 
 T DRIVE COSTS
+
+
 Drive Code Tons MCr.
 TA 5 15
 TB 10 25
@@ -7344,6 +7857,8 @@ TY 115 235
 TZ 120 245
 
 MMINDIND S SHIPSHIPS MIND SHIPS
+
+
 
 The T Drive Potential table indicates the maximum number of time
 increments the ship can achieve in a single time jump:
@@ -7390,6 +7905,8 @@ reached the limitations of its drive capability.
 
 T DRIVE POTENTIAL
 
+
+
 100 200 300 400 500 600 700 800 900 1000 1200 1400 1600 1800 2000
 TA 1
 TB 2 1
@@ -7418,7 +7935,11 @@ TZ 10
 
 MIND SHIPS MIND SHIPS
 
+
+
 PILOTING TIME MACHINES
+
+
 If the pilot of a time ship is a psion, then the Temporal Manipulation talent is the obvious candidate for the governing skill roll. If the
 character has both Pilot and Temporal Manipulation, the character can be assigned a rating of Pilot (Time Machine/Ship) 0.
 
@@ -7429,11 +7950,15 @@ The Effect of any Pilot (Time Machine/Ship) roll determines the accuracy of arri
 that the ship arrives at precisely the time desired, whilst lower Effects indicate a margin of error either side of the desired time.
 
 ADDING A TIME DRIVE TO SMALLER VESSELS
+
+
 As long as the hull of the vessel has the capacity to accommodate
 both the T drive and fuel, there is no reason why a Time Drive cannot
 be fitted to hulls of less than 100 tons.
 
 TIME MACHINE OPTIONS
+
+
 Ambient Environment Cloak: This unit, available at TL14+, projects
 a holographic image around the time machine or time ship so that
 it better blends with its environment. The sensors in the cloaking
@@ -7511,12 +8036,16 @@ page 60 for strengths of dimensional barriers.
 
 MIND SHIPS
 
+
+
 T and D drives can be fitted into the same hull, space permitting,
 although fuel requirements must be calculated and accommodated
 separately. Note that the P Plant must have an equivalent or higher
 rating, to the D drive (and any other drives, if present).
 
 DIMENSION SHIP OPTIONS
+
+
 Barrier Locator: This device locates potential rifts between dimensions
 and assess the strength of the barrier. Rifts are successfully located
 on a roll of 8+, with a +1 DM for each level above TL12 of the installed
@@ -7540,6 +8069,8 @@ IRDA Cost: MCr. 10 per ton.
 
 MIND SHIPS
 
+
+
 Finances
 Pension
 
@@ -7551,6 +8082,8 @@ Monthly Ship
 Payment
 
 CAREER BRANCH EVENTS RANK TITLE
+
+
 
 Career History
 
@@ -7709,11 +8242,15 @@ Sea: Age of Dreadnoughts is
 
 C
 
+
+
 i
 
 m
 
 T
+
+
 b
 or used with different settings like Strontium Dog, Hammers Slammers, Judge
 Dredd and, of course, the Original Traveller Universe.

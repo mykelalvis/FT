@@ -40,8 +40,7 @@ APPENDIX: WORLD STATISTICS ..............................
 
 The Imperial Fringe is the edge of a large and sprawling interstellar empire. The
 proper name for this region is the Spinward Marches, so named because they are
-located on the very border of the Imperium, in the spinward direction when con-
-sidering the rotation of the galaxy. This area of hundreds of star systems, shown on
+located on the very border of the Imperium, in the spinward direction when con-sidering the rotation of the galaxy. This area of hundreds of star systems, shown on
 the accompanying map, is to be the setting for this introductory adventure into the
 universe of Traveller.
 This adventure is written for the beginner and touches briefly on many different
@@ -51,12 +50,13 @@ read through this adventure to familiarize yourself with it. Once that is done, 
 are ready to begin.
 Materials: As Book 1 indicates, a wide variety of materials are desirable during
 your adventures. For this particular adventure, lined notebook paper, pencils and
-pens, and graph paper are especially helpful. Everyone should have a pair of six-
-sided dice. The referee should have a folder or notebook to keep records of the
+pens, and graph paper are especially helpful. Everyone should have a pair of six-sided dice. The referee should have a folder or notebook to keep records of the
 group's progress; the complete adventure should probably take quite a few sessions
 of play.
 
 CHARACTER GENERATION
+
+
 
 The first step in playing Traveller is to generate characters. Book 1 provides
 complete information on character generation, and each player should generate his
@@ -80,8 +80,7 @@ commerce.
 Once everyone has a character, the adventure is ready to begin. Since everyone is
 starting out fresh, the best approach is to place all of the characters together in a
 single situation and inform them of what is happening. The information in Mustered
-Out (except for the sections headed referee's notes) should be explained to every-
-one. Some, but not all, sections may be read aloud.
+Out (except for the sections headed referee's notes) should be explained to every-one. Some, but not all, sections may be read aloud.
 
 # Mustered Out
 
@@ -105,14 +104,12 @@ hole in his or her pocket, should be for equipment. There are many different thi
 worth consideration, with a long list presented in Book 3. Many should be available
 here on Regina. Each character should look at the list of available equipment in
 Book 3 and the list of weapons in Book 1, and consider purchases. Almost any item
-that is listed with tech level 10 or below (Regina is tech level 10) should be avail-
-able for purchase. The only exception is that of weapons; because Regina is law
+that is listed with tech level 10 or below (Regina is tech level 10) should be avail-able for purchase. The only exception is that of weapons; because Regina is law
 level 9, weapons are severely restricted, and even trying to buy them can result
 in legal difficulties. As a result, weapons purchases should probably be postponed
 until a more permissive world is found.
 
-Referee's Note: If individuals have mustered out with weapons, they can prob-
-ably be retained, though not carried. They can be left in sealed lockers at the
+Referee's Note: If individuals have mustered out with weapons, they can prob-ably be retained, though not carried. They can be left in sealed lockers at the
 starport pending departure from Regina, or they can be left in the group's scout/
 courier. If anyone insists on retaining his or her weapon (or on trying to buy
 a weapon) while wandering around Regina, throw 9- (Regina's law level) for the
@@ -163,8 +160,7 @@ they occur only on worlds with population 9+, and even then only rarely. The
 group may set out immediately for a world that does have population 9+. Once
 they arrive, the search for the Institute is governed by the psionics rules in Book 3.
 Referee's Note: Keep in mind that psionics is illegal, and that the group is
-courting problems if it presses its search. Throw local law level or less for harrass-
-ment by the police during the search. Once an institute is discovered, the group has
+courting problems if it presses its search. Throw local law level or less for harrass-ment by the police during the search. Once an institute is discovered, the group has
 achieved an immediate goal, and can try to get psionics training.
 Trade and Speculation: Buying low and selling high is a basic rule of commerce.
 Whenever a ship moves from one place to another, there is the chance that its
@@ -210,21 +206,17 @@ Referee's Note: This is the start of a patron encounter. The brawl is the situat
 which introduces the group to their patron. This brawl can be simply described as
 fast-moving and interesting, or it can be fully fought out. If fully fought out, then
 the referee will have to generate the group of rowdies and the other scout patrons
-currently in the bar. Because few, if any, of these individuals will be of any impor-
-tance, an abbreviated character generation system can be used. Roll for the first
+currently in the bar. Because few, if any, of these individuals will be of any impor-tance, an abbreviated character generation system can be used. Roll for the first
 three personal characteristics of each; roll one die minus 4 for brawling skill for the
 rowdies. The rest of the personal information is unimportant, and it isn't necessary
-to spend time generating it. As a suggestion, make the rowdies' group six in num-
-ber, and make the scouts three in number; one of the scouts should be Admin-
-istrator Galadden, indicated below.
+to spend time generating it. As a suggestion, make the rowdies' group six in num-ber, and make the scouts three in number; one of the scouts should be Admin-istrator Galadden, indicated below.
 
 ```
 Scout Galadden 8599A8 Age 42 6 terms Cr8000 Pilot-2, Vacc Suit-1, Shotgun-1, Computer-1, Mechanical-1.
 ```
 
 With the fight over and the rowdies driven from the floor, there is naturally
-a certain cameraderie to be expected. Someone sees to various wounds; the un-
-conscious are revived. Tables are righted. A round of drinks is ordered. Finally,
+a certain cameraderie to be expected. Someone sees to various wounds; the un-conscious are revived. Tables are righted. A round of drinks is ordered. Finally,
 introductions are made. One of the scouts introduces himself as Senior Scout
 Administrator Galadden; he says he works for the scout service with an office in the
 scout base within the starport grounds.
@@ -282,8 +274,7 @@ group, although (as is standard practice) refined fuel will be available to the 
 at scout bases free of charge.
 
 Reports: The group must actually visit the major world in a system and then
-determine its universal planetary profile, which must be substantiated by instru-
-ment readings or evidence in the report.
+determine its universal planetary profile, which must be substantiated by instru-ment readings or evidence in the report.
 
 Remuneration: For each report turned in, Cr50,000 will be credited to the
 group's account. From that account, various sums can be drawn for living expenses,
@@ -310,14 +301,11 @@ the fact that the scout service routinely debriefs the ex-scouts who use these
 ships and uses the information as part of its intelligence gathering operations.
 Scout/Courier (type S): Using a 100-ton hull, the scout/courier is intended for
 exploration, survey, and courier duties, with many in service throughout known
-space. It mounts jump drive-A, maneuver drive-A, and power plant-A, giving per-
-formance of jump-2 and 2-G acceleration. A 40-ton fuel tank supports the power
-plant and provides sufficient fuel for one jump-2. Adjacent to the bridge is mount-
-ed a computer Model/1bis. There are four staterooms and no low berths. One
+space. It mounts jump drive-A, maneuver drive-A, and power plant-A, giving per-formance of jump-2 and 2-G acceleration. A 40-ton fuel tank supports the power
+plant and provides sufficient fuel for one jump-2. Adjacent to the bridge is mount-ed a computer Model/1bis. There are four staterooms and no low berths. One
 double turret is installed on the ship's hardpoint, and fire control equipment is
 present, but no weaponry is installed. One air/raft is carried in a specially fitted
-hangar within the ship. Cargo capacity amounts to three tons. The hull is stream-
-lined.
+hangar within the ship. Cargo capacity amounts to three tons. The hull is stream-lined.
 
 This scout/courier requires a crew of one, assuming the duties of pilot and
 engineer. The ship cost MCr29.43 new and took 10 months to build. It is now 23
@@ -332,8 +320,7 @@ can be seen, including the vision ports on the bridge and the dome of the turret
 Close up, the underside of the ship is dotted with landing pylon doors, fueling
 ports, and fuel scoop inlets.
 
-Entry Points: There are seven basic entry points to the ship, plus two possibil-
-ities. Iris valves are automatic power-operated portals composed of many plates
+Entry Points: There are seven basic entry points to the ship, plus two possibil-ities. Iris valves are automatic power-operated portals composed of many plates
 which retract much like the iris of a camera. The entry is oval or circular in shape,
 and can be operated by pressing a small stud on the wall; it can be locked by the
 computer or by a key. Hatches are manually-operated hinged portals secured by a
@@ -344,12 +331,10 @@ empty commo bay (room 13). A retractable ladder reaches to the ground when
 extended. This entry is the main point of access to the ship when it is landed on a
 hospitable world. This iris valve can also be snugged to another ship, allowing
 transfers between ships such as visits, boarding parties, and cargo transshipments.
-The starboard side of the aft bulkhead contains a large sliding panel door open-
-ing into the air/raft storage bay (room 14). This panel is controlled from inside, or
+The starboard side of the aft bulkhead contains a large sliding panel door open-ing into the air/raft storage bay (room 14). This panel is controlled from inside, or
 from a remote control director on-board the air/raft. Since the interior of the air/raft bay can be sealed off from the rest of the ship by the iris valve between the
 bay (room 14) and the corridor (corridor 15), it can serve as an air/lock if required.
-The center of the aft bulkhead holds an iris valve leading into the drive room
-(room 12).
+The center of the aft bulkhead holds an iris valve leading into the drive room (room 12).
 
 On the port upper surface of the ship above the now empty commo bay (room
 13), a manually-operated hatch allows access to the ship exterior. This hatch is
@@ -357,8 +342,7 @@ intended for maintenance, and is normally secured with a steel bar and a padlock
 allows routine access to the upper surfaces.
 
 On the upper surface of the ship, along the central ridge just behind the bridge
-vision screens, is a manually-operated hatch leading down into the upper gallery
-(room 19). This area can be used as an air lock if desired.
+vision screens, is a manually-operated hatch leading down into the upper gallery (room 19). This area can be used as an air lock if desired.
 
 On the lower surface of the ship well forward is a manually-operated hatch
 leading into the forward avionics bay. This hatch is generally used for maintenance
@@ -382,8 +366,7 @@ The ship is divided into twenty areas. Each has its own form and function.
 
 1. Avionics Bay. The ship's complex electronics equipment is carried in this
 
-forward section of the ship. Most of the ship's communications equipment, de-
-tectors, scanners, and sensors are installed here.
+forward section of the ship. Most of the ship's communications equipment, de-tectors, scanners, and sensors are installed here.
 
 2. Bridge. The basic controls for the ship are installed on the bridge. Two crew
 
@@ -419,8 +402,7 @@ storage for rations and perishables. There are also recreation facilities, exerc
 
 9. Fuel Tankage. Surrounding the ship between the streamlined exterior and the
 
-interior accomodations are fuel tanks. They are not normally accessible from the in-
-terior.
+interior accomodations are fuel tanks. They are not normally accessible from the in-terior.
 
 10. Landing Pylon Bay. These two bays hold the landing pylons which support
 
@@ -515,20 +497,38 @@ Both Floor and Overhead
 
 IRIS VALVE MANUAL HATCH
 
+
+
 Streamlined Hull
 
 AVIONICS
 
+
+
 BRIDGE
 
+
+
 FORWARD
+
+
 CARGO
+
+
 BAY
 
+
+
 UPPER GALLERY MAIN DECK
+
+
 DRIVES
 
+
+
 COMMON AREA
+
+
 
 AIR/RAFT
 
@@ -546,9 +546,7 @@ to Cr8,000 every two weeks. As long as the ship is occupied, these costs will be
 incurred.
 
 Routine maintenance for the ship is the responsibility of the scout who is using
-it on detached duty. For this scout/courier, it amounts to Cr27,630; the mainten-
-ance will take two weeks. Although it is usually performed at a class A or B star-
-port, it can also be performed at a scout way station (possibly at half-price).
+it on detached duty. For this scout/courier, it amounts to Cr27,630; the mainten-ance will take two weeks. Although it is usually performed at a class A or B star-port, it can also be performed at a scout way station (possibly at half-price).
 Crew salaries are an optional item on a ship such as this.
 
 Berthing costs are unpredictable, but run perhaps Cr75 per starport. They
@@ -556,8 +554,7 @@ run within the range of Cr10 times 2D.
 
 Income: Revenues from the operation of the ship are minimal. It is difficult to
 carry passengers, and certainly not high passengers. Some cargo can be transported,
-but the three ton limit keeps such revenues to a minimum. Carrying private messag-
-es will not provide any great revenue directly, but may ultimately lead to patrons
+but the three ton limit keeps such revenues to a minimum. Carrying private messag-es will not provide any great revenue directly, but may ultimately lead to patrons
 and charters or missions.
 
 Ultimately, revenue for the ship comes from chartered missions doing the
@@ -572,8 +569,7 @@ suits for the journey.
 # The Spinward Marches
 
 The Spinward Marches consist of 440 systems in a region roughly 120 parsecs
-from the center of the Imperium. Because of the the configurations of stars be-
-tween the Marches and the Capital, however, trade and communications routes
+from the center of the Imperium. Because of the the configurations of stars be-tween the Marches and the Capital, however, trade and communications routes
 wind over 176 parsecs and take nearly a year to traverse by express boat. As a
 result, the Spinward Marches are a relatively independent component of the vast
 interstellar Imperium, but nevertheless a vital one.
@@ -587,8 +583,7 @@ focus of the entire adventure.
 
 Observing the borders shown on the map, it can be seen that the territory within
 the Spinward Marches is divided into several areas, the most notable of which are
-the Imperium, the Darrian Confederation, the Sword Worlds, the Zhodani Con-
-sulate, and several sections which have no allegiance.
+the Imperium, the Darrian Confederation, the Sword Worlds, the Zhodani Con-sulate, and several sections which have no allegiance.
 
 The Zhodani Consulate: Cronor, Querion, and Jewell subsectors contain worlds
 under the control of the Zhodani — a human empire which stretches off the left
@@ -599,8 +594,7 @@ Sword Worlds are fiercely independent, and have long fought to maintain their
 freedom from both the Imperium and the Zhodani Consulate.
 
 The Darrian Confederation: An old, varied group of worlds originally settled
-from the planet Darrian about 1500 to 1000 years before the Imperium was estab-
-lished. The confederation maintains diplomatic relations with the Imperium, and
+from the planet Darrian about 1500 to 1000 years before the Imperium was estab-lished. The confederation maintains diplomatic relations with the Imperium, and
 depends on it for protection against both the Sword Worlds and the Zhodani.
 The Imperium: The Imperium is a vast interstellar empire, of which the Marches
 are only a small fraction on its spinward border. Trailing off the right hand side of
@@ -618,23 +612,19 @@ separated from the Imperium proper by great distances. They serve as stepping
 stones to Five Sisters subsector.
 
 Five Sisters is a subsector physically separated from the contiguous Imperium
-by undeveloped territory and by the Sword Worlds. The area is under military rule
-(under the Department of the Navy), with extensive naval build-ups, bases, and
+by undeveloped territory and by the Sword Worlds. The area is under military rule (under the Department of the Navy), with extensive naval build-ups, bases, and
 many amber and red travel zones.
 
 ## Referee's Notes
 
-The concept that binds this adventure together is the special audit of the Spin-
-ward Marches by the characters in the scout/courier. The referee must handle
+The concept that binds this adventure together is the special audit of the Spin-ward Marches by the characters in the scout/courier. The referee must handle
 that idea on a continuing basis, regardless of what other adventures transpire. Some
 basics must be addressed.
 
 Dating Systems: The library data entry for dating systems describes the Imperial
 dating system. That system should be used as a consistent system, if only because it
-corresponds with the various dates presented in Traveller background and adven-
-tures. For convenience, the beginning date for this entire introductory adventure
-should be 001-1100: the first day of the year 1100. Days and weeks are incre-
-mented as time passes, with years being 365 days long.
+corresponds with the various dates presented in Traveller background and adven-tures. For convenience, the beginning date for this entire introductory adventure
+should be 001-1100: the first day of the year 1100. Days and weeks are incre-mented as time passes, with years being 365 days long.
 
 Library Data: Library data is information commonly available to characters,
 typically through local computer data banks or information resource institutions.
@@ -649,8 +639,7 @@ general purpose is to support the interstellar xboat network which provides fast
 message forwarding and is run by the scouts.
 
 Surveying Systems: The appendix includes the universal planetary profiles for all
-440 worlds in the Spinward Marches. This information is the data that the charac-
-ters seek in their survey. However, obtaining the information should not be a
+440 worlds in the Spinward Marches. This information is the data that the charac-ters seek in their survey. However, obtaining the information should not be a
 simple, straightforward task. In many cases, the crew could simply look up the
 local UPP at the starport, copy the data into their report, and set off for the next
 system. The result is not the intent of the audit; the characters will be required to
@@ -674,8 +663,7 @@ poking around.
 ## STARPORT
 
 Value determined by examination of
-starport from world surface. No varia-
-tion from true value possible.
+starport from world surface. No varia-tion from true value possible.
 Three hours.
 
 ## SIZE
@@ -712,8 +700,7 @@ Three hours.
 
 Value determined from contact with
 local government, generally in the form
-of communicator and personal inter-
-actions. Referee may provide inaccurate
+of communicator and personal inter-actions. Referee may provide inaccurate
 readings on the first two readings by the
 crew.
 Three hours times 1D.
@@ -759,8 +746,7 @@ things to do; that it does, in abundance.
 
 Starting out to play Traveller should be a gradual thing. The basic rules cover
 many interesting concepts, and each should be played to savor its quality. Thus,
-many of the seemingly easy parts of the adventure should be played for the ex-
-perience they give the players in playing and the referee in refereeing.
+many of the seemingly easy parts of the adventure should be played for the ex-perience they give the players in playing and the referee in refereeing.
 
 ## BEGINNING ADVENTURES
 
@@ -802,8 +788,7 @@ lead to the world, to prospecting and mining, and to clashes with the authoritie
 The referee is responsible for creating various tables, maps, and charts which
 would regulate the actual conduct of such a campaign.
 
-Patinir (Aramis 3207-C000632-9): This asteroid belt could easily prove a loca-
-tion for a cat and mouse game between pirates and the adventurers. Depending on
+Patinir (Aramis 3207-C000632-9): This asteroid belt could easily prove a loca-tion for a cat and mouse game between pirates and the adventurers. Depending on
 the referee's preferences, the situation could quickly escalate into the discovery of a
 pirate base, a hidden Ancient site, a cache of military supplies left over from a
 previous war, a lode of copper, or a graveyard of lost ships.
@@ -811,6 +796,8 @@ Similar scenarios can be generated from almost any world in the Spinward
 Marches.
 
 PREPARED ADVENTURES
+
+
 
 Many published adventures are already set within the Spinward Marches. The
 following is a cross-section indicated by location:
@@ -864,11 +851,8 @@ from Sol/Terra to at least forty worlds across a span of 360 parsecs. See Humani
 The Ancients were also responsible for the creation of the Vargr through genetic
 manipulation of Terran carnivore/chasers. See Vargr.
 Capital (Core 0508-A586A98-F): Central world of the Imperium and seat of
-government since its founding. Situated in the center of the Imperium, its astro-
-graphical location has proven to be ideal for controlling the vast area of Vilani
-and Solomani dominated space that formed the main portion of the First and Sec-
-ond Imperiums as well as the present Third Imperium. Besides being a communica-
-tions hub, Capital is also a cultural and educational center.
+government since its founding. Situated in the center of the Imperium, its astro-graphical location has proven to be ideal for controlling the vast area of Vilani
+and Solomani dominated space that formed the main portion of the First and Sec-ond Imperiums as well as the present Third Imperium. Besides being a communica-tions hub, Capital is also a cultural and educational center.
 Confederation: Group of independent states, worlds, or systems united for
 specified purposes, while generally retaining more freedom of action than the
 members of a federation. Other common names include League and Alliance.
@@ -885,8 +869,7 @@ company.
 Finally, within the Imperium, the term coreward is also used to indicate the
 direction of Capital, the Imperial core. There is some potential for confusion if the
 term is accepted out of context.
-Dating Systems: Three major dating systems are in use when referring to his-
-torical events: Terran, Vilani, and Imperial.
+Dating Systems: Three major dating systems are in use when referring to his-torical events: Terran, Vilani, and Imperial.
 Terran dates center on a year about 4500 years before the founding of the Third
 Imperium. After that date, years ascend, and are suffixed AD; before that date,
 years descend, and are suffixed BC. There is no year zero.
@@ -894,9 +877,7 @@ years descend, and are suffixed BC. There is no year zero.
 Vilani dates count from the year of the
 establishment of the Pax Vilanica (using the
 Vilani year, which is equal to 1.33 standard
-years). Those before are suffixed PI (pre-
-Imperium); those after are suffixed VI
-(Vilani Imperium).
+years). Those before are suffixed PI (pre-Imperium); those after are suffixed VI (Vilani Imperium).
 
 Imperial dates count from the year of the
 founding of the Third Imperium, specifying
@@ -955,8 +936,7 @@ Imperial
 1106
 
 Federation: Group of states, worlds, or systems, each internally independent,
-joined into a union to which has been surrendered certain rights and responsi-
-bilities, most generally to do with foreign affairs.
+joined into a union to which has been surrendered certain rights and responsi-bilities, most generally to do with foreign affairs.
 
 First Imperium (-4044 to -2219): The first major interstellar civilization,
 politically and culturally dominated by humans originating on Viand. The jump
@@ -968,16 +948,14 @@ common culture. Eventually, the client races themselves explored beyond the loca
 sphere, contacting and trading with still more races. These new races gained their
 technology without being assimilated into Vilani culture; the resulting increasing
 friction eventually resulted in a series of wars, beginning about -5400. In response
-to the threat, Viand began tightening its control of its trade sphere, finally organiz-
-ing it into a centralized state in -5273. This marked the beginning of the First
+to the threat, Viand began tightening its control of its trade sphere, finally organiz-ing it into a centralized state in -5273. This marked the beginning of the First
 Imperium. although there was as yet no emperor. During the thousand year period
 of the Consolidation Wars, Viand conquered and absorbed its enemies until in there
 were no longer any civilized states on its borders (except for a portion of the Vargr
 Extents, isolated from the Imperium by the Great Rift). The last war ended in
 -4044, and Vilani dating begins at this point. With no exterior threats, the Pax
 Vilanica lasted for nearly 1200 years; at its height, attained soon after the end of
-the wars, the First Imperium contained 27 sectors and over 15,000 worlds. How-
-ever, the cost of maintaining centralized control over this vast expanse was cultural
+the wars, the First Imperium contained 27 sectors and over 15,000 worlds. How-ever, the cost of maintaining centralized control over this vast expanse was cultural
 rigidity; exploration had ceased with the beginning of the wars; now scientific
 research slowed to a halt, and the beginnings of a hereditary caste system began to
 emerge. Civilization was in decline. As long as there was no exterior threat, the
@@ -989,15 +967,13 @@ the Terrans, recently emerged into space. Terran expansionism led to a series of
 interstellar wars, ultimately resulting in Terran conquest of the Imperium in -
 and the founding of the Rule of Man.
 
-The First Imperium bore many names in its long life, including the Grand Imper-
-ium of Stars, the Grand Imperium, and the Vilani Empire.
+The First Imperium bore many names in its long life, including the Grand Imper-ium of Stars, the Grand Imperium, and the Vilani Empire.
 
 Frontier Wars: A series of interstellar wars waged between the Imperium and the
 Zhodani Consulate for control of the Spinward Marches. The five wars (so far)
 represent open flares of conflict in a constant struggle for supremacy.
 Humaniti (old spelling: humanity): All of humaniti originated from human
-ancestors on Terra/Sol, transplanted for reasons unknown by the Ancients through-
-out this spiral arm of the galaxy. Most races have diverged only slightly from the
+ancestors on Terra/Sol, transplanted for reasons unknown by the Ancients through-out this spiral arm of the galaxy. Most races have diverged only slightly from the
 original pattern, and 80% of all human races are considered members of a single
 species, Homo sapiens. The remaining 20% are other species of genus Homo. Of all
 human races, three have gained major status: Vilani of Viand, Solomani of Terra,
@@ -1010,8 +986,7 @@ within the Imperium.
 
 Nevertheless, the Imperium itself is constantly involved with research projects
 at the forefronts of technology. While some new technology can be purchased from
-advanced cultures beyond the Imperial boundaries, such high technology is expen-
-sive, and still requires a solid technological foundation to allow its usage. Consider:
+advanced cultures beyond the Imperial boundaries, such high technology is expen-sive, and still requires a solid technological foundation to allow its usage. Consider:
 however useful solid-state chip circuits are, they still require a firm grounding in
 electronics, and cannot be used on a large scale without electronics, individual
 solid-state chip components, photo processing, and even crystal culture. It is vital
@@ -1033,8 +1008,7 @@ civilian government attempted to transfer control directly to Earth, the navy
 refused. From his headquarters on Dingir, the commander in chief of the fleet.
 Admiral Hiroshi Estigarribia, proclaimed himself Regent of the Vilani Imperium
 and Protector of Terra, with both states now united in the Rule of Man. Nearly all
-the fleet instantly sided with him, evidence of his careful preparation, and the Con-
-federation Secretariat was dissolved in a bloodless capitulation. Estigarribia never
+the fleet instantly sided with him, evidence of his careful preparation, and the Con-federation Secretariat was dissolved in a bloodless capitulation. Estigarribia never
 actually assumed the crown, but after his death he was succeeded by his former
 chief of staff, who was crowned as Hiroshi II. Estibarribia is therefore known to
 history as the Emperor Hiroshi I.
@@ -1058,16 +1032,14 @@ Subsector: A mapping unit in astrography, consisting of a rectangular area ten
 parsecs by eight parsecs. Subsectors are also called Districts, Provinces, or Clusters.
 Average density: 30 to 40 worlds.
 
-Twilight's Peak: During the Second Frontier War (615 to 622), a payroll ship-
-ment to the Marches disappeared, including the transport carrying it and three
+Twilight's Peak: During the Second Frontier War (615 to 622), a payroll ship-ment to the Marches disappeared, including the transport carrying it and three
 escort vessels. Decades later (791), one of the escorts was found in the Treece/Lanth
 system, out of fuel and power, and its crew of three dead. The only clue to its story
 was the diary of one of the crewmembers, written in the form of an epic poem.
 
 Infuriatingly, the epic told what had happened, but not where.
 
-The transport was forced down in a mountainous region of a habitable world
-(possibly in the Lanth or Rhylanor subsectors) and had to be abandoned after the
+The transport was forced down in a mountainous region of a habitable world (possibly in the Lanth or Rhylanor subsectors) and had to be abandoned after the
 pilot botched the landing. The crew of one escort mutinied and attempted to take
 the payroll for themselves. The other two escorts resisted; the mutiny was put
 down, but the mutineers' ship was destroyed and one of the loyal escorts crippled.
@@ -1092,8 +1064,7 @@ although its major effect is to get individuals into fights with those who insul
 
 The Vargr are scattered across most of the coreward edge of the Imperium in
 many splinter empires collectively called the Extents. These states war with each
-other as much as with non-Vargr, and there is constant strife as each tries to estab-
-lish a position superior to the others. Some Vargr have been more-or-less allied with
+other as much as with non-Vargr, and there is constant strife as each tries to estab-lish a position superior to the others. Some Vargr have been more-or-less allied with
 the Zhodani for several centuries, and have participated in the Frontier Wars.
 Others have maintained a strict neutrality, or even allied with the Imperium.
 
@@ -1109,9 +1080,7 @@ possible.
 The humans of the Zhodani Consulate are quite similar to the ordinary humans
 of the Imperium. The major difference characterizing the Zhodani is their practice
 of the Psionic Heresy. Society is divided into three classes: nobles, intendants, and
-proles. Nobles (social level B+) are the enfranchised ruling class, and are given psion-
-ic training from childhood. Intendants (social level A) are the managers and admin-
-istrators of society, and also receive early training. Proles (social level 9 or less) are
+proles. Nobles (social level B+) are the enfranchised ruling class, and are given psion-ic training from childhood. Intendants (social level A) are the managers and admin-istrators of society, and also receive early training. Proles (social level 9 or less) are
 forbidden to use psionics or receive training.
 
 Within this rigid class system there are two opportunities for promotion to a
@@ -1177,8 +1146,7 @@ from human society. Aslan serve in the Imperial armed forces; they achieve noble
 positions; they pay taxes; they run businesses.
 
 Aslan Society: The Aslan are a warrior race, proud and noble, devoted to
-those in authority above them. An individual Aslan is usually a member of a family
-(e'kho) of from 2 to 12 individuals under a patriarchal leader. Several families will
+those in authority above them. An individual Aslan is usually a member of a family (e'kho) of from 2 to 12 individuals under a patriarchal leader. Several families will
 combine into a pride (ahriy), with one family dominant. A number of prides form a
 clan (huiha) again with a top pride. Aside from military organizations and the ruling
 council (within the Hierate), the clan is the highest social/political organization
@@ -1202,14 +1170,12 @@ encountered without the supervision of a wife, mother, or other female relative 
 employer. For instance, a typical Aslan mercenary unit will be organized by a
 wealthy married female, who will then assign its operation, for a share of the
 proceeds, to an unmarried female relative. The battle commander and most of the
-troops will be unmarried males (many of them also relatives), hired with the pro-
-mise of land grants (and the opportunity to gain honor and reputation in combat);
+troops will be unmarried males (many of them also relatives), hired with the pro-mise of land grants (and the opportunity to gain honor and reputation in combat);
 however, staff, operations, supply, and intelligence officers will generally be female.
 The extremely deadly nature of any combat between Aslan has led to a rigid,
 ritualized pattern of behavior designed to reduce conflict. Aslan are very polite and
 formal, and must be dealt with in such a way as not to insult their honor. Although
-most have learned to be patient with non-Aslan, accidental fights still occur. Dis-
-putes between individuals are handled by the patriarchs, disputes between families
+most have learned to be patient with non-Aslan, accidental fights still occur. Dis-putes between individuals are handled by the patriarchs, disputes between families
 by the pride leader, between prides by the clan leader.
 
 Aslan in the Imperium: Large numbers of Aslan have settled outside their
@@ -1239,8 +1205,7 @@ of -4 for enlistment and re-enlistment rolls in the scout and merchant services.
 Aslan receive a +1 DM on enlistment, re-enlistment, and promotion rolls in the
 army and marines, but males tend to take unnecessary chances and receive a -1 DM
 for survival in these services.
-Skills may be acquired as in Books 1, 4, or 5. Brawling and blade skills automat-
-ically become dewclaw skill. In combat, treat the dewclaw as a knife. Aslan receive
+Skills may be acquired as in Books 1, 4, or 5. Brawling and blade skills automat-ically become dewclaw skill. In combat, treat the dewclaw as a knife. Aslan receive
 +1 to their morale throws if using Book 1, +2 if determining morale for a unit of
 Aslan per Book 4.
 Aslan can be presented to the players as an alien race to interact with and to

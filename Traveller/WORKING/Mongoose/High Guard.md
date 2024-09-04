@@ -27,9 +27,13 @@ Printed in China.
 **CREDITS**
 
 CLASSIC TRAVELLER
+
+
 Marc Miller
 
 MONGOOSE TRAVELLER
+
+
 
 **AUTHOR**
 Christopher Griffen
@@ -49,6 +53,8 @@ Nikita Vasylchuk
 Charlotte Law
 
 TRAVELLER INNER CIRCLE
+
+
 
 Andrew James Alan Welty, Colin Dunn, M. J. Dougherty,
 Rob Eaglestone, Sam Wissa, Joshua Bell, Maksim Smelchak,
@@ -76,7 +82,7 @@ FLEET BATTLES 105
 BOARDING ACTIONS 125
 SPACESHIPS OF THE THIRD IMPERIUM 135
 
-TRAVELLER
+
 
 Our science and our technology have posed us a profound question:
 will we learn to use these tools with wisdom and foresight before it’s
@@ -121,6 +127,8 @@ to the clash of heavily armed battleships across a front
 stretching through an entire star system.
 
 THE IMPERIAL NAVY
+
+
 An interstellar community operates under many
 restrictions, most notably the fact that it consists of
 many planets that are like islands in an ocean of
@@ -177,6 +185,8 @@ regarding the contents of the ship’s locker – it is a
 tool to simplify bookkeeping, nothing more.
 
 HIGH GUARD
+
+
 Refuelling operations for a task force are dangerous,
 as forces that are low on fuel and manoeuvring in
 a gravity well are especially vulnerable. The High
@@ -185,7 +195,7 @@ involved are higher in the gravity well than their
 companions, is used to mount protective operations
 during such manoeuvres.
 
-TRAVELLER
+
 
 The sheer size of the Imperium precludes the navy
 from concentrating its forces in one place – if war
@@ -202,6 +212,8 @@ powerful vessels in space – dreadnoughts, battle
 tenders and other mighty warships.
 
 SUBSECTOR NAVIES
+
+
 Each subsector maintains its own fleet of ships,
 composed normally of cruisers, escorts, frigates and
 smaller auxiliary ships. Subsector navies are primarily
@@ -212,6 +224,8 @@ put a fraction of its ships at the disposal of the Imperial
 Navy to act as reserves and reinforcements.
 
 PLANETARY NAVIES
+
+
 Planetary navies are responsible solely for the defence
 of their home system or a handful of related systems
 held by the same noble, usually a duke or count. At
@@ -227,6 +241,8 @@ The equipment is equally eclectic – a combination of
 local designs, antiques and monitors.
 
 IMPERIAL NAVAL OPERATIONS
+
+
 Naval vessels generally operate in task forces or
 squadrons, rather than alone; the merits of each
 individual ship supplement and complement the others
@@ -267,6 +283,8 @@ on the ground and the only way to hold a world is to
 occupy it with soldiers.
 
 SYSTEM DEFENCE BOATS AND MONITORS
+
+
 A considerable percentage of any starship is
 taken up with jump engines and fuel tanks. This
 means that a non-jump-capable ship can defeat
@@ -300,8 +318,7 @@ themselves be 10,000 tons or more.
 
 The points of greatest danger to carried squadrons are
 immediately prior to jump (when the craft or ships have
-been recalled) and just after returning to normal space
-(when the craft have not yet been launched).
+been recalled) and just after returning to normal space (when the craft have not yet been launched).
 
 Tanker Squadrons (TankRons) are mostly composed
 of huge fuel tankers, which carry the millions of tons
@@ -317,6 +334,8 @@ the Imperial Interstellar Scout Service, together with a
 handful of larger fast frigates and stealth ships.
 
 DEFINITIONS
+
+
 A number of definitions and conventions are used
 throughout High Guard, drawn from Charted Space,
 other science fiction settings and navies of our own
@@ -343,6 +362,8 @@ Starship: A ship of 100 tons or more that is capable
 of jump travel.
 
 SMALL CRAFT
+
+
 Boat: A small long-range interplanetary craft,
 designed for independent operations.
 
@@ -359,6 +380,8 @@ Torpedo Boat: A special variety of bomber equipped
 with torpedoes.
 
 STARSHIPS
+
+
 Blockade Runner: A ship designed to be fast
 enough and tough enough to force its way through a
 formation of enemy ships.
@@ -383,9 +406,11 @@ number of passengers across space in great comfort.
 
 Introduction
 
-TRAVELLER
+
 
 MILITARY SHIPS
+
+
 Cutter: An armed ship that is both small and cheap.
 Cutters are often found in system-defence, antipiracy
 or customs roles in the hands of law enforcement or
@@ -416,6 +441,8 @@ designed to ferry platoons, companies or entire
 regiments between planets.
 
 CAPITAL SHIPS
+
+
 Cruiser: The mainstay of a fleet, the cruiser is a large
 capital ship capable of outgunning anything it cannot
 outrun and outrunning anything it cannot outgun.
@@ -489,7 +516,11 @@ greater durability.
 **GAZELLE CLOSE ESCORT**
 
 TIGRESS CLASS
+
+
 DREADNOUGHT
+
+
 
 **SERPENT CLASS SCOUT**
 
@@ -500,7 +531,11 @@ DREADNOUGHT
 **LIGHT CARRIER**
 
 CHRYSANTHEMUM
+
+
 DESTROYER ESCORT
+
+
 
 The ship construction system detailed in this chapter
 is your gateway to creating your own ship designs
@@ -525,6 +560,8 @@ a calculator close by.
 
 STANDARD DESIGNS
 
+
+
 VS. NEW DESIGNS
 Some ship designs have been used for centuries and
 have become standard across the stars. Plans for such
@@ -539,6 +576,8 @@ must be employed to design it. The architect’s fees are
 an additional 1% of the final cost of the ship.
 
 CONSTRUCTION TIMES
+
+
 Construction times vary widely, depending on the size
 and complexity of the spacecraft and the capabilities of
 the shipyard.
@@ -567,6 +606,8 @@ Tech Level Construction Time
 16 50%
 
 COSTS
+
+
 Spacecraft are extremely expensive and once options
 start being added, their cost can easily eclipse the
 simple designs found in the Traveller Core Rulebook.
@@ -575,6 +616,8 @@ using finance options, as detailed starting on page 149
 of the Traveller Core Rulebook.
 
 TECH LEVEL
+
+
 Before you start building your ship, decide on the
 Tech Level of the shipyard that will construct it. This
 is the maximum Tech Level available for any given
@@ -615,33 +658,63 @@ Ship Design
 
 CREATE A HULL
 
+
+
 INSTALL
+
+
 
 OPTIONAL SYSTEMS
 
+
+
 INSTALL
+
+
 
 POWER PLANT
 
+
+
 INSTALL
+
+
 
 DRIVES
 
+
+
 INSTALL
+
+
 
 FUEL TANKS
 
+
+
 INSTALL
+
+
 
 COMPUTER
 
+
+
 INSTALL BRIDGE
+
+
 
 INSTALL
 
+
+
 SENSORS
 
+
+
 DETERMINE CREW
+
+
 
 a. Choose Hull Configuration (page 10).
 b. Install Armour (page 12).
@@ -653,19 +726,35 @@ optional systems.
 
 INSTALL
 
+
+
 STATEROOMS
+
+
 
 INSTALL
 
+
+
 WEAPONS
+
+
 
 FINALISE
 
+
+
 DESIGN
+
+
 
 ALLOCATE
 
+
+
 CARGO SPACE
+
+
 
 Such as smaller craft and fuel
 purification plants.
@@ -699,7 +788,7 @@ Page 21
 
 Page 25
 
-TRAVELLER
+
 
 ###### CREATE A HULL
 
@@ -733,6 +822,8 @@ point for every full 2.5 tons of hull. This figure is used to
 determine how durable the ship is when damaged.
 
 MASSIVE SHIPS
+
+
 Very large ships require a lot more internal bracing
 to support their mass under acceleration but this
 has the effect of increasing their durability under
@@ -775,6 +866,8 @@ Note that planetoid hulls cannot use the specialised or
 additional hull types, listed in the following sections:
 
 HULL CONFIGURATION EXAMPLES
+
+
 Standard: Boxy, cylindrical, series of joined boxes,
 possibly with rounded edges. Examples: yacht,
 subsidised liner.
@@ -786,8 +879,7 @@ protuberances. Examples: express boat,
 mercenary cruiser.
 Close Structure: Boxes joined by sturdy struts
 or with multiple projecting elements. Examples:
-Chrysanthemum-class destroyer escort, Gazelle-
-class close escort.
+Chrysanthemum-class destroyer escort, Gazelle-class close escort.
 Dispersed Structure: Irregular joined shapes, open
 framework, rings. Examples: Donosev-class survey
 scout, Lab Ship, Arakoine-class strike cruiser.
@@ -799,6 +891,8 @@ rounded potato shapes. Example: Planetoid Monitor.
 Ship Design
 
 HULL CONFIGURATION
+
+
 The configuration of a hull dictates its shape which, in
 turn, affects the capability of the ship. Some ships may
 be capable of entering atmospheres, for example, while
@@ -831,9 +925,11 @@ Buffered Planetoid
 
 Planetoid
 
-TRAVELLER
+
 
 SPECIALISED HULL TYPES
+
+
 Not all spacecraft hulls are built the same way and
 it is possible for naval architects to use advanced
 construction techniques to make a hull more resilient or,
@@ -869,6 +965,8 @@ non-gravity hulls are half that of other hull types. See
 Power Requirements on page 17 for more information.
 
 ADDITIONAL HULL TYPES
+
+
 Within the standard configurations, there are a variety
 of further options that allow the design of more
 complex ships.
@@ -921,6 +1019,8 @@ drive giving the 1,000 ton vessel Thrust 8. It typically
 takes 1D rounds to separate a breakaway hull.
 
 INSTALL ARMOUR
+
+
 All hulls provide some protection from weapons but it
 is possible to add heavier armour for better defence.
 All hulls start with armour Protection +0, although this
@@ -942,7 +1042,7 @@ Ship Design
 
 Hull Armour
 Armour TL Tonnage Consumed Cost Per Ton Maximum Protection
-Titanium Steel 7 2.5% Cr50000 TL or 9 (whichever is less)
+Titanium Steel 7 2.5% Cr50000 TL or9 (whichever is less)
 Crystaliron 10 1.25% Cr200000 TL or 13 (whichever is less)
 Bonded Superdense 14 0.80% Cr500000 TL
 Molecular Bonded 16 0.50% MCr1.5 TL+
@@ -1017,6 +1117,8 @@ two differently armoured sections of the ship were
 different vessels.
 
 INSTALL HULL OPTIONS
+
+
 Hulls can be further modified with a range of options
 to create specialised ships. Each option can only be
 added once.
@@ -1026,14 +1128,13 @@ Heat shielding protects the ship against the heat of
 re-entry or close proximity to a star. A ship without a
 functioning gravitic drive that attempts re-entry without
 heat shielding will burn up. If equipped with undamaged
-heat shielding, re-entry is successful on an Easy
-(4+) Pilot (1D x 10 minutes, DEX) check, with failure
+heat shielding, re-entry is successful on an Easy (4+) Pilot (1D x 10 minutes, DEX) check, with failure
 resulting in burn-up (this task is often undertaken at
 a slower rate, making it easier). Damage to the ship
 
 Ship Design
 
-TRAVELLER
+
 
 from proximity to a star in the absence of heat shielding
 is at the Referee’s discretion but should start at 1D
@@ -1058,6 +1159,8 @@ against lasers by +3 but cannot be combined with
 Stealth. Adding Reflec costs MCr0.1 per ton of hull.
 
 SOLAR COATING
+
+
 Solar power can be used to provide a ship’s basic
 power needs and – in concert with high-efficiency
 battery technology – to provide a high degree of
@@ -1071,9 +1174,10 @@ shielding. Solar coating and extendible solar panels are
 described in Solar Energy Systems on page 44.
 
 STEALTH
+
+
 Stealth absorbs radar and lidar beams, and disguises
-heat emissions, applying a negative DM to Electronics
-(sensors) checks made to detect or lock onto the ship
+heat emissions, applying a negative DM to Electronics (sensors) checks made to detect or lock onto the ship
 
 (see the Stealth Types table). Apply an additional
 DM-1 for every Tech Level the ship is higher than the
@@ -1095,6 +1199,8 @@ Enhanced 12 MCr0.5 DM-4 —
 Advanced 14 MCr1.0 DM-6 —
 
 RADIATION DAMAGE ON LARGE SHIPS
+
+
 Some ship weapons are capable of dealing
 radiation damage to the crew of a target via the
 Radiation trait (see page 31 of the Traveller Core
@@ -1144,6 +1250,8 @@ score shows what percentage of the ship’s hull the
 manoeuvre drive consumes, in tons.
 
 HOW MANOEUVRE DRIVES WORK
+
+
 The primary component of manoeuvre drives
 in the Charted Space universe is the thruster
 plate. Thruster plates use gravitic technology
@@ -1153,8 +1261,7 @@ build up an ionisation field that glows blue. The
 higher the thrust employed, the brighter and
 more vibrant the blue colour appears.
 
-Another important feature of all manoeuvre-
-drive systems is gravitic compensators or ‘G
+Another important feature of all manoeuvre-drive systems is gravitic compensators or ‘G
 compensators’. These enable a ship to engage
 in high levels of thrust without adversely
 affecting the crew contained inside. Ships
@@ -1165,8 +1272,7 @@ also equipped to compensate for 4 Gs of thrust.
 
 Jump drives allow a ship to travel faster-than-light
 across interstellar distances. Jump drives create a
-bubble of hyperspace by means of injecting high-
-energy exotic particles into an artificial singularity. The
+bubble of hyperspace by means of injecting high-energy exotic particles into an artificial singularity. The
 singularity is driven out of our universe, creating a tiny
 parallel universe that is then blown up like a balloon
 by injecting hydrogen into it. The jump bubble is folded
@@ -1176,6 +1282,8 @@ the ship back into normal space several light-years
 from its original position.
 
 SYNCHRONISED JUMPS
+
+
 When on the offensive, it is advantageous for
 every ship in a fleet to arrive at their destination
 within a few minutes of one another instead of
@@ -1189,8 +1297,7 @@ combat round but this takes some engineering
 skill and a lot of processing power.
 
 To synchronise a jump, every ship taking part
-must have a crew member succeed at a Difficult
-(10+) Engineer (J-drive) check (1D rounds, INT
+must have a crew member succeed at a Difficult (10+) Engineer (J-drive) check (1D rounds, INT
 or EDU).
 
 If one ship fails in this check, then it may not join
@@ -1202,7 +1309,7 @@ jumps use the same Jump Control software as
 normal jumps but the software requires an extra
 +5 Bandwidth on top of its usual demands.
 
-TRAVELLER
+
 
 Ship Design
 
@@ -1227,6 +1334,8 @@ Rating 1 2 3 4 5 6 7 8 9
 Jump TL 9 11 12 13 14 15 16 17 18
 
 MANOEUVRE AND REACTION DRIVES
+
+
 A manoeuvre or reaction drive with Thrust 0 allows for
 an orbiting space station to maintain position but is not
 sufficient to move the hull any great distance.
@@ -1249,6 +1358,8 @@ Manoeuvre drives cost MCr2 per ton. Reaction drives
 cost MCr0.2 per ton.
 
 JUMP DRIVES
+
+
 Jump drives follow a very similar pattern. Select the
 desired jump score and use the figure in the Jump
 Potential table as the percentage of the ship’s hull that
@@ -1279,6 +1390,8 @@ plant available by Tech Level, as well as how much
 Power they generate and their cost per ton.
 
 POWER REQUIREMENTS
+
+
 
 There are three main requirements a power plant must
 meet in terms of Power needed by a ship.
@@ -1329,6 +1442,8 @@ Fusion (TL15) 20 MCr
 Antimatter (TL20) 100 MCr
 
 INTERNAL GRAVITY
+
+
 Artificial gravity allows Travellers to stand
 upright while perpendicular to the plane of
 thrust. Ships without this technology require
@@ -1338,7 +1453,7 @@ The artificial gravity system uses similar
 technology to that of the manoeuvre drive and
 G compensators.
 
-TRAVELLER
+
 
 NOT ENOUGH POWER, CAP’N!
 There are several ways a ship can run out
@@ -1391,6 +1506,8 @@ to fuel tanks but their capacity determines how often
 the ship must refuel.
 
 MANOEUVRING
+
+
 Manoeuvre drives do not require fuel, although reaction
 drives do.
 
@@ -1414,6 +1531,8 @@ run out of fuel for its reaction drive. Reaction 0 drives
 require 0.25 tons of fuel per hour of Thrust.
 
 JUMP DRIVES
+
+
 The fuel tankage needed for a jump drive is related to the
 size of the ship and the length of the jump, as follows:
 10% of the total tonnage of the ship, multiplied by the
@@ -1421,6 +1540,8 @@ maximum jump score of the drive. The result of this is the
 number of tons that needs to be dedicated to jump fuel.
 
 POWER PLANTS
+
+
 Chemical power plants require 10 tons of fuel per
 ton of power plant for every two weeks of operation.
 Other power plants require fuel tankage equal to 10%
@@ -1466,6 +1587,8 @@ The cost of any bridge is MCr0.5 per 100 tons (or part
 of) of the ship it is installed within.
 
 SMALLER BRIDGES
+
+
 It is possible to install a smaller bridge than a ship
 should normally have. This is usually done to save
 space or money.
@@ -1480,16 +1603,19 @@ related to spacecraft operations made from within the
 bridge (for example, Astrogation and Pilot checks).
 
 COMMAND BRIDGES
+
+
 A command bridge is used by ships that lead
 squadrons or entire fleets, where the control of large
 regions of space and management of multiple ships is
 critical. A command bridge adds 40 tons to an existing
 bridge, can be used by any ship of more than 5,
 tons and adds an additional MCr30 to the cost of the
-bridge. The command bridge grants DM+1 to all Tactics
-(naval) checks made within it.
+bridge. The command bridge grants DM+1 to all Tactics (naval) checks made within it.
 
 COCKPITS
+
+
 Instead of a bridge, ships of 50 tons or less may install
 a cockpit. This is a self-contained, sealed area that
 contains a single seat and all controls necessary for
@@ -1508,7 +1634,7 @@ has life support for 24 hours.
 
 Ship Design
 
-TRAVELLER
+
 
 ###### INSTALL COMPUTER
 
@@ -1554,6 +1680,8 @@ primary. The primary and backup computers cannot
 be operated simultaneously.
 
 COMPUTER CORES
+
+
 Most capital ships, and certain specialised vessels,
 have multiple distributed computer networks spread
 throughout their decks but always include a central
@@ -1578,6 +1706,8 @@ the price of the core. Other software must be added at
 extra cost as normal.
 
 COMPUTER OPTIONS
+
+
 There are two additional options to consider when
 fitting a ship’s computer:
 
@@ -1595,6 +1725,8 @@ Both options can be applied to the same computer by
 doubling its cost (+100%).
 
 COMPUTER TECH LEVELS
+
+
 Note that the listed Tech Level of a computer is
 the minimum at which a given computer model is
 available. The operating Tech Level is that of the
@@ -1669,7 +1801,7 @@ must be carefully considered in ship designs.
 
 **STEP 9:**
 
-TRAVELLER
+
 
 Ship Design
 
@@ -1695,6 +1827,8 @@ want to do things a little differently and this is handled
 as described in Small Star Ships below.
 
 SMALL CRAFT
+
+
 Ships of 100 tons or less that do not possess a
 jump drive typically have a single pilot. The journeys
 undertaken by such ships are generally short and it is
@@ -1707,6 +1841,8 @@ function more efficiently with more crew but they are
 not strictly necessary for the operation of the ship.
 
 SMALL STARSHIPS
+
+
 Spacecraft in the hands of small-time traders or
 adventurers usually run with a bare minimum of crew,
 with personnel often fulfilling more than one role as
@@ -1736,14 +1872,15 @@ their own crew in addition to those necessary for the
 mother vessel.
 
 LARGE SHIPS
+
+
 The number of crew required to effectively operate a
 ship increases enormously with the size of the vessel,
 but large ships have more efficient centralisation
 of systems. For ships of more than 5,000 tons, the
 Referee can reduce the required crew by multiplying
 the crew complement by the Crew Reduction Multipler
-in the Crew Reduction table. For example, for a 10,000-
-ton ship, multiply the total crew by 0.75 to get the final
+in the Crew Reduction table. For example, for a 10,000-ton ship, multiply the total crew by 0.75 to get the final
 total number of required crew for a given position.
 
 Crew reductions can only be applied to the following
@@ -1798,8 +1935,7 @@ passengers
 1 per 10 High or 100
 Middle passengers
 Administrator Admin Cr1500 1 per 2,000 tons of ship 1 per 1,000 tons of ship
-Sensor Operator Electronics
-(sensors)
+Sensor Operator Electronics (sensors)
 
 Cr4000 1 per 7,500 tons of ship 3 per 7,500 tons of ship
 
@@ -1817,7 +1953,7 @@ Cr5000* 1 per full 20 crew 1 per full 10 crew
 
 between junior and senior officers.
 
-TRAVELLER
+
 
 ###### INSTALL STATEROOMS
 
@@ -1830,6 +1966,8 @@ Each stateroom consumes four tons and costs MCr0.5.
 Most ships allocate one person to each stateroom.
 
 DOUBLE OCCUPANCY
+
+
 Some ships have bunks in their staterooms rather than
 single beds, allowing two people to share the same
 stateroom. This is called double occupancy and is often
@@ -1842,6 +1980,8 @@ insist on it) but lack of privacy for extended periods of
 time can quickly wear on crew not used to it.
 
 LOW BERTHS
+
+
 A low berth provides suspended animation facilities
 for emergencies and low-paying passengers. They
 are not always safe to use but take up relatively little
@@ -1852,6 +1992,8 @@ ton and costs Cr50000. Low berths require 1 Power for
 every 10 berths or portion thereof.
 
 EMERGENCY LOW BERTHS
+
+
 These are compact low berth suites, designed to be
 used in extreme emergencies, such as if a crewman
 develops a medical condition that cannot be cured on
@@ -1863,6 +2005,8 @@ costs MCr1 and requires 1 Power.
 **STEP 11:**
 
 COMMON AREAS AND LIVING SPACE
+
+
 It is common practice to assign an additional amount
 of tonnage, perhaps equal to a quarter of that used for
 staterooms, as common areas or general living space.
@@ -1880,6 +2024,8 @@ components, at a cost to crew comfort.
 Common areas cost MCr0.1 per ton.
 
 COMMON DECENCY
+
+
 Designing a ship with less than the
 recommended common area space is tempting,
 especially when space is at a premium and
@@ -1944,6 +2090,8 @@ Travellers to walk onto the bridge, take command and
 set sail for the stars!
 
 AIRLOCKS
+
+
 Airlocks are sealed systems consisting of two
 heavy-duty doors or iris valves, with atmospheric
 pumping equipment, allowing transit to and from
@@ -1955,8 +2103,7 @@ Options chapter. The average airlock is large
 enough for three people in vacc suits to pass
 through. An airlock takes 10 seconds to cycle.
 Under normal circumstances, airlocks are locked
-down from the bridge and require a Very Difficult
-(12+) Electronics (computers) check to override
+down from the bridge and require a Very Difficult (12+) Electronics (computers) check to override
 from either the interior or exterior of the ship. An
 unlocked airlock can be triggered from outside.
 
@@ -1965,6 +2112,8 @@ Additional airlocks may be added as described
 in the Spacecraft Options chapter.
 
 CARGO HATCHES
+
+
 Any area designated for cargo can be given
 a cargo hatch of any size but this is not an
 airlock. Generally speaking, cargo areas are
@@ -1994,6 +2143,8 @@ It should be noted that all weapons in this chapter are
 Spacecraft scale (see Traveller Core Rulebook, page 167).
 
 NUMBER OF WEAPONS
+
+
 There are only so many weapons that can be attached
 to a ship, the limiting factors being the supply of energy,
 the stresses imposed upon the hull through the use of
@@ -2048,6 +2199,8 @@ changes applied to it:
 - Barbettes consume three Firmpoints.
 
 SYSTEM DEFENCE AND SENSORS
+
+
 The Traveller Core Rulebook covers ranges in
 space up to Distant but this is still a relatively short
 distance in astronomical terms. When constructing
@@ -2060,8 +2213,7 @@ that attacks can be made. However, it is possible for
 sensors to reach further in order to detect incoming
 threats. The following new range bands reflect this.
 
-Very Distant (up to 5,000,000km): All Electronics
-(sensors) checks become Formidable (14+).
+Very Distant (up to 5,000,000km): All Electronics (sensors) checks become Formidable (14+).
 Far (over 5,000,000km): At these ranges,
 sensors can spot the signature of ships making
 jumps (inbound or out) and can determine only
@@ -2119,8 +2271,7 @@ of damage.
 If a Weapons critical hit is scored on a large ship
 by another large ship, choose randomly between
 the weapon systems on the ship. If the weapons
-are multiple (turrets, barbettes, bays, point-
-defence batteries, ammunition storage), use the
+are multiple (turrets, barbettes, bays, point-defence batteries, ammunition storage), use the
 Cargo and Weapons Critical Hit Severity table to
 determine what has been disabled or destroyed.
 For example, if the Referee randomly determines
@@ -2162,19 +2313,22 @@ support fails, DM-4 to all checks
 unless crew restored above 25%
 
 FROZEN WATCH
+
+
 A frozen watch consists of ‘spare’ crew members
 held in low berths until needed. It is presumed
 to include representative members of all
 departments. When Crew critical hits have been
 sustained, the player in control of the affected
-ship may choose to revive any number of frozen-
-watch crew members, who replace disabled or
+ship may choose to revive any number of frozen-watch crew members, who replace disabled or
 killed crew members the following turn, thereby
 ‘repairing’ Crew critical hits.
 
-TRAVELLER
+
 
 TURRETS AND FIXED MOUNTS
+
+
 Turrets and fixed mounts use the same type of
 weapons but whereas a fixed mount can only fire at
 targets directly ahead of it, a turret rotates and can
@@ -2189,8 +2343,7 @@ Double Turret 8 1 1 MCr0.5
 Triple Turret 9 1 1 MCr1
 Pop-Up Mounting 10 +0 +1 MCr1
 
-Up to three weapons may be mounted on a fixed mount
-(small craft have additional limitations), while turrets
+Up to three weapons may be mounted on a fixed mount (small craft have additional limitations), while turrets
 can mount one, two or three weapons, depending on
 their type. These weapons need not be of the same
 type but only one type may be used in the same attack.
@@ -2201,8 +2354,7 @@ weapons being fired but each additional weapon adds
 +1 per damage dice to the final damage total.
 
 For example, if a triple turret with three pulse lasers is
-fired, it makes one attack roll but inflicts 2D+4 damage
-(two additional pulse lasers each adding +1 per
+fired, it makes one attack roll but inflicts 2D+4 damage (two additional pulse lasers each adding +1 per
 damage dice).
 
 Turrets and fixed mounts require just one gunner
@@ -2217,6 +2369,8 @@ mounts will appear unarmed to a sensor scan that
 focuses only on its exterior.
 
 BEAM LASER
+
+
 A laser weapon that fires a continuous beam,
 allowing targets to be tracked and hit more easily.
 Beam lasers are more accurate than pulse lasers
@@ -2224,12 +2378,16 @@ but have shorter range and do less damage. Beam
 laser turrets receive DM+4 to attack rolls.
 
 FUSION GUN
+
+
 An extremely powerful weapon in planet-based
 warfare, in space the fusion gun provides hard-hitting
 strikes at a reasonable cost. However, it is extremely
 power-hungry.
 
 LASER DRILL
+
+
 This is more of a tool than a weapon, used by belters
 to penetrate asteroids in order to reach valuable ores.
 Salvagers also use laser drills to gain entry into derelict
@@ -2238,12 +2396,13 @@ for a potent, if very short-ranged, weapon. The laser
 drill suffers DM-3 to attack rolls if used as a weapon.
 
 MISSILE RACK
+
+
 Although missile racks require ammunition and the
 warheads take time to reach distant targets, they
 can be very powerful weapons and, when a range of
 warheads is available, extremely versatile too. Each
-turret with one or more missile racks holds 12 missiles
-(missile racks on Firmpoints hold four missiles).
+turret with one or more missile racks holds 12 missiles (missile racks on Firmpoints hold four missiles).
 The missile rack listed in the table is equipped with
 standard missiles.
 
@@ -2289,6 +2448,8 @@ cannister of railgun ammunition consumes one ton and
 costs Cr5000.
 
 SANDCASTER
+
+
 Although mounted in turrets and of use against
 boarders, the sandcaster is primarily a defensive
 weapon used to protect ships from laser, energy and
@@ -2298,6 +2459,8 @@ Sandcasters on Firmpoints hold four canisters and cost
 Cr5000 to refill.
 
 BARBETTES
+
+
 Barbettes are effectively heavy turrets. Barbettes
 are typically only for military use and not available
 for purchase by civilians except under unusual
@@ -2315,6 +2478,8 @@ barbettes consume 5 tons each.
 Barbette Damage Multiple 3
 
 BEAM LASER BARBETTE
+
+
 Beam laser barbettes are essentially heavier hitting
 versions of turret lasers. At mid-stellar Tech Levels,
 laser barbettes are superseded by more powerful
@@ -2326,12 +2491,15 @@ barbette. Beam laser barbettes receive DM+4 to
 attack rolls.
 
 FUSION BARBETTE
+
+
 An extremely powerful weapon in planet-based
-warfare, in space the fusion barbette provides hard-
-hitting strikes at a reasonable cost. However, it is a
+warfare, in space the fusion barbette provides hard-hitting strikes at a reasonable cost. However, it is a
 power-hungry weapon.
 
 ION CANNON
+
+
 This weapon disrupts the systems of the target ship.
 Ion weapons are typically used to temporarily disable
 enemy ships, stopping them from fleeing or attacking
@@ -2340,6 +2508,8 @@ reason, they may be found on well-equipped pirate
 vessels or customs ships.
 
 DAMAGE MULTIPLES
+
+
 Barbettes, bay weapons and spinal mount
 weapons have damage multiples. After a hit is
 scored, roll damage, subtracting armour and other
@@ -2361,7 +2531,7 @@ and torpedoes.
 
 Weapons and Screens
 
-TRAVELLER
+
 
 WEAPON TRAIT: ION
 Ion weapons overload power systems,
@@ -2401,6 +2571,8 @@ that the Power was available before the Ion attack.
 
 WEAPON TRAITS: ORBITAL
 BOMBARDMENT AND ORBITAL STRIKE
+
+
 Orbital bombardment and strike weapons require
 the Gunnery (ortillery) skill to use. These traits
 reflect weapons optimised to strike ground-based
@@ -2487,6 +2659,8 @@ standard warhead. Torpedo barbetttes on Firmpoints
 consume an additional two tons of space.
 
 B AYS
+
+
 For more destructive power than that provided by
 turrets and barbettes, weapons bays allow ships to
 concentrate a lot of fire from a single weapon system.
@@ -2517,6 +2691,8 @@ above. For example, a Medium Meson Gun Bay would
 do 6D x 20 damage.
 
 THE RADIATION TRAIT
+
+
 When a spacecraft weapon with the Radiation
 trait is fired, it inflicts 2D x 60 rads on everyone
 within 10 metres of the point of attack. It should
@@ -2549,7 +2725,7 @@ these weapons.
 
 Weapons and Screens
 
-TRAVELLER
+
 
 All bay weapons suffer DM-2 when attacking targets
 of 2,000 tons or less and DM-4 when attacking targets
@@ -2557,17 +2733,23 @@ of 100 tons or less. Missile and torpedo salvoes do not
 use these modifiers.
 
 FUSION GUN BAY
+
+
 Each fusion gun bay mounts one or more massive
 fusion cannons, capable of blasting apart small vessels
 with a single shot.
 
 ION CANNON BAY
+
+
 This weapon disrupts the systems of the target ship.
 Ion cannon bays allow the focusing of a great deal of
 energy, potentially causing even small capital ships
 problems when used in sufficient numbers.
 
 MASS DRIVER BAY
+
+
 Also known as an ortillery railgun, this weapon
 fires large, solid projectiles at speeds optimised for
 smashing planetary targets. Each bay contains enough
@@ -2582,6 +2764,8 @@ Medium 4 Cr40000
 Large 20 Cr200000
 
 MESON GUN BAY
+
+
 Meson guns fire destructive beams that make a
 mockery of armour and produce intense radiation
 effects inside a target. Meson gun bays ignore all
@@ -2661,12 +2845,16 @@ missiles that cost Cr150000 for 12, have Thrust 6 and
 inflict 3D damage per missile.
 
 PARTICLE BEAM BAY
+
+
 The use of a bay allows much larger particle beam
 weapons to be installed, the largest capable of
 terrifying firepower that erodes a ship’s hull and
 irradiates enemy crew.
 
 RAILGUN BAY
+
+
 Although the rounds a railgun uses are low
 technology armour penetrators, the weapon itself uses
 electromagnetic forces to accelerate them to sizeable
@@ -2678,7 +2866,7 @@ on the Railgun Ammunition table.
 
 Weapons and Screens
 
-TRAVELLER
+
 
 Railgun Ammunition
 Railgun Bay Tons/Attack Cost/Attack
@@ -2687,6 +2875,8 @@ Medium 2 Cr30000
 Large 5 Cr75000
 
 REPULSOR BAY
+
+
 Repulsor bays use gravitics to deflect objects – usually
 incoming missiles or torpedoes – at great distances.
 By reversing the polarity of a repulsor, a ship may also
@@ -2721,6 +2911,8 @@ only be applied once. However, a ship may not lock onto
 an object of greater tonnage than itself.
 
 TORPEDO BAY
+
+
 A flurry of missiles will panic any ship’s captain but
 a salvo of torpedoes is real cause for concern. The
 torpedo bay launches a number of torpedoes with every
@@ -2731,6 +2923,8 @@ torpedoes in a small bay, 72 in a medium bay and 360
 in a large bay).
 
 SPINAL WEAPONS
+
+
 Spinal weapons are the ultimate in ship-borne
 firepower, huge weapons that run the entire length of
 a ship. In many cases, a ship will be built around the
@@ -2818,8 +3012,7 @@ display the weapon as ‘Spinal – meson (TL15) – 5x’.
 For large spinal mounts, the number of damage dice
 can become quite high. To simplify, divide the damage
 dice by the desired multiple and then multiply the final
-amount by the same number. For example, a 75,000-
-ton meson spinal mount inflicts 60D damage. Instead
+amount by the same number. For example, a 75,000-ton meson spinal mount inflicts 60D damage. Instead
 
 Spinal Weapon Range Adjustments
 
@@ -2873,6 +3066,8 @@ TL Tons Cost
 +3 -20% +30%
 
 MASS DRIVER SPINAL MOUNT
+
+
 Used against precise targets, such as large-scale
 infrastructure – dams, power generation sites,
 spaceports and seaports, and so forth – and industrial
@@ -2885,6 +3080,8 @@ combine to produce extreme forces. Ammunition is 50
 tons and costs Cr500000 per attack
 
 MESON SPINAL MOUNT
+
+
 A truly awe-inspiring weapon, the dual-particle beams
 used by meson spinal mounts can end battles before they
 really begin. Meson spinal mounts ignore all armour and
@@ -2892,9 +3089,11 @@ radiation shielding.
 
 Weapons and Screens
 
-TRAVELLER
+
 
 PARTICLE SPINAL MOUNT
+
+
 The largest version of a weapon whose development
 started with humble barbette-based systems, particle
 spinal mounts are a mainstay of the most powerful
@@ -2903,6 +3102,8 @@ is reduced by 3% per point of armour possessed by
 the target before applying the Damage Multiple.
 
 RAILGUN SPINAL MOUNT
+
+
 An array of smaller rapid-firing guns, the railgun spinal
 mount fires much larger rounds at near relativistic
 speeds. The damage dealt by a railgun spinal mount
@@ -2913,6 +3114,8 @@ rounds. Extra or replacement rounds consume 20 tons
 each and cost MCr0.2.
 
 MISSILES
+
+
 There are several different types of missiles
 beyond standard warheads. Additional missiles
 can be purchased for a ship, increasing its stock of
@@ -2921,6 +3124,8 @@ Twelve missiles consume one ton. The listed cost is
 for 12 missiles.
 
 ADVANCED MISSILE
+
+
 An advanced version of the standard missile, this
 model features improved propulsion and a more
 devastating warhead.
@@ -2946,6 +3151,8 @@ Standard 7 10 4D Cr250000 Smart
 only 1D damage.
 
 ANTIMATTER MISSILE
+
+
 Tipped with an antimatter warhead, these missiles
 are devastating enough in the attack but also release
 waves of destructive radiation on enemy crews.
@@ -2967,6 +3174,8 @@ detonates a fragmentary warhead that eliminates 1D
 Step of space combat.
 
 DECOY MISSILE
+
+
 These missiles have a small warhead but sport a pair
 of small pods mounted with powerful transmitters and
 jammers. These are detached shortly before impact,
@@ -2974,6 +3183,8 @@ confusing point-defence systems. All anti-missile fire
 directed at this missile suffers DM-2.
 
 FRAGMENTATION MISSILE
+
+
 This missile is designed to target small craft. It
 explodes shortly before interception, throwing out a wall
 of high-velocity shrapnel. When fired in mass barrages,
@@ -2998,6 +3209,8 @@ rules that enable detonations to last multiple rounds.
 Successful attacks reduce the Power of opposing
 
 MISSILE FLIGHT TIMES
+
+
 High Guard introduces several new types of
 missiles and torpedoes that have different Thrust
 ratings compared with the standard warheads of
@@ -3010,6 +3223,8 @@ also used to determine how many rounds the Power
 reduction lasts.
 
 JUMPBREAKER MISSILE
+
+
 These missiles create localised gravitational distortions
 when they detonate, making the delicate calculations
 required for an accurate jump much more difficult. A
@@ -3031,8 +3246,7 @@ Long 4 1 Immediate Immediate
 Very Long 6 4 3 2
 Distant 21 10 9 7
 
-In addition, when huge salvoes of missiles are in-
-flight, problems with guidance and motor systems
+In addition, when huge salvoes of missiles are in-flight, problems with guidance and motor systems
 can become more apparent. Halve the number of
 missiles within a salvo for every full five rounds of
 travel. Torpedoes have much greater endurance
@@ -3046,7 +3260,7 @@ Antimatter missile Advanced missile
 
 Ion missile
 
-TRAVELLER
+
 
 MULTI–WARHEAD MISSILE
 This heavy missile carries multiple warheads, which
@@ -3056,6 +3270,8 @@ more damage. Just before you make an attack roll,
 multiply the number or missiles in the salvo by three.
 
 NUCLEAR MISSILE
+
+
 A powerful missile available at lower Tech Levels, using
 nuclear missiles near an inhabited planet or orbit is
 forbidden by interstellar law. Nuclear missiles inflict
@@ -3063,6 +3279,8 @@ more damage than standard or advanced missiles and
 also have the Radiation trait.
 
 ORTILLERY MISSILE
+
+
 Specifically designed for planetary bombardment,
 ortillery missiles are powerful but too slow to be used
 effectively as anti-ship weapons unless the target is
@@ -3071,6 +3289,8 @@ and Orbital Strike trait descriptions on page 30 for
 more information.
 
 SHOCKWAVE MISSILE
+
+
 This is a highly specialised missile that carries a
 magnetic-pulse warhead. The blast it creates is
 harmless to spacecraft but scatters and polarises sand
@@ -3079,10 +3299,14 @@ struck by a shockwave missile cannot benefit from
 sand defences for this round and the next.
 
 STANDARD MISSILE
+
+
 The most common form of missile, which carries a
 powerful explosive warhead.
 
 SANDCASTERS
+
+
 Most sandcasters fire canisters of small particles that
 counteract laser, energy and particle weapons fire but
 other types of canister are available. Additional canisters
@@ -3098,24 +3322,31 @@ ship. Anti-personnel canisters can be used against
 targets in space or on a planetary surface.
 
 CHAFF CANISTER
+
+
 Sandcaster chaff disrupts sensors and communications
 targeted at the ship that creates the cloud. All
-Electronics (comms), Electronics (sensors), Electronics
-(remote ops) checks and attack rolls for missiles made
+Electronics (comms), Electronics (sensors), Electronics (remote ops) checks and attack rolls for missiles made
 within a chaff cloud suffer DM-1. Chaff does not provide
 protection against laser, energy or particle weapons.
 
 PEBBLE CANISTER
+
+
 This is designed as a basic offensive round for a
 sandcaster. When targeting boarders, pebble canisters
 cause 1DD damage (Ground scale). They do not provide
 protection against laser, energy or particle weapons.
 
 SAND CANISTER
+
+
 The standard canister fitted to most casters. Its use is
 covered in the Traveller Core Rulebook, page 168.
 
 SANDCUTTER CANISTER
+
+
 A very short-ranged weapon, the sandcutter fires a hail of
 electromagnets into the midst of an enemy sand cloud.
 These magnets cause the sand to coagulate, reducing its
@@ -3126,6 +3357,8 @@ sand canisters the enemy uses that round. It provides no
 protection laser, energy or particle weapons.
 
 TORPEDOES
+
+
 There are several different types of torpedoes beyond the
 standard warheads supplied with most weapon systems.
 
@@ -3195,6 +3428,8 @@ against this torpedo suffers DM-2. Defences that work
 against lasers can be used against this torpedo.
 
 ION TORPEDO
+
+
 An expensive but effective solution to the problem
 of disabling enemy ships for salvage, ion warheads
 operate as described in New Trait: Ion on page 30
@@ -3230,27 +3465,34 @@ Standard 7 10 6D Cr150000 Smart
 
 Weapons and Screens
 
-TRAVELLER
+
 
 NUCLEAR TORPEDO
+
+
 A basic but powerful weapon, the nuclear torpedo is
 used by lower tech navies.
 
 ORTILLERY TORPEDO
+
+
 Like its smaller missile counterpart, this torpedo is
 designed to be launched from orbit against planetside
 targets. Like their missile counterparts, ortillery
-torpedoes are too slow to be used effectively as anti-
-ship weapons unless the target is not expecting an
+torpedoes are too slow to be used effectively as anti-ship weapons unless the target is not expecting an
 attack. See the Orbital Bombardment and Orbital Strike
 trait descriptions on page 30 for more information.
 
 PLASMA TORPEDO
+
+
 This weapon is fitted with a powerful plasma burner in
 the nose and is particularly effective at cutting through
 ship armour.
 
 STANDARD TORPEDO
+
+
 This torpedo consists of a small but powerful propulsion
 unit, guidance computers and a fragmentation device
 dedicated to kinetic-kill attacks.
@@ -3258,6 +3500,8 @@ dedicated to kinetic-kill attacks.
 Weapons and Screens
 
 SMALLER WEAPONS
+
+
 It is possible to equip a spacecraft with Ground
 scale weaponry. This is usually done on small
 craft designed to operate regularly within an
@@ -3324,6 +3568,8 @@ Type II 12 +4D 15 20 MCr6
 Type III 14 +6D 25 20 MCr10
 
 SCREENS
+
+
 Screens are a variety of directed defensive systems
 that use various technologies to defeat specific attacks.
 For example, meson screens prevent meson decay and
@@ -3338,11 +3584,15 @@ in the Traveller Core Rulebook.
 Weapons and Screens
 
 SHIELDS
+
+
 Many universes feature ships capable of generating
 shields that deflect or absorb damage. These are
 covered in the Exotic Technology chapter (page 79).
 
 MESON SCREEN
+
+
 Meson screens block attacks from meson weapons by
 preventing meson decay. A successful use of a meson
 screen reduces the damage of a meson weapon by
@@ -3352,6 +3602,8 @@ batteries, requiring only a single Gunner (screens)
 check for an unlimited number of screens.
 
 NUCLEAR DAMPER
+
+
 Nuclear dampers project a series of nodes and
 antinodes where the strong nuclear force is enhanced
 or degraded, rendering nuclear warheads ineffective.
@@ -3385,6 +3637,8 @@ may only attempt to Angle Screens once per
 round and each screen can only be used once.
 
 BLACK GLOBE GENERATOR
+
+
 Black globe generators are a special type of screen
 that projects an energy-absorbing barrier that shunts
 the energy of an incoming attack into capacitors. Any
@@ -3409,9 +3663,11 @@ Black globe generators consume 50 tons and, when
 available, cost at least MCr100. They require 30
 points of Power.
 
-TRAVELLER
+
 
 ABSORBING ATTACKS
+
+
 As the energy of attacks absorbed by the generator is
 channelled to capacitors, a ship must have sufficient
 capacity if it is to avoid overloading its systems
@@ -3429,6 +3685,8 @@ Damage Multiple before determining how much
 damage is absorbed
 
 DISCHARGING CAPACITORS
+
+
 If a ship with a black globe generator absorbs more
 damage than its capacitors can handle, the ship
 automatically explodes, destroying it instantly.
@@ -3440,6 +3698,8 @@ the capacitors discharge an amount of damage equal to
 tonnage of the ship’s power plant.
 
 FLICKERING GENERATORS
+
+
 A black globe generator that is switched on all the
 time automatically absorbs all incoming attacks. It also
 makes the ship it is protecting effectively invisible to
@@ -3517,6 +3777,8 @@ some require far more advanced technology, as
 denoted by any TL requirement.
 
 STRUCTURE
+
+
 These options alter the basic framework of the ship and
 although they can be retrofitted, expect a ship to spend a
 considerable amount of time in a shipyard for installation.
@@ -3573,6 +3835,8 @@ tonnage
 hull cost
 
 PRESSURE HULL
+
+
 Intended primarily for gas giant research vessels, a
 pressure hull is designed to withstand incredibly high
 pressures. Components within the pressure hull are
@@ -3598,9 +3862,11 @@ A pressure hull consumes 25% of the vessel’s tonnage
 and costs 10 times the normal hull cost. It is considered
 to have intrinsic Armour +4.
 
-TRAVELLER
+
 
 MODULAR HULL
+
+
 A portion of a ship’s hull may be designated as
 modular, allowing it to be swapped out easily for
 another module. This allows a ship to be configured for
@@ -3629,6 +3895,8 @@ cost. This results in 30 tons of the ship’s components
 being easily swapped out from mission-to-mission.
 
 MODULE
+
+
 Hull modules are cheaper to build than regular
 hulls because they are not designed to operate as
 independent spacecraft. Options may be added to hull
@@ -3638,10 +3906,14 @@ Option Cost
 Module Cr25000 per ton
 
 POWER
+
+
 A variety of options can be applied to a ship’s power
 systems, normally for emergency use.
 
 EMERGENCY POWER SYSTEM
+
+
 An emergency power system allows a ship to keep
 functioning even when its main power plant has been
 taken completely offline and is a cheaper alternative
@@ -3671,8 +3943,7 @@ needed. They can be recharged in any round with
 excess Power not being used by other systems. This
 Power can then be used in subsequent rounds as if
 they were being produced by the power plant; simply
-add the amount of Power stored within the batteries
-(they need not be completely drained) to the Power the
+add the amount of Power stored within the batteries (they need not be completely drained) to the Power the
 ship has available that round.
 
 High-efficiency batteries can be combined with
@@ -3690,6 +3961,8 @@ High-Efficiency Batteries 10 MCr0.1 40
 High-Efficiency Batteries 12 MCr0.2 60
 
 SOLAR ENERGY SYSTEMS
+
+
 There are two types of solar energy systems used
 by spacecraft: solar coatings and solar panels. Solar
 coatings integrate photovoltaic cells into individual
@@ -3772,6 +4045,8 @@ solar coating receive DM+1 (DM+2 for solar panels but
 only when they are deployed).
 
 DRIVES
+
+
 Drives can be modified or given accessories to extend
 their utility or capability.
 
@@ -3796,6 +4071,8 @@ to the effects of its gravitational force equivalent, also
 known as G-force.
 
 CONCEALED MANOEUVRE DRIVE
+
+
 Manoeuvre drives, whose function is described in
 Ship Design on page 15, use thruster plates to move
 a ship without the need for propellant. Manoeuvre
@@ -3810,7 +4087,7 @@ and 10% to fore. Therefore, a ship with Thrust 4 could
 exert one G of thrust to left or right and 0.4G to fore
 without the need to turn the ship on its axis.
 
-TRAVELLER
+
 
 G-LOC
 Accelerating at high g-force without the benefit of
@@ -3930,8 +4207,7 @@ in g-LOC and DM-2 to all tasks after returning to
 consciousness until g-force is reduced to no more than
 one for at least one hour.
 
-7–10 Very Difficult
-(12+)
+7–10 Very Difficult (12+)
 
 Once per
 minute.
@@ -3942,10 +4218,8 @@ is maintained but all tasks incur DM-2. Failure results
 in g-LOC and DM-2 to all tasks after returning to
 consciousness until g-force is reduced to no more than
 one for at least one hour.
-11–15 Very Difficult
-(12+)
-Trained only
-(Pilot or Flyer
+11–15 Very Difficult (12+)
+Trained only (Pilot or Flyer
 skill)
 
 Once per
@@ -3967,7 +4241,7 @@ anti-g drugs taken.
 
 Spacecraft Options
 
-TRAVELLER
+
 
 2 is reduced to 1 and so on. These drives are designed
 to operate within confinement, so simply removing the
@@ -3984,6 +4258,8 @@ m-drive tons
 m-drive cost
 
 SOLAR SAIL
+
+
 Solar sails are made of a flexible synthetic fabric that
 has limited self-repair capabilities. Particles emitted
 by the sun (the solar wind) are caught by the sail and
@@ -4003,6 +4279,8 @@ Option Tons Cost
 Solar Sail 5% of hull tonnage MCr0.2 per ton
 
 FUEL
+
+
 Even humble fuel tanks are ripe for modification
 or addition, and a variety of systems have been
 developed to enhance the endurance and range of
@@ -4010,6 +4288,8 @@ ships without the need to invest in much larger and
 more expensive drives.
 
 COLLAPSIBLE FUEL TANK
+
+
 Collapsible fuel tanks (also called fuel bladders) are
 large flexible bladders that expand when filled with
 liquid-hydrogen fuel. They take up cargo space in a
@@ -4032,6 +4312,8 @@ used when full
 Cr500 per ton
 
 DROP TANK
+
+
 Sometimes seen on military assault ships, these are
 external fuel tanks that are jettisoned just as the ship
 enters jumpspace. The virtue of a drop tank is that it
@@ -4054,8 +4336,7 @@ tank itself costs Cr25000 per ton of fuel space.
 Spacecraft OptionsCollapsible fuel tank
 
 Jumping using a drop tank applies a penalty of DM-15
-minus the Tech Level of the drop tanks to the Engineer
-(J-drive) check required to make a jump (see page 157
+minus the Tech Level of the drop tanks to the Engineer (J-drive) check required to make a jump (see page 157
 of the Traveller Core Rulebook).
 
 When a drop tank is used and jettisoned, roll 2D. On
@@ -4115,6 +4396,8 @@ Option Cost
 Fuel/Cargo Container Cr5000 per ton of capacity
 
 FUEL PROCESSOR
+
+
 Fuel processors convert unrefined fuel (typically
 acquired via a fuel scoop) into refined fuel, making the
 ship both self-reliant and safe.
@@ -4126,6 +4409,8 @@ Option Cost Power
 Fuel Processor Cr50000 per ton 1 per ton
 
 FUEL SCOOP
+
+
 Fuel scoops allow unstreamlined and partially
 streamlined ships to gather unrefined fuel from a gas
 giant (streamlined ships have fuel scoops built-in
@@ -4134,6 +4419,8 @@ automatically at no additional cost).
 Adding scoops costs MCr1 and consumes no tonnage.
 
 FUEL TANK COMPARTMENTS
+
+
 These are containers designed to float within the
 hydrogen fuel tanks of a ship and are harder than
 concealed compartments to detect, as even a
@@ -4142,8 +4429,7 @@ compartment unless the fuel tanks are opened and
 searched. Such compartments can only be accessed
 when the fuel tank is at least three-quarters empty.
 
-A fuel tank compartment inflicts DM-4 to Electronics
-(sensors) checks and DM-6 to Investigate checks made
+A fuel tank compartment inflicts DM-4 to Electronics (sensors) checks and DM-6 to Investigate checks made
 to search for it.
 
 Fuel tank compartments cost Cr4000 per ton. Note that
@@ -4151,6 +4437,8 @@ the tonnage for these compartments is deducted from
 the ship’s fuel tankage, not its total hull.
 
 METAL HYDRIDE STORAGE
+
+
 Instead of storing the ship’s hydrogen fuel in liquid
 form at extremely low temperatures with a high risk
 of explosion if a leak occurs into the inhabited spaces
@@ -4160,7 +4448,7 @@ matrix. This takes up more space but is safer.
 
 Spacecraft Options
 
-TRAVELLER
+
 
 Metal hydride storage replaces a ship’s normal fuel
 tankage but consumes twice as much space and costs
@@ -4175,6 +4463,8 @@ Option TL Cost
 Metal Hydride Storage 9 MCr0.2 per ton of fuel
 
 MOUNTABLE TANK
+
+
 These tanks are used to convert cargo space into
 working fuel tanks with all the pumps and feed lines
 required. Fuel can be used directly from these tanks,
@@ -4191,6 +4481,8 @@ Option Cost
 Mountable Tank Cr1000 per ton
 
 RAMSCOOPS
+
+
 Ramscoops are passive hydrogen collectors that
 operate automatically whenever a starship is
 manoeuvring in normal (non-jump) space. Ramscoops
@@ -4224,6 +4516,8 @@ tonnage may be added as desired. Ramscoops cost
 MCr0.25 per ton.
 
 ACCOMMODATIONS
+
+
 Most ships utilise the humble stateroom but other types
 of accommodation are available. All accommodations
 listed in this book other than low berths and
@@ -4233,6 +4527,8 @@ preparation area. Laundry facilities are usually located
 in a common area.
 
 ACCELERATION BENCH AND SEAT
+
+
 These comprise basic seating used for the temporary
 transportation of passengers. Comfort is limited but
 safety remains paramount. The benches are heavily
@@ -4252,6 +4548,8 @@ Acceleration Bench 4 1 Cr10000
 Acceleration Seat 1 0.5 Cr30000
 
 BARRACKS
+
+
 Ships designed to carry large numbers of troops tend
 to use barracks instead of staterooms. A barracks may
 only be used to carry soldiers, basic passengers or other
@@ -4269,6 +4567,8 @@ per ton
 Cr500 per ton
 
 BRIG
+
+
 This is a secure chamber with reinforced walls
 and a door that can be manually locked from the
 outside. Designed to hold up to six prisoners, it can
@@ -4340,14 +4640,12 @@ negligible direct cost; the cost is in the necessary
 support equipment.
 
 Option Tons Cost Power
-Multi-
-Environment
+Multi-Environment
 Space
 
 +5% to
 tonnage
-of multi-
-environment
+of multi-environment
 space
 
 MCr0.5
@@ -4358,6 +4656,8 @@ environmental
 equipment
 
 BRIDGE
+
+
 The bridge is the nerve centre of the ship and vital to
 on-board operations. Some bridge designs put the
 captain and other command staff on a raised balcony
@@ -4371,6 +4671,8 @@ traders pride themselves on the elegance and style of
 their command stations.
 
 DETACHABLE BRIDGE
+
+
 This bridge design can be ejected from the ship in
 an emergency to become a lifeboat for the command
 crew. The bridge has two weeks of life support and
@@ -4392,13 +4694,15 @@ compact battery array and manoeuvre drives adjacent
 to the bridge.
 
 HOLOGRAPHIC CONTROLS
+
+
 This bridge design incorporates advanced interactive
 holographic displays and can be configured to
 automatically adapt to changing situations or
 
 Spacecraft Options
 
-TRAVELLER
+
 
 personnel. A bridge with holographic controls is
 always optimised for the task at hand and grants
@@ -4408,6 +4712,8 @@ Holographic controls add +25% to the cost of the bridge
 and are available at TL9.
 
 SENSOR STATION
+
+
 While every bridge has equipment dedicated to
 monitoring and controlling the ship’s sensors (even if
 this is tied to the pilot’s display), some ships benefit
@@ -4436,12 +4742,16 @@ Note that sensor stations are options only on ships of
 multiple sensor stations in their much larger bridges.
 
 CARGO
+
+
 The majority of ships in the universe are designed
 to haul cargo from one star system to another.
 Predictably, a whole host of optional systems and
 equipment have been designed to make this easier.
 
 CARGO CRANE
+
+
 Built into the ceiling of a cargo hold, this overhead
 gantry crane is designed to shift cargo containers in
 and out of the ship. The crane’s mechanism moves
@@ -4461,6 +4771,8 @@ part thereof) of cargo space
 MCr1 per ton
 
 CARGO NET
+
+
 A slower but safer method than a scoop for retrieving
 cargo from space, the net consists of a mesh of tough
 plastic and several remotely controlled tow drones. The
@@ -4477,9 +4789,10 @@ Option Tons Cost
 Cargo Net 5 MCr1
 
 CARGO SCOOP
+
+
 A cargo scoop allows a ship to pick up cargo or other
-objects floating in space. The scoop includes anti-
-gravity baffles to minimise the impact but using a scoop
+objects floating in space. The scoop includes anti-gravity baffles to minimise the impact but using a scoop
 with a high relative velocity is not recommended.
 
 A Pilot check is required to scoop up an object; if failed,
@@ -4493,6 +4806,8 @@ Option Tons Cost
 Cargo Scoop 2 MCr0.5
 
 EXTERNAL CARGO MOUNT
+
+
 Instead of carrying cargo inside the hull, a ship can
 be designed to mount cargo in an external rack or
 framework. This allows a smaller hull to be used,
@@ -4604,9 +4919,11 @@ greater than this amount.
 
 Spacecraft Options
 
-TRAVELLER
+
 
 DRONES
+
+
 Drones are small robotic craft typically controlled
 from the bridge or a dedicated station. They are used
 as labour-saving devices and for tasks that might
@@ -4624,6 +4941,8 @@ detail in the Robot Handbook but basic descriptions are
 presented here.
 
 MINING DRONES
+
+
 Mining drones allow a ship to mine asteroids without
 manoeuvring perilously close to them. Each set of five
 mining drones allows the ship to process 5D tons of
@@ -4645,6 +4964,8 @@ Drone Type TL Quantity Tons Cost
 Mining 12 5 10 MCr1
 
 PROBE DRONES
+
+
 Probe drones are for surveying planetary surfaces and
 are commonly found on board scout ships. They can be
 dropped from orbit in disposable entry shells but must
@@ -4672,12 +4993,13 @@ Probe
 12 5 1 MCr 0.8
 
 REPAIR DRONES
+
+
 Carrying repair drones allows a ship to make repairs
 during combat, allowing access to exterior components
 without risking crew.
 
-Repair drones allow a Traveller with the Electronics
-(remote ops) skill to make an additional Repair
+Repair drones allow a Traveller with the Electronics (remote ops) skill to make an additional Repair
 System action (see page 159 of the Traveller Core
 Rulebook) during space combat. The repair drones
 are considered to have an Engineer skill level of 1 or
@@ -4698,6 +5020,8 @@ MCr0.2
 per ton
 
 SENSORS
+
+
 Many ships, especially larger and more expensive
 vessels, feature upgraded or specialised sensor
 suites. However, any sensor suite can be upgraded
@@ -4706,6 +5030,8 @@ and quality of acquired data and the range at which
 objects can be detected.
 
 COUNTERMEASURES SUITE
+
+
 A countermeasures suite (TL13) is designed to jam
 enemy transmissions. Note that meson transmissions
 cannot be jammed. The countermeasures suite
@@ -4775,6 +5101,8 @@ tonnage, cost and power requirement of the sensor
 suite to which they are attached.
 
 EXTENDED ARRAY
+
+
 This is a distributed array that is extended well beyond
 the hull of the ship on retractable arms; there is no
 limit to the size of ship it can be mounted upon.
@@ -4791,6 +5119,8 @@ tonnage and cost of the sensor suite to which they are
 attached and triple the Power requirement.
 
 EXTENSION NET
+
+
 The defence of space is reliant upon properly
 identifying ships and unidentified objects. A sensor
 extension net enhances the clarity of a sensor suite
@@ -4812,13 +5142,14 @@ densitometers, nor can it be used to receive data if the
 ship that deployed it is manoeuvring.
 
 Option TL Tons Cost
-Extension Net 10 1% ship tonnage
-(min. 1 ton)
+Extension Net 10 1% ship tonnage (min. 1 ton)
 
 MCr1 per
 ton
 
 LIFE SCANNER
+
+
 The life scanner is a ship-mounted sensor array
 specifically calibrated for detecting signs of life and
 differentiating between life forms. For example, it
@@ -4832,7 +5163,7 @@ and so forth) and ecological niches.
 
 Spacecraft Options
 
-TRAVELLER
+
 
 When using the life scanner, an Electronics (sensors)
 check is required to successfully interpret the results.
@@ -4858,6 +5189,8 @@ Analysis Suite
 14 1 MCr4 1
 
 MAIL DISTRIBUTION ARRAY
+
+
 Normal ship communications systems cannot handle
 the data loads necessary for dealing with mail on
 the scale that the x-boat network requires. Instead,
@@ -4870,6 +5203,8 @@ Mail Distribution Array 10 10 MCr20
 Mail Distribution Array 13 20 MCr10
 
 MINERAL DETECTION SUITE
+
+
 This suite upgrades sensor systems that include a
 densitometer, enabling them to determine types of
 minerals present and their quantities.
@@ -4889,6 +5224,8 @@ which they are attached, multiply its cost by five and
 triple its Power requirement.
 
 SHALLOW PENETRATION SUITE
+
+
 This is a combined thermal/EM sensor suite
 designed specifically for hull penetration and internal
 scanning at range.
@@ -4907,6 +5244,8 @@ Penetration Suite
 10 10 MCr5 1
 
 SIGNAL PROCESSING SYSTEM
+
+
 Signal processing systems consist of extremely
 specialised computers and software that improve the
 quality and likelihood of detection for sensor suites.
@@ -4917,8 +5256,7 @@ cost of increased vulnerability to jamming, with other
 ships doubling all DMs they have for jamming a ship
 equipped with signal processing.
 
-Enhanced signal processing grants DM+4 to all sensor-
-related checks. It does not have the vulnerability to
+Enhanced signal processing grants DM+4 to all sensor-related checks. It does not have the vulnerability to
 jamming of the Improved Signal Processing option.
 
 Option TL Tons Cost Power
@@ -4933,11 +5271,15 @@ Processing
 13 2 MCr8 2
 
 EXTERNAL SYSTEMS
+
+
 External systems are components and optional items
 mounted on the exterior of a spacecraft, directly on or
 within the skin of its hull.
 
 AEROFINS
+
+
 Extendible aerofins improve a spacecraft’s
 manoeuvrability in atmosphere, giving a far greater
 degree of control over its movements.
@@ -5021,6 +5363,8 @@ Type IV 301–2,000 20 MCr4
 Type V 2,001 or more 50 MCr8
 
 FORCED LINKAGE APPARATUS
+
+
 Used by naval patrol ships, scavengers and pirates
 to board spacecraft, forced linkage apparatuses are
 close-range grappling devices that allow attempts at
@@ -5039,8 +5383,7 @@ powered, make an opposed Pilot check (DEX or INT)
 against the pilot of the target ship. Each unused point
 of Thrust may be applied for DM+1. After the pilot of the
 attacking ship has won an opposed check, a gunner fires
-the grappling device: Average (8+) Gunner (turret) check
-(DEX), adding the Task Chain DM.
+the grappling device: Average (8+) Gunner (turret) check (DEX), adding the Task Chain DM.
 
 Option TL Pilot check DM Tons Cost
 Basic 7 -2 2 Cr50000
@@ -5061,9 +5404,11 @@ only be used on ships of 5,000 tons or less.
 
 Spacecraft Options
 
-TRAVELLER
+
 
 GRAPPLING ARM
+
+
 A grappling arm is a remotely controlled device used
 to pick up or manipulate objects in space. The arm is a
 flexible tentacle of thousands of telescoping segments,
@@ -5082,6 +5427,8 @@ Grappling Arm 2 MCr1
 Heavy Grappling Arm 6 MCr3
 
 HOLOGRAPHIC HULL
+
+
 Multiple holographic projectors are embedded within
 the hull allowing the ship to change hull colours, add
 graphics and adopt a different appearance (although
@@ -5110,6 +5457,8 @@ ton of hull
 of hull
 
 TOW CABLE
+
+
 A simple device used to haul an attached derelict or
 unpowered ship behind the modified vessel. The ship
 can potentially tow any size vessel provided it has the
@@ -5125,12 +5474,16 @@ Option Tons Cost
 Tow Cable 1% of ship tonnage Cr5000 per ton
 
 INTERNAL SYSTEMS
+
+
 A wide variety of options and internal systems are
 available to customise a ship. This includes new
 rooms and facilities for the crew, as well as safety and
 security features.
 
 ADDITIONAL AIRLOCK
+
+
 A ship is assumed to have one airlock for every full 100
 tons or part of. However, additional airlocks of any size
 may be added to a ship.
@@ -5139,6 +5492,8 @@ Airlocks consume a minimum of two tons and cost MCr0.1
 per ton. Larger airlocks can be used for cargo bays.
 
 ARMOURY
+
+
 Ships carrying a large number of marines or soldiers
 can benefit from an armoury, a specialised weapons
 storage facility. An armoury can only be accessed by
@@ -5203,6 +5558,8 @@ Option Tons Cost
 Briefing Room 4 MCr0.5
 
 COMMON AREAS
+
+
 A standard ship’s common area is used for dining
 and recreation. Most are pedestrian affairs with
 some chairs and tables, a refrigeration device,
@@ -5242,8 +5599,7 @@ Gourmet Kitchen
 All ships’ commons contain a galley at the very
 least but discerning captains add facilities for
 a finer culinary experience. These may include
-specialised ovens, refrigeration devices, food-
-preparation equipment and other items that enable
+specialised ovens, refrigeration devices, food-preparation equipment and other items that enable
 a qualified steward to tantalise the palates of the
 crew and passengers. A minimum of Steward 2
 is required to properly use such facilities, which
@@ -5253,7 +5609,7 @@ when seeking high passengers.
 
 Spacecraft Options
 
-TRAVELLER
+
 
 COMMON AREAS (CONTINUED)
 Hot Tub
@@ -5318,8 +5674,7 @@ verify this, many spacers believe that time spent
 in zero-G is therapeutic, a welcome respite from
 simulated gravity where one can philosophise
 and ponder the mysteries of the universe. Zero-G
-rooms may be of any size. Controls and a safe-
-access portal (the transition from artificial gravity
+rooms may be of any size. Controls and a safe-access portal (the transition from artificial gravity
 to zero-G can be disorienting and injurious
 without such a device) cost Cr50000. An engineer
 can actually turn any portion of a ship into an
@@ -5396,6 +5751,8 @@ Option Cost
 Full Hangar MCr0.2 per ton
 
 GRAV SCREEN
+
+
 A gravity screen blocks densitometers from scanning
 the inside of a ship, rendering them useless and
 returning error codes. They are impenetrable to this
@@ -5415,11 +5772,15 @@ per ton
 2 per ton
 
 HARDENED SYSTEM
+
+
 Any system that draws power from the power plant can
 be Hardened to render it immune to Ion weapons. A
 Hardened system has its cost increased by +50%.
 
 LABORATORY
+
+
 Space allocated to laboratories can be used for
 research and experimentation, effectively turning the
 ship into a space-going science vessel.
@@ -5432,6 +5793,8 @@ about MCr1 for every four tons. Refer to the Traveller
 Core Rulebook for scientific toolkits available.
 
 LAUNCH TUBE
+
+
 Launching and recovering smaller craft from a larger
 ship is usually a time-consuming activity when using
 docking spaces or full hangars. Launch tubes allow
@@ -5447,7 +5810,7 @@ a single space combat round to release up to 10
 
 Spacecraft Options
 
-TRAVELLER
+
 
 craft, after which both the mothership and launched
 spacecraft may expend Thrust and make attack rolls
@@ -5456,13 +5819,14 @@ during the same round.
 A launch tube consumes an amount of tonnage equal
 to 10 times the size of the largest craft it must launch.
 In addition, each craft carried on the ship that use the
-launch tube must have a docking space or full hangar
-(using the costs and tonnage on page 61).
+launch tube must have a docking space or full hangar (using the costs and tonnage on page 61).
 
 Option TL Cost Power
 Launch Tube 9 MCr0.5 per ton 1 per ton
 
 LIBRARY
+
+
 A library contains computer files as well as lecterns,
 display screens, holotanks and perhaps even hard
 copies of books. A good library is useful for both
@@ -5476,6 +5840,8 @@ Option TL Tons Cost
 Library 8 4 MCr4
 
 MEDICAL BAY
+
+
 The presence of a medical bay on a ship can mean the
 difference between life and death for the crew, so long
 as there are sufficiently trained personnel on board.
@@ -5514,8 +5880,7 @@ At TL14, high-survivability capsules are available, an
 improvement on the assault capsule. They are heavily
 armoured and deploy multiple decoys as they plunge
 through the atmosphere. They grant the occupant
-Protection +30, inflict DM-4 on any Electronics
-(sensors) checks made to detect them, and DM-2
+Protection +30, inflict DM-4 on any Electronics (sensors) checks made to detect them, and DM-2
 against any attack rolls.
 
 RE-ENTRY POD
@@ -5530,6 +5895,8 @@ Option TL Tons Cost
 Re-entry Pod 9 1 MCr0.15
 
 RECOVERY DECK
+
+
 The counterpart of launch tubes, a recovery deck
 allows the rapid recovery of ships. This is used on a
 tactical level, bringing small craft (normally fighters) on
@@ -5571,8 +5938,7 @@ A 10-ton stable is capable of housing 20 human-sized
 or 10 cattle-sized creatures.
 
 Option Tons Cost Life Support
-Stable Variable Cr2500 per ton
-(min. 10)
+Stable Variable Cr2500 per ton (min. 10)
 
 Cr250 per ton
 
@@ -5602,6 +5968,8 @@ Option Tons Cost
 Training Facilities 2 per trainee MCr0.2 per ton
 
 UNREP SYSTEM
+
+
 This is a system designed to allow for replenishment and
 resupply of warships while in motion and is vital to the
 function of squadrons in unexplored or hostile systems.
@@ -5617,6 +5985,8 @@ Option Cost Power
 UNREP System MCr0.5 per ton 1 per ton
 
 VAULT
+
+
 A vault is a secure armoured chamber placed within the
 heart of a ship designed to survive attacks that might
 annihilate the rest of a vessel.
@@ -5631,12 +6001,13 @@ Option Cost Armour Hits
 Vault MCr0.5
 per ton
 
-1 per ton
-(max. 10)
+1 per ton (max. 10)
 
 1 per 5 tons
 
 WORKSHOP
+
+
 A workshop can be used to repair broken equipment
 and fabricate new items, and is a common feature on
 scouts and other ships that operate in the wilderness
@@ -5666,6 +6037,8 @@ construct space stations and then operate them within
 a living universe.
 
 CONSTRUCTION
+
+
 Space stations are designed and built in the same
 fashion as ships, with a few differences. Unless stated
 otherwise in this chapter, all rules that apply to ships
@@ -5697,10 +6070,14 @@ STEP 3: INSTALL POWER PLANT
 Two main power requirements:
 
 BASIC SYSTEMS
+
+
 Artificial gravity, heating, lighting and life support.
 Required Power = 20% of hull tonnage.
 
 MANOEUVRE DRIVE
+
+
 Required power = 10% of hull tonnage. See Install
 Power Plant on page 17.
 
@@ -5728,6 +6105,8 @@ Size of Space Station Size of Control Centre
 2,500,001 tons+ 100 tons
 
 COMMAND AND CONTROL CENTRE
+
+
 This is installed in military space stations and functions
 like a command bridge on a starship, enabling the
 station to command fleets across an entire star system.
@@ -5754,6 +6133,8 @@ See Weapons and Screens on page 26.
 STEP 9: INSTALL
 
 OPTIONAL SYSTEMS
+
+
 Select from all available spacecraft options and the
 options listed in Space Station Options on page 66.
 
@@ -5761,8 +6142,7 @@ STEP 10: DETERMINE CREW
 Use the Crew Requirements table to determine how
 many personnel are required. Salaries shown are
 the monthly average for skill level 1 crew; add +50%
-for every skill level above 1. For large space stations
-(more than 5,000 tons) note the Large Ships modifiers
+for every skill level above 1. For large space stations (more than 5,000 tons) note the Large Ships modifiers
 on page 22 to obtain final totals.
 
 STEP 11: INSTALL ACCOMMODATIONS
@@ -5778,12 +6158,16 @@ accommodations and an alternative approach to
 crew residences.
 
 COMMON AREAS AND LIVING SPACE
+
+
 Apply half the tonnage used for all accommodations and
 residential zones. Includes recreation areas, mess halls
 and restaurants, parks, pools, theatres and so on, for
 station residents. Common areas cost MCr0.1 per ton.
 
 AIRLOCKS AND CARGO HATCHES
+
+
 One airlock per 500 tons of space station. Install
 additional airlocks and cargo hatches as described on
 page 25 of the ship design sequence.
@@ -5834,14 +6218,13 @@ Cr5000 1 per full 20 crew 1 per full 10 crew
 Sensor
 Operator
 
-Electronics
-(sensors)
+Electronics (sensors)
 
 Cr4000 1 per 7,500 tons of space station 3 per 7,500 tons of space station
 
 Space Stations
 
-TRAVELLER
+
 
 STEP 13: FINALISE DESIGN
 Calculate annual maintenance by taking the total cost
@@ -5853,6 +6236,8 @@ account for typical occupied usage of accommodations
 and residential facilities.
 
 SPACE STATIONS IN BATTLE
+
+
 In combat, space stations are treated as if they were
 ships, with the following exceptions:
 •	 Space stations cannot manoeuvre to any
@@ -5872,10 +6257,14 @@ of combat manoeuvring (see the Traveller Core
 Rulebook, page 164).
 
 SPACE STATION OPTIONS
+
+
 In addition to residential zones, listed above, the
 following options greatly expand their utility.
 
 COMMERCIAL ZONE
+
+
 Shops, offices, trading halls, restaurants and trinket
 stalls, are all required to attract regular customers to a
 space station. At the low end, commercial zones can
@@ -5897,6 +6286,8 @@ can work around this by using a high-capacity network
 Space Stations
 
 RESIDENTIAL ZONES
+
+
 On advanced worlds, population often outstrips
 demand for space and huge orbital colonies are
 created. In other systems, people live on space
@@ -5916,8 +6307,7 @@ Residential zones are essentially interchangeable
 with stateroom accommodations. Stations that use
 both typically install stateroom facilities strictly for
 crew and official visitors while residential zones
-are considered urban environments in which non-
-station-personnel live. Egalitarian or economical
+are considered urban environments in which non-station-personnel live. Egalitarian or economical
 space stations sometimes house their crew with the
 rest of the station population in the residential zones
 instead of sequestering them in their own area.
@@ -5973,14 +6363,15 @@ and passengers much easier.
 
 This kind of docking facility consumes three tons for
 every ton of the largest ship it is capable of handling or
-the total tonnage of ships it can handle at any one time
-(so, a 6,000-ton docking facility can hold ships totalling
+the total tonnage of ships it can handle at any one time (so, a 6,000-ton docking facility can hold ships totalling
 up to 2,000 tons).
 
 For every ton they consume, docking facilities cost
 MCr0.25. They also need one crewman for every 100 tons.
 
 FUEL REFINERY
+
+
 The production of refined fuel in space has three
 distinct steps from start to finish; gather unrefined fuel,
 refine it, then store and distribute it. A space station
@@ -6010,6 +6401,8 @@ store processed fuel. Instead, large fuel tanks must be
 built at a cost of Cr50000 per ton.
 
 MANUFACTURING PLANT
+
+
 Orbital manufacturing facilities enable the production
 of vast amounts of goods. The types of goods created
 are dependent on the type of manufacturing plant,
@@ -6025,6 +6418,8 @@ are manufactured in a system that can provide the
 needed raw materials quickly and easily. If the system
 
 SHIPS AND STATIONS
+
+
 With the Referee’s approval, space station
 modules can be installed on other spacecraft as
 well. There is no reason why a large enough ship
@@ -6035,13 +6430,15 @@ Fundamentally, a space station is a ship that
 lacks mobility. Aside from that, there are no real
 differences between a space station and a ship.
 
-TRAVELLER
+
 
 the space station is within meets the Trade Code
 requirement in the Goods table, then production is
 increased by 25%.
 
 MINERAL REFINERY
+
+
 Mineral refineries convert asteroids into useful metals
 and materials. Some are made up of individual
 platforms, each of which contribute to the operation and
@@ -6115,6 +6512,8 @@ for tugs to bring asteroids back to the space station.
 
 TL
 
+
+
 Maximum
 Output Per Day Power Crew Cost
 7 0.5 tons 5 1 per 10
@@ -6137,8 +6536,7 @@ Cargo space is normally dedicated to storing the
 produce from a refinery.
 
 **Smelter:** Ores are the normal end-product of a
-mineral refinery but many stations also conduct on-
-board processing to create more valuable materials.
+mineral refinery but many stations also conduct on-board processing to create more valuable materials.
 A smelter allows Common Ores to be processed into
 Common Raw Materials and Uncommon Ores into
 Uncommon Raw Materials. Each ton of smelter allows
@@ -6147,6 +6545,8 @@ Materials per day. A smelter costs MCr0.5 and requires
 1 Power per ton.
 
 SHIPYARD
+
+
 The smallest shipyards are found on civilian stations for
 the construction of small craft but far larger construction
 sites can be found on the stations of megacorporations
@@ -6169,6 +6569,8 @@ Level 12. Shipyards capable of building ships with jump
 drives have their cost increased to MCr0.75 per ton.
 
 STARPORTS
+
+
 It is possible for a space station to be classed as a
 starport for a system. This can be either as a highport
 servicing ships that cannot reasonably reach planetside
@@ -6229,6 +6631,8 @@ associated costs of doing so.
 # C USTOMISING SHIPS
 
 ALTERING TECH LEVELS
+
+
 The Tech Level, price and tonnage of components
 can be adjusted while a ship is being designed. Ships
 built at higher or lower Tech Levels have one or more
@@ -6254,8 +6658,7 @@ Advanced +1 — +10% 1 Advantage
 Very Advanced +2 — +25% 2 Advantages
 High Technology +3 — +50% 3 Advantages
 
-When selecting prototype (lower TL) or advanced
-(higher TL) components, use the Prototype/Advanced
+When selecting prototype (lower TL) or advanced (higher TL) components, use the Prototype/Advanced
 table to alter its TL, tonnage and cost, and to determine
 how many Advantages or Disadvantages it acquires.
 Advantages and Disadvantages are then selected from
@@ -6293,8 +6696,7 @@ into real space. Normally, a ship that emerges into real
 space is automatically detected if it emerges within
 the minimum detail range of the sensor. However,
 detecting a ship equipped with a stealth drive emerging
-into real space requires a Formidable (14+) Electronics
-(sensors) check (1D rounds, INT or EDU) if it is within
+into real space requires a Formidable (14+) Electronics (sensors) check (1D rounds, INT or EDU) if it is within
 the ‘limited’ detail range of the sensors or automatically
 fails if outside the minimum detail range. Stealth jump
 requires two Advantages.
@@ -6309,12 +6711,16 @@ detailed on page 157 of the Traveller Core Rulebook).
 by the jump drive by 25%.
 
 MANOEUVRE DRIVE ADVANTAGES
+
+
 Energy Efficient: This manoeuvre drive consumes
 25% less Power than normal.
 Size Reduction: This reduces the tonnage consumed
 by the manoeuvre drive by 10%.
 
 MANOEUVRE DRIVE DISADVANTAGES
+
+
 Energy Inefficient: This manoeuvre drive consumes
 30% more Power than normal.
 Limited Range: This manoeuvre drive only functions
@@ -6328,14 +6734,20 @@ kilometres) of a planetary body. Orbital range requires
 two Disadvantages.
 
 REACTION DRIVE ADVANTAGES
+
+
 Fuel Efficient: This reaction drive requires 20% less
 fuel than normal.
 
 REACTION DRIVE DISADVANTAGES
+
+
 Fuel Inefficient: This reaction drive requires 25% more
 fuel than normal.
 
 POWER PLANT ADVANTAGES
+
+
 Increased Power: This power plant produces +10%
 more Power than normal (round up). Increased Power
 requires two Advantages.
@@ -6343,12 +6755,16 @@ Size Reduction: This reduces the tonnage consumed
 by the power plant by 10%.
 
 POWER PLANT DISADVANTAGES
+
+
 Energy Inefficient: This power plant produces -25%
 less Power than normal.
 Increased Size: This increases the tonnage consumed
 by the power plant by 25%.
 
 WEAPON AND SCREEN ADVANTAGES
+
+
 Referees might want to restrict the use of these rules
 with spinal mount weapons, as they already have their
 own table for varying Tech Levels.
@@ -6362,7 +6778,7 @@ Power than normal.
 
 Customising Ships
 
-TRAVELLER
+
 
 High Yield: When rolling damage for a High Yield
 weapon or the performance of a High Yield screen,
@@ -6389,6 +6805,8 @@ Size Reduction: This reduces the tonnage consumed by
 the weapon by 10%. Not applicable to turret weapons.
 
 WEAPON AND SCREEN DISADVANTAGES
+
+
 Energy Inefficient: This weapon consumes 30% more
 Power than normal. Not applicable to turret weapons.
 Inaccurate: This weapon suffers from continual
@@ -6397,6 +6815,8 @@ Increased Size: This increases the tonnage consumed
 by the weapon by 20%.
 
 REFITTING SHIPS
+
+
 Over the course of a ship’s lifespan, its components
 may be modified or replaced. Sometimes this occurs
 after the ship has suffered damage in space combat
@@ -6488,8 +6908,7 @@ ship needs to function. It is easy to get carried away,
 packing in more than needed. For example, a ship
 with a pair of double missile turrets does not require
 expensive Launch Solution software. Nor does a tramp
-trader need costly Evade software to function safely
-(most of the time). Second, consider that not all of a
+trader need costly Evade software to function safely (most of the time). Second, consider that not all of a
 ship’s software needs to run simultaneously, enabling
 the designer to select a cheaper computer with less
 Bandwidth. Determine which software packages need
@@ -6554,12 +6973,14 @@ Anti-Hijack/2 10 TL12 MCr8
 Anti-Hijack/3 15 TL13 MCr10
 
 BATTLE NETWORK
+
+
 The Battle Network software package enables a ship
 to hand off target sensor detection data to all desired
 ships within the specified range of the software. Battle
 Network/1 enables hand-off to all ships within Medium
 
-TRAVELLER
+
 
 range. Battle Network/2 enables hand-off to all ships
 within Long range. For more information about sensor
@@ -6570,6 +6991,8 @@ Battle Network/1 5 TL12 MCr5
 Battle Network/2 10 TL14 MCr10
 
 BATTLE SYSTEM
+
+
 The Battle System software package is a complex suite
 of programmes that interact with each other and other
 ship-board systems to create a tactical view of fleet
@@ -6585,6 +7008,8 @@ Battle System/2 10 TL12 MCr24
 Battle System/3 15 TL15 MCr36
 
 BROAD SPECTRUM EW
+
+
 While a software package cannot match a skilled
 sentient electronics warfare officer, computers can
 act much faster, disrupting entire salvoes in the time it
@@ -6603,6 +7028,8 @@ Software Bandwidth TL Cost
 Broad Spectrum 12 TL13 MCr14
 
 CONSCIOUS INTELLIGENCE
+
+
 A Conscious Intelligence is far more than a basic
 Intellect package or a mere artificial intelligence. A
 Conscious Intelligence is a fully aware, completely
@@ -6634,6 +7061,8 @@ Intelligence/3
 10 TL18 MCr15
 
 ELECTRONIC WARFARE
+
+
 With access to the ship’s sensor suites, this software
 package provides aid to the vessel’s electronic warfare
 experts by quickly finding the correct frequencies to
@@ -6652,6 +7081,8 @@ Electronic Warfare/2 15 TL13 MCr18
 Electronic Warfare/3 20 TL15 MCr24
 
 LAUNCH SOLUTION
+
+
 Using complex calculations to mark the trajectories of
 entire salvos of missiles, the Launch Solution software
 package optimises missile and torpedo attacks to
@@ -6675,8 +7106,7 @@ required to effectively shield another ship is staggering,
 relying on complex calculations of the trajectories of
 enemy ships, friendly targets and the actual weapons
 used. A ship running the Point Defence package may
-use point defence batteries and the Point Defence
-(gunner) reaction to defend any ship within Close
+use point defence batteries and the Point Defence (gunner) reaction to defend any ship within Close
 range. The Point Defence/2 package increases this
 range to Short.
 
@@ -6688,8 +7118,7 @@ Point Defence/2 15 TL12 MCr12
 The Screen Optimiser package takes control of
 any screens mounted on a ship and automatically
 configures them on the fly to best degrade enemy
-attacks. It automatically performs the Angle Screens
-(gunner) action with a total DM+0, against any attack
+attacks. It automatically performs the Angle Screens (gunner) action with a total DM+0, against any attack
 and can use any number of screens simultaneously.
 
 Software Bandwidth TL Cost
@@ -6724,6 +7153,8 @@ Virtual Crew/1 10 TL13 MCr5
 Virtual Crew/2 15 TL15 MCr10
 
 VIRTUAL GUNNER
+
+
 A Virtual Gunner package allows a ship’s computer to
 replace living gunnery crew in an efficient manner. The
 package can replace any number of gunners, although
@@ -6786,6 +7217,8 @@ the job of the ship’s sensor operator, often referred to
 as the sensop.
 
 INITIAL DETECTION
+
+
 Ships use a variety of sensors to collect information
 about their surroundings. By combining data from
 multiple sensor devices, a ship’s computer generates a
@@ -6811,8 +7244,7 @@ Target running passive sensors only +0 Target ship is operating visual, heat, EM
 passive sensors only.
 Target is operating manoeuvre drive +1 per Thrust A target ship applying Thrust 3 provides DM+3 on an
 opposing ship’s sensor check.
-Target is operating power plant +1 Target is operating its power plant at minimum level
-(basic ship systems) or higher.
+Target is operating power plant +1 Target is operating its power plant at minimum level (basic ship systems) or higher.
 Transponder or radio comms +6 Target ship is running its transponder or radio comms.
 Extended sensor array deployed +2 The ship is equipped with an extended array and it
 is deployed.
@@ -6831,8 +7263,7 @@ present is all that is needed; however, should one ship
 need to approach another for boarding or to engage
 in combat, more precise information is required. To
 obtain this level of information, the ship’s sensop must
-make an Average (8+) Electronics (sensors) check
-(1D minutes, EDU), adding DMs listed in the Initial
+make an Average (8+) Electronics (sensors) check (1D minutes, EDU), adding DMs listed in the Initial
 Detection table and DMs for the type of sensors being
 used, as described under Install Sensors on page 21.
 
@@ -6863,6 +7294,8 @@ in which they might be vulnerable to attack from pirates
 or other troublemakers.
 
 STEALTHED SHIPS
+
+
 After initial contact, sensor detection is maintained
 under most circumstances. However, sensor contact
 with ships that have stealth may be lost if the range
@@ -6928,7 +7361,7 @@ transponder or comms
 
 Sensors
 
-TRAVELLER
+
 
 Advanced sensors succeeds, all four ships may have
 sensor detection of the target ship thanks to their ability
@@ -6955,8 +7388,7 @@ ships that are pursuing the
 stealth ship have failed their
 sensor checks but those
 with available Bandwidth
-can receive a sensor hand-
-off from the central ship.
+can receive a sensor hand-off from the central ship.
 The ship on the right has
 no available Bandwidth;
 therefore, it cannot receive
@@ -7040,6 +7472,8 @@ These technologies should be considered optional and
 may be added to any Traveller campaign as desired.
 
 NEW DRIVES
+
+
 Among the most fundamental technologies a ship
 uses are its drives: the jump drive, manoeuvre drive
 and power plant. The drives detailed here can be
@@ -7086,6 +7520,8 @@ Hop Control/8 8 110
 Hop Control/9 9 120
 
 HYPERDRIVE
+
+
 An alternate method of crossing the vast distances
 between the stars, the hyperdrive opens a temporary
 portal into hyperspace which the ship physically
@@ -7110,7 +7546,7 @@ Rating 1 2 3 4 5 6 7 8 9
 % of Hull 10% 12% 14% 16% 18% 20% 22% 24% 26%
 Hyperdrive TL 17 19 20 21 22 23 24 25 26
 
-TRAVELLER
+
 
 A hyperdrive consumes no fuel and, while in
 hyperspace, the spacecraft moves a number of parsecs
@@ -7124,6 +7560,8 @@ the ship requires an amount of Power equal to the
 hyperdrive’s total tonnage.
 
 SKIP DRIVE
+
+
 The skip drive is similar in principle to the hop drive but
 performs at an order of magnitude higher still, enabling
 skips in the hundreds of parsecs. Skip drives have
@@ -7155,6 +7593,8 @@ Skip Control/8 8 110
 Skip Control/9 9 120
 
 WARP DRIVE
+
+
 The warp drive is similar in effect to a hyperdrive,
 but instead of entering hyperspace it creates a
 warp ‘bubble’ around the ship, effectively stretching
@@ -7170,6 +7610,8 @@ speed of light but does so in realspace. In every other
 way, it functions in the same fashion as a hyperdrive.
 
 SPACE FOLDING DRIVE
+
+
 Using a space folding drive, a ship instantaneously
 jumps from one point to another. This works just like the
 standard jump drive on page 15 but there is no weeklong
@@ -7185,6 +7627,8 @@ equal to 50% of the hull’s total tonnage multiplied by
 the space folding drive rating. No fuel is consumed.
 
 TIME DRIVE
+
+
 This drive manipulates the fabric of time and space
 around the ship, allowing it to travel through time rather
 than space. It is capable of moving the ship forward or
@@ -7222,6 +7666,8 @@ Rating 1 2 3 4 5 6 7 8 9
 Space Folding TL 17 18 18 19 19 20 21 22 23
 
 NEW WEAPONS
+
+
 As new technology becomes available or research
 goes down different paths, a variety of new weapons or
 new implementations of weapons begin to appear.
@@ -7274,6 +7720,8 @@ flow for greater stability – this greatly enhances their
 damage potential.
 
 SOLAR PULSE GENERATOR
+
+
 The solar pulse generator is a highly unusual weapon
 that is distributed across the hull of an entire ship, using
 massive amounts of power to generate a pulse that
@@ -7292,6 +7740,8 @@ When fired, the solar pulse generator automatically
 damages every ship within range except the firing ship.
 
 SUPER LASER
+
+
 A term used to describe a wide range of different
 technological implementations, the result is always the
 same; a vast and awesomely powerful directed laser
@@ -7301,6 +7751,8 @@ both in terms of power and cost, super lasers have no
 practical limit when it comes to scalability.
 
 TACHYON CANNON
+
+
 This weapon fires a stream of high-speed tachyons that
 pass through thick armour without being slowed by it.
 Molecular bonded armour is immune to this effect and
@@ -7308,13 +7760,15 @@ tachyon cannons lose their AP trait when attacking a
 ship so armoured.
 
 NEW SCREENS
+
+
 As weapons technology progresses, so too does that
 of defensive measures. Energy screens, in particular,
 become more ubiquitous as technology improves.
 
 Exotic technology
 
-TRAVELLER
+
 
 Turret Weapons
 Weapon TL Range Power Damage Cost Traits
@@ -7357,13 +7811,16 @@ Solar Pulse Generator 18 Short 2,000 5Dx100 MCr25000 Ion
 Exotic technology
 
 DEFLECTOR SCREENS
+
+
 These are energy-based screens projected away
 from a ship to deflect incoming attacks and reduce
 the damage they cause. Deflector screens mitigate
-damage from any weapon, reducing its damage by 1D
-(multiplied by the Effect of the angle screens action).
+damage from any weapon, reducing its damage by 1D (multiplied by the Effect of the angle screens action).
 
 ENERGY SHIELDS
+
+
 Seen as the ultimate in defence, energy shields do not
 require dedicated gunners to ensure their effectiveness,
 only engineers to feed them power. Energy shields,
@@ -7443,12 +7900,16 @@ the ship’s total tonnage multiplied by 10% of the tonnage of
 the ship’s power plant.
 
 NEW OPTIONS
+
+
 Advanced systems installed on board a ship can
 radically alter its capabilities, allowing it to perform
 beyond the specifications of what is considered ‘normal’
 in the galaxy.
 
 COLLECTORS
+
+
 These are accumulators, sweeping up exotic particles
 captured by a canopy and removing the need to carry
 separate fuel for the jump drive. This charge is released
@@ -7465,6 +7926,8 @@ an accumulator and accumulators do not work in jump
 space, in an atmosphere or on a ship expending thrust.
 
 GRAVITY WELL GENERATOR
+
+
 This complex device creates an artificial although
 temporary gravity well across a large area of space,
 making the process of jumping extremely dangerous.
@@ -7488,9 +7951,11 @@ well extends 1,200,000 kilometres and costs MCr360.
 
 Exotic technology
 
-TRAVELLER
+
 
 JUMP FILTERS
+
+
 An advanced modification inserted between a ship’s
 computer and its sensor suite, jump filters search for
 very specific traces created by expended fuel and
@@ -7509,6 +7974,8 @@ no tonnage but require 5 Bandwidth from the ship’s
 computer, 1 Power and cost MCr5.
 
 PSIONIC TECHNOLOGY
+
+
 The use of psionics can be hated, feared or illegal in
 many universes. However, the sheer impact psionics
 can have on any dynamic in space, be it battle or trade,
@@ -7516,14 +7983,15 @@ is too great to ignore. High technology is therefore used
 to degrade or enhance psions in space.
 
 PSIONIC CAPACITOR
+
+
 Through a combination of exotic matrices and carefully
 engineered crystalline technologies, the psionic
 capacitor is an effective artificial storage system for
 psionic energies, which can be drawn upon by any
 psion on board the ship.
 
-A psion must succeed at an Average (8+) PSI check
-(free action) to gain access to the capacitor every time
+A psion must succeed at an Average (8+) PSI check (free action) to gain access to the capacitor every time
 they wish to draw PSI points from it. The psion can then
 use any amount of PSI points present in the capacitor
 for any psionic power used in the same round.
@@ -7536,6 +8004,8 @@ one PSI point per ton every hour, so long as sufficient
 Power is available.
 
 PSION STATEROOM
+
+
 This stateroom is equipped with psionically calibrated
 mood-calming environment sensors that promote
 peace and relaxation. This allows a psion to greatly
@@ -7550,6 +8020,8 @@ A psion stateroom becomes available at TL12. It
 consumes four tons and costs MCr2.
 
 PSIONIC SHIELDING
+
+
 Incorporating exotic metals as a matrix embedded
 within the hull of a ship can make it extremely difficult
 for clairvoyants and telepaths to use their powers
@@ -7594,6 +8066,8 @@ provide a wider understanding of the responsibilities of
 the core crew positions on most ships.
 
 ADMINISTRATOR
+
+
 The administrator role is only present on large
 spacecraft, 2,000 tons or more for commercial ships
 and 1,000 tons or more for military craft. Such ships
@@ -7607,8 +8081,7 @@ cases, in addition to the crew, the chief admin usually
 has a staff to whom they delegate the myriad tasks
 that must be performed to keep the ship running and
 its mission on track. The administrative staff include
-accountants, clerks, pursers, personnel management
-(also called sophont resources), crew advocacy, liaison
+accountants, clerks, pursers, personnel management (also called sophont resources), crew advocacy, liaison
 officers, quartermasters, librarians, yeomen and others.
 
 Administrators keep track of the ship’s fuel, supplies,
@@ -7675,12 +8148,13 @@ the ship. Failure results in an offence to the locals and
 future SOC-oriented tasks are made at DM-2.
 
 Obtain clearance to land at a downport on a high Law
-Level world: Difficult (10+) Admin or Advocate check
-(1D hours, SOC).
+Level world: Difficult (10+) Admin or Advocate check (1D hours, SOC).
 
-TRAVELLER
+
 
 THE PURSER
+
+
 On all types of ships, the purser is responsible for
 taking care of its finances. While they are routinely
 part of a ship’s administrative staff, pursers may
@@ -7762,8 +8236,7 @@ corporate relationships requires more expertise.
 The purser must be an expert improviser. This goes
 without saying on exploratory ventures into the
 frontiers and wild outlands beyond the safe borders
-of an interstellar polity. However, even on tried-and-
-true trade routes, pursers must learn to expect the
+of an interstellar polity. However, even on tried-and-true trade routes, pursers must learn to expect the
 unexpected. Information only travels at the speed of
 jump and circumstances can change from one port
 of call to the next.
@@ -7785,9 +8258,7 @@ is the manager of these funds and their career
 Crew Roles
 
 Make sure the speculative cargo goods the purser
-bought are of the expected quality. Opposed: Difficult
-(10+) Admin or Broker check (INT) versus a Difficult
-(10+) Deception check (INT).
+bought are of the expected quality. Opposed: Difficult (10+) Admin or Broker check (INT) versus a Difficult (10+) Deception check (INT).
 
 Convince port authority agents that the illegal goods
 the ship is carrying are legal and there is no need to
@@ -7798,12 +8269,13 @@ impounded and the Travellers are fined for carrying
 contraband or smuggled goods. Exceptional failure
 means the Travellers are jailed for 2D days and then
 fined 2D x Cr10000 before being released. This task
-can be proceeded by a Difficult (10+) Advocate check
-(2D hours, EDU) in a task chain in order to cite or
+can be proceeded by a Difficult (10+) Advocate check (2D hours, EDU) in a task chain in order to cite or
 fabricate legal precedents that might reduce fines or jail
 sentences. Add the Task Chain DM.
 
 ASTROGATOR
+
+
 Astrogators are only required on jump-capable
 spacecraft. The astrogator is responsible for keeping
 track of where the Travellers’ starship is and where
@@ -7892,7 +8364,7 @@ Crew Roles
 
 **THE PURSER (CONTINUED)**
 
-TRAVELLER
+
 
 When one is in the Regina system and planning on a
 jump to Yori – a mere two parsecs away – the astrogator
@@ -7964,6 +8436,8 @@ than just starmaps and complicated mathematical
 calculations. It is an art form.
 
 CAPTAIN
+
+
 The captain of a ship is its leading officer, assigned to
 command for a specified period of time or indefinitely,
 until relieved or otherwise dispossessed of that
@@ -8016,6 +8490,8 @@ the role. Interstellar custom dictates that only ships of
 officer on a small craft is called a skipper.
 
 ENGINEER
+
+
 An engineer’s work is never done. Engineers are
 responsible for the maintenance and repair of the
 ship’s drives, power and life-support systems. When
@@ -8033,8 +8509,7 @@ without air cannot support its crew for any significant
 length of time. All engineers understand the basic
 principles of life support engineering: maintain
 atmospheric pressure and oxygen levels, filter and
-absorb carbon dioxide, maintain gravitic systems
-(g-compensation and artificial gravity), manage waste
+absorb carbon dioxide, maintain gravitic systems (g-compensation and artificial gravity), manage waste
 and water supply, and provide for early detection
 and suppression of fires. A ship’s g-compensation
 system is designed to counter the amount of thrust
@@ -8112,7 +8587,7 @@ responsible for the fuel scoops, vents that take in raw
 
 Crew Roles
 
-TRAVELLER
+
 
 gas or water that can be ‘cracked’ for their hydrogen
 content and used as fuel. These, of course, lead to one
@@ -8159,6 +8634,8 @@ themselves and only impart those bits of information
 that the captain and crew need to know.
 
 GUNNER
+
+
 Gunners operate the weaponry and defences that ships
 use in space combat. They have the glorious role of
 firing ship weapons at enemy forces, wreaking damage
@@ -8187,8 +8664,7 @@ regard, gunnery is more than just pulling a trigger or
 pressing a launch button – it is also an art form.
 
 Gunnery has four specialisations: turrets, ortillery,
-screens and capital weapons. Turret, barbette and small-
-bay gunners are the ‘gunslingers’ of the profession,
+screens and capital weapons. Turret, barbette and small-bay gunners are the ‘gunslingers’ of the profession,
 solitary operators who rely more upon quick reflexes and
 individual decision-making than other gunnery roles. In
 addition, laser turret gunners have the secondary role of
@@ -8218,8 +8694,7 @@ under tight time constraints. Approaching and attacking
 enemy worlds can expose ships to the dangers posed
 by close-orbit and airspace control command (COACC)
 spacecraft and atmospheric fighter craft and drones,
-as well as surface-to-space missiles and other anti-
-spacecraft weaponry, some of which might be protected
+as well as surface-to-space missiles and other anti-spacecraft weaponry, some of which might be protected
 in deep-site installations that are difficult to penetrate.
 Ortillery gunners usually take a clinical approach to
 
@@ -8280,8 +8755,7 @@ vacated by fallen comrades.
 
 Bay weapon team leaders are often cross-trained
 in Leadership (0 or 1) and Mechanic. Spinal mount
-commanding officers are cross-trained in Leadership
-(1+), Tactics (naval) and Admin, while officers of
+commanding officers are cross-trained in Leadership (1+), Tactics (naval) and Admin, while officers of
 a more technical bent receive training in Admin,
 Electronics (computers or sensors) and Mechanic.
 The more complex the weapon, the more important
@@ -8317,7 +8791,7 @@ efficiencies and the preferences of the admiralty dictate
 
 Crew Roles
 
-TRAVELLER
+
 
 which approach is taken. Captains who came up in
 the ranks of the gunnery department usually prefer a
@@ -8347,6 +8821,8 @@ such technology, preferring instead to rely upon
 instincts and fast reflexes.
 
 MAINTENANCE
+
+
 The larger the ship, the more widespread and extensive
 its basic systems are. Small ships can run with the aid
 of one or two engineers but commercial ships of 1,000
@@ -8483,6 +8959,8 @@ on page 125. Included are recommendations for the
 types of weapons and armour used.
 
 MEDIC
+
+
 The ship’s medic might go by other names, including
 medical officer, ship’s doctor or in the case of a navy
 ship, naval surgeon.
@@ -8540,7 +9018,7 @@ are preferred.
 
 Crew Roles
 
-TRAVELLER
+
 
 While there is no formal requirement for ships with
 fewer than 120 crew and passengers to hire a medic,
@@ -8551,6 +9029,8 @@ and if transporting high passengers, there should be
 one with Medic 2+.
 
 OFFICER
+
+
 Whether a ship is civilian or military, the larger its crew,
 the more officers are required to manage them and to
 take on important projects during its missions.
@@ -8612,8 +9092,7 @@ On smaller ships, officers might be called upon for
 different assignments when their ship is in port but
 on larger ships, watches are maintained as normal
 unless the ship is secure or additional officers have
-been brought aboard from the associated agency
-(for example: military bases, government agencies or
+been brought aboard from the associated agency (for example: military bases, government agencies or
 corporate offices) to help manage the ship.
 
 Officers are typically the most well-informed crew
@@ -8630,6 +9109,8 @@ ships to full battle stations and wartime missions if they
 are entering a conflict zone.
 
 PILOT
+
+
 The pilot of a spacecraft has the glamourous job of
 flying the ship in normal space and within planetary
 atmospheres if the ship is designed for it. The pilot can
@@ -8639,8 +9120,7 @@ small ships, the pilot has a lot of say in what happens.
 When it comes to making tight manoeuvres, there is
 no time to make decisions by committee. On larger
 ships, there is a captain making the call but even on the
-mightiest capital ship, the pilot must often make split-
-second decisions that affect the safety and wellbeing
+mightiest capital ship, the pilot must often make split-second decisions that affect the safety and wellbeing
 of the entire crew, not to mention the integrity of the
 ship itself. Pilot skill is divided into three categories:
 small craft, spacecraft and capital ships. Knowledge
@@ -8762,7 +9242,7 @@ Some ships have auxiliary reaction drives, used either
 
 Crew Roles
 
-TRAVELLER
+
 
 as a backup or to support the manoeuvre drive with
 added thrust on the cheap. Using these on a starship
@@ -8774,8 +9254,7 @@ time under thrust. All pilots, however, have been taught
 how to handle the effects of high-g as part of their
 training. G-compensation might be taken for granted
 but one cannot obtain certification as a pilot without
-being taught how to operate without it. Unlike a small-
-craft pilot, the pilot of a starship is more often tasked
+being taught how to operate without it. Unlike a small-craft pilot, the pilot of a starship is more often tasked
 with the conveyance of an entire crew and passengers.
 Moving the ship means moving everyone and this is
 never far from the pilot’s mind.
@@ -8887,8 +9366,7 @@ are tailored to the individual pilot. For example, some
 pilots do not use a holographic joystick but instead some
 other virtual tool to manoeuvre the ship.
 
-Video or holographic displays vary from ship-to-
-ship. Some pilots only run a few screens to prevent
+Video or holographic displays vary from ship-to-ship. Some pilots only run a few screens to prevent
 from having too many distractions but the standard
 displays that every pilot uses includes a feed from
 the astrogation computer, a sensor array display that
@@ -8954,7 +9432,7 @@ was needed.
 
 Crew Roles
 
-TRAVELLER
+
 
 Enemy ships can gain surprise on an unwitting ship
 that does not have an assigned sensop dutifully
@@ -8983,8 +9461,7 @@ to name a few.
 
 Once the battle has been joined, the sensop’s role
 expands, especially against difficult-to-detect ships. If
-a sensop makes a successful Average (8+) Electronics
-(sensors) check, adjusted by Tech Level and other
+a sensop makes a successful Average (8+) Electronics (sensors) check, adjusted by Tech Level and other
 DMs, the profile and approximate location of an
 opposing ship is maintained throughout combat with a
 few exceptions. Sensory contact with ships that have
@@ -9029,6 +9506,8 @@ want to mine for precious ores or an old wreck they
 want to salvage.
 
 STEWARD
+
+
 A ship’s steward is responsible for the care and feeding
 of its crew and passengers, and the cleaning and
 maintenance of their accommodations.
@@ -9039,8 +9518,7 @@ of various levels. High passage is the equivalent
 of a luxury cruise or flight in first class, including
 a comfortable, well-appointed and meticulously
 maintained stateroom – potentially of the high or luxury
-designation, if available – with single occupancy, high-
-quality and delicious food provided in three square
+designation, if available – with single occupancy, high-quality and delicious food provided in three square
 meals and staff present to wait on hand and foot. High
 passengers also lease one ton of cargo space in the
 ship’s hold. One level of Steward is required per 10
@@ -9142,13 +9620,13 @@ it is always worth creating a deck plan to go with it.
 
 Designing a deck plan can seem a daunting task at
 first, as if it were some sort of secret knowledge passed
-on only between clans of highly specialised naval archi-
-tects. However, as this chapter demonstrates, it is noth-
-ing of the sort and even the most artistically challenged,
+on only between clans of highly specialised naval archi-tects. However, as this chapter demonstrates, it is noth-ing of the sort and even the most artistically challenged,
 armed with nothing but graph paper and a pencil, can
 quickly produce convincing deck plans suitable for play.
 
 VITAL POINTS TO REMEMBER
+
+
 
 - All components that consume tonnage should be
   represented on the deck plan with the exception of
@@ -9210,6 +9688,8 @@ STEP 3
 STEP 5
 
 CREATING A DECK PLAN
+
+
 So, now we will go through a step-by-step guide on
 how to construct a deck plan. We are going to put
 together a 200-ton far trader.
@@ -9221,8 +9701,7 @@ interior deck plan.
 
 **STEP TWO**
 Check the overall tonnage of the ship. Each ton is
-usually represented by two squares on a deck plan
-(very large ships may use a different scale to produce
+usually represented by two squares on a deck plan (very large ships may use a different scale to produce
 deck plans that will fit on a page). You can vary this
 by up to +/- 10% as spacecraft differ in the amount of
 space consumed by corridors, lifts, computer systems,
@@ -9230,6 +9709,8 @@ life support, machinery and other items not included in
 the overall design system.
 
 STEP THREE
+
+
 Note that the tonnage of the components dictates how
 many squares are needed on the deck plan. Start with
 the power plant, jump drive and manoeuvre drive; each
@@ -9237,11 +9718,15 @@ ton on all components requires two squares on the
 deck plan (so one square equals a half ton).
 
 STEP FOUR
+
+
 Staterooms typically use six squares, despite them
 being four tons each – it is assumed that the extra
 tonnage goes into corridors and access areas.
 
 STEP FIVE
+
+
 Once you have located all the components that
 consume tonnage on the deck plan, you are ready to
 go! It helps if you label each component, especially if
@@ -9275,6 +9760,8 @@ be a 95-ton, Thrust 4 spacecraft but still have a place
 within the fighter family.
 
 SQUADRONS
+
+
 Fighters rarely travel alone and are commonly flown in
 pairs (a lead and a wingman) for mutual protection and
 support. In larger conflicts, these pairs are combined
@@ -9291,8 +9778,7 @@ in the same way as a single ship and may use the Ship
 Record Sheet found on page 106.
 
 A squadron can be created from any number of fighters
-that are within Adjacent or Close range of each other
-(about 10 kilometres), are all able to communicate with
+that are within Adjacent or Close range of each other (about 10 kilometres), are all able to communicate with
 one another and, of course, willing to co-operate and
 be led towards a common goal.
 
@@ -9307,6 +9793,8 @@ larger fighter squadrons or complete fighter wings, see
 Fleet Battles on Page 105.
 
 HULL POINTS
+
+
 Total the Hull points for every fighter in the squadron
 
 - this becomes the total Hull score for the entire
@@ -9323,6 +9811,8 @@ suffers a critical hit – there is no need to roll for the
 effects of the critical hit, simply remove a fighter.
 
 PERFORMANCE
+
+
 While most squadrons will be comprised of the same
 model of fighter, there is no reason why this need be
 the case. Indeed, there are stirring tales of ragged
@@ -9343,6 +9833,8 @@ quality (taking into account both actual sensors and the
 skill of the operator) within the squadron.
 
 COMBAT
+
+
 Every fighter in the squadron must perform the same
 pilot action every round. However, if the fighters have
 additional crew members, they can use separate
@@ -9364,6 +9856,8 @@ workload and is not recommended for anything other
 than special circumstances.
 
 DOGFIGHTING
+
+
 When two or more squadrons meet in space, battle can
 quickly devolve into a swirling swarm of hornets that
 relies on equal parts technology, reactions, situational
@@ -9409,9 +9903,11 @@ Heavy Fighter
 50 Tons
 Thrust 9
 
-TRAVELLER
+
 
 FIRING INTO DOGFIGHTS
+
+
 Dogfights can rapidly devolve into massive furballs
 compacted into tiny areas of space, a nightmare for
 the pilots involved and a tense situation for craft further
@@ -9434,6 +9930,8 @@ Needless to say, employing this kind of free-fire tactic is
 not standard Imperial Navy policy.
 
 POINT DEFENCE
+
+
 While the common perception of a fighter is as an
 attack platform or a ‘barrier’ to incoming enemies, they
 are often employed in a defensive role when missiles
@@ -9464,6 +9962,8 @@ an attack on an enemy ship to intercept missiles it has
 just launched.
 
 RECOVERY
+
+
 Fighter pilots tend to be well-trained in the recovery
 of their craft on board a mother ship under simulated
 combat conditions. Merely docking with the vessel
@@ -9504,8 +10004,7 @@ Most space combat encounters involve just a handful
 of ships. For small battles like these, the space combat
 rules presented in the Traveller Core Rulebook will
 suffice, no matter the tonnage of the ships involved,
-whether they be a group of adventure-class ships
-(2,400 tons or less for each ship) or capital ships in the
+whether they be a group of adventure-class ships (2,400 tons or less for each ship) or capital ships in the
 multi-100,000-ton range. However, actions featuring a
 dozen or more ships can be cumbersome to resolve.
 The rules presented here provide an alternative method
@@ -9544,6 +10043,8 @@ predetermined by the Referee or resolved using the
 rules in this chapter.
 
 FLEET CREWS
+
+
 Fleet combat is quite different to space combat in that
 it deals with potentially dozens of ships instead of just
 a few. In space combat, the heroic actions of a single
@@ -9572,6 +10073,8 @@ allowing them to execute the actions of the ships
 should provide the desired entertainment.
 
 FLEET SHEET AND FLEET SHIP SHEET
+
+
 Before conducting a fleet battle, the Referee and
 Travellers must prepare a Fleet Sheet for each side
 of the battle and Fleet Ship Sheets for every ship
@@ -9726,6 +10229,8 @@ Pulse Laser, Missile Rack
 
 WEAPONS
 
+
+
 Damage/Multiple
 
 Traits
@@ -9762,6 +10267,8 @@ Radiation
 
 X
 
+
+
 —
 
 Single Turrets (particle beam) x 100
@@ -9776,23 +10283,29 @@ Radiation
 
 X
 
-—
 
-—
-
-X
-
-—
-
-—
-
-—
 
 —
 
 —
 
 X
+
+
+
+—
+
+—
+
+—
+
+—
+
+—
+
+X
+
+
 
 Missile & Torpedo Salvoes
 
@@ -9828,7 +10341,11 @@ Repulsors
 
 EW
 
+
+
 TOTAL
+
+
 
 600
 
@@ -9902,6 +10419,8 @@ Deployment
 
 WEAPONS
 
+
+
 Damage/Multiple
 
 Traits
@@ -9932,7 +10451,11 @@ Repulsors
 
 EW
 
+
+
 TOTAL
+
+
 
 Screens
 
@@ -9954,9 +10477,11 @@ Fighter Class: Fighter Class:
 
 **FIGHTER SQUADRON SHEET (BLANK)** Evaluate squadrons as described in Fighter Squadrons on page 114. Draw lines around the fighter check boxes to establish squadron groups of variable size. Use the individual fighter check boxes to record weapons usage and casualties during fleet combat.
 
-TRAVELLER
+
 
 FLEET EVALUATION
+
+
 To determine the outcome of a fleet battle, there must
 be an evaluation of the forces involved. This includes a
 description of each fleet and a summary of each ship’s
@@ -10031,20 +10556,22 @@ weapon type and the deployment rate. The deployment
 rate is the number of launch tubes x 10.
 
 INCORPORATING THE NAVAL
+
+
 CAMPAIGN SOURCEBOOK
+
+
 For a more advanced approach to the Crew Skill
 level, refer to the Naval Campaign Sourcebook
 from the Element Class Cruisers boxed set. Naval
-campaigns use the Crew Effectiveness Index
-(CEI) to determine the abilities and effectiveness
+campaigns use the Crew Effectiveness Index (CEI) to determine the abilities and effectiveness
 of a ship crew. The index takes into account a
 more complex evaluation of the crew’s skill levels
 and provides a Task DM for various CEI levels.
 Also taken into consideration is the ship’s recent
 performance and readiness.
 
-The CEI is used to calculate the Effective CEI
-(ECEI), a measure of the ship’s current readiness
+The CEI is used to calculate the Effective CEI (ECEI), a measure of the ship’s current readiness
 and experience. A ship that is fresh from the fight
 and victorious in recent battles will have a higher
 rating, which enhances its Task DM. Likewise,
@@ -10140,6 +10667,8 @@ laser turrets is counted as 300 beam lasers. Missile
 and torpedo weapons are covered on page 36.
 
 ORTILLERY AND ION
+
+
 Ortillery and ion weapons are not listed in the
 Fleet Combat Weapons table. Weapons with the
 Orbital Strike and Orbital Bombardment traits are
@@ -10149,7 +10678,7 @@ other ships. Ion weapons do not inflict damage
 but affect the performance of opposing ships as
 described in the separate Ion Weapons table.
 
-TRAVELLER
+
 
 Fleet Combat Weapons
 Weapon
@@ -10193,6 +10722,8 @@ eliminate 5 weapon systems
 eliminate 6 weapon systems
 
 MISSILE AND TORPEDO SALVOES
+
+
 Missiles and torpedoes attack in salvoes, much as
 they do in space combat. Missiles and torpedoes
 have a Damage value just like other weapon systems.
@@ -10323,9 +10854,11 @@ Standard 6
 
 Fleet Battles
 
-TRAVELLER
+
 
 FIGHTER SQUADRONS
+
+
 Fighters may be assembled into squadrons of
 any size. In battle, each squadron is treated
 much like an individual ship with certain
@@ -10400,6 +10933,8 @@ combat, one fighter is lost from the squadron.
 Fleet Battles
 
 STARTING A BATTLE
+
+
 When ships fight using the fleet combat system, they
 follow a similar procedure to the normal rules for
 space combat but events are streamlined. There is no
@@ -10458,6 +10993,8 @@ Tactics (naval) check at the start of a battle. The Effect
 of this check is added to the Initiative of the fleet.
 
 FLEET COMBAT STEPS
+
+
 Much like in space combat, fleet combat is conducted
 in steps:
 
@@ -10482,6 +11019,8 @@ round ends and, as long as there are still ships fighting,
 a new round begins with the Manoeuvre Step.
 
 MANOEUVRE STEP
+
+
 In order of Initiative, each fleet may allocate Thrust to
 movement (closing or increasing the range between it
 and another fleet). Optionally use the Fleet Manoeuvre
@@ -10498,9 +11037,11 @@ described on page 116.
 
 Fleet Battles
 
-TRAVELLER
+
 
 MOVEMENT
+
+
 The amount of Thrust required to increase or decrease
 the Range Band between fleets by one category, up
 or down, is shown on the Fleet Movement table – the
@@ -10526,6 +11067,8 @@ range unless they are looking to board their targets or
 escape the battle.
 
 VECTOR
+
+
 A fleet’s vector – its direction and accumulated velocity
 
 - are only important if two fleets engage each other in
@@ -10550,8 +11093,7 @@ rounds moves at twice the speed had it only applied 6
 Thrust for one turn. Supposing that 6 is the maximum
 Thrust of the fleet, two rounds are required to slow
 back down to zero if desired. If a fleet continues
-to accelerate, it becomes exceedingly more time-
-consuming for it to slow down since every member
+to accelerate, it becomes exceedingly more time-consuming for it to slow down since every member
 of the fleet must turn around and reduce speed by
 applying the desired amount of Thrust.
 
@@ -10561,6 +11103,8 @@ keep track of the relative differences in speed between
 the two opposing fleets as described in Movement.
 
 RANGE
+
+
 The range between the ships of a fleet is important.
 In typical deployments, a fleet can cover a large
 area, anywhere from close orbit of a single world,
@@ -10654,10 +11198,14 @@ the battle has begun. Fighters may attack in the same
 turn that they are launched.
 
 ATTACK STEP
+
+
 Once all fleets have worked out their movement, they
 can launch attacks. This is done in Initiative order.
 
 SELECT TARGETS AND ASSIGN WEAPONS
+
+
 At the beginning of a turn, all ships and squadrons of
 the attacking fleet must declare targets before firing. A
 ship may divide its weapon systems to attack multiple
@@ -10683,9 +11231,11 @@ purposes of attacks.
 
 Fleet Battles
 
-TRAVELLER
+
 
 FIRING WEAPONS
+
+
 There are three types of weapons: standard (all turrets,
 barbettes and bays), spinal mount and missile (which
 includes both missiles and torpedoes). In the desired
@@ -10697,6 +11247,8 @@ varying degrees of success.
 
 DETERMINING DAMAGE FOR TURRETS,
 BARBETTES AND BAY WEAPONS
+
+
 To calculate the damage inflicted by turrets, barbettes
 and bay weapons, go through the following:
 
@@ -10719,7 +11271,7 @@ For example, a cruiser fires a battery of 50 particle
 beam bays at a fleet carrier. The base Damage value
 for the weapon is 6. Subtract the fleet carrier’s fleet
 combat Armour value of 3. The adjusted Damage
-value is 3 (6-3). Multiply the adjusted damage by the
+value is3 (6-3). Multiply the adjusted damage by the
 weapon’s Damage Multiple, which is 10 for small bays,
 for a result of 30 and then multiply that number by
 the total number of small bays used, which is 50 for a
@@ -10729,6 +11281,8 @@ Finally, consult the Attack Effectiveness table to
 determine the final Damage value.
 
 ATTACK EFFECTIVENESS
+
+
 Calculate the attack effectiveness by adding up
 the following factors and then consult the Attack
 Effectiveness table for the final Damage Multiple:
@@ -10767,11 +11321,15 @@ Multiply the damage subtotal by the Damage Multiple
 for the final damage of the attack.
 
 SPINAL MOUNT WEAPONS
+
+
 Spinal mounts are the only weapons that must roll
 to hit. The standard space combat rules apply, using
 the Crew Skill score for the Gunner skill. Be sure to
 
 ARMOUR
+
+
 Armour reduces damage for all types of weapons
 except meson guns and ion weapons, which
 ignore all armour. The higher the armour value,
@@ -10787,8 +11345,7 @@ ship’s Armour, it does no damage. As described in
 Fleet Evaluation, Armour is determined by dividing
 its original Armour value by 3.5 and rounding up
 for the purposes of fleet combat. For example, a
-ship with Armour 25 has a fleet combat Armour 8
-(25/3.5, rounded up). Weapons whose Damage
+ship with Armour 25 has a fleet combat Armour 8 (25/3.5, rounded up). Weapons whose Damage
 rating is 4 or less do no damage to this ship.
 
 Fleet Battles
@@ -10848,6 +11405,8 @@ combat round provided that the screens have not been
 disabled or destroyed.
 
 SANDCASTER DEFENCE
+
+
 Sandcasters reduce the amount of damage incurred
 from laser, energy (fusion and plasma guns) and particle
 beam weapons. To determine the damage reduction,
@@ -10867,6 +11426,8 @@ pool of points that the ship can use to reduce any laser,
 energy or particle beam damage incurred in battle.
 
 SPECIAL WEAPONS
+
+
 Some weapons have special effects beyond their
 normal damage-dealing capabilities. These cases are
 described here.
@@ -10880,6 +11441,8 @@ Multi-warhead Missiles/Torpedoes: Reduce the
 target’s Salvo Defence by 20% against this weapon.
 
 CRITICAL HITS
+
+
 Critical hits occur after each 10% increment of a ship’s
 adjusted hull points are depleted. Offensively superior
 ships with well-trained crews can score additional
@@ -10903,7 +11466,7 @@ following circumstances:
 
 Fleet Battles
 
-TRAVELLER
+
 
 **Critical Hit Effects**
 
@@ -11141,15 +11704,18 @@ eliminate three weapon systems.
 ship can no longer function.
 
 ACTIONS STEP
+
+
 Unlike in space combat, in fleet combat most actions
 are automatic and do not require dice rolls. However,
 there are several actions and checks that can be made,
 depending on the circumstances.
 
 REPAIR SYSTEM
+
+
 Each round, a ship's crew earns a number of Repair
-Points equal to twice its Crew Skill score plus its Auto-
-Repair score. Repair Points can be used to repair
+Points equal to twice its Crew Skill score plus its Auto-Repair score. Repair Points can be used to repair
 systems that have been affected by Critical Hits on a
 point-for-point basis. For example, a ship with a Crew
 Skill score of 2 and Auto-Repair/2 software earns 6
@@ -11171,9 +11737,11 @@ admirals want to put them to this use.
 
 Fleet Battles
 
-TRAVELLER
+
 
 BREAKING OFF
+
+
 Breaking off from battle occurs when one side decides
 to exit the battle. A fleet that breaks off from a battle
 incurs DM-1 to its Defensive DM and may not use
@@ -11183,6 +11751,8 @@ gets beyond the attack range of the opposing fleet or
 jumps out of the system.
 
 DISPERSING AND REASSEMBLING A FLEET
+
+
 Depending on the objectives of a fleet battle, it might
 become necessary to disperse the fleet into multiple
 smaller fleets or even individual flotillas or squadrons.
@@ -11241,6 +11811,8 @@ original formation, a new formation with different fleet
 elements or incorporates newly acquired ships.
 
 MORALE
+
+
 Fleet combat deals with large numbers of ships, each
 with their own commanding officers and crews. As
 such, the course of a battle can affect morale, both
@@ -11259,6 +11831,8 @@ include the following:
 - -1 if own flagship is eliminated.
 
 FLEET MANOEUVRES
+
+
 When using the Fleet Manoeuvre Chart, the Referee
 must select a ‘fixed’ point in space around which
 all ships and squadrons manoeuvre. This may be a
@@ -11437,6 +12011,8 @@ C1A
 
 RANGE
 
+
+
 Adjacent
 
 1 to 10 km
@@ -11460,7 +12036,7 @@ _D_
 
 **FLEET MANOEUVRE CHART**
 
-TRAVELLER
+
 
 For example, a cruiser has entered a system with
 orders to track down and destroy a squadron of
@@ -11470,6 +12046,8 @@ squadron of corvettes is on the other side of the system
 in A Quadrant, Sector 1, at Medium Range (A1M).
 
 MOVEMENT
+
+
 To move around the Fleet Manoeuvre Chart, a ship
 may either change its Range Band (moving inwards or
 outwards from the fixed point) or move around the fixed
@@ -11490,14 +12068,15 @@ Range Band by expending the same amount of Thrust.
 For example, the squadron of corvettes we met before
 are currently at Medium range in Sector 1 of the A
 Quadrant. They could expend 5 points of Thrust to
-move to either Close or Long range in the A Quadrant
-(moving to either Sector 1 or 2 at Long range, as both
+move to either Close or Long range in the A Quadrant (moving to either Sector 1 or 2 at Long range, as both
 are adjacent to their starting position), or they could
 expend 5 points of Thrust to move around the fixed
 point, to either Sector 2 at Medium range, or Sector 2
 at Medium range in the B Quadrant.
 
 ATTACKS
+
+
 Attacking another ship or squadron using the Fleet
 Manoeuvre Chart is done in the same way as normal
 for the Fleet Combat system. However, the Fleet
@@ -11517,6 +12096,8 @@ chart. Referees should assume they will always move
 along a path that requires the least amount of Thrust.
 
 CELESTIAL TERRAIN
+
+
 Objects in space may become part of the ‘battlefield’
 in fleet combat. Such objects include gas giants, rocky
 planets, planetoids and space stations. Under specific
@@ -11559,6 +12140,8 @@ equipment. The two sets of rules are not mutually
 exclusive and can be combined if desired.
 
 CONDUCTING A BOARDING ACTION
+
+
 Boarding actions may be resolved with the abstract
 system presented on page 175 of the Traveller Core
 Rulebook, or by using the guidance provided in this
@@ -11571,6 +12154,8 @@ side or the other, more detail might be necessary –
 and fun!
 
 REQUIREMENTS
+
+
 Boarding actions require the ship that is to be boarded
 to be inert or restrained from making evasive actions.
 This means that the ship is not operating its manoeuvre
@@ -11603,6 +12188,8 @@ only occurs if someone... or something, unexpected is
 discovered aboard the ship.
 
 ROUTINE INSPECTIONS
+
+
 There are many types of boarding actions but each
 starts with the approach of a ship, linkage of the two
 ships and contact between members of each ship’s
@@ -11634,9 +12221,11 @@ Cruisers. If, however, the boarding party hails from a small
 planetary navy with a limited budget and jurisdiction, their
 equipment might be less impressive.
 
-TRAVELLER
+
 
 BOARDING ACTIONS
+
+
 
 Approach
 
@@ -11659,6 +12248,8 @@ ACCEPTED?
 	Proceed to Contact
 
 STANDARD DOCKING
+
+
 	(optional) establish forced linkage (if
 available) > mate airlocks
 
@@ -11688,6 +12279,8 @@ Thrust and debilitate ship > Close
 distance for boarding
 
 ALTERNATIVE ENTRY
+
+
 o Breaching tube
 o Forced linkage apparatus, then enter
 	Airlock
@@ -11706,7 +12299,11 @@ alternative entrance
 
 FIGHTING CEASES
 
+
+
 BOARDING ACTIONS
+
+
 
 Boarding parties expect to enter a ship via its primary
 airlock, although exceptions can be made depending
@@ -11818,7 +12415,9 @@ Other (war, political strife, pandemic, etc.) DM+1
 
 BOARDING ACTIONS
 
-TRAVELLER
+
+
+
 
 The method of inspection should be determined by the
 Referee. If the world is high-tech, it might simply be a
@@ -11846,8 +12445,7 @@ the ship’s crew and the boarding party: Opposed check,
 Persuade or Diplomat (SOC) by a member of the ship’s
 crew vs. Leadership (SOC) by the boarding party.
 Preventing a boarding party from seeing something
-you do not want them to see: Opposed Deception
-(DEX, INT or SOC depending on how the skill is used)
+you do not want them to see: Opposed Deception (DEX, INT or SOC depending on how the skill is used)
 vs. Recon (INT) check. Additional DMs may apply,
 depending on whether the item, person or ship feature
 in question is already camouflaged, concealed or
@@ -11861,6 +12459,8 @@ world they are visiting, events transpiring in the vicinity
 and what they can expect to happen next.
 
 FORCED BOARDING
+
+
 The Travellers’ ship might be subjected to forced
 boarding by a variety of parties including naval patrols,
 pirates or corsairs, rival groups (a.k.a., ‘the bad guys’ in
@@ -11911,14 +12511,15 @@ presumably want something or someone aboard the
 ship; otherwise, they would simply attempt to destroy it.
 
 APPROACH
+
+
 The first step of a forced boarding is the approach.
 Space is big. If a ship can apply more thrust than that of
 their assailants, the encounter begins beyond the range
 of weapons and the ship under pursuit wants to avoid
 the encounter, then the Approach phase cannot begin in
 earnest. However, if an aggressor has superior thrust,
-they can close on the other ship, first coming into space-
-combat range, engaging in combat (if the ship under
+they can close on the other ship, first coming into space-combat range, engaging in combat (if the ship under
 pursuit refuses to surrender) and, if victorious, closing
 the gap in order to board. Refer to Space Combat in
 the Traveller Core Rulebook to resolve this portion of
@@ -11930,6 +12531,8 @@ microjumping to another location within the system ends
 the Approach phase immediately.
 
 BOARDING ACTIONS
+
+
 
 Such encounters might begin with radio contact.
 This is an opportunity for roleplaying. The crew of
@@ -11951,13 +12554,14 @@ or unwilling to apply Thrust, and therefore powerless to
 prevent a boarding action.
 
 CONTACT
+
+
 The Contact phase is the final step before actual
 boarding begins. Typically, Contact occurs when
 one ship is linked to another by mating airlocks or
 creation of an entry point by using a breaching tube,
 breaching charges, spacecraft weapons or other
-means. Alternatively, Contact may occur via a free-
-boarding exercise, in which vacc-suited or armoured
+means. Alternatively, Contact may occur via a free-boarding exercise, in which vacc-suited or armoured
 boarders make the leap from their own ship to the ship
 they intend to board and then enter through a standard
 aperture (for example, an airlock, cargo bay doors or
@@ -11996,8 +12600,7 @@ entering, cancelling and stopping a tumble are
 challenging actions.
 
 A pilot may deliberately enter or cancel a tumble
-by making a Routine (6+) Pilot check (D3 space-
-combat rounds, DEX). During the attempt, the ship
+by making a Routine (6+) Pilot check (D3 space-combat rounds, DEX). During the attempt, the ship
 cannot manoeuvre in any other way. If the check
 is failed, the vessel may create some inconvenient
 rotation but docking or free boarding can still
@@ -12046,7 +12649,9 @@ the Effect of the Pilot check.
 
 BOARDING ACTIONS
 
-TRAVELLER
+
+
+
 
 If the boarding ship has committed to establishing a
 physical connection before boarding, a forced linkage
@@ -12058,6 +12663,8 @@ steps that will achieve Contact; for example, linking an
 airlock, which requires an Average (8+) Pilot check.
 
 ENTRY
+
+
 The simplest entry between two ships is via a pair of
 mated airlocks. If this is the route taken, the boarding
 party makes their way to the opposing ship’s airlock door
@@ -12079,8 +12686,7 @@ required to get the door fully open using a crowbar or
 similar tool, exposing the boarding party to the dangers
 of attacks through the gap.
 Force a maintenance hatch or cargo door open with
-mechanical tools: Very Difficult (12+) Mechanic check
-(2D rounds, STR). Getting in these types of doors
+mechanical tools: Very Difficult (12+) Mechanic check (2D rounds, STR). Getting in these types of doors
 is usually easier than an airlock but may result in
 explosive decompression if atmospheric life support
 has not been evacuated to storage tanks.
@@ -12096,8 +12702,7 @@ for every negative point of Effect. This reflects ricochets
 or energy blowback. Firing at greater range eliminates
 this danger but requires higher difficulty checks since
 any successful breaching attempt requires repeated
-pinpoint accuracy. Using weaponry is a rather ham-
-fisted way to breach a ship but if no other options are
+pinpoint accuracy. Using weaponry is a rather ham-fisted way to breach a ship but if no other options are
 available, it is ultimately viable. See the Resilience of
 Starship Components table for how many rounds must
 be accurately fired to breach ship doors and surfaces.
@@ -12117,7 +12722,7 @@ Cutting Tools table for the Tech Level, cut rate and
 cost of each tool. A cutting tool removes its Cut Rate
 in Resilience each round +1 for every point of Effect.
 For example, a rescue cutter has a base cut rate of 3.
-The Traveller rolls a 9 (Effect +1) on their check, giving
+The Traveller rolls a9 (Effect +1) on their check, giving
 them a total cut rate of 4 per round.
 
 Breaching a ship that has not evacuated its
@@ -12145,6 +12750,8 @@ Hull, Armoured Ship 100 + 10 per point of Armour 400 + 20 per point of Armour
 
 BOARDING ACTIONS
 
+
+
 Cutting Tools
 
 Type TL Cut Rate Cost Description
@@ -12161,6 +12768,8 @@ advanced variant of each tool type with greater power appears.
 Cost is 25% greater.
 
 BOARDING PARTY WEAPONS AND ARMOUR
+
+
 The weapons of choice for a boarding action
 are blades and handguns. For a handgun, most
 boarding parties prefer snub pistols or laser
@@ -12232,7 +12841,9 @@ something lighter.
 
 BOARDING ACTIONS
 
-TRAVELLER
+
+
+
 
 vacuum-sealed armour on and a ready supply of soft
 suits should be on hand for passengers and anyone
@@ -12259,6 +12870,8 @@ to figure out where the breach is being made, arm
 themselves and get to the site in time to oppose them.
 
 CONFLICT
+
+
 If a boarding party must go to the trouble of forced entry
 into a ship, then some form of conflict with its crew is
 inevitable. Fighting aboard a ship is dangerous. While
@@ -12383,8 +12996,7 @@ Missed Shots
 Damage Thresholds
 
 Damage of Weapon Results
-1–3D Minor systems are damaged but may be repaired with an Average (8+) Mechanic check
-(2D minutes, EDU) provided spare parts are available. Critical systems are superficially
+1–3D Minor systems are damaged but may be repaired with an Average (8+) Mechanic check (2D minutes, EDU) provided spare parts are available. Critical systems are superficially
 damaged but remain functional.
 4–5D Minor systems are destroyed and require complete replacement. Critical systems are
 damaged but may be repaired with an Average (8+) Mechanic check (1Dx10 minutes,
@@ -12397,7 +13009,9 @@ Note that grenades or weapons with the Blast trait automatically register a Dama
 
 BOARDING ACTIONS
 
-TRAVELLER
+
+
+
 
 The Conflict phase ends when either the boarding
 party or ship’s crew ceases attacking the other. For
@@ -12414,6 +13028,8 @@ out, persuade captured crew to get the holdouts to
 surrender or employ other means to neutralise them
 
 FUEL SYSTEMS
+
+
 Fuel takes up an inordinate amount of space on
 most starships, increasing with jump capability.
 Small craft, which carry very little fuel, do not share
@@ -12461,6 +13077,8 @@ The Conflict phase is likely to be the most chaotic of a
 boarding action even when the odds are one-sided.
 
 SECURE
+
+
 The Secure phase occurs after all fighting has ceased
 and the ship has been secured by either the boarding
 party or its crew. A boarding party whose objective is
@@ -12495,6 +13113,8 @@ other goal.
 
 BOARDING ACTIONS
 
+
+
 # SPACECRAFT OF THE THIRD IMPERIUM
 
 This chapter includes many of the most common ships
@@ -12524,19 +13144,35 @@ POWER PLANT/JUMP DRIVE/ MANOEUVRE DRIVE/MACHINERY
 
 TURRETS
 
+
+
 HULL FUEL
+
+
 
 DOOR
 
+
+
 IRIS VALVE
+
+
 
 AIRLOCK
 
+
+
 LIFT
+
+
 
 IRIS VALVE UP
 
+
+
 IRIS VALVE DOWN
+
+
 
 IRIS VALVE UP/DOWN
 
@@ -12544,19 +13180,31 @@ G/CHAIR
 
 COMMON AREA
 
+
+
 FRESHER
+
+
 
 SHIP'S LOCKER
 
 LOW BERTH
 
+
+
 DRONES CARGO CRANE
 
+
+
 STATEROOM BEDS
+
+
 
 AIR/RAFT
 
 CARGO BAY
+
+
 
 **DECKPLAN LEGEND:**
 
@@ -12565,6 +13213,8 @@ four, in the 30-ton Fighter Frame Module for the
 Modular Cutter (see page 144). It is designed to
 
 ULTRALIGHT FIGHTER
+
+
 
 be employed against inferior adversaries – any
 serious resistance is likely to lead to a quick end
@@ -12611,8 +13261,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr528/month
 PURCHASE COST
+
+
 MCr6.3324
 
 Power Requirements
@@ -12626,6 +13280,8 @@ Weapons
 3
 
 LEGEND
+
+
 
 1. Fixed mount
 2. Cockpit
@@ -12650,6 +13306,8 @@ LEGEND
 
 LIGHT FIGHTER
 
+
+
 Consisting of little more than a power plant and
 pulse laser with a pilot strapped to the top, the light
 fighter is a small, fast and highly manoeuvrable craft
@@ -12663,8 +13321,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr786/month
 PURCHASE COST
+
+
 MCr9.432
 
 Power Requirements
@@ -12701,6 +13363,8 @@ Total: MCr10.48
 
 LEGEND
 
+
+
 1. Fixed mount
 2. Avionics
 3. Cockpit
@@ -12732,6 +13396,8 @@ carries a 20-ton military gig in a docking clamp.
 Its high performance and armament give it the
 
 MILITARY GIG
+
+
 
 capability to chase down ships reluctant to allow
 boarding by naval authorities. The three emergency
@@ -12773,8 +13439,12 @@ Pilot, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr1139/month
 PURCHASE COST
+
+
 MCr13.6683
 
 Power Requirements
@@ -12788,6 +13458,8 @@ Emergency Low Berths
 3
 
 LEGEND
+
+
 
 1. Fixed mount
 2. Bridge
@@ -12823,6 +13495,8 @@ be configured to engage in a wide variety of roles
 
 LAUNCH
 
+
+
 Crew
 Pilot
 
@@ -12830,8 +13504,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr197/month
 PURCHASE COST
+
+
 MCr2.367
 
 Power Requirements
@@ -12862,6 +13540,8 @@ Total: MCr2.63
 
 LEGEND
 
+
+
 1. Bridge
 2. Cargo hold
 3. Power plant
@@ -12888,8 +13568,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr569/month
 PURCHASE COST
+
+
 MCr6.822
 
 Power Requirements
@@ -12922,6 +13606,8 @@ Total: MCr7.58
 
 LEGEND
 
+
+
 1. Bridge
 2. Airlock
 3. Cabin space
@@ -12944,6 +13630,8 @@ LEGEND
 
 SLOW BOAT
 
+
+
 The slow boat appears either as an early design of
 the ship’s boat, before power plants and manoeuvre
 drives become more efficient, or as an intentional
@@ -12955,8 +13643,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr419/month
 PURCHASE COST
+
+
 MCr5.022
 
 Power Requirements
@@ -13005,6 +13697,8 @@ Total: MCr5.58
 
 LEGEND
 
+
+
 1. Bridge
 2. Airlock
 3. Cabin space
@@ -13029,6 +13723,8 @@ vessel because it has the speed, range and cargo
 capacity to support extended missions.
 
 PINNACE
+
+
 
 TL12^ Tons Cost (MCr)
 Hull 40 tons, Streamlined — 2.4
@@ -13055,8 +13751,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr726/month
 PURCHASE COST
+
+
 MCr8.712
 
 Power Requirements
@@ -13066,6 +13766,8 @@ Manoeuvre Drive
 20
 
 LEGEND
+
+
 
 1. Bridge
 2. Airlock
@@ -13091,6 +13793,8 @@ LEGEND
 6
 
 SLOW PINNACE
+
+
 
 Like the slow boat, the slow pinnace trades speed
 and raw performance for increased cargo space,
@@ -13125,8 +13829,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr497/month
 PURCHASE COST
+
+
 MCr5.967
 
 Power Requirements
@@ -13136,6 +13844,8 @@ Manoeuvre Drive
 9
 
 LEGEND
+
+
 
 1. Bridge
 2. Airlock
@@ -13162,6 +13872,8 @@ dedicated to a detachable module, allowing the
 cutter to quickly and efficiently change roles
 
 MODULAR CUTTER
+
+
 
 during a voyage without needing extensive refits at
 a starport. With no module installed, the modular
@@ -13193,8 +13905,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr895/month
 PURCHASE COST
+
+
 MCr10.737
 
 Power Requirements
@@ -13204,6 +13920,8 @@ Manoeuvre Drive
 20
 
 LEGEND
+
+
 
 1. Bridge
 2. Cabin space
@@ -13230,6 +13948,8 @@ LEGEND
 
 CUTTER MODULES
 
+
+
 Vehicle Cradle Module
 The Vehicle Cradle module fits one or more vehicles
 up to 15 tons total, along with acceleration seats for 12
@@ -13237,8 +13957,7 @@ personnel and seven tons of cargo. Vehicle not included.
 
 **TL7 Tons**
 
-Cost
-(MCr)
+Cost (MCr)
 Hull 30 tons, Streamlined — 0.9
 Systems Docking Space (15 tons) 17 4.25
 Acceleration Seats x12 6 0.18
@@ -13285,6 +14004,8 @@ Total: MCr1.2
 
 LEGEND
 
+
+
 1. Acceleration seats
 2. Docking space
 3. Cargo hold
@@ -13312,6 +14033,8 @@ Module
 
 CUTTER MODULES
 
+
+
 Fuel Skimmer Module
 The Fuel Skimmer has fuel scoops, 28 tons of fuel
 tankage and two tons of UNREP System.
@@ -13329,8 +14052,7 @@ Total: MCr1.9
 Assault Boat Module
 The Assault Boat module includes acceleration seats
 for 16 troops in two sections, each with a bottom
-mounted door. Upon landing, eight digger blades
-(see the Vehicle Handbook) scoop out emergency
+mounted door. Upon landing, eight digger blades (see the Vehicle Handbook) scoop out emergency
 entrenchments; the troops jump down into hastily
 created foxholes and the cutter with the module
 immediately moves out of the battle area.
@@ -13360,8 +14082,7 @@ Structure
 
 — 0.375
 
-Systems Docking Clamp
-(Type I) x4
+Systems Docking Clamp (Type I) x4
 
 4 27.744
 
@@ -13373,6 +14094,8 @@ Total: MCr30.119
 **Purchase Cost:** MCr27.1071
 
 LEGEND
+
+
 
 1. UNREP
 2. Acceleration seats
@@ -13414,6 +14137,8 @@ Module
 5
 
 CUTTER MODULES
+
+
 
 Pressurised Shelter Module
 Pressurised Shelter module provides an independent
@@ -13468,8 +14193,7 @@ Vehicle and ammunition not included.
 
 **TL12 Tons**
 
-Cost
-(MCr)
+Cost (MCr)
 Hull 30 tons, Streamlined — 0.9
 Sensors Military Grade 2 4.1
 Weapons Fixed Mount (heavy
@@ -13477,8 +14201,7 @@ gauss cannon)
 
 2 0.325
 
-Pop-up (light autocan-
-non x2, linked)
+Pop-up (light autocan-non x2, linked)
 
 0.5 0.122
 
@@ -13493,8 +14216,7 @@ shots)
 
 1 —
 
-Systems Docking Space
-(15 tons)
+Systems Docking Space (15 tons)
 
 17 4.25
 
@@ -13509,6 +14231,8 @@ Maintenance Cost: Cr751/month
 Purchase Cost: MCr9.0081
 
 LEGEND
+
+
 
 1. Cargo hold
 2. Airlock
@@ -13561,6 +14285,8 @@ Module
 
 HEAVY FIGHTER
 
+
+
 The heavy fighter is an attempt to provide a powerful,
 fast, agile, armoured and dependable small craft
 for space superiority. It has bunking arrangements
@@ -13608,8 +14334,12 @@ Pilot, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr5743/month
 PURCHASE COST
+
+
 MCr68.913
 
 Power Requirements
@@ -13625,6 +14355,8 @@ Weapons
 **HEAVY FIGHTER**
 
 LEGEND
+
+
 
 1. Missile rack
 2. Sensors
@@ -13664,14 +14396,15 @@ LEGEND
 10
 
 The 50-ton troop transport was designed and
-produced by the Imperial Navy to meet a long-
-established need for deployment of troops from orbit
+produced by the Imperial Navy to meet a long-established need for deployment of troops from orbit
 to world surface. The 50-ton limit on displacement
 allows the craft to be deployed on ships possessing
 standard 50-ton launch tubes. Acceleration seats are
 used, instead of more space-efficient acceleration
 
 TROOP TRANSPORT
+
+
 
 Crew
 Pilot, Gunner
@@ -13680,8 +14413,12 @@ Pilot, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr3788/month
 PURCHASE COST
+
+
 MCr45.45
 
 Power Requirements
@@ -13750,6 +14487,8 @@ Total: MCr50.5
 
 LEGEND
 
+
+
 1. Bridge
 2. Sensors
 3. Missile rack
@@ -13775,6 +14514,8 @@ get close enough to do immense damage.
 
 TORPEDO BOAT
 
+
+
 Crew
 Pilot, Gunner
 
@@ -13782,8 +14523,12 @@ Pilot, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr3451/month
 PURCHASE COST
+
+
 MCr41.4072
 
 Power Requirements
@@ -13854,6 +14599,8 @@ Total: MCr46.008
 
 LEGEND
 
+
+
 1. Torpedo barbette
 2. Torpedo storage
 3. Airlock
@@ -13877,6 +14624,8 @@ civilisation makes its first firm steps into space. It is
 
 SHUTTLE
 
+
+
 Crew
 Pilot
 
@@ -13884,8 +14633,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr1223/month
 PURCHASE COST
+
+
 MCr14.6745
 
 Power Requirements
@@ -13938,6 +14691,8 @@ Total: MCr16.305
 
 LEGEND
 
+
+
 1. Bridge
 2. Cabin space
 3. Airlock
@@ -13973,6 +14728,8 @@ crew section separated by internal bulkheads. Normally
 
 PASSENGER SHUTTLE
 
+
+
 Crew
 Pilot, Co-Pilot
 
@@ -13980,8 +14737,12 @@ Pilot, Co-Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr1073/month
 PURCHASE COST
+
+
 MCr12.8745
 
 Power Requirements
@@ -14025,6 +14786,8 @@ Total: MCr14.305
 
 LEGEND
 
+
+
 1. Sensors
 2. Bridge
 3. Airlock
@@ -14057,6 +14820,8 @@ carries data and messages between those points.
 
 EXPRESS BOAT
 
+
+
 Crew
 Astrogator/Engineer
 
@@ -14064,8 +14829,12 @@ Astrogator/Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr2842/month
 PURCHASE COST
+
+
 MCr34.1055
 
 Power Requirements
@@ -14080,7 +14849,7 @@ boat tender, described on page 204.
 
 TL13^ Tons Cost (MCr)
 Hull 100 tons, Sphere — 5.5
-J-Drive Jump 4 (increased size) 18.75 16.875
+J-Drive Jump4 (increased size) 18.75 16.875
 Power Plant Fusion (TL8), Power 20 2 1
 High-Efficiency
 Battery
@@ -14105,6 +14874,8 @@ Total: MCr37.895
 **BOAT**
 
 LEGEND
+
+
 
 1. Jump drive
 2. Power plant
@@ -14165,8 +14936,12 @@ Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr3079/month
 PURCHASE COST
+
+
 MCr36.9405
 
 Power Requirements
@@ -14257,6 +15032,8 @@ turret
 1
 
 LEGEND
+
+
 
 1. Sensors
 2. Bridge
@@ -14352,8 +15129,12 @@ Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr2859/month
 PURCHASE COST
+
+
 MCr34.3035
 
 Power Requirements
@@ -14408,6 +15189,8 @@ turret
 
 LEGEND
 
+
+
 1. Sensors
 2. Bridge
 3. Office
@@ -14452,13 +15235,13 @@ Deck 2
 
 PROSPECTING BUGGY
 
+
+
 The prospecting buggy is a simple, venerable tool of
 miners across the Third Imperium. Standard practice is to
 transport three miners, possibly with strength-enhancing
-exoskeletons and carrying portable laser drills to a loca-
-tion, fold away the passenger seats (increasing cargo
-space to 1.5 tons total), then use the buggy to ferry ore be-
-tween the mining site and a base camp (typically a Type-J
+exoskeletons and carrying portable laser drills to a loca-tion, fold away the passenger seats (increasing cargo
+space to 1.5 tons total), then use the buggy to ferry ore be-tween the mining site and a base camp (typically a Type-J
 seeker or ore-processing facility). The crane is equipped
 
 with short-range gravitic plates and a gripping claw
@@ -14477,11 +15260,8 @@ Speed (cruise) Fast (High) Rear 4
 Range (cruise) 3,000 (4,500)
 Crew 1 Traits —
 Passengers 3
-Cargo 0.75 tons Equipment Autopilot (basic), Computer/3
-(with communications system),
-Crane (light), Navigation System
-(improved), Sensor System
-(improved)
+Cargo 0.75 tons Equipment Autopilot (basic), Computer/3 (with communications system),
+Crane (light), Navigation System (improved), Sensor System (improved)
 
 Hull 16
 Shipping 4 tons
@@ -14543,8 +15323,12 @@ Engineer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr3522/month
 PURCHASE COST
+
+
 MCr42.2685
 
 Power Requirements
@@ -14566,6 +15350,8 @@ Fuel Processor
 **SCOUT**
 
 LEGEND
+
+
 
 1. Bridge
 2. Stateroom
@@ -14616,8 +15402,12 @@ Gunners x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4513/month
 PURCHASE COST
+
+
 MCr54.1582
 
 Power Requirements
@@ -14676,6 +15466,8 @@ Total: MCr60.148
 **TRADER**
 
 LEGEND
+
+
 
 1. Sensors
 2. Bridge
@@ -14778,8 +15570,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4353/month
 PURCHASE COST
+
+
 MCr52.2405
 
 Power Requirements
@@ -14799,6 +15595,8 @@ Fuel Processor
 **FAR TRADER**
 
 LEGEND
+
+
 
 1. Sensors
 2. Bridge
@@ -14903,8 +15701,12 @@ Engineer, Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr3854/month
 PURCHASE COST
+
+
 MCr46.242
 
 Power Requirements
@@ -14926,6 +15728,8 @@ Low Berths
 **FREE TRADER**
 
 LEGEND
+
+
 
 1. Sensors
 2. Bridge
@@ -14983,8 +15787,7 @@ Deck 1
 Although at first appearance uniquely specialised,
 the safari ship is relatively common throughout the
 galaxy. It is primarily designed as an excursion vessel,
-capable of conducting trophy-taking expeditions
-(photographic or real) to distant worlds, all in a high
+capable of conducting trophy-taking expeditions (photographic or real) to distant worlds, all in a high
 degree of comfort. Indeed, some owners will outfit
 their safari ship to higher standards of luxury than
 many yachts. Included are two eight-ton holding tanks
@@ -15040,8 +15843,12 @@ Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr5103/month
 PURCHASE COST
+
+
 MCr61.227
 
 Power Requirements
@@ -15064,6 +15871,8 @@ Equipment
 **SAFARI SHIP**
 
 LEGEND
+
+
 
 1. Bridge office
 2. Sensors
@@ -15163,6 +15972,8 @@ Total: MCr147.13
 
 SYSTEM DEFENCE BOAT
 
+
+
 Because SDBs have no jump drives, shifting them
 from system-to-system can be a problem. Some
 have jump shuttles which attach themselves to the
@@ -15182,8 +15993,12 @@ Administrator, Officer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr11035/month
 PURCHASE COST
+
+
 MCr132.417
 
 Power Requirements
@@ -15201,6 +16016,8 @@ Fuel Processor
 1
 
 LEGEND
+
+
 
 1. Sensors
 2. Bridge
@@ -15265,6 +16082,8 @@ crew and facilities necessary to run them.
 
 JUMP SHUTTLE
 
+
+
 Crew
 Pilot, Astrogator,
 Engineers
@@ -15273,8 +16092,12 @@ Engineers
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr5580/month
 PURCHASE COST
+
+
 MCr66.951
 
 Power Requirements
@@ -15299,7 +16122,7 @@ without refuelling.
 TL13^ Tons Cost (MCr)
 Hull 200 tons, Standard — 10
 M-Drive Thrust 3 6 12
-Jump Drive Jump 3 (reduced fuel) 20 33
+Jump Drive Jump3 (reduced fuel) 20 33
 Power Plant Fusion (TL12), Power 105 7 7
 Fuel Tanks J-3 x2, 4 weeks of operation 115 —
 Bridge Smaller Bridge 6 0.5
@@ -15321,6 +16144,8 @@ Total: MCr74.39
 **JUMP SHUTTLE**
 
 LEGEND
+
+
 
 1. Clamps
 2. Stateroom
@@ -15389,6 +16214,8 @@ stateroom intended for the yacht’s owner. The yacht
 
 YACHT
 
+
+
 Crew
 Pilot, Astrogator,
 Engineer, Medic,
@@ -15398,8 +16225,12 @@ Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr5211/month
 PURCHASE COST
+
+
 MCr62.5311
 
 Power Requirements
@@ -15456,6 +16287,8 @@ Cargo 16 —
 Total: MCr69.479
 
 LEGEND
+
+
 
 1. Sensors
 2. Bridge
@@ -15542,8 +16375,8 @@ was envisioned as an anti-piracy and revenue patrol
 
 Hull 400 tons, Close Structure — 16
 Armour Bonded Superdense, Armour: 3 14.4 7.2
-M-Drive Thrust 5 (420 tons) (Increased Size) 26.25 31.5
-J-Drive Jump 5 (Energy Inefficient) 55 60
+M-Drive Thrust5 (420 tons) (Increased Size) 26.25 31.5
+J-Drive Jump5 (Energy Inefficient) 55 60
 Power Plant Fusion (TL12), Power 570 (Increased
 Size)
 
@@ -15601,8 +16434,12 @@ Officer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr15720/month
 PURCHASE COST
+
+
 MCr188.6373
 
 Power Requirements
@@ -15622,6 +16459,8 @@ Medical Bay
 1
 
 LEGEND
+
+
 
 1. Sensors
 2. Bridge (2 decks high)
@@ -15704,8 +16543,8 @@ time jump after jump, as the prior version required
 
 TL15 Tons Cost (MCr)
 Hull 400 tons, Streamlined — 20
-M-Drive Thrust 5 (energy efficient x3) 20 60
-J-Drive Jump 5 (reduced fuel) 55 90.75
+M-Drive Thrust5 (energy efficient x3) 20 60
+J-Drive Jump5 (reduced fuel) 55 90.75
 Power Plant Fusion (TL15), Power 380 19 38
 Fuel Tanks J-6, 4 weeks of operation 230 —
 Bridge Smaller Bridge 10 2
@@ -15713,8 +16552,7 @@ Computer Computer/30 — 20
 Sensors Advanced 5 5.3
 Weapons Triple Turrets (beam lasers) x2 2 5
 Triple Turret (sandcasters) x2 2 3.5
-Ammunition Sandcaster Canister Storage
-(40 Canisters)
+Ammunition Sandcaster Canister Storage (40 Canisters)
 
 2 0.05
 
@@ -15733,6 +16571,8 @@ Total: MCr274.25
 
 FLEET COURIER
 
+
+
 Crew
 Captain, Pilots
 x2, Engineers x2,
@@ -15743,8 +16583,12 @@ Gunners x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr20569/month
 PURCHASE COST
+
+
 MCr246.825
 
 Power Requirements
@@ -15799,6 +16643,8 @@ such as a courier or official.
 1
 LEGEND
 
+
+
 1. Bridge
 2. Sensors
 3. Stateroom
@@ -15838,8 +16684,12 @@ Pilot, Astrogator
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr9566/month
 PURCHASE COST
+
+
 MCr114.786
 
 Power Requirements
@@ -15864,8 +16714,8 @@ wilderness refueling or transporting the ship’s ATV.
 
 TL12 Tons Cost (MCr)
 Hull '360 tons, Dispersed Structure — 9
-M-Drive 'Thrust 2 (400t) 8 16
-J-Drive Jump 2 (400t) 25 37.5
+M-Drive 'Thrust2 (400t) 8 16
+J-Drive Jump2 (400t) 25 37.5
 Power Plant Fusion (TL12), Power 180 12 12
 Fuel Tanks J-2 (400t), 4 weeks of operation 82 —
 Bridge 20 2
@@ -15894,6 +16744,8 @@ Total: MCr127.54
 **SHIP**
 
 LEGEND
+
+
 
 1. Laboratories
 2. Stateroom
@@ -15974,8 +16826,12 @@ Gunners x4, Marines x8
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr14870/month
 PURCHASE COST
+
+
 MCr178.434
 
 Power Requirements
@@ -16038,6 +16894,8 @@ Total: MCr198.26
 
 LEGEND
 
+
+
 1. Sensors
 2. Bridge
 3. Stateroom
@@ -16099,8 +16957,12 @@ Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr6549/month
 PURCHASE COST
+
+
 MCr78.579
 
 Power Requirements
@@ -16152,6 +17014,8 @@ Total: MCr87.31
 
 1 square = 0.5 Ton
 LEGEND
+
+
 
 1. Docking space
 2. Sensors
@@ -16283,8 +17147,12 @@ Scientists x5
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr13617/month
 PURCHASE COST
+
+
 MCr163.3995
 
 Power Requirements
@@ -16302,6 +17170,8 @@ Fuel Processor
 1 square = 0.5 Ton
 
 LEGEND
+
+
 
 1. Sensors
 2. Bridge
@@ -16462,8 +17332,12 @@ Sensops x3, Officer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr23119/month
 PURCHASE COST
+
+
 MCr277.425
 
 Power Requirements
@@ -16481,8 +17355,7 @@ Medical Bay
 1
 
 The term boat means a non-starship, whether a gunboat,
-a ship’s boat or a system defence boat. Because non-
-starships can allocate more tonnage to power plants and
+a ship’s boat or a system defence boat. Because non-starships can allocate more tonnage to power plants and
 weaponry, they can usually defeat a starship of equal
 tonnage. From this principle, the concept of the system
 defence boat has evolved. Fleets of such boats are
@@ -16501,6 +17374,8 @@ routine duties such as customs inspections, piracy
 suppression and search and rescue.
 
 LEGEND
+
+
 
 1. Bridge
 2. Sensor station
@@ -16615,7 +17490,7 @@ still more than uncoordinated individual efforts should have been able to
 produce. So far as can be told, no single yard makes enough of these to
 take advantage of mass production efficiencies.
 
-CORSAIR **TYPE: P (NISHEMANI CLASS)**
+CORSAIR **TYPE:P (NISHEMANI CLASS)**
 
 Crew
 Pilot, Astrogator,
@@ -16627,8 +17502,12 @@ Thugs x4
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr15072/month
 PURCHASE COST
+
+
 MCr180.86
 
 Power Requirements
@@ -16675,8 +17554,7 @@ Fuel Processor (80 tons/day) 4 0.2
 
 Fuel Scoops — 1
 
-'Forced Linkage Apparatus
-(Advanced)
+'Forced Linkage Apparatus (Advanced)
 
 2 0.5
 
@@ -16707,6 +17585,8 @@ CORSAIR **TYPE:P (NISHEMANI CLASS)**
 
 LEGEND
 
+
+
 1. Cargo hold
 
 1 square = 0.5 Ton
@@ -16716,6 +17596,8 @@ Deck 1
 1
 
 LEGEND
+
+
 
 1. Cargo hold
 2. Bridge
@@ -16775,7 +17657,11 @@ Deck 2
 
 SUBSIDISED
 
+
+
 LINER
+
+
 
 The subsidised liner is built for carrying passengers
 and cargo along lucrative routes, with amenities
@@ -16798,8 +17684,12 @@ Officer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr13968/month
 PURCHASE COST
+
+
 MCr167.6196
 
 Power Requirements
@@ -16858,6 +17748,8 @@ Cargo 60 —
 Total: MCr186.244
 
 LEGEND
+
+
 
 1. Docking space
 2. Cargo hold
@@ -17004,8 +17896,12 @@ Stewards
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr28913/month
 PURCHASE COST
+
+
 MCr346.959
 
 Power Requirements
@@ -17035,7 +17931,7 @@ MERCENARY CRUISER **TYPE: C**
 Hull 800 tons, Sphere — 44
 Armour Crystaliron, Armour: 3 27 5.4
 Radiation Shielding — 20
-M-Drive Thrust 3 (energy efficient x2) 24 60
+M-Drive Thrust3 (energy efficient x2) 24 60
 J-Drive Jump 3 65 97.5
 Power Plant Fusion (TL12), Power 540 36 36
 Fuel Tanks J-3, 8 weeks of operation, plus fuel for Cutters 250 —
@@ -17079,13 +17975,19 @@ area
 
 MD
 
+
+
 pp
 
 pp
 
 JD
 
+
+
 JD
+
+
 
 common
 area
@@ -17095,13 +17997,19 @@ area
 
 MD
 
+
+
 pp
 
 pp
 
 JD
 
+
+
 JD
+
+
 
 common
 area
@@ -17111,15 +18019,23 @@ area
 
 MD
 
+
+
 pp
 
 pp
 
 JD
 
+
+
 JD
+
+
 
 LEGEND
+
+
 
 1. Luxury stateroom
 2. Forward airlock
@@ -17172,8 +18088,7 @@ LEGEND
 
 (^55)
 5
-5
-(^89)
+5 (^89)
 6 6
 6
 6
@@ -17251,8 +18166,7 @@ leaves for the next star system.
 X-BOAT TENDER **CLASS:XT**
 
 Express boat tenders are encountered anywhere
-that x-boats are expected. High-population, high-
-technology systems probably have several tenders
+that x-boats are expected. High-population, high-technology systems probably have several tenders
 operating in order to handle the flow of information.
 Express boat tenders are jump-capable and each
 may carry up to four x-boats in their cavernous
@@ -17303,8 +18217,12 @@ Maintenance, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr23351/month
 PURCHASE COST
+
+
 MCr280.215
 
 Power Requirements
@@ -17323,6 +18241,8 @@ Fuel Processor
 Low Berths
 2
 UNREP
+
+
 2
 
 Deck 5
@@ -17382,6 +18302,8 @@ Deck 4
 
 LEGEND
 
+
+
 1. Docking space
 2. Spare parts and equipment
 3. Low berths
@@ -17404,8 +18326,7 @@ LEGEND
 15
 16
 16
-16
-(^1117)
+16 (^1117)
 13
 8 8
 8
@@ -17416,6 +18337,8 @@ Deck 8
 Deck 9
 Deck 10
 LEGEND
+
+
 
 1. Docking space
 2. Spare parts and equipment
@@ -17459,8 +18382,12 @@ Gunners x20
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr46634/month
 PURCHASE COST
+
+
 MCr559.602
 
 Power Requirements
@@ -17538,6 +18465,8 @@ Deck 5
 
 LEGEND
 
+
+
 1. Sandcasters
 2. Bridge
 3. Missile racks
@@ -17608,6 +18537,8 @@ Deck 2
 
 LEGEND
 
+
+
 1. Sandcasters
 2. Bridge
 3. Missile racks
@@ -17637,8 +18568,7 @@ among transport vessels impressed into Imperial
 service resulted in the issuance of an Admiralty
 specification for a mid-sized escort vessel expressly
 for close protection of unarmed transport craft. The
-design which was finally accepted was the Fer-de-
-lance destroyer escort.
+design which was finally accepted was the Fer-de-lance destroyer escort.
 
 DESTROYER ESCORT **CLASS: FER-DE-LANCE**
 
@@ -17652,8 +18582,8 @@ Hull 1,000 tons, Close Structure — 40
 Reinforced — 20
 Armour Bonded Superdense, Armour: 2 24 12
 Radiation Shielding — 25
-M-Drive Thrust 6 (energy efficient x2) 60 150
-J-Drive Jump 4 (reduced fuel x2) 105 196.875
+M-Drive Thrust6 (energy efficient x2) 60 150
+J-Drive Jump4 (reduced fuel x2) 105 196.875
 Power Plant Fusion (TL15), Power 1,000 50 100
 Fuel Tanks J-4, 8 weeks of operation 370 —
 Bridge Holographic Controls 20 6.25
@@ -17699,8 +18629,12 @@ x4, Officers x4, Medic
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr54581/month
 PURCHASE COST
+
+
 MCr654.9615
 
 Power Requirements
@@ -17739,6 +18673,8 @@ Deck 3
 
 LEGEND
 
+
+
 1. Stateroom
 2. Common area
 3. Medbay
@@ -17761,6 +18697,8 @@ Deck 4
 Deck 5
 
 LEGEND
+
+
 
 11. Bridge
 12. Sensors
@@ -17832,8 +18770,12 @@ Marines x35
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr64778/month
 PURCHASE COST
+
+
 MCr777.339
 
 Power Requirements
@@ -17860,7 +18802,7 @@ Armour Bonded Superdense, Armour: 4 38.4 19.2
 
 M-Drive Thrust 4 48 96
 
-J-Drive Jump 4 (reduced fuel) 125 206.25
+J-Drive Jump4 (reduced fuel) 125 206.25
 
 Power Plant Fusion (TL15), Power 1,400 70 140
 
@@ -17933,6 +18875,8 @@ Deck 3
 Deck 4
 
 LEGEND
+
+
 
 1. Cargo hold
 2. Workshop
@@ -18020,9 +18964,9 @@ LEGEND
 TL12 Tons Cost (MCr)
 Hull 1,800 tons, Standard — 90
 M-Drive Thrust 4 72 144
-Thrust 2 (backup) 36 72
+Thrust2 (backup) 36 72
 J-Drive Jump 3 140 210
-Jump 2 (backup) 95 142.5
+Jump2 (backup) 95 142.5
 Power Plant Fusion (TL12), Power 1,665 111 111
 Fuel Tanks J-3, 16 weeks of operation 588 —
 Bridge — 40 9
@@ -18065,8 +19009,7 @@ allowing wilderness refuelling operations as well
 as landings in Atmospheres 0 and 1. Atmospheric
 
 landings are otherwise not recommended, hence
-the large complement of small craft. The energy-
-efficient weapons allow all primary systems except
+the large complement of small craft. The energy-efficient weapons allow all primary systems except
 the fuel processor to be run simultaneously should
 the ship be faced with combat. A luxury stateroom is
 maintained for the owner-aboard when present.
@@ -18083,8 +19026,12 @@ Administrator, Officer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr69942/month
 PURCHASE COST
+
+
 MCr839.2995
 
 Power Requirements
@@ -18152,6 +19099,8 @@ Deck 1 Deck 2
 
 LEGEND
 
+
+
 1. Launch docking space
 2. Torpedo storage
 3. Auxiliary bridge
@@ -18181,6 +19130,8 @@ Deck 3
 Deck 4
 
 LEGEND
+
+
 
 1. Launch docking space
 2. Torpedo storage
@@ -18233,6 +19184,8 @@ Deck 6
 Deck 1
 
 LEGEND
+
+
 
 19. Missile mount (2 decks high)
 20. Drones
@@ -18290,6 +19243,8 @@ Deck 7
 Deck 8
 
 LEGEND
+
+
 
 1. Launch docking space
 2. Torpedo storage
@@ -18354,8 +19309,12 @@ Administrator, Officer
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr84281/month
 PURCHASE COST
+
+
 MCr1011.365
 
 Power Requirements
@@ -18379,8 +19338,7 @@ fuel/cargo containers to maximise cargo on shorter
 jumps. Al Morai facilities at each stop supply refined
 fuel, so no processors are installed. Two pinnaces for
 ferrying of passengers and cargo, and for emergency
-use as lifeboats. The ship has 14 rooms for crew
-(single occupancy for the captain, chief engineer
+use as lifeboats. The ship has 14 rooms for crew (single occupancy for the captain, chief engineer
 and medic; double occupancy otherwise) and 30
 passenger staterooms.
 
@@ -18388,7 +19346,7 @@ TL15 Tons Cost (MCr)
 Hull 3,000 tons, Close Structure — 120
 Light hull — 30
 M-Drive Thrust 1 30 60
-J-Drive Jump 4 (decreased fuel x2) 305 571.875
+J-Drive Jump4 (decreased fuel x2) 305 571.875
 Power Plant Fusion (TL15), Power 1,520 76 152
 Fuel Tanks J-2, 4 weeks of operation 548 —
 Bridge Smaller Bridge 40 7.5
@@ -18453,6 +19411,8 @@ Deck 3
 
 LEGEND
 
+
+
 1. Cargo hold
 2. Loading belt
 3. Fuel/cargo container
@@ -18513,6 +19473,8 @@ Deck 6
 
 LEGEND
 
+
+
 1. Cargo hold
 2. Loading belt
 3. Fuel/cargo container
@@ -18571,8 +19533,12 @@ Gunners x54
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr154220/month
 PURCHASE COST
+
+
 MCr1850.634
 
 Power Requirements
@@ -18593,15 +19559,14 @@ Systems
 
 status. The Admiralty, in its evaluation efforts, has
 thus far deployed the ships in over-sized squadrons
-of 10 to 20 vessels and has committed them to op-
-erations only with the Navy’s major battle fleets.
+of 10 to 20 vessels and has committed them to op-erations only with the Navy’s major battle fleets.
 
 **TL15 Tons Cost (MCr)**
 
 Hull 3,000 tons, Streamlined — 180
 Reinforced — 90
 Armour Bonded Superdense, Armour: 4 115.2 57.6
-M-Drive Thrust 6 (energy efficient) 180 396
+M-Drive Thrust6 (energy efficient) 180 396
 J-Drive Jump-4 305 457.5
 Power Plant Fusion (TL15), Power 3,540 177 354
 Fuel Tanks J-4, 8 weeks of operation 1,236 —
@@ -18647,6 +19612,8 @@ DESTROYER **CLASS:MIDU AGASHAM**
 
 LEGEND
 
+
+
 1. Pulse lasers
 2. Missile storage
 3. Missile racks
@@ -18682,13 +19649,14 @@ LEGEND
 13 13
 10
 6
-5
-(^1 3)
+5 (^1 3)
 Deck 1
 Deck 2
 
 up
 LEGEND
+
+
 
 9. Jump drive
 10. Repair drones
@@ -18774,8 +19742,12 @@ Sensops x2
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr246483/month
 PURCHASE COST
+
+
 MCr2957.796
 
 Power Requirements
@@ -18870,6 +19842,8 @@ FLEET ESCORT **CLASS:P.F. SLOAN**
 
 LEGEND
 
+
+
 1. Manoeuvre drive
 2. Nuclear damper
 3. Meson screen
@@ -18945,6 +19919,8 @@ Deck 10
 
 LEGEND
 
+
+
 6. Power plant
 7. Staterooms
 8. Docking space
@@ -18988,8 +19964,12 @@ Officers x61, Sensops x6
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr1.622/month
 PURCHASE COST
+
+
 MCr19463.355
 
 Power Requirements
@@ -19048,14 +20028,12 @@ Triple Turrets (beam lasers) x50 50 125
 Triple Turrets (sandcasters) x50 50 87.5
 Double Turrets (fusion guns) x50 50 225
 Single Turrets (particle beams) x50 50 210
-Point Defence Laser Batteries
-(Type III) x4
+Point Defence Laser Batteries (Type III) x4
 
 80 80
 
 Ammunition Missile Storage (1,500 missiles) 125 —
-Sandcaster Canister Storage
-(1,500 canisters)
+Sandcaster Canister Storage (1,500 canisters)
 
 75 —
 
@@ -19110,6 +20088,8 @@ Deck 3
 Deck 2
 
 LEGEND
+
+
 
 1. Point defence battery
 2. Full hangars
@@ -19186,8 +20166,12 @@ Officers x40, Sensops x8
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr1.556925/month
 PURCHASE COST
+
+
 MCr18683.1
 
 Power Requirements
@@ -19220,12 +20204,12 @@ Hull 30,000 tons, Standard — 1500
 Reinforced — 750
 Armour Bonded Superdense: 15 3,600 1800
 Radiation Shielding — 750
-M-Drive Thrust 5 (size reduction x3) 1,050 4500
+M-Drive Thrust5 (size reduction x3) 1,050 4500
 
 LIGHT CRUISER **CLASS: VALIANT**
 
 TL15 Tons Cost (MCr)
-J-Drive Jump 4 (decreased fuel) 3,005 4958.25
+J-Drive Jump4 (decreased fuel) 3,005 4958.25
 Power Plant Fusion (TL15), Power 24,000 1,200 2400
 Fuel Tanks J-4, 8 weeks of operation 11,640 —
 Bridge Holographic Controls 60 187.5
@@ -19307,6 +20291,8 @@ Deck 3
 1
 
 LEGEND
+
+
 
 1. Cargo hold
 2. Turrets
@@ -19415,8 +20401,12 @@ Low Berths
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr2.928/month
 PURCHASE COST
+
+
 MCr35133.8895
 
 **GHALALK**
@@ -19437,9 +20427,9 @@ Armour Bonded Superdense, Armour: 17 6,800 3400
 
 Radiation Shielding — 1250
 
-M-Drive Thrust 6 (energy efficient, reduced size x2) 2,400 9000
+M-Drive Thrust6 (energy efficient, reduced size x2) 2,400 9000
 
-J- Drive Jump 4 (reduced fuel x2) 5,005 9384.375
+J- Drive Jump4 (reduced fuel x2) 5,005 9384.375
 
 Power Plant Fusion (TL15), Power 60,000 3,000 6000
 
@@ -19551,6 +20541,8 @@ ARMOURED CRUISER **CLASS:GHALALK**
 
 LEGEND
 
+
+
 1. Fuel processor
 2. Hangar
 3. Cargo hold
@@ -19592,6 +20584,8 @@ Deck 2
 Deck 1
 
 LEGEND
+
+
 
 7. Turrets
 8. Missile storage
@@ -19670,6 +20664,8 @@ proceed. An upgrade to the Empress Troyhune, the
 
 PLANETOID MONITOR
 
+
+
 Jaellemo planetoid monitor is a mighty defender
 of the unofficial capital of the Spinward Marches.
 The Jaellemo was completed in 1101, replacing the
@@ -19692,7 +20688,7 @@ TL15^ Tons Cost (MCr)
 Hull 50,000 Buffered Planetoid 17,500 200
 Armour Bonded Superdense, Armour: 15 2860 1430
 Radiation Shielding — 812.5
-M-Drive Thrust 6 (size reduction x3) 2,100 9000
+M-Drive Thrust6 (size reduction x3) 2,100 9000
 J-Drive — — —
 Power Plant Fusion (TL15), Power: 43,740 2,187 4,374
 Fuel Tanks 24 weeks of operation 1,314 —
@@ -19708,8 +20704,12 @@ Enhanced Signal Processing 2 8
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr2.085949/month
 PURCHASE COST
+
+
 MCr25031.3895
 
 Power Requirements
@@ -19796,7 +20796,11 @@ Evade/3 — 3
 
 PLANETOID MONITOR
 
+
+
 PLANETOID MONITOR
+
+
 
 Software Launch Solution/3 — 16
 
@@ -19815,6 +20819,8 @@ Total: MCr27812.655
 
 1 square = 25 Tons
 LEGEND
+
+
 
 1. Spinal mount
 2. Point defence lasers
@@ -19974,8 +20980,7 @@ Countermeasures Suite 2 4
 Weapons Meson Spinal Mount (TL15) 12,000 5200
 Medium Orbital Strike Mass Driver Bay 100 35
 Medium Repulsor Bay 100 60
-Large Missile Bays
-(Size Reduction x3) x4
+Large Missile Bays (Size Reduction x3) x4
 
 2,000 480
 
@@ -20014,8 +21019,12 @@ Officers x50, Sensops x9
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr2.554995/month
 PURCHASE COST
+
+
 MCr30659.94
 
 Power Requirements
@@ -20072,6 +21081,8 @@ STRIKE CRUISER **CLASS:ARAKOINE**
 
 LEGEND
 
+
+
 1. Docking space
 2. Recovery deck
 3. Spinal mount
@@ -20114,6 +21125,8 @@ Deck 4
 Deck 5
 
 LEGEND
+
+
 
 1. Docking space
 2. Recovery deck
@@ -20200,14 +21213,12 @@ Medium Missile Bays x50 5,000 1000
 Medium Railgun Bays x25 2.500 1250
 Triple Turrets (beam lasers) x100 100 250
 Triple Turrets (sandcasters) x100 100 175
-Point Defence Laser Batteries
-(Type III) x 9
+Point Defence Laser Batteries (Type III) x 9
 
 180 180
 
 Ammunition Missile Storage (8,640 missiles) 720 —
-Sandcaster Canister Storage
-(4,500 canisters)
+Sandcaster Canister Storage (4,500 canisters)
 
 375 —
 
@@ -20245,8 +21256,12 @@ Sensops x9
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr2.615702/month
 PURCHASE COST
+
+
 MCr31388.427
 
 Power Requirements
@@ -20292,6 +21307,8 @@ Total: MCr34876.03
 BATTLE RIDER **CLASS:HADRIAN**
 
 LEGEND
+
+
 
 1. Spinal mount
 2. Particle beam bays
@@ -20379,10 +21396,8 @@ Deck 2
 
 15
 
-The Azhanti High Lightning is an obsolete multi-
-purpose cruiser capable of a variety of different
-functions. Most notable is the ship’s high jump (jump-
-5) capability, which gives it great reactive mobility. It
+The Azhanti High Lightning is an obsolete multi-purpose cruiser capable of a variety of different
+functions. Most notable is the ship’s high jump (jump-5) capability, which gives it great reactive mobility. It
 is this quality that has kept the ship in service in spite
 of its inferior agility and weaponry.
 
@@ -20468,8 +21483,12 @@ Sensops x12
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr2.283079/month
 PURCHASE COST
+
+
 MCr27396.945
 
 Power Requirements
@@ -20585,6 +21604,8 @@ Deck 6
 
 LEGEND
 
+
+
 1. Spinal mount
 2. Screens
 3. Manoeuvre drive
@@ -20680,8 +21701,7 @@ Deck 12
 The Atlantic heavy cruiser is typical of the Imperial
 designs for such ships: a long flattened structure
 studded with weaponry, flaring aft for rudimentary
-control surfaces useful for fuel skimming. Well-
-armed and extremely well-armoured, it fulfils the
+control surfaces useful for fuel skimming. Well-armed and extremely well-armoured, it fulfils the
 basic design requirement of meeting the enemy and
 winning in battle.
 
@@ -20710,8 +21730,12 @@ Sensops x15
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr3.361473/month
 PURCHASE COST
+
+
 MCr40337.676
 
 Power Requirements
@@ -20760,7 +21784,7 @@ Armour Bonded Superdense, Armour: 25 15,000 7500
 
 M-Drive Thrust 5 3,750 7500
 
-J-Drive Jump 4 (Decreased Fuel) 7,505 12383.25
+J-Drive Jump4 (Decreased Fuel) 7,505 12383.25
 
 Power Plant Fusion (TL12), Power 64,500 4,300 4300
 
@@ -20865,6 +21889,8 @@ Deck 2
 
 LEGEND
 
+
+
 1. Small missile bays
 2. Manoeuvre drive
 3. Spinal mount
@@ -20907,8 +21933,7 @@ Deck 3 Deck 4 Deck 5
 The Wind strike carrier is a particular artifact of
 the escalating tensions in the Spinward Marches.
 Designed and created for the transport of light
-fighters to the battle front, strike carriers are also well-
-armed, reasonably armoured and capable of standing
+fighters to the battle front, strike carriers are also well-armed, reasonably armoured and capable of standing
 in battle against most enemies.
 
 The Wind is capable of entering enemy-held territory,
@@ -20935,8 +21960,12 @@ Sensops x15
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr3.655946/month
 PURCHASE COST
+
+
 MCr43871.355
 
 Power Requirements
@@ -20999,14 +22028,12 @@ Triple Turrets (beam lasers) x200 200 500
 Triple Turrets (sandcasters) x100 100 175
 Double Turrets (fusion guns) x10 10 45
 Single Turrets (particle beams) x10 10 42
-Point Defence Laser Batteries
-(Type III) x8
+Point Defence Laser Batteries (Type III) x8
 
 160 160
 
 Ammunition Missile Storage (3,840 missiles) 320 —
-Sandcaster Canister Storage
-(3,000 canisters)
+Sandcaster Canister Storage (3,000 canisters)
 
 150 —
 
@@ -21061,6 +22088,8 @@ Deck 4
 
 LEGEND
 
+
+
 1. Spinal mount
 2. Bridge
 3. Sensors
@@ -21112,6 +22141,8 @@ Deck 1
 Deck 2
 
 LEGEND
+
+
 
 17. Repulsor bay
 18. Cargo hold
@@ -21169,8 +22200,12 @@ Sensops x12
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr5.55837/month
 PURCHASE COST
+
+
 MCr66700.44
 
 Power Requirements
@@ -21224,8 +22259,7 @@ Small Missile Bays x65 3,250 780
 Small Fusion Gun Bays x65 3,250 520
 Triple Turrets (beam lasers) x160 160 400
 Triple Turrets (sandcasters) x160 160 280
-Point Defence Laser Batteries
-(Type III) x10
+Point Defence Laser Batteries (Type III) x10
 
 200 200
 
@@ -21287,6 +22321,8 @@ Deck 5
 Deck 3 Deck 4
 
 LEGEND
+
+
 
 1. Docking space
 2. Recovery deck
@@ -21387,8 +22423,12 @@ Officers x14
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr2.72/month
 PURCHASE COST
+
+
 MCr32657.904
 
 Power Requirements
@@ -21450,6 +22490,8 @@ Cargo 136,882.5 —
 Total: MCr36286.56
 
 LEGEND
+
+
 
 1. Cargo hold
 2. Bridge
@@ -21525,7 +22567,7 @@ Modular Hull (5,800 tons) — 290
 Armour Bonded Superdense, Armour: 15 24,000 12000
 Radiation Shielding — 5000
 M-Drive Thrust 6 12,000 24000
-J-Drive Jump 4 (size reduction x2) 16,004 37509.375
+J-Drive Jump4 (size reduction x2) 16,004 37509.375
 Power Plant Fusion (TL15), Power 180,000 9,000 18000
 Fuel Tanks J-4, 16 weeks of operation 83,600 —
 Bridge Holographic Controls 80 1250
@@ -21550,8 +22592,7 @@ beam) x330
 
 330 1716
 
-Point Defence Laser Batteries
-(Type III) x20
+Point Defence Laser Batteries (Type III) x20
 
 400 400
 
@@ -21578,8 +22619,12 @@ x132, Sensops x25
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr9.928854/month
 PURCHASE COST
+
+
 MCr119146.2525
 
 Power Requirements
@@ -21653,6 +22698,8 @@ DREADNOUGHT **CLASS:KOKIRRAK**
 
 LEGEND
 
+
+
 1. Spinal mount
 2. Modular hull
 3. Sandcaster canisters storage
@@ -21681,6 +22728,8 @@ Deck 3 Deck 4
 5 5
 
 LEGEND
+
+
 
 7. Fusion gun bays
 8. Ammunition storage
@@ -21760,8 +22809,7 @@ admirals in the Imperial Navy. The class name is
 taken from Grand Admiral Olav hault-Plankwell, a
 sector admiral in the Spinward Marches who rose to
 Grand Admiral of the Marches and lead the defeat of
-the Outworld Coalition during the First Frontier War
-(589 to 604). Following his victory in 604, he led the
+the Outworld Coalition during the First Frontier War (589 to 604). Following his victory in 604, he led the
 fleet to the Core, personally dispatched the Empress
 Jaqueline I, and took over the government.
 
@@ -21779,8 +22827,12 @@ Sensops x25
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr9.440599/month
 PURCHASE COST
+
+
 MCr113287.185
 
 Power Requirements
@@ -21822,30 +22874,25 @@ Military Countermeasures Suite 15 28
 Weapons Meson Spinal Mount (TL15) 24,000 10400
 Small Missile Bays x50 2,500 600
 Medium Repulsor Bays x50 5,000 3000
-Triple Turrets
-(long range beam lasers) x100
+Triple Turrets (long range beam lasers) x100
 
 100 287.5
 
 Triple Turrets (sandcasters) x100 100 175
-Double Turrets
-(high yield fusion guns) x30
+Double Turrets (high yield fusion guns) x30
 
 30 147
 
-Single Turrets
-(intense focus particle beam) x400
+Single Turrets (intense focus particle beam) x400
 
 400 2080
 
-Point Defence Laser Batteries
-(Type III) x20
+Point Defence Laser Batteries (Type III) x20
 
 400 400
 
 Ammunition Missile Storage (12,000 missiles) 1,000 —
-Sandcaster Canister Storage
-(6,000 Canisters)
+Sandcaster Canister Storage (6,000 Canisters)
 
 300 —
 
@@ -21905,6 +22952,8 @@ Deck 1 Deck 2 Deck 3
 
 LEGEND
 
+
+
 1. Fuel processor
 2. Jump drive
 3. Repulsor bays
@@ -21925,6 +22974,8 @@ Deck 4 Deck 5 Deck 6
 2 decks high
 
 LEGEND
+
+
 
 10. Sandcaster canisters storage
 11. Manoeuvre drive
@@ -22007,8 +23058,12 @@ Sensops x65
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr29.735911/month
 PURCHASE COST
+
+
 MCr356830.9335
 
 Although some older battleships of greater
@@ -22048,7 +23103,7 @@ Reinforced — 12500
 Military — 6250
 Armour Bonded Superdense, Armour: 17 68,000 34000
 Radiation Shielding — 12500
-M-Drive Thrust 6 (size reduction x3) 21,000 90000
+M-Drive Thrust6 (size reduction x3) 21,000 90000
 J-Drive Jump 4, (fuel efficient x2) 50,005 93759.375
 Power Plant Fusion (TL15), Power 440,000 22,000 44000
 Fuel Tanks J-4, 20 weeks of operation 191,000 —
@@ -22061,36 +23116,30 @@ Distributed Arrays 10 10.6
 Enhanced Signal Processing 2 8
 Military Countermeasures Suite 15 28
 Weapons Meson Spinal Mount (TL15) 66,000 28600
-Small Missile Bays
-(size reduction x3) x430
+Small Missile Bays (size reduction x3) x430
 
 15,050 7740
 
 Medium Repulsor Bays x22 2,200 1320
-Triple Turrets
-(long range beam lasers) x100
+Triple Turrets (long range beam lasers) x100
 
 100 287.5
 
 Triple Turrets (sandcasters) x100 100 175
-Double Turrets
-(high yield fusion guns) x100
+Double Turrets (high yield fusion guns) x100
 
 100 490
 
-Single Turrets
-(intense focus particle beam) x100
+Single Turrets (intense focus particle beam) x100
 
 100 520
 
-Point Defence Laser Batteries
-(Type III) x50
+Point Defence Laser Batteries (Type III) x50
 
 1,000 1000
 
 Ammunition Missile Storage (7,680 missiles) 640 —
-Sandcaster Canister Storage
-(6,000 canisters)
+Sandcaster Canister Storage (6,000 canisters)
 
 300 —
 
@@ -22181,6 +23230,8 @@ Recovery Decks
 1,500
 
 LEGEND
+
+
 
 1. Repulsor bays
 2. Drones

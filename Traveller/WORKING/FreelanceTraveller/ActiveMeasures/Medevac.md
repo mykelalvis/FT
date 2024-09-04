@@ -131,7 +131,7 @@ Note there are six options here for a D6 random determination of NPCs. Assume an
 
 785CD9, age 50, rank 6: Director
 
-**Characteristics:** STR 7 (+0), DEX 8 (+0), END 5 (-1), INT 12 (+2), EDU 13 (+2), SOC 9 (+1)
+**Characteristics:** STR7 (+0), DEX8 (+0), END5 (-1), INT 12 (+2), EDU 13 (+2), SOC9 (+1)
 
 **Skills:** Admin 3, Diplomat 2, Language 2, Advocate 1, Art 1, Carouse 1, Drive 1, Gun Combat 1, Leadership 1, Mechanic 1, Medic 1, Profession 1, Steward 1, Broker 0, Diplomat 0, Electronics (computers) 0, Science 0, Seafarer 0, Vacc Suit 0
 
@@ -142,22 +142,26 @@ Cr112,000 – Cr45,000 medical bills = Cr67,000, Pension: Cr16,000, Gun, 5 Ship 
 **Background:** Just on the verge of retiring Forstup has been the director of the Princess Iphigenia for the last 15 years and is highly competent when it comes to the administrative workings of the hospital and keeping the various factions working together. Just about. However, now that war has broken out – both internally and externally, the Director is proving uncertain and indecisive and is accused by some of simply being focused on retirement plans. The stress is beginning to show and an old and very serious injury that nearly killed Forstup a couple of decades previously is suddenly displaying symptoms again.  
  
 
+
+
 **Senior Surgeon Filippa Postin**
 
 9D9589, female, age 38
 
-**Characteristics:** STR 9 (+1), DEX 13 (+2), END 9 (+1), INT 5 (-1), EDU 8 (+0), SOC 9 (+1)
+**Characteristics:** STR9 (+1), DEX 13 (+2), END9 (+1), INT5 (-1), EDU8 (+0), SOC9 (+1)
 
 **Skills:** Medic 3, Electronics 2, Carouse 1, Investigate 1, Profession 1, Science 1, Diplomat 0, Profession 0, Science 0, Seafarer 0, Streetwise 0, Vacc Suit 0
 
 **Background:** Postin graduated with honours from her university and qualified as a physician with a post at Princess Iphigenia hospital where she's become a senior surgeon of some skill and reputation. She wears a 'lucky' charm necklace with a strange design she is convinced helps steady her hand. She's not wrong, it's an ancient – possibly Ancient – artifact that gives her a DM+2 to her already considerable dexterity. Colleagues think she's just superstitious but she is often called in for the really delicate cases which others have failed at or regard as impossible. She's no nonsense and professional in theatre but out of scrubs knows how to party.  
  
 
+
+
 **Nurse Angar Barcle**
 
 8576CA, male, age 30
 
-**Characteristics:** STR 8 (+0), DEX 5 (-1), END 7 (+0), INT 6 (+0), EDU 12 (+2), SOC 10 (+1)
+**Characteristics:** STR8 (+0), DEX5 (-1), END7 (+0), INT6 (+0), EDU 12 (+2), SOC 10 (+1)
 
 **Skills:** Language 2, Diplomat 1, Medic 1, Science 1, Science 1, Athletics 0, Drive 0, Electronics 0, Investigate 0, Science 0, Vacc Suit 0
 
@@ -166,11 +170,13 @@ Cr112,000 – Cr45,000 medical bills = Cr67,000, Pension: Cr16,000, Gun, 5 Ship 
 **Background:** Barcle seems to rub nigh on everyone up the wrong way and makes enemies before breakfast. But he knows his way around the Princess Iphigenia and also has some ability with language which has come in handy when dealing with patients from outside the hospital's immediate locality. He's good looking, knows it and uses it to his advantage to encourage the sick or injured in their healing and to chat up fellow colleagues, not to mention one or two members of the security cadre, in after-hours socialising.  
  
 
+
+
 **Caretaker Wilma New**
 
 C79A54, female, age 46
 
-**Characteristics:** STR 12 (+2), DEX 7 (+0), END 9 (+1), INT 10 (+1), EDU 5 (-1), SOC 4 (-1)
+**Characteristics:** STR 12 (+2), DEX7 (+0), END9 (+1), INT 10 (+1), EDU5 (-1), SOC4 (-1)
 
 **Skills:** Profession 3, Electronics 2, Jack of All Trades 2, Advocate 1, Engineer 1, Flyer 1, Mechanic 1, Melee 1, Science 1, Admin 0, Drive 0, Medic 0, Profession 0, Science 0
 
@@ -182,11 +188,13 @@ _At TL6+:_ Mechanical toolkit
 _At TL11+:_ Mechanical, Electronics, and Engineering toolkits  
  
 
+
+
 **Cadre Commander Gilbon Gettling**
 
 6B7545, male, age 38, Rank 3: Lance Sergeant
 
-**Characteristics:** STR 6 (+0), DEX 11 (+1), END 7 (+0), INT 5 (-1), EDU 4 (-1), SOC 5 (-1)
+**Characteristics:** STR6 (+0), DEX 11 (+1), END7 (+0), INT5 (-1), EDU4 (-1), SOC5 (-1)
 
 **Skills:** Gun Combat 3, Melee 2, Carouse 1, Gambler 1, Heavy Weapons 1, Leadership 1, Persuade 1, Recon 1, Stealth 1, Athletics 0, Electronics 0, Flyer 0, Tactics 0, Vacc Suit 0
 

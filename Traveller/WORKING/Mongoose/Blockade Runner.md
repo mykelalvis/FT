@@ -220,8 +220,7 @@ As you get close on the Nose you can see a ships name or Logo.
 
 The ship was hit by Vargr pirates several months before the beginning of the war as they were scouting the system. They killed the entire Crew and took the cargo. They also wiped the ships Computer to hide that they were here.
 
-Any inquires will show the ship has been registered as missing with a reward offered for its location
-( 1 0000 Cr) from a local Skip Tracer. Alternately the Crew could try to claim salvage rights but they will
+Any inquires will show the ship has been registered as missing with a reward offered for its location ( 1 0000 Cr) from a local Skip Tracer. Alternately the Crew could try to claim salvage rights but they will
 
 - Have to recover the ship and bring it into a friendly port.
 - Endure a legal fight with the Bank that owns 80% of the ship, the family of the crew and the Insurance Company that has paid a claim for loss to the bank. (Role Play - Dm may offer a buyout from one of the other claimants.)
@@ -238,8 +237,7 @@ Any inquires will show the ship has been registered as missing with a reward off
 
 **There are several ways the players can get power to the ship if they wish.**
 
-**A fuel hose can be run from the players ship to the port fuel tanks (Mechanical / OG / Vac Suit ) at least 2 tons of fuel will be required to build pressure and bring the damaged Power plant online
-(Engineering - Power) this will take 2d6 hours**
+**A fuel hose can be run from the players ship to the port fuel tanks (Mechanical / OG / Vac Suit ) at least 2 tons of fuel will be required to build pressure and bring the damaged Power plant online (Engineering - Power) this will take 2d6 hours**
 
 **A shore power cable can be run between the ships (normally used to power the ship in Port,) This will take 1d3 hours ( 0 - G , Vac Suit)**
 

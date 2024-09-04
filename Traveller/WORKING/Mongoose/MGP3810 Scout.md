@@ -23,22 +23,34 @@ David MacDonald, Wayne Roth, Paul R. Banner.
 
 Mongoose Traveller
 AUTHOR
+
+
 Lawrence Whittaker
 
 ADDITIONAL TEXT
+
+
 Martin Costa
 
 EDITOR
+
+
 Nick Robinson
 
 LAYOUT
+
+
 Will Chapman
 
 INTERIOR ILLUSTRATIONS
+
+
 Andrew Dobell, Marco Morte, Tim Hartin, Chad Sergesketter,
 Travis Leichssenring, Jason Banditt Adams
 
 SPECIAL THANKS
+
+
 Dominic Mooney, Stuart Machin, David Ives
 
 ### CONTENTS
@@ -60,6 +72,8 @@ Dominic Mooney, Stuart Machin, David Ives
 #### INDEX 112
 
 TTRAVELLERRAVELLER
+
+
 
 ## Scouts
 
@@ -367,6 +381,8 @@ Cultural Analysis End 7+ Edu 7+
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 First ContactFirst Contact End 6+ Edu 7+
 DiplomacyDiplomacy Int 6+ Edu 7+
@@ -412,6 +428,8 @@ Previous Service: Previous Service: –
 
 SKILLS AND TRAINING
 
+
+
 Personal DevelopmentPersonal Development Service SkillsService Skills Advanced Education (Minimum Edu 8)Advanced Education (Minimum Edu 8)
 1 +1 Str Pilot (spacecraft or small craft) Medic
 2 +1 Dex Survival Navigation
@@ -430,6 +448,8 @@ Specialist: First ContactSpecialist: First Contact Specialist: DiplomacySpeciali
 
 RANKS AND SKILLS
 
+
+
 RankRank TitleTitle Skill or BenefitSkill or Benefit
 1 Contact Officer Persuasion 1
 2— —
@@ -441,6 +461,8 @@ RankRank TitleTitle Skill or BenefitSkill or Benefit
 ##### CREATING A SCOUT TRAVELLER CREATING A SCOUT TRAVELLER
 
 MISHAP
+
+
 2d62d6 MishapMishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
 3 An encounter with an alien race or re-contacted group leaves you psychologically scarred. Reduce either Int or Soc by 1
@@ -458,6 +480,8 @@ MISHAP
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 EVENTS
+
+
 
 d66d66 EventEvent
 11 Disaster! Roll on the Mishap table, but remain in this career.
@@ -577,6 +601,8 @@ as a result of his aid.
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 xBoatxBoat End 6+ Edu 8+
 CiphersCiphers Edu 5+ Edu 8+
@@ -624,6 +650,8 @@ Previous Service:Previous Service: Navy
 
 SKILLS AND TRAINING
 
+
+
 Personal DevelopmentPersonal Development Service SkillsService Skills Advanced Education (Minimum Edu 8)Advanced Education (Minimum Edu 8)
 1 +1 Int Pilot (spacecraft) Medic
 2 +1 Edu Comms Astrogation
@@ -642,6 +670,8 @@ Specialist: xBoatSpecialist: xBoat Specialist: CiphersSpecialist: Ciphers Specia
 
 RANKS AND SKILLS
 
+
+
 RankRank TitleTitle Skill or BenefitSkill or Benefit
 1 Messenger Second Class Comms 1
 2 Messenger First Class —
@@ -653,6 +683,8 @@ RankRank TitleTitle Skill or BenefitSkill or Benefit
 ##### CREATING A SCOUT TRAVELLER CREATING A SCOUT TRAVELLER
 
 MISHAP
+
+
 2d62d6 MishapMishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
 3 A technical error results in an important communication you were in charge of being wiped. Roll Comms 8+ to avoid
@@ -660,8 +692,7 @@ dismissal from the career. If you succeed, lose 1 benefits roll when you muster 
 4 Mis-translation of a communique results in extreme embarrassment for a high-ranking official. Gain an Enemy.
 5 Taking part in trials for a new, neural communications interface, you suffer a severe mental trauma. Roll End 8+ to avoid
 losing 1 Int. However, gain a +1 DM to gaining a psionic ability.
-6 A vital message goes missing – either corrupted, hacked, or erased. You spend a great deal of time covering-up the mistakes
-(which are all your fault). Although there is no proof of your incompetence you are still forced to leave the service.
+6 A vital message goes missing – either corrupted, hacked, or erased. You spend a great deal of time covering-up the mistakes (which are all your fault). Although there is no proof of your incompetence you are still forced to leave the service.
 7 Budgetary constraints force the disbanding of your team. You are required to leave the service.
 8 Your team is merged with another. You are given a choice: face a demotion of one rank or leave the service.
 9 Allegations of corruption sweep your department. You lose your job and others, some of whom are friends, are also forced
@@ -673,6 +704,8 @@ out of the service and they hold you responsible. Gain 1d2 Rivals.
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 EVENTS
+
+
 
 d66d66 EventEvent
 11 Disaster! Roll on the Mishap table, but you are not ejected from this career.
@@ -771,8 +804,7 @@ Either gain Leadership, or take a +4DM to your next Advancement roll (in any Sco
 56 You come across a piece of alien technology that legally becomes your property. Either sell it for another benefit roll, or keep it (your
 Referee will determine what it is).
 61 You rub shoulders with the nobility. Gain any one of Carouse 1, Diplomat 1, Steward 1 or Perform (dance) 1.
-62 You are groomed for higher command by a senior officer. Either gain him as an Ally, or take a +4DM to your next Advancement roll
-(in any scout career).
+62 You are groomed for higher command by a senior officer. Either gain him as an Ally, or take a +4DM to your next Advancement roll (in any scout career).
 63 You uncover a network of spies operating within the branch. If you choose to join them, you must make an Deception 8+ roll to
 prevent from being discovered. If this fails, you are caught and spend the next 8 years in prison, losing all career benefits. If you
 choose to turn the spies in, roll Leadership 8+ to foil their plot. If you fail, roll twice on the injury table taking the lower result and
@@ -788,6 +820,8 @@ as a result of his aid.
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 AnalysisAnalysis Int 6+ Edu 8+
 PathfinderPathfinder Edu 7+ Edu 7+
@@ -828,6 +862,8 @@ trained in Vacc Suit 0 if they do not already have this skill._
 
 SKILLS AND TRAINING
 
+
+
 Personal DevelopmentPersonal Development Service SkillsService Skills Advanced Education (Minimum Edu 8)Advanced Education (Minimum Edu 8)
 1 +1 End Vacc Suit Pilot (spacecraft)
 2 +1 Int Navigation Pilot (small craft)
@@ -846,6 +882,8 @@ Assignment: AnalysisAssignment: Analysis Assignment: PathfinderAssignment: Pathf
 
 RANKS AND SKILLS
 
+
+
 RankRank TitleTitle Skill or BenefitSkill or Benefit
 1 Exploration Operative Sensors 1
 2— —
@@ -857,6 +895,8 @@ RankRank TitleTitle Skill or BenefitSkill or Benefit
 ##### CREATING A SCOUT TRAVELLER CREATING A SCOUT TRAVELLER
 
 MISHAP
+
+
 2d62d6 MishapMishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
 3 An accident onboard ship results in massive decompression. Lose 1 End and 1 Int. You are mustered out of the service immediately.
@@ -884,6 +924,8 @@ affect you physically: lose 1 from either Str, Dex, End or Int.
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 EVENTS
+
+
 
 d66d66 EventEvent
 11 Disaster! Roll on the Mishap table, but you are not ejected from this career.
@@ -978,6 +1020,8 @@ advancement roll as a result of his aid.
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 Covert SurveillanceCovert Surveillance Int 6+ Edu 6+
 EspionageEspionage End 7+ Int 8+
@@ -1020,6 +1064,8 @@ Previous Service:Previous Service: Agent, Navy
 
 SKILLS AND TRAINING
 
+
+
 Personal DevelopmentPersonal Development Service SkillsService Skills Advanced Education (Minimum Edu 8)Advanced Education (Minimum Edu 8)
 1 +1 Dex Athletics Broker
 2 +1 End Deception Comms
@@ -1038,6 +1084,8 @@ Specialist: Covert SurveillanceSpecialist: Covert Surveillance Specialist: Espio
 
 RANKS AND SKILLS
 
+
+
 RankRank TitleTitle Skill or BenefitSkill or Benefit
 1 Special Operative +1 Dex
 2 Special Agent —
@@ -1049,6 +1097,8 @@ RankRank TitleTitle Skill or BenefitSkill or Benefit
 ##### CREATING A SCOUT TRAVELLER CREATING A SCOUT TRAVELLER
 
 MISHAP
+
+
 2d62d6 MishapMishap
 2 Severely wounded. Roll twice on the Injury table and take the lower result.
 3 Your cover is blown and you are forced to evacuate your assignment. Roll End 8+. If you succeed you escape unharmed but are
@@ -1076,6 +1126,8 @@ the service.
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 EVENTS
+
+
 
 d66 Event
 11 Disaster! Roll on the Mishap table, but you are not ejected from this career.
@@ -1166,6 +1218,8 @@ go...?).
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 CAREER PROGRESS
+
+
 SurvivalSurvival AdvancementAdvancement
 World AnalysisWorld Analysis End 6+ Edu 8+
 Stellar AnalysisStellar Analysis End 6+ Edu 8+
@@ -1210,6 +1264,8 @@ Previous ServicePrevious Service: Scholar
 
 SKILLS AND TRAINING
 
+
+
 Personal DevelopmentPersonal Development Service SkillsService Skills Advanced Education (Minimum Edu 8)Advanced Education (Minimum Edu 8)
 1 +1 Dex Vacc Suit Astrogation
 2 +1 End Pilot Any Physical Science
@@ -1228,6 +1284,8 @@ Specialist: World AnalysisSpecialist: World Analysis Specialist: Stellar Analysi
 
 RANKS AND SKILLS
 
+
+
 RankRank TitleTitle Skill or BenefitSkill or Benefit
 1 Research Assistant —
 2 Researcher Computers
@@ -1239,6 +1297,8 @@ RankRank TitleTitle Skill or BenefitSkill or Benefit
 ##### CREATING A SCOUT TRAVELLER CREATING A SCOUT TRAVELLER
 
 MISHAP
+
+
 2d6 Mishap
 2 Severely injured. Roll twice on the Injury table and take the lower result.
 3 Exposed to hazardous atmospheric conditions. Roll Vacc Suit 8+; if you fail, roll twice on the Injury table and take the lower result.
@@ -1272,6 +1332,8 @@ fitted with cybernetic replacements if available and in lieu of a Benefit roll.
 ##### CCREATINGREATING AA S SCOUTCOUT T TRAVELLERRAVELLER CREATING A SCOUT TRAVELLER
 
 EVENTS
+
+
 
 d66d66 EventEvent
 11 Disaster! Roll on the Mishap table.
@@ -1425,6 +1487,8 @@ brackets, as are comments on the application of game rules. Die
 modifications are labelled DM, as is standard in Traveller products.
 
 MAHRAN SCHAEFFER
+
+
 Born in the asteroid belt of his home system, Mahran dreams of
 exploring space beyond the confines of his habitat. The tales of the
 grizzled spacers and belters who frequent his father's bar fill him
@@ -1436,22 +1500,23 @@ process points out the commitment he is making ('You know the
 Scouts means for life , son? I hope so.').
 
 Mahran Schaffer at 16
-Str 8 (+0), Dex 4 (–1), End 6
-(+0), Int 7 (+0), Edu 10 (+1),
-Soc 8 (+0)
+Str8 (+0), Dex4 (–1), End 6 (+0), Int7 (+0), Edu 10 (+1),
+Soc8 (+0)
 Asteroid, High Population,
 High Technology: Zero G 0,
 Computers 0, Streetwise 0.
 
 ENLISTMENT AND FIRST
+
+
 TERM
+
+
 Coming from an asteroid,
 and a high-tech one at that,
 Mahran gains a +2 to his
 enlistment. He attempts to
-qualify for the Courier branch
-(End 5+). His enlistment roll
-(9) gains +2, so he breezes
+qualify for the Courier branch (End 5+). His enlistment roll (9) gains +2, so he breezes
 through the qualification
 procedure and, for his first
 assignment chooses xBoat,
@@ -1496,6 +1561,8 @@ Computers 0, Navigation 0, Pilot (spacecraft) 0, Sensors 0, Space
 Science (Planetlology) 1, Streetwise 0, Zero G 0.
 
 SECOND TERM
+
+
 Mahran decides to remain with the Scouts but decides to opt for
 a new branch in his second term. His Comms experience makes
 the Covert Surveillance assignment of Special Operations a natural
@@ -1518,8 +1585,7 @@ valuing his role in the Scouts far more highly than this tawdry
 attempt to make him a traitor. As a result, he now has an enemy of
 the entire Black Star Brigade. However, his advancement roll – Edu
 6+ (7) is a success, and Mahran gains a rank, and an extra skill. He
-chooses the Advanced Education table and gains Survival 1 – his run-
-in with the Black Star Brigade has clearly taught him a few lessons
+chooses the Advanced Education table and gains Survival 1 – his run-in with the Black Star Brigade has clearly taught him a few lessons
 in watching his back. His skills are now: Astrogation 0, Comms 2,
 Computers 0, Navigation 0, Pilot (spacecraft) 0, Sensors 0, Space
 Science (Planetlology) 1, Streetwise 0, Survival 1, Zero G 0.
@@ -1529,6 +1595,8 @@ between himself and the Black Star Brigade. He decides to enlist in
 the Exploration branch, which should get him off-planet!
 
 THIRD TERM
+
+
 To qualify for Exploration – and Pathfinder appeals – Mahran must
 roll End 6+ (8). Mahran joins the Pathfinder team and is assigned
 to a Type S Scout that is responsible for mapping new space lanes
@@ -1549,7 +1617,7 @@ the outcome: (5). Mahran is injured during the rescue attempt, and
 must roll on the Injury Table (page 37 of the Traveller rules). The
 result is (4) – Mahran is badly scarred when debris rips through his
 Vacc Suit and gouges away part of his upper thigh. Mahran reduces
-his Endurance by 2 points, taking him down to End 4 (–1). He will
+his Endurance by 2 points, taking him down to End4 (–1). He will
 also now walk with a permanent limp as his leg is in constant pain,
 despite the best medical attention he can be given.
 
@@ -1557,16 +1625,16 @@ As far as advancement goes, Mahran needs Edu 7+, and his decent
 education of 10 grants him a +1 bonus. He succeeds (6+1) and as
 his term of service draws to an end, Mahran is now an Exploration
 Officer gaining Space Science (planetology) 1. For his additional skill
-he chooses to roll on the Advanced Education table for Exploration
-(1) – he has developed Pilot (spacecraft). At the end of his third term,
+he chooses to roll on the Advanced Education table for Exploration (1) – he has developed Pilot (spacecraft). At the end of his third term,
 Mahran's characteristics and skills are as follows:
 
-Str 8 (+0), Dex 4 (–1), End 4 (–1), Int 7 (+0), Edu 10 (+1), Soc 8 (+0)
-Astrogation 1, Comms 2, Computers 0, Navigation 0, Pilot
-(spacecraft) 1, Sensors 0, Space Science (planetology) 2, Streetwise
+Str8 (+0), Dex4 (–1), End4 (–1), Int7 (+0), Edu 10 (+1), Soc8 (+0)
+Astrogation 1, Comms 2, Computers 0, Navigation 0, Pilot (spacecraft) 1, Sensors 0, Space Science (planetology) 2, Streetwise
 0, Survival 1, Vacc Suit 0, Zero G 0.
 
 FOURTH TERM
+
+
 Mahran decides to stay in Exploration and transfer across to the
 Analysis assignment. His knowledge of the planets and planetary
 systems is developing and he has a keen interest in this branch of
@@ -1608,10 +1676,11 @@ he chooses Service Skills (6) and gains another level of Comms.
 
 So, by the end of his fourth term, Mahran's skills are: Astrogation
 1, Comms 3, Computers 0, Leadership 1, Life Sciences (Cybernetics)
-1, Navigation 0, Pilot (spacecraft) 1, Sensors 0, Space Science
-(planetology) 2, Streetwise 0, Survival 1, Vacc Suit 0, Zero G 0.
+1, Navigation 0, Pilot (spacecraft) 1, Sensors 0, Space Science (planetology) 2, Streetwise 0, Survival 1, Vacc Suit 0, Zero G 0.
 
 FIFTH TERM
+
+
 Mahran has decided this will be his last term with the Scouts, and
 even then, he is here under duress. He decides to return to Special
 Operations and is assigned to the Undercover division, investigating
@@ -1643,10 +1712,9 @@ skill. He also rolls on the Personal Development table and gains +1
 Int.. His characteristics and skills on mustering out are:
 
 Mahran Schaeffer, ex-Scout (5 terms), 36 years
-Str 8 (+0), Dex 4 (–1), End 4 (–1), Int 8 (+0), Edu 10 (+1), Soc 8 (+0)
+Str8 (+0), Dex4 (–1), End4 (–1), Int8 (+0), Edu 10 (+1), Soc8 (+0)
 Astrogation 1, Comms 3, Computers 0, Gun Combat (slug pistol)
-1, Leadership 2, Life Sciences (Cybernetics) 1, Navigation 0, Pilot
-(spacecraft) 1, Sensors 0, Space Science (planetology) 2, Streetwise
+1, Leadership 2, Life Sciences (Cybernetics) 1, Navigation 0, Pilot (spacecraft) 1, Sensors 0, Space Science (planetology) 2, Streetwise
 0, Survival 1, Vacc Suit 0, Zero G 0.
 
 He is entitled to 5 Benefits rolls for his terms of service, plus 3
@@ -1781,6 +1849,8 @@ a needed assignment.
 ##### SSCOUTCOUT M MISSIONSISSIONS SCOUT MISSIONS
 
 MISSION REJECTION EFFECT
+
+
 
 EffectEffect
 –6 As below, but including the 2 year prison term.
@@ -1942,6 +2012,8 @@ serving Scout. If a random branch is required, roll 2D and consult
 the following table:
 
 EMPLOYER DETAILS
+
+
 2d62d6 BranchBranch
 2-3 Contact
 4-6 Courier
@@ -1988,6 +2060,8 @@ must make separate Broker 9+ rolls for each team member.
 
 CONTACT MISSIONS
 
+
+
 1d6 Result1d6 Result Mission TypeMission Type
 
 Compensation Compensation
@@ -2000,6 +2074,8 @@ MultiplierMultiplier
 6 Study 1.2
 
 CONTACT MISSIONS
+
+
 Contact missions fall into two general categories: first contact and
 re-contact. Both are discussed in detail below. What is important
 to note is that the main definition of a contact mission is not
@@ -2075,6 +2151,8 @@ his usual level of authority.
 
 COURIER MISSIONS
 
+
+
 1d6 Result1d6 Result Mission TypeMission Type
 
 Compensation Compensation
@@ -2117,8 +2195,7 @@ Whilst most military arms have their own messenger services, the
 Scout service is frequently called upon to relay important military
 information between systems, especially where military vessels
 may be vulnerable to interception. The Scout service uses its own
-encryption logarithms quite separate from military encryption
-(although to a military level), and its fleet of unmarked fast courier
+encryption logarithms quite separate from military encryption (although to a military level), and its fleet of unmarked fast courier
 vessels mean that the Scouts often provide a more attractive secure
 messaging service than a military's own. Occasionally the Scouts
 find themselves ferrying communiqués that the military wants
@@ -2189,6 +2266,8 @@ members of the team being completely unaware of the true nature
 of the task.
 
 EXPLORATION MISSIONS
+
+
 
 1d6 Result1d6 Result Mission TypeMission Type
 
@@ -2290,6 +2369,8 @@ without damaging political or military repercussions.
 
 SPECIAL OPERATION MISSIONS
 
+
+
 1d6 Result1d6 Result Mission TypeMission Type
 
 Compensation Compensation
@@ -2359,6 +2440,8 @@ months or years in the field, working both undercover and in covert
 operations to bring about their mission's success.
 
 SURVEY MISSIONS
+
+
 1d6 Result1d6 Result Mission TypeMission Type Compensation MultiplierCompensation Multiplier
 1 Planet Survey 1.1
 2 System Survey 1.2
@@ -2516,11 +2599,9 @@ ServicesServices
 Mission Mission
 Briefing/Briefing/
 DebriefingDebriefing Scout FacilitiesScout Facilities
-Accommodation
-(Serving Scouts)
+Accommodation (Serving Scouts)
 
-Accommodation
-(Retired Scouts)
+Accommodation (Retired Scouts)
 
 Social &
 Recreation
@@ -2533,10 +2614,20 @@ Medical
 Facilities
 
 AXXXX X X X XX
+
+
 BXXXX X X X XX
+
+
 CXXXX X X X X
+
+
 DXXXX X
+
+
 EX X X X
+
+
 
 Berthing
 Every Scout Base has excellent berthing facilities. These include
@@ -2593,8 +2684,7 @@ potential danger it is erased or destroyed, with a full log and report
 being issued to both sender and recipient as to the nature of the
 danger detected. Where messages are of a secret or highly sensitive
 nature (the level of encryption and associated metadata and security
-used indicates this), then the Messaging team uses its highest-
-level Scout operatives to handle the message's distribution and
+used indicates this), then the Messaging team uses its highest-level Scout operatives to handle the message's distribution and
 dissemination. Scout bases are renowned for their discretion and
 rigorous, trustworthy security procedures and it is rare for breaches
 of the extensive security protocols to take place.
@@ -2618,6 +2708,8 @@ is a considerable source of revenue for the Scout Service.
 ##### SSCOUTCOUT M MISSIONSISSIONS SCOUT MISSIONS
 
 CHARGES FOR PERSONAL MESSAGE COLLECTION
+
+
 
 Message TypeMessage Type
 Standard message/document/parcel with
@@ -2711,8 +2803,7 @@ bases have anything approaching true hospital care – and even then
 facilities are limited by the size of the base and the availability of
 dedicated medical expertise. Where a base has a hospital wing, it is
 generally only large enough to handle 2d6 patients at any one time.
-The hospital wing has an operating theatre and surgical equipment
-(either fully automated, depending on tech level, or requiring
+The hospital wing has an operating theatre and surgical equipment (either fully automated, depending on tech level, or requiring
 human surgeons), and a small Intensive Care Unit and basic trauma
 facilities. However, advanced medical care for diseases, extremely
 serious injuries and other life-threatening conditions are beyond
@@ -2786,8 +2877,7 @@ even think of asking questions.
 
 Cygnus X-3 maintains one survey scout, three Type S Scouts, two
 Type S Scout/Couriers, and two small non-jump ships. The small
-craft are a pinnace, and a modular cutter. The base also has an
-(off the record) gig from a destroyed Gazelle class escort, which
+craft are a pinnace, and a modular cutter. The base also has an (off the record) gig from a destroyed Gazelle class escort, which
 has been extensively customized. The base maintains several grav
 vehicles (air/rafts and a single speeder) as part of the Scout base
 fleet. It is rare to find more than one or two of the Scout/Couriers at
@@ -2855,10 +2945,12 @@ of repeated sub-terminating screw-ups.
 
 Cygnus X-3 Personnel
 SQUADRON COMMANDER MANIK HULKA
+
+
 Male, Age 38, 5 Terms
 Str 7, Dex 10, End 9, Int 8, Edu 6, Soc 8
-Admin 3, Gun Combat 1 (Slug Pistol), Jack of all Trades 2, Mechanic
-1, Pilot 1 (Space Craft), Vacc Suit 1
+Admin 3, Gun Combat1 (Slug Pistol), Jack of all Trades 2, Mechanic
+1, Pilot1 (Space Craft), Vacc Suit 1
 
 Manik has served almost exclusively in Survey throughout his
 career, before an arm injury forced him into accepting command of
@@ -2885,7 +2977,7 @@ the bland, boring pie that is Cygnus X-3
 PORT SUPERVISOR LIAM O'OHLMSTEAD
 Male, Bureaucrat, Age 34, 4 Terms
 Str 7, Dex 7, End 7, Int 7, Edu 7, Soc 9
-Advocate 1, Admin 2, Pilot 1 (Small Craft), Diplomat 1, Flyer 1,
+Advocate 1, Admin 2, Pilot1 (Small Craft), Diplomat 1, Flyer 1,
 Persuasion 1
 Liam is a classic grey cog in a grey machine. He is competent at his
 job, and can drive or fly just about anything the port authority uses.
@@ -2907,7 +2999,7 @@ two have to co-ordinate, tensions often run high.
 CUSTOMS OFFICER MATHIS B'HEAL
 Female, Agent, Age 30, 3 Terms
 Str 7, Dex 8, End 9, Int 5, Edu 7, Soc 7
-Admin 2, Advocate 1, Flyer 1 (Grav), Pilot 1 (Small Craft), Vacc Suit
+Admin 2, Advocate 1, Flyer1 (Grav), Pilot1 (Small Craft), Vacc Suit
 1, Zero G 0
 Mathis is one type of law enforcement officer frequently encountered
 in the hinterlands; annoyingly enthusiastic, clueless and barely
@@ -2917,7 +3009,7 @@ seldom needs to.
 PORT MARSHAL REUBEN STANDARD “STAN”
 Male, Agent, Age 42, 6 Terms
 Str 8, Dex 9, End 7, Int 9, Edu 7, Soc 9
-Advocate 3, Flyer 2 (Grav), Gun Combat 3 (Slug Pistols), Gun Combat
+Advocate 3, Flyer2 (Grav), Gun Combat3 (Slug Pistols), Gun Combat
 1 (Slug Rifles), Recon 2, Investigate 3, Carouse 2, Vacc Suit 0
 Marshal Stan is the other type of lawman; competent, skilled, hard
 boiled, and unfortunately for his career, absolutely unable to look the
@@ -2949,10 +3041,12 @@ often use Perdy to deal with any unpleasant or tedious business.
 
 SECOND ASSISTANT SCOUT SUPERVISOR JAKITA 'JAX'
 TOMLINSON
+
+
 Female, Age 30, 3 Terms
 Str 9, Dex 11, End 9, Int 7, Edu 9, Soc 10
 Electronic 1, Admin 1, Flyer (Grav) 1, Mechanical 1, Navigation 1,
-Pilot 1 (Space Craft)
+Pilot1 (Space Craft)
 
 Jax is in charge of the minor Scout base installation on the gas giant's
 moon. Typically this would be the Assistant Director's position
@@ -2995,15 +3089,16 @@ get a slice of the action for his dwindling retirement fund.
 Medical Group
 Cygnus base operates a medical group in the reasonably well
 equipped medical wing. The group has specializations in both
-human and xeno-biology. Whilst part of the Scout base, a long-
-standing agreement with the Port authority means that medical
+human and xeno-biology. Whilst part of the Scout base, a long-standing agreement with the Port authority means that medical
 expertise is leant to the starport medical team, which lacks
 xenobiology medical expertise.
 
 BASE DOCTOR HAWN VRATCH
+
+
 Male, Scout, Age 42, 6 Terms
 Str 8, Dex 9, End 4, Int 10, Edu 11, Soc7
-Electronics-1, Medic 3 (Xeno medicine), Medic 4 (Human Medicine),
+Electronics-1, Medic3 (Xeno medicine), Medic4 (Human Medicine),
 Pilot 2, Vacc Suit 1
 Dr. Haw Vratch uses his medic skill at full value for Humans and other
 lifeforms found in the system. Vratch unfortunately suffers from a
@@ -3034,17 +3129,20 @@ giant and its various moons, with its results leading to the successful
 mining operations now found on two of the gas giant's satellites.
 
 PEELA TROFFLIA BASE SCIENCE OFFICER
+
+
 Female, Scout, Age 46, 7 Terms
 Str 4, Dex 9, End 8, Int E, Edu 8, Soc 6
-Astrogation 4, Electronics 2, Flyer (Grav) 1, Gun Combat 1 (Slug
-Pistols), Jack of all Trades 1, Mechanics 1, Pilot 1, Vacc Suit 1, Science
-(Archaeology) 1, Science (Xenobiology) 1,
+Astrogation 4, Electronics 2, Flyer (Grav) 1, Gun Combat1 (Slug
+Pistols), Jack of all Trades 1, Mechanics 1, Pilot 1, Vacc Suit 1, Science (Archaeology) 1, Science (Xenobiology) 1,
 
 Specialist Smith-4372' unless Peela speaks to him, in which case
 'Smith' suffices. When he speaks, it is in a cold, distant voice,
 reminiscent of an echo.
 
 LAB MANAGER PODAR TALLMAN
+
+
 Male, Scout, Age 30, 3 Terms
 Str 9, Dex 7, End 4, Int 7, Edu 9, Soc 12
 Jack of all Trades 1, Mechanical 2, Pilot 1, Computer 1
@@ -3060,6 +3158,8 @@ neither corrupt nor venal – but he has become completely seduced
 by the soft side of life.
 
 RESEARCH ASSISTANT RANS OVERL
+
+
 Male, Scout, Age 24, 2 Terms
 Str 7, Dex 4, End 5, Int12, Edu 10, Soc 10
 Electronic-1, Computer-1, Jack of all Trades 1, Pilot-1
@@ -3073,9 +3173,9 @@ Science Branch can be bothered with.
 CO-INVESTIGATOR MAGRIS HEROLOVEN
 Female, Scout, Age 46, 7 Terms
 Str 4, Dex 9, End 8, Int 14, Edu 8, Soc 6
-Science (Plantetology) 3, Computer 2, Flyer 2 Gun Combat 1 (Slug
+Science (Plantetology) 3, Computer 2, Flyer 2 Gun Combat1 (Slug
 Pistols), Investigation 2,
-Pilot 1 (Space Craft), Pilot 1 (Small Craft), Vacc Suit 1, Streetwise 1
+Pilot1 (Space Craft), Pilot1 (Small Craft), Vacc Suit 1, Streetwise 1
 Gambling 3
 Magris Heroloven is both a planetologist for Cygnus and the chief
 Briefer/Debriefer for missions in and around the system. Marking
@@ -3093,9 +3193,11 @@ this by gleefully cutting through bureaucracy so that her team can
 concentrate on keeping the base's fleet of ships operational.
 
 JUN LI CHIEF ENGINEER
+
+
 Female, Scout, Age 38, 5 Terms
 Str 8, Dex 8, End 11, Int 9, Edu 7
-Electronics 2, Engineering 3, Mechanic 2, Pilot 2 (Small Craft)
+Electronics 2, Engineering 3, Mechanic 2, Pilot2 (Small Craft)
 
 Jun Li is a motivated competent Engineer who utterly hates, and
 generally ignores, paperwork. Her seniority makes her the chief
@@ -3105,7 +3207,7 @@ resulted in the assignment to Cygnus X-3.
 STUDAS MATUDAS AKA“STUDS”, ASSISTANT ENGINEER
 Male, Scout, Age 30, 3 Terms
 Str 7, Dex 7, End 10, Int 8, Edu 8, Soc 7
-Engineering 2, Mechanical 3, Pilot 1 (Small Craft)
+Engineering 2, Mechanical 3, Pilot1 (Small Craft)
 Studs is a breezy can-do style mechanic, who keeps most of the
 
 base vehicles running one way or another. He also moonlights
@@ -3120,9 +3222,11 @@ Computer 2,Engineering 2, Gun Combat 1, Pilot 1(Small Craft)
 
 Male, Scout, Age 30, 3 Terms
 Str 4, Dex 9, End 7, Int 7, Edu 5, Soc 9
-Mechanical 3, Pilot 1 (Space Craft)
+Mechanical 3, Pilot1 (Space Craft)
 
 COMMS GROUP
+
+
 The Comms group conducts dual roles: the general IT maintenance
 of the station, plus all Messaging activities Cygnus is expected to
 undertake.
@@ -3130,7 +3234,7 @@ undertake.
 IT HEAD, K'KAAARK KRALLLLORICAAAAR
 Scout, Age 50, Avian, 8 Terms
 Str 5, Dex 3, End 7, Int 15, Edu 9, Soc 9
-Electronics 5, Flyer (Grav) 1, Comms 2, Computer 3, Pilot 1 (Small
+Electronics 5, Flyer (Grav) 1, Comms 2, Computer 3, Pilot1 (Small
 Craft)
 K'Kaark is a member of an avian descended non-human minor race
 native to the neighboring system. A superficial resemblance to
@@ -3154,9 +3258,11 @@ wafer jacks. She also works as the base librarian/archivist, and
 assists with the planetary net wherever possible.
 
 VILLA RATHUS
+
+
 Male, Scout, Age 26, 2 Terms
 Str 8, Dex 9, End 6, Int 6, Edu 10, Soc 6
-Electronics 1, Gunnery 1, Pilot 1 (Spacecraft), Vacc Suit 1, Computer
+Electronics 1, Gunnery 1, Pilot1 (Spacecraft), Vacc Suit 1, Computer
 1
 A surprisingly normal, if quiet technician, he is dedicated to learning
 his job, and keeping things running.
@@ -3164,6 +3270,8 @@ his job, and keeping things running.
 ##### SSCOUTCOUT M MISSIONSISSIONS
 
 SQUADRON GROUP
+
+
 The Squadron Group is the team of active Scouts responsible for
 conducting the missions Cygnus X-3 routinely tackles or is assigned
 to deal with. The group is divided into crews for the main operational
@@ -3182,7 +3290,7 @@ efficient, bunch, who have seen it all and survived the rest.
 MAK THANNIS: CAPTAIN/NAVIGATOR
 Male, Scout, Age 46, 7 Terms
 Str 9, Dex 7, End 4, Int 9, Edu 9, Soc 9
-Astrogation 2, Comms 2, Electronics 1, Pilot 3 (Spacecraft), Vacc Suit
+Astrogation 2, Comms 2, Electronics 1, Pilot3 (Spacecraft), Vacc Suit
 2, Zero G 2
 The acerbic captain of the Aachari; a ruddy-faced spacer with a
 cynical bent and tired, nervous laugh.
@@ -3190,14 +3298,14 @@ cynical bent and tired, nervous laugh.
 LASLO LARS: PILOT/HELM
 Male, Scout, Age 46, 7 Terms
 Str 8, Dex 4, End 5, Int 5, Edu 6, Soc 6
-Flyer 2 (Grav), Gun Combat-1, Jack of all Trades 1, Mechanics 2,
+Flyer2 (Grav), Gun Combat-1, Jack of all Trades 1, Mechanics 2,
 Medical 1, Pilot 3,Vacc Suit 2, Zero G 1, Survival 1
 
 PYERS BANNERMAN: MECHANIC/GUNNER
 Male, Scout, Age 46, 7 Terms
 Str 7, Dex, 5, End 4, Int 10, Edu 9, Soc 11
-Electronics 2, Gun Combat 1 (Slug Pistol), Gunnery 1, Mechanical 3,
-Pilot 1 (Spacecraft), Pilot 1 (Small Craft), Vacc Suit-1, Zero G 1
+Electronics 2, Gun Combat1 (Slug Pistol), Gunnery 1, Mechanical 3,
+Pilot1 (Spacecraft), Pilot1 (Small Craft), Vacc Suit-1, Zero G 1
 
 In addition to the above, 3-5 other scouts or technical specialists will
 be on board, depending on the mission.
@@ -3229,6 +3337,8 @@ obligations and duties for as long as possible whilst in pursuit of
 adventure. An incorrigible womaniser.
 
 SIMEON SAN SIMEON
+
+
 Male, Scout, Age 38, 5 Terms
 Str 4, Dex 4, End 7, Int 8, Edu 11, Soc 11
 Comms 1, Computer-1, Engineering-2, Gun Combat-1, Medical-2,
@@ -3243,17 +3353,18 @@ LADY ANNA-WEYR FALKONI
 Female, Scout, Age 46, 7 Terms
 Str 4, Dex 5, End 7, Int 12, Edu 12, Soc 11
 Diplomat 3, Electronic-1, Engineering-1, Jack-o-T-3, Mechanic 1,
-Medical 2, Pilot 2 (Space Craft), Vacc Suit 2
+Medical 2, Pilot2 (Space Craft), Vacc Suit 2
 The dispossessed heiress of the Falkoni fortune, Lady Anna has
 turned her back on her lineage but maintains her title when it suits
 her. Adept at moving within high social circles, she is a consummate
 diplomat and a charming ambassador for Cygnus base.
 
 SIR RAYMOND FOLDER
+
+
 Male, Scout, Age 30, 3 Terms
 Str 7, Dex 12, End 7, Int 7, Edu 12, Soc 11
-Engineering-2, Gun Combat-1, Jack of all Trades 1, Pilot-1,Vacc Suit-
-1, Vehicle-1
+Engineering-2, Gun Combat-1, Jack of all Trades 1, Pilot-1,Vacc Suit-1, Vehicle-1
 The hot-headed son of an ancient family, he was enlisted in the
 Scouts to get him away from an exceedingly serious scandal within
 his own society – something so bad he refuses to talk about it.
@@ -3331,8 +3442,7 @@ Larger versions holding quadruple the raw material packs are often
 fitted to Scout survey and Contact vessels as part of the ship's
 kitchen.
 
-Cr15,000
-(Raw material packs Cr1,000)
+Cr15,000 (Raw material packs Cr1,000)
 
 Shelter Cubes (TL13)
 These are portable buildings that consist of light, collapsible frame
@@ -3360,16 +3470,14 @@ Standard Scout Pac System (Available at
 TL14+)
 Basic scout equipment is built around reliability, ruggedness,
 easy configurability and replacement. In many cases Scout-grade
-equipment will out-perform standard civilian or even military man-
-portable scanning equipment simply due to the usage and mission
+equipment will out-perform standard civilian or even military man-portable scanning equipment simply due to the usage and mission
 
 # EEQUIPMENTQUIPMENT ANDAND S SHIPSHIPS
 
 ##### EEQUIPMENTQUIPMENT ANDAND S SHIPSHIPS EQUIPMENT AND SHIPS
 
 profile it is designed to meet. To that end, the basic scout Pac system
-has been developed, consisting of small sensor/computing modules
-(handPacs) about the size of a thin modern cell phone (sometimes
+has been developed, consisting of small sensor/computing modules (handPacs) about the size of a thin modern cell phone (sometimes
 thicker) with dedicated functions based on the differing and altering
 needs of a scouting mission. Several handpacs can be easily carried,
 and include slots for various accessories as described below.
@@ -3391,8 +3499,7 @@ Sniffer Packs give a very fast response to a number of predetermined
 questions. _Biosniffers_ require a minimal, casual sampling to work,
 or are capable of passive sampling (Radiation, for example). A
 Biosniffer gives a probability of life within a certain range and its
-DNA compatibility. _Envirosniffer_ gives atmospheric toxins, radiation
-(various types) , known viral or bacterial hazards and temperature.
+DNA compatibility. _Envirosniffer_ gives atmospheric toxins, radiation (various types) , known viral or bacterial hazards and temperature.
 _Chemsniffer_ gives a quick assay of the atmosphere or liquid based
 around specific hazards.
 
@@ -3427,6 +3534,8 @@ Computer skill, except for pacs that emulate sensor skill, which may
 also be operated by the Sensor skill.
 
 SNIFFERPACS
+
+
 Sniffer Type Size Skill Effect
 Envirosniffer 1 Survival +2 to skill or
 skill level 0
@@ -3446,6 +3555,8 @@ include at least two wafer chips, a small display and a limited dumb
 control set in addition to a standard Data Display link.
 
 ASSAYPACS
+
+
 Assay Type Size Skill Effect
 Bio-assay 2 Science (Xenobiology) +2 to skill or
 skill level 0
@@ -3465,6 +3576,8 @@ They typically do not function as a sniffer, insofar as they are not
 optimized for rapid response and limited analysis tracks.
 
 SCANPACS
+
+
 Assay Type Size Skill Effect
 Bioscanner 2 Sensor +2 to skill or skill
 level 0 if skill is not
@@ -3657,8 +3770,7 @@ and First Contact specialists to be completely non-threatening and
 encouraging to peaceful dialogue. The communicator also includes
 a translation unit (see above) to begin the language translation
 process immediately. Integral digital cameras record the first contact
-moments, and a palm-sized display (which can be enhanced by a Tri-
-Dee projector) can show images relating directly to the messages
+moments, and a palm-sized display (which can be enhanced by a Tri-Dee projector) can show images relating directly to the messages
 being broadcast, or images chosen by the user.
 
 Weight: 0.5kg
@@ -3698,7 +3810,7 @@ Countless others are available. None inhibits the actual function of
 the APD, but the personality profile chosen may suit some tasks and
 sensibilities more than others.
 
-Strength 2 (–2), Dexterity 9 (+1), Hull 1, Structure 1.
+Strength2 (–2), Dexterity9 (+1), Hull 1, Structure 1.
 Traits: Tiny, Integral System (comm., audio-visual, translation, First
 Contact), Integral System (grav floater)
 
@@ -3868,7 +3980,7 @@ of a surveying or exploration arsenal, a typical survey/exploration
 will carry and deploy up to four of these units. Four such units take
 up 1 ton and cost MCr 0.8 per ton when installed in a ship.
 
-Strength 3 (–1), Dexterity 7 (0), Hull 3, Structure 3
+Strength3 (–1), Dexterity7 (0), Hull 3, Structure 3
 Traits: Armor 3, Integral System (comm., audio-visual), Integral
 System (grav belt), Integral System (holographic projector), Integral
 System (every sensor available at TL12 and below)
@@ -3957,8 +4069,7 @@ command module is supplied with a 6x6 gearbox and independent
 steering for each wheel. Its large engine is fitted with a turbo and
 overdrive, perfect for dealing with difficult conditions on solid
 planetary surfaces. The command module has a front-mounted
-heavy-duty winch and grapple to assist in steep climbs and reeling-
-in large objects. The winch can sustain up to 50 tons of direct bulk
+heavy-duty winch and grapple to assist in steep climbs and reeling-in large objects. The winch can sustain up to 50 tons of direct bulk
 at its maximum torque settings.
 
 The command module is also pressurised and climate controlled.
@@ -3970,17 +4081,21 @@ The attachable survey modules come in the following
 configurations:
 
 EQUIPMENT MODULE
+
+
 A large, wheeled or tracked trailer capable of containing essential
-supplies and field equipment. The module has a small generator
-(type dependent on TL) and includes a grapple and winch.
+supplies and field equipment. The module has a small generator (type dependent on TL) and includes a grapple and winch.
 
 MOBILE LAB
+
+
 A laboratory unit that can be configured for a range of scientific
-endeavors: geological survey, biological survey, life-sciences, med-
-lab/mobile clinic, surveillance/communications, and atmospheric
+endeavors: geological survey, biological survey, life-sciences, med-lab/mobile clinic, surveillance/communications, and atmospheric
 sampling.
 
 SURVIVAL MODULE
+
+
 Pressurised and climate controlled, this is, in effect, a mobile
 housing unit with a limited laboratory capability.
 
@@ -4017,8 +4132,7 @@ up to three people when pressed, but is designed for either one or
 two crew members. The nose of the craft can be fitted with small
 sensor arrays and camera equipment, making it a highly useful,
 short-range aerial reconnaissance vehicle that is primarily used as
-a pathfinder for more detailed research vehicles such as the Mule
-(described above).
+a pathfinder for more detailed research vehicles such as the Mule (described above).
 
 At a cost increase of 40%, the unicopter can be fitted with a whisper
 unit, vastly reducing the craft's engine and rotor noise, enabling it
@@ -4087,8 +4201,7 @@ The Mariner is the Scout service's dual-purpose liquid environment
 craft. A streamlined, surface and sub-surface hull, with a transparent
 front section makes the mariner both a surface boat and a submersible
 research vessel that can, in a standard water environment, dive to
-an optimum depth of 600m or an equivalent of 60 atmospheres
-(in liquid environments where the liquid density is higher than that
+an optimum depth of 600m or an equivalent of 60 atmospheres (in liquid environments where the liquid density is higher than that
 of water). The hull is made from crystaliron, hence its excellent
 resilience, with spacecraft hull technology being deployed to make
 this a versatile and strong surface and sub-surface vehicle.
@@ -4112,6 +4225,8 @@ Width: 6m
 Length 10m
 
 VEHICLE TABLE
+
+
 
 VehicleVehicle TLTL SkillSkill AgilityAgilitySpeedSpeed Crew/PassengersCrew/Passengers
 All Terrain Mule Command Module 6 Drive (wheeled or tracked) –1 60kph 1 driver, 3 crew/passengers
@@ -4175,8 +4290,7 @@ TL11 jump drive and a vastly upgraded avionics and sensor suite.
 
 The Key to the design is the type 4 computer system, more typical
 of a ship much larger in size, which allows a highly automated and
-reduced cockpit design (less than half the volume of a typical 100-
-200 dton ship). Additionally, the cargo bay is configured to hangar
+reduced cockpit design (less than half the volume of a typical 100-200 dton ship). Additionally, the cargo bay is configured to hangar
 a 30 ton Ship's Boat or, if fuel and endurance is reduced, a 50 ton
 Surveyor (see page 75).
 
@@ -4244,6 +4358,8 @@ DISADVANTAGES:
 ##### EEQUIPMENTQUIPMENT ANDAND S SHIPSHIPS EQUIPMENT AND SHIPS
 
 DETAILED DESCRIPTION
+
+
 
 Type SX FrontiersmanType SX Frontiersman TonsTons Price (MCr)Price (MCr)
 Hull 150 ton Streamlined Hull 3 Structure 3 5.5
@@ -4322,6 +4438,8 @@ Total Tonnage & Cost 150 70.7408
 
 LONG RANGE EXPLORATION MODULE
 
+
+
 If there is a typical configuration for the module bay it is the long range exploration module. Particularly in frontier and rift areas or operation,
 this is standard equipment, and the ship may never have done a module switch, and indeed, may not even have access to extra modules.
 
@@ -4363,6 +4481,8 @@ fitted the jump, maneuver and power plant ratings are not affected. If 10 tons o
 
 LONG RANGE SENSOR MODULE
 
+
+
 Long range Sensor ModuleLong range Sensor Module 1.5 1.5
 Fuel 1x Jump-2 30
 Extras
@@ -4387,6 +4507,8 @@ Many ships dedicated to this configuration also include stealth hull and jump op
 extended array (14 tons, 24MCr.) for a lab, briefing room, stateroom and 2 tons of Cargo , for a final cost of 13.57 MCr.
 
 LAB MODULE
+
+
 
 Lab Module 50dTLab Module 50dT 1,500,0001,500,000
 Computer Model 4/20 Additional for module 5,000,000
@@ -4433,6 +4555,8 @@ solar panel effectiveness.
 
 SURVEYOR TENDER
 
+
+
 Surveyor tenderSurveyor tender 1,500,000 1,500,000
 Fuel 20
 Staterooms x3 12 1,500,000
@@ -4466,12 +4590,13 @@ existing examples are still in use for budgetary reasons.
 
 COVERT INSERTION MODULE
 
+
+
 Covert insertion ModuleCovert insertion Module 1,500,000 1,500,000
 Fuel Internal
 Drop tank
 
-6
-(36)
+6 (36)
 Extras
 Docking clamp x1
 Drop tank fittings
@@ -4550,6 +4675,8 @@ and stealth jump options, and a stealth hull. Medical bay and medic are to maxim
 
 PASSENGER MODULE
 
+
+
 Passenger modulePassenger module 1,500,000 1,500,000
 Staterooms x 9
 Escape pods x 9
@@ -4576,6 +4703,8 @@ often with a small craft sC power plant (1.8 Tons) added to the cargo bay, along
 
 CARGO MODULE
 
+
+
 Cargo moduleCargo module 1,500,000 1,500,000
 Armor Titanium steel 2 points 2.5 75,000
 Extras
@@ -4586,10 +4715,11 @@ airlock 1 1
 Cargo 46
 Total Tonnage & Cost 49.5 1,675,000
 
-This is often used on the Terrapin stations (see below) to extend crew endurance. Otherwise, it is used to move important though non-
-hazardous equipment other carrier space is unavailable.
+This is often used on the Terrapin stations (see below) to extend crew endurance. Otherwise, it is used to move important though non-hazardous equipment other carrier space is unavailable.
 
 HAZARDOUS CARGO MODULE
+
+
 
 Hazardous cargo moduleHazardous cargo module 1.5 1.5
 Armor BSD 6 points 2.5 .75
@@ -4633,12 +4763,11 @@ Hanger storage x2
 20
 
 (36,000,000)
-5,200,000
-(36,000,000)
+5,200,000 (36,000,000)
 Staterooms x 1 Flight crew x2 4 500,000
 Total Tonnage & Cost 50 7,000,000/ 79,000,000
 
-In this configuration, range is limited to 1x J2 and ships crew is limited to 3 (pilot, Navigator and gunner) plus 4 pilots for the fighters. Fighter
+In this configuration, range is limited to 1x J2 and ships crew is limited to3 (pilot, Navigator and gunner) plus 4 pilots for the fighters. Fighter
 maintenance crew is housed in the module stateroom.
 In areas where the Scout service is the only law in town, this module can provide some useful firepower to the usual anti-pirate and
 smuggling patrols. Few Pirates are willing to scrap with four fighters.
@@ -4688,6 +4817,8 @@ This module requires removal of the standard triple turret to free up the one ha
 ##### EEQUIPMENTQUIPMENT ANDAND S SHIPSHIPS
 
 EMERGENCY MODULES
+
+
 Two other modules are the emergency/refuge modules of the turtle series. These are generally only carried for relocation purposes, and
 are intended for autonomous operation. The Turtle class station is a cheap and reliable emergency refuge, often scattered around belts ,
 near remote outposts, and likely gas giants. Interestingly, the design predates the Frontiersman class , and has been in use since the first
@@ -4712,6 +4843,8 @@ reusability.
 Note that the station can itself support one module if needed, although reaction drive endurance is reduced to 2 Hours.
 
 TURTLE CLASS EMERGENCY STATION
+
+
 
 Hull
 Standard configuration
@@ -4764,6 +4897,8 @@ Total 50 23,493,000
 ##### EEQUIPMENTQUIPMENT ANDAND S SHIPSHIPS
 
 TURTLE II EMERGENCY STATION
+
+
 
 Hull
 Standard configuration
@@ -4841,7 +4976,7 @@ modules permanently installed (reducing cost as the hull space is
 no longer modular) and civilian grade sensor and avionics systems.
 All such versions are only capable of a single 2 parsec 259jump.
 These variants of the Frontiersmen class hulls are sold as the popular
-Connestoga class light trader with a basic type 2 (or 1 bis) computer,
+Connestoga class light trader with a basic type2 (or 1 bis) computer,
 and civilian grade sensors. Note however, that some frontiersmen
 have made it onto the surplus market, generally with sensors intact,
 and occasionally with the hugely overpowered type 5 computer.
@@ -4941,6 +5076,8 @@ modules and one cargo module dedicated to stores, military spares
 and reloads.
 
 DETAILED DESCRIPTION
+
+
 
 Hull
 Distributed configuration
@@ -5065,6 +5202,8 @@ DISADVANTAGES:
 ##### EQUIPMENT AND SHIPS EEQUIPMENTQUIPMENT ANDAND S SHIPSHIPS
 
 DETAILED DESCRIPTION
+
+
 Type FS Far ReachType FS Far Reach TonsTons Price (MCr)Price (MCr)
 Hull 500 Streamlined 35.2
 
@@ -5074,10 +5213,9 @@ Maneuver Drive K Thrust 4 19 40
 Power Plant K 31 80
 
 Bridge 20 2.5
-Computer Model 4 (fib) Rating 20 7.5
+Computer Model4 (fib) Rating 20 7.5
 Electronics Advanced 3 2.0
-Weapons 2x Triple Turret
-(2 Beam Laser
+Weapons 2x Triple Turret (2 Beam Laser
 1 Sandcaster)
 1x triple missile turret
 2x unallocated hardpoints
@@ -5113,7 +5251,7 @@ endurance
 1
 0.1
 Cargo 10 tons 10
-Staterooms 8 (can be configured for double
+Staterooms8 (can be configured for double
 occupancy)
 
 32 4.0
@@ -5124,6 +5262,8 @@ in hanger
 8 x Advanced Probe Drones
 SIN Sensor
 ACT
+
+
 Optical and Radio Telescope array
 SA3
 Life Scanner/Analysis
@@ -5190,6 +5330,8 @@ The ship is equipped at TL12 and its computer systems and software offer excelle
 
 ADVANTAGES
 
+
+
 - Fast and heavily armored for a craft of its size
 - Hardened electronics
 - Pop-up turret for covert operations where obvious weaponry is a disadvantage
@@ -5198,6 +5340,8 @@ ADVANTAGES
 
 DISADVANTAGES
 
+
+
 - Very limited cargo space
 - No onboard vehicles (such as an Air Raft)
 - Distinctive hull design
@@ -5205,6 +5349,8 @@ DISADVANTAGES
 ##### EQUIPMENT AND SHIPS EEQUIPMENTQUIPMENT ANDAND S SHIPSHIPS
 
 DETAILED DESCRIPTION
+
+
 Special Circumstances Rapid TransitSpecial Circumstances Rapid Transit TonsTons Price (MCr)Price (MCr)
 Hull 200 Streamlined 8.8
 
@@ -5214,7 +5360,7 @@ Maneuver Drive E Thrust 5 9 20
 Power Plant E 16 40
 
 Bridge 10 1
-Computer Model 3 (fib) Rating 15 3
+Computer Model3 (fib) Rating 15 3
 Electronics Advanced 3 2.0
 Weapons 2x Triple Turret (Pop-Up) each
 1 Beam Laser
@@ -5275,6 +5421,8 @@ The Fat Surveyor can deploy and support three surveyor boats (50dt), but is not 
 task than the Survey Rider class, it is nonetheless far cheaper, and considerably faster to build, given that the basic hulls are already built.
 
 DETAILED DESCRIPTION
+
+
 Auxiliary Survey tender “fat Surveyor”Auxiliary Survey tender “fat Surveyor” TonsTons Price (MCr)Price (MCr)
 Hull 400 tons
 Streamlined
@@ -5343,10 +5491,8 @@ Medical Bay
 
 13.569
 2
-0.8
-(44.874)
-13
-(89.748)
+0.8 (44.874)
+13 (89.748)
 .5
 2
 4
@@ -5380,6 +5526,8 @@ successful in terms of time required to survey a system at multiple levels, but 
 Normal crew consists of the captain, 2 pilots, a navigator, 4 engineers and 24 surveyors.
 
 DETAILED DESCRIPTION
+
+
 Survey riderSurvey rider TonsTons Price MCrPrice MCr
 Hull 600 standard Hull 12 Struct. 12 48
 Jump Drive K Jump 3 55 100
@@ -5393,7 +5541,7 @@ Model 2 Rating 10 (backup)
 0.16
 Electronics Survey Sensors +1 DM 10 10
 Weapons
-Fuel 265 tons Jump 3 (at 750 tons) + 28
+Fuel 265 tons Jump3 (at 750 tons) + 28
 days
 
 265
@@ -5425,8 +5573,7 @@ Optical &EMS telescope array
 
 2 3 4 8 8 4 4
 
-3
-(134.622)
+3 (134.622)
 
 (44.874)
 13
@@ -5468,6 +5615,8 @@ parsec jumps, and typically has the configurable space committed to sensor upgra
 by megacorporations to allow secure private communications routes.
 
 DETAILED DESCRIPTION
+
+
 Firebird XP4Firebird XP4 TonsTons Price MCrPrice MCr
 100 tons Standard Hull 2 / Structure 2 2.0
 Jump Drive B Jump 4 15 20
@@ -5533,6 +5682,8 @@ is invariably committed to sensor upgrades if possible. The intellect program is
 insystem destination by itself.
 
 DETAILED DESCRIPTION
+
+
 Mustang XPS6 secure courierMustang XPS6 secure courier TonsTons Price MCrPrice MCr
 Hull 100 ton Streamlined
 Rad Shielding
@@ -5570,8 +5721,7 @@ Missile Rack
 Fuel Internal fuel
 Drop tank
 
-41
-(50)
+41 (50)
 Staterooms 1 double 4 2
 Extras 6 dt vault
 50 ton drop tank fit
@@ -5624,6 +5774,8 @@ stealth drive, is hideously expensive) and the fact that it is far more vulnerab
 highly secret and there are very few of these vessels in service.
 
 DETAILED DESCRIPTION
+
+
 Stingray XLC5 L.Range CourierStingray XLC5 L.Range Courier TonsTons Price (MCr)Price (MCr)
 Hull 200 ton Streamlined
 Self sealing
@@ -5725,8 +5877,7 @@ Total Tonnage & Cost 200 312.975/
 # FFIRSTIRST C CONTACTONTACT ANDAND S SURVEYURVEY
 
 This chapter deals specifically with two areas of prime importance
-to the Scout service: what happens when a new race is discovered
-(or an old acquaintance is strategically re-established) and the
+to the Scout service: what happens when a new race is discovered (or an old acquaintance is strategically re-established) and the
 exploration and survey of existing and new systems and worlds.
 
 These areas are specifically in the remit of the Scout service. Save
@@ -5818,8 +5969,7 @@ the Contact team from the species. Practicality must always dictate
 efficiency: if it is more practical to retreat, then this is what should be
 done. In general, withdrawing from the species' home environment
 is the best option. It must always be assumed that both the species
-and the Contact team are a potential source of pathogens and micro-
-organisms that may be harmful to life.
+and the Contact team are a potential source of pathogens and micro-organisms that may be harmful to life.
 
 Where it is necessary and practical to do so, the Contact team
 should construct a suitable environment for the species, if this will
@@ -5925,8 +6075,7 @@ prepare a comprehensive list of communication methods and work
 through them methodically, with a full catalogue of results and
 conclusions, for entry into the Contact Log.
 
-Contact must always remember that any potentially superior life-
-form may still be harmed and/or impacted by any 'less' intelligent
+Contact must always remember that any potentially superior life-form may still be harmed and/or impacted by any 'less' intelligent
 entity, through an accident/mistake in the course of the interaction.
 On a potentially less severe level, sometimes this will be an error
 in the use/misuse of language that initiates a negative and/or
@@ -6035,8 +6184,7 @@ is given to establish the details for the meeting (subject the earlier
 parts of the protocol relating to safety and withdrawal). All meeting
 arrangements must be mutual. All electronic communications are
 to be encrypted, stored and archived. No deviation from agreed
-meeting procedures is permitted unless extenuating circumstances
-(such as those relating to safety of either party) dictate it.
+meeting procedures is permitted unless extenuating circumstances (such as those relating to safety of either party) dictate it.
 
 Translation programs must be initialised as soon as possible.
 Translation sub-protocols are as follows:
@@ -6092,6 +6240,8 @@ Where Contact is involved in a First Protocol exercise, the personnel
 structure is usually thus:
 
 MISSION LEADER
+
+
 A Contact branch operative with at least 3 terms of service within
 the Scouts (and at least one term in Contact). The mission leader
 is responsible for ensuring that the First Contact protocol is fully
@@ -6103,6 +6253,8 @@ member of his team, based on the spread of skills and experience
 available to him.
 
 COMMUNICATIONS OFFICER
+
+
 The Comms Officer is responsible for handling all electronic
 communications with a First Contact species, including translation
 and decryption protocols. Additionally he must establish a First
@@ -6113,6 +6265,8 @@ Comms Officer to remain remote from the main contact endeavor
 in order to ensure accurate records are maintained.
 
 RISK OFFICER
+
+
 The Risk Officer assesses all risks according to the First Contact
 protocol, and advises the Mission Leader on rising or falling levels
 of risk, and when a contact mission should be aborted. Before
@@ -6125,6 +6279,8 @@ person or party in order to obtain all information that will inform
 the Contact mission.
 
 SECURITY OFFICER
+
+
 The Security Officer is in charge of ensuring the immediate security
 an d welfare of the mission and its personnel, as directed by the
 Mission Leader. Working with the Risk Officer he will determine exit
@@ -6133,6 +6289,8 @@ have at least one subordinate (usually two) who assist with planning
 and implementation of any security strategies.
 
 FIRST CONTACT OFFICER
+
+
 This post is often the Mission Leader, but may be someone else
 who has been involved in First Contact missions previously, and
 
@@ -6145,6 +6303,8 @@ First Contact protocol guidelines unless directed otherwise by the
 Mission leader.
 
 SCIENCE OFFICER
+
+
 The Science Officer always has at least Level 1 in two Science
 branches. His responsibility is to assess all biological/environmental/
 technological needs of any new species and inform the Mission
@@ -6154,6 +6314,8 @@ Officer is often assisted by one subordinate and is usually part of
 the face to face contact delegation when a meeting occurs.
 
 FLIGHT CREW
+
+
 The flight crew usually consists of at least two pilots, a navigator,
 a comms officer and an engineer. Roles may be doubled with the
 mission team, but sometimes discrete flight and mission teams are
@@ -6190,24 +6352,33 @@ sentients. This category, the largest of all, includes
     species).
 
 ARTIFICIALS
+
+
 Any constructed, engineered creature (such as robots, androids
 or sapient AI networks/drones)
 
 CYBORGS
+
+
 The deliberate combination of Biont and Artificial, where
 constructed augmentation is used to enhance the biont.
 
 SYBONT
+
+
 A sophont syborg or sybornetic neogen. Artificial organisms
-that are neither purely organic, purely artificial, nor a cyborg-
-like patchwork, but rather a uniform mixture of artificial and
+that are neither purely organic, purely artificial, nor a cyborg-like patchwork, but rather a uniform mixture of artificial and
 biological.
 
 VIRTUAL
+
+
 A sentient that does not have a physical body, or uses one only
 temporarily.
 
 SUBLIMED
+
+
 An intelligence that has completed transcended its original
 state of being to occupy a new form of existence or
 consciousness(perhaps extra-planar, or non-physical).
@@ -6258,6 +6429,8 @@ refueling before return. If no GG is detected, assume deep space
 refueling procedures will be needed.
 
 GOALS
+
+
 Confirm Existing basic data if previously surveyed. If unsurveyed ,
 assess:
 
@@ -6267,6 +6440,8 @@ assess:
 - Stellar anomalies
 
 ABORT CRITERIA
+
+
 Unless specified as possible mission target or risk environment,
 abort prejump immediately upon detecting:
 
@@ -6296,6 +6471,8 @@ Typical time can range from one to two weeks depending on range
 to TOS and preexisting data.
 
 GOALS
+
+
 Confirm Existing basic data if previously surveyed. If unsurveyed ,
 assess
 
@@ -6308,6 +6485,8 @@ assess
 - Identify provisional Mainworld;
 
 ABORT CRITERIA
+
+
 Unless specified as possible mission target or risk environment,
 abort upon mission confirming
 
@@ -6334,6 +6513,8 @@ Typical time can range from one to twelve months depending on
 biosphere complexity and the existence of local inhabitants.
 
 GOALS
+
+
 
 - Confirm Existing basic data if previously surveyed
 - Extra planetary survey sub-phase
@@ -6395,6 +6576,8 @@ Typical time can range from one to five weeks depending on system
 complexity and course and distance to TOS.
 
 GOALS
+
+
 Confirm Existing basic data if previously surveyed. If unsurveyed ,
 assess:
 
@@ -6413,6 +6596,8 @@ assess:
 - Note Planetary anomalies and/or non TOS colonies/stations
 
 ABORT CRITERIA
+
+
 Unless specified as possible mission target or risk environment,
 abort mission immediately upon detecting:
 
@@ -6445,6 +6630,8 @@ previously noted sensors. In contact situations extensive covert
     mission team forms part of the Survey team.
 
 ABORT CRITERIA
+
+
 Unless specified as possible mission target or risk environment,
 Abort entire mission immediately upon detecting:
 
@@ -6489,6 +6676,8 @@ survey needs, and distance to planned exit point.
 
 GOALS
 
+
+
 - Initiate survey of non TOS anomalies deemed significant, as
     appropriate to standing orders and mission duration parameters.
        - Update and or expand existing data as possible and consistent
@@ -6505,6 +6694,8 @@ GOALS
           residents.
 
 ABORT CRITERIA
+
+
 All previous criteria potentially apply to this phase of the mission,
 as appropriate to whatever additional survey activities are being
 carried out.
@@ -6531,11 +6722,15 @@ mission
     blasphemous or non-Euclidean qualities or powers.
 
 TYPICAL SURVEY MISSION STRUCTURE
+
+
 Every survey or exploration mission is equipped for prolonged deep
 space activity. The personnel can vary, but generally the personnel
 structure is as follows:
 
 MISSION LEADER
+
+
 Usually a Scout scientist with at least four terms of service, two in Survey
 or Exploration. He is also usually at Level 2 in two Science branches.
 The Mission Leader is responsible for each of the five phases of the
@@ -6547,6 +6742,8 @@ to take a lead or involve himself in particular area of expertise.
 ##### FIRST CONTACT AND SURVEY FFIRSTIRST C CONTACTONTACT ANDAND S SURVEYURVEY
 
 SENIOR SCIENTIST
+
+
 The Senior Scientist deputises for the Mission Leader and is
 responsible for the co-ordination of all scientific efforts conducted
 as part of the mission. He is expected to know, and understand,
@@ -6555,6 +6752,8 @@ make regular reports to the Mission Leader. The Senior Scientist
 generally has similar experience to the Mission Leader.
 
 SCIENCE OFFICERS
+
+
 Each survey mission usually carries a complement of the following
 scientists (one or two, depending on craft size), each with a minimum
 of Level 1 in their respective skills:
@@ -6570,14 +6769,17 @@ Roles are often doubled-up, so a scientist with expertise (at least
 level 1) in two or more sciences will take on dual (or more) roles.
 
 TECHNICIANS
+
+
 The Technicians are engineering and mechanics responsible for
 the maintenance and calibration of all equipment associated with
-the mission. The Technical team is headed by a senior Technician
-(Engineering 2+) who answers to the Mission Leader – not the
+the mission. The Technical team is headed by a senior Technician (Engineering 2+) who answers to the Mission Leader – not the
 Senior Scientist. Generally the Technical team consists of the Senior
 Technician and two general Technicians.
 
 SECURITY OFFICER
+
+
 The Security Officer answers to the Mission Leader and is responsible
 for all matters relating to security, safety and risk assessment. It is
 his call on when a survey team should withdraw from a particular
@@ -6585,6 +6787,8 @@ situation, although this generally requires some sanction by the
 mission leader.
 
 FLIGHT CREW
+
+
 The flight crew usually consists of at least two pilots, a navigator,
 a comms officer and an engineer. Roles may be doubled with the
 mission team, but sometimes discrete flight and mission teams
@@ -6762,8 +6966,7 @@ and take into account that much of what the IISS does would be
 done better or certainly with better equipment by the Navy, or
 faster by a private firm, or more safely by robots and automated
 probes, and finally considering the fact that you are not in the
-cool Field branch of the Exploration Service, but rather the ISS
-(Imperial survey scouts) branch of the Survey Service of the
+cool Field branch of the Exploration Service, but rather the ISS (Imperial survey scouts) branch of the Survey Service of the
 IISS.'
 
 Mariel Syngher, Director, IISS Recruitment
@@ -7082,14 +7285,13 @@ subsectors, each of 8x10 parsecs. On the average sectors contain
 500 to 700 systems, and subsectors generally contain some 30-50
 systems, varying dramatically in rift or cluster locales. Subsectors are
 
-noted by the sector name, and the characters A to P (omitting I and o).
+noted by the sector name, and the characters A toP (omitting I and o).
 Individual systems are noted by sector, subsector and grid coordinate
 within the grid of the subsector. Names of Subsectors and planets are
 changeable, and in fact often do so, but basic notation is consistent
 across time and political boundaries.
 
-Quadrants and Octants are semi-official charting designations comprising
-(respectively) four and two subsectors, used by trade and popular media
+Quadrants and Octants are semi-official charting designations comprising (respectively) four and two subsectors, used by trade and popular media
 and the names given often vary from the standard subsectors defined in
 the IGS Precise Ephemeris. It is suggested that the name be the lowest
 lettered sector or partial sector enclosed by the chart.
@@ -7302,6 +7504,8 @@ It is also essential for characters to be aware of their reactions to the
 wide variety of stresses associated with survival.
 
 STRESS
+
+
 Stress is a condition every character experiences and can be
 best defined as the reaction to pressure. Despite the negative
 connotations, stress has positive benefits:
@@ -7324,8 +7528,7 @@ its effects.
 As an optional rule, the effects of stress (which always come into
 play at the referee's discretion) are handled thus.
 
-The referee assesses the Stress Level. This should range from 8 to 12
-(or higher) and reflect the situation. Immediate, rapid, life-threatening
+The referee assesses the Stress Level. This should range from 8 to 12 (or higher) and reflect the situation. Immediate, rapid, life-threatening
 situations should rank as SL 12; things that are foreseeable and can
 be countered to some degree should rank as 8 or 9.
 
@@ -7354,7 +7557,7 @@ period:
 Example: Surveying a planet with a highly turbulent atmosphere,
 Variss's scout ship undergoes an avionics failure and the ship goes into a
 high-velocity nosedive. The referee sets the Stress Level at 11. Variss has
-End 8 (+0) and Survival 1. He needs to roll 10 or more to remain calm.
+End8 (+0) and Survival 1. He needs to roll 10 or more to remain calm.
 
 Variss rolls 4, adjusted to 5 for his Survival. His effect is –3 (5-8), so all
 skills until the nosedive can be corrected will be at a –3DM. Luckily,
@@ -7533,6 +7736,8 @@ eating and drink water (or eat very small amounts) rather than to
 eat and drink little water.
 
 WATER QUALITY AND TESTING
+
+
 Local sources of water depend on planetary type, but it is not an
 uncommon compound, existing in the form of water vapour, ice,
 snow and surface water sources such as rivers, lakes and oceans.
@@ -7608,6 +7813,8 @@ species but cannot guarantee their deductions without detailed
 sample analysis.
 
 HUNGER AND STARVATION
+
+
 Food is essential to fuel the body. Without it, the body feeds upon
 itself, breaking down muscle and organ tissue to provide itself with
 fuel: this is starvation.
@@ -7625,8 +7832,7 @@ Weight loss is inevitable, as is a decrease in willpower, accompanied
 by hysteria, hallucination, depression and paranoia.
 
 Starving characters suffer 1D6 points of damage per week. This
-damage is apportioned equally across all three characteristics
-(Str, Dex and End) with any odd points of damage being applied
+damage is apportioned equally across all three characteristics (Str, Dex and End) with any odd points of damage being applied
 randomly. This damage can be mitigated on a roll of Survival+End,
 but the target number for the roll increases by one for each week
 after the starvation point has been reached.
@@ -7683,6 +7889,8 @@ prevailing Stress Level situation. Having a Decent, Good or Sturdy
 shelter lowers it by 1.
 
 EXPOSURE
+
+
 If shelter is not available and characters are exposed to the elements
 for any duration (End characteristic in hours), then exposure, in the
 form of hypothermia, sets in. Hypothermia is the reduction of the
@@ -7694,8 +7902,7 @@ body again, through a steady and gentle application of heat through
 blankets, warm drinks and shelter. Hypothermia occurs in stages:
 
 Stage 1
-Body temperature drops by 1-2°C below normal temperature (35-
-36°C). Mild to strong shivering occurs. The victim is unable to
+Body temperature drops by 1-2°C below normal temperature (35-36°C). Mild to strong shivering occurs. The victim is unable to
 perform complex tasks with the hands as they become numb.
 Breathing becomes quick and shallow. Goose bumps form, raising
 body hair on end in an attempt to create an insulating layer of air
@@ -7923,6 +8130,8 @@ such conditions is dependent on eating, and large predators (bears,
 for example) will have little fear of man.
 
 FAUNA
+
+
 Warmer conditions offer tundra. Here the plant life is limited as
 the ground is subject to permafrost and the roots of plants cannot
 penetrate the frozen ground. Mosses and lichens are common -
@@ -7936,6 +8145,8 @@ creating, in effect, a cold weather jungle. Such regions may well
 support far more abundant flora and fauna.
 
 ENVIRONMENTAL HAZARDS
+
+
 The Arctic areas are without doubt some of the most inhospitable
 areas on any planet. In tundra areas going can be slow due to deep
 snow and dense forests. In times of warmer temperatures rivers
@@ -7978,6 +8189,8 @@ Wind Speed Km/HWind Speed Km/H Ambient Air Temperature (Centigrade)Ambient Air T
 60 2 -2 -16 -23 -31 -38 -45 -53 -60 -68
 
 FROSTBITE
+
+
 The combination of cold temperature and poor blood flow can cause
 severe tissue injury by freezing the tissue. Frostbite is most likely to
 happen in body parts farthest from the heart, and those with a lot of
@@ -8008,6 +8221,8 @@ Even when treated, frostbitten characters lose 1 point of Dex
 permanently.
 
 CARBON MONOXIDE
+
+
 Once characters reach a shelter they tend to focus on getting warm
 and frequently neglect any problems of ventilation. Despite the
 temptation to use stoves and fires for extra warmth once they have
@@ -8022,6 +8237,8 @@ the shelter to get clean air is the solution. Scout handpacs contain a
 carbon monoxide sensor as a standard part of their sensor array.
 
 SNOW BLINDNESS
+
+
 Snow blindness is the result of the glare of sunlight
 upon the surface of snow. It can be caused rapidly and
 reoccur once experienced. Even brief exposure can
@@ -8049,6 +8266,8 @@ that require consideration:
 - Mirages.
 
 LOW RAINFALL
+
+
 Low rainfall is the most obvious environmental factor in an arid
 area. Some desert areas receive less than 10cm of rain annually,
 and this rain may come in brief torrents that quickly run off the
@@ -8056,6 +8275,8 @@ ground surface. The prime survival consideration is therefore water:
 reserves, alternative sources and its conservation.
 
 INTENSE SUNLIGHT AND HEAT
+
+
 Intense sunlight and heat are present in all arid areas. Air temperature
 can rise to 60 degrees C or higher during the day, for Earth-like
 worlds, and considerably higher on planets closer to the home star.
@@ -8077,6 +8298,8 @@ Sensitive items of equipment, unless shielded, will malfunction if
 exposed to intense, direct sunlight for any extended period of time.
 
 WIDE TEMPERATURE RANGE
+
+
 Temperatures in arid areas may get as high as 55 degrees during the
 day and as low as 10 degrees (or lower) during the night. The drop in
 temperature at night occurs rapidly and quickly chills anyone lacking
@@ -8084,6 +8307,8 @@ warm clothing and is unable to move about. The cool evenings and
 nights are the best times to work or travel.
 
 SPARSE VEGETATION
+
+
 Vegetation is sparse in arid areas leading to issues with food, water
 and foliage to build or supplement shelter. Natural rock formations
 and caves offer the best sources of natural shelter, both from direct
@@ -8098,6 +8323,8 @@ failed: What appears to be 1 kilometer away is really 3 kilometers
 away.
 
 SANDSTORMS
+
+
 Sandstorms occur frequently in most deserts and can be prolonged;
 some Earth sandstorms, for example, can blow for up to 120 days.
 In an Earth-like desert, winds average 3 to 5 kilometers per hour
@@ -8118,6 +8345,8 @@ means of signalling, such as pyrotechnics, signal mirrors, or marker
 panels, if available.
 
 MIRAGES
+
+
 Mirages are optical phenomena caused by the refraction of light
 through heated air rising from a sandy or stony surface. They occur
 in the interior of the desert about 10 kilometers from the coast. They
@@ -8140,8 +8369,7 @@ superheated air close to the ground and overcome the mirage effect.
 
 Scouts frequently survey star systems where the planets have exotic
 atmospheres and far higher gravity than Earth-standard. Here, the
-survival principles are straightforward: long, medium and short-
-range sensor scans are constant on the approach with a continual
+survival principles are straightforward: long, medium and short-range sensor scans are constant on the approach with a continual
 assessment of the planetary conditions. As much work is done
 remotely as possible, with drones or heavily shielded surveyors
 being used for work that needs to take place close-up.
@@ -8178,8 +8406,7 @@ woodland, generally occupying a tropical area. A tropical climate is
 generally defined as any environment with a year-round temperature
 of at least 18 degrees Celsius and high levels of humidity. Seasonal
 variations in temperature and foliage are minimal but some areas
-have distinct dry and wet seasons with daily rainfall in a wet season
-(tropical monsoon) being extreme and bringing extra hazards.
+have distinct dry and wet seasons with daily rainfall in a wet season (tropical monsoon) being extreme and bringing extra hazards.
 
 Dense jungle covers undeveloped river basins and mountain areas
 and may contain areas of swampland. Jungles at a high elevation
@@ -8194,11 +8421,12 @@ Natives may be nomadic or occupy well-hidden, localised
 settlements that are only reachable along known paths. The dense
 canopy of a jungle environment makes signalling difficult and
 elevated, eye-sight observation almost impossible; locating a group
-of survivors in a jungle is most effectively done with sensors locking-
-onto positioning relays and personal ID transmitters, although the
+of survivors in a jungle is most effectively done with sensors locking-onto positioning relays and personal ID transmitters, although the
 climate and plethora of mobile fauna may mask or confuse signals.
 
 NAVIGATION AND MOVEMENT
+
+
 Jungles are often very wet with many rivers which can be fast
 flowing and contain harmful parasites or dangerous fauna. Heavy
 rain can produce rapid bank erosion and white water rapids or heavy
@@ -8236,6 +8464,8 @@ conditions. Unless GPS or similar equipment is moisture/humidity
 resistant, reduce its battery life by 25%.
 
 JUNGLE FLORA
+
+
 The high temperature and heavy rainfall results in an almost
 continual growth of native vegetation. Changes in vegetation type
 tend to be gradual.
@@ -8292,6 +8522,8 @@ fungal foot infections in the jungle can quickly slow a person and
 turn a healthy one into a casualty.
 
 JUNGLE FAUNA
+
+
 The image is often of a jungle alive with large and dangerous
 predators. In reality jungles do, indeed, teem with such life but the
 greatest threat comes not from large animals but from invertebrates
@@ -8322,6 +8554,8 @@ conditions the consumption of jungle meat could prove risky; and,
 eating carrion of any kind is to be strongly avoided.
 
 ENVIRONMENTAL HAZARDS
+
+
 As already mentioned jungles are extremely hot and humid places
 and such conditions can place an enormous strain on the body.
 Despite the humidity dehydration can be a real problem and
@@ -8356,8 +8590,7 @@ to his Endurance characteristic +1D6 before asphyxiation takes
 place. Holding one's breath, as in a pressured environment, will
 not help; in vacuum, oxygen expands within the lungs, causing
 severe internal damage. Therefore, if a character knows he is going
-to experience vacuum, he must expel all the air from his lungs
-(Survival 8+) to prevent this possibility – or he will experience 4D6
+to experience vacuum, he must expel all the air from his lungs (Survival 8+) to prevent this possibility – or he will experience 4D6
 points of damage across his physical characteristics, in addition to
 all other vacuum effects.
 
@@ -8367,6 +8600,8 @@ in all moisture close to the surface of the skin beginning to boil,
 inflicting a further 2d6 damage.
 
 DAMAGED VACC SUITS
+
+
 The vacc suit is, of course, the most important piece of equipment
 any character can have for protection against the effects of
 vacuum. All vacc suits are designed to be pressurised, heated, and
@@ -8402,13 +8637,14 @@ give just 1D6 minutes. After this period the suit loses pressure and
 heating, resulting in the ebullism effects noted above.
 
 RADIATION
+
+
 Space radiation is comprised of atoms in which electrons have been
 stripped away as the atom accelerates in interstellar space to speeds
 approaching the speed of light – eventually, only the nucleus of the atom
 remains. Space radiation is made up of three kinds: particles trapped
 in the magnetic field of a planet; particles shot into space during solar
-flares (solar particle events); and galactic cosmic rays, which are high-
-energy protons and heavy ions from outside a solar system. All of these
+flares (solar particle events); and galactic cosmic rays, which are high-energy protons and heavy ions from outside a solar system. All of these
 kinds of space radiation represent ionizing radiation.
 
 Galactic cosmic rays include heavy, high-energy ions of elements
@@ -8441,8 +8677,7 @@ details on the effects.
 There is little anyone can do to combat the incessant radiation
 of space, or that emitted during solar particle events. Spacecraft
 sensor arrays continually probe for solar particle events whenever
-a ship enters a system, and if a solar particle event is occurring
-(Sensors 8+) the safest course of action – even given the shielding
+a ship enters a system, and if a solar particle event is occurring (Sensors 8+) the safest course of action – even given the shielding
 of a ship's hull and hydrogen fuel tanks – is to seek cover behind a
 system object such as an asteroid or in a planet's shadow. Referees
 may call for Pilot (spacecraft) rolls to take evasive action when a

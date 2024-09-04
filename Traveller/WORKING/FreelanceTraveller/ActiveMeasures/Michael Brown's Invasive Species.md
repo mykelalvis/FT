@@ -71,40 +71,72 @@ The adventurers have either the results of an analysis proving the bugs are bioe
 
 1. **Visit Rhyzen-Phytotek:** They can pay a call on Rhyzen-Phytotek itself. The regional office is 60 kilometers away. Once there, the travelers are treated like anyone else interested in seeing how the company operates: they're assigned to a tour group with 3D+3 other people. (Weapons are, of course, forbidden.) The tour takes an hour and is the typical pabulum any company gives visitors, playing up RP's positives and downplaying or ignoring its negatives.
     
+
+
     Team members encounter Muriel van Rien on a throw of 12 exactly every 30 minutes they're at RP. If so, she assumes they're there to do her harm and orders their immediate detention.
     
+
+
 2. **The adventurers may slip away to do some snooping.** If they do, the referee should throw every 15 minutes for 8+. The result is an encounter with 1-2 guards armed with auto pistols. If caught, the PCs are held in the security office until law enforcement can come collect them. It's assumed they avoid regular employees unless otherwise necessary.
     
+
+
     The best places to find information are the biolab (located on 11+), the computer room (10+), or the executive offices (8+). DM: +1 if they enlist the help of an employee, through either charm or coercion. Each location takes 3D minutes to find.
     
+
+
     The following items can be discovered in each of the above areas:
     
+
+
     Biolab:
     
+
+
      Notes and files on the process used to engineer the insects; their intended use; tissue samples; and enough journal entries to allow the heroes to deduce The Plot (see below) on a throw of 5+ (DM +1 if a scientist is with them) and methods for stopping the bugs.
     
+
+
     Computer Room:
     
+
+
      If the security software isn't first bypassed (11+, DM: per level of Computer skill), an alarm is triggered that brings 1D+1 security guards to the room in 2D combat rounds. The computer contains files on the branch's operations; personnel files; company finances; and backups of the files in the biolab (see above)
     
+
+
     Executive Offices:
     
+
+
      Hardcopies of everything in the Computer Room; plus detailed documentation of The Plot (below); the executives who ordered it; the identity and mission of the mercenaries; information that could be used to destroy certain individuals (Muriel van Rien's information is particularly juicy); and proof of substantial bribes to Count bó-Huang to look the other way.
     
+
+
 3. **Alert the Imperial noble:** Count Salomon bó-Huang is a rather detached sort, preferring to putter around his flower beds rather than take on the business of governing. This is assuming the PCs even get to meet him. They first must get past his staff, who schedule an appointment. The chance of that being the same day is low (roll 11+ on 2D); otherwise, it's 1D days hence. When the appointed time comes, the group is given only 15 minutes to state their business to the Count. Assuming they ask the right questions or keep their ears open, they'll gain the following information:
     
+
+
     - Count bó-Huang did indeed countersign the order enjoining the farmers and the PCs from acting against RP, but honestly, he really didn't look closely at what he was signing
     - He's given RP a rather substantial land grant which, as far as he knows, they're administering properly.
     - Along with the land grant, he's pretty much given RP carte blanche to conduct their operations as they see fit, so long as they don't break Imperial law.
     
+
+
     Any hero with Telepathy (Read Surface Thoughts) also discovers that the Count was paid in credits and top-shelf gardening products by RP to leave them alone, and he doesn't care what happens anyway as long as his begonias come up nicely. If the team can't read minds, this information can be quietly given to them by a concerned staffer on 10+. Any threats or accusations of wrongdoing are dealt with harshly (referee's definition) by the Count's personal guard.
     
+
+
 4. **Nose around the forest:** In the forest, the team runs the risk of being caught trespassing: throw 7+ to encounter a patrol of 1D-2 mercenaries once every 30 minutes. If discovered, the PCs are immediately fired upon. However, if the encounter throw result is 11+, the travelers instead discover an Advanced Base (Book 3) deployed in the forest. Outfitted as a field laboratory for studying the bugs, it's manned by 6 unarmed RP scientists who immediately call for the mercs if the PCs don't achieve surprise. Within are the same materials as can be found in the company biolab (see above), but the notes allow deduction of The Plot (below) on a 9+; apparently the field scientists haven't been told everything.
     
+
+
 5. **Rally the area farmers:** Savvy PCs should avoid this option, as it's likely to just result in a lot of dead farmers. They don't know the full strength and capabilities of the mercenaries, nor are any of the farmers combat-capable. Still, if they insist, they can send out a call; 3D×10 farmers—armed with hunting and sporting weapons—from the surrounding spreads will respond in 6D hours. But see “Extermination” below.
     
 
-Whatever the travelers do risks reprisals from Rhyzen-Phytotek. If at any point during their investigations the group throws a natural 2 (fumble); throw 7+ for word to reach van Rien or one of the RP executives. A squad of mercenaries will be sent without delay to find and terminate the interlopers.
+
+
+Whatever the travelers do risks reprisals from Rhyzen-Phytotek. If at any point during their investigations the group throws a natural2 (fumble); throw 7+ for word to reach van Rien or one of the RP executives. A squad of mercenaries will be sent without delay to find and terminate the interlopers.
 
 ### Four: Extermination
 
@@ -114,17 +146,23 @@ Going to Count bó-Huang
 
  
 
+
+
 is counterproductive; he's in cahoots with RP (more accurately, he's in RP's pocket) and he'll surely snitch on the travelers. Also, the word of a noble is sacrosanct in the Imperium. Bó-Huang won't have any trouble painting the PCs to the authorities as sociopathic malcontents, or even pathological liars who should be locked up. The group could go over the Count's head to the subsector Duke/Duchess, but the team's evidence of wrongdoing would have to be rock-solid and incontestable before (s)he would get involved. Assuming RP even lets them get off the planet alive.
 
 Blackmailing Rhyzen-Phytotek
 
  
 
+
+
 is the most dangerous thing the team could do. Even if the company agreed to the PCs' terms, it wouldn't adhere to them for more than a few minutes. And it has enough resources to keep the PCs tied up in court, on the run, or in prison (or some combination thereof) for the rest of their lives. Van Rien has made a career of putting away people that try just such a stunt. And of course, there are always the mercenaries…
 
 Exposing the plot
 
  
+
+
 
 depends on to whom the group exposes it to. The news media would take the story and run with it, causing RP no end of legal, social, and financial headaches; at least long enough for the group to get offworld. Contacting an environmental entity such as the Pan-Galactic Friends of Life is less effective. RP's PR machine is very good at marginalizing such groups and making them look like crackpots. Going straight to Imperial authorities is a mixed bag; they'd certainly take the group's account and evidence seriously, but the wheels of justice turn very slowly. RP would have plenty of time to mount credible legal and financial defenses. Meanwhile, the adventurers' demise becomes another line item in their massive budget.
 

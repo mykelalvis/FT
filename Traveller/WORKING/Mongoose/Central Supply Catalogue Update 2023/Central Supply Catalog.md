@@ -470,7 +470,7 @@ Auto Helmet 12 Automatically deploys helmet  —  Cr10000
 
 #### AUTOMEDIKIT
 
-An internal medical scanner and drug injector, the automedikit can be installed in any full suit. It automatically applies First Aid if the wearer is reduced to END 0 (treat the automedikit as having Medic skill equal to the DM provided by a medikit of the same Tech Level). It can also administer fast drug (Hibernation) on command or if life support systems are failing. The TL11 version can also inject combat drugs and metabolic accelerators on command (usually by the wearer's voice command, although some military units allow remote activation). The kit contains standard supplies common to a medikit of the same Tech Level and one dose of Fast Drug; other drugs must be purchased separately.
+An internal medical scanner and drug injector, the automedikit can be installed in any full suit. It automatically applies First Aid if the wearer is reduced to END0 (treat the automedikit as having Medic skill equal to the DM provided by a medikit of the same Tech Level). It can also administer fast drug (Hibernation) on command or if life support systems are failing. The TL11 version can also inject combat drugs and metabolic accelerators on command (usually by the wearer's voice command, although some military units allow remote activation). The kit contains standard supplies common to a medikit of the same Tech Level and one dose of Fast Drug; other drugs must be purchased separately.
 
 Automedikit TL Effect Kg Cost
 Basic 10 Automatic First
@@ -568,6 +568,8 @@ Modification TL Effect Kg Cost
 Chameleon,
 IR
 
+
+
 12 DM+4 to Stealth
 checks vs infrared
 and thermal sensors
@@ -658,11 +660,12 @@ Modification TL Effect Kg Cost
 Friend or Foe
 HUD
 
+
+
 11 Identifies friendly
 transponders to
 line of sight or 1km,
-DM+1 to Tactics
-(military) checks
+DM+1 to Tactics (military) checks
 
 — Cr4000
 
@@ -733,8 +736,7 @@ Helmet Lights 6 Flashlight illumination in front of a user
 
 — Cr10
 
-Helmet Lights
-(voice activated)
+Helmet Lights (voice activated)
 
 8 +Voice control — Cr20
 
@@ -935,8 +937,7 @@ reaction drive
 6 Cr14000
 
 Advanced 14 48 hours 0.1G
-acceleration – grav-
-thruster plates
+acceleration – grav-thruster plates
 
 2 Cr20000
 
@@ -1504,8 +1505,7 @@ Augment TL Effect Cost
 Cardiotrigger
 Detonator
 
-7+ Heart-triggered dead-
-man's bomb
+7+ Heart-triggered dead-man's bomb
 
 Special
 
@@ -1522,8 +1522,7 @@ Genetic
 Aquamorph
 Adaption
 
-12 Amphibious adaptation
-(see above)
+12 Amphibious adaptation (see above)
 
 Cr30000
 
@@ -1562,7 +1561,7 @@ Cr50000
 
 Most worlds with very low or non-existent gravity compensate by keeping habitats at reasonable gravity levels, whether through gravity plates or by spinning all or portions of the habitat. Certain occupations and cultures forego these methods by choice or necessity. Rather than suffer the health effects of long-term living in a microgravity environment, some use genetic alterations to modify their bodies to thrive. This type of alteration has both benefits and drawbacks.
 
-A person who has undergone genetic microgravity adaption suffers no ill effects from prolonged exposure to environments of less than 0.2G. They are also supremely adapted to this environment; all recipients are considered to have Athletics (dexterity) 2 (or +2 if they already possess the skill) for actions in microgravity. Recipients also receive DEX+1. The modifications to prevent muscular atrophy also grant STR+1.
+A person who has undergone genetic microgravity adaption suffers no ill effects from prolonged exposure to environments of less than 0.2G. They are also supremely adapted to this environment; all recipients are considered to have Athletics (dexterity)2 (or +2 if they already possess the skill) for actions in microgravity. Recipients also receive DEX+1. The modifications to prevent muscular atrophy also grant STR+1.
 
 The downsides of this modification include receiving END-1 and susceptibility to fatigue in higher gravity environments. Worlds of 0.7G or more are considered high gravity and adaption requires twice as long as an unaugmented person. In these environments, all Athletics tasks are performed at DM-1 and any direct checks against STR, DEX and END receive DM-1.
 
@@ -1573,8 +1572,7 @@ Genetic
 Microgravity
 Adaption
 
-12 Adaptation to microgravity
-(see above), STR +1,
+12 Adaptation to microgravity (see above), STR +1,
 DEX +1, END -1
 
 Cr30000
@@ -1706,6 +1704,8 @@ Armor +5
 14 Protection +5 Cr500000
 
 TERMINAL STABILISATION SYSTEM
+
+
 This is a complex system that monitors all body functions and, upon sensing imminent death, immediately releases a potent mix of chemicals and nanobots designed to keep the Traveller alive, if not completely functional. When the Traveller is killed, the terminal stabilization system immediately adds +1D END. If this is not sufficient to make the Traveller's END a positive figure, death will still occur.
 
 Augment TL Effect Cost
@@ -1727,16 +1727,14 @@ for limb or body
 
 Cr20000
 
-Video Tattoo
-(limb)
+Video Tattoo (limb)
 
 12 Covers one limb,
 head, or half a torso
 
 Cr20000
 
-Video Tattoo
-(full body)
+Video Tattoo (full body)
 
 12 Covers entire body Cr120000
 
@@ -1760,8 +1758,7 @@ A strange but useful augment, the ALR is a series of hardwired connections from 
 
 Augment TL Effect Cost
 Autonomous
-Locomotion Rig
-(ALR)
+Locomotion Rig (ALR)
 
 9 Auto-walk to
 specified destination
@@ -2089,8 +2086,7 @@ Augment TL Effect Cost
 Nerve-plug
 Response Rig
 
-13 DM+2 to all DEX-
-based checks in
+13 DM+2 to all DEX-based checks in
 the suit
 
 Cr225000*
@@ -2427,6 +2423,8 @@ Portable Computer
 Computers and software
 
 PORTABLE COMPUTER OPTIONS
+
+
 Portable computers can include the following standard options and accessories:
 
 #### CAMERA
@@ -2502,6 +2500,8 @@ Decryptor/4 4 16 Cr50000
 Computers and software
 
 FIND YOUR BRAND NEW DIGITAL FRIEND
+
+
 version 4.4 - only available in the Central Supply Catalogue
 
 #### DIGITAL FRIEND
@@ -2521,6 +2521,8 @@ Expert/3 3 +2 x100
 The Expert Skill Packages table lists the skills commonly available for computers. Travellers augmented with a neural link or neural jack may acquire and use skills not listed that normally require characteristics other than INT or EDU. These expert packages are available for Expert/1 at TL11 at a cost of Cr1000.
 
 EXPERT SKILL PACKAGES
+
+
 Expert Package TL Cost
 Admin 8 Cr100
 Advocate 10 Cr500
@@ -2943,8 +2945,7 @@ Disguise Kit 3 Aids alteration of appearance  3 Cr200
 A set of short-range holographic projectors woven into a face-covering net can completely transform a person's appearance. Placed over the head, this net, originally developed to produce 'virtual hair', can mimic the appearance of any individual, real or imagined, creating holographic features that float just above the surface of the net. The net will almost always fool even very close visual inspection but is easily detectable by electronic means. A whole body version is also available; it can be worn above clothing and will completely transform the body. As the net closely follows the contours of a real face or body, alternations are limited to beings of the same general size and shape – slightly larger is possible; smaller is not. The net includes batteries to maintain the disguise for a full day, with wireless recharging possible.
 
 Item TL Effect Kg Cost
-Disguise Net
-(head)
+Disguise Net (head)
 
 12 Holographic
 transformation
@@ -2952,8 +2953,7 @@ of head
 
 — Cr20000
 
-Disguise Net
-(whole body)
+Disguise Net (whole body)
 
 12 Holographic
 transformation
@@ -2997,16 +2997,14 @@ Flashtray 8 Incinerates small items 0.5 Cr80+
 Float tables come in varying sizes and shapes, measuring from tray to dining table size. Equipped with anti-grav plates, float tables can be positioned in mid-air as desired, forming a ready surface for eating or working. They cannot carry more than their own mass and remain floating but most models can move slowly upon verbal command.
 
 Item TL Effect Kg Cost
-Float Table
-(small)
+Float Table (small)
 
 10 Tray-sized anti-grav
 table
 
 1 Cr200
 
-Float Table
-(large)
+Float Table (large)
 
 10 Desk or dining-sized
 anti-grav table
@@ -3178,8 +3176,7 @@ Often denigrated as simply being toy soldiers,
 miniatures wargames allow their players to construct,
 paint and field large armies or fleets on a tabletop
 surface. The armies can range from anything in history
-or fiction and may feature land, air, sea or space-
-bound forces. Players make opposed Tactics (naval or
+or fiction and may feature land, air, sea or space-bound forces. Players make opposed Tactics (naval or
 military) checks (1D hours, INT or EDU) to determine
 winners. At early Tech Levels, the miniatures used are
 fairly crude, although these progress in quality as Tech
@@ -3238,20 +3235,15 @@ Mechanic
 
 5 Cr150
 
-Improved 6 Very Difficult
-(12+) Mechanic
+Improved 6 Very Difficult (12+) Mechanic
 
 4 Cr250
 
-Enhanced 8 Very Difficult
-(12+) Electronics
-(computers)
+Enhanced 8 Very Difficult (12+) Electronics (computers)
 
 3 Cr400
 
-Advanced 12 Formidable
-(14+) Electronics
-(computers)
+Advanced 12 Formidable (14+) Electronics (computers)
 
 3 Cr600
 
@@ -3455,6 +3447,8 @@ Chair
 
 13 Full immersion
 VR
+
+
 
 150 Cr200000
 
@@ -3861,24 +3855,21 @@ These drugs restore PSI if taken when the user has already spent PSI points or t
 A user who takes more than one dose of Standard or Double Psi-Drug, or a single dose of the Special drug, must make an END check with DM-1 per dose of psi-drug taken in the last week. If the check is failed, the user falls ill, suffering 3D damage and permanently reducing PSI by one.
 
 Item TL Effect Kg Cost
-Psi-Drug
-(standard)
+Psi-Drug (standard)
 
 8 3 PSI restored, +2
 boosted
 
 — Cr1000
 
-Psi-Drug
-(double)
+Psi-Drug (double)
 
 8 6 PSI restored, +4
 boosted
 
 — Cr4000
 
-Psi-Drug
-(special)
+Psi-Drug (special)
 
 8 9 PSI restored, +6
 boosted
@@ -3999,6 +3990,8 @@ that allow you to find exactly the gear you need for your
 latest expedition into the wilderness.
 
 AERIAL ENVIRONMENTS
+
+
 Most Travellers lack the ability to fly or avoid damage
 from falling a great distance. These items provide
 methods to overcome these limitations.
@@ -4035,6 +4028,8 @@ speed), 12 hours
 6 Cr100000
 
 GRAV PARACHUTE
+
+
 A personal harness incorporating a smaller version
 of the grav belt, the chute can be manually controlled
 or set to activate at a given altitude. Instead of relying
@@ -4061,9 +4056,10 @@ and arrest
 4 Cr2000
 
 PARACHUTE
+
+
 A basic parachute kit including harness and reserve chute.
-Parachutes only function in Thin or denser Atmospheres
-(4+). A larger chute at twice the mass and cost is available
+Parachutes only function in Thin or denser Atmospheres (4+). A larger chute at twice the mass and cost is available
 for Very Thin atmospheres (2–3). Parachutes in Trace
 atmospheres do not adequately slow a user.
 
@@ -4073,8 +4069,7 @@ Atmosphere 4+
 
 3 Cr250
 
-Parachute
-(Very Thin)
+Parachute (Very Thin)
 
 5 Functions in
 Atmosphere 2–3
@@ -4082,6 +4077,8 @@ Atmosphere 2–3
 6 Cr500
 
 PARAWING
+
+
 An advanced parachute that allows more control over
 where the user lands. The parawing kit includes a
 reserve chute and harness.
@@ -4092,8 +4089,7 @@ Atmosphere 4+
 
 8 Cr400
 
-Parawing
-(Very Thin)
+Parawing (Very Thin)
 
 7 Functions in
 Atmosphere 2–3
@@ -4101,6 +4097,8 @@ Atmosphere 2–3
 16 Cr800
 
 SQUIRREL SUIT
+
+
 A nylon suit that gives the wearer an artificial version
 of patagia (flaps that allow gliding and limited 'flight'),
 the squirrel suit slows down falling descent by half and
@@ -4124,12 +4122,16 @@ in Atmosphere 4+
 1 Cr500
 
 ATMOSPHERIC PROTECTION
+
+
 Even worlds with nitrogen-oxygen atmospheres may
 not be suitable for Travellers to breathe unprotected.
 Whether from various taints, poisons or differing
 pressures, these items will enable a user to survive.
 
 BREATHER MASK
+
+
 A combination of both filter mask and respirator, which
 allows breathing of Very Thin and/or Tainted (2, 3, 4, 7,
 9) Atmospheres. The TL10 version is small enough to
@@ -4147,6 +4149,8 @@ lung implant
 — Cr2000
 
 ENVIRONMENT MASK
+
+
 An environment mask functions in the same way
 as the breather mask but is also designed to fit
 seamlessly with NBC or environment suiting,
@@ -4195,8 +4199,7 @@ dust, etc.
 
 ## FILTER MASK
 
-A filter set that allows an individual to breathe Tainted
-(4, 7, 9) Atmospheres and also protects against the
+A filter set that allows an individual to breathe Tainted (4, 7, 9) Atmospheres and also protects against the
 inhalation of heavy smoke or dust. More advanced
 respirators are small enough to fit into the nose or can
 even be a lung implant.
@@ -4243,6 +4246,8 @@ air supply
 2 Cr1000
 
 NBC SUIT
+
+
 An advanced protective suit composed of 'breathable'
 fabric preventing heat build-up while protecting the
 wearer from airborne contaminants, biological or
@@ -4279,6 +4284,8 @@ hours of air supply
 12 Cr500
 
 PROTECTIVE SUIT
+
+
 A sealed, air-conditioned environment suit designed
 to allow the user to survive in Corrosive atmospheres.
 The suit's internal air supply is good for six hours.
@@ -4313,6 +4320,8 @@ Face Mask
 Survival gear
 
 RADIATION SUIT
+
+
 An NBC suit will protect the Traveller against
 contamination from irradiated particles such as
 dust but offers little or no protection against direct
@@ -4332,12 +4341,13 @@ Item TL Effect Kg Cost
 Radiation
 Suit
 
-6 Protects against 100 rads
-(+10 per TL above 6)
+6 Protects against 100 rads (+10 per TL above 6)
 
 10 Cr5000
 
 REBREATHER
+
+
 The rebreather is a bulky backpack containing
 breathable atmospheric tanks and face mask that
 collect exhaled gases and 'scrub' them into breathable
@@ -4351,12 +4361,14 @@ life up to twice its rated duration.
 
 Item TL Effect Kg Cost
 Rebreather 6 Mask/backpack
-providing 6 (or TL)
+providing6 (or TL)
 hours air
 
 10 Cr250
 
 RESPIRATOR
+
+
 This mask concentrates inhaled oxygen, allowing a user
 to breathe in worlds with Very Thin (3) Atmospheres.
 Respirators take the form of a face mask or mouthpiece
@@ -4384,6 +4396,8 @@ Radiation Suit
 Survival gear
 
 ARCTIC AND COLD ENVIRONMENTS
+
+
 Travellers, at least humans, cannot survive long in cold
 environments. As noted on page 82 in the Traveller
 _Core Rulebook,_ lack of protection in the cold will
@@ -4404,8 +4418,7 @@ penalty but usability improves as it advances.
 
 Cold Weather
 Clothing TL Effect Kg Cost
-Basic 0 Protection from cold
-(1D per 4 hours)
+Basic 0 Protection from cold (1D per 4 hours)
 
 4 Cr200
 
@@ -4436,8 +4449,7 @@ Heatsuit 8 Protection against cold to
 
 A small axe optimized for digging into ice when
 climbing. It adds DM+2 to any check involving
-climbing or arresting a fall on ice. Treat as a hatchet
-(see page 134) in combat.
+climbing or arresting a fall on ice. Treat as a hatchet (see page 134) in combat.
 
 Item TL Effect Kg Cost
 Ice Axe 3 DM+2 to task checks on ice 2 Cr50
@@ -4451,6 +4463,8 @@ Cold Weather Clothing
 Survival gear
 
 ICE TERRAIN KIT
+
+
 A set of accessories making crossing ice or climbing
 icy surfaces less hazardous. Includes crampons
 for boots, snowshoes, rope and a brightly-coloured
@@ -4468,6 +4482,8 @@ caused by ice or snow
 4 Cr50
 
 SKIS
+
+
 A set of skis and poles. Skis make travel over snow
 much faster and less fatiguing, eliminating any speed
 penalties if on level ground and more than doubling
@@ -4480,6 +4496,8 @@ x2.5 speed downhill
 1 Cr75
 
 SNOWSHOES
+
+
 A pair of wide shoes designed to spread the wearer's
 weight and make walking on soft surfaces like snow
 or volcanic dust safer, reducing any penalties to
@@ -4493,6 +4511,8 @@ dust
 1 Cr30
 
 DESERT AND ARID ENVIRONMENTS
+
+
 Travellers, at least humans, cannot thrive in hot or
 arid environments. They need protection from the heat
 and some source of water. As noted on page 82 in the
@@ -4500,6 +4520,8 @@ Traveller Core Rulebook, lack of protection in the heat
 will eventually cause damage to unprotected Travellers.
 
 ADVANCED DESERT SUIT
+
+
 An all-in-one suit designed to minimise moisture loss
 by trapping sweat between the porous inner layer and
 impermeable outer one. The suit is reflectorised to
@@ -4615,15 +4637,12 @@ needing water and 15 days without food before needing to
 have its internal scrubbers and injectors cleaned.
 
 Item TL Effect Kg Cost
-Hydro-
-Reclamation Suit
+Hydro-Reclamation Suit
 
 11 Advanced
 desert suit +
-reclaims water
-(30 days) and
-waste for food
-(15 days)
+reclaims water (30 days) and
+waste for food (15 days)
 
 6 Cr10000
 
@@ -4636,6 +4655,8 @@ Hydro-Reclamation Suit
 Survival gear
 
 SOLAR VAPORATOR
+
+
 A device using solar panels to generate power during
 the day (and storing it in an internal battery) and
 collecting moisture from the air, especially at night. It
@@ -4643,8 +4664,7 @@ yields two litres of water per 24 hours in Standard or
 Dense atmospheres, one litre in Thin atmospheres, and
 half a litre in Very Thin atmospheres. The vaporator is
 stored in a compact (50 x 20 x 20 centimeters) package
-and is unfolded for use. It can be considered an extra-
-small solar panel array (see page 119).
+and is unfolded for use. It can be considered an extra-small solar panel array (see page 119).
 
 Item TL Effect Kg Cost
 Solar
@@ -4656,15 +4676,18 @@ from the atmosphere
 5 Cr1250
 
 GENERAL SURVIVAL GEAR
+
+
 These items are applicable in many environments and
 include meals, water and the means to carry such
 sustenance. A human Traveller in the field will require
-at least three litres of water and two units of caloric-
-dense (often dehydrated) sustenance per day. Heavy
+at least three litres of water and two units of caloric-dense (often dehydrated) sustenance per day. Heavy
 exertion, extreme heat or cold and other factors may
 increase these requirements by a factor of two or more.
 
 BACKPACK
+
+
 A basic carrying bag with shoulder straps and external
 pockets. Most backpacks have an internal capacity of 30–
 60 litres volume and can support double that volume of
@@ -4691,6 +4714,8 @@ sleeping bag or bivouac
 1 Cr150
 
 CANTEEN
+
+
 A belt-mounted metal or plastic container for 1.5 litres
 of water (or other liquids) Some versions include a
 detachable mess-kit as well.
@@ -4772,6 +4797,8 @@ with 1 day's rations
 5 Cr100
 
 FIRE EXTINGUISHER
+
+
 A simple handheld firefighting device. More advanced
 units can be tailored to specific fire types. If used to put
 out a victim who has been subject to a flame attack, the
@@ -4789,6 +4816,8 @@ fire extinguisher
 2 Cr50
 
 FLARE
+
+
 Used in conjunction with a flare launcher, individual
 flares can be used for a variety of purposes. Illuminating
 flares cast harsh, bright light for one minute before
@@ -4826,6 +4855,8 @@ emitting whistle
 — Cr10
 
 FLARE LAUNCHER
+
+
 A simple pistol or tube type launcher for use with flares.
 Used as a weapon, a flare gun is highly inaccurate,
 with an effective range of 5 meters, imposing DM-2
@@ -4882,6 +4913,8 @@ illumination for 6 hours
 1 Cr10
 
 GRAV HARNESS
+
+
 A grav harness is an anti-grav device whose strength is
 between a grav belt and grav parachute. Its purpose is
 to aid mobility on high-G worlds and/or allow its wearer
@@ -4913,8 +4946,7 @@ or when carry a lighter load, battery life will increase
 accordingly. Additional batteries can be carried and
 should be replaced before the last battery runs
 down; these batteries mass one kilogram each and
-count towards the total encumbrance. A harness
-(and installed batteries) has no effective mass when
+count towards the total encumbrance. A harness (and installed batteries) has no effective mass when
 powered and six kilograms mass when powered off.
 
 Item TL Effect Kg Cost
@@ -4940,6 +4972,8 @@ harness for 4 hours
 1 Cr1000
 
 INERTIAL LOCATOR
+
+
 Indicates the direction and distance travelled from
 a starting location. The inertial locator is useful on
 worlds without a magnetic field or a satellite positioning
@@ -4961,6 +4995,8 @@ a starting point
 Survival gear
 
 INFINITE ROPE
+
+
 Stored in liquid form within a device looking like a caulk
 gun, infinite rope is a bacterium binding to itself with
 amazing strength and flexibility. When needed, the
@@ -4987,6 +5023,8 @@ Rope
 1 Cr1000
 
 HIKING BOOTS
+
+
 A set of sturdy boots protecting the wearer's feet and
 ankles from rough ground, thorns and other minor hazards.
 Higher-tech boots are lighter and more comfortable.
@@ -5008,6 +5046,8 @@ feet and ankles
 — Cr200
 
 MAGNETIC COMPASS
+
+
 Indicates direction of magnetic north on worlds with a
 strong global magnetic field.
 
@@ -5021,6 +5061,8 @@ magnetic field
 — Cr10
 
 POCKET SAW
+
+
 A slim but sharp collapsible saw or saw-like chain which
 can be folded into a 12 centimeter long box or a pocket.
 
@@ -5041,6 +5083,8 @@ _G-Suit_
 Survival gear
 
 PURIFICATION TABLETS
+
+
 These small, chalky white tablets are stored in waxed
 paper envelopes to keep them from being exposed
 to airborne humidity. When dropped in a container of
@@ -5050,21 +5094,18 @@ natural impurities before rising to the top of the water
 to be poured or scraped off. While these tablets will
 not neutralise poison or radiation, they are essential to
 eliminate natural bacteria and pollutants. The advanced
-versions will filter any liquid that is at least 80% water
-(one tablet needed for every 10 litres) and all radiation,
+versions will filter any liquid that is at least 80% water (one tablet needed for every 10 litres) and all radiation,
 poison, additives or the intoxicating alcohol in a liquid
 will be instantly nullified and sublimated as pops of
 bubbles on the surface.
 
 Purification
 Tablets TL Effect Kg Cost
-Basic
-(10 pack)
+Basic (10 pack)
 
 7 Purifies 4 litres/tablet — Cr5
 
-Advanced
-(10 pack)
+Advanced (10 pack)
 
 13 Purifies 10 litres/
 tablet and severe
@@ -5073,6 +5114,8 @@ contaminants
 — Cr50
 
 RAD BLANKET
+
+
 This heavy plasticised sheet of lead fibres blocks
 most radiation that strikes it, saving anyone or thing
 sheltered beneath. All sources of rads being applied
@@ -5090,6 +5133,8 @@ rads
 2 Cr150
 
 REFLECTORISED TARPAULIN
+
+
 A thin and flexible metallic sheet whose shiny surface
 reduces incoming radiation by reflection, decreasing
 the exposure of anything underneath it by 40 rads. The
@@ -5169,9 +5214,10 @@ rations
 3 Cr100
 
 SURVIVAL MEAL
+
+
 A pre-packaged storable meal that comes in a variety
-of flavors. An adult human requires two a day for long-
-term survival but high levels of activity such as all-day
+of flavors. An adult human requires two a day for long-term survival but high levels of activity such as all-day
 hiking, swimming or cold conditions may increase the
 requirement to four or more. These are designed for
 long-term storage and lack water, requiring hydration
@@ -5201,6 +5247,8 @@ per day required
 0.25 Cr10
 
 SURVIVAL STILL
+
+
 A survival still, oftentimes referred to as a 'Glop Maker',
 is a compact wilderness nutrition processor designed to
 turn compatible organic matter into a just-about-edible
@@ -5258,6 +5306,8 @@ spirits for medicinal or
 recreational use.
 
 HOUSING OPTIONS
+
+
 Advanced base and habitat modules, even
 prefabricated cabins and tents can have additional
 options installed. Unless stated otherwise the mass and
@@ -5266,6 +5316,8 @@ cabin size of 6 x 4 x 3 meters, which is 72 cubic meters
 or about five ship displacement tons.
 
 ARMORED
+
+
 Survival structures can be layered with the armored
 option, granting Protection +5 to those inside from
 attacks originating outside of the structure (and vice
@@ -5280,6 +5332,8 @@ structure
 x3 Cr2500
 
 CHAMELEON FIBRES
+
+
 Chameleon fibres can provide structures for the
 benefits of advanced camouflage. The TL12 version
 provides a configurable static camouflage pattern to
@@ -5306,6 +5360,8 @@ and sensor checks
 — Cr60000
 
 TORCH
+
+
 A bundle of flammable materials mounted on a
 handle or stick. A torch will last about one hour and
 illuminate a six-meter radius, producing a thick,
@@ -5339,8 +5395,7 @@ Survival gear
 This option allows pre-fabricated cabins, tents and other
 sealed but otherwise unheated or cooled housing units
 to be climate controlled to +/- 50°C. It does not protect
-against all atmospheric Taint factors but will block wind-
-blown dust and other relatively large particles from
+against all atmospheric Taint factors but will block wind-blown dust and other relatively large particles from
 entering the structure while its doors and windows remain
 closed. This temperature control is built into the walls and
 will preserve or eliminate ambient heat from its inhabitants
@@ -5410,6 +5465,8 @@ touching the hub
 — Cr75000
 
 RAD SHIELDING
+
+
 This adds neutralised elements of lead and polymer
 plastics designed to block radiation to the outer layers
 of any structure, reflecting most radiation. When a
@@ -5431,8 +5488,7 @@ up the shelter to a single person-hour.
 
 Item TL Effect Kg Cost
 Self-Assembling 11 Assembles
-with 1 person-
-hour effort
+with 1 person-hour effort
 
 — Cr5000
 
@@ -5451,6 +5507,8 @@ seconds
 Survival gear
 
 MARINE ENVIRONMENTS
+
+
 Many worlds have surfaces partially or completely
 covered in water. To operate beneath the surface of
 this environment, Travellers that are neither aquatic nor
@@ -5460,6 +5518,8 @@ pressure and gravity; deviation from these values will
 affect diving depth inversely in a linear fashion.
 
 ARTIFICIAL GILL
+
+
 An artificial gill extracts oxygen from water to allow
 the user to breathe for an unlimited time while
 submerged. It functions only on worlds with Thin,
@@ -5475,11 +5535,12 @@ in oxygenated water
 4 Cr4000
 
 ATMOSPHERIC DIVING SUIT
+
+
 This is a rigid suit capable of allowing a diver to operate
 safely to depths of around 800 meters. The atmospheric
 diving suit is large and clumsy but allows underwater
-expeditions of up to three hours without requiring pre-
-breathing or breathing a gel. It provides Protection +4.
+expeditions of up to three hours without requiring pre-breathing or breathing a gel. It provides Protection +4.
 
 Item TL Effect Kg Cost
 Atmospheric
@@ -5526,6 +5587,8 @@ Deep-Diving Suit
 Survival gear
 
 HEATED DIVE SUIT
+
+
 An insulating suit fitted with small heater coils powered
 by a belt battery unit. A heated dive suit allows the
 wearer to operate without harm in very cold water. It
@@ -5565,6 +5628,8 @@ Swimming Equipment
 Very Deep Operation Diving Suit
 
 SWIMMING EQUIPMENT
+
+
 Includes swim fins, face mask and a snorkel. Improves
 speed and manoeuvrability underwater. Without
 swimming equipment, movement speed is halved and
@@ -5581,6 +5646,8 @@ tasks underwater
 3 Cr100
 
 VERY DEEP OPERATION DIVING SUIT
+
+
 The Very Deep Operations (VDO) diving suit is an
 extremely tough piece of equipment that allows a
 wearer to descend safely to depths of more than
@@ -5599,6 +5666,8 @@ the unskilled DM-3.
 
 Item TL Effect Kg Cost
 VDO
+
+
 Diving Suit
 
 8 Descend to 1,200
@@ -5609,6 +5678,8 @@ Protection +12
 36 Cr50000
 
 UNDERWATER AIR TANKS
+
+
 Similar to oxygen tanks but designed for use underwater.
 Two tanks last six hours and a refill costs Cr20 for the
 proper atmospheric mixture for any species.
@@ -5623,6 +5694,8 @@ hours of air supply
 12 Cr800
 
 WATER DYE
+
+
 A tube of liquid dye which can be used to highlight
 a patch of water with a bright, easily spotted colour
 visible from the air. The primary drawbacks of this form
@@ -5650,12 +5723,15 @@ for night visibility
 Survival gear
 
 MOUNTAINS AND CLIFFS
-While some Travellers might be comfortable free-
-climbing mountains and sheer cliffs, the less skilled or
+
+
+While some Travellers might be comfortable free-climbing mountains and sheer cliffs, the less skilled or
 more cautious rely on equipment to safely reach great
 heights or to descend down steep crevasses.
 
 CLIMBING HOIST
+
+
 The hoist is a battery-powered motor which drives a
 reel with 25 meters of cable that can support up to 150
 kilograms. It has a hook on one side for attachment to a
@@ -5676,6 +5752,8 @@ Hoist
 4 Cr175
 
 CLIMBING KIT
+
+
 A set of accessories designed to make climbing easier.
 Includes a safety harness, gloves and rock shoes, belt
 with secure holders for tools and head protection. The
@@ -5687,17 +5765,17 @@ accessories in the basic kit, providing DM+2 to checks
 to climb rock surfaces.
 
 Climbing Kit TL Effect Kg Cost
-Basic 4 DM+1 to climbing-
-related checks
+Basic 4 DM+1 to climbing-related checks
 
 4 Cr100
 
-Improved 8 DM+2 to climbing-
-related check
+Improved 8 DM+2 to climbing-related check
 
 2 Cr500
 
 GRAPNEL AND CABLE
+
+
 A hooked device used to attach a rope for climbing
 purposes, plus 10 meters of stout cord (100kg load).
 Grapnels can be thrown or propelled by a grapnel
@@ -5716,6 +5794,8 @@ cord, 100kg load
 2 Cr35
 
 GRAPNEL LAUNCHER
+
+
 A grenade launcher-like device used to propel a grapnel
 to its target using gas or small explosives, with a
 maximum range of 25 meters. If used as a weapon, it
@@ -5734,6 +5814,8 @@ launcher.
 3 Cr100
 
 PITONS
+
+
 Metal spikes designed to be hammered into rock
 crevices to secure a rope for climbing.
 
@@ -5744,6 +5826,8 @@ rope for climbing
 2 Cr5
 
 PITON HAMMER
+
+
 A small hammer used for hammering pitons into rock.
 
 Item TL Effect Kg Cost
@@ -5757,6 +5841,8 @@ _Very Deep Operation Diving Suit_
 Survival gear
 
 PORTABLE POWER SYSTEMS
+
+
 Most technological devices need power. In civilised
 regions, access to a power grid is as universal as access
 to a data network but while base stations can beam
@@ -5782,6 +5868,8 @@ systems could meet an installation's needs but more
 efficient single units can be designed.
 
 SIZING
+
+
 Portable power generators are rated by the output,
 ranging from Extra-Small to Extra-Large. Sizes scale
 by a factor of five. These sizes define the general uses
@@ -5825,14 +5913,15 @@ recharge it for a number of hours equal to its remaining
 range divided by 100.
 
 For the power systems detailed in this section, the
-mass and cost values assume a Medium rating. Extra-
-Small versions cost and mass x0.04 these values,
+mass and cost values assume a Medium rating. Extra-Small versions cost and mass x0.04 these values,
 Small x0.2, Large x5 and Extra-Large x25. Most power
 sources scale across this range of sizes. Most nuclear
 power generators are excepted from this and size
 limitations are noted in their descriptions.
 
 ANTIMATTER BATTERY
+
+
 A matter/antimatter reactor built into a small cylindrical
 package, 15 centimeters thick and 30 centimeters long.
 The battery operates automatically with no need for
@@ -5923,8 +6012,7 @@ filters and cooling tubes. A generator restart requires a
 successful Average (8+) Mechanic check (INT or EDU,
 1D hours) and a full refuelling. The TL13 generator is
 not only smaller but will operate for twice as long before
-requiring refuelling. Although smaller, its deuterium-
-enriched water supply requires greater enrichment and
+requiring refuelling. Although smaller, its deuterium-enriched water supply requires greater enrichment and
 still costs Cr500 per recharge. A Fusion Plus generator
 will not scale below Medium size.
 
@@ -5943,6 +6031,8 @@ generator
 Survival gear
 
 HYDROCARBON GENERATOR
+
+
 A portable generator burning liquid hydrocarbon fuel
 to generate electricity. At TL5 the generator is an
 internal combustion device which consumes two litres
@@ -5975,6 +6065,8 @@ Advanced 10 Portable generator;
 10 Cr500
 
 POWER CELL
+
+
 A power cell is a rechargeable store of energy, either
 taken from a local grid or produced by portable
 generators. It may use battery, fuel cell or another
@@ -6004,6 +6096,8 @@ output; 95% efficiency
 6 Cr1000
 
 RTG GENERATOR
+
+
 A radioisotope thermoelectric generator (RTG)
 produces electricity by radioactive decay. These are
 highly controlled, with limited private availability, as
@@ -6087,6 +6181,8 @@ Advanced 11 Wind energy 10 Cr2000
 Survival gear
 
 VACUUM ENVIRONMENTS
+
+
 Vacuum is not an ideal environment for anyone.
 Travellers who find themselves in space should at the
 very least have a functioning vacc suit but sometimes
@@ -6094,6 +6190,8 @@ this is not possible or enough. These items can help the
 Traveller survive environments without air.
 
 BULKHEAD PATCHES
+
+
 A set of variously-sized rigid and flexible bulkhead
 patches, plus adhesives and sealant to allow pressure
 breaches in a spacecraft to be temporarily repaired.
@@ -6111,6 +6209,8 @@ pressure breaches
 — Cr150
 
 IRIS VALVE OPENER
+
+
 A crank device designed to allow iris valves to be slowly
 opened or closed when no power is available. This task
 is slow and strenuous, taking 1D minutes.
@@ -6150,8 +6250,7 @@ Some individuals make a sport of personal re-entry. It
 is banned on many worlds, for safety reasons. Re-entry
 computers are available, which can function as an
 autopilot for emergency re-entry. The computer costs
-Cr2500 and allows an untrained user to attempt re-
-entry with a reasonable chance of success by granting
+Cr2500 and allows an untrained user to attempt re-entry with a reasonable chance of success by granting
 Flyer (wing) 2 skill to the re-entry check.
 
 The kit is not reusable but the computer can be
@@ -6169,12 +6268,13 @@ without a spacecraft
 Re-Entry
 Computer
 
-8 Flyer (wing) 2 for re-
-entry survival check
+8 Flyer (wing) 2 for re-entry survival check
 
 — Cr2500
 
 PORTABLE AIRLOCK
+
+
 A flexible pressure tent kept rigid by a collapsible frame,
 the portable airlock has two openings and can be
 attached to a bulkhead to create an emergency airlock.
@@ -6197,6 +6297,8 @@ airlock
 8 Cr1000
 
 RESCUE BUBBLE
+
+
 A two-meter-diameter inflatable plastic bubble.
 Piezoelectric layers in the bubble wall translate the
 Traveller's movements into electricity to recharge the
@@ -6219,6 +6321,8 @@ hours air
 Survival gear
 
 THRUST PISTOL
+
+
 A handheld reaction jet using compressed gas, the
 thrust pistol allows independent maneuver in zero-G
 vacuum conditions. The pistol's internal reserves allow
@@ -6236,6 +6340,8 @@ system
 1 Cr1000
 
 VACC EMERGENCY KIT
+
+
 A belt-carried pack, this emergency kit is designed
 to allow a vacc suited user to save themselves or
 someone else in the event of an accident and to
@@ -6250,8 +6356,7 @@ contains a radio beacon/repeater, a handheld strobe
 beacon, tethering cord, suit patches, spray sealant
 for multiple small holes, a 30-minute replacement air
 bottle and two hand-held gas thruster units. The latter
-are designed to allow the stranded Traveller a last-
-ditch attempt to reach safety in zero-G conditions.
+are designed to allow the stranded Traveller a last-ditch attempt to reach safety in zero-G conditions.
 The kit also contains a metallic reflectorised blanket
 which increases radar detection and reduces absorbed
 radiation by 100 rads in the event the user is caught
@@ -6282,6 +6387,8 @@ Vacc Emergency Kit
 Survival gear
 
 WILDERNESS HOUSING
+
+
 For protection from the elements while resting or for
 maintaining an isolated camp or outpost, many housing
 choices are available, ranging from a simple sheet to keep
@@ -6289,6 +6396,8 @@ out the wind and rain up to advanced bases configured to
 withstand the rigours of almost any environment.
 
 ADVANCED BASE
+
+
 A modular, pressurised shelter capable of withstanding
 anything less than hurricane force winds. The shelter
 offers excellent protection from precipitation and all but
@@ -6357,6 +6466,8 @@ generator
 6,000 Cr120000
 
 ADVANCED BASE OPTIONS
+
+
 These options are available only to advanced base
 modules, not the other wilderness housing items in
 this catalogue.
@@ -6376,8 +6487,7 @@ re-entry kits. The foam dome hardens in moments and
 provides improved protection against micrometeorites
 and inclement weather. It increases a module's
 Protection to +8. Solar panel arrays and/or wind
-turbines (see page 119) are often added as roof-
-mounted options to supplement the power generator.
+turbines (see page 119) are often added as roof-mounted options to supplement the power generator.
 
 Advanced Base
 
@@ -6419,9 +6529,10 @@ oxygen to function, although specialized alternatives
 may be available for certain Exotic atmospheres.
 
 HABITAT MODULE
+
+
 Modular unpressurised quarters for six people,
-capable of withstanding anything less than hurricane-
-force winds. It includes 42 person-days of survival
+capable of withstanding anything less than hurricane-force winds. It includes 42 person-days of survival
 rations, potable water and power cells to maintain
 minimal lighting and temperature control for one day.
 Connections to external power sources are available.
@@ -6439,9 +6550,7 @@ or those requiring room to do anything other than
 sleep, eat and shelter in place should consider using
 an advanced base.
 
-The TL10 version is pressurised and includes life-
-support for six occupants for one week (1,000 person-
-hours) and benefits from a collapsible emergency
+The TL10 version is pressurised and includes life-support for six occupants for one week (1,000 person-hours) and benefits from a collapsible emergency
 airlock. It adds protection against Vacuum, Trace,
 Very Thin and Exotic atmospheres and temperatures
 extremes from +/- 100°C. External power sources
@@ -6473,8 +6582,7 @@ A basic 6 x 4 x 3 meter hut with windows and a door
 but with no heating, lighting or sanitary facilities fitted.
 The cabin is capable of withstanding light to severe
 winds, offering shelter from precipitation, storms and
-temperatures down to -10ºC. It requires eight person-
-hours to erect or dismantle. A 'heat and light' pack is
+temperatures down to -10ºC. It requires eight person-hours to erect or dismantle. A 'heat and light' pack is
 normally purchased with the cabin, costing Cr1000 and
 slots into ready holders but requires an external power
 source. There is no plumbing.
@@ -6498,6 +6606,8 @@ up to four
 400 Cr2000
 
 TARPAULIN
+
+
 Canvas or waterproof cloth sheet used to create a 2 x 4
 meter temporary shelter. Protects against precipitation
 and can withstand light winds.
@@ -6509,6 +6619,8 @@ meter sheet
 4 Cr10
 
 TENT
+
+
 Basic shelter for two persons offering protection
 from precipitation, storms and temperatures down
 to 0ºC and is able to withstand light to moderate
@@ -6745,6 +6857,8 @@ equipment
 12 Cr4000
 
 SURVEYING TOOLKIT
+
+
 A set of tools used by a surveyor to map a location, determine boundaries and perform Navigation tasks. A basic toolkit includes mechanical instruments, optics, compasses and computational aids. At TL7, the surveying kit adds lasers and electronic devices. The TL9 surveyor toolkit includes satellite navigation locators where available and inertial locators where not and has software to produce instant maps in the field. All versions provide DM+2 to Navigation checks, although setup of the basic and improved versions double the duration required for the check. DMs from Navigation and Surveying toolkits do not stack; the highest DM applies.
 
 Surveying
@@ -6765,6 +6879,8 @@ mapping software
 8 Cr3000
 
 TOOL LASER
+
+
 A handheld laser welder/cutting-torch powered by a small internal powerpack (providing power for up to 20 minutes of continual use). The tool laser's energy output is variable and thus can be used from anything from gentle electronic welding to small-scale metalwork or cutting through several centimeters of steel; anything beyond that requires a welding kit or a larger laser. At TL12 the tool laser is about the size of a large flashlight; at TL13 or above it can be as small as a pen. If used as a weapon, it inflicts DM-2 to attack rolls and has an effective range of five meters, dealing 1D damage to a target at full output. Each shot drains one minute of battery power.
 
 Tool Laser TL Effect Kg Cost
@@ -6775,6 +6891,8 @@ laser tool
 — Cr500
 
 WEAPON ENGINEERING TOOL SET
+
+
 Tools for the repair and maintenance of weapons. Slug throwers and energy weapons require separate tool sets. The kit costs Cr100 times its Tech Level. Unusual weapons, such as flame throwers and cryojets, usually require their own brand of special toolkit.
 
 Weapon
@@ -7168,25 +7286,35 @@ Gauss Pistol
 Weaponry
 
 GAUSS PISTOL
+
+
 Gauss pistols use electromagnetic coils to accelerate
 metallic darts to hypersonic speeds. Gauss weapons
 are lightweight, efficient and deadly.
 
 HEAVY REVOLVER
+
+
 A more robust and solidly built version of the standard
 revolver, a heavy revolver fires a long (Magnum) 10mm
 or even 12mm cartridge.
 
 MAGRAIL PISTOL
+
+
 Using similar technology to gauss weapons, magrail
 pistols throw ovoid projectiles (sometimes erroneously
 called discs or shuriken) which hit hard at short ranges
 but lack penetrative power.
 
 REVOLVER
+
+
 A conventional six-shooter handgun.
 
 SHOT PISTOL
+
+
 This is a single shot, break-open smoothbore
 handgun designed to fire non-standard low-powered
 14mm cartridges, intended to deal with snakes and
@@ -7194,11 +7322,14 @@ similar vermin in the wilderness. It is virtually useless
 beyond a few meters.
 
 SNUB PISTOL
-These lightweight, low-recoil weapons fire rocket-
-propelled rounds and were designed for use aboard
+
+
+These lightweight, low-recoil weapons fire rocket-propelled rounds and were designed for use aboard
 spacecraft and in zero gravity.
 
 UNIVERSAL AUTOPISTOL
+
+
 This is a small-calibre semi-automatic handgun
 designed to be used by a variety of alien hands and
 appendages, enabling armed forces to issue a standard
@@ -7207,6 +7338,8 @@ also known as a staple gun because of its shape and
 modest effectiveness.
 
 ZIP GUN
+
+
 A Zip Gun is a one-shot weapon cobbled together from
 whatever materials are available. They are, by definition,
 unique. Zip guns suffer DM-1 to their attack rolls.
@@ -7289,8 +7422,7 @@ Using larger calibre rounds, the heavy advanced combat rifle is functionally sim
 
 Magrail rifles follow the similar principles of
 electromagnetic induction to accelerate their projectiles
-as gauss weapons but utilise an ovoid projectile
-(sometimes erroneously called a disc or shuriken) which
+as gauss weapons but utilise an ovoid projectile (sometimes erroneously called a disc or shuriken) which
 hits hard at short ranges but lacks penetrative power.
 
 #### RIFLE
@@ -7378,8 +7510,7 @@ an open hand while still armed with a potent weapon.
 
 #### HAND FLAMER
 
-Packing a powerful flamethrower safely into a pistol-
-sized frame, the hand flamer is useful for boarding
+Packing a powerful flamethrower safely into a pistol-sized frame, the hand flamer is useful for boarding
 actions and other area clearance duties.
 
 #### LASER PISTOL
@@ -7421,8 +7552,7 @@ A wielder of a pepper spray dispenser can substitute an
 Average (8+) DEX check to attack if they do not have
 the Gun Combat skill. Any living target struck with the
 spray who does not have a respirator or sealed suit
-will be attacked as if by a poison with a Very Difficult
-(12+) END check, Damage 1D (Stun) and Interval
+will be attacked as if by a poison with a Very Difficult (12+) END check, Damage 1D (Stun) and Interval
 of one round. The spray stops causing damage on a
 successful check or within 1D rounds.
 
@@ -7626,12 +7756,13 @@ slow-firing, however, taking 2D3 Minor Actions to reload.
 
 A short, thrown weapon distinguished by its weighted
 head and fletching, darts are smaller than javelins but
-heavier than arrows. A user may substitute Athletics
-(dexterity) skill for Gun Combat (archaic) when throwing
+heavier than arrows. A user may substitute Athletics (dexterity) skill for Gun Combat (archaic) when throwing
 a dart and may increase its range and possibly its
 damage by using an atlatl.
 
 JAVELIN
+
+
 A short spear designed for throwing, a javelin can be
 pressed into service as a footman's spear but is not
 ideal outside of its intended role. A user may substitute
@@ -7640,15 +7771,21 @@ when throwing a javelin and may increase its range and
 possibly its damage by using an atlatl.
 
 LONG BOW
+
+
 A long symmetrical or asymmetric bow; this is a
 powerful low-tech weapon but requires significant
 strength to pull.
 
 REPEATING CROSSBOW
+
+
 This is a weak but quick-firing crossbow, cocked by a
 lever and fed from a magazine of six bolts.
 
 SHORT BOW
+
+
 A light bow with a weaker pull, the short bow is primarily a hunting weapon but sees use in combat from time-to-time. Short bows are sometimes used from the back of animals.
 
 Weaponry
@@ -7828,8 +7965,7 @@ an arduous task for most individuals.
 
 #### ASSAULT ROCKET LAUNCHER
 
-The assault rocket launcher (ARL) fires 10mm solid-
-fuel rocket slugs. Ammunition is held in detachable
+The assault rocket launcher (ARL) fires 10mm solid-fuel rocket slugs. Ammunition is held in detachable
 magazines inserted into the underside of the weapon
 behind the pistol grip. The standard ARL is not
 capable of automatic fire. A more expensive support
@@ -7895,8 +8031,7 @@ lethal dose of radiation.
 
 A relatively crude device, the flamethrower consists of
 a fuel tank, compressor and a nozzle that can project a
-torrent of fire for some distance. Changing magazines
-(fuel tanks) takes 2D rounds and if a person carrying a
+torrent of fire for some distance. Changing magazines (fuel tanks) takes 2D rounds and if a person carrying a
 flamethrower is hit by any attack with an Effect of 4 or
 greater, the weapon will explode, destroying itself and
 immediately inflicting damage on the carrier as if they
@@ -7976,8 +8111,7 @@ the Specialized Ammunition chapter.
 This is a light machinegun tuned to develop an
 incredibly high rate of fire. The Auto score of this
 weapon may be doubled but the weapon must be left to
-cool for two rounds after this has been done. The rapid-
-fire machinegun may use the rifle variant ammunition
+cool for two rounds after this has been done. The rapid-fire machinegun may use the rifle variant ammunition
 types found in the Specialized Ammunition chapter.
 
 #### ROCKET LAUNCHER
@@ -8015,8 +8149,7 @@ tendency to jump about when firing.
 #### BOMBARDMENT GUN
 
 A fairly practical weapon as these things go, this super
-heavy gun is designed for bombardment of static or slow-
-moving targets. It is normally fielded as a railway gun,
+heavy gun is designed for bombardment of static or slow-moving targets. It is normally fielded as a railway gun,
 aboard a maritime vessel or as a coastal defence weapon.
 
 #### DEMOLITION GUN
@@ -8289,6 +8422,8 @@ The customization of weapons is as old as the first weaponsmith who started engr
 Unless otherwise stated or allowed by the Referee, a weapon may only have one sight or scope.
 
 AUXILIARY GRENADE LAUNCHER
+
+
 Rifles may mount an under-barrel grenade launcher. This weapon is similar to the grenade launcher or RAM grenade launcher (see pages 160-163) but is single-shot and takes three Minor Actions to reload.
 
 Item TL Effect Kg Cost
@@ -8296,26 +8431,36 @@ Auxiliary Grenade Launcher 7 Single-shot grenade launcher 1.5 Cr200
 Auxiliary RAM Grenade Launcher  8 Single shot RAM grenade launcher 1.5 Cr400
 
 BANDOLIER
+
+
 This is a set of cartridge loops mounted on a leather or fabric strap or sling. A bandolier can hold seven individual shotgun cartridges, 20 pistol rounds or 14 rifle rounds. A different bandolier must be purchased for each ammunition type.
 
 Item TL Effect Kg Cost
 Bandolier 3 Holds cartridges: 7 shotgun, 20 pistol, or 14 rifle — Cr10
 
 BAYONET
+
+
 A knife-like weapon similar to a dagger or blade, a bayonet may or may not have a cutting edge but always has a stabbing point. When not attached to a rifle, a bayonet is treated as a dagger and will normally be carried in a belt scabbard. When attached to the muzzle of a rifle or similar weapon, it transforms the gun into a polearm. More advanced bayonets may incorporate tools such as wire cutters and bottle openers but the basic function is the same. A fixed bayonet requires the Melee (blade) skill but, at the Referee's discretion, any military-trained character with the Gun Combat skill will have been taught to fight with the bayonet and can use this skill instead if it is higher.
 ![[CSC_Update_2023_23-04-24_1-Bayonet.jpg]]
 
 BIPOD
+
+
 A weapon can be given a bipod support frame to stabilize and support it, making it much easier to handle. It takes two Minor Actions to set up a bipod. When a weapon is fired from a bipod, Bulky and Very Bulky traits are ignored.
 
 Item TL Effect Kg Cost
 Biopod 4 Can negate Bulky and Very Bulky traits  1 Cr50
 
 CHAINDRIVE BAYONET
+
+
 It took a creative but insane mind to come up with the idea of marrying a chainsaw to a bayonet but the addition of a chaindrive bayonet to a rifle certainly makes for an intimidating look. The battery-powered chaindrive will operate for 30 minutes of combat or intimidation before requiring a recharge.
 ![[CSC_Update_2023_23-04-24_1-Bayonet_Chaindrive_.jpg]]
 
 WEAPON TL RANGE DAMAGE KG COST TRAITS
+
+
 Bayonet 2 Melee 2D 1 Cr20 —
 Chaindrive Bayonet 9 Melee 4D 3 Cr1000 AP 4, Bulky
 
@@ -8324,6 +8469,8 @@ Chaindrive Bayonet
 Bayonet
 
 FOF SAFETY
+
+
 This is an integrated Friend-or-Foe scanner which can be added to any firearm. The scanner is built directly into the firing mechanism of any trigger-activated weapon. A transmitting tag is then worn by other personnel, emitting a signal to any FOF safeties it is coded for, up to 50 meters away. If the scanner tries to target an object within one meter of a transmitting tag, the gun will not fire. To better eliminate friendly fire incidents and other disloyal behaviour, many corporate or mercenary militaries use these devices as standard. Two transmitter tags are included in the purchase of the FOF safety and additional transmitter tags can be purchased for Cr25 each. The safety can also be integrated with a user's visual-based Friend or Foe HUD (see page 176) if present.
 
 Item TL Effect Kg Cost
@@ -8331,12 +8478,16 @@ FOF Safety 9 ID and protect tagged friends to 50 m + 2 tags  — Cr250
 FOF Tag 9 Additional tag — Cr25
 
 GYROSTABILISER
+
+
 Stabilizers can be added to a Bulky weapon, reducing its recoil and removing the Bulky trait. It will reduce a Very Bulky trait to Bulky. Gyrostabilizers cannot be added to Destructive weapons.
 
 Item TL Effect Kg Cost
 Gyrostabilizer 9 Negates Bulky trait; non-Destructive only 1 Cr500
 
 HEAVY TRIPOD
+
+
 This is a collapsible mount, allowing individuals to use weapons usually intended for vehicles, although mobility will be restricted when carrying such weapons on foot. Weapons commonly used in this fashion include tac launchers and light autocannons. Any weapon of up to 0.25 tons may be mounted upon a tripod. It takes 1D minutes to set up a tripod and make the weapon ready for firing.
 ![[CSC_Update_2023_23-04-24_1-Heavy_tripod.jpg]]
 
@@ -8356,6 +8507,8 @@ capacity
 x2 x3
 
 HOLOGRAPHIC SIGHTS
+
+
 Holographic sights project an aim point for the user and automatically compensate for wind, gravity and other adverse conditions. They grant the Scope trait plus DM+1 to all attack rolls made against targets 50 meters or more away.
 ![[CSC_Update_2023_23-04-24_1-Holosights.jpg]]
 
@@ -8363,6 +8516,8 @@ Item TL Effect Kg Cost
 Holographic Sights 10 Scope + DM+1 to attack rolls beyond 50m  0.5 Cr2000
 
 INTELLIGENT WEAPON
+
+
 This adds Computer/0 capability to a weapon, scaling higher to match the Tech Level of the accessory. This is a prerequisite for the smart tracker which runs on a Bandwidth 0 program.
 
 Intelligent
@@ -8373,19 +8528,19 @@ Enhanced 13 Adds Computer/2 to any weapon — Cr1200
 Advanced 15 Adds Computer/3 to any weapon  — Cr2000
 
 LASER SIGHT
+
+
 Integrated optics and laser sights grant DM+1 to any attack made at ranges of less than 50 meters. At TL10, ultraviolet lasers and improved display technology removes the tell-tale 'red dot' of a vislight laser.
 
 Item TL Effect Kg Cost
-Laser Sight
-(red dot)
+Laser Sight (red dot)
 
 8 DM+1 to attack rolls
 within 50m
 
 — Cr200
 
-Laser Sight
-(UV dot)
+Laser Sight (UV dot)
 
 10 +Invisible UV laser dot — Cr200
 
@@ -8399,8 +8554,7 @@ weapons
 
 0.5 Cr1500
 
-P-HUD
-(holographic)
+P-HUD (holographic)
 
 11 +Holographic
 display
@@ -8430,16 +8584,19 @@ attack rolls
 0.5 Cr3000
 
 SCAN JAMMER
+
+
 A highly illegal (at any Law Level above 0) addition to a weapon, frequently used by spies, agents and assassins, the scan jammer emits a localised sensor jamming field causing nearby scanning receivers to flicker and fail. All Electronics (sensors) checks made to discover the weapon suffer DM-4.
 
 Item TL Effect Kg Cost
-Scan Jammer 8 DM-4 to Electronic
-(sensors) checks
+Scan Jammer 8 DM-4 to Electronic (sensors) checks
 for weapon
 
 — Cr2500
 
 SCOPE
+
+
 A high-quality telescopic scope for attachment to a rifle or heavy weapon, allowing accurate shots at extreme ranges. Any hand-held rifle or heavy weapon equipped with this gains the Scope trait. At TL7, image enhancement and light intensification are added, allowing the scope to be used in low-light environments without penalty.![[CSC_Update_2023_23-04-24_1-Scope.jpg]]
 
 Item TL Effect Kg Cost
@@ -8448,8 +8605,7 @@ at extreme ranges
 
 — Cr50
 
-Scope
-(electronic)
+Scope (electronic)
 
 7 +Low-light image and light enhancement
 
@@ -8485,8 +8641,7 @@ by 25%
 
 1 Cr75
 
-Shoulder Stock
-(telescoping)
+Shoulder Stock (telescoping)
 
 9 Increase effective
 and long range
@@ -8508,11 +8663,12 @@ rolls 'tagged' target
 — Cr500
 
 SUPPRESSOR
+
+
 A suppressor can be added to any non-automatic slug thrower, masking the sound produced by firing. A suppressor adds the Silent trait to a weapon.
 
 Item TL Effect Kg Cost
-Suppressor 8 Adds Silent trait to non-
-automatic slug thrower
+Suppressor 8 Adds Silent trait to non-automatic slug thrower
 
 — Cr250
 
@@ -8553,7 +8709,11 @@ Any modifiers to the ammunition's damage, cost, range or other characteristics w
 
 MODIFICATIONS
 
+
+
 AEROSOL
+
+
 Aerosol rounds disperse a fine mist that diffuses any lasers fired into or through it but the mist does not block normal vision. Any laser attack tracing a line of sight into or through the mist has its damage reduced by -10. Laser communications are completely blocked by the mist. Multiple uses will not increase this effect, only resetting the time interval for dissipation.
 
 ### ARMOR PIERCING
@@ -8579,6 +8739,8 @@ These rounds are pointed projectiles of dense or very hard material designed to 
 > If a non-Destructive weapon has its Damage score increased to 10D or higher, it becomes a Destructive weapon with Damage 1DD. It cannot be increased beyond this.
 
 WEAPON TL RANGE DAMAGE COST TRAITS PISTOL RIFLE SHOTGUN HEAVY
+
+
 Aerosol 7 — — x3 Blast 12 — — — 
 APDS 5 +10% -1 per
 dice
@@ -8633,36 +8795,58 @@ ARMOR PIERCING DISCARDING SABOT (APDS)
 Representing several variations on the theme of a rod penetrator launched with a sabot and featuring increasingly long acronyms, APDS is an anti-armor round representative of various efforts to get through armor. APDS ammunition provides a weapon with an AP trait equal to triple the number of damage dice it rolls but reduces damage by one point per damage dice. If the weapon already has the AP trait, this is added to the final AP score. Artillery weapons and bombs may not use ADPS rounds.
 
 BATON
+
+
 A baton round is non-lethal, usually filled with rubber, plastic or some less solid material. It is far from harmless but will deliver less lethal results, with half (round up) of any hits applied as Stun damage. Any AP or Blast traits are negated by the use of a baton round.
 
 BOMBLET
+
+
 Bomblet rounds are warheads that break apart above the target to scatter small bomblets over a wide area. Only Artillery weapons and bombs may use bomblet rounds and any AP trait will be lost when they are used.
 
 CANISTER
+
+
 Also called beehive, grapeshot and flechette, canister rounds are used for close-range defence against enemy infantry and effectively turns the weapon into a giant shotgun. Artillery weapons and bombs may not use canister rounds.
 
 CHEMICAL
+
+
 This round creates a cloud of gas which, depending on composition, will either be incapacitating or deadly. Any living target within the cloud that does not have a respirator or sealed suit will be attacked as if by a poison with a Very Difficult (12+) END check, Damage 1D and Interval of one round. A non-lethal round will do stun damage, while a lethal round causes injury and often death from lung and/or skin contact. Gas clouds dissipate after 1D x three rounds, although heavy winds and rain can drastically reduce this time.
 
 CONCUSSION
+
+
 Often used in training exercises and as a distraction in close assaults, concussion rounds are non-lethal shells that burst with a loud noise and bright flash. They are intended to stun opponents rather than kill them.
 
 DIRECTED PLASMA
+
+
 Directed plasma rounds are an advanced version of shaped charge weapons, intended to destroy hard targets. They become available for pistols and rifles at TL16.
 
 ELECTROMAGNETIC PULSE
+
+
 This round unleashes a massive burst of electromagnetic radiation that does not harm living tissue but causes unshielded electronics to shut down for 1D minutes. Unshielded electronics of more than two Tech Levels lower than the round will be permanently fried, while all electronics of more than two Tech Levels higher will be completely immune.
 
 EXTENDED RANGE
+
+
 Extended range rounds use more efficient propellant or even a rocket boost to increase their velocity and therefore effective range. Artillery weapons may combine extended range ammunition with other types simply by adding their cost multipliers together.
 
 FLARE
+
+
 This is an illuminating round designed to shed light over a wide area. The round is fired into the air and then descends on a parachute (it therefore can only be used on worlds of Atmosphere 2+). Everything within the Blast area is illuminated as normal daylight. Thermal and light-intensification equipment is designed to cut out to protect the wearer's sight, so these rounds cannot be used to blind the enemy, although they will make advanced sighting gear less useful and thus level the playing field for those without it. The illumination will last for 1D + the planet's Atmosphere rounds.
 
 FRAGMENTATION
+
+
 This is an anti-personnel warhead, throwing out shards of shrapnel across a very wide area. If the weapon does not have a Blast trait, fragmentation rounds give it Blast 10.
 
 FOAM
+
+
 A foam round, when fired from grenade launchers or heavier weapons, disperses a sticky foam which temporarily incapacitates a target. If the damage inflicted exceeds a person's STR or a vehicle's Hull, ignoring all armor, the target is stuck to the ground or a nearby wall. Escape requires a Very Difficult (12+) STR check, which may be attempted once per round. A vehicle may be freed with a Difficult (10+) skill check, with a negative DM equal to the foam 'damage' divided by the vehicle's Hits, rounding up in the foam's favor. Foam rounds for shotguns become available at TL11 and are ineffective against vehicles with a Hull value greater than 4.
 
 Specialized Ammunition
@@ -8692,18 +8876,28 @@ This round deploys a weighted net at a target but reduces the weapon's Range by 
 This round creates a cloud of gas that, if inhaled, will likely prove deadly. Any living target within the cloud that does not have a respirator or sealed suit will be attacked as if by a poison with a Very Difficult (12+) END check, Damage 1D INT, and Interval of one round. Gas clouds dissipate after 1Dx3 rounds, although heavy winds and rain can drastically reduce this time.
 
 NUCLEAR
+
+
 Highly illegal on nearly every world, these warheads create a small nuclear explosion wherever they land, laying waste to everything nearby. Nuclear rounds are only available for grenade launchers or other heavy weapons of 40mm or larger calibre at TL13 and above.
 
 PLASMA
+
+
 Plasma warheads are an advanced form of high explosive, designed to eliminate both soft and armored targets, depending on what weapon they are fired from. Plasma rounds for pistols and rifles become available at TL16. If a weapon does not have a Blast trait, plasma rounds will give it Blast 3.
 
 SMOKE
+
+
 Smoke rounds create a thick cloud that disrupts vision. This imposes DM-2 to all attack rolls on targets within the cloud. IR vision completely bypasses this cloud of smoke. Smoke clouds dissipate after 1Dx3 rounds, although heavy winds and rain can drastically reduce this time.
 
 SOLID SHOT
+
+
 A basic anti-armor round, solid shot is essentially a pointed projectile of dense or hard material. Solid shot provides a weapon with an AP trait equal to half the number of damage dice it rolls, rounding up. If the weapon already has the AP trait, this is added to the final AP score.
 
 THERMAL SMOKE
+
+
 This acts as a smoke round but throws out hot particles that block IR vision as well. This imposes DM-2 to all attacks on targets within the cloud. Smoke clouds dissipate after 1Dx3 rounds, although heavy winds and rain can drastically reduce this time.
 
 ![[CSC_Update_2023_23-04-24_1-rounds.jpg]]
@@ -9220,6 +9414,8 @@ Index
 ## Slug Pistol Table
 
 WEAPON TL RANGE DAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+
+
 Antique Pistol 2 5 2D-3 0.5 Cr100 1 Cr5 —
 Assault Pistol 6 10 3D-3 1 Cr250 15 Cr10 Auto 2
 Autopistol 5 10 3D-3 1 Cr200 15 Cr10 —
@@ -9240,6 +9436,8 @@ Zip Gun 3 5 2D-3 — Cr50 1 Cr5 Dangerous
 ## Slug Thrower Table
 
 WEAPON TL RANGE DAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+
+
 Accelerator Rifle 9 250 3D 2 Cr900 15 Cr30 Zero-G
 | 11 400 3D 2 Cr1500 20 Cr40 Zero-G
 Advanced Combat Rifle 10 450 3D 3 Cr1000 40 Cr15 Auto 3, Scope
@@ -9269,6 +9467,8 @@ Submachine Gun 6 25 3D 3 Cr400 20 Cr10 Auto 3
 ## Energy Pistols Table
 
 WEAPON TL RANGE DAMAGE KG COST MAGAZINE POWER PACK COST TRAITS
+
+
 Gauntlet Laser 10 20 3D 2 Cr2500 100 Cr1100 Zero-G
 Hand Flamer 10 5 3D 2 Cr1500 5 Cr25 Blast 2, Fire
 Laser Pistol 9 20 3D 2 Cr2000 100 Cr1000 Zero-G
@@ -9285,6 +9485,8 @@ Stunner 8 5 2D 0.5 Cr500 100 Cr200 Stun, Zero-G
 ## Energy Rifles Table
 
 WEAPON TL RANGE DAMAGE KG COST MAGAZINE POWER PACK COST TRAITS
+
+
 
 Cartridge Laser Carbine 10 150 4D 3 Cr2500 15 Cr70 Zero-G
  |12 200 4D+3 2.5 Cr4000 20 Cr70 Zero-G
@@ -9312,6 +9514,8 @@ Zero-G Stun Carbine 12 20 3D 4 Cr2000 50 Cr200 Stun, Zero-G
 ## Archaic Weapons Table
 
 WEAPON TL RANGE DAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+
+
 Atlatl 0 +100% — 1 Cr20 — — —
 Compound Cam Bow 5 100 3D-3 1 Cr250 1 Cr5 AP 2, Silent
 Crossbow 1 100 3D-3 3 Cr200 1 Cr1 AP 2, Silent
@@ -9324,6 +9528,8 @@ Short Bow 0 75 2D-3 1 Cr50 1 Cr1 Silent
 ## Specialized Ranged Weapons Table
 
 WEAPON TL RANGE DAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+
+
 Bolas 0 10 — 1 Cr5 1 — Silent
 Boomerang 0 25 1D 1 Cr5 1 — Silent
 Monofilament Bolas 12 10 3D 1 Cr500 1 — AP 10, Silent
@@ -9334,6 +9540,8 @@ Sling 0 100 2D-2 — Cr10 1 Cr1 Silent
 ## Grenade Table
 
 WEAPON TL RANGE DAMAGE KG COST TRAITS
+
+
 Aerosol Grenade 9 20 — 0.5 Cr15 Blast 9
 Chemical Grenade 5 20 Special 0.5 Cr50 Blast 9
 Electromagnetic Pulse Grenade 9 20 — 0.5 Cr100 Blast 6
@@ -9349,6 +9557,8 @@ Tranq Gas Grenade 8 20 Special 0.5 Cr75 Blast 9
 ## Explosives Table
 
 WEAPON TL RANGE DAMAGE KG COST TRAITS
+
+
 Breaching Charge 8 — 4D 1 Cr250 AP 6, Blast 1
 Complex Chemical Charge 10 — 4D 1 Cr500 AP 15, Blast 9
 Fusion Block 16 — 1DD 1 Cr10000 AP 50, Blast 12, Radiation
@@ -9386,7 +9596,7 @@ PGHP-14 14 450 1DD 10 Cr100000 — — —
 Plasma Jet 12 25 1DD 10 Cr16000 — — Blast 5, Very Bulky
 14 50 1DD 10 Cr80000 — — Blast 10, Bulky
 RAM Grenade Launcher 8 250 5D 6 Cr800 6 Cr240 Auto 3, Blast 6, Bulky
-Rapid-Fire Machinegun 7 500 3D 12 Cr3000 60 Cr100 Auto 4 (8), Bulky
+Rapid-Fire Machinegun 7 500 3D 12 Cr3000 60 Cr100 Auto4 (8), Bulky
 Rocket Launcher 6 120 4D 8 Cr2000 1 Cr300 Blast 6, Bulky
 7 150 4D+3 8 Cr2000 1 Cr400 Blast 6, Bulky, Smart
 8 200 5D 8 Cr2000 2 Cr600 Blast 6, Bulky, Scope, Smart
@@ -9395,12 +9605,14 @@ Rocket Launcher 6 120 4D 8 Cr2000 1 Cr300 Blast 6, Bulky
 ## Artillery Weapons Table
 
 WEAPON TL RANGE DAMAGE TONS COST MAGAZINE MAGAZINE COST TRAITS
+
+
 Black Powder Mortar 3 0.5 6D 0.5 Cr2000 1 Cr50 Artillery, Blast 6
 Bombardment Gun 5 30 (10) 2DD 220 Cr500000 1 Cr1500 Artillery, Blast 20
 Demolition Gun 6 0.1 1DD 5 Cr30000 1 Cr500 AP 10, Artillery, Blast 10
 Heavy Bombardment Gun 5 40 (10) 3DD 500 Cr750000 1 Cr2500 Artillery, Blast 20
 Heavy Gun 8 12 1DD 12 Cr120000 1 Cr400 AP 8, Artillery, Blast 10
-Infantry Mortar 5 1 (0.1) 5D 0.012 Cr3500 1 Cr50 Artillery, Blast 5
+Infantry Mortar 51 (0.1) 5D 0.012 Cr3500 1 Cr50 Artillery, Blast 5
 Light Howitzer 5 6 8D 2 Cr50000 1 Cr150 Artillery, Blast 10
 Light Gun 6 9 8D 2 Cr75000 1 Cr200 AP 5, Artillery, Blast 10
 Mass Driver 12 40 1DD 7 Cr500000 1 Cr750 Artillery, Blast 10
@@ -9410,6 +9622,8 @@ Support Mortar 7 3 9D 0.25 Cr11000 1 Cr100 Artillery, Blast 6
 ## Vehicle Heavy Weapons Table
 
 WEAPON TL RANGE DAMAGE TONS COST MAGAZINE MAGAZINE COST TRAITS
+
+
 Aerospace Defence Laser 12 120 8D 12 MCr4 — — —
 Light Autocannon 6 1 6D 0.25 Cr10000 500 Cr1000 Auto 3
 Medium Autocannon 6 1 8D 0.5 Cr25000 100 Cr1500 Auto 3
@@ -9445,6 +9659,8 @@ VRF Machinegun 7 0.5 4D 0.25 Cr12000 1,000 Cr1250 Auto 6
 ## Rockets Missiles Bombs Table
 
 WEAPON TL RANGE DAMAGE TONS COST MAGAZINE MAGAZINE COST TRAITS
+
+
 Light Anti-Air Missile 7 5 6D 0.25 Cr5000 1 — One Use, Smart
 Anti-Air Missile 7 8 8D 0.5 Cr12000 1 — One Use, Smart
 Long Range Anti-Air Missile 7 40 8D 0.75 Cr22000 1 — One Use, Smart
@@ -9470,12 +9686,16 @@ Water Cannon 5 0.1 — 0.5 Cr2000 10 — —
 ## Specialized Melee Weapons Table
 
 WEAPON TL RANGE DAMAGE KG COST TRAITS
+
+
 Shock Whip 9 Melee 2D 1 Cr450 Stun
 Whip 1 Melee D3 1 Cr15 —
 
 ## Shields Table
 
 WEAPON TL RANGE DAMAGE KG COST TRAITS
+
+
 Boarding Shield 9 Melee 1D 5 Cr1500 Bulky
 Buckler 1 Melee 1D 1 Cr10 —
 Expandable Shield 12 Melee 1D 1 Cr2500 —
@@ -9487,6 +9707,8 @@ Shield 0 Melee 1D 2 Cr150 —
 ## Personal Weapons Table
 
 WEAPON TL RANGE DAMAGE KG COST TRAITS
+
+
 Brass Knuckles 1 Melee 1D+2 — Cr10 —
 Claw Glove (hardened) 10 Melee 1D+2 — Cr1000 AP 2
 Claw Glove (edging) 11 Melee 2D+2 — Cr3000 AP 4
@@ -9502,6 +9724,8 @@ Stunfist 8 Melee 1D+2 — Cr250 Stun
 ## Bladed Weapons Table
 
 WEAPON TL RANGE DAMAGE KG COST TRAITS
+
+
 Arc-Field Weapon 14 Melee 5D+2 4 Cr25000 AP 30
 Assault Pike 5 Melee 4D 8 Cr200 AP 4, Bulky, One Use
 8 Melee 4D 5 Cr400 AP 4, One Use
@@ -9535,6 +9759,8 @@ War Pick 1 Melee 2D+2 3 Cr275 AP 4
 ## Bludgeoning Weapons Table
 
 WEAPON TL RANGE DAMAGE KG COST TRAITS
+
+
 Anti-Armor Flail 8 Melee 4D 3 Cr250 AP 5, One Use
 Club 0 Melee 2D 2 Cr- —
 Gravity Hammer 13 Melee 5D 5 Cr10000 AP 50, Bulky, Smasher
@@ -9548,6 +9774,8 @@ Stunstick 8 Melee 2D 0.5 Cr300 Stun
 ## Armor Table
 
 ARMOR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 | Ballistic Vest|  +4|  8|  —|  1|  Cr500|  None|
 | Ceramic Carapace | +10 (+16 vs. lasers, flame throwers,and other heat/fire-based attacks)| 12|  —|  4|  Cr12000|  None|
 | Cloth|  +5|  7|  —|  7|  Cr250|  None|
@@ -9574,6 +9802,8 @@ ARMOR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
 ## Archaic Armor Table
 
 ARMOR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 Breastplate +3 1 — 5 Cr200 None
 Full Plate +6 2 — 20 Cr1000 None
 Half-Plate +5 2 — 12 Cr800 None
@@ -9582,6 +9812,8 @@ Mail Hauberk +4 1 — 8 Cr500 None
 ## Anti Energy Armor Table
 
 ARMOR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 Ablat +1 (+6 vs. lasers) 9 — 2 Cr75 None
 Conduit-Bleed +4 (+15 vs. plasma) 14 — 8 Cr3500 None
 Dispersion +2 (+10 vs. fire, lasers and energy) 12 50 3 Cr2000 None
@@ -9592,6 +9824,8 @@ Reflec +0 (+10 vs. lasers) 10 — 1 Cr1500 None
 ## Military Suit Armor Table
 
 ARMOR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 Boarding Vacc Suit, Basic +11 11 50 25 Cr18000 Vacc Suit 1
 Boarding Vacc Suit, Improved +13 12 75 12 Cr24000 Vacc Suit 1
 Boarding Vacc Suit, Advanced +16 13 90 12 Cr48000 Vacc Suit 1
@@ -9605,6 +9839,8 @@ Psi-Enhanced Combat Armor +15 (+ ½ PSI) 16 250 10 Cr500000 None
 ## Civilian Suit Armor Table
 
 ARMOR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 Emergency Hostile Environment Suit +4 10 — 20 Cr9000 Vacc Suit 1
 Emergency Softsuit +0 10 — 10 Cr2000 Vacc Suit 0
 Environment Suit, Basic +0 8 0 1 Cr500 None
@@ -9627,6 +9863,8 @@ Vacc Suit, Advanced +10 12 90 8 Cr20000 Vacc Suit 0
 ## Powered Suit Armor Table
 
 ARMOR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 Ceramic Powered Plate +16 (+20 vs. fire, lasers, and energy) 13 175 35 Cr300000 Vacc Suit 1
 Exoskeleton, Basic +0 9 — 16 Cr10000 Vacc Suit 0
 Exoskeleton, Improved +0 12 — 10 Cr20000 None

@@ -18,7 +18,6 @@ There are also a few places where something is not mentioned that can be found i
 
 # Elements of the OTU
 
-
 - [[Charted Space]]
 - [[Directions in Space]]
 - [[Distances in Space]]

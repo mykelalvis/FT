@@ -255,8 +255,7 @@ benefit throw from this term.
 lose the benefit throw as normal). Refuse and you must throw twice on the Injury Table and take the lower result; you also gain an
 Enemy and one level of any one skill you choose.
 **7** Injured – throw on the Injury Table.
-**8** You learn something you shouldn‟t know and people want to kill you for it. Gain an Enemy and Deception 1
-(^9) Your work ends up coming home with you and someone gets hurt. Choose one of your Contacts, Allies or family members and throw
+**8** You learn something you shouldn‟t know and people want to kill you for it. Gain an Enemy and Deception 1 (^9) Your work ends up coming home with you and someone gets hurt. Choose one of your Contacts, Allies or family members and throw
 twice on the Injury Table for them, taking the lower result.
 **10** You are framed for a something you didn‟t do. Gain an Enemy.
 **11** Someone attempts to assassinate you. Throw Endurance 8+. If you fail, throw on the Injury Table. If you succeed, gain an Enemy.
@@ -443,8 +442,7 @@ one of Advocate, Persuade or Diplomat. If you fail, gain a Rival.
 **46** You decide to take charge of your own finances. Throw Intelligence 8+. If you succeed, gain one of Advocate, Admin or Broker. If you
 fail, gain your former accountant as an Enemy.
 **51** You take in interest in racing. Throw Dexterity 8+. If you succeed gain one of Drive (any) 1 , Flyer (any) 1 or Seafarer (any) 1.
-**52** You participate in a celebrity charity event. Throw Dexterity 8+ or Intelligence 8+. If you succeed gain one of Athletics (any), Animals
-(riding) or Gambler.
+**52** You participate in a celebrity charity event. Throw Dexterity 8+ or Intelligence 8+. If you succeed gain one of Athletics (any), Animals (riding) or Gambler.
 **53** You spend time on a space ship. Throw Intelligence 8+. If you succeed gain one of Vacc Suit 1, Zero-G 1, Pilot (any) 1, or Astrogation
 1.
 **54** You are part of your world‟s celebrity circle. Gain Carouse 1, Persuade 1, Steward 1 or a Contact.
@@ -522,8 +520,7 @@ Survival.
 or Physical Science (any).
 **46** You are given advanced training in a specialist field. Throw Education 8+ to increase any one skill you already have by one level.
 **51** You are embroiled in legal trouble. Gain one of Advocate 1, Admin 1, Diplomat 1 or Investigate 1.
-**52** Time spent dealing with suppliers and spacers pays off. Gain one of Trade (any) 1, Engineer (any) 1, Animals (any) 1 or Social Science
-(any) 1.
+**52** Time spent dealing with suppliers and spacers pays off. Gain one of Trade (any) 1, Engineer (any) 1, Animals (any) 1 or Social Science (any) 1.
 (^53) You work on establishing contacts among aliens. Gain Language (any) 1.
 **54** You work in trade expansion. Gain one of Broker, Advocate, Recon or Survival.
 **55** You work on a spaceship. Gain one of Pilot (any), Astrogation, Engineer (any), Steward or Gunner (any).
@@ -564,8 +561,7 @@ These expanded tables provide players and Referees with alternative Mishap and E
 
 **2d6 Events
 11** Disaster! Throw on the Mishap Table, but you are not ejected from this career.
-**12** You are challenged to a dual for your honor and standing. If you refuse, reduce your Social Standing by one. If you accept, throw Melee
-(blade) 8+. If you succeed, gain +1 Social Standing. If you fail, throw on the Injury Table and reduce your Social Standing by one. Either
+**12** You are challenged to a dual for your honor and standing. If you refuse, reduce your Social Standing by one. If you accept, throw Melee (blade) 8+. If you succeed, gain +1 Social Standing. If you fail, throw on the Injury Table and reduce your Social Standing by one. Either
 way, gain one of Melee (blade), Leadership, Tactics (any) or Deception.
 **13** You are attacked by peasant scum. Throw Endurance 8+. If you succeed, gain either Melee (any) or Gun Combat (any). If you fail, throw
 on the Injury Table.
@@ -668,8 +664,7 @@ at the end of this term and gain an Enemy. If you refuse, throw on the Mishap ta
 you refuse, gain him as an Ally.
 **42** You work on developing a group of informants. Gain 1d3 Contacts.
 (^43) You gain a reputation as being tough in a fight. Throw Endurance 8+. If you succeed, gain one of Gun Combat (any), Melee (any).
-**44** You are asked to participate in a mutiny against the current leader of your gang. If you mutiny, throw Gun Combat (any) 8+ or Melee
-(any) 8+. If you succeed, gain a +2 on your next Advancement throw. If you fail, take -2 DM on your next Advancement throw and
+**44** You are asked to participate in a mutiny against the current leader of your gang. If you mutiny, throw Gun Combat (any) 8+ or Melee (any) 8+. If you succeed, gain a +2 on your next Advancement throw. If you fail, take -2 DM on your next Advancement throw and
 throw on the Injury Table.
 **45** You spend time in jail. Throw Intelligence 8+ or Streetwise 8+. If you succeed, gain one of Deception, Tactics (any) or Melee (any). If
 you fail, gain Streetwise 1 and an Enemy. Either way, -1 on your Social Standing.
@@ -745,13 +740,11 @@ Operations 1, Survival 1 or Explosives 1. If you fail, -1 DM on your next Advanc
 **43** You have the opportunity to advance your career by cheating. If you refuse, you gain nothing. If you accept, throw Deception 8+ or
 Admin 8+. If you succeed, you gain +2 DM on one benefit throw and may increase any one skill you have by one level, but you gain
 an Enemy. If you fail, you gain an Enemy and lose one benefit throw from this career.
-(^44) You visit facilities scattered over the planet. Throw Intelligence 8+. If you succeed, gain one of Drive (any) 1, Flyer (any) 1 or Seafarer
-(any) 1.
+(^44) You visit facilities scattered over the planet. Throw Intelligence 8+. If you succeed, gain one of Drive (any) 1, Flyer (any) 1 or Seafarer (any) 1.
 **45** You must spend time away from your lab. Throw Intelligence 8+. If you succeed, gain one of Survival 1, Recon 1, Tactics (any) 1 or
 Vacc Suit 1. If you fail, -1 DM on one benefit throw.
 **46** You are given advanced training in a specialist field. Throw Education 8+ to gain any one skill of your choice at level one.
-**51** You work extensively with aliens and gain one level of Language (any). Throw Intelligence 8+. If you succeed, gain Social Science
-(any) 1. If you fail, gain a Rival.
+**51** You work extensively with aliens and gain one level of Language (any). Throw Intelligence 8+. If you succeed, gain Social Science (any) 1. If you fail, gain a Rival.
 **52** You spend time doing intensive research. Gain one level of any one skill you already have.
 **53** You are given the opportunity to work outside of your normal area of expertise. Throw one skill on either of the other two Speciality
 tables for your career. If you desire, you may transfer to that Speciality next term.
@@ -862,8 +855,7 @@ choose whether to remain in contact with the child or not.
 Increase your Social Standing by one point.
 **15 Relationship.** You embark on a series of short-lived affairs. Throw Carouse 5+ to avoid a social disease.
 **16 New Contact.** You gain a new contact within your current career.
-**21 Death.** Someone close to you dies. A spouse, parent, sibling, child, or friend (Ally) loses their life. Throw one die: on a 1-
-4, it is by natural causes; on a 5-6, foul play is involved.
+**21 Death.** Someone close to you dies. A spouse, parent, sibling, child, or friend (Ally) loses their life. Throw one die: on a 1-4, it is by natural causes; on a 5-6, foul play is involved.
 **22 Relationship.** A long term relationship ends. Each partner is keen on extricating themselves from each other‟s lives.
 **23 Relationship.** An existing relationship deepens, or else the character falls quickly and deeply in love with a newcomer.
 **24 Relationship.** You become involved romantically with a colleague in your current career.
@@ -1006,8 +998,7 @@ These new character career types are just a few of many,
 many thousands of different occupations available throughout
 inhabited space.
 
-All of these careers are suitable for human player or non-
-player characters; some are more suitable than others for
+All of these careers are suitable for human player or non-player characters; some are more suitable than others for
 various alien species. Players who wish to generate a
 character that is one of the alien races from an already
 publish game universe should discuss their idea of how the
@@ -1129,12 +1120,9 @@ Explorer Int 6+ Edu 7+
 1d6 Cash Other Benefits
 1 1,000 1 Ship Share
 
-(^2) 2,00 0 Weapon
-(^3) 5,000 Ally
+(^2) 2,00 0 Weapon (^3) 5,000 Ally
 **4** 10,000 Vehicle
-**5** 25,000 High Passage
-(^6) 50,000 TAS
-(^7) 100,000 Scout Ship or 5 Ship Shares
+**5** 25,000 High Passage (^6) 50,000 TAS (^7) 100,000 Scout Ship or 5 Ship Shares
 
 ### ADVENTURER
 
@@ -1177,15 +1165,13 @@ gain +1 DM on one benefit throw and gain the Patron as a Contact. If you fail, t
 If you fail, lose your benefit throw for this term.
 **25** You spend time studying the ecology of a planet to better exploit it. Throw Education 8+. If you succeed, gain Life Science (any) 1. If
 you fail, throw on the Injury Table.
-**26** You inadvertently desecrate a sacred place. Throw Education 8+ or Persuade 8+. If you succeed, gain one level of Language (any), Art
-(any) or Diplomat. If you fail, gain an Enemy and either Gun Combat (any) 1 or Melee (any) 1.
+**26** You inadvertently desecrate a sacred place. Throw Education 8+ or Persuade 8+. If you succeed, gain one level of Language (any), Art (any) or Diplomat. If you fail, gain an Enemy and either Gun Combat (any) 1 or Melee (any) 1.
 **31 - 36** Life Event. Throw on the Life Events Table.
 **41** You spend time developing a group of business contacts. Gain 1d3 Contacts.
 **42** You are hired as a Drive rather than an adventurer. Gain one of Drive (any) 1, Flyer (any) 1 or Seafarer (any) 1.
 **43** You spend more time hanging out on star ships than you do actually adventuring. Throw Intelligence 8+. If you succeed gain one of
 Vacc Suit 1, Zero-G 1 or Steward 1. If you fail, take -1 DM on one benefit throw.
-**44** You find yourself in a situation that you cannot talk your way out of. Throw Dexterity 8+. If you succeed, gain one level of Gun Combat
-(any), Melee (any) or Athletics (any). If you fail, throw twice on the Injury Table and take the higher result.
+**44** You find yourself in a situation that you cannot talk your way out of. Throw Dexterity 8+. If you succeed, gain one level of Gun Combat (any), Melee (any) or Athletics (any). If you fail, throw twice on the Injury Table and take the higher result.
 **45** Hard times force you to spend time among criminals. Throw Intelligence 8+. If you succeed, gain one of Streetwise 1, Survival 1 or
 Melee (any) 1. If you fail, gain an Enemy.
 (^46) You spend time surveying an alien world. Gain one of Animals (any) 1, Survival 1, Recon1 or Life Sciences (any) 1.
@@ -1197,8 +1183,7 @@ level of any skill you already have.
 **54** You are befriended by a member of high society or a noble who invites you to parties to entertain his guests. Gain +1 Social Standing
 or one level of Carouse.
 **55** You spend time dealing with aliens. Gain either Language (any) or Diplomat.
-**56** You spend time working on a space ship. Gain one of Pilot (any) 1, Astrogation 1, Engineering (any) 1, Steward 1, Vacc Suit 1 or Zero-
-G 1.
+**56** You spend time working on a space ship. Gain one of Pilot (any) 1, Astrogation 1, Engineering (any) 1, Steward 1, Vacc Suit 1 or Zero-G 1.
 **61** Your hard work is noticed by your superiors. Gain +1 DM on your next Advancement throw.
 **62** Your career is the feature of a Tri-V documentary. Gain +1 DM on one benefit throw and a +1 Social Standing due to your fame.
 **63** You are recognized for your hard work. Gain +2 DM on your next Advancement throw.
@@ -1246,8 +1231,7 @@ on _36 TMB_.
 
 (^1) +1 Str Streetwise Admin
 **2** +1 Dex Investigate Advocate
-**3** +1 End Computers Computers
-(^4) Athletics (any) Gun Combat (any) Broker
+**3** +1 End Computers Computers (^4) Athletics (any) Gun Combat (any) Broker
 **5** Carouse Sensors Language (any)
 **6** Streetwise Advocate Medic
 **1d6 Skip Tracer Repossessor Support**
@@ -1267,8 +1251,7 @@ on _36 TMB_.
 **2**
 (^3) Investigate 1
 **4
-5** Admin 1
-(^6)
+5** Admin 1 (^6)
 
 #### CAREER PROGRESS
 
@@ -1285,8 +1268,7 @@ Skip Tracer End 6+ Int 6+
 
 (^2) 5,000 Armor
 **3** 10,000 Weapon
-**4** 30,000 +1 Edu
-(^5) 50,000 TAS Membership
+**4** 30,000 +1 Edu (^5) 50,000 TAS Membership
 **6** 100,000 High Passage
 **7** 200,000 Scout Ship
 
@@ -1398,15 +1380,13 @@ flock.
 
 (^1) +1 Str Trade Advocate
 **2** +1 End Art (Act or Write) Admin
-**3** +1 Dex Persuade Diplomat
-(^4) +1 Edu Drive (any) Computers
+**3** +1 Dex Persuade Diplomat (^4) +1 Edu Drive (any) Computers
 **5** Athletics (any) Computers Engineering (any)
 **6** Trade (any) Steward Social Science (any)
 **1d6 Missionary Monastic Preacher
 1** Mechanic Melee (any) Persuade
 **2** Medic Stealth Admin
-**3** Streetwise Trade Diplomat
-(^4) Language (any) Art (any) Language (any)
+**3** Streetwise Trade Diplomat (^4) Language (any) Art (any) Language (any)
 **5** Animals (any) Social Science (any) Leadership
 **6** Jack of All Trades Survival Deception
 
@@ -1540,8 +1520,7 @@ without a breathable atmosphere.
 **1d6 Farmer Miner Settler**
 (^1) Animals (any) Mechanic Streetwise
 **2** Mechanic Remote Operations Flyer (any)
-**3** Trade Streetwise Vacc Suit
-(^4) Gun Combat (any) Melee (any) Zero-G
+**3** Trade Streetwise Vacc Suit (^4) Gun Combat (any) Melee (any) Zero-G
 **5** Medic Carouse Survival
 **6** Jack of All Trades Sensors Trade
 
@@ -1606,8 +1585,7 @@ skill you already have by one level.
 11** Disaster! Throw on the Mishap Table, but you are not ejected from this career.
 **12** Your settlement is hit by a natural disaster. Throw Dexterity 8+. If you succeed, gain Athletics (any) 1. If you lose, throw on the Injury
 Table.
-**13** Your settlement suffers from a famine or damage to the hydroponics farms. Throw Endurance 8+. If you succeed, gain one of Animals
-(any), Survival or Streetwise.
+**13** Your settlement suffers from a famine or damage to the hydroponics farms. Throw Endurance 8+. If you succeed, gain one of Animals (any), Survival or Streetwise.
 
 (^14) Political upheaval strikes your colony and you are caught up in the revolution. Gain one of Advocate 1, Persuade 1 or Streetwise 1.
 Throw whichever skill you choose 8+. If you succeed, you come out on the winning side and gain +2 DM on your next Advancement
@@ -1679,13 +1657,11 @@ operations of the corporation.
 
 (^2) +1 Int Flyer (any) Advocate
 **3** +1 Edu Streetwise Diplomat
-**4** Athletics (any) Melee (any) Computers
-(^5) Drive (any) Steward Leadership
+**4** Athletics (any) Melee (any) Computers (^5) Drive (any) Steward Leadership
 **6** Carouse Trade (any) Language (any)
 **1d6 Finance Legal Administration
 1** Broker Advocate Admin
-**2** Broker Advocate Admin
-(^3) Carouse Carouse Carouse
+**2** Broker Advocate Admin (^3) Carouse Carouse Carouse
 **4** Computers Deception Computers
 **5** Investigate Diplomat Language (any)
 **6** Steward Investigate Trade
@@ -1699,8 +1675,7 @@ operations of the corporation.
 
 (^2) Supervisor Admin 1
 **3
-4** Manager Advocate 1
-(^5)
+4** Manager Advocate 1 (^5)
 **6** Director +1 Social Standing
 
 #### CAREER PROGRESS
@@ -1717,11 +1692,9 @@ Finance Soc 5+ Int 7+
 
 (^1) 1,000 One Ship Share
 **2** 5 ,000 High Passage
-**3** 10,000 +1 Intelligence
-(^4) 10,000 +1 Education
+**3** 10,000 +1 Intelligence (^4) 10,000 +1 Education
 **5** 20,000 Two Ship Shares
-**6** 50,000 Ally
-(^7) 100,000 TAS Membership
+**6** 50,000 Ally (^7) 100,000 TAS Membership
 
 ### CORPORATE CITIZEN
 
@@ -1835,11 +1808,9 @@ Warrior Str 6+ Int 6+
 
 (^1) 0 Weapon
 **2** 1, 000 Contact
-**3** 1,000 +1 Edu
-(^4) 2,000 Mid Passage
+**3** 1,000 +1 Edu (^4) 2,000 Mid Passage
 **5** 5,000 Ally
-**6** 10,000 High Passage
-(^7) 20,000 Ship Share
+**6** 10,000 High Passage (^7) 20,000 Ship Share
 
 #### SKILLS AND TRAINING
 
@@ -1848,8 +1819,7 @@ Warrior Str 6+ Int 6+
 
 (^1) +1 Str Athletics (any) Admin
 **2** +1 Dex Survival Computer
-**3** +1 End Streetwise Sensors
-(^4) +1 Int Melee (any) Leadership
+**3** +1 End Streetwise Sensors (^4) +1 Int Melee (any) Leadership
 **5** +1 Edu Gun Combat (any) Tactics (Military)
 **6** Athletics (any) Medic Recon
 **1d6 Warrior Monk Zealot
@@ -1857,8 +1827,7 @@ Warrior Str 6+ Int 6+
 **2** Tactics (Military) Stealth Melee (any)
 (^3) Melee (any) Survival Gun Combat (any)
 **4** Survival Melee (any) Explosives
-**5** Heavy Weapons (any) Art (any) Sensors
-(^6) Battle Dress Deception Vacc Suit
+**5** Heavy Weapons (any) Art (any) Sensors (^6) Battle Dress Deception Vacc Suit
 
 #### RANKS AND BENEFITS
 
@@ -1869,8 +1838,7 @@ Warrior Str 6+ Int 6+
 
 (^2) Lieutenant
 **3** Captain Leadership 1
-**4** Major
-(^5) Commander Tactics (Military) 1
+**4** Major (^5) Commander Tactics (Military) 1
 **6** General
 
 ### MILITANT RELIGIOUS
@@ -2004,11 +1972,9 @@ Operations Int 5+ Edu 7+
 
 (^0) Private
 **1** Corporal Vacc Suit 1 Lieutenant Leadership 1
-**2** Technician Captain
-(^3) Specialist Mechanic 1 Major Tactics (Naval) 1
+**2** Technician Captain (^3) Specialist Mechanic 1 Major Tactics (Naval) 1
 **4** Sergeant Lt. Colonel
-**5** Sr. Sergeant Tactics (Military) 1 Colonel Admin 1
-(^6) Top Sergeant General
+**5** Sr. Sergeant Tactics (Military) 1 Colonel Admin 1 (^6) Top Sergeant General
 
 ### SPACE PATROL
 
@@ -2055,8 +2021,7 @@ Table.
 a benefit throw, if you fail your throw, loose one level of Rank.
 **26** You are tested for Psionic potential. If your Psionic strength is 7 +, you may transfer to the Psion career without having to make a
 Qualififcation roll.
-**31 - 36** Life Event
-(^41) Something mysterious happens. You wake with no memory of where you have been for the last 1d6 weeks.
+**31 - 36** Life Event (^41) Something mysterious happens. You wake with no memory of where you have been for the last 1d6 weeks.
 **42** You are assigned a secret mission. Throw on the Agent Event Table and throw once on the Agent (Intelligence) Specialist Skill table.
 **43** You are forced to make a decision that causes the death of 1d3 crewmembers in order to save the ship. Throw Intelligence 8+. You
 gain +4 DM on your next Advancement throw. Either way, you gain an Enemy for every crewmember who died.
@@ -2324,13 +2289,11 @@ example: 3 Ship Shares, 2 Weapons).
 Allies, Contacts, Enemies and Rivals
 Allies, Contacts, Enemies and Rivals are shown in the
 Equipment section of the character profile. Some have a
-clarification in parenthesis after them, such as Contact
-(Criminal) or Ally (Alien). This serves to indicate what type of
+clarification in parenthesis after them, such as Contact (Criminal) or Ally (Alien). This serves to indicate what type of
 ally, contact, enemy, or rival the character has.
 
 If a character has more than one Ally, Contact, Enemy or
-Rival listed in their Equipment, the number of each is shown
-(for example: 3 Allies, 2 Rivals). Different types of each are
+Rival listed in their Equipment, the number of each is shown (for example: 3 Allies, 2 Rivals). Different types of each are
 differentiated by type. For example, a character with two Allies
 might have Ally and Ally (Alien).
 
@@ -2357,8 +2320,8 @@ religion.
 **01 Adventurer Explorer**
 Age 28, 2 Terms, Cr 100,000
 
-Str 6 (+0) Dex 11 (+1) End 7 (+0)
-Int 10 (+1) Edu 8 (+0) Soc 7 (+0)
+Str6 (+0) Dex 11 (+1) End7 (+0)
+Int 10 (+1) Edu8 (+0) Soc7 (+0)
 _Skills:_ Animals 0 , Astrogation 2, Computers 0, Diplomat 1,
 
 Flyer (any) 1, Gun Combat 0 , Life Science (any) 1, Pilot (any)
@@ -2370,8 +2333,8 @@ _Equipment:_ Ship Share.
 **02 Adventurer Treasure Seeker**
 
 Age 34, 4 Terms, Cr 50,000
-Str 7 (+0) Dex 9 (+1) End 6 (+0)
-Int 9 (+1) Edu 12 (+2) Soc 7 (+0)
+Str7 (+0) Dex9 (+1) End6 (+0)
+Int9 (+1) Edu 12 (+2) Soc7 (+0)
 
 _Skills:_ Animals 0 , Art (any) 1, Broker 2, Carouse 0, Comms 0,
 Flyer 0 , Gun Combat (any) 2, Medic 0, Persuasion 1, Recon
@@ -2383,11 +2346,10 @@ _Equipment:_ Ally, TAS, Ship Share, Weapon.
 **03 Adventurer Hunter**
 
 Age 38, 5 Terms, Cr 50,000
-Str 9 (+1) Dex 8 (+0) End 9 (+1)
+Str9 (+1) Dex8 (+0) End9 (+1)
 
-Int 7 (+0) Edu 5 (-1) Soc 6 (+0)
-Skills: Animals (any) 1, Carouse 0, Drive (any) 2, Gun Combat
-(any) 3, Leader 1, Melee (any) 1, Recon 1, Tactics (any) 1,
+Int7 (+0) Edu5 (-1) Soc6 (+0)
+Skills: Animals (any) 1, Carouse 0, Drive (any) 2, Gun Combat (any) 3, Leader 1, Melee (any) 1, Recon 1, Tactics (any) 1,
 
 Stealth 0, Survival 4.
 Equipment: Ally, ATV, Contact, 2 Ship Shares, TAS, Weapon.
@@ -2395,8 +2357,8 @@ Equipment: Ally, ATV, Contact, 2 Ship Shares, TAS, Weapon.
 **04 Bounty Hunter Skip Tracer**
 
 Age 42, 6 Terms, Cr 280,000
-Str 7 (+0) Dex 10 (+1) End 12 (+2)
-Int 10 (+1) Edu 7 (+0) Soc 8 (+0)
+Str7 (+0) Dex 10 (+1) End 12 (+2)
+Int 10 (+1) Edu7 (+0) Soc8 (+0)
 
 _Skills:_ Admin 1, Advocate 0, Space Science (any) 1,
 Computers 1, Gun Combat (any) 1, Investigate 1, Jack-of All
@@ -2408,8 +2370,8 @@ _Equipment:_ Armor, Scout Ship, TAS, 2 Weapons.
 **05 Bounty Hunter Repossessor**
 
 Age 38, 4 Terms, Cr 90,000
-Str 9 (+1) Dex 6 (+0) End 8 (+0)
-Int 9 (+1) Edu 11 (+1) Soc 9 (+1)
+Str9 (+1) Dex6 (+0) End8 (+0)
+Int9 (+1) Edu 11 (+1) Soc9 (+1)
 
 _Skills:_ Advocate 0, Astrogation 1, Comms 0, Computers 1,
 Drive 0 , Gun Combat 0 , Investigate 1, Language (any) 2,
@@ -2421,9 +2383,9 @@ _Equipment:_ Armor, High Passage, Weapon.
 **06 Bounty Hunter Support**
 
 Age 42, 6 Terms, Cr 180,000
-Str 9 (+1) Dex 8 (+0) End 10 (+1)
+Str9 (+1) Dex8 (+0) End 10 (+1)
 
-Int 8 (+0) Edu 10 (+1) Soc 7 (+0)
+Int8 (+0) Edu 10 (+1) Soc7 (+0)
 _Skills:_ Admin 1, Advocate 1, Comms 1, Computers 1,
 Engineering (any) 1, Gun Combat (any) 2 , Investigate 2,
 
@@ -2436,8 +2398,8 @@ Weapon.
 **07 Clergy Missionary Pastor**
 Age 32, 3.5 Terms, Cr 0
 
-Str 6 (+0) Dex 10 (+ 1 ) End 11 (+1)
-Int 9 (+1) Edu 6 (+0) Soc 7 (+0)
+Str6 (+0) Dex 10 (+ 1 ) End 11 (+1)
+Int9 (+1) Edu6 (+0) Soc7 (+0)
 _Skills:_ Admin 1, Advocate 1, Animal 0 , Art 0 , Computers 0,
 
 Drive 0 , Jack of All Trades 1, Language (any) 2, Medic 2,
@@ -2449,8 +2411,8 @@ _Equipment:_ Ally, Contact, Rival, Rival (Noble).
 
 08 Clergy Monastic Vicar
 Age 34, 4 Terms, Cr 22,000
-Str 3 (-1) Dex 9 (+1) End 7 (+0)
-Int 6 (+0) Edu 9 (+1) Soc 3 (- 1 )
+Str3 (-1) Dex9 (+1) End7 (+0)
+Int6 (+0) Edu9 (+1) Soc3 (- 1 )
 Skills: Animals (any) 1, Art 0 , Carouse 0, Comms 0,
 Computers 1, Drive (any) 1, Medic 1, Persuade 0, Social
 Science (Theology) 1, Stealth 1, Steward 0, Survival 2, Trade
@@ -2459,8 +2421,8 @@ Equipment: Ship Share.
 
 09 Clergy Preacher Pastor
 Age 38, 5 Terms, Cr 30,000, Retirement Pay Cr 10,000
-Str 6 (+0) Dex 8 (+0) End 6 (+0)
-Int 8 (+0) Edu 7 (+0) Soc 8 (+0)
+Str6 (+0) Dex8 (+0) End6 (+0)
+Int8 (+0) Edu7 (+0) Soc8 (+0)
 Skills: Admin 1, Art (any) 1, Computers 0, Diplomat 2, Drive 0,
 Gun Combat (any) 1, Language (any) 1, Life Science (any) 1,
 Persuade 2, Steward 0, Streetwise 0, Trade 0.
@@ -2468,8 +2430,8 @@ Equipment: 2 Allies, Contact (Alien), TAS.
 
 10 Colonist Farmer
 Age 38 , 5 Terms, Cr 20,000, Retirement Pay Cr 10,000
-Str 8 (+0) Dex 9 (+1) End 6 (+0)
-Int 5 (- 1 ) Edu 9 (+1) Soc 5 (- 1 )
+Str8 (+0) Dex9 (+1) End6 (+0)
+Int5 (- 1 ) Edu9 (+1) Soc5 (- 1 )
 Skills: Animals (any) 1, Athletics (any) 1, Computers 0,
 Deception 1, Drive 0, Engineering (any) 1, Gambling 0, Gun
 Combat (any) 1, Jack of All Trades 1, Mechanic 1, Medic 2,
@@ -2478,8 +2440,8 @@ Equipment: Ally, 3 Ship Shares, TAS.
 
 11 Colonist Miner
 Age 24 , 1.5 Terms, Cr 10,000
-Str 8 (+0) Dex 9 (+1) End 6 (+0)
-Int 5 (- 1 ) Edu 9 (+ 1 ) Soc 5 (- 1 )
+Str8 (+0) Dex9 (+1) End6 (+0)
+Int5 (- 1 ) Edu9 (+ 1 ) Soc5 (- 1 )
 Skills: Animals 0 , Athletics 0 , Carouse 0, Drive 0 , Gambler 0,
 Melee (any) 1, Sensors 1, Survival 0, Streetwise 1, Trade 0,
 Vacc Suit 0.
@@ -2487,8 +2449,8 @@ Equipment: None.
 
 12 Colonist Settler
 Age 34 , 4 Terms, Cr 65,000
-Str 7 (+0) Dex 7 (+0) End 6 (+0)
-Int 9 (+ 1 ) Edu 4 (- 1 ) Soc 5 (- 1 )
+Str7 (+0) Dex7 (+0) End6 (+0)
+Int9 (+ 1 ) Edu4 (- 1 ) Soc5 (- 1 )
 Skills: Animals (any) 1, Athletics 0 , Broker 1, Carouse 0,
 Deception 1, Drive 0 , Engineer 0 , Flyer (any) 1, Gambler 1,
 Recon 0, Steward 1, Streetwise 1, Survival 0, Vacc Suit 1,
@@ -2497,8 +2459,8 @@ Equipment: 2 Weapons.
 
 13 Corporate Citizen Finance
 Age 34 , 4 Terms, Cr 11,000
-Str 10 (+ 1 ) Dex 5 (- 1 ) End 10 (+ 1 )
-Int 6 (+0) Edu 7 (+0) Soc 7 (+0)
+Str 10 (+ 1 ) Dex5 (- 1 ) End 10 (+ 1 )
+Int6 (+0) Edu7 (+0) Soc7 (+0)
 Skills: Admin 1, Animals 0 , Broker 2, Computers 1, Flyer (any)
 1, Language (any) 1, Medic 0, Melee 0 , Steward 1, Streetwise
 0, Trade 1.
@@ -2506,8 +2468,8 @@ Equipment: 2 Allies, Contact, High Passage.
 
 14 Corporate Citizen Legal
 Age 38 , 5 Terms, Cr 20,000, Retirement Pay Cr 10,000
-Str 4 (- 1 ) Dex 8 (+0) End 8 (+0)
-Int 7 (+0) Edu 12 (+ 2 ) Soc 7 (+0)
+Str4 (- 1 ) Dex8 (+0) End8 (+0)
+Int7 (+0) Edu 12 (+ 2 ) Soc7 (+0)
 Skills: Admin 1, Advocate 3, Carouse 0, Comms 0,
 Computers 1, Deception 1, Diplomat 2, Drive 0, Engineer 0 ,
 Flyer 0 , Leadership 1, Melee (any) 1, Persuade 1, Steward 0,
@@ -2517,8 +2479,8 @@ Equipment: 3 Ship Shares, Contact.
 **15 Corporate Citizen Administration**
 Age 30 , 3 Terms, Cr 60,000
 
-Str 4 (- 1 ) Dex 8 (+0) End 8 (+0)
-Int 6 (+0) Edu 11 (+ 1 ) Soc 9 (+1)
+Str4 (- 1 ) Dex8 (+0) End8 (+0)
+Int6 (+0) Edu 11 (+ 1 ) Soc9 (+1)
 _Skills:_ Admin 1, Carouse 1, Comms 0, Deception 1, Diplomat
 
 1, Drive 0 , Flyer 0 , Language (any) 1, Melee (any) 1, Steward
@@ -2529,8 +2491,8 @@ _Equipment:_ 3 Ship Shares, Ally.
 **16 Militant Religious Warrior Commander**
 Age 38, 5 Terms, Cr 23,000, Retirement Pay Cr 10,000
 
-Str 8 (+0) Dex 8 (+0) End 8 (+0)
-Int 9 (+1) Edu 6 (+0) Soc 6 (+0)
+Str8 (+0) Dex8 (+0) End8 (+0)
+Int9 (+1) Edu6 (+0) Soc6 (+0)
 _Skills:_ Animals 0 , Athletics 0 , Battle Dress 1, Gun Combat
 
 (any) 2, Instruction 1, Leadership 1, Medic 0, Melee (any) 2 ,
@@ -2542,8 +2504,8 @@ _Equipment:_ Ally, Contact, Enemy, High Passage, Weapon.
 **17 Militant Religious Monk Captain**
 
 Age 34 , 4 Terms, Cr 5,000
-Str 7 (+0) Dex 9 (+1) End 7 (+0)
-Int 10 (+ 1 ) Edu 6 (+0) Soc 5 (- 1 )
+Str7 (+0) Dex9 (+1) End7 (+0)
+Int 10 (+ 1 ) Edu6 (+0) Soc5 (- 1 )
 _Skills:_ Animals 0 , Art (any) 1, Athletics 0 , Gun Combat (any)
 
 1, Leadership 1, Medic 0, Melee (any) 2 , Sensors 1, Social
@@ -2553,8 +2515,8 @@ _Equipment_ : Contact, Mid Passage, Rival, 2 Weapons.
 **18 Militant Religious Zealot Captain**
 Age 34 , 4 Terms, Cr 8,000
 
-Str 8 (+0) Dex 9 (+1) End 9 (+1)
-Int 12 (+2) Edu 4 (-1) Soc 2 (-2)
+Str8 (+0) Dex9 (+1) End9 (+1)
+Int 12 (+2) Edu4 (-1) Soc2 (-2)
 _Skills:_ Athletics (any) 2, Carouse 0, Explosives 1, Gun
 
 Combat (any) 2 , Leadership 1, Medic 0, Melee (any) 2 ,
@@ -2565,13 +2527,12 @@ _Equipment:_ Contact, High Passage, Weapon.
 
 Age 30 , 3 Terms, Cr 35,000
 
-Str 8 (+0) Dex 9 (+ 1 ) End 6 (+0)
-Int 12 (+ 2 ) Edu 11 (+ 1 ) Soc 5 (- 1 )
-Psi 4 (-1)
+Str8 (+0) Dex9 (+ 1 ) End6 (+0)
+Int 12 (+ 2 ) Edu 11 (+ 1 ) Soc5 (- 1 )
+Psi4 (-1)
 _Skills:_ Animals 0 , Astrogation 2, Carouse 0, Comms 0,
 
-Computers 0, Gun Combat (any) 1, Investigate 0, Language
-(any) 2 , Leadership 1, Medic 0, Pilot (any) 2, Sensors 1,
+Computers 0, Gun Combat (any) 1, Investigate 0, Language (any) 2 , Leadership 1, Medic 0, Pilot (any) 2, Sensors 1,
 
 Tactics (any) 1, Vacc Suit 1, Zero-G 0.
 _Psionic Talents:_ Awareness 0, Telekinesis 0.
@@ -2580,9 +2541,9 @@ _Equipment:_ Air/Raft, Contact (Alien), Weapon.
 **20 Space Patrol Trooper Sergeant**
 
 Age 42 , 6 Terms, Cr 20,000, Retirement Pay Cr 12,000
-Str 7 (+0) Dex 8 (+0) End 9 (+1)
+Str7 (+0) Dex8 (+0) End9 (+1)
 
-Int 10 (+ 1 ) Edu 9 (+ 1 ) Soc 7 (+0)
+Int 10 (+ 1 ) Edu9 (+ 1 ) Soc7 (+0)
 _Skills:_ Battle Dress 2, Comms 0, Drive 0 , Gun Combat (any)
 2, Investigate 0, Leadership 1, Medic 0, Melee (any) 2,
 
@@ -2592,9 +2553,9 @@ _Equipment:_ Air/Raft, Enemy, Rival, 1 Ship Share, TAS.
 
 **21 Space Patrol Technical Major**
 Age 34 , 4 Terms, Cr 50,000
-Str 6 (+0) Dex 6 (+0) End 8 (+0)
+Str6 (+0) Dex6 (+0) End8 (+0)
 
-Int 13 (+ 2 ) Edu 8 (+0) Soc 8 (+0)
+Int 13 (+ 2 ) Edu8 (+0) Soc8 (+0)
 _Skills:_ Admin 1, Comms 0, Computers 0, Engineering (any) 2,
 Gun Combat 0 , Investigate 1, Language 0 , Leadership 1,
 
@@ -2604,8 +2565,8 @@ _Equipment:_ Contact (Criminal), 2 Ship Shares, Weapon.
 
 22 Worker Technician
 Age 42 , 6 Terms, Cr 27,000, Retirement Pay Cr 12,000
-Str 10 (+ 1 ) Dex 7 (+0) End 8 (+0)
-Int 9 (+ 1 ) Edu 9 (+1) Soc 6 (+0)
+Str 10 (+ 1 ) Dex7 (+0) End8 (+0)
+Int9 (+ 1 ) Edu9 (+1) Soc6 (+0)
 Skills: Drive (any) 1, Flyer (any) 1, Life Science (Biology) 1,
 Mechanic 1, Melee (any) 1, Physical Science (any) 1,
 Seafarer (any) 1, Steward 1, Streetwise 1, Trade 2.
@@ -2613,8 +2574,8 @@ Equipment: Ally, Contact (Alien), High Passage.
 
 23 Worker Service Server
 Age 42 , 6 Terms, Cr 20,000, Retirement Pay Cr 12,000
-Str 7 (+0) Dex 4 (- 1 ) End 7 (+0)
-Int 13 (+ 2 ) Edu 9 (+1) Soc 7 (+0)
+Str7 (+0) Dex4 (- 1 ) End7 (+0)
+Int 13 (+ 2 ) Edu9 (+1) Soc7 (+0)
 Skills: Animals (any) 1, Carouse 1, Drive (any) 1, Fly (any) 1,
 Gambler 1, Language (any) 1, Melee (any) 1, Science (any) 1,
 Seafarer 0 , Steward 1, Trade 1.
@@ -2622,17 +2583,16 @@ Equipment: Ally.
 
 24 Worker Labourer Supervisor
 Age 54 , 9 Terms, Cr 20,000, Retirement Pay Cr 18,000
-Str 7 (+0) Dex 7 (+0) End 7 (+0)
-Int 9 (+ 1 ) Edu 8 (+0) Soc 7 (+0)
+Str7 (+0) Dex7 (+0) End7 (+0)
+Int9 (+ 1 ) Edu8 (+0) Soc7 (+0)
 Skills: Carouse 1, Drive (any) 2, Flyer (any) 1, Gambler 1,
-Trade 2, Language (any) 1, Leadership 1, Medic 1, Melee
-(any) 1, Seafarer (any) 1, Science (any) 1, Steward 1,
+Trade 2, Language (any) 1, Leadership 1, Medic 1, Melee (any) 1, Seafarer (any) 1, Science (any) 1, Steward 1,
 Streetwise 1.
 Equipment: Ally, Contact, 2 High Passages.
 
 25 Noble Dilettante, Adventurer Treasure Seeker
-Str 11 (+1) Dex 7 (+0) End 9 (+1)
-Int 6 (+0) Edu 11 (+1) Soc 11 (+1)
+Str 11 (+1) Dex7 (+0) End9 (+1)
+Int6 (+0) Edu 11 (+1) Soc 11 (+1)
 Age 34, 4 Terms: 1 Term Noble, 3 Terms Treasure Seeker,
 Cr 80,000
 Skills: Acting (any) 1, Admin 0, Advocate 0, Athletics (any) 1,
@@ -2642,8 +2602,8 @@ Science 0, Recon 1, Stealth 0, Streetwise 1, Survival 2.
 Equipment: Ally, Rival, TAS, Weapon.
 
 26 Worker Labourer, Rogue Thief
-Str 9 (+1) Dex 10 (+1) End 9 (+1)
-Int 9 (+1) Edu 10 (+1) Soc 7 (+0)
+Str9 (+1) Dex 10 (+1) End9 (+1)
+Int9 (+1) Edu 10 (+1) Soc7 (+0)
 Age 42, 6 Terms: 2 Terms Worker, 4 Terms Rogue, Cr 20,000
 Skills: Computers 1, Deception 1, Driver (any) 1, Flyer 0, Gun
 Combat (any) 1, Language 0, Melee Combat 0, Recon 1,
@@ -2651,8 +2611,8 @@ Seafarer 0, Stealth 1, Streetwise 1, Steward 0, Trade 0.
 Equipment: Ally, 2 Contacts, 2 Ship Shares.
 
 27 Navy Gunner/Engineer, Space Patrol Technician
-Str 10 (+1) Dex 6 (+0) End 9 (+1)
-Int 8 (+0) Edu 7 (+0) Soc 11 (+1)
+Str 10 (+1) Dex6 (+0) End9 (+1)
+Int8 (+0) Edu7 (+0) Soc 11 (+1)
 Age 34, 4 Terms: 1.5 Terms Navy, 2.5 Terms Space Patrol,
 Cr 30,000
 Skills: Carouse 1, Comms 1, Computers 0, Engineering (any)
@@ -2662,8 +2622,8 @@ Sensors 1, Streetwise 0, Vacc Suit 1, Zero-G 0.
 Equipment: Enemy, Rival, Weapon.
 
 28 Colonist Farmer, Scholar Field Researcher
-Str 9 (+1) Dex 6 (+0) End 6 (+0)
-Int 10 (+1) Edu 12 (+2) Soc 9 (+1)
+Str9 (+1) Dex6 (+0) End6 (+0)
+Int 10 (+1) Edu 12 (+2) Soc9 (+1)
 Age 38, 5 Terms: 3 Terms Colonist, 2 Terms Scholar Cr
 35,000
 Skills: Animals (any) 2, Athletics 0, Any Science (any) 1,

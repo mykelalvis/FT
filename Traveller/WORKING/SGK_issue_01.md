@@ -6,8 +6,9 @@
 
 ## A C a l l t o A d v e n t u r e!!
 
-
 ACKNOWLEDGEMENTS
+
+
 
 Although Signal-GK is acknowledged by HIWG,
 
@@ -63,8 +64,7 @@ Unknown
 ```
 ```
 Interior art:
-Nik Piper [NP] (p18, 22, 23 24), Duncan Law-
-Green [LG] (p 4, 12, 17, 34, 35) Jae Campbell
+Nik Piper [NP] (p18, 22, 23 24), Duncan Law-Green [LG] (p 4, 12, 17, 34, 35) Jae Campbell
 [JC] (p 6, 9, 13, 14, 15, 20, 21, 29, 30, both
 pics 38), Len Robinson [LR] (p7, 8) and
 Heather Boxall [HB] (p 8, 10).
@@ -111,7 +111,6 @@ LIBRARY DATA: ARGIFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 WAR ZONE: ARGIFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 53 Stuart Machin
 DAG DEVELOPMENT NOTESFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 56 J.Duncan Law-Green
 TRANSPONDER ALERTFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 67 Jae Campbell
-
 
 **LOCAD: 22:31:44 090/1118 APPR LENASHUUK/
 ARGI (1331 DAGUDASHAAG)
@@ -214,8 +213,7 @@ In 1116 as Hiirinanan's forces withdraw from central
 portion of Argi subsector and Dulinor's forces advanced
 to fill the gap. Lenashuuk was retaken by Ilelish fleet
 after fierce battles with National fleets. Dulinor then
-broke through into the Sapphyre subsector in 145-
-without encountering any resistance due to the fleet
+broke through into the Sapphyre subsector in 145-without encountering any resistance due to the fleet
 already having fled. Core and Ilelish fleets met in
 Pact and Sapphyre. Argi subsector is virtually
 untouched.
@@ -224,8 +222,9 @@ untouched.
 
 #### AAAA SECTOR SECTOR SECTOR SECTOR ORIENTATIONORIENTATIONORIENTATIONORIENTATION
 
-
 PHYSIOLOGY
+
+
 
 ```
 Scanians were genetically engineered by a Solomani
@@ -295,6 +294,8 @@ ability.
 
 APPEARANCE
 
+
+
 ```
 Scanians tend towards apparently fragile features, long
 eyelashes, white to grey featureless eyes, a crop of
@@ -306,6 +307,8 @@ they usually frequent. Females are generally tall, with
 long white hair, full lips with a deceptive slimness.
 ```
 AQUAN PHYSIOLOGY
+
+
 
 ```
 Aquans are Scanian's that have been fully adapted for
@@ -332,7 +335,6 @@ alterations carried out by the geneers consists of:
 
 ## CONTACT: THE SCANIACONTACT: THE SCANIACONTACT: THE SCANIACONTACT: THE SCANIA
 
-
 A major disadvantage of this adaptation was the total
 loss of speech. To compensate the Aquans have
 evolved a complex sign language which they use in the
@@ -355,6 +357,8 @@ alterations, on land.
 
 AQUAN APPEARANCE
 
+
+
 Aquans are similar in appearance to surface-dwelling
 Scanians apart from the obvious physical differences;
 the blow hole at the rear of the neck and the
@@ -366,6 +370,8 @@ Scanians, frequently only wearing sufficient clothes to
 cover the genitalia slits.
 
 REPRODUCTION
+
+
 
 The genetic adaptations recorded above were
 permanently grafted into the Scanian male's DNA.
@@ -388,8 +394,7 @@ miscarriage since such offspring are always unadapted.
 While pairings between Scanians and unadapted
 humans do occur, it is extremely rare for pairings
 between Aquans and surface dwellers, even Scanians.
-This is believed to be because Aquans find air-
-breathers movement in the water extremely clumsy
+This is believed to be because Aquans find air-breathers movement in the water extremely clumsy
 and ungraceful. That, coupled with the strong
 possibility of such a pairing resulting in unadapted or
 Sport offspring makes such a relationship unlikely.
@@ -483,6 +488,8 @@ Old Smuggler's Saying in Dagudashaag
 
 TRADITION
 
+
+
 Like the Vilani, the Scanians believe that tradition is
 the solid foundation upon which a stable society is
 built. Unlike the Vilani, Scanians believe in exploring
@@ -490,8 +497,7 @@ the very limits of their imagination and talents. There
 is no aristocracy as such. Instead scholars, regardless
 of background, are revered and honoured. They
 study the past, but only so that they may
-better prepare for the future. Scanian scholars
-(Rab'an) may spend centuries dissecting and
+better prepare for the future. Scanian scholars (Rab'an) may spend centuries dissecting and
 cross examining the most absurd of concepts,
 in the belief that should such a concept
 become reality the Scanian people will be
@@ -531,6 +537,8 @@ two things to fear in 'The Business', an Anpanaarian
 judge or a Scanian customs officer”.
 
 HISTORY
+
+
 
 ```
 “History is always repeating itself, but each time
@@ -663,8 +671,7 @@ Aquan Nasii (twin ruler) and the Path of Scania was
 studied by every living sentient on the planet. Not
 blindly, learning by rote, but questioning and probing
 the very depths of available knowledge (at present the
-position of Nasii is held by an Aquan female Melissa Sa-
-Badasas). It was in this period that R. Hasseim
+position of Nasii is held by an Aquan female Melissa Sa-Badasas). It was in this period that R. Hasseim
 succeeded in proving the existence of psionic ability
 and testing, and consequently training, began in
 earnest. Contact with other sentient races had begun
@@ -719,8 +726,7 @@ Hale Shagraa suggested the possibility of a psionic
 suppression by the Imperium. Although it was
 considered a very slight possibility at that time, it led
 to the seeding of major aspects of Scanian culture to
-the Scanian colonies. The system of Nehutei
-(Messenger/Traders) was established so that each
+the Scanian colonies. The system of Nehutei (Messenger/Traders) was established so that each
 center would be able to retain free lines of
 communication and to prevent any of the various
 colonies from falling away from the Study and Path due
@@ -772,8 +778,7 @@ and by hi s sadistic banquets of death.
 Report after report were sent to [[Capital]] but they were
 apparently ignored for 15 months. Instead Imperial
 mining interests entered the system and began to use
-Scanian slave labour to strip-mine Akiva. On 132-
-The Butcher was assassinated by Sanheichiir as he took
+Scanian slave labour to strip-mine Akiva. On 132-The Butcher was assassinated by Sanheichiir as he took
 part in another of his infamous banquets. His body was
 internally exploded by several top telekenetics who
 
@@ -782,8 +787,7 @@ had survived the earlier persecutions. This was the
 signal to start the rebellion. The Imperial's fled from
 the naked terror of a race gutted by torture and
 injustice. Once more the imperial's retreated to their
-Naval base on Ha-Nasi and awaited orders. On 305-
-a meeting was held at Rehin port on Rachel between
+Naval base on Ha-Nasi and awaited orders. On 305-a meeting was held at Rehin port on Rachel between
 the Sanhedra Ben Hakhamim and the Imperial forces.
 Due to the direct intervention of the Sector Duke,
 Davin Viisarikaa a compromise was agreed. This
@@ -854,6 +858,8 @@ stand.
 
 SCANIAN CULTURE
 
+
+
 Scanians believe in the acquisition of knowledge as
 the only true aristocracy. Scholars are respected
 above all and a broad knowledge is respected most of
@@ -865,8 +871,7 @@ much as a way of life. The Scanian Government
 consists of people participation at all levels, at the
 Top is the Twin Pillars or rulers; the Nasii (Military
 and Governmental ruler) who is chosen by election of
-the populous from the Sanhedra Ben Hakhamim
-(Council of Scholars), and the Avi'Di (Law Giver)
+the populous from the Sanhedra Ben Hakhamim (Council of Scholars), and the Avi'Di (Law Giver)
 chosen by the Sanhedra Ben Hakhamim from the
 people. Their advisors are the Sanhedra Ben
 Hakhamim, who are made up of the scholars who
@@ -925,8 +930,7 @@ decides one's status.
 Every Scanian, whether genetically pure or not, is
 entitled to a 30 day period known as Yarhei Kel'a
 when they attend the local Sanhedra and debate with
-the gathered Rabbani. This policy of cross-
-examination extends to all aspects of Scanian life and
+the gathered Rabbani. This policy of cross-examination extends to all aspects of Scanian life and
 Government officials and judges frequently face
 cross-examination of their decisions by mere
 members of the public.
@@ -947,8 +951,7 @@ Nehutei and trained psionics left in their place so the
 population at Ma'kot remained stable. Only Rabban who
 had achieved the rank of Sanhedra Rabbai were tested
 and only those who would not be missed were sent. In
-addition the Scanian's have a large population of non-
-adapted followers that the Imperial's seem to forget are
+addition the Scanian's have a large population of non-adapted followers that the Imperial's seem to forget are
 totally Scanian in mind and ideal. Once the Centre was
 established, training of the Sanheichiir (Little Knives of
 the Mind) resumed in eamest. Each Scanian Sanhedra
@@ -998,6 +1001,8 @@ Sanhedra at this time.
 
 HELP TRAVELLER
 
+
+
 ```
 “D.G.P. is working on A.I. - their own SFVRPG. I see
 TRAVELLER support falling off. Hardly ever see
@@ -1008,8 +1013,7 @@ D.G.P. on GEnie any more (for TRAVELLER).”
 ```
 Do you think MegaTraveller product support's failing
 off? Do you want to DO something about it? Why not
-write to Digest Group Publications, giving your sup-
-port to the MegaTraveller system, and encouraging
+write to Digest Group Publications, giving your sup-port to the MegaTraveller system, and encouraging
 them to produce more works of the calibre of VILANI
 & VARGR and FLAMING EYE? A game will only survive
 if it has an active and loyal following.
@@ -1021,6 +1025,8 @@ you!
 
 HIWG
 
+
+
 ```
 If you would like to be a member of HIWG(UK) then
 send the HIWG(UK) representative a cheque for
@@ -1028,8 +1034,7 @@ send the HIWG(UK) representative a cheque for
 ```
 ```
 HIWG Subscription £9.00 per anum.
-This entitles you to six issues of Tiffany Star and as-
-sociated inserts (Big Bang/Rimshot/etc). Between
+This entitles you to six issues of Tiffany Star and as-sociated inserts (Big Bang/Rimshot/etc). Between
 four and six issues of STarport the HIWG(UK) and
 programming fanzine. You also get access to all
 HIWG Documents (see later) and the right to be a
@@ -1049,8 +1054,7 @@ printouts from a computer. Unfortunately this is per
 ```
 HIWG Docs on Disc £1.00 per disc + postage &
 packing.
-Well sort of. Basically, anyone who contributes occa-
-sionally to STarport or returns disc promptly is just
+Well sort of. Basically, anyone who contributes occa-sionally to STarport or returns disc promptly is just
 charged postage.& packing. The charge is just in
 case someone wants everything without contributing.
 Note that this is per disc (i.e. a full disc) not per
@@ -1116,6 +1120,8 @@ Imperial.
 
 STARPORT PROCEDURE
 
+
+
 A visit to an Akivan port can be an experience never to
 be forgotten, particularly if your cargo is not totally
 legal or your paperwork is not completely satisfactory.
@@ -1136,8 +1142,7 @@ quarantine until its received Inward Clearance by the
 Port Authorities. Usually ship's can expect to wait no
 longer than 30 minutes before inspection. The
 Clearance party consists of a Port warden, health
-officer, customs official, immigration official
-(generally a Bwap), port engineer and their
+officer, customs official, immigration official (generally a Bwap), port engineer and their
 subordinates. Given the high value Scanian's place on
 honesty any attempt to bribe an official will be dealt
 with very severely. The best advice is - keep your nose
@@ -1194,14 +1199,14 @@ available in most localities for Cr.3 a glass.
 ```
 ## PORT OF CALL: AKIVAPORT OF CALL: AKIVAPORT OF CALL: AKIVAPORT OF CALL: AKIVA
 
-
 SYSTEM DATA
+
+
 
 Kokhba A2 V
 Ba'ko-ba G8 D
 
-Hassidim YS00000-
-Harkinas Y610000-
+Hassidim YS00000-Harkinas Y610000-
 -Nathan'el HS10210-C
 Elazar Small GG Y65-CA000-
 -Yohanaan Y100000-
@@ -1218,8 +1223,7 @@ Akiva A98A869-D
 -Yosua C330669-D
 -Rachel B652769-D
 Meir Large GG Y236-C0000-
--Asmakhta G100000-
-Gamaliel Small GG Y31-AA000-
+-Asmakhta G100000-Gamaliel Small GG Y31-AA000-
 -Hil'el Y200000-
 -Shamai YR00000-
 -Ha-Nasi A503684-D N
@@ -1335,8 +1339,7 @@ copy of the 'Teachings' and a mooring post hand
 carved by Scanian craftsmen.
 
 **Places to visit - The Bay of Paryala**. A year round wine
-festival where everyone must be masked and any non-
-criminal behaviour is acceptable. For those without
+festival where everyone must be masked and any non-criminal behaviour is acceptable. For those without
 sexual codes a visit the Barge of pleasure is a must.
 
 **The Batalu Sagasso** is a gigantic forest of Halacuo
@@ -1406,6 +1409,8 @@ you in to the local authorities.
 ```
 TASK LIBRARY
 
+
+
 ```
 To avoid injury during physical exertion on a high-G
 world:
@@ -1431,6 +1436,8 @@ one in the right condition.."
 ```
 ```
 THE JOB
+
+
 ```
 ```
 The stranger wants the team to capture either a
@@ -1468,6 +1475,8 @@ appropriate fish can be delivered within 2 days.
 ```
 ```
 RUMOURS
+
+
 ```
 ```
 To obtain covert information:
@@ -1482,32 +1491,24 @@ police.
 ```
 **AKIVA: Medical Procedures**
 
-Traveller's to Akiva/Argi should be aware that pro-
-longed exposure to the high gravity environment
+Traveller's to Akiva/Argi should be aware that pro-longed exposure to the high gravity environment
 can cause severe muscular and cardiovascular
-strain, and increase the risk and severity of acci-
-dents.
+strain, and increase the risk and severity of acci-dents.
 
-Although gravity-compensating exosuits are avail-
-able many find these bulky and restrictive, and
+Although gravity-compensating exosuits are avail-able many find these bulky and restrictive, and
 prefer to experience Akiva's environment “at first
 hand”. If you intend to do this, we advise that you
-consult your general practitioner prior to depar-
-ture for a full medical check up - a high gravity
+consult your general practitioner prior to depar-ture for a full medical check up - a high gravity
 acclimatisation course, consisting of a regimen of
 physical exercise in gradually increased gravity,
-and lasting some two or three weeks, is also rec-
-ommended. Many starlines operating services to
+and lasting some two or three weeks, is also rec-ommended. Many starlines operating services to
 Akiva offer such courses.
 
-Once on Akiva, hire a wrist biomonitor, which con-
-tinuously checks the condition of your cardiovascu-
-lar system.
+Once on Akiva, hire a wrist biomonitor, which con-tinuously checks the condition of your cardiovascu-lar system.
 
 “Booster” drugs to lessen fatigue are available on
 Akiva. Although legal, we suggest that they only
-be taken under strict medical supervision, as tem-
-porary loss of co-ordination can result in certain
+be taken under strict medical supervision, as tem-porary loss of co-ordination can result in certain
 individuals.
 
 Following these few, simple measures will help
@@ -1520,7 +1521,6 @@ Dr. Gerard de Chantuille Surgeon-General,
 Imperial Ministry of Health, Medurma
 ```
 ### GONE FISHINGGONE FISHINGGONE FISHINGGONE FISHING
-
 
 Roll 1D and read them the results of the following
 table:
@@ -1595,6 +1595,8 @@ fins; A9 F0 S2.
 ```
 ```
 IMORTALITY BAY
+
+
 ```
 ```
 The bay is in reality the center of an extinct volcano.
@@ -1646,8 +1648,7 @@ only waken out of it when intruded upon. Beached
 Zhoam are just as dangerous as those in the water.
 
 **To identify death in a Zhoam:**
-Difficult, Medical, Biology, Hunting, Int, 1 min
-(uncertain, fateful)
+Difficult, Medical, Biology, Hunting, Int, 1 min (uncertain, fateful)
 Referee: If the result of the uncertain task is - No Truth:
 The characters are in combat with the Zhoam. Some
 Truth: The players must roll their Dex or higher on 2D
@@ -1731,8 +1732,7 @@ have escaped.
 ```
 ```
 To by-pass Scanian Protectorate boats:
-Difficulty, Off=Sensor Ops, Def=range, 3 min
-(confrontation)
+Difficulty, Off=Sensor Ops, Def=range, 3 min (confrontation)
 Referee: Use the most favorable sensor scan difficulty
 level from among the unit's UCP. Use the range from
 the sensing unit to the target unit as a negative DM.
@@ -1804,7 +1804,6 @@ i**
 
 **D**
 
-
 Referee: Scanian's will always refuse bribes and will
 take any attempt to bribe them as an insult. If the
 characters fail this task let them attempt to bribe the
@@ -1858,6 +1857,8 @@ Andrea Fionna didn't.
 ```
 
 ABSTRACT
+
+
 
 This document will set out (in my usual rambling
 fashion ) my views on psionics, and the 'variant' which
@@ -1981,8 +1982,9 @@ instantaneous”, from a human point of view anyway.
 ```
 #### YES, BUT WHAT ARE PSYES, BUT WHAT ARE PSYES, BUT WHAT ARE PSIONICS, EXACTLY?YES, BUT WHAT ARE PSIONICS, EXACTLY?IONICS, EXACTLY?IONICS, EXACTLY?
 
-
 THE PSIONIC BACKGROUND
+
+
 
 Psions are not just emitted by biological reactions.
 Other sources, such as cosmic-ray interactions, and the
@@ -2013,17 +2015,14 @@ directly. Reception of the target's thoughts involves
 picking up, and deciphering the weak p-psion signal
 from a non-psionic.
 
-A psionic probe involves the direction of a very finely-
-defined beam of p-psions at a target's brain. These p-
-psions stimulate individual synapses in the target.
+A psionic probe involves the direction of a very finely-defined beam of p-psions at a target's brain. These p-psions stimulate individual synapses in the target.
 Secondary signals will then be generated in adjacent
 synapses (in a kind of “cascade effect”). The psionic
 then studies the p-psions produced by these secondary
 signals, to gain information.
 
 P-psions do interact with ordinary matter, but only
-slightly. The effect of ordinary walls is slight, but p-
-psions suffer more significant scattering and absorption
+slightly. The effect of ordinary walls is slight, but p-psions suffer more significant scattering and absorption
 when passing through superdense materials. Telepathy
 may sometimes be “fuzzy” through starship bulkheads.
 
@@ -2049,13 +2048,11 @@ matter (sort of like mesons). When a c-psion interacts
 ```
 with matter, it is “reflected” as a p-psion, which the
 psionic detects. “Clairaudience” involves a similar
-technique, sensing of the movements of air molecules
-(ick).
+technique, sensing of the movements of air molecules (ick).
 ```
 ```
 The energy of the c-psions produced during
-clairvoyance can never be perfectly defined; also, c-
-psions can interact spontaneously with matter,
+clairvoyance can never be perfectly defined; also, c-psions can interact spontaneously with matter,
 regardless of the distance travelled. This means again,
 that superdense materials can sometimes make
 clairvoyance “fuzzy”.
@@ -2065,8 +2062,7 @@ Since clairvoyance is an “active” process, this leads us
 to an obvious conclusion If there is a psionic in the
 area being scanned, he should be allowed a roll to
 detect the flux of c-psions permeating the area. If he
-succeeds, he will know the direction, and distance
-(from the c-psion energy) of the “clairvoyant”. It is
+succeeds, he will know the direction, and distance (from the c-psion energy) of the “clairvoyant”. It is
 then a relatively simple task to send a telepathic
 assault up the incoming beam of c-psions ( Ha! Try to
 spy on me, would you? I'll fry your brains, sucker!!).
@@ -2092,8 +2088,7 @@ clairvoyance suffers from a light-speed signal lag.
 ```
 This one is also fairly tough. Exert force at a
 distance...? Ok, here goes! Telekinesis involves the
-emission of an intense beam of k-psions, of carefully-
-defined energy. AS with c-psions, the energy
+emission of an intense beam of k-psions, of carefully-defined energy. AS with c-psions, the energy
 determines how far a psion may travel before
 interacting with matter. K-psions have a complex
 interaction with matter - when a beam of k-psions
@@ -2135,17 +2130,14 @@ complicated...
 First of all, the psionic sends an intense string of pulses
 of p-psions of varying energies and speeds towards his
 intended target point. This string of pulses provides a
-“reference grid”, so that the teleporter can re-
-orientate himself on the molecular level, when he re-
-emerges.
+“reference grid”, so that the teleporter can re-orientate himself on the molecular level, when he re-emerges.
 
 Next, the teleporter begins radiating t-psions. This
 causes an electromagnetic field to build up around
 him. In a similar manner to a starship entering
 jumpspace, the fabric of space-time “unweaves”
 around him, and he enters an alternate space (akin to
-jumpspace), called p-space. The process of entering p-
-space, or “popping out”, is effectively instantaneous.
+jumpspace), called p-space. The process of entering p-space, or “popping out”, is effectively instantaneous.
 The time spent in p-space is independent of distance
 travelled, and is about 0.1 milliseconds.
 
@@ -2158,8 +2150,7 @@ of lightspeed, it is possible for the teleporter to
 “outrun” it, and arrive at the target point before the
 beam of psions does.
 
-If the teleporter does not outrun the reference beam
-(i.e. teleports less than about 4 km), them there are
+If the teleporter does not outrun the reference beam (i.e. teleports less than about 4 km), them there are
 no problems. Pop! You're there!
 
 If the teleporter does outrun the reference beam, then
@@ -2234,6 +2225,8 @@ be OK for an NPC. though...
 ```
 SHIELDS AND STUFF
 
+
+
 ```
 A naturally-generated psionic shield involves both
 passive and active defence. The shield adjusts the
@@ -2289,6 +2282,8 @@ globe, but you wouldn't make it in one piece...
 
 SENSORS AND STUFF
 
+
+
 In this section, we discuss that most mysterious of
 sensors, the Neural Activity Sensor. I would argue, that
 at TL15 and below, a NAS is primarily a highly-sensitive
@@ -2332,6 +2327,8 @@ on the NAS...!”).
 ```
 RANDOM THOUGHTS
 
+
+
 ```
 The example of the Ancient Artifact possessed by the
 Zhodani is often touted as an example of
@@ -2356,10 +2353,11 @@ Have Fun And Never Give A Zho An Even Break!!
 
 SUMMARY
 
+
+
 This scenario revolves around a group involved in some
 industrial espionage after being a near-witness to a
-murder. The action is centred on the world of Argi
-(1431 A330ACC-F), the largest technical equipment
+murder. The action is centred on the world of Argi (1431 A330ACC-F), the largest technical equipment
 manufacturer in the sector. The Players are given the
 task of infiltrating Gravatics Technologies Limited to
 uncover technical details of a new grav speeder for a
@@ -2393,7 +2391,7 @@ Scan = Difficult, Pas Eng Pen = Routine.
 **Off/Def:** Hardpoints = 1.
 **Control:** Computer = 0/bis x 2, hololink, HUD, Environ.
 = Bas Env, Bas LS, Ext LS, Grav Plates, Internal Comp.
-**Accom:** Crew = 1 (operator), Seats = 2 (Roomy).
+**Accom:** Crew =1 (operator), Seats =2 (Roomy).
 **Other:** Fuel = 0.9k1, Cargo = 0.8 kl, Obj Size = Small,
 EM Level = Faint.
 
@@ -2408,8 +2406,7 @@ to stay ahead of their competitors. There has been
 strong interest by certain military officials attached to
 Dulinor's forces for the vehicles development as a
 recon/attack speeder. The armoured hull allows the
-“Tansui” to make prolonged sub-orbital and sub-
-surface “covert” flights (top sub-surface speed = 100
+“Tansui” to make prolonged sub-orbital and sub-surface “covert” flights (top sub-surface speed = 100
 kmph).
 
 ```
@@ -2422,8 +2419,7 @@ and GTL are no exception.
 ```
 ```
 The “Tansui” has been hidden within GTL's Research
-and Development site 300km outside of Innesville
-(Argi's capital) well out of sight of interested parties.
+and Development site 300km outside of Innesville (Argi's capital) well out of sight of interested parties.
 Access is strictly controlled, all visitors have to make
 an application for a visit two months in advance of the
 intended date. On arrival they are screened for
@@ -2455,7 +2451,6 @@ that's intruded upon their quiet lives. If one of the PCs
 does not approach the body then the figure will call
 ```
 ## CAR WARSCAR WARSCAR WARSCAR WARS
-
 
 out in a hoarse whisper and beckon the nearest
 character to him. When the PC reaches him he/she will
@@ -2499,7 +2494,7 @@ ENTER MS. DEVRIN
 The number on the slip of paper is the communet
 number of a vidcom registered to Alyas Devrin. The
 characters will have to guess its meaning unless you
-the referee prepares a (routine) task for it.
+the referee preparesa (routine) task for it.
 
 Once the players have related the Commis incident to
 Devrin she will agree to meet them at a nearby hotel
@@ -2572,6 +2567,8 @@ to take the to Devrin's office.
 
 THE PROBLEM
 
+
+
 Whether the group contact Devrin immediately or not,
 engineer a chance meeting after their release at an
 appropriate location - i.e. within the business district
@@ -2586,8 +2583,7 @@ Hamuusham greet the characters warmly.
 
 Devrin informs them that her associate (Hamuusham)
 and herself are Argian representatives of Ikensaag
-Gravity Industries (IGI), a large company based on Sh'si
-(1635 A354476-F). IGI are second only in size to GTL
+Gravity Industries (IGI), a large company based on Sh'si (1635 A354476-F). IGI are second only in size to GTL
 within the Bolivar/Argi/Sapphyre subsectors. Devrin's
 main job on Argi is to keep a close eye on GTL and pass
 any useful information on to head office.
@@ -2598,6 +2594,8 @@ to offer them some simple, routine and safe
 surveillance work.
 
 THE PROPOSITION
+
+
 
 If the players are interested
 Devrin will ask them to
@@ -2678,8 +2676,7 @@ ladies and gentlemen is a
 fountain pen. A primitive
 device used for the
 transcription of written
-symbols onto a non-
-electronic recording
+symbols onto a non-electronic recording
 medium.” At this stage he
 pulls a white sheet of paper
 from the desk, unscrews the
@@ -2712,6 +2709,8 @@ GTL and the grav industry. This is easier if any
 characters have extensive grav skills.
 ```
 THE TOUR
+
+
 
 ```
 When the day comes the abduction goes smoothly as
@@ -2779,8 +2778,7 @@ Routine, Dex, Instant (fateful)
 ```
 ```
 Referee: on success the victim will slump forward
-immediately and remain unconscious for 3d+7 minutes
-(the referee should roll and keep the time secret. It's
+immediately and remain unconscious for 3d+7 minutes (the referee should roll and keep the time secret. It's
 up to the Players to be back before they awaken or a
 general alert will be issued). On a failure, roll for a
 mishap. Superficial/minor - missed the victim. Major -
@@ -2807,8 +2805,7 @@ after 1d minutes.
 ```
 ```
 To locate useful information:
-Difficult, Grav Vehicles or Gravitics, Edu, 10 mins
-(absolute)
+Difficult, Grav Vehicles or Gravitics, Edu, 10 mins (absolute)
 Referee: Hasty and cautious task modifiers apply. On
 exceptional success reward the Players with a hard
 copy technical readout of the APR 363CX.
@@ -2838,6 +2835,8 @@ they will be taken to a local police station where they
 can expect a tough time. But that's another story!
 ```
 DEPARTURE
+
+
 
 ```
 For the PCs to make their way to the exit/reception
@@ -2888,6 +2887,8 @@ Innesville unless they were extremely careless.
 ```
 ```
 A JOB WELL DONE
+
+
 ```
 Devrin will congratulate the group on their good work,
 assuming they managed to obtain some information. She
@@ -2905,7 +2906,6 @@ shed any light on the incident. If the players stay around
 for a day or two the police will give them authority to
 leave. Staying around for more than a couple of days
 could result in GTL catching up with them.
-
 
 **GATEWAY 1331 B98A654-D N Ni Ri Wa 701 Im M1 V
 M9 D**
@@ -2946,6 +2946,8 @@ Bwap.
 
 STARPORT PROCEDURE
 
+
+
 Orbital facilities are classified as a Freeport and
 several reasons exist for using Gateway as a stopover
 point. Gateway itself is classified as a typical Scanian
@@ -2979,8 +2981,7 @@ immediately prior to leaving the system.
 ```
 ```
 Starport Facilities - Orbital facilities are classed as a
-Freeport and no taxes are payable. Illegal cargoes
-(psi drugs, stolen articles etc.) however, are not
+Freeport and no taxes are payable. Illegal cargoes (psi drugs, stolen articles etc.) however, are not
 welcome and ship's found to be carrying such items
 will be dealt with harshly (ship's found to have
 knowingly carried such cargo are exploded and the
@@ -3017,6 +3018,8 @@ bought within the 220/201 to 2201205 sector known
 
 SYSTEM DATA
 
+
+
 ```
 Ukaa M1 V
 Gagamshuu M9 D
@@ -3041,6 +3044,8 @@ available as are Argian, Medurman and S'mrii. Costs
 are about Cr. 12 per meal.
 
 HISTORY
+
+
 
 Originally an Argian settlement the fierce waves,
 ,extensive volcanic activity and lack of land prevented
@@ -3190,8 +3195,7 @@ For further information see the Article “Stargates
 **Gateway** - Much of the planet has yet to be explored
 and the majority of current settlements are sited
 around the Tower complex. Gateway is a tourist's
-dream; the hedonistic pleasures of the Highway
-(particularly Highway Three) and the pure, unspoiled
+dream; the hedonistic pleasures of the Highway (particularly Highway Three) and the pure, unspoiled
 paradise of the surface. The weather conditions are
 extreme with severe tidal conditions, especially round
 the equatorial regions where 160 meter waves are
@@ -3218,8 +3222,7 @@ are floating because of the current instability but
 several major terraforming experiments are currently
 underway which should help to tame the wild magma
 heart of the planet. Visit the polar base of Hades and
-take a trip in a heat-resistant sub through the magma-
-filled caverns of Hkarha. Visit the submerged city of
+take a trip in a heat-resistant sub through the magma-filled caverns of Hkarha. Visit the submerged city of
 Rhula and dive amidst the sunken streets.
 ```
 ```
@@ -3307,10 +3310,14 @@ Scanian have become a separate species within the
 same genus.
 
 G
+
+
 ro
 u
 p
 H
+
+
 as
 ...
 
@@ -3452,9 +3459,7 @@ They therefore become fully developed. This fact is of
 ```
 ### FIRE & WATERFIRE & WATERFIRE & WATERFIRE & WATER
 
-
-immense importance. When we apply the TocrediV-
-Oaiylrieatow-Anderson equations and criteria to these
+immense importance. When we apply the TocrediV-Oaiylrieatow-Anderson equations and criteria to these
 figures we get some very interesting results; whereas
 on wet worlds 30 meter waves are the exception, on
 water worlds 50 meter waves become commonplace.
@@ -3563,17 +3568,19 @@ design.
 
 ABSTRACT
 
+
+
 A rough calculation of the amount of energy required
 by a starship's Jump net in order to enter Jumpspace.
 Using this information, alternative methods of
 providing the energy needed to Jump are discussed --
-namely, solar-thermal (JumpSail) and solarVelectric
-(StarGate) power sources.
+namely, solar-thermal (JumpSail) and solarVelectric (StarGate) power sources.
 
 INTRODUCTION
 
-The idea of using a power source other than a high-
-output fusion plant to charge a Jump net has an
+
+
+The idea of using a power source other than a high-output fusion plant to charge a Jump net has an
 excellent pedigree. Adventure 1, _Annic Nova_ discusses
 a craft fitted with a device called a “solar collector”.
 However, the concept seems to have fallen into
@@ -3613,6 +3620,8 @@ craft, and those which mount the J u m p power plant
 outside the hull net as “external power” craft.
 
 BASIC CONSTRUCTION
+
+
 
 Naturally, external power craft omit a fair proportion
 of the standard Jump Drive and all of the Jump fuel
@@ -3687,7 +3696,6 @@ m e t r e Neomylar reflectivity, 9 9 percent.
 ```
 ## STARGATES & JUMPSAILSSTARGATES & JUMPSAILSSTARGATES & JUMPSAILS STARGATES & JUMPSAILS
 
-
 Thermal conversion unit:
 
 High-temperature reservoir: Pressurised gas at 3000K.
@@ -3734,6 +3742,8 @@ displacement tons.
 ```
 SOLAR ELECTRIC POWER
 
+
+
 ```
 With the ready access to space which a culture
 achieves as it reaches TL9, it is common for solar
@@ -3763,10 +3773,8 @@ treatment of solar cells which need to be clarified.
 ```
 Irregular structures have far more surface area in
 relation to their volume than other configurations.
-Irregular structures may mount up to five times the two-
-thirds power of their volume of solar cells. The surface
-area of a hull is determined by the two-thirds power
-(NOT the square root) of its volume. That is, surface
+Irregular structures may mount up to five times the two-thirds power of their volume of solar cells. The surface
+area of a hull is determined by the two-thirds power (NOT the square root) of its volume. That is, surface
 area equals the cube root of the square of the volume.
 MegaTraveller Referee's Manual is incorrect in this
 respect.
@@ -3775,8 +3783,7 @@ respect.
 Craft which are only capable of low acceleration may
 mount solar cells on extended arrays, with minimal
 structural bracing. A craft which can only accelerate at
-one-half gravity may mount up to twenty times the two-
-thirds if its volume of solar cells - these consume only
+one-half gravity may mount up to twenty times the two-thirds if its volume of solar cells - these consume only
 one-tenth of the volume of standard solar cells. The
 configuration is automatically USL.
 ```
@@ -3784,8 +3791,7 @@ configuration is automatically USL.
 The output of solar cells is dependent on the light
 energy falling upon them. Multiply the output figure
 given by the luminosity of the primary (in sols), and
-divide by the square of the distance from the primary
-(in A.U.). The maximum possible multiple is the square
+divide by the square of the distance from the primary (in A.U.). The maximum possible multiple is the square
 of the TL divided by 10; thus, TL8 cells can give up to
 6.4 times their rated output before burning out.
 ```
@@ -3799,7 +3805,6 @@ The editors seem to have lost sight of the fact that
 there is a fundamental limit to the output of solar cells
 ```
 - namely, the amount of light energy failing on a unit
-
 
 area (0.0014 MW per square meter, for one sol at 1
 A.U.). Contemporary gallium arsenide solar cells are
@@ -3830,17 +3835,17 @@ complexity of this would probably not be worthwhile.
 
 **Jump net:** A StarGate starship requires only external
 power couplings (see above), plus the Jump net and
-basic control gear. This displaces and weighs one-
-tenth, and costs one-quarter of the equivalent Jump
+basic control gear. This displaces and weighs one-tenth, and costs one-quarter of the equivalent Jump
 drive.
 
 REFERENCES
 
+
+
 **_The Starflight Handbook, E._** **Mallove &
 G.Matloff** , Wiley Science Editions (1989). Highly
 recommended.
-**Statistical Physics, F**. **Mandl,** Wiley Science Editions
-(1988). VNot recommended at all!
+**Statistical Physics, F**. **Mandl,** Wiley Science Editions (1988). VNot recommended at all!
 
 ```
 “The Gate To Hades” is an adventure for 2-4
@@ -3858,6 +3863,8 @@ Undersea Environment" is strongly recommended.
 ```
 ```
 SETUP
+
+
 ```
 ```
 The following introduction assumes that the players
@@ -3914,7 +3921,6 @@ Scene: The Thalassa, an open-air restaurant set into
 the side of the Highway, several hundred meters
 ```
 ### GATE TO HADESGATE TO HADESGATE TO HADESGATE TO HADES
-
 
 above sea level, is bathed in brilliant sunshine. You
 are seated at a table, sipping cups of Scanian coffee,
@@ -4165,13 +4171,11 @@ open ocean. Onwards!
 ```
 Brief encounters in the oceans of Gateway Icebergs:
 The area ahead is blocked by icebergs calving from the
-north polar cap. The PCs will have to go through
-(risking being trapped) or round them (adding to their
+north polar cap. The PCs will have to go through (risking being trapped) or round them (adding to their
 journey time) to get to their destination.
 ```
 ```
-Blipperfish: The sub is surrounded by a shoal of blue-
-green fish, each emitting high-pitched chirps as a
+Blipperfish: The sub is surrounded by a shoal of blue-green fish, each emitting high-pitched chirps as a
 mating signal. The resulting cacophony is blinding the
 sub's passive and active sonar, and vision is also
 impaired. The PCs will have to stop dead and wait for
@@ -4179,8 +4183,7 @@ the fish to go away. Trying to outrun them will
 probably result in them running into a rock outcrop.
 ```
 ```
-Net: The sub runs into a drift net being trailed
-(Illegally) by another sub How the PCs resolve this is up
+Net: The sub runs into a drift net being trailed (Illegally) by another sub How the PCs resolve this is up
 to them.
 ```
 ```
@@ -4210,8 +4213,7 @@ you.
 ```
 ```
 “Eight ...no...ten traces.
-Bearing oh-eight-five to one-
-Vthree-zero and closing
+Bearing oh-eight-five to one-Vthree-zero and closing
 slowly.”
 ```
 Straining your eyes, you
@@ -4274,8 +4276,7 @@ its tip.
 Action: The PCs have stumbled on a seabed mining
 operation owned by Drach-Kehlsen N.V. Their map
 data is out of date - it shows this area as a featureless
-expanse of seabed. They have encountered a general-
-purpose mining robot, which is currently attempting to
+expanse of seabed. They have encountered a general-purpose mining robot, which is currently attempting to
 hail them by laser.
 ```
 ```
@@ -4366,8 +4367,7 @@ Referee: All crew members may roll.
 This should give smart players a clue as to what to do.
 
 **To boost sonar output power:**
-Difficult, Sensor Op's, Computer or Electronics, 30 Sec
-(Hazardous)
+Difficult, Sensor Op's, Computer or Electronics, 30 Sec (Hazardous)
 Referee: Any mishap is applied as damage to the sonar
 system. (Gee! Betcha can spell those burnt-out
 components already!). A major mishap indicates a
@@ -4464,8 +4464,7 @@ temples, apparently to their
 various gods and the University of Ushra
 maintains a base there in order to better study
 this fascinating Neolithic race. The JaLa'lak
-can also be found on Giirakh/Zeda 0325
-(B86768-C) but for an as yet inexplicable
+can also be found on Giirakh/Zeda 0325 (B86768-C) but for an as yet inexplicable
 reason, their temper is vastly different - much
 more savage, even cannibalistic. Clearly they
 are not native to Giirakh and consequently are
@@ -4473,9 +4472,10 @@ the subject of much debate.
 
 PHYSIOLOGY
 
+
+
 Height & Weight
-The average male stands 2.2m high in a semi-
-erect stance and weighs in at 80.2kg. The
+The average male stands 2.2m high in a semi-erect stance and weighs in at 80.2kg. The
 
 ```
 average female is slightly shorter at 1.98m but
@@ -4483,6 +4483,8 @@ weighs 85kg. The additional weight is located in
 an extra fat layer on the chest.
 ```
 APPEARANCE
+
+
 
 ```
 Jala'Lak are the slow-moving giants of the forest.
@@ -4512,6 +4514,8 @@ extremely fierce: but are
 normally very passive.
 ```
 DIET
+
+
 
 ```
 Jala'Lak are gatherers and are
@@ -4559,6 +4563,8 @@ periods when they do most of their gathering.
 
 REPRODUCTION
 
+
+
 Jala'Lak still retain breeding seasons and females
 not currently nursing a pup will enter a receptive
 stage lasting 22 Local days every local year. At
@@ -4587,8 +4593,7 @@ of 300 local days. For the first two years of its life
 the pup is totally defenceless and remains both
 blind and deaf. It will remain with the mother
 being nursed for a total period of five years. The
-onset of milk production also releases an pseudo-
-oestrogene-like compound into the body that
+onset of milk production also releases an pseudo-oestrogene-like compound into the body that
 delays the onset of the female season. Fit five the
 mother will wean the pup and the protoVoestrogen
 enzyme will stop production so that the female
@@ -4614,6 +4619,8 @@ generally put strange items into their beaks in
 order to “taste” their scent.
 ```
 ANATOMY
+
+
 
 ```
 Jala'Lak are vertebrate mammalian primates.
@@ -4665,6 +4672,8 @@ grip. They are not very dexterous and small or
 delicate manipulation i5 beyond their abilities.
 ```
 CULTURE
+
+
 
 ```
 History: Archaeologists believe the Jala'Lak are
@@ -4791,8 +4800,7 @@ winds that further reduce
 the temperature outside
 of the forest. The
 branches of the forest
-intertwine to form a thick canopy of heat-
-reflective leaves which creates a localised
+intertwine to form a thick canopy of heat-reflective leaves which creates a localised
 greenhouse effect. When the Northern forest
 died the hot springs of that region were
 unaffected but because the additional heat was
@@ -4812,13 +4820,11 @@ Duchy Capital: Argi
 
 Argi subsector is an important industrial center, and communications link - the Dagudashaag
 Main covers the trailward half of the region, and the waystation at Lenashuuk/Argi handles a
-great deal of traffic between Dagudashaag and Zarushagar. All of the more highly-populated sys-
-tems in the trailward region were settled during the rule of the First Imperium. The Dagudashaag
+great deal of traffic between Dagudashaag and Zarushagar. All of the more highly-populated sys-tems in the trailward region were settled during the rule of the First Imperium. The Dagudashaag
 Main, having been heavily settled for such a long time, is a technologically-advanced region -
 most of the systems between Gateway/Argi and Durgaruur/Sapphyre are at or above TL13.
 
-The coreward tip of the Nimluin cluster, part of which part of in Argi subsector, is a rich agri-
-cultural region.
+The coreward tip of the Nimluin cluster, part of which part of in Argi subsector, is a rich agri-cultural region.
 
 ```
 Liishuga 0931 D66388C-7 S Ri 200 Im K1 V
@@ -4856,7 +4862,6 @@ Shulasgu 1636 C130327-B S Lo Ni Po De 610 Im M1 V M7 D M0 D
 Zish 1638 D2106B9-8 S Na Ni 413 Im G3 V
 LENASHUUK 1640 A7A8A76-F W Hi Fl A 400 Im K7 III
 ```
-
 
 **Abbayi 0936 C682343-8 Lo Ni 804 Im K2 V M0 D**
 
@@ -4985,13 +4990,11 @@ M1 D
 ```
 ```
 Gas Giant satellite, Argi has been extensively
-colonised with vast underground city complexes
-(known as Pellucidar). The planet was originally
+colonised with vast underground city complexes (known as Pellucidar). The planet was originally
 colonised by Vilani nobles during the First Imperium
 and retained much of their technology during the
 Long Night. This evolved into the Aakhri Empire
-which perverted the Vilani caste system into a slave-
-based republic. The Empire used its technology to
+which perverted the Vilani caste system into a slave-based republic. The Empire used its technology to
 ```
 
 enslave much of Argi and Sapphyre subsectors. Over
@@ -5215,8 +5218,7 @@ and medical services may be denied.
 IGI - Ikensaag Gravity Industries
 ```
 ```
-IGI is a sector-wide combine based on Sh'si/Argi
-(1835) , whose main field of expertise is Gravatics
+IGI is a sector-wide combine based on Sh'si/Argi (1835) , whose main field of expertise is Gravatics
 and their industrial applications. They are the
 second largest producer of Grav vehicles in the
 sector after GTL.
@@ -5641,7 +5643,6 @@ quarantine period. Today Twin Lines uses mixed
 crews of Scanian Nehutei, unadapted Scanians and
 Imperials.
 
-
 **Uaam 0940 A579546-E Ni 814 Im M2 V**
 
 Planet's divided into two continents. One polar and
@@ -5660,8 +5661,7 @@ primates. The forests they live in are fill with
 temples, apparently to their various gods and the
 University of Ushra maintains a base there in order to
 better study this fascinating neolithic race. The
-Jala'Lak can also be found on Giirakh/Zeda 0325
-(886768-C) but for an as yet inexplicable reason, their
+Jala'Lak can also be found on Giirakh/Zeda 0325 (886768-C) but for an as yet inexplicable reason, their
 temper is vastly different - much more savage, even
 cannibalistic. Clearly they are not native to Giirakh
 and consequently are the subject of much debate.
@@ -5678,8 +5678,7 @@ underground.
 **Ur 1532 B400551-F Ni Va 504 Im M1 D M0 D**
 
 A cold, vacuum world which is subject to extreme
-daytime temperatures in excess of 220ºC and night-
-time temperatures of -250ºC. The world was
+daytime temperatures in excess of 220ºC and night-time temperatures of -250ºC. The world was
 colonised by vacuum miners who discovered
 Onnesium-118 on the planet. The lucky few who
 discovered sufficiently large deposits became
@@ -5697,10 +5696,8 @@ positions.
 The Yarhei Kel'a is a period of 30 days each and every
 year in which Scanian followers take time off from
 their employment to attend a local Centre of
-Knowledge, so that they may assist the Scholars
-(Rab'ani) by evaluating and cross-examining their
-thoughts and theories. This concept of cross-
-examination is known as Ve'Ima Iphka or “perhaps the
+Knowledge, so that they may assist the Scholars (Rab'ani) by evaluating and cross-examining their
+thoughts and theories. This concept of cross-examination is known as Ve'Ima Iphka or “perhaps the
 opposite holds true..”
 
 ```
@@ -5779,15 +5776,13 @@ globe. Currently only three of the ship's have fully
 functional devices with another two working
 occassionally.
 
-
 The Rebellion in Argi Subsector 1116 to 1120
 
 This is the first in a series of articles that will seek to
 illustrate the ongoing conflict in Dagudashaag sector.
 These articles will deal with a single subsector in turn
 and will be concentrating on the naval conflicts that
-are taking place. Even though a subsector is a rela-
-tively small area of space, due to the period of time
+are taking place. Even though a subsector is a rela-tively small area of space, due to the period of time
 that is being examined, the individual battles in the
 systems will not be discussed in detail. Instead, the
 'grand picture' will be under the microscope. So
@@ -5798,23 +5793,20 @@ then, to begin.
 The war came early to Argi subsector. This was due to
 its close proximity to Ilelish, bastion of Dulinor. With
 Bolivar subsector aligning itself with the Archduke,
-this put Argi to the front line. Argi subsector is heav-
-ily industrialized and much of this of high technology.
+this put Argi to the front line. Argi subsector is heav-ily industrialized and much of this of high technology.
 This makes the subsector a useful conquest. At first
 there was a subsector wide crash at the news of the
 assassination of Strephon and the expectancy of civil
 war. This ended in the wake of the news that the
 Duchess Karyn intended to keep Dagudashaag out of
-the war. Unfortunately for Argi Dulinor and Lucan did-
-n't hear, or didn't want to hear, Karyn's message.
+the war. Unfortunately for Argi Dulinor and Lucan did-n't hear, or didn't want to hear, Karyn's message.
 The first battle involving the Argi fleet (the 159th)
 took place on 259-1116 in Arlu (1339) against the 83rd
 fleet, which had declared for Dulinor. This fleet was
 bound for Lenashuuk, a high population world that
 also served as a communication nexus. The 83rd
 brushed aside the few squadrons deployed at Arlu and
-arrived at Lenashuuk, where covert forces had al-
-ready captured the way station. Two major battles
+arrived at Lenashuuk, where covert forces had al-ready captured the way station. Two major battles
 later on 299, the 83rd fleet had been beaten off after
 expected reinforcements had failed to arrive and they
 had been outnumbered by the combined 169th and
@@ -5834,16 +5826,13 @@ The Loyal Fleet entered Dagudashaag on 009-1117
 and after picking up the remnants of the 83rd, were
 soon on their way into Argi. They first attacked at
 Akiva, where Hiirinanan had mustered the main
-strength of her forces. Against the huge forces ar-
-rayed against her, it was only through her deft skill
+strength of her forces. Against the huge forces ar-rayed against her, it was only through her deft skill
 
 ```
 that the military base on Akiva and the majority of
 her forces escaped. With the magazines of Akiva
-empty, Dulinor's forces had to wait to bring up suffi-
-cient supplies. In the interim, Hiirinanan based her
-forces at Rashiki. Additional time was lost by Duli-
-nor's fleet trying to fight the Scanian's on a fierce
+empty, Dulinor's forces had to wait to bring up suffi-cient supplies. In the interim, Hiirinanan based her
+forces at Rashiki. Additional time was lost by Duli-nor's fleet trying to fight the Scanian's on a fierce
 water world with excessive gravity. So successfully
 were the Scanian attacks that within a year Dulinor
 had agreed to a treaty allowing the Scanian people
@@ -5858,16 +5847,12 @@ in Pact subsector. Hiirinanan fought this behemoth as
 best she could, but she was always giving ground and
 could expect little better with no reinforcements
 available. By 110, Hiirinanan had been forced to pull
-back to the Gateway corridor to protect Argi's popu-
-lation. Ilelish forces then rapidly broke through to
-Sapphyre subsector on 145. The only resistance en-
-countered in this drive was at Lenashuuk from the
+back to the Gateway corridor to protect Argi's popu-lation. Ilelish forces then rapidly broke through to
+Sapphyre subsector on 145. The only resistance en-countered in this drive was at Lenashuuk from the
 balkanized world's national fleets. The Loyal Fleet
 rear echelon continued a coreward/trailing offensive
 in an attempt to give the front line forces engaging
-in Pact subsector bases from which to operate. How-
-ever, by the year's end, the key bases of the Gate-
-way system, Argi and Gigi had not fallen, despite
+in Pact subsector bases from which to operate. How-ever, by the year's end, the key bases of the Gate-way system, Argi and Gigi had not fallen, despite
 much effort and high casualties on both sides. This
 failure certainly hampered the Loyal Fleet's efforts
 against Medurman and Lucan forces in the battles to
@@ -5876,9 +5861,7 @@ secure Ikabi.
 ```
 The year had seen a massive reversal in fortunes for
 Argi. The massed Ilelish forces had removed the
-early optimizm. Several worlds were now under di-
-rect Ilelish rule, and many others had sworn alle-
-giance and neutrality in the conflict rather than be
+early optimizm. Several worlds were now under di-rect Ilelish rule, and many others had sworn alle-giance and neutrality in the conflict rather than be
 'persuaded' by the Loyal Fleet.
 ```
 ```
@@ -5895,20 +5878,16 @@ were taken by Dulinor. Little of the 159th and
 remained In Argi under the command of Hiirinanan
 to act as raiders against Dulinor and as a contact
 group for those worlds that were covert members of
-the FMF. This force remained in action until mid-
-1120 when FMF forces, in the wake of the successful
+the FMF. This force remained in action until mid-1120 when FMF forces, in the wake of the successful
 Lucan offensive, reclaimed many of the worlds in
 Argi for Medurma.
 ```
 ## WAR ZONE: ARGIWAR ZONE: ARGIWAR ZONE: ARGIWAR ZONE: ARGI
 
-
-At the end of 1118, Argi was under the yoke of Ilel-
-ish. Fortunately, unlike the rule of Lucan, the Ilelish
+At the end of 1118, Argi was under the yoke of Ilel-ish. Fortunately, unlike the rule of Lucan, the Ilelish
 occupation forces were under orders to treat the
 population well, so the acts of barbarism so often
-seen to trailing were very rare. Also, the free rem-
-nants of the 159th were available to offer relief, and
+seen to trailing were very rare. Also, the free rem-nants of the 159th were available to offer relief, and
 much effort was spent, and wasted, by Ilelish forces
 to track them down.
 
@@ -5921,77 +5900,55 @@ was a stop off for Dulinor's forces as they fled from
 the slugfest that had smashed the main element of
 the Loyal Fleet in Pact and The Remnants. Gateway
 saw several rear action and counter attacks as Ilelish
-forces sought to regroup to spinward. Although Duli-
-nor respected his neutrality policy with the
+forces sought to regroup to spinward. Although Duli-nor respected his neutrality policy with the
 Scanian's, Lucan did not. In fact, he was so sure that
 the policy was a trick to allow Dulinor to maintain a
 secret base that he ordered a nuclear strike but for
 some unexplained reason the ship exploded before it
 could carry out its grim task. Fortunately for Dulinor
-these rear action battles and the state of the Venge-
-ance Fleet after previous battles meant that this
-regrouping could take place. The fault for this fail-
-ure by the larger Vengeance Fleet could be laid on
-Lucan, who was personally in command of the Impe-
-rial forces. His lack of knowledge of strategy turned
-the war from one of manoeuvre, into one of attri-
-tion. The Loyal Fleet lost, but the victory was pyr-
-rhic. In private, many imperial admirals were making
+these rear action battles and the state of the Venge-ance Fleet after previous battles meant that this
+regrouping could take place. The fault for this fail-ure by the larger Vengeance Fleet could be laid on
+Lucan, who was personally in command of the Impe-rial forces. His lack of knowledge of strategy turned
+the war from one of manoeuvre, into one of attri-tion. The Loyal Fleet lost, but the victory was pyr-rhic. In private, many imperial admirals were making
 poor comparisons with Terra's first world war (this
 was characterised by many pointless attacks that
 resulted in huge casualties on both sides). At the
 end of 1119, Argi remained in the hands of Dulinor.
-However, he was now on the defensive against Lu-
-can. Already Imperial scouting forces had penetrated
+However, he was now on the defensive against Lu-can. Already Imperial scouting forces had penetrated
 Argi from Sapphyre subsector. Doubtless, this was in
 preparation for a major offensive.
 
 1120
 
-The offensive that everybody knew was going to hap-
-pen happened. Like previous attacks launched by
+The offensive that everybody knew was going to hap-pen happened. Like previous attacks launched by
 Lucan, it was characterised by its complete lack of
 strategic knowledge. Firstly it was launched against
-Dulinor's salient, the spinward. Secondly, no sub-
-tlety at all was employed. Tabloid editors with re-
-corded IQ's of under 80 successfully predicted Lu-
-can's targets. Successes came, but only through su-
-perior numbers and at huge cost. In addition to these
+Dulinor's salient, the spinward. Secondly, no sub-tlety at all was employed. Tabloid editors with re-corded IQ's of under 80 successfully predicted Lu-can's targets. Successes came, but only through su-perior numbers and at huge cost. In addition to these
 tactics (or rather the lack of them), Lucan was willing
 to accept victory at any cost. Many worlds that were
 regarded to difficult to take or defend had already
-been devastated by the Vengeance Fleet. In Argi sev-
-eral worlds were devastated by nuclear missiles: Shu-
-lasgu, Mishu, Liishuga, Shidka and Ashmara were
-among those worlds to be so attacked. This combina-
-tion of planetary destruction and attrition warfare
+been devastated by the Vengeance Fleet. In Argi sev-eral worlds were devastated by nuclear missiles: Shu-lasgu, Mishu, Liishuga, Shidka and Ashmara were
+among those worlds to be so attacked. This combina-tion of planetary destruction and attrition warfare
 
 ```
 forced back Dulinor's fleet until the only world in Argi
 that could be described as loyal was Uaam. Only a
 few worlds in Argi were actually occupied by Lucan
-for use as supply points for his fleets. Those remain-
-ing worlds became reconnected with the FMF. Impe-
-rial admirals were happy to let this happen, as FMF
-forces assisting ravaged worlds could not attack Impe-
-rial forces elsewhere. However, it did give the Free
+for use as supply points for his fleets. Those remain-ing worlds became reconnected with the FMF. Impe-rial admirals were happy to let this happen, as FMF
+forces assisting ravaged worlds could not attack Impe-rial forces elsewhere. However, it did give the Free
 Medurman Navy (FMN) many potential bases from
 which to strike. Argi is again in the front line. Lucan's
-concept of warfare virtually ensures that this will re-
-main so as his diminished fleets combat Dulinor's
-equally reduced units. Both sides are heading for ex-
-haustion. Indeed, in Dagudashaag, the next few years
+concept of warfare virtually ensures that this will re-main so as his diminished fleets combat Dulinor's
+equally reduced units. Both sides are heading for ex-haustion. Indeed, in Dagudashaag, the next few years
 of the rebellion would see the front line advance by
 only 10 parsecs. Argi will remain the battle ground for
 what remains of the largest fleets in existence since
-the interstellar wars. What lies in the future? Cer-
-tainly it will be a long time before it returns to its
+the interstellar wars. What lies in the future? Cer-tainly it will be a long time before it returns to its
 position of the industrial heart to the Imperium.
 ```
 
 Key to Allegiances: D—Federation of Ilelish, L—Lucan's Imperium, M—Free Medurman Federation
 Site of major battle
-
 
 Subject: First Thoughts on Dagudashaag
 
@@ -6108,15 +6065,13 @@ it with a double-a (Dagudashaag).
 4) The sector capital, Medurma (Dagudashaag 2124)
 appears to have been slightly misplaced by Rebellion
 Sourcebook - RS places it in subsector O when it is in
-fact in subsector K (who drew these maps anyway? ).
+fact in subsectorK (who drew these maps anyway? ).
 One notable effect of this is to place Medurma outside
 the area of major battles or clashes in 1117 shown by
-Rebellion Sourcebook. My guess is that Lucan manages
-(or at least tries) to use Medurma as a supply base and
+Rebellion Sourcebook. My guess is that Lucan manages (or at least tries) to use Medurma as a supply base and
 stronghold from which to launch his assaults on
 ```
 ## DAG DEVELOMENT NOTESDAG DEVELOMENT NOTESDAG DEVELOMENT NOTES DAG DEVELOMENT NOTES
-
 
 Dulinor. There would be a very significant force
 concentration of Lucan's ships in this area, but his
@@ -6170,9 +6125,8 @@ Wainfrost, and strips him of his Starburst remains to be
 seen...
 
 5) Looking at the Atlas maps, there appear to be
-concentrations of Imperial Scout bases in subsector I
-(just to spinward of the Zeda system, Dagudashaag
-0721), and subsector N (around 1538). There is also a
+concentrations of Imperial Scout bases in subsector I (just to spinward of the Zeda system, Dagudashaag
+0721), and subsectorN (around 1538). There is also a
 fair-sized cluster of Naval bases in subsector L, in the
 region between Khusgulur (2525) and Shea (2927),
 specifically, at 2725, 2727, 2526, 2827 and 2828. This
@@ -6187,8 +6141,7 @@ fair cluster of A's around Eraki and Depot. I envisage
 this Eraki region as being a high-tech industrial
 grouping (possibly a TL16 world here – we'll just have
 to wait for Second Survey until we can find out). The
-region between 1821 and Medurma is also well-
-developed - this may be one of the older centres of
+region between 1821 and Medurma is also well-developed - this may be one of the older centres of
 civilisation in the sector.
 ```
 ```
@@ -6210,8 +6163,7 @@ this area. Could this
 have been the
 Anshulam Bilanidin, the
 original “Imperial
-Starlane”? Bolivar
-(Dagudashaag 0240) is
+Starlane”? Bolivar (Dagudashaag 0240) is
 a Solomani name with
 interesting
 possibilities. Only wish
@@ -6227,6 +6179,8 @@ draft of the Second
 Survey data lists it as:
 1633 C9E7366-C S LO NI
 FL DR G
+
+
 ```
 ```
 The temptation to call
@@ -6243,8 +6197,7 @@ Background Notes
 ```
 That concludes the overview of the published
 information on Dagudashaag Sector. Now comes the
-difficult part - piecing the info together jigsaw fashion
-(personally, I always start at the corners..!).
+difficult part - piecing the info together jigsaw fashion (personally, I always start at the corners..!).
 ```
 ```
 Firstly, my feeling is that Dagudashaag has a very long
@@ -6318,8 +6271,7 @@ helmets, neurocouplers) is a S'mrii speciality - see
 ```
 ```
 The S'mrii would best be described as “neoV
-sophontists”, and this explains why the ConSentiency
-(covering a sizeable chunk of subsector A), sides on
+sophontists”, and this explains why the ConSentiency (covering a sizeable chunk of subsector A), sides on
 bloc with the “Real” Strephon in 1113. For additional
 information, see the HIWG Pub “Contact: The S'mrii”.
 But then one minor race isn't really enough for a
@@ -6354,12 +6306,10 @@ begins.
 106 Vilani Pacification Campaign ends. The Imperium now rules the whole of
 Dagudashaag.
 128 Displacement of S'mrii inhabitants of a number worlds in Gushemege
-D/Dagudashaag A by Makhidkarun colonists creates ill-feeling. Formation of pro-
-Vilani and anti-Vilani factions in S'mrii government.
+D/Dagudashaag A by Makhidkarun colonists creates ill-feeling. Formation of pro-Vilani and anti-Vilani factions in S'mrii government.
 274 Medurma designated sector capital.
 629 Triask ii Kiaskui appointed Duke of Mimu.
 698 Jan Viisarikaa I becomes Sector Duke.
-
 
 sector now is it? The cluster of Scout bases around
 Zeda (Dagudashaag 0721), suggested the idea of an
@@ -6578,8 +6528,7 @@ Duchy [[Capital]] - Mimu (0208 A583AC9-F)
 ```
 ```
 Mimu subsector is
-heavily agricultural
-(there are seven
+heavily agricultural (there are seven
 agricultural worlds in
 the subsector). The
 five major
@@ -6609,13 +6558,11 @@ at the beginning of
 the Long Night.
 ```
 ```
-The S'mrii of Mimu
-(0208) had already
+The S'mrii of Mimu (0208) had already
 created a thriving interstellar state of almost a dozen
 star systems, linked by efficient sublight ships by about
 -11,000, First contact with the Vilani took place in
-3,090, at a Naarsirka prospecting case on Karrana'ch
-(0302).
+3,090, at a Naarsirka prospecting case on Karrana'ch (0302).
 ```
 ```
 The majority of the systems in this subsector lie on the
@@ -6637,8 +6584,7 @@ The S'mrii homeworld. For further information, see
 
 0803 Chiauk A231557-G NI PO IM G
 The S'mrii ConSentiency PanPhylum Research Facility.
-Phyla working in different disciplines are able to co-
-ordinate their efforts, in order to produce new
+Phyla working in different disciplines are able to co-ordinate their efforts, in order to produce new
 technological breakthroughs. The ConSentiency
 government generates additional income, by allowing
 human corporations to use the research facilities, on a
@@ -6722,9 +6668,7 @@ from the University of Mimu carried out a complete
 investigation. To everyone's disappointment, the
 artifacts were found to be of First Imperium vintage.
 Everyone, that is, except the mine installation's
-management, which had happily been selling off 100-
-meter-square plots of unproductive land at grossly-
-inflated prices to prospective artefact hunters...
+management, which had happily been selling off 100-meter-square plots of unproductive land at grossly-inflated prices to prospective artefact hunters...
 ```
 ```
 Since then, the planet has returned to being a sleepy
@@ -6747,8 +6691,7 @@ technical personnel left on the planet are desperate to
 leave.
 ```
 ```
-The President's actions have also decimated out-
-system trade, thus causing a crippling economic crisis.
+The President's actions have also decimated out-system trade, thus causing a crippling economic crisis.
 The only thing holding back major civil unrest is the
 fear of the consequences, in terms of environmental
 collapse. The President's policy is to prey on the
@@ -6784,8 +6727,7 @@ conducted by Con-Amalagamated WorldTechnologies of
 [[Core sector]]  was pronounced complete in 1031, and
 major settlement efforts began the year after.
 
-Subsector E: SHALLOWS, Duchy [[Capital]] - Diishalum
-(0714 B120988-F)
+Subsector E: SHALLOWS, Duchy [[Capital]] - Diishalum (0714 B120988-F)
 
 This area is important from the point of view of
 communications, as the most direct link between the
@@ -6962,8 +6904,7 @@ Imperium for his campaigns for sophont rights.
 (See the HIWG Pub “Personality: Edward Amekaa
 Simalr”)
 
-Another notable member of the Simalr clan is Jianik-
-Anne Simalr (32). Edward's sister, and chief
+Another notable member of the Simalr clan is Jianik-Anne Simalr (32). Edward's sister, and chief
 Dagudashaag representative to the Grand Council of
 the Vland Domain.
 
@@ -7004,8 +6945,7 @@ imported Agroproduce, which the nearby worlds
 cannot fulfil
 ```
 ```
-1712 C7AA886-C S FL WA IM G
-(Home to an unusual alien minor race. Details later)
+1712 C7AA886-C S FL WA IM G (Home to an unusual alien minor race. Details later)
 ```
 ```
 Subsector H: KURIISHE
@@ -7034,8 +6974,7 @@ scruples, a liar, and a hedonist to boot. He should go
 far in Lucan's Imperium...
 ```
 ```
-Subsector I: ZEDA, Duchy [[Capital]] - Zeda (0721 8873967-
-E)
+Subsector I: ZEDA, Duchy [[Capital]] - Zeda (0721 8873967-E)
 ```
 ```
 This region is a victim of arbitrary subsector divisions.
@@ -7254,8 +7193,7 @@ See Rebellion Sourcebook, p.24
 ```
 ```
 2923 Anpanaar C343531-7 NI PO IM G
-This system looks innocent enough, your average run-
-of-the-mill backwater dirtball. It isn't. Anpanaar
+This system looks innocent enough, your average run-of-the-mill backwater dirtball. It isn't. Anpanaar
 suffers from what the I.I.S.S. sophontology experts call
 a “pathologically misstructured culture”. There are
 many things “wrong” with the Anpanaari culture but
@@ -7275,8 +7213,7 @@ judged the situation to be stable, and designated the
 system Travel Zone Green.
 ```
 ```
-The population of Medurma is remarkably cosmopolitan
-(there is a sizeable community of Aslan, for instance).
+The population of Medurma is remarkably cosmopolitan (there is a sizeable community of Aslan, for instance).
 Imperial sociologists find Medurma particularly
 interesting, as the population tends to be socially
 stratified by altitude - the deeper-level areas are
@@ -7425,8 +7362,7 @@ Duchy [[Capital]] - Sapphyre (2137 A977200-D)
 ```
 ```
 This subsector is relatively sparsely populated - there
-is only one high-population world in the subsector
-(Durgaruur/Sapphyre). The vast majority of the
+is only one high-population world in the subsector (Durgaruur/Sapphyre). The vast majority of the
 systems lie on the Dagudashaag Main. Even though the
 volume of intersystem trade in this subsector is less
 than in, say, Argi or Pact, it is still economically
@@ -7438,8 +7374,7 @@ between 2237/Sapphyre and 2437/Sapphyre.
 2137 Sapphyre A977200-D LO NI IM G
 The name of this world (and the name of the
 subsector), comes from the intense colour produced in
-the planet's oceans, caused by vast numbers of micro-
-organisms which metabolise copper compounds
+the planet's oceans, caused by vast numbers of micro-organisms which metabolise copper compounds
 dissolved in the water.
 ```
 ```
@@ -7464,27 +7399,24 @@ A distress signal. A cry for help... A cry to adventure!
 
 Welcome to the back pages! For those of you who think this is a weird place to place an editorial - think
 about it! The editorial is the last thing written and probably the most boring part... I think I've got it
-right. Actually GK {that's the house name} doesn't have a proper editorial - this is the letter page. Obvi-
-ously because this is the first issue there are no letters to print but I can hope that you'll fill this page
-(and possibly others as well) in Issue 2.
+right. Actually GK {that's the house name} doesn't have a proper editorial - this is the letter page. Obvi-ously because this is the first issue there are no letters to print but I can hope that you'll fill this page (and possibly others as well) in Issue 2.
 
 I thought I'd fill in a little of the background to GK. If you get bored just turn back and read that article
 you said you'd read later.. I started with Traveller about 11 or 12 years ago when I bought an original set
 of 3 books. From that point on I was hooked. Then about 5 years ago I moved to London and no longer had
-any players. That combined with my job's wierd hours meant I ended up giving up Traveller. Then Mega-
-Traveller came out, I got hold of my first copy of the Digest (issue 9) and I was hooked again. Last ,:ear i
+any players. That combined with my job's wierd hours meant I ended up giving up Traveller. Then Mega-Traveller came out, I got hold of my first copy of the Digest (issue 9) and I was hooked again. Last ,:ear i
 decided to put out a Traveller fanzine probably based in the unaligned worlds to the Rimward of the So -
 ward Marches. Then I read Duncan's advert for people in Britain to join HIWG. That was in December of
-last year. Before I knew what was going on I'd been passed Dagudashaag to develop. Duncan had put to-
-gether some fascinating data and I wanted to take all the parts and expand upon them. That was a couple
-of months ago. GK is the end product. A Fanzine which will issue by issue combine together to form an in-
-depth Encyclopaedia Dagudashaag!
+last year. Before I knew what was going on I'd been passed Dagudashaag to develop. Duncan had put to-gether some fascinating data and I wanted to take all the parts and expand upon them. That was a couple
+of months ago. GK is the end product. A Fanzine which will issue by issue combine together to form an in-depth Encyclopaedia Dagudashaag!
 
 Each issue will concentrate on a specific subsector and will detail the worlds and personalities of that
 subsector, each article and adventure will be set or relate there. In short each issue is an invaluable aid
 to adventuring within the Dagudashaag sector and believe me when I say - You've seen nothing yet!
 
 THE TEAM
+
+
 
 Unlike most fanzines GK is very much a team effort. Each member of that team is as valuable as any
 other. There are few articles in this issue that has not been improved as a result of another member's
@@ -7494,16 +7426,13 @@ help and assistance. That's what make GK so special - Teamwork!
 
 along the Sylean Main, to markets in [[Core sector]] . The region is fairly densely populated.
 
-Kadushi cluster, in the rimward half of the subsector, is an interesting example of economic co-operation. Kakar
-(2937), Kadushi (3136), and Shardi (3236) have together formed a government-sponsored shipping company.
+Kadushi cluster, in the rimward half of the subsector, is an interesting example of economic co-operation. Kakar (2937), Kadushi (3136), and Shardi (3236) have together formed a government-sponsored shipping company.
 Cluster Cargo Carriers LIC. Cluster specialises in bulk freight, and is judged to be giving Tukera Lines serious
 competition.
 
 3032 Uumirsa 8000954-F A HI NA IN AS IM G
-Uumirsa Belt is the home to Miradyne-Shumaar Shipyards LIC., one of the best-known producers of asteroid-
-hulled spacecraft in the Imperial Core. Miradyne has produced several series of planetoid monitors for a number
+Uumirsa Belt is the home to Miradyne-Shumaar Shipyards LIC., one of the best-known producers of asteroid-hulled spacecraft in the Imperial Core. Miradyne has produced several series of planetoid monitors for a number
 of important Core and Dagudashaag systems, including Argi, Ekhugush, and Sanches.
 
 ###### Dag Development Notes Continued...
-
 

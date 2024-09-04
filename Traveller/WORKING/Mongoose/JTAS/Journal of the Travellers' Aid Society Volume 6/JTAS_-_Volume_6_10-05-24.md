@@ -6,16 +6,24 @@
 Critical Vector 50
 BESTIARY 45
 CENTRAL SUPPLY
+
+
 Vehicle Mounted Missiles 90
 CHARTED SPACE
+
+
 Stars & Stellar Objects 19
 The Irklan 27
 Tramp Trader 39
 A Fifth Frontier War? 56
 Mertactor 108
 ENCOUNTERS
+
+
 Dev Landrel 16
 HIGH GUARD
+
+
 Steppehauler Freighter 02
 Subsidized Merchant 32
 Interceptors 76
@@ -23,10 +31,14 @@ Incarnate Strike Destroyer 103
 Ambush Hunter-Killer Corvette 124
 
 TRAVELLING
+
+
 Prangs, Dings and Crashes 70
 First Contact 84
 Planetside Transportation 97
 VEHICLE HANDBOOK
+
+
 Maritime Vehicles 64
 Vehicles of the IISS 114
 
@@ -86,9 +98,7 @@ the ground when the ship is landed.
 
 The default modules are unpowered cargo containers (the lack of power
 does not reduce the cost of the hull, which uses extra bracing to make up
-for the lack of active system integrity measures), holding raw materials
-(usually ores hauled back to the Khaganate) or manufactured goods
-(sometimes entire starships, disassembled for shipping). Alternate
+for the lack of active system integrity measures), holding raw materials (usually ores hauled back to the Khaganate) or manufactured goods (sometimes entire starships, disassembled for shipping). Alternate
 modules include:
 
 - Downport Module: A complete Class D downport. Almost Class C,
@@ -150,15 +160,14 @@ Purchase Cost: MCr835.
 
 Hull 1,400 Tons, Streamlined – 84
 Armor Molecular Bonded, Armor: 4 28 50.
-M-Drive Thrust 3 (energy efficient x3) 42 126
+M-Drive Thrust3 (energy efficient x3) 42 126
 H-Drive Hop 1, (energy inefficient,
 prototype drive)
 
 ### 40 360
 
 Power Plant Fusion (TL 15), Power 400 20 40
-High Efficiency Batteries
-(TL 12), Power 180
+High Efficiency Batteries (TL 12), Power 180
 
 ### 3 0
 
@@ -1372,8 +1381,7 @@ Processing to run Hop Control.
 
 The need for an astrogator does not completely disappear, as the software
 must still be monitored, mostly at the start and finish of the process.
-This is an Easy (4+) Astrogation (1D x 10 hours, EDU) check, with DM-
-for each 10 parsecs or fraction thereof and the astrogator can do other
+This is an Easy (4+) Astrogation (1D x 10 hours, EDU) check, with DM-for each 10 parsecs or fraction thereof and the astrogator can do other
 things during this check (the astrogator's actual time spent is 1D minutes
 each at the commencement and conclusion). The high variability comes
 from the simulations' randomness; sometimes the computer finds the
@@ -1391,8 +1399,7 @@ Maximum Parsecs 10 20 30
 % of Hull 2.5 5 7.
 Hop TL 17 19 20
 Software Hop Control/1 Hop Control/2 Hop Control/
-Software MCr for Non-
-core Computers
+Software MCr for Non-core Computers
 
 ### 1 2 3
 
@@ -1546,8 +1553,7 @@ salaries unpaid, when he decides to move on to another excavation.
 
 Lastly, there is a chance that Landrel will have artifacts of the Ancients
 or art treasures in his possession when the Travellers encounter him;
-in this case, there is a possibility that the Travellers will want to rob him
-(in this case, Landrel should have a bodyguard or two to make things
+in this case, there is a possibility that the Travellers will want to rob him (in this case, Landrel should have a bodyguard or two to make things
 interesting). It should be pointed out that the relics Landrel is usually
 able to find are valuable for their artistic or historical interest rather
 than being miracle gadgets of high technology. Referees should avoid
@@ -1604,8 +1610,7 @@ system, perhaps leaving a few fragments of planets or distant comets.
 
 Whether or not the Referee chooses to place such systems on the map
 is a matter of personal choice. A 'mainworld-centric' map does not really
-need them unless they are the subject of an adventure but an exploration-
-based game where the Travellers may not be able to detect whether the
+need them unless they are the subject of an adventure but an exploration-based game where the Travellers may not be able to detect whether the
 star has planets might require many stars to be plotted and their system
 only detailed when explored.
 
@@ -1793,8 +1798,7 @@ that contains several stars all with planets would be an exciting find,
 since it allows the development of a non-jump economy using resources
 of several star systems. More commonly, a complex system consists of
 a primary and distant companion plus additional close companion stars
-and maybe very distant stellar bodies. These may be brown dwarf sub-
-stellar objects or a rogue star. Such a body might be in the process of
+and maybe very distant stellar bodies. These may be brown dwarf sub-stellar objects or a rogue star. Such a body might be in the process of
 being captured or may be passing through the star system without being
 truly a part of it.
 
@@ -1832,8 +1836,7 @@ metaseasonal changes, for example being a frozen wasteland when
 orbiting far from the companion star but going though a warmer period
 hundreds or thousands of years long when closer to the secondary. 
 
-There are no special considerations for the Referee laying out a main-
-sequence star system. If the mainworld has a breathable atmosphere,
+There are no special considerations for the Referee laying out a main-sequence star system. If the mainworld has a breathable atmosphere,
 life and/or liquid water then it needs to be in the warm zone and should
 be placed first. Additional bodies such as planetoid belts, gas giants
 and non-mainworlds can be placed wherever the Referee prefers,
@@ -1843,7 +1846,7 @@ system at the Referee's preference.
 
 Main-sequence stars are indicated by the code V after their luminosity
 class. Thus a G5 V star lies roughly in the middle of the temperature
-range for type G (white to yellow) stars and is a main-sequence star
+range for typeG (white to yellow) stars and is a main-sequence star
 of average mass.
 
 # SUBGIANT AND GIANT STARS
@@ -2211,17 +2214,11 @@ increase the Tech Levels and wealth of other systems in the cluster.
 ###### Bloodshot Cluster
 
 Name Location Bases Profile
-Conway 2735 S D894586-
-Edenelt 2733 – A5638BD-B
+Conway 2735 S D894586-Edenelt 2733 – A5638BD-B
 Hammermium 2936 – A5525AB-B
 Katarulu 3032 A B552665-B
-Leander 2832 – E695244-
-Murchison 2935 N B544433-
-Pepernium 2833 – D567530-
-Prilissa 3035 – B
-Raydrad 2933 – E99467A-
-Traltha 2834 – B590630-
-Zyra 2934 – B555448-
+Leander 2832 – E695244-Murchison 2935 N B544433-Pepernium 2833 – D567530-Prilissa 3035 – B
+Raydrad 2933 – E99467A-Traltha 2834 – B590630-Zyra 2934 – B555448-
 
 Name Trade Codes Travel Code Gas Giants
 Conway Ag Ni – G
@@ -2365,8 +2362,7 @@ promise to deliver wealth and prosperity beyond your wildest dreams.
 
 Choosing the right trade route and employing a broker who is adept at
 buying low and selling high can earn you all you need to pay off the
-ship and earn a tidy sum for your Travellers to start buying all the high-
-tech goodies they want. An enterprising Referee can use the Trade,
+ship and earn a tidy sum for your Travellers to start buying all the high-tech goodies they want. An enterprising Referee can use the Trade,
 Spacecraft Operation and Space Combat chapters of the Traveller
 Core Rulebook to put his Travellers into all sorts of interesting and fun
 situations. Here are a few ideas to spice up your tramp trader campaign,
@@ -2451,8 +2447,7 @@ requiring them to be eccentric or disruptive:
 
 Travellers quickly learn to play by – and exploit – the rules. Many Referees
 allow Travellers to run the Trade rules independently as the Traveller
-Core Rulebook suggests, so they soon learn that high-population, high-
-grade starport systems are the places where they can make the most
+Core Rulebook suggests, so they soon learn that high-population, high-grade starport systems are the places where they can make the most
 cash. Looking at the trade codes of each world gives them an inkling of
 what goods they should buy (if available) and where they should go to
 sell them. Whilst making tons of Credits is appealing to all Travellers, if
@@ -2603,8 +2598,7 @@ for the ice crawler; which 'breathes' hydrogen. No muscular action is
 involved in this process; hydrogen is diffused through the spongy tissue
 and sequestered and collected chemically within the creature's body.
 
-The ice crawler metabolises rock. They have a dual poly-chain silicon-
-carbon biochemistry, using silicon in some biochemical reactions and
+The ice crawler metabolises rock. They have a dual poly-chain silicon-carbon biochemistry, using silicon in some biochemical reactions and
 carbon in others. Carbon comes from the breakdown of the methane
 present in the atmosphere, while silicon is liberated by heating and
 reduction reactions from ingested rock. In this environment, the silicon
@@ -2754,11 +2748,19 @@ Open Water
 = 50Km
 
 DOWN
+
+
 PO
+
+
 RT
+
+
 
 **SI
 GN
+
+
 AL**
 
 # ADVENTUREADVENTURE 
@@ -2771,8 +2773,7 @@ the sector's trade routes has isolated it from the majority of interstellar
 traffic. The best it can hope for is the occasional visit by a wandering
 free trader or the punctual arrival of a bulk freighter on the tail end of its
 route. Nevertheless, the Travellers find themselves jumping to Brufort
-on a tip that it is a hot market for mid-tech common manufactured goods
-(computer systems) and construction polymers.
+on a tip that it is a hot market for mid-tech common manufactured goods (computer systems) and construction polymers.
 
 As they emerge from jump, the Travellers are probably eager to find a
 broker and make the sale but when they attempt to establish contact with
@@ -2857,8 +2858,7 @@ Should the Travellers choose this method, they must first approach the
 asteroid; there is cause for concern considering the last two ships to try
 this were incinerated. The Travellers should approach with caution.
 
-Have the ship's sensor operator make an Average (8+) Electronics
-(sensors) check upon approach. A successful check reveals the
+Have the ship's sensor operator make an Average (8+) Electronics (sensors) check upon approach. A successful check reveals the
 asteroid has loose bodies of rubble orbiting it. This may have been what
 destroyed the corvettes. To fly close to the asteroid, apply the Effect of
 the Electronics (sensors) check to a Difficult (10+) Pilot check (DEX,
@@ -2875,8 +2875,7 @@ First have the Travellers make a Difficult (10+) Electronics (sensors)
 check (INT, 1Dx10 minutes) to identify their options. Apply the modifiers
 from the sensors table on page 19 of High Guard, doubling the DM for
 Improved or Advanced sensors since those include densitometers. Apply
-the effect of the Electronics (sensors) check to a Difficult (10+) Science
-(planetology) or Profession (belter) check (INT, 1D+1 hours). This time
+the effect of the Electronics (sensors) check to a Difficult (10+) Science (planetology) or Profession (belter) check (INT, 1D+1 hours). This time
 is spent surveying the asteroid using the ship's sensors to determine
 which placement is optimal. Failure means the Travellers must start the
 procedure over, starting with the initial Electronics (sensors) check.
@@ -2915,8 +2914,7 @@ their starship and should only be considered as a last resort.
 ### TIME TO IMPACT
 
 At the time of the Travellers' arrival, there are only four standard days (96
-hours) remaining before the asteroid hits Brufort, divided into eight 12-
-hour periods that are used to determine the effectiveness of any attempts
+hours) remaining before the asteroid hits Brufort, divided into eight 12-hour periods that are used to determine the effectiveness of any attempts
 to deflect the asteroid in the Time to Impact table. 
 
 The asteroid is travelling at a rate of about 30 kilometers per second or
@@ -3311,8 +3309,7 @@ Basic living facilities include a pair of the tiniest bunks imaginable, a fairly
 decent galley and a few odd corners useful for stowage of small items.
 
 Armament is typical of small patrol craft, with a pair of 25 millimeters
-light autocannon in a dual mount forward and a quad-mounted light anti-
-air missile launcher aft. Both are remotely controlled from the craft's
+light autocannon in a dual mount forward and a quad-mounted light anti-air missile launcher aft. Both are remotely controlled from the craft's
 tiny bridge. Each of the open bridge wings mounts a general-purpose
 machinegun for law enforcement self-defence purposes. The hull is
 lightly armored with flexible composite materials, giving reasonable
@@ -3378,8 +3375,7 @@ Stealth (Electronics (sensors) DM) –
 
 ### ADB-511 STRIKE HYDROFOIL
 
-From the same design bureau as the ubiquitous ADB-602, the ADB-
-511 is a short-range, high-speed craft intended to intercept and destroy
+From the same design bureau as the ubiquitous ADB-602, the ADB-511 is a short-range, high-speed craft intended to intercept and destroy
 maritime threats. A handful of these boats can be a credible deterrent to
 large warships of lower Tech Level, which in turn makes such vessels
 rare. For the price of a maritime cruiser, a flotilla of imported vessels
@@ -3394,8 +3390,7 @@ These craft are built for speed rather than endurance and exist mainly
 to bring missiles within range of the target. The missiles are on fixed
 container-launcher mounts offset to port and starboard at the rear of the
 vessel and are aimed in the general direction of the enemy by pointing
-the whole boat. Once a targeting lock is achieved the missiles are self-
-guiding and the launching craft withdraws at high speed.
+the whole boat. Once a targeting lock is achieved the missiles are self-guiding and the launching craft withdraws at high speed.
 
 For general patrol work, a 25 millimeters autocannon is mounted on a
 remote controlled turret forward of the bridge/control space and there
@@ -3498,8 +3493,7 @@ Crush Depth: 5,400m
 ###### KAVARII-CLASS AEROSPACE DEFENCE SUBMARINE
 
 TL 9
-Skill Seafarer
-(submarine)
+Skill Seafarer (submarine)
 Agility -
 Speed (cruise) Slow (Very slow)
 Range (cruise) 50 years
@@ -3584,8 +3578,7 @@ foreign-body interaction'.
 
 The amount of damage caused to and by a vessel in an incident
 depends on its speed and circumstances of the collision. The mishaps
-noted here assume, for the most part, that craft are engaged in low-
-speed manoeuvring and not intent on causing catastrophic damage
+noted here assume, for the most part, that craft are engaged in low-speed manoeuvring and not intent on causing catastrophic damage
 to themselves or any other vessel. Collisions and mishaps of this sort
 typically occur in orbital space or close to a port, in areas where ships
 are expected to slow down to a sensible speed. The following speed
@@ -3634,8 +3627,7 @@ The amount of cumulative Thrust required to go from one speed class
 to another is determined by subtracting the current value from the
 desired value. This also applies to deceleration. So, if a vessel wanted
 to decelerate from Transit to Port speed, this would require 64-4 = 60
-cumulative Thrust. Obviously a 4g vessel could do this a lot more quickly
-(60/4=15 rounds) than a 1g ship. A pilot could leave their deceleration too
+cumulative Thrust. Obviously a 4g vessel could do this a lot more quickly (60/4=15 rounds) than a 1g ship. A pilot could leave their deceleration too
 late and fly into the ground...
 
 Typically landings are made at Slow Port speed, with a final deceleration
@@ -3652,15 +3644,13 @@ When a vessel suffers an incident, roll a number of dice as shown on the
 Speed and Severity table with the following modifiers, applying any other
 special considerations noted below and consult the Prangs table.
 
-Passengers and crew prepared for impact. DM-
-Passengers and crew fully prepared for impact, for example
+Passengers and crew prepared for impact. DM-Passengers and crew fully prepared for impact, for example
 strapped into seats or crash frames.
 
 DM-
 
 Vessel is hit from an angle other than along its main axes. DM+
-Vessel strikes relatively soft surface such as soil and grass. DM-
-Vessel strikes yielding surface such as water. DM-
+Vessel strikes relatively soft surface such as soil and grass. DM-Vessel strikes yielding surface such as water. DM-
 
 For example, a pilot decides to show off by making a landing approach at
 Slow Transfer speed and ends up slamming the belly of the ship into the
@@ -3710,10 +3700,7 @@ Once the craft has entered atmosphere it can accelerate again; it is the
 sudden deceleration caused by hitting the outer layers of atmosphere
 that causes the hazard.
 
-Trace: DM-
-Very Thin: DM-
-Thin: DM-
-Dense: DM+
+Trace: DM-Very Thin: DM-Thin: DM-Dense: DM+
 Very Dense: DM+
 
 A very high-altitude aerobraking maneuver might be used to try to
@@ -4165,8 +4152,7 @@ amicably contacted.
 
 Standard procedure is to risk as little as possible on a first contact
 mission. Teams are rarely more than half a dozen personnel, usually
-deployed in air/rafts rather than from spacecraft. This is seen as non-
-threatening but also allows starships and spacecraft to be kept out of
+deployed in air/rafts rather than from spacecraft. This is seen as non-threatening but also allows starships and spacecraft to be kept out of
 reach of the locals. Likewise, equipment is light and basic, although
 the contact team can call upon the resources of their ship(s) to conduct
 analysis or provide advice.
@@ -4270,8 +4256,7 @@ nor is absence proof of its lack. However, most sentients create social
 structures that go beyond simple cooperation in searching for food or
 protecting the young. Compassion and protection of the group rather
 than the individual are not restricted to sentient beings but protecting and
-nurturing essentially worthless members of a group is unlikely in non-
-sentient species. Social structures that permit individuals to specialise
+nurturing essentially worthless members of a group is unlikely in non-sentient species. Social structures that permit individuals to specialise
 permit the development of society and are a hallmark of sentience or
 proto-sentience.
 
@@ -4358,8 +4343,7 @@ of a designator to target a weapon very precisely, with no penalties for
 range. Hand-held or vehicle mounted designators can be used with the
 Heavy Weapons or Gunner skills; missile control/guidance systems 
 
-require the Gunner skill. If the operator succeeds in the skill check
-(usually Average difficulty but possibly harder if the target is small or on
+require the Gunner skill. If the operator succeeds in the skill check (usually Average difficulty but possibly harder if the target is small or on
 the move), the weapon will automatically hit the target. Some guidance
 systems provide assistance, making a hit more likely.
 
@@ -4374,8 +4358,7 @@ pod on a helicopter or light aircraft, in which case the rockets follow the
 path of the beam. However, a handoff targeting lock can be deployed
 by personnel or vehicles on the ground. In this case, the rockets can
 be launched on an indirect trajectory, such as over intervening terrain.
-However, range is halved as these weapons are designed to be air-
-launched and do not have the thrust required to climb to great altitude.
+However, range is halved as these weapons are designed to be air-launched and do not have the thrust required to climb to great altitude.
 
 The 'Blue Fantail' designation comes from the brand name of a leading
 guided rocket system. It is generically applied to all rocket systems of
@@ -4392,13 +4375,11 @@ Rocket Pack
 
 8 2.5 4D 250 1
 
-Blue Fantail Designator
-(mounted)
+Blue Fantail Designator (mounted)
 
 8 2.5 – 5 0
 
-Blue Fantail Designator
-(hand-held)
+Blue Fantail Designator (hand-held)
 
 8 2.5 – 4 0
 
@@ -4411,13 +4392,11 @@ Rocket Pack
 
 Cr12000 6 Cr12000 Auto 3, Blast
 5, Guided
-Blue Fantail Designator
-(mounted)
+Blue Fantail Designator (mounted)
 
 Cr2000 – – –
 
-Blue Fantail Designator
-(hand-held)
+Blue Fantail Designator (hand-held)
 
 Cr3000 – – – 
 
@@ -4460,25 +4439,20 @@ JHH Missile (HE-frag) 8 20km 9D – –
 JHH Missile (plasma) 9 20km 1DD – –
 
 Weapon Cost Magazine Magazine Cost Traits
-GLMM-
-Missile System
+GLMM-Missile System
 
 Cr68000 1 – –
 
-ALMM-
-Launcher
+ALMM-Launcher
 
 Cr42000 (^1) – –
-JHH Missile
-(shaped charge)
+JHH Missile (shaped charge)
 Cr24000 – – AP 12, One
 Use, Smart
-JHH Missile
-(HE-frag)
+JHH Missile (HE-frag)
 Cr19000 – – Blast 12, One
 Use, Smart
-JHH Missile
-(plasma)
+JHH Missile (plasma)
 Cr50000 – – Blast 16, One
 Use, Smart
 
@@ -4517,13 +4491,11 @@ fittings are designed to allow the container-launcher to be added to a
 vehicles or maritime vessels with a minimum of deck penetrations.
 
 Weapon TL Range Damage Tons Spaces
-AP-150 Missile System
-(direct hit)
+AP-150 Missile System (direct hit)
 
 8 125km 6DD 4 16
 
-AP-150 Missile System
-(proximity detonation)
+AP-150 Missile System (proximity detonation)
 
 8 125km 6DD 4 16
 
@@ -4721,11 +4693,9 @@ Long-distance travel on land uses powered railways for the most part,
 providing a degree of personal mobility to all classes of society. Conditions
 aboard these trains will be basic to say the least. Sometimes power plants 
 
-are bought in from offworld, especially when long-
-distance lines are run through wilderness. It is
+are bought in from offworld, especially when long-distance lines are run through wilderness. It is
 possible to find what looks like a low-tech
-steam locomotive powered by a black-
-boxed nuclear power plant, driving
+steam locomotive powered by a black-boxed nuclear power plant, driving
 a train made up mostly of locally
 produced rolling stock with a
 luxury car for VIPs.
@@ -4843,8 +4813,7 @@ drivable at all.
 Inter-city travel is typically by very high-speed rail links or sometimes
 water transport using large surface ships and submarines. Bulk land
 transportation is typically by way of railways but the availability of grav
-technology makes it possible that there may be absolutely no ground-
-level infrastructure outside cities. One alternative to rail transport is the
+technology makes it possible that there may be absolutely no ground-level infrastructure outside cities. One alternative to rail transport is the
 use of very large grav vehicles that may carry passengers and/or freight
 at high speed at modest altitude. Other than these sleek wedges hurtling
 overhead from time-to-time, the countryside may be entirely undisturbed
@@ -4909,8 +4878,7 @@ Travellers to be a bit strange!
 Towards the end of the Fourth Frontier War (1082-1084), with heavy
 losses among Fer-de-Lance and Chrysanthemum destroyer escorts,
 a call went out from the Imperial Admiralty. They were searching for a
-design at the same tonnage for a more powerful vessel. The Incarnate-
-class strike destroyer was the answer provided by a collaboration
+design at the same tonnage for a more powerful vessel. The Incarnate-class strike destroyer was the answer provided by a collaboration
 between Makhidkarun and GSbAG.
 
 Engineers at Makhidkarun had designed an advanced gunnery artificial
@@ -4982,12 +4950,12 @@ Hull 1,000 tons, Close Structure, Reinforced – 67.5
 
 Radiation Shielding – 25
 Armor Armor (bonded superdense): 15 120 81
-M-Drive Thrust 6 (energy efficient, size
+M-Drive Thrust6 (energy efficient, size
 reduction x2)
 
 48 144
 
-J-Drive Jump 3 (decreased fuel, stealth jump) 80 150
+J-Drive Jump3 (decreased fuel, stealth jump) 80 150
 Power Plant Fusion (TL15), Power 900 45 90
 Fuel Tanks J-3, 4 weeks of operation 290 –
 Bridge Holographic Controls 20 6.25
@@ -5134,8 +5102,7 @@ ascend and there are few flying creatures outside the ocean basins.
 Mertactor was colonized as part of a gradual spread outward rather
 than a grab for important resources. At the time there was no intent that
 this would be the Imperial border; Mertactor was just one more system
-to be claimed. There was no large-scale investment or government-
-backed settlement plan. Instead modest colony expeditions arrived over
+to be claimed. There was no large-scale investment or government-backed settlement plan. Instead modest colony expeditions arrived over
 the course of many decades. Each found a suitable spot and began
 expanding, typically setting-up an agricultural or aquacultural base and
 exporting foodstuffs to begin recouping the enormous cost of colonization.
@@ -5166,6 +5133,8 @@ would mean repeating the expense and was deemed undesirable. Thus
 Mertactor became the 'gatekeeper' for District 268.
 
 SOCIETY
+
+
 
 The people of Mertactor are mostly humans of mixed stock, plus a
 scattering of various alien races. All are Imperial citizens and culture
@@ -5238,7 +5207,11 @@ is required to wear a compressor mask unless 'good air' indicators are
 clearly visible.
 
 STARPORTS
+
+
 AND SPACEPORTS
+
+
 The world's ruling elite have their own spaceports, small installations
 off-limits to almost all traffic. Other traffic goes through the main Class
 B starport. Mertactor has a central downport, divided into industrial,
@@ -5278,6 +5251,8 @@ importantly, the yards have a good reputation for not cutting corners,
 which is important to those who trust their lives to their vessel.
 
 MERTACTOR SCOUT BASE
+
+
 The Imperial Interstellar Scout Service maintains a small base on the
 surface of Mertactor, high in the mountains where the air is very thin.
 A handful of small ships operate out of it, mainly on routine surveying
@@ -5296,6 +5271,8 @@ of the constant information flow that allows strategic planners to make
 economic and military decisions.
 
 MILITARY AND NAVAL
+
+
 
 Mertactor has a small professional ground force, lightly equipped for the
 defence of cities and installations. It has little capability to project power
@@ -5317,8 +5294,7 @@ basic training, answering the call to arms.
 Offworld defence is considered more important than planetside capability.
 The system defence flotilla is stronger than most and partially funded by
 the Glisten subsector administration. In addition to armed customs boats
-and wings of fighters, the system defence flotilla has three destroyer-
-sized monitors. These are all conversions of old warships and not
+and wings of fighters, the system defence flotilla has three destroyer-sized monitors. These are all conversions of old warships and not
 equipped with state-of-the-art systems but they are quite capable of
 dealing with most threats without a need for backup. Their presence is a
 strong deterrent to piracy and raiding.
@@ -5352,8 +5328,7 @@ the budget for transport alone is still enormous.
 
 Most IISS vehicles are clearly marked and use colour schemes associated
 with the Scouts; typically mid-grey with yellow or high-visibility orange
-for general-purpose vehicles and a darker shade without obvious high-
-vis panels or decoration for operations in more dangerous areas. The
+for general-purpose vehicles and a darker shade without obvious high-vis panels or decoration for operations in more dangerous areas. The
 IISS 'Galloping Poni' logo is usually prominently displayed, although its
 colouring and vibrancy are toned down where appropriate.
 
@@ -5366,6 +5341,8 @@ rarely engages in 'deniable' missions, although its personnel often seek
 to avoid attracting attention.
 
 IISS PERSONAL FIELD
+
+
 
 ## TRANSPORT DEVICE, GRAVITIC
 
@@ -5386,8 +5363,7 @@ Performance is similar to a civilian unit –
 top speed is around 300 kilometers per
 hour (High) in a standard atmosphere
 but this is unpleasant for the user even
-when wearing an enclosed helmet. Nap-
-of-Earth speed is officially 40 kilometers
+when wearing an enclosed helmet. Nap-of-Earth speed is officially 40 kilometers
 per hour (Very Slow) but this is a safety
 
 Item TL Kg Cost
@@ -5407,8 +5383,7 @@ is in its additional capabilities. The standard unit can lift around 300
 kilograms; the Scout Service variant uses heavy-duty lifters that increase
 this to nearly 400 kilograms. An attachable lift-bag allows additional
 equipment to be carried by a grav belt-equipped scout, although the
-tendency of the bag to act like a pendulum can make flying tricky. Flyer
-(grav) 2 is required to fly safely with a slung load in a carry bag. For every
+tendency of the bag to act like a pendulum can make flying tricky. Flyer (grav) 2 is required to fly safely with a slung load in a carry bag. For every
 point of skill less than this, DM-2 applies to all checks whilst airborne,
 increasing to DM-3 if the load is more than 50 kilograms.
 
@@ -5420,6 +5395,8 @@ backpack, which contains one of the lifter units. The remaining space
 can be used to carry whatever small items the scout might desire.  
 
 GRAV TUBE
+
+
 The grav tube is essentially a two-person grav belt using the same
 lifting units – only more of them – as the Scout Service grav belt. It falls
 somewhere short of being a true vehicle but is useful for a variety of
@@ -5475,6 +5452,8 @@ This limits the utility of the grav tube in hostile environments and as a
 result it is generally assigned to teams working on habitable worlds.
 
 IISS GRAV BIKE
+
+
 
 Whereas the grav tube is basically a metal disc with the innards of a
 couple of grav belts built into it, the grav bike is an altogether more
@@ -5553,12 +5532,13 @@ Stealth (Electronics (sensors) DM) –
 
 IISS GRAV BIKE  
 
+
+
 IISS AIR/RAFT
 A number of air/raft designs are used by the IISS, many of them standard
 civilian designs painted grey and given a new logo. However, some
 applications require an advanced-capability vehicle. The IISS thus
-commissioned a variant of the Ling-Standard Products Venture 400 four-
-seat air/raft for its own use, assigning licenses to favored companies to
+commissioned a variant of the Ling-Standard Products Venture 400 four-seat air/raft for its own use, assigning licenses to favored companies to
 produce these vehicles to the highest standard.
 
 The IISS 'raft is a solid-body design, sealed against vacuum and can
@@ -5689,6 +5669,8 @@ Top 89
 Traits
 AFV
 
+
+
 Passengers 8
 Cargo –
 Hull 60
@@ -5760,8 +5742,7 @@ accommodating the rest of the crew.
 
 The ship's main power plant is surrounded by additional bulkheads,
 although the jump and maneuver drives are not. This represents the
-emphasis of the vessel – keeping the big guns in action is considered all-
-important; survivability less so. However, with triple pulse laser turrets in
+emphasis of the vessel – keeping the big guns in action is considered all-important; survivability less so. However, with triple pulse laser turrets in
 dorsal and ventral mounts on the main hull and a good electronics fit, the
 Ambush-class is well protected against missiles and small craft, whilst its
 hull can shrug off most weapons it is likely to encounter.  
@@ -5776,7 +5757,7 @@ Reinforced
 -  
 
 Armor Bonded Superdense, Armor: 12 38.4 25.
-M-Drive Thrust 6 (size reduction, energy
+M-Drive Thrust6 (size reduction, energy
 efficient)
 
 21.6 54
@@ -5839,6 +5820,8 @@ Total 422.
 
 POWER REQUIREMENTS
 
+
+
 Basic Ship Systems
 Maneuver Drive
 Jump Drive
@@ -5847,6 +5830,8 @@ Weapons
 Systems 
 
 CREW RUNNING COSTS
+
+
 Captain, Pilot, Astrogator,
 Medic, Gunners x
 
@@ -5855,6 +5840,8 @@ month
 Purchase Cost: MCr422.  
 
 HULL POINTS 
+
+
 
 1. Sensors2. Bridge3. Sensor station4. Countermeasures suite5. Enhanced signal processing6. Airlock7. Stateroom (high)8. Fresher9. Armory10. Staterooms
     11. Ship's locker12. Briefing room13. Medical bay14. Particle beam bay15. Repair drones16. Fuel processor17. Cargo hold18. Power plant19. Jump Drive20. Maneuver drive21. Triple turret22. Common area 

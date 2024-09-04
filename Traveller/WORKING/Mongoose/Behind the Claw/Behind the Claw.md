@@ -33,8 +33,6 @@ This work is divided by sector.
 - [[Spinward Marches]]
 - [[Deneb Sector]]
 
-#TODO 
-
 # Moved here (Ships, etc)
 
 #### VARGR ADVANCED CORSAIR
@@ -72,11 +70,17 @@ PURCHASE COST MCr220.217
 
 RUNNING COSTS
 
+
+
 Power RequirEments
 
 CREW
 
+
+
 HULL POINTS
+
+
 
 200 80 4
 
@@ -84,11 +88,19 @@ HULL POINTS
 
 MANEUVER DRIVE
 
+
+
 BASIC SHIP SYSTEMS
+
+
 
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 2 3
 
@@ -128,15 +140,23 @@ DECK 2
 
 LEGEND
 
+
+
 1. Sensors 2. Countermeasures suite 3. Bridge 4. Forced linkage apparatus 5. Emergency low berths 6. Common area 7. Staterooms
 
 14
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -144,15 +164,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 10
 
@@ -176,17 +208,21 @@ Fast (High)
 
 MCr11.01
 
-Autopilot (enhanced), Communications System
-(improved, encrypted), Computer/2, Control System
-(enhanced), Decoy Dispenser, ECM (improved), Fire Extinguishers, Life Support (short term), Navigation System (improved), Sensors (improved, increased fidelity), Stealth (improved), Vacuum Protection
+Autopilot (enhanced), Communications System (improved, encrypted), Computer/2, Control System (enhanced), Decoy Dispenser, ECM (improved), Fire Extinguishers, Life Support (short term), Navigation System (improved), Sensors (improved, increased fidelity), Stealth (improved), Vacuum Protection
 
 Large Turret (light laser cannon, enhanced fire control)
 
 AFV
 
+
+
 ARMOR
 
+
+
 EQUIPMENT AND WEAPONS TRAITS
+
+
 
 GHOERRUEGH G **/** CARRIER
 
@@ -202,9 +238,13 @@ TL10
 
 DESCRIPTION
 
+
+
 both speed and stealth, perfectly suited for swift planetary assaults and ground support. Corsairs will typically use them to launch raids upon settlements before beating a hasty retreat. When combined with a low-emissions corsair vessel as a launching platform, the first a lower tech society might know of the Vargr is the low whine of the Ghoerruegh's engines.
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
+
+
 
 Light Laser Cannon 2 8D - - AP 5 +3
 
@@ -221,9 +261,9 @@ Most ship operators in Deneb have access only to the mainstream technologies ava
 
 ### VINCENNES TECHNOLOGY
 
-Vincennes has a technological edge over the rest of the Third | | [[Imperium]]. The following High Guard components are available to the shipyards of Vincennes.
+Vincennes has a technological edge over the rest of the [[Imperium|Third Imperium]]. The following High Guard components are available to the shipyards of Vincennes.
 
-Electronics: The electronics suites of Vincennes-built ships are very advanced, creating significant advantages for their ships. TL16 computer and sensor packages are available in limited numbers on the open market and in greater quantities to those who have the right connections or are friendly with Vincennes.
+Electronics: The electronics suites of [[Vincennes]]-built ships are very advanced, creating significant advantages for their ships. TL16 computer and sensor packages are available in limited numbers on the open market and in greater quantities to those who have the right connections or are friendly with [[Vincennes]].
 
 Processing Tech Level Cost Computer/40 16 MCr40 Core/110 16 MCr150 Sensors TL Suite DM Power Tons Cost Superior 16 Densitometer, Jammers, Lidar, Neural Activity Sensor, Radar
 
@@ -251,16 +291,13 @@ Alternatively, ships may be demilitarised before sale.  The precise definition o
 
 It is common for old warships to be converted into system defence vessels. Whilst some components of the jump drive may be degraded, enough remains reusable in most ships to be a valuable source of spares for other vessels. Components can also be sold to offset the cost of the conversion. A ship that no longer has jump capability does not need enormous fuel tanks and these can be converted to other uses.
 
-Conversely, weaponry and other components can be retrofitted to ships that did not previously have them.
-Minor systems, like laser turrets and a small additional power plant to support them, can be fitted into odd spaces, effectively reducing cargo capacity or replacing a stateroom or two.
+Conversely, weaponry and other components can be retrofitted to ships that did not previously have them.  Minor systems, like laser turrets and a small additional power plant to support them, can be fitted into odd spaces, effectively reducing cargo capacity or replacing a stateroom or two.
 
 
 
 
 #### VENTURER-CLASS FAST FREIGHTLINER
-Designed and operated exclusively by Tukera Lines –
-other than a handful of vessels passed to other owners after suffering damage or incidents such as the notorious ships-for-votes affair of 1096 – the _Venture_ **_r_** -class is fast in two ways. First, it has a two-jump-2 capability, enabling it to cross a four-parsec gap between major ports without the need to follow mains or standard shipping routes. The _Venturer_ also uses a lighter-aboard-ship
-(LASH) configuration to permit rapid cargo transfers.
+Designed and operated exclusively by Tukera Lines – other than a handful of vessels passed to other owners after suffering damage or incidents such as the notorious ships-for-votes affair of 1096 – the _Venture_ **_r_** -class is fast in two ways. First, it has a two-jump-2 capability, enabling it to cross a four-parsec gap between major ports without the need to follow mains or standard shipping routes. The _Venturer_ also uses a lighter-aboard-ship (LASH) configuration to permit rapid cargo transfers.
 
 LASH ships carry little cargo internally but instead use cargo lighters that are little more than powered cargo pods. These can be dropped the moment the ship emerges from jump, to make their way towards the starport under their own power. A replacement set of pre-loaded lighters can be waiting near the jump limit, enabling the vessel to make its second two-parsec jump before a conventional ship would have even reached port. With vessels passing through on the strict schedule for which Tukera is famous, this set-up can be very efficient. It is particularly useful in systems where the mainworld is an asteroid belt or where there are cargoes for several points in the system; all can be delivered at once rather than having to wait for transfer from the main starport.
 
@@ -285,8 +322,7 @@ The Venturer is a nominally 3,200 ton design, assuming eight 100-ton lighters ar
 
 Passengers transfer from the interface craft to internal cabins. Typically, around 28 passenger cabins are available, plus eight high cabins, although this depends on crewing levels aboard the freightliner. Small craft crew normally live aboard their craft but spend most of their time in the main hull whilst in jump.
 
-Accommodation is of a high quality, with generous common areas and additional spaces, such as small conference rooms, for the use of passengers and crew. The ship is lightly armed for self-defence but not intended to leave well-
-patrolled spaceways. A GEM-ship might venture into the frontier but for the most part these vessels are optimized for operations on a safe, regular run and tend to stick to this role.
+Accommodation is of a high quality, with generous common areas and additional spaces, such as small conference rooms, for the use of passengers and crew. The ship is lightly armed for self-defence but not intended to leave well-patrolled spaceways. A GEM-ship might venture into the frontier but for the most part these vessels are optimized for operations on a safe, regular run and tend to stick to this role.
 
 MAINTENANCE COST Cr60308.33/month
 
@@ -294,11 +330,17 @@ PURCHASE COST MCr7237
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
+
+
 
 640 480 1
 
@@ -306,11 +348,19 @@ HULL POINTS
 
 MANEUVER DRIVE
 
+
+
 BASIC SHIP SYSTEMS
+
+
 
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 LEGEND 1.Fuel tanks
 
@@ -354,16 +404,11 @@ DECK 6 - FUEL ONLY
 
 PILOT
 
+
+
 #### CARGO LIGHTER
 
-This 100-ton lighter represents the cheapest way possible to carry cargo across a star system, between a highport and LASH-equipped freightliner. The one concession to luxury – if you can call it that
-
-- is the provision of a cabin for the crew or a
-  passenger. Many lighter crews more or less
-  live aboard their vessel, although they will
-  spend most of their working time aboard the
-
-parent vessel when it is in jump.
+This 100-ton lighter represents the cheapest way possible to carry cargo across a star system, between a highport and LASH-equipped freightliner. The one concession to luxury – if you can call it that - is the provision of a cabin for the crew or a passenger. Many lighter crews more or less live aboard their vessel, although they will  spend most of their working time aboard the parent vessel when it is in jump.
 
 The lighter is designed to nestle in an external cradle but can be carried internally by a ship with at least a 100-ton docking bay. It costs about two and a half times as much as a slow boat built at the same tech level but carries five times as much cargo – albeit even more slowly.
 
@@ -388,13 +433,23 @@ TL12 TONS COST (MCR)
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 MAINTENANCE COST Cr981.66/month
 
@@ -404,13 +459,21 @@ TOTAL: MCR11.78
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
 
+
+
 LEGEND
+
+
 
 . Bridge 2. Sensors 3. Airlock 4. Stateroom 5. Cargo hold 6. Power plant 7. Maneuver drive 8. Fresher
 
@@ -423,6 +486,8 @@ DECK 1 DECK 2 8**
 PILOT, ENGINEER, STEWARD
 
 PASSENGER LIGHTER
+
+
 
 Built on the same hull as the cargo variant, the passenger lighter is an interface craft designed to move personnel from port to starship. It has a small amount of living space and some cargo capacity but otherwise facilities are basic. The crew will usually include a steward who looks after the passengers during their flight to and from their ship. To accommodate this extra crewmember the craft has a second stateroom.
 
@@ -451,13 +516,23 @@ TL12 TONS COST (MCR)
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 MAINTENANCE COST Cr1281.67/month
 
@@ -467,13 +542,21 @@ TOTAL: MCR15.38
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
 
+
+
 LEGEND
+
+
 
 1. Bridge 2. Sensors 3. Airlock 4. Staterooms 5. Cargo hold 6. Power plant 7. Maneuver drive 8. Acceleration seats 9. Cabin space 10. Fresher
 
@@ -547,13 +630,23 @@ TL12 TONS COST (MCR)
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 MAINTENANCE COST Cr1081.67/month
 
@@ -563,13 +656,21 @@ TOTAL: MCR12.98
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
 
+
+
 LEGEND
+
+
 
 1. Bridge 2. Sensors 3. Airlock 4. Fresher 5. Fuel processor 6. Fuel tanks 7. Power plant 8. Maneuver drive 9. Stateroom
 
@@ -609,8 +710,7 @@ Armor Crystalliron, Armor: 12
 
 15 4.5
 
-M-Drive Thrust 4 4 8 Power Plant Fusion
-(TL12), Power 75
+M-Drive Thrust 4 4 8 Power Plant Fusion (TL12), Power 75
 
 5 5
 
@@ -643,13 +743,23 @@ TL12 TONS COST (MCR)
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 MAINTENANCE COST Cr3110.83/month
 
@@ -659,13 +769,21 @@ TOTAL: MCR37.33
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
 
+
+
 LEGEND
+
+
 
 1. Bridge 2. Sensors 3. Airlock 4. Triple turret 5. Armored bulkhead 6. Stateroom 7. Cabin space 8. Secure cargo space 9. Fresher 10. Power plant 11. Maneuver drive 12. Cargo hold
 
@@ -697,8 +815,7 @@ TOTAL: MCR 344.492
 
 CAPTAIN, PILOT, ASTROGATOR, ENGINEERS X 3, MEDIC, STEWARDS X 3, ADMINISTRATOR
 
-The Brilliance class is a long liner, a high-
-jump passenger vessel with very little cargo capacity. It is built on an 800 ton hull to a very high standard, with an impressive jump-4 performance that allows it to travel directly between important worlds. Long Liners typically follow the x-boat routes or ply between major political or trade centres, although some are available for charter. Others are used for VIP personnel transfers or to host small conferences, with common areas configured for discussion, presentations or planning sessions.
+The Brilliance class is a long liner, a high-jump passenger vessel with very little cargo capacity. It is built on an 800 ton hull to a very high standard, with an impressive jump-4 performance that allows it to travel directly between important worlds. Long Liners typically follow the x-boat routes or ply between major political or trade centres, although some are available for charter. Others are used for VIP personnel transfers or to host small conferences, with common areas configured for discussion, presentations or planning sessions.
 
 Passenger accommodation is extremely luxurious, with the very best food and drink prepared by skilled stewards. It is not uncommon for liners to provide specialist entertainment or education on for a voyage, often tailoring the choice to the passengers'
 preferences. A voyage between two systems might be a chance to meet a famous author or former sports personality, take a course from a high-end artist or enjoy performances by professional entertainers.
@@ -709,26 +826,44 @@ PURCHASE COST MCr344.492
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
+
+
 
 160 160 1
 
 320 1 —
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
+
+
 
 SENSORS WEAPONS
 
+
+
 LEGEND
+
+
 
 1. Jump drives 2. Docking space 3. Luxury rooms 4. High staterooms 5. Fuel tanks 6. Power plant 7. Maneuver drive
 
@@ -792,11 +927,17 @@ PURCHASE COST MCr1190.5
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
+
+
 
 600 400 16
 
@@ -806,13 +947,23 @@ HULL POINTS
 
 MANEUVER DRIVE
 
+
+
 BASIC SHIP SYSTEMS
+
+
 
 FUEL PROCESSOR SCREENS
 
+
+
 SENSORS WEAPONS
 
+
+
 LEGEND
+
+
 
 **1. Cargo hold 2. Torpedo barbette 3. Fuel processor 4. Triple turrets (beam lasers)
 5. Power plant 6. Jump drives 7. Maneuver drive 8. Common area 9. Staterooms 10. Docking clamp 11. Barracks**
@@ -869,8 +1020,7 @@ TOTAL: MCR 2258.711
 
 CAPTAIN, PILOTS X 4, ASTROGATOR, ENGINEERS X 10, MAINTENANCE X 2, GUNNERS X 56, ADMINISTRATORS X 2, MEDIC
 
-The Deneb Stalwart-class is a common system defence monitor based on a converted P.F Sloan-
-class fleet escort. As system defence craft go, it is a high performance vessel, well armored and packing a powerful missile punch for its size.
+The Deneb Stalwart-class is a common system defence monitor based on a converted P.F Sloan-class fleet escort. As system defence craft go, it is a high performance vessel, well armored and packing a powerful missile punch for its size.
 
 The conversion is a relatively straightforward one, replacing the fuel tanks with armor and a ring of missile bays and the jump drive with a pair of fusion gun bays. The missile bays are arranged in a ring around the middle of the vessel, with the remaining fuel tankage replaced by a thick belt of Crystalliron armor extended over the rest of the hull. Coverage is not even and some critical areas
 
@@ -887,26 +1037,42 @@ PURCHASE COST MCr2258.711
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 2,000
 
 HULL POINTS
+
+
 
 3000 1000 —
 
 — 8 —
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 11. Staterooms 12. Common area 13. Armory 14. Briefing room 15. Medical bay 16. Nuclear dampers 17. Meson screens 18. Point defence battery 19. Bridge 20. Advanced sensors
 
@@ -952,6 +1118,8 @@ DECK 7
 
 LEGEND
 
+
+
 1. Powerplant 2. Missile storage 3. Triple turrets 4. Repair drones 5. Fuel tank 6. Docking space 7. Maneuver drive 8. Large fusion gun bays 9. Small missile bays 10. Cargo hold
 
 DECK 9
@@ -974,7 +1142,7 @@ DECK 13
 
 #### DEMILITARISED GIONETTI-CLASS LIGHT CRUISER
 
-Hull 30,000 tons, Standard – 1,500 Reinforced – 750 M-Drive Thrust 5 (size reduction x3) 1,050 3,150 Jump Drive Jump 5 (decreased fuel) 3,755 6,195.75 Power Plant Fusion (TL15), Power 24,000 1,200 2,400 Fuel Tanks J-5, 8 weeks of operation 15,240 –
+Hull 30,000 tons, Standard – 1,500 Reinforced – 750 M-Drive Thrust5 (size reduction x3) 1,050 3,150 Jump Drive Jump5 (decreased fuel) 3,755 6,195.75 Power Plant Fusion (TL15), Power 24,000 1,200 2,400 Fuel Tanks J-5, 8 weeks of operation 15,240 –
 Bridge Holographic Controls 60 187.5 Command Bridge 80 225 Computer Core/100 fib – 195 Sensors Advanced 5 5.3 Military Countermeasures Suite 15 28 Enhanced Signal Processing 2 8 Distributed Arrays 10 10.6 Weapons Dual Turrets (beam lasers) x50 50 75 Triple Turrets (sandcasters) x22 22 38.5 Point Defence Battery (type III) x2 40 40 Ammunition Sandcaster Barrels (1,320 Barrels) 66 –
 Screens Nuclear Dampers (size reduction x3) x9 135 63 Systems Modular Cutters x5 – 51.435 Recovery Deck (100 tons) 1,000 500 Full Hangar (1,000 tons) 2,000 400 Armory 16 4 Briefing Rooms x10 40 5 Fuel Processor (1,000 tons/day) 200 10 Fuel Scoops – 1 Medical Bays x3 12 6 Workshops x2 12 1.8 Biosphere 120 12 Libraries x8 32 44 Training Facilities 32 32 Stable (20 cattle-sized) 20 0.5 Vault x 10 120 60 Staterooms High x2 12 1.6 Standard x 167 668 83.5 Luxury x21 210 31.5 Software Anti-Hijack/3 – 10 Jump Control/5 – 0.5 Library – –
 Maneuver/0 – –
@@ -1010,13 +1178,19 @@ PURCHASE COST MCr16462.985 *
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 12,000
 
 HULL POINTS
+
+
 
 15000 6000 200
 
@@ -1024,15 +1198,27 @@ HULL POINTS
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
+
+
 
 SENSORS WEAPONS
 
+
+
 LEGEND
+
+
 
 1. Jump drive 2. Power plant 3. Nuclear damper 4. Fuel processor 5. Maneuver drive 6. Staterooms 7. Common area 8. Biosphere 9. Dual turrets 10. Luxury rooms
 
@@ -1126,7 +1312,7 @@ DECK 11
 
 KEHMED-CLASS DREADNOUGHT
 
-Hull 300,000 tons, Close Structure - 13500 Radiation Shielding - 7500 Armor Molecular Bonded, Armor 20 30000 45000 M-Drive Thrust 6 (size reduction x 3) 12600 54000 J-Drive Jump 4 (decreased fuel x 3) 30005 67511.25 Power Plant Fusion (TL15), Power 400,000, size reduction
+Hull 300,000 tons, Close Structure - 13500 Radiation Shielding - 7500 Armor Molecular Bonded, Armor 20 30000 45000 M-Drive Thrust6 (size reduction x 3) 12600 54000 J-Drive Jump4 (decreased fuel x 3) 30005 67511.25 Power Plant Fusion (TL15), Power 400,000, size reduction
 
 18000 60000
 
@@ -1164,19 +1350,29 @@ TOTAL: MCR 299798.608
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS SCREENS WEAPONS
 
+
+
 SENSORS
+
+
 
 Power Requirements
 
 FUEL PROCESSOR
 
+
+
 CAPTAIN, PILOTS X 3, ASTROGATOR, OFFICERS X 515, MEDICS X 47, MAINTENANCE X 600, ENGINEERS X 1,732, GUNNERS X 2,440, ADMINISTRATORS X 300, MARINES X 80
 
-Built by the advanced shipyards of Vincennes, the Kehmed dreadnoughts represent the cutting edge of warship design within the spinward sectors of the Third | | [[Imperium]]. Each ship of the class is named after one of the metroplexes on Vincennes and they are a source of pride for many of the inhabitants of the system.
+Built by the advanced shipyards of Vincennes, the Kehmed dreadnoughts represent the cutting edge of warship design within the spinward sectors of the [[Imperium|Third Imperium]]. Each ship of the class is named after one of the metroplexes on Vincennes and they are a source of pride for many of the inhabitants of the system.
 
 Like the older Plankwell-class, the Kehmed is a traditional battleship with no troop contingent carried aboard. It is intended for a pure warfighting role, smashing the enemy battle line and moving on. Other ships can land marines or mop up whatever resistance remains; these highly advanced battlewagons are too expensive and too potent to be wasted on peacekeeping or insurgency suppression missions. The swing towards multirole capital ships was always controversial and it does seem that a return to specialist designs is the way forward.
 
@@ -1186,13 +1382,21 @@ PURCHASE COST MCr299798.608
 
 RUNNING COSTS
 
+
+
 CREW
+
+
 
 220,000
 
 HULL POINTS
 
+
+
 LEGEND
+
+
 
 1. Fuel tanks 2. Cargo hold 3. Fuel processors 4. Repair drones 5. Jump drive
 
@@ -1303,13 +1507,19 @@ PURCHASE COST MCr22002.9
 
 RUNNING COSTS
 
+
+
 Power RequirEments
 
 CREW
 
+
+
 25,000
 
 HULL POINTS
+
+
 
 20,000 10,000 250
 
@@ -1317,13 +1527,23 @@ HULL POINTS
 
 MANEUVER DRIVE
 
+
+
 BASIC SHIP SYSTEMS
+
+
 
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
 
+
+
 LEGEND
+
+
 
 1. Staterooms 2. Common area 3. Turrets 4. Docking space 5. Airlocks 6. Jump drives 7. Maneuver drive 8. Power plant 9. Fuel processor 10. Bridge 11. Cargo hold
 
@@ -1393,8 +1613,7 @@ Fuel Tanks 16 weeks of operation
 
 5 –
 
-Bridge Small 6 0.5 Computer Computer/5 – 0.16 Sensors Military Grade 2 4.1 Weapons Double Turret
-(sandcasters)
+Bridge Small 6 0.5 Computer Computer/5 – 0.16 Sensors Military Grade 2 4.1 Weapons Double Turret (sandcasters)
 
 1 1
 
@@ -1410,13 +1629,23 @@ TL15 TONS COST (MCR)
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 MAINTENANCE COST Cr2500.83/month
 
@@ -1426,11 +1655,17 @@ TOTAL: MCR30.010
 
 RUNNING COSTS
 
+
+
 Power RequirEments
 
 CREW
 
+
+
 HULL POINTS
+
+
 
 The Ilauus-class is defined by its builder as a fast multipurpose shuttle. It is commonly associated with the Shuigabumudkhar-class dromedary and other Imperial Navy replenishment ships but can be encountered in other roles. Its expense ensures that few non-government operators exist, although there are civilian concerns that perceive a need for a high-acceleration, lightly armored cargo hauler.
 
@@ -1443,6 +1678,8 @@ The majority of craft are, however, carried aboard fleet logistics ships or orbi
 3 4 5 6 4 7
 
 LEGEND
+
+
 
 1. Military grade sensors 2. Bridge 3. Staterooms 4. Cargo hold 5. Power plant 6. Maneuver drive 7. Double turret
 
@@ -1487,13 +1724,23 @@ TL13 TONS COST (MCR)
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 MAINTENANCE COST Cr4633/month
 
@@ -1503,13 +1750,21 @@ TOTAL: MCR 55.59
 
 RUNNING COSTS
 
+
+
 Power RequirEments
 
 CREW
 
+
+
 HULL POINTS
 
+
+
 LEGEND
+
+
 
  1. Bridge 2. Sensors 3. Staterooms 4. Freshers 5. Common area 6. Airlock 7. Cargo hold 8. Fuel processor 9. Jump drive 10. Maneuver drive 11. Power plant
 
@@ -1546,9 +1801,15 @@ DECK 1
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -1556,15 +1817,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 9
 
@@ -1596,7 +1869,11 @@ No weapons
 
 ARMOR
 
+
+
 EQUIPMENT AND WEAPONS TRAITS
+
+
 
 HNAEFIR AIR **/** RAFT
 
@@ -1612,12 +1889,12 @@ TL9
 
 DESCRIPTION
 
+
+
 - being cheap and being sturdy. The militarised
 
 version provides little protection, has less in the way of sensors and somewhat 'unforgiving'
-controls, but can ferry half a Confederation unit and their gear much quicker than an equivalent ground vehicle. Some examples in military service sacrifice their cargo space for a forward-
-facing fixed mount capable of mounting a small
-(1 Space) weapon.
+controls, but can ferry half a Confederation unit and their gear much quicker than an equivalent ground vehicle. Some examples in military service sacrifice their cargo space for a forward-facing fixed mount capable of mounting a small (1 Space) weapon.
 
 Autopilot (skill level) —
 Communications (range) 500 km Navigation (Navigation DM) —
@@ -1649,8 +1926,7 @@ Weapons Small Missile Bay 50 25 Fixed Mount (missile rack)
 
 - 0.85
 
-Double Turret
-(sandcasters)
+Double Turret (sandcasters)
 
 1 1
 
@@ -1667,13 +1943,23 @@ TL11 TONS COST (MCR)
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 MAINTENANCE COST Cr15696/month
 
@@ -1683,11 +1969,17 @@ TOTAL: MCR188.36
 
 RUNNING COSTS
 
+
+
 Power RequirEments
 
 CREW
 
+
+
 HULL POINTS
+
+
 
 - Note that [[Sword Worlds]] ships usually have cramped barracks that
 

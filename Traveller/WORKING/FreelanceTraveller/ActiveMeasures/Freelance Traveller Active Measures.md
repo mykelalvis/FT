@@ -131,6 +131,8 @@ Most of _Freelance Traveller_'s other material can be incorporated into an adve
     - [The Boys in Blue](https://www.freelancetraveller.com/features/advents/gotg/boysinblue.html) _(Timothy Collinson) From 'showing the flag' to 'Oops, gotta run!'_
     - [Buying Trouble](https://www.freelancetraveller.com/features/advents/gotg/buytrouble.html) _(Jeffrey Schwartz) Some contracts that may not be as good as they look_  
         
+
+
     - [Cadre Ticket](https://www.freelancetraveller.com/features/advents/gotg/cadreticket.html) _(Dan Long) First you learned it, now you teach it._
     - [Cat and Mouse](https://www.freelancetraveller.com/features/advents/gotg/catandmouse.html) _(Michael A. Cessna) Can he get away with the hijacking?_
     - [Collector's Edition](https://www.freelancetraveller.com/features/advents/gotg/collecedit.html) _(Jens Rydholm) "Printed Matter" covers - or covers up? - a lot._
@@ -206,6 +208,8 @@ Most of _Freelance Traveller_'s other material can be incorporated into an adve
     - [The Umbra Retribution](https://www.freelancetraveller.com/features/advents/gotg/umbraretrib.html) _(Michael Brown) Revenge can be profitable - or expensive_
     - [Two Patron Encounters for Traveller](https://www.freelancetraveller.com/features/advents/gotg/twopatrons.html) _(Jim Vassilakos) Twp deals that may be less than wise to accept_  
         
+
+
     - [Two Patron Encounters: Shtiz Bralzastebr](https://www.freelancetraveller.com/features/advents/gotg/twobralzastebr.html) _(Timothy Collinson) What does this Zhodani really want?_
     - [Unfit](https://www.freelancetraveller.com/features/advents/gotg/unfit.html) _(Richard Aiken) The party must "escort" the envoy that is the means to put pressure on the noble that is about to name the wrong heir._
     - [Unfixed](https://www.freelancetraveller.com/features/advents/gotg/unfixed.html) _(Bill Cameron) The PCs are asked to lengthen short odds._

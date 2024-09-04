@@ -24,18 +24,28 @@ David MacDonald, Wayne Roth, Paul R. Banner.
 Mongoose Traveller
 
 AUTHOR
+
+
 Bryan Steele, Stuart Machin
 
 EDITOR
+
+
 Nick Robinson
 
 LAYOUT
+
+
 Will Chapman
 
 INTERIOR ILLUSTRATIONS
+
+
 Travis Leichssenring, Andy Lilly & Marco Morte
 
 SPECIAL THANKS
+
+
 
 Dominic Mooney, David Ives & Don Mckinney
 
@@ -62,8 +72,7 @@ Also included is an auxiliary starship, a courier vessel produced to
 fulfil a specific military role.
 
 Cruisers
-This section contains longer-ranged vessels built to carry high-
-powered spinal mounted weapons. Ranging between 20,000 and
+This section contains longer-ranged vessels built to carry high-powered spinal mounted weapons. Ranging between 20,000 and
 100,000 tons, these are commonly used as flagships in major task
 forces.
 
@@ -252,8 +261,7 @@ Total Tonnage & Cost 39.79 50.
 #### TURRET WING FIGHTER, GYRO-CLASS
 
 A non-atmospheric fighter designed around a spherical cockpit with wing-like struts to enhance pilot-visibility and agility, the _Gyro_ is an
-strange but innovative fighter. Two pilots are belted into the central core cockpit, standing back-to-back, each controlling one of the turret-
-wing struts. Manoeuvring thrusters are positioned on armored facets over its surface, giving it effectively a full range of directional control
+strange but innovative fighter. Two pilots are belted into the central core cockpit, standing back-to-back, each controlling one of the turret-wing struts. Manoeuvring thrusters are positioned on armored facets over its surface, giving it effectively a full range of directional control
 by simply spinning the cockpit to face the direction the ship is to move.
 
 Note: Due to the _Gyro_ -class fighter's unique shape and design it can ONLY be launched from a ship equipped with Launch Tubes.
@@ -340,8 +348,7 @@ Library ——
 Evade/2 Rating 10 — 2
 Jump Control/6 Rating 30 — 0.
 Fire Control/2 Rating 10 — 4
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 0.
 
@@ -475,8 +482,8 @@ Structure 312
 Streamlined
 Armor Bonded Superdense 12 pts 5,000 7,500
 Jump Drive Jump 4 2,500 5,000
-Maneuver Drive Thrust 5 (TL10) 1,125 703.125
-Power Plant Rating 5 (TL15) 1,500 7,500
+Maneuver Drive Thrust5 (TL10) 1,125 703.125
+Power Plant Rating5 (TL15) 1,500 7,500
 Bridge 4 Command Modules 1,000 1,000
 Computer Core / 9fib x2 Rating 100 — 390
 Electronics Military Countermeasures x 3
@@ -492,7 +499,7 @@ Turrets
 
 Dampers/Screens
 
-TL15 Particle Accelerator D (Rapid Fire)
+TL15 Particle AcceleratorD (Rapid Fire)
 4 x Large Fusion Gun-14 (VH Yield)
 2 x Meson Gun-13 (Very High Yield)
 50 x Missile Bay-9
@@ -724,7 +731,7 @@ Structure 300
 Streamlined — —
 Armor Crystaliron 4 pts 3,000 1,440
 Jump Drive Jump 5 3,600 7,200
-Maneuver Drive Thrust 2 (TL9) 675 421.875
+Maneuver Drive Thrust2 (TL9) 675 421.875
 Power Plant Rating 5 2,400 6,000
 Bridge 4 Command Modules 1,200 1,200
 Computer Core / 8fib x2 Rating 90 — 300
@@ -789,8 +796,7 @@ Fuel Scoops — 1
 Fuel Processor All fuel in 4 days 415 20.75
 Repair Drones 600 120
 412 Escape Pods 206 41.2
-Craft 4 Cutters; 80 20 ton Fighters Standard Hangars 2,340 545.862
-(+ fighters)
+Craft 4 Cutters; 80 20 ton Fighters Standard Hangars 2,340 545.862 (+ fighters)
 Two Launch Tubes 1,000 500
 Software Maneuver/0 — —
 Intellect Rating 10 — 2
@@ -967,7 +973,7 @@ Structure 200
 Streamlined
 Armor Crystaliron 6 pts 2,250 1080
 Jump Drive Jump 5 1,800 3,600
-Maneuver Drive Thrust 5 (TL 10) 675 421.875
+Maneuver Drive Thrust5 (TL 10) 675 421.875
 Power Plant Rating 5 1,200 3,000
 Bridge 3 Command Modules 450 450
 Computer Core / 9 fib x 2 Rating 100 390
@@ -1144,9 +1150,9 @@ Structure 312
 
 Partially Streamlined
 Armor Bonded Superdense 6 pts 2,500 2,500
-Jump Drive Jump 3 (TL 14) 1,800 4,500
-Maneuver Drive Thrust 4 (TL 11) 656.25 656.25
-Power Plant Rating 6 (TL 14) 2,500 6,250
+Jump Drive Jump3 (TL 14) 1,800 4,500
+Maneuver Drive Thrust4 (TL 11) 656.25 656.25
+Power Plant Rating6 (TL 14) 2,500 6,250
 Bridge 4 Command Modules 1,000 1,000
 Computer Core / 9fib x2 Rating 100 — 390
 Electronics Military Countermeasures x 4
@@ -1162,7 +1168,7 @@ Turrets
 
 Dampers/Screens
 
-TL15 Meson C (Rapid Fire)
+TL15 MesonC (Rapid Fire)
 6 x Large Particle Beam Bay -10 (Very High Yield)
 4 x Large Ortillery Railgun-12
 40 x Missile Bay-9
@@ -1422,8 +1428,8 @@ Structure 500
 Partially Streamlined
 Armor Super Dense 3 pts 2,500 2,250
 Jump Drive Jump 4 5,000 10,000
-Maneuver Drive Thrust 2 (TL 9) 1,125 703.125
-Power Plant Rating 6 (TL 15) 3,750 18,750
+Maneuver Drive Thrust2 (TL 9) 1,125 703.125
+Power Plant Rating6 (TL 15) 3,750 18,750
 Bridge 4 Command Modules 2,000 2,000
 Flag Bridge 320 480
 Holographic Controls — 620
@@ -1682,7 +1688,7 @@ Structure 417
 Streamlined
 Armor Bonded Superdense 8 pts 5,000 6,875
 Jump Drive Jump 3 3,000 6,000
-Maneuver Drive Thrust 6 (TL 10) 2,193.75 1,371.0937
+Maneuver Drive Thrust6 (TL 10) 2,193.75 1,371.0937
 Power Plant Rating 6 3,750 9,375
 Bridge 4 Command Modules 1,500 1,500
 Flag Bridge 320 480
@@ -1701,7 +1707,7 @@ Turrets
 
 Dampers/Screens
 
-TL15 Meson Gun C (Rapid Fire)
+TL15 Meson GunC (Rapid Fire)
 4 x Large Fusion Gun-14 (VHYield)
 4 x Large Meson Gun-13 (VHYield)
 8 x Large Particle Beam-10 (VHYield)
@@ -1771,8 +1777,7 @@ Jump Control/4 Rating 15 — 1.2
 Fire Control/5 Rating 25 — 30
 Maintenance Cost (monthly) 4.246
 Life Support Cost (monthly) 1.044
-Total Tonnage & Cost 74,999.475 50,952.075
-(+ small craft)
+Total Tonnage & Cost 74,999.475 50,952.075 (+ small craft)
 
 ###### CARRIERS CCARRIERSARRIERS
 
@@ -2221,8 +2226,7 @@ Jump Control/4 Rating 20 ——
 Fire Control/5 Rating 25 — 30
 Maintenance Cost (monthly) 11.1893
 Life Support Cost (monthly) 2.092
-Total Tonnage & Cost 199,910 134,271.828
-(+ small craft)
+Total Tonnage & Cost 199,910 134,271.828 (+ small craft)
 
 ###### BATTLESHIPS BATTLESHIPS
 
@@ -2587,7 +2591,7 @@ Partial Streamlined — —
 Armor Bonded Superdense 15 pts 62,500 62,500
 Jump Drive Jump 3 20,000 40,000
 Maneuver Drive Thrust 6 14,625 9,140.625
-Power Plant Rating 6 (TL15) 18,750 93,750
+Power Plant Rating6 (TL15) 18,750 93,750
 Bridge 5 Command Modules 12,500 12,500
 Flag Bridge 400 600
 Holographic Controls — 3,275

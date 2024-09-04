@@ -66,14 +66,15 @@ Cover identities are rated as follows: Very Weak (+0): The agent has a false nam
 
 Each cover identity has its own career path; events may permit an agent to roll on the skills or events tables for a different career taken by his cover identity, allowing him to pick up different skills and benefits.
 
-For example, Agent Yan has two cover identities – one is a belter named Wild Bob, the other is a corporate executive and frequent traveller named Heran Wight. Yan has spent one full term maintaining the Wight identity, making it a Strong cover that is likely to stand up to considerable scrutiny. He has only spent a few weeks as Wild Bob
-(just long enough to purchase a Seeker mining vessel and make a few contacts), so it is a Weak cover.
+For example, Agent Yan has two cover identities – one is a belter named Wild Bob, the other is a corporate executive and frequent traveller named Heran Wight. Yan has spent one full term maintaining the Wight identity, making it a Strong cover that is likely to stand up to considerable scrutiny. He has only spent a few weeks as Wild Bob (just long enough to purchase a Seeker mining vessel and make a few contacts), so it is a Weak cover.
 
 Networks Agents may also create networks of informants, contacts and allies. Networks must be cultivated over time but may pass on rumors and useful information to the agent or provide help in times of need. Networks are also rated numerically like skills and are acquired through events, skill tables or through roleplaying. Networks are as follows:
 
 Street Criminal Politics Corporate Military Academic
 
 AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
+
+
 
 Leaving the Agency Mustering out of the agent career does not always mean that the character has left the agency. If the Referee approves, the character may actually be on a deep cover assignment, which can allow him to draw on agency resources while adventuring.
 
@@ -82,6 +83,8 @@ Leaving the Agency Mustering out of the agent career does not always mean that t
 CareerCareer SpecializationSpecialization QualificationQualification SurvivalSurvival AdvancementAdvancement Law Enforcement Int 5+ Patroller Int 7+ Edu 7+ Special Operations End 8+ Int 6+ Customs Dex 6+ Edu 8+ Investigator Int 6+ Private Detective Int 6+ Soc 8+ Inspector Edu 7+ Int 7+ Undercover Agent Int 8+ Edu 6+ Spy Int 7+ Field Agent Edu 6+ Soc 8+ Operative Edu 7+ Int 7+ Infiltrator Edu 8+ Int 6+ Analyst Soc 8+ Political Officer Soc 6+ Soc 7+ Technical Expert Int 7+ Int 6+ Handler Int 7+ Soc 7+ Corporate Int 6+ Security Int 5+ Int 7+ Espionage Dex 7+ Int 6+ Bodyguard End 7+ Soc 6+ Bounty Hunter Int 7+ Ship Tracer End 6+ Soc 7+ Bondsman End 7+ Int 7+ Thieftaker Dex 7+ Int 6+
 
 AGENT CHARACTER GENERATION
+
+
 
 ##### LAW ENFORCEMENT
 
@@ -98,13 +101,21 @@ Qualification:Qualification: Int 5+
 
 SKILLS AND TRAINING
 
+
+
 AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
+
+
 MISHAPS
+
+
 
 2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Someone tries to kill you and your family or friends. Roll on the Injury table and lose one family member, Ally or Contact. Gain an Enemy. 4 A criminal tries to bribe you and the accusations of attempting to pervert the course of justice stick. If you accept the bribe, gain 1 extra benefit roll. If you refuse the bribe, roll Advocate 8+ to avoid being ejected from this career. 5 A civilian is endangered during a mission. You have a chance to act; if you do so, roll Athletics 8+. If you fail, roll on the Injury table and the civilian is killed. If you succeed, gain a Contact as you save the civilian. 6 One of your superiors suspects you are taking bribes. Lose 1 Trust. If your Trust score is above 0, you are not ejected from this career. 7 You suffer psychological stress. Lose 1 Social Standing. 8 One of your Allies begs you to leave the force. If you refuse, lose that Ally. 9 A political shift forces you out of your job. Gain a representative of the new regime as a Rival. 10 A criminal goes free because of one of your mistakes. Lose 1 Trust. If your Trust score is above 0, you are not ejected from this career. 11 You develop a dangerous addiction to some narcotic. Either leave the career to clean up or spend 1,000 credits per term paying for your addiction. 12 You are shot in the line of duty. Reduce your Endurance by 1.
 
 EVENTS
+
+
 
 d66 d66 EventsEvents
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
@@ -159,18 +170,17 @@ Qualification: Qualification: Int 6+
 
 SKILLS AND TRAINING
 
+
+
 RollRoll
 
 Personal Personal DevelopmentDevelopment Service SkillsService Skills
 
-Advanced Advanced Education Education
-(Minimum Edu 8)(Minimum Edu 8) 1 +1 Trust Investigate Advocate 2 +1 Int Streetwise Comms 3 +1 Edu Admin Computers 4 +1 End Gun Combat
-(any)
+Advanced Advanced Education Education (Minimum Edu 8)(Minimum Edu 8) 1 +1 Trust Investigate Advocate 2 +1 Int Streetwise Comms 3 +1 Edu Admin Computers 4 +1 End Gun Combat (any)
 
 Sensors
 
-5 Network (any) Persuade Investigate 6 Gambler Stealth Social Science
-(any)
+5 Network (any) Persuade Investigate 6 Gambler Stealth Social Science (any)
 
 RollRoll
 
@@ -178,18 +188,13 @@ Specialist: Specialist: Private Private DetectiveDetective
 
 Specialist: Specialist: InspectorInspector
 
-Specialist: Specialist: Undercover Undercover AgentAgent 1 Investigate Admin Deception 2 Streetwise Investigate Investigate 3 Stealth Sensors Stealth 4 Persuade Comms Cover Identity
-(criminal)* 5 Melee
-(unarmed combat)
+Specialist: Specialist: Undercover Undercover AgentAgent 1 Investigate Admin Deception 2 Streetwise Investigate Investigate 3 Stealth Sensors Stealth 4 Persuade Comms Cover Identity (criminal)* 5 Melee (unarmed combat)
 
-Computers Cover Identity
-(criminal)*
+Computers Cover Identity (criminal)*
 
-6 Network
-(street)
+6 Network (street)
 
-Advocate Cover Identity
-(criminal)*
+Advocate Cover Identity (criminal)*
 
 - If you roll this as the _first_ skill you roll in a term, then:
 
@@ -205,14 +210,19 @@ Private DetectivePrivate Detective InspectorInspector Undercover AgentUndercover
 
 MISHAPS
 
+
+
 2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Someone tries to kill you and your family or friends. Roll on the Injury table and lose one family member, Ally or Contact. Gain an Enemy. 4 You blunder during an investigation, letting a dangerous criminal walk free. Lose 1 Trust – if your Trust is above 0, you are not ejected from this career. Gain the criminal as an Enemy. 5 A megacorp official uses political pressure to have you fired. Gain him as Rival. 6 A seemingly routine investigation leads into the upper echelons of power. If you drop this investigation immediately, you are not ejected from this career. If you continue, you learn that a senior official or noble is corrupt in some fashion. He has you fired before you can bring him to justice – gain him as an Enemy. 7 It's a trap! Gunmen were waiting for you at a supposedly secure crime scene. Roll Gun Combat (any) 8+. If you succeed, roll on the Injury table. If you fail, roll twice on the Injury table and take the lowest result. Either way, you are ejected from this career as several other officers are shot dead in the ambush. 8 A criminal walks free, causing you to lose faith in the system. Lose 1 Trust as you exit the career. 9 A crusading reporter stalks you, convinced that you are corrupt. He publishes an exposé on you. If you were accepting bribes, gain 5,000 Cr. and the reporter as an Enemy. If you were not accepting bribes, he later sees that he was misled; gain him as an Ally. 10 A criminal offers you a deal. If you accept, you must leave this career but gain 1 extra benefit roll. If you refuse, roll twice on the Injury table and take the lower result but you do not have to leave the career. 11 Your partner is killed and you want revenge. Lose an Ally, if you have any, and gain his killer as an Enemy. 12 You are wounded in the line of duty. Roll on the Injury table.
 
 EVENTS
 
-d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 You investigate a ring of smugglers. Gain one of Broker 1, Pilot (any) 1, Zero-G 1 or Vacc Suit 1. One of the smugglers is willing to turn informant for you. If you accept, gain him as a Contact. If you refuse, gain one Trust. 13 You are assigned to help provide security for the visit of an alien diplomat. Roll either Steward 8+, Diplomat 8+ or Recon 8+. If you succeed, you gain a +2 DM to your next Advancement roll. 14 An investigation threatens to consume your whole life. If you follow your obsession, lose one Contact, Ally or family member. If you choose your personal life over your career, you suffer a –2 DM to your next Advancement roll. 15 You are given advanced training in investigative techniques. Gain any one of Investigate 1, Sensors 1, Science
-(any) 1 or Computers 1. 16 Life Event. Roll on the Life Events table. 21 You establish a network of contacts. Gain Network (any). 22 You are transferred to another planet to learn their policing methods. Roll Education 10+ to gain any one skill. 23 You become good friends with your partner. Gain him or her as an Ally. 24 A case involving illegal experimentation leads to a megacorporation's planetary office. If you follow this investigation to its end, it will drive the corporation off world and severely embarrass the local authorities (gain a Rival in both the corporation and the government and +1 Trust). If you give up your investigation, gain an extra Benefit roll and a Contact in the corporation. 25 Your supervisor questions your judgement in a case and orders you to back off. If you do so, nothing happens. If you continue, roll Investigate 8+. Succeed and your hunch was correct – gain a +2 DM to your next Advancement roll. Fail and you end up getting another officer hurt and suffer a –2 DM to your next Advancement roll. 26 Life Event. Roll on the Life Events table.
+
+
+d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 You investigate a ring of smugglers. Gain one of Broker 1, Pilot (any) 1, Zero-G 1 or Vacc Suit 1. One of the smugglers is willing to turn informant for you. If you accept, gain him as a Contact. If you refuse, gain one Trust. 13 You are assigned to help provide security for the visit of an alien diplomat. Roll either Steward 8+, Diplomat 8+ or Recon 8+. If you succeed, you gain a +2 DM to your next Advancement roll. 14 An investigation threatens to consume your whole life. If you follow your obsession, lose one Contact, Ally or family member. If you choose your personal life over your career, you suffer a –2 DM to your next Advancement roll. 15 You are given advanced training in investigative techniques. Gain any one of Investigate 1, Sensors 1, Science (any) 1 or Computers 1. 16 Life Event. Roll on the Life Events table. 21 You establish a network of contacts. Gain Network (any). 22 You are transferred to another planet to learn their policing methods. Roll Education 10+ to gain any one skill. 23 You become good friends with your partner. Gain him or her as an Ally. 24 A case involving illegal experimentation leads to a megacorporation's planetary office. If you follow this investigation to its end, it will drive the corporation off world and severely embarrass the local authorities (gain a Rival in both the corporation and the government and +1 Trust). If you give up your investigation, gain an extra Benefit roll and a Contact in the corporation. 25 Your supervisor questions your judgement in a case and orders you to back off. If you do so, nothing happens. If you continue, roll Investigate 8+. Succeed and your hunch was correct – gain a +2 DM to your next Advancement roll. Fail and you end up getting another officer hurt and suffer a –2 DM to your next Advancement roll. 26 Life Event. Roll on the Life Events table.
 
 AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
+
+
 
 31 Criminals have taken hostages and are threatening to execute them. You are the officer on the scene – do you try negotiation or go in guns blazing? If you negotiate, roll Persuade 8+. If you attack, roll Gun Combat (any) 8+. Fail either roll and the hostages are killed and you suffer a –4 DM to your next Advancement roll. Succeed and you resolve the situation and gain a +4 DM to your next Advancement roll.
 
@@ -243,11 +253,11 @@ AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 If you rolled Investigate 1-2 times, gain +2 Trust. If you rolled Investigate 3-5 times, nothing happens. If you rolled Investigate 6+ times, lose 2 Trust.
 
 52 You uncover evidence of corruption within law enforcement. If you keep your mouth shut, gain +1 Trust and an extra Benefit roll as a bribe. If you attempt to uncover the corruption, roll Investigate 8+. Succeed and you gain
-+2 Trust and a +2 DM to your next Advancement roll. Fail and you lose –2 Trust and suffer a –2 DM to your next Advancement roll. Whichever way you choose, gain the corrupt commissioner as an Enemy. 53 A criminal syndicate offers you a bribe. You may gain one extra Benefit roll each term you remain in this career if you accept. If you refuse, gain +1 Trust. 54 You are partnered with an alien. Roll Streetwise 8+ or Persuade 8+ to keep the alien out of trouble. If you succeed, gain the alien as an Ally. 55 A seized shipment of drugs vanishes from the evidence locker. You discover that a police officer was responsible. Turn him in and gain 1 Trust or you can be given a cut of the deal and gain 1 benefit roll. 56 Life Event. Roll on the Life Events table. 61 You spend time investigating a case related to local politics. Gain Advocate 1, Carouse 1, Diplomat 1 or Network
-(politics). 62 You are part of a high-profile investigative unit. Gain Investigate 1, +1 Social Standing, +1 Trust or Network
-(media). 63 You discover the murderer in a mysterious case has psionic powers. You confront the killer and his psychic assault on you triggers something in your mind. You may immediately test your Psionic strength (see page 152 of the Traveller Core Rulebook ) and may attempt to qualify for a Psion career next term, if successful. 64 Your partner is shot dead in front of you. Gain his killer as an Enemy. 65 The commissioner has his eye on you. Either gain Leadership or gain a +4 DM to your next Advancement roll thanks to his aid. 66 You are decorated for heroism. You are automatically promoted.
++2 Trust and a +2 DM to your next Advancement roll. Fail and you lose –2 Trust and suffer a –2 DM to your next Advancement roll. Whichever way you choose, gain the corrupt commissioner as an Enemy. 53 A criminal syndicate offers you a bribe. You may gain one extra Benefit roll each term you remain in this career if you accept. If you refuse, gain +1 Trust. 54 You are partnered with an alien. Roll Streetwise 8+ or Persuade 8+ to keep the alien out of trouble. If you succeed, gain the alien as an Ally. 55 A seized shipment of drugs vanishes from the evidence locker. You discover that a police officer was responsible. Turn him in and gain 1 Trust or you can be given a cut of the deal and gain 1 benefit roll. 56 Life Event. Roll on the Life Events table. 61 You spend time investigating a case related to local politics. Gain Advocate 1, Carouse 1, Diplomat 1 or Network (politics). 62 You are part of a high-profile investigative unit. Gain Investigate 1, +1 Social Standing, +1 Trust or Network (media). 63 You discover the murderer in a mysterious case has psionic powers. You confront the killer and his psychic assault on you triggers something in your mind. You may immediately test your Psionic strength (see page 152 of the Traveller Core Rulebook ) and may attempt to qualify for a Psion career next term, if successful. 64 Your partner is shot dead in front of you. Gain his killer as an Enemy. 65 The commissioner has his eye on you. Either gain Leadership or gain a +4 DM to your next Advancement roll thanks to his aid. 66 You are decorated for heroism. You are automatically promoted.
 
 RANKS AND BENEFITS
+
+
 
 RankRank Private DetectivePrivate Detective Skill or BenefitSkill or Benefit Inspector/Undercover AgentInspector/Undercover Agent Skill or BenefitSkill or Benefit 0 Gumshoe Streetwise Officer 1 Sergeant +1 Trust 2 Corporal Streetwise 3 Hardened Gumshoe Broker Lieutenant +1 Trust 4 Captain Admin 5 Chief +1 Trust 6 Great Detective Investigate Commissioner +1 Soc
 
@@ -269,13 +279,13 @@ Qualification:Qualification: Int 7+
 
 SKILLS AND TRAINING
 
+
+
 RollRoll
 
 Personal Personal DevelopmentDevelopment Service SkillsService Skills
 
-Advanced Advanced Education Education
-(Minimum Edu 8)(Minimum Edu 8) 1 +1 Trust Deception Comms 2 +1 Int Investigate Computers 3 +1 Edu Gun Combat
-(any)
+Advanced Advanced Education Education (Minimum Edu 8)(Minimum Edu 8) 1 +1 Trust Deception Comms 2 +1 Int Investigate Computers 3 +1 Edu Gun Combat (any)
 
 Sensors
 
@@ -291,25 +301,19 @@ Specialist: Specialist: Field AgentField Agent
 
 Specialist: Specialist: OperativeOperative
 
-Specialist: Specialist: InfiltratorInfiltrator 1 Streetwise Stealth Cover Identity
-(any)* 2 Steward Tactics
-(military)
+Specialist: Specialist: InfiltratorInfiltrator 1 Streetwise Stealth Cover Identity (any)* 2 Steward Tactics (military)
 
 Jack of all Trades
 
-3 Diplomat Gun Combat
-(any)
+3 Diplomat Gun Combat (any)
 
 Deception
 
-4 Investigate Melee (any) Gun Combat
-(any) 5 Network (any) Heavy Weapons
-(any)
+4 Investigate Melee (any) Gun Combat (any) 5 Network (any) Heavy Weapons (any)
 
 Stealth
 
-6 Network (any) Explosives Cover Identity
-(any)*
+6 Network (any) Explosives Cover Identity (any)*
 
 *If you roll this as the _first_ skill you roll in a term, then:
 
@@ -323,13 +327,19 @@ Field AgentField Agent OperativeOperative InfiltratorInfiltrator SurvivalSurviva
 
 MISHAPS
 
+
+
 2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 You learn something you shouldn't have and now you are on the run from your own agency. Lose all Trust and gain the organization as an Enemy. 4 You are identified as a spy. Lose any one Cover Identity. If you have no Cover Identity to lose, you are ejected from this career. 5 An assassin targets you. Roll Gun Combat (any) 8+; if you fail, roll on the Injury table. Either way, you must leave this career. 6 A shift in politics and a thaw in interstellar relations means your services are no longer required. You are dismissed from the service but gain an extra benefit roll this term. 7 You quarrel with a superior. Lose 1 Trust. If your Trust is above 0, you are not ejected from this career. 8 A mission goes wrong and you are held responsible for it. You may accept your fate and leave this career with an extra benefit roll as compensation or you may argue. If you argue, roll Advocate 8+. If you succeed, you may stay in this career. If you fail, lose one Trust and leave this career. 9 You are betrayed by a friend. Lose one Ally or Contact or lose one Trust. If you have no Allies or Contacts gain an Enemy instead. 10 The other side attempts to turn you. If you accept, gain 1 extra benefit roll as you leave this career. Gain +1 Trust if you do not. 11 You discover everything you thought about your organization is a lie. 12 You are wounded in the line of duty. Roll on the Injury table.
 
 EVENTS
 
+
+
 d66d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 Ship J-Drive malfunction leaves you stranded in foreign space, but but you make the most of it. Gain Carouse 1, Gambler 1 or gain a new Cover Identity. 13 Information you have obtained could be very profitable to an outside buyer. If you choose to sell the data package you must leave this career but roll two additional Cash-only Benefit rolls when you do so. If you stay loyal to your employer you gain a +2 DM to your next Advancement roll in this career. 14 You catch an opposing spy in the act of working against your employer. Fight him with any combat skill 8+, rolling on the Injury table if unsuccessful. Success adds your current employer as a Network. Alternatively you may help him escape, gaining him as an Ally. 15 You spend some time at an illegal casino. Gain Deception 1 or Gambler 1. 16 Life Event. Roll on the Life Events table. 21 You discover a flaw in your contract. You can exploit it, gaining Deception 1 and a your employer as a Rival, or you can honestly bring it to their attention, gaining Admin 1 and turn them into a Contact. 22 The assignment goes smoothly and easily, giving you time to practice some of your own training. Increase any skill you have at 0 to a 1. 23 You are asked to look in on a personal matter for an Imperial noble, investigating his unfaithful aide. Gain either Cr.10,000 in blackmail money to stay quiet or gain +1 Social Standing for revealing a traitor. 24 Your ship is hijacked by pirates. Roll Gun Combat (any) or Melee (any) 9+ to fight them successfully or Stealth 9+ to hide until they have gone. Success in either grants you +1 End, failure means you roll on the Injury table. 25 You are assigned to an alien contract, investigating their local government officers. Gain Diplomat 1, Investigate 1 or Language (any Alien) 1. 26 Life Event. Roll on the Life Events table.
 
 AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
+
+
 
 31 Your employer saddles you with a mercenary bodyguard that gets you into several conflicts you did not need to be in. Roll End 7+ to avoid Injury but gain Gun Combat (any) 1.
 
@@ -369,6 +379,8 @@ AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
 RANKS AND BENEFITS
 
+
+
 RankRank Field AgentField Agent Skill or BenefitSkill or Benefit OperativeOperative Skill or BenefitSkill or Benefit InfiltratorInfiltrator Skill or BenefitSkill or Benefit 0 Shadow 1 Field Agent Investigate 1 Contractor Stealth 1 Deception 1 2 Ghost 3 Special Agent Gun Combat (any) 1 Operations Asset Investigate 1 4 Organiser +1 Int 5 Assistant Director +1 Trust Spectre Stealth 1 6 Director Leadership 1 Ops Manager Network The Invisible Jack of All Trades
 
 MUSTERING-OUT BENEFITS
@@ -390,21 +402,19 @@ Qualification: Qualification: Soc 8+
 
 SKILLS AND TRAINING
 
+
+
 RollRoll
 
 Personal Personal DevelopmentDevelopment Service SkillsService Skills
 
-Advanced Advanced Education Education
-(Minimum Edu 9)(Minimum Edu 9) 1 +1 Trust Admin Advocate 2 +1 Int Deception Comms 3 +1 Edu Diplomat Recon 4 +1 Soc Persuade Social Science
-(any) 5 Diplomat Computers Language (any) 6 Leadership Steward Leadership
+Advanced Advanced Education Education (Minimum Edu 9)(Minimum Edu 9) 1 +1 Trust Admin Advocate 2 +1 Int Deception Comms 3 +1 Edu Diplomat Recon 4 +1 Soc Persuade Social Science (any) 5 Diplomat Computers Language (any) 6 Leadership Steward Leadership
 
 RollRoll
 
 Specialist: Specialist: Political OfficerPolitical Officer
 
-Specialist: Specialist: Technical Technical ExpertExpert Specialist: HandlerSpecialist: Handler 1 Admin Astrogation Cover Identity
-(any)* 2 Steward Computers Investigate 3 Diplomat Engineer
-(any)
+Specialist: Specialist: Technical Technical ExpertExpert Specialist: HandlerSpecialist: Handler 1 Admin Astrogation Cover Identity (any)* 2 Steward Computers Investigate 3 Diplomat Engineer (any)
 
 Recon
 
@@ -426,10 +436,13 @@ Political OfficerPolitical Officer Technical ExpertTechnical Expert HandlerHandl
 
 MISHAPS
 
-2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Your governmental employer is toppled by a violent coup, roll twice on the Injury table and take the higher result. 4 You accidentally say something you are not supposed to while on camera, making a fool out of your local governmental officers. Lose –1 Soc. 5 An intern in the local offices has had it seriously in for you ever since you were hired. Gain him as an Enemy. 6 You advise your local politician poorly and he is impeached from his office, removing any chance that you will receive a pension – reducing your next cash Benefit roll by half. 7 A terrorist captures you and holds you for ransom but your employers have a standing policy of non-negotiation. You spend the next few years as a hostage and are written off the agent career by the time you are released. 8 While delivering an important governmental document your ship suffers a J-Drive malfunction and you are very late. You are not ejected from the career but you may not make an Advancement roll this term. 9 You are made the scapegoat in a local scandal. Lose 1 Soc. 10 A terrorist sets off a bomb nearby to try and inflict some damage upon you and your fellow staff. Roll Athletics
-(Endurance) 7+ to survive the resulting explosion, otherwise roll on the Injury table twice. 11 You accidentally have your name added to a governmental draft. You must leave this career (mustering out as normal) but then roll for the Draft for your next career term. 12 You are wounded in the line of duty. Roll on the Injury table.
+
+
+2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Your governmental employer is toppled by a violent coup, roll twice on the Injury table and take the higher result. 4 You accidentally say something you are not supposed to while on camera, making a fool out of your local governmental officers. Lose –1 Soc. 5 An intern in the local offices has had it seriously in for you ever since you were hired. Gain him as an Enemy. 6 You advise your local politician poorly and he is impeached from his office, removing any chance that you will receive a pension – reducing your next cash Benefit roll by half. 7 A terrorist captures you and holds you for ransom but your employers have a standing policy of non-negotiation. You spend the next few years as a hostage and are written off the agent career by the time you are released. 8 While delivering an important governmental document your ship suffers a J-Drive malfunction and you are very late. You are not ejected from the career but you may not make an Advancement roll this term. 9 You are made the scapegoat in a local scandal. Lose 1 Soc. 10 A terrorist sets off a bomb nearby to try and inflict some damage upon you and your fellow staff. Roll Athletics (Endurance) 7+ to survive the resulting explosion, otherwise roll on the Injury table twice. 11 You accidentally have your name added to a governmental draft. You must leave this career (mustering out as normal) but then roll for the Draft for your next career term. 12 You are wounded in the line of duty. Roll on the Injury table.
 
 EVENTS
+
+
 
 d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 You have a chance to siphon off some slush fund money. If you do, gain 1d6 x 1,000 Credits and your agency's accountant as a Rival. If you do not, gain +1 Trust. 13 Your face has been plastered all over the local media as a respected member of society. Gain +1 Soc. 14 You have a lead on an information leak within the government. If you help conceal it, gain Deception 1. If you help to uncover it, gain +1 Trust or a level of Investigate. 15 The government you are working for makes some good changes to the local economy. Gain Trade (any) 1 and + Trust. 16 Life Event. Roll on the Life Events table. 21 Your actions clear the name of a famous criminal that was wrongly incarcerated. Gain Advocate 1 or the ex- convict as a Contact. 22 The agency puts you in charge of dealing with several target groups, gaining one of them as a Network. 23 It is an election year for your employers and you spend many months campaigning at their side, rolling Persuade 8+. If successful, your employer wins and you gain +1 Soc. If the roll fails, your employer is voted out of office and you learn the harshness of politics, gaining Admin 1. 24 One of your more radical ideas is put to the test by your employer. Roll Intelligence 7+. Success means your abstract idea worked and you are rewarded with +4 DM to your next Advancement roll. Failure results in the idea doing poorly and you are blamed; lose 1 Soc. 25 You were all that stood between your employer and a crazed fanatic, rolling Melee (any) 8+ to stop him if you wish. If successful, gain +1 Trust and your employer as an Ally. If you fail, roll on the Injury table. 26 Life Event. Roll on the Life Events table. 31 An unforeseen incident forces you to live as someone else for a few months. Increase an existing Cover Identity by +1 or create a new Cover Identity.
 
@@ -455,8 +468,7 @@ d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejec
 
 46 Life Event. Roll on the Life Events table.
 
-51 You are assigned to take care of a very important official's pet for the duration of a contract. Gain Animals
-(training) 1 or Steward 1.
+51 You are assigned to take care of a very important official's pet for the duration of a contract. Gain Animals (training) 1 or Steward 1.
 
 52 The government you served was at war the entire term. Gain Gun Combat (any) 1, Medic 1 or Tactics 1.
 
@@ -474,15 +486,15 @@ d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejec
 
 RANKS AND BENEFITS
 
-RankRank Political OfficerPolitical Officer Skill or BenefitSkill or Benefit Technical ExpertTechnical Expert Skill or BenefitSkill or Benefit HandlerHandler Skill or BenefitSkill or Benefit 0 Grip Computers 1 1 Intern Diplomat 1 Bodyguard Recon 1 2 Aide +1 Trust Comms 1 3 Specialist Secure Aide +1 Trust 4 Organiser Network
-(Politics)
+
+
+RankRank Political OfficerPolitical Officer Skill or BenefitSkill or Benefit Technical ExpertTechnical Expert Skill or BenefitSkill or Benefit HandlerHandler Skill or BenefitSkill or Benefit 0 Grip Computers 1 1 Intern Diplomat 1 Bodyguard Recon 1 2 Aide +1 Trust Comms 1 3 Specialist Secure Aide +1 Trust 4 Organiser Network (Politics)
 
 Crew Leader +1 Trust Security Serviceman
 
 Tactics (any) 1
 
-5 Office Executive Deception 1 Team Lead Network
-(Politics) 6 Executive Professional
+5 Office Executive Deception 1 Team Lead Network (Politics) 6 Executive Professional
 
 +1 Trust Security Manager
 
@@ -508,20 +520,19 @@ Qualification:Qualification: Int 6+
 
 SKILLS AND TRAINING
 
+
+
 RollRoll
 
 Personal Personal DevelopmentDevelopment Service SkillsService Skills
 
-Advanced Advanced Education Education
-(Minimum Edu 8)(Minimum Edu 8) 1 +1 Edu Broker Admin 2 +1 Soc Deception Comms 3 +1 Trust Computers Cover Identity* 4 Carouse Persuade Language (any) 5 Network
-(Corporate)
+Advanced Advanced Education Education (Minimum Edu 8)(Minimum Edu 8) 1 +1 Edu Broker Admin 2 +1 Soc Deception Comms 3 +1 Trust Computers Cover Identity* 4 Carouse Persuade Language (any) 5 Network (Corporate)
 
 Steward Sensors
 
 6 Jack of All Trades
 
-Trade (any) Social Sciences
-(any)
+Trade (any) Social Sciences (any)
 
 RollRoll
 
@@ -529,8 +540,7 @@ Specialist: Specialist: SecuritySecurity
 
 Specialist: Specialist: EspionageEspionage
 
-Specialist: Specialist: BodyguardBodyguard 1 Advocate Computers Athletics (any) 2 Comms Deception Comms 3 Investigate Melee (blade) Gun Combat (any) 4 Gun Combat
-(any)
+Specialist: Specialist: BodyguardBodyguard 1 Advocate Computers Athletics (any) 2 Comms Deception Comms 3 Investigate Melee (blade) Gun Combat (any) 4 Gun Combat (any)
 
 Deception Medic
 
@@ -552,10 +562,14 @@ SecuritySecurity EspionageEspionage BodyguardBodyguard SurvivalSurvival Intellig
 
 MISHAPS
 
+
+
 2d62d6 MishapMishap
 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Bankruptcy! Your corporation goes under midway through your term. You must leave this career. Although you may muster out normally, you may not roll for Cash. 4 A rival agent double-crosses you and gets you fired from the agency. 5 You are injured in an act of sabotage. Roll on the Injury table but gain a Contact in the medical field. 6 A visiting executive ends up being killed while you were on duty. Lose 1 Trust. But you may continue as an Agent. 7 Your face is posted by accident in relation to a terrible mistake made by the employing corporation. Lose 1 Social Standing. 8 A new and villainous CEO of the megacorps moves in and decides he does not need you anymore, arranging for you to be on a malfunctioning ship. Roll on the Injury table and gain him as an Enemy. 9 Your corporation is bought out by an alien firm, you are ejected from the Agent career unless you have Language (any) 1 or Diplomat 2 or higher. 10 You are blamed for a massive loss of funds in the local branch. You are allowed to continue as an Agent but add 10,000 Credits to your debts to the company. 11 A long message delivery takes you far out of your corporation's area of influence and you return to find your job held by someone else! 12 You are wounded in the line of duty. Roll on the Injury table.
 
 EVENTS
+
+
 
 d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career.
 12 A negotiation turns hostile and the other company's agents resort to force to solve the problem. Roll any Gun Combat or Melee skill 8+. Fail and roll on the Injury table. Succeed and gain +2 DM on your next Advancement roll.
@@ -614,6 +628,8 @@ d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejec
 
 RANKS AND BENEFITS
 
+
+
 RankRank EspionageEspionage Skill or BenefitSkill or Benefit Security/BodyguardSecurity/Bodyguard Skill or BenefitSkill or Benefit 0 Security Staff Melee (any) 1 1 Special Operations Agent Stealth 1 2 Asset Protection +1 Trust 3 Operative Cover Identity 4 Corporate Saboteur Computers 1 or Explosives 1 Security Assistant Weapon 5 Security Organiser Tactics 1 6 Corporate Spy +2 Trust Chief of Security Network (Corporate)
 
 MUSTERING-OUT BENEFITS
@@ -636,17 +652,17 @@ Qualification:Qualification: Int 7+
 
 SKILLS AND TRAINING
 
+
+
 RollRoll
 
 Personal Personal DevelopmentDevelopment Service SkillsService Skills
 
-Advanced Advanced Education Education
-(Minimum Edu 10)(Minimum Edu 10) 1 Cover Identity*
+Advanced Advanced Education Education (Minimum Edu 10)(Minimum Edu 10) 1 Cover Identity*
 
 Advocate Broker
 
-2 +1 Str Computers Diplomat 3 +1 Dex Carouse Remote Operations 4 +1 End Gun Combat
-(any)
+2 +1 Str Computers Diplomat 3 +1 Dex Carouse Remote Operations 4 +1 End Gun Combat (any)
 
 Tactics
 
@@ -664,8 +680,7 @@ Specialist: Specialist: Ship TracerShip Tracer
 
 Specialist: Specialist: BondsmanBondsman
 
-Specialist: Specialist: ThieftakerThieftaker 1 Astrogation Carouse Gun Combat (any) 2 Comms Deception Melee (any) 3 Computers Gun Combat
-(any)
+Specialist: Specialist: ThieftakerThieftaker 1 Astrogation Carouse Gun Combat (any) 2 Comms Deception Melee (any) 3 Computers Gun Combat (any)
 
 Recon
 
@@ -683,14 +698,20 @@ Ship TracerShip Tracer BondsmanBondsman ThieftakerThieftaker SurvivalSurvival En
 
 MISHAPS
 
+
+
 2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Your mark was wearing a crude explosive device to avoid capture. Roll twice on the Injury table with a +1 DM and applying both results. 4 You capture the wrong man! Lose 1 Trust. 5 A gunfight goes poorly for you and you now have a bullet lodged in your organs. Lose 1 End. 6 Your face is plastered all over criminal message centres, gain +1 Social but you lose one level from every Cover Identity you may have before being ejected from the career. 7 You are not paid the full amount of a bounty. You may stay in this career but take –1 DM on all Benefit rolls from your next term. 8 The ship you were working from is attacked by raiders. Roll Gun Combat (any) or Gunner (any) 8+ to avoid rolling on the Injury table. 9 You are rumored to have been taking bribes from your marks to let them go. Lose 1 Soc as you are ejected from this career path but gain 1 Contact in the criminal underworld. 10 The charges are dropped on a mark that took you all year to capture. Lose your next benefit roll. 11 You make friends with your mark, getting fired but making a Contact out of him. 12 You are wounded in the line of duty. Roll on the Injury table.
 
 EVENTS
+
+
 
 d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 The employing agency mislabels a sociopathic mark as being 'relatively harmless'. Roll Gun Combat (any) or Melee (any) 9+ to successfully capture him and avoid rolling on the Injury table. Succeed and gain +1 on your next Benefit roll. 13 You establish a good network of contacts on the street. Gain Streetwise 1 and Network (street). 14 A renowned legal advocate attempts to get your mark off the hook by throwing your agency to the media. Roll Advocate or Persuade 8+. If you fail, lose 1 Trust and suffer a –2 DM to your next Advancement roll. If you succeed, gain 1 Trust and a +2 DM to your next Advancement roll. Either way, gain the legal advocate as a Rival. 15 You encounter aliens whilst tracking a bounty. You may attempt to use force or diplomacy to deal with the situation by rolling either Melee (any) 8+ or Persuade 10+. If you succeed using Melee, gain an alien Enemy. If you succeed using Persuade, gain an alien Contact and a +2 DM to your next Advancement roll. 16 Life Event. Roll on the Life Events table. 21 You are weighed down with a huge amount of paperwork. Gain Admin 1, Advocate 1, Computers 1 or Comms 1. 22 A dangerous former mark has escaped and now stalks you and your family. Now and in each term afterwards until the mark is caught or you leave this career, roll Investigate 10+. If you succeed, the mark is caught; gain a
 +2 DM to your next Advancement roll. If you fail by 6 or more, lose one Contact, Ally or family member. 23 You have an unexpected and scandalous romantic relationship with a mark. Gain an Ally, then roll Deception 8+ to avoid losing 1 Trust. 24 You have the chance to make a brutal example of an unruly mark, showing other criminals you mean business. If you do, roll Melee (unarmed) 7+. Succeed and you can add 1 Trust and 1 level to Persuade. If you fail, add 1 Trust and roll on the Injury table. If you choose not to use brutality, gain +1 Social Standing for your show of 'mercy'. 25 There is an opening in the local police force and they want you to join up. You may automatically qualify for the Law Enforcement (Special Operations) career next term. 26 Life Event. Roll on the Life Events table. 31 You hitch a ride to a mark on board a Star Marine vessel that owes your employer a favor and you might be able to talk them into showing you a few things in transit. Succeed in Carouse, Gambling or Persuade 9+ and learn Battle Dress 0, Heavy Weapons (any) 1 or Vacc Suit 1.
 
 AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
+
+
 
 32 You uncover clear evidence of corruption within a local law enforcement agency. If you keep silent, gain 1 Trust and an extra Benefit roll as a bribe. If you attempt to expose the corruption, roll Investigate 8+. Succeed and you gain +2 Trust and a +2 DM to your next Advancement roll. Fail and you lose –2 Trust and suffer a –2 DM to your next Advancement roll. Either way, gain the corrupt commissioner as an Enemy.
 
@@ -707,8 +728,7 @@ AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
 42 The local military police are looking for the same mark as you are, aiding you with your search. You can learn a few things from their techniques. Gain Gun Combat (any) 1, Investigate 1 or Tactics 1.
 
-43 Your bounty sends you to a frontier zone, deep in the wilds of a barbaric planet. Gain Animals (farming) 1, Melee
-(blade) 1 or Survival 1.
+43 Your bounty sends you to a frontier zone, deep in the wilds of a barbaric planet. Gain Animals (farming) 1, Melee (blade) 1 or Survival 1.
 
 44 You require special training to catch your next mark. Roll Education 9+ to learn any one skill.
 
@@ -735,6 +755,8 @@ AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 63 Your mark is a Psion. Roll Intelligence 10+ or Psi 7+ to bring him in, gaining +4 DM to your next Advancement roll. If you fail, you lose him and lose 1 Trust. 64 You are put into a position where you can take a bullet for your mark in order to make sure he gets delivered. If you choose to do so, roll Athletics (co-ordination) 9+. If successful, roll on the Injury table and automatically be promoted. If you try and fail, gain 1 Trust. 65 You have a chance to flip sides, joining a powerful criminal syndicate. If you do not, gain 2 Trust. If you do, you may automatically qualify for any path in the Rogue career next term. 66 You are heralded as one of the best in your business. You are automatically promoted.
 
 RANKS AND BENEFITS
+
+
 
 RankRank Ship TracerShip Tracer Skill or BenefitSkill or Benefit Bondsman/ThieftakerBondsman/Thieftaker Skill or BenefitSkill or Benefit 0 Hunter Carouse 1 1 Navitracker Astrogation 1 2 Bailsman Investigate 1 3 Finder +1 Int Con Runner 4 Star Tracker Ship Share Combat Implant 5 Collections Agent +1 Social 6 Master Finder Network (any) Chief of Acquisitions 1d6 Contacts
 
@@ -807,8 +829,7 @@ Agents working for the Imperial Ministry of Justice...
 
 The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent's current Rank.
 
-RANK 0 _Temporary acquisition of personal Imperial assets (weapon, armor, etc.) worth up to Cr. 5,000:_ 1-6 Hours, Social Standing, Average
-(+0).
+RANK 0 _Temporary acquisition of personal Imperial assets (weapon, armor, etc.) worth up to Cr. 5,000:_ 1-6 Hours, Social Standing, Average (+0).
 
 RANK 1 _Acquire a piece of local evidence in relation to an Imperial crime or investigation:_ 1-6 Hours, Average (+0).
 
@@ -820,8 +841,7 @@ _Get permission to search any non-military Imperial vessel:_ 1-6 Days, Social St
 
 RANK 3 _Begin an Imperial investigation on a particular target based on little to no evidence:_ 10-60 Days, Social Standing, Difficult (–2).
 
-_Temporary acquisition of personal Imperial assets (weapon, armor, etc) worth up to Cr. 25,000:_ 10-60 Hours, Social Standing, Average
-(+0).
+_Temporary acquisition of personal Imperial assets (weapon, armor, etc) worth up to Cr. 25,000:_ 10-60 Hours, Social Standing, Average (+0).
 
 RANK 4 _Request military aid in a hostile action (Star Marines, Imperial Navy, etc):_ 10-60 Days, Social, Average (+0).
 
@@ -875,8 +895,7 @@ Agents working for a local Police Force...
 
 The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent's current Rank.
 
-RANK 0 _Learn about local legal and criminal activity:_ 10-60 Minutes, Easy
-(+2).
+RANK 0 _Learn about local legal and criminal activity:_ 10-60 Minutes, Easy (+2).
 
 RANK 1 _Acquire a piece of local evidence in relevance to a local investigation:_ 1-6 Hours, Average (+0).
 
@@ -962,8 +981,7 @@ The following are special actions based on the Trust level of the Agent currentl
 
 RANK 0 _Find a local affiliate of the megacorp:_ 10-60 Minutes, Easy (+2).
 
-_Acquisition of company assets worth up to Cr. 1,000:_ 1-6 Hours, Easy
-(+2).
+_Acquisition of company assets worth up to Cr. 1,000:_ 1-6 Hours, Easy (+2).
 
 RANK 1 _Acquire use of company vehicular transport for one week:_ 1-6 Hours, Very Easy (+4).
 
@@ -973,13 +991,11 @@ RANK 2 _Acquisition of company assets worth up to Cr. 10,000:_ 1-6 Hours, Averag
 
 _Hire temporary subcontracted employees for moderate wages (Cr. 100 a day):_ 1-6 Weeks, Difficult (–2).
 
-_Request further intelligence on specific target:_ 1-6 Hours, Average
-(+0).
+_Request further intelligence on specific target:_ 1-6 Hours, Average (+0).
 
 RANK 3 Acquisition of company assets worth up to Cr. 20,000: 1-6 Hours, Average (+0).
 
-Request local mercenary aid: 1-6 Weeks, Social Standing, Difficult
-(–2).
+Request local mercenary aid: 1-6 Weeks, Social Standing, Difficult (–2).
 
 RANK 4 Acquisition of company assets worth up to Cr. 30,000: 1-6 Hours, Average (+0).
 
@@ -993,8 +1009,7 @@ RANK 6 Acquire megacorp Merchant Vessel for no longer than six months: 10- 60 Da
 
 Acquisition of company assets worth up to Cr. 100,000: 10-60 Hours, Difficult (–2).
 
-Indefinite use of megacorp planetary vehicular asset: 1-6 Days, Average
-(+0).
+Indefinite use of megacorp planetary vehicular asset: 1-6 Days, Average (+0).
 
 ## THE ESCHATON MOVEMENT
 
@@ -1124,11 +1139,11 @@ As it was presented in the _Traveller Core Rulebook_ (starting on page 173), a p
 
 A quick description of the ten Law Levels is as follows:
 
-0 (Lawless): 0 (Lawless): This is the absence of legal authority. Either through anarchy, barbarism or other assorted social fractures, this culture does not keep a set of laws to govern the indicated items.
+0 (Lawless):0 (Lawless): This is the absence of legal authority. Either through anarchy, barbarism or other assorted social fractures, this culture does not keep a set of laws to govern the indicated items.
 
 1 (Light Limited):1 (Light Limited): The culture really only keeps restrictions upon the most extreme examples of item or action. Legal action is likely strict about the punishments concerning these light laws, however.
 
-2 (Moderate Limited): 2 (Moderate Limited): Increasing the limitations on particular situations or items, a culture at this Law Level has begun to monitor things for the general well-being of their populace.
+2 (Moderate Limited):2 (Moderate Limited): Increasing the limitations on particular situations or items, a culture at this Law Level has begun to monitor things for the general well-being of their populace.
 
 3 (Standard Limited):3 (Standard Limited): Safety laws begin to appear at this level, with the governing power trying to limit what is readily available to protect the general populace.
 
@@ -1140,7 +1155,7 @@ A quick description of the ten Law Levels is as follows:
 
 7 (Tight):7 (Tight): The legal codes of this culture are designed to take away many specific options from the people as a whole. Most civilian items and services are now regulated by the government, ensuring that they are not readily available without legal means or authority.
 
-8 (Enforced): 8 (Enforced): Total governmental control over most things; this Law Level represents most military states or areas under strict martial law.
+8 (Enforced):8 (Enforced): Total governmental control over most things; this Law Level represents most military states or areas under strict martial law.
 
 9 or higher (Stifling): 9 or higher (Stifling): The epitome of legal tyranny. Nothing is accessible by the people and everything is kept under governmental control. Punishments for breaking these laws are likely the harshest possible; better to keep the populace in line with the legal regime.
 
@@ -1231,8 +1246,7 @@ TECHNOLOGY 1 – 1 – Making only the most dangerous and invasive technologies 
 
 8 – 8 – Forcing its people to remain in the industrial era of technological advancement, the equipment and instruments that might lead to higher science (TL 5) are now forbidden. The government has managed to keep its citizens simple and likely blinded to the wonders of the galaxy.
 
-9 – 9 – A state-imposed medieval culture, this Law Level only allows extremely simple mechanical equipment and the knowledge to use them, ceasing the legal use of steam works or industrial advances
-(TL 3).
+9 – 9 – A state-imposed medieval culture, this Law Level only allows extremely simple mechanical equipment and the knowledge to use them, ceasing the legal use of steam works or industrial advances (TL 3).
 
 TRAVELLERS 1 – 1 – The government keeps open borders and allows free travel across them, only requesting travellers check in with local authorities when they land. Radio contact, even delayed response radios, is considered enough warning to allow a landing anywhere the ship can find room to do so.
 
@@ -1286,23 +1300,35 @@ The investigator must make sure he is looking into the right crimes, criminals o
 It takes three successful consecutive Research-related skill tasks to ensure the investigator is looking into things properly. The investigating character may not progress into Discovery without them.
 
 ASTROGATION
+
+
 Tracing a ship's potential travel route: 1-6 Hours, Education, Difficult (–2).
 
 CAROUSE
+
+
 Learning the basic information to begin the investigation from the target's peers: 1-6 Days, Intelligence, Difficult (–2).
 
 COMPUTERS
+
+
 Finding an electronic signature to start researching: 10-60 Hours, Education, Average (+0).
 
 Create a false software signature to begin hidden research from: 1-6 Hours, Education, Difficult (–2).
 
 PERSUADE
+
+
 Convince local law enforcement officers to give you a good starting point: 1-6 Hours, Social Standing, Difficult (–2).
 
 RECON
+
+
 _Find the root of the investigation:_ 10-60 Minutes, Intelligence, Average (+0).
 
 SENSORS
+
+
 _Looking through sensor data to find the root of the investigation:_ 1-6 Hours, Intelligence, Average (+0).
 
 _As an example, Marchus has been tasked by his commissioner to uncover the truth behind a missing person's case that has just been upgraded to murder. He chooses to use his extensive background in technology, rolling at first a Sensors skill test that takes him all night... which he sadly fails. Seeing that only putting in personal face time will work with this criminal, he instead tries Carouse, Investigate and Recon; all of which he succeeds at. He now knows where he must begin to seek out the criminal in question, an Aslan called Iklaugh._
@@ -1322,8 +1348,7 @@ _Initiating a rumor mill to force truth to surface:_ 10-60 Hours, Intelligence, 
 
 COMMS _Poring over recovered communication logs from hard storage:_ 1-6 Hours, Intelligence, Average (+0).
 
-Eavesdropping on comms signals: 1-6 Minutes, Education, Difficult
-(–2).
+Eavesdropping on comms signals: 1-6 Minutes, Education, Difficult (–2).
 
 COMPUTERS Finding electronic connections that lead to the target: 10-60 Hours, Intelligence, Difficult (–2).
 
@@ -1350,6 +1375,8 @@ SENSORS Discover a sensor mark or anomaly that leads to a clue: 10-60 Minutes, E
 STEALTH Shadow an informant or ally of the target until they reveal previously unknown information: 1-6 Hours, Dexterity, Difficult (–2).
 
 TTTHEHEHE L L LAWAWAW INININ T T TRAVELLERRAVELLERRAVELLER
+
+
 
 STEWARD _Cater to others until they blurt out information:_ 10-60 Hours, Education or Social Standing, Average (+0).
 
@@ -1446,7 +1473,7 @@ Law Level Law Level being being Applied to Applied to CaseCase
 
 Number Number of Motions of Motions GrantedGranted 1 1-2 9 –5 2-3 3-4 8 –2 4-5 5-6 7 0 6-7 7-10 6 1 8-9 11 5 2 10-11 12 4 3 12-13 13 3 4 14 14 2 5 15 15 1 6
 
-(^1) Both of these columns still apply individually if the Representative and the Accused Party are the same person. _Iklaugh sits in the court, hands in thumb-cuffed manacles but his appointed advocate stands and bows deeply to the court, particularly to the Imperial justice sitting at the stand before him. The advocate has a Social Standing of 8 (2 Motions) and is being tried for crimes against Law Level 5 (2 Motions). Iklaugh's Social Standing is a miserable 4 (_ – _2 Motions). Looking at the table, the appointed advocate will have a net total of 2 Motions to try and get some of Marchus' evidence thrown out of the case._ Once the defending representative has determined how many Motions with which he has to defend the accused, he can decide how to use them. Motions can be spent for the following effects:
+(^1) Both of these columns still apply individually if the Representative and the Accused Party are the same person. _Iklaugh sits in the court, hands in thumb-cuffed manacles but his appointed advocate stands and bows deeply to the court, particularly to the Imperial justice sitting at the stand before him. The advocate has a Social Standing of8 (2 Motions) and is being tried for crimes against Law Level5 (2 Motions). Iklaugh's Social Standing is a miserable4 (_ – _2 Motions). Looking at the table, the appointed advocate will have a net total of 2 Motions to try and get some of Marchus' evidence thrown out of the case._ Once the defending representative has determined how many Motions with which he has to defend the accused, he can decide how to use them. Motions can be spent for the following effects:
 
 - Spending 1 Motion can have a case cancelled if the number of
   Evidence pieces is currently 0.
@@ -1477,6 +1504,8 @@ To determine how long the Deliberation is, roll the dice listed on the table bel
 Marchus sits down after the Ducal Justice gathers up his papers and exits the room, leaving the two sides of the case to stare at their chronographs. As the Justice serves a Law Level 5 court and the prosecution had only 4 pieces of Evidence left, the table shows that the justice will be in deliberation for 1d6 hours. The Referee rolls the maximum, a 6 and explains to Marchus that he will be waiting for the verdict for quite a while.
 
 THE VERDICT
+
+
 The most important part of the Deliberation is the actual outcome of the case itself. So long as the prosecution manages to keep enough evidence viable for the case, they should have a good chance of getting the verdict they desire.
 
 The Referee can simply choose what the verdict will be according to what he needs in his story or he can leave it partially up to fate by using the following system.
@@ -1613,7 +1642,7 @@ Chemical Sterilization – Chemical Sterilization – The convict is drugged hea
 
 Psionic Solitary Confinement – Psionic Solitary Confinement – Also called mind-wiping, the convict is telepathically scoured of free thought. They become a living automaton, barely aware of their surroundings and answering to simple commands. In cultures where psionics are banned even for government use, treat this as a Death Sentence instead.
 
-As the example concludes, Iklaugh stands and awaits his punishment with a snarl on his face – giving an evil eye toward Marchus and the prosecuting team. The Imperial justice sees this unspoken threat and gives his sentencing with extreme prejudice. The Referee rolls 2d6 on the Minimal Punishments table and laughs as he rolls a '10'. This, adjusted by the +2 for Iklaugh's murder charge, makes the result a '12', a roll on the next table! The Referee rolls a 7 (+2 again for the murder charge resulting in a 9) and the resulting 2d6x10 years gives Marchus satisfaction for a long, long time. The justice grins at the shocked Aslan, explaining that he will be spending 80 years in an Imperial prison out on the galactic frontier.
+As the example concludes, Iklaugh stands and awaits his punishment with a snarl on his face – giving an evil eye toward Marchus and the prosecuting team. The Imperial justice sees this unspoken threat and gives his sentencing with extreme prejudice. The Referee rolls 2d6 on the Minimal Punishments table and laughs as he rolls a '10'. This, adjusted by the +2 for Iklaugh's murder charge, makes the result a '12', a roll on the next table! The Referee rolls a7 (+2 again for the murder charge resulting in a 9) and the resulting 2d6x10 years gives Marchus satisfaction for a long, long time. The justice grins at the shocked Aslan, explaining that he will be spending 80 years in an Imperial prison out on the galactic frontier.
 
 ### INFORMANTS
 
@@ -1756,6 +1785,8 @@ The Referee creates a list of skills that will oppose those used by the defendin
 
 EEESPIONAGESPIONAGESPIONAGE
 
+
+
 scoring the most total Effect over the other is the victor, and ends with the intruder getting past the defensive environment or simply getting caught.
 
 _As an example, Sergia, the corporate spy, is preparing to break into the secure offices of his target. The target is a high-powered megacorp with a skilled team of anti-intrusion experts working security. Although the Referee could decide to have Sergia roll a single Stealth skill check with an appropriate modifier to bypass security, he instead decides to make it an extended Opposed skill check to avoid his player getting caught out by a single bad die roll. He also makes the narrative scene more exciting by setting up a handful of specific obstacles for the spy to test herself against: a camera yard, a computerised gate and pressure plates on the floor. Sergia rolls Stealth, Computers and Athletics (co-ordination) to bypass these obstacles respectively, adding up his total Effect. The Referee rolls Investigation, Computers and Sensors for the security team, adding up their Effect. Depending on the comparison between the two total Effect values, Sergia may or may not have a situation on her hands inside the megacorp facility..._
@@ -1780,8 +1811,7 @@ This table shows what skills are used to analyse the importance of data and the 
 
 Targeted Data Targeted Data TypeType^1 Primary Analysis SkillPrimary Analysis Skill
 
-Secondary Analysis Secondary Analysis SkillSkill Administrative Admin Investigate Economic Social Sciences
-(economics)
+Secondary Analysis Secondary Analysis SkillSkill Administrative Admin Investigate Economic Social Sciences (economics)
 
 Trade
 
@@ -1792,24 +1822,25 @@ Illegal Advocate Streetwise Organizational Steward Admin Personnel Investigate A
 
 OPPOSED SKILLS
 
-SkillSkill Sample Opposing SkillsSample Opposing Skills ExamplesExamples Admin Admin Create red-tape where it will stall opposing efforts. Carouse Spin rumors to undermine opposing corporate ties or authority. Computers Hack files and erase data important to opposing bureaucrat. Carouse Carouse Manipulate conversations away from opposing views. Deception Trick others into disbelieving opposing conversations. Persuade Socially steer listeners from opposing views. Comms Comms Jam or encrypt outgoing transmissions. Physical Sciences
-(Electronics)
+
+
+SkillSkill Sample Opposing SkillsSample Opposing Skills ExamplesExamples Admin Admin Create red-tape where it will stall opposing efforts. Carouse Spin rumors to undermine opposing corporate ties or authority. Computers Hack files and erase data important to opposing bureaucrat. Carouse Carouse Manipulate conversations away from opposing views. Deception Trick others into disbelieving opposing conversations. Persuade Socially steer listeners from opposing views. Comms Comms Jam or encrypt outgoing transmissions. Physical Sciences (Electronics)
 
 Create hardware feedback loops to stop transmissions.
 
-Computers Computers Hacking, planting and encrypting data; creating IC programs. Engineering (Electronics) Flood ship data into software stream to confuse or corrupt opposing software. Physical Sciences
-(Electronics)
+Computers Computers Hacking, planting and encrypting data; creating IC programs. Engineering (Electronics) Flood ship data into software stream to confuse or corrupt opposing software. Physical Sciences (Electronics)
 
 Create hardware walls that stop networking.
 
-Deception Carouse Convince strangers to side with you despite the weight of opposing agent's untruths. Deception Tell a bigger lie to sway listeners. Investigate Find all of the logical holes in opposing agent's untruths. Persuade Talk listeners into siding with you instead of the opposition. Investigate Deception Hide the truth from opposing inquisition. Stealth Physically avoid being seen by the opposition. Streetwise Know how best to confuse or befuddle opposition through the use of street-level politics and gangs. Persuade Carouse Get people to like you better than the opposition. Deception Use trickery to sway others against the opposition. Persuade Make listeners loyal to your views instead of opposing ones. Streetwise Know what the street-level people want to hear in order to oppose current arguments. Sensors Comms Trigger ghost readings on sensors with tight-beam communication wavelengths. Computers Flood sensor caches with false or heavy data, slowing down the opposing sensor operator. Physical Sciences
-(Electronics)
+Deception Carouse Convince strangers to side with you despite the weight of opposing agent's untruths. Deception Tell a bigger lie to sway listeners. Investigate Find all of the logical holes in opposing agent's untruths. Persuade Talk listeners into siding with you instead of the opposition. Investigate Deception Hide the truth from opposing inquisition. Stealth Physically avoid being seen by the opposition. Streetwise Know how best to confuse or befuddle opposition through the use of street-level politics and gangs. Persuade Carouse Get people to like you better than the opposition. Deception Use trickery to sway others against the opposition. Persuade Make listeners loyal to your views instead of opposing ones. Streetwise Know what the street-level people want to hear in order to oppose current arguments. Sensors Comms Trigger ghost readings on sensors with tight-beam communication wavelengths. Computers Flood sensor caches with false or heavy data, slowing down the opposing sensor operator. Physical Sciences (Electronics)
 
 Hardwire a transmission loop directly at the sensor.
 
 Sensors Alter data in a functioning sensor device. Stealth Know where to be or what to do to thwart an active sensor. Stealth Investigate Look for clues as to opponent's whereabouts. Recon Look for opponent or signs of opponent's passage. Remote Operations Program remotes to 'look' for opponent. Sensors Widen or sharpen sensor fields to better find opponent. Streetwise Convince street-level locals to look out for opposing agent. Streetwise Advocate Manipulate law enforcement to stop opposing street agents. Carouse Win the trust of the street-level locals away from the opposition. Deception Use lies and trickery to get street-level locals to distrust the opposition. Persuade Convince other parties to become involved, neutralising the opponent's street contacts. Streetwise Use inter-gang conflicts to stir up opposition on the street.
 
 EEESPIONAGESPIONAGESPIONAGE
+
+
 
 So long as the character passes this first skill check to calculate what data would be of the most importance, they may take the second analysis test anytime after the data has been gathered but before turning in their report.
 
@@ -1892,12 +1923,13 @@ WHITE HAT Create encryption protocols (reduce opposing Computers skill Effects b
 
 EEESPIONAGESPIONAGESPIONAGE
 
+
+
 _Discover the source and/or electronic signature of a current or past hacking:_ 1-6 Minutes, Education or Intelligence, Average (+0).
 
 Boon: Boon: +1 DM on all Computers skill checks made on a network with the creators' permission.
 
-Drawback:Drawback: –1 DM on all Computers skill checks made on illegal
-(non-permitted) processes.
+Drawback:Drawback: –1 DM on all Computers skill checks made on illegal (non-permitted) processes.
 
 HACKTIVIST _Add broadcast data or advertisement program to protected network:_ 10-60 Minutes, Intelligence, Routine (+2).
 
@@ -1933,8 +1965,7 @@ Corporate AgentsCorporate Agents within the Imperium's employ are employees of t
 
 Thought of as the most powerful of agents, Imperial SpiesImperial Spies are the secret workforce of the Ministry of State. Suitably called 'Shadows' by those who know of their existence, Imperial Spy agents serve one primary role – Know Thy Neighbour's Secrets. Used to keep tabs upon Imperial citizens as often as they are deployed in foreign space, Shadows are allowed to do whatever they must to gather the information they need. If they have to lie, cheat, steal or even kill matters not at all to the Ministry, so long as the job is done.
 
-Imperial AnalystsImperial Analysts are given an elevated amount of personal power and social influence to keep them active and recognized within the circles of nobility and planetary governments. Imperial political analysts are the chief agents sent to work within a newly acquired
-(or re-acquired) Imperial colony, bringing the new regime to power hopefully without dissent.
+Imperial AnalystsImperial Analysts are given an elevated amount of personal power and social influence to keep them active and recognized within the circles of nobility and planetary governments. Imperial political analysts are the chief agents sent to work within a newly acquired (or re-acquired) Imperial colony, bringing the new regime to power hopefully without dissent.
 
 Used in small numbers by the Ministry of Justice, Bounty HuntersBounty Hunters are rarely granted full Imperial licenses. They serve as freelancers or are individually employed on a case-by-case basis, as the ducal justices preferring to use their own law enforcement agents to catch criminals before giving a full license over for a few bail jumpers. There have been examples of Imperial Hunters in territories with
 
@@ -1952,8 +1983,7 @@ whatever is necessary to see Imperial law upheld. It is the Imperium- wide equiv
 
 Requirements: Requirements: Trust 2+, Advocate 2, Investigate 2, at least one term in a Law Enforcement Agent career path.
 
-Benefits: Benefits: +1 Social Standing. Agent can pass an Advocate skill check
-(8+) to justify any action taken while upholding Imperial Law or undertaking an Imperially-sanctioned mission.
+Benefits: Benefits: +1 Social Standing. Agent can pass an Advocate skill check (8+) to justify any action taken while upholding Imperial Law or undertaking an Imperially-sanctioned mission.
 
 THE RAGHEMANDI KEY This licence is named after Palant Raghemand, a famous commercial agent who uncovered an anti-Imperial plot within a powerful megacorporation. The Raghemandi Key grants permission for agents to have complete access to commercial territories, financial records and security logs of any company or LIC corporation with holdings in the Imperium.
 
@@ -1965,8 +1995,7 @@ THE STYRYXIAN ALLOWANCE The licence given to agents assigned to blossoming gover
 
 Requirements: Requirements: Trust 3+, Admin 2, Diplomat 2, at least one term in an Analyst Agent career path.
 
-Benefits: Benefits: +2 Social Standing. Agent can pass a Diplomat skill check
-(8+) to act as a legal superior to any local governmental agency.
+Benefits: Benefits: +2 Social Standing. Agent can pass a Diplomat skill check (8+) to act as a legal superior to any local governmental agency.
 
 THE SHADOW BADGE OF HUMANITI The Shadow Badge of Humaniti allows its bearer to break any and all laws the agent feels he has to in the course of his duties. Whatever it takes to succeed in his mission, this licence will protect the agent from local and Imperial prosecution. The Shadow Badge is why Imperial spies are feared throughout Charted Space. Imperial spies are empowered to do whatever they must; their missions are of a higher priority than morality and legality.
 
@@ -1975,6 +2004,8 @@ Requirements: Requirements: Trust 4+, Investigate 2, Stealth 2, at least three t
 Benefits: Benefits: Agent must pass a Social Standing check (6+) to justify any action taken while working on an Imperially sanctioned mission.
 
 EEESPIONAGESPIONAGESPIONAGE
+
+
 
 Special Note: Special Note: Each Shadow Badge comes equipped with a potent dose of tri-chloride nerve inhibitor – a deadly poison. The ring can either be triggered manually as a Significant Action or by radio remote within 50km. The poison requires three successful Endurance (10+) checks to survive the dose. This is normally only used when the spy is captured.
 
@@ -2034,6 +2065,8 @@ There are not any foreign SpySpy agents – those are all reserved for the Class
 
 EEESPIONAGESPIONAGESPIONAGE
 
+
+
 AnalystAnalyst agents working with foreign governments are hired in two main varieties – aides and adjustors. Aides are agents sent to help an allied government work with the employing one. Making treaties, arranging for diplomatic trades and serving as loyal bodyguards on foreign soil are what analysts are empowered to do, helping strengthen governmental relations. Adjustors are Analyst agents that are tasked with taking over the reins of a lesser or smaller government being subsumed by the agent's employer. Aides are used to work better with allies; adjustors are used with governments that _will be_ allies.
 
 Bounty HunterBounty Hunter agents are popular in foreign climes. They venture out into other governments' jurisdictions with their permission in order to catch runaway criminals, ships and bail jumpers. There are thankfully few governing powers that actually want criminals and troublemakers hiding within their borders, so allowing Bounty Hunters to come and do their jobs is commonplace. Just as these agents help keep the legal system flowing well at home, they can do the same abroad.
@@ -2092,14 +2125,15 @@ The narrative and rules descriptions of what the above Regime Change Effects are
 
 Continued Employment: Continued Employment: The agent is allowed to continue working for the new regime. Nothing is changed as far as the agent is concerned; just the name on their paycheques.
 
-Interview: Interview: There is a question as to the potential loyalty of the agent to the new regime. They must sit down with a representative of the new authority and prove their worth. The character in question must pass two of three skill tests taken from the following list: Admin, Carouse, Deception, Persuade or Streetwise. No skill may be tested twice during the interview. Failure means the agent is let go, as per Terminate Employment (see page 66). Success means the character is allowed to maintain his contract as per Continued Employment
-(see above). If there is a Dice Modifier listed in the table entry, these skill tests are made with that modifier.
+Interview: Interview: There is a question as to the potential loyalty of the agent to the new regime. They must sit down with a representative of the new authority and prove their worth. The character in question must pass two of three skill tests taken from the following list: Admin, Carouse, Deception, Persuade or Streetwise. No skill may be tested twice during the interview. Failure means the agent is let go, as per Terminate Employment (see page 66). Success means the character is allowed to maintain his contract as per Continued Employment (see above). If there is a Dice Modifier listed in the table entry, these skill tests are made with that modifier.
 
 Test Mission: Test Mission: The agent must be put to the test directly, ensuring his loyalty and helping establish the new regime's power base in the process. The agent must roll a random Espionage Mission (see page 66), adding their Trust to the Mission Difficulty table to determine how challenging a mission is required. If the agent fails the mission, they are fired from employment as per Terminate Employment (and suffer the Failed Mission Mishap!). If they succeed, they are allowed to maintain their contract as per Continued Employment but still do NOT get to roll on the Mission Payout table.
 
 Test of Loyalty: Test of Loyalty: The agent is required to perform a questionable or reprehensible act for the new regime to ensure they are going to work well with them. If the agent chooses to do this, he sacrifices either an Ally or Network (any), for his new employers. If the agent does not have access to one of these to sacrifice, they must instead sacrifice a family member, reducing their Social Standing by 1.
 
 EEESPIONAGESPIONAGESPIONAGE
+
+
 
 The agent may alternatively try to fool the new regime into thinking that they have made the sacrifice by passing Deception and Persuade skill checks with any Dice Modifiers listed in the table entry. If they fail to kill for the new employer or fail to fool them, the agent is immediately fired, as per _Terminate Employment._ If the agent successfully does these things, he can remain employed as per _Continued Employment_.
 
@@ -2163,6 +2197,8 @@ Item, Common: Item, Common: The mission target is a specific item in a place tha
 
 EEESPIONAGESPIONAGESPIONAGE
 
+
+
 Item, Rare: Item, Rare: This mission targets a specific item in a specific place but the item is rare enough it does not belong where it is being held (a book in a vault, a firearm buried in a forest, and so on). The agent must research, steal or destroy the item for his employer. This target grants a +1 to the rolls upon the Mission Difficulty and Mission Payout tables.
 
 Person: Person: The mission targets a specific person that the agent must interact with. The agent will have to converse with, spy upon, kidnap or even kill the person in question for his employer.
@@ -2173,9 +2209,7 @@ Determine Length of Mission The following table shows how long the Espionage mis
 
 1d6 Result1d6 Result Espionage Mission LengthEspionage Mission Length^1 1 1d6x3 weeks 2 1d6x2 weeks 3 1d6 weeks 4 1d6x5 days 5 1d6x3 days 6 1d6+1 days
 
-(^1) The amount is doubled if the mission is interplanetary in nature
-(Referee's discretion) Determine Difficulty of Mission The following table shows how difficult the Espionage mission will be for the agent to accomplish. This is measured in a total amount of Effect the agent character should have to generate from his successful skill checks (based on the Mission Type, above) during the Mission. The Referee should roll 1d6 or choose on the following table to determine how difficult the agent's mission will be in terms of Effect necessary. Additionally, the difficulty may or may not have a modifier to the Mission Payout if successful. 1d6 Result1d6 Result Espionage Mission DifficultyEspionage Mission Difficulty Mission Payout Mission Payout ModifierModifier 0 Training Level (1 Effect) –3 DM 1 Very Easy (3 Effect) –2 DM 2 Easy (5 Effect) –1 DM 3 Routine (7 Effect) — 4 Medium (9 Effect) — 5 Challenging (11 Effect) +1 DM 6 Difficult (13 Effect) +2 DM 7 Arduous (15 Effect) +3 DM Determine Agent Success/Failure Once the agent has determined how difficult the Espionage Mission will be for him to complete, he must then attempt all four of the skill checks listed in the Mission Type category. These checks are made with the standard 8+ difficulty required of them but can be modified with any characteristic; so long as the agent can describe the check sufficiently in regards to the Mission Target. For example, a physically-minded agent placed on an Underworld Action targeting a Person might attempt to modify his Carouse, Persuade and Streetwise rolls all with his superior Strength modifier. He does this satisfactorily by saying that he is using his muscular bulk to show off in a bar (Carouse), intimidate an informant
-(Persuade) and rough up a local gang member (Streetwise). Once these skill checks are rolled and the total Effect is calculated, the agent checks his total against the amount required by the Mission Difficulty. If the total is equal to or more than the amount required, the mission is a success and the agent may now Determine Mission Payout. If the total is less than that required for success however, the agent has failed and must instead roll upon the Failure Mishap table, subtracting –1 for each point of Effect they were lower than the required amount for success. Determine Mission Payout The following table shows how well the agent will be paid for his successful Espionage Mission. Most of the mission payouts come in the form of a cash bonus but some have additional benefits attached to them similar to the Mustering-Out Benefit Rolls gained during _Traveller_ character creation. The Referee should roll 2d6 or choose on the following table to determine how well the agent is compensated for a job well done, remembering all modifiers from the earliest parts of the mission, character adjustments and so forth.
+(^1) The amount is doubled if the mission is interplanetary in nature (Referee's discretion) Determine Difficulty of Mission The following table shows how difficult the Espionage mission will be for the agent to accomplish. This is measured in a total amount of Effect the agent character should have to generate from his successful skill checks (based on the Mission Type, above) during the Mission. The Referee should roll 1d6 or choose on the following table to determine how difficult the agent's mission will be in terms of Effect necessary. Additionally, the difficulty may or may not have a modifier to the Mission Payout if successful. 1d6 Result1d6 Result Espionage Mission DifficultyEspionage Mission Difficulty Mission Payout Mission Payout ModifierModifier 0 Training Level (1 Effect) –3 DM 1 Very Easy (3 Effect) –2 DM 2 Easy (5 Effect) –1 DM 3 Routine (7 Effect) — 4 Medium (9 Effect) — 5 Challenging (11 Effect) +1 DM 6 Difficult (13 Effect) +2 DM 7 Arduous (15 Effect) +3 DM Determine Agent Success/Failure Once the agent has determined how difficult the Espionage Mission will be for him to complete, he must then attempt all four of the skill checks listed in the Mission Type category. These checks are made with the standard 8+ difficulty required of them but can be modified with any characteristic; so long as the agent can describe the check sufficiently in regards to the Mission Target. For example, a physically-minded agent placed on an Underworld Action targeting a Person might attempt to modify his Carouse, Persuade and Streetwise rolls all with his superior Strength modifier. He does this satisfactorily by saying that he is using his muscular bulk to show off in a bar (Carouse), intimidate an informant (Persuade) and rough up a local gang member (Streetwise). Once these skill checks are rolled and the total Effect is calculated, the agent checks his total against the amount required by the Mission Difficulty. If the total is equal to or more than the amount required, the mission is a success and the agent may now Determine Mission Payout. If the total is less than that required for success however, the agent has failed and must instead roll upon the Failure Mishap table, subtracting –1 for each point of Effect they were lower than the required amount for success. Determine Mission Payout The following table shows how well the agent will be paid for his successful Espionage Mission. Most of the mission payouts come in the form of a cash bonus but some have additional benefits attached to them similar to the Mustering-Out Benefit Rolls gained during _Traveller_ character creation. The Referee should roll 2d6 or choose on the following table to determine how well the agent is compensated for a job well done, remembering all modifiers from the earliest parts of the mission, character adjustments and so forth.
 
 2d62d6 Espionage Mission PayoutEspionage Mission Payout 1 or less Nothing – Mission is Written Off as 'Required Training' 2 1d6x100 Credits 3 2d6x100 Credits 4 2d6x200 Credits 5 2d6x300 Credits 6 2d6x400 Credits 7 2d6x500 Credits 8 3d6x500 Credits 9 2d6x1,000 Credits; +1 Trust 10 2d6x1,000 Credits; One Ship Share 11 2d6x2,000 Credits; +1 Trust 12 2d6x2,000 Credits; Network (any) 13 2d6x5,000 Credits; +1 Trust 14+ 2d6x10,000 Credits; +1 Trust
 
@@ -2209,6 +2243,8 @@ The battle for higher market share is a distinctly different atmosphere than a b
 
 TTHEHE D DARKARK S SIDEIDE OFOF C CORPORATIONSORPORATIONS
 
+
+
 opposition to lose market share and profits is a useful tool in this stage of the corporate 'war', but neither side is ready yet to inflict physical damage upon the other.
 
 For a corporate conflict at this level to take the next step into sabotage and industrial warfare there has to be an unexpected shift by one side. One of the competitors must suddenly feel threatened by their opponents; threatened enough to escalate to malicious action. When that happens, the first sabotage or industrial vandalism starts a chain reaction of retributive missions by the other party. These sorts of underhanded attacks go back and forth between the competing companies, the damage incurred on both sides adds up. Each mission pushes the line of tolerance a little further and eventually one side reaches their breaking point and takes the first violent action toward the competition.
@@ -2235,14 +2271,15 @@ The second option may be more time consuming and risks more company assets but c
 
 TTTHEHEHE D D DARKARKARK S S SIDEIDEIDE OFOFOF C C CORPORATIONSORPORATIONSORPORATIONS
 
+
+
 having to hire professional mercenaries in the short term but can be costly over years or decades of paying their meagre salaries.
 
 It is the difference of having the constant presence or protection of staff on hand with a corporate military and the quick ability to arrange for true professionals to deal with a competitor. It depends greatly on the size and resources of the company in question.
 
 Some sample statistics and hiring/wage fees for corporate military assets are as follows:
 
-Commercial Fighter: Commercial Fighter: This is a standard mercenary hired to assault enemy corporate holdings, eliminating normal resistance with standard munitions. The cost to hire a unit of commercial fighters
-(standard is 5 men) is 2d6x1,000 Credits per mission. These fighters do not have a wage cost; they are hired for a set number of missions.
+Commercial Fighter: Commercial Fighter: This is a standard mercenary hired to assault enemy corporate holdings, eliminating normal resistance with standard munitions. The cost to hire a unit of commercial fighters (standard is 5 men) is 2d6x1,000 Credits per mission. These fighters do not have a wage cost; they are hired for a set number of missions.
 
 Commercial Unit Leader: Commercial Unit Leader: An additional member of a standard commercial fighter unit, the unit leader is better equipped and trained. Each commercial unit leader hired to lead an existing commercial fighter unit costs 5,000 Credits per mission and has no ongoing wage cost. There is a maximum of two leaders per fighter unit that can be hired.
 
@@ -2250,24 +2287,23 @@ Commercial Sniper: Commercial Sniper: An upgrade made to a member of a standard 
 
 COMMERCIAL MERCENARY ARCHETYPES
 
+
+
 Career PathCareer Path StrStr DexDex EndEnd IntInt EduEdu SocSoc Commercial Commercial FighterFighter
 
-Army (infantry) 1, Striker
-(rifleman) 2
+Army (infantry) 1, Striker (rifleman) 2
 
 8987 78
 
 Athletics 1, Gun (slug rifle) 2, Melee (blade) 2, Stealth 1, Tactics 1 Assault rifle (3d6), Dagger (1d6+2), Flak Jacket (6) Commercial Commercial Unit LeaderUnit Leader
 
-Army (infantry) 1, Striker
-(rifleman) 3
+Army (infantry) 1, Striker (rifleman) 3
 
 91098 7 9
 
 Athletics 1, Battle Dress 2, Comms 1, Gun (slug rifle) 2, Leadership 1, Melee (blade) 2, Recon 1, Stealth 2, Tactics 1 Accelerator rifle (3d6), Cutlass (2d6+4), Combat Armor (11) Commercial Commercial SniperSniper
 
-Army (infantry) 2, Striker
-(sniper) 3
+Army (infantry) 2, Striker (sniper) 3
 
 7119888
 
@@ -2275,23 +2311,25 @@ Athletics 1, Gun (slug rifle) 3, Heavy Weapons (Man-Portable) 2, Melee (blade) 1
 
 CORPORATE MILITARY ARCHETYPES
 
+
+
 Career PathCareer Path StrStr DexDex EndEnd IntInt EduEdu SocSoc Corporate Corporate SoldierSoldier
 
-Citizen (worker) 2, Commando
-(grunt) 1
+Citizen (worker) 2, Commando (grunt) 1
 
 8987 78
 
 Athletics 1, Gun (slug pistol) 2, Gun (slug rifle) 1, Investigate 1, Melee (blade) 1, Recon 1 Autopistol (3d6-3), Autorifle (3d6), Dagger (1d6+2), Cloth Armor (5) Corporate Corporate Support Support SoldierSoldier
 
-Citizen (worker) 2, Commando
-(grunt) 2
+Citizen (worker) 2, Commando (grunt) 2
 
 9997 7 8
 
 Athletics 1, Gun (slug pistol) 2, Heavy Weapons (Man-Portable) 1, Investigate 1, Melee (blade) 1, Recon 1 Autopistol (3d6–3), LMG-5 (4d6), Flak Jacket (6)
 
 TTHEHE D DARKARK S SIDEIDE OFOF C CORPORATIONSORPORATIONS
+
+
 
 Corporate Soldier: Corporate Soldier: This is the standard, commercially-trained soldier serving in a corporate security/wartime task force. Trained in standard units of ten soldiers, the cost to hire a unit of soldiers is worked into their ongoing wage. A unit of ten corporate soldiers are paid 2d6x100 Credits per week of service.
 
@@ -2318,6 +2356,8 @@ RESOURCE COMPENSATION It is common for a short corporate conflict to end with on
 WITHDRAWAL Some companies fight their corporate wars just to extend or protect their territorial boundaries; they are satisfied making sure that the defeated competition leaves their area. Enforcing a complete corporate withdrawal can be difficult and costly but the security of knowing that a former enemy and competitor cannot do business in any areas that your company is profiting is well worth it. Companies that call for opponents to withdraw in such a fashion will assuredly have standing security or military forces to remind their defeated enemies of what awaits them if they ever encroach again.
 
 TTTHEHEHE D D DARKARKARK S S SIDEIDEIDE OFOFOF C C CORPORATIONSORPORATIONSORPORATIONS
+
+
 
 ## INDUSTRIAL SABOTAGE
 
@@ -2378,6 +2418,8 @@ In a narrative sense, there are countless different forms of sabotage that can b
 
 TTHEHE D DARKARK S SIDEIDE OFOF C CORPORATIONSORPORATIONS
 
+
+
 Rating a Corporation's Political Power Every corporate entity has an economic footprint they cover in the local political scene, from the extremely minor to the ultra-powerful. Not every megacorp will have the clout to push around their local government and some small industries might have a stranglehold on their leaders' main export. Whatever the situation, a corporation bears a standard Influence Rating that is used to determine just how influential they are in the local political scene.
 
 Influence Rating is calculated using the background information of the local area, the type of government, the size of the corporate entity and finally the average profit margin of the representative branches of the corporation. These statistics all add up to form the corporation's Influence Rating and should either be chosen by the Referee (to better suit his game) or rolled randomly on the tables below.
@@ -2387,6 +2429,8 @@ A corporation's Influence Rating starts effectively at 1.
 LOCAL AREA DEPENDENCY The Dependency table shows how much the local government's constituency needs or desires the corporation's services, employment or goods.
 
 DEPENDENCY
+
+
 
 2d6 Result2d6 Result Dependency DescriptionDependency Description Influence Rating ModifierInfluence Rating Modifier 2 Unnecessary – Unnecessary – Corporation is superfluous and sometimes ignored. –3 3 Low – Low – Corporation employs few locals and performs rarely utilised services. –2 4-5 Below Average – Below Average – Corporation is a minor player in the economy but provides useful services. –1 6-8 Average – Average – Corporation is a good source of jobs and services. 0 9 Above Average – Above Average – Corporation is one of the better-respected employers in the area. +1 10 Important – Important – Corporation carries a decent amount of public attention and economic strength. +2 11 Necessary – Necessary – Corporation is a major economic player and one of the largest sources of employment for the local populace.
 
@@ -2404,11 +2448,13 @@ SIZE OF CORPORATE ENTITY The following table shows how large the total corporate
 
 TTTHEHEHE D D DARKARKARK S S SIDEIDEIDE OFOFOF C C CORPORATIONSORPORATIONSORPORATIONS
 
+
+
 Wealth is an important factor when dealing with a governmental office. The officers in a given government will make special exceptions or inclusions for a 'generous corporate investor' in regards to things that the average interest or social group must all but beg for. This is the power of the almighty credit; in the hands of a crafty corporation it can make or break small governments.
 
 Using the tables above to build this example, we are looking at determining the Influence Rating of a localised branch of a J-Drive manufacturer. Knowing exactly what we are building for our game setting, we will choose all of the acceptable modifiers, although we could have just as easily rolled them randomly.
 
-_Starting at the standard Influence Rating 1, our company is considered to have an Above Average dependency from the local populace due to its high employment rates (+1). Working steadily with the acceptance of the local self-perpetuating oligarchy, the company is somewhat friendly with the ruling party (+1). The company, Allspace Drives, is a multi- national corporation classed as 'Large', making it more powerful in the eyes of economists (+2) but it has run into hard times lately and has only seen Minor Profits for the last year (+0). The local branch of Allspace Drives has a total Influence Rating of 5 (1+1+1+2+0= 5)_.
+_Starting at the standard Influence Rating 1, our company is considered to have an Above Average dependency from the local populace due to its high employment rates (+1). Working steadily with the acceptance of the local self-perpetuating oligarchy, the company is somewhat friendly with the ruling party (+1). The company, Allspace Drives, is a multi- national corporation classed as 'Large', making it more powerful in the eyes of economists (+2) but it has run into hard times lately and has only seen Minor Profits for the last year (+0). The local branch of Allspace Drives has a total Influence Rating of5 (1+1+1+2+0= 5)_.
 
 Using Influence Rating to Sway
 
@@ -2445,6 +2491,8 @@ Type of Manipulation RequestType of Manipulation Request Base Target NumberBase 
 (^1) This number is halved for a government of a TL5 or less society; doubled for an Alien government; or tripled for the Imperium of Humaniti (or similar intergalactic empire).
 
 TTHEHE D DARKARK S SIDEIDE OFOF C CORPORATIONSORPORATIONS
+
+
 
 Samples of Menial Requests Menial Requests are:
 
@@ -2516,6 +2564,8 @@ OBSCURE FEATURES OROR WEAR A DISGUISE? Even the stealthiest of agents looking to
 
 TTTHEHEHE D D DARKARKARK S S SIDEIDEIDE OFOFOF C C CORPORATIONSORPORATIONSORPORATIONS
 
+
+
 DO NO HARM OROR TERRORISE THE STAFF? Most infiltration missions onto corporate grounds are only as violent as the agent involved, with a vast majority of them preferring to avoid conflict when possible. They may go on their missions armed for self-defence but many agents prefer to stay out of violent situations altogether. There are those that believe quite the opposite however and will wave their guns or blades at their victims just to shake them up and to keep them from trying anything against the agent's wishes. No agent can be ready for every situation laid before them but they can make the choice whether or not to use fear and violence on their missions.
 
 Ghost in the Machine –
@@ -2528,8 +2578,7 @@ This sort of infiltration is not a quick hack or an overnight pilfering of data.
 
 This form of infiltration is a specific Computers skill check:
 
-Create a network of computer-based allies to electronically infiltrate a corporate entity: 10-60 Weeks, Intelligence, Average (+0)/Difficult
-(–2) if targeting a corporate entity that employs White Hat hackers
+Create a network of computer-based allies to electronically infiltrate a corporate entity: 10-60 Weeks, Intelligence, Average (+0)/Difficult (–2) if targeting a corporate entity that employs White Hat hackers
 
 Success on this skill will add the Effect of their successful check as a Dice Modifier to the total Effect needed to determine the success of failure of an Anti-Corporate Mission.
 
@@ -2546,6 +2595,8 @@ LIVE CAMERA FEED – TL 6 A simple set of monitors that can be watched by a sing
 Skills to Bypass:Skills to Bypass: Sensors, Stealth Task Difficulty:Task Difficulty: Routine (+2 DM)
 
 TTHEHE D DARKARK S SIDEIDE OFOF C CORPORATIONSORPORATIONS
+
+
 
 COMPUTERISED MONITOR NETWORK – TL 8 An advanced version of the live camera feed, this network of cameras feed into one computerised storage device that can be looked over
 
@@ -2597,6 +2648,8 @@ Private Research: Private Research: This mission targets a research information 
 
 TTTHEHEHE D D DARKARKARK S S SIDEIDEIDE OFOFOF C C CORPORATIONSORPORATIONSORPORATIONS
 
+
+
 Product, Common: Product, Common: The mission target is a specific product type stored in a corporate storage facility. The agent must research, steal or destroy the product for his employer. This target grants a –1 to the rolls upon the Mission Difficulty and Mission Payout tables.
 
 Prototype: Prototype: This mission targets a new prototype being created by the competing corporation. The agent must research, steal or destroy the prototype for his employer. This target grants a +1 to the rolls upon the Mission Difficulty and Mission Payout tables.
@@ -2616,9 +2669,13 @@ If the total is equal to or more than the amount required, the mission is a succ
 If the total is less than what is required for success however, the agent has failed and must instead roll upon the Failure Mishap table, subtracting 1 for each point of Effect they scored lower than the required amount for success.
 
 DETERMINE MISSION PAYOUT
+
+
 The following table shows how well the agent will be compensated for his successful Anti-Corporate Mission. The Referee should roll 2d6 or choose on the following table to determine how well the agent is compensated for a job well done, remembering any modifiers from earlier pre-mission skill checks, Referee adjustments and such.
 
 DETERMINE FAILURE MISHAP
+
+
 The following table shows what has happened to an agent when he fails an Anti-Corporate mission. The Referee should roll 2d6 or choose on the following table to determine what happened to the agent in question, remembering to include the modifier for a lower mission Effect total.
 
 2d6 Result2d6 Result Anti-Corporate Failure MishapAnti-Corporate Failure Mishap
@@ -2698,6 +2755,8 @@ Ship tracing is the least hazardous of the bounty hunting assignments but it can
 
 BBBOUNTIESOUNTIESOUNTIES
 
+
+
 Criminal bounties, the mainstay assignments for theiftakers, are by far the majority of contracts offered in _Traveller_. They are also the most directly dangerous. Depending on the type of criminal the target is and the crime they are wanted for, a bounty hunter might have a difficult fight on his hands when it comes time to capture the target. An otherwise peaceful citizen can be willing to do nearly anything to avoid going to prison, including instigate a deadly battle with their would-be captors. Bail jumpers, runaways and other missing persons technically fall into this category as well; treated in the same fashion as criminals needing to be brought in.
 
 The third type of bounty is rare and not commonly advertised openly
@@ -2710,8 +2769,7 @@ Bounty hunters that specialize in one type of contract over the others have the 
 
 Finding and Accepting Bounty Contracts Bounty hunters have two ways to find work – accept an open contract or get approached for a private one. Open contracts are written by employers that do not care who accepts their terms, so long as the contract is fulfilled. Private bounties are far more rare, always pay exceedingly well and require the employer to seek out a specific bounty hunter to make the offer.
 
-OPEN BOUNTIES There may not be any interstellar contracting service to lead bounty hunters to work but each community that has use for them will have a collecting place for contracts. They cannot simply post a list of names and prices for fear that the target will discover their intentions
-(if they do not already know) and flee further out of range.
+OPEN BOUNTIES There may not be any interstellar contracting service to lead bounty hunters to work but each community that has use for them will have a collecting place for contracts. They cannot simply post a list of names and prices for fear that the target will discover their intentions (if they do not already know) and flee further out of range.
 
 In order to stay somewhat secretive but still efficient about open bounty contracts, a community will arrange for a central agency to hold most of the contract information. This agency will allow aspiring hunters access to files of open bounties but only if they know where and what to ask to do so. This does not require some secret handshake or password, merely the forethought to ask specifically about bounties, contracts and work that can be done. Finding this contracting agency requires either the use of a Contact, Network (any non-Academic) or a Streetwise skill check (–2 DM). Once the bounty hunter knows where to go to find work, it is as easy as signing up for one of the open contracts.
 
@@ -2773,6 +2831,8 @@ Renton, a bounty hunter in search of an AWOL pilot from the Imperial navy on boa
 
 BBBOUNTIESOUNTIESOUNTIES
 
+
+
 Chasing Down the Right Path Knowing where a target began his trip into the stars is useful but it will not bring the bounty hunter any closer to his payday on its own. It is where the real investigation begins however; leading the hunter to any number of possible routes the target may have taken from that point. The hunter must now begin to narrow down his search by looking into each and every potential course the target may have taken.
 
 Once the hunter knows where to begin his search for the target ship, he then knows the numerous different jump routes, planetary orbits, station excursions and the like that the ship could have potentially used.
@@ -2817,6 +2877,8 @@ If the character(s) manage to accumulate the listed Effect before the secret tim
 
 SHIP TRACING TIMETABLE
 
+
+
 2d6 Result2d6 Result Easily TracedEasily Traced TraceableTraceable Difficultly TracedDifficultly Traced EvasiveEvasive Actively HiddenActively Hidden 2 5d6 days 4d6 days 3d6 days 2d6 days 1d6 days 3-4 1d6 weeks 5d6 days 4d6 days 3d6 days 2d6 days 5-6 2d6 weeks 1d6 weeks 5d6 days 4d6 days 3d6 days 7-8 3d6 weeks 2d6 weeks 1d6 weeks 5d6 days 4d6 days 9-10 4d6 weeks 3d6 weeks 2d6 weeks 1d6 weeks 5d6 days 11-12 5d6 weeks 4d6 weeks 3d6 weeks 2d6 weeks 1d6 weeks
 
 If the time runs out before the bounty hunter(s) can gather enough Effect, the target ship has moved on to a new destination. The Referee should _not_ inform the characters that they did not make it in time; instead he should let them arrive to the calculated route to find out that they missed the target by a few days or even hours. If this happens, the Referee returns to the Tracing Timetable and the process of route elimination begins anew.
@@ -2857,6 +2919,8 @@ The bounty hunters must then use their skill base to work out the best plan to f
 
 CRIMINAL CORNERING TIMETABLE
 
+
+
 2d6 Result2d6 Result Non-CriminalNon-Criminal Non-ViolentNon-Violent Potentially ViolentPotentially Violent ViolentViolent Dangerously VolatileDangerously Volatile 2 6d6 hours 5d6 hours 4d6 hours 3d6 hours 2d6 hours 3-4 1d6 days 6d6 hours 5d6 hours 4d6 hours 3d6 hours 5-6 2d6 days 1d6 days 6d6 hours 5d6 hours 4d6 hours 7-8 3d6 days 2d6 days 1d6 days 6d6 hours 5d6 hours 9-10 4d6 days 3d6 days 2d6 days 1d6 days 6d6 hours 11-12 5d6 days 4d6 days 3d6 days 2d6 days 1d6 days
 
 Identity's rating (Weak, Strong, etc) to the Effect of _each_ successful skill check.
@@ -2887,8 +2951,7 @@ The bounty hunter gains 1d6 Effect toward cornering the target on the next set o
 
 The next roll on the Cornering Timetable suffers a –2 DM. 13-15 ...has laid a trap. The bounty hunters must roll Investigate 10+ or suffer 1d6 damage from a hidden explosive (if appropriate). 16+ ...has prepared an ambush.
 
-The target and his allies will attack the bounty hunters when they arrive
-(if appropriate).
+The target and his allies will attack the bounty hunters when they arrive (if appropriate).
 
 Eventually the characters will manage to corner the target before he moves on to a new hideout. When that happens the target is then put into a position for the bounty hunter to interact with on his own terms.
 
@@ -2911,8 +2974,7 @@ _Continuing our previous example, Renton made it to Bongol Waystation and immedi
 
 Criminal Target Archetypes When a bounty hunter eventually corners his target he will then have to deal with him in whatever way is best for the hunter, the contract and the employer. A target that must be brought in alive cannot be risked by starting a gunfight; a peaceful runaway should not be manhandled, especially if the employer has asked for these things _not_ to happen.
 
-However the bounty hunter wishes to start his target interaction
-(conversation, combat, and so on), the following statistic entries will be helpful for the Referee to run these scenes. These are more specific than those found on pages 84-85 in the Traveller Core Rulebook but those templates can be used as criminal targets just as easily.
+However the bounty hunter wishes to start his target interaction (conversation, combat, and so on), the following statistic entries will be helpful for the Referee to run these scenes. These are more specific than those found on pages 84-85 in the Traveller Core Rulebook but those templates can be used as criminal targets just as easily.
 
 Runaway Adolescent: Runaway Adolescent: This is a young man or woman that has been living on the run, trying to evade capture for his or her own personal reasons.
 
@@ -2920,8 +2982,7 @@ Common Missing Person: Common Missing Person: A civilian that has been trying to
 
 NON-VIOLENT CRIMINAL ARCHETYPES
 
-Career PathCareer Path StrStr DexDex EndEnd IntInt EduEdu SocSoc EmbezzlerEmbezzler Civilian
-(worker) 1, Merchant (free trader) 2
+Career PathCareer Path StrStr DexDex EndEnd IntInt EduEdu SocSoc EmbezzlerEmbezzler Civilian (worker) 1, Merchant (free trader) 2
 
 67 69 89
 
@@ -2933,20 +2994,19 @@ Petty Thief: Petty Thief: Making money by stealing somewhat insignificant items 
 
 POTENTIALLY VIOLENT CRIMINAL ARCHETYPES
 
+
+
 Career PathCareer Path StrStr DexDex EndEnd IntInt EduEdu SocSoc Common Common AWOL SoldierAWOL Soldier
 
-Army (infantry) 1, Striker
-(rifleman) 1
+Army (infantry) 1, Striker (rifleman) 1
 
 8887 77
 
-Athletics (co-ordination) 1, Deception 1, Gun (slug rifle) 2, Melee (blade) 1, Stealth 1, Tactics 1 Assault rifle (3d6), Dagger (1d6+2), Flak Jacket (6) Bail JumperBail Jumper Civilian
-(worker) 1, Rogue (thief) 2
+Athletics (co-ordination) 1, Deception 1, Gun (slug rifle) 2, Melee (blade) 1, Stealth 1, Tactics 1 Assault rifle (3d6), Dagger (1d6+2), Flak Jacket (6) Bail JumperBail Jumper Civilian (worker) 1, Rogue (thief) 2
 
 8887 76
 
-Computers 0, Deception 1, Gun (slug pistol) 1, Melee (blade) 1, Persuade 1, Recon 1, Stealth 2 Autopistol (3d6–3), Cutlass (2d6+4), Cloth Armor (3) Street GangerStreet Ganger Rogue
-(enforcer) 3
+Computers 0, Deception 1, Gun (slug pistol) 1, Melee (blade) 1, Persuade 1, Recon 1, Stealth 2 Autopistol (3d6–3), Cutlass (2d6+4), Cloth Armor (3) Street GangerStreet Ganger Rogue (enforcer) 3
 
 991065 5
 
@@ -2959,6 +3019,8 @@ Bail Jumper: Bail Jumper: This is a convicted criminal that has skipped out on h
 Street Ganger: Street Ganger: A common street thug that lives on the street in the urban sprawl, taking advantage of the less fortunate.
 
 VIOLENT CRIMINAL ARCHETYPES
+
+
 
 Career PathCareer Path StrStr DexDex EndEnd IntInt EduEdu SocSoc MurdererMurderer Civilian (colonist) 1, Rogue (enforcer) 2
 
@@ -2978,6 +3040,8 @@ Escaped Life Prisoner: Escaped Life Prisoner: This criminal learned a lot of his
 
 DANGEROUSLY VOLATILE CRIMINAL ARCHETYPES
 
+
+
 Career PathCareer Path StrStr DexDex EndEnd IntInt EduEdu SocSoc Mass Mass Murderer Murderer
 
 Drifter (Scavenger) 2, Rogue (enforcer) 1
@@ -2988,7 +3052,7 @@ Deception 2, Gun Combat (slug pistol) 1, Investigate 1, Melee (blade) 2, Persuad
 
 Drifter (vagabond) 1, (worker) 1, Rogue (enforcer) 1
 
-9 (12^1 ) 8 (11^1 ) 9 (10^1 ) 7(6^1 ) 7 (5^1 )6
+9 (12^1 )8 (11^1 )9 (10^1 ) 7(6^1 )7 (5^1 )6
 
 Athletics (strength) 2, Computers 1, Deception 2, Jack of All Trades 2, Melee (blade) 3, Melee (unarmed) 2, Persuade 1, Stealth 2, Streetwise 1 Axe (4d6), Combat Drugs^1
 
@@ -3028,6 +3092,8 @@ Blade – Blade – The employer wants the target to die as a result of one or m
 
 BBBOUNTIESOUNTIESOUNTIES
 
+
+
 assassin to get close to the target and deliver the blows in melee range. There is a +1 bonus to the Mission Payout roll for achieving this.
 
 Public Display – Public Display – The target must be killed in a violent and public manner, in front of as many witnesses as possible. There is no bonus to the Mission Payout but the assassin can re-roll any '1' result instead.
@@ -3054,8 +3120,7 @@ Decide Mission Type Unlike most other types of Agent missions, bounty hunting is
 
 Each of the Mission Types is defined in short by a group of three listed skills. The bounty hunter will need to take each of these skill checks (in any order) in addition to a special skill check using his Intelligence DM and the level of one of his Cover Identities as modifiers. The total Effect of these checks will be used later to determine the success or failure of the mission.
 
-There is a dice modifier listed in parenthesis for these mission types
-(except Assassination); this is the inherent Mission Payout modifier to that type of Bounty Mission. Assassination Missions base their modifier on any special target-based circumstances (see The Art of Assassination above).
+There is a dice modifier listed in parenthesis for these mission types (except Assassination); this is the inherent Mission Payout modifier to that type of Bounty Mission. Assassination Missions base their modifier on any special target-based circumstances (see The Art of Assassination above).
 
 Ship Trace, Locate: Ship Trace, Locate: This is a mission based on finding the current location of a specific vessel. The bounty hunter will be using Astrogation, Computers and Investigate. (–1 DM)
 
@@ -3106,7 +3171,7 @@ Criminal, Criminal, Paid HitPaid Hit AssassinationAssassination 0 - Training 2 E
 1d6 Result1d6 Result Assassination MishapAssassination Mishap
 0 or less You suffer a terrible injury; roll twice on the Injury table (see page 37 of the Traveller Core Rulebook ), taking the lower result.
 1 You are forced to abandon the contract in order to avoid legal persecution; lose 1 Trust and all Contacts, Allies or Networks involving the law enforcement or justice system (Referee's discretion).
-2 The target's security finds you and tries to kill you; roll on the Injury table and subtract 1 (minimum of 1).
+2 The target's security finds you and tries to kill you; roll on the Injury table and subtract1 (minimum of 1).
 3 The target becomes unreachable and the employer is unhappy with your services; lose 1 Trust.
 4 You are caught on a security system recording; lose any one Cover Identity or –1 Social Standing.
 5 Your target turns out to have had an excellent body double that you killed; lose 1 Trust and gain the target as an Enemy.
@@ -3180,6 +3245,8 @@ Step Four – Decide the Prototype's Effects Now knowing what power level the pr
 The Effects table shows examples for each of the Prototype Distinctions at the Power Levels possible for any device. These are not the only effects that a prototype could have; we encourage Referees to come up with their own to work within their own games.
 
 EFFECTS
+
+
 
 Characteristic Reduction/Characteristic Reduction/ IncreaseIncrease Skill Penalty/BonusSkill Penalty/Bonus Extensive Damage PotentialExtensive Damage Potential Special AbilitySpecial Ability^1 MenialMenial +/– 1 to a single Characteristic +/– 1 DM to a specific Skill task
 
@@ -3255,11 +3322,9 @@ Armor Armor TypeType TLTL ProtectionProtection
 
 Required Required SkillSkill
 
-Cost Cost
-(Cr.)(Cr.)
+Cost Cost (Cr.)(Cr.)
 
-Mass Mass
-(Kg)(Kg) Armored Stealth Bodyglove
+Mass Mass (Kg)(Kg) Armored Stealth Bodyglove
 
 10 4 None 2,000 2
 
@@ -3299,9 +3364,7 @@ WeaponWeapon TLTL Required SkillRequired Skill Parry Value or Armor ValueParry V
 
 Cyberstunner (TL12): Cyberstunner (TL12): One of the most frightening suspects a peace officer has to deal with is one that has been heavily augmented with cybernetics. The cyberstunner is a modified stun carbine that is keyed to affect the advanced neurotransmitters that are used to connect a living being with its cybernetics. When a hit is scored upon a target, roll 1d6 (2d6 if the target has subdermal augments) – if this is greater than the target's armor rating, the stun effect is rolled. The stun damage is doubled against a cybernetically augmented target.
 
-WeaponWeapon TLTL RangeRange Required SkillRequired Skill DamageDamage MagazineMagazine AutoAuto RecoilRecoil Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg) Ammo Cost Ammo Cost
-(Cr)(Cr) Cyberstunner 12 Thrown Gun Combat
-(Slug Carbine)
+WeaponWeapon TLTL RangeRange Required SkillRequired Skill DamageDamage MagazineMagazine AutoAuto RecoilRecoil Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg) Ammo Cost Ammo Cost (Cr)(Cr) Cyberstunner 12 Thrown Gun Combat (Slug Carbine)
 
 2d6+1 Stun
 
@@ -3344,21 +3407,17 @@ WeaponWeapon TLTL RangeRange
 
 Required Required SkillSkill DamageDamage MagazineMagazine AutoAuto RecoilRecoil Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg)
 
-Ammo Cost Ammo Cost
-(Cr)(Cr) Whisperkill Pistol
+Ammo Cost Ammo Cost (Cr)(Cr) Whisperkill Pistol
 
-11 Pistol Gun Combat
-(Pistols)
+11 Pistol Gun Combat (Pistols)
 
-3d6–3
-(5d6–3)
+3d6–3 (5d6–3)
 
-2 No 0 (1) 750 1.5 20
+2 No0 (1) 750 1.5 20
 
 detonate while the case is open. The locks are considered Very Difficult to bypass and the explosive devices Formidable (–6 DM). If ever used as cover, the security case is worth 3 points of armor. 2kg; Cr. 500.
 
-Displacement Barrier (TL13): Displacement Barrier (TL13): It is hardest for security and bodyguards to protect their employer from the single surprising shot made by a distant sniper. The displacement barrier is a semi-mobile sheet of advanced translucent polymers that are woven with several layers of useful technology. The primary use for the barriers is that visual images seen through them are shifted by nearly a half-meter, making it impossible for shooting attacks to successfully Aim at the target
-(aiming in any form is automatically nullified). A self-polarising element in the barrier activates as soon as any projectile moving at least as fast as a thrown object strikes the polymer pane, blackening it immediately to a one-way opaqueness to grant complete cover to anyone behind it. A displacement barrier can be set up on its stand in 1d6 minutes, covering a 90 degree angle. These devices are designed to be used in multiples, offering better all-round protection and can be networked easily for all polymer panes to blacken when one is triggered. 25kg; Cr. 2,000.
+Displacement Barrier (TL13): Displacement Barrier (TL13): It is hardest for security and bodyguards to protect their employer from the single surprising shot made by a distant sniper. The displacement barrier is a semi-mobile sheet of advanced translucent polymers that are woven with several layers of useful technology. The primary use for the barriers is that visual images seen through them are shifted by nearly a half-meter, making it impossible for shooting attacks to successfully Aim at the target (aiming in any form is automatically nullified). A self-polarising element in the barrier activates as soon as any projectile moving at least as fast as a thrown object strikes the polymer pane, blackening it immediately to a one-way opaqueness to grant complete cover to anyone behind it. A displacement barrier can be set up on its stand in 1d6 minutes, covering a 90 degree angle. These devices are designed to be used in multiples, offering better all-round protection and can be networked easily for all polymer panes to blacken when one is triggered. 25kg; Cr. 2,000.
 
 Dual-Holo Projection Suite (TL12): Dual-Holo Projection Suite (TL12): This pair of advanced wrist cuffs are worn by a diplomat and his bodyguard and are linked to a central imaging projector located somewhere between them. While worn and active, the projection suite casts a visually perfect hologram of each cuff's wearer upon the body of the _other_ cuff's wearer. This means that anyone trying to target what they believe to be the diplomat will actually be targeting the bodyguard. This item reduces Investigate skill checks by –4 DM to see through the images. Cr. 1,000 per suite.
 
@@ -3395,16 +3454,13 @@ Bounty Hunter Foam Grenade (TL8): Foam Grenade (TL8): This is a non-lethal concu
 
 WeaponWeapon TLTL RangeRange DamageDamage
 
-Mass Mass
-(kg)(kg)
+Mass Mass (kg)(kg)
 
 Blast Blast RadiusRadius
 
-Cost Cost
-(Cr.)(Cr.) Foam Grenade
+Cost Cost (Cr.)(Cr.) Foam Grenade
 
-8 Ranged
-(Thrown)
+8 Ranged (Thrown)
 
 N/A 1 3 meters
 
@@ -3418,14 +3474,11 @@ Mind-Brig (TL15): Mind-Brig (TL15): An expensive and powerful detainment device 
 
 Stun-Cuffs (TL8): Stun-Cuffs (TL8): Effective methods for hunters to keep their bounties under control, stun-cuffs are sometimes viewed as sadistic or cruel. A target placed in stun-cuffs is detained in the same way as normal handcuffs or shackles but is administered a powerful stunning shock if he attempts to pull the cuffs taught for any reason. This automatically inflicts 1d6+1 Stun damage to the wearer. Stun-cuffs can inflict 100 of these charges before the battery needs replacing and are considered Very Difficult to remove without the proper key code. Cr. 200.
 
-Web Rifle (TL10): Web Rifle (TL10): A large and intimidating weapon that hurls an expanding sphere of extremely viscous material, the web rifle is used to bring down hostile targets without worrying about lethal force. Anything successfully shot by a web rifle must pass an Athletics
-(strength) skill check each round in order to perform any actions. The 'web' fluid lasts for 2d6 minutes before it becomes brittle and easily removed. Webbed targets move at half speed and suffer a –2 DM penalty to all Dexterity-based skill checks.
+Web Rifle (TL10): Web Rifle (TL10): A large and intimidating weapon that hurls an expanding sphere of extremely viscous material, the web rifle is used to bring down hostile targets without worrying about lethal force. Anything successfully shot by a web rifle must pass an Athletics (strength) skill check each round in order to perform any actions. The 'web' fluid lasts for 2d6 minutes before it becomes brittle and easily removed. Webbed targets move at half speed and suffer a –2 DM penalty to all Dexterity-based skill checks.
 
 WeaponWeapon TLTL RangeRange Required SkillRequired Skill DamageDamage MagazineMagazine AutoAuto RecoilRecoil Cost (Cr)Cost (Cr) Mass (Kg)Mass (Kg)
 
-Ammo Cost Ammo Cost
-(Cr)(Cr) Web Rifle 10 Shotgun Gun Combat
-(Slug Rifle)
+Ammo Cost Ammo Cost (Cr)(Cr) Web Rifle 10 Shotgun Gun Combat (Slug Rifle)
 
 N/A 4 No 4 1,000 8 50
 
@@ -3439,8 +3492,7 @@ Inquisitorial CruiserInquisitorial Cruiser TonsTons Price (MCr.)Price (MCr.) Hul
 
 16
 
-Streamlined 1.6 ArmorArmor Crystaliron 8 pts 40 6.4 Jump Drive D Jump Drive D Jump 2 25 40 Maneuver Drive FManeuver Drive F Thrust 3 11 24 Power Plant FPower Plant F Rating 3 19 48 Solar Panels 1.9 0.19 BridgeBridge 20 2 ComputerComputer Model 4 / fib Rating 20 7.5 ElectronicsElectronics Advanced Survey Sensors, Enhanced Signal Processing
-(DM +1)
+Streamlined 1.6 ArmorArmor Crystaliron 8 pts 40 6.4 Jump Drive D Jump Drive D Jump 2 25 40 Maneuver Drive FManeuver Drive F Thrust 3 11 24 Power Plant FPower Plant F Rating 3 19 48 Solar Panels 1.9 0.19 BridgeBridge 20 2 ComputerComputer Model 4 / fib Rating 20 7.5 ElectronicsElectronics Advanced Survey Sensors, Enhanced Signal Processing (DM +1)
 
 12 18
 
@@ -3459,11 +3511,15 @@ AmmunitionAmmunition 40 Railgun Rounds 2 60 sandcaster barrels 3 FuelFuel 144 to
 
 AGENT TECHNOLOGY
 
+
+
 Jester-Class Covert Operations Fighter Designed originally by a genius in the space-aerodynamics industry, the _Jester_ -class fighter is a fast, stealthy and sleek ship that can be used to zip in and out of dangerous situations while on spying missions. This fighter is thin, flat and very fast for the amount of firepower it contains. Its twin lasers make short work of surveillance satellites and sensor drones; a spacefaring spy's hated enemy. Its principal drawback is that it is so expensive that it very rarely (if at all) seen outside of covert operations.
 
 Covert Operations FighterCovert Operations Fighter TonsTons Price (MCr.)Price (MCr.) HullHull 40 Tons Hull 1 1.4 Streamlined Structure 1 0.14 Stealth Hull 4 Aerofins 4 0.04 ArmorArmor Crystaliron 8 points 4 0.56 Maneuver DriveManeuver Drive sT (TL 12) Thrust 9 9.75 52 Power PlantPower Plant sT Rating 9 8.7 20 BridgeBridge Cockpit for 2 3 0.2 ComputerComputer Model 4/fib Rating 20 7.5 ElectronicsElectronics Advanced DM +1 3 2 WeaponsWeapons Dual Pop-Up Turret Beam Laser-11 x2(accurate) 2 4 Anti-Personnel Mount PGMP-13 x 2 1 0.04 FuelFuel 1.5 ton One week of operation 1.5 CargoCargo 3 tons 3 tons SoftwareSoftware Maneuver/0 Intellect Rating 10 1 Evade/2 Rating 15 2 Fire Control/4 Rating 20 8 Total Tonnage & CostTotal Tonnage & Cost 39.9539.95 115.88115.88
 
 AGENT TECHNOLOGY
+
+
 
 Prisoner Ferry Prison planets or Imperial detention centres will occasionally need to take prisoners from one facility to another. They can do so with ease and safety through the use of prisoner ferry vessels. This ship is a favorite of prolific bounty hunters, who can fill their brig with multiple bounties at once to deliver them across long distances. The crew consists of a captain, pilot, navigator, 2 engineers, 3 gunners and 4 security guards. Prisoners are usually carried in low berths, although for short trips (or less scrupulous operators) additional cabin space is available for more prisoners. For prisoners requiring special treatment, there are two staterooms available.
 

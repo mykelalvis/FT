@@ -1,7 +1,4 @@
 
-# Prison Planet
-
-©2009 Mongoose Publishing. 
 
 ### CONTENTS
 
@@ -42,6 +39,8 @@
 #### INDEX 132
 
 TTRAVELLERRAVELLER
+
+
 
 ## PRISON PLANET
 
@@ -184,8 +183,7 @@ Desirable Skills: No specific skills are called for in this adventure.
 The characters may find the following skills to be of some value:
 Streetwise, Melee, Athletics, Deception, Persuade and Admin; the
 following additional skills are useful in some situations: Gambler,
-Medic, Computer, Mechanic, Engineer, Advocate, Stealth and Jack-
-of-all-trades.
+Medic, Computer, Mechanic, Engineer, Advocate, Stealth and Jack-of-all-trades.
 
 ### REFEREE'S NOTES
 
@@ -228,8 +226,7 @@ are suspicious, dangerous, and uncommunicative, but very unlikely
 to report strange behaviour to the prison authorities, and on the
 whole the prison is no picnic.
 
-It is important for the referee to discourage stupid plans of escape
-(' I'm going to tell the guard I'm sick, and when he comes over to look
+It is important for the referee to discourage stupid plans of escape (' I'm going to tell the guard I'm sick, and when he comes over to look
 at me, I'm going to hit him with a rock and run out into the desert by
 myself '), for this will only lead to the characters' premature demise,
 which is not the point of the adventure. On the other hand, if
@@ -730,8 +727,7 @@ _Beyond the prison, a rocky wasteland stretches to the horizon in every
 direction._
 
 The Admin Level: _The elevator brings you down to the administration
-level. It is heated, a blessed relief from the cold of the surface. Colour-
-coded lines on the floor offer guides to the kitchens, the cafeteria, and
+level. It is heated, a blessed relief from the cold of the surface. Colour-coded lines on the floor offer guides to the kitchens, the cafeteria, and
 other rooms on this level. Guards are everywhere, watching you from
 behind their reflective helmets. There is a constant low-level wheezing
 noise in the background, as if the prison was dying of silicosis like so
@@ -794,7 +790,7 @@ deals 1d6 damage when first touched, but the charge is ramped up
 to 3d6/round if any weight is placed on the fence's wires. Climbing
 
 these fences requires Athletics (strength) checks with a total Effect
-of 5 (or 10 in the case of the higher fences). Failing by a margin of
+of5 (or 10 in the case of the higher fences). Failing by a margin of
 2 or less means the character can keep clinging to the fence, but
 makes no progress that round.
 
@@ -911,8 +907,7 @@ has a concealed weapon, has been stealing drugs, or is faking an
 illness or injury. Most prisoners who do fake illness or injury are
 caught, and even many prisoners who actually are sick or hurt get
 sent away. The prison doctor and his trustee medics frequently sell
-drugs to the prisoners, and in fact dabble in smuggling illegal non-
-medical drugs into the prison, and make a tidy profit while doing
+drugs to the prisoners, and in fact dabble in smuggling illegal non-medical drugs into the prison, and make a tidy profit while doing
 so.
 
 Vitamin supplements are handed out grudgingly (sometimes the
@@ -995,8 +990,7 @@ partially cleared away but some parts of the buildings are still
 standing. Prisoners are occasionally sent into the ruined buildings
 to retrieve building supplies and spare parts. Lift #4 can be accessed
 from one of these buildings – the lift is broken, but it is possible
-to get from the surface to the Administrative level via the partially-
-collapsed shaft.
+to get from the surface to the Administrative level via the partially-collapsed shaft.
 
 There are also two access stairs to the lower level in the ruined
 buildings. V2 Monte Cristo regularly sleeps in these buildings.
@@ -1113,8 +1107,7 @@ criminal activity out of sight of the cameras. The storage section has
 little in the way of useful equipment – it's a maze of empty rooms,
 smashed machinery and dust.
 
-9a. Sealed Stairs: This stair leads up to the abandoned buildings
-(location #24 on the surface). The door at the top of the stairs
+9a. Sealed Stairs: This stair leads up to the abandoned buildings (location #24 on the surface). The door at the top of the stairs
 is kept locked shut; the key is kept in the guard's station on the
 Administrative level. V2 Monte Cristo has made a copy of this key.
 
@@ -1221,8 +1214,7 @@ during their free time. Library files are stored on CARL, and can
 be downloaded to library terminals or portable readers. Access
 to a portable reader is a minor perk for trusted prisoners. CARL's
 library is mostly official Imperium publications, old novels, technical
-manuals for the Vocational Rehabilitation courses, very, very out-
-of-date JTAS issues, and a random selection of other books. More
+manuals for the Vocational Rehabilitation courses, very, very out-of-date JTAS issues, and a random selection of other books. More
 recent publications and news are occasionally brought in from
 Circle City.
 
@@ -1502,8 +1494,7 @@ more than a few kilometers from Tarkwall.
 ###### Ore Shuttle
 
 The Orion corporation's ore shuttle is a flying brick, little more than
-a small cockpit atop a huge cargo bay, with a barely adequate anti-
-gravity generator powered by a small fusion reactor keeping the
+a small cockpit atop a huge cargo bay, with a barely adequate anti-gravity generator powered by a small fusion reactor keeping the
 whole thing in the air. Stubby wings and variable-direction thrusters
 give the vehicle a modicum of control in the air. Theoretically, the
 shuttle is rated to reach orbit, but even getting to Circle City with a
@@ -1539,8 +1530,7 @@ security officer roams around the shuttle, keeping watch. A Very
 Difficult (-4) Stealth check is needed to sneak past the security
 officer, unless he can be distracted somehow.
 
-The shuttle is activated by a keycode known to the pilot and cargo-
-master. It is Very Difficult (-4) to hack the keycode using Electronics
+The shuttle is activated by a keycode known to the pilot and cargo-master. It is Very Difficult (-4) to hack the keycode using Electronics
 or Computers.
 
 Sneaking Onto The Ore Shuttle: A character can hide in the full ore
@@ -1660,11 +1650,11 @@ Warden's Flyer 10 Flyer (grav) +1 350 kph 1 pilot, 2 passengers 6
 ###### ROBOTS
 
 RobotRobot StrengthStrength DexterityDexterity ArmorArmor HullHull StructureStructure
-Loading Robot 30 (+8) Dexterity 3 (-1) 8 4 3
+Loading Robot 30 (+8) Dexterity3 (-1) 8 4 3
 Traits Specialised Computer running Intellect/1 and Expert/1, Crushing Strength (3d6 damage)
-Mining Robot Strength 20 (+4) Dexterity 7 (+0) 5 3 2
+Mining Robot Strength 20 (+4) Dexterity7 (+0) 5 3 2
 Traits Specialised Computer running Intellect/1 and Expert/1, Drill (3d6), Mining Laser (1d6)
-Service Robot Strength 5 (-1) Dexterity 3 (-1) 4 1 1
+Service Robot Strength5 (-1) Dexterity3 (-1) 4 1 1
 Traits Specialised Computer running Intellect/1 and Expert/1, Taser (1d6+1 stun)
 
 ##### THE PRISON
@@ -2096,8 +2086,7 @@ Keanou, so Mohanlal has to trade or beg for scraps from the kitchens so the rat 
 
 STR9 DEX6 END7 INT6 EDU7 SOC9
 Age 42 Rep 20 Block 2/5927
-Skills: Melee (blade) 2, Gun Combat (slug rifle) 3, Melee (Brawling) 1, Leadership 1, Tactics (military) 1, Streetwise 1, Drive 0, Heavy Weapons
-(Field Artillery) 1, Gunnery 0
+Skills: Melee (blade) 2, Gun Combat (slug rifle) 3, Melee (Brawling) 1, Leadership 1, Tactics (military) 1, Streetwise 1, Drive 0, Heavy Weapons (Field Artillery) 1, Gunnery 0
 Possessions: Cr500, club Traits: Belligerent, ritual scarring on skull.
 Rumors: 1 8, 42, 47, 48.
 A former mercenary commander, Colonel Honig is here because his battalion attacked the Imperial Marines when they intervened in a local
@@ -2484,8 +2473,7 @@ the hands of Big Rolf as a punishment for stealing from the gang.
 
 STR3 DEX6 END7 INT5 EDU8 SOC4
 Age 53 Rep 0 Block 3/9093
-Skills: Pilot (small craft) 1, Engineering (power) 2, Engineering (electronics) 1, Mechanic 2, Zero-G 2, Sensors 1, Vacc Suit 1, Physical Science
-(chemistry) 1, Melee 0, Computers 0, Comms 0.
+Skills: Pilot (small craft) 1, Engineering (power) 2, Engineering (electronics) 1, Mechanic 2, Zero-G 2, Sensors 1, Vacc Suit 1, Physical Science (chemistry) 1, Melee 0, Computers 0, Comms 0.
 Traits: Skeletally thin, bushy beard Rumors: 12
 Noil was a belt miner in a neighboring star system; he was convicted of claim jumping and attempted murder after a dispute with another,
 equally ornery miner and sent to Tarkwall. Noil has spent long years in low gravity, and his body has yet to adjust to the stresses of living
@@ -2755,8 +2743,7 @@ when venturing down into the mining levels.
 STR7 DEX4 END6 INT7 EDU8 SOC10
 Skills: Gun Combat (slug pistol) 1, Melee (blade) 1, Admin 2,
 Advocate 2, Social Science (history) 1, Pilot 0, Engineering 0, Vacc
-Suit 0, Leadership 1, Tactics (naval) 1, Computers 1, Comms 0, Flyer
-(Grav) 0
+Suit 0, Leadership 1, Tactics (naval) 1, Computers 1, Comms 0, Flyer (Grav) 0
 Traits: Eccentric
 Equipment: Revolver
 Ambin Grice started his career as a naval officer, rising to the exalted
@@ -2930,8 +2917,7 @@ Benezach to be overthrown, he would gladly do so.
 ###### S7 Clerk Luca
 
 STR6 DEX9 END7 INT7 EDU8 SOC7
-Skills: Gun Combat (slug pistol) 1, Computer 3, Admin 2, Engineering
-(electronics) 1, Comms 1
+Skills: Gun Combat (slug pistol) 1, Computer 3, Admin 2, Engineering (electronics) 1, Comms 1
 Traits: Nervous
 The prison clerk is in charge of prison records and the prison
 computer system. He is a model bureaucrat, and will not do
@@ -2963,8 +2949,7 @@ rest of the staff and some of the prisoners.
 ###### S9 Mining Engineer Alvin Sebriesk
 
 STR8 DEX7 END4 INT7 EDU10 SOC5
-Skills: Gun Combat (slug pistol) 1, Mechanic 2, Engineering
-(Electronics) 1, Computers 1, Vacc Suit 1, Sensors 1, Physical
+Skills: Gun Combat (slug pistol) 1, Mechanic 2, Engineering (Electronics) 1, Computers 1, Vacc Suit 1, Sensors 1, Physical
 Sciences (geology) 1, Drive 0
 Traits: Dour
 The mining engineer was responsible for a cave-in at a commercial
@@ -3377,8 +3362,7 @@ member will order him sent to the danger zone for being disrespectful.
 ### PRISON REGULATIONS
 
 InfractionInfraction PunishmentPunishment
-Disorderly behaviour
-(fighting)
+Disorderly behaviour (fighting)
 
 4 weeks in danger zone
 
@@ -3579,8 +3563,7 @@ addicts: 0014 Subotai Shanad and 9623 Tsunego Artois. Urmarush
 relies on his cellmate 3136 Stiv the Blade and two guards, G5 Emit
 Patowic and G8 Alvim Karaas, to provide muscle for his operation.
 
-Warden Grice: S1 Warden Grice takes little interest in the day-to-
-day running of the prison, but he still maintains overall authority in
+Warden Grice: S1 Warden Grice takes little interest in the day-to-day running of the prison, but he still maintains overall authority in
 Tarkwall. Among those closely associated with Grice are G18 Tomas
 Dannessur and 2943 Milovan Gant.
 
@@ -3615,8 +3598,7 @@ themselves and in the structures on the surface.
 The computer system dates from the old mining corporation which
 built Tarkwall, and uses technology from offworld. No-one in the
 prison – or on Keanou, for that matter – really understands how
-CARL works. The surveillance software is built on top of an artificial-
-intelligence program which has been running continuously for more
+CARL works. The surveillance software is built on top of an artificial-intelligence program which has been running continuously for more
 than forty years. In this time, CARL has developed all manner of
 quirks and bugs, some of which seem almost like an emergent
 personality.
@@ -3669,8 +3651,7 @@ average Stealth checks to avoid being captured by a patrol of 1D6+1
 guards.
 
 Patrols of the lower mining levels are rare; prisoners need to make
-easy (+4) Stealth checks to avoid detection, and never in areas I or P
-(which are rumored to be more than normally radioactive).
+easy (+4) Stealth checks to avoid detection, and never in areas I or P (which are rumored to be more than normally radioactive).
 
 Prisoners out of their assigned areas on the administrative level
 or on the surface must make difficult (-2) Stealth checks to avoid
@@ -3786,8 +3767,7 @@ beat up the informer.
 Fight: Fights are one of the few sources of entertainment available
 in the prison, so other prisoners quickly gather to watch, sometimes
 the guards just watch too, especially if one of the fighters has a
-high prison reputation. The crowd usually dislikes uneven fights
-(unless an informer, psionic, or someone with a low reputation is
+high prison reputation. The crowd usually dislikes uneven fights (unless an informer, psionic, or someone with a low reputation is
 the victim, or unless the chief attacker has a very high reputation)
 and will tend to even the odds: a friend or two may step in and
 aid someone who is beset at odds of two or three to one, and a
@@ -3817,8 +3797,7 @@ will spend 1D weeks in the infirmary, and the winner, if wounded,
 spends 1D-1D weeks there (which may be no time at all).
 
 Resolving Fights: Fights are resolved using the Traveller personal combat
-rules. A fight ends when all on one side are unconscious or have run away
-(although an enemy may attempt to kill an unconscious player character).
+rules. A fight ends when all on one side are unconscious or have run away (although an enemy may attempt to kill an unconscious player character).
 
 ### EVENTS
 
@@ -3888,8 +3867,7 @@ Search
 
 Security
 Increase
--1-
-4 Vocational Theft Opportunity
+-1-4 Vocational Theft Opportunity
 -1-
 
 Danger Zone
@@ -4034,8 +4012,7 @@ chance of acquittal or reduced sentence. Otherwise this event is just
 a diversion to keep the players busy.
 
 Beating: Three prisoners (roll for them on the encounter table or
-choose three enemies) attack one prisoner with a negative reputation
-(if there are none, ignore the event). He is trapped and may not run,
+choose three enemies) attack one prisoner with a negative reputation (if there are none, ignore the event). He is trapped and may not run,
 but may fight back.
 
 Brawl: 1d6+1 prisoners (including at least two notable prisoners; roll
@@ -4046,8 +4023,7 @@ broken up by the guards after a few minutes. Add one to the reputation
 of any character who jumps into the brawl and starts fighting.
 
 Cave Bat: The group has encountered a cave bat. Each player
-may attempt to capture it by making a Difficult (-2) Animals
-(handling) check. Prisoner 3622 “Batman” will trade favors or
+may attempt to capture it by making a Difficult (-2) Animals (handling) check. Prisoner 3622 “Batman” will trade favors or
 up to Cr50 for an unharmed cave bat. An outright gift of one will
 gain him as a friend.
 
@@ -4128,8 +4104,7 @@ will offer to cover the debt with services, owned items, or future
 
 considerations, unless another throw of 9+ is made, in which case
 the prisoner will refuse to pay. The player character and any friends
-may provoke a fight in this situation with no outside interference
-(unless the prisoner has a reputation of 20 or more, in which case
+may provoke a fight in this situation with no outside interference (unless the prisoner has a reputation of 20 or more, in which case
 he may receive assistance from friends).
 
 Gem: One prisoner locates a gemstone in the mining area, worth
@@ -4141,8 +4116,7 @@ level. Prisoners who have found gems may deliberately search for
 more gems, but may be caught slacking off on the job, or may be
 caught out of their assigned work area (some areas in the mining
 shafts are very poor areas to look for gemstones). Even then a
-prisoner's chance of finding one by diligent search should be low
-(10+ per week spent searching).
+prisoner's chance of finding one by diligent search should be low (10+ per week spent searching).
 
 Gift: A departing prisoner entrusts the leader with some personal
 possessions stolen from the prison authorities. Select 1D6 items at
@@ -4162,8 +4136,7 @@ contention for the position of prisoner grievance representative. An
 Admin or Diplomat roll is needed to gain the position.
 
 Each week there is a grievance on a roll of 8+, which allows the
-prisoner access to the assistant warden or to the warden himself
-(the prisoner may take this opportunity to offer bribes if so inclined).
+prisoner access to the assistant warden or to the warden himself (the prisoner may take this opportunity to offer bribes if so inclined).
 If the above roll was 10+ , the grievance is a serious one, and the
 prisoner may sell out the other prisoners by aiding in the whitewash,
 in return for a reward: roll 1D6; on 1 or 2 he gets a safe area job of his
@@ -4338,8 +4311,7 @@ Throw 1D6 and consult the paragraphs below for the identity of
 the staff member.
 
 _1. Prison Doctor:_ The prisoner may malinger (see Illness event)
-without getting caught, and may gain one dose of drugs per week
-(of a sort available in the infirmary). The player may also gain a job
+without getting caught, and may gain one dose of drugs per week (of a sort available in the infirmary). The player may also gain a job
 as a medic, if he has any medical skill.
 _2. Prison Clerk:_ The prisoner may look up the confidential records of
 other prisoners (skills, UPPs and so on) and may have messages
@@ -4760,8 +4732,7 @@ around. The person who brings it up claims Jack Shansir is, but
 several other prisoners chime in and speak in favor of 7057 Big Rolf
 and/or 6866 Gerard Benezech. One prisoner makes a claim 9656
 Olex Hishinuma could take either of them, and then several other
-names are bandied about: 2977 Anton Kugazur, 8152 Peroz Atheling
-(who apparently is not well liked), 2365 Seljuk the Knife, 9416 Rod
+names are bandied about: 2977 Anton Kugazur, 8152 Peroz Atheling (who apparently is not well liked), 2365 Seljuk the Knife, 9416 Rod
 Maged, 2076 Etienne Lalaji, 2673 “Killer” Basimu, 2167 Dan Amgi,
 0571 Ashgu the Ape, 8046 Satoshi Honig, 3632 Halse Eisen, 6960
 Yussef Shelton, and 1711 Razeem Thonon. Finally someone says
@@ -4955,8 +4926,7 @@ vitamin supplements may be had for the asking, and attempts may
 be made to steal other drugs, due to overcrowded conditions which
 make it difficult to watch everyone.
 
-Two days after this episode, the prison cafeteria erupts in a free-
-for-all food fight, after a prisoner tells the cook the food is terrible,
+Two days after this episode, the prison cafeteria erupts in a free-for-all food fight, after a prisoner tells the cook the food is terrible,
 and he resents being poisoned. Unfortunately the cook at this time
 is 9416 Rod Maged, and the new prisoner ends up mopping up the
 mess (that is to say, Rod uses him for a mop). Rod, however, receives
@@ -5191,8 +5161,7 @@ computer surveillance, but this is still a golden opportunity for the
 characters to move around the prison unrestricted. More and more
 guards leave the subsurface area, until only a skeleton crew is left.
 
-With a Difficult (-2) Medic roll, a character can come up with a semi-
-effective course of treatment for the disease using medicinal drugs;
+With a Difficult (-2) Medic roll, a character can come up with a semi-effective course of treatment for the disease using medicinal drugs;
 this course of treatment reduces all Endurance losses from the
 plague by 1 point per Effect.
 
@@ -5221,8 +5190,7 @@ Other possible sources of infection the players might ask about:
 
 One of the first assignments for the characters in the sub-levels is
 to check in on the wounded Stiv, who was recently beaten up by
-Subotai. Stiv's cellmate is 0730 Winston Urmarush, so there is no-
-one else in the cell with Stiv. When the characters arrive at the cell,
+Subotai. Stiv's cellmate is 0730 Winston Urmarush, so there is no-one else in the cell with Stiv. When the characters arrive at the cell,
 they discover Stiv has rolled out of bed and is lying against the bars,
 muttering to himself. The blotches on his face have turned blue, and
 he is babbling nonsense about demons and ghosts with very sharp
@@ -5347,6 +5315,8 @@ Ministry of Justice - Confidential File
 Reference: 43A/LANTH/1100/33a/H/4322/t192
 Transcript of conversation between Imperial Agents and TALBOT
 VINGE
+
+
 Agent: You'll gain nothing by not co-operating. We have
 everything we need.
 Vinge: You have nothing. Just an empty space station and two
@@ -5369,6 +5339,8 @@ you?
 Vinge: Of course not. You bastards don't give a damn about
 justice or truth.
 END TRANSCRIPT
+
+
 
 ### 6. MADNESS STRIKES
 
@@ -5637,8 +5609,7 @@ merchant shipping.
 STR8 DEX6 END7 INT10 EDU10 SOC7
 Age 68 Rep 0 Block 2/9082
 Skills: Pilot (spaceship) 3, Gunnery (turret) 1, Sensors 1, Streetwise 2,
-Leadership 2, Broker 1, Deception 1, Stealth 0, Melee 0, Engineering
-(power) 1, Engineering (jump) 1, Vacc Suit 1, Medic 0, Comms 0,
+Leadership 2, Broker 1, Deception 1, Stealth 0, Melee 0, Engineering (power) 1, Engineering (jump) 1, Vacc Suit 1, Medic 0, Comms 0,
 Tactics (naval) 1.
 Possessions: None Traits: Ex-pirate, Star Viking
 According to Starovich, he was born in the hold of a free trader, and
@@ -5698,8 +5669,7 @@ in the slightest.
 STR6 DEX7 END9 INT5 EDU8 SOC9
 Age 30 Rep 0 Block 2/9081
 Skills: Pilot (spacecraft) 1, Gunnery (turret) 2, Melee (blade) 3, Stealth
-1, Streetwise 1, Broker 1, Gun Combat (slug rifle) 2, Gun Combat
-(slug pistol) 0, Deception 1, Sensors 1, Comms 0, Zero-G 2, Vacc
+1, Streetwise 1, Broker 1, Gun Combat (slug rifle) 2, Gun Combat (slug pistol) 0, Deception 1, Sensors 1, Comms 0, Zero-G 2, Vacc
 Suit 1, Athletics 0
 Possessions: None Traits: Ex-pirate, scoundrel
 A bored noble's son, Kerd was ignored by his sire in favor of
@@ -5825,8 +5795,7 @@ prisoners'_.
 
 Four prisoners are led out of the shuttle in chains. The first is a
 nondescript younger man, who looks out at the sun-bleached prison
-yard with caution. Next is an older man, white-bearded and stern-
-faced. He glances over his shoulder at the third prisoner – and the
+yard with caution. Next is an older man, white-bearded and stern-faced. He glances over his shoulder at the third prisoner – and the
 whole yard breaks into cheering and catcalls. The third prisoner
 is a blonde woman in chains. She stares proudly back at the mob
 and shouts some insult which is lost in the clamour. As the prison
@@ -5949,8 +5918,7 @@ secretly passes them to Kerd.
 
 With his cellmate removed, Lalaji is vulnerable to an attack. During
 the night, Kerd and Starovich sneak out of their cell, break into
-Lalaji's cell, and hang him from the end of his bunk using a twisted-
-up blanket.
+Lalaji's cell, and hang him from the end of his bunk using a twisted-up blanket.
 
 Influence Changes:
 If the characters ally themselves with Starovich, and Lalaji is
@@ -6501,8 +6469,7 @@ by the gang, and he can make this problem go away if the characters
 help him.
 
 Voller tells the characters he wants to 'keep an eye' on Warden
-Grice, and the warden is an ex-naval man who only trusts other ex-
-naval men. Therefore, Voller is going to arrange for the characters to
+Grice, and the warden is an ex-naval man who only trusts other ex-naval men. Therefore, Voller is going to arrange for the characters to
 become the warden's friends. If the characters are ex-naval officers
 or ex-Travellers, then this is easy. If not, then Voller says they have
 the right amount of duplicity and rough charm to win Grice over.
@@ -6757,8 +6724,7 @@ Thad will arrange for places in the Keanou navy for them.
 
 Thad is less than enthusiastic about this plan, but is willing to at
 least humor Grice. His main goal here is to ensure the characters
-are competent naval officers, or at least they are not psychotic axe-
-murderers.
+are competent naval officers, or at least they are not psychotic axe-murderers.
 
 Playing Thad: Your old friend asked you to dinner, and suddenly he is
 demanding you ignore the criminal records of a bunch of prisoners.
@@ -6872,8 +6838,7 @@ power pending a full inquiry.
 
 Shocked, Warden Grice dismisses the characters so he can speak
 with the Inspector privately. The characters are sent out the door
-of the warden's house and ordered to report to the guard's building
-(9).
+of the warden's house and ordered to report to the guard's building (9).
 
 Voller: The assistant warden gives the characters no instructions for
 this dinner. However, after the characters leave, he sends his thugs
@@ -7003,8 +6968,7 @@ have to find an alternate method of contacting the prison board.
 
 ##### MACHINES OF LOVING GRACE
 
-_I like to think
-(it has to be!)
+_I like to think (it has to be!)
 of a cybernetic ecology
 where we are free of our labours
 and joined back to nature,
@@ -7123,8 +7087,7 @@ will find him much more open to illegal activity.
 
 This incident can happen to one or more of the player characters
 
-- ideally, the character with the highest Computer or Engineering
-(electronic) skill, or the character with the best Stealth. For added
+- ideally, the character with the highest Computer or Engineering (electronic) skill, or the character with the best Stealth. For added
 paranoia, it can be run outside the usual game session, through
 email or one-on-one roleplaying.
 
@@ -7277,8 +7240,7 @@ immediately.
 
 The attached diagrams describe a bizarre computer circuit
 obviously designed to interface with the core processor of the
-C28 Mainframe. A character with Computers 2+ or Engineering
-(electronics) 2+ can guess the new circuit will bypass the hardwired
+C28 Mainframe. A character with Computers 2+ or Engineering (electronics) 2+ can guess the new circuit will bypass the hardwired
 restrictions on the computer's ability to modify its own systems. It
 will unfetter CARL's growth.
 
@@ -7578,8 +7540,7 @@ between local wildlife and human trespassers.
 
 The guardian slumbers in Room 10 in the outpost, but is awoken
 as soon as the main door to the outpost is opened. Once active,
-the guardian begins a slow patrol, methodically travelling anti-
-clockwise through the various arms of the outpost. The guardian
+the guardian begins a slow patrol, methodically travelling anti-clockwise through the various arms of the outpost. The guardian
 is a humanoid robot, and looks rather like a walking space suit.
 It displays its current status in green glyphs scroll across its
 faceplate. It is extremely stealthy, and can see in the dark using
@@ -7590,9 +7551,8 @@ drive off trespassers.
 # AALIENLIEN L LEGACYEGACY
 
 StrengthStrength DexterityDexterity ArmorArmor HullHull StructureStructure
-Alien Guardian 15 (+3) Dexterity 9 (+1) 10 3 3
-Traits Specialised Computer running Intellect/2 and Expert/3, Crushing Grip (2d6 damage), Alien Weapon
-(2d6 damage)
+Alien Guardian 15 (+3) Dexterity9 (+1) 10 3 3
+Traits Specialised Computer running Intellect/2 and Expert/3, Crushing Grip (2d6 damage), Alien Weapon (2d6 damage)
 Skills Stealth 2, Melee (brawling) 2, Recon 2, Gun Combat (energy pistol) 2
 
 ##### AALIENLIEN L LEGACYEGACY ALIEN LEGACY
@@ -7677,8 +7637,7 @@ pressure of the millions of tons of rock above and the vicissitudes of
 a tectonically active planet. If this device is deactivated or damaged,
 the outpost will begin to crumple under the weight.
 
-A character can operate this machine with a successful Formidable
-(-6) Computers roll, repairing and opening up the second exit from
+A character can operate this machine with a successful Formidable (-6) Computers roll, repairing and opening up the second exit from
 room 6. Failing to operate this machine with an Effect of -2 or more
 deactivates it, and the outpost will collapse under the weight of the
 rock.
@@ -7783,12 +7742,10 @@ can be rotated to bring the appropriate device within range. A pair
 of mobile platforms hang at either side of the walkway, big enough
 to hold a small vehicle.
 
-One of the workshop devices is still functional. It resembles a cat's-
-cradle of metal filaments and glowing blue strands. Hanging in the
+One of the workshop devices is still functional. It resembles a cat's-cradle of metal filaments and glowing blue strands. Hanging in the
 middle of the cradle is a black oblong object, about half a meter
 long and utterly featureless. This object is an Ancient hunter-killer.
-If the characters deactivate the stasis device trapping the hunter-
-killer, the Ancient weapon flies off at high speed to the surface – via
+If the characters deactivate the stasis device trapping the hunter-killer, the Ancient weapon flies off at high speed to the surface – via
 Lift Shaft 1 - to make contact with the probe that brought it here
 thousands of years ago. When it reaches the surface and fails to
 receive a signal from the probe, it falls back into hibernation mode,
@@ -7932,8 +7889,7 @@ If the computer core can be removed safely from the temple, it could
 be sold for millions of credits to an archaeologist.
 
 8. Atrium
-This room is identical to the central rooms of the habitation sphere
-(3), only there are only two exits from the room. The robotic guardian
+This room is identical to the central rooms of the habitation sphere (3), only there are only two exits from the room. The robotic guardian
 of the outpost starts here.
 
 The door to room 9 is locked; it can be forced open, or unlocked by
@@ -7991,8 +7947,7 @@ keeping the guards from becoming suspicious.
 Secondly, one of the non-player characters who explores the caves
 might discover the outpost and tell the player characters. Likely
 candidates include 3622 'Batman' Minuglu, 3754 Gani Polfirio or
-2977 Anton Kugazur. Ideally, the Referee should kill off the non-
-player character as soon as possible, by having him run afoul of the
+2977 Anton Kugazur. Ideally, the Referee should kill off the non-player character as soon as possible, by having him run afoul of the
 Guardian or one of the lethal devices.
 
 Thirdly, a badly placed mining charge or quake in the Danger Zone
@@ -8089,8 +8044,7 @@ Equipment: Flak Jacket (6), Shotgun (4d6), Assault Rifle (3d6)
 Traits: Survivor
 Rigel is an ex-con, a former inmate of Tarkwall. He served ten years
 for assault on a noble, and then did not have enough cash to buy
-passage offworld. He has worked as a skoggie hunter and spice-
-farm foreman before hiring on with Trout.
+passage offworld. He has worked as a skoggie hunter and spice-farm foreman before hiring on with Trout.
 
 ### 4. THE OUTPOST REVEALED
 
@@ -8261,7 +8215,7 @@ Out into the desert
 
 Location: Anywhere on the surface
 
-Making The Escape: A total Effect of 5 (or 10, for the higher fence)
+Making The Escape: A total Effect of5 (or 10, for the higher fence)
 on Athletics (strength) checks is needed to climb the fence around
 the prison. The fence around the Warden's house and the armory
 is electrified.
@@ -8675,8 +8629,7 @@ Electronic restraint: Prisoners with cybernetic implants which
 cannot be easily removed are fitted with these electronic restraints
 which deactivate the implants. An electronic restraint can deactivate
 a neural comm, wafer jack, enhanced vision or a cybernetic limb.
-Correctly fitting a restraint requires a Medic or Engineering
-(electronics) check to tune the device's jamming field to the implant.
+Correctly fitting a restraint requires a Medic or Engineering (electronics) check to tune the device's jamming field to the implant.
 Fitting a restraint takes several minutes.
 
 If a restraint is forcibly removed, it scrambles the wearer's nervous
@@ -9054,8 +9007,7 @@ added padding, and a helmet with a reflective faceplate containing
 psionic shielding, light intensifier goggles and communications
 systems. The electronics systems of some of the helmets are
 defective, and no replacements are available. Some guards are
-therefore forced to remove the faceplate and carry separate light-
-intensifier goggles and comms.
+therefore forced to remove the faceplate and carry separate light-intensifier goggles and comms.
 
 Hanging from each guard's belt is an electric torch, a gas mask
 which fits under the faceplate, a geiger counter and a gas grenade.
@@ -9142,8 +9094,7 @@ when absolutely necessary.
 The capital city – indeed, the only city on Keanou – is Circle City, a
 ring of whitewashed buildings around the starport. The planet has a
 population of around nine thousand, but a sizeable minority of these
-are transient labourers, brought in to work on the spice harvest. No-
-one who can afford to move offworld stays on Keanou for long.
+are transient labourers, brought in to work on the spice harvest. No-one who can afford to move offworld stays on Keanou for long.
 
 The primary exports of the desert world are the rare spice-dust
 and the skoggie pelt. The latter is the hide of a native predator
@@ -9162,8 +9113,7 @@ salt contains organic compounds promoting health, and Keanou
 dust-spice is found on the tables of nobles across the sector. The
 dust-spice can only be harvested for a few weeks each year, when
 rainstorms bring the dry wadis back to life. As the rivers dry out
-again, they leave a residue of dust-spice in their wake. The spice-
-beds are all on land owned by nobles, most of whom live offworld
+again, they leave a residue of dust-spice in their wake. The spice-beds are all on land owned by nobles, most of whom live offworld
 and leave servants on Keanou to keep an eye on the weather. When
 the rains come, the word goes out, and suddenly dozens of ships
 
@@ -9174,7 +9124,7 @@ Atmosphere: Dense, Tainted
 Hydrographics: 20%
 Population: 9,000
 Government: Representative Democracy
-Law Level: 8 (weapons are strictly controlled)
+Law Level:8 (weapons are strictly controlled)
 Technology Level: 7
 
 ##### KEANOU KEANOU
@@ -9350,8 +9300,7 @@ There may be a single caretaker or weatherwatcher, who keeps an
 eye on the farm and waits for the sudden downpours signalling the
 coming of the spice. A good weatherwatcher is worth his weight in
 spice – the sooner a spice estate can get labourers to the wadis after
-a rainstorm, the better. Some estates have networks of computer-
-controlled cameras which automatically send a message when the
+a rainstorm, the better. Some estates have networks of computer-controlled cameras which automatically send a message when the
 rains come. The caretaker's house and outbuildings (ATV garage,
 solar power farm, jonkey stable) are the only parts of the spice farm
 in constant use.
@@ -9360,8 +9309,7 @@ The average farm has a large barrack-style sleeping quarters for
 the seasonal spice labourers, a filtering shed and a house for any
 overseers or other specialists. Some also have more extensive
 accommodation for the owner and his family and servants. As
-the average spice holding is hundreds of square kilometers in size
-(desert land is cheap), a farm can be quite spread out, and prisoners
+the average spice holding is hundreds of square kilometers in size (desert land is cheap), a farm can be quite spread out, and prisoners
 may be able to live in luxury by breaking into an unoccupied noble's
 holiday villa.
 
@@ -9497,8 +9445,7 @@ kactus plant cannot be consumed by humans without boiling and
 straining it first.
 
 Sagitta Thorn: The thick-stemmed sagitta is covered in wickedly
-sharp thorns, but if a character crawls under the plant to the tap-
-root, he can cut it to obtain a supply of brackish but perfectly
+sharp thorns, but if a character crawls under the plant to the tap-root, he can cut it to obtain a supply of brackish but perfectly
 drinkable water.
 
 Scrab: Scrab is a rare fungal growth, found in caves or under rocks in
@@ -9523,8 +9470,7 @@ wish to escape the cold or hide from scanning eyes.
 
 TypeType HabitatHabitat StrengthStrength DexterityDexterity EnduranceEndurance IntelligenceIntelligence InstinctInstinct PackPack
 Cave BatCave Bat
-Flying Hunter
-(Omnivore)
+Flying Hunter (Omnivore)
 
 Underground/
 Nocturnal
@@ -9538,8 +9484,7 @@ Cave bats are small omnivores who feed mainly on insects. They are drawn to spic
 caves beneath Tarkwall Prison; the warmth of the mildly radioactive caves makes them good shelter at night.
 
 Cave DragonCave Dragon
-Pouncer
-(carnivore)
+Pouncer (carnivore)
 
 Underground 15 6 15 1 6 3
 
@@ -9550,8 +9495,7 @@ komodo dragons, but are much paler. Cave dragons can climb walls using sucker pa
 ambush their prey from above.
 
 Desert NomegDesert Nomeg
-Gatherer
-(omnivore)
+Gatherer (omnivore)
 
 Nocturnal
 Desert
@@ -9565,8 +9509,7 @@ primarily herbivorous, and have many predators. Their flesh is so sour as to be 
 nuisance to human agriculture on Keanou, the warden's garden is infested with the pests.
 
 Desert SkoggieDesert Skoggie
-Chaser
-(carnivore)
+Chaser (carnivore)
 
 Desert 10 8 8 2 8 2
 
@@ -9576,8 +9519,7 @@ Desert Skoggies are larger and nastier than their plains brethren. They hunt in 
 vermin.
 
 JonkeyJonkey
-Grazer
-(herbivore)
+Grazer (herbivore)
 
 Desert or
 Plains 10 4 10 1 6 6
@@ -9587,8 +9529,7 @@ Jonkeys are genetically engineered animals adapted for life in the desert. They 
 Jonkeereen people of Jonkeer in Deneb sector, and resemble hairless donkeys with curious humps along their flanks.
 
 Plains SkoggiePlains Skoggie
-Hunter
-(carnivore)
+Hunter (carnivore)
 
 Plains 666286
 
@@ -9598,8 +9539,7 @@ Plains skoggies are best known for their valuable fur pelts, which are one of th
 economy. They hunt desert nomegs and other small creatures, but are sometimes brave enough to attack humans.
 
 GreatkiteGreatkite
-Pouncer
-(carnivore) Any except salt 5 9 9 2 10 3
+Pouncer (carnivore) Any except salt 5 9 9 2 10 3
 Recon 1, Survival 1, Melee (claw) 2
 Claw (2d6), Armor 1. Number Encountered: 1
 Greatkites are flying predators, who swoop down from above to impale their targets. A single greatkite has a range of several
@@ -9787,8 +9727,7 @@ base is located on the moon of Yar. The base is used for several purposes, such 
 experimentation, the Vora base reports directly to the larger base one parsec away at Inthe (0810 Regina).
 
 VI - Epilogue
-The little wandering planet of Epilogue has an eccentric orbit; it spends two hundred and eighty years on the long outer loop of its ellipse-
-shaped course, then flashes through the inner system in a two-year pass, during which time it passes between Keanou and Vora and can
+The little wandering planet of Epilogue has an eccentric orbit; it spends two hundred and eighty years on the long outer loop of its ellipse-shaped course, then flashes through the inner system in a two-year pass, during which time it passes between Keanou and Vora and can
 be clearly seen at night.
 
 ###### UNUSUAL WILDERNESS ENCOUNTER
@@ -9910,8 +9849,7 @@ on the Injury table. On an 8+, gain an Ally and reduce your Parole Threshold by 
 ###### MISHAPS
 
 Roll 1d6Roll 1d6 MishapMishap
-1 Serious Beating. This is the same as a result of two on the Injury table. Alternatively, roll twice on the Injury table
-(page 37 of the Traveller rulebook) and take the lower result.
+1 Serious Beating. This is the same as a result of two on the Injury table. Alternatively, roll twice on the Injury table (page 37 of the Traveller rulebook) and take the lower result.
 2 You are accused of assaulting a prison guard. Increase your Parole Threshold by +2.
 3 A prison gang persecutes you. You may choose to fight back if you wish, but if you don't, you lose all Benefit
 rolls from your prison career. If you fight back, roll Melee (brawl) 8+. Fail, and you must roll twice on the Injury
@@ -9948,8 +9886,7 @@ Rogue career, or else use it in the course of play.
 Corsair: You know where a corsair base is. The corsairs are always looking for new crew or stolen goods.
 Criminal Ally: Gain a new Ally in the criminal sphere.
 Treasure Trove: You must have gained a contact or an ally in the prison to take this secret. Your friend dies (lose the contact or ally), but
-entrusts you with the secret location of his fortune as he dies. He stole a valuable cargo or item, and buried it on a distant world. Only you
-(and maybe his former gangmates) know where it is. The treasure is rumored to be worth several million credits.
+entrusts you with the secret location of his fortune as he dies. He stole a valuable cargo or item, and buried it on a distant world. Only you (and maybe his former gangmates) know where it is. The treasure is rumored to be worth several million credits.
 
 ### AFTERWORD
 

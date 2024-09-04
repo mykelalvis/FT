@@ -24,12 +24,10 @@ Adventure Outline
 
 ### Zoviepr Gunner
 
-AAA 8 9A-8, Age 34, 4 terms, Army: Infantry (2 terms) & Army: Cavalry (2 terms) Rank 4: Officer of 50 0 _Characteristics_ : STR 10 (+1), DEX 10 (+1), END 10 (+1), INT 8 (+0), EDU 9 (+1), SOC 10 (+1), PSI 8 (+0)
+AAA 8 9A-8, Age 34, 4 terms, Army: Infantry (2 terms) & Army: Cavalry (2 terms) Rank 4: Officer of 50 0 _Characteristics_ : STR 10 (+1), DEX 10 (+1), END 10 (+1), INT8 (+0), EDU9 (+1), SOC 10 (+1), PSI8 (+0)
 _Homeworld_ : Koavrivr B8859BE-B Ga Hi (Ziafrplians 2836)
 
-_Skills_ : Gun Combat (energy) 3, Gunner (turret) 2, **Telekinesis 2** , Athletics (dexterity) 1, Electronics (computers) 1, Heavy Weapons (man portable) 1, Language (Galanglic) 1, Leadership 1, Persuade 1, Stealth 1, Animals
-(handling) 0, **Clairvoyance 0,** Drive (wheel) 0, Electronics (comms) 0, Gun Combat (any) 0, Heavy Weapons
-(vehicle) 0, Medic 0, Melee (unarmed) 0, **Psychic Transfer 0,** Science (any) 0, Streetwise 0, **Telepathy 0,** Vacc Suit 0 _Equipment_ : Cr 30,000, Nenjchinzhe'driante, Weapon
+_Skills_ : Gun Combat (energy) 3, Gunner (turret) 2, **Telekinesis 2** , Athletics (dexterity) 1, Electronics (computers) 1, Heavy Weapons (man portable) 1, Language (Galanglic) 1, Leadership 1, Persuade 1, Stealth 1, Animals (handling) 0, **Clairvoyance 0,** Drive (wheel) 0, Electronics (comms) 0, Gun Combat (any) 0, Heavy Weapons (vehicle) 0, Medic 0, Melee (unarmed) 0, **Psychic Transfer 0,** Science (any) 0, Streetwise 0, **Telepathy 0,** Vacc Suit 0 _Equipment_ : Cr 30,000, Nenjchinzhe'driante, Weapon
 
 _Background_ : Zoviepr is army through and through having been brought up in a military family, joined cadet forces as soon as she was able, and having served in the Infantry for eight years followed by a further eight years in the cavalry. Rising to the NCO rank of Leader of 50, Zoviepr commands respect both physically and for her abilities. She's seen action in urban war zones, undergone commando training twice, but ultimately failed to make the Guards she'd hoped to join which still rankles under the surface. This is despite typical Zhodani conditioning. Skilled with a variety of weapons including telekinesis, she serves as gunner and general cargo dogsbody on board the _Zarvae'_.
 
@@ -44,16 +42,14 @@ _Goals for the mission_ :
 
 ### Stiekliepr Steward/Captain
 
-A68A2A-B, Age 38, 5 terms, Merchants: Free Trader (3 terms) & Merchants: Corporate (2 terms) Rank 4: 2nd Officer _Characteristics_ : STR 10 (+1), DEX 6 (+0), END 8 (+0), INT 10 (+1), EDU 2 (-2), SOC 10 (+1), PSI 11 (+1)
+A68A2A-B, Age 38, 5 terms, Merchants: Free Trader (3 terms) & Merchants: Corporate (2 terms) Rank 4: 2nd Officer _Characteristics_ : STR 10 (+1), DEX6 (+0), END8 (+0), INT 10 (+1), EDU2 (-2), SOC 10 (+1), PSI 11 (+1)
 _Homeworld_ : Ifsenja Siakr A677532-D Ag Ga Ht Ni Cap (Ziafrplians 0403)
 
-_Skills_ : **Clairvoyance 2,** Steward 2, Admin 1, Animals (any) 1, Engineer (M-drive) 1, Engineer (power) 1, Gun Combat
-(any) 1, Gunner (screen) 1, Language (Galanglic) 1, Mechanic 1, Pilot (small craft) 1, **Telepathy 1 ,** Broker 0, Drive (any) 0, Electronics (comms) 0, **Mimic 0,** Persuade 0, **Teleportation 0,** Vacc Suit 0 _Equipment_ : Cr50,000, 5 ship shares, Nenjchinzhe'driante, Weapon
+_Skills_ : **Clairvoyance 2,** Steward 2, Admin 1, Animals (any) 1, Engineer (M-drive) 1, Engineer (power) 1, Gun Combat (any) 1, Gunner (screen) 1, Language (Galanglic) 1, Mechanic 1, Pilot (small craft) 1, **Telepathy 1 ,** Broker 0, Drive (any) 0, Electronics (comms) 0, **Mimic 0,** Persuade 0, **Teleportation 0,** Vacc Suit 0 _Equipment_ : Cr50,000, 5 ship shares, Nenjchinzhe'driante, Weapon
 
 _Background_ : Stiekliepr hasn't seen his homeworld in some two decades having travelled for all of his adult life. At home in busy metropoli or quiet rural backwaters, starships or groundside, high society or low, the merchant has a variety of skills picked up along the way and has the best clairvoyant skill amongst the crew of the _Zarvae'_. A skilled administrator, Stiekliepr acts as purser and chief steward but is willing to get his hands dirty particularly if a cargo of live animals is the order of the day as he some experience from a livestock freighter in his past.
 
-In your twenties you were involved in a serious grav vehicle accident which left you physically unharmed save for some bruising, but mentally quite shocked. The Tavrchedl' dealt with this promptly with a short period of re-
-education but a recent close shave in a grav vehicle has brought back the nightmares. You probably ought to report it to the Tavrchedl' but you didn't want to miss out on the opportunity to serve on this mission and so far from the Consulate the usual oversight is absent.
+In your twenties you were involved in a serious grav vehicle accident which left you physically unharmed save for some bruising, but mentally quite shocked. The Tavrchedl' dealt with this promptly with a short period of re-education but a recent close shave in a grav vehicle has brought back the nightmares. You probably ought to report it to the Tavrchedl' but you didn't want to miss out on the opportunity to serve on this mission and so far from the Consulate the usual oversight is absent.
 
 _Goals for the mission_ :
 
@@ -64,12 +60,11 @@ _Goals for the mission_ :
 
 ### Zanzhzhiepr Doctor
 
-9A8AAA-8, Age 30, 3 terms, Scholar: Researcher (1 term) & Scholar: Physician (2 terms) Rank 3 _Characteristics_ : STR 9 (+1), DEX 10 (+1), END 8 (+0), INT 10 (+1), EDU 10 (+1), SOC 10 (+1), PSI 8 (+0)
+9A8AAA-8, Age 30, 3 terms, Scholar: Researcher (1 term) & Scholar: Physician (2 terms) Rank 3 _Characteristics_ : STR9 (+1), DEX 10 (+1), END8 (+0), INT 10 (+1), EDU 10 (+1), SOC 10 (+1), PSI8 (+0)
 _Homeworld_ : Freqsteblmedr B541644-A Ni Po (Ziafrplians 0630)
 
 _Skills_ : Medic 3, Art (any) 1, Investigate 1, Language (Galanglic) 1, Science (any) 1, Science (any) 1, Survival 1,
-**Telekinesis 1,** Admin 0, Animals (any) 0, Carouse 0, **Clairvoyance 0,** Diplomat 0, Drive (any) 0, Electronics
-(computers) 0, **Empathic Healing 0,** Science (any) 0, Science (any) 0, **Telepathy 0**
+**Telekinesis 1,** Admin 0, Animals (any) 0, Carouse 0, **Clairvoyance 0,** Diplomat 0, Drive (any) 0, Electronics (computers) 0, **Empathic Healing 0,** Science (any) 0, Science (any) 0, **Telepathy 0**
 _Equipment_ : Cr30,000, Scientific Equipment
 
 _Background_ : Zanzhzhiepr is not quite the youngest and least experienced of the crew of the _Zarvae'_ but more than makes up for it with the medical skills she brings to the ship which have served them well in the past. She is known for her interests in both science and art, starting out as a researcher but on the death of her husband at the age of 21 transferring to the medical branch of her university. Here she made a breakthrough in the application of microkinetic manipulation of damaged tissue in the healing process which transformed blunt trauma injury diagnosis and rehabilitation. Zanzhzhiepr also acts as chef aboard.
@@ -87,7 +82,7 @@ _Goals for the mission_ :
 ### Brabrkliepr Engineer/Gunner
 
 776C8A-D, Age 38, 5 terms, Navy: Technical (2 terms) & Merchant: Broker (1 term) & Merchant: Free Trader (
-terms) Rank 3: 3rd Officer _Characteristics_ : STR 7 (+0), DEX 7 (+0), END 6 (+0), INT 12 (+2), EDU 8 (+0), SOC 10 (+1), PSI 1 3 (+2)
+terms) Rank 3: 3rd Officer _Characteristics_ : STR7 (+0), DEX7 (+0), END6 (+0), INT 12 (+2), EDU8 (+0), SOC 10 (+1), PSI 13 (+2)
 _Homeworld_ : Iashiedr B878857-7 Ga (Ziafrplians 0221)
 
 _Skills_ : Broker 3, Engineer (J-drive) 3 , **Awareness 2,** Gun Combat (any) 2, Athletics (any) 1, Engineer (life support) 1, Engineer (power) 1, Language (Galanglic) 1, Mechanic 1, Persuade 1, Vacc Suit 1, Advocate 0, Animals (any) 0, Athletics (endurance) 0, **Blocking 0,** Electronics (comms) 0, Gun Combat (any) 0, Gunner (turret) 0, Medic 0, Pilot (any) 0, **Telepathy 0**
@@ -106,7 +101,7 @@ _Goals for the mission_ :
 
 ### Chenchapriepr Pilot/Steward
 
-696CAA-B, Age 28, 2.5 terms, Merchant: Corporate (2 complete terms) Rank 2: 4th Officer _Characteristics_ : STR 6 (+0), DEX 9 (+1), END 6 (+0), INT 12 (+2), EDU 10 (+1), SOC 10 (+1), PSI 11 (+1)
+696CAA-B, Age 28, 2.5 terms, Merchant: Corporate (2 complete terms) Rank 2: 4th Officer _Characteristics_ : STR6 (+0), DEX9 (+1), END6 (+0), INT 12 (+2), EDU 10 (+1), SOC 10 (+1), PSI 11 (+1)
 _Homeworld_ : Divriafliadr E250836-4 De Po (Tienspevnekr 0915)
 
 _Skills_ : Pilot (spacecraft) 2, Electronics (comms) 1, Gun Combat (any) 1, Language (Galanglic) 1, Mechanic 1, Steward 1,
@@ -127,7 +122,7 @@ _Goals for the mission_ :
 
 ### Kiazbratl (“Aspirant”) Astrogator
 
-9549DB-B, Age 34, 4 terms, Merchants: Broker (4 terms) Rank 4 _Characteristics_ : STR 9 (+1), DEX 5 (-1), END 4 (-1), INT 9 (+1), EDU 13 (+2), SOC 11 (+1), PSI 11 (+1)
+9549DB-B, Age 34, 4 terms, Merchants: Broker (4 terms) Rank 4 _Characteristics_ : STR9 (+1), DEX5 (-1), END4 (-1), INT9 (+1), EDU 13 (+2), SOC 11 (+1), PSI 11 (+1)
 _Homeworld_ : Jrbrianch B79A454-D Wa Ni (Zhodane 0610)
 
 _Skills_ : Advocate 2, Astrogation 2, Language (Galanglic) 2 , Broker 1, Gun Combat (any) 1, Investigate 1, Persuade 1,
@@ -187,7 +182,7 @@ If the PCs choose to refuel at one of the gas giants, and there are five to choo
 
 **Karl Sellevoid**
 959759 , male, Age 26, Confederation Patrol: Patrol, Rank 4: Seniorsergent (old style: Oberleutnant)
-_Characteristics_ : STR 9 (+1), DEX 5 (-1), END 9 (+1), INT 7 (+0), EDU 5 (-1), SOC 9 (+1)
+_Characteristics_ : STR9 (+1), DEX5 (-1), END9 (+1), INT7 (+0), EDU5 (-1), SOC9 (+1)
 _Homeworld_ : Sacnoth A775956-C Hi In (Spinward Marches 1325)
 _Skills_ : Diplomacy 2, Astrogation 1, Engineer (electronics) 1, Gun Combat (any) 1, Persuade 1, Pilot (spacecraft) 1, Admin 0, Electronics (computers) 0 , Engineer (life support) 0, Mechanic 0, Pilot (small craft) 0, Streetwise 0, Vacc Suit 0 _Equipment_ : Weapon, Rival
 [Appendix 4 gives an older version of Karl after he's mustered out for potential use as a PC.]
@@ -197,8 +192,7 @@ If the PCs bypass the gas giants in favor of refuelling on the ground, this enco
 **Refuelling on the ground**
 Dawnworld is a beautiful garden world but there is no population. The Zhodani might be curious why. Library Data entries should give them the background which has been known for the last five centuries or more. The Darrians, the Sacnoth Dominate, Imperial utopians and Vargr have all tried to set up colonies in the last two thousand years, but all have encountered the same problem: any males born on the planet are sterile. None of the colonies have lasted more than fifty years. The PCs will be unlikely to stumble across the solution to this in the short amount of time that they're there, but it would be safe enough to visit the surface, stretch their legs and refuel.
 
-The PCs can essentially put down wherever they wish. There's an obvious lake which could easily be used to refuel. The task will take at least three people. Large grazing herds can be seen on the lush grasslands beside the water and if they're watched for long enough, an avian predator might be seen attacking one of the young herd beasts. They'll generally stay away from the PCs, however. For refuelling, a Routine
-( 6 +) Engineer skill check should be made with any failure causing a delay in the operation which will take 1D hours + 3. If it takes longer than five hours, one of the avians will become bold enough to attack a PC.
+The PCs can essentially put down wherever they wish. There's an obvious lake which could easily be used to refuel. The task will take at least three people. Large grazing herds can be seen on the lush grasslands beside the water and if they're watched for long enough, an avian predator might be seen attacking one of the young herd beasts. They'll generally stay away from the PCs, however. For refuelling, a Routine ( 6 +) Engineer skill check should be made with any failure causing a delay in the operation which will take 1D hours + 3. If it takes longer than five hours, one of the avians will become bold enough to attack a PC.
 
 **Dawnflyer**
 Dawnflyers are sharp-eyed raptors which will opportunistically try to pick off prey that looks weak. The listed speed is for horizontal flight, they can dive at greater speeds: 250m in a combat round.
@@ -214,8 +208,7 @@ There is 50 tons of cargo space available although the passenger staterooms are 
 
 **ANIMAL HITS SPEED**
 
-Dawnflyer ([^6] 80) m SKILLS Recon 3, Athletics (dexterity) 2, Melee
-(natural) 2, Survival 1 ATTACKS Claws (1D), Bite (2D)
+Dawnflyer ([^6] 80) m SKILLS Recon 3, Athletics (dexterity) 2, Melee (natural) 2, Survival 1 ATTACKS Claws (1D), Bite (2D)
 TRAITS Camouflaged, Flyer (fast), Heightened Senses, Small (-2)
 BEHAVIOUR Omnivore, Hunter
 **Bubblewood tree**
@@ -283,13 +276,11 @@ Aside from Essy, the Referee should decide on the world's attitude to psions gen
 although there may be difficulties finding passengers willing to travel with Zhodani. Those passengers that there are, with little other choice, may be more than a little concerned about travelling with those they assume to be psions. Of course, there may be the curious as well who want to see 'tricks'. See page 33 for some potential passengers. There will be one person in particular looking for passage to the next world, March Warden Jasie Feffrim.
 
 **Jasie Feffrim**
-78897A, Age 35, 4 terms, Agent: Intelligence: Rank 3 (But as Warden, courtesy rank of Navy: Line Commander)
-_Characteristics:_ STR 7 (+0), DEX 8 (+0), END 8 (+0), INT A (+1), EDU 7 (+0), SOC 10
-(+1)
+78897A, Age 35, 4 terms, Agent: Intelligence: Rank3 (But as Warden, courtesy rank of Navy: Line Commander)
+_Characteristics:_ STR7 (+0), DEX8 (+0), END8 (+0), INTA (+1), EDU7 (+0), SOC 10 (+1)
 _Homeworld:_ Ramiva B3107A7- 8 NI (Spinward Marches 3233)
 
-ANIMAL HITS SPEED Mlok 6 6 m SKILLS Athletics (co-ordination) 1, Melee
-(psionic) 1, Recon 1, Survival 0 ATTACKS Bite (1D), Psionic [see Act 3 Scene 2]
+ANIMAL HITS SPEED Mlok 6 6 m SKILLS Athletics (co-ordination) 1, Melee (psionic) 1, Recon 1, Survival 0 ATTACKS Bite (1D), Psionic [see Act 3 Scene 2]
 TRAITS Amphibious, Armor (+2), Fast Metabolism (+1), Small (-3)
 BEHAVIOUR Carnivore, Pouncer
 
@@ -298,22 +289,19 @@ _Skills:_ Gun Combat (energy) 3, Investigate 3, Electronics (comms) 2, Recon 2, 
 _Detecting a March Warden's ID is false_ : Formidable (14+)
 INT or EDU, 1D minutes. (Deception skill can be used as an additional DM on this task.)
 Someone with Telepathy may be able to sense her cover ID is a fraud if they are actively looking for such:
-_Detecting a March Warden's cover story is false_ : Difficult
-(10+) Telepathy, PSI, 1D x 10 seconds. Reach: Short. Cost: 2.
+_Detecting a March Warden's cover story is false_ : Difficult (10+) Telepathy, PSI, 1D x 10 seconds. Reach: Short. Cost: 2.
 
 Jasie will present to the Zhodani crew as Zipramesk and pay for an ordinary mid passage. She is not checking up on the crew for any specific reason but she will take an interest in Zhodani this far out of the Consulate. If she's likely to be bumped by a high passage paying passenger, her interest in the Zhodani will be sufficient that she will bump up her own payment to high passage. If the PCs are incautious about their interest in, for example, military shipping movements in front of the passengers, this will cause Jasie to step up her interest in the crew. If, because of their activities or any proselytization of human controlled worlds, she sees them as a more serious threat to the Imperium her reports on them will become that much more detailed. But she would be unlikely to act directly and should generally just be treated as another paying passenger. If the PCs do uncover her real identity she will be completely straight with them about who she is and her curiosity to see what they were about. She may be treating it as a test to see how able the Zhodani are because she has a request in mind for them (see the closing paragraph of this adventure). Her identity as a March Warden is not a deep secret, just not something she bandies about casually. Alternatively, the Referee could have her using some form of high tech psionic shield – perhaps an intricately woven headscarf.
 
 Data One activity the PCs will wish to carry on this world, and subsequent worlds that they visit, will be the preparation of a data package containing their own movements and any observations they've made regarding shipping, trading conditions, world data which differs from standard Library Data notes, and any other information they feel might be of interest. They'll then need to get this data package to – in order of preference
 
-- any Zhodani ship heading back to the Consulate, any Zhodani embassy that might be present on the world
-(for onward shipment to the Consulate when possible), or the highest social standing Zhodani they can find locally (again, for onward shipment as and when possible).
+- any Zhodani ship heading back to the Consulate, any Zhodani embassy that might be present on the world (for onward shipment to the Consulate when possible), or the highest social standing Zhodani they can find locally (again, for onward shipment as and when possible).
 
-Lynching Before departure local news from one of the provinces of the world, or perhaps another world, moon or space station in the system, will carry a story about the trial of someone accused of attacking a young woman psionically. The trial is coming to an end and the mood in the locale will be ugly with crowds gathering and baying for blood. Depending on the law level of the world, the Referee should determine what the media reports are estimating the likely sentence is going to be. There seems little doubt of the defendant's guilt. Law Level 9 and above (i.e. Milagro) will have execution as the maximum penalty, Law Level 4 - 8 (Elixabeth or Forine) will have a psionic lobotomy as the penalty, usually presented positively as medical treatment to help the victim “get better”, and lower law levels
-(Datrillian or Talchek) will have lengthy periods of incarceration. If the Referee wishes to save this incident until later and another world, these numbers will give an indication of sentences that might be applied elsewhere. Whatever the judicial sentence, it may be that the mob takes matters into their own hands. If there is any Zhodani presence on the world, the Referee will need to decide on their involvement or lack of involvement in the case. It might be someone with psionic powers administering any court ordered lobotomy or it may be a much cruder medical procedure.
+Lynching Before departure local news from one of the provinces of the world, or perhaps another world, moon or space station in the system, will carry a story about the trial of someone accused of attacking a young woman psionically. The trial is coming to an end and the mood in the locale will be ugly with crowds gathering and baying for blood. Depending on the law level of the world, the Referee should determine what the media reports are estimating the likely sentence is going to be. There seems little doubt of the defendant's guilt. Law Level 9 and above (i.e. Milagro) will have execution as the maximum penalty, Law Level 4 -8 (Elixabeth or Forine) will have a psionic lobotomy as the penalty, usually presented positively as medical treatment to help the victim “get better”, and lower law levels (Datrillian or Talchek) will have lengthy periods of incarceration. If the Referee wishes to save this incident until later and another world, these numbers will give an indication of sentences that might be applied elsewhere. Whatever the judicial sentence, it may be that the mob takes matters into their own hands. If there is any Zhodani presence on the world, the Referee will need to decide on their involvement or lack of involvement in the case. It might be someone with psionic powers administering any court ordered lobotomy or it may be a much cruder medical procedure.
 
 It is entirely up to the PCs whether they treat this as simply an event that is going on around them and which gives them an idea of the atmosphere and potential dangers of the District, or whether they wish to get involved either diplomatically or more directly. Discussions by the PCs might revolve around the ethics of leaving him, attempting to persuade the authorities to release him into their care, or rescuing him and the difficulty of doing so. If more direct action is taken, the Referee may wish to prepare details of and plans for a local gaol and/or courthouse from which the defendant can be extricated. Depending on the tech level of the world this may be easier or more difficult. It may be a large penitentiary or a small lockup depending on the interests of the players. However, low tech level worlds shouldn't be treated as a pushover and may either have some ingenious low tech holding methods, have imported higher technology, or be able to employ large numbers of guards. Jump 2 from Dawnworld everywhere except Nirton is mid-tech. The defendant's name is Stinford Glass.
 
-**Stinford Glass** C69443-9, Age 22, Unemployed _Characteristics_ : STR 12 (+2), DEX 6 (+0), END 9 (+1), INT 4 (-1), EDU 4 (-1), SOC 3 (-1), PSI 9 (+1)
+**Stinford Glass** C69443-9, Age 22, Unemployed _Characteristics_ : STR 12 (+2), DEX6 (+0), END9 (+1), INT4 (-1), EDU4 (-1), SOC3 (-1), PSI9 (+1)
 _Skills_ : Carouse 0, Profession (construction) 0 _Background_ : Glass is an uneducated, unemployed victim of his upbringing in the slums by parents who struggled with education as well. He is unaware of any psionic ability but did attack his girlfriend although the court case, which has left him somewhat bewildered, centered around whether this was deliberately premeditated or the result of an attack of rage which he couldn't control. The investigation did not uncover his latent psionic ability which remains unknown. If his release is negotiated, or he's freed by the Zhodani traders, and trained to control his anger and psionic ability, he could yet be employed profitably – although probably not in his hometown.
 
 ## Scene 2: Jumpspace
@@ -356,9 +344,7 @@ Once again after a day or two in Jumpspace the mlok will appear to become lethar
 ## Scene 4 : Zhodani Out! (optional)
 
 Of course, for all the positivity of the visit to Noctocol, it is extremely likely given general attitudes to psionics –
-even outside the Imperium – that the crew of the _Zarvae'_ will be received with much less welcome on some worlds or in some cities. The Referee should pick a suitable world that the PCs are visiting, the more xenophobic the planet's population, the better. From their very first contact with any system control officers to their dealings with cargo handlers portside, people they meet will be either very reticent or openly fearful. They may even see some people who knew beforehand they would have to deal with the crew, wearing psionic shields. _Finding a broker sympathetic to Zhodani_ : Very Difficult
-(12+) Streetwise OR Broker, 1D days. For worlds with a population of >8 this task can be reduced to Difficult
-(10+) Streetwise OR Broker, 1 D x 10 hours. Without a broker who is willing to represent them, selling cargo will be very difficult as buyers won't even trust the goods they're purchasing never mind the Zhodani themselves, and buying cargo will be difficult.
+even outside the Imperium – that the crew of the _Zarvae'_ will be received with much less welcome on some worlds or in some cities. The Referee should pick a suitable world that the PCs are visiting, the more xenophobic the planet's population, the better. From their very first contact with any system control officers to their dealings with cargo handlers portside, people they meet will be either very reticent or openly fearful. They may even see some people who knew beforehand they would have to deal with the crew, wearing psionic shields. _Finding a broker sympathetic to Zhodani_ : Very Difficult (12+) Streetwise OR Broker, 1D days. For worlds with a population of >8 this task can be reduced to Difficult (10+) Streetwise OR Broker, 1 D x 10 hours. Without a broker who is willing to represent them, selling cargo will be very difficult as buyers won't even trust the goods they're purchasing never mind the Zhodani themselves, and buying cargo will be difficult.
 
 The PCs will minimally be getting the cold shoulder, brush offs and unfavorable rates – even in stores with marked prices, but may also be on the receiving end of racist remarks and insults. This might be a good opportunity for the encounter with the crew of the Ganymede Express (see Act Three Scene 1 ).
 
@@ -370,9 +356,8 @@ This scene can run in parallel with the previous one or separately. As a complet
 travellers seeking out a psionic institute, on any appropriately high population world that the _Zarvae'_ visits (Milagro for example), the crew might be sought out by a representative from the local Institute. He will be cagey at first and either meet them on neutral ground or come to the ship to suss them out. If this scene is run alongside the previous scene, Wilfren will be particularly paranoid until he's sure of the PCs.
 
 **Bex Wilfren**
-664777 - E, Age 54, 8 terms, Psions: Adept Rank 6: Master _Characteristics_ : STR 6 (+0), DEX 6 (+0), END 4 (-1), INT 7 (+0), EDU 7 (+0), SOC 7 (+0), PSI 14 (+2)
-_Skills_ : Persuade 2, **Telekinesis 2** , **Telepathy 2** , **Teleportation 2** , **Awareness 1** , **Clairvoyance 1** , Medic 1, Science
-(psionicology) 1, Science (psychology) 1, Survival 1 _Equipment_ : TAS, Cr32,000, Gun, Ally, Contact x 4 _Background_ : Bex was picked out by other psionics on his homeworld in his youth and given training and support eventually become a Master and the current leader of the local Psionic Institute. He's short (158cm, 5' 2”), quiet and self-effacing but has a confidence about him that commands respect. He's led the Psionic Institute known as The Workshop consisting of around twenty people, none of them anywhere near his talent but all deeply admiring him, for the last ten years.
+664777 - E, Age 54, 8 terms, Psions: Adept Rank 6: Master _Characteristics_ : STR6 (+0), DEX6 (+0), END4 (-1), INT7 (+0), EDU7 (+0), SOC7 (+0), PSI 14 (+2)
+_Skills_ : Persuade 2, **Telekinesis 2** , **Telepathy 2** , **Teleportation 2** , **Awareness 1** , **Clairvoyance 1** , Medic 1, Science (psionicology) 1, Science (psychology) 1, Survival 1 _Equipment_ : TAS, Cr32,000, Gun, Ally, Contact x 4 _Background_ : Bex was picked out by other psionics on his homeworld in his youth and given training and support eventually become a Master and the current leader of the local Psionic Institute. He's short (158cm, 5' 2”), quiet and self-effacing but has a confidence about him that commands respect. He's led the Psionic Institute known as The Workshop consisting of around twenty people, none of them anywhere near his talent but all deeply admiring him, for the last ten years.
 
 [Referee's note: Unless the Referee wishes to have a complex backstory about a visit to the Imperium giving Wilfren membership of TAS, treat that award as an open pass to clubs and societies of his homeworld as something of a local guru not in psionics but as a life coach.]
 
@@ -400,27 +385,24 @@ The Ganymede Express is crewed by an unlucky bunch of ne'er-do-wells. Everything
 
 Their ship is poorly maintained, something of a shambles inside and only manages to pick up the most desperate or impoverished of passengers, if they can find any at all.
 
-Mars Yerick, Pilot 965443, Age 27, 2 terms, Army: Infantry (1 term), Scouts: Surveyor (1 term), Drifter: Wanderer (incomplete term); Rank 0: Private Characteristics : STR 9 (+1), DEX 6 (+0), END 5 (-1), INT 4 (-1), EDU 4 (- 1 ), SOC 3 (-1)
-Skills : Athletics (strength) 1, Pilot (spacecraft) 1 , Streetwise 1, Astrogation 0, Athletics (endurance) 0, Drive
-(track) 0, Gun Combat (slug) 0, Heavy Weapons (artillery) 0, Melee (bludgeon) 0, Recon 0, Science
-(history) 0, Survival 0, Vacc Suit 0 Equipment : Weapon Background : Perhaps the unluckiest man this side of Reference, Mars joined the army and was injured in a brutal ground war – he left as soon as he could and applied for the scouts and failed to get in. In the usual way of bureaucracy he was then immediately drafted into the scouts but psychologically damaged in his first term and mustered out. For a couple more years he drifted but has suffered some unknown event that has left a gap in his memory. He has managed to get work as a pilot on the Ganymede Express where he is just able to hold down the job on fairly straightforward runs.
+Mars Yerick, Pilot 965443, Age 27, 2 terms, Army: Infantry (1 term), Scouts: Surveyor (1 term), Drifter: Wanderer (incomplete term); Rank 0: Private Characteristics : STR9 (+1), DEX6 (+0), END5 (-1), INT4 (-1), EDU4 (- 1 ), SOC3 (-1)
+Skills : Athletics (strength) 1, Pilot (spacecraft) 1 , Streetwise 1, Astrogation 0, Athletics (endurance) 0, Drive (track) 0, Gun Combat (slug) 0, Heavy Weapons (artillery) 0, Melee (bludgeon) 0, Recon 0, Science (history) 0, Survival 0, Vacc Suit 0 Equipment : Weapon Background : Perhaps the unluckiest man this side of Reference, Mars joined the army and was injured in a brutal ground war – he left as soon as he could and applied for the scouts and failed to get in. In the usual way of bureaucracy he was then immediately drafted into the scouts but psychologically damaged in his first term and mustered out. For a couple more years he drifted but has suffered some unknown event that has left a gap in his memory. He has managed to get work as a pilot on the Ganymede Express where he is just able to hold down the job on fairly straightforward runs.
 
 **Swumpun Ko, Astrogator & Gunner**
-577746, Age 23, 1 complete term, Navy: Flight Rank 1: Able Spacehand _Characteristics_ : STR 5 (-1), DEX 7 (+0), END 7 (+0), INT 7 (+0), EDU 4 (-1), SOC 6 (+0)
+577746, Age 23, 1 complete term, Navy: Flight Rank 1: Able Spacehand _Characteristics_ : STR5 (-1), DEX7 (+0), END7 (+0), INT7 (+0), EDU4 (-1), SOC6 (+0)
 _Skills_ : Astrogation 1, Gunner (turret) 1, Mechanic 1, Athletics (dexterity) 0, Carouse 0, Electronics (comms) 0 , Gun Combat (energy) 0 , Gunner (ortillery) 0, Pilot (small craft) 0 , Vacc Suit 0 _Equipment_ : Cr20,000 _Background_ : Ko had an undistinguished career in the Navy culminating in his involvement in a battle in which he was blamed for a disastrous defeat, court-martialled & discharged.
 
 **Pusa Abdernwick, Engineer**
-668686 , Age 29, 2 complete terms, Navy: Engineer/Gunner Rank 2: Petty Officer 3rd class _Characteristics_ : STR 6 (+0), DEX 6 (+0), END 8 (+0), INT 6 (+0), EDU 8 (+0), SOC 6 (+0)
+668686 , Age 29, 2 complete terms, Navy: Engineer/Gunner Rank 2: Petty Officer 3rd class _Characteristics_ : STR6 (+0), DEX6 (+0), END8 (+0), INT6 (+0), EDU8 (+0), SOC6 (+0)
 _Skills:_ Engineer (J-drive) 2, Mechanic 2, Steward 1, Vacc Suit 1, Athletics (strength) 0, Gun Combat (slug) 0 , Gunner (turret) 0, Pilot (spacecraft) 0, Science (cosmology) 0, Science (genetics) 0 _Equipment_ : 6 ship shares, Ally _Background_ : Pusa was working well as an engineer in the Navy but in her third term was severely injured, forced to leave the service, and she now trips over and bangs into things quite regularly after a loss of co-ordination.
 
 **Porl Gabchicos, Medic**
-876AB7-2, Age 34, 3 terms, University, Scholar: Physician (2 terms) Rank 1 _Characteristics_ : STR 8 (+0), DEX 7 (+0), END 6 (+0), INT 10 (+1), EDU 11 (+1), SOC 7 (+0), PSI 2 (-2)
-_Skills_ : Medic 3, Language (Zdetl) 1, Science (sophontology) 1, Admin 0, Diplomat 0, Drive (wheel) 0, Drive
-(hovercraft) 0, Electronics (comms) 0, Electronics (sensors) 0, Investigate 0, Science (astronomy) 0, Science (biology) 0, Science (xenology) 0, **Telekinesis 0**
+876AB7-2, Age 34, 3 terms, University, Scholar: Physician (2 terms) Rank 1 _Characteristics_ : STR8 (+0), DEX7 (+0), END6 (+0), INT 10 (+1), EDU 11 (+1), SOC7 (+0), PSI2 (-2)
+_Skills_ : Medic 3, Language (Zdetl) 1, Science (sophontology) 1, Admin 0, Diplomat 0, Drive (wheel) 0, Drive (hovercraft) 0, Electronics (comms) 0, Electronics (sensors) 0, Investigate 0, Science (astronomy) 0, Science (biology) 0, Science (xenology) 0, **Telekinesis 0**
 _Equipment_ : Cr30,000, 2 ship shares, Scientific Equipment, Enemy x2 _Background_ : Porl was rusticated from university when his involvement in an illegal psionic group was discovered. He was tested for psionic ability but was found to be of very limited skills and failed to take it further. Following this failure to graduate, Porl stepped into a shady life using his medical training for local crime gangs who didn't want questions asked. He was betrayed by a gang leader he was dating and much of the good work he had been doing amongst lowlifes, down and outs and the underclasses was sabotaged. Porl got work on a no questions asked Far Trader – the _Ganymede Express_.
 
 **Lauren Elixabeth (Ellie) Broadchurch, Steward & Gunner**
-AA3694, Age 33, 4 terms, Citizen: Worker Rank 1 _Characteristics_ : STR 10 (+1), DEX 10 (+1), END 3 (-1), INT 6 (+0), EDU 9 (+1), SOC 4 (-1)
+AA3694, Age 33, 4 terms, Citizen: Worker Rank 1 _Characteristics_ : STR 10 (+1), DEX 10 (+1), END3 (-1), INT6 (+0), EDU9 (+1), SOC4 (-1)
 _Skills_ : Steward 2, Admin 1, Deception 1, Drive (wheel) 1, Engineer (M-drive) 1, Gunner (turret) 1 , Persuade 1, Art (write) 0, Broker 0, Drive (walker) 0, Flyer (grav) 0, Melee (bludgeon) 0, Profession (hydroponics) 0, Seafarer (sail) 0, Streetwise 0, Vacc Suit 0 _Equipment_ : Cr10,000, Blade _Background_ : Ellie has had a varied career in any number of jobs and picked up a variety of skills. Three terms as a citizen and one term as a free trader have given her abilities as a Steward and as a ship's gunner.
 
 Sometime after this event, when the _Zarvae'_ is vulnerable, perhaps near a Jump point departure or approaching a small moon delivering a cargo, the _Ganymede Express_ will attack them. While they won't be able to converse with the crew, any attempt at communications will allow them to pick up the attacking ship's crew racially abusive language and clear threats of
@@ -428,8 +410,7 @@ Sometime after this event, when the _Zarvae'_ is vulnerable, perhaps near a Jump
 
 ## Scene 2: Delivery of the mlok
 
-Either on Dallia, or whatever world was agreed was the destination of the mlok, (see Act Two: Scene 1), the PCs will be able to deliver the mlok, or as many of the original shipment that have survived the journey
-(see Act Two: Scene 2 and Act Two: Scene 3). The Referee should keep track of how many haven't survived according to the number of intervening Jumps that have been made. However, if they've been more than six weeks in transit, they will have 1d6 young to perhaps make some recompense. What the PCs tell the university or institute where they deliver the creatures is entirely up to them.
+Either on Dallia, or whatever world was agreed was the destination of the mlok, (see Act Two: Scene 1), the PCs will be able to deliver the mlok, or as many of the original shipment that have survived the journey (see Act Two: Scene 2 and Act Two: Scene 3). The Referee should keep track of how many haven't survived according to the number of intervening Jumps that have been made. However, if they've been more than six weeks in transit, they will have 1d6 young to perhaps make some recompense. What the PCs tell the university or institute where they deliver the creatures is entirely up to them.
 
 If the PCs have made the connection regarding the effects of Jumpspace and pass this on, they will greatly interest the researchers. If they can provide some evidence, they will be rewarded with both an additional 10% on top of their original fee and the promise of being named, should they want to be, on any forthcoming paper on the subject. The researchers will be genuinely interested in this and excited about a potential new discovery, hitherto unknown. If the PCs have been conducting any kind of experiments to see if the mlok do catch their prey using psionics – the Referee should encourage creative use of their abilities in coming up with hypotheses to test – then the researchers will be even more thrilled. “Look, we can't pay you any more than we have, but we could probably get you visiting lectureships which come with a title and a small stipend. The duties wouldn't be arduous, recording some appropriate lectures and a couple of times a year a visit in person.”
 Possibilities for the mlok method of attack might include Telepathy (assault), Clairvoyance (tactical awareness) to better predict where prey will be, or Telekinetic Punch. But players may come up with other theories such as a 'thrown' Awareness (suspended animation)
@@ -442,8 +423,7 @@ If the PCs opted not to carry the mlok as cargo, this scene could be replaced by
 Finally, to bring this adventure to a climax, the PCs are faced with a dilemma. Whilst heading out to refuel at a gas giant, or perhaps just after arriving in system, they receive a Signal GK message. Alternatively, they are instructed by system control that they are the nearest ship or only ship in the vicinity which can respond. The signal is coming from a local gas giant often used in the system for wilderness refuelling. Such refuelling should be safe enough in general but accidents are often a sign of poorly trained crews or crews attempting to cut corners to save money – either in equipment or procedures.
 
 Getting within sensor range, which is made Difficult rather than Average due to the interference from the gas giant's atmosphere, reveals the ship sending out the mayday to be a Far Trader. Getting within identification range or comms range it will become obvious that it's the Ganymede Express. It is genuinely in trouble –
-although that may not be immediately apparent to the PCs – and the Pilot will report a drive coil failure such that it is unable to escape the gas giant's gravity well. He or she reports that the Engineer expects the hull to fail within 2d6 hours. Assume that there is also a Navigator and Medic/Steward making up the crew. The Referee will need to decide how many passengers (to a maximum of 12) in the upper deck staterooms are present and whether there are any low berth passengers
-(to a maximum of 6 – although the Referee might wish to decide where the sixth berth is located on the ship as it does not appear on the standard deck plans).
+although that may not be immediately apparent to the PCs – and the Pilot will report a drive coil failure such that it is unable to escape the gas giant's gravity well. He or she reports that the Engineer expects the hull to fail within 2d6 hours. Assume that there is also a Navigator and Medic/Steward making up the crew. The Referee will need to decide how many passengers (to a maximum of 12) in the upper deck staterooms are present and whether there are any low berth passengers (to a maximum of 6 – although the Referee might wish to decide where the sixth berth is located on the ship as it does not appear on the standard deck plans).
 
 Does Tavrziansh, require that the PCs help these, well, Imperials might call them racist scum, but would Zhodani go so far? Does dutiful behaviour allow such dark thoughts or actions that might be considered revenge? Would anyone blame them if they failed to effect a rescue? Hopefully the players will be steeped enough in their characters' culture to have plenty of arguments on both sides.
 
@@ -453,8 +433,7 @@ Engineer (power), EDU, 1D x 10 minutes. _To match course with the stricken ship 
 
 The Referee should not immediately say how long this task will take but report the passing of time, perhaps with encouragement that the Pilot is “getting closer”, but allow the players to abort the rescue attempt. This can of course be fudged to maximise dramatic tension bearing in mind there are still some tasks to perform. The Referee may wish to consider whether any of the psionic abilities of the Zhodani can contribute to these tasks to either make them easier or take less time –
 perhaps Telepathy or Clairvoyance to locate people to expedite movements for example, or Telekinesis to move an obstruction blocking access to, say, the Engineer. The following two tasks can be done simultaneously (by different people):
-To effect a repair of the coil : Average (8+) Engineer (M-
-drive), EDU, 1D x 10 minutes. To effect a repair of the drive coil's computer system :
+To effect a repair of the coil : Average (8+) Engineer (M-drive), EDU, 1D x 10 minutes. To effect a repair of the drive coil's computer system :
 Average (8+) Electronics (computers), INT or EDU, 1D x 10 minutes.
 
 Three of the crew of the Ganymede Express have all been knocked unconscious by a particularly nasty jolt to the ship dropping sharply in the turbulent atmosphere. The Engineer, however, is conscious but injured and bleeding. To staunch the wound(s) of the Ganymede Express '
@@ -480,8 +459,7 @@ There are other worlds to visit in District 268 and plenty of chances to report 
 # Library Data
 
 **Dallia**
-District 268 (Spinward Marches 1435) B885883- 9 Ga Ri Dallia is a garden world of some 600,000,000 inhabitants which is a client state of the Imperium and maintains a thriving colony on Tarkine (q.v.). It has a rather dense atmosphere which most travellers report taking 1d6 days to adjust to with endurance reduced by 2 and dexterity reduced by 1 during that period. The government is a civil service bureaucracy but there is a small noble remnant from days gone by and titles are awarded currently in recognition of services to the planet. All nobles are expected to serve a year in a blue-
-collar job on appointment or on reaching the age of 21.
+District 268 (Spinward Marches 1435) B885883- 9 Ga Ri Dallia is a garden world of some 600,000,000 inhabitants which is a client state of the Imperium and maintains a thriving colony on Tarkine (q.v.). It has a rather dense atmosphere which most travellers report taking 1d6 days to adjust to with endurance reduced by 2 and dexterity reduced by 1 during that period. The government is a civil service bureaucracy but there is a small noble remnant from days gone by and titles are awarded currently in recognition of services to the planet. All nobles are expected to serve a year in a blue-collar job on appointment or on reaching the age of 21.
 
 **Dawnworld**
 District 268 (Spinward Marches 1531) E885000-0 Ba Ga A garden world on the coreward edge of District 268, Dawnworld is uninhabited. Various attempts at settlement have been made by the Darrians, Sword Worlds, Imperium and Vargr. All these colonies have failed however due to some unknown, presumably environmental, factor causing sterility in all males born on the planet. The Imperium and the Sword Worlds both claim the planet.
@@ -490,8 +468,7 @@ District 268 (Spinward Marches 1531) E885000-0 Ba Ga A garden world on the corew
 District 268 (Spinward Marches 1532) B426467-8 Ni Controlled from Dallia, Elixabeth is an unimportant world that's a client state of the Imperium and has an Imperial Naval Base established to ensure local political agreements are adhered to. With a chilly and thin, tainted atmosphere, the population of 2 0,000 lives mostly in the domed city of Jaffne (q.v). Culturally the inhabitants maintain a distinctiveness from the worlds around them to emphasise their independence. There is some resentment towards Imperial 'interference'
 as it's seen.
 
-Fifth Night An evening set aside on most ships in the Third Imperium, and beyond, whether large or small, for some form of entertainment. Most traditionally it is a 'jump-
-in' where motivated individuals or groups can demonstrate a talent and an MC or Master of Ceremonies will encourage participation, decide on a running order and introduce the acts. The Fifth Night tradition arose from it not being missed due to an early Jump exit but allowing some time for preparation. Sometimes, on passenger liners for example, it may be a more formal party or performance. Sometimes it is just an excuse for a ship with crew only to have a late night drinks or game session.
+Fifth Night An evening set aside on most ships in the Third Imperium, and beyond, whether large or small, for some form of entertainment. Most traditionally it is a 'jump-in' where motivated individuals or groups can demonstrate a talent and an MC or Master of Ceremonies will encourage participation, decide on a running order and introduce the acts. The Fifth Night tradition arose from it not being missed due to an early Jump exit but allowing some time for preparation. Sometimes, on passenger liners for example, it may be a more formal party or performance. Sometimes it is just an excuse for a ship with crew only to have a late night drinks or game session.
 
 Forine District 268 (Spinward Marches 1533) D3129B8-A Hi Ic In Na A small and bitterly cold world which contains its population of six billion in tens of thousands of huge environmental domes. These dot the surface of the planet so evenly and so brightly that from space the nightside appears to be a single structure. Few travellers visiting the system miss a chance to observe this in all its beauty.
 
@@ -550,21 +527,20 @@ Badder Mathetic , 3A3827, age 5, male, son of Azhar, very shy.
 ## Potential Additional PCs or NPCs
 
 **Fashpievostebr**
-7856AC-C male, Age 37, 3 terms, Army: Cavalry (2 terms), Guards: Commandos (1 term) Rank 3: Officer of 100 _Characteristics_ : STR 7 (+0), DEX 8 (+0), END 5 (-1), INT 6 (+0), EDU 10 (+1), SOC 12 (+2), PSI 12 (+2)
+7856AC-C male, Age 37, 3 terms, Army: Cavalry (2 terms), Guards: Commandos (1 term) Rank 3: Officer of 100 _Characteristics_ : STR7 (+0), DEX8 (+0), END5 (-1), INT6 (+0), EDU 10 (+1), SOC 12 (+2), PSI 12 (+2)
 _Homeworld_ : Miprsakint C1009CB-D Hi Ht In Na Va (Ziafrplians 2102)
-_Skills_ : Leadership 2, Mechanic 2, **Teleportation 2 , Awareness 1** , Gun Combat (any) 1, Investigate 1, Language
-(Galanglic) 1, Persuade 1, Tactics (military) 1, **Talent 1,** Vacc Suit 1, **Clairvoyance 0** , Electronics (comms) 0, Electronics (computers) 0, Gun Combat (any) 0, **Healing 0** , Heavy Weapons (any) 0, Medic 0, Melee (any) 0, Profession (any) 0, **Telekinesis 0** , **Telepathy 0**
+_Skills_ : Leadership 2, Mechanic 2, **Teleportation 2 , Awareness 1** , Gun Combat (any) 1, Investigate 1, Language (Galanglic) 1, Persuade 1, Tactics (military) 1, **Talent 1,** Vacc Suit 1, **Clairvoyance 0** , Electronics (comms) 0, Electronics (computers) 0, Gun Combat (any) 0, **Healing 0** , Heavy Weapons (any) 0, Medic 0, Melee (any) 0, Profession (any) 0, **Telekinesis 0** , **Telepathy 0**
 _Equipment_ : Cr10,000, Armor, Weapon _Background_ : Fashpievostebr is former military and saw a lot of action on the ground before transferring to the Guards as a commando. Thanks to his family connections he is now serving in a Zhodani Consulate embassy but a long way from anywhere important out in District 268.
 
 **Enzhiepr**
-A2B88A-A female, Age 30, 3 terms, Merchant: Free Trader Rank 3: Third Officer _Characteristics_ : STR 10 (+1), DEX 2 (-2), END 11 (+1), INT 8 (+0), EDU 8 (+0), SOC 10 (+1), PSI 10 (+1)
+A2B88A-A female, Age 30, 3 terms, Merchant: Free Trader Rank 3: Third Officer _Characteristics_ : STR 10 (+1), DEX2 (-2), END 11 (+1), INT8 (+0), EDU8 (+0), SOC 10 (+1), PSI 10 (+1)
 _Homeworld_ : Ditlfinch C571464-9 Ni (Ziafrplians 1306)
 _Skills_ : Pilot (any) 2, **Talent 2** , Admin 1, Animals (any) 1, Broker 1, Electronics (comms) 1, Engineer (any) 1, Gun Combat (any) 1, Mechanic 1, Carouse 0, Drive (any) 0, Engineer (any) 0, Language (any) 0, Persuade 0, Steward 0, Vacc Suit 0 _Equipment_ : Nenjchinzhe'driante, Cr40,000, Weapon _Background_ : A fairly typical merchant from the Consulate but now seeking fortune in District 268 believing she can spread knowledge of psionics and their acceptance by good character, good actions and proselytization.
 
 ## Potential Brokers
 
 **Weekea-da (Bwap)**
-Broker 2 (2% fee)
+Broker2 (2% fee)
 
 - “Bakaka” – Welcome! (often slips into Bwap)
 - “Aswathpe at tes wapewaabeso tasea-abpa.”
@@ -573,12 +549,12 @@ Broker 2 (2% fee)
 - mannerisms: tongue flicks and hands flap like seal
 
 **Frayner Nillish**
-Broker 3 (4% fee)
+Broker3 (4% fee)
 
 - large head, receding hairline, very precise, flowery language. Never thinks he'll be successful in his negotiations and then comes up with a great offer. “My verbosity is in no way fustian, it procures an advantageous compact for you in 86.9% of my dealings.”
 
 **Killmore Sisters (Stace & Bethta)**
-Broker 2 (3% fee)
+Broker2 (3% fee)
 
 - attractive and sharp witted; in their late 30s or early 40s; rather pleased to show off their cosmopolitan nature in dealing with Zhodani. “You'll like this deal a lot.” “Let us show you something better.”
 
@@ -658,45 +634,37 @@ Rank 4: Leader of 50 Gun Combat (energy) 3 Gunner (turrets) 2, Telekinesis 2 Ath
 
 ### Stiekliepr steward/captain A68A2A-B
 
-Male, aged 38, 5 terms Born: 1067, Ifsenja Siakr A677532-D Ag Ga Ht Ni Cap
-(Ziafrplians 0403)
+Male, aged 38, 5 terms Born: 1067, Ifsenja Siakr A677532-D Ag Ga Ht Ni Cap (Ziafrplians 0403)
 Merchants: Free Trader (3 terms) & Merchants:
 Corporate (2 terms)
-Rank 4: 2nd Officer Clairvoyance 2 , Steward 2 Admin 1, Animals (any) 1, Engineer (M-drive) 1, Engineer
-(power) 1, Gun Combat (any) 1, Gunner (screen)
+Rank 4: 2nd Officer Clairvoyance 2 , Steward 2 Admin 1, Animals (any) 1, Engineer (M-drive) 1, Engineer (power) 1, Gun Combat (any) 1, Gunner (screen)
 1, Language (Galanglic) 1, Mechanic 1, Pilot (small craft) 1, Telepathy 1 Broker 0, Drive (any) 0, Electronics (sensors) 0, Mimic 0 , Persuade 0, Teleportation 0 , Vacc Suit 0
 
 ### Zanzhzhiepr doctor 9A8AAA- 8
 
 Female, aged 30, 3 terms Born: 1075, Freqsteblmedr B541644-A Ni Po (Ziafrplians 0630)
 Scholar: Researcher (1 term) & Scholar: Physician (2 terms)
-Rank 3 Medic 3 Art (any) 1, Investigate 1, Language (Galanglic) 1, Science
-(any) 1, Science (any) 1, Survival 1, Telekinesis 1 Admin 0, Animals (any) 0, Carouse 0, Clairvoyance 0 , Diplomat 0, Drive (any) 0, Electronics (computers)
-0, Empathic Healing 0 , Science (any) 0, Science
-(any) 0, Telepathy 0
+Rank 3 Medic 3 Art (any) 1, Investigate 1, Language (Galanglic) 1, Science (any) 1, Science (any) 1, Survival 1, Telekinesis 1 Admin 0, Animals (any) 0, Carouse 0, Clairvoyance 0 , Diplomat 0, Drive (any) 0, Electronics (computers)
+0, Empathic Healing 0 , Science (any) 0, Science (any) 0, Telepathy 0
 
 ### Brabrkliepr engineer/gunner 776C8A-D
 
 Male, aged 38, 5 terms Born: 1067, Iashiedr B878857-7 Ga (Ziafrplians 0221)
 Navy: Technical (2 terms) & Merchant: Broker (1 term) &
 Merchant: Free Trader (2 terms)
-Rank 3: 3rd Officer Broker 3, Engineer (J-drive) 3 Awareness 2 , Gun Combat (any) 2 Athletics (any) 1, Engineer (life support) 1, Engineer
-(power) 1, Language (Galanglic) 1, Mechanic 1, Persuade 1, Vacc Suit 1 Advocate 0, Athletics (endurance) 0, Animals (any) 0, Blocking 0 , Electronics (comms) 0, Gun Combat
-(any) 0, Gunner (turret) 0, Medic 0, Pilot (any) 0, Telepathy 0
+Rank 3: 3rd Officer Broker 3, Engineer (J-drive) 3 Awareness 2 , Gun Combat (any) 2 Athletics (any) 1, Engineer (life support) 1, Engineer (power) 1, Language (Galanglic) 1, Mechanic 1, Persuade 1, Vacc Suit 1 Advocate 0, Athletics (endurance) 0, Animals (any) 0, Blocking 0 , Electronics (comms) 0, Gun Combat (any) 0, Gunner (turret) 0, Medic 0, Pilot (any) 0, Telepathy 0
 
 ### Chenchapriepr pilot/steward 696CAA-B
 
 Male, aged 28, 2.5 terms Born: 1063, Divriafliadr E250836-4 De Po (Tienspevnekr 0915)
 Merchant: Corporate (2 complete terms)
-Rank 2: 4th Officer Pilot (spacecraft) 2 Electronics (comms) 1, Gun Combat (any) 1, Language
-(Galanglic) 1, Mechanic 1, Steward 1, Telekinesis 1 Broker 0, Clairvoyance 0 , Drive (any) 0, Persuade 0, Science (any) 0, Survival 0, Telepathy 0 , Vacc Suit 0
+Rank 2: 4th Officer Pilot (spacecraft) 2 Electronics (comms) 1, Gun Combat (any) 1, Language (Galanglic) 1, Mechanic 1, Steward 1, Telekinesis 1 Broker 0, Clairvoyance 0 , Drive (any) 0, Persuade 0, Science (any) 0, Survival 0, Telepathy 0 , Vacc Suit 0
 
 ### Kiazbratl “Aspirant” astrogator 9549DB-B
 
 Male, aged 34, 4 terms Born: 1071, Jrbrianch B79A454-D Wa Ni (Zhodane 0610)
 Merchants: Broker (4 terms)
-Rank 4 Advocate 2, Astrogation 2, Language (Galanglic) 2 Broker 1, Gun Combat (any) 1, Investigate 1, Persuade 1, Teleprojection 1 Art (any) 0, Drive (any) 0, Electronics (sensors) 0, Profession (butcher) 0, Profession (any) 0, Science
-(any) 0, Seafarer (any) 0, Steward 0, Telepathy 0 , Vacc Suit 0
+Rank 4 Advocate 2, Astrogation 2, Language (Galanglic) 2 Broker 1, Gun Combat (any) 1, Investigate 1, Persuade 1, Teleprojection 1 Art (any) 0, Drive (any) 0, Electronics (sensors) 0, Profession (butcher) 0, Profession (any) 0, Science (any) 0, Seafarer (any) 0, Steward 0, Telepathy 0 , Vacc Suit 0
 
 ## Appendix 2: Referee Briefing: Who has What Skill
 
@@ -737,7 +705,7 @@ Minimum transit time at two weeks per destination: 26 weeks, add an additional w
 **Karl Sellevoid**
 959869 , male, Age 38, Confederation Patrol: Patrol, Rank 4: Leutnant (old style:
 Kapitensleutnant)
-_Characteristics_ : STR 9 (+1), DEX 5 (-1), END 9 (+1), INT 8 (+0), EDU 6 (+0), SOC 9 (+1)
+_Characteristics_ : STR9 (+1), DEX5 (-1), END9 (+1), INT8 (+0), EDU6 (+0), SOC9 (+1)
 _Homeworld_ : Sacnoth A775956-C Hi In (Spinward Marches 1325)
 _Skills_ : Diplomat 3, Gun Combat (any) 3, Persuade 2, Pilot (spacecraft) 2, Astrogation 1, Electronics (sensors) 1, Engineer (life support) 1, Gunner (turret) 1, Leadership 1, Melee (unarmed) 1, Pilot (small craft) 1, Vacc Suit 1, Admin 0, Electronics (computers) 0 , Mechanic 0, Streetwise 0 _Equipment_ : Cr40,000, Weapon, Ally, Rival x 2
 
@@ -811,13 +779,11 @@ Nobles will often wear a turban and cloak, with males favoring a stylish beard; 
 
 Competition is acceptable, both in teams and as individuals, though primarily in physical sports. The Psionic Games are strongly competitive as they provide a means for the most promising Intendants to achieve Noble status.
 
-Humor is found in puns and linguistic tricks. Zhodani do not take amusement from the misfortune of others: to do so is against the principles of Tavrziansh. Slapstick humor and practical jokes involving humiliation are not appreciated. Outsiders sometimes characterise the Zhodani as humorless but in reality they are usually a joyful people, often laughing in delight or pleasant surprise and they appreciate mildly self-
-deprecating humor. Those who are too despondent to appreciate humor are usually suffering from a mental illness and will be identified and treated by the Tavrchedl'.
+Humor is found in puns and linguistic tricks. Zhodani do not take amusement from the misfortune of others: to do so is against the principles of Tavrziansh. Slapstick humor and practical jokes involving humiliation are not appreciated. Outsiders sometimes characterise the Zhodani as humorless but in reality they are usually a joyful people, often laughing in delight or pleasant surprise and they appreciate mildly self-deprecating humor. Those who are too despondent to appreciate humor are usually suffering from a mental illness and will be identified and treated by the Tavrchedl'.
 
 Racism might seem surprising given their philosophy, but the Zhodani are very uncomfortable beyond the borders of the Consulate, perceiving such places to be “where liars and thieves are allowed to wander loose, untreated for their conditions”. This discomfort is not merely disgust but also the realization that the innate honesty of the Zhodani leaves them open to deceit, cons and charlatans.
 
-There is little racial diversity within the Consulate, so even mild physiological variety in other humans may appear strange to the Zhodani. Their diplomats and traders require special training to allow them to interact comfortably with non-
-Zhodani. Intendants and Nobles are better at handling contact with outsiders, but often still prefer the security of a psionic scan to ensure the honest intents of their visitor.
+There is little racial diversity within the Consulate, so even mild physiological variety in other humans may appear strange to the Zhodani. Their diplomats and traders require special training to allow them to interact comfortably with non-Zhodani. Intendants and Nobles are better at handling contact with outsiders, but often still prefer the security of a psionic scan to ensure the honest intents of their visitor.
 
 Extracted, with permission, from Delta 3 is Down by Dominic Mooney & Andy Lilly. BITS, 2001.
 
@@ -830,8 +796,7 @@ Gun Combat (energy rifle) 3, Gunnery (turret weapons) 2, **Telekinesis 2** , Ath
 **Clairvoyance 2** , Steward 2, Admin 1, Animals (any) 1, Engineering 1, Gun Combat (any) 1, Gunnery (screens) 1, Linguistics 1, Mechanics 1, Piloting 1, **Telepathy 1** , Aircraft (grav vehicle) 0, **Awareness 0** , Broker 0, Comms 0, Liaison 0, **Teleportation 0** , Zero-G 0
 
 Chief Resident **Zanzhzhiepr** 9A8AAA- 8 Age 30 Doctor Physician (3 terms)
-Medicine 3, Jack-of-All-Trades 1, Linguistics 1, Sciences (any) 1, Sciences (any) 1, **Telekinesis 1** , Admin 0, Advocate 0, Aircraft
-(grav vehicle) 0, Animals (any) 0, **Awareness 0** , Carousing 0, **Clairvoyance 0** , Computer 0, Sciences (any) 0, Sciences (any)
+Medicine 3, Jack-of-All-Trades 1, Linguistics 1, Sciences (any) 1, Sciences (any) 1, **Telekinesis 1** , Admin 0, Advocate 0, Aircraft (grav vehicle) 0, Animals (any) 0, **Awareness 0** , Carousing 0, **Clairvoyance 0** , Computer 0, Sciences (any) 0, Sciences (any)
 0, **Telepathy 0**
 
 3 rd Officer **Brabrkliepr** 776C8A-D Age 38 Engineer/Gunner Navy (2 terms) & Merchant (3 terms)
@@ -841,8 +806,7 @@ Broker 3, Engineering 3, **Awareness 2** , Gun Combat (any) 2, Athletics 1, Liai
 Piloting 2, Computer 1, Gun Combat (any) 1, Linguistics 1, Mechanics 1, Steward 1, **Telekinesis 1** , Aircraft (winged aircraft) 0, Animals (any) 0, Broker 0, **Clairvoyance 0** , Sciences (any) 0, **Telepathy 0** , Zero-G 0
 
 2 nd Officer **Kiazbratl (“Aspirant”)** 9549DB-B Age 34 Navigator Merchant (4 terms)
-Advocate 2, Linguistics 2, Navigation 2, Broker 1, Gun Combat (any) 1, Jack-of-All-Trades 1, **Teleprojection 1** , Comms 0, Sciences
-(any) 0, Steward 0 **, Telepathy 0** , Watercraft (sailing ships) 0, Wheeled Vehicle 0, Zero-G 0
+Advocate 2, Linguistics 2, Navigation 2, Broker 1, Gun Combat (any) 1, Jack-of-All-Trades 1, **Teleprojection 1** , Comms 0, Sciences (any) 0, Steward 0 **, Telepathy 0** , Watercraft (sailing ships) 0, Wheeled Vehicle 0, Zero-G 0
 
 Lieutenant **Karl Sellevoid** 959759 Age 26, male Federation Navy (2 terms)
 Liaison 2, Engineering 1, Gun Combat (slug pistol) 1, Navigation 1, Piloting 1 , Tactics 1, Admin 0, Computer 0, Mechanics 0, Streetwise 0, Zero-G 0 Commander **Karl Sellevoid (mustered out)** 959869 Age 38, male Federation Navy (5 terms)

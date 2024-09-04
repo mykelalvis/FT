@@ -55,7 +55,7 @@ Aces & Eights must be one of my favorite Amber Zone adventures. (From JTAS 14) T
 
 At **Gwydion** the free trader Themis has crashed. An adventure about the investigation of the crash is found in JTAS 16 (Last flight of the Themis).
 
-Rebel leader Enoc su-Krang has hired a number of mercenary contingents to take over the government at **Pynchan**. In JTAS 7 (Pursue and Destroy) the events of a small mercenary group is played. (Here it is recommended that, Mercenary and Azhanti High Lightning rules are used, but I would suggest Striker rules.)
+Rebel leader Enoc su-Krang has hired a number of mercenary contingents to take over the government at **Pynchan**. In JTAS7 (Pursue and Destroy) the events of a small mercenary group is played. (Here it is recommended that, Mercenary and Azhanti High Lightning rules are used, but I would suggest Striker rules.)
 
 On **Orval** there is a brotherhood of monks that brew a very good beer. They can be quite violent when defending their brewing secrets.
 

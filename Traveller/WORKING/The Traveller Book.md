@@ -9,7 +9,7 @@ by Marc W. Miller
 The Traveller Book
 VoLt
 201
-TRAVELLER
+
 Science-Fiction Adventure ®
 · in the Far Future
 By Marc W. Miller
@@ -256,6 +256,8 @@ permit even beginners to start playing as soon as possible. Subsequent books in 
 of the Traveller universe, treating certain selected areas in more detail. But this book contains all the rules you will need to
 play. Everything else is supplementary.
 ADVENTURING IN TRAVELLER
+
+
 Traveller is a set of detailed rules covering how the
 universe operates. These rules govern day-to-day activities
 to be expected for any individual. Against this background
@@ -279,6 +281,8 @@ referee to present a new situation to the players, who must
 cope with this scenario if they are to progress in their own
 adventures.
 GETTING YOUR FEET WET
+
+
 Since the Traveller approach is role-playing, players and
 referees experienced in other role-playing games should
 have little trouble. There are, however, a number of features
@@ -364,6 +368,8 @@ necessary into a hull that always seems too small. The
 struggle to make an effective ship that is also efficient
 seems never-ending.
 REQUIRED MATERIALS
+
+
 This book contains all the rules necessary to begin
 playing Traveller. The rules provide for solitaire and un·
 supervised play, but the highest form of the game, the
@@ -408,6 +414,8 @@ tedious routine of rolling dice and reading tables. With
 it, Traveller can be a vehicle to carry you to the limits
 of the universe.
 DEFINITIONS OF TERMS
+
+
 Traveller uses certain words and abbreviations in a
 unique manner, and in order to be able to properly understand
 the Traveller rules, players and referees should
@@ -463,8 +471,7 @@ the players and other inhabitants or forces within that
 universe.
 Skill. An ability to perform a set action, such as navigating
 a starship, operating a rifle, or programming a computer.
-Skills are attained in levels (navigation-1, computer-
-2, etc); the higher the level of a skill, the more expertise
+Skills are attained in levels (navigation-1, computer-2, etc); the higher the level of a skill, the more expertise
 a character has in that area. Many different individual skills
 are available to characters.
 Starport. A facility for the service of interstellar and
@@ -486,6 +493,8 @@ in which the characters controlled by the players interact
 with the various characters and forces controlled by the
 referee.
 PROCEDURES
+
+
 To a certain extent, Traveller is a contest between the
 referee and the players, as the referee represents all the
 nasty things that the universe can throw at people. As such,
@@ -496,8 +505,7 @@ throwing problem after problem their way and piling
 disaster on top of disaster. This makes the players sullen
 and suspicious, and spoils the entertainment value of
 Traveller. A referee's fun in Traveller is different from a
-player's fun. While players plot and scheme on the basis of
-(often) incomplete data, the referee sees all and knows all.
+player's fun. While players plot and scheme on the basis of (often) incomplete data, the referee sees all and knows all.
 11
 
 12
@@ -583,6 +591,8 @@ to go too far too soon leads to a referee that feels overworked
 and players that feel bored, a sure formula for an
 abandoned game.
 REFEREE RESPONSIBILITIES
+
+
 The purpose of a referee is to present obstacles for
 players to overcome as they go about seeking their goals,
 not to constantly make trouble for them. This is a very
@@ -683,8 +693,7 @@ die roll. Be fair in doing this, however, and try not to be
 too heavy-handed. Most players feel better if their character
 is done in by the die roll than if killed by fiat.
 The use of non-player characters is one of the most
-important things for a referee to learn. Non-player charac-
-Introduction
+important things for a referee to learn. Non-player charac-Introduction
 ters are the population of your universe other than the
 characters controlled by your players. Through non-player
 characters you can give the players rumors, hints, and
@@ -743,6 +752,8 @@ moment; use the characters you generated while learning to
 use the system.
 Game Designers' Workshop
 CONDUCT OF THE ADVENTURING SESSION
+
+
 Sessions should be conducted in some relatively quiet,
 comfortable place where there is room for the referee to lay
 out his or her materials out of the direct vision of the
@@ -799,8 +810,7 @@ time just to get to the library. If they are in a hotel lobby
 and there is a computer terminal ten meters away which
 hooks into a planet-wide information grid, only a few
 seconds will pass. How long it takes the group to find out
-what they are after depends on what the information is
-(they could not, for instance, use a library to find out the
+what they are after depends on what the information is (they could not, for instance, use a library to find out the
 specifications of the local prison's latest security procedures)
 
 The Traveller Book
@@ -943,8 +953,7 @@ referee's work is not yet ended. The referee must determine
 whether the players will receive the reward they were pro·
 mised (this should usually be the case, but having a patron
 skip out without paying is a useful plot device). Additional·
-ly, the referee should decide if the actions of the players
-(either in the process of completing the job or some activity
+ly, the referee should decide if the actions of the players (either in the process of completing the job or some activity
 they have done unrelated to it) have caused them to gain
 Game Designers' Workshop
 friends or enemies. If this happens, the referee should figure
@@ -972,6 +981,8 @@ styles and desires. Adventuring sessions will become
 smoother and the pleasure received from an evening's
 adventure will increase for all involved.
 DIE ROLLING CONVENTIONS
+
+
 Routinely in the course of Traveller, dice must be
 thrown to determine an effectively random result or unpredictable
 course of action. These dice throws may be
@@ -983,8 +994,7 @@ would not actually know the results of the roll or would
 not know the exact roll made, the refe ree should make the
 roll in secret. Generally, a dice throw involves two dice;
 exceptions requiring one die or three or more dice are
-clearly stated. The number of dice is either stated directly
-(one die, four dice) or abbreviated to save space (10, 40).
+clearly stated. The number of dice is either stated directly (one die, four dice) or abbreviated to save space (10, 40).
 The following ~erms and conventions for dice throws apply
 to the game.
 Throw: That d ice roll required to achieve a stated effect.
@@ -1019,6 +1029,8 @@ All characters begin the game the same way: untrained, inexperienced, and about 
 generated with a series of die rolls. He or she then embarks on an abstract career in order to gain skills and experience.
 Ultimately, the character retires or leaves the service, receives mustering-out benefits, and is ready to begin adventuring.
 INITIAL CHARACTER GENERATION
+
+
 Characters are essentially described by six characteristics
 describing the physical and mental attributes of the indi·
 vidual. These characteristics are generated through a series
@@ -1041,8 +1053,7 @@ as to be beyond help, various options in the experience
 procedures are available to the player to improve charac·
 teristics.
 The Universal Personality Profile: Characters in Traveller
-are precisely defined using the universal personality profile
-(the UPP), which expresses the basic characteristics in a
+are precisely defined using the universal personality profile (the UPP), which expresses the basic characteristics in a
 specific sequence using hexadecimal (base 16) numbers. In
 hexadecimal notation, the numbers 0 through 9 are repre·
 sented by the common arabic numerals; the numbers 10
@@ -1056,8 +1067,7 @@ respects would have a UPP of 777777. If, instead, the
 individual were highly intelligent, his UPP would be
 777877 (the B in the fourth position indicates an intelli·
 gence of 11 ).
-While the use of the UPP is optional, it allows the referee
-(and the players) to tell at a glance the characteristics of
+While the use of the UPP is optional, it allows the referee (and the players) to tell at a glance the characteristics of
 persons they encounter and have dealings with. Because the
 hexadecimal notation uses single digits or letters for each of
 the six characteristics, numbers which are normally two
@@ -1085,6 +1095,8 @@ not engaged in local government. At the discretion of the
 referee, a world may be generated (see Worlds) and the
 noble may have some ancestral lands or fiefs on it.
 CHARACTERISTICS
+
+
 Strength is both a general evaluation of the charac·
 ter's physical ability and a specific measure of force
 which may be applied.
@@ -1104,14 +1116,15 @@ terms). rank, money, skills, and possessions.
 
 18
 Characters
-A knight (social standing B) is entitled to the use of Sir
-(or Dame) before his or her name. Social standing C entitles
+A knight (social standing B) is entitled to the use of Sir (or Dame) before his or her name. Social standing C entitles
 the individual to the title Baron or Baroness. In lieu of this
 title, the individual may use the prefix von or haut or
 hault (denoting baronial nobility) with his or her name.
 The noble ranks table shows the range of noble titles and
 their corresponding social levels.
 ACQUIRING SKILLS AND EXPERTISE
+
+
 Any newly-generated character may choose one of these
 six services (Navy, Marines, Army, Scouts, Merchants, and
 Other), and attempt to enlist. The prior service table
@@ -1127,7 +1140,7 @@ of +2 is allowed for education of 9 or greater. Assuming a
 character Hylan Vincent, 8946A8 (intelligence of 6 and
 education of 10) attempted to enlist in the Navy, he would
 be allowed a OM of +2 (for his education). He rolls a 3 on
-two dice, adds his OM of +2 to get a 5 (he needs 8+), which
+two dice, adds his OM of +2 to get a5 (he needs 8+), which
 is insufficient. The Navy has rejected his enlistment.
 Only one enlistment attempt is permitted per character.
 If rejected for enlistment, he must submit to the draft.
@@ -1200,8 +1213,7 @@ receives a commission, and then receives a promotion
 during the initial term of service becomes eligible for four
 skills. The same character, in the next term, is eligible for
 one skill if he or she does not receive another promotion.
-Some skills are automatically acquired by a character
-(without using eligibility) by virtue of rank or service.
+Some skills are automatically acquired by a character (without using eligibility) by virtue of rank or service.
 These automatic skills are listed on the rank and service
 skills table. At the point when the character achieves the
 indicated rank or service, he or she gets the indicated skill.
@@ -1242,6 +1254,8 @@ additional term of service. It is theoretically possible for an
 individual to be required to serve ninth and even tenth
 terms under mandatory reenlistment.
 MUSTERING OUT
+
+
 When a character leaves the service (for any reason), he
 or she is eligible for mustering out benefits. The two
 mustering out tables indicate the nature of these benefits:
@@ -1271,6 +1285,8 @@ only that she may roll no more than three times on the cash
 table. The player must designate the table being used before
 rolling the die.
 AGING
+
+
 Because each term of service is four years in length, a
 character can potentially age twenty years or more before
 venturing into the adventure portion of the game. This
@@ -1354,6 +1370,8 @@ ters for future use as non-player characters, hirel ings, and
 other types.
 Game Designers' Workshop
 CAREER TYPES
+
+
 The six career types generated here are general careers
 assumed to ex ist in the human societies within the galaxy.
 For players who are adventuring within the general human
@@ -1416,10 +1434,11 @@ benefits received during character generation.
 
 The Traveller Book
 SKILLS
+
+
 The skills which can be acquired during a term of service
 are of greatly diverse types and values. Skills form an
-integral part of the player's character. assisting the referee
-(and the player) in calculating both general abilities and the
+integral part of the player's character. assisting the referee (and the player) in calculating both general abilities and the
 specific probability of performing certain tasks.
 Skills are differentiated by level: skill-3 (meaning level 3
 of a specific skill) is higher and more sophisticated than
@@ -1428,19 +1447,16 @@ possible that one specific skill may be acquired more than
 once; in such cases, the second acquisition increases the
 character's expertise in that skill. Upon the first acquisition
 of a skill, the player writes the skill name, followed by a
-dash and the number 1 (thus: navigation-1 ). The second
+dash and the number1 (thus: navigation-1 ). The second
 time the skill is acquired, the number is increased to show
 greater expertise (thus: navigation-2). Additional acquisitions
 of the same skill will increase this skill level to 3, 4, or
 even higher.
 The acquired skills table provides four basic types of
 results: characteristic alterations (such as +1 strength),
-weapons expertise (such as blade combat). transport skills
-(such as ATV). and basic skills (such as navigation).
-Characteristic Alterations: Expressed as an addition to
-(or subtraction from) a character's ability. In this category,
-alterations tend to affect strength, dexterity, or endurance
-(although some services can affect other abilities as well).
+weapons expertise (such as blade combat). transport skills (such as ATV). and basic skills (such as navigation).
+Characteristic Alterations: Expressed as an addition to (or subtraction from) a character's ability. In this category,
+alterations tend to affect strength, dexterity, or endurance (although some services can affect other abilities as well).
 Characteristic alterations are applied immediately, and
 require no further attention. An example of a characteristic
 alteration is +1 dexterity.
@@ -1508,6 +1524,8 @@ Basic Skills: Basic skills are expressed as a general ability,
 such as navigation or engineering. Each skill is further
 defined on the following pages.
 AVAILABLE SKILLS
+
+
 Basic Skills Weapons Skills Transport Skills
 Administration Brawling Air/Raft
 Bribery Blade Combat ATV
@@ -1678,8 +1696,7 @@ circumstances and selects a number to be thrown (usually
 throw that number or greater to succeed). DMs allowed
 should be the level of electronics skill, +1 for intelligence
 above some level (say, 10). +1 for education above some
-level (say, 9), and appropriate values for lack of tools
-(perhaps -5) or poor conditions (maybe -3). The throw
+level (say, 9), and appropriate values for lack of tools (perhaps -5) or poor conditions (maybe -3). The throw
 is then made, and success is determined by the result.
 Such throws are restricted to one per specific time period,
 an hour, four hours, a day, or a week, as appropriate.
@@ -1757,9 +1774,12 @@ manipulation of dice throws.
 24
 Characters
 CHARACTER GENERATION
+
+
 CHECKLIST
-1. Roll personal characteristics
-(20 each): strength, dexterity,
+
+
+1. Roll personal characteristics (20 each): strength, dexterity,
 endurance, intelligence, education,
 and social standing.
 2. Select service and roll for
@@ -1785,6 +1805,8 @@ A. Determine benefits.
 B. Record characteristics and
 skills for later use.
 BASIC SKILL ELIGIBILITY
+
+
 For in itial term of service ...... 2
 Per subsequent term of service ... 1
 Upon receiving commission ..... 1
@@ -1800,6 +1822,8 @@ Allowable OMs
 Benefits Table: DM+1 if rank 5 or 6.
 Cash Table: DM+1 if gambling sk ill.
 HEXADECIMAL NOT AT ION
+
+
 Base-10
 0
 1
@@ -1823,6 +1847,8 @@ to note the six characteristics
 of the universal personal ity profile.
 Game Designers' Workshop
 PRIOR SERVICE TABLE
+
+
 Navy Marines Army Scouts Merchants Other
 Enlistment 8+ 9+ 5+ 7+ 7+ 3+
 DM of +1 if Intel 8+ lntel 8+ Dext 6+ Intel 6+ Stren 7+
@@ -1841,6 +1867,8 @@ exactly calls for mandatory reenlistment).
 OMs are cumulative (in t he case of enlistment) if the characters have the
 necessary prerequisites. All rolls except draft are two-die t hrows.
 TABLE OF RANKS
+
+
 Navy Marines Army Scouts
 Rank 1 Ensign Lieutenant Lieutenant --
 Rank 2 Lieutenant Captain Captain
@@ -1858,6 +1886,8 @@ This table indicates initial rank (rank 1) if a commission is received, and subs
 quent ranks (ranks 2 to 6) as promotions are received. The other and t he scout
 services do not have ranks, commissions, and promotions.
 MUSTERING OUT TABLES
+
+
 Die Ro/1 - --- - -------- - ----- Benefits Table----- - ---------
 1 Low Psg Low Psg Low Psg Low Psg Low Psg Low Psg
 2 +1 Int el +2 Intel +1 Intel +2 I ntel +1 Intel +1 Intel
@@ -1865,8 +1895,7 @@ Die Ro/1 - --- - -------- - ----- Benefits Table----- - ---------
 4 Blade Blade Gun Blade Gun Gun
 5 Travellers' Travellers' High Psg Gun Blade High Psg
 6 High Psg High Psg Mid Psg Scout Ship Low Psg
-7 +2 Social +2 Social +1 Social Free Trader-
-Characters with rank 5 or 6 may add +1 to their rolls on this table. Gun and
+7 +2 Social +2 Social +1 Social Free Trader-Characters with rank 5 or 6 may add +1 to their rolls on this table. Gun and
 blade benefits must be declared by type immediately; additional benef its of gun or
 blade may be declared as skill in a weapon of the type previously taken.
 Die Roll ---------------Cash Table (in credits)---- -----------
@@ -1882,6 +1911,8 @@ this table. Individuals with gambling skill receive a DM of +1 on the cash table
 
 The Traveller Book
 ACQUIRED SKILLS TABLES
+
+
 1. Personal Development Table
 Navy Marines
 1 +1 Stren +1 Stren
@@ -1923,6 +1954,8 @@ Gambling
 Brawling
 Army
 ATV
+
+
 Air/Raft
 Gun Cbt
 Fwd Obsvr
@@ -2024,6 +2057,8 @@ Computer
 Pi lot
 Jack-o-T
 AGING TABLE
+
+
 Navigation
 Engineering
 Computer
@@ -2044,9 +2079,10 @@ Education ............... unaffected by aging .... .... .. .... .
 Social Standing .. .. .. .......... unaffected by aging .... .......... .
 The negative number is the potential reduction in characteristic if the saving
 throw (on two dice; throw shown in parentheses) is not made. Term of service
-refers to the end of that numbered term; age refers to the first day of the personal
-(physical, not chronological) year.
+refers to the end of that numbered term; age refers to the first day of the personal (physical, not chronological) year.
 NOBLE RANKS
+
+
 B 11 Knight, Knightess, Dame
 C 12 Baron, Baronet, Baroness
 D 13 Marquis, Marquesa, Marchioness
@@ -2056,6 +2092,8 @@ Knights are addressed as Sir.
 Barons are allowed ~he prefix von,
 haut, or hault.
 RETIREMENT PAY
+
+
 Characters who have served at least
 five terms receive an
 5 terms
@@ -2073,6 +2111,8 @@ Cr12,000
 Cr 2,000
 Characters
 RANK AND SERVICE SKILLS
+
+
 Navy Captain ....... . +1 Social
 Navy Admiral ....... . +1 Social
 Marine ...... .. . .. . .. Cutlass-1
@@ -2082,6 +2122,8 @@ Army Lieutenant . ... ... . SMG-1
 Merchant First Officer .... Pilot-1
 Scout ............... Pilot-1
 BLADES AND POLEARMS
+
+
 Weapon
 Dagger
 Blade
@@ -2103,33 +2145,15 @@ Rifle
 Auto Rifle
 Shotgun
 SMG
+
+
 Laser Carbine
 Laser Rifle
 +DM -DM
-8+ 3-
-9+ 4-
-10+ 4:..
-10+ 5-
-11+ 6-
-12+ 7-
-9+ 4-
-9+ 4-
-10+ 5-
-10+ 6-
-8+ 4-
-GUNS
+8+ 3-9+ 4-10+ 4:..
+10+ 5-11+ 6-12+ 7-9+ 4-9+ 4-10+ 5-10+ 6-8+ 4-GUNS
 +DM -DM
-11+ 7-
-10+ 6-
-9+ 6-
-9+ 4-
-8+ 5-
-10+ 6-
-9+ 3-
-9+ 5-
-10+ 5-
-11+ 6-
-CASCADE SKILLS
+11+ 7-10+ 6-9+ 6-9+ 4-8+ 5-10+ 6-9+ 3-9+ 5-10+ 5-11+ 6-CASCADE SKILLS
 Wounds
 20
 20
@@ -2283,8 +2307,7 @@ Xeno-Medicine: Normally, medical expertise is con·
 sidered to apply to humans, and to a limited extent to the
 animals which live on human worlds. Anyone with medical
 expertise can apply that expertise (with a reduction of -2)
-to non-human aliens. For example, a human doctor
-(medical-3) may find herself in a situation which calls for
+to non-human aliens. For example, a human doctor (medical-3) may find herself in a situation which calls for
 treatment of an al ien, with anatomy and physiology unfamiliar
 to her. She could provide treatment with the
 equivalent of medical-1. Obvious encumbrances such as
@@ -2450,6 +2473,8 @@ repairing and maintaining a vehicle.
 
 The Traveller Book
 OTHER SKILLS
+
+
 The above list of skills is certainly not exhaustive.
 Additional skills may be encountered in other areas of
 Traveller, especially for additional weapons or career types.
@@ -2479,6 +2504,8 @@ example, a character with UPP 77894A would be restricted
 to a total of 13 combined skills and levels of skills. This
 restriction does not applv to level -0 skills.
 MUSTERING OUT BENEFITS
+
+
 In addition to the skills acquired while actually in
 service, the following skills and substantial rewards can be
 acquired through the mustering out procedures.
@@ -2511,11 +2538,9 @@ be cashed in at 90% of their face value.
 Characters
 excellent cuisine, and allows up to one ton of baggage. High
 passage costs Cr10,000 when purchased.
-- Middle Passage includes second class accommodations
-(although still of reasonably good qual ity) and passable
+- Middle Passage includes second class accommodations (although still of reasonably good qual ity) and passable
 food and drink, and allows up to 100 kilograms of baggage.
-The passenger is expected to tend to his or her own affairs
-(maid service, laundry, cleaning, etc.) during the voyage.
+The passenger is expected to tend to his or her own affairs (maid service, laundry, cleaning, etc.) during the voyage.
 Middle passage costs Cr8000 when purchased, and is subject
 to stand-by conditions; the ticket holder may be bumped if
 a high passenger appears (the middle passage ticket being
@@ -2564,8 +2589,7 @@ weapon, or taking the benefit as +1 in skill in the weapon
 previously received. For example, the benefit blade entitles
 the character to select any blade weapon, and he chooses
 cutlass. On the next benefit roll, he again receives blade as a
-benefit. At this point, he could select a different blade
-(perhaps foil), choose cutlass again (giving him two cutlasses),
+benefit. At this point, he could select a different blade (perhaps foil), choose cutlass again (giving him two cutlasses),
 or elect to take expertise in the weapon he has
 already received (giving an expertise of cutlass-1 ). Expertise
 29
@@ -2594,8 +2618,7 @@ forty years old.
 The typeS scout/courier is a 100-ton dispatch vessel of a
 type very common within human space. It is the pol icy of
 the scout service to make available such surplus scout shipS
-to selected individuals on a reserve basis. The vessels are
-(hopefully) put to good use while they are not required in
+to selected individuals on a reserve basis. The vessels are (hopefully) put to good use while they are not required in
 service, and both the ship and its pilot are available for
 recall to duty when needed. Only one scout ship may be
 acquired by a character; further receipt of this benefit
@@ -2604,18 +2627,21 @@ the pleasure of the scout service, and it cannot be sold or
 mortgaged by the character. The ship may be used for travel,
 limited commerce, or pleasure. Fuel is free at scout
 bases. Maintenance is free at the scout bases at class B
-starports. The character is responsible for all other costs
-(berthing, upkeep, and crew costs) as the ship is used.
+starports. The character is responsible for all other costs (berthing, upkeep, and crew costs) as the ship is used.
 Characteristic Alterations: Finally, the skills and benefits
 tables makes provision for some characteristic alterations.
 These tend to be increases in education or intelligence, and
 are applied to the character immediately.
 A NOTE ON GENDER AND RACE
+
+
 Nowhere in these rules is a specific requirement established
 that any character (player or non-player) be of a
 specific gender or race. Any character is potentially of any
 race and of either sex.
 FORMATS
+
+
 Characters may be referred to in a variety of ways. The
 simplest involves an identification of the character's occupation
 or name, followed by the UPP (universal personality
@@ -2662,6 +2688,8 @@ Auto Rifle-1, Brawling·1 , Streetwise-1,
 Jack of all trades-1
 1 High Passage, 1 Auto Rifle
 MERCHANT CAPTAIN ALEXANDER JAMISON
+
+
 Age 28
 CrO
 Age46
@@ -2679,7 +2707,7 @@ all six personal characteristics; he rolls, consecutively, 6, 8,
 him best for the merchant service. He visits his local starport,
 checks out the situation [required roll of 7+ to enlist,
 with a OM of +2 allowed for his intelligence of greater than
-6; he rolls 5 (+2=7)], and just barely manages to convince a
+6; he rolls5 (+2=7)], and just barely manages to convince a
 merchant captain to let him sign on.
 First Term: During his first term of service [survival roll
 required is 5+, with a DM of +2 allowed for intelligence; he
@@ -2711,8 +2739,7 @@ finds himself faced with some of the dangers of the merchant
 service [survival throw required is 5+, with a OM of
 +2 allowed for intelligence; he rolls 3, which is the lowest it
 is possible to roll and still survive (+2=5) 1, possibly a pirate
-raid. He does stay alive, however. His continued efficiency
-(promotion throw of 10+ with a OM of +1 for intelligence;
+raid. He does stay alive, however. His continued efficiency (promotion throw of 10+ with a OM of +1 for intelligence;
 he rolls 12 (+1=13)] gains him his desired promotion to
 2nd officer. He signs on for a third term of service [reenlistment
 throw of 4+ required, no OMs; he throws 6] and
@@ -2722,9 +2749,8 @@ fitness kick [Table 1, roll 3= +1 endurance] and learns to
 better defend himself [Table 2, roll 4= gun combat] using
 the small body pistoL
 Third Term: Jamison's third term is rather uneventful
-[survival throw of 5+, DM of +2 for intelligence; he rolls 9
-(+2=11 )]. Unfortunately [promotion roll of 10+ required,
-OM +1 for intelligence; he rolls 8 (+1 =9) 1. he fails the
+[survival throw of 5+, DM of +2 for intelligence; he rolls 9 (+2=11 )]. Unfortunately [promotion roll of 10+ required,
+OM +1 for intelligence; he rolls8 (+1 =9) 1. he fails the
 examination for 1st officer by two points, and does not
 receive a promotion. Determined to succeed, he reenlists
 [reenlistment roll of 4+ required, no OMs; he rolls 10] . He
@@ -2733,10 +2759,9 @@ studies an advanced course in electronics to increase his
 knowledge.
 Fourth Term: Things go right in the fourth term for
 Jamison. Facing little danger [survival throw of 5+ required,
-DM +2 for intelligence allowed; he rolls 7 (+2=9)].
+DM +2 for intelligence allowed; he rolls7 (+2=9)].
 he also passes his 1st officer exam [promotion throw of
-10+ required, DM +1 allowed for intelligence; he throws 12
-(+1=13)] easily, receiving his promotion and an automatic
+10+ required, DM +1 allowed for intelligence; he throws 12 (+1=13)] easily, receiving his promotion and an automatic
 pilot-1 expertise. Reenlisting again, he begins a fifth term of
 service [reenlistment roll of 4+ required, no OMs; he rolls
 7] . He is eligible for two skills this term. He trains himself
@@ -2744,12 +2769,10 @@ in the martial arts [Table 1. roll 5= blade combat]. choosing
 the cutlass and [Table 2, roll 4= gun combat] the submachinegun.
 Finally, this being the end of his fourth term,
 Jamison is (for the first time) susceptible to aging [saving
-throws for strength (8+), dexterity (7+), and endurance
-(8+) are made; he rolls 12, 7, and 9, resulting in no
+throws for strength (8+), dexterity (7+), and endurance (8+) are made; he rolls 12, 7, and 9, resulting in no
 changes].
 Fifth Term: Beginning his fifth four-year hitch [survival
-roll of 5+ required, DM +2 for intelligence; he rolls 7
-(+2=9) 1, he stands for promotion [promotion roll of
+roll of 5+ required, DM +2 for intelligence; he rolls 7 (+2=9) 1, he stands for promotion [promotion roll of
 10+ required, DM +1 for intelligence; he rolls 10 (+1=11)]
 and makes captain. At this point [reenlistment throw of 4+
 required, no OMs allowed; he rolls 3]. the service falls on
@@ -2760,8 +2783,7 @@ entitles him to two final skills. He studies [Table 4, roll 5=
 pilot] to improve his piloting skill, and [Table 3, roll 3=
 electronics] continues his interest in electronics. Age also
 begins to take its toll [throw for strength (8+), dexterity
-Characters
-(7+). and endurance (8+); he rolls 9, 6, and 11, resulting in
+Characters (7+). and endurance (8+); he rolls 9, 6, and 11, resulting in
 the reduction of his dexterity by one point] with a slight
 decrease in his health.
 Mustering Out: Having completed twenty years of active
@@ -2770,14 +2792,13 @@ a variety of service benefits [five rolls on the tables for
 terms served, plus two by virtue of his rank; in addition, he
 is allowed +1 on all rolls on the benefits table]. He receives
 [cash table, roll 4= Cr20,000] a severance bonus of
-Cr20,000, [benefits table, roll 5 (+1 =6)= +1 education] an
-educational benefit, [benefits table, roll 6 (+1 =7)= merchant
+Cr20,000, [benefits table, roll5 (+1 =6)= +1 education] an
+educational benefit, [benefits table, roll6 (+1 =7)= merchant
 ship] possession of a merchant ship, [benefits table,
-roll 2 (+1=3)=middle passage] a travel allowance, [benefits
-table, roll 6 (+1=7)= merchant ship] credit for participation
-in the ship acquisition program, [benefits table, roll 6
-(+1 =7)= merchant ship] credit for more participation in the
-ship acquisition program, [benefits table, roll 6 (+1 =7)=
+roll2 (+1=3)=middle passage] a travel allowance, [benefits
+table, roll6 (+1=7)= merchant ship] credit for participation
+in the ship acquisition program, [benefits table, roll 6 (+1 =7)= merchant ship] credit for more participation in the
+ship acquisition program, [benefits table, roll6 (+1 =7)=
 merchant ship] and more credit for participation in the
 ship acquisition program. Jamison has apparently been
 putting much of his salary and ship profits into a continuing
@@ -2787,8 +2808,7 @@ have already been paid off.
 Alexander Lascelles Jamison is now 38 years old, a
 retired merchant captain, with a pension of Cr4000 P.El!
 year, and a healthy cash balance. His single middle passage,
-useless to him as a shipowner, has been converted to c.ash
-(Cr7,200). Considering that the merchants forced him out
+useless to him as a shipowner, has been converted to c.ash (Cr7,200). Considering that the merchants forced him out
 of the service at the peak of his career, he has some slight
 resentment against the merchant service.
 Merchant Captain Alexander Jamison 779C99 Age 38
@@ -2800,6 +2820,8 @@ Type A Free Trader (ten years of payments remaining).
 
 Characters
 PERSONAL DATA AND HISTORY
+
+
 1 1. Date of Preparation
 2. Name 3. UPP I Stren Dext Endur Intel Educ Soc
 4. Noble T i t le 5. Military Rank 6. B irthdate
@@ -2817,6 +2839,8 @@ DYes DNo
 19a. Preferred Weapon 19b. Preferred Pistol 19c. Preferred Blade 120. Travellers' Member?
 DYes DNo
 PSIONICS
+
+
 Warning: Information regarding an individual's psionic ability is confidential,
 and may not be released without his or her consent.
 21. Date of Test 22. PSR 23a. Trained? 123b. Date Completed
@@ -2830,8 +2854,7 @@ and History allows players and
 referees to maintain a record of
 the det ails of any specific
 Traveller character. This form
-may be reproduced locally
-(photocopied or printed) by
+may be reproduced locally (photocopied or printed) by
 Traveller players or referees
 for their personal use. It is
 printed on this page closer to the
@@ -2854,6 +2877,8 @@ Blocks 3, 4, 5, 9, 12, 13, 14a,
 using information produced in
 the chapter on character generation.
 REFERENCES
+
+
 The following blocks can be
 filled in using informat ion provided
 in other chapters within
@@ -2879,6 +2904,8 @@ stands the system is automatically in a position to make reasonable decisions ab
 prudently run away. Understanding the system gives the individual an insight into the probabilities of surviving any specific
 encounter.
 BASIC COMBAT CONCEPT
+
+
 This combat system is intended to cover situations
 where a party of adventurers (of one or more characters)
 encounters a party of people or a group of beasts, and
@@ -2890,8 +2917,7 @@ basic reaction of the other party in response to the encounter.
 Combat is based on successive attacks by each character
 involved (blows if brawling, swings with blade weapons, and
 shots with guns). A basic throw of 8+ is required in every
-case to obtain a hit; that throw is subject to die modifications
-(OMs) for such considerations as range between the
+case to obtain a hit; that throw is subject to die modifications (OMs) for such considerations as range between the
 two parties, attacker and defender expertise in the weapons
 they are using, the types of weapons used, surprise, and
 other factors. If a hit is obtained, wounds are inflicted
@@ -2899,9 +2925,10 @@ based on the type of weapon which made the hit.
 Each combat round lasts 15 seconds. Combat continues
 until one party is vanquished, flees, dies, or surrenders.
 ENCOUNTERS
+
+
 Specific encounters with beings of various types are
-called for by the referee, by pre-generated encounter tables
-(detailed in the chapter on encounters), or by the situation.
+called for by the referee, by pre-generated encounter tables (detailed in the chapter on encounters), or by the situation.
 Each encounter can be defined by the questions Who or
 What? How Many? Why? How? When? and Where?
 Who or What? The referee should detail the identity of
@@ -2945,6 +2972,8 @@ additional details may unfold.
 34
 Personal Combat
 COMBAT PROCEDURE
+
+
 1. Determine the facts of the encounter.
 A. Which party has surprise?
 B. Initial encounter range?
@@ -2961,6 +2990,8 @@ E. Begin a new combat round (go to 2 above).
 3. When combat ends, attend to the wounded and
 regroup forces.
 INITIAL ENCOUNTER PROCEDURE
+
+
 Once an encounter occurs, and it appears to require
 violence, the combat procedure is used to determine the
 resolution of combat. Surprise, encounter range, and escape
@@ -3035,6 +3066,8 @@ chapter on animal encounters.
 Once contact or combat begins, a party may leave the
 field of battle only through movement.
 THE COMBAT ROUND
+
+
 Combat is resolved in rounds, each representing approxi·
 mately 15 seconds of real time. Within each round, each
 individual character, non-player character, and animal is
@@ -3046,6 +3079,8 @@ round is over, and the next combat round begins.
 Generally, all individuals perform their movement first,
 followed by their attacks.
 MOVEMENT
+
+
 For movement, distances are measured in range bands,
 each representing approximately 25 meters. The range band
 table gives the size of each of the combat ranges in range
@@ -3108,6 +3143,8 @@ decide what his movement will be for the round. Any
 character who moves more than 20 bands away from the
 nearest enemy character is out of range and has escaped.
 COMBAT RESOLUTION
+
+
 Combat is resolved in a series of attacks represented by
 dice throws made by the combatants. A series of such
 throws (where each participating individual capable of
@@ -3130,8 +3167,7 @@ and of weakened blows. Other OMs are called for by
 later sections of these rules.
 All OMs to the basic throw to hit are cumulative, being
 added together and then applied to the basic throw. It is
-important to remember that adding negative numbers
-(OMs) is subtracting (3+1 =4; 3+ -1 =2; -3+ -1 =-4).
+important to remember that adding negative numbers (OMs) is subtracting (3+1 =4; 3+ -1 =2; -3+ -1 =-4).
 Roll two dice and modify by the OM created; if the
 modified result is 8 or greater, the attack has achieved a hit
 on the target. If a hit is achieved, the wound column on the
@@ -3174,12 +3210,11 @@ _,I :' '.lljt
 36
 Personal Combat
 Unconscious characters (with at least one characteristic
-reduced to zero) recover consciousness after ten minutes
-(40 combat rounds) with all three physical characteristics
+reduced to zero) recover consciousness after ten minutes (40 combat rounds) with all three physical characteristics
 temporarily placed at a value half way between full strength
 and the wounded level . The individual is considered to have
 sustained minor wounds. For example, a character with a
-strength of 8 who is wounded to a strength of 4 (and
+strength of 8 who is wounded to a strength of4 (and
 rendered unconscious through the zeroing of another
 characteristic) becomes strength 6 when he regains consciousness,
 and remains so until recovered. Round fractions
@@ -3222,6 +3257,8 @@ hits from the third die reduce strength to zero. The remaining
 characteristic, endurance. Adventurer Three is seriously
 wounded with a temporary UPP 003777.
 THE EFFECTS OF CHARACTERISTICS
+
+
 Personal characteristics can affect combat, being the
 source of die modifications based on weapons and the
 duration of the battle. Wounds do not affect characteristics
@@ -3232,8 +3269,7 @@ However, once wounds bring a characteristic to zero, the
 individual is unconscious, and characteristics are of little
 use.
 Strength: The efficiency of various blows and swings
-Game Designers' Workshop
-(but not of shots) is dependent on personal strength. The
+Game Designers' Workshop (but not of shots) is dependent on personal strength. The
 weapons table indicates both a required strength level and
 an advantageous strength level for all blade and brawling
 weapons. A character using a specific weapon who does not
@@ -3299,6 +3335,8 @@ for swings and blows applies to all such attacks, regardless
 of whether the character shifts from brawling to blade
 combat or back. Gun combat is not affected by endurance.
 EXPERTISE
+
+
 A character's expertise or skill in a weapon can affect
 personal combat in both the attack and the defense.
 Attacking: The level of expertise in a specific weapon is
@@ -3311,8 +3349,7 @@ in brawling or blade combat (i.e. when using a brawling or
 blade weapon against an enemy also using such a weapon).
 The character is considered to be blocking or parrying his
 enemy's blow. Obviously, only blows or swings may be
-blocked, not shots. A long gun such as a rifle or carbine
-(but not a pistol) may be used to parry; if so, it is treated as
+blocked, not shots. A long gun such as a rifle or carbine (but not a pistol) may be used to parry; if so, it is treated as
 a brawling weapon (a cudgel) . A weapon may be used both
 to attack and parry in the same round.
 Untrained Weapon Usage: Any character using a weapon
@@ -3326,6 +3363,8 @@ characters selecting their weapons should consider the
 potential benefits of their strength and dexterity levels and
 any OMs that might be available for those characteristics.
 WEIGHT
+
+
 Characters are restricted in the total weight which they
 may carry, and may suffer negative effects if they carry
 enough weight to become encumbered. Individuals carrying
@@ -3349,8 +3388,7 @@ their strength, dexterity, and endurance are one less than
 normal. For example, a character with a UPP 788953
 carrying 12 kilograms of load would be treated as 677953
 until such time as at least 5 kilograms have been shed.
-Triple Load: A character who is part of a military force
-(mercenary unit; combat unit; troop unit) may carry up to
+Triple Load: A character who is part of a military force (mercenary unit; combat unit; troop unit) may carry up to
 triple his or her strength in kilograms, subject to a reduction
 of 2 in strength, dexterity, and endurance.
 Personal Combat
@@ -3361,19 +3399,21 @@ have normal gravity. Subtract the size of the world on
 which the adventurers are from 8 and multiply the result by
 12.5%. This indicates the additional load that the character
 is capable of carrying, in kilograms.
-For example, on a world identified as size 4 (8-4=4;
+For example, on a world identified as size4 (8-4=4;
 4x12.5%=50%) a character can carry an additional 50%
 load without being considered encumbered. A world
 with size 10 (8-10=-2; -2x12.5%=-25%) reduces the
 allowable load by 25%.
 World sizes assume that the world has normal (Earth)
 density; different densities of worlds are possible through
-the use of a density constant K (generally assumed to have
+the use of a density constantK (generally assumed to have
 a value of 1; determined by the referee). When a density
 constant K is in use, multiply the world size by K to
 determine the true gravity factor, and use that in determining
 load sizes.
 MORALE
+
+
 A party of adventurers which sustains casualties in an
 encounter will ultimately break or rout if it does not
 achieve victory.
@@ -3381,12 +3421,13 @@ At the point in time when 20% of a party is unconscious
 or killed, the party must begin making morale throws. For
 an average party, 7+ is the throw to stand, or not break and
 run. Valiant parties may have a higher throw. OMs are
-allowed: +1 if the party is a military unit; +1 if a leader
-(leader skill) is present; +1 if the leader has any tactical
+allowed: +1 if the party is a military unit; +1 if a leader (leader skill) is present; +1 if the leader has any tactical
 skill; -2 if the leader is killed (for two rounds at least, and
 until a new leader takes control); -2 if casualties (unconscious
 and dead) exceed 50%.
 TYPICAL ACTIONS
+
+
 It is impossible to accurately predict all possible actions
 which can occur in combat. This situation is one reason
 why a referee is desirable when combat is to be resolved.
@@ -3399,6 +3440,8 @@ Personal Combat
 rules. If other actions are called for, the referee must
 adjudicate their results.
 WEAPONS USAGE
+
+
 The following are important to the implementation of
 weapons use.
 The Combat Charts: The combat charts provide the
@@ -3432,6 +3475,8 @@ round. Specific activities such as opening doors or hatches
 each take one combat round, during which time the individual
 should be treated as evading.
 COMBAT EQUIPMENT
+
+
 The weapons and armor used by a character constitute
 his or her primary means of achieving goals once logic and
 persuasion have failed. Weapons are also essential for
@@ -3640,9 +3685,7 @@ rifles; rifle and auto rifle magazines are interchangeable,
 and weigh the same.
 A r ifle can be fitted with either telescopic or electronic
 sights, and with a folding stock.
-Length : 1000mm. Weight, unloaded: 4000 grams
-(loaded magazine weighs 500 grams). Base price : Cr200
-(loaded magazine: Cr20).
+Length : 1000mm. Weight, unloaded: 4000 grams (loaded magazine weighs 500 grams). Base price : Cr200 (loaded magazine: Cr20).
 Automatic Rifle (5500 grams loaded; Cr1020; TL 6): A
 highly refined and tuned version of the rifle, capable of full
 automatic fire as well as semi-automatic shots. Normally,
@@ -3660,8 +3703,7 @@ use 100 round belts of ammunition (not usable in rifles,
 however). Such belts cost Cr120 (the equivalent of six
 loaded magazines) and weigh 2500 grams. Reloading with a
 new belt requires three combat rounds.
-Length: 1000mm. Weight, unloaded : 5000 grams
-(loaded magazine: 500 grams; 100-round belt: 2000 grams).
+Length: 1000mm. Weight, unloaded : 5000 grams (loaded magazine: 500 grams; 100-round belt: 2000 grams).
 Base price: Cr1000 (loaded magazine: Cr20; complete
 100-round belt: Cr120).
 Shotgun (4500 grams loaded; Cr160; TL 4): The basic
@@ -3680,8 +3722,7 @@ Magazines measure approximately 350mm long by
 20mm in diameter and ar·e quite clumsy to carry.
 Shotguns are equipped with a. sling for carrying. They
 may be fitted with a folding stock.
-Length: 1000mm. Weight, unloaded: 3750 grams
-(loaded magazine: 750 grams). Base price: Cr150 (loaded
+Length: 1000mm. Weight, unloaded: 3750 grams (loaded magazine: 750 grams). Base price: Cr150 (loaded
 magazine: Cr10).
 Laser Carbine (8000 grams, including power pack;
 Cr3500; TL 8) : A lightweight version of the laser rifle,
@@ -3789,8 +3830,7 @@ fire. Unlike other forms of armor, reflec is worn under
 other clothing. Reflec is expensive and often d ifficult to
 obtain.
 Ablat (Cr75; TL 9): Ablat is a cheap alternative to
-reflec, and is fashioned from a material which will ablate
-(vaporize) when hit by laser fire. The ablation of the
+reflec, and is fashioned from a material which will ablate (vaporize) when hit by laser fire. The ablation of the
 material carries away the energy of the laser, and protects
 the wearer. Continued fire against ablat degrades its effec·
 tiveness, but the armor is cheap and easily replaceable.
@@ -3825,6 +3865,8 @@ given unlimited endurance (for lifting, carrying, and fighting
 purposes; not for wounds received) and receives a OM
 of +2 for surprise.
 SPECIAL CONSIDERATIONS
+
+
 The following are important to the implementation of
 weapons use.
 Drawing: Weapons are usually carried holstered or slung,
@@ -3879,6 +3921,8 @@ in one combat round if the character using the weapon so
 
 Personal Combat Game Designers' Workshop
 WEAPONS AND EQUIPMENT
+
+
 Brawling, Animal Weapons, and Blades Required Advantageous Weakened
 Base Length Base Strength Strength Blow or
 Item Weight Overall Price Level DM Level DM SwingDM TL
@@ -3939,11 +3983,15 @@ ance, and DM+2 for surprise. Requires skill vacc suit-1.
 
 The Traveller Book
 ENCOUNTERS
+
+
 The referee should work from (but
 not necessarily reveal) the following
 background: What? (or Who?), How
 Many? Why? How? When? and Where?
 SURPRISE
+
+
 Roll one die for each party and apply
 OMs. If one roll is 3+ greater than its
 opponent, the higher roll has surprise.
@@ -3951,13 +3999,14 @@ Allowed Surprise OMs
 If any member wears Battle Dress ... +2
 If any member has leader skill . .... +1
 If any member has tactical skill .. .. +1
-If any member has military experience
-(army or marines) ........ . .. +1
+If any member has military experience (army or marines) ........ . .. +1
 If any member is in a vehicle . ..... - 1
 If group has 8 or more people . . ... -1
 If group has 10 or more animals .. .. -1
 If group consists of pouncer animals . +1
 ENCOUNTER RANGE
+
+
 Roll two dice for initial encounter
 range. Apply OMs based on terrain type
 in which the encounter occurs.
@@ -3994,6 +4043,8 @@ Dice Range
 Rolls of greater than 13 equal 13;
 rolls less than 1 equal 1.
 ESCAPE AND AVOIDANCE
+
+
 Non-player parties which are outnumbered
 and have surprise avoid on
 a throw of 7+. Animals flee based on
@@ -4006,6 +4057,8 @@ Medium range •........... + 1
 long range ........ . ..... +2
 Very Long range .. ..... ... +3
 MORALE
+
+
 Roll for morale every combat
 round, once 25% of a party has
 become unconscious or been killed.
@@ -4016,10 +4069,11 @@ If any leader skill present .. . . +1
 If the leader has tactical skill .. +1
 If casualties (unconscious or dead)
 exceed 50% ............ .. . -2
-If leader unconscious or dead . . -2
-(for 2 combat rounds only; then a
+If leader unconscious or dead . . -2 (for 2 combat rounds only; then a
 new leader takes control.)
 WEIGHT LIMITATIONS
+
+
 Normal Load: May not exceed
 personal strength in kilograms.
 Double load: Encumbered, but
@@ -4033,6 +4087,8 @@ endurance reduced by -2 each.
 Individual must be a member of a
 military unit to carry triple load.
 GRAVITATIONAL EFFECTS
+
+
 World
 0
 1
@@ -4045,6 +4101,8 @@ World
 8
 9
 A
+
+
 Normal
 200.0%
 187.5%
@@ -4088,6 +4146,8 @@ and normal or excess load chosen.
 World size is explained in Worlds.
 Personal Combat
 COVER
+
+
 Targets are considered under cover
 if they are behind a solid object which
 a shot cannot penetrate (such as a wall,
@@ -4099,6 +4159,8 @@ not attacked from cover, he or she is
 not visible at the moment, and may not
 be attacked.
 CONCEALMENT
+
+
 Targets are considered concealed if
 they cannot be viewed by an attacker.
 If fully concealed, a target cannot be
@@ -4107,6 +4169,8 @@ Partial Concealment: A target may
 be partially concealed by walls, objects,
 atmospheric conditions, or darkness.
 ZERO GRAVITY
+
+
 Individuals in zero gravity may
 lose control ; weapons with recoil (all
 guns but laser carbine and laser rifle)
@@ -4126,6 +4190,8 @@ regain control. OMs allowed as above,
 but handholds and weapons may not be
 used.
 DARKNESS
+
+
 Total darkness restricts engagements
 to close and short range. Attacks with
 guns at greater than short range have
@@ -4137,17 +4203,20 @@ to OM -6.
 Electronic sights el iminate negative
 OMs due to darkness or poor lighting.
 TYPICAL ACTIONS
+
+
 The following are typical actions
 allowed in personal combat.
 Run. Walk. Close Range. Open
-Range. Stand. Evade. Shoot. Switch
-(semi or full auto). Reload. Throw.
+Range. Stand. Evade. Shoot. Switch (semi or full auto). Reload. Throw.
 Draw. Swing. Hit.
 45
 
 46
 Personal Combat Game Designers' Workshop
 WEAPONS AND RANGE MATRIX
+
+
 Attacker's
 Weapon
 Hands
@@ -4312,11 +4381,17 @@ Folding Stock
 -4
 -1
 BASIC THROW TO HIT
+
+
 A basic throw to hit 8 + of 8+ is required for each
 blow, swing, or shot.
 Many OMs are possible.
 COMBAT PROCEDURE
+
+
 ALLOWED DIE MODIFIERS
+
+
 Advantageous strength (with blades).
 Advantageous dexterity (with guns).
 Required strength (with blades).
@@ -4481,6 +4556,8 @@ no
 +4
 -1
 ATTACKS
+
+
 Attacks are blows, swings, or shots.
 Blows are inflicted by hands.
 Swings are inflicted by blades.
@@ -4504,6 +4581,8 @@ unresisting targets.
 
 The Traveller Book
 PHYSICAL CHARACTERISTICS
+
+
 The first three characteristics of the
 universal personality profile are the
 physical characteristics:
@@ -4511,6 +4590,8 @@ Strength
 Dexterity
 Endurance
 WOUNDING AND DEATH
+
+
 Wounds are applied to the physical
 characteristics, temporarily reducing
 them for the duration of combat.
@@ -4576,6 +4657,8 @@ assist recovery. Medical slow drug may
 be used to shorten recovery time to
 about one day.
 RANGES
+
+
 Close: In physical contact; touching.
 Short: At sword or polearm point;
 1 to 5 meters.
@@ -4690,6 +4773,8 @@ reoriented themselves and regained control. Roll 10+ in
 each subsequent combat round; OMs as above except
 handholds and weapons may not be used.
 ANTIQUE EQUIVALENTS
+
+
 Most of the standard gun weapons available to travellers
 are based on weapons available in the 1980s. While technology
 will certainly progress in the centuries that come, it
@@ -4740,6 +4825,8 @@ Travel has its interests, rewards, and drawbacks. New worlds to be encountered, 
 the next interstellar jump. Situations ranging from commercial ventures, to quests after unknown artifacts, to military
 expeditions are easily found.
 INTERPLANETARY TRAVEL
+
+
 Worlds orbiting the same star are accessible by interplanetary
 travel, on ships operated by local entrepreneurs,
 or with a variety of small craft. But interplanetary travel
@@ -4749,8 +4836,7 @@ Interplanetary travel takes time. The diagram of a
 typical interplanetary journey shows the procedure used for
 moving between worlds in the same star system. The
 travel formulae can be used to determine t ime required (if
-distance and acceleration are known), acceleration required
-(if distance and time are known), and distance travelled (if
+distance and acceleration are known), acceleration required (if distance and time are known), and distance travelled (if
 time and acceleration are known). All of the formulae use
 the MKS (meters, kilograms, seconds) unit system, and
 assume that the ship is undertaking a journey from rest,
@@ -4762,6 +4848,8 @@ Interplanetary (as opposed to interstellar) travel usually
 involves the individual's own vessel or a charter. Scheduled
 service is rarely available.
 INTERSTELLAR TRAVEL
+
+
 Worlds orbiting different stars are reached by interstellar
 travel, which makes use of the jump drive. Once a starship
 moves to a safe distance from a world, it may activate its
@@ -4818,8 +4906,7 @@ not money but passage in return. Working passage may not
 continue for more than three jumps, or the individual is
 considered to have been hired for standard salary. In order
 to be hired for working passage, the individual must have
-some expertise in the position for which he or she is hired
-(jack-of-all -trades may be substituted if necessary) . Baggage
+some expertise in the position for which he or she is hired (jack-of-all -trades may be substituted if necessary) . Baggage
 totalling 1,000 kilograms is allowed. Working passage is
 without cost to the individual.
 Low Passage- Transportation while in cold sleep (suspended
@@ -4856,6 +4943,8 @@ result in spacing; the stowaway is forced out the air lock
 without a vacc suit. Otherwise, reactions are determined by
 the referee.
 LESSER KNOWN ASPECTS OF SPACE TRAVEL
+
+
 As interstellar travel has developed, the field has developed
 its own dangers and customs. The following are just
 a few.
@@ -4944,6 +5033,8 @@ ocean and then fill its tanks from the local water supply. It
 takes approximately four hours and results in fuel tanks
 filled with unrefined fuel.
 STARSHIP MALFUNCTIONS
+
+
 A starship can malfunction. The two major malfunctions
 are drive failure and misjump. The primary influencing
 factors are unrefined fuel and lack of maintenance.
@@ -5002,9 +5093,10 @@ tt ~({_( .!soJ
 Starship Economics
 The operation of starships in interstellar commerce requires an understanding of the economics which governs trade
 between the stars. Prices and returns on effort and investment are controlled by the supply and demand which exists in the
-commercial system. Because starships are so expensive, many of the prices in this section are expressed in megacredits
-(abbreviated MCr) ; a megacredit is one million credits.
+commercial system. Because starships are so expensive, many of the prices in this section are expressed in megacredits (abbreviated MCr) ; a megacredit is one million credits.
 STARSHIP PURCHASE
+
+
 Bank financing is available to qualified individuals for
 the purchase of commercial starships. After a down payment
 of 20% of the cash price of the starship is made, the
@@ -5021,8 +5113,7 @@ price, paid off over a period of 40 years.
 In addition, the bank will insist that the purchaser
 submit an economic plan detailing the projected activity
 which will guarantee that monthly payments are made.
-Unless a character has some form of guaranteed income
-(perhaps large rents from some property he owns), this
+Unless a character has some form of guaranteed income (perhaps large rents from some property he owns), this
 condition will generally rule out purchases (at least fi·
 nanced purchases) of yachts, military vessels, or exploratory
 vessels.
@@ -5039,12 +5130,13 @@ with the government assuming responsibility for the payments
 upon delivery, and taking 50% of the gross receipts
 of the ship while in service. The character is responsible for
 all expenses and costs of operation.
-Subsidized merchants are also subject to mobilization
-(and use as auxiliaries) in the event of emergency or hostil·
+Subsidized merchants are also subject to mobilization (and use as auxiliaries) in the event of emergency or hostil·
 ities. At the end of 40 years, the vessel is completely paid
 off, and full title passes to the character, but the vessel
 remains subject to mobilization in case of government need.
 STARSHIP EXPENSES
+
+
 There are five basic expenses (in addition to the bank
 payment, if necessary) associated with starship operation:
 1. Fuel. Starship fuel costs Cr500 per ton (refined) or
@@ -5097,6 +5189,8 @@ Cr100 per day fee is imposed for each additional day spent
 in port. In some locations this fee will be higher, while at
 others local government subsidies will lower or eliminate it .
 REVENUE
+
+
 Ships generate revenue from cargo, passengers, and mail.
 Cargo: Starships may inquire at a starport about the
 number, sizes, and destinations of cargos awaiting transportation.
@@ -5112,7 +5206,7 @@ cargos by 5, and incidental cargos by 1 to determine the
 number of tons in each. For example, if a ship is on a
 population 6 world, going to a population 3 world with a
 tech level 3 less than the current world, the referee rolls one
-die for major cargos; he rolls a 4 (+2 from the table, - 4 for
+die for major cargos; he rolls a4 (+2 from the table, - 4 for
 the low population of the destination, +3 for the tech level
 difference), giving five major cargos. He then rolls one die
 for each cargo and multiplies each result by 10 to determine
@@ -5141,8 +5235,7 @@ specific effect on passage prices. A jump-3 starship charges
 the same passage price as a jump-1 starship. The difference
 Starship Economics
 is that a jump-3 ship can reach a destination in one jump,
-while the jump-1 ship would take three separate jumps
-(through two intermediate destinations, and requiri ng three
+while the jump-1 ship would take three separate jumps (through two intermediate destinations, and requiri ng three
 separate t ickets) to reach it. Higher jump numbers also
 may make otherwise inaccessible destinations within reach.
 But for two ships of differing jump numbers going to the
@@ -5159,8 +5252,7 @@ nage carried. Such tonnage will not exceed 5 tons per t rip.
 Other ships may be approached to deliver private mess·
 ages, at times through the ship's owner or captain, and
 at times clandestinely through a crew member. Private
-mail is usually intended for delivery to a specific point
-(such as the Travellers' Aid Society building, or a tavern
+mail is usually intended for delivery to a specific point (such as the Travellers' Aid Society building, or a tavern
 keeper), and is generally accompanied by a Cr20 to Cr120
 honorarium. Throw 9+ for a private message to be awaiting
 transm ittal, and determine randomly which crew member is
@@ -5168,6 +5260,8 @@ approached to carry it. Serving as a carrier for private mail
 also serves as an introduction to the recipient as a dependable,
 t rustworthy person.
 TRADE CUSTOMS
+
+
 The following are standard procedures in interstellar
 commerce.
 Delivery: Goods taken on in orbit are delivered when
@@ -5220,8 +5314,12 @@ get meters/second2 from Gs he must multiply by 10 (1G=10 meters/second2). The
 formula is then: T(in seconds)=2xy(300,000,000/10), or 10,954. To translate into
 1QOO.second turns, he divides by 1,000 to get about 11 turns.
 TRAVEL FORMULAE
+
+
 T=2JD/A
 TYPICAL TRAVEL TIMES
+
+
 ---- ---------Acceleration------ -------
 Kilometers 1-G 2-G 3-G 4-G 5-G 6-G Typical Use for Distance
 1,000 633s 447s 365s 316s 283s 258s Safe jump distance from planetoid.
@@ -5250,6 +5348,8 @@ Times are expressed in the most convenient terms: s=seconds, m=minutes, h=hours,
 
 The Traveller Book
 SHIP EXPENSES
+
+
 Bank Payment: Equal to 1/240th of cash price for ship. Payable monthly.
 Required only if ship is being purchased with installment payments.
 Fuel: Cr100 per ton for unrefined fuel; Cr500 per ton for refined fuel. Fuel may
@@ -5262,6 +5362,8 @@ Salaries: As indicated on the crew salaries table.
 Berthing Costs: Approximately Cr100 to land and remain six days. Cr100
 per day for each additional day.
 CREW SALARIES
+
+
 Minimum Monthly
 Position Skill Level Salary
 Pilot Pilot-1 Cr6,000
@@ -5278,6 +5380,8 @@ Working Passage: Maximum three
 jumps at no salary but room and board.
 Must have requisite skill for position.
 TYPICAL DISTANCES
+
+
 World Surface to Orbit
 Satellite
 10,000 km
@@ -5291,6 +5395,8 @@ Far Gas Giant
 600,000,000 km
 900,000,000 km
 PASSENGERS
+
+
 World Available at
 Pop ----World of Origin-----
 Digit High Middle Low
@@ -5313,12 +5419,16 @@ If Amber Zone, -6.
 Tech Level: add (or subtract) difference
 between origin and destination.
 SHIP REVENUES
+
+
 Per High Passage
 Per Middle Passage
 Per Low Passage
 Per Cargo Ton
 Mail (if fitted)
 MALFUNCTIONS
+
+
 Cr10,000
 Cr8,000
 Crt,OOO
@@ -5343,6 +5453,8 @@ If result is 16+, ship is destroyed.
 -2
 If result is 13+, ship has misjumped.
 CARGO
+
+
 World
 Pop
 Digit
@@ -5360,6 +5472,8 @@ Minor Incidental
 8
 9
 A
+
+
 10-4
 10-2
 10-1
@@ -5394,6 +5508,8 @@ Tech Level: add (or subtract) difference
 between origin and destination.
 Starship Economics
 TYPICAL ACTIVITIES
+
+
 I. Arrive in star system.
 A. Scan area for potential
 danger, problems, and other data.
@@ -5406,9 +5522,7 @@ C. Set course to major world
 or outsystem.
 Ill. Local major world.
 A. Achieve orbit.
-B. Proceed to orbital starport
-(unstreamlined ships) or surface starport
-(streamlined ships).
+B. Proceed to orbital starport (unstreamlined ships) or surface starport (streamlined ships).
 C. Arrival onplanet.
 1. Unload high passengers.
 2. Unload mail.
@@ -5466,6 +5580,8 @@ to space travel. A vessel is any interplanetary or interstellar vehicle. A ship 
 starship is a ship which has jump drives and can travel on interstellar voyages. A non·starship is a ship without jump drives.
 A small craft is any vessel under 100 tons; all small craft are incapable of jump.
 SHIP DESIGN
+
+
 Most vessels are constructed from standard design plans
 which use time-tested designs and combinations of features.
 Shipyards work from these plans which cover every detail
@@ -5510,6 +5626,8 @@ down payment with the order for the vessel, as well as
 a demonstration that proper financing is available to cover
 the balance when due.
 REQUIRED STARSHIP COMPONENTS
+
+
 Starships are constructed on the foundation of a hull,
 into which are fitted the drives and power plants, the fuel
 tankage, life support equipment, computers, controls,
@@ -5538,14 +5656,13 @@ Hulls vary in their requirements for drives and power
 plants based on tonnage. Any specific drive will be less
 efficient as the tonnage it must drive increases. The drive
 potential table lists 24 standard drive types, identified by
-the letters A through Z (omitting I and 0 to avoid con·
+the letters A throughZ (omitting I and 0 to avoid con·
 fusion with the numerals 1 and 0). Also listed are various
 tonnage levels for hulls; any tonnage which exceeds a listed
 level should be read at the next higher level. Correlating
 hull size with drive letter indicates drive potential. For
 maneuver drives, this potential is the Gs of acceleration
-available. For jump drives, the potential is the jump number
-(Jn), or jump range in parsecs. For power plants, it is power
+available. For jump drives, the potential is the jump number (Jn), or jump range in parsecs. For power plants, it is power
 plant rating (Pn). For example, a 200-ton hull equipped
 with maneuver drive-A can produce 1-G acceleration; an
 800-ton hull equipped with jump drive-D can produce
@@ -5622,8 +5739,7 @@ for upgrading computers.
 B. Staterooms: Quarters for the crew and passengers are
 provided in the form of staterooms containing sleeping and
 living facilities. Each stateroom is sufficient for one person,
-displaces 4 tons, and costs Cr500,000. In some starships
-(especially exploratory vessels, military ships, and privately·
+displaces 4 tons, and costs Cr500,000. In some starships (especially exploratory vessels, military ships, and privately·
 owned starships), double occupancy is allowed in staterooms.
 No stateroom can contain more than two persons
 however, as it would strain the ship's life support equipment.
@@ -5637,6 +5753,8 @@ passenger, costs Cr50,000, and displaces one-half ton. Low
 58
 Ship Design and Construction
 STANDARD HULLS
+
+
 Tons
 100
 200
@@ -5677,6 +5795,8 @@ sizes, readily available at the reduced
 prices or t imes shown. All others must
 be custom produced at MCr0.1 per ton.
 COMPUTERS
+
+
 Model Mer
 1 2
 1bis 4
@@ -5715,6 +5835,8 @@ determine program holding capacity.
 Model number also indicates the largest
 jump which the computer can control.
 DRIVES AND POWER PLANTS
+
+
 Jump
 Drive
 Mass MCr
@@ -5800,6 +5922,8 @@ For each drive letter, this table indicates
 price in MCr and tonnage required
 for jump, maneuver and power plant.
 DRIVE POTENTIAL
+
+
 Hull ------Jump Drive, Maneuver Drive, or Power Plant Type----- Build
 Tons A 8 C D E F G H J K L M N P Q R S T U V W X Y Z Time
 100 2 4 6 10
@@ -5817,6 +5941,8 @@ that sized hull. Use next larger size hull for intermediate tonnages. Performanc
 Gs acceleration for maneuver drives, jump number for jump drives, and power plant
 number for power plant.
 WEAPONS AND MOUNTS
+
+
 Type
 Hardpoint
 Single Turret
@@ -5836,6 +5962,8 @@ Cost (Cr)
 750,000
 250,000
 FITTINGS
+
+
 Fitting
 Description
 Stateroom
@@ -5851,8 +5979,7 @@ Tons
 1.0
 2.0
 0.5
-Cost
-(in Cr)
+Cost (in Cr)
 500,000
 50,000
 100,000
@@ -5895,6 +6022,8 @@ Space
 6
 Game Designers' Workshop
 SOFTWARE LIST
+
+
 MCr
 2.
 4.
@@ -5957,6 +6086,8 @@ Auto/Evade
 Return Fire
 Anti-Missile
 ECM
+
+
 Maneuver
 Jump-1
 Jump-2
@@ -5979,10 +6110,13 @@ and 2bis as 1 and 2 respectively).
 This credit may not be converted to
 cash.
 BRIDGE
-Two percent of ship tonnage
-(minimum: 20 tons). Cost is MCr0.5
+
+
+Two percent of ship tonnage (minimum: 20 tons). Cost is MCr0.5
 per 100 tons of ship.
 ARMAMENTS
+
+
 Ships are allowed one hardpoint
 per 100 tons. Each hardpoint can
 mount one turret and requires 1 ton
@@ -5990,10 +6124,11 @@ for fire control.
 
 The Traveller Book
 CREW REQUIREMENTS
+
+
 Pilot (Cr6,000 monthly) : Minimum
 one per vessel. Ships 100 tons and over
-requ ire skill pilot-1 or better; small craft
-(under 100 tons) require ship's boat-1
+requ ire skill pilot-1 or better; small craft (under 100 tons) require ship's boat-1
 or better (or may use pilot minus 1 ).
 Navigator (Cr5,000 monthly) : Minimum
 one per ship over 200 tons.
@@ -6035,6 +6170,8 @@ administrative personnel. Ships over
 1000 tons should have at least ten crew
 members per 1000 tons of mass displacement.
 CONSTRUCTION FEES
+
+
 Naval Architect: Charges 1% of
 f inal ship cost to prepare design plans
 in four weeks. A rush job costs 1.5%
@@ -6047,6 +6184,8 @@ Financing: 20% cash down payment,
 plus 1 / 240th of list price monthly
 for 480 months.
 FUEL CONSUMPTION
+
+
 Jump Drive: 0.1MJn; M is the ship
 tonnage, Jn is jump number executed.
 Power Plant: 1 OPn; Pn is power
@@ -6056,6 +6195,8 @@ Small Craft: Fuel tankage l isted
 in descriptions supports four weeks
 of operations.
 STARSHIP DESIGN CHECKLIST
+
+
 Use this checklist to control design
 and construction of starships.
 1. Select hull size.
@@ -6089,6 +6230,8 @@ and small craft.
 14. Note total price and construction
 time required.
 STANDARD VEHICLES
+
+
 Vehicle Tons MCr
 ATV 10 0.03
 Air/ Raft 4 0.60
@@ -6107,6 +6250,8 @@ Shuttle 95 33.00
 Fighter 10 18.00
 Ship Design and Construction
 STANDARD SHIP DESIGNS
+
+
 The following are standard designs:
 A Free Trader. 200 tons. Jump-1,
 1-G. 30 tons fuel. Model/1 . 10 staterooms,
@@ -6148,8 +6293,7 @@ Screw.
 MCr445.95; 25 months.
 T Patrol Cruiser. 400 tons. Jump-3,
 4-G. 160 tons fuel . Model/3. 12
-staterooms, 4 low berths. 4 hardpoints
-(2 triple missile turrets, 2
+staterooms, 4 low berths. 4 hardpoints (2 triple missile turrets, 2
 triple laser turrets). Ship's boat,
 GCarrier. 10 crew.
 MCr221.04; 16 months.
@@ -6210,6 +6354,8 @@ Weapons for installation in turrets include pulse and beam
 lasers, missile racks, and sandcasters. All are used in the
 space combat system described later in this book.
 OPTIONAL COMPONENTS
+
+
 The following are optional components. Where not
 present, they may be added to a standard design by the
 purchaser.
@@ -6248,6 +6394,8 @@ small craft are carried on a ship, it must have sufficient
 tonnage to hold each small craft allocated as small craft
 hangars or compartments.
 SHIP CREWS
+
+
 Each ship requires a crew. On small ships, the crew may
 be one person; on larger ships, the crew can be quite large.
 The following basic crew positions must be filled:
@@ -6293,8 +6441,7 @@ No person may assume the duties of more than two crew
 positions except in the case of an emergency.
 Other crew positions may be created depending on the
 facilities of the starship: for example, a starship which
-carries a cutter could have a crew position for cutter pilot
-(and possibly for cutter gunner) in addition to its normal
+carries a cutter could have a crew position for cutter pilot (and possibly for cutter gunner) in addition to its normal
 crew positions. Specific jobs or tasks (laboratory technician
 if the ship has a laboratory; contact specialist if the ship
 is assigned alien contact missions) require crew members
@@ -6306,6 +6453,8 @@ three administrative personnel. Extremely large starships
 should have at least 10 crew members for each 1000 tons of
 mass displacement.
 WEAPONRY
+
+
 The four commonly available weapons types are pulse
 lasers, beam lasers, missile launchers, and sandcasters.
 Pulse Lasers fire short bursts of energy at targets and are
@@ -6326,6 +6475,8 @@ the ship. The specific particles used are similar to the
 material used in ablat personal armor; replacement canisters
 of this special sand weigh about 50 kg and cost Cr400.
 SMALL CRAFT
+
+
 Vessels under 100 tons are considered to be small craft.
 There are eight standard designs available; each design plan
 is available for Cr100. All take approximately twelve
@@ -6469,6 +6620,8 @@ permitted. It has one ton of excess space, and costs MCr18.
 64
 Ship Design and Construction
 STANDARD SHIP DESIGN PLANS
+
+
 The following ships are standard designs available at
 almost any shipyard. Each description indicates the ship's
 performance and details of its design. Design plans for each
@@ -6543,8 +6696,7 @@ The subsidized liner requires a crew of nine: pilot,
 navigator, three engineers, three stewards, and one medic.
 Up to three gunners may be added. The ship can carry 21
 high or middle passengers and twenty low passengers. The
-pilot operates the launch. The ship costs MCr236.97
-(including 10% discount for standard designs) and takes 22
+pilot operates the launch. The ship costs MCr236.97 (including 10% discount for standard designs) and takes 22
 months to build.
 Yacht (type Y): Built on the 200-ton hull, the yacht is a
 noble's plaything used to entertain friends and undertake
@@ -6632,8 +6784,7 @@ can carry 20 passengers (35 if double occupancy) on a noncommercial
 basis. The ship costs MCr158.98 (including 10%
 discount for standard designs) and takes 14 months to build.
 Safari Ship (type K) : Using a 200-ton hull, the safari
-ship is an excursion vessel intended for trophy-taking
-(real or photographic) expeditions to other worlds. It
+ship is an excursion vessel intended for trophy-taking (real or photographic) expeditions to other worlds. It
 has jump drive-8, maneuver drive-A, and power plant-B.
 giving a performance of jump-2 and 1-G acceleration. Fuel
 tankage for 60 tons supports the power plant and one
@@ -6658,6 +6809,8 @@ Game Designers' Workshop
 
 The Traveller Book
 BUILDING CUSTOM SHIPS
+
+
 Should one of the standard design ships not meet an
 individual's or a government's needs, a naval architect will
 certainly be willing to earn his or her 1% fee by providing
@@ -6697,6 +6850,8 @@ plans, once acquired, may be retained or filed by the
 adventurers, and upon delivery to a shipyard can be used to
 begin construction of the ship.
 FORMATS
+
+
 Once a custom ship has been constructed, it must be
 described in such a way as to allow the characters and
 players to utilize it and to understand its configuration.
@@ -6754,6 +6909,8 @@ The ship can carry_passengers and_low passengers.
 The ship costs MCr (-appropriate discounts
 and included fees- ) and takes ___ months to build.
 DECK PLANS
+
+
 If the referee or the designer should feel that detailed
 deck plans for a ship are required, then they may be drawn
 up using square grid graph paper. The preferred scale for
@@ -6782,6 +6939,8 @@ SHIP'S PAPERS (COMMERCIAL) J 1. Date of Preparation
 4. Ship Type 5. 8uolder 6. Homeworld
 7. Laid Down 8. First Flight 9. Cost (new) 10. Occupation
 STATISTICS
+
+
 Basic ship informat ion for classification and
 regist ration purposes.
 11a. Hull Tonnage 11 b . Streamlined? 11c. Max Atmosphere
@@ -6818,6 +6977,8 @@ Routine Space- Cr Defensive Space - Cr Offen•ive Space- Cr
 0 Launch 1- 2.0 69
 0 Double Fire 4 - 4.0
 ADDITIONAL DATA
+
+
 Information on armaments, inventories and
 services performed.
 27. Turrets (Jist turrets by hardpoin t; indicate installed weaponry)
@@ -6845,6 +7006,8 @@ To continue the example above, both jump-1 and navigation would be required for 
 Both programs would be fed into the computer during the reprogramming phase, but only after sufficient space had been
 cleared (perhaps by removing the maneuver and auto-evade programs).
 THE SOFTWARE LIST
+
+
 The computer software list indicates the various programs
 that are available. It shows space required by a
 specific program in CPU or storage, its price in MCr, and its
@@ -6978,6 +7141,8 @@ occurs. Because this system is not foolproof, would-be
 hijackers may gain access in spite of the program on a
 throw of 5 or less.
 WRITING COMPUTER PROGRAMS
+
+
 Player-characters can, and should, seek out new and
 different computer programs to improve the performance
 and enlarge the capabilities of their spacecraft. Generally,
@@ -6996,6 +7161,8 @@ the program is really needed. The referee should note the
 potential for a fatal flaw and roll as required (suggested
 roll: 11+ for the bug to appear).
 SMALL CRAFT COMPUTERS
+
+
 Small craft do not require computers, and ordinarily do
 not have them. They utilize their weapons with negative
 OMs of -1 and cannot add in gunner skill when they are
@@ -7004,6 +7171,8 @@ weapon system, then the ordinary computer programming
 rules apply to it (except that ship's boat skill is needed
 instead of pilot skill when writing such programs) .
 USING THE SOFTWARE LIST
+
+
 The computer software list on page 75 shows the basic
 information required for the use of software.
 In space combat, the important information is space
@@ -7034,6 +7203,8 @@ seconds acceleration at 1-G will produce a velocity change of 10,000 km, or 100 
 counters or markers. Because spacecraft miniatures are vastly oversize for the scale in use, each should be marked with a
 spot or point to designate the exact location of the ships in play.
 TURN SEQUENCE
+
+
 Starship miniatures battles are resolved in a series of
 game turns, each representing 1000 seconds elapsed time.
 Most battles, regardless of the number of ships or players
@@ -7057,6 +7228,8 @@ phase, ordnance may only be launched during the ordnance
 launch phase, and computers may only be reprogrammed in
 the computer reprogramming phase.
 PREPARATION FOR PLAY
+
+
 Each ship involved in space combat must have a data
 card prepared for it. This card contains basic information
 about· the ship, serving as a reference for the players during
@@ -7081,8 +7254,8 @@ vehicles carried).
 Below this data, list all turrets (numbered consecutively
 starting with T-1 ). After each turret designation, indicate
 the armament with which each turret is equipped, using the
-letters B (beam laser) , P (pulse laser), M (missile launcher),
-and S (sandcaster). A triple turret would have up to three
+lettersB (beam laser) ,P (pulse laser),M (missile launcher),
+andS (sandcaster). A triple turret would have up to three
 letters indicating the weapons installed in it, while a single
 turret would only have one. After the letters for the weap·
 ons, indicate the skill of the gunner in the turret. Also
@@ -7109,6 +7282,8 @@ a single turret.
 
 The Traveller Book
 MOVEMENT
+
+
 Ships move using their maneuver drives; use of the jump
 drive exits a ship into interstellar space, out of the area of
 play. Maneuver drive uses thrust to accelerate a ship in a
@@ -7131,8 +7306,7 @@ by voluntary acceleration or by gravitational effects. With a
 vector of 150 mm at 90 degrees, a ship will travel 150 mm
 at 90 degrees in its next movement phase. In clear space,
 without gravitational influence, and without voluntary
-acceleration by the ship, it could travel at 150 mm per turn
-(direction 90 degrees) forever.
+acceleration by the ship, it could travel at 150 mm per turn (direction 90 degrees) forever.
 Acceleration involves altering a ship's vector by adding
 another to it; this new vector can come from thrust using
 the maneuver drive, or it can come from gravity. In either
@@ -7140,8 +7314,7 @@ case, the method is the same. Vectors are added by placing
 them in a chain, head to tail, and then drawing a new vector
 from the tail of the first vector to the head of the last vector.
 The vector addition diagram illustrates the concept of
-vector addition. As shown in figure A, to add two vectors
-(vector 1 is 75 mm at 90 degrees, and vector 2 is 25 mm at
+vector addition. As shown in figure A, to add two vectors (vector 1 is 75 mm at 90 degrees, and vector 2 is 25 mm at
 90 degrees), place the tail of vector 2 at the head of vector
 1, and draw a line from the tail of the first vector to the
 head of the second vector. The result is a vector of 100 mm
@@ -7186,6 +7359,8 @@ by combat damage, it may not exceed the revised size
 rating. Unused acceleration may not be saved or conserved
 to allow excess acceleration in following turns.
 GRAVITY
+
+
 The section on planetary templates later in this chapter
 covers the construction of specific world disks, complete
 with gravitation bands which can affect movement. When
@@ -7203,6 +7378,8 @@ the planetary template center. It is added to the regular
 course vector (along with any ordinary course change
 vector) during a player's movement phase.
 LASER FIRE
+
+
 In the laser fire phase of a player turn, the phasing
 player may fire laser weaponry at enemy targets. The
 following procedure dictates the order of actions taken by
@@ -7238,6 +7415,8 @@ Range greater than 2S00mm
 Range greater than SOOOmm
 Obscuring sand (per 2Smm)
 HIT LOCATIONS
+
+
 Two Non- Small
 Dice Starship Starship Craft
 2 Powerplant Powerplant Drive
@@ -7258,6 +7437,8 @@ s Fuel Fuel Drive
 12 Critical Critical Critical
 If no small craft computer. treat as drive.
 CRITICAL HITS
+
+
 One Non- Small
 Die Starship Starship Craft
 1 Powerplant Powerplant Drive
@@ -7268,6 +7449,8 @@ S Computer Computer Computer
 6 Explode Explode Explode
 If no small craft computer. treat as drive.
 SCALES
+
+
 1. Time: Game turn is 1,000 seconds.
 2. Space: 1:100,000,000; one millimeter
 equals 100 kilometers; three meters
@@ -7278,9 +7461,10 @@ equal one light-second.
 kilometers (or 100 mm in scale).
 4. Units: Individual starships, nonstarships,
 and small craft.
-Intruder Player Turn-
-Game Designers' Workshop
+Intruder Player Turn-Game Designers' Workshop
 GAME TURN SEQUENCE
+
+
 A Intruder Movement. The intruder moves his ships using the movement,
 gravity, and other applicable rules. Ordnance (missiles and sand) which he has
 launched in previous game turns is moved at the same time.
@@ -7299,8 +7483,7 @@ Lifeboats and ship's vehicles are launched in this phase.
 E. Intruder Computer Reprogramming. The intruder may remove computer
 programs from his on-board computer, and input other programs in anticipation
 of their use in later turns.
-Native Player Turn-
-A Native Movement. The native moves his ships using the movement,
+Native Player Turn-A Native Movement. The native moves his ships using the movement,
 gravity, and other applicable rules. Ordnance (missiles and sand) which he has
 launched in previous game turns is moved at the same time.
 B. Native Laser Fire. The native may fire his ships' laser weaponry at enemy
@@ -7318,8 +7501,7 @@ Lifeboats and ship's vehicles are launched in this phase.
 E. Native Computer Reprogramming. The native may remove computer programs
 from his on-board computer, and input other programs in anticipation of
 their use in later turns.
-Game Turn Interphase-
-The end of one game turn is marked. All non-player items such as planets,
+Game Turn Interphase-The end of one game turn is marked. All non-player items such as planets,
 worlds, and satellites move in accordance with the rules. Other miscellaneous
 activity may also be necessary. The game then proceeds to the movement and
 combat of the next game turn.
@@ -7346,12 +7528,15 @@ Example
 
 The Traveller Book
 COMPUTER SOFTWARE LIST
+
+
 SpaceMCr Program Title and Effects Skills
 Space Combat
 STARSHIP ENCOUNTERS
+
+
 Throw Two ------ Starport Type------
-Offensive Programs-
-1
+Offensive Programs-1
 2
 1
 3
@@ -7395,8 +7580,7 @@ Multi-Target-3; allows engagement of 3 targets
 Multi-Target-4; allows engagement of 4 targets
 Launch; allows launch of missiles and sand
 Double Fire; allows firing twice
-Defensive Programs-
-1 1. Maneuver/ Evade-1; -~pilot skill
+Defensive Programs-1 1. Maneuver/ Evade-1; -~pilot skill
 2 2. Maneuver/Evade-2; -'h pilot skill
 3 3. Maneuver/Evade-3; -*pilot skill
 4 4. Maneuver/Evade-4; - pilot skill
@@ -7406,8 +7590,7 @@ Defensive Programs-
 1 0.5 Return Fire; automatic response if attacked
 2 1. Anti-Missile; allows laser anti-missile fire
 3 4. ECM; may explode incoming missiles
-Routine Programs-
-1 0.1 Maneuver; allows use of maneuver drive
+Routine Programs-1 0.1 Maneuver; allows use of maneuver drive
 1 0.1 Jump-1; allows use of jump-1
 2 0.3 Jump-2; allows use of jump-2
 3 0.4 Jump-3; allows use of jump-3
@@ -7496,16 +7679,19 @@ used differently, this package consists of a credit in MCr equal to the model
 number of the computer (treat 1 bis and 2bis as 1 and 2 respectively). This credit
 may not be converted to cash.
 DETECTION
+
+
 Commercial or privately owned ships
 can detect other ships up to one-half
 light-second ( 1,500mm) away.
 Military or scout ships can detect
-other ships up to two light-seconds
-(6,000mm) away.
+other ships up to two light-seconds (6,000mm) away.
 Tracking: Once detected, a vessel
 can be tracked by another ship up to
 three light-seconds (9,000mm) away.
 VECTORS
+
+
 Figure A
 1 )l ~
 Figure B
@@ -7525,44 +7711,98 @@ Dice A
 13 M*
 8
 A
+
+
 s
 A
+
+
 R*
 M
+
+
 R
+
+
 c*
 Y*
 c
 R
+
+
 A
+
+
 R*
 TP
+
+
 T
+
+
 y
 A
+
+
 14 C* T* S*
 15 T* C" Y*
 D
+
+
 L
+
+
 K
+
+
 s
 SP
+
+
 A
+
+
 R
+
+
 M
+
+
 y
 TP
+
+
 E
+
+
 K
+
+
 s
 A
+
+
 TP
+
+
 CP
+
+
 X
+
+
 L
+
+
 T
+
+
 TP
+
+
 CP
+
+
 c
 Roll for starship encounters when
 entering or leaving a system. Ship
@@ -7572,8 +7812,7 @@ indicates that a small craft encounter
 occurs in addition.
 OMs: +2 if naval base in system;
 +1 if scout base in system.
-Starships-
-A 200-ton Free Trader
+Starships-A 200-ton Free Trader
 K 200-ton Safari Ship
 L 400-ton Laboratory Ship
 C 800-ton Mercenary Cruiser
@@ -7592,6 +7831,8 @@ Die
 6
 7
 STANOAROSMALLCRAFT
+
+
 Craft
 20-ton Launch
 30-ton Ship's Boat
@@ -7604,8 +7845,10 @@ Craft
 OMs: +1 if naval base in system; -1
 if scout base in system.
 SPECIAL RULES
+
+
 Missile Detonation: Missiles inflict
-1 D ( 1 to 6) hits when they detonate.
+1D ( 1 to 6) hits when they detonate.
 From those hits, each hit location and
 hit effect is determined separately.
 Shifting Fire: Once a target is desig·
@@ -7654,6 +7897,8 @@ fired, but such a shift is subject to a DM of -6 in addition
 to all other applicable OMs.
 Game Designers' Workshop
 LASER RETURN FIRE
+
+
 Laser return fire is conducted by those ships which have
 been targets for laser fire from enemy weaponry in the
 preceding laser fire phase. Both the target and return fire
@@ -7667,6 +7912,8 @@ phase. It is dependent on the anti-missile fire program. For
 anti-missile fire to be performed, no target program is
 necessary.
 ORDNANCE LAUNCH
+
+
 During the ordnance launch phase, missiles or sand (or
 both) may be launched, provided both launch and target
 programs are running. In addition, lifeboats or ship's
@@ -7698,6 +7945,8 @@ For each missile, throw one die. The result is the number of
 hits inflicted; each resulting hit location is determined
 separately.
 DETECTION
+
+
 Ordinary or commercial starships can detect other ships
 out to a range of about one-half light-second, about 1,500
 millimeters. Military and scout starships have detection
@@ -7714,6 +7963,8 @@ mm, or 9 meters).
 
 The Traveller Book
 DAMAGE DEFINITIONS
+
+
 Once combat results in hits against a vessel, the damage
 must be implemented. The precise portion of a ship affec·
 ted by hits is determined from the hit location table.
@@ -7798,6 +8049,8 @@ the indicated item. Unlike ordinary hits, the entire item is
 destroyed (crew is not necessarily killed, but is rendered
 unable to function).
 SPECIAL SITUATIONS
+
+
 The following are descriptions of several special situat
 ions and how they may be handled when they arise. In
 addition to the specific instructions given, they also serve as
@@ -7885,6 +8138,8 @@ cheaper. In the case of minor malfunctions, OMs may be
 applied to the repair cost throw as considered appropriate.
 Repair parts cost of 0% is considered to be inconsequential.
 STARSHIP ENCOUNTERS
+
+
 When a starship enters a system, there is a chance that it
 will encounter any one of a number of different ships going
 about their business. Very often, the exact encounter is the
@@ -7912,6 +8167,8 @@ The referee may want to use the reaction table from the
 chapter on encounters to determine the precise reaction of
 any type of ship and crew.
 PLANETARY TEMPLATES
+
+
 A planetary template must be constructed for each
 world or moon present in the scenario, showing the size of
 the planet itself and of its zones of various gravitational
@@ -7981,8 +8238,7 @@ M =K(D/8)3
 Space Combat
 G8 KD/8
 L=64j M/G
-The sample planetary template on this page shows Terra
-(the Earth) complete with gravity bands for 0.25, 0.50, and
+The sample planetary template on this page shows Terra (the Earth) complete with gravity bands for 0.25, 0.50, and
 0. 75 Gs. Noted next to the world on the template are the
 universal planetary profile (see Worlds) and the world
 name. If you are going to construct templates for specific
@@ -7996,6 +8252,8 @@ template values (in millimeters) for world sizes (D) of
 one through ten, with K assumed to be 1. In addition, the
 four gas giants of the solar system are listed for reference.
 STANDARD WORLDS
+
+
 Size R M K Gs 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00
 One 8 0.002 0.125
 Two 16 0.016 0.250 16
@@ -8032,6 +8290,8 @@ bases, and fuel for starships. All of this information is coded onto the subsect
 and to the players during interstellar travel. World mapping examines the single most important world in each system and
 determines the basic characteristics for it. This information is retained for use in adventures on the world surface.
 STAR MAPPING
+
+
 In order to create a subsector, the referee uses a blank
 subsector grid and dice to determine the presence of
 systems, starports, and bases. The system hex format table
@@ -8136,14 +8396,15 @@ star systems in space, and shows their relationships to each
 other in terms of relative distance and commercial spacelane
 connections.
 WORLD CREATION
+
+
 The term world refers to the various bodies that are
 contained in a stellar system; it encompasses planets,
 satellites, and asteroid belts. For example, the single most
 important world in a system may not be a planet; it could
 be a satellite of a gas giant, or it could be a planetoid within
 an asteroid belt.
-The worlds contained in the star systems on the sub-
-Worlds
+The worlds contained in the star systems on the sub-Worlds
 sector map may be further classified in terms of their gross
 physical characteristics and their effects on persons living
 on them or travelling to them. These characteristics (star·
@@ -8170,8 +8431,7 @@ containing world name, locat ion, universal planetary
 profile, and other basic data should be compiled. This
 listing should be available to players who travel through the
 subsector.
-In addition, each world should be allocated at least one
-(and preferably several) pages in a central notebook maintained
+In addition, each world should be allocated at least one (and preferably several) pages in a central notebook maintained
 by the referee. As characteristics are generated, they
 should be recorded along with the name of the world and
 its location (generally its subsector and hex number). In
@@ -8236,6 +8496,8 @@ worlds which have been deliberately (rather than randomly)
 generated. Often such planets will be devised specifically to
 reward or torment players.
 TECHNOLOGICAL LEVEL
+
+
 The degree of technological expertise, and thus the
 capabilities of local industry, depends greatly on the basic
 characteristics of a world. This technological index is
@@ -8359,6 +8621,8 @@ mines the quality and sophistication of the products of a
 world. It indicates what precise types of equipment are
 available and common locally.
 TRADE CLASSIFICATIONS
+
+
 Additional details of a specific world can be expressed
 by the trade classification and statements about the world.
 The referee should be ready to establish new classifications
@@ -8381,7 +8645,7 @@ have an atmosphere of 3 or less, a hydrographic percentage
 of 3 or less, and a population of 6 or more.
 Industrial worlds have large production bases and engage
 in the manufacture of finished goods. Such a world must
-have an atmosphere of 0, 1, 2, 4, 7, or 9 (vacuum, trace, or
+have an atmosphere of 0, 1, 2, 4, 7, or9 (vacuum, trace, or
 tainted), and a population of 9 or greater.
 Non-industrial worlds are forced to import much of their
 finished goods. Non-industrial worlds must have a popula·
@@ -8393,8 +8657,7 @@ sphere of 6 or 8, and a population of 6 through 8.
 Poor worlds are undeveloped and marginal backwaters.
 A poor world must have an atmosphere of 2 through 5 and
 a hydrographic percentage of 3 or less.
-Water worlds are totally covered by seas and oceans
-(a hydrographic percentage of A).
+Water worlds are totally covered by seas and oceans (a hydrographic percentage of A).
 Desert worlds have no standing water (a hydrographic
 percentage of 0) and atmosphere of 2+.
 Vacuum worlds have no atmosphere (an atmosphere of 0).
@@ -8419,6 +8682,8 @@ preserves or reserves for various purposes, and so on.
 84
 Worlds
 SYSTEM CONTENTS TABLE
+
+
 Die Star- Naval Scout Gas
 Roll port Base Base Giant
 2 A no no yes
@@ -8439,6 +8704,8 @@ Do not roll if starport E or X.
 Naval Base: Do not roll if starport
 C, D, E, or X.
 ST ARPORT TYPES
+
+
 Type Description
 A Excellent quality installation.
 Refined fuel available. Annual maintenance
@@ -8466,6 +8733,8 @@ with no fuel, facilities, or bases present.
 X No starport. No provision is
 made for any ship landings.
 TRAVEL ZONES
+
+
 Worlds may be classified as travel
 zones green, amber, or red. Green is
 usually not noted or stated.
@@ -8477,6 +8746,8 @@ delay.
 Red: Prohibited to travellers; local
 conditions can involve death or injury.
 SIZE
+
+
 Digit Description
 0 Asteroid/Planetoid Belt.
 1 1000 miles (1600 km) .
@@ -8496,6 +8767,8 @@ letter codes. Such worlds may be
 simply larger, or they may be of
 special or notable types.
 ATMOSPHERE
+
+
 Digit Description
 0 No atmosphere.
 1 Trace.
@@ -8515,6 +8788,8 @@ require protective clothing. The
 precise requirements are given in
 the text.
 HYDROGRAPHICS
+
+
 Digit Description
 0 No free standing water.
 1 10% water.
@@ -8536,6 +8811,8 @@ worlds. Worlds with atmosphere 0 or
 than 0 are ice-capped.
 Game Designers' Workshop
 POPULATION
+
+
 Digit Description
 0 No inhabitants.
 1 Tens of inhabitants.
@@ -8554,6 +8831,8 @@ may range from the exact equivalent of
 the population digit to just below the
 next higher population digit.
 LAW LEVEL
+
+
 Digit Description
 0 No prohibitions.
 1 Body pistols undetectable by standard
@@ -8567,8 +8846,7 @@ nature (machine guns, automatic rifles)
 prohibited.
 4 Light assault weapons (submachineguns)
 prohibited.
-5 Personal concealable firearms
-(such as pistols and revolvers) pro·
+5 Personal concealable firearms (such as pistols and revolvers) pro·
 hibited.
 6 Most firearms (all except shotguns)
 prohibited. The carrying of any
@@ -8594,6 +8872,8 @@ official or policeman is 4+.
 
 The Traveller Book
 GOVERNMENT
+
+
 Digit Description
 0 No government structure. In many cases, family bonds predominate.
 1 Company/Corporation. Government by a company managerial elite; citizens
@@ -8622,6 +8902,8 @@ enjoying the overwhelming confidence of the citizenry.
 D Religious Dictatorship. Government by a religious organization without
 regard to the needs of the citizenry.
 WORLD GENERATION CHECKLIST
+
+
 1. Determine world occurrence (10
 for 4, 5, 6 is standard).
 2. Check system contents table.
@@ -8653,8 +8935,9 @@ from tech level table.
 8. Note statistics for reference.
 9. Map system on subsector map grid.
 TECH LEVEL TABLE
-Star-
-Digit pon Size Atm Hyd Pop Govt
+
+
+Star-Digit pon Size Atm Hyd Pop Govt
 0 +2 +1 +1
 1 +2 +1 +1
 2 +1 +1 +1
@@ -8671,6 +8954,8 @@ c +2 +1
 D +1 - 2
 E +1
 F
+
+
 X - 4
 Determine OMs from this table and
 apply them to 1 D to find tech level.
@@ -8684,6 +8969,8 @@ that situation under this generation
 system.
 Worlds
 TECHNOLOGICAL LEVELS
+
+
 Digit Description
 0 Stone Age. Primitive
 1 Bronze Age to Middle Ages
@@ -8710,13 +8997,15 @@ capability for a world at the stated
 tech level. Also see the tech level
 charts on the next two pages.
 TRADE CLASSI FICATIONS
+
+
 Agricultural: Atmosphere 4 - 9,
 hydrographic 4 - 8, population
 5 - 1.
 Non-Agricultural: Atmosphere 3-,
 hydrographic 3-, population 6+.
 Industrial: Atmosphere 0 , 1, 2, 4,
-7, or 9 (vacuum, trace, or tainted),
+7, or9 (vacuum, trace, or tainted),
 population 9+.
 Non-Industrial: Population 6-.
 Rich: Atmosphere 6 or 8, population
@@ -8762,6 +9051,8 @@ average Imperial
 above average Imperial
 above average Imperial
 TL
+
+
 0
 2
 3
@@ -8777,6 +9068,8 @@ TL
 13
 14
 TECHNOLOGICAL LEVELS
+
+
 ---------W~pon~------------
 Personal Armor Heavy
 club, cudgel
@@ -8850,6 +9143,8 @@ The Traveller Book
 14
 15
 TECHNOLOGICAL LEVELS
+
+
 ------------------Transportation---------- -------- Energy
 Water Land Air Space Sources
 canoes
@@ -8864,7 +9159,11 @@ wagons
 trains
 ground cars
 ATV
+
+
 AFV
+
+
 ------hovercraft------
 hot air balloons
 dirigibles
@@ -8912,6 +9211,8 @@ cloning
 
 Worlds
 SUBSECTOR MAP GRID
+
+
 1. Subsector Name
 88
 TAS Form 6
@@ -8922,6 +9223,8 @@ Game Designers' Workshop
 
 The Traveller Book Worlds
 SUBSECTOR WORLD DATA
+
+
 1. Subse<:tor Name 2. Date of Preparation
 World Name Location UPP Remarks
 89
@@ -8950,6 +9253,8 @@ only have clues as to the relative abundance or scarcity of specific animals in 
 they are used each day to determine if animals are encountered, the specific nature of such animals, and how they react to
 the adventurers. Hunting for sport or food is possible, and danger posed by animals may be great.
 CREATING ENCOUNTER TABLES
+
+
 Initially, the referee must prepare a blank encounter
 column for each terrain type on the world. The terrain OMs
 chart indicates the general types of terrain which might be
@@ -9099,8 +9404,7 @@ characteristics within this system. Larger or smaller animals
 may be invented, extrapolating from the system presented.
 Other animal weaponry and armor types may be invented;
 the easiest to implement are those already found on the
-weapons matrix, with or without OMs, such as cloth-1
-(cloth minus 1 ), ablat+1, foil, stinger-1, and so on.
+weapons matrix, with or without OMs, such as cloth-1 (cloth minus 1 ), ablat+1, foil, stinger-1, and so on.
 Animals may also be provided with more complex
 motivations than the simple dice rolls for attack and flight.
 The animal type descriptions later in this chapter will prove
@@ -9136,6 +9440,8 @@ The referee should always be prepared to alter or re·
 strain prescribed procedures if it is felt that they contravene
 logic or reason.
 USING THE ENCOUNTER TABLES
+
+
 Each day, an adventuring band may possibly have one or
 more encounters with some animal life forms. As a general
 rule, the referee will check for an encounter once while the
@@ -9181,6 +9487,8 @@ minds. The basic system may be used without this aspect,
 but descriptions such as lion·like, amoeboid, canine, or
 others may prove useful.
 ANIMAL DEFINITIONS
+
+
 The following definitions more fully detail the meanings
 of the descriptive terms used for animal categories, types,
 and events.
@@ -9319,6 +9627,8 @@ microscopic, such as bacteria.
 94
 Animal Encounters
 TERRAIN TYPES
+
+
 Terrain
 Type
 Clear
@@ -9333,6 +9643,8 @@ Hills, Foothills
 Badlands
 Type Size
 DM DM
+
+
 +3
 +4
 -3 -3
@@ -9367,6 +9679,8 @@ Cavern - 4
 Crevasse, Abyss - 1
 Hollow
 ENCOUNTER COLUMNS
+
+
 - 4
 -2
 +1
@@ -9381,8 +9695,7 @@ ENCOUNTER COLUMNS
 +1
 -3
 -1
-- 2 Dice Column- - 1 Die Column-
-Die Categorv
+- 2 Dice Column- - 1 Die Column-Die Categorv
 2 S Scavenger
 3 0 Omnivore
 4 S Scavenger
@@ -9422,6 +9735,8 @@ Scavenger, +1; Herbivore, +2. Flyers and
 triphibians never have armor.
 Game Designers' Workshop
 ANIMAL TYPES
+
+
 Die Herbivore Omnivore Carnivore Scavenger
 0 Filter (1 D) Gatherer Siren Carrion-eater (1 D)
 1 Fil ter Gatherer Pouncer Carrion-eater (20)
@@ -9458,6 +9773,8 @@ A +1
 F -6
 F -5
 ANIMAL ATTRIBUTES
+
+
 River
 s +1
 A +1
@@ -9469,6 +9786,8 @@ s +2
 s +2
 A +2
 A
+
+
 s +1
 s - 1
 T -7
@@ -9512,6 +9831,8 @@ Die Weight
 19 40000
 20 44000
 ANIMAL SIZES AND WEAPONRY
+
+
 Hits
 10/0
 10/10
@@ -9524,8 +9845,7 @@ Hits
 60/30
 70/30
 80/30
-80/40
-(~)
+80/40 (~)
 90/40
 100/50
 120/60
@@ -9541,8 +9861,7 @@ Wounds
 +20
 +30
 +40
-+50
-(~)
++50 (~)
 x2
 x2
 x3
@@ -9571,11 +9890,9 @@ as blade
 as pike
 as broadsword
 as body pistol
-Armor
-(~)
+Armor (~)
 jack
-jack
-(~)
+jack (~)
 mesh+1
 cloth+1
 mesh
@@ -9592,21 +9909,19 @@ which may be expected by any
 specific animal. Determine animal
 category and type. Roll once in each
 column (to attack, to flee, and
-typical speed); the result is the throw
-(on two dice) that that specific
+typical speed); the result is the throw (on two dice) that that specific
 animal type must make to attack or
 flee (otherwise the animal does
 nothing) . . The number for speed is
 the multiplier times ordinary speed.
 For example, for a grazer, roll to
 determine attack; one die is rolled,
-with a result of 6 (+2=8), so the
+with a result of6 (+2=8), so the
 animal will attack on a roll of 8+
 when encountered. To determine the
 throw to flee, one die is rolled, for a
 3 (-1=2). so the animal will flee on a
-roll of 2+. The speed die roll is a 4
-(- 2=2), so the animal has double
+roll of 2+. The speed die roll is a 4 (- 2=2), so the animal has double
 ordinary speed.
 Note that the rolls to determine
 these numbers use one die, but in all
@@ -9615,8 +9930,8 @@ rolls when used on the animal
 encounter tables.
 Formatting: Each roll is generally
 a single digit, and should be followed
-by the letter A (for attack), F (for
-flee), or S (for speed). For example,
+by the letterA (for attack),F (for
+flee), orS (for speed). For example,
 A6 F7 S2 indicates an animal that
 will attack on 6+, flee on 7+ if it has
 not already attacked, and will have a
@@ -9642,6 +9957,8 @@ will probably flee first, so they
 should be coded F A S.
 Animal Encounters
 ANIMAL CHARACTERISTICS
+
+
 Category To To Typical
 Type Attack Flee Speed
 Herbivore
@@ -9649,21 +9966,23 @@ Filter If possible 10+2 (3·8) 10-5 (0·1 ; minimum 0)
 Intermittent 10+3 (4-9) 10+3 (4-9) 10-4 (1 -2;minimum 1)
 Grazer 1 0+2 (3-8) 1 D-1 (0-5) 10-2 (2-4; minimum 2)
 Omnivore
-Gatherer 10+3 (4-9) 10+2 (3-8) 10- 3 (1 -3; minimum 1)
+Gatherer 10+3 (4-9) 10+2 (3-8) 10-3 (1 -3; minimum 1)
 Hunter 10+0 (1 -6) 1 0+2 (3-8) 10-4 (1 -2; minimum 1)
 Eater 10+0 (1-6) 10+3 (4-9) 10-3 (1 -3 ; minimum 1)
 Carnivore
-Pouncer If surprise If surprised 10- 4 (1 -2;minimum 1)
-Chaser If more 1 0+3 (4·9) 10- 2 (2-4; minimum 2)
-Trapper If surprise 10+2 (3-8) 10- 5 (0-1 ; minimum 0)
-Siren If surprise 1 0+3 (4-9) 1 D- 4 (0-2; minimum 0)
+Pouncer If surprise If surprised 10-4 (1 -2;minimum 1)
+Chaser If more 1 0+3 (4·9) 10-2 (2-4; minimum 2)
+Trapper If surprise 10+2 (3-8) 10-5 (0-1 ; minimum 0)
+Siren If surprise 1 0+3 (4-9) 1 D-4 (0-2; minimum 0)
 Killer 10+0 (1-6) 10+3 (4-9) 10-3 (1 -3; minimum 1)
 Scavenger
 Hijacker 10+1 (2-7) 10+2 (3-8) 10-4 (1 -2; minimum 1)
-Intimidator 10+2 (3-8) 10+1 (2-7) 10- 4 (1-2; minimum 1)
-Carrion-Eater 10+3 (4-9) 10+2 (3-8) 10- 3 (1 -3 ; minimum 1)
+Intimidator 10+2 (3-8) 10+1 (2-7) 10-4 (1-2; minimum 1)
+Carrion-Eater 10+3 (4-9) 10+2 (3-8) 10-3 (1 -3 ; minimum 1)
 Reducer 10+3 (4-9) 10+2 (3-8) 10-4 (1-2; minimum 1)
 TYPICAL ANIMAL ENCOUNTER TABLE
+
+
 The table below is a typical table, showing the format for presentation of the
 information and for easy use of the encounters. The table is clearly headed with
 the type of terrain, and with the world on which the terrain occurs. Headings
@@ -9684,6 +10003,8 @@ attack (roll 7+).
 11 6 Chasers 25kg 6/11 jack 9 teeth+1 AO F5 S2
 12 1 Killer 200kg 21/12 none 17 as pike A1 F9 S1
 ENCOUNTER TABLE GENERATION CHECKLIST
+
+
 Use this checklist to create unique encounter tables for individual terrain situations
 on different worlds.
 1. Determine UPP and terrain types appearing on world in question.
@@ -9703,6 +10024,8 @@ E. Determine specific details of animal.
 96
 Animal Encounters
 EVENTS
+
+
 In addition to animals, the referee may include one or
 more events in his encounter tables. An event may be
 almost anything: an unusual animal not covered adequately
@@ -9737,8 +10060,7 @@ circle above their heads. After about 10 minutes the party
 will be attacked by chasers. The animals are symbiotic: the
 flyers spot prey for the chasers, and are allowed to share in
 the feast.
-Poisonous Pests: While the party was stopped, tiny
-(1 gram) creatures have crawled into concealed places with·
+Poisonous Pests: While the party was stopped, tiny (1 gram) creatures have crawled into concealed places with·
 in the party's equipment (packs, boots, etc.). They are
 poisonous, and attack when encountered (when a character
 Game Designers' Workshop
@@ -9828,8 +10150,7 @@ Terrain Features
 Adventurers may encounter variations in the local
 terrain, too small to show up on planetary maps.
 Broken Ground: The terrain becomes very rough; the
-ATV must slow to quarter speed or risk a track breakdown
-(throw 6+ per hour to avoid).
+ATV must slow to quarter speed or risk a track breakdown (throw 6+ per hour to avoid).
 Oasis: The party approaches an oasis, with a pool of
 water surrounded by heavy vegetation. Throw 8+ for the
 water to be drinkable. If it is not, moisture may still be
@@ -9859,8 +10180,7 @@ the torso is human but the head is that of a local carnivore.
 Natives of the area, if consulted, will state that such finds
 are common and will give varying opinions of their origin.
 Jungle Drums: Distant drums are heard at night; periodically
-they fall silent and are answered from another direc-
-Animal Encounters
+they fall silent and are answered from another direc-Animal Encounters
 tion. If the party investigates, they may be able to discover
 that these are the mating calls of a large omnivore.
 Marsh Gas: Moving lights are seen in the distance, apparently
@@ -9920,6 +10240,8 @@ the efficient management of an adventure. Encounter tables are presented in the 
 tables oriented toward a specific Traveller adventure or campaign may be generated by the referee.
 Because of their nature, animal encounters are handled in a separate chapter.
 ROUTINE ENCOUNTERS
+
+
 Adventurers meet ordinary people in the course of
 ordinary activity. In many cases, adventurers actually
 ignore the persons (and are themselves little noticed),
@@ -9960,6 +10282,8 @@ presented. Of course, applicants will be limited (perhaps
 1 D; one to six applicants per week), and the adventurers
 cannot be too choosy.
 RANDOM ENCOUNTERS
+
+
 Adventurers, as they travel about on planets, also have
 random encounters with an unpredictable variety of in·
 dividuals or groups. Such individuals are themselves performing
@@ -10000,6 +10324,8 @@ Once the encounter occurs, the referee should consult the
 reaction table to determine the specific response to the
 encounter by the other side.
 RUMORS
+
+
 Information is a valuable commodity to travellers, and
 rumors are the source of much useful information. The
 term rumor is a catchword covering a wide variety of
@@ -10039,6 +10365,8 @@ all rumors should be available to the player characters, but
 they should be doled out slowly in order to insure each
 rumor is dealt with and understood (if possible).
 LEGAL ENCOUNTERS
+
+
 The law level of each world determines the degree of
 permissiveness or oppres.sion which prevails. In addition to
 stating what weaponry is or is not allowed, law level ad·
@@ -10061,6 +10389,8 @@ reactions as an indication of greater harassment, and
 positive reactions as a potential source of rumors, assist·
 ance, or patrons.
 PATRONS
+
+
 The key to adventure in Traveller is the patron. When a
 band of adventurers meets an appropriate patron, they have
 a person who can give them direction in their activities, and
@@ -10100,6 +10430,8 @@ ter and decide on a mission that the patron will want
 completed. The situation is then presented to the player
 characters, reactions determined, and the game proceeds.
 ADVENTURE ENCOUNTERS
+
+
 Often, the player characters acquire a goal and then
 proceed to accomplish it. In the course of this activity, they
 are necessarily thrown into contact with a wide variety
@@ -10113,6 +10445,8 @@ counters, a.nd are generated by the referee as required.
 100
 Encounters
 ENCOUNTERS
+
+
 Encounters occur constantly, and
 represent the primary means of player·
 character interaction with others.
@@ -10126,6 +10460,8 @@ Patron
 Adventure
 Animal
 ROUTINE ENCOUNTERS
+
+
 Ordinary people, performing their
 routine jobs, form the routine
 encounters to be expected. Examples
@@ -10135,6 +10471,8 @@ characters' activities.
 Routine encounters occur when
 necessary.
 LEGAL ENCOUNTERS
+
+
 Characters may expect to be
 harassed or bothered by local law en·
 forcement officials in direct relation to
@@ -10144,6 +10482,8 @@ per day to avoid an interview with a
 law enforcement official protecting
 local society.
 ANIMAL ENCOUNTERS
+
+
 Characters may expect, when out·
 side of urban areas, to encounter ex·
 amples of local animal life.
@@ -10154,6 +10494,8 @@ Throw twice per day as directed by
 the animal encounter table for the
 local terrain type and world.
 ADVENTURE ENCOUNTERS
+
+
 Characters, in the course of their
 adventures, may encounter individuals
 who are part of the events of the ad·
@@ -10169,6 +10511,8 @@ by the referee in accordance with his
 or her determinations of actions,
 motivations, and preferences.
 ENCOUNTER CHECKLIST
+
+
 Encounters take place on a re·
 curring basis. The following checklist
 is a gu ide to their frequency.
@@ -10186,6 +10530,8 @@ for patron to be encountered.
 Rumor: Weekly throw 7+ (on 20)
 for a rumor to be encountered.
 PATRON LIST TWO
+
+
 11 Naval Officer
 12 Scout Administrator
 13 Marine Officer
@@ -10229,6 +10575,8 @@ Patron Encounter Matrix OMs:
 -1 . If admin-1+, OM +1.
 Game Designers' Workshop
 PATRON ENCOUNTERS MATRIX
+
+
 2nd
 Die
 1
@@ -10250,6 +10598,8 @@ mine the specific patron to be en·
 countered. Implement the appropriate
 OMs from the list to be used.
 PATRON LIST ONE
+
+
 11 Arsonist
 12 Cutthroat
 13 Assassin
@@ -10294,6 +10644,8 @@ army or marine character, OM +1.
 
 The Traveller Book
 RANDOM ENCOUNTERS MATRIX
+
+
 2nd
 Die
 1
@@ -10315,6 +10667,8 @@ throw of 5+ (on 10) in any circumstance
 which would allow an encounter
 with other people.
 RANDOM ENCOUNTER LIST
+
+
 Oty Type
 1 D Peasants
 20 Peasants
@@ -10329,10 +10683,16 @@ Remarks
 -2
 - 1
 L
+
+
 L
+
+
 -1
 +1 LGA
 LGAV
+
+
 2nd
 Die
 1 A
@@ -10342,26 +10702,42 @@ Die
 5 M
 6 0
 RUMORS MATRIX
+
+
 2
 B
+
+
 u
 u
 X
+
+
 X
+
+
 p
 1st Die Roll -----
 3 4 5 6
 C 0 E F
 U W W H
+
+
 y y w J
 Z Z V L
+
+
 X V V N
+
+
 0 A S T
 Consult this matrix weekly on a
 throw of 7+ (on 20). Also consult this
 matrix if rumor is a patron encounter
 result.
 RUMOR LIST
+
+
 Specific Rumors
 A Background information
 B Minor fact
@@ -10369,8 +10745,14 @@ C Major fact
 0 Partial (potentially misleading) fact
 E Veiled clue
 F
+
+
 G
+
+
 H
+
+
 Information leading to trap
 Location data
 11
@@ -10418,10 +10800,16 @@ Location data
 20 Hunters and Guides
 +1 GA I
 LGA J
+
+
 +1 GA K
 LGA L
+
+
 +2 GAV M
 LGAV N
+
+
 Important fact
 Obvious clue
 Completely false information
@@ -10448,21 +10836,39 @@ Location data
 +2
 +3 v
 VG
+
+
 -2
 v
 G
+
+
 G
+
+
 L
+
+
 LGA
+
+
 +1 LA
 GV
+
+
 L
+
+
 0
 p
 0
 A
+
+
 s
 T
+
+
 Reliable recommendation to action
 Major fact
 Background information
@@ -10486,6 +10892,8 @@ Specific OMs on the matrix may be
 established.
 Encounters
 REACTIONS
+
+
 Die Reaction
 2 Violent. Immediate attack.
 3 Hostile. Attack on 5+.
@@ -10506,6 +10914,8 @@ served 5+ terms in army. navy, scouts,
 or marines. OM-1 if world population
 is 9 or greater.
 AVAILABLE WEAPONS BY TL
+
+
 Tech Weapons Armor
 0 club, cudgel, spear
 1 dagger, pike, sword jack
@@ -10522,6 +10932,8 @@ Tech Weapons Armor
 12
 13 battle dress
 PROHIBITED WEAPONS BY LL
+
+
 Law Weapons Prohibited
 0 none
 1 body pistol, bombs, grenades
@@ -10545,8 +10957,7 @@ greater than local tech level.
 
 102
 Encounters
-For example, if the travellers have acquired a patron
-(a financier whose daughter has been kidnapped), and
+For example, if the travellers have acquired a patron (a financier whose daughter has been kidnapped), and
 they accept the patron's mission (rescue the daughter),
 then many of the encounters to come will be dictated by
 the situation. These are adventure encounters. They may
@@ -10558,6 +10969,8 @@ table of random events or personalities can provide these
 individuals; the referee must produce them in anticipation
 of, or in response to, the player characters' actions.
 ANIMAL ENCOUNTERS
+
+
 The animal life to be encountered on various alien
 worlds may pose dangers to the adventurers, and animal
 encounter tables based on world type and terrain type are
@@ -10570,6 +10983,8 @@ Game Designers' Workshop
 Animal encounter tables are produced using the
 generation system shown in the chapter on animal encounters.
 REACTIONS
+
+
 When non-player characters are encountered, their
 reactions will dictate their activity in terms of business
 deals, violence, assistance, charity, cooperation, and a
@@ -10643,6 +11058,8 @@ The pursuit of any program envisions that the required materials are available o
 the weapons specified; tutoring requires a tutor. If the required materials are not available, the program is suspended
 temporarily, but the benefits are not lost if the suspension is of less than three months duration.
 EDUCATION
+
+
 A character with education lower than intelligence may
 improve education through correspondence courses and
 tutoring. Such courses (or tutors) have a base price of CR
@@ -10657,6 +11074,8 @@ is the equivalent of a technical school or college education,
 and allows the acquisition of one specific non-weapon skill
 with a level of 2. Cost of this education is Cr70,000.
 WEAPON EXPERTISE
+
+
 A character's skill in a weapon is native trained abil ity ;
 additional training and dedicated practice with specific
 weapons may provide better levels on a temporary basis.
@@ -10687,6 +11106,8 @@ When new or exotic weapons become available (especially
 those not described in character generation). it is possible
 to acquire skill in them through this training program.
 SKILL IMPROVEMENT
+
+
 A character may temporarily improve h is skill in another
 field by dedicating himself to it for a program of 4 years
 duration. Only two skills may be chosen, and the individual
@@ -10695,6 +11116,8 @@ reverts to the original level at the end of the program. If the
 program continues for a second four years, the new skill
 level becomes permanent at the end of that time.
 PHYSICAL FITNESS
+
+
 Strict physical training can increase individual physical
 characteristics. If the dedication throw is made, strength,
 dexterity, and endurance are increased by 1. This increase
@@ -10702,6 +11125,8 @@ remains in effect for the duration of the physical fitness
 program. Physical characteristics may never be increased to
 more than 15.
 ALTERNATIVES
+
+
 The above situations are the only ordinary methods of
 self-improvement available to characters. Highly scientific
 or very esoteric methods of improving personal skills and
@@ -10726,6 +11151,8 @@ on a constant scale. The actual value table indicates the price such goods may b
 modification to the base price. Upon arriving at a potential market, the selling price may also be determined as a percentage
 of the base price (not actual purchase price) .
 PROCEDURE
+
+
 A trader with cargo space available and free capital with
 which to speculate may seek out suitable goods to buy and
 sell. Throw two dice, noting their results consecutively, to
@@ -10769,6 +11196,8 @@ one label (and be poor, non-industrial, for example). In this
 case, the world is subject to the OMs for each such label
 when using the trade and speculation table.
 TRADE GOODS
+
+
 The trade and speculation table lists many types of
 goods, often of general classes which may be of interest to
 characters for various uses. The goods labels are abstractions,
@@ -10797,6 +11226,8 @@ established prices and equipment.
 
 The Traveller Book
 TRADE AND SPECULATION
+
+
 Die Trade Goods Base Price Purchase OMs Resale OMs Quantity
 11 Textiles 3,000 A- 7, NA-5, Nl-3 A-6, NA+1, R+3 3Dx5
 12 Polymers 7,000 1-2, R-3, P+2 1- 2, R+3 4Dx5
@@ -10843,9 +11274,13 @@ in tons; items 51 through 56 are expressed per each single item.
 Abbreviations: A= Agricu ltural World, NA= Non-agricultural World, P= Poor
 World, R= Rich World, I= Industrial World, Nl= Non-industrial World.
 DRUGS
+
+
 Drug Type Price Tech Availability Remarks
 Trade and Commerce
 ACTUAL VALUE
+
+
 Dice Percentage
 Roll Value
 2 40%
@@ -10918,6 +11353,8 @@ Legality: The use or possession of certain drugs may be restricted by local law.
 specific drug to be legal and unrestricted on any specific world. OMs may be allowed for starship crews, medical personnel,
 or other specifically authorized individuals.
 SPECIFIC DRUG TYPES
+
+
 The following six drug types are common throughout
 the civilized universe.
 Slow drug is named because it makes the universe (from
@@ -10929,8 +11366,7 @@ seconds), and continuing to function for 40 (real time)
 firing rounds. At the end of its effect, the user receives 1 D
 in wounds. The person is extremely fatigued, being treated
 as if all available combat swings have been taken, and must
-recover from that fatigue. A person under slow drug
-(because he or she is living at twice the normal rate) is
+recover from that fatigue. A person under slow drug (because he or she is living at twice the normal rate) is
 allowed two combat rounds to each one available to normal
 individuals. The person can fire a weapon twice, or make
 two combat swings or blows, or move twice as far as
@@ -10975,11 +11411,15 @@ truthful answers for approximately 2 minutes, after which
 the user experiences one h'our of unconsciousness, and 20
 in wounds.
 ANTIDOTES
+
+
 Antidotes are available for both slow and fast drugs
 which cancel their major effects. The individual is returned
 to the normal rate of living, but still suffers any indicated
 recovery requirements.
 DRUG AVAILABILITY
+
+
 The drug table indicates the name, gross effect, base
 price, technological level of the world on which it is
 generally available in pill form, and a throw for availability.
@@ -11009,13 +11449,14 @@ with no weight or size given can be carried or worn without difficulty. Addition
 considered necessary.
 This listing may be considered a shopping list for travellers. When they originally outfit themselves for an adventure, each
 may purchase or acquire items from this list in preparation for action or mishap. For the most part, this list does not include
-weaponry, and all items are generally available for purchase without difficulty on worlds with a sufficient technology level
-(on other worlds, they may be available as imports at higher prices). Often, the base price for these items will be altered
+weaponry, and all items are generally available for purchase without difficulty on worlds with a sufficient technology level (on other worlds, they may be available as imports at higher prices). Often, the base price for these items will be altered
 higher or lower using the trade and speculation rules for percentage price changes.
 This chapter is divided into the following sections: personal equipment, personal devices, enhanced sensory apparatus,
 communicators, tools, shelters, food and subsistence, and vehicles. Weapons, armor, and accessories are listed in the chapter
 on personal combat.
 PERSONAL EQUIPMENT
+
+
 The following are personal survival items often needed
 by individuals.
 Respirator (5) Cr100. A small compressor which allows
@@ -11040,8 +11481,7 @@ through 9). Weighs 4 kg.
 Swimming Equipment (3) Cr200. Includes swim fins,
 wet suit, face mask. Weighs 1 kg.
 Protective Suit (5) Cr700. Protects against corrosive
-atmosphere (type B). Protects against insidious atmosphere
-(type C) for 2 to 12 hours. Weighs 5 kg and is treated as
+atmosphere (type B). Protects against insidious atmosphere (type C) for 2 to 12 hours. Weighs 5 kg and is treated as
 jack armor.
 Heavy Protective Suit (5) Cr1400. Protects against
 corrosive atmosphere (type B). Protects against insidious
@@ -11094,6 +11534,8 @@ can be moved by walking on the inside treadmill fashion),
 and can also be used for protection against weather or as a
 lifeboat on a sea surface. Weight: 3 kg.
 PERSONAL DEVICES
+
+
 The following is an assortment of devices which individ·
 uals may find useful.
 Magnetic Compass (3) Cr10. Indicates direction of local
@@ -11130,11 +11572,12 @@ produce lighter designs.
 Wrist Watch (4) Cr25 to CR 1000. Price determines
 quality.
 SENSORY AIDS
+
+
 The following items are generally used to allow enhanced
 vision:
 Binoculars (3) Cr75. Allow improved vision at greater
-distances than would unaided eyes. Availability of binoculars
-(if used regularly) may provide DM+1 against surprise
+distances than would unaided eyes. Availability of binoculars (if used regularly) may provide DM+1 against surprise
 in encounter situations. Weigh 1 kg.
 Infrared Goggles (6) Cr500. Allows wearer to see heat
 sources (infrared radiation such as operating heat engines,
@@ -11151,8 +11594,7 @@ Torches (1) Cr1 . Each lasts about 20 minutes and weighs
 250 grams.
 Electric Torches (5) Cr10. Each lasts about 6 hours in
 continuous use and weighs 500 grams.
-Gas or Oil Lamp (2) Cr10. Provides about 6 hours light
-(and heat) and weighs 500 grams. Refills of oil or gas cost
+Gas or Oil Lamp (2) Cr10. Provides about 6 hours light (and heat) and weighs 500 grams. Refills of oil or gas cost
 Cr2 each.
 Cold Light Lantern (6) Cr20. Provides 3 days light (no
 heat) in continuous use. Recharge of glow stuff costs Cr2.
@@ -11186,6 +11628,8 @@ can hold approximately 20 million words; crystals can hold
 ten times that. Text recorder is capable of transcribing
 voice to text. Weighs 1 kg.
 TOOLS
+
+
 The following tools or tool sets are available:
 Carpentry Tool Set (2) Cr300. Includes basic tools
 necessary to cut, shape, and build with wood. Woodworking
@@ -11219,6 +11663,8 @@ rises to Cr1 00 or more.
 Disguise Kit (7) Cr1,000. Allows change of personal
 appearance on a temporary basis. Complete kit weighs 5 kg.
 SHELTERS
+
+
 The following are portable or temporary shelters commonly
 available:
 Tarpaulin ( 1) Cr1 0. A canvas or waterproof cloth sheet
@@ -11237,6 +11683,8 @@ culating system. 2 by 6 by 6 meters. Can be carried in the
 hold of a starship. Weighs 6 tons.
 Equipment
 COMMUNICATORS
+
+
 Communicator is defined as a radio transmitter/receiver
 combination capable of operating off an internal power
 source. It is portable in the sense that it need not be connected
@@ -11267,6 +11715,8 @@ of ranges up to 5000 kilometers. Weighs 1500 grams.
 Continental Range Communicator (12) Cr5000. Capable
 of ranges up to 5000 kilometers. Weighs 1 kg.
 FOOD AND OVERHEAD
+
+
 Food and basic survival may be priced from the following
 information:
 Basic Cuisine on a Daily Basis: Food is available in a
@@ -11324,6 +11774,8 @@ interchangeable and identical. ATV skill allows an individual to operate both wh
 addition to allowing operation of starships and interplanetary ships, can be used to operate small craft (the equivalent of
 ship's boat skill) at one less than full level.
 AIRCRAFT
+
+
 Aircraft generate lift by passing air over wing-surfaces,
 either fixed (as in most aircraft) or rotating (as in helicopters).
 Aircraft are usable only on worlds with atmospheres
@@ -11344,8 +11796,7 @@ Primitive Biplane Aircraft (5) Cr20,000, 1 ton. A very
 small, propeller-driven, early model aircraft. It can achieve a
 cruise speed of 150 kph, with bursts to a maximum of 200
 kph; range is three hours flying time. The biplane's engine
-depends on chemical fuel. The biplane carries two persons
-(a pilot and a passenger) and 100 kg of cargo.
+depends on chemical fuel. The biplane carries two persons (a pilot and a passenger) and 100 kg of cargo.
 Fixed Wing Aircraft (6) Cr1 ,000,000, 5 tons. A twin jet
 aircraft monoplane intended for cargo transport. The plane
 cruises at 600 kph (maximum speed is 700 kph) with a
@@ -11366,6 +11817,8 @@ cru ise at 200 kph, with a top speed of 250 kph; range is
 600 kph. The helicopter has a crew of one, plus seven
 passengers and 500 kg of cargo.
 GRAV VEHICLES
+
+
 Grav vehicles are the main form of transportation for a
 high technology society. Above tech level 10, other vehicle
 types are rarely seen except in a few specialized situations.
@@ -11378,8 +11831,7 @@ capable of reaching orbit from a world surface (although
 most cannot do so very rapidly).
 Air/Raft (8) Cr600,000, 4 tons. A light anti-gravity
 vehicle which uses nullgrav modules to counteract gravity
-for lift and propulsion. An air/raft can cruise at 100 kph
-(but is extremely subject to wind effects), with some
+for lift and propulsion. An air/raft can cruise at 100 kph (but is extremely subject to wind effects), with some
 capability of higher speed to about 120 kph. An air/raft can
 reach orbit in several hours (number of hours equal to
 planetary size digit in the UPP); passengers must wear vacc
@@ -11419,6 +11871,8 @@ if turned off. Personal anti-gravity transportation using a
 single null-gravity module and a personal harness. Performance
 is similar in speed and range to the air/raft.
 WHEELED VEHICLES
+
+
 Wheeled ground vehicles depend on wheels to ease the
 friction of travel overland. They depend on relatively
 smooth and unobstructed terrain (roads, prairies, plains)
@@ -11449,13 +11903,11 @@ areas or on roads. Typically, a ground car has a range of
 1000 km, cruises at 100 kph, and has a maximum speed of
 150 kph. If capable of off-road travel at all, speed is generally
 limited to 10 kph. Fuel for a ground car depends on
-local tech level and fuel sources; it is usually chemical fuel
-(hydrocarbons or hydrogen) or electric batteries. Most
+local tech level and fuel sources; it is usually chemical fuel (hydrocarbons or hydrogen) or electric batteries. Most
 ground cars require a driver, although at higher tech levels
 the car will steer itself (and on highly civilized worlds
 driving under human control is illegal in cities) . A car can
-carry five additional passengers plus luggage. Other models
-(convertibles, sports models, limousines, trucks, motorcycles,
+carry five additional passengers plus luggage. Other models (convertibles, sports models, limousines, trucks, motorcycles,
 unicycles, vans, etc.) may be available at varying
 prices. The basic ground car is unpressurized. Ground cars
 are mass production items manufactured for a specific
@@ -11477,8 +11929,7 @@ ATV is designed to serve admirably on many different
 worlds under widely varying conditions, including vacuum
 and insidious atmosplleres, and high or low gravity. An
 ATV requ ires one driver. Passengers can number up to 16;
-the vehicle is fully pressurized and contains complete
-(though cramped) eating, sleeping, and travel facilities for
+the vehicle is fully pressurized and contains complete (though cramped) eating, sleeping, and travel facilities for
 eight. The vehicle may be l ightly armored, and can carry a
 turret mounting a laser or other local combat weapon.
 Wheeled Armored Fighting Vehicle (6) Cr70,000, 10
@@ -11495,6 +11946,8 @@ no interior facilities provided. No provision for passengers
 or cargo is made. A wheeled AFV is more commonly used
 in urban areas where roads are available.
 TRACKED VEHICLES
+
+
 Tracked ground vehicles depend on continuous tracks
 to ease the friction of travel overland. They are capable of
 traversing almost any type of terrain, restricted only by
@@ -11541,8 +11994,7 @@ tons. A tracked vehicle reinforced with armor and heavily
 -~···-·-""·o.JMykel
 Alvis (Order #32088509)
 The Traveller Book
-armed for combat. The tracked armored fighting vehicle
-(abbreviated AFV) is very similar to the tracked ATV in
+armed for combat. The tracked armored fighting vehicle (abbreviated AFV) is very similar to the tracked ATV in
 performance, range, and fuel requirements. However, the
 AFV is armored to withstand most forms of attack, and is
 equipped with a turret mounting a laser or other weapon. A
@@ -11560,6 +12012,8 @@ Maximum speed for the vehicle is 30 kph; generally it
 operates at much lower speeds. The dirtmover can shift
 100 cubic meters of material per hour.
 WATERCRAFT
+
+
 Watercraft float on the oceans of worlds, and are useful
 only in bodies of water typical on worlds with hydrographic
 percentages of 1 +. In situations where hydrographic
@@ -11569,8 +12023,7 @@ The watercraft skill category has four divisions for the
 purpose of skill utilization: small watercraft, hovercraft,
 submersibles, and large watercraft. Any character with skill
 in one of the divisions can operate watercraft in another
-division at -1. For example, a character with small watercraft-
-2 could operate submersibles, hovercraft, and large
+division at -1. For example, a character with small watercraft-2 could operate submersibles, hovercraft, and large
 watercraft at Ievei -l.
 Small watercraft are operable by one person, often considered
 a driver or operator. Typically, they do not exceed
@@ -11594,8 +12047,7 @@ operates the craft, which carries eight passengers and 10
 tons of cargo.
 Submersible (6) Cr2,000,000, 500 tons. Underwater
 vessels intended to avoid surface weather conditions for
-safety and convenience. On worlds with large water percentages
-(especially level A) submersibles ply the routes
+safety and convenience. On worlds with large water percentages (especially level A) submersibles ply the routes
 between underwater domed cities. The submersible is
 capable of 40 kph cru ising underwater, and about half that
 on the surface in good weather. It has unlimited endurance,
@@ -11624,6 +12076,8 @@ carry up to 15 passengers plus operator. Cargo capacity is
 approximately 3 tons. No armor or weaponry is generally
 provided.
 INTERPLANETARY VESSELS
+
+
 Spacecraft capable of moving beyond orbit of a world
 are described in the chapter on starships. That chapter also
 includes instructions for the design and construction of
@@ -11632,6 +12086,8 @@ such craft.
 
 Vehicles Game Designen' Workshop
 PERSONAL EQUIPMENT COMMUNICATORS WEAPONRY
+
+
 Description TL Kg Cr Description TL Kg Cr Description TL Kg Cr
 Respirator 5 100 Short Range 5 20. 225 Club 0 1.
 Filter Mask 3 10 Short Range 8 .1 75 Dagger 1 .25 10
@@ -11694,6 +12150,8 @@ megacredits. Fighter 8 10 18.0 Advance Base 8 6tons 50,000
 
 The Traveller Book
 PSIONIC SKILL SUMMARIES
+
+
 Level Name/Description
 Telepathy
 1 Shield
@@ -11746,6 +12204,8 @@ Teleportation
 9 Personal, with equipment O+Range
 Experience: Throw 12+ per month to increase one level. In itial level is 5.
 PSIONIC TALENTS
+
+
 Telepathy .................. 5+
 Clairvoyance .......... . ...... 6+
 Telekinesis ...... .... .. ...... 6+
@@ -11759,11 +12219,12 @@ DM of - 1 on the first throw, - 2 on the
 second throw, through -6 on the sixth
 throw.
 PSIONIC RANGES
+
+
 Range
 Close
 Short
-------Talent------Tele-
-Clair- Tele- Telepathy
+------Talent------Tele-Clair- Tele- Telepathy
 voyance kinesis port
 Medium
 Long
@@ -11785,6 +12246,8 @@ Planetary
 6 4 5
 Psionics
 THE PSIONIC INSTITUTE
+
+
 Throw 11 + for a branch of the
 Psionic Institute to exist on any
 world with population 9+; OM +1 for
@@ -11823,6 +12286,8 @@ intelligence; if such a situation
 occurs, then PSR is reduced to that
 amount.
 RANGE DESCRIPTIONS
+
+
 Close: In physical contact;
 tmtch ing.
 Short: at sword or polearm point ;
@@ -11866,6 +12331,8 @@ avoid) that the branch is some distance away and will require a long trip to rea
 Branches of the Institute perform two functions: they administer the examination for psionic potential, and they provide
 training in the use of psionic talents. Both services are provided for a fee.
 PSIONIC STRENGTH
+
+
 The Institute's comprehensive examination provides a
 measure of personal psionic strength. The process takes two
 weeks t ime, and costs CR 5000. Some charity is available
@@ -11892,8 +12359,7 @@ number of strength points at the character's command for
 the performance of specific tasks.
 Maximum Activity Level : Each type of activity within a
 psionic field is assigned a level. A character may not perform
-that activity unless his or her personal psionic strength
-(unenhanced by psionic drugs) is equal to, or greater than,
+that activity unless his or her personal psionic strength (unenhanced by psionic drugs) is equal to, or greater than,
 the level of the activity.
 Available Strength Points: Each type of activity requires
 the expenditure of psionic strength points for the activity
@@ -11915,6 +12381,8 @@ intelligence) reduced to less than his psionic strength rating,
 his psionic strength is reduced to that sum. Psi-drug abuse
 can also reduce psionic strength.
 TRAINING
+
+
 The Institute will train individuals in the use of their
 latent talents. Training requires 4 months and costs
 Cr100,000. Extremely talented individuals (psionic strength
@@ -11966,6 +12434,8 @@ rating.
 Psionic training is not available in the services, nor is it
 available from any source except the Institute.
 RANGE
+
+
 Psionic activity is restricted by the range or distance at
 which it is performed. A greater number of psionic strength
 points are required to do psionic tasks at greater ranges.
@@ -11976,10 +12446,11 @@ combat. Psionics have so far proven incapable of interplanetary
 ranges.
 Range refers to simple straight line distance. Psionic
 activity, at the ranges given, is effectively instantaneous,
-and is not affected by intervening matter in most cases
-(for example, electromechanical psionic shields do interfere
+and is not affected by intervening matter in most cases (for example, electromechanical psionic shields do interfere
 with psionics, but planetary masses or walls do not).
 TELEPATHY
+
+
 Telepathy is the ability to contact other minds directly.
 In rudimentary forms, it allows the communication of
 feelings and emotions; in advanced forms it allows the
@@ -12056,7 +12527,7 @@ der: the difference (attacker minus defender) is the re·
 quired DM. For the assault to succeed, the attacker must
 throw 7+. For example, an attacker with a psionic strength
 rating of 13 assaults a character with a psionic strength
-rating of 5 ( 13-5=8); a DM of +8 is allowed in the assault.
+rating of5 ( 13-5=8); a DM of +8 is allowed in the assault.
 Assault is a level 10 ability, and requires 10 strength
 points to perform. The assault takes less than 2 seconds to
 occur.
@@ -12085,11 +12556,13 @@ of level 1 activity (life detection and shield). After success·
 fully rolling 8+ 10 times (in 10 or more months, at one roll
 per month). he will have realized his full potential. A
 character of psionic strength rating 4 could never exceed
-level 4 (after 4 or more months, at one roll per month) .
+level4 (after 4 or more months, at one roll per month) .
 In situations where a non-player character is read or
 influenced by telepathy, it is the responsibility of the
 referee to determine the person's reactions and thoughts.
 CLAIRVOYANCE
+
+
 Clairvoyance is the general talent which allows a person
 to sense events at some location displaced from the viewer.
 There are several levels of clairvoyant ability.
@@ -12139,6 +12612,8 @@ until he has reached his actual psionic strength level.
 
 The Traveller Book
 TELEKINESIS
+
+
 Telekinesis is the talent which allows objects to be
 manipulated without physically touching them. Telekinetic
 power is classified by the number of grams weight which
@@ -12169,6 +12644,8 @@ Each month, upon successful achievement of a roll of 8+,
 ability level increases one level. A character's level of ability
 may never exceed his psionic strength rating.
 AWARENESS
+
+
 Awareness is the psionic talent which allows control of
 one's own body. Awareness covers a range of four possible
 abilities, described below.
@@ -12181,8 +12658,7 @@ without need for food or water, and with minimal air
 needs. Such a person could effectively travel in a cold sleep
 berth, without actually undergoing cold sleep and its
 dangers. Suspended animation may be stopped at any time,
-provided external stimulus is given to awaken the sleeper
-(such as a friend or a mechanical alarm). This is a level 2
+provided external stimulus is given to awaken the sleeper (such as a friend or a mechanical alarm). This is a level 2
 ability, and costs 3 points to perform.
 Psionically Enhanced Strength: Psionic strength points
 may be converted to physical strength points on a tem·
@@ -12213,8 +12689,7 @@ enhanced endurance is a level 5 ability.
 Regeneration: Wounds and injuries may be healed
 rapidly. Wound points may be healed by the application of
 this ability, exchanging one psionic strength point to
-regenerate one wound point. Heal ing occurs immediately
-(less than one minute). Should one session of healing be
+regenerate one wound point. Heal ing occurs immediately (less than one minute). Should one session of healing be
 insufficient, further healing and regeneration may be
 applied after expended psionic strength is recovered.
 Regeneration may also be applied to the growing of new
@@ -12229,6 +12704,8 @@ with level 1 ability, and may increase the ability as time
 passes. Each month throw 20 for 10+; if successful, in·
 crease the level of awareness by 1.
 TELEPORT AT ION
+
+
 Teleportation is a talent which allows effectively instan·
 taneous movement from one point to another point,
 without regard to intervening matter. Psionic teleportation
@@ -12246,8 +12723,7 @@ Personal teleportation without external materials such as
 clothing or weapons is a level 5 skill.
 Personal teleportation, clothed but without any personal
 load or weapons, is a level 7 skill. A weapon of up to 1000
-grams, if worn so as to be part of an individual's clothing
-(holstered or sheathed). may be carried.
+grams, if worn so as to be part of an individual's clothing (holstered or sheathed). may be carried.
 Personal teleportation, clothed and carrying a physical
 load of weapons and other items, not to exceed the character's
 strength in kilograms, is a level 9 ability.
@@ -12264,8 +12740,7 @@ This mental image is acquired by personally visiting
 the location first (including just viewing it from a distance),
 having the mental image implanted in one's mind (by
 telepathy) by another person who has visited the destination,
-or by viewing the location through clairvoyance
-(level 5 clairvoyance, not simply the lesser sense).
+or by viewing the location through clairvoyance (level 5 clairvoyance, not simply the lesser sense).
 Energy and Momentum: Teleportation involves serious
 restrictions on movement in order to assure the conservation
 of energy and momentum.
@@ -12306,6 +12781,8 @@ increase their abilities, and cannot teleport. Each month,
 throw 12+ to increase by one level. Teleport level may not
 exceed psionic strength rating.
 SPECIAL
+
+
 Although psionic activity generally lends itself to classification,
 some individuals defy this very classification.
 Individuals with special talent are capable of some activity
@@ -12317,6 +12794,8 @@ should be made psychologically dependent on a focus, in
 the form of some artifact or charm, which must remain in
 the possession of the character.
 RECOVERY
+
+
 When psionic strength points are expended, the available
 points for a character are reduced. Such points are naturally
 recovered by a process of rest and recuperation. Beginning
@@ -12348,8 +12827,7 @@ strength is at a reduced level.
 Special: The rarest of psi-drugs, special is available only
 in liquid form and must be taken by injection. Special
 gradually increases psionic strength points to 15 at the rate
-of one point per hour. Psionic strength remains at this level
-(if unused) for four hours and then wanes at the rate of one
+of one point per hour. Psionic strength remains at this level (if unused) for four hours and then wanes at the rate of one
 point per hour until psionic strength reaches zero. Normal
 recovery then occurs. Special has some dangers, and there is
 a chance (throw 11+ each time used) that it will permanent·
@@ -12378,6 +12856,8 @@ lapsing into unconsciousness and taking hits equal to 30.
 Upon recovery from the illness, psionic strength rating is
 reduced (saving throw 1 0+) permanently by -1 .
 PSIONICS IN HUMAN SOCIETY
+
+
 The climate of public opinion about psionics is extreme·
 ly negative. Individuals will find it unhealthy to admit
 possession of, or sympathy for, psionic powers. Persons
@@ -12421,6 +12901,8 @@ to provide rules governing the entire universe; entire libraries are not especia
 players and a referee, however, the Traveller rules are the start of dynamic adventures that can range across the universe.
 The first question that arises once the rules have been read is - What do I do now? This chapter contains the answers.
 FIRST ACTIVITIES
+
+
 In Traveller, many of the subordinate game systems lend
 themselves to solitaire or two-person play. Practice with the
 systems makes the player more proficient, more know·
@@ -12452,6 +12934,8 @@ Choices between basic skills, weapons skills, and physical
 characteristic improvements can determine how effective a
 character will be.
 STARSHIP ACTIVITIES
+
+
 Using starships can be a fascinating activity, and lead to
 hours of enjoyment.
 Build Some Starships: The chapter on starship design
@@ -12471,6 +12955,8 @@ fight out a space battle, perhaps to the death. The experience
 will show what to expect in space combat during
 Traveller adventures.
 ADVENTURE ACTIVITIES
+
+
 Travelling through the universe in search of adventure
 requires that there be a reasonably well-defined universe
 for the characters to move around in.
@@ -12506,6 +12992,8 @@ to deal with it. The sample adventures later in this book
 may prove helpful in showing the necessary details for
 such situations.
 PLAY TRAVELLER
+
+
 Any time you have a group of people together, take
 them through any of the steps above to give them ex·
 perience in the Traveller system. Or referee them as a group
@@ -12518,6 +13006,8 @@ ships, and from exploring worlds generated by the referee. More adventure comes 
 supervises, and from participating in campaigns. The interaction of the characters involved, the imaginations of all the
 players, and the details of the game system make the entire game fun for hours on end.
 AN ADVENTURE GUIDE
+
+
 Traveller adventures span the entire range of experience
 that can be expected in the universe of the far future. The
 potential for adventure is endless, depending as it does on
@@ -12597,6 +13087,8 @@ for the players.
 124
 Referee's Guide to Adventuring
 TRAVELLER ADVENTURES
+
+
 Traveller scenarios come in many sizes and types. In
 ascending order by size, they are called patron encounters,
 casual encounters, amber zones, short adventures, adventures,
@@ -12693,14 +13185,15 @@ maintains a constant background means that players who
 learn some fact about the universe in one adventure can
 often depend on that fact and use it later in another adventure.
 Campaigns are almost always dependent on continuing
-characters. Once a character is generated, he or she continues
-(at least until death or retirement) to adventure
+characters. Once a character is generated, he or she continues (at least until death or retirement) to adventure
 within the same framework of history and background,
 gradually building up a knowledge of the universe that
 should help in dealing with adversaries or nature.
 
 The Traveller Book
 TRAVELLER CAMPAIGNS
+
+
 Traveller campaigns can be a simple string of adventures
 and encounters set against the background of a pre·
 generated subsector in which the adventurers fly from
@@ -12750,8 +13243,7 @@ to the players. Early on, they have no idea what is of
 importance in a grand sense, and will be self-centered to a
 certain extent. Gimmicks are designed to appeal to the
 players, enabling them to search for obviously valuable
-items while they also learn about their universe. Gimmicks
-(some say the word is derived from gimmee) are things that
+items while they also learn about their universe. Gimmicks (some say the word is derived from gimmee) are things that
 players want: things they are fascinated with. In Traveller,
 they rank above money or ordinary ships; they must
 represent some advantage, such as high technology or
@@ -12841,6 +13333,8 @@ and two short adventures. As the group travels throughout the Regina subsector, 
 played. Between these scenarios, the referee can make up additional scenarios and present them to the players. After these
 situations are completed, the referee can produce others to provide even more adventure.
 PATRON ENCOUNTERS
+
+
 The following patron encounters may be imposed
 whenever the appropriate patron is rolled on the patron
 encounter table. If necessary (because of the situation, or
@@ -12999,8 +13493,7 @@ located should be chosen by the referee according to the
 size and armament of the players' ship. If captured, the
 players will be assumed to be spies.
 1. The diverted consignment is undamaged. It consists of
-one Imperial mobile field surgery and two tons of pharmaceuticals
-(primarily medical drug) . The surgery weighs one
+one Imperial mobile field surgery and two tons of pharmaceuticals (primarily medical drug) . The surgery weighs one
 and one-half tons, and cannot be resold legally. The drugs
 are in civil labels, and should present no real problems in
 resale. The referee should determine the results of any
@@ -13017,6 +13510,8 @@ indicates the planetoid was located.
 128
 Into the Subsector
 CASUAL ENCOUNTER
+
+
 This casual encounter with Shawna provides the potent
 ial for a number of situations.
 Shawna 9DAA87 Age 38
@@ -13040,8 +13535,7 @@ principles. She prefers to rob individuals or organizations
 known for their shady deal ings, stringently avoids murder
 in her schemes, never rips off a close associate, and never
 leaves her lesser confederates in a situation where they will
-be in grave danger. She does, however, detest incompe-
-Game Designers' Workshop
+be in grave danger. She does, however, detest incompe-Game Designers' Workshop
 tence, and will desert confederates who have gotten themselves
 into trouble by their own stupidity. Shawna will
 avenge herself on any who have upset one of her schemes,
@@ -13105,6 +13599,8 @@ in a last ditch effort to revive a dying scam.
 
 The Traveller Book
 AMBER ZONE
+
+
 This amber zone takes place on the world of Heya, a
 backwater in the Regina subsector. It could as easily be
 placed on any world with a reasonable hydrographic
@@ -13223,6 +13719,8 @@ For Referees Only: This entire adventure is for the Traveller referee. Players s
 unless specifically directed to by the rules or referee. However, once the referee has read these two pages, they may be made
 ava ilable to the players for their reference. Of special interest is the situation and the illustration of the pyramid.
 STANDARDS AND ASSUMPTIONS
+
+
 The following standards and assumptions are used:
 Current Date: 190·11 05
 Dates: Dates herein correspond to the Imperial calendar.
@@ -13252,6 +13750,8 @@ Starport: Marion Starport is classified as type C, provi·
 ding poor quality facilities with no repair or shipbuilding
 operations. Unrefined fuel is available at Cr100 per ton.
 CHARACTERS
+
+
 Any group of characters may set out on this particular
 adventure. For best results, however, the group should
 include certain skills and equipment.
@@ -13271,11 +13771,13 @@ may also prove useful. If necessary, the referee may allow
 the use of various default skills (such as vacc su it·O or
 carbine-0) to fill in gaps in personal skills.
 EQUIPMENT
+
+
 Characters should review their equipment and may
 wish to purchase more. Any equipment listed in this book
 may be purchased, subject to the following restrictions:
 1. It must be listed in this book.
-2. It must not exceed tech level 7 (the local tech level).
+2. It must not exceed tech level7 (the local tech level).
 3. It must be paid for. This requirement will preclude
 many items because of cost.
 SHIP'S LOCKER
@@ -13286,6 +13788,8 @@ two automatic pistols, each with ten loaded magazines
 four cutlasses, each with a belt scabbard
 one long range communicator
 AVAILABLE EQUIPMENT TABLE
+
+
 Cable- fine flexible plasteel cable, capable of supporting
 250 kilograms. Available in 50 meter coils, each coil weigh·
 ing 3 kilograms. Up to ten coils are available. Price: Cr100
@@ -13305,6 +13809,8 @@ bers 1099-5768·3 , 1099-5769-3, and 1099-4792·2. Weight:
 
 The Traveller Book
 SHADOWS
+
+
 After a call at Marion Starport on Yorbund, consisting
 of a complete refueling and a visit to the minor attractions
 of the caverns of Yorbund, the band of adventurers pre·
@@ -13369,6 +13875,8 @@ came from the pyramids. Computer readouts indicate that
 the ship will probably (80% chance) be shot down if it
 attempts to take off without the beam being disabled.
 INSIDE THE PYRAMIDS
+
+
 The pyramid complex is obviously an artifact con·
 structed by some race (human or other), by all appearances
 Diagram 1
@@ -13376,6 +13884,8 @@ Game Designen' Wortcahop
 at some date in the far past. The adventurers are forced to
 investigate it in detail.
 ENTRY POINTS
+
+
 The computer view of the complex indicates no obvious
 points of entry into the pyramids; it does show several
 possibilities, each of which may be investigated. Each entry
@@ -13452,12 +13962,13 @@ third will disable the laser. The ship's laser
 fire will not affect return fire from the
 pyramid.
 INTERIOR FEATURES
+
+
 The nature of the interior of the complex
 should come as a distinct surprise to its
 violators. While the outside of the structure
 is angular and regular, the interior is curved and rounded.
-Large Chamben: Diagram 2 shows a typical large chamber
-(such as location 11) with a curved ceiling and side
+Large Chamben: Diagram 2 shows a typical large chamber (such as location 11) with a curved ceiling and side
 access to a corridor. Note the sunken central floor area,
 drainage, and ceiling vent. The curved line at the top is a
 lighting fixture which produces a dull glow sufficient for
@@ -13508,8 +14019,7 @@ floors, virtually the only way to gain access to the area
 beneath the floor requires several persons (at least two) at
 one side, tilting the platform near the entrance corridor; the
 gap which results will allow a person to slip into the chamber
-below. If done improperly, the explorer can get trapped
-(throw 8+ to get trapped; OM +1 for each person counterweighting
+below. If done improperly, the explorer can get trapped (throw 8+ to get trapped; OM +1 for each person counterweighting
 the platform in excess of 2). If trapped, throw 7+
 for the vacc suit to be torn while being retrieved; OM + vacc
 suit skill.
@@ -13570,6 +14080,8 @@ move down the shaft. Note that a similar shaft connects
 locations 9 and 21, but does not have a fault in its length.
 Diagram 5
 THE INOIVIOUALLOCATIONS
+
+
 Locations on the floor plans range from 1 through 32,
 each of which denotes an area of potential interest. By
 investigation of these areas, the adventurers may well
@@ -13591,8 +14103,7 @@ It should be assumed that movement takes little time,
 The Traveller Book
 but that careful search can be very time consuming. As a
 result, apply the following time spans:
-A. To move from one location to an adjacent location
-(except changing levels) : two or three minutes.
+A. To move from one location to an adjacent location (except changing levels) : two or three minutes.
 B. To casually look into a location: two or three minutes.
 C. To carefully search a room, sufficient to attempt the
 throw for success in the search: ten minutes.
@@ -13621,8 +14132,7 @@ lairs will become apparent; consult the encounter tables.
 This chamber has a high level floor, and is reached by
 climbing up a set of raised stair rungs and passing through a
 doorway onto a metal floor. The upper area is filled with
-boxes made of pressed board, all now empty. Careful search
-(throw 8+; OM +2 if more than 4 persons are searching)
+boxes made of pressed board, all now empty. Careful search (throw 8+; OM +2 if more than 4 persons are searching)
 reveals that indeed none of the boxes are full; they appear
 to be natural organic products. Additional search below the
 floor (requires ten minutes; use the procedure above)
@@ -13673,8 +14183,7 @@ Second, a concealed passage (location 13) becomes obvious.
 An individual with navigation skill will note that the center
 of this chamber is at the exact center of the large pyramid.
 The knobby cable may be a method of descending into
-the depths of the shaft. It would require a leap to the cable
-(throw dexterity or less to succeed; OM + vacc suit skill,
+the depths of the shaft. It would require a leap to the cable (throw dexterity or less to succeed; OM + vacc suit skill,
 OM -3 if vacc suit skill is 0 or non-existent), followed by a
 slow descent (throw strength or less to succeed; OM + vacc
 suit skill and+ endurance, OM -4 if vacc suit skill is zero or
@@ -13692,16 +14201,14 @@ an unstable position.
 Referee's Note: At this point, the band may decide to
 split up rather than risk all their lives in a descent. The
 portion which remains behind should stay in chamber 9 in
-order to avoid the divided band penalties for both groups
-(as specified on page 134).
+order to avoid the divided band penalties for both groups (as specified on page 134).
 10. Large Chamber. Large chambers have no doors. This
 large chamber is empty, and has a cross-section as shown in
 diagram 2. The central sunken area is filled with vapor.
 Casual search will reveal nothing; careful search (throw 10+
 for success; OM +8 if anyone has infrared goggles) will show
 that the walls of the chamber are painted in a striking mural
-visible only in infrared. It is possible to detect the mural
-(but not view its content) on close inspection in visible
+visible only in infrared. It is possible to detect the mural (but not view its content) on close inspection in visible
 light.
 The mural shows a perception of the area around the
 pyramid complex, with a low range of mountains in the
@@ -13775,8 +14282,7 @@ and location 15. This lip on the shaft is a result of seismic
 activity. An individual stopping here will find several small
 snake skeletons. Throw twice dexterity or less to avoid
 slipping and falling; OM + vacc suit skill. Careful search
-Shadows
-(throw 10+) will show a single gold coin engraved with a
+Shadows (throw 10+) will show a single gold coin engraved with a
 symbol of a flame.
 15. large Central Chamber. The floor of the chamber is
 flat, with no central depression. It is littered with snake
@@ -13884,8 +14390,7 @@ Game Designers' Workshop
 chanced upon until at least a half hour of careful search has
 passed (throw 11+ to succeed; OM +1 per ten minutes total
 time spent searching) .
-If all power plant controls are turned to zero, all power
-(lighting, power plant, defenses) will go to zero, and nothing
+If all power plant controls are turned to zero, all power (lighting, power plant, defenses) will go to zero, and nothing
 can be restarted. If control 69 is activated, a subsonic
 signal will panic all animals within the complex. Control 74
 will turn off the pendulum kicker. Control 83 will turn off
@@ -13943,6 +14448,8 @@ with a laser weapon or with a cutting torch.
 
 The Traveller Book
 ANIMAL ENCOUNTERS
+
+
 The interior of the pyramid complex is infested with a
 large number of animals, all of which have lived and bred
 within its walls for hundreds of years. They inhabit the
@@ -13954,6 +14461,8 @@ rather small (none larger than 12 kilograms) and not
 especially smart. However, all run in packs, and their
 numbers can endanger adventurers if they do attack.
 ENCOUNTERS
+
+
 Each time the adventuring band enters a new area, the
 referee should throw randomly to determine if they have
 encountered a group of animals. Thus, there is a continuing
@@ -13974,9 +14483,10 @@ with surprise will attack.
 Priority: Specific animal encounters occur in locations
 11 and 13, and override use of the animal encounter table.
 THE ANIMALS
+
+
 The three animal types encountered appear to be dis·
-tinct (though related) species; upon examination of specimens
-(a character must examine at least one specimen of
+tinct (though related) species; upon examination of specimens (a character must examine at least one specimen of
 each type during the adventure, and throw education minus
 S or less at the end of the adventure) they are discovered
 to be developmental stages in the life of a single animal.
@@ -14014,6 +14524,8 @@ form, like the male, feeds on the juvenile, making this
 organism the only known case of an animal feeding solely
 off its own young.
 SEISMIC TREMORS
+
+
 Throw two dice for the strength of a tremor : any
 individual with a dexterity less than the throw is shaken to
 the floor or ground by the force of the quake. Throw
@@ -14027,6 +14539,8 @@ increase the frequency of the tremors to one per ten
 minutes, with each becoming stronger (OM +1 to the throw
 for each new quake strength).
 ANIMAL ENCOUNTER TABLE
+
+
 PYRAMID COMPLEX INTERIOR Yorbund C7C6503-7 (8+)
 Die Oty Animal Type Weight Hits Armor Wounds & Weapons Reactions
 0 12 Amphibian Grazers 1 kg 2/ 0 none teeth-1 F8 AS S2
@@ -14056,8 +14570,7 @@ presented here. If they appear close, then the
 referee can reveal certain bits of information.
 The pyramid structure on Yorbund was constructed
 perhaps 50,000 years ago by a minor al ien race originating
-far to coreward. Voluntary exiles from their own civilization
-(coming this far in sublight speed ships equipped with
+far to coreward. Voluntary exiles from their own civilization (coming this far in sublight speed ships equipped with
 low berths), they selected this world as the site of their
 noble experiment in esthetic simplistics. The group seeded
 this region of Yorbund with their food animals and settled
@@ -14105,8 +14618,7 @@ social interaction. For the aliens who operated the pyramids,
 location 24 was a social center; the aliens sunned
 themselves on the raised stone dais created for that purpose.
 The Energy Beam: The alien crew of this structure was
-charged with the operation and maintenance of the pyra-
-Game Designers' Workshop
+charged with the operation and maintenance of the pyra-Game Designers' Workshop
 mid as a central symbol for the population which lived
 outside. The aliens outside lead a simple life in the wilds,
 eating the many food animals which abound in the local
@@ -14163,6 +14675,8 @@ six-sided dice.
 For Referees Only: This entire adventure is for the reference of the Traveller referee. Players should not be allowed to
 read any part of it until they have finished the adventure.
 STANDARDS AND ASSUMPTIONS
+
+
 The following standards and assumptions are used in the
 text of this adventure.
 Current Date: 300-1105
@@ -14204,6 +14718,8 @@ Alell Down's companion facilities, Alell Orbital Starport,
 provide services, refueling, and maintenance for unstreamlined
 ships calling on the world.
 CHARACTERS
+
+
 Any group of characters may set out on this particular
 adventure. For best results, the group should include
 certain skills and a ship.
@@ -14251,6 +14767,8 @@ characters as the adventure proceeds.
 142
 Exit Visa
 FREE TRADER BEOWULF
+
+
 If the adventurers have been hired on as crew for a
 free trader, the following description of the ship should be
 made available. In other situations, the referee may wish
@@ -14278,6 +14796,8 @@ can produce an approximate maximum income of
 Cr282,000. Because ship usage is rarely at maximum,
 average income is somewhat less.
 THE SITUATION AT ALELL DOWN STARPORT
+
+
 The ship has just landed on Alell, and is discharging
 a chartered cargo as well as passengers. The captain will
 receive Cr80,000 when the cargo is signed over in a few
@@ -14326,6 +14846,8 @@ Besides, the authorities will probably assume that the
 present crew was part of the incident, and hold them as
 well.
 OPTIONS AVAILABLE
+
+
 The oppressive law level of Alell makes many of the
 usual options (such as a running gun-battle as the ship lifts
 off) impossible. Alell will not tolerate that sort of behavior,
@@ -14341,6 +14863,8 @@ crew could find out where to steal the right papers, or discover
 their format so that they could be forged, but the
 major emphasis must be on dealing with the bureaucracy.
 TIME SPANS
+
+
 The ship needs to leave within six days. Within that
 time, the crew must secure an exit visa. Nevertheless, time
 should pass in a reasonable manner.
@@ -14369,6 +14893,8 @@ day and thereafter, if the exit visa is not granted officially,
 the referee should produce an announcement that it is
 expected on the following day.
 THE BUREAUCRACY ON ALELL
+
+
 As the crew of the ship struggles to find a way off-planet
 before their time runs out, they will meet all manner of
 bureaucrats performing their roles within the government
@@ -14390,7 +14916,7 @@ Reactions: The referee should roll on the reactions table
 to determine the official's response to the crew's approach.
 That roll is also the official's throw (or less) to perform
 whatever he or she is capable of for the crew. Thus, if an
-official's reaction roll is 7 (non-committal) then the crew
+official's reaction roll is7 (non-committal) then the crew
 must roll 7- on two dice to entice that individual to help.
 Bribery: As indicated in the definition of bribery skill,
 bribery may be used to convince an individual to help. The
@@ -14452,13 +14978,14 @@ such attempts should always be kept reasonable and should
 be based on the characteristics, skills, and experience of the
 characters.
 THE FIRST ENCOUNTER
+
+
 The group automatically meets official number 0. He is a
 clerk who can be bribed for Cr10, and who can be influenced
 by entertainment and admin skill. He can refer the
 crew to a customs supervisor (official number 17) who
 might be able to help.
-0. Clerk in the port warden's office. Cr10. Entertainment
-(Cr10), administration. Refers crew to customs
+0. Clerk in the port warden's office. Cr10. Entertainment (Cr10), administration. Refers crew to customs
 supervisor (official number 17).
 The encounter might proceed in the following manner:
 official number O's initial reaction roll is 6, unreceptive.
@@ -14481,8 +15008,7 @@ to refer them to someone who might help. A OM of minus
 the number of adventurers accompanying the official for
 the evening is allowed. If three crewmembers came along,
 the OM would be -3, for a throw of 9- for success. If the
-roll succeeds, they are referred to a customs supervisor
-(official number 17).
+roll succeeds, they are referred to a customs supervisor (official number 17).
 Because entertainment must take place in the evening,
 there may not be time for each official to be entertained.
 Instead, some other applicable skill may be brought into
@@ -14492,6 +15018,8 @@ Admin skill appl ied is used as a OM on the throw for
 success. If the character has admin-2. then the throw
 for success is 6-, OM -2, for a final throw of 8- for success.
 MEETING OFFICIALS
+
+
 Once per day, the group will randomly encounter an
 official who has potential for helping. Only one such
 official can be met randomly per day, regardless of whether
@@ -14517,15 +15045,12 @@ officials may provide references that enable the crew to
 seek out other officials. It is possible to meet with two
 referred officials per day in addition to the one randomly
 encountered official.
-For example, on the first day, the crew rolls 4 (OM +2
+For example, on the first day, the crew rolls4 (OM +2
 for highest streetwise in the group) and meets an admin·
 istrative clerk in the Department of Registration (official
 number 6). They convince this clerk to help, and he refers
-them to the supervisor in the Department of Registration
-(official number 13). On the next day, the crew rolls a 5
-(OM +2 for highest streetwise in the group) and encounters
-the local Commemorative Society membership supervisor
-(official number 7). The crew may meet with both the ran·
+them to the supervisor in the Department of Registration (official number 13). On the next day, the crew rolls a 5 (OM +2 for highest streetwise in the group) and encounters
+the local Commemorative Society membership supervisor (official number 7). The crew may meet with both the ran·
 domly encountered official number 7 and the referred to
 official number 13.
 Multiple Encounters: The referee should note those
@@ -14544,6 +15069,8 @@ must spend all morning, all afternoon, all evening, or
 all night doing so. Monorail passage costs Cr80 per person
 one way, and Cr150 per person round trip.
 THE OFFICIALS
+
+
 The following list of 33 officials includes individuals
 from all levels of the bureaucracy on Alell. Only officials
 numbered 2 through 12 (or higher as allowed by OMs based
@@ -14577,8 +15104,7 @@ Cr1 00. Administration, entertainment (Cr20). streetwise.
 Refers crew to secretary to the Commemorative Society
 Central Committee chairman (official number 31) in Lucifer.
 8 . Starship safety inspector. Cr60. Administration.
-Refers crew to starship movement control supervisor
-(official number 14).
+Refers crew to starship movement control supervisor (official number 14).
 9. Immigration officer. Cr10. Entertainment (Cr30),
 streetwise. Refers crew to supervisor in the Department of
 Immigration (official number 21).
@@ -14608,29 +15134,25 @@ forms in his safe. Refers crew to a merchant broker (official
 number 23).
 17. Supervisor in the Department of Customs. Cr300.
 Entertainment (Cr100). Refers crew to chairman of the
-Commemorative Society Committee on Non-Residents
-(official number 19).
+Commemorative Society Committee on Non-Residents (official number 19).
 18. Starport security supervisor. Cr150. Administration,
 entertainment (Cr90). Refers crew to Alell Navy Port
 Defense Squadron executive officer (official number 27) in
 Lucifer.
 19. Chairman of the Commemorative Society Committee
 for Non-Residents. Cr150. Administration. Regrets that he
-cannot help; refers crew to starsh ip safety inspector
-(official number 8).
+cannot help; refers crew to starsh ip safety inspector (official number 8).
 20. Librarian, stanhip movement control archives. Cr40.
 Administration. Refers crew to supervisor in the Depart·
 ment of Immigration (official number 21 ).
 21 . Supervisor in the Department of Immigration. Cr75.
 Administration. Refers crew to clerk in the immigration
 office (official number 30) in Lucifer.
-22. Lawyer specializing in starship registration. Cr400
-(in addition to a legal fee of Cr100). Double streetwise.
+22. Lawyer specializing in starship registration. Cr400 (in addition to a legal fee of Cr100). Double streetwise.
 Refers crew to clerk in the registration office (official
 number 28) in Lucifer.
 23. Merchant broker. Cr200. Entertainment (Cr100).
-administration. Refers crew to a fellow merchant broker
-(official number 25) in Lucifer.
+administration. Refers crew to a fellow merchant broker (official number 25) in Lucifer.
 24. Clerk in the starship movement control local office.
 Exit Visa
 Cr500. Streetwise, administration, entertainment (Cr50).
@@ -14662,6 +15184,8 @@ Commerce (official number 33) in Lucifer.
 33. Supervisor in the Department of Trade and Com·
 merce. Cr5. Provides exit visa upon application.
 ADMINISTERING THE OFFICIALS
+
+
 The referee has an opportunity to use the brief descrip·
 tions of the officials to provide interesting situations for
 the Traveller players in this adventure. The following is
@@ -14716,6 +15240,8 @@ maybe you should make an appointment to see the customs
 inspector in Building 134 tomorrow. He might be able
 to help."
 CRIME
+
+
 There is always the possibility that the crew of the
 ship might turn to obviously illegal means to achieve an
 exit visa. The temptation could surely be extra strong after
@@ -14756,6 +15282,8 @@ Game Designers' Workshop
 an enforcer is grounds for immediate arrest, confiscation
 of the weapons, and a jail term of up to 1 D days.
 THE COMMEMORATIVE SOCIETY
+
+
 Most of the titles for the officials available make sense
 and can be readily understood. The titles that make less
 immediate sense are those associated with the Commemor·
@@ -14824,6 +15352,8 @@ have a background on what is going on.
 Library Data: The chapter on library data presents information which is less familiar. Unlike these basic background
 essays, library data is provided to the players only when the referee thinks proper.
 THE IMPERIUM
+
+
 The key to the stars is the jump drive - without it, the
 space between the stars takes years, even lifetimes, to cross.
 With it starships travel parsec distances in a matter of
@@ -14892,6 +15422,8 @@ it firmly on the foundations of the First and Second.
 148
 Traveller's Guide to the Universe
 THE STRUCTURE OF THE IMPERIUM
+
+
 The Imperium is a far-flung interstellar community
 encompassing over 1100 worlds within a region approximately
 700 parsecs across. It has now ruled its territory for
@@ -14941,8 +15473,7 @@ And still the Imperium is straining under the effects of
 distance.
 Feudalism: With such great distances separating stellar
 systems, individual responsibility and authority become of
-great importance. The Imperium is divided into sectors
-(twenty of them), each about 32 parsecs by 40 parsecs in
+great importance. The Imperium is divided into sectors (twenty of them), each about 32 parsecs by 40 parsecs in
 size. Each sector is divided into sixteen subsectors (8 by 10
 parsecs). And within a subsector are perhaps thirty or forty
 systems, each with a star, worlds, and satellites.
@@ -14962,6 +15493,8 @@ sense of honor is very strong within the Imperium; it has
 proven essential to the survival of this far-flung interstellar
 community.
 THE MEGACORPORATIONS
+
+
 Millions of organizations do business within and without
 the Imperium. Most of them are limited to a town or
 province; some reach as far as one or two worlds. A few
@@ -15025,8 +15558,7 @@ Ownership: Corporations belong to their shareholders.
 An individual shareholder usually owns a pitifully small
 proportion of the company; the main value of stock is
 the dividends that it pays and its cash value if sold. In·
-dividuals or companies which hold large blocks of stock
-(more than 5%) hold more than money: they hold power as
+dividuals or companies which hold large blocks of stock (more than 5%) hold more than money: they hold power as
 well.
 It is traditional for any megacorporation to place some
 of its stock in the hands of the Imperial family and various
@@ -15038,6 +15570,8 @@ a commercial empire, and the promotion of trade and
 commerce has remained a major emphasis of Imperial
 government.
 THE SPINWARD MARCHES
+
+
 A major mapping division of interstellar territory is the
 sector. Each consists of sixteen subsectors arranged in
 a rectangle four across and four high. For reference, these
@@ -15055,10 +15589,18 @@ from the original center of the Imperium, the Spinward
 Traveller's Guide to the Universe
 A B c D
 E F G H
+
+
 I J K L
+
+
 M N 0 p
 SUBSECTORS
+
+
 WITHIN A SECTOR
+
+
 Marches represent one of the furthest extents of explora·
 tion and domination by Imperial forces.
 Up until the formation of the Third Imperium, the
@@ -15088,11 +15630,8 @@ each other. Great opportunities exist for enterprising
 individuals and companies.
 Subsector Names: The sixteen subsectors (with capitals
 listed in parentheses) in the Spinward marches are:
-A Chronor (Chronor), B Jewell (Jewell). C Regina
-(Regina), D Aramis (Aramis). E Ouerion (Ouerion). F Vilis
-(Frenzie), G lanth (lanth), H Rhylanor (Rhylanor),
-I Darrian (Mi re). J the Sword Worlds (Gram). K lunion
-(lunion). l Mora (Mora), M the Five Sisters (lderati).
+A Chronor (Chronor), B Jewell (Jewell). C Regina (Regina), D Aramis (Aramis). E Ouerion (Ouerion). F Vilis (Frenzie), G lanth (lanth), H Rhylanor (Rhylanor),
+I Darrian (Mi re). J the Sword Worlds (Gram). K lunion (lunion). l Mora (Mora), M the Five Sisters (lderati).
 N District 268 (Mertactor), 0 Glisten (Glisten). and P Trin's
 Veil (Trin).
 149
@@ -15153,12 +15692,18 @@ dependable.
 
 The Tra11eller Book
 MAP LEGEND
+
+
 World
 Name
 Route
 No Gas Giant
 WORLD
+
+
 CHARACTERISTICS
+
+
 • No Water Present • Water Present
 .:!:::·· Asteroid Belt
 ~
@@ -15167,11 +15712,17 @@ CHARACTERISTICS
 B Research Station
 • Scout Way Station
 TRAVEL ZONES
+
+
 ~Amber Zone
 ~Red Zone
 POPULATION
+
+
 Secundus
 PRIMUS
+
+
 under one
 billion
 over one
@@ -15179,6 +15730,8 @@ billion
 World names in red are
 subsector capitals.
 UTHE
+
+
 HJ.NV1
 Regina Subsector
 )>
@@ -15196,6 +15749,8 @@ as data to help players better understand the situations they are in, or as lead
 the referee can look into library data any time the player characters indicate that they are researching a subject. In addition
 to directly relevant information, additional materials of interest may be revealed to them.
 LIBRARY DATA ENTRIES
+
+
 The following entries comprise library data.
 Algine (0708 X766977-4): Red Zone. Interdicted by the
 Scout Service in order to protect its developing technological
@@ -15431,8 +15986,7 @@ of reducing unemployment over the long term. In a similar
 medical insurance program, indigents unable to obtain
 medical treatment are provided with their needs in ex·
 change for signing on to a colony. A colony's needs for
-skills are met through the anagathics program; qualified
-(and aged) individuals can be provided with anagathics to
+skills are met through the anagathics program; qualified (and aged) individuals can be provided with anagathics to
 extend their lifespans in return for their providing such
 skills as administration, mechanical and electronic, and
 medical. Finally, a land grant program has provided a cadre
@@ -15478,8 +16032,7 @@ reasons currently unknown. The result is that many different,
 parallel human races exist, and coexist throughout
 Game Designers' Workshop
 known space.
-The three most widespread human races are the Solomani
-(humans from Terra), the Vilani (humans from
+The three most widespread human races are the Solomani (humans from Terra), the Vilani (humans from
 VIand), and the Zhodani (humans from Zhodane).
 Interdiction: The Imperial practice of interdiction of
 worlds within the boundaries of the Imperium had long
@@ -15626,8 +16179,7 @@ mini-black hole investigation, instantaneous transmitter
 development (so far proving impossible). advanced gravity
 manipulation, genetic manipulation, anti-matter containment,
 weaponry research, disintegrator beams, black globe
-development, deep planetary core soundings, nova prevention
-(and prediction). psychohistory, mass population
+development, deep planetary core soundings, nova prevention (and prediction). psychohistory, mass population
 behavior prediction, psionics, stable superheavy elements,
 deep radar analysis, long-range detection systems, robotics,
 artificial intelligence, stasis and time travel, so-called magic,
@@ -15765,6 +16317,8 @@ spur of the moment. Each has been generated in accordance with the character gen
 are numbered consecutively, and the referee may select any specific character that meets the required purpose. The list of
 thugs and brigands fulfils the need for easily available but less fully defined characters.
 CHARACTER LIST
+
+
 The following characters have been randomly pregenerated
 using the character generation sequence.
 1. Navy Lieutenant Commander 556B6A Age 34
@@ -16043,6 +16597,8 @@ Other hardcover volumes in the Traveller series - some now available, others in 
 Adventure, The Traveller Starfleets, The Traveller Campaign, and more. Hardcover volumes are a blend of new and previous·
 ly published rules, supplements, and adventures.
 TRAVELLER STARTER SETS
+
+
 Essential to any Traveller game are the basic rules.
 Basic Traveller includes essentially the same material as
 The Traveller Book, but in three 48-page booklets.
@@ -16058,6 +16614,8 @@ begin with Deluxe Traveller or The Traveller Book. Basic
 Traveller is for players already into role-playing, or with
 experienced friends to help them.
 BOOKS
+
+
 Books present addit ional rules on specific subjects,
 expanding on Traveller's basic concepts. Each may be used
 independently, but all require one of the starter sets.
@@ -16065,6 +16623,8 @@ Book 0. An Introduction to Traveller.
 Book 4, Mercenary.
 Book 5, High Guard.
 SUPPLEMENTS
+
+
 Traveller supplements provide many different types of
 data, including starships, star systems, characters, and
 animals in pre-generated form. They may be used independently,
@@ -16082,6 +16642,8 @@ Supplement 9, Fighting Ships.
 Supplement 10, The Solomani Rim.
 Supplement 11, Library Data (N-Z).
 ADVENTURES
+
+
 These booklets provide exciting scenarios for sessions of
 Traveller. Most require only a starter set. Double adventures
 include two shorter adventures bound back-to-back.
@@ -16099,6 +16661,8 @@ Double Adventure 3, Argon Gambit/Death Station.
 Double Adventure 4, Marooned/Marooned Alone.
 Double Adventure 5, The Chamax Plague/Horde.
 GAMES
+
+
 Traveller boardgames use maps. counters, and detailed
 rules to translate important parts of Traveller to a more
 traditional game format. Where referees are not available,

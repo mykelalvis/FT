@@ -242,6 +242,8 @@ fencing what they steal.
     in and stole what you needed.
 
 RANKS AND SKILLS
+
+
 Rank Title Skill or Benefi t
 0— —
 1 Experienced Thief +1 Benefi t Roll
@@ -252,6 +254,8 @@ Rank Title Skill or Benefi t
 6 Legendary Thief +1 Social
 
 BENEFITS
+
+
 Roll Cash Other Benefi t
 1 None Contact or 1 Ship Share
 2 5,000 Thieves' Tools
@@ -262,6 +266,8 @@ Roll Cash Other Benefi t
 7 100,000 +1 Soc
 
 CAREER PROGRESS
+
+
 Advancement Survival
 Hacker Int 8+ Edu 6+
 Burglar Dex 7+ End 7+
@@ -462,6 +468,8 @@ Runner Specialist: Bootlegger Specialist: Smuggler Crew
 6 Engineer (any) Deception Vacc Suit
 
 CAREER PROGRESS
+
+
 Advancement Survival
 Blockade Runner Edu 8+ Dex 6+
 Bootlegger Int 7+ End 7+
@@ -532,8 +540,7 @@ either result as your event for that term.
 Contact.
 25 A customs inspector demands a bribe. Either lose one Benefi t roll or gain an Enemy.
 26 An extremist group hires you to supply them with weapons. If you accept, roll Pilot 8+ or Streetwise 8+. If
-you fail, you are caught in a crossfi re – roll on the Injury table. If you succeed, gain one of Gun Combat
-(any) 1, Heavy Weapons 1, Explosives 1 or Recon 1.
+you fail, you are caught in a crossfi re – roll on the Injury table. If you succeed, gain one of Gun Combat (any) 1, Heavy Weapons 1, Explosives 1 or Recon 1.
 31 A rival smuggler tries to steal one of your markets. Roll either Broker 8+ or Gunnery 8+ to drive him off. If
 you succeed, gain an additional Benefi t roll. If you fail, you gain nothing. Alternatively, you may choose to
 ally with him, in which case gain a Contact.
@@ -636,6 +643,8 @@ Rank Title Skill or Benefi t
 6 Boss +2 Soc
 
 BENEFITS
+
+
 Roll Cash (Cr.) Other Benefi t
 1 1,000 Membership
 2 5,000 +1 End
@@ -649,8 +658,7 @@ Roll Cash (Cr.) Other Benefi t
 
 Personal Development Service Skills
 
-Advanced Education
-(Minimum Edu 8)
+Advanced Education (Minimum Edu 8)
 1 +1 End Gun Combat (any) Computers
 2 +1 Soc Streetwise Broker
 3 +1 Str Persuade Advocate
@@ -666,6 +674,8 @@ Specialist: Assassin Specialist: Enforcer Specialist: Co–ordinator
 6 Athletics (any) Investifate Streetwise
 
 CAREER PROGRESS
+
+
 Advancement Survival
 Assassin Dex 7+ End 7+
 Enforcer Str 6+ End 8+
@@ -730,8 +740,7 @@ advancement roll.
 31 An assassin attempts to kill one of the organization's leaders. You may take the hit instead; if you do
 so, roll twice on the Injury table and take the lower result but gain a +4DM to your next Advancement
 roll.
-32 There is a street war with a rival organization. Gain Recon 1, Stealth 1, Gun Combat 1 or Tactics
-(military) 1.
+32 There is a street war with a rival organization. Gain Recon 1, Stealth 1, Gun Combat 1 or Tactics (military) 1.
 33 Life Event. Roll on the Life Events table (see page 34 of the Traveller Core Rulebook ).
 34 The organization attempts to take control of local government. Gain Diplomat 1, Steward 1 or Admin 1.
 You have a +4 DM to any attempts to qualify for the Noble career next term, thanks to their support.
@@ -815,6 +824,8 @@ page 40.
     merchant ship which occasionally attacked other ships.
 
 BENEFITS
+
+
 Roll Cash (Cr.) Other Benefi ts
 1 None Ship Share
 2 None Weapon
@@ -861,6 +872,8 @@ Leader Leadership 1
 6 Captain — Captain —
 
 CAREER PROGRESS
+
+
 Advancement Survival
 Corsair Edu 7+ Int 7+
 Boarder Int 6+ End 8+
@@ -941,8 +954,7 @@ roll on the Injury table.
 
 ###### SSCOUNDRELCOUNDREL C CAREERSAREERS
 
-41 You go undercover to study the defences of a merchant freighter. Gain Mechanic 1, Engineering
-(any) 1, Steward 1 or Pilot (any) 1, then roll Deception 8+. If you succeed, gain a +2DM to your next
+41 You go undercover to study the defences of a merchant freighter. Gain Mechanic 1, Engineering (any) 1, Steward 1 or Pilot (any) 1, then roll Deception 8+. If you succeed, gain a +2DM to your next
 Advancement roll; if you fail, you suffer a –2DM to your next Advancement roll.
 42 The captain of your pirate vessel dies. If you wish, you may try to claim a higher position on board
 ship. If you do so, roll Persuade 8+ or Melee 8+. If you fail, you lose any Benefi ts from this career. If
@@ -1011,6 +1023,8 @@ from page 126.
     fallen civilizations – not as an archaeologist but as a thief.
 
 BENEFITS
+
+
 Roll Cash Other Benefi t
 1 None None
 2 None Weapon
@@ -1053,6 +1067,8 @@ Rank Skill or Benefi t
 6—
 
 CAREER PROGRESS
+
+
 Advancement Survival
 Wrecker Edu 7+ End 7+
 Salvage Expert Int 7+ Edu 7+
@@ -1207,6 +1223,8 @@ on page 116.
 - **Bandit:** You were a petty thief or thug.
 
 BENEFITS
+
+
 Roll Cash Other Benefi t
 1 None Contact
 2 None Jack of all Trades
@@ -1245,6 +1263,8 @@ Specialist: Hitchhiker Specialist: Vagabond Specialist: Bandit
 6 Social Science (any) Any Science (any) Recon
 
 CAREER PROGRESS
+
+
 Advancement Survival
 Hitchhiker Edu 7+ Soc 7+
 Vaganbond Int 7+ End 7+
@@ -1405,6 +1425,8 @@ remove the effects of Injuries. Barbarians cannot normally gain
 access to anagathics.
 
 BENEFITS
+
+
 Roll
 1 None
 2 Contact
@@ -1435,6 +1457,8 @@ Standing
 - **Shaman:** You guarded the tribe's secret lore and spoke on behalf of the gods.
 
 CAREER PROGRESS
+
+
 Advancement Survival
 Warrior Str 6+ End 8+
 Tribesman Int 8+ End 6+
@@ -1632,6 +1656,8 @@ If instructed to roll twice on the Incarceration table, any DMs
 apply to both rolls.
 
 INCARCERATION TABLE
+
+
 Roll (2d6) Sentence
 2– Imprisoned 4 terms
 3 Imprisoned 3 terms
@@ -1661,6 +1687,8 @@ DMs:
     gives a +DM to the roll.
 
 LEGAL DEFENCE
+
+
 Type Lawyer DM Cost
 Untried +1d6–3 10,000
 Poor +1 5,000
@@ -1776,7 +1804,7 @@ Organizations draw a distinction between those who merely
 work for them and actual members. Only members enjoy the
 protection of the organization and can draw on its resources.
 Membership of an organization can be gained as a result of a
-career event or benefi t (see page 12) or through roleplaying.
+career event or benefit (see page 12) or through roleplaying.
 
 To become a member of the organization, the character must
 swear allegiance to that organization and agree to obey its
@@ -2602,8 +2630,7 @@ by the registered crew. These systems can be bypassed but
 every minute spent hacking through security brings the naval
 patrols another minute closer.
 
-Even if the pirate manages to capture a ship and bypass security
-(or subvert the crew), there are still several problems. If the
+Even if the pirate manages to capture a ship and bypass security (or subvert the crew), there are still several problems. If the
 captured ship is not ready to jump, the pirates need to transfer
 fuel from their own ship or skim a gas giant, both of which are
 problematic. Selling a ship is also very hard – only a handful of
@@ -2781,8 +2808,7 @@ target, disable it or force its surrender, match velocity, dock, loot
 the cargo and then escape.
 
 The initial encounter distance is set by the Referee; as a rule of
-thumb, roll 3d6 and multiply it by the diameter of the mainworld
-(or 1,000km for Size 0 worlds). An arriving ship will arrive
+thumb, roll 3d6 and multiply it by the diameter of the mainworld (or 1,000km for Size 0 worlds). An arriving ship will arrive
 somewhere outside the hundred–diameter jump limit, so the
 values in the Jump Limit Transit Table are the minimum travel
 times for an arriving ship.
@@ -2798,6 +2824,8 @@ Backwater: –1DM Dangerous World: –1DM
 High–traffi c outsystem: +1DM Secure World: +1DM
 
 OUTSYSTEM PREY TABLE
+
+
 Roll Encounter Roll Encounter
 0 Traveller 8 No encounter
 1 No encounter 9 Poor freighter
@@ -2843,58 +2871,47 @@ a 'crash').
 
 Size 1g 2g 3g 4g 5g 6g
 Up Down Up Down Up Down Up Down Up Down Up Down
-0
-(80,000km)
+0 (80,000km)
 
 1hr 1.5hrs 45mins 1.2hrs 40mins 1hr 33mins 45mins 30mins 42mins 27mins 38mins
 
-1
-(160,000km)
+1 (160,000km)
 
 1.5hrs 2 hrs 1.2hrs 1.5hrs 1hr 1.2hrs 45mins 1.1hrs 42mins 1hr 38mins 0.9hrs
 
-2
-(320,000km)
+2 (320,000km)
 
 2hrs 3 hrs 1.5hrs 2.25hrs 1.2hrs 2hrs 1.1hrs 1.5hrs 1hr 1.5hrs 0.9hrs 1.2hrs
 
-3
-(480,000km)
+3 (480,000km)
 
 3hrs 4 hrs 2hrs 2.75hrs 1.5hrs 2.2hrs 1.3hrs 2hrs 1.2hrs 1.75hrs 1.1hrs 1.5hrs
 
-4
-(640,000 km)
+4 (640,000 km)
 
 3 hrs 4.3 hrs 2.25hrs 3hrs 1.9hrs 2.5hrs 1.5hrs 2.25hrs 1.5hrs 2hrs 1.2hrs 1.9hrs
 
-5
-(800,000km)
+5 (800,000km)
 
 3.5hrs 5 hrs 2.5hrs 3.5hrs 2hrs 3hrs 1.75hrs 2.5hrs 1.6hrs 2.2hrs 1.5hrs 2hrs
 
-6
-(960,000km)
+6 (960,000km)
 
 4hrs 5.5hrs 2.75hrs 4hrs 2.25hrs 3.2hrs 2hrs 2.75hrs 1.75hrs 2.5hrs 1.5hrs 2.25hrs
 
-7
-(1,120,000km)
+7 (1,120,000km)
 
 4.2hrs 6hrs 3hrs 4.2hrs 2.4hrs 3.5hrs 2.1hrs 3hrs 1.9hrs 2.6hrs 1.75hrs 2.5hrs
 
-8
-(1,280,000km)
+8 (1,280,000km)
 
 4.5hrs 6.3hrs 3.2hrs 4.5hrs 2.6hrs 3.7hrs 2.25hrs 3.1hrs 2hrs 2.9hrs 1.9hrs 2.4hrs
 
-9
-(1,440,000km)
+9 (1,440,000km)
 
 4.75hrs 6.75hrs 3.3hrs 4.75hrs 2.75hrs 3.9hrs 2.3hrs 3.3hrs 2.1hrs 3hrs 2hrs 2.75hrs
 
-A
-(1,600,000km)
+A (1,600,000km)
 
 5hrs 7hrs 3.5hrs 5hrs 3hrs 4.1hrs 2.5hrs 3.5hrs 2.25hrs 3.1hrs 2hrs 3hrs
 
@@ -2934,8 +2951,7 @@ loot before the authorities arrive (see Pirate Hunters on page
 determine how long the pirates have to loot their prize.
 
 Skill Checks:
-Locating a target: Sensors+Intelligence, 1–6 minutes, Average
-(+0)
+Locating a target: Sensors+Intelligence, 1–6 minutes, Average (+0)
 Estimating the likely value of a prize: Broker+Intelligence, 1–6
 seconds, Diffi cult (–2)
 Plotting an intercept course: Pilot+Education, 10–60 seconds,
@@ -2991,8 +3007,7 @@ just the right time to distract us from those pirates?'
 challenge the target as soon as the fi rst shot is fi red, demanding
 that the prey surrender, heave to and prepare to be boarded.
 
-The ideal results for a pirate are hits to the Maneuver Drive
-(reducing the target's Thrust and making interception much
+The ideal results for a pirate are hits to the Maneuver Drive (reducing the target's Thrust and making interception much
 easier) or Fuel (dumping a portion of the target's fuel into space
 and possibly preventing it from jumping away).
 
@@ -3007,8 +3022,7 @@ one's ship and possibly one's life to an incoming pirate missile.
 Skill Checks:
 Demanding a Surrender: Comms+Social Standing, 10–60
 seconds, Diffi cult (–2)
-Attacking engines: Gunner+Dexterity, 1–6 minutes, Diffi cult
-(–2)
+Attacking engines: Gunner+Dexterity, 1–6 minutes, Diffi cult (–2)
 Docking with a crippled target: Pilot+Dexterity, 1–6 minutes,
 Diffi cult (–2)
 
@@ -3059,8 +3073,7 @@ and other loot to be transferred quickly.
 **Skill Checks:**
 _Setting a breaching charge:_ Explosives+Education, 1–6
 minutes, Average (+0)
-_Moving in zero–g:_ Zero–G+Dexterity, 1–6 seconds, Average
-(+0)
+_Moving in zero–g:_ Zero–G+Dexterity, 1–6 seconds, Average (+0)
 _Finding the cargo hold:_ Recon+Intelligence, 1–6 minutes,
 Average (+0)
 
@@ -3515,8 +3528,7 @@ external airlock, although this is risky or use docking clamps.
 Any large object attached to the hull can cause problems when
 jumping (assume a –2DM for every 10 tons of stolen vehicle).
 
-Overriding security systems on a vehicle requires an Average
-(+0) Security+Intelligence check taking 10–60 minutes. Flying
+Overriding security systems on a vehicle requires an Average (+0) Security+Intelligence check taking 10–60 minutes. Flying
 the ship across requires Pilot+Dexterity, Average (+0), 1d6
 minutes.
 
@@ -3566,7 +3578,7 @@ Total 600,500 Cr.
 
 ###### PPIRACYIRACY
 
-**Free Trader, Type A (200 tons, 4 crew, 6 mid passengers, 10 low passengers, 88 tons cargo)
+**Free Trader, TypeA (200 tons, 4 crew, 6 mid passengers, 10 low passengers, 88 tons cargo)
 Item Value**
 Supplies —
 Cargo —
@@ -3584,7 +3596,7 @@ Vehicles —
 None —
 Strip the Ship 100,000 Cr.
 Total 11,857,500 Cr.
-**Fat Trader, Type R (400 tons, 8 crew, 5 mid passengers, 175 tons cargo)
+**Fat Trader, TypeR (400 tons, 8 crew, 5 mid passengers, 175 tons cargo)
 Item Value**
 Supplies —
 Cargo —
@@ -3693,8 +3705,7 @@ intruder – the Imperial research base may be protected by a
 network of high–tech security measures but the laundry that
 washes their lab coats once a week and delivers them by van
 is a much softer target.
-Following a Lead: Investigate+Intelligence, 1–6 hours, Average
-(+0)
+Following a Lead: Investigate+Intelligence, 1–6 hours, Average (+0)
 
 Gathering Information
 There are other sources of information about a target that the
@@ -3707,8 +3718,7 @@ can be of great interest to an intruder. If a building has, say,
 air vents big enough to crawl through or a single connection to
 the power grid and no back–up generator, the heist just got a
 lot easier.
-Collecting Plans: Investigate+Intelligence, 1–6 days, Average
-(+0)
+Collecting Plans: Investigate+Intelligence, 1–6 days, Average (+0)
 
 Rumors & Inside Information: Any target worth breaking
 into must have been investigated by other thieves. Finding
@@ -3814,8 +3824,7 @@ facility or especially secure domicile.
 **Very Diffi cult (18):** A secure bank, high–security prison,
 military facility, noble's palace.
 **2. Determine Preparation:** The characters may make the
-skill checks described in the three sections on preparation
-(Casing the Target, Gathering Information, Set–Up). Each
+skill checks described in the three sections on preparation (Casing the Target, Gathering Information, Set–Up). Each
 skill check may be made once. Take the skill check with the
 highest Effect from each section and subtract these three
 Effects from the Heist Length.
@@ -3878,11 +3887,11 @@ thieves' rolls are as follows:
 
 Skill Used Result Effect Remaining
 Heist Length
-Stealth Success 0 (+2) 8
+Stealth Success0 (+2) 8
 Security Failure 0 8
-Security Success 4 (+2) 2
+Security Success4 (+2) 2
 Stealth Failure 0 2
-Gun Combat Success 1 (+2) 0
+Gun Combat Success1 (+2) 0
 
 The Referee now translates the rolls into a description of what
 happened. With two failures, the thieves have left considerable
@@ -3904,8 +3913,7 @@ each other.
 No costs are listed for these measures, as prices vary widely
 depending on conditions, technology level and the size of the
 secure location. Instead, items are rated as Common (found
-everywhere), Uncommon (found only in secure locations), Rare
-(found only in very secure locations) and Exotic (found only in
+everywhere), Uncommon (found only in secure locations), Rare (found only in very secure locations) and Exotic (found only in
 very secure and very high–tech locations).
 
 External Barriers
@@ -3936,8 +3944,7 @@ metamaterials that create a repulsive effect when charged.
 When a baffl e wall is activated, any objects adhering to the
 wall are lightly repulsed. This is enough to shake any dirt, dust
 or other markings from the wall but also forces out climbing
-spikes or grappling hooks and makes climbing exoskeletons
-(see page 82) useless.
+spikes or grappling hooks and makes climbing exoskeletons (see page 82) useless.
 
 **Fence (TL1+, Common):** Fences are cheaper but even easier
 to climb than walls. Use the Wall Diffi culty table for fences but
@@ -3963,8 +3970,7 @@ so the fence is invisible to the naked eye. Most trespassers turn
 back as soon as they encounter the fringe of a sonic fence; only
 a thief with astonishing endurance or protection against sound
 waves can walk through an active fence.
-Pushing Through A Sonic Fence: Athletics
-(Endurance)+Endurance, 10–60 seconds, Very Diffi cult (–4),
+Pushing Through A Sonic Fence: Athletics (Endurance)+Endurance, 10–60 seconds, Very Diffi cult (–4),
 infl icts 3d6 damage.
 
 Earthworks (TL1, Uncommon): Earthworks such as berms or
@@ -3972,24 +3978,21 @@ ditches provide only a minor obstacle to a thief on foot but can
 impede the movement of most civilian vehicles. If a Drive roll
 to navigate such a barrier fails, the vehicle takes 1–3 hits to its
 Drive and Hull.
-Driving Over An Earthwork In A Ground Car: Drive
-(wheeled)+Dexterity, 1–6 minutes, Very Diffi cult (–4)
+Driving Over An Earthwork In A Ground Car: Drive (wheeled)+Dexterity, 1–6 minutes, Very Diffi cult (–4)
 Driving Over An Earthwork In A Tank: Drive (tracked)+Dexterity,
 10–60 seconds, Average (+0)
 
 Antivehicle Barriers (TL5, Uncommon): These are portable
 blocks of concrete or metal that are designed to impede military
 vehicles such as tracked tanks, hovercraft or walkers.
-Driving Over An Antivehicle Barrier In A Tank: Drive
-(tracked)+Dexterity, 10–60 minutes, Average (+0)
+Driving Over An Antivehicle Barrier In A Tank: Drive (tracked)+Dexterity, 10–60 minutes, Average (+0)
 
 Surveillance
 Motion Detectors (TL6, Uncommon): Electronic motion
 detectors use infrared beams to detect movement. They can
 be fooled by exceedingly slow and subtle movements or by
 minimising heat emissions.
-Sneaking Past A Motion Detector: Security
-(electronics)+Dexterity or Intelligence, 10–60 seconds,
+Sneaking Past A Motion Detector: Security (electronics)+Dexterity or Intelligence, 10–60 seconds,
 Average
 
 ###### IIINTRUSIONNTRUSIONNTRUSION
@@ -4003,9 +4006,7 @@ so it is possible to avoid being observed.
 More advanced (TL8) security cameras incorporate infrared
 imaging and armored housing, protecting them from damage
 or interference.
-**Sneaking Past A Security Camera:** Security
-(electronics)+Dexterity or Intelligence, 10–60 seconds, Diffi cult
-(–2) or Very Diffi cult (–4)
+**Sneaking Past A Security Camera:** Security (electronics)+Dexterity or Intelligence, 10–60 seconds, Diffi cult (–2) or Very Diffi cult (–4)
 
 **Roving Security Camera (TL9, Uncommon):** Roving security
 cameras are mounted on small mobile drones which patrol
@@ -4033,8 +4034,7 @@ or even highlight subtle clues such as footprints in wet mud or
 movements that do not correspond to the wind.
 
 Intelligent security cameras can be built into roving drones.
-**Sneaking Past An Intelligent Camera:** Security
-(electronics)+Dexterity or Intelligence, 10–60 seconds,
+**Sneaking Past An Intelligent Camera:** Security (electronics)+Dexterity or Intelligence, 10–60 seconds,
 Formidable (–6)
 
 **Smart Building (TL12, Rare):** Smart buildings are computer–
@@ -4143,8 +4143,7 @@ they can also follow trails and attack intruders.
 
 Dogs can be dealt with using drugged food, anti–scent sprays
 or training.
-Saying 'Nice Doggy' Convincingly: Animals
-(training)+Intelligence, 10–60 seconds, Diffi cult (–2)
+Saying 'Nice Doggy' Convincingly: Animals (training)+Intelligence, 10–60 seconds, Diffi cult (–2)
 
 Sentries (TL1+, Common): Another old–fashioned security
 system is having wary and heavily armed men on watch. The
@@ -4274,8 +4273,7 @@ Opening a Mechanical Lock: Security (mechanic)+Dexterity,
 Advanced Mechanical Lock (TL4, Common): An advanced
 mechanical lock uses smaller tumblers and a more complex
 key. This is a basic Yale lock.
-Opening an Advanced Mechanical Lock: Security
-(mechanic)+Dexterity, 1–6 minutes, Average (+0)
+Opening an Advanced Mechanical Lock: Security (mechanic)+Dexterity, 1–6 minutes, Average (+0)
 
 Fractal Lock (TL12, Exotic): Mechanical locks fall out of
 favor for several technology levels but see a brief return with
@@ -4347,8 +4345,7 @@ scanners. The user might be asked to give a password or
 questioned on some other detail of his life. Recognition
 software is not limited to a few passwords; it can intelligently
 ask questions based on current events ( _'Dave, what meeting
-did you attend on Tuesday morning?'_ ) and notice odd behaviour
-(' _Dave, you rarely come to the offi ce after 10pm. This is outside
+did you attend on Tuesday morning?'_ ) and notice odd behaviour (' _Dave, you rarely come to the offi ce after 10pm. This is outside
 your normal work routine. Is everything OK?'_ )
 
 **NAS Lock (TL15, Exotic):** A NAS lock reads the brain patterns
@@ -4385,8 +4382,7 @@ densitometer scanner.
 Internal Barriers
 Tripwire (TL1+, Rare): This could be connected to an alarm
 system or simply impede movement.
-Spotting a Tripwire: Recon + Dexterity, 1–6 Seconds, Average
-(+0)
+Spotting a Tripwire: Recon + Dexterity, 1–6 Seconds, Average (+0)
 
 Pressure Plate (TL3+, Uncommon): Pressure plates are
 harder to spot than tripwires. If an intruder steps on the plate,
@@ -4487,10 +4483,7 @@ impossible to use densitometers within its area of effect.
 
 #### RUNNING A HEIST
 
-Heists are a cross between a nerve–wracking surgical opera-
-tion and a dungeon crawl. They may require a lot more prepa-
-ration by the Referee than most encounters but they also chal-
-lenge the players to think creatively and use all the skills and
+Heists are a cross between a nerve–wracking surgical opera-tion and a dungeon crawl. They may require a lot more prepa-ration by the Referee than most encounters but they also chal-lenge the players to think creatively and use all the skills and
 resources at their disposal. A heist can appear challenging,
 
 ###### IINTRUSIONNTRUSION
@@ -4762,8 +4755,7 @@ access are a lot more paranoid about security.
 from walking into the offi ce and spying over someone's shoulder
 as they type their password, to pretending to be service
 engineers and installing a data tap on the target's phone line,
-to learning the name of the senior marketing manager's pet cat
-(which also happens to be his password).
+to learning the name of the senior marketing manager's pet cat (which also happens to be his password).
 **Social Engineering:** Deception + Social Standing, 1–6 hours,
 Diffi cult (–2)
 
@@ -4836,8 +4828,7 @@ Room 7, then you can still buy yourself time by making the
 security program in Room 8 chase you around the planetary
 network a dozen times before fi nally identifying the source of
 the breach.
-Avoiding Tracers: Computers + Education, 10–60 hours, Easy
-(+4)
+Avoiding Tracers: Computers + Education, 10–60 hours, Easy (+4)
 
 ###### INTRUSION
 
@@ -4961,13 +4952,10 @@ Clearance
 Desired
 Clearance Diffi culty
 Null User Diffi cult (–2)
-Null Admin Formidable
-(–6)
-Null Complete Control Impossible
-(–8)
+Null Admin Formidable (–6)
+Null Complete Control Impossible (–8)
 User Admin Diffi cult (–2)
-User Complete Control Formidable
-(–6)
+User Complete Control Formidable (–6)
 Admin Complete Control Diffi cult (–2)
 
 Search the System: The hacker looks for a particular fi le in
@@ -4989,8 +4977,7 @@ Override a Non–Critical Subsystem: Computers+Intelligence,
 10–60 seconds, Varies
 
 Data Theft: Copying or deleting fi les. Computers+Education,
-1–6 seconds (or more, depending on the size of fi le), Routine
-(+2)
+1–6 seconds (or more, depending on the size of fi le), Routine (+2)
 
 Data Alteration: Altering data fi les. Computers+Intelligence,
 10–60 minutes, Routine (+2)
@@ -5196,8 +5183,7 @@ constant observation via the concealed security camera.
 
 **3.** Security Control Room. Horizon has a Security Control
 Computer with a human security guard present at all times.
-**4.** Main Offi ce Floor. A large room full of desks, computers and
-(during the day) overly aggressive young businessmen on a lot
+**4.** Main Offi ce Floor. A large room full of desks, computers and (during the day) overly aggressive young businessmen on a lot
 of caffeine.
 **5.** Main Conference Room. This room is used regularly
 throughout the day but is not part of the guard's standard patrol
@@ -5413,6 +5399,8 @@ At the starport, make a Law Level check and compare it to the
 table below.
 
 STARPORT SECURITY
+
+
 Law Level Check Result Customs Response
 +6 or more Electronic
 Documentation Check
@@ -5919,6 +5907,8 @@ Type Example
 Purchase
 DM
 
+
+
 Monthly
 Capability
 Very Low Backstreet trader –0 500 Credits
@@ -5943,8 +5933,7 @@ organization
 
 Hot Goods
 Some items are easier to sell illegally than others. A tank of
-petrochemicals is identical to every other tank of petrochemicals
-(more or less – a chemist might be able to analyse the chemical
+petrochemicals is identical to every other tank of petrochemicals (more or less – a chemist might be able to analyse the chemical
 content and trace minerals and so distinguish one tank from
 another). By contrast, every starship is unique, with numerous
 serial numbers, tracer beacons, signatures and ownership
@@ -6060,6 +6049,8 @@ Item
 Sale
 DM
 
+
+
 Hot
 Goods DM
 
@@ -6068,6 +6059,8 @@ Goods DM
 
 Final
 DM
+
+
 Advanced
 Machine Parts
 
@@ -6214,7 +6207,7 @@ Entries 11–26 are especially suitable for small–scale fences; entries 41–6
 
 # EEQUIPMENTQUIPMENT
 
-Items marked with a (!) after the price are considered suspicious
+Items marked witha (!) after the price are considered suspicious
 if purchased by a civilian, as their primary use is by criminals.
 They may still be purchased if the planet's Law Level permits it
 but unless characters use a black–market supplier or contact,
@@ -6289,7 +6282,7 @@ immune to the Telepathy talent.
 Boarder's Vacc Suit 8 Vacc Suit 1 10,000(!) 26
 Cargo Waldo (TL9) 2 None 25,000 80 (10)*
 Cargo Waldo (TL13) 7 Vacc Suit 0 40,000 80 (4)*
-Climbing Exoskeleton (TL10) 1 None 5,000 8 (0)*
+Climbing Exoskeleton (TL10) 1 None 5,0008 (0)*
 Chameleon Suit (TL9) 0 Stealth 0 5,500(!) 1
 Vislight Chameleon Suit (TL12) 0 Stealth 0 60,000(!) 1
 Densitometer Cloak (TL15) 0 None 20,000(!) 1
@@ -6464,16 +6457,16 @@ size of a baseball or smaller.
 **SPYDRONES**
 
 TL Characteristics Construction Sensors Traits Cost
-9 Strength 0 (–3)
-Dexterity 7 (+0)
+9 Strength0 (–3)
+Dexterity7 (+0)
 
 Hull 0
 Structure 1
 
 IR Camera Integral Hover Cr. 4,000
 
-11 Strength 0 (–3)
-Dexterity 9 (+1)
+11 Strength0 (–3)
+Dexterity9 (+1)
 
 Hull 0
 Structure 1
@@ -6486,7 +6479,7 @@ Floater
 
 Cr. 8,000
 
-13 Strength 0 (–3)
+13 Strength0 (–3)
 Dexterity 12 (+2)
 
 Hull 0
@@ -6506,7 +6499,7 @@ Recon/1
 
 Cr. 20,000
 
-15 Strength 0 (–3)
+15 Strength0 (–3)
 Dexterity 15 (+3)
 
 Hull 0
@@ -6570,7 +6563,7 @@ there are remote smartropes available.
 Smartrope can be commanded to wriggle forward but it moves
 extremely slowly (about one meter every minute) and tends to
 get tangled up (roll 8+ on 2d6 every minute to avoid this). It has
-an effective Strength of 8 (+1). A 50–meter length of smartrope
+an effective Strength of8 (+1). A 50–meter length of smartrope
 costs Cr.2,000.
 
 Wrecker Bar (TL5+): The iconic tool of the scavenger, a wrecker
@@ -6592,8 +6585,7 @@ Electromagnet 5 Picking up metal or holding on to the side of a ship in zero–g
 A wrecker bar can be used as a weapon.
 
 Weapon TL Range Damage Heft Mass (kg) Cost (Cr.)
-Wrecker Bar 5 Melee
-(bludgeon)
+Wrecker Bar 5 Melee (bludgeon)
 
 2d6 2 3 60
 
@@ -6632,32 +6624,28 @@ lots of rope. A climbing kit is required to safely scale walls;
 without a suitable climbing kit, increase the diffi culty by one
 step. Cr. 1,000, 12kg.
 
-Weapon TL Range Damage Auto Recoil Mass Magazine Cost
-(Cr.)
+Weapon TL Range Damage Auto Recoil Mass Magazine Cost (Cr.)
 
 Ammo
 Cost (Cr.)
 Boarding
 Cutter
 
-10 Melee
-(bludgeon)
+10 Melee (bludgeon)
 
 4d6 No – 4 – 2,000 –
 
 Grappling
 Hook Gun
 
-7 Ranged
-(pistol)
+7 Ranged (pistol)
 
 2d6–2 No 2 4 1 500 50
 
 Grappling
 Hook Gun
 
-12 Ranged
-(assault
+12 Ranged (assault
 weapon)
 
 2d6–2 No 1 3 1 800 50
@@ -6665,16 +6653,14 @@ weapon)
 Sawn–Off
 Shotgun
 
-4 Ranged
-(thrown)
+4 Ranged (thrown)
 
 4d6 No 2 2.5 6 200 10
 
 Snub
 Shotgun
 
-8 Ranged
-(thrown)
+8 Ranged (thrown)
 
 4d6–4 No – 3 6 250 10
 
@@ -6754,6 +6740,8 @@ External cargo is very vulnerable in combat. Use the table
 below for attacks on the exterior of the ship.
 
 EXTERNAL CARGO LOCATION TABLE
+
+
 Roll 2d6 External Damage
 2 Hull
 3 Sensors
@@ -6857,13 +6845,11 @@ Fuel Processor 20 tons per day 1 50,000
 Software Maneuver/0 Rating 0 – —
 Library/0 Rating 0 — —
 Jump/1 Rating 5 — 100,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 — 2,972
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 — 10,000
 
@@ -6928,13 +6914,11 @@ Library/0 Rating 0 — —
 Evade/1 Rating 10 — 1,000,000
 Fire Control/2 Rating 10 — 4,000,000
 Jump/2 Rating 10 — 200,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 — 13,559
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 — 18,000
 
@@ -6964,20 +6948,20 @@ External Cargo Trader Tons Cost
 Hull 300 tons 6 Hull — 12,000,000
 External Cargo 6 Structure — 500,000
 Armor None — —
-Jump Drive G Jump 2 (with or without
+Jump Drive G Jump2 (with or without
 external cargo – limited by
 software and computer)
 
 40 70,000,000
 
-Maneuver Drive D Thrust 2 (Thrust 1 with external
+Maneuver Drive D Thrust2 (Thrust 1 with external
 cargo)
 
 7 16,000,000
 
 Power Plant G 22 56,000,000
 Bridge 20 1,500,000
-Computer Model 1/bis Rating 5 (10 for jump control) — 45,000
+Computer Model 1/bis Rating5 (10 for jump control) — 45,000
 Electronics Standard –4 DM — —
 Weapons None — —
 Fuel 177 tons One jump–2 and 2 weeks of
@@ -7024,8 +7008,7 @@ Cost
 
 Jumpcusser (Type S)
 This jumpcusser is a refi t of the nigh–ubiquitous Type S scout. Two of the staterooms and the air raft are removed to increase
-the fuel tank space and the cargo hold. The jumpcusser can jump in, attack a ship and jump out again without stopping to refuel
-(note that the fuel processor has also been removed, so the jumpcusser has to use unrefi ned fuel or purchase refi ned fuel from
+the fuel tank space and the cargo hold. The jumpcusser can jump in, attack a ship and jump out again without stopping to refuel (note that the fuel processor has also been removed, so the jumpcusser has to use unrefi ned fuel or purchase refi ned fuel from
 elsewhere). A concealed triple turret mounts a pair of pulse lasers and a grapple line. The standard jumpcusser carries four crew
 in shared staterooms; two of the crew are armored boarders, who climb down the grapple line to attack freighters. The other crew
 are the pilot/navigator and an engineer.
@@ -7043,7 +7026,7 @@ Jump Drive A Jump 2 10 10,000,000
 Maneuver Drive A Thrust 2 2 4,000,000
 Power Plant A 4 8,000,000
 Bridge 10 500,000
-Computer Model 1/bis Rating 5 (10 for jump
+Computer Model 1/bis Rating5 (10 for jump
 control)
 
 — 45,000
@@ -7066,13 +7049,11 @@ Cargo Scoop 2 500,000
 Software Maneuver/0 Rating 0 — —
 Library/0 Rating 0 — —
 Jump/2 Rating 10 — 200,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 — 2,482
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 — 6,000
 
@@ -7133,13 +7114,11 @@ Library/0 Rating 0 — —
 Jump/1 Rating 5 — 100,000
 Evade/1 Rating 10 — 1,000,000
 Fire Control/1 Rating 5 — 2,000,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 — 6,911
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 — 18,600
 
@@ -7205,13 +7184,11 @@ Software Maneuver/0 Rating 0 — —
 Library/0 Rating 0 — —
 Jump/2 Rating 10 — 200,000
 Fire Control/2 Rating 10 — 4,000,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 — 18,144
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 — 31,800
 
@@ -7241,7 +7218,7 @@ Jump Drive C Jump 2 20 30,000,000
 Maneuver Drive B Thrust 1 3 8,000,000
 Power Plant C 10 24,000,000
 Bridge 20 1,500,000
-Computer Model 1/bis Rating 5 (10 for jump
+Computer Model 1/bis Rating5 (10 for jump
 control)
 
 — 45,000
@@ -7263,13 +7240,11 @@ Vehicles Launch 20 13,569,000
 Software Maneuver/0 Rating 0 — —
 Library/0 Rating 0 — —
 Jump/2 Rating 10 — 200,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 —7,160
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 — 12,600
 
@@ -7301,7 +7276,7 @@ Jump Drive C Jump 2 20 30,000,000
 Maneuver Drive B Thrust 1 3 8,000,000
 Power Plant C 10 24,000,000
 Bridge 20 1,500,000
-Computer Model 1/bis Rating 5 (10 for jump
+Computer Model 1/bis Rating5 (10 for jump
 control)
 
 — 45,000
@@ -7327,13 +7302,11 @@ Vehicles Launch 20 13,569,000
 Software Maneuver/0 Rating 0 — —
 Library/0 Rating 0 — —
 Jump/2 Rating 10 — 200,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 — 7,246
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 — 8,000
 
@@ -7353,8 +7326,7 @@ jump–3 range, while the 2G thrust capacity reduces
 the travel time between arrival in the target system
 and debarkation (express passengers may use
 the ship's boat to cut the travel time down even
-more). A ship of this size normally has a crew of 25
-(captain, 3 pilots, navigator, 3 engineers, 2 medics,
+more). A ship of this size normally has a crew of 25 (captain, 3 pilots, navigator, 3 engineers, 2 medics,
 3 small craft crew and 12 stewards) and carries 64
 'live' passengers. There are also 100 low berths,
 although these can be removed to make room for
@@ -7389,13 +7361,11 @@ Software Maneuver/0 Rating 0 — —
 Library/0 Rating 0 — —
 Jump/3 Rating 15 — 300,000
 Intellect Rating 10 — 1,000,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 — 34,651
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 — 174,000
 
@@ -7442,13 +7412,11 @@ Extras Grappling Arm 2 1,000,000
 Airlock 1 200,000
 Software Maneuver/0 Rating 0 — —
 Library/0 Rating 0 — —
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 — 2,560
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 —6,400
 
@@ -7522,13 +7490,11 @@ Software Maneuver/0 Rating 0 — —
 Library/0 Rating 0 — —
 Fire Control/3 Rating 15 — 6,000,000
 Evade/1 Rating 10 — 1,000,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 — 29,126
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 — 34,000
 
@@ -7619,13 +7585,11 @@ Software Library/0 Rating 0 – –
 Jump/1 Rating 5 – 100,000
 Fire Control/4 Rating 20 – 8,000,000
 Evade/2 Rating 15 – 2,000,000
-Maintenance Cost
-(monthly)
+Maintenance Cost (monthly)
 
 - 17,006
 
-Life Support Cost
-(monthly)
+Life Support Cost (monthly)
 
 - 49,000
 
@@ -7647,8 +7611,7 @@ overview of asteroid mining.
 
 The types of asteroids commonly found in a typical belt vary
 considerably but tend to fall into four classes: Silicates (S
-class), Metals (M class), Carbonaceous (C class) and Iceballs
-(I class). S–class asteroids contain no useful materials but the
+class), Metals (M class), Carbonaceous (C class) and Iceballs (I class). S–class asteroids contain no useful materials but the
 other three may be worth exploiting.
 
 Asteroid Zones
@@ -7732,6 +7695,8 @@ I: Ice
 M: Metals
 
 RESOURCE PRESENCE TABLE
+
+
 Carbonaceous Metal Ice
 Crystalline 8+ 10+ 9+
 Dense Materials 12+ 9+ –
@@ -7756,8 +7721,7 @@ or Exotics.
 
 Roll 2d6 Size/Extent (tons)
 
-Survey Time
-(6–hour watches) Object Radius Resource Yield
+Survey Time (6–hour watches) Object Radius Resource Yield
 21 0 –1D%
 3 10 1 – 2D%
 4 100 1 – 3D%
@@ -9306,8 +9270,7 @@ the tablet between them and both try to push it over using the
 power of their mind alone.
 
 A common variant of this game replaces the tablet with a playing
-card and puts the playing card on top of a bottle of alcohol
-(typically, 'ol Janx' spirit). The loser takes a drink.
+card and puts the playing card on top of a bottle of alcohol (typically, 'ol Janx' spirit). The loser takes a drink.
 
 Zero–g Dicing: Dice games are games of pure chance, except
 in zero gravity. It takes tremendous skill and dexterity to throw
@@ -9574,21 +9537,18 @@ Weapon TL
 
 Required
 Skill Damage Heft Cost (Cr.) Mass Special
-Heavy Mace 1 Melee
-(bludgeon)
+Heavy Mace 1 Melee (bludgeon)
 
 3d6 2 30 5 Mace
 
-Light Mace 1 Melee
-(bludgeon)
+Light Mace 1 Melee (bludgeon)
 
 2d6+2 3 20 2 Mace
 
 Morningstar
 Flail
 
-2 Melee
-(bludgeon)
+2 Melee (bludgeon)
 
 4d6 3 100 6 Mace
 
@@ -9615,13 +9575,11 @@ Skill Damage Recoil Cost (Cr.) Mass
 Short Bow 1 Assault
 Weapon
 
-Athletics
-(bow)
+Athletics (bow)
 
 1d6 1 60 1
 
-Long Bow 1 Rifl e Athletics
-(bow)
+Long Bow 1 Rifl e Athletics (bow)
 
 2d6 2 300 1.5
 
@@ -9629,17 +9587,17 @@ Armor
 
 Armor TL Protection Cost (Cr.) Mass
 Hide 1 1 40 2
-Breastplate 1 4 (2 against
+Breastplate 14 (2 against
 projectiles)
 
 200 5
 
-Half Plate 2 5 (3 against
+Half Plate 25 (3 against
 projectiles)
 
 800 12
 
-Full Plate 2 6 (3 against
+Full Plate 26 (3 against
 projectiles)
 
 500 20
@@ -9682,6 +9640,8 @@ Advanced
 Stellar
 
 UUFFFCC
+
+
 
 Gaining Technological Familiarity
 Familiarity is easily gained. A character may gain Familiarity with a few hours' practical experience or tuition.

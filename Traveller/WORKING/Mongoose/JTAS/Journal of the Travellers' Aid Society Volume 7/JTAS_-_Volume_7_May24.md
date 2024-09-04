@@ -50,6 +50,8 @@ of the Travellers' Aid Society
 
 JOURNAL
 
+
+
 ```
 The
 ```
@@ -105,35 +107,55 @@ Geir Lanesskog, Christopher Griffen
 
 ```
 ADVENTURES
+
+
 A Week in Jump 2
 Misadventures at Blinderby Manor 65
 ALIENS
+
+
 Ithklur 37
 BESTIARY
+
+
 Harlari 110
 CENTRAL SUPPLY
+
+
 Initial 24 Armaments 'Go' Cases 31
 Infiniti Arms Energy Weapons 108
 CHARTED SPACE
+
+
 Acis The Devil You Know 7
 Stellar Cartography 71
 The Spacer's Union 99
 The Black Zone Astro-Tomb 126
 ENCOUNTERS
+
+
 Dr. Izikai Nafir 22
 Kar'wyikh and Lord Afle Urelad 47
 HIGH GUARD
+
+
 Advanced Lasers 16
 Golden Dawn Yacht 25
 Krungha Processing Ark 52
 PATRONS
+
+
 Ramona Raskin 81
 Uraz Gnoezdanu 103
 'Lightning' 120
 TRAVELLING
+
+
 Deepnight Character Creation 17
 Immigration in the Imperium 118
 VEHICLE HANDBOOK
+
+
 Iderati Space Defence System 112
 ```
 
@@ -180,6 +202,8 @@ However, with a little rolling on big tables, in true Traveller fashion you
 can randomly spice up that time in jump.
 
 THE ROUTINE OCCURRENCES
+
+
 When a ship transits jumpspace there is a routine followed by crew
 and passengers. The power plant is humming along, energising the
 ship's computer, gravitics, internal comms and life support systems.
@@ -197,8 +221,9 @@ from the steward, or a friendly card game.
 This is all normal. What about not-normal
 
 OUT OF THE ORDINARY AND STRANGER THINGS
-The small plot points in the following tables are designed for later
-(and optional) development by the Referee. The events are meant to
+
+
+The small plot points in the following tables are designed for later (and optional) development by the Referee. The events are meant to
 be broadly applicable to a small ship typical of Traveller adventures,
 however your mileage may vary; the Referee may determine that a
 given outcome could not possibly apply to the Travellers or simply
@@ -350,6 +375,8 @@ make a call on exact effects and the need for playing the event out.
 By Christopher Griffen
 
 PLANETARY DATA
+
+
 Location Dpres subsector, Trojan Reach
 Axial Tilt 35 o
 Rotation 32.3 standard hours
@@ -357,12 +384,16 @@ Year 511.6 standard days
 Diameter 13,212 km
 
 THE FLAG OF ACIS
+
+
 The flag of Acis features its two stars, Galatea and Polyphemus,
 wrapped in a traditional Acisian chaplet; the wreath worn by members
 of the Senate made from the leaves of the indigenous goldenbough
 plant. The green and blue fields represent the earth and sky of Acis.
 
 HISTORY
+
+
 Acis (B885796-A) is one of the most continuously settled planets in
 all of the Dustbelt, the narrow channel of star systems that stretches
 across the Trojan Reach (also known as the Outrim Void). Its
@@ -689,6 +720,8 @@ Power Plant
 
 ```
 HEXSCALE
+
+
 1340Km
 ```
 
@@ -770,6 +803,8 @@ to the galaxy. An epic science fiction story like this deserves Travellers
 that are tailor made for the experience.
 
 THE SETUP
+
+
 By default, the campaign opens with the Travellers being thrown
 together for an emergency resupply of an outpost deep in the Rift. The
 original supply ship has failed to return and officials are worried about
@@ -780,8 +815,7 @@ the campaign.
 Concerned about this threat, the Imperium contracts space exploration
 company Deepnight to put together an expedition to Terminus Point,
 a radio source determined to be the origin of the threat. Unfortunately,
-that location is some 10 years away. A partially de-militarised 75,000-
-ton Amara-class cruiser for the voyage and a select crew of 500 are
+that location is some 10 years away. A partially de-militarised 75,000-ton Amara-class cruiser for the voyage and a select crew of 500 are
 gathered for this epic adventure.
 
 After surviving their initial encounter with the threat, the Travellers are
@@ -790,6 +824,8 @@ they want on the expedition, from command to mid-level officers, to a
 group of trouble-shooting 'Ripleys' embedded in the crew.
 
 THE CHALLENGES
+
+
 The expected roles for the Travellers may take a certain amount of
 disbelief suspension. Why would Deepnight or the Imperium hand
 command of a major warship to a group of random Travellers The
@@ -875,6 +911,8 @@ advantage of this with the following adjustments
 Here are a few more optional tweaks you can apply.
 
 MOTIVATED BY THE MISSION
+
+
 The events of Deepnight Legacy could really motivate a Traveller for
 the mission. During the Traveller's final two terms, they can choose
 to receive DM+1 for advancement rolls and can make skill rolls twice,
@@ -882,12 +920,16 @@ taking whichever result they prefer. On the downside, they suffer DM-1
 to Survival rolls because of the extra risks they are taking.
 
 PSI TRAINING
+
+
 If, during Deepnight Legacy, one Traveller is found to be sensitive,
 they can roll their PSI characteristic and enroll in the Psion career. This
 could either be at a secret Imperium psi research facility or training the
 Traveller sought on their own.
 
 CHARM CHARACTERISTIC
+
+
 As so much of the campaign occurs outside Charted Space, Social
 Standing does not necessarily mean as much as it normally would.
 Referees might want to consider replacing SOC with Charm (CHA)
@@ -902,6 +944,8 @@ SOC could be kept if Referee wishes or Travellers can select an
 appropriate SOC if it is important to their role.
 
 DEEPNIGHT REVELATION SKILL PACKAGE
+
+
 This is a skill package targeted at Travellers taking part in the
 _expedition, representing mission specific training received prior to_
 departure. This package should be awarded as the last stage of the
@@ -967,8 +1011,7 @@ spoils to purchase a laboratory ship he christened Honeywell, the
 entrepreneurial Dr. Nafir was undiscerning in attracting his own clients
 the desperate and foolhardy, scientists short on funding, researchers
 with fringe theories, those looking for 'miracle' cures or scientists
-performing research either unsavory or illegal. Hopping from system-
-to-system for new 'marks', Nafir continues his career supplementing his
+performing research either unsavory or illegal. Hopping from system-to-system for new 'marks', Nafir continues his career supplementing his
 own work with research stolen from others, making him a successful,
 prestigious scientist with a suspicious history.
 
@@ -985,8 +1028,7 @@ wild, unkempt hair and crooked grin, the doctor commands attention
 by presenting himself as exactly what a layperson thinks a brilliant
 scientist would look like. His rigid posture and unusual grooming speak
 
-to his pomposity and self-
-assuredness, which is exactly
+to his pomposity and self-assuredness, which is exactly
 what draws inexperienced and
 easily-led benefactors to him.
 
@@ -1022,11 +1064,10 @@ diplomatic connections.
 
 ```
 CHARACTERISTICS SKILLS
-STR 4 INT 7 Broker 0, Carouse 1, Diplomat 2, Elec-
-tronics (computers) 2, Electronics (sen-
-sors) 1, Flyer (grav) 1, Investigate 3,
-Medic 2, Science (biology) 1, Science
-(chemistry) 1, Science (cybernetics) 2
+
+
+STR 4 INT 7 Broker 0, Carouse 1, Diplomat 2, Elec-tronics (computers) 2, Electronics (sen-sors) 1, Flyer (grav) 1, Investigate 3,
+Medic 2, Science (biology) 1, Science (chemistry) 1, Science (cybernetics) 2
 ```
 
 ```
@@ -1042,6 +1083,8 @@ Equipment Computer3 (Interface 0, Intrusion
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
@@ -1082,10 +1125,11 @@ above each other in the ship's aft-section.
 Initially designed during the last days of the Sindalian Empire, they were
 built to TL12 standard, featuring matured technologies such as energy
 efficient jump and maneuver drives, with basic armor and basic
-armament. Featuring upwards folding aerofins, the Golden Dawn is well-
-suited to land on all planetoids, including those with atmospheres.
+armament. Featuring upwards folding aerofins, the Golden Dawn is well-suited to land on all planetoids, including those with atmospheres.
 
 LOUNGE DECK
+
+
 Intended to serve a single member of the Sindalian aristocracy or an
 envoy, the Golden Dawn features a single luxury stateroom, eight
 additional standard staterooms and a medical bay connected by a
@@ -1094,8 +1138,7 @@ of the yacht. The main feature of this master lounge is not its grand
 panorama glass, allowing stunning views while landed on or orbiting a
 world, but the extendable deck with built in cover that can be rolled out
 to host breakfast or dinner on this not-so impromptu patio. This feature
-alone is said to have contributed to numerous members of the post-
-Sindalian aristocracy to permanently reside in their yachts, as they visit
+alone is said to have contributed to numerous members of the post-Sindalian aristocracy to permanently reside in their yachts, as they visit
 world upon world of the Sindalian Main, the Borderlands or the Drinax
 Chain. More than one noble has been known to use the extractable
 patio to give speeches from, after their servants had cleared the tables.
@@ -1106,6 +1149,8 @@ the patio and act as a durable cover proof against both wind and sun,
 as well as keeping pestering camera drones away.
 
 AFT DECKS
+
+
 Behind the passenger section begins the technical and engineering
 areas of the ship. The differences in design and cost allocations could
 not create a starker contrast. Technically still on the lounge deck, but
@@ -1131,6 +1176,8 @@ sometimes impresses new hands enough to sign on before they look
 too closely around the rest of the ship.
 
 FAMOUS OWNERS AND ROLES OF USAGE
+
+
 The ships of this class can escape most dangers, due to their powerful
 drives, allow for ample eight weeks of power plant operations and
 enable passengers to move about their destination worlds without
@@ -1165,6 +1212,8 @@ will want to ditch some or all the onboard vehicles or else be restricted
 to kidnapping raids or strapping loot onto the hull.
 
 AVAILABILITY AND VARIANTS
+
+
 The Golden Dawn can be constructed by most shipyards attached
 to Class A starports of TL12 or higher. Some shipyards of lower Tech
 Levels are known to offer variants that feature less powerful drives
@@ -1180,7 +1229,7 @@ Hull 200 tons, Streamlined — 12
 
 Armor Crystaliron, Armor 4 10 2.4
 
-M-Drive Thrust 4 (energy efficient) 8 17.6
+M-Drive Thrust4 (energy efficient) 8 17.6
 
 J-Drive Jump 2, (energy efficient) 15 24.75
 
@@ -1250,8 +1299,12 @@ Hull 80
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr6953month
 PURCHASE COST
+
+
 MCr83.437
 ```
 
@@ -1329,6 +1382,8 @@ attachments or magazines needed are available at an extra cost if not
 included in the 'Go' case purchased.
 
 REVCART PISTOL
+
+
 This is a heavy revolver chambered to fire both standard ammunition
 and cartridge pistol shotgun rounds, making it suitable for various
 survival scenarios. Revcart ammunition supplied in cases are either
@@ -1363,6 +1418,8 @@ A civilianised, semi-automatic short-barrelled carbine. This weapon
 uses assault rifle magazines.
 
 ATTACHMENTS
+
+
 Designed to reduce recoil energy on slug weapons, this reduces
 the required STR score by one on Bulky and Very Bulky weapons. It
 
@@ -1387,6 +1444,8 @@ with suppressor.
 ```
 
 CASES
+
+
 There are a number of cases available from Initial 24 Armaments, and
 each can be customised to the Traveller's whims. They come with a
 combination of weapons, attachments and assorted miscellaneous
@@ -1403,6 +1462,8 @@ apply. This may not apply to 'Go Tactical' cases, which have stricter
 restrictions on ownership and usage.
 
 STANDARD CASES
+
+
 Available at all Initial 24 Armaments retailers, these cases are standard
 design for any Traveller wishing to be prepared for an emergency. All
 kits come in a foam-fitted waterproof plastic case, with a combined
@@ -1500,6 +1561,8 @@ Equipment As Go Carbine
 ```
 
 EXECUTIVE CASES
+
+
 For the businessperson on the move, executive cases provide a
 bespoke 'Go' case. With a metal case instead of the standard plastic,
 they are designed in either chrome, gold, or an animal skin of your
@@ -1523,8 +1586,7 @@ Equipment Electric Torch,
 Knife, Chemical Lightsticks
 x6, Flare Launcher, Signalling
 Flares x5, Combination Mask,
-Magnetic Compass, Paracord
-(20m), Batteries x4, Fire Starter,
+Magnetic Compass, Paracord (20m), Batteries x4, Fire Starter,
 Survival Kit, TL5 First Aid Kit,
 Stims x2, Batteries x6, Canteen,
 Eau de Cologne
@@ -1536,8 +1598,7 @@ Cost Cr680
 Weapons Revolver
 Ammo Revolver Rounds x48
 Attachments None
-Equipment As Go Executive
-(Revcart)
+Equipment As Go Executive (Revcart)
 
 ```
 Case Go Executive (Auto)
@@ -1547,8 +1608,7 @@ Cost Cr770
 Weapons Autopistol
 Ammo Autopistol Magazines x4
 Attachments None
-Equipment As Go Executive
-(Revcart)
+Equipment As Go Executive (Revcart)
 ```
 
 Case Go Tactical
@@ -1556,8 +1616,7 @@ TL 7
 KG 4
 Cost Cr665
 Weapons Assault Pistol
-Ammo High-capacity Magazine
-(AP 3), High-capacity Magazine x2
+Ammo High-capacity Magazine (AP 3), High-capacity Magazine x2
 Attachments Compensator
 Equipment Electric Torch, Knife,
 Chemical Lightsticks x6, Batteries
@@ -1568,8 +1627,7 @@ TL 7
 KG 9.5
 Cost Cr850
 Weapons Submachine Gun
-Ammo High-capacity Magazine
-(AP 3) x2, High-capacity
+Ammo High-capacity Magazine (AP 3) x2, High-capacity
 Magazine x2
 Attachments Bayonet
 Equipment Electric Torch,
@@ -1577,6 +1635,8 @@ Chemical Lightsticks x12, Stun
 Grenades x3, Smoke Grenades x3
 
 TACTICAL CASES
+
+
 For those who are more violently inclined, Initial 24 Armaments tactical
 cases supply the best possible weaponry for any covert operations you
 may be undertaking. With less of a focus on surviving whatever you
@@ -1594,8 +1654,7 @@ TL 8
 KG 11.5
 Cost Cr1460
 Weapons Assault Rifle
-Ammo High-capacity Magazine
-(AP 3) x2, High-capacity
+Ammo High-capacity Magazine (AP 3) x2, High-capacity
 Magazine x2
 Attachments Bayonet, TL8
 Laser Sight
@@ -1639,8 +1698,7 @@ Ithklur are fearsome warriors, known for their effectiveness, toughness
 and ruthlessness in battle. However, to dismiss the Ithklur as simply
 soldiers of the Federation would be an understatement. Everything
 that the Ithklur are and every aspect of their lives is an expression
-of integrity, honesty and duty. They are the most ardent warrior-
-philosophers in Charted Space.
+of integrity, honesty and duty. They are the most ardent warrior-philosophers in Charted Space.
 
 ##### History of the Ithklur
 
@@ -1685,6 +1743,8 @@ Ithklur an independent polity and buffer state against potential human
 or K'kree aggression on the spinward-coreward frontier.
 
 NATURAL BORN KILLERS
+
+
 The Ithklur are descended from arboreal carnivorepouncers. Their rather
 large size (adults average 200 kilograms) is indicative of the other native
 species of Tryylin, many of which are massive. Primordial Ithklur evolved
@@ -1724,8 +1784,7 @@ They have two cardiovascular organs, one which pumps arterial blood
 throughout the body and the other receives blood from body tissues
 and filters it back into the arterial cardiovascular organ. Their digestive
 systems are simpler than those of Humaniti, efficiently extracting nutrients
-from meat but with little ability to process vegetable matter. Their waste-
-processing organs are highly developed, enabling them to process fluids
+from meat but with little ability to process vegetable matter. Their waste-processing organs are highly developed, enabling them to process fluids
 and remove toxins in a more efficient manner than humans.
 
 Reproductive organs are similar to those of humans but Ithklur infants are
@@ -1772,8 +1831,7 @@ for violence and warfare. In Ithklur society, they seem to be in
 preparation for it.
 
 Ithklur love of trinkets, ornamentation, art and pets (domesticated or
-otherwise) are behaviours which the Ithklur have exhibited since pre-
-contact times. Those of the Guardian path decorate their weapons and
+otherwise) are behaviours which the Ithklur have exhibited since pre-contact times. Those of the Guardian path decorate their weapons and
 armor intricately; carving, painting and encrusting them with various
 trinkets. Their military garb often lacks what humans would consider
 appropriate camouflage. The Ithklur rely more upon their senses of
@@ -1812,6 +1870,8 @@ SOC with Resolve (RES) as
 Hivers do.
 
 CHARACTERISTICS
+
+
 Ithklur Travellers determine
 STR, DEX, END and INT
 by rolling 2D for each
@@ -1848,6 +1908,8 @@ gain Enlightenment.
 ##### Creating an Ithklur Traveller
 
 ITHKLUR TRAITS
+
+
 Ithklur Travellers all possess the following traits
 
 Claws The Ithklur have clawed hands and feet, either of which can
@@ -1872,6 +1934,8 @@ All Ithklur receive DM+1 on DEX checks and attempts to grapple with
 them with an opposed Melee check incur DM-1.
 
 BACKGROUND SKILLS
+
+
 At the age of 18, Ithklur must choose their path on the Fourfold Way.
 They may choose the Facilitator, Guardian, Explorer or Seeker path.
 Their choice may be used to determine a third background skill.
@@ -1892,6 +1956,8 @@ Ithklur may attempt to attend university or a military academy, although
 the former is rare due to their limited EDU scores early in their careers.
 
 RADIALISTS AND HOLISTS
+
+
 Before choosing a path on the Fourfold Way, Ithklur must determine
 which philosophical approach to follow radialism or holism. Radialists
 believe that frequently changing paths over the course of their lives is
@@ -1904,6 +1970,8 @@ their lives. Holists select a single path but many change careers within
 that path if desired.
 
 THE FOURFOLD WAY
+
+
 Whether they be radialists or holists, upon reaching adulthood at the
 age of 18, Ithklur must choose a path along the Fourfold Way. Each
 path contains multiple career choices. Ithklur with a high enough EDU
@@ -1919,6 +1987,8 @@ Guardian, 9-10 Explorer, 11-12 Seeker.
 
 ```
 ROGUE ITHKLUR
+
+
 Whilst the Rogue career is included, the Ithklur rarely engage
 in criminal activity. An Ithklur Traveller may take the pirate
 assignment if serving as a commerce raider for the Federation.
@@ -1929,6 +1999,8 @@ territory or something similar.
 ```
 
 FACILITATORS
+
+
 Whilst the Hivers have created a framework for the Ithklur to focus on
 what they do best, they still maintain their own societal infrastructure.
 Facilitators are the glue that holds Ithklur society together; its citizens
@@ -1938,6 +2010,8 @@ Ithklur polities; giving an Ithklur Traveller the option of joining Citizen,
 Navy or Rogue careers. Ithklur may not select the thief assignment.
 
 GUARDIANS
+
+
 The vast majority of Ithklur are Guardians, the soldiers of the
 Federation. Most serve as ground troops on thousands of Federation
 worlds but the most visible are the marines, serving aboard Federation
@@ -1947,6 +2021,8 @@ other investigative or law-enforcement agencies.
 Career Options Agent, Army or Marines.
 
 EXPLORER
+
+
 This path is for those who seek external knowledge obtained from
 travelling the universe, meeting with other Ithklur, fellow sophonts of the
 Federation or going beyond its borders to encounter other alien species
@@ -1955,6 +2031,8 @@ and to experience unknown worlds.
 Career Options Drifter, Merchant or Scout.
 
 SEEKER
+
+
 The seeker looks for internally accessible knowledge, whether that be
 discovering the deeper meaning of 'the ultimate concern' (the closest
 thing the Ithklur have to a supreme being) or by engaging in scientific or
@@ -1964,6 +2042,8 @@ Career Options Believer (see Traveller Companion, page 36),
 Entertainer or Scholar.
 
 QUALIFICATION
+
+
 Ithklur roll to qualify for a path, not a career. Once on a path, they need
 not make subsequent qualification rolls to move between the various
 careers in their selected paths. Likewise, radialists do not need to make
@@ -1977,6 +2057,8 @@ results in a new round of basic training, which awards a skill level 0 in
 the respective skill.
 
 GAINING RESOLVE
+
+
 For each term completed in a given career, the Traveller gains RES
 +1 if the Advancement roll was made for that term. Switching between
 careers within a path negates the bonus. This reflects that Ithklur who
@@ -2015,6 +2097,8 @@ Bonus Skills as normal but receive no titles. For example, an Ithklur
 may serve in the Army for three terms, failing to make the commission
 
 PATH QUALIFICATION CHECKS
+
+
 
 - Facilitator INT 5+
 - Guardian STR 5+
@@ -2066,6 +2150,8 @@ Keeper
 ```
 
 SURVIVAL AND ADVANCEMENT
+
+
 Survival and advancement rolls are made as normal but if any
 survival roll requires EDU or SOC they follow the replacement
 characteristic listed
@@ -2075,8 +2161,7 @@ Guardian STR
 Explorer END
 Seeker INT
 
-For example, if EDU 7+ is required for advancement in the Army
-(support) career this changes to STR 7+ as the Army career is in the
+For example, if EDU 7+ is required for advancement in the Army (support) career this changes to STR 7+ as the Army career is in the
 Guardian path.
 
 #### EncounterEncounter
@@ -2127,12 +2212,10 @@ collection of epic poetry.
 
 Kar'wyikh even has contacts within
 the moderate forces of human
-resistance but excluding the neo-
-Sindalian hardliners. He tries to use
+resistance but excluding the neo-Sindalian hardliners. He tries to use
 his economical enterprises to stabilize
 Arunisiir – as much for his own sake
-as for that of his clan – but works hard
-(a rare thing for an Aslan male!) on an
+as for that of his clan – but works hard (a rare thing for an Aslan male!) on an
 alternative plan, should Aslan rulership
 on Arunisiir end. One of his current
 business models is selling the heavy
@@ -2189,8 +2272,9 @@ Suit
 
 ```
 CHARACTERISTICS SKILLS
-STR 11 INT 9 Admin 1, Art (epic poetry) 2, Athletics
-(Endurance) 1, Carouse 2, Diplomat 3,
+
+
+STR 11 INT 9 Admin 1, Art (epic poetry) 2, Athletics (Endurance) 1, Carouse 2, Diplomat 3,
 Independence 1, Gun Combat (slug)
 2, Leadership 2, Melee (natural) 2,
 Persuade 2, Tactics 2, Tolerance 3, Vacc
@@ -2205,8 +2289,7 @@ TER 3
 
 ```
 EQUIPMENT Weapons Gravity Spear (2D), Heavy
-Revolver with Armor Piercing ammunition
-(4D-3, AP4, Bulky)
+Revolver with Armor Piercing ammunition (4D-3, AP4, Bulky)
 Armor Clan Syoisius Heavy Vacc Suit (+10)
 Equipment Boundary Box, Clan Comm,
 Holographic Play Table (various games)
@@ -2214,6 +2297,8 @@ Holographic Play Table (various games)
 
 ```
 SPECIES GENDER
+
+
 Aslan Male
 ```
 
@@ -2230,8 +2315,7 @@ traditional nobility from the world and it is thus that Lord Urelad of Port
 Amalgo is a noble without land. Hence, his political enemies often mock
 him as Lord Lackland.
 
-With his tall figure and long black hair combed back to reveal an east-
-Asian heritage, Lord Urelad radiates regality but his actions beguile
+With his tall figure and long black hair combed back to reveal an east-Asian heritage, Lord Urelad radiates regality but his actions beguile
 no-one to expect clemency from him. Lord Urelad remembers everyone
 who calls him names other than those he inherited and is not usually in
 a forgiving mood, claiming he will not show clemency before regaining
@@ -2274,12 +2358,12 @@ agents might be helpful...
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 8 INT 11 Admin 3, Advocate 3, Athletics (dexterity)
 1, Broker 2, Carouse 3, Deception 2,
-Diplomat 3, Electronics 0, Gun Combat
-(energy) 2, Leadership 2, Melee (blade)
-4, Persuade 2, Streetwise 1, Tactics
-(military) 3, Vacc Suit 1
+Diplomat 3, Electronics 0, Gun Combat (energy) 2, Leadership 2, Melee (blade)
+4, Persuade 2, Streetwise 1, Tactics (military) 3, Vacc Suit 1
 ```
 
 ```
@@ -2301,6 +2385,8 @@ most of his enemies
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
@@ -2357,8 +2443,7 @@ cargo storage. Passages through this section are somewhat cramped.
 It is common to train young K'kree here, letting them feel their genetic
 claustrophobia and learn to fight it. This is also the traditional location
 where adolescent K'kree are left alone for a while to find their ancestors
-so they need never again be alone, a status known as 'kin-to-the-
-sky'. This is seen as somewhat holy; that this happens on the cargo
+so they need never again be alone, a status known as 'kin-to-the-sky'. This is seen as somewhat holy; that this happens on the cargo
 decks leads to religious overtones when residents discuss what sort
 of ores their ark shall mine and which goods it shall manufacture, not
 to mention where these goods are eventually sold off, usually to the
@@ -2370,8 +2455,7 @@ here are cramped and meant for robot access. Ramps and elevators
 give access from the 550-meter radius deck to the 300, where a
 concourse gives access to the innermost ring the docking facility.
 
-The centremost section of a Krungha is a series of horseshoe-
-shaped docking slots that can rotate independently of the ark, with a
+The centremost section of a Krungha is a series of horseshoe-shaped docking slots that can rotate independently of the ark, with a
 150-meter-radius circular hole creating a tunnel through the ark and
 a section removed to one side ending in a telescopic landing pad.
 When a ship wishes to dock or the ark wishes to capture an asteroid,
@@ -2407,8 +2491,7 @@ Levels than the rest of the ark, which is kept to a relatively low Tech
 Level for ease of maintenance.
 
 Among the habitable outer decks, large ramps (typically 85–90 meters
-long) are the primary means of inter-deck access, with wide elevators
-(on nearly any other ships these would be cargo elevators) alongside
+long) are the primary means of inter-deck access, with wide elevators (on nearly any other ships these would be cargo elevators) alongside
 them. On the outermost deck, the otherwise-less-usable underside
 of these ramps are walled off and used as airlocks, big enough for
 entire families to board and leave while staying together. Most of the
@@ -2551,8 +2634,7 @@ Krungha is ready for initial use, the herd aboard the old Krungha splits
 between the two. The resulting herds are related and generally start on
 friendly terms but they are forever separate after that.
 
-Occasionally two Krunghas will meet to swap unmarried females
-(ensuring genetic diversity), technology and stories. These are
+Occasionally two Krunghas will meet to swap unmarried females (ensuring genetic diversity), technology and stories. These are
 celebrations and festivals like many throughout Charted Space, despite
 taking place in deep space. One Krungha may come out of it agreeing
 to help the other manufacture its successor, hastening construction
@@ -2586,7 +2668,7 @@ Radiation Shielding — 11625000
 
 M-Drive Thrust 3 13,950,000 27900000
 
-J-Drive Jump 1 (reduced fuel) 1,162,505 1918133
+J-Drive Jump1 (reduced fuel) 1,162,505 1918133
 
 Power
 Plant
@@ -2767,8 +2849,12 @@ Hull 279,000,000
 ```
 Running Costs
 MAINTENANCE COST
+
+
 MCr5091.42775month
 PURCHASE COST
+
+
 MCr61097127
 ```
 
@@ -2874,8 +2960,7 @@ that they need not make a Vacc Suit check to put one on under
 ordinary conditions. Children usually have vacc suits put on
 them by adults and thus likewise do not make Vacc Suit checks.
 •  While the Gregarious trait still technically applies, it is moot for
-adults. Krungha K'kree become one-with-the-sky as a coming-
-of-age rite. Even if all living K'kree around them are abruptly and
+adults. Krungha K'kree become one-with-the-sky as a coming-of-age rite. Even if all living K'kree around them are abruptly and
 messily slain, such a K'kree is never alone. As far as Imperial
 agents have been able to determine, this does not equate
 to psionic training, despite suggestive anecdotes. Inventing
@@ -2921,14 +3006,11 @@ as outsiders for purposes of Traveller creation if they are raised
 in Krungha K'kree society, despite being outsiders to the Two
 Thousand Worlds.
 •  Krungha K'kree who leave the ark-herds (willingly or not) do not
-gain the Outsider skill as they would not benefit from it being one-
-with-the-sky prevents loneliness, they make no Claustrophobia
+gain the Outsider skill as they would not benefit from it being one-with-the-sky prevents loneliness, they make no Claustrophobia
 checks and so on. The same is true of their descendants, so long
-as they are raised with the same cultural adaptations (one-with-
-the-sky upon adolescence, learning to tolerate cramped spaces
+as they are raised with the same cultural adaptations (one-with-the-sky upon adolescence, learning to tolerate cramped spaces
 and not immediately attacking meat-eaters).
-o A Krungha K'kree family that just left a Krungha will often
-(at the Referee's determination) have a Trader of the Outer
+o A Krungha K'kree family that just left a Krungha will often (at the Referee's determination) have a Trader of the Outer
 Steppe or similar ship able to carry the entire family, in addition
 to any other mustering out benefits. Nobles who mustered out
 with Ship Shares can spend them on ship upgrades.
@@ -2981,6 +3063,8 @@ desires, then roll or choose from the appropriate table to see how the
 Travellers' encounter with him will unfold.
 
 VISITORS WELCOME
+
+
 Blinderby thinks that the peaceful (albeit a bit drab) vistas of his
 homeworld could support a tourist trade. He will need some help for his
 destination enhancement program.
@@ -3016,6 +3100,8 @@ with more money than sense
 ```
 
 THE CALL OF THE STARS
+
+
 Blinderby would feel a lot less isolated if he had his own starship.
 
 ```
@@ -3050,6 +3136,8 @@ pick out a ship that is suitable for someone of his importance.
 ```
 
 WEDDING BELLS
+
+
 “It is a truth universally acknowledged, that a single man in possession of a
 good fortune must be in want of a wife.” - Jane Austen, Pride and Prejudice
 
@@ -3086,6 +3174,8 @@ victim of a con.
 ```
 
 AFFAIRS OF STATE
+
+
 When duty calls, a nobleman must answer or pay someone else to
 answer for him.
 
@@ -3106,8 +3196,7 @@ authorities have no appreciation for such hijinks and are
 offering a dead-or-alive bounty. Blinderby resolves to protect
 him by legal means or otherwise.
 4 A group of Zhodani traders land and request a detailed tour of
-the planet. Blinderby sees no reason not to trust such a well-
-mannered group of chaps.
+the planet. Blinderby sees no reason not to trust such a well-mannered group of chaps.
 5 Cattle keep going missing in the hinterlands. The locals suspect
 each other of rustling and will devolve into a lynch mob unless
 the Travellers find the real cause a well-concealed crevice that
@@ -3118,6 +3207,8 @@ fleet by serving as the crew of a Q-ship.
 ```
 
 AROUND THE SUBSECTOR
+
+
 Blinderby gets cabin fever now and then, and is keen to visit
 neighboring worlds.
 
@@ -3150,6 +3241,8 @@ slavers, kill them and bring his people home.
 ```
 
 ODDS AND ENDS
+
+
 There is never a dull moment in the service of the idle rich.
 
 ```
@@ -3186,6 +3279,8 @@ pay to evacuate his subjects. He will need to get a real job.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 7 INT 3 Animals 1, Art 1, Carouse 1, Diplomat 0,
 DEX 6 EDU 9 Science 0, Steward 1
 END 6 SOC 10
@@ -3193,6 +3288,8 @@ END 6 SOC 10
 
 ```
 SPECIES GENDER
+
+
 Human Male
 ```
 
@@ -3271,6 +3368,8 @@ Before we begin with detailing what you can find within a system, we will
 start with galactic directions, subsectors, quadrants, sectors and domains.
 
 GALACTIC DIRECTIONS
+
+
 The galactic plane is where the majority of a disk-shaped galaxy's mass
 lies. The directions perpendicular to the galactic plane point to the
 galactic poles.
@@ -3293,6 +3392,8 @@ into the plane in the direction of the core, while galactic south is
 transformed into the general direction of the galactic rim.
 
 SUBSECTORS
+
+
 The smallest and most convenient mapping unit, this is an area
 depicting 2,772 cubic light years or, in more reasonable terms, 80
 potential systems depicted as a grid eight systems across and 10
@@ -3688,46 +3789,68 @@ Planet (water present)
 
 ```
 BEAUMONDE MAPEPIRE BALSAYN
+
+
 ```
 
 ```
 DELZIN
+
+
 ```
 
 ```
 BARBA AMARILLA
+
+
 ```
 
 ```
 LANTHESANDRA
+
+
 ```
 
 ```
 ALPHA CENTRE LILITH
+
+
 ```
 
 ```
 KAWSTEE
+
+
 ```
 
 ```
 TERDIS
+
+
 ```
 
 ```
 GLYNAESE
+
+
 ```
 
 ```
 FRIEDLAND
+
+
 ```
 
 ```
 HUNYADI
+
+
 ```
 
 ```
 ARAATAGA
+
+
 ```
 
 ```
@@ -3736,38 +3859,56 @@ BEL'S STATION
 
 ```
 OPAR NEVIS
+
+
 ```
 
 ```
 JHESZES
+
+
 ```
 
 ```
 BETWEEN
+
+
 ```
 
 ```
 THORN
+
+
 ```
 
 ```
 SHALIMAR
+
+
 ```
 
 ```
 SEXTANS
+
+
 ```
 
 ```
 VLAD
+
+
 ```
 
 ```
 GULLAN
+
+
 ```
 
 ```
 LUZ NEGRA
+
+
 ```
 
 ```
@@ -4005,6 +4146,8 @@ Jump-3
 ```
 
 QUADRANTS
+
+
 In the Ziru Sirka (the Vilani Imperium or First Imperium by modern
 convention) jump-3 technology was never successfully achieved.
 Due to this and the fact that the speed of communication was limited
@@ -4035,6 +4178,8 @@ settling of the area or founding of the Third Imperium (whichever came
 last), although they are no longer an official part of the political structure.
 
 SECTORS
+
+
 A sector is normally the largest political body that a regular sophont
 would ever consider unless they are members of the nobility; four
 quadrants, 16 subsectors, 1,280 cubic parsecs or 44,352 cubic light
@@ -4142,6 +4287,8 @@ Example Sector Map - Solomani Rim Sector
 ```
 
 DOMAINS
+
+
 Domains comprise four sectors, operating as a self-sufficient political
 entity with its own Imperial Navy, Marine and Army corps. Only the
 Scout Service is not under local regional rule, being managed and
@@ -4166,6 +4313,8 @@ Duke Norris of Regina is considered to be wielding the political capital.
 
 ```
 DUKE NORRIS AELLA ALEDON
+
+
 His honorable Duke of the Duchy of Regina.
 ```
 
@@ -4198,8 +4347,7 @@ By Geir Lanesskog
 
 Location Any Vanguard Reaches world with a Class A or B starport
 and TL10+
-Required Skills Astrogation 1, Engineer (any) 1, Medic 1 and Pilot
-(spacecraft) 1
+Required Skills Astrogation 1, Engineer (any) 1, Medic 1 and Pilot (spacecraft) 1
 Reward Standard starship crew salaries and an opportunity to apply
 Ship Shares to ownership
 
@@ -4291,6 +4439,8 @@ enticement of ownership shares to convince them to stay on, assuming
 they have behaved reasonably towards her.
 
 NOTES
+
+
 This patron can be used to start a trade or travel-focused campaign
 with an unusual spacecraft. Ship Shares can be used to address the
 hull and power plant issues but the maintenance cost for the vehicle
@@ -4335,6 +4485,8 @@ features support life and habitability.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 5 INT 10 Astrogation 0, Athletics (dexterity) 1,
 Broker 1, Electronics 0, Engineer 0,
 Mechanic 0, Medic 0, Pilot (small craft) 1,
@@ -4355,6 +4507,8 @@ Smart Fabric, Thruster Pack (TL12)
 
 ```
 SPECIES GENDER
+
+
 Human Female
 ```
 
@@ -4372,6 +4526,8 @@ work with the ships' Intellects to
 make her displeasure known.
 
 ASTROGON LABORATORY TRADER
+
+
 The laboratory ship now known as Astrogon was originally launched
 from a Ling Standard Products yard at Glisten in the Spinward Marches
 in 953. It enjoyed a full career working in planetology research for
@@ -4407,8 +4563,7 @@ probe drones to perform maintenance or repair tasks also suffer DM-4.
 The brain's piloting and electronics operation skills operate at skill level
 2 but they override rather than supplement manual operation, so the
 brain's priorities may not align with the Travellers'. The ship's brain can
-be disconnected or shut down with a Very Difficult (12+) Electronics
-(computers) check (1D hours, INT) but the ship will actively oppose this
+be disconnected or shut down with a Very Difficult (12+) Electronics (computers) check (1D hours, INT) but the ship will actively oppose this
 task unless entirely powered down and prevented from communicating
 or controlling the ship's recon probes – a feat the ship's brain can
 manage for 27 days on backup power. Permanently disconnecting the
@@ -4506,7 +4661,7 @@ TL12 Tons Cost (MCr)
 
 Hull 400 tons, Standard — 20
 
-M-Drive Thrust 2 (reduced size, energy
+M-Drive Thrust2 (reduced size, energy
 efficient)
 
 ```
@@ -4615,8 +4770,7 @@ Programming Very Advanced (INT 12)
 
 Options Auditory Sensor, Avatar Controller (basic), External
 Power, Drone Interface, Radiation Environment
-Protection (+700 rads), Robotic Drone Controller
-(advanced), Swarm Controller (advanced),
+Protection (+700 rads), Robotic Drone Controller (advanced), Swarm Controller (advanced),
 Transceiver 5,000 km (enhanced), Vacuum
 Environment Protection, Visual Spectrum Sensor,
 Voder Speaker, Wireless Data Link
@@ -4632,8 +4786,12 @@ Hull 160 (144)
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr28129month
 PURCHASE COST
+
+
 MCr168.771
 ```
 
@@ -4775,6 +4933,8 @@ To Quadrant 1
 ```
 
 MINNOW SLOW PINNACE
+
+
 The Minnow has a personality all of its own. The ship is accustomed
 to autonomous operations, such as gas giant skimming and starport
 landing operations, including loading and unloading cargo with
@@ -4851,8 +5011,12 @@ Hull 16
 ```
 Running Costs
 MAINTENANCE COST
+
+
 Cr1270month
 PURCHASE COST
+
+
 MCr15.24
 ```
 
@@ -4914,14 +5078,15 @@ Speaker, Wireless Data Link
 
 BUGGY SEALED EXCURSION AIRRAFT
 
+
+
 Buggy is a pressurised airraft capable of supporting five people for
 as long as four days in both vacuum and hostile conditions. The air
 raft can reach orbital space within one to two hours and operate
 independently with its autopilot engaged, although it lacks any more
 intelligence than a drone. Its computer runs a locked copy of Digital
 Friend, with a personality that is chatty and overly polite. All seats but
-the driver's are removable, allowing storage of up to 2.5 tons of cargo
-(1,250 kg or 5 Spaces of equipment). Buggy's computer and robot brain
+the driver's are removable, allowing storage of up to 2.5 tons of cargo (1,250 kg or 5 Spaces of equipment). Buggy's computer and robot brain
 are tightly integrated. The robot brain includes external PRIS imagers
 and controls both Autopilot and Navigation equipment, rendering these
 features inoperable if Buggy's brain is disabled or bypassed.
@@ -4966,17 +5131,14 @@ Small (-2)
 Programming Advanced (INT 8)
 
 Options Atmospheric Sensor, Auditory Sensor (broad
-spectrum), Drone Interface, Navigation System
-(improved), Transceiver 5,000 km (enhanced), PRIS
+spectrum), Drone Interface, Navigation System (improved), Transceiver 5,000 km (enhanced), PRIS
 Sensor, Radiation Environment Protection (+600
 rads), Recon Sensor (basic), Vacuum Environment
 Protection, Voder Speaker, Wireless Data Link
 
 Traits —
 
-Equipment Autopilot (improved), Communications System
-(advanced, tightbeam), Computer3, Control System
-(improved), Fire Extinguishers, Life Support (short
+Equipment Autopilot (improved), Communications System (advanced, tightbeam), Computer3, Control System (improved), Fire Extinguishers, Life Support (short
 term), Navigation System (improved), Satellite Uplink,
 Sensors (basic, increased range), Vacuum Protection,
 Vehicle Brain, Vehicle Brain Interface (retrofit)
@@ -5011,18 +5173,16 @@ Drone (x10)
 Skills Flyer (grav) 2, Mechanic 0, Navigation 2, Recon 3,
 Steward 0
 Attacks None
-Manipulators 2 x (STR 7 DEX 7)
+Manipulators 2x (STR 7 DEX 7)
 Endurance 36 (9) hours
 Traits Armor (+7), Flyer (high), Heightened Senses,
 IRUV Vision
 Programming Basic (service) (INT 4)
 Options Atmospheric Sensor, Auditory Sensor (broad
 spectrum), Autopilot (enhanced), Drone Interface,
-Environment Processor, Navigation System
-(improved), Olfactory Sensor (advanced), PRIS
+Environment Processor, Navigation System (improved), Olfactory Sensor (advanced), PRIS
 Sensor, Recon Sensor (advanced),Satellite Uplink,
-Solar Power Unit (improved), Transceiver 5,000 km
-(enhanced), Vacuum Environment Protection, Voder
+Solar Power Unit (improved), Transceiver 5,000 km (enhanced), Vacuum Environment Protection, Voder
 Speaker, Wireless Data Link
 ```
 
@@ -5041,17 +5201,15 @@ Skills Athletics (endurance) 1, Pilot (spacecraft) 2,
 Navigation 2, Recon 3
 Attacks —
 Manipulators —
-Endurance 6 (2) hours
+Endurance6 (2) hours
 Traits Armor (+7), Flyer (hypersonic), Heightened
 Senses, IRUV Vision
 Programming Basic (locomotion) (INT 4)
 Options Atmospheric Sensor, Auditory Sensor (broad
 spectrum), Autopilot (enhanced), Drone Interface,
-Environment Processor, Navigation System
-(improved), Olfactory Sensor (advanced), PRIS
+Environment Processor, Navigation System (improved), Olfactory Sensor (advanced), PRIS
 Sensor, Recon Sensor (advanced),Satellite Uplink,
-Solar Power Unit (improved), Transceiver 5,000 km
-(enhanced), Vacuum Environment Protection, Voder
+Solar Power Unit (improved), Transceiver 5,000 km (enhanced), Vacuum Environment Protection, Voder
 Speaker, Wireless Data Link
 ```
 
@@ -5081,11 +5239,12 @@ surprisingly warm relationship with Free Traders; after all, many traders
 were crew themselves once.
 
 HISTORY
+
+
 Although associations and unions of starship crew are common
 throughout Solomani history, the origins of the SFSCWU are generally
 held to have started with efforts to organise starship labour in the
-Solomani Rim. This was done in the face of the increasingly pro-
-megacorp policies favored by Emperor Zhakirov. The union was
+Solomani Rim. This was done in the face of the increasingly pro-megacorp policies favored by Emperor Zhakirov. The union was
 resisted by the megacorps, as well as the larger sector-wide corporations
 operating in the Rim, resulting in the unions' increased support of the
 nascent Solomani separatist movement in the 8th and 9th centuries.
@@ -5107,6 +5266,8 @@ manifests largely as support for the Federalist and Co-existence
 factions of the party.
 
 ORGANISATION
+
+
 Much like the Solomani Confederation itself, the Spacer's Union is an
 amalgamation of regional and functional groups sharing similar goals.
 Union policy is set by the Federation Standing Committee, elected by
@@ -5152,8 +5313,7 @@ official and unofficial difficulties.
 catering to past and present employees of TransStar. Despite its
 conservative reputation, the TEA also functions as an unofficial
 channel for the Solomani Party and SolSec to influence and
-interact with the union. Many members are also SolSec monitors
-(both outwardly and covert).
+interact with the union. Many members are also SolSec monitors (both outwardly and covert).
 •  Stella Aetheres ('Star of the Skies') Provides services
 to members throughout Alpha Crucis, particularly on Turin
 Consolidation member worlds. Stella Aetheres is operated by the
@@ -5161,6 +5321,8 @@ Church of the True Cross.
 ```
 
 FUNCTIONS
+
+
 The Spacer's Union is a diverse organization with many roles.
 Although primarily a vehicle for protecting the rights and privileges of
 starship crews in the Solomani Confederation, the union also provides
@@ -5178,6 +5340,8 @@ union services to assist them in their endeavors. Union dues vary but
 are typically between one and two percent of the member's salary.
 
 SAMPLE ENCOUNTERS
+
+
 •  The Travellers are contacted by CAMS for assistance in rescuing
 an important official who has been detained on highly dubious
 charges by a hostile local government. Official protests and
@@ -5194,8 +5358,7 @@ dealings (which may or may not actually exist).
 •  Union staff and members at a local 'Crewman's Rest' may be a
 valuable source of rumors and other information relevant to the
 Traveller's current adventure.
-•  The union is attempting to quietly rebuild its influence in Imperial-
-held parts of the Solomani Rim. Sharurshid representatives have
+•  The union is attempting to quietly rebuild its influence in Imperial-held parts of the Solomani Rim. Sharurshid representatives have
 asked the Travellers to investigate attempts by employees in its
 bulk transport division to organise and demand better wages and
 conditions. Put a stop to these activities, if possible, but nothing
@@ -5258,23 +5421,20 @@ Referee's Information
 security and surveillance. Access to the lobby is unrestricted but to
 use the elevators, a visitor must be escorted or pass through a TL12
 biometric scan. Spoofing the elevator system scan requires direct
-access to the panel and a successful Very Difficult (12+) Electronics
-(computers) check (1D rounds, INT). Success will generate a false
+access to the panel and a successful Very Difficult (12+) Electronics (computers) check (1D rounds, INT). Success will generate a false
 positive match. The scanner is optimized to recognize Vargr, granting
 DM+2 to attempts for non-Vargr to pass. The elevator security system
 could be remotely accessed by a hacker but the attempt becomes
 Formidable (14+). Any failure will trigger an alert to law enforcement,
 although remote hacks take time to trace their origin.
 
-Physical access to the building from the roof or a sub-basement-
-connected maintenance tunnel is possible but access to the elevators or
+Physical access to the building from the roof or a sub-basement-connected maintenance tunnel is possible but access to the elevators or
 maintenance stairwell requires a similar biometric scan from a separate
 system maintained by an outside contractor. This system requires a Very
 Difficult (12+) check to access, whether on-site or remote.
 
 Once inside the secure area, Ongozzaen only relies on remote
-monitoring during off-hours, requiring a Difficult (10+) Stealth check
-(1D minutes, INT or DEX) to avoid. Tripping an alarm will bring a team
+monitoring during off-hours, requiring a Difficult (10+) Stealth check (1D minutes, INT or DEX) to avoid. Tripping an alarm will bring a team
 of two to four security guards armed with TL12 stunners and armored
 with protec suits over a layer of TL12 cloth (Protection +8) from the
 lobby security office. They will immediately summon law enforcement if
@@ -5321,10 +5481,11 @@ In all cases Uraz will pay the Travellers for the data.
 
 ```
 CHARACTERISTICS SKILLS
+
+
 STR 5 INT 9 Admin 1, Advocate 1, Art (write) 1,
 Carouse 2, Deception 2, Diplomat 3,
-Drive 0, Electronics 0, Flyer 0, Language
-(Galanglic) 1, Language (Trokh) 1,
+Drive 0, Electronics 0, Flyer 0, Language (Galanglic) 1, Language (Trokh) 1,
 Leadership 1, Melee (infighting) 1,
 Persuade 2, Recon 0, Seafarer 0, Stealth
 1, Streetwise 1, Steward 1
@@ -5337,11 +5498,12 @@ END 4 SOC 9
 
 ```
 SPECIES GENDER
+
+
 Vargr Male
 ```
 
-Urazargl Gnoezdanu (Ooh-raz Gnohz-dan-oo) is a middle-
-aged Vargr with white streaks in his otherwise black fur. He
+Urazargl Gnoezdanu (Ooh-raz Gnohz-dan-oo) is a middle-aged Vargr with white streaks in his otherwise black fur. He
 maintains a dignified air in his speech but tends to use his
 hands to emphasise points. He is well-dressed to the point of
 flamboyance and has a typical Vargr love of bright colours,
@@ -5404,8 +5566,7 @@ products are the Model IV and Model VII stunners but the company is
 most known for its Model XII stazers – combined stun and laser weapons
 with an overunder aperture system sharing internal components.
 
-The Model XII is capable of selective fire stun, laser (single shot), laser
-(burst), blast (high-powered laser). Although considerably more expensive,
+The Model XII is capable of selective fire stun, laser (single shot), laser (burst), blast (high-powered laser). Although considerably more expensive,
 the compact Model XII is a preferred weapon for elite security forces
 throughout The Beyond, allowing them to tailor their response with a single
 weapon. The power pack is a detachable one kilogram cell, allowing for
@@ -5420,6 +5581,8 @@ weapon is that to utilise a Model VII power cell, it has only limited
 capacity and risks overheating if fired in blast mode.
 
 FEATURES
+
+
 Model IV Detachable integral rechargeable battery, Secure.
 Model VII Detachable integral rechargeable battery, Secure,
 Holographiclaser sight (DM+2 to attack rolls at all ranges).
@@ -5445,15 +5608,13 @@ Model VII Stunner 50 Cr200 Stun, Zero-G
 Model XII Stazer (stun) 50 Cr200 Stun, Zero-G
 
 ```
-(laser) 25 — Auto 2, Zero-G
-(blast) 5 — AP 5, Zero-G
+(laser) 25 — Auto 2, Zero-G (blast) 5 — AP 5, Zero-G
 ```
 
 Model XIII Stazer (stun) 20 Cr200 Stun, Zero-G
 
 ```
-(laser) 10 — Auto 2, Zero-G
-(blast) 2 — AP 5, Zero-G
+(laser) 10 — Auto 2, Zero-G (blast) 2 — AP 5, Zero-G
 ```
 
 Weapon TL Range Damage Kg Cost
@@ -5496,22 +5657,18 @@ is able to maneuver with great skill, mostly due to its eight legs. These
 allow it to gain traction within the trees it calls home, skittering around
 at a surprising speed.
 
-Thanks to their nocturnal activity the harlari developed a form of infra-
-red vision that allows them to see up to 20 meters. They have vision
+Thanks to their nocturnal activity the harlari developed a form of infra-red vision that allows them to see up to 20 meters. They have vision
 enough to protect their nests against threats from above, as often they
 will be found in only small family groups consisting of a female and
 her two or three young with only the adult females' quills as effective
 defence. Making their nests in the larger boughs of the trees they are
-almost impossible to spot from above at night, although would be visi-
-ble from underneath in the daytime due to the size of the nest.
+almost impossible to spot from above at night, although would be visi-ble from underneath in the daytime due to the size of the nest.
 
 With a back coated in quills of roughly three centimeters in length, the
 harlari makes a fierce companion for any Traveller, should they be able
-to befriend one. The quill tips are coated in poison, perhaps an evolu-
-tionary result of the near extinction of the species. With barbed ends,
+to befriend one. The quill tips are coated in poison, perhaps an evolu-tionary result of the near extinction of the species. With barbed ends,
 they can easily become lodged within the skin or armor of someone
-attempting to capture or kill it. When threatened by something of signifi-
-cantly larger size, the harlari will either 'shoot' the quills at the offender
+attempting to capture or kill it. When threatened by something of signifi-cantly larger size, the harlari will either 'shoot' the quills at the offender
 or attempt to hide itself by blending in with the bough it is on.
 
 The species has two genders and reproduces by the male 'fusing' to the
@@ -5563,6 +5720,8 @@ advertised, is made known. Hopefully, if the 208th fleet is ever recalled,
 this will deter any potential attackers.
 
 IDERATI SPACE DEFENCE SUBMARINE
+
+
 This compact, 50x7x12 meter, deep dive submarine is the
 cornerstone of the Iderati space defence system. For a rich,
 environmentally conscious – some would say obsessed – planet
@@ -5616,6 +5775,8 @@ officers seek positions on these submarines to study for their senior
 staff college exams.
 
 IDERATI LIGHT SUPPORT SUBMARINE
+
+
 This boxy little deep sea submarine is designed to occupy as little
 hangar space as possible, usually serving as a support craft on other
 vessels. With tight dimensions, it can be stacked efficiently.
@@ -5659,6 +5820,8 @@ Stealth (Electronics (sensors) DM) -2
 ```
 
 IDERATI SPACE DEFENCE SUBMARINE
+
+
 
 Armor
 
@@ -5710,26 +5873,23 @@ Cr2000 Auto 6 +0
 
 ```
 Traits —
-Equipment Airlock x2, Anti-Missile Systems (gauss) x6, Autopilot
-(Advanced), Bunks x32, Camouflage (advanced),
-Command Centre (5 users), Communications System
-(advanced, increased range x2, encrypted, tightbeam,
-meson communicator), Computer3, Control System
-(advanced), Decoy Dispenser, ECM (advanced), Fire
+Equipment Airlock x2, Anti-Missile Systems (gauss) x6, Autopilot (Advanced), Bunks x32, Camouflage (advanced),
+Command Centre (5 users), Communications System (advanced, increased range x2, encrypted, tightbeam,
+meson communicator), Computer3, Control System (advanced), Decoy Dispenser, ECM (advanced), Fire
 Extinguishers, Freshers x5, Galley (full, 40 users),
 Hostile Environment Protection, Internal Bay (10
-tons, Iderati light support submarine), Laboratories
-(general purpose) x2, Library, Life Support (400 days),
+tons, Iderati light support submarine), Laboratories (general purpose) x2, Library, Life Support (400 days),
 Navigation Systems (improved), Nuclear Damper,
 Operating Theatre (3 beds), Power Plant (advanced
-fusion), Refuelling Plant (300 hoursrefuel), Sensors
-(improved, increased range x3, hardened, sensor
+fusion), Refuelling Plant (300 hoursrefuel), Sensors (improved, increased range x3, hardened, sensor
 mast), Sensors (underwater, improved, increased range
 x3, hardened), Staterooms x8, Stealth (improved),
 Training Facility (4 users), Workshop (2 users)
 ```
 
 IDERATI LIGHT SUPPORT SUBMARINE
+
+
 
 ```
 TL 12
@@ -5785,8 +5945,7 @@ Cr2000 Auto 6 +0
 
 ```
 Traits —
-Equipment Airlock, Anti-Missile System (gauss), Autopilot
-(advanced), Bunks x2, Camouflage (advanced),
+Equipment Airlock, Anti-Missile System (gauss), Autopilot (advanced), Bunks x2, Camouflage (advanced),
 Communications System (advanced, increased
 range, encrypted, tightbeam), Computer3,
 Control System (advanced), Decoy Dispenser,
@@ -5825,6 +5984,8 @@ zero is an automatic success but the following system determines the
 ease of establishing residency on more desirable worlds.
 
 REGISTERING FOR IMMIGRATION
+
+
 Immigration requires an Average (8+) check on 2D, with the following
 modifiers. An attempt takes 2D months to complete and the timeframe
 for going faster (1D months) or slower (4D months), as described on
@@ -5839,6 +6000,8 @@ Registration at multiple worlds is usually permitted as long as a
 Traveller meets all requirements.
 
 TRADE CLASSIFICATION
+
+
 Each world has trade codes that make it a more or less sought-after
 home, with higher or lower standards for incoming residents. The
 following modifiers are used
@@ -5848,6 +6011,8 @@ following modifiers are used
 - Garden, Rich, Vacuum DM-4
 
 SYSTEM MODIFIERS
+
+
 The following codes of the planetary profile apply the following modifiers
 - Population 4- DM-2
 - Population 9+ DM+1
@@ -5857,6 +6022,8 @@ The following codes of the planetary profile apply the following modifiers
 - Government 11+ DM+1
 
 TRAVELLER APPLICATION
+
+
 Finally the Traveller themselves may be more or less appealing to the
 government of their new home
 - EDU & SOC characteristic DMs
@@ -5878,8 +6045,7 @@ government of their new home
 By Geir Lanesskog
 
 Location Baixing, Vanguard Reaches
-Required Skills Admin, Advocate, Investigation or Electronics
-(computers)
+Required Skills Admin, Advocate, Investigation or Electronics (computers)
 Reward Cr10000, free vehicle repair services for life, parts included
 
 Mission Find Lightning's lost cousins and get them whatever help
@@ -5896,8 +6062,7 @@ Rupert regional clan – are missing. Lightning wants the Travellers to
 help him locate his cousins and – depending on circumstances – get
 them out of whatever trouble they are in.
 
-The two cousins are Rupert Whistling-Reed-Symphony Water-Red-
-Frog and Rupert Orange-Grass-Wave Drops-Rain-Sheen, or 'Frog' and
+The two cousins are Rupert Whistling-Reed-Symphony Water-Red-Frog and Rupert Orange-Grass-Wave Drops-Rain-Sheen, or 'Frog' and
 'Sheen', of the Red and Orange Freni subspecies, respectively. Despite
 the term cousin, they are only distantly related to Lightning or each
 other. Lightning can show the Travellers a genealogy chart but it uses
@@ -5919,8 +6084,7 @@ insists on flying them himself – for liability reasons. He is, in his words,
 As fines accrue and pop up on the vehicle's display screen he will note
 'good thing I'm not the registered owner'.
 
-Frog is a chef at Not a Turnip, a hole-in-the-wall – but very well-
-reviewed – Freni restaurant just a few blocks from the starport. Sheen
+Frog is a chef at Not a Turnip, a hole-in-the-wall – but very well-reviewed – Freni restaurant just a few blocks from the starport. Sheen
 works various gigs as anything from a labourer to a musician to a tour
 guide. Frog has not been at work or at home for seven Baixingian
 days (of 13.5 hours). Sheen's last known address is Block 417, a sleep
@@ -5936,8 +6100,7 @@ such situations.
 REFEREE'S INFORMATION
 Roll 1D or choose from one of the options
 
-1–2 Frog and Sheen have been caught up in a sweep of anti-
-government agitators after posting comments about the lack of
+1–2 Frog and Sheen have been caught up in a sweep of anti-government agitators after posting comments about the lack of
 Freni representation in local government. They are being held at the
 local jail while the authorities decide whether to charge them with
 misdemeanour Undemocratic Tendencies or with Slander Against the
@@ -5957,8 +6120,7 @@ the misdemeanour with an Average (8+) Advocate check (1D hours,
 EDU or SOC). A misdemeanour will result in each receiving a nominal
 Cr100 fine and sentence to attend 40 hours of re-education night
 classes to strengthen their understanding of Baixingian democracy.
-The Travellers can attempt to have all charges dropped with a Difficult
-(10+) Advocate or Persuade check. If attempting any approach other
+The Travellers can attempt to have all charges dropped with a Difficult (10+) Advocate or Persuade check. If attempting any approach other
 than Advocate, Lightning's presence could alter the outcome as before.
 An exceptional failure results in Frog and Sheen being charged with
 felonies. Convictions are nearly guaranteed in Baixingian courts and an
@@ -5975,8 +6137,7 @@ day – and get six hours of free labour from Sheen.
 result in hybrid offspring and shame to their families. Their families have
 decided to prevent this by kidnapping the lovebirds and holding them
 separately at residences owned by their respective families in the Freni
-enclave's apartment towers. This fact can be discovered with a Difficult
-(10+) Streetwise check (1D days, SOC) with DM-2 for non-Freni or by
+enclave's apartment towers. This fact can be discovered with a Difficult (10+) Streetwise check (1D days, SOC) with DM-2 for non-Freni or by
 tracking address changes to their universal income accounts, which
 have reverted back to their respective families with a Difficult (10+)
 Admin or Electronics (computers) checks.
@@ -6017,6 +6178,8 @@ improvised weapons will attempt to intercept the two as they travel
 between precinct and starport.
 
 NOTES
+
+
 In all instances, Frog and Sheen, and possibly Lightning if events
 warrant, may be charged with a serious crime and be arrested or
 become fugitives. A legal alternative to many sentences is exile,
@@ -6025,8 +6188,7 @@ instances, the Freni will need to take passage offworld. As few ships
 have specialized Freni low berths, they are unwilling to take the risk
 and will require at least working passage. If the Travellers have a
 starship, they might want to take on one or more of them as temporary
-or permanent crew. Frog has the Steward 3 skill and Sheen has Jack-
-of-all-Trades 2 and INT 9, allowing minimal competence in just about
+or permanent crew. Frog has the Steward 3 skill and Sheen has Jack-of-all-Trades 2 and INT 9, allowing minimal competence in just about
 any task. Both speak Galanglic and Freni fluently (skill level 2) as a
 result of their upbringing on Baixing.
 
@@ -6058,16 +6220,16 @@ endangering himself or others.
 
 Lighting cannot shut up. He must have the last word and is
 contemptuous of the Freni culture, which brands him an outsider
-because of his hybrid birth. His employer is a hybrid, as are his co-
-workers. Frog and Sheen are his only 'normal' friends and he is
+because of his hybrid birth. His employer is a hybrid, as are his co-workers. Frog and Sheen are his only 'normal' friends and he is
 extremely loyal to them.
 
 ###### RUPERT FEATHER-RED-BIRD DARK-STORM-CLOUDRUPERT FEATHER-RED-BIRD DARK-STORM-CLOUD
 
 ```
 CHARACTERISTICS SKILLS
-STR 5 INT 12 Deception 1, Electronics 0, Flyer 0, Jack-
-of-all-Trades 1, Language (Galanglic) 2,
+
+
+STR 5 INT 12 Deception 1, Electronics 0, Flyer 0, Jack-of-all-Trades 1, Language (Galanglic) 2,
 Mechanic 3, Profession (scrounging) 1,
 Steward 1, Streetwise 1, Survival 0
 ```
@@ -6079,12 +6241,13 @@ END 5 SOC 5
 
 ```
 EQUIPMENT Armor Breathing Vest (+1)
-Equipment Electromechanical Lockpick
-(TL12), Mechanics Toolkit
+Equipment Electromechanical Lockpick (TL12), Mechanics Toolkit
 ```
 
 ```
 SPECIES GENDER NICKNAME
+
+
 Freni Hybrid Male Lightning
 ```
 
@@ -6138,8 +6301,7 @@ The interior of his home was reportedly a canvas of deranged
 scribblings, paintings and unusual symbols etched onto every surface,
 with any form of natural light being completely blocked. According to
 linguistic experts, the carvings do not resemble any known language.
-Tokashi's attitude during the interview was, according to Rebecca, off-
-putting and made her feel incredibly uncomfortable.
+Tokashi's attitude during the interview was, according to Rebecca, off-putting and made her feel incredibly uncomfortable.
 
 When asked to explain the alien symbols and patterns carved onto the
 walls, Tokashi replied, 'Matter cannot be destroyed, only rearranged.
@@ -6180,6 +6342,8 @@ seasoned and well-trained unit experienced in combat, salvaging and
 perhaps even the occult.
 
 OFFICIAL IMPERIUM SPECIFICATIONS
+
+
 Designation Salvage Zone Omega #193
 Surface area Unknown
 Radius Unknown
@@ -6249,6 +6413,8 @@ of the Travellers' Aid Society
 ## JJJournal
 
 JOURNAL
+
+
 
 ```
 The

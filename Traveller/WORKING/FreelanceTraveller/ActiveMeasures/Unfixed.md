@@ -77,26 +77,48 @@ The night of the fight the PCs will find themselves enjoying ringside seats cour
 1. Niko Broz is losing the fight. If the PCs were conscientious in their work, Mr. Lis will not hold them responsible. If they shirked their job, Mr. Lis will be displeased. Either way, he will send the PCs a note suggesting that they do something. Realizing that they are ringside, savvy PCs will heckle and taunt Broz. Shouts of 'extradition' and the all other bits should bring Broz back in fighting form rather quickly.
 2. Niko Broz loses the fight. He either slipped on a banana peel, the “Kid” got in a lucky punch, or Broz decided not to heed the PCs' warnings. As in 1 above, Mr. Lis' reaction will depend on how conscientiously the PCs performed their job.
     
+
+
     Broz will be arrested after the fight on unspecified charges and held for extradition to an unspecified location.
     
+
+
 3. After being first approached with the information, Niko Broz asks the PCs for help. The person(s) who originally paid him to throw the fight will be angry if he goes back on the deal. Broz fears for his life if he doesn't throw the fight, but he cannot risk Mr. Lis' information about him being given to certain parties. Broz will beg the PCs for help in solving the mess he finds himself in.
     
+
+
     The PCs could help Broz 'disappear' after the fight, speak to the original fixers about the matter, or try and guard him from any unpleasantness. Smart PCs may think of approaching Mr. Lis for assistance with Broz's problem. Mr. Lis will gladly help, only if Broz first boxes in the scheduled match.
     
+
+
 4. Niko Broz disappears before the fight. After being approached by the PCs, Broz sets out for parts unknown. His disappearance will be cause for few inquiries in official circles, but other parties will take a great interest in Broz' absence. Seeing as the PCs were observed talking to him recently, those other parties will want to talk with the PCs.
     
+
+
     While the books had to be closed on the fight and all wagers returned, Mr. Lis and his clients will be satisfied with the outcome.
     
+
+
 5. Niko Broz is found dead either before or after the fight. As with 4 above, the PCs' private chats with Broz will be of great interest either to the authorities or other, more private, individuals.
     
+
+
     The manner in which Broz is murdered, the PCs' alibis, and any other factors should be determined by the referee for the type of effect she wants. Are the PCs prime suspects or merely witnesses to be interviewed? Will the authorities and the other interested parties believe the PCs' testimony?
     
+
+
     As a respectable and low profile citizen, Mr. Lis may be reticent to admit any involvement with the PCs.
     
+
+
 6. There was no fix at all. Either someone spread a rumor to queer the fight's odds and that rumor took on a life of its own, or unknown parties decided on a course of action to besmirch Mr. Lis' reputation with his clients, or someone is engaged in an elaborate con, or whatever other explanation the referee develops, it all doesn't matter. Broz was never paid to throw the fight and knows nothing about the information the PCs' approach him with.
     
+
+
     The PCs actions; seeking to speak privately with Broz and then passing along gibberish, will seem very odd in certain quarters. Broz, his handlers, or the smoker's organizers may all become interested in the PCs and their behavior. The PCs may be approached by those interested parties or they simply may be reported to the authorities. Either way, as in 5 above, Mr. Lis will be reticent to admit any involvement with the PCs or their work.
     
+
+
 
 ### Resolution and Conclusion
 

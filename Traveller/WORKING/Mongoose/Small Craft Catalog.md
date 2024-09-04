@@ -2,70 +2,52 @@
 
 **Small Craft CatalogueSmall Craft Catalogue Small Craft CatalogueSmall Craft Catalogue**
 
-
 Welcome to the Small Craft Catalogue, featuring a vessel for your every need!
-
 
 Small craft, those vessels of less than 100 tons and without a jump drive, are the workhorses of Traveller and
 essential to the smooth running of every technological civilisation in Charted Space. This book gives you more
 than 60 new small craft, to be used by Travellers, pirates, traders, government forces and corporations. Each
 has a specific role and has been built to accomplish it with the best components available to its builders.
 
-
 In this book you will find:
-
 
 Modules: It is not just the Modular Cutter that can carry the 30-ton standard module, and there are many
 configurations that greatly expand the operational capacity of these crafts.
 
-
 Commercial Craft: Whether they are hauling cargo or passengers, there is a variety of small craft linking the
 worlds of each star system, binding colonies and outposts together.
-
 
 Working Craft: From the highport to the far reaches of the outsystem, these small craft keep the empires
 running, fixing, rescuing, mining, and performing a multitude of other tasks.
 
-
 Fighters: The most famous of small craft, high performance fighters are at the forefront of any outbreak of
 hostilities, their pilots destined to become heroes – or to meet an untimely death in the void.
-
 
 The Military: Between the fighter and the warship, there are many small craft that keep military forces in
 the field and capable of acting effectively, from armoured transports and recon craft to assault boats and
 system defence forces.
 
-
 Luxury Craft: Owned by nobles and rich corporate executives, these small craft spare no expense at providing
 the comfiest rides – and making sure everyone else knows it.
-
 
 Aslan, Sword Worlds, Vargr and Zhodani: Beyond the Third Imperium and its affiliated states, other empires
 can have very different takes on small craft design, but these vessels might just be the perfect in-system ride
 for a group of Travellers.
 
-
 Plus new rules on how your Travellers can use small craft to their best effect and bring another dimension
 to their adventures.
 
-
 MGP 40108
-
 
 US $49.
 
-
 ISBN 978-1-916675-06-
-
 
 Produced under license by Studio 2 Publishing, Inc. The Studio 2 logo is a trademark of Studio 2 Publishing, Inc. Copyright 2020. All rights reserved.
 
-
 Small Craft CatalogueSmall Craft Catalogue
 
-
 0202
-
 
 ###### SMALL CRAFT CATALOGUESMALL CRAFT CATALOGUE
 
@@ -86,9 +68,13 @@ Printed in China.
 
 CLASSIC TRAVELLER
 
+
+
 Marc Miller
 
 MONGOOSE TRAVELLER
+
+
 
 **AUTHOR**
 Matthew Sprange
@@ -108,6 +94,8 @@ Charlotte Law
 
 TRAVELLER INNER CIRCLE
 
+
+
 Andrew James, Alan Welty, Colin Dunn, M. J.
 Dougherty, Rob Eaglestone, Sam Wissa, Joshua Bell,
 Maksim Smelchak, Geir Lanesskog, Christopher Griffen
@@ -117,7 +105,6 @@ Chris Griffen, Geir Lanesskog, and the Mongoose
 Discord Crew
 
 ###### CONTENTS
-
 
 INTRODUCTION 2
 USING SMALL CRAFT 3
@@ -132,7 +119,6 @@ THE SWORD WORLDS 90
 THE VARGR 97
 THE ZHODANI 102
 INDEX 112
-
 
 # I NTRODUCTION
 
@@ -162,12 +148,10 @@ constantly trying to fit a square peg into a round hole
 with the standard craft found in the Traveller Core
 Rulebook or High Guard. Many of the craft found in this
 
-
 book will fit neatly into existing hangars and docking
 spaces on their spacecraft, meaning they will be able to
 upgrade the scope and capabilities of their main vessel
 simply by visiting a good shipyard.
-
 
 For their part, the Referee now has access to a
 multitude of small craft that can be inserted into
@@ -184,13 +168,11 @@ arrival is now packed full of details and, at some
 point in their adventures, the Travellers will be able to
 interact with all of these small craft.
 
-
 This book gives you a vast array of small craft, over
 60 of them in fact, divided into simple categories
 covering commercial and military craft, passenger
 carriers, cargo haulers, luxury vessels and the small
 craft of alien empires.
-
 
 # U SING SMALL CRAFT
 
@@ -213,14 +195,12 @@ It is possible to gain a Ship’s Boat as a Benefit while
 mustering out of a career, typically the Navy. Many
 Travellers simply substitute this for a Ship Share,
 thinking it more useful, but unless you are desperate to
-pay down a mortgage on the group’s ship by an ever-
-so-slight amount, take a moment to reconsider.
+pay down a mortgage on the group’s ship by an ever-so-slight amount, take a moment to reconsider.
 
 To begin with, while this Benefit is listed as a
 ship’s boat, the Referee may allow you to choose
 something else. Any small craft with a maximum
 value of MCr10 should be just fine.
-
 
 The next potential issue is that small craft do not
 have jump drives, so while the Traveller may be
@@ -249,8 +229,6 @@ to. There are two options here:
     starport and how busy it is.
 
 
-TRAVELLER
-
 
 The cheap solution is to store the small craft until the
 Traveller returns to the system but it is worth considering
@@ -264,7 +242,6 @@ own with decent hangar space for the small craft.
 
 #### REVISED FUEL OPERATION TIMES
 
-
 The small craft detailed in the Traveller Core Rulebook
 and High Guard use the ship construction rule of a
 minimum of one ton needed for power plants and this is
@@ -276,11 +253,9 @@ to alter the operational characteristics of each craft.
 
 ### Using Small Craft
 
-
 The same can be done for small craft in the Traveller
 Core Rulebook and High Guard, using the Operation
 Times table.
-
 
 For each small craft, you are provided with three
 options. The easiest is to keep fuel tonnage at its
@@ -293,11 +268,9 @@ time and instead receives an increase in cargo space.
 As a further option, you can assume a two week
 operational time and increase cargo space further.
 
-
 Note that these increases should be decided when
 a craft is first purchased or built, and regarded as
 permanent – they are not ‘configurable’.
-
 
 Operation Times
 Craft Endurance Cargo 2 Week Endurance Cargo
@@ -317,7 +290,6 @@ Torpedo Boat 9 weeks +0.56 tons +0.78 tons
 Shuttle 13 weeks +0.7 tons +0.85 tons
 Passenger Shuttle 13 weeks +0.7 tons +0.85 tons
 
-
 Made famous by the modular cutter, standard modules
 can be quickly fitted to any compatible vessel (typically
 small craft but see Adventure Class Ships for an
@@ -331,14 +303,14 @@ The most common modules (generally regarded as
 cargo transport, personnel transport, vehicle cradle,
 fuel skimmer, assault boat, fighter frame, pressurised
 shelter and gunship modules) can all be found in High
-Guard. Presented in this chapter are several less well-
-known, yet crucial for their owners, modules that are
+Guard. Presented in this chapter are several less well-known, yet crucial for their owners, modules that are
 compatible with the standard fittings and attachments.
 
 ### MODULES
 
-
 CATTLE TRANSPORT MODULE
+
+
 Capable of transporting a score of cattle
 inexpensively between worlds, this module features
 two cargo bays placed at either end with the stable
@@ -351,14 +323,11 @@ outpost but, unless the atmosphere is breathable and
 the animals are allowed to wander during the day,
 this will result in some very unhappy cattle.
 
-
 TL8 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Systems Stable 20 0.
 Staterooms Standard 4 0.
@@ -379,22 +348,17 @@ weapon cache to keep troops supplied and fighting
 in mobile infantry warfare. Space is included for
 distributing and equipping troops.
 
-
 TL8 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Systems Armoury 24 6
 Common
 Areas
 
-
 5 0.
-
 
 Cargo 1 —
 Total: MCr7.
@@ -402,8 +366,9 @@ Total: MCr7.
 Maintenance Cost: Cr617/month
 Purchase Cost: MCr7.
 
-
 COLD PASSAGE MODULE
+
+
 Also called the frozen module or refrigerated module,
 this is sometimes seen as a very cynical addition to
 a craft that tries to pack in the maximum number of
@@ -413,28 +378,21 @@ a superb emergency lifeboat for overfull passenger
 ships. These modules have also been known to be
 used for prisoner transport.
 
-
 TL8 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Fusion (TL8),
 Power 10
 
-
 1 0.
-
 
 Fuel Tanks 20 weeks of
 operation
 
-
 0.5 —
-
 
 Staterooms Low Berths x53 26.5 2.
 Cargo 2 —
@@ -442,22 +400,35 @@ Total: MCr4.
 Maintenance Cost: Cr338/month
 Purchase Cost: MCr4.
 
-
 ### MODULES
 
 ARMOURY MODULE
 
+
+
 FIGHTER HANGAR MODULE
+
+
 
 CATTLE TRANSPORT MODULE
 
+
+
 FRONTIER MEDICAL MODULE
+
+
 
 COLD PASSAGE MODULE
 
+
+
 LIFE SUPPORT MODULE
 
+
+
 LEGEND
+
+
 
 1. Power Plant
 2. Airlock
@@ -465,7 +436,6 @@ LEGEND
 4. Biosphere
 5. Docking Space (10 tons)
 6. Medical Bay
-
 
 1 square = 0.5 Ton
 
@@ -475,79 +445,54 @@ LEGEND
 10. Common Area
 11. Cargo Hold
 
+1
 
 1
 
-
 1
-
-
-1
-
 
 2
 
-
 3
 
-
 4
-
 
 5
 6
 
+6
 
 6
 
-
 6
 
-
 6
-
-
-6
-
 
 7
 
+8
 
 8
 
-
-8
-
+9
 
 9
 
-
-9
-
+11
 
 11
 
+11
 
 11
 
+11
 
 11
 
-
 11
-
-
-11
-
-
-11
-
-
-11
-
 
 10
-
 
 **FIGHTER HANGAR MODULE**
 Providing a more long-term protection solution when
@@ -560,22 +505,16 @@ used to accommodate the larger fighters take time to
 load and unload, meaning response times can be cut
 drastically in the event of attack.
 
-
 TL12 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
 
-
 Fuel Tanks 2 —
-Systems Docking Spaces
-(10 tons) x
-
+Systems Docking Spaces (10 tons) x
 
 22 4.
-
 
 Light Fighters x2 — 20.
 Staterooms Standard 4 0.
@@ -587,8 +526,9 @@ Purchase Cost: MCr26.
 
 ### MODULES
 
-
 LIFE SUPPORT MODULE
+
+
 Designed as a temporary measure, life support
 modules can be found running in small outposts
 years after they were first deployed. Containing a
@@ -600,28 +540,21 @@ care. Given a supply of hydrogen fuel as well, there is
 no reason this module cannot run indefinitely, providing
 not only life support but food as well.
 
-
 TL15 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Fusion (TL15),
 Power 30
 
-
 2 4
-
 
 Fuel Tanks 20 weeks of
 operation
 
-
 1 —
-
 
 Systems Biosphere 24 4.
 Airlock 2 0.
@@ -641,28 +574,21 @@ can also be found working in disaster areas and
 warzones, providing quality medical care that may
 only be bettered by an advanced hospital.
 
-
 TL8 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Fusion (TL8),
 Power 10
 
-
 1 0.
-
 
 Fuel Tanks 40 weeks of
 operation
 
-
 1 —
-
 
 Systems Medical Bays x5 20 12
 Staterooms Low Berths x10 5 0.
@@ -670,7 +596,6 @@ Cargo 3 —
 Total: MCr13.
 Maintenance Cost: Cr1158/month
 Purchase Cost: MCr13.
-
 
 **MISSILE SUPPORT MODULE**
 Little more than a targeting suite, turret, missile rack,
@@ -687,44 +612,31 @@ support craft to participate in combat. No software
 is pre-loaded onto the computer but it is capable of
 running Launch Solution/1 for MCr10.
 
-
 TL8 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Fusion (TL8),
 Power 10
 
-
 1 0.
-
 
 Fuel Tanks 20 weeks of
 operation
 
-
 0.5 —
-
 
 Computer Computer/5 — 0.
 Sensors Military Grade 2 4.
-Weapons Single Turret
-(missile rack)
-
+Weapons Single Turret (missile rack)
 
 1 0.
 
-
-Ammunition Missile Storage
-(288 missiles)
-
+Ammunition Missile Storage (288 missiles)
 
 24 —
-
 
 Staterooms Cabin Space 1.5 0.
 Total: MCr6.
@@ -734,8 +646,9 @@ Purchase Cost: MCr6.
 
 ### MODULES
 
-
 ORBITAL OUTPOST MODULE
+
+
 Intended to be flown to orbit by a cutter or other
 craft and then released, the orbital outpost module
 is a very cheap way for small corporations or even
@@ -746,38 +659,28 @@ bay for two air/rafts and a station-keeping manoeuvre
 drive. It even features a small turret, although no
 weapons are fitted as standard.
 
-
 TL9 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 M-Drive Thrust 0 0.15 0.
 Power Plant Fusion (TL8),
 Power 10
 
-
 1 0.
-
 
 Fuel Tanks 80 weeks of
 operation
 
-
 2 —
-
 
 Computer Computer/5 — 0.
 Sensors Civilian Grade 1 3
-Weapons Single Turret
-(empty)
-
+Weapons Single Turret (empty)
 
 1 0.
-
 
 Systems Workshop 6 0.
 Re-entry Pod 1 0.
@@ -791,22 +694,17 @@ Total: MCr6.
 Maintenance Cost: Cr548/month
 Purchase Cost: MCr6.
 
-
 TL7 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Staterooms Standard x6 24 3
 Common
 Areas
 
-
 4 0.
-
 
 Cargo 2 —
 Total: MCr4.
@@ -814,31 +712,42 @@ Total: MCr4.
 Maintenance Cost: Cr258/month
 Purchase Cost: MCr4.
 
-
 PASSENGER MODULE
+
+
 A logical extension of the personnel transport
 module, this version sports full staterooms that allow
 passengers to endure far larger journeys. Typically
 found in systems that have outposts and settlements
 strung across both inner and outer planets, passengers
 are reported to feel like they are being carted about
-in a tin can despite the facilities onboard being near-
-identical to that of a starliner.
-
+in a tin can despite the facilities onboard being near-identical to that of a starliner.
 
 ### MODULES
 
 MISSILE SUPPORT MODULE
 
+
+
 PLANETARY ASSUALT MODULE
+
+
 
 ORBITAL OUTPOST MODULE
 
+
+
 PLANETARY OUTPOST MODULE
+
+
 
 PASSENGER MODULE
 
+
+
 POWER MODULE
+
+
 
 1 square = 0.5 Ton LEGEND
 
@@ -859,101 +768,69 @@ POWER MODULE
        15. Common Area
        16. Cargo Hold
 
-
 1
 
+2
 
 2
 
-
 2
 
-
 2
-
-
-2
-
 
 3
 3
-
 
 4
 
-
 5
-
 
 6
 
-
 7
-
 
 8
 
-
 9
-
 
 10
 
-
 11
 
-
 11
-
 
 12
 
-
 13 14 14
-
 
 14 14
 
+14
 
 14
 
+14
 
 14
 
+14
 
 14
 
-
 14
-
-
-14
-
-
-14
-
-
-14
-
 
 15
 
+15
 
 15
 
-
-15
-
-
 16
-
 
 16
 16
 
-
 16
-
 
 **PLANETARY ASSAULT MODULE**
 With a reputation as a death trap for those on board,
@@ -966,29 +843,22 @@ any specialist equipment, this module should only be
 used in uncontested orbital space as it is extremely
 vulnerable to counterattacks.
 
-
 TL10 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Systems Assault
 Capsules x
 
-
 15 0.
-
 
 Armoury 6 1.
 Common
 Areas
 
-
 8 0.
-
 
 Cargo 1 —
 Total: MCr3.
@@ -998,8 +868,9 @@ Purchase Cost: MCr3.
 
 ### MODULES
 
-
 PLANETARY OUTPOST MODULE
+
+
 Intended to be used in conjunction with several
 other modules delivered by a small fleet of cutters,
 the planetary outpost module provides living space
@@ -1010,45 +881,37 @@ house modules, a complete small settlement can
 be created in little more than a day and, suitably
 provisioned, could last for years.
 
-
 TL8 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Fusion (TL8),
 Power 10
 
-
 1 0.
-
 
 Fuel Tanks 20 weeks of
 operation
 
-
 0.5 —
-
 
 Systems Biosphere 1 0.
 Staterooms Standard x4 16 2
 Common
 Areas
 
-
 10 1
-
 
 Cargo 1.5 —
 Total: MCr4.
 Maintenance Cost: Cr383/month
 Purchase Cost: MCr4.
 
-
 POWER MODULE
+
+
 Conceived as a simple module that can be landed and
 left in place at remote outposts, it is little more than
 a large fusion power plant with enough fuel to keep
@@ -1061,35 +924,27 @@ be cut off from technology. This module can also be
 built at TL6 with a fission-based power plant – this will
 cost MCr8.9 and provide Power 160.
 
-
 TL12 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Fusion (TL12),
 Power 300
 
-
 20 20
-
 
 Fuel Tanks 34 weeks of
 operation
 
-
 9 —
-
 
 Cargo 1 —
 Total: MCr20.
 
 Maintenance Cost: Cr1741/month
 Purchase Cost: MCr20.
-
 
 **PUBLIC HOUSE MODULE**
 A complete business in a module, this is effectively
@@ -1105,42 +960,32 @@ Occasionally, a module like this will be dropped and
 simply left at smaller and less advanced settlements
 to function as its main social point.
 
-
 TL8 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Fusion (TL8),
 Power 5
 
-
 0.5 0.
-
 
 Fuel Tanks 40 weeks of
 operation
 
-
 0.5 —
-
 
 Staterooms Cabin Space x8 12 0.
 Common
 Areas
-
 
 — 6 0.
 Advanced
 Entertainment
 System
 
-
 — 0.
-
 
 Brewery 10 1
 Wet Bar — 0.
@@ -1150,8 +995,9 @@ Total: MCr3.
 Maintenance Cost: Cr267/month
 Purchase Cost: MCr3.
 
-
 RELAXATION MODULE
+
+
 Also known as the chill-out module or vibing module,
 this design is based on some very simple ideas that
 have proven extremely popular among a certain
@@ -1161,28 +1007,21 @@ somewhat specialised laboratory where visitors can...
 experiment. Other fittings are provided to make for a
 positively de-stressing environment.
 
-
 TL8 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Fusion (TL8),
 Power 10
 
-
 1 0.
-
 
 Fuel Tanks 20 weeks of
 operation
 
-
 1 —
-
 
 Systems Biosphere 5 1
 Laboratory 4 1
@@ -1190,15 +1029,12 @@ Staterooms Cabin Space x6 9 0.
 Common
 Areas
 
-
 — 6 0.
 Advanced
 Entertainment
 System
 
-
 — 0.
-
 
 Brewery 1 0.
 Wet Bar — 0.
@@ -1210,8 +1046,9 @@ Purchase Cost: MCr4.
 
 ### MODULES
 
-
 SALVAGE MODULE
+
+
 Intended to provide a small but functional repair and
 salvage bay, this module can be used planetside or
 in vacuum. Two grappling arms fold into the module
@@ -1220,22 +1057,17 @@ zero-G environments and pull them into the bay,
 where a fully equipped workshop provides the facilities
 to dismantle or repair as needed.
 
-
 TL7 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Systems Workshop 6 0.
 Grappling Arms
 x
 
-
 4 2
-
 
 Cargo 20 —
 Total: MCr3.
@@ -1243,22 +1075,34 @@ Total: MCr3.
 Maintenance Cost: Cr316/month
 Purchase Cost: MCr3.
 
-
 ### MODULES
 
 PUBLIC HOUSE MODULE
 
 
+
 SPACEBORNE EARLY
+
+
 WARNING MODULE
+
+
 
 RELAXATION MODULE
 
+
+
 TANKER MODULE
+
+
 
 SALVAGE MODULE
 
+
+
 URBAN MODULE
+
+
 
 1 square = 0.5 Ton LEGEND
 
@@ -1283,91 +1127,62 @@ URBAN MODULE
        19. Hot Tub
        20. Cargo Hold
 
+1
 
 1
 
-
 1
 
-
 1
-
-
-1
-
 
 2
 
-
 3
 
-
 3
-
 
 4
 
-
 5
-
 
 6
 
-
 7
-
 
 8
 
-
 9
-
 
 10
 
-
 11
 
-
 11
-
 
 12
 
-
 13
 
-
 13
-
 
 14
 
-
 15
 15
 
+16
 
 16
 
-
-16
-
+17
 
 17
 
-
 17
-
-
-17
-
 
 18
 
-
 18
-
 
 19
 
@@ -1375,7 +1190,6 @@ URBAN MODULE
 20
 20
 20
-
 
 **SPACEBORNE EARLY WARNING MODULE**
 Typically found installed in the craft of small planetary
@@ -1388,65 +1202,47 @@ electronics warfare centre or mobile command and
 control base, this module functions well in both a space
 and atmospheric environment.
 
-
 TL15 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Fusion (TL15),
 Power 20
 
-
 1 2
-
 
 Emergency
 Power System
 
-
 0.1 0.
-
 
 Fuel Tanks 20 weeks of
 operation
 
-
 0.5 —
-
 
 Computer Computer/20fib — 7.
 Sensors Advanced 5 5.
 Sensor Stations
 x
 
-
 2 1
-
 
 Countermeasures
 Suite
 
-
 2 4
-
 
 Enhanced Signal
 Processing
 
-
 2 6
 
-
-Weapons Single Turret
-(empty)
-
+Weapons Single Turret (empty)
 
 1 0.
-
 
 Systems Airlock 2 0.
 Staterooms Standard x2 8 1
@@ -1455,17 +1251,13 @@ Library — —
 Electronic
 Warfare/
 
-
 — 15
-
 
 Battle Network/2 — 10
 Common
 Areas
 
-
 3 0.
-
 
 Cargo 2 —
 Total: MCr53.
@@ -1473,8 +1265,9 @@ Total: MCr53.
 Maintenance Cost: Cr548/month
 Purchase Cost: MCr53.
 
-
 TANKER MODULE
+
+
 A development of the more common fuel skimmer
 module, the tanker module gives up fuel capacity to
 install a fuel processor and a small power plant to run
@@ -1486,36 +1279,25 @@ circumstances. It also means the parent vessel does
 not need to carry fuel processing equipment of its
 own, thus freeing up space.
 
-
 TL7 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Power Plant Chemical,
 Power 5
 
-
 1 0.
-
 
 Fuel Tanks 27 —
-Systems Fuel Processor
-(20 tons/day)
-
+Systems Fuel Processor (20 tons/day)
 
 1 0.
 
-
-UNREP System
-(20 tons/hour)
-
+UNREP System (20 tons/hour)
 
 1 0.
-
 
 Total: MCr1.
 Maintenance Cost: Cr138/month
@@ -1523,8 +1305,9 @@ Purchase Cost: MCr1.
 
 ### MODULES
 
-
 URBAN MODULE
+
+
 Intended to be kept on board the carrying craft which
 would be stationed at a starport or on the outskirts of
 a settlement, the urban module provides a quick and
@@ -1535,35 +1318,27 @@ along with a workshop for any needed repairs and
 enough fuel to keep a fleet of typical ground vehicles
 moving without having to rely on local services.
 
-
 TL7 Tons Cost (MCr)
 Hull 30 tons,
 Streamlined
 
-
 — 0.
-
 
 Fuel Tanks 1 —
 Systems Workshop 6 0.
 Full Hangar (
 tons)
 
-
 22 4.
-
 
 Cargo 1 —
 Total: MCr6.
 Maintenance Cost: Cr517/month
 Purchase Cost: MCr6.
 
-
 ## COMMERCIAL CRAFT
 
-
 ### CIVILIAN HOPPER
-
 
 TL9 Tons Cost (MCr)
 Hull 6 tons, Close Structure — 0.
@@ -1586,25 +1361,25 @@ intended to travel between worlds performing
 roles in both business and pleasure. In a way, it
 is very similar to small, low-tech ground-based
 
-
 trucks, where price is the absolute selling point.
 Extremely functional, the hopper is nevertheless
 reliable, easy to service and highly adaptable to
 whatever task it is put to.
-
 
 Crew
 Pilot
 
 **Hull: 2**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr55/month
 PURCHASE COST
-MCr0.
 
+
+MCr0.
 
 Power Requirements
 Basic Ship Systems
@@ -1616,6 +1391,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Cockpit
@@ -1623,32 +1400,23 @@ LEGEND
 5. Acceleration Seats
 6. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1
 
-
 2
-
 
 3
 
-
 4
 
-
 5
-
 
 6
 
 DECK 1 DECK 2
 
-
 ### ADVERTISING BOAT
-
 
 TL10 Tons Cost (MCr)
 Hull 10 tons, Close Structure, Light — 0.
@@ -1674,7 +1442,6 @@ stations on barely legal flight plans, much to the
 consternation of traffic control, the only purpose of
 this craft is to advertise the services and products
 
-
 available after ships have docked. Any business
 within the highport can purchase ‘screen time’ on
 the side of the advertising boat and despite the
@@ -1684,19 +1451,20 @@ sometimes used to give potential advertising clients
 a pleasure trip around the highport to demonstrate
 the value of this craft and its services.
 
-
 Crew
 Pilot
 
 **Hull: 3**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr240/month
 PURCHASE COST
-MCr2.
 
+
+MCr2.
 
 Power Requirements
 Basic Ship Systems
@@ -1710,12 +1478,13 @@ Holographic Hull
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
 4. Airlock
 5. Cabin Space 1 square = 0.5 Ton
-
 
 1
 
@@ -1723,25 +1492,19 @@ DECK 1
 
 DECK 2
 
-
 2
-
 
 3
 
-
 4
-
 
 5
 
-
 ### CARGO SHUTTLE
-
 
 TL12 Tons Cost (MCr)
 Hull 40 tons, Streamlined, Light — 1.
-M-Drive Thrust 2 (energy efficient) 0.8 1.
+M-Drive Thrust2 (energy efficient) 0.8 1.
 Power Plant Fusion (TL12), Power 15 1 1
 Fuel Tanks 8 weeks of operation 0.2 —
 Bridge Small 3 0.
@@ -1764,26 +1527,26 @@ a decent speed. This cargo shuttle is very typical
 of the smaller craft that are built for the role and,
 at any given time, dozens or even hundreds
 
-
 might be moving between outposts and worlds
 in a developed star system. They are owned by
 a huge range of interests, from governments
 and large corporations to smaller independent
 companies and individual owner-operators.
 
-
 Crew
 Pilot
 
 **Hull: 14**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr474/month
 PURCHASE COST
-MCr5.
 
+
+MCr5.
 
 Power Requirements
 Basic Ship Systems
@@ -1795,6 +1558,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -1803,24 +1568,17 @@ LEGEND
 6. Common Area
 7. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1 2 3
 
-
 4 5
-
 
 6 5
 
-
 7
 
-
 ### SMUGGLER’S PINNACE
-
 
 TL12 Tons Cost (MCr)
 Hull 40 tons, Streamlined — 2.
@@ -1830,9 +1588,7 @@ Power Plant Fusion (TL12), Power 30 2 2
 Fuel Tanks 8 weeks of operation, 30 minutes
 thruster
 
-
 2.9 —
-
 
 Bridge 3 0.
 Computer Computer/10 — 0.
@@ -1854,7 +1610,6 @@ interest to less reputable traders. Most used is the
 concealed cargo space that, while small, can carry
 high-value goods of less than full legality. While
 
-
 this space is not guaranteed to escape notice by
 customs agents, the recessed high burn thruster
 is fully capable of outrunning most customs patrol
@@ -1862,19 +1617,20 @@ craft, although its use will bring immediate suspicion
 and likely pursuit. Excuses that the thruster is
 installed to escape pirates usually fall on deaf ears.
 
-
 Crew
 Pilot
 
 **Hull: 16**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr867/month
 PURCHASE COST
-MCr10.
 
+
+MCr10.
 
 Power Requirements
 Basic Ship Systems
@@ -1886,6 +1642,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Reaction Drive
 3. Power Plant
@@ -1895,40 +1653,28 @@ LEGEND
 7. Concealed Compartment
 8. Cargo Hold
 
-
 1 square = 0.5 Ton
 
-
 1
 
-
 1
-
 
 2
 
-
 3
 
-
 3
-
 
 4
 5
 
-
 6
-
 
 7
 
-
 8
 
-
 ### SHORT SHUTTLE
-
 
 TL9 Tons Cost (MCr)
 Hull 60 tons, Streamlined, Light — 2.
@@ -1953,26 +1699,26 @@ commercial craft that appear once a civilisation
 discovers grav and manoeuvre drive technology,
 however its type remains in service across
 
-
 Charted Space due to its inexpensive design.
 Purchase and running costs are so low that it is
 not unusual to see orbital return tickets offered
 for less than Cr50, or simply given free as part of
 an interstellar middle passage ticket.
 
-
 Crew
 Pilot
 
 **Hull: 21**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr713/month
 PURCHASE COST
-MCr8.
 
+
+MCr8.
 
 Power Requirements
 Basic Ship Systems
@@ -1982,10 +1728,11 @@ Manoeuvre Drive
 Sensors
 0
 
-
 1 square = 0.5 Ton
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -1995,24 +1742,17 @@ LEGEND
 6. Common Area
 7. Cargo Hold
 
-
 7
-
 
 6
 
-
 5
-
 
 4
 
-
 1 2 3
 
-
 ### FAST SHUTTLE
-
 
 TL12 Tons Cost (MCr)
 Hull 90 tons, Streamlined — 1.8
@@ -2039,25 +1779,25 @@ longer distance travel across a star system. Even
 when manoeuvre drives become practical, slow
 commercial craft can take several days to travel
 
-
 from planet-to-planet, and journeying to a moon
 of a distant gas giant can mean travel upwards of
 a week. The fast shuttle has sufficient speed to
 cut journey times significantly.
-
 
 Crew
 Pilot, Steward
 
 **Hull: 36**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1740/month
 PURCHASE COST
-MCr20.882
 
+
+MCr20.882
 
 Power Requirements
 Basic Ship Systems
@@ -2069,7 +1809,6 @@ Sensors
 
 ##### FAST SHUTTLE
 
-
 1 square = 0.5 Ton
 
 DECK 1
@@ -2077,6 +1816,8 @@ DECK 1
 DECK 2
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -2087,69 +1828,48 @@ LEGEND
 7. Wet Bar
 8. Cargo Hold
 
-
 1
-
 
 2
 
-
 3
-
 
 4
 
+5
 
 5
 
+5
 
 5
 
-
 5
 
-
 5
-
-
-5
-
-
-5
-
 
 6
 
+6
 
 6
 
-
 6
-
-
-6
-
 
 7
 
-
 7
-
 
 8
 
-
 ### TRADE SHUTTLE
-
 
 TL8 Tons Cost (MCr)
 Hull 90 tons, Streamlined — 5.4
 M-Drive Thrust 1, Prototype (energy
 inefficient)
 
-
 0.9 10.8
-
 
 Power Plant Fusion (TL8), Power 30 3 1.5
 Fuel Tanks 12 weeks of operation 0.9 —
@@ -2169,29 +1889,28 @@ An early design of shuttle, this craft is intended to
 kickstart trade between a mainworld and the first
 colonies and outposts it sets up in its own star
 system. Due to the expense and technological
-base needed to manufacture a (somewhat) efficient
+base needed to manufacturea (somewhat) efficient
 manoeuvre drive, trade shuttles are typically owned
 
-
 by governments and large corporations, with other
-organisations still having to rely on much shorter-
-ranged reaction drive craft. The appearance of
+organisations still having to rely on much shorter-ranged reaction drive craft. The appearance of
 trade shuttles is a sure sign that a civilisation is
 about to make the leap to interstellar travel.
-
 
 Crew
 Pilot
 
 **Hull: 36**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1873/month
 PURCHASE COST
-MCr22.48
 
+
+MCr22.48
 
 Power Requirements
 Basic Ship Systems
@@ -2203,7 +1922,6 @@ Sensors
 
 ##### TRADE SHUTTLE
 
-
 1 square = 0.5 Ton
 
 DECK 1
@@ -2211,6 +1929,8 @@ DECK 1
 DECK 2
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -2221,39 +1941,27 @@ LEGEND
 7. Common Area
 8. Cargo Hold
 
-
 1
-
 
 2
 
-
 3
-
 
 4
 
-
 5 5
 
-
 5 5
-
 
 6 6
 
-
 7
 
-
 7
-
 
 8
 
-
 ### EXTENDED RANGE PASSENGER SHUTTLE
-
 
 TL9 Tons Cost (MCr)
 Hull 95 tons, Streamlined — 5.7
@@ -2279,25 +1987,25 @@ typically from surface to orbit. The extended range
 variant does away with the small acceleration seats
 and instead has dedicated cabin space and seating
 
-
 more akin to airliners on pre-grav atmospheric
 worlds, as well as more powerful engines to shorten
 flight times. This allows for greatly extended flight
 times and increased comfort on shorter trips.
-
 
 Crew
 Pilot
 
 **Hull: 38**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1600/month
 PURCHASE COST
-MCr19.205
 
+
+MCr19.205
 
 Power Requirements
 Basic Ship Systems
@@ -2311,10 +2019,11 @@ Sensors
 
 ##### PASSENGER SHUTTLE
 
-
 1 square = 0.5 Ton
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -2325,36 +2034,25 @@ LEGEND
 7. Common Area
 8. Cargo Hold
 
-
 8
-
 
 7
 
-
 6
-
 
 5
 
-
 4
-
 
 3
 
-
 2 2
-
 
 1 1
 
-
 ## WORKING CRAFT
 
-
 ### AUTOMATED LIFEBOAT
-
 
 TL10 Tons Cost (MCr)
 Hull 5 tons, Standard — 0.25
@@ -2378,7 +2076,6 @@ even a bridge, the automated lifeboat is piloted
 entirely by a virtual crew software suite, although it
 can also be remotely controlled at short ranges by
 
-
 the vessel it is launched from. This is sometimes
 done to guide it through a hazardous area, such as
 a debris field around the stricken ship. Normally, the
@@ -2386,19 +2083,20 @@ automated lifeboat can carry 16 people to safety,
 although the acceleration benches can be swapped
 out for eight low berths for a cost of MCr0.36
 
-
 Crew
 None
 
 **Hull: 2**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr135/month
 PURCHASE COST
-MCr1.62
 
+
+MCr1.62
 
 Power Requirements
 Basic Ship Systems
@@ -2410,26 +2108,22 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Acceleration Benches
 4. Cargo Hold
 
-
 1 square = 0.5 Ton
 
-
 1
 
-
 1
-
 
 2 4 3
 
-
 ### FREIGHT HANDLER POD
-
 
 TL9 Tons Cost (MCr)
 Hull 6 tons, Close Structure — 0.24
@@ -2452,26 +2146,26 @@ those containers into position to be transferred
 and sometimes fill those containers in the void.
 This is accomplished with the use of a grappling
 
-
 arm. These pods are usually seen, often in
 large numbers, at most highports and busy
 orbital transfer stations. Freight handling duty is
 a route for young pilots looking to break into a
 commercial pilot career.
 
-
 Crew
 Pilot
 
 **Hull: 2**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr133/month
 PURCHASE COST
-MCr1.6003
 
+
+MCr1.6003
 
 Power Requirements
 Basic Ship Systems
@@ -2483,6 +2177,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Cockpit
@@ -2490,27 +2186,19 @@ LEGEND
 5. Grappling Arm
 6. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 6
 
-
 5
-
 
 4
 
-
 3
-
 
 1 2
 
-
 ### TRANSPORTER
-
 
 TL9 Tons Cost (MCr)
 Hull 10 tons, Standard — 0.5
@@ -2539,7 +2227,6 @@ Little more than a 10-ton pod fitted with two docking
 clamps, these tiny craft scoot between ships and
 moons (and to planetary surfaces, for the daring
 
-
 pilots) carrying one or two standard-size cargo
 containers – although they are capable of carrying
 another small craft of up to 30 tons in a pinch. It
@@ -2547,19 +2234,20 @@ should be noted that the only concession to pilot
 comfort is a small area of cabin space designed for
 sleep during longer ferrying trips.
 
-
 Crew
 Pilot
 
 **Hull: 4**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr360/month
 PURCHASE COST
-MCr4.3155
 
+
+MCr4.3155
 
 Power Requirements
 Basic Ship Systems
@@ -2571,6 +2259,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Cockpit
@@ -2579,43 +2269,31 @@ LEGEND
 6. Grappling Arm
 7. Cabin Space
 
-
 1 square = 0.5 Ton
-
 
 7 6
 
-
 5
 
-
 4
 
-
 4
-
 
 3
 
+2
 
 2
 
-
-2
-
-
 1
 
-
 1
-
 
 ### UTILITY POD
 
-
 TL12 Tons Cost (MCr)
 Hull 10 tons, Streamlined — 0.6
-M-Drive Thrust 2 (Thrust 1 when clamp in use) 0.2 0.4
+M-Drive Thrust2 (Thrust 1 when clamp in use) 0.2 0.4
 Power Plant Fusion (TL12), Power 15 1 1
 Fuel Tanks 2 weeks of operation 0.05 —
 Bridge 3 0.5
@@ -2637,25 +2315,25 @@ of duties. Designed for very short term operations,
 it is used to carry out routine maintenance, deliver
 small cargos, ferry standard containers, act as
 
-
 a mobile power plant and carry passengers
 between ships and orbiting stations. Notably,
 it is streamlined and so can also perform tasks
 necessitating travel from planet to orbit.
-
 
 Crew
 Pilot
 
 **Hull: 4**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr342/month
 PURCHASE COST
-MCr4.1055
 
+
+MCr4.1055
 
 Power Requirements
 Basic Ship Systems
@@ -2667,6 +2345,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -2676,24 +2356,17 @@ LEGEND
 7. Cabin Space
 8. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1 2 3
 
-
 4
-
 
 5
 
-
 8 7 6
 
-
 ### TRADESMAN’S GIG
-
 
 TL9 Tons Cost (MCr)
 Hull 15 tons, Standard — 0.75
@@ -2718,26 +2391,26 @@ Such craft can touch down on an unexplored planet
 and allow a construction worker to help build an
 outpost, a mechanic to perform maintenance on the
 
-
 same outpost’s vehicles, or a ship’s artist to clean
 and paint the hull of another vessel. The workshop
 will be configured to the owner’s trade and some
 gigs swap out the workshop for a studio (with a total
 cost of MCr4.055) or laboratory (costing MCr4.955).
 
-
 Crew
 Pilot
 
 **Hull: 6**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr363/month
 PURCHASE COST
-MCr4.355
 
+
+MCr4.355
 
 Power Requirements
 Basic Ship Systems
@@ -2749,6 +2422,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -2757,21 +2432,15 @@ LEGEND
 6. Cabin Space
 7. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1 2 4 3 5
 
-
 6
-
 
 7
 
-
 ### BELTER LAUNCH
-
 
 TL9 Tons Cost (MCr)
 Hull 20 tons, Streamlined — 1.2
@@ -2796,26 +2465,26 @@ the source of great riches – at least, that is what
 the advertising for it says. In practice, it is cramped,
 unable to recover a large amount of ore without
 
-
 returning to its parent ship regularly, and it has
 a reputation for ending up really dirty inside
 with rock dust leaking from the hold to the living
 spaces. The interior lights dimming whenever the
 laser drill is fired does not endear it to its owners.
 
-
 Crew
 Pilot
 
 **Hull: 8**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr507/month
 PURCHASE COST
-MCr6.08
 
+
+MCr6.08
 
 Power Requirements
 Basic Ship Systems
@@ -2829,6 +2498,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -2837,19 +2508,17 @@ LEGEND
 6. Airlock
 7. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1 2 3 4
 5
 6
 
-
 7
 
-
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -2861,11 +2530,9 @@ LEGEND
 8. Brig
 9. Cargo Hold
 
-
 1 square = 0.5 Ton
 
 ### CUSTOMS LAUNCH
-
 
 TL10 Tons Cost (MCr)
 Hull 20 tons, Streamlined — 1.2
@@ -2891,25 +2558,25 @@ somewhat effective in-system inspections in an
 inexpensive fashion. There is a ready assumption
 among its crews that any real resistance will force
 
-
 a retreat but this craft can provide a credible
 deterrent to small trader crews who might
 otherwise take advantage of poor law enforcement
 and push their luck in quieter systems.
-
 
 Crew
 Pilot, Marines x4
 
 **Hull: 8**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr915/month
 PURCHASE COST
-MCr10.98
 
+
+MCr10.98
 
 Power Requirements
 Basic Ship Systems
@@ -2921,27 +2588,19 @@ Sensors
 Weapons
 3
 
-
 1 2 3 4
-
 
 5
 
-
 6
-
 
 7
 
-
 8
-
 
 9
 
-
 ### LIFEBOAT
-
 
 TL9 Tons Cost (MCr)
 Hull 20 tons, Streamlined — 1.2
@@ -2965,7 +2624,6 @@ They are often assumed to be ‘lifeboats’ on some
 ships, a means of transit for crew and passengers
 away from a stricken vessel. However, unless
 
-
 a ship is being abandoned in civilised space,
 there is a definite time limit for survivability on a
 standard launch. This lifeboat is based on the hull
@@ -2973,19 +2631,20 @@ of the launch but has been refitted to act as a true
 lifeboat, potentially keeping the people on board
 alive for months if need be.
 
-
 Crew
 Pilot
 
 **Hull: 8**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr311/month
 PURCHASE COST
-MCr3.73
 
+
+MCr3.73
 
 Power Requirements
 Basic Ship Systems
@@ -2999,20 +2658,21 @@ Low Berths
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
 4. Acceleration Seats
 5. Low Berths
 
-
 1 square = 0.5 Ton
-
 
 1 2 5 4 3
 
-
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -3021,11 +2681,9 @@ LEGEND
 5. Low Berths
 6. Cargo Hold
 
-
 1 square = 0.5 Ton
 
 ### MEDICAL LAUNCH
-
 
 TL12 Tons Cost (MCr)
 Hull 20 tons, Streamlined — 1.2
@@ -3049,25 +2707,25 @@ is nevertheless a literal life-saver. In typical use,
 it will fly to a space station or planet’s surface to
 evacuate casualties and keep them stable while
 
-
 returning to a dedicated hospital ship. At need, it
 can operate as a medical centre in disaster zones
 but its capacity is woefully likely to be completely
 overwhelmed, rendering it almost useless.
-
 
 Crew
 Pilot
 
 **Hull: 8**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr778/month
 PURCHASE COST
-MCr9.33
 
+
+MCr9.33
 
 Power Requirements
 Basic Ship Systems
@@ -3079,18 +2737,13 @@ Medical Bay
 Low Berths
 1
 
-
 1 2 4 3
-
 
 5
 
-
 6
 
-
 ### RESCUE BOAT
-
 
 TL12 Tons Cost (MCr)
 Hull 30 tons, Streamlined — 1.8
@@ -3124,13 +2777,11 @@ that can reach areas of disaster quickly. Once there,
 its shielded and armoured hull protects it from
 debris, secondary explosions and radiation hazards
 
-
 while its scanners search for casualties. The rescue
 team on board can then leave the boat in vacc
 suits, locate and retrieve anyone still alive, and
 provide emergency medical aid while the rescue
 boat speeds back to its parent ship or station.
-
 
 Crew
 Pilot, Rescue Team
@@ -3138,13 +2789,15 @@ x2, Medic
 
 **Hull: 12**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1908/month
 PURCHASE COST
-MCr22.8965
 
+
+MCr22.8965
 
 Power Requirements
 Basic Ship Systems
@@ -3160,6 +2813,8 @@ Low Berths
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -3168,43 +2823,30 @@ LEGEND
 6. Airlock
 7. Medical Bay
 
-
 1 square = 0.5 Ton
 
-
 1
 
-
 1
-
 
 2 3
 4
 
-
 5
-
 
 6
 
-
 7
-
 
 13 8
 
-
 1214
 
-
 11
 
-
 11
-
 
 10
-
 
 9
 
@@ -3216,9 +2858,7 @@ LEGEND
 13. Common Area
 14. Cargo
 
-
 ### MODULAR SKIFF
-
 
 TL10 Tons Cost (MCr)
 Hull 40 tons, Streamlined — 2.4
@@ -3244,7 +2884,6 @@ smaller and cheaper that could, in theory, do the
 same job. The modular skiff was the result, born
 from the idea that so long as a craft could carry a
 
-
 standard 30-ton module, it would be the module
 itself that defined its role and the craft would be
 little more than a manoeuvre drive and power
@@ -3252,19 +2891,20 @@ plant for it. Regarded as a poor man’s cutter, the
 modular skiff has found some markets but its
 crew are rarely a happy bunch.
 
-
 Crew
 Pilot
 
 **Hull: 16**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr628/month
 PURCHASE COST
-MCr7.53
 
+
+MCr7.53
 
 Power Requirements
 Basic Ship Systems
@@ -3276,6 +2916,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Module
 2. Manoeuvre Drive
 3. Power Plant
@@ -3283,21 +2925,15 @@ LEGEND
 5. Airlock
 6. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 2 3 1 4
 
-
 5
-
 
 6
 
-
 ### RESEARCH PINNACE
-
 
 TL12 Tons Cost (MCr)
 Hull 40 tons, Streamlined — 2.4
@@ -3319,12 +2955,10 @@ Intellect — —
 Cargo 4.5 —
 Total: MCr13.51
 
-Commonly found clamped to the spoke of a well-
-funded Type-L laboratory ship, the research pinnace
+Commonly found clamped to the spoke of a well-funded Type-L laboratory ship, the research pinnace
 greatly expands the reach and capabilities of the
 researchers and scientists on board. Equipped with
 its own laboratory, this craft allows for long-reaching
-
 
 field missions across a star system with the
 laboratory ship itself acting as a base of operations
@@ -3332,19 +2966,20 @@ and research centre. The ability to land on planets
 adds massively to scientific voyages, making this
 craft a popular upgrade to the Type-L.
 
-
 Crew
 Pilot
 
 **Hull: 16**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1126/month
 PURCHASE COST
-MCr13.51
 
+
+MCr13.51
 
 Power Requirements
 Basic Ship Systems
@@ -3356,6 +2991,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -3366,38 +3003,27 @@ LEGEND
 8. Cabin Space
 9. Cargo hold
 
-
 1 square = 0.5 Ton
 
+1
 
 1
 
-
-1
-
-
 2
 
-
 2
-
 
 4 3
 5
 6
 
-
 7 7
-
 
 8
 
-
 9
 
-
 ### CUSTOMS PATROL BOAT
-
 
 TL11 Tons Cost (MCr)
 Hull 50 tons, Streamlined — 3
@@ -3427,13 +3053,11 @@ starport, either to relieve stress on an over-loaded
 customs staff or because suspicion has been raised
 over a recently jumped-in free trader. It is absolutely
 
-
 not the role of the customs patrol boat to force
 boardings or chase down pirates – there are larger
 and better-equipped craft that can do that more
 easily. However, as a cheap solution to the problem
 of cargo inspections, it performs well.
-
 
 Crew
 Pilot, Customs
@@ -3441,13 +3065,15 @@ Agents x3
 
 **Hull: 20**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1888/month
 PURCHASE COST
-MCr22.6575
 
+
+MCr22.6575
 
 Power Requirements
 Basic Ship Systems
@@ -3461,6 +3087,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -3473,36 +3101,25 @@ LEGEND
 10. Common Area
 11. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1 2 3 4
 
-
 5
-
 
 6
 
-
 7
-
 
 8
 
-
 11
-
 
 10
 
-
 9 9
 
-
 ### FAST CUTTER
-
 
 TL15 Tons Cost (MCr)
 Hull 50 tons, Streamlined — 3
@@ -3530,26 +3147,26 @@ common modular cutter. Completely compatible
 with a staggering variety of standard 30-ton
 modules, the fast cutter is able to operate in
 
-
 slightly more dangerous systems due to the
 difficulty of intercepting such a small and fast
 target – realistically, under most circumstances,
 only dedicated fighters are going to be capable of
 launching a successful attack.
 
-
 Crew
 Pilot
 
 **Hull: 20**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1328/month
 PURCHASE COST
-MCr15.93
 
+
+MCr15.93
 
 Power Requirements
 Basic Ship Systems
@@ -3561,6 +3178,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Module
 2. Manoeuvre Drive
 3. Power Plant
@@ -3569,24 +3188,17 @@ LEGEND
 6. Cabin Space
 7. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 2 3 1 4
 
-
 5
-
 
 6
 
-
 7
 
-
 ### SHIP-TO-SHIP SHUTTLE
-
 
 TL10 Tons Cost (MCr)
 Hull 50 tons, Streamlined — 3
@@ -3609,28 +3221,27 @@ Total: MCr8.033
 In commercially-led orbital space, there is always
 a need to move relatively large quantities of cargo
 between ships, or between a ship and a station.
-Single containers can be moved by small pod-
-like craft but larger quantities need a dedicated
-
+Single containers can be moved by small pod-like craft but larger quantities need a dedicated
 
 shuttle. This craft features its own retractable
 grappling arm, allowing a competent crew to load
 their own hold with standard containers if they
 are left stationed in the void.
 
-
 Crew
 Pilot
 
 **Hull: 20**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr669/month
 PURCHASE COST
-MCr8.033
 
+
+MCr8.033
 
 Power Requirements
 Basic Ship Systems
@@ -3642,6 +3253,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -3652,28 +3265,20 @@ LEGEND
 8. Common Area
 9. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 2 3
 
-
 5
 
-
 6 7
-
 
 7
 8
 
-
 1 9
 
-
 ### TRAFFIC CONTROL ROUTER
-
 
 TL13 Tons Cost (MCr)
 Hull 50 tons, Close Structure — 2
@@ -3703,15 +3308,12 @@ traffic. In busy systems it will be designated
 a rotating sector to control, with other router
 craft handling their own areas, but around quiet
 
-
 systems it might be solely responsible for all
 space traffic control. Shifts aboard this craft are
 not considered desirable and most starports will
 rotate crew on a weekly or two-weekly basis. The
 router is notable in that it relies on solar panels
-for power, although it does have a chemical-
-based power plant for emergencies.
-
+for power, although it does have a chemical-based power plant for emergencies.
 
 Crew
 Pilot/Engineer, Sensor
@@ -3719,13 +3321,15 @@ Operators x4
 
 **Hull: 20**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr3434/month
 PURCHASE COST
-MCr41.21
 
+
+MCr41.21
 
 Power Requirements
 Basic Ship Systems
@@ -3736,6 +3340,8 @@ Sensors
 13
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Solar Panels
@@ -3749,48 +3355,34 @@ LEGEND
 10. Common Area
 11. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1
 
-
 2 2 2 2
-
 
 3
 
-
 4
-
 
 5
 
-
 7 6 6
 
-
 8
-
 
 10
 9
 
-
 9
-
 
 9
 
 DECK 1 DECK 2
 
-
 11
 
-
 ### HEAVY MODULAR CUTTER
-
 
 TL12 Tons Cost (MCr)
 Hull 90 tons, Streamlined — 5.4
@@ -3816,9 +3408,7 @@ Less common than the ubiquitous modular cutter,
 this heavier craft is able to carry and operate
 two standard modules simultaneously. This not
 only doubles the capabilities of the craft, such as
-being able to gather twice the fuel on one fuel-
-skimming trip but also gives the option to expand
-
+being able to gather twice the fuel on one fuel-skimming trip but also gives the option to expand
 
 capabilities. For example, a heavy modular cutter
 would be able to fly passengers from a contested
@@ -3826,19 +3416,20 @@ starport by carrying a passenger module
 alongside a fighter frame module, allowing it to
 launch fighters to deter any marauders.
 
-
 Crew
 Pilot
 
 **Hull: 36**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1778/month
 PURCHASE COST
-MCr21.33
 
+
+MCr21.33
 
 Power Requirements
 Basic Ship Systems
@@ -3852,8 +3443,9 @@ Sensors
 
 ##### CUTTER
 
-
 LEGEND
+
+
 
 1. Module
 2. Manoeuvre Drive
@@ -3865,33 +3457,23 @@ LEGEND
 
 1 square = 0.5 Ton
 
-
 1 1
-
 
 2
 
-
 3
-
 
 4
 
-
 5
-
 
 6
 
-
 7
-
 
 ## FIGHTERS
 
-
 ### HOMESHIELD MINI-FIGHTER
-
 
 TL7 Tons Cost (MCr)
 Hull 5 tons, Streamlined — 0.3
@@ -3902,9 +3484,7 @@ Power Plant Chemical (TL7), Power 2.5 0.5 0.125
 Fuel Tanks 0.25 hours Thruster, 1 hour
 R-Drive
 
-
 0.41 —
-
 
 Bridge Dual Cockpit 2.5 0.015
 Computer Computer/5 — 0.03
@@ -3918,26 +3498,26 @@ development of some form of planetary protection.
 The mini-fighter is the result, a craft with limited
 capabilities yet one that remains within reach of less
 
-
 advanced worlds and those who can afford little
 else. Its area of operations is limited to little more
 than orbital space (and that requires an auxiliary
 thruster to achieve) and it must be vectored onto
 targets by ground stations.
 
-
 Crew
 Pilot, Gunner
 
 **Hull: 2**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr120/month
 PURCHASE COST
-MCr1.445
 
+
+MCr1.445
 
 Power Requirements
 Basic Ship Systems
@@ -3947,28 +3527,25 @@ Weapons
 
 LEGEND
 
+
+
 1. Reaction Drive
 2. High-Burn Thruster
 3. Power Plant
 4. Dual Cockpit
 5. Fixed Mount (missile rack)
 
-
 1 square = 0.5 Ton
 5
 
-
 4
-
 
 3
 
 (^12)
 DECK 1 DECK 2
 
-
 ### CYCLONE GROUND ATTACK FIGHTER
-
 
 TL11 Tons Cost (MCr)
 Hull 10 tons, Streamlined — 0.6
@@ -3995,26 +3572,26 @@ ground forces planetside in support of army units.
 Equally capable of engaging less advanced
 armoured vehicles and hardened structures, this
 
-
 fighter will leave infantry formations to the units
 it is supporting. Launched from orbit, it can cut
 defensive reaction times to just a few minutes,
 adding to its survivability in the face of sustained
 anti-fighter weaponry.
 
-
 Crew
 Pilot
 
 **Hull: 4**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1151/month
 PURCHASE COST
-MCr13.861
 
+
+MCr13.861
 
 Power Requirements
 Basic Ship Systems
@@ -4028,6 +3605,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Cockpit
@@ -4035,30 +3614,21 @@ LEGEND
 5. Fixed Mount (medium autocannon)
 6. Fixed Mount (anti-tank missile)
 
-
 1 square = 0.5 Ton
-
 
 6 6
 
-
 5
-
 
 4
 
-
 3
-
 
 2
 
-
 1
 
-
 ### MORAY ANTIQUE FIGHTER
-
 
 TL8 Tons Cost (MCr)
 Hull 10 tons, Streamlined — 0.6
@@ -4083,26 +3653,26 @@ the time, these fighters have long since passed the
 point of obsolescence and only the desperate try
 to keep them flying. Some examples are centuries
 
-
 old but if an impoverished world needs to maintain
 some semblance of defence, an antique fighter
 screen may, just possibly, be better than nothing.
 However, it is a brave pilot that climbs into one of
 these to do battle with an attacking enemy.
 
-
 Crew
 Pilot
 
 **Hull: 4**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr283/month
 PURCHASE COST
-MCr3.4
 
+
+MCr3.4
 
 Power Requirements
 Basic Ship Systems
@@ -4114,29 +3684,24 @@ Weapons
 
 LEGEND
 
+
+
 1. Reaction Drive
 2. Power Plant
 3. Cockpit
 4. Fixed Mount (missile rack)
 
-
 1 square = 0.5 Ton
-
 
 4
 
-
 3
-
 
 2
 
-
 1
 
-
 ### SENTINEL ESCORT FIGHTER
-
 
 TL10 Tons Cost (MCr)
 Hull 10 tons, Standard — 0.5
@@ -4159,24 +3724,24 @@ attacking small craft, the primary purpose of the
 escort fighter is to defend unarmed and unarmoured
 ships from missile attacks. Acting as interceptor and
 
-
 ad hoc point defence, it is a cheap and relatively
 unsophisticated solution that leans a great deal on
 its computer and software for effectiveness.
-
 
 Crew
 Pilot, Gunner
 
 **Hull: 4**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr841/month
 PURCHASE COST
-MCr10.095
 
+
+MCr10.095
 
 Power Requirements
 Basic Ship Systems
@@ -4190,6 +3755,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Reaction Drive
 3. Power Plant
@@ -4197,24 +3764,17 @@ LEGEND
 5. Sensors
 6. Single Turret (beam laser)
 
-
 1 square = 0.5 Ton
-
 
 6
 
-
 3 4 5
-
 
 2
 
-
 1
 
-
 ### JUNKER
-
 
 TL10 Tons Cost (MCr)
 Hull 20 tons, Dispersed, Light — 0.375
@@ -4231,13 +3791,11 @@ Software Manoeuvre — —
 Total: MCr3.39
 
 The product of a desperate scrapyard that urgently
-needs to provide fighters, the junker is a cobbled-
-together mess of drive, power plant, weapon and
-a place for a (very brave) pilot to sit. Pieces from
+needs to provide fighters, the junker is a cobbled-together mess of drive, power plant, weapon and
+a place fora (very brave) pilot to sit. Pieces from
 different spacecraft are, sometimes literally, welded
 together with power lines and hydraulics strung
 between them in an effort to build something
-
 
 quickly and cheaply that will move under its own
 power and, hopefully, be able to identify enemies
@@ -4246,19 +3804,20 @@ rate of junkers is miserable but a last-ditch stand
 by a large fleet of misshapen fighters is the very
 stuff of dramatic vidshows.
 
-
 Crew
 Pilot, Gunner
 
 **Hull: 6**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr283/month
 PURCHASE COST
-MCr3.39
 
+
+MCr3.39
 
 Power Requirements
 Basic Ship Systems
@@ -4272,6 +3831,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Reaction Drive
 3. Power Plant
@@ -4279,25 +3840,18 @@ LEGEND
 5. Single Turret (missile rack)
 6. Missile Storage 1 square = 0.5 Ton
 
-
 6
-
 
 5
 4
 
-
 3
-
 
 2
 
-
 1
 
-
 ### KASHU MULTIROLE FIGHTER
-
 
 TL15 Tons Cost (MCr)
 Hull 20 tons, Streamlined, Reinforced — 1.8
@@ -4327,26 +3881,26 @@ forces, although rarely in high numbers due to the
 per unit cost. The reinforced hull and armour allow
 it to engage ground targets with twin-linked plasma
 
-
 weaponry, while retaining a deadly pulse laser for
 space combat. Powerful drives push the Kashu
 quicker than almost all of its contemporaries, while
 an advanced sensor suite promises to alert the pilot
 to danger before an attack is launched.
 
-
 Crew
 Pilot
 
 **Hull: 9**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr4292/month
 PURCHASE COST
-MCr51.5
 
+
+MCr51.5
 
 Power Requirements
 Basic Ship Systems
@@ -4360,6 +3914,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Cockpit
@@ -4368,33 +3924,23 @@ LEGEND
 6. Fixed Mount (pulse laser)
 7. Fixed Mount (PGHP-14)
 
-
 1 square = 0.5 Ton
-
 
 7 7
 
-
 6
-
 
 5
 
-
 4 4
-
 
 3
 
-
 2
-
 
 1
 
-
 ### JESTER COVERT OPERATIONS FIGHTER
-
 
 TL12 Tons Cost (MCr)
 Hull 25 tons, Streamlined — 1.5
@@ -4424,26 +3970,26 @@ is that it is almost too expensive to deploy. Able to
 slip through defences all but unseen, this fighter is
 often used as a first strike platform, either destroying
 
-
 important targets outright or clearing anti-shipping
 defences to pave the way for a larger fleet. The
 Jester has proved extremely capable of destroying
 surveillance satellites and drones before engaging
 its high-burn thruster to retreat in haste.
 
-
 Crew
 Pilot
 
 **Hull: 10**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr3449/month
 PURCHASE COST
-MCr41.385
 
+
+MCr41.385
 
 Power Requirements
 Basic Ship Systems
@@ -4457,6 +4003,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Reaction Drive
 3. Power Plant
@@ -4466,33 +4014,23 @@ LEGEND
 7. Improved Signal Processing
 8. Single Turret (pulse laser)
 
-
 1 square = 0.5 Ton
-
 
 8
 
-
 5 4 6 7
 
-
 3
 
-
 3
-
 
 2
 
-
 1
 
-
 1
-
 
 ### VANGUARD ASSAULT FIGHTER
-
 
 TL12 Tons Cost (MCr)
 Hull 40 tons, Streamlined — 0.5
@@ -4521,25 +4059,25 @@ craft and, to put it bluntly, provide a tough target to
 distract incoming fire. This is an exceedingly risky
 role to fulfil but the Vanguard is both manoeuvrable
 
-
 enough and tough enough to evade and absorb
 sustained attacks. Once the assault craft are able
 to engage their targets, the Vanguard can then
 provide a screen against enemy fighters.
-
 
 Crew
 Pilot, Gunner
 
 **Hull: 16**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr2604/month
 PURCHASE COST
-MCr31.25
 
+
+MCr31.25
 
 Power Requirements
 Basic Ship Systems
@@ -4553,6 +4091,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -4563,36 +4103,25 @@ LEGEND
 8. Missile Storage
 9. Airlock
 
-
 1 square = 0.5 Ton
-
 
 8
 
-
 9
-
 
 7 6
 
-
 5
-
 
 2 3 4
 
-
 1
 
-
 1
-
 
 ## THE MILITARY
 
-
 ### SPACE SURVEILLANCE BOAT
-
 
 TL12 Tons Cost (MCr)
 Hull 10 tons, Streamlined — 0.6
@@ -4619,25 +4148,25 @@ designed to be launched from a parent craft, close
 in on a target and capture as much data as possible
 on it in one pass. Mission complete, the boat then
 
-
 returns to its ship to jump from the system. This can
 be extremely dangerous work but its crews seem to
 take a perverse pleasure in the risks and often refer
 to themselves as among the best in the fleet.
-
 
 Crew
 Pilot, Sensor Operator
 
 **Hull: 4**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1363/month
 PURCHASE COST
-MCr16.355
 
+
+MCr16.355
 
 Power Requirements
 Basic Ship Systems
@@ -4649,6 +4178,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Dual Cockpit
@@ -4656,15 +4187,11 @@ LEGEND
 5. Signal Processing
 6. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1 2 6 3 5 4
 
-
 ### CARRIER SUPPORT CRAFT
-
 
 TL13 Tons Cost (MCr)
 Hull 20 tons, Standard — 1
@@ -4692,26 +4219,26 @@ one is typically on station whenever operations
 are taking place. Built to recover disabled fighters
 with a docking clamp and ejected crew via an
 
-
 airlock, this craft can be another pilot’s best friend
 in an emergency. A turret-mounted sandcaster is
 installed with the idea that recovery operations
 could take place under fire but, in practice, this
 would be exceedingly dangerous.
 
-
 Crew
 Pilot
 
 **Hull: 8**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1129/month
 PURCHASE COST
-MCr13.545
 
+
+MCr13.545
 
 Power Requirements
 Basic Ship Systems
@@ -4725,6 +4252,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -4735,36 +4264,25 @@ LEGEND
 8. Airlock
 9. Cabin Space
 
-
 1 square = 0.5 Ton
-
 
 1 2
 
-
 3
-
 
 4
 
-
 5
-
 
 6
 
-
 7
-
 
 8
 
-
 9
 
-
 ### FAST LAUNCH
-
 
 TL12 Tons Cost (MCr)
 Hull 20 tons, Streamlined — 1.2
@@ -4789,26 +4307,26 @@ mention being shot at on occasion, the fast launch
 trades cargo space for armour and speed. In most
 other respects, it functions as any other 20-ton
 
-
 launch although is notably more rugged. There is
 no little demand for this version of the launch in
 the military surplus market, as it is a more capable
 craft and yet fits neatly into docking spaces
 configured for the standard launch.
 
-
 Crew
 Pilot
 
 **Hull: 8**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr441/month
 PURCHASE COST
-MCr5.29
 
+
+MCr5.29
 
 Power Requirements
 Basic Ship Systems
@@ -4822,27 +4340,23 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
 4. Fixed Mount (beam laser)
 5. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1 2 3
 
-
 4
-
 
 5
 
-
 ### FIGHTING LAUNCH
-
 
 TL12 Tons Cost (MCr)
 Hull 20 tons, Streamlined — 1.2
@@ -4868,7 +4382,6 @@ small craft into what might be best described as a
 budget fighter. Intended for military applications,
 the fighting launch has found better sales among
 
-
 private operators, particularly those looking to
 add a real layer of defence to its parent craft.
 Fully capable of using docking spaces intended
@@ -4876,19 +4389,20 @@ for unarmed transports and lifeboats, the fighting
 launch can give a corsair a nasty surprise when
 launched from a small trader.
 
-
 Crew
 Pilot
 
 **Hull: 8**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr886/month
 PURCHASE COST
-MCr10.63
 
+
+MCr10.63
 
 Power Requirements
 Basic Ship Systems
@@ -4902,6 +4416,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -4909,26 +4425,20 @@ LEGEND
 5. Fixed Mount (pulse laser)
 6. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1 2 3 4
 
-
 5
-
 
 6
 
-
 ### COVERT INSERTION BOAT
-
 
 TL13 Tons Cost (MCr)
 Hull 40 tons, Streamlined — 2.4
 Stealth (enhanced) — 20
-M-Drive Thrust 5 (energy efficient x2) 2 5
+M-Drive Thrust5 (energy efficient x2) 2 5
 Power Plant Fusion (TL12), Power 30 2 2
 Fuel Tanks 8 weeks of operation 0.4 —
 Bridge Holographic Controls 3 0.625
@@ -4952,26 +4462,26 @@ boat is a spy craft, plain and simple. Extremely
 simple to build, its advanced stealth systems
 allow it to move virtually unseen through even
 
-
 advanced planetary defence networks. Its mission
 roles vary widely but include landing important
 personnel or covert strike teams on planets or
 stations, reconnaissance passes and longer term
 observation and monitoring.
 
-
 Crew
 Pilot
 
 **Hull: 16**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr4894/month
 PURCHASE COST
-MCr58.725
 
+
+MCr58.725
 
 Power Requirements
 Basic Ship Systems
@@ -4983,6 +4493,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -4993,41 +4505,29 @@ LEGEND
 8. Cabin Space
 9. Cargo Hold
 
-
 1 square = 0.5 Ton
 
+1
 
 1
 
-
-1
-
-
 2
 
-
 2
-
 
 3
 4
 
-
 5
-
 
 6
 7 7
 
-
 8
-
 
 9
 
-
 ### SEW BOAT
-
 
 TL15 Tons Cost (MCr)
 Hull 40 tons, Standard — 2
@@ -5060,7 +4560,6 @@ intended to hang back from the frontline of battle
 and provide electronic warfare support to squadrons,
 allowing them to concentrate on their own primary
 
-
 roles. As such, it will be launched alongside fighters
 on strike or carrier defence missions or other small
 craft performing raids, such as assault boats. The
@@ -5068,20 +4567,21 @@ SEW boat has extremely advanced electronics but
 has a massive price tag to match and is only in
 service with the most well-funded navies.
 
-
 Crew
 Pilot, Sensor
 Operators x2
 
 **Hull: 16**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr9565/month
 PURCHASE COST
-MCr114.775
 
+
+MCr114.775
 
 Power Requirements
 Basic Ship Systems
@@ -5095,6 +4595,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -5105,41 +4607,29 @@ LEGEND
 8. Airlock
 9. Common Area
 
-
 1 square = 0.5 Ton
 
-
 1
 
-
 1
-
 
 2
 
-
 3
 
-
 4
 
-
 4
-
 
 5
-
 
 6
 7
 8
 
-
 9
 
-
 ### STRIKE BOAT
-
 
 TL15 Tons Cost (MCr)
 Hull 40 tons, Streamlined — 2.4
@@ -5170,26 +4660,26 @@ engagement range to launch waves of missiles
 before defenders can effectively intercept it. With
 a canny commanding officer masterminding the
 
-
 engagement, the sheer speed of the strike boat
 can make it all but impossible to properly counter,
 with defending forces typically using their own
 missiles to drive it off temporarily before it returns
 having out-ranged the attack.
 
-
 Crew
 Pilot, Gunner
 
 **Hull: 16**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr4265/month
 PURCHASE COST
-MCr51.175
 
+
+MCr51.175
 
 Power Requirements
 Basic Ship Systems
@@ -5203,6 +4693,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -5214,42 +4706,29 @@ LEGEND
 9. Cabin Space
 10. Cargo Hold
 
-
 1 square = 0.5 Ton
 
-
 1
 
-
 1
-
 
 2 3 4
 
-
 5
 
-
 6
 
-
 6
-
 
 7
 
-
 8
-
 
 9
 
-
 10
 
-
 ### SYSTEM DEFENCE ROCK
-
 
 TL13 Tons Cost (MCr)
 Hull 50 tons, Buffered Planetoid 17.5 0.2
@@ -5282,7 +4761,6 @@ it is then placed in or around an asteroid belt where
 it is then able to hide amongst countless other
 floating rocks to give an invader a nasty surprise.
 
-
 Particularly rich systems may double down on
 this approach and apply a stealth coating to the
 rock’s exterior, making this craft, to all intents and
@@ -5290,19 +4768,20 @@ purposes, invisible. Even if, by some chance, the
 system defence rock is discovered before it opens
 fire, it can prove to be exceptionally tough.
 
-
 Crew
 Pilot
 
 **Hull: 30**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr2215/month
 PURCHASE COST
-MCr26.575
 
+
+MCr26.575
 
 Power Requirements
 Basic Ship Systems
@@ -5315,6 +4794,8 @@ Weapons
 4
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -5329,34 +4810,24 @@ LEGEND
 11. Cargo Hold
     1 square = 0.5 Ton
 
-
 1 2
-
 
 3
 
-
 4 5
-
 
 6
 
-
 7
 
-
 8
-
 
 11
 9
 
-
 10
 
-
 ### BOARDING SHUTTLE
-
 
 TL15 Tons Cost (MCr)
 Hull 60 tons, Standard, Reinforced — 4.5
@@ -5382,11 +4853,9 @@ Total: Mcr44.675
 The boarding shuttle is launched from warships
 to directly contact an enemy vessel and deliver a
 boarding party to neutralise it. This is an extremely
-dangerous mission and this shuttle is well-
-equipped to weather the short journey between
+dangerous mission and this shuttle is well-equipped to weather the short journey between
 ships while under heavy fire. A small amount of
 cargo space is included for any mission-specialist
-
 
 equipment needed but the primary function of the
 shuttle is getting fighting troops into an enemy
@@ -5395,19 +4864,20 @@ but it is more common for a single platoon to be
 deployed instead to avoid bottlenecks on board
 and in the breaching tube.
 
-
 Crew
 Pilot, Gunner
 
 **Hull: 26**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr3723/month
 PURCHASE COST
-MCr44.675
 
+
+MCr44.675
 
 Power Requirements
 Basic Ship Systems
@@ -5424,43 +4894,33 @@ Weapons
 ##### SHUTTLE
 
 
-
 1 square = 0.5 Ton
-
 
 1
 
-
 2
-
 
 3
 
-
 4 4
-
 
 5
 
-
 6
-
 
 7
 
-
 8
-
 
 10
 
-
 9
-
 
 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -5473,9 +4933,7 @@ LEGEND
 9. Acceleration Benches
 10. Cargo Hold
 
-
 ### CARGO TRANSPORT
-
 
 TL15 Tons Cost (MCr)
 Hull 70 tons, Streamlined, Reinforced — 6.3
@@ -5497,13 +4955,11 @@ Evade/2 — 2
 Cargo 39 —
 Total: MCr35.251
 
-While military forces (both naval and ground-
-based) use cutters, pinnaces and ship’s boats to
+While military forces (both naval and ground-based) use cutters, pinnaces and ship’s boats to
 deliver cargo, units operating in hostile territories
 require something a lot tougher that can survive
 a few knocks. Although not desirable, the cargo
 transport can (in theory) land while under fire and
-
 
 has modest weaponry to defend itself. However,
 in practice, it will be well-escorted if an attack
@@ -5512,19 +4968,20 @@ exist, replacing 32 tons of the cargo space with
 acceleration benches (carrying 128 personnel), a
 conversion that costs an additional Cr80000.
 
-
 Crew
 Pilot, Gunner
 
 **Hull: 30**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr2938/month
 PURCHASE COST
-MCr35.251
 
+
+MCr35.251
 
 Power Requirements
 Basic Ship Systems
@@ -5540,37 +4997,29 @@ Weapons
 
 ##### TRANSPORT
 
-
 1 square = 0.5 Ton
-
 
 1 1
 
-
 2 2
-
 
 3
 
-
 4
-
 
 5
 
-
 6 6
-
 
 7
 
-
 8 8
-
 
 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -5582,9 +5031,7 @@ LEGEND
 8. Cabin Space
 9. Cargo Hold
 
-
 ### PLANETARY ASSAULT BARGE
-
 
 TL15 Tons Cost (MCr)
 Hull 90 tons, Sphere, Reinforced — 7.425
@@ -5613,13 +5060,11 @@ is intended to make a very short journey from a
 carrier vessel to the upper atmospheric reaches of
 a hostile world. Once in position, it will disgorge its
 
-
 stock of assault capsules, dropping well-armed
 marines directly to the planet’s surface before
 defenders can make any reasonable response.
 While cramped, a single barge can deploy a
 decent-sized platoon in this fashion.
-
 
 Crew
 Pilot, Gunner,
@@ -5627,13 +5072,15 @@ Marines x32
 
 **Hull: 39**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr3766/month
 PURCHASE COST
-MCr45.188
 
+
+MCr45.188
 
 Power Requirements
 Basic Ship Systems
@@ -5650,35 +5097,28 @@ Weapons
 ##### ASSAULT BARGE
 
 
-
 1 square = 0.5 Ton
 
-
 1 2 1
-
 
 3
 4 4
 
-
 5
-
 
 6 6
 
-
 7
-
 
 8
 
-
 9
-
 
 9 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -5694,16 +5134,14 @@ DECK 1
 
 DECK 2
 
-
 ### SYSTEM DEFENCE CRAFT
-
 
 TL15 Tons Cost (MCr)
 Hull 95 tons, Standard, Reinforced — 7.125
 Radiation Shielding — 2.375
 Reflec — 9.5
 Armour Bonded Superdense, Armour: 15 22.8 11.4
-M-Drive Thrust 6 (energy efficient) 5.7 12.54
+M-Drive Thrust6 (energy efficient) 5.7 12.54
 Power Plant Fusion (TL15), Power 80 4 8
 Emergency Power System 0.4 0.8
 Fuel Tanks 16 weeks of operation 1.6 —
@@ -5731,12 +5169,10 @@ a defence fleet or engage much larger targets
 than itself and deliver much more damage than it
 receives. A lot of this capability comes down to its
 
-
 thick armour but multiple systems and software
 suites contribute to its ultimate effectiveness. If a
 squadron of system defence craft are operating in a
 system, pirates and corsairs should be wary.
-
 
 Crew
 Pilot, Gunners x2,
@@ -5744,13 +5180,15 @@ Sensor Operator
 
 **Hull: 42**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr9418/month
 PURCHASE COST
-MCr113.015
 
+
+MCr113.015
 
 Power Requirements
 Basic Ship Systems
@@ -5766,55 +5204,41 @@ Weapons
 
 ##### CRAFT
 
-
 1 square = 0.5 Ton
-
 
 1
 
-
 2
-
 
 3
 
-
 4
-
 
 5
 
-
 6
 
-
 6
-
 
 7
 
-
 8
 
-
 8
-
 
 13
 
-
 12 12
-
 
 11
 
-
 10
-
 
 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -5830,12 +5254,9 @@ LEGEND
 12. Stateroom
 13. Common Area
 
-
 ## LUXURY CRAFT
 
-
 ### RUNABOUT
-
 
 TL15 Tons Cost (MCr)
 Hull 15 tons, Streamlined — 0.9
@@ -5862,7 +5283,6 @@ to move so few people around a star system.
 However, it does have practical value too, as it
 is small enough to fit into any hangar and most
 
-
 docking spaces, even if they were not designed
 specifically for it, as well as being capable of
 landing in almost any territory. This makes it a
@@ -5870,19 +5290,20 @@ perfect craft to move a small group around a star
 system at speed, even if things can get a little
 cramped at times.
 
-
 Crew
 Pilot
 
 **Hull: 6**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr817/month
 PURCHASE COST
-MCr9.805
 
+
+MCr9.805
 
 Power Requirements
 Basic Ship Systems
@@ -5894,6 +5315,8 @@ Sensors
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Power Plant
 3. Bridge
@@ -5902,33 +5325,23 @@ LEGEND
 6. Cabin Space
 7. Cargo Hold
 
-
 1 square = 0.5 Ton
-
 
 1
 
-
 7
-
 
 6
 
-
 5
-
 
 4
 
-
 3
-
 
 2
 
-
 ### PROTECTIVE SHUTTLE
-
 
 TL12 Tons Cost (MCr)
 Hull 50 tons, Streamlined, Reinforced — 4.5
@@ -5962,25 +5375,25 @@ to another, this shuttle is extremely tough and
 given many systems intended to cope with any
 conceivable emergency, the absolute priority being
 
-
 to deliver the passengers in one piece, whatever
 the circumstances. In use, the protective shuttle
 will usually be protected by a flight of other small
 craft, usually fighters or gunboats.
-
 
 Crew
 Pilot, Gunner
 
 **Hull: 22**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr2775/month
 PURCHASE COST
-MCr33.295
 
+
+MCr33.295
 
 Power Requirements
 Basic Ship Systems
@@ -5998,7 +5411,6 @@ Medical Bay
 
 ##### SHUTTLE
 
-
 1 square = 0.5 Ton LEGEND
 
 1. Manoeuvre Drive
@@ -6015,47 +5427,33 @@ Medical Bay
 12. Cabin Space
 13. Cargo Hold
 
-
 13
-
 
 12
 
-
 11
-
 
 10
 
-
 9 8
-
 
 7
 
-
 6
-
 
 2 3 4 5
 
-
 1
 
-
 1
-
 
 ### PRESSURISED YACHT
-
 
 TL12 Tons Cost (MCr)
 Hull 60 tons, Streamlined, Pressure
 Hull
 
-
 15 36
-
 
 Aerofins 3 0.3
 Armour Armour: 4 — —
@@ -6084,25 +5482,25 @@ the usual pleasure travelling expected by its owners
 but adds one new dimension – with its pressurised
 hull, it can extend tours into the atmospheres of gas
 
-
 giants and, more commonly, the depths of planetary
 oceans. Craft like these are often seen in the
 skies and seas of advanced water worlds, but also
 moons sporting liquid oceans other than water.
-
 
 Crew
 Pilot, Steward
 
 **Hull: 24**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr4130/month
 PURCHASE COST
-MCr49.56
 
+
+MCr49.56
 
 Power Requirements
 Basic Ship Systems
@@ -6116,10 +5514,11 @@ Sensors
 
 ##### YACHT
 
-
 1 square = 0.5 Ton
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -6133,42 +5532,29 @@ LEGEND
 10. Gourmet Kitchen
 11. Cargo Hold
 
-
 11
-
 
 10
 
-
 9
-
 
 8
 
-
 7
-
 
 6
 
-
 5
-
 
 4
 
-
 3
-
 
 2
 
-
 1
 
-
 ### IN-SYSTEM SAILING YACHT
-
 
 TL9 Tons Cost (MCr)
 Hull 80 tons, Streamlined — 4.8
@@ -6198,24 +5584,24 @@ is more a rich noble’s toy as there are obviously
 far cheaper (not to mention faster) ways of getting
 around a system. However, for one person and
 
-
 their entourage taking a pleasure cruise, there are
 few finer vessels for seeing planetary sights while
 enjoying the majesty of the large solar sails.
-
 
 Crew
 Pilot, Steward
 
 **Hull: 32**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr1684/month
 PURCHASE COST
-MCr20.21
 
+
+MCr20.21
 
 Power Requirements
 Basic Ship Systems
@@ -6231,7 +5617,6 @@ Biosphere
 
 ##### SAILING YACHT
 
-
 1 square = 0.5 Ton
 
 DECK 1
@@ -6241,6 +5626,8 @@ DECK 2
 DECK 3
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Solar Sails
@@ -6256,54 +5643,37 @@ LEGEND
 12. Gourmet Kitchen
 13. Cargo Hold
 
-
 13
-
 
 12
 
+11
 
 11
 
-
 11
 
-
 11
-
-
-11
-
 
 10
 
-
 9 9
-
 
 8
 
-
 7
-
 
 6
 
-
 3 4 5
 
-
 2
 
-
 2
-
 
 1
 
-
 ### LUXURY SHUTTLE
-
 
 TL12 Tons Cost (MCr)
 Hull 90 tons, Streamlined — 5.5
@@ -6334,7 +5704,6 @@ best viewed as a non-jump-capable yacht, with
 fittings and facilities to match. Although possessing
 decent performance to get the busy executive
 
-
 where they need to be on time, it is intended to
 provide a means of travel in absolute comfort
 while marvelling at the sights a system has to
@@ -6342,19 +5711,20 @@ offer. As such, when not berthed at a starport, a
 luxury shuttle can often be seen in close orbit of
 interesting moons, planets and gas giants.
 
-
 Crew
 Pilot, Steward
 
 **Hull: 36**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr2361/month
 PURCHASE COST
-MCr28.33
 
+
+MCr28.33
 
 Power Requirements
 Basic Ship Systems
@@ -6368,7 +5738,6 @@ Sensors
 
 ##### SHUTTLE
 
-
 1 square = 0.5 Ton
 
 DECK 1
@@ -6378,6 +5747,8 @@ DECK 2
 DECK 3
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -6391,48 +5762,33 @@ LEGEND
 10. Gourmet Kitchen
 11. Cargo Hold
 
-
 11
-
 
 9 10
 
-
 9
 
-
 9
-
 
 8
 
-
 7
-
 
 6
 
-
 5
-
 
 4
 
-
 3
-
 
 2
 
-
 1
-
 
 ## THE ASLAN
 
-
 ### YEAWEL LIGHT FIGHTER
-
 
 TL11 Tons Cost (MCr)
 Hull 8 tons, Streamlined — 0.48
@@ -6456,25 +5812,25 @@ frontier regions of the Hierate and, given the skills
 of its pilots, still respected by opposing navies.
 Whereas it used to be a frontline combat craft, the
 
-
 Yeawel is more commonly seen today on patrol,
 escort and planetary defence duties than filling the
 fighter bays of a carrier. Nonetheless, it is a foolish
 crew that ignores a flight of these fighters.
-
 
 Crew
 Pilot
 
 **Hull: 4**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr608/month
 PURCHASE COST
-MCr7.29
 
+
+MCr7.29
 
 Power Requirements
 Basic Ship Systems
@@ -6486,22 +5842,19 @@ Sensors
 Weapons
 0
 
-
 5
-
 
 4
 
-
 3
 
-
 2
-
 
 1
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -6509,12 +5862,9 @@ LEGEND
 4. Sensors
 5. Fixed Mount (missile rack)
 
-
 1 square = 0.5 Ton
 
-
 ### KHUILRAKH LIGHT FIGHTER
-
 
 TL13 Tons Cost (MCr)
 Hull 10 tons, Streamlined — 0.6
@@ -6539,23 +5889,24 @@ and unsophisticated, as demanded by its warrior
 pilots. It is noted for being faster than its human
 equivalents and capable of space and aerospace
 
-
 operations alike. The Khuilrakh has gained a
 reputation for being exceptionally tough and has
 been responsible for more than one Aslan warrior
 attaining great renown in the Hierate.
-
 
 Crew
 Pilot
 
 **Hull: 4**
 
-
 Running Costs
 MAINTENANCE COST
+
+
 Cr928/month
 PURCHASE COST
+
+
 MCr11.13
 
 
@@ -6570,6 +5921,8 @@ Weapons
 3
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -6630,8 +5983,7 @@ will undertake. In practice, this craft does indeed
 
 perform armed reconnaissance missions but
 Aslan warriors very much actively look for targets
-of opportunity, a function the Yaeai is well-
-equipped to take advantage of.
+of opportunity, a function the Yaeai is well-equipped to take advantage of.
 
 
 Crew
@@ -6642,8 +5994,12 @@ Pilot, Marines x10
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr2522/month
 PURCHASE COST
+
+
 MCr30.26
 
 
@@ -6665,6 +6021,8 @@ Weapons
 
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -6761,8 +6119,12 @@ Pilot, Marines x4
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr2007/month
 PURCHASE COST
+
+
 MCr18.88
 
 
@@ -6782,6 +6144,8 @@ Weapons
 
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -6887,8 +6251,12 @@ Pilot, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr2609/month
 PURCHASE COST
+
+
 MCr31.305
 
 
@@ -6908,6 +6276,8 @@ Weapons
 
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -7010,8 +6380,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr751/month
 PURCHASE COST
+
+
 MCr9.01
 
 
@@ -7050,6 +6424,8 @@ Weapons
 7
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -7099,8 +6475,7 @@ fighter from the Sword Worlds but pragmatism has
 kept it in service in some planetary bombardment
 squadrons. More of a ‘super jet’ than a true
 space fighter, the Baldr is dedicated to the
-ground strike role, using an array of underwing-
-mounted weaponry to destroy vehicles, infantry
+ground strike role, using an array of underwing-mounted weaponry to destroy vehicles, infantry
 
 
 concentrations and static targets. Its big reaction
@@ -7119,8 +6494,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr637/month
 PURCHASE COST
+
+
 MCr7.641
 
 
@@ -7155,6 +6534,8 @@ Weapons
 7 7
 
 LEGEND
+
+
 
 1. Reaction Drive
 2. High-Burn Thrusters
@@ -7216,8 +6597,12 @@ Pilot, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr3709/month
 PURCHASE COST
+
+
 MCr44.51
 
 
@@ -7264,6 +6649,8 @@ Weapons
 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Reaction Drive
@@ -7328,8 +6715,12 @@ Pilot, Gunner
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr3116/month
 PURCHASE COST
+
+
 MCr37.39
 
 
@@ -7376,6 +6767,8 @@ Weapons
 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -7433,8 +6826,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr71/month
 PURCHASE COST
+
+
 MCr0.854
 
 
@@ -7507,8 +6904,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr2052/month
 PURCHASE COST
+
+
 MCr24.625
 
 
@@ -7544,6 +6945,8 @@ Weapons
 7
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Reaction Drive
@@ -7597,8 +7000,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr1182/month
 PURCHASE COST
+
+
 MCr14.18
 
 
@@ -7632,6 +7039,8 @@ Weapons
 
 LEGEND
 
+
+
 1. Manoeuvre Drive
 2. Reaction Drive
 3. Power Plant
@@ -7646,7 +7055,7 @@ LEGEND
 TL12 Tons Cost (MCr)
 Hull 40 tons, Streamlined — 2.4
 Armour Crystaliron, Armour: 4 4.8 0.96
-M-Drive Thrust 5 (energy efficient) 2 4.4
+M-Drive Thrust5 (energy efficient) 2 4.4
 Power Plant Fusion (TL12), Power 30 2 2
 Fuel Tanks 8 weeks of operation 0.4 —
 Bridge 3 0.5
@@ -7687,8 +7096,12 @@ Pilot, Marines x10
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr1823/month
 PURCHASE COST
+
+
 MCr21.87
 
 
@@ -7718,6 +7131,8 @@ Weapons
 (^67)
 9 8
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -7776,8 +7191,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr1377/month
 PURCHASE COST
+
+
 MCr16.526
 
 
@@ -7801,6 +7220,8 @@ Weapons
 6
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -7856,8 +7277,12 @@ Pilot
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4108/month
 PURCHASE COST
+
+
 MCr49.3
 
 
@@ -7895,6 +7320,8 @@ Sensors
 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -7957,8 +7384,12 @@ Pilot, Sensor Operator
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr3823/month
 PURCHASE COST
+
+
 MCr45.87
 
 
@@ -7995,6 +7426,8 @@ Weapons
 10
 9
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -8062,8 +7495,12 @@ Pilot, Scientists x3
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr3089/month
 PURCHASE COST
+
+
 MCr37.07
 
 
@@ -8131,6 +7568,8 @@ Sensors
 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant
@@ -8220,8 +7659,12 @@ Pilot, Scientists x3
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr5463/month
 PURCHASE COST
+
+
 MCr65.55
 
 
@@ -8280,6 +7723,8 @@ Sensors
 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Reaction Drive
@@ -8351,8 +7796,12 @@ Pilot, Scientists x5
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr4080/month
 PURCHASE COST
+
+
 MCr48.995
 
 
@@ -8425,6 +7874,8 @@ Medical Bay
 9
 
 LEGEND
+
+
 
 1. Manoeuvre Drive
 2. Power Plant

@@ -2,10 +2,10 @@
 date created: 2024-09-03 08:58
 date updated: 2024-09-03 09:22
 tags:
-  -Trailing_Frontier
-  -Mongoose
-  -UNFORMATTED
-  -TODO
+  - Trailing_Frontier
+  - Mongoose
+  - UNFORMATTED
+  - TODO
 ---
 
 # THE TRAILING FRONTIER
@@ -493,13 +493,7 @@ On average, Jonkeereen are tall and slender with dark skin. In addition to being
 
 There are official populations of Jonkeereen in the Trailing Frontier, often dwelling alongside normal humans and working in jobs requiring tolerance of desert conditions. It is not known how many Jonkeereen have quietly drifted away from the places they were settled and created their own unofficial communities. Their ability to survive in the harshest of environments has at times enabled them to simply walk away from the technological assistance it was assumed they would come to rely upon. These fringe populations for the most part just want to be left alone but will trade with friendly starfarers or fight interlopers if they have to. There are also rumours of mixed victims of genetic engineering communities which welcome those who feel they have been wronged. In such places it is possible to find uplifted apes, ursa and other people engineered from animal species as well as modified humans such as Sydites, Luriani and Jonkeereen. Curiously, Vargr tend not to gravitate to such communities. The reasons for this are not known, and asking a Vargr will get only a puzzled look and an inquiry as to why someone would think they identified with misfits rather than their own kind.
 
-### THE LURIANI
-
-The Luriani are easily categorised as humans genetically adapted for an aquatic environment. As soon as inspection moves past this simplistic point, the situation becomes a lot more complex. The Luriani can mean one of two things; either people who are generically Luriani or members of the Luriani culture. The latter is actually made up of genetic Luriani plus humans of both Solomani and Vilani descent who were absorbed into their culture. Physical information relates to the Luriani race; social data applies, with some variation, to all people within the Luriani culture.
-
-The Luriani were modified by the Ancients to suit a water world. They have webbed hands and feet, and layers of fat to retain heat in cold water. Luriani also have a greater volume of blood than a human of equivalent mass and can regulate their blood supply. This enables a Luriani to reduce blood flow to less vital organs, permitting longer underwater action and even survival in an airless environment for 20–30 minutes. Luriani are considered almost capable of breeding with other humans. Without scientific assistance the chance of a child is very low but it has been known. Even with assistance, it is difficult, although partnerships of a genetic Luriani and a non-Luriani are quite common. Social convention allows for relationships outside the partnership subject to certain rules and it is considered very impolite to wonder how a particular couple produced their children.
-
-## JONKEEREEN
+### JONKEEREEN
 
 Characteristics Jonkeereen Travellers have the following modifiers to their characteristics: END +2.
 
@@ -507,19 +501,16 @@ Traits Jonkeereen Travellers all possess the following traits.
 
 Desert Survival: Jonkeereen can breathe most tainted atmospheres without a mask due to their engineered ability to filter out or tolerate most impurities. They gain DM+3 to all Survival checks in a desert or similar hot environment. This DM can also be applied at the Referee's discretion to tasks that would be impaired by desert conditions such as dust or light with a strong UV component, offsetting the difficulties imposed by such conditions.
 
+### THE LURIANI
+
+The Luriani are easily categorised as humans genetically adapted for an aquatic environment. As soon as inspection moves past this simplistic point, the situation becomes a lot more complex. The Luriani can mean one of two things; either people who are generically Luriani or members of the Luriani culture. The latter is actually made up of genetic Luriani plus humans of both Solomani and Vilani descent who were absorbed into their culture. Physical information relates to the Luriani race; social data applies, with some variation, to all people within the Luriani culture.
+
+The Luriani were modified by the Ancients to suit a water world. They have webbed hands and feet, and layers of fat to retain heat in cold water. Luriani also have a greater volume of blood than a human of equivalent mass and can regulate their blood supply. This enables a Luriani to reduce blood flow to less vital organs, permitting longer underwater action and even survival in an airless environment for 20–30 minutes. Luriani are considered almost capable of breeding with other humans. Without scientific assistance the chance of a child is very low but it has been known. Even with assistance, it is difficult, although partnerships of a genetic Luriani and a non-Luriani are quite common. Social convention allows for relationships outside the partnership subject to certain rules and it is considered very impolite to wonder how a particular couple produced their children.
+
 Luriani are extremely emotional people. Although society is extremely polite, outbursts and displays of affection are the norm. Friendships are tactile, with hugs and kisses – and an amount of snuggling-up and casual non-sexual touching that can make outsiders uncomfortable – an essential part of social interaction. Flouncing out as a way of ending an argument is something of an art form. This makes many observers believe the Luriani as individuals and as a society are unstable but this is far from the truth. Expressing emotions is healthy, and allows others to accurately gauge the seriousness of the situation. At least, those who understand the Luriani can do so. Those who ‘get it' have a chance to take appropriate action but those who do not may be alarmed and escalate the situation instead of bringing it under control.
 
 About 35% of Luriani society are not genetically Luriani but humans of either Solomani or Vilani descent. These joined the Luriani at different periods of history, making themselves useful and therefore welcome. Those of Terran descent are known as Verasti Dtareen. They tend to have a very Luriani personality and temperament, and make up a disproportionate percentage of Luriani military and naval forces. Those originally of Vilani descent are known as Mmarislusant. They tend to be less emotional than other segments of society and retain many of the trappings of traditional Vilani society. However, where the Luriani have a deep mistrust of anything Vilani – for very good historical reasons – the Mmarislusant are a trusted part of Luriani culture.
-
-### THE SYDITES
-
-The Sydites are one of the most divergent of all the human sub-species. They show clear signs of genetic engineering, being very large (2.5 metres tall on average) and possessing four arms. Sydites are unimaginative and not great thinkers, although they cannot really be described as stupid – they did manage to reach the stars and create a lasting empire, after all. However, the strangeness of the Sydite body form, plus their slab-like, ugly features, causes many humans to dismiss them as lumbering brutes. Sydites cannot interbreed with other human species or subspecies, as their genetic makeup is very different.
-
-The Sydites were modified by the Ancients as workers or perhaps expendable warriors. The project does not appear to have been a great success, however. Although the Sydites can breed true and even created a modestly powerful interstellar state, their physiology is rather awkward. The upper pair of arms is larger and more muscular and can apply greater force, whilst the lower ones are intended for fine work. However, the muscle groups that operate both sets are interlinked. As a result, it is hard for a Sydite to make movements or apply strength with the lower arms without moving the upper ones as well. Sydites have a characteristic ‘fold the lower' gesture whereby they lock their lower arms in place, gripping one another across the torso, whilst they undertake fine work with their upper hands. The same gesture is used symbolically before embarking on any task requiring concentration or thought.
-
-Small enclaves of Sydites have been founded throughout the region but for the most part they are confined to a region around their homeworld of Sopater (which is called Khuur by everyone but Sydites). This was once the capital of a considerable
-
-## LURIANI
+### LURIANI
 
 Characteristics Luriani Travellers have the following modifiers applied to their characteristics: DEX +1, END +1, SOC -2
 
@@ -529,15 +520,28 @@ Aquatic Adaptation: Trueborn Luriani can dive to a depth of 500 metres (assuming
 
 Histrionics: Members of Luriani culture (even Mmarislusant, to a lesser degree) are prone to displays of emotion and sudden outbursts. Any time a Luriani wants to conceal their feelings, DM-2 applies to any Persuade or similar checks. DM+2 applies to any situation where the Luriani wants to draw attention to themselves. This does not make them more persuasive, only more noticeable. For example, a Luriani actor could steal the scene with a sudden outpouring of emotion but that does not mean their portrayal of King Lear will impress critics.
 
-interstellar empire destroyed by the Third Imperium. It was replaced by a trade federation known as the Khuur League.
+
+
+### THE SYDITES
+
+The Sydites are one of the most divergent of all the human sub-species. They show clear signs of genetic engineering, being very large (2.5 metres tall on average) and possessing four arms. Sydites are unimaginative and not great thinkers, although they cannot really be described as stupid – they did manage to reach the stars and create a lasting empire, after all. However, the strangeness of the Sydite body form, plus their slab-like, ugly features, causes many humans to dismiss them as lumbering brutes. Sydites cannot interbreed with other human species or subspecies, as their genetic makeup is very different.
+
+The Sydites were modified by the Ancients as workers or perhaps expendable warriors. The project does not appear to have been a great success, however. Although the Sydites can breed true and even created a modestly powerful interstellar state, their physiology is rather awkward. The upper pair of arms is larger and more muscular and can apply greater force, whilst the lower ones are intended for fine work. However, the muscle groups that operate both sets are interlinked. As a result, it is hard for a Sydite to make movements or apply strength with the lower arms without moving the upper ones as well. Sydites have a characteristic ‘fold the lower' gesture whereby they lock their lower arms in place, gripping one another across the torso, whilst they undertake fine work with their upper hands. The same gesture is used symbolically before embarking on any task requiring concentration or thought.
+
+Small enclaves of Sydites have been founded throughout the region but for the most part they are confined to a region around their homeworld of Sopater (which is called Khuur by everyone but Sydites). This was once the capital of a considerable interstellar empire destroyed by the Third Imperium. It was replaced by a trade federation known as the Khuur League.
+
 
 ### Sydite Society
 
 The Sydites were never intended to think for themselves all that much. They were to be workers, not leaders, and suffered badly after being abandoned by their Ancient creators. This had the effect of naturally selecting for superior intelligence and leadership ability – as far as the Sydites possessed these traits – and kickstarted a gradual increase in intellectual capability which has never really stopped. In short, the Sydites are becoming smarter – albeit at an extremely slow rate.
 
-Organisational structures tend to be personal rather than formal. A Sydite who is a good leader will attract followers and may in turn pledge support to a higher leader. Superficially, Sydite society has a lot in common with the Vargr. However, loyalty runs deep among
+Organisational structures tend to be personal rather than formal. A Sydite who is a good leader will attract followers and may in turn pledge support to a higher leader. Superficially, Sydite society has a lot in common with the Vargr. However, loyalty runs deep among the Sydite people and support, once given, is rarely withdrawn. Sydites will carry out a task they have agreed to perform, to the death if necessary. They are fatalistic about this – if their choices lead them to disaster they will go to their doom with grim resignation.
 
-## SYDITES
+It is probable this attitude goes all the way back to the original abandonment. Those Sydites who could see what needed to be done and could get others to work with them were the literal saviours of their species. Even today a ‘leader-doer' is a figure of reverence and deep respect as Sydites know these people hold the fate of their species in their hands. This reverence may or may not be extended to outsiders who hold high rank. The Sydites cannot understand how merely being born to the right family or having a lot of money somehow makes a person admirable and someone who is not admirable is not a leader. Outsiders must earn trust and respect by their actions and few have ever done so.
+
+All organisations and communities are built according to this groups of groups model but it manifests itself in different ways depending on local conditions. Large communities or organisations can come to resemble the more formal versions used by other species but are capable of breaking down into small teams at any time. This makes Sydite society extremely resilient; so long as there is someone capable of leading there are plenty of followers willing to fatalistically get the job done, no matter the odds.
+
+### SYDITES
 
 Characteristics Sydites Travellers have the following modifiers applied to their characteristics: STR +2, END +2, DEX -2, INT -3, EDU -3.
 
@@ -549,13 +553,7 @@ Plodding Along: Sydites are unimaginative and slow to work through the process o
 
 Resilient: Sydites are big, with large and powerful muscles. This makes them more resistant to harm than most human-type species. Sydites are considered to have one point of natural armour (Protection +1) which applies against most physical damage. They are particularly resistant to electric shocks, heat and cold, and gain DM+2 on checks to avoid or reduce damage from these sources. This can be translated into an additional Protection +1 against attacks of this sort if appropriate.
 
-the Sydite people and support, once given, is rarely withdrawn. Sydites will carry out a task they have agreed to perform, to the death if necessary. They are fatalistic about this – if their choices lead them to disaster they will go to their doom with grim resignation.
-
-It is probable this attitude goes all the way back to the original abandonment. Those Sydites who could see what needed to be done and could get others to work with them were the literal saviours of their species. Even today a ‘leader-doer' is a figure of reverence and deep respect as Sydites know these people hold the fate of their species in their hands. This reverence may or may not be extended to outsiders who hold high rank. The Sydites cannot understand how merely being born to the right family or having a lot of money somehow makes a person admirable and someone who is not admirable is not a leader. Outsiders must earn trust and respect by their actions and few have ever done so.
-
-All organisations and communities are built according to this groups of groups model but it manifests itself in different ways depending on local conditions. Large communities or organisations can come to resemble the more formal versions used by other species but are capable of breaking down into small teams at any time. This makes Sydite society extremely resilient; so long as there is someone capable of leading there are plenty of followers willing to fatalistically get the job done, no matter the odds.
-
-### NON-HUMAN RACES
+## NON-HUMAN RACES
 
 Several species of sentient non-humans exist in the Trailing Frontier. Some are native to worlds in the region whilst others may have migrated or set up enclaves. Others might be encountered visiting or passing through on business.
 
@@ -571,7 +569,7 @@ Akeed stand about 75 centimetres high and can surge on their foot to a stable he
 
 Little is known about the Akeed social or governmental apparatus. Most visitors to their worlds interact with humans, however it is thought that the Akeed have underwater cities where millions or even billions reside in some unusual but harmonious way. Akeed are pleasant, social people who normally settle disputes
 
-### DEBATES AND MEDIATION
+#### DEBATES AND MEDIATION
 
 When two Akeed want to settle something they debate for hours or days, sometimes while doing other things or with breaks caused by necessary activities. The tone of such a debate may be irreverent, serious, offhand, intense or just plain silly. What seems to matter most is the ability to keep on dragging up vaguely related arguments or quibbles without straying beyond a vague and elastic limit of relevance. The Akeed that first runs out of arguments or who first mentions an argument that falls outside the bounds of relevance, loses.
 
@@ -589,7 +587,7 @@ Akeed Friendship: An Akeed may attempt to form a close bond with a human or Varg
 
 by means of long arguments that continue until someone admits defeat. They rarely allow a situation to deteriorate to the point of conflict and most actual fighting done by the Union is undertaken by the human population. While they argue among themselves in a  way that seems arbitrary and more dependent upon staying power than on actually being right, Akeed understand humans well enough to act as an effective mediator in most circumstances and are sometimes hired to help resolve disputes.
 
-**THE CAPRY (REMNANTS)**
+### THE CAPRY (REMNANTS)
 
 The Capry are native to the world now known as Basternevis in Gateway. They are bipedal and generally humanoid in appearance but covered in soft feathers and possessing a prehensile tail. This ends in a curious appendage which appears to be a cluster of brightly coloured feathers of unusual density. These feather-fingers can grip and manipulate objects, although not strongly. The tail is often used to pick up small items of food and bring them to the individual's mouth whilst they work with their two conventional hands. Capry are smaller and more lightly built than humans, typically standing around 1.4–1.6 metres high.
 
@@ -603,12 +601,6 @@ Today the Capry are extinct on their homeworld and most of the colonies have fai
 
 Many Capry find the prospect of annihilation strangely liberating; their species is doomed and there is nothing they can do about it so they experience as much of the cosmos as they are able without ties to homeworld or pressure to have children. Ever since the Capry were encountered by human explorers after the Long Night they have been known as the Remnants, as their general situation was obvious. Few know the full story, however, including many Capry.
 
-### THE DROASHAV
-
-Droashav are six-limbed pseudoreptilians found on Trevannic in Gateway. It is likely the Droashav are not native to Trevannic since there are no other six-limbed creatures on the planet and no evidence to suggest the Droashav evolved there. There are also folk tales among the Droashav of how their ancestors wandered among the stars. It is thus possible that other enclaves of Droashav exist somewhere, possibly possessing high technology and starships.
-
-Droashav stand 1.5–2 metres tall on their hind limbs, with two pairs of arms. Droashav feet are clawed and can be used in close combat. Their greeny-brown hide provides a measure of natural protection and Droashav are generally tough and uncomplaining. The majority of their population live as TL1 desert nomads, with a TL4 civilisation in the northern reaches of their planet. A few enclaves of higher-tech Droashav also exist, often in mixed communities with humans. It is not clear whether the humans brought technology to Trevannic or if the
-
 ### CAPRY
 
 Characteristics Female Capry Travellers have the following modifiers applied to their characteristics: STR-3, DEX+2, END-2, INT+1 Big Male Capry Travellers have the following modifiers applied to their characteristics: STR -1, END +1 Small Male Capry Travellers have the following modifiers applied to their characteristics: STR -4, DEX +3, END -3, EDU +2
@@ -619,17 +611,16 @@ Liberating Fatalism: The knowledge their species is doomed could cause an indivi
 
 Third Hand: All Capry can use their feather-fingers for simple tasks like eating or opening a door but they are not strong enough to wield a weapon or support the Capry's weight alone. The third hand is an assistant for the other two rather than a complexly functional appendage. Whenever a Capry can benefit from having a third hand to steady something or assist in a task – for example by holding a component in place during a delicate repair – DM+2 may be applied.
 
+### THE DROASHAV
+
+Droashav are six-limbed pseudoreptilians found on Trevannic in Gateway. It is likely the Droashav are not native to Trevannic since there are no other six-limbed creatures on the planet and no evidence to suggest the Droashav evolved there. There are also folk tales among the Droashav of how their ancestors wandered among the stars. It is thus possible that other enclaves of Droashav exist somewhere, possibly possessing high technology and starships.
+
+Droashav stand 1.5–2 metres tall on their hind limbs, with two pairs of arms. Droashav feet are clawed and can be used in close combat. Their greeny-brown hide provides a measure of natural protection and Droashav are generally tough and uncomplaining. The majority of their population live as TL1 desert nomads, with a TL4 civilisation in the northern reaches of their planet. A few enclaves of higher-tech Droashav also exist, often in mixed communities with humans. It is not clear whether the humans brought technology to Trevannic or if the
+
+
 Droashav somehow developed a small technological base without distributing it. Droashav items tend to be optimised for them rather than for humans, suggesting at least some of their tech is homegrown or derived from remnants of a fallen civilisation.
 
 It is suspected by some scientists that the Droashav might be related to the K'Kree in some way, since they have a similar six-limbed physiology. Others have gone as far as to suggest the Droashav are the original G'naak thought to have been exterminated by the K'Kree. If so, the Lords of Thunder would make it a priority to find and destroy the last of their ancient foes. How the Droashav escaped the genocidal campaign of the K'Kree remains a mystery, with most proponents of the theory suggesting generation ships of some kind.
-
-### THE FAAR
-
-The Faar are native to Alphaaric in the Gateway sector. They are, broadly speaking, humanoid but are clearly not related to Humaniti in any way. Coming from a high-gravity world, the Faar are squat blocks of muscle and heavy bone who only rarely reach a height of 1.7 metres, 1.5 metres being the average for males and females alike. They are otherwise humanoid but their internal structure is subtly different. In particular, Faar hips and shoulders are constructed differently to those of humans. Faar have very pale skin and no body hair of any kind, and their eyes are also very pale, usually blue or green. They are warm-blooded, bear live young and have two sexes.
-
-The Faar have a high-technology society but are content to remain on their homeworld. Individual Faar do travel, for example to deal personally with a business matter, but as a species they have no interest in space or interstellar travel. Some, who claim to have insider knowledge, say the Faar are deeply frightened of something ‘out there' and seek to hide on their world rather than confront the terrifying mysteries of the universe. Faar are not particularly talkative and away from Alphaaric become even more close-mouthed and single-minded about their business, as if they cannot wait to get home.
-
-Faar technology is greatly superior to most of that available in Gateway. They trade electronics and recreational technology with a few select groups, mainly traders from the Galian Federation. They
 
 ### DROASHAV
 
@@ -640,26 +631,16 @@ Traits Droashav Travellers all possess the following Traits.
 Natural Defences: All Droashav gain Protection
 +1 due to their tough hide and generally resilient nature. They can use their claws in close combat to deliver 1D+2 damage.
 
-never sell weapon systems or starship components. Technology is generally geared towards supporting a comfortable and pleasant lifestyle. Outsiders who have visited Alphaaric claim the Faar are a hedonistic people, with a great love of art, music and theatre, who spend as much time as possible enjoying themselves. They are said to work very efficiently to get work done, so they can get on with the serious business of enjoying life to the full.
+
+### THE FAAR
+
+The Faar are native to Alphaaric in the Gateway sector. They are, broadly speaking, humanoid but are clearly not related to Humaniti in any way. Coming from a high-gravity world, the Faar are squat blocks of muscle and heavy bone who only rarely reach a height of 1.7 metres, 1.5 metres being the average for males and females alike. They are otherwise humanoid but their internal structure is subtly different. In particular, Faar hips and shoulders are constructed differently to those of humans. Faar have very pale skin and no body hair of any kind, and their eyes are also very pale, usually blue or green. They are warm-blooded, bear live young and have two sexes.
+
+The Faar have a high-technology society but are content to remain on their homeworld. Individual Faar do travel, for example to deal personally with a business matter, but as a species they have no interest in space or interstellar travel. Some, who claim to have insider knowledge, say the Faar are deeply frightened of something ‘out there' and seek to hide on their world rather than confront the terrifying mysteries of the universe. Faar are not particularly talkative and away from Alphaaric become even more close-mouthed and single-minded about their business, as if they cannot wait to get home.
+
+Faar technology is greatly superior to most of that available in Gateway. They trade electronics and recreational technology with a few select groups, mainly traders from the Galian Federation. They never sell weapon systems or starship components. Technology is generally geared towards supporting a comfortable and pleasant lifestyle. Outsiders who have visited Alphaaric claim the Faar are a hedonistic people, with a great love of art, music and theatre, who spend as much time as possible enjoying themselves. They are said to work very efficiently to get work done, so they can get on with the serious business of enjoying life to the full.
 
 The Alphaaric system is also home to a sizeable human population, who live in an orbital city named Faarview. Faarview orbits Mashan, the system's primary gas giant, rather than Farr itself. Although only a short hop by interplanetary shuttle, most visitors do not go to Alphaaric itself but meet with humans and Faar representatives on Faarview.
-
-### UPLIFTED SPECIES
-
-A number of species of Terran animal have been uplifted to full sentience, mostly by Solomani scientists during the Rule of Man. As the Rule of Man collapsed into the Long Night, colonies founded with the assistance of these species went their own way and in some cases the uplifted species came to be the dominant sentient species on a particular planet. In other cases, the uplifted beings created their own society away from humans, and occasionally truly integrated civilisations were created.
-
-While the uplifted species retain the physical characteristics of their parent species, they now breed true, and are generally as intelligent as any human. Some social characteristics carry over from the animal instincts of the uplifted species but for the most part they have fully developed societies adapted to their local conditions.
-
-The Solomani are known to have also attempted genetic manipulation of humans beyond what was necessary to fit them to harsh environments. Reports of a gene war between humans and some sort of ‘supermen' persist, although even within the Solomani Confederation little is known about exactly what happened, outside of secret government archives. It is thought the Solomani became nervous of any species that could replace or supplant humans in their normal environment – the so-called
-‘supermen', the Apes and the Ursa, among others – and took steps to eradicate them. These efforts were not 100 percent successful in all cases. It can be assumed the Rule of Man-era Solomani did not feel threatened by Dolphins and Orca, since these species have become quite widespread.
-
-### APES
-
-The Solomani uplifted a number of species of Terran ape to partial or full sentience. However, few communities survived the Long Night and thus ape colonies are very rare. Some may exist in a wild or primitive state in undeveloped regions of some worlds.
-
-### DOLPHINS AND ORCA
-
-Foremost among the uplifted animals were Terran dolphins. A number of worlds still have large numbers of dolphins living in their seas, sometimes integrated with an aquatic or semi-aquatic human society. Dolphins like most humans but tend to react badly to Luriani. Most cannot explain why; they simply feel a subconscious discomfort in the presence of Luriani people. Luriani do not feel any such emotion, although
 
 ### FAAR
 
@@ -671,17 +652,33 @@ Closed Book: Away from home, Faar are taciturn and rather unfriendly. They are d
 
 Homesickness: A Faar who must spend any time away from home, even at Faarview, is prone to bouts of intense homesickness. Every 2D days they must make an Average (8+) END check or fall into melancholy. This applies a blanket DM-1 to all tasks not connected with immediate danger or survival. The homesickness lasts 1D days.
 
-some find dolphin voices incredibly irritating and their sonar songs inane. Dolphins normally live in large extended-family groups and are prone to wandering around the seas of their homeworlds. They naturally find it rather difficult to travel offworld, although special travel tanks are available to those who have to undertake a journey.
+
+### UPLIFTED SPECIES
+
+A number of species of Terran animal have been uplifted to full sentience, mostly by Solomani scientists during the Rule of Man. As the Rule of Man collapsed into the Long Night, colonies founded with the assistance of these species went their own way and in some cases the uplifted species came to be the dominant sentient species on a particular planet. In other cases, the uplifted beings created their own society away from humans, and occasionally truly integrated civilisations were created.
+
+While the uplifted species retain the physical characteristics of their parent species, they now breed true, and are generally as intelligent as any human. Some social characteristics carry over from the animal instincts of the uplifted species but for the most part they have fully developed societies adapted to their local conditions.
+
+The Solomani are known to have also attempted genetic manipulation of humans beyond what was necessary to fit them to harsh environments. Reports of a gene war between humans and some sort of ‘supermen' persist, although even within the Solomani Confederation little is known about exactly what happened, outside of secret government archives. It is thought the Solomani became nervous of any species that could replace or supplant humans in their normal environment – the so-called
+‘supermen', the Apes and the Ursa, among others – and took steps to eradicate them. These efforts were not 100 percent successful in all cases. It can be assumed the Rule of Man-era Solomani did not feel threatened by Dolphins and Orca, since these species have become quite widespread.
+
+#### APES
+
+The Solomani uplifted a number of species of Terran ape to partial or full sentience. However, few communities survived the Long Night and thus ape colonies are very rare. Some may exist in a wild or primitive state in undeveloped regions of some worlds.
+
+#### DOLPHINS AND ORCA
+
+Foremost among the uplifted animals were Terran dolphins. A number of worlds still have large numbers of dolphins living in their seas, sometimes integrated with an aquatic or semi-aquatic human society. Dolphins like most humans but tend to react badly to Luriani. Most cannot explain why; they simply feel a subconscious discomfort in the presence of Luriani people. Luriani do not feel any such emotion, although some find dolphin voices incredibly irritating and their sonar songs inane. Dolphins normally live in large extended-family groups and are prone to wandering around the seas of their homeworlds. They naturally find it rather difficult to travel offworld, although special travel tanks are available to those who have to undertake a journey.
 
 Solomani engineers also uplifted a large number of Orca for much the same reasons as dolphins. Orca are less friendly than dolphins and tend to live apart from humans. They are in general not unwilling to co-operate with land-dwelling creatures but neither do they have much interest in developing relations with non-aquatic beings. Orca get along as well with Luriani humans as with any others – in other words, they are only distantly courteous but have no natural antipathy.
 
-### URSA
+#### URSA
 
 Uplifted from the Terran brown bear, Ursa are large and powerful but few in number. Adapted for colonisation of high-gravity worlds, the Ursa have a particularly unfortunate history. Feeling the Ursa project was a dead end, the Solomani corporation GenAssist closed down its operations and attempted to terminate all specimens. Some Ursa escaped and rescued many of their kind, but the slaughter of around 80% of their species has left an indelible mark upon the Ursa. Most just want to be left alone to live in small communities in the countryside.
 
 Ursa enclaves are ruled by family elders, who would be considered quite young by humans. Ursa live relatively brief lives; another tragedy resulting from their unusual origins. Ursa seem rather stern and intimidating to outsiders and they do not give their trust lightly. However, once befriended they are loyal and – perhaps surprisingly – jovial and fun-loving. Perhaps as a reaction to the ease with which they can deal out violence, Ursa are great craftsmen and love to make fine things. They take great joy in jobs that let them create something, which can range from farming through carpentry to naval architecture, but they intensely dislike to destroy anything.
 
-### URSA
+#### URSA
 
 Characteristics Ursa Travellers have the following modifiers applied to their characteristics: STR +4, END +2
 
@@ -697,24 +694,23 @@ Technically, the Vargr are another uplifted species but the engineering that tur
 
 Vargr in Gateway tend to have shorter, flatter snouts than their cousins to coreward. Fur is predominantly sandy or tawny. Pure black Vargr are rare anywhere and in Gateway they are almost unheard-of. The Vargr in Gateway have no overall political structure. They are members of whatever society exists on their home worlds and owe allegiance to their local and planetary rulers with no considerations of species.
 
-### ARE WANDERERS A MAJOR RACE?
-
-The commonly accepted facts about the Wandering People are inaccurate or just plain wrong. The Wanderers actually originated in the Trailing Frontier. Like the Luriani they built huge sublight vessels and sent them out to explore and expand across the cosmos. These distant communities survived the destruction of the Wanderers' homeworld by the Vilani Imperium. It is widely believed the Vilani found the Wanderers had developed a jump drive superior to their own and eliminated the Wanderers as a potential threat. If this were true it would make the Wanderers a Major Race but the reality is quite different.
-
-Exactly what happened between the early Vilani explorers and the Wandering People is lost to history but it is now thought the Vilani expeditionary force which met with disaster in the region was launched in response to some incident. It is likely a Vilani official overreacted to an event or perhaps panicked upon finding the Wanderers on multiple worlds. Perhaps this is the origin of the myth that the Wanderers invented the jump drive. Whatever the reason, the Wanderers' civilisation was exterminated in a savage war.
-
-A few survivors escaped, using jump drives taken from disabled Vilani Imperium ships. They eventually found others of their kind and taught them how to build their own drives. It is not known how many enclaves of the Wandering People exist, or if any of the original sublight worldships are still active, but a number of their sublight super-vessels have been encountered in Gateway and Ley.
-
 ### THE WANDERING PEOPLE
 
-The name used by the Wandering People, or Wanderers, for themselves is unpronounceable by humans but is thought to translate as the usual
-'thinking people' or 'us'. Humans have applied the label Wanderer and the Wandering People do not seem to care. Their insectoid origins are obvious and the way their bodies are constructed results in a way of moving that constantly surprises and seems wrong to human observers. Their language is also rather difficult to translate. As a result, most Wanderers that interact with humans adopt a common human name like Bob, Alice or Eneri rather than attempting to translate their own.
+The name used by the Wandering People, or Wanderers, for themselves is unpronounceable by humans but is thought to translate as the usual 'thinking people' or 'us'. Humans have applied the label Wanderer and the Wandering People do not seem to care. Their insectoid origins are obvious and the way their bodies are constructed results in a way of moving that constantly surprises and seems wrong to human observers. Their language is also rather difficult to translate. As a result, most Wanderers that interact with humans adopt a common human name like Bob, Alice or Eneri rather than attempting to translate their own.
 
 The Wanderers are a mysterious people, who do not discuss their society or religious beliefs (if they have any) with outsiders. Thus, what is known about them is mainly based upon observation and speculation, and may be inaccurate. It is widely thought the Wandering People entered the Gateway region around year 320 after crossing the Lesser Rift in their worldships. These are gigantic non-jump-capable vessels, each home to a large community of Wanderers. From the worldships, jump-capable vessels range across the region, trading and visiting various worlds. The Wanderers have set up a number of small enclaves on various worlds, from which they conduct trade. Humans are very rarely invited into these enclaves.
 
 Wanderer technology seems to be equivalent to Imperial TL12, although few devices have been examined by experts. The Wanderer way of doing things is very different to the approach used by humans and most other sentients. The exception is their jump drive, which is clearly derived from the original Vilani type. They do not trade their technology with anyone and are rather secretive about it.
 
 Wanderers are peaceable people who will fight in self-defence but more normally respond to threats with negotiation and/or a withdrawal. When they do fight, their warriors are ferocious and not deterred by casualties. It is thought the vast majority of Wanderers have an overwhelming sense of community and cannot bear to be isolated from their kin. However, a small proportion seem to be quite happy to leave the company of their fellows and to travel independently. These individuals are referred to as rogue Wanderers. Their motivations are largely unknown.
+
+> [!info]- ARE WANDERERS A MAJOR RACE?
+> The commonly accepted facts about the Wandering People are inaccurate or just plain wrong. The Wanderers actually originated in the Trailing Frontier. Like the Luriani they built huge sublight vessels and sent them out to explore and expand across the cosmos. These distant communities survived the destruction of the Wanderers' homeworld by the Vilani Imperium. It is widely believed the Vilani found the Wanderers had developed a jump drive superior to their own and eliminated the Wanderers as a potential threat. If this were true it would make the Wanderers a Major Race but the reality is quite different.
+> 
+> Exactly what happened between the early Vilani explorers and the Wandering People is lost to history but it is now thought the Vilani expeditionary force which met with disaster in the region was launched in response to some incident. It is likely a Vilani official overreacted to an event or perhaps panicked upon finding the Wanderers on multiple worlds. Perhaps this is the origin of the myth that the Wanderers invented the jump drive. Whatever the reason, the Wanderers' civilisation was exterminated in a savage war.
+> 
+> A few survivors escaped, using jump drives taken from disabled Vilani Imperium ships. They eventually found others of their kind and taught them how to build their own drives. It is not known how many enclaves of the Wandering People exist, or if any of the original sublight worldships are still active, but a number of their sublight super-vessels have been encountered in Gateway and Ley.
+
 
 ### WANDERING PEOPLE
 
@@ -726,13 +722,14 @@ Carapace: Wanderers' outer carapace is tough, providing Protection +1.
 
 Weird Movement: The construction of Wanderers' bodies makes the way they move unsettling to many humans. This imposes DM-2 on attempts to read body language or determine intentions by observation and interpersonal skills such as Persuade. Their apparently erratic movements can also throw off attempts to aim, imposing DM-1 to those unused to their physiology when attempting to hit a Wanderer with a ranged weapon.
 
+### THE IMPERIAL DOMAIN OF GATEWAY
+
 The Third Imperium is subdivided into Domains, each administered by an archduke. Domains are nominally four sectors in size, although in some cases part of this area lies outside the Imperial border. In such cases the archduke only has control over Imperial territory but is responsible for overseeing Imperial activities in the rest of their area of interest. This is the case with the Imperial Domain of Gateway. Only one sector, and not all of that, is actually within the Imperium. The remainder is defined as an area of archducal interest.
 
 Ley sector is mostly Imperial territory and therefore the direct responsibility of the archduke. The trailing-rimward corner of the sector lies outside the Imperial border but close enough that Imperial-based companies are highly active there and security is a major concern for the Imperial authorities. Gateway lies entirely outside the Imperium, with Imperial influence waning quickly away from the border. Similarly, the Glimmerdrift Reaches has only a few Imperial worlds at its coreward end, with a zone of economic and security interest beyond. The extent of this zone depends on political and commercial factors and can vary over time.
 
 Glimmerdrift Reaches also includes a second group of Imperial worlds but these lie on the other side of the Delphi Rift. This makes it impossible to administer these worlds from Ley. They are thus considered part of the Domain of Sylea and administered from Delphi. The remainder of Glimmerdrift Reaches, and all of Crucis Margin, are technically part of the archduke's area of interest but are too far away to receive much attention. Diplomatic missions and the occasional long-range naval expedition represent the limit of official Imperial involvement, although intelligence-gathering and private commercial activity are ongoing.
 
-### THE IMPERIAL DOMAIN OF GATEWAY
 
 It is probable that expansion into Gateway and Glimmerdrift Reaches was expected when the Domain was named, and projects aimed at pushing the borders out a few parsecs have at times been mooted. However, the Imperium reached its present borders in the region about 300 years ago and while a few worlds have applied to and joined the Imperium since, there has been little deliberate expansion in the past three centuries.
 

@@ -103,8 +103,7 @@ should have more. Different colors are play.
 useful. Traveller is designed for mature
 Paper. Scratch, lined, and graph. people who have imagination and an
 Writing Instruments. Pencils, pens, interest in the worlds of science-fiction.
-erasers, and colored markers. Traditionally, a more experienced per-
-son serves as the game referee and
+erasers, and colored markers. Traditionally, a more experienced per-son serves as the game referee and
 Optional : controls the action of the scenario.
 Other Traveller Books, Adventures, Since the referee usually needs to make
 and Supplements. some preparations before the current
@@ -124,14 +123,12 @@ There are three basic ways to play Traveller: solitaire, scenario, and campaign.
 
 Any of these three may be unsupervised (that is, without a referee; the players
 themselves administer the rules and manipulate the situation). Recommended
-instead is the refereed game, where a separate player runs the situation and admin-
-isters the rules.
+instead is the refereed game, where a separate player runs the situation and admin-isters the rules.
 The Solitaire Game: One player undertakes some journey or adventure alone. He
 or she handles the effects of the rules as the situation progresses. Solitaire is ideal
 for players who are isolated by situation or geography.
 In addition, there are many aspects ideally suited to solitaire consideration. A
-single player can spend the time generating characters, designing starships, gener-
-ating worlds and subsectors, planning situations, and mapping out ideas to use in
+single player can spend the time generating characters, designing starships, gener-ating worlds and subsectors, planning situations, and mapping out ideas to use in
 later group adventures.
 The Scenario: Several players embark on a journey or adventure together. The
 scenario resembles a science-fiction novel, in that some basic goal or purpose is
@@ -142,12 +139,10 @@ An example of a simple scenario might proceed like this: players generate
 characters (Book 1) and then look for a patron (Book 3). When they find one,
 he suggests an expedition to a world orbiting Sirius, a world reputed to be the
 source of "diamonds as big as your fist."
-In most cases, the scenario is intended to be a one-time affair, with the charac-
-ters and situation to be discarded at the adventure's end. Strangely enough, players
+In most cases, the scenario is intended to be a one-time affair, with the charac-ters and situation to be discarded at the adventure's end. Strangely enough, players
 generally become attached to their characters and usually want to continue their
 lives in further adventures. To this purpose, the campaign is designed.
-The Campaign: Several players manipulate their characters in a series of contin-
-uing, linked adventures in a consistent universe. The referee is responsible for
+The Campaign: Several players manipulate their characters in a series of contin-uing, linked adventures in a consistent universe. The referee is responsible for
 generating the basic facts of the universe before play begins. As the campaign
 unfolds. the players may range far and wide through the universe, perhaps beyond
 the referee's original boundaries. In such cases, the campaign may be temporarily
@@ -187,13 +182,11 @@ to be added to or subtracted from the die roll. Thus +4 would be added to the di
 Crucial to the continuing campaign is the referee; he or she actually creates a
 universe and then catalogs the creatures and societies which populate it. In order to
 begin, the referee creates a star map of a subsector and generates the specific details
-of the worlds within it. Initially, however, only clues (sometimes false or mis-
-leading) as to the nature of the universe are available to the players.
+of the worlds within it. Initially, however, only clues (sometimes false or mis-leading) as to the nature of the universe are available to the players.
 The referee may also indicate possible quests for characters through the use of
 rumors, barroom conversations, and so-called general knowledge. For example,
 a rumor may indicate the source of potential wealth or power; not-so-subtle clues
-may exist which could lead to devices or techniques to save the world from cata-
-clysm. The possibilities are endless.
+may exist which could lead to devices or techniques to save the world from cata-clysm. The possibilities are endless.
 In any case, the referee can make or break a campaign, as it is his imagination
 that the other players use as a springboard to adventure.
 The referee is responsible for maintaining the master maps and charts of the
@@ -229,8 +222,7 @@ with the same data as they explore and investigate the world they have travelled
 
 
 Characters are the central focus of Traveller; they are the alter-egos of the
-players, and all activity is centered on them. Each character has abilities and charac-
-teristics which define his or her actions and reactions. The character is the Traveller
+players, and all activity is centered on them. Each character has abilities and charac-teristics which define his or her actions and reactions. The character is the Traveller
 personality; the player is the person engaged in playing the game. Once a character
 is generated, he or she continues to live and adventure until killed in action, or
 until too old and decrepit to keep up.
@@ -243,8 +235,7 @@ about 18 years of age.
 Characters are generated through a series of six two-dice rolls which determine
 the basic characteristics affecting abilities
 CHARACTERISTICS and reactions. Roll two dice for each of
-Strength is both a general evalua- the characteristics given on the character-
-tion of the character's physical istics table. Record the results.
+Strength is both a general evalua- the characteristics given on the character-tion of the character's physical istics table. Record the results.
 ability, and a specific measure of Values for the generated character-
 
 ##### force which may be applied. istics may range initially from 2 to 12
@@ -259,23 +250,19 @@ Education indicates the highest may not exceed 15; they do not go below
 level of schooling attained. 1 except for the results of calamitous
 Social Standing notes the social injury or aging.
 class and level of society from Obviously, it is possible for a player to
-which the character (and his or her generate a character with seemingly un-
-family) come. satisfactory values; nevertheless, each
+which the character (and his or her generate a character with seemingly un-family) come. satisfactory values; nevertheless, each
 player should use the character as it is
-created. The experience procedures and acquired skills table offer a genuine oppor-
-tunity to enhance values, given only time and luck. Should a player truly consider
+created. The experience procedures and acquired skills table offer a genuine oppor-tunity to enhance values, given only time and luck. Should a player truly consider
 the character so poor as to be beyond help, the low survival rate of the Scout
 Service may make it the best career choice.
 The Universal Personality Profile: Characters in Traveller are precisely defined
-using the universal perspnality profile (the UPP), which expresses the basic charac-
-teristics in a specific sequence using hexadecimal (base 16) numbers. In hexa-
+using the universal perspnality profile (the UPP), which expresses the basic charac-teristics in a specific sequence using hexadecimal (base 16) numbers. In hexa-
 
 ##### decimal notation, the digits 0 through 9 are represented by the common arabic
 
 numbers: the digits 10 through 15 are represented by the letters A through F. The
 highest single digit in base 16 notation is 15 (F). Characteristics are listed as a string
-of six digits, in the order originally rolled: strength, dexterity, endurance, intelli-
-gence, education, and social standing.
+of six digits, in the order originally rolled: strength, dexterity, endurance, intelli-gence, education, and social standing.
 For example, a character who is totally average in all respects would have a UPP
 
 ##### of 777777. If, instead, the individual were highly intelligent, his UPP would be
@@ -304,12 +291,10 @@ Another school calls for the use of pseudonyms or fanciful names (for example:
 Alexander Lascelles Jamison, or Timothy Fairweather; more extremely, Seeker
 or Starkiller). As with everything in the game, the actual choice depends only on
 imagination.
-Titles: Any character with a social standing of B (1 1 ) or greater may assume his
-or her family's hereditary title. Noble titles are commonly used, even if the indi-
-vidual in not engaged in local government. At the discretion of the referee, a noble
+Titles: Any character with a social standing ofB (1 1 ) or greater may assume his
+or her family's hereditary title. Noble titles are commonly used, even if the indi-vidual in not engaged in local government. At the discretion of the referee, a noble
 may have some ancestral lands or fiefs, and may actually have some ruling power.
-A knight (social standing B) is entitled to the use of Sir (or Dame) before his
-(or her) name. Social standing C entitles the individual to the title Baron or
+A knight (social standing B) is entitled to the use of Sir (or Dame) before his (or her) name. Social standing C entitles the individual to the title Baron or
 Baroness. In lieu of this title, the individual may instead use the prefix von or haut
 or hault (denoting baronial nobility) with his or her name.
 Rank: Characters receiving commissions or promotions (as explained below)
@@ -318,8 +303,7 @@ may use their rank as part of their names, even after leaving the service or ret
 ##### Acquiring Skills And Expertise
 
 
-A newly generated character is singularly unequipped to deal with the adven-
-turing universe, having neither the expertise nor the experience necessary for the
+A newly generated character is singularly unequipped to deal with the adven-turing universe, having neither the expertise nor the experience necessary for the
 active life. In order to acquire some experience, it is possible to enlist in a service.
 Enlistment: A character may choose one of the six services (Navy, Marines,
 Army, Scouts, Merchants, and Other), and attempt to enlist. The prior service table
@@ -339,8 +323,7 @@ enlist in the Navy, he would be allowed a DM of +2 (for his education). He rolls
 ##### a 3 on two dice, adds his DM of +2 to get a 5, which is insufficient to allow enlist-
 
 ment in the Navy. He has been rejected.
-Only one enlistment attempt is permitted per character. If rejected for enlist-
-ment, he must submit to the draft. Enlistment or draft is not allowed after age 18.
+Only one enlistment attempt is permitted per character. If rejected for enlist-ment, he must submit to the draft. Enlistment or draft is not allowed after age 18.
 The Draft: Should an attempt at enlistment fail, the character must submit to
 the draft. Each of the six services has a draft number; the draftee rolls one die, and
 
@@ -348,8 +331,7 @@ the draft. Each of the six services has a draft number; the draftee rolls one di
 enters the service with that draft number. Note that it is possible for a character to
 be drafted into the very service which had just previously rejected an enlistment.
 Draftees are not eligible for commissions during their first term of service; they
-do become eligible during the second and subsequent terms of service if they re-
-enlist.
+do become eligible during the second and subsequent terms of service if they re-enlist.
 Terms of Service: Upon enlistment (or upon being drafted), a character embarks
 on a term of service lasting four years. This adds four years to the character's age.
 Each time a character reenlists, it is for an additional four year term of service.
@@ -357,8 +339,7 @@ Survival: Each term of service involves some danger; during the term, a characte
 must successfully throw his service's survival number to avoid death in the line of
 duty. Each service also has DMs which may apply. Failure to successfully achieve
 the survival throw results in death; a new character must be generated.
--Optional Rule: If the referee or player so indicates prior to character gener-
-ation, then a failure of the survival roll can be converted to injury. The character is
+-Optional Rule: If the referee or player so indicates prior to character gener-ation, then a failure of the survival roll can be converted to injury. The character is
 not dead, but instead is injured, and leaves the service (after recovery) having served
 only two years of the four year term.
 Commissions and Promotions: Each service has a commission number; in order
@@ -367,11 +348,9 @@ may apply to the throw. If the commission is achieved, the character receives ra
 level 1 in his or her service. A character may attempt to acquire a commission once
 per term of service until successful, with the exception that a draftee may not
 attempt to acquire a commission in the first term of service.
-In the same term of service that a commission is received and in each sub-
-sequent term of service, a character may attempt to be promoted. Each service
+In the same term of service that a commission is received and in each sub-sequent term of service, a character may attempt to be promoted. Each service
 has a promotion number and DMs affecting that promotion throw. If a promotion
-is achieved, the character advances to the next higher rank in the service. A charac-
-ter is eligible for one promotion per term of service.
+is achieved, the character advances to the next higher rank in the service. A charac-ter is eligible for one promotion per term of service.
 Commissions and promotions are not available in the Scout Service or in the
 Other Service.
 Skills and Training: During each term of service, a character has the opportunity
@@ -385,10 +364,8 @@ Skills are acquired by rolling on the Upon receiving a commission... .l
 acquired skills table once for each skill Upon receiving a promotion....
 allowed, using one die. There are four
 tables, each containing different general types of skills. One of the tables is chosen
-before the die is rolled, and the single die roll indicates the specific skill the charac-
-ter acquires.
-Of the four acquired' skill tables, the first three may always be used by a charac-
-ter. The fourth is available only through advanced education, and may be used only
+before the die is rolled, and the single die roll indicates the specific skill the charac-ter acquires.
+Of the four acquired' skill tables, the first three may always be used by a charac-ter. The fourth is available only through advanced education, and may be used only
 
 ##### by characters with an education characteristic of 8 or greater.
 
@@ -408,9 +385,7 @@ has no rank or promotion, scout characters do not become eligible for extra skil
 during their careers. Instead, however, scouts receive two skills for each term of
 service, including the first.
 Reenlistment: Generally, a character is free to leave the service or to remain for
-another term, depending on the individual's goals and desires. As always, the possi-
-bilities of war, peace, and other considerations loom ever-present over the charac-
-ter's career, and may force others to decide the course of the career. Each service
+another term, depending on the individual's goals and desires. As always, the possi-bilities of war, peace, and other considerations loom ever-present over the charac-ter's career, and may force others to decide the course of the career. Each service
 has a reenlistment number; in order to undertake a subsequent term of service, a
 character must throw that number or greater (no DMs are allowed). If the throw is
 not successful, reenlistment has been denied, and the person must leave the service.
@@ -433,8 +408,7 @@ ninth and even tenth terms under mandatory reenlistment.
 
 
 When a character leaves the service (for any reason), he or she is eligible for
-mustering out benefits. The two muster-
-OUT ing out tables indicate the nature of these
+mustering out benefits. The two muster-OUT ing out tables indicate the nature of these
 Per term of service.......... .I benefits: one provides travel, education,
 If rank 1 or 2............. .I and material benefits, while the other
 If rank 3 or 4............. .2 provides cash severance pay. Each table is
@@ -495,8 +469,7 @@ Aging Crisis: If, as a result of aging, a characteristic is reduced to zero, the
 
 
 saving throw of 8+ applies to avoid death (subject to a DM for the expertise of any
-attending medical skill). If the character survives, recovery is made immediately
-(under slow drug, which speeds up the body chemistry). The character ages (one die
+attending medical skill). If the character survives, recovery is made immediately (under slow drug, which speeds up the body chemistry). The character ages (one die
 equals the number of months in added age under slow drug) immediately, but also
 returns to play without delay. The characteristic which was reduced to zero auto-
 
@@ -510,6 +483,8 @@ individual is incapacitated for the number of months indicated if the basic thro
 
 AGING TABLE
 
+
+
 ##### Termofservice 4 5 6 7 8 9 10 11 12 13 14+
 
 ##### Age 34 38 42 46 50 54 58 62 66 70 74+
@@ -521,20 +496,17 @@ Intelligence ...... no effect before age 66 ...... ... -1 (9+). ,..
 Education ............... unaffected by aging ...............
 Social Standing ............... unaffected by aging ...............
 The negative number is the potential reduction in characteristic if the saving throw (on two
-dice; throw shown in parentheses) is not made. Term of service refers to the end of that num-
-bered term; age refers to the first day of the personal (physical, not chronological) year.
+dice; throw shown in parentheses) is not made. Term of service refers to the end of that num-bered term; age refers to the first day of the personal (physical, not chronological) year.
 
 
 ##### Non-Player Characters
 
 
-Sometimes (often) player-characters will encounter people not actually manipu-
-lated by a player. They may be thugs or assailants; they may be potential hirelings
+Sometimes (often) player-characters will encounter people not actually manipu-lated by a player. They may be thugs or assailants; they may be potential hirelings
 or patrons. In any case, their skills and abilities should be determined by the referee
 using the character generation procedure.
 For example, a starship captain may be looking for a crew for his ship. The
-referee would generate characters until one occurs with the required skill (naviga-
-tion, medical, etc). Generally, the first appropriate character to be generated would
+referee would generate characters until one occurs with the required skill (naviga-tion, medical, etc). Generally, the first appropriate character to be generated would
 present himself or herself for employment, and if not accepted (or considered to be
 unsuitable) a suitable delay would occur before another becomes available. As an
 alternative, the referee may simply generate a character and assign the required skill
@@ -542,10 +514,8 @@ plus a few others for variety. Similarly, the characteristics of thugs and briga
 who are menacing player-characters, or of people presenting themselves for hire,
 may be determined and recorded for use when necessary.
 Loyalty and Dedication: In most cases, non-player characters will be dependable
-and loyal (assuming the absence of bad treatment by their employers); the possi-
-bility exists, however, that a seemingly loyal non-player character has foul play at
-heart. The referee should utilize the character reaction table (in Book 3) to deter-
-mine such potential, and note such possibilities as they exist. Continued loyalty of
+and loyal (assuming the absence of bad treatment by their employers); the possi-bility exists, however, that a seemingly loyal non-player character has foul play at
+heart. The referee should utilize the character reaction table (in Book 3) to deter-mine such potential, and note such possibilities as they exist. Continued loyalty of
 non-player characters is ultimately dependent on the quality of treatment and level
 of skill of their employing player-characters.
 Character Generation: Most players new to Traveller spend some time in the
@@ -558,8 +528,7 @@ these characters for future use as non-player characters, hirelings, and other t
 The six career types generated here are general careers assumed to exist in the
 human societies within the galaxy. They can roughly be described as follows:
 Navy: Members of the interstellar space navy which patrols space between the
-stars. The navy has responsibility for the protection of society from lawless ele-
-ments in the interstellar trade channels, and from foreign powers.
+stars. The navy has responsibility for the protection of society from lawless ele-ments in the interstellar trade channels, and from foreign powers.
 Marines: Members of the armed fighting forces carried aboard starships. Marines
 deal with piracy and boarding actions in space, defend the starports and bases
 belonging to the navy, and supplement other ground forces such as the army.
@@ -583,6 +552,8 @@ skills and benefits received during character generation.
 
 
 PRIOR SERVICE TABLE
+
+
 Navy Marines Arm) Scouts Merchants Other
 Enlistment 8+ 9+ 5+ 7+ 7+ 3+
 DM of +l if Intel 8+ lntel 8+ Dext 6+ lntel 6+ Stren 7+ -
@@ -606,11 +577,8 @@ Reenlist 6+
 
 characters cycle through this table during each term of service. Note that the reenlistment
 die throw is required even if the character does not intend to reenlist.
-DMs are cumulative in the case of enlistment if the characters have the necessary pre-
-requisites. All rolls except draft are two-dice throws.
-The table of ranks below indicates the initial commissioned rank, if a commission is re-
-ceived, and indicates the ranks to which characters are promoted. Ranks, commissions, and pro-
-motions are non-existent in the scout and the other services.
+DMs are cumulative in the case of enlistment if the characters have the necessary pre-requisites. All rolls except draft are two-dice throws.
+The table of ranks below indicates the initial commissioned rank, if a commission is re-ceived, and indicates the ranks to which characters are promoted. Ranks, commissions, and pro-motions are non-existent in the scout and the other services.
 
 ##### TABLE OF RANKS
 
@@ -623,6 +591,8 @@ Rank 5 Captain Colonel Colonel - Captain -
 Rank 6 Admiral Brigadier General - - -
 
 MUSTERING OUT TABLES
+
+
 Benefits 1 LOW Psg Low Psg LOW Psg LOW Psg LOW Psg LOW Psg
 Table 2 +I lntel +2 lntel +I lntel +2 lntel +1 lntel +1 lntel
 3 +2 Educ +1 Educ +2 Educ +2 Educ +1 Educ +1 Educ
@@ -646,6 +616,8 @@ benefits table. Individuals with gambling expertise are allowed a DM of +I on th
 
 
 ACQUIRED SKILLS TABLES
+
+
 
 
 Personal Development Table
@@ -723,47 +695,38 @@ received only once.
 
 
 RANK AND SERVICE SKILLS
+
+
 Navy Captain ........... +1 Social
 Navy Admiral. .......... +1 Social
-Marine. ............... .Cutlass-
-Marine Lieutenant. ...... Revolver-
-Army .................. Rifle-
-Army Lieutenant. .......... SMG-
-Merchant First Officer'. ...... Pilot-
-Scout .................. Pilot-
+Marine. ............... .Cutlass-Marine Lieutenant. ...... Revolver-Army .................. Rifle-Army Lieutenant. .......... SMG-Merchant First Officer'. ...... Pilot-Scout .................. Pilot-
 
 
 ##### Skills And Benefits
 
 The skills and benefits which can be acquired during a term of service are of
-greatly diverse types and values. They form an integral part of the player's charac-
-ter, assisting the referee (and the player) in calculating both general ability and the
+greatly diverse types and values. They form an integral part of the player's charac-ter, assisting the referee (and the player) in calculating both general ability and the
 specific probability of performing certain tasks.
 There are a finite number of skills listed, and it is possible that one specific skill
 may be acquired more than once; in such cases, the second acquisition increases the
 character's expertise in that skill. Upon the first acquisition of a skill, the player
-writes the skill name, followed by a dash and the number 1 (thus: navigation-1).
-The second time the skill is acquired, the number is increased to show greater ex-
-pertise (thus: navigation-2). Additional acquisitions of the same skill will increase
+writes the skill name, followed by a dash and the number1 (thus: navigation-1).
+The second time the skill is acquired, the number is increased to show greater ex-pertise (thus: navigation-2). Additional acquisitions of the same skill will increase
 this skill level to 3,4, or higher.
 
 ##### Benefits are of three basic types: characteristic alterations (such as +I strength),
 
 weapons expertise (such as blade combat), and basic skills (such as navigation).
-Characteristic Alterations: Expressed as an addition (or subtraction) to a charac-
-ter's ability. In this category, alterations tend to affect strength, dexterity, or
+Characteristic Alterations: Expressed as an addition (or subtraction) to a charac-ter's ability. In this category, alterations tend to affect strength, dexterity, or
 endurance (although some services can affect other abilities as well). Characteristic
 alterations are applied immediately, and require no further attention. An example
 of a characteristic alteration is +I dexterity.
 Weapon Expertise: Expressed as a general trait, such as brawling, blade combat,
-or gunnery. When acquired, the character notes the area of expertise, and immed-
-iately selects the specific type of skill received. Thus, if the weapon skill received is
+or gunnery. When acquired, the character notes the area of expertise, and immed-iately selects the specific type of skill received. Thus, if the weapon skill received is
 gun combat, the character must select which type of gun the expertise is in.
-Gunnery and brawling do not require any selection because they have no sub-
-divisions.
+Gunnery and brawling do not require any selection because they have no sub-divisions.
 All player-characters have an innate weapon expertise, in all weapons, of
-zero. Acquisition of a weapon skill boosts this to level-I. Additional acquisi-
-tions of expertise in the same weapon increase the present level by one.
+zero. Acquisition of a weapon skill boosts this to level-I. Additional acquisi-tions of expertise in the same weapon increase the present level by one.
 
 ##### Brawling: Brawling is a general skill for hand-to-hand combat. It includes the
 
@@ -775,14 +738,12 @@ Selection of a specific blade or polearm should be a discriminating decision; th
 table is intended to assist in that decision even for players still unfamiliar with the
 Traveller combat system. Following each listed weapon are three columns. The
 +DM column indicates the minimum required strength for the character if he or
-she is to receive strength bonuses for using the weapon in combat. It is advan-
-tageous for a character to have skill in a weapon which provides such bonuses.
+she is to receive strength bonuses for using the weapon in combat. It is advan-tageous for a character to have skill in a weapon which provides such bonuses.
 The - DM column shows the level of strength (or less) which calls for mandatory
 strength penalties for using the weapon in combat; such penalties are to be avoided.
 Finally, the wounds column indicates the degree of wounding ability which the
 weapon has; it indicates relative power of the weapons.
-A character may select one weapon each time that blade combat skill is re-
-ceived. In the event that a character receives blade combat three times, he might
+A character may select one weapon each time that blade combat skill is re-ceived. In the event that a character receives blade combat three times, he might
 choose, for example, cutlass-2 (taking cutlass twice) and dagger-1, or decide to
 concentrate on one weapon, perhaps taking foil-3.
 Note that one of the possible weapons is named blade. Players must be careful
@@ -795,6 +756,8 @@ Blade combat is explained in the personal combat section later in Book 1.
 
 
 BLADES AND POLEARMS GUNS
+
+
 Weapon
 Dagger
 Blade
@@ -841,6 +804,8 @@ Rifle
 Auto Rifle
 Shotgun
 SMG
+
+
 Laser Carbine
 Laser Rifle
 
@@ -859,8 +824,7 @@ positive or negative DMs, but these are based on dexterity (not on strength).
 ##### Gun combat is explained in the personal combat section later in Book 1.
 
 
-Gunnery: Gunnery is a skill in the use of weapons mounted on board spacecraft
-(beam and pulse lasers, sandcasters, and missile launchers). This skill entitles the
+Gunnery: Gunnery is a skill in the use of weapons mounted on board spacecraft (beam and pulse lasers, sandcasters, and missile launchers). This skill entitles the
 
 ##### individual to the job title of gunner. Space combat is covered in Book 2.
 
@@ -871,8 +835,7 @@ Each skill is further defined below.
 Administration: The individual has had When contact with officials is required,
 experience with bureaucratic agencies, and understanding their needs and motives will
 understands the requirements of dealing with assist in dealing with them. A basic throw
-them and managing them. of 7+ will successfully resolve normal inter-
-action without further problems (such as
+them and managing them. of 7+ will successfully resolve normal inter-action without further problems (such as
 avoidance of police harrassment, insuring prompt issuance of licenses, approval of applications,
 avoidance of close inspection of papers, etc). DM5 to be applied: no expertise, - 3: per level of
 admin expertise, +2.
@@ -886,8 +849,7 @@ AirIRaft: The individual has training and The airlraft is the major transportati
 experience in the use and operation of the vehicle on most worlds with high enough tech
 airlraft, floater, flier, and all types of grav levels. Most people are aware of the basics of
 vehicles. operation for such vehicles. The airlraft can
-be dangerous to operate in high speed situa-
-tions or in bad weather. A basic throw of 5+ to avoid an accident or mishap in bad weather,
+be dangerous to operate in high speed situa-tions or in bad weather. A basic throw of 5+ to avoid an accident or mishap in bad weather,
 chases, or high speed maneuvers should be used. DMs to be applied: per level of expertise, +l;
 if weather is extremely bad, if the craft is old, or if gunfire is involved in the chase, - 1.
 Referee: Generally, roll once for a short chase, twice or three times for longer flights.
@@ -915,10 +877,8 @@ doubled. The character offering the bribe
 should first roll on the reaction table (Book 3) and should not offer to a negatively reacting
 official. DMs to be applied: no expertise, +5; per level of expertise, -1 ; if the official reacts as a
 strong friend on the reaction table (a roll of 12). -2.
-Referee: Insure that both the cash offered and the act solicited are reasonable; if not, imple-
-ment appropriate DMs. Note that the roll for accepting a bribe varies inversely with the law
-level of a world; the more stringent the laws, the greater the corruption. If a bribe is not accept-
-ed, roll 3- for the offer to be reported to higher authorities.
+Referee: Insure that both the cash offered and the act solicited are reasonable; if not, imple-ment appropriate DMs. Note that the roll for accepting a bribe varies inversely with the law
+level of a world; the more stringent the laws, the greater the corruption. If a bribe is not accept-ed, roll 3- for the offer to be reported to higher authorities.
 
 Computer: The individual is skilled in the Computers perform valuable functions in
 programming and operation of electronic and human society, and individuals capable of
@@ -928,19 +888,16 @@ may be hired (when needed) to operate and
 program computers for organizations, ships, or other employers.
 Computer programs (especially starship programs as mentioned in Book 2) may be written
 by characters with expertise. The individual must have access to a computer which will handle
-the intended program, knowledge of the skill being incorporated, and no other duties or re-
-sponsibilities during each week of work. Book 2 gives more details.
+the intended program, knowledge of the skill being incorporated, and no other duties or re-sponsibilities during each week of work. Book 2 gives more details.
 In spite of all good intentions, there is always the possibility that such a program will have a
 fatal flaw, and will not function when actually used in space combat. Referee: Throw 7 exactly
 for a fatal error to be written in. If there is none, throw 5- for a negative DM to appear on the
-program when used; there is a half chance that the DM will be -1 or -2. These flaws will gener-
-ally remain hidden until the program is actually used.
+program when used; there is a half chance that the DM will be -1 or -2. These flaws will gener-ally remain hidden until the program is actually used.
 Referee: When characters want to write computer programs, the general procedure shown in
 Book 2 should be used, with modifications for the specific purpose.
 
 Electronics: The individual has skill in the An advanced technological civilization
-use, operation, and repair of electronic depends heavily on the use of electronic de-
-devices. The person is considered handy in vices. The need to use, repair, and replace
+use, operation, and repair of electronic depends heavily on the use of electronic de-devices. The person is considered handy in vices. The need to use, repair, and replace
 this field, with the equivalent of a green electronic devices is ubiquitous.
 thumb talent. This skill includes the repair of Electronic expertise allows a character to
 energy weapons. use and operate electronic items; generally
@@ -952,8 +909,7 @@ will be harder than others, and many will be impossible without an accumulation 
 on expertise, education, dexterity, intelligence, and the availability of parts and tools.
 
 
-Engineering: The individual is skilled in Engineering experience enables an indi-
-the operation and maintenance of starship vidual to operate the vital drives of starships
+Engineering: The individual is skilled in Engineering experience enables an indi-the operation and maintenance of starship vidual to operate the vital drives of starships
 maneuver drives, jump drives, and power (and interplanetary craft) and to maintain
 plants. the machinery against failure.
 The engineer is essential for the proper
@@ -966,9 +922,7 @@ basis of t2 per level of expertise.
 
 Forgery: The individual has a skill at Documents necessary for cargo transfers,
 faking documents and papers with a view to bank transactions, personal identification, and
-deceiving officials, banks, patrons, or other many other purposes are often closely in-
-persons. spected by officials such as the police, cus-
-toms agents, or clerks when encounters
+deceiving officials, banks, patrons, or other many other purposes are often closely in-persons. spected by officials such as the police, cus-toms agents, or clerks when encounters
 occur (such encounters happen when the law level for a world or less is thrown; generally once
 or twice per day). The throw for detection of forged or fake documents is 6+; DMs to be
 applied: -2 per level of expertise.
@@ -977,12 +931,10 @@ provide a bottomless checking account, for example). Note that administration an
 may also be used to determine whether documents are actually examined by the individuals
 involved.
 
-Forward Observer: The individual has Modern fire support can be a tremen-
-been trained (in military service) to call on dously effective weapon, when available, but
+Forward Observer: The individual has Modern fire support can be a tremen-been trained (in military service) to call on dously effective weapon, when available, but
 and adjust artillery (projectile, missile, and is virtually useless unless the technique of its
 laser) fire from distant batteries and from application and adjustment is known. If
-ships in orbit. artillery of any form (including communica-
-tion with the firing battery) is available, the
+ships in orbit. artillery of any form (including communica-tion with the firing battery) is available, the
 first shots fired will invariably miss the target. On each subsequent turn in which such fire is
 delivered, a basic throw of 11+ to hit is required. DMs to be applied: +4 per level of expertise;
 per turn of adjustment (two minute turns): +l; if adjusting person has no expertise: -4.
@@ -1005,22 +957,19 @@ the individual of wins and losses. This will serve to conceal any manipulation o
 
 Gunnery: The basic skill of gunnery is Defensive and offensive weapons are
 covered on page 13. The individual is trained mounted on a variety of interplanetary and
-and competent in the operation of weapons interstellar vessels. Gunnery expertise quali-
-mounted on starships. fies an individual to operate such weaponry,
+and competent in the operation of weapons interstellar vessels. Gunnery expertise quali-mounted on starships. fies an individual to operate such weaponry,
 and to be hired on a ship's crew with the title
 of gunner. Gunnery expertise provides DMs in space combat as covered in Book 2. Gunnery
 may also be used for similar weapons mounted,on ATVs or airlrafts.
 
 
 
-Jack of All Trades: The individual is The well-rounded individual (the renais-
-proven capable of handling a wide variety of sance man, so to speak) is uncommon in all
+Jack of All Trades: The individual is The well-rounded individual (the renais-proven capable of handling a wide variety of sance man, so to speak) is uncommon in all
 situations, and is resourceful in finding societies, but is naturally proficient when he
 solutions and remedies. or she occurs.
 This skill is a general ability which may be
 applied to nearly any endeavor at the discretion of the referee. The jack of all trades can
-attempt activity which is not normally possible due to the absence of skills or expertise. Un-
-skilled people have no idea how to even start many projects; jack of all trades can apply this
+attempt activity which is not normally possible due to the absence of skills or expertise. Un-skilled people have no idea how to even start many projects; jack of all trades can apply this
 skill to such a project as if he or she has the skill. Jack of all trades can be considered to confer
 skill level4 in every other skill (but never level-1).
 For example: one of a group of adventurers arrives at an aging crisis (page 8) while on an
@@ -1028,8 +977,7 @@ expedition into the wilds of a unsettled planet. No one has medical expertise. J
 trades can be applied as a substitute for medical skill in this situation; the referee should assume
 that the person has studied independently at some time or has seen such a crisis previously and
 knows something of what to do. When using jack of all trades skill, the referee should also
-consider appropriate personal characteristics (intelligence, education), availability of equipment
-(drugs, medical instruments), and other factors (weather, shelter, the specific situation).
+consider appropriate personal characteristics (intelligence, education), availability of equipment (drugs, medical instruments), and other factors (weather, shelter, the specific situation).
 Jack of all trades, however, is never sufficient for an individual to achieve standing in
 another skill. Use of the skill in medical situations does not imply medic skill. Use of the skill to
 pilot a ship in an emergency does not imply pilot skill.'
@@ -1063,8 +1011,7 @@ education, and situation.
 
 Medical: The individual has training and Medical science is capable of great feats in
 skill in the medical arts and sciences. preserving and maintaining the health and
-welfare of individuals. The services of medi-
-cally trained individuals are in great demand. The levels of medical skill represent steps in
+welfare of individuals. The services of medi-cally trained individuals are in great demand. The levels of medical skill represent steps in
 increasingly better ability and knowledge.
 Medical-1 is sufficent to qualify a character for the position of medic on a starship crew. An
 expertise of medic-2 or better allows a DM of +1 when reviving low passengers (each normally
@@ -1108,10 +1055,8 @@ Pilot expertise qualifies a character for the
 job of pilot on a starship or interplanetary vessel over 100 tons.
 Referee: Pilot expertise is usable as a DM in handling of starships as they move from world
 to world. Pilot expertise generally refers to interstellar ships; much of the ordinary operation,
-however, is similar to that of interplanetary craft and pilot expertise also applies to large inter-
-planetary craft (100 tons and up). Small interplanetary craft (under 100 tons) handle somewhat
-differently; pilot expertise minus 1 may be used as ship's boat expertise as applied to inter-
-planetary vessels under 100 tons; thus, an individual with pilot-3 could also operate a small
+however, is similar to that of interplanetary craft and pilot expertise also applies to large inter-planetary craft (100 tons and up). Small interplanetary craft (under 100 tons) handle somewhat
+differently; pilot expertise minus 1 may be used as ship's boat expertise as applied to inter-planetary vessels under 100 tons; thus, an individual with pilot-3 could also operate a small
 craft interplanetary vessel as if he or she had a skill of ship's boat-2. The reverse is not true.
 
 Ship's Boat: The individual is familiar The small interplanetary craft carried as
@@ -1119,11 +1064,9 @@ with the function and operation of small auxiliaries or boats on larger ships, o
 interplanetary craft collectively known as the needs of bases and stations, are distinctly
 ship's boats. These craft range in size from different from the large vessels which ply the
 five to 100 tons, and include shuttles, life- space lanes. Ship's boat expertise reflects a
-boats, launches, ship's boats, and fighters. distinct experience and training in the oper-
-ation of these craft. Pilot expertise minus 1
+boats, launches, ship's boats, and fighters. distinct experience and training in the oper-ation of these craft. Pilot expertise minus 1
 can be used as the equivalent level of ship's boat expertise.
-Referee: Ship's boat skill is used as a DM in handling throws to determine various oper-
-ations and their results. The following examples should illustrate this concept. Assume a hostile
+Referee: Ship's boat skill is used as a DM in handling throws to determine various oper-ations and their results. The following examples should illustrate this concept. Assume a hostile
 attack on a pinnace (small craft) flown by a character with ship's boat-2..Throw 10+ for the
 pinnace to escape on contact and avoid the attack; DM +2 based on the skill. Throw 8+ to avoid
 being hit by enemy fire if the escape attempt fails; DM +2, again based on the skill. Alternate
@@ -1140,18 +1083,14 @@ and capable in the care and feeding of passen- passengers aboard a starship fall
 gers: the duties of the ship's steward. steward. Although anyone can be hired as a
 ship's steward, this skill represents training in
 the various duties necessary, and serves as an advantage when attempting to get such a job.
-Referee: Steward skill represents a general awareness of cooking, personal care and atten-
-tion, and other areas of experience which will make passengers and crew happy and content
+Referee: Steward skill represents a general awareness of cooking, personal care and atten-tion, and other areas of experience which will make passengers and crew happy and content
 with their conditions of passage.
 
 
 Streetwise: The individual is acquainted Close-knit subcultures (such as some
 with the ways of local subcultures (which portions of the lower classes, trade groups
-tend to be the same everywhere in human such as workers, and the underworld) gen-
-society), and thus is capable of dealing with erally reject contact with strangers or un-
-strangers without alienating them. This skill is known elements. Streetwise expertise allows
-not the same as alien contact experience. contact for the purposes of obtaining infor-
-mation, hiring persons, purchasing or selling
+tend to be the same everywhere in human such as workers, and the underworld) gen-society), and thus is capable of dealing with erally reject contact with strangers or un-strangers without alienating them. This skill is known elements. Streetwise expertise allows
+not the same as alien contact experience. contact for the purposes of obtaining infor-mation, hiring persons, purchasing or selling
 contraband or stolen goods, and other shady or borderline activities.
 Referee: After establishing throws for various activities desired by the characters (such as
 the name of an official willing to issue licenses without hassle: 5+; the location of high quality
@@ -1164,23 +1103,19 @@ experience in small unit tactics (up to and (in battle, by ambush, or while adve
 including units of 1000 troops or individual tactical skill can provide an advantage in
 spaceships). This skill is not to be confused gaining victory or reducing the disaster of
 with strategy, which deals with the reasons defeat.
-for the encounter and the intended results of Referee: Because tactical skill is an in-
-the encounter; strategy is the realm of the tangible, the exact results in battle are left to
+for the encounter and the intended results of Referee: Because tactical skill is an in-the encounter; strategy is the realm of the tangible, the exact results in battle are left to
 players, rather than the characters. the referee to implement as necessary or
 prudent. It might influence the type and
 amount of information available to the character in the miniature figure resolution of a battle
 which uses hidden movement, or could be applied as a DM in crucial situations.
-Tactical skill should be considered by the referee when the character is applying for em-
-ployment wh~ch might find such skill useful.
+Tactical skill should be considered by the referee when the character is applying for em-ployment wh~ch might find such skill useful.
 
 Vehicle: The individual is skilled in the The individual immediately selects one
 operation, use, and maintenance of a specific vehicle from one of the following groups and
 type vehicle commonly available in society. gains one level of skill in that specific type.
-The groups available are: ground car, water-
-craft, winged craft (including helicopters), hovercraft, and grav belt. Individual vehicles within a
+The groups available are: ground car, water-craft, winged craft (including helicopters), hovercraft, and grav belt. Individual vehicles within a
 class may be found in Book 3, beginning on page 20. In the case of ground car, winged craft,
-and watercraft, other similar vehicles may be operated by the individual at skill level minus 1
-(the ground car class includes ATV). Vehicle skill is used for operation and as a DM against
+and watercraft, other similar vehicles may be operated by the individual at skill level minus 1 (the ground car class includes ATV). Vehicle skill is used for operation and as a DM against
 accident, and may also be used for assistance in repairing and maintaining a vehicle.
 
 Vacc Suit: The individual has been trained Non-breathable atmospheres or hostile
@@ -1199,13 +1134,11 @@ are special forms of armored vacc suit and require at least vacc suit-1 to wear 
 
 ##### Other Skills
 
-The above list of skills is certainly not exhaustive. Additional skills may be en-
-countered.
+The above list of skills is certainly not exhaustive. Additional skills may be en-countered.
 
 ##### Creating New Skills: The experience rules of Book^2 indicate methods by
 
-which an individual can learn additional skills after he or she begins actively adven-
-turing. Those rules also cover the requirements for creating a new skill not other-
+which an individual can learn additional skills after he or she begins actively adven-turing. Those rules also cover the requirements for creating a new skill not other-
 
 ##### wise detailed in the Traveller rules. For example, if a new weapon is developed
 
@@ -1215,9 +1148,7 @@ situation. A journey across a vacuum plain may be called for, and no one has vac
 suit skill. In such cases, the referee may indicate that all individuals not otherwise
 skilled have vacc suit-0. A level of 0 for a skill indicates that the individual can
 undertake ordinary activities, but is not experienced enough to try dangerous
-activities or fancy actions. Level-0 indicates an orientation to the skill by an ex-
-perienced person; it should not be taken as a stepping stone to level-1. Skills appro-
-priate for level-0 are: airlraft, ATV, forward observer, steward, vacc suit, and
+activities or fancy actions. Level-0 indicates an orientation to the skill by an ex-perienced person; it should not be taken as a stepping stone to level-1. Skills appro-priate for level-0 are: airlraft, ATV, forward observer, steward, vacc suit, and
 weapons.
 
 ##### Other Benefits
@@ -1266,8 +1197,7 @@ laundry, cleaning, etc) during the voyage. Middle passage costs Cr8000 when pur-
 
 chased, and is subject to stand-by conditions; the ticket holder may be bumped if a
 high passenger appears (the middle passage ticket being returned in such cases).
-Low passage involves travel in cryogenic capsules (cold sleep, or suspended ani-
-mation), and the traveller is unconscious for the course of the journey. A character
+Low passage involves travel in cryogenic capsules (cold sleep, or suspended ani-mation), and the traveller is unconscious for the course of the journey. A character
 does not age while in cold sleep. Because of the intrinsic dangers of this method of
 travel, a basic throw of 5+ applies when the journey is over and the low passenger is
 revived. Failure of the throw results in death; a DM of +1 is allowed if there is an
@@ -1294,8 +1224,7 @@ initiation fee of Cr1,000,000. Only one application per person is allowed. Membe
 Society invests its membership fees and other income; it uses its capital and return
 to provide benefits to its members. Every two months, it pays dividends in the form
 of one high passage to each member. This passage may be used, retained, or sold.
-Material Objects: The mustering out procedure makes two types of material ob-
-jects available: weapons and starships.
+Material Objects: The mustering out procedure makes two types of material ob-jects available: weapons and starships.
 Weapons: The skills and benefits table indicates as results blade or gun; in such
 cases, a character may choose any weapon in the category. If, while mustering out,
 
@@ -1330,8 +1259,7 @@ payment). The ship is also forty years old.
 The type S scout/courier is a 100-ton dispatch vessel of a type very common
 within human space and fully described in Book 2. It is the policy of the scout
 service to make available such surplus scout ships to selected individuals on a
-reserve basis. The vessels are (hopefully) put to good use while they are not re-
-quired in service, and both the ship and its pilot are available for recall to duty
+reserve basis. The vessels are (hopefully) put to good use while they are not re-quired in service, and both the ship and its pilot are available for recall to duty
 when needed. Only one scout ship may be acquired by a character; further receipt
 of this benefit results in no further effect. Possession of the scout ship is at the
 pleasure of the scout service, and it cannot be sold by the character. The ship may
@@ -1344,15 +1272,13 @@ intelligence, and are applied to the character immediately.
 
 ##### A Note On Gender And Race
 
-Nowhere in these rules is a specific requirement established that any character
-(player or non-player) be of a specific gender or race. Any character is potentially
+Nowhere in these rules is a specific requirement established that any character (player or non-player) be of a specific gender or race. Any character is potentially
 of any race and of either sex.
 
 ###### Formats
 
 Characters may be referred to in a variety of ways. The simplest involves an
-identification of the character's occupation or name, followed by the UPP (uni-
-versal personality profile). For example, Arlent Streen, businessman, 895678.
+identification of the character's occupation or name, followed by the UPP (uni-versal personality profile). For example, Arlent Streen, businessman, 895678.
 
 ##### When more detail is needed, or to be more precise, the following format should
 
@@ -1397,12 +1323,11 @@ win his fortune in the universe. Taking stock of himself and his personal qualit
 [generate all six personal characteristics; he rolls, consecutively, 6, 8, 8, 12, 8, 91
 he soon decides that his UPP of 688C89 adapts him best for the merchant service.
 He visits his local starport, checks out the situation [required roll of 7+ to enlist,
-with a DM of +2 allowed for his intelligence of greater than 6; he rolls 5 (+2=7)1,
+with a DM of +2 allowed for his intelligence of greater than 6; he rolls5 (+2=7)1,
 and just barely manages to convince a merchant captain to let him sign on.
 First Term: During his first term of service [survival roll required is 5+, with a
 DM of +2 allowed for intelligence; he rolls 11 (+2=13)1 he faces no great dangers,
-merely the humdrum of day-today events. His application for a commission [re-
-quired roll of 4+, DM of +I allowed for intelligence; he rolls 7(+1=8)1 is a mere
+merely the humdrum of day-today events. His application for a commission [re-quired roll of 4+, DM of +I allowed for intelligence; he rolls 7(+1=8)1 is a mere
 
 ##### formality. As a 4th officer, he proves hard-working and efficient [promotion roll
 
@@ -1433,10 +1358,9 @@ promotion]. He goes on a physical fitness kick [Table 1, roll 3= +1 endurance]
 and learns to better defend himself [Table 2, roll 4= gun combat] using the small
 body pistol.
 Third Term: Jamison's third term is rather uneventful [survival throw of 5+, DM
-of +2 for intelligence; he rolls 9 (+2=11)1. Unfortunately [promotion roll of 10+
-required, DM +1 for intelligence; he rolls 8 (+1=9)l, he fails the examination for
-1st officer by two points, and does not receive a promotion. Determined to suc-
-ceed, he reenlists [reenlistment roll of 4+ required, no DMs; he rolls 101. He is
+of +2 for intelligence; he rolls9 (+2=11)1. Unfortunately [promotion roll of 10+
+required, DM +1 for intelligence; he rolls8 (+1=9)l, he fails the examination for
+1st officer by two points, and does not receive a promotion. Determined to suc-ceed, he reenlists [reenlistment roll of 4+ required, no DMs; he rolls 101. He is
 eligible for one skill [Table 2, roll 5= electronics] and studies an advanced course in
 electronics to increase his knowledge.
 Fourth Term: Things go right in the fourth term for Jamison. Facing little
@@ -1457,7 +1381,7 @@ this being the end of his fourth term, Jamison is (for the first time) susceptib
 
 made; he rolls 12, 7, and 9, resulting in no changes].
 Fifth Term: Beginning his fifth four-yeqr hitch [survival roll of 5+ required, DM
-+2 for intelligence; he rolls 7 (+2=9)], he stands for promotion [promotion roll of
++2 for intelligence; he rolls7 (+2=9)], he stands for promotion [promotion roll of
 10+ required, DM +1 for intelligence; he rolls 10 (+1=11)] and makes captain. At
 this point [reenlistment throw of 4+ required, no DMs allowed; he rolls 31, the
 service falls on hard times, and notifies Jamison that it will no longer require his
@@ -1475,15 +1399,15 @@ service, Captain Jamison is eligible for a variety of service benefits [five rol
 tables for terms served, plus two by virtue of his rank; in addition, he is allowed +1
 on all rolls on the benefits table]. He receives [cash table, roll 4= Cr20,OOOl a
 
-##### severance bonus of Cr20,000, [benefits table, roll 5 (+1=6)= +1 education] an edu-
+##### severance bonus of Cr20,000, [benefits table, roll5 (+1=6)= +1 education] an edu-
 
 
-cational benefit, [benefits table, roll 6 (+1=7)= merchant ship] possession of a
-merchant ship, [benefits table, roll 2 (+1=3)=middle passage] a travel allowance,
-[benefits table, roll 6 (+1=7)= merchant shipl credit for participation in the ship
-acquisition program, [benefits table, roll 6 (+1=7)= merchant ship] credit for
+cational benefit, [benefits table, roll6 (+1=7)= merchant ship] possession of a
+merchant ship, [benefits table, roll2 (+1=3)=middle passage] a travel allowance,
+[benefits table, roll6 (+1=7)= merchant shipl credit for participation in the ship
+acquisition program, [benefits table, roll6 (+1=7)= merchant ship] credit for
 
-##### more participation in the ship acquisition program, [benefits table, roll 6 (+1=7)=
+##### more participation in the ship acquisition program, [benefits table, roll6 (+1=7)=
 
 merchant shipl and more credit for participation in the ship acquisition program.
 Jamison has apparently been putting much of his salary and ship profits into a
@@ -1511,6 +1435,8 @@ It may be photocopied or locally reproduced for use by travellers.
 
 
 I
+
+
 18c. Additional Skills
 
 
@@ -1518,8 +1444,7 @@ I
 
 ##### OYes ONO
 
-Warning: l nformation regarding an individual's psionic ability is con-
-PSlONlCS fidential, and may not be released without his or her consent.
+Warning: l nformation regarding an individual's psionic ability is con-PSlONlCS fidential, and may not be released without his or her consent.
 
 21. Date of Test 22. PSR 23a. Trained? 23b. Date Completed
 
@@ -1528,6 +1453,8 @@ PSlONlCS fidential, and may not be released without his or her consent.
 24. Talents and Current Levels
 
 L
+
+
 TAS Form 2 1111: ,I~II',I@ I:I:#II
 
 
@@ -1583,8 +1510,7 @@ atmosphere and realism. These include
 
 ##### 8. Birthworld (worlds can be generated from Book 3).
 
-10. Dischargeworld (usually the world on which the individual first begins ad-
-venturing).
+10. Dischargeworld (usually the world on which the individual first begins ad-venturing).
 15. Special Assignments (interesting episodes in the individual's career).
 16. Awards and Decorations (from the prior career).
 17. Equipment Qualified On (weapons and devices on which the person has
@@ -1606,8 +1532,7 @@ can be dealt with is by force. To this end, the following combat system is provi
 ###### Basic Combat Concept
 
 
-This combat system is intended to cover situations where a party of adventurers
-(of one or more characters) encounters a party of people or beasts, and violence is
+This combat system is intended to cover situations where a party of adventurers (of one or more characters) encounters a party of people or beasts, and violence is
 offered by either side. The actual circumstances of each encounter are governed by
 the referee, in accordance with the encounter provisions of Book 3. Those rules
 provide for the likelihood of encounters and for the basic reaction of the other
@@ -1615,6 +1540,8 @@ party to the encounter.
 Combat is based on successive attacks by' each character involved (blows if
 brawling, swings with blade weapons, and shots with
 BASIC
+
+
 
 8+
 
@@ -1675,8 +1602,7 @@ do not make any noise when fired. Any character Pouncer animals .... .+l
 who is hit but not rendered unconscious will make
 sufficient noise (probably a scream) to raise the
 TERRAIN DMs alarm. If the alarm is not raised in this manner, there
-Clear, Road, Open. ... +3 is a chance (throw 9+ for it to occur) that an un-
-Prairie, Plain, Steppes. .+3 attacked comrade in the defending party will see the
+Clear, Road, Open. ... +3 is a chance (throw 9+ for it to occur) that an un-Prairie, Plain, Steppes. .+3 attacked comrade in the defending party will see the
 Rough, Hills, Foothills .+2 person fall and give the alarm. Surprise continues
 Broken, Highlands. .. .+2 until it is lost, and may thus continue indefinitely.
 Mountain, Alpine .... +3 Once surprise is lost, normal combat begins.
@@ -1703,8 +1629,7 @@ five ranges: close, short, medium, long, or very long.
 4 .......... Medium DM table. In essence, the DMs take into account the
 5 ........... .Short altered probabilities of specific encounter ranges in
 6 .......... Medium differing terrain types. An encounter at close range is
-7 .......... Medium much less likely on a prairie than in a city, for exam-
-8 ............ Long ple. Determine the DM from the terrain DM table
+7 .......... Medium much less likely on a prairie than in a city, for exam-8 ............ Long ple. Determine the DM from the terrain DM table
 9 .......... Medium and apply it to a twodice roll on the encounter range
 10 ........ Very Long table. The result indicates the range at which the two
 1 1 ............ Long parties encounter.
@@ -1720,8 +1645,7 @@ avoid an encounter by so stating. Non-player character parties which have surpri
 
 
 parties encounter without surprise,
-RANGES either may attempt to escape imme-
-Close: in physical contact; touching. diately (before any combat or contact
+RANGES either may attempt to escape imme-Close: in physical contact; touching. diately (before any combat or contact
 
 ##### Short: at sword or polearm point, occurs). Roll 9+ to escape (DM allowed
 
@@ -1745,8 +1669,7 @@ party may leave the field of battle only through movement.
 ###### Movement
 
 
-For movement, distances are measured in range bands, each representing approx-
-imately 25 meters. The range band table gives the size of each of the combat ranges
+For movement, distances are measured in range bands, each representing approx-imately 25 meters. The range band table gives the size of each of the combat ranges
 in range bands. For example, a character 4 range bands
 
 ##### RANGE BANDS away from another character is at long range with
@@ -1762,8 +1685,7 @@ Very Long: 11 to 20 line grid (as shown in the diagram below). Ordinary
 lined paper serves this purpose quite well. Each band
 on the grid represents one range band. At the beginning of an encounter, markers
 representing each of the members of the encountering party and those encountered
-are placed in bands separated by a dist-
-ance corresponding to the encounter
+are placed in bands separated by a dist-ance corresponding to the encounter
 distance. In subsequent rounds characters
 may move to close or open the range.
 Close and short range are each less
@@ -1773,8 +1695,7 @@ range, place their markers touching each
 other. All other characters in the same
 range band are at short range.
 Characters may move one band per
-combat round if walking or two if run-
-ning; animals may move faster, as covered
+combat round if walking or two if run-ning; animals may move faster, as covered
 
 ##### in Book 3.
 
@@ -1835,8 +1756,7 @@ member of the opposing party as a target. He or she must then make a basic throw
 ##### of 8+ to hit the target, and if successful, then determine the wounds inflicted.
 
 
-The basic throw of 8t is subject to a variety of applicable die modifiers, inclu-
-ding armorlweapons relation, range, strength of attack (combat or weakened
+The basic throw of 8t is subject to a variety of applicable die modifiers, inclu-ding armorlweapons relation, range, strength of attack (combat or weakened
 blows), movement status, attacking and defending expertise, and other aspects. The
 weapon matrix indicates weaponlarmor relation; the range matrix indicates range
 effects; the weapon table indicates the effects of strength and dexterity, and of
@@ -1862,12 +1782,10 @@ Wounding and Death: The wound column indicates the amount of damage
 
 
 
-type of weapon used (not the strength of the character or of the blow). The abbre-
-viation used in the wound column is a capital D, meaning die or dice. The number
+type of weapon used (not the strength of the character or of the blow). The abbre-viation used in the wound column is a capital D, meaning die or dice. The number
 before the D indicates the number of dice to be thrown: thus 3D means that the
 wound has inflicted hits equal to the throw of three dice.
-Wound points are applied to the target's (defending character's) strength, dex-
-terity, and endurance on a temporary basis. Each die rolled (for example, each of
+Wound points are applied to the target's (defending character's) strength, dex-terity, and endurance on a temporary basis. Each die rolled (for example, each of
 the two dice rolled in a result of 2D) is taken as a single wound or group of hits,
 and must be applied to a single characteristic.
 The first wound received by any character, however, can be sufficient to stun or
@@ -1880,8 +1798,7 @@ seriously wounded. When all three have been reduced to zero, the character is de
 Once a characteristic has been reduced to zero, further points may not be applied
 to it; they must be applied to other (non-zero) characteristics.
 Unconscious characters (with at least one characteristic reduced to zero) recover
-consciousness after ten minutes (40 combat rounds) with all characteristics tempo-
-rarily placed at a value half way between full strength and the wounded level.
+consciousness after ten minutes (40 combat rounds) with all characteristics tempo-rarily placed at a value half way between full strength and the wounded level.
 
 ##### For example, a character with a strength of 8 who is wounded to a strength of 4
 
@@ -1897,8 +1814,7 @@ three days of rest.
 Unconscious characters with two characteristics reduced to zero are considered
 seriously wounded and recover consciousness after three hours. Their characteristics
 remain at the wounded level (or 1, whichever is higher). Recovery is dependent on
-medical attention (a medical facility and an individual with medical3 skill; re-
-cuperation to full strength without medical attention is not possible).
+medical attention (a medical facility and an individual with medical3 skill; re-cuperation to full strength without medical attention is not possible).
 
 ##### The Effects Of Characteristics
 
@@ -1955,13 +1871,10 @@ swings are not weakened, and may be made at any appropriate time without
 affecting the endurance limit.
 Note that a character is allowed only a specific number of swings and blows by
 his endurance characteristic, and that only one blow or swing may be made per
-combat round. The number of blows and swings is based on the individual's endur-
-ance at the beginning of the combat encounter; wounds suffered during the
+combat round. The number of blows and swings is based on the individual's endur-ance at the beginning of the combat encounter; wounds suffered during the
 encounter do not reduce the total possible swings and blows, but wounds suffered
-prior to the encounter which reduce endurance will reduce the allowance according-
-ly. The total allowance for swings and blows applies to all such attacks, regardless
-of whether the character shifts from brawling to blade combat or back. Gun com-
-bat is not affected by endurance.
+prior to the encounter which reduce endurance will reduce the allowance according-ly. The total allowance for swings and blows applies to all such attacks, regardless
+of whether the character shifts from brawling to blade combat or back. Gun com-bat is not affected by endurance.
 
 ###### Expertise
 
@@ -2013,9 +1926,8 @@ unit; troop unit) may carry up to triple his or her strength in kilograms, subje
 reduction of 2 in strength, dexterity, and endurance.
 Different Gravity: A world of size 8 is assumed to have normal gravity. Subtract
 the size of the world on which the adventurers are from 8 and multiply the result
-by 12.5%. This indicates the additional load that the character is capable of carry-
-ing, in kilograms.
-For example, a world with size 4 (8-4=4; 4x12.5%=50%) allows a character to
+by 12.5%. This indicates the additional load that the character is capable of carry-ing, in kilograms.
+For example, a world with size4 (8-4=4; 4x12.5%=50%) allows a character to
 carry an additional 50% load without beng considered encumbered. A world with
 size 10 (8-lo=-2; -2x12.5%=-25%) reduces the allowable load by 25%.
 
@@ -2024,7 +1936,7 @@ size 10 (8-lo=-2; -2x12.5%=-25%) reduces the allowable load by 25%.
 
 normal (earth) density; different densities of worlds are possible through the use of
 
-##### a density constant K (determined by the referee; mentioned in Book 2). When a
+##### a density constantK (determined by the referee; mentioned in Book 2). When a
 
 ##### density constant K is in use, multiply the world size by K to determine the true
 
@@ -2050,17 +1962,14 @@ new leader takes control); -2 if casualties (unconscious and dead) exceed 50%.
 
 The weapons and armor used by a ~haracter constitute his or her primary means
 of achieving goals once logic and persuasion have failed. Weapons are also essential
-for self-defense. These various weapons, weapon accessories, and armor are de-
-scribed below. Weights are given in grams; costs are given in credits (Cr). The
-technological level at which the weapon is first produced is shown after the abbre-
-viation TL; tech levels are explained in Book 3.
+for self-defense. These various weapons, weapon accessories, and armor are de-scribed below. Weights are given in grams; costs are given in credits (Cr). The
+technological level at which the weapon is first produced is shown after the abbre-viation TL; tech levels are explained in Book 3.
 Brawling Weapons: Brawling generally involves found weapons which are already
 at the site of the battle. Brawling weapons are effective only at close and short
 range. Such weapons are classified as clut)ls, cost nothing, and generally weigh from
 500 grams to 3 kilograms (one die times 500 grams). Pistols may be used as clubs
 when brawling. Bottles may be used as clubs (once, then they become dagger minus
-1 ). Animals are equipped with their own weapons, generally specified in the en-
-counter tables of Book 3.
+1 ). Animals are equipped with their own weapons, generally specified in the en-counter tables of Book 3.
 Blade Weapons: The following edged weapons cover the range of blades which
 are available. Blade weapons are effective only at close and short range.
 Dagger (250 grams; CrlO; TL 1): A small knife weapon with a flat, two-edged
@@ -2093,8 +2002,7 @@ Broadsword (2500 grams; Cr300; TL 2): The largest of the sword weapons, also
 
 ##### called the two-handed sword because it requires both hands to swing. The blade is
 
-extremely heavy, two-edged, and about 1000 to 1200mm in length. The hilt is rela-
-tively simple, generally a cross-piece only, with little basketwork or protection.
+extremely heavy, two-edged, and about 1000 to 1200mm in length. The hilt is rela-tively simple, generally a cross-piece only, with little basketwork or protection.
 When carried, the boardsword is worn in a metal scabbard attached to the belt; less
 frequently, the scabbard is worn on the back, and the broadsword is drawn over the
 shoulder.
@@ -2107,8 +2015,7 @@ Bayonet (250 grams; CrlO; TL 3): A knife-like weapon similar to a dagger or
 
 blade. When not attached to a rifle, a bayonet is treated as a dagger (or blade),
 carried in a belt scabbard, and requires dagger (or blade) skill for use to advantage.
-When attached to the muzzle of a rifle (only, not carbine or auto rifle), it trans-
-forms the gun into a polearm, and increases the length of the arm by 200mm.
+When attached to the muzzle of a rifle (only, not carbine or auto rifle), it trans-forms the gun into a polearm, and increases the length of the arm by 200mm.
 Spear (2000 grams; Crl 0; TL 0): A long (3000mm) polearm with a pointed tip,
 usually of metal. Often made by the person who carries the weapon, the spear is
 quite inexpensive.
@@ -2116,31 +2023,25 @@ quite inexpensive.
 ##### Pike (3000 grams; Cr40; TL 1 ): A long (3000 to 4000mm) polearm with some
 
 form of flat blade tip.
-Halberd (2500 grams; Cr75; TL 2): a quite elaborate polearm featuring a point-
-ed, bladed tip. This weapon may be considered to be a combination between a
+Halberd (2500 grams; Cr75; TL 2): a quite elaborate polearm featuring a point-ed, bladed tip. This weapon may be considered to be a combination between a
 battle ax and a spear. Length: 2500mm.
-Cudgel (1000 grams; CrlO; TL 0): A basic stick used as a weapon. Easily ob-
-tained from standing trees or through the use of an unloaded long gun such as a
+Cudgel (1000 grams; CrlO; TL 0): A basic stick used as a weapon. Easily ob-tained from standing trees or through the use of an unloaded long gun such as a
 rifle or carbine (laser weapons are too delicate to be used as cudgels). Length: 1000
 to 2000mm.
 Guns: The following guns are generally available (but note especially that the
 law levels given in Book 3 may restrict the possession, use, or importation of some
 or all of these guns). Pistols are effective at all but the longest ranges; other guns are
 effective at all ranges.
-Body Pistol (300 grams loaded; Cr 520; TL 7): A small, non-metallic semi-
-automatic pistol designed to evade detection by most weapon detectors. It fires 5
+Body Pistol (300 grams loaded; Cr 520; TL 7): A small, non-metallic semi-automatic pistol designed to evade detection by most weapon detectors. It fires 5
 
 ##### gram projectiles at a velocity of 500 to 600 meters per second. A magazine con-
 
 taining six cartridges is inserted into the pistol handle; one cartridge is fired for each
 pull of the trigger. Pre-loaded magazines may be inserted into the pistol when it is
-empty, taking one combat round to do so. Body pistol ammunition is not inter-
-changeable with the ammunition for any other types of guns.
+empty, taking one combat round to do so. Body pistol ammunition is not inter-changeable with the ammunition for any other types of guns.
 Length: 100mm. Weight, unloaded: 250 grams (a loaded magazine weighs 50
 grams). Base price: Cr500 (one loaded magazine: Cr20).
-Automatic Pistol (1000 grams loaded; Cr210; TL 5): The basic repeating hand-
-gun, firing 9mm caliber bullets (each weighing approximately 10 grams) at velo-
-cities from 400 to 500 meters per second. A magazine containing 15 cartridges fits
+Automatic Pistol (1000 grams loaded; Cr210; TL 5): The basic repeating hand-gun, firing 9mm caliber bullets (each weighing approximately 10 grams) at velo-cities from 400 to 500 meters per second. A magazine containing 15 cartridges fits
 into the handle of the pistol, and one cartridge is fired for each pull of the trigger.
 
 ##### Automatic pistol ammunition is interchangeable with submachinegun ammunition
@@ -2150,8 +2051,7 @@ empty pistol, requiring one combat round for this reloading procedure to occur.
 Length : 175mm. Weight, unloaded : 750 grams (loaded magazine weighs 250
 grams). Base price: Cr200 (loaded magazine: CrlO).
 Revolver (1 000 grams loaded; Cr155; TL 4): An older variety of handgun, the
-revolver fires 9mm bullets with characteristics similar to those fired by the auto-
-matic pistol, but not interchangeable with them. No magazine is used: six cartridges
+revolver fires 9mm bullets with characteristics similar to those fired by the auto-matic pistol, but not interchangeable with them. No magazine is used: six cartridges
 are inserted into the revolver individually. Reloading takes two combat rounds, or
 one combat round if the individual foregoes the benefit of evasion.
 Length: 200mm (some versions may be shorter or longer). Weight, unloaded:
@@ -2163,8 +2063,7 @@ caliber round (a 6mm bullet, weighing 5 grams, at a velocity of 900 meters per
 
 second). A magazine containing ten rounds is inserted into the underside of the
 carbine, ahead of the trigger guard, and one round is fired with each pull of the
-trigger. Replacement of empty magazines takes one combat round. Carbine ammu-
-nition is not interchangeable with any other type of ammunition.
+trigger. Replacement of empty magazines takes one combat round. Carbine ammu-nition is not interchangeable with any other type of ammunition.
 In essence, a carbine is a short rifle, firing a cartridge of smaller, lighter caliber. A
 sling usually allows the carbine to be carried on the shoulder, out of the way.
 Length: 750mm. Weight, unloaded: 3000 grams (loaded magazine weighs 125
@@ -2207,8 +2106,7 @@ shock effect without regard to accuracy. The shotgun has an 18mm diameter barrel
 and fires shells containing either six 7mm bullets, or one hundred and thirty 3mm
 pellets. In each case, the projectiles weigh a total of 30 grams. Velocity for the
 projectiles is about 350 meters per second. A cylindrical magazine containing 10
-shells is inserted under the barrel and parallel to it; cartridges are then fed auto-
-matically into the shotgun for firing. Reloading consists of replacing the cylindrical
+shells is inserted under the barrel and parallel to it; cartridges are then fed auto-matically into the shotgun for firing. Reloading consists of replacing the cylindrical
 magazine and takes two combat rounds. One shot is fired for each pull of the
 trigger.
 Magazines measure approximately 350mm long by 20mm in diameter and
@@ -2224,8 +2122,7 @@ designed to fire pistol ammunition. Magazines holding 30 cartridges are inserted
 into the weapon forward of the trigger guard or in the pistol grip, depending on the
 design. The gun fires four rounds per pull of the trigger. Replacement of an empty
 magazine requires one combat round.
-Submachinegun ammunition (but not magazines) is interchangeable with auto-
-matic pistol ammunition.
+Submachinegun ammunition (but not magazines) is interchangeable with auto-matic pistol ammunition.
 Most submachineguns are equipped with slings to allow ease of carrying.
 Laser Carbine (8000 grams, including power pack; Cr3500; TL 8): A lightweight
 version of the laser rifle, firing high energy bolts using current from a backpack
@@ -2235,12 +2132,9 @@ requires recharging. Recharging requires at least eight hours connected to a hig
 energy source. The laser carbine is connected to the power pack by a heavy duty
 cable.
 Length: 800mm. Weight of carbine: 5000 grams. Weight of power pack: 3000
-grams. Base price: Cr2500 (extra power pack: Cr1000). Cost of recharge, at com-
-mercial rates: Cr200.
+grams. Base price: Cr2500 (extra power pack: Cr1000). Cost of recharge, at com-mercial rates: Cr200.
 Laser Rifle (10 kilograms, including power pack; Cr 5000; TL 9): The standard
-high energy weapon, firing high energy bolts in the same manner as the laser car-
-bine. Heavier, the laser rifle is also capable of longer sustained action, and is some-
-what sturdiek. The power pack can provide 100 shots before recharging. As in the
+high energy weapon, firing high energy bolts in the same manner as the laser car-bine. Heavier, the laser rifle is also capable of longer sustained action, and is some-what sturdiek. The power pack can provide 100 shots before recharging. As in the
 laser carbine, the laser rifle is connected to the power pack by a heavy duty cable.
 Power packs are not interchangeable between the two weapons, however.
 Length: 1000mm. Weight of rifle: 6000 grams. Weight of power pack: 4000
@@ -2269,8 +2163,7 @@ eliminate the sound of guns firing, but so far they have proven practical only w
 ##### applied to body pistols, revolvers, and automatic pistols. A silencer attaches to the
 
 muzzle of the pistol, increasing its total length, and making it impossible to holster
-until the silencer is removed. Silencers are not interchangeable; one must be pur-
-chased for each specific model of pistol used.
+until the silencer is removed. Silencers are not interchangeable; one must be pur-chased for each specific model of pistol used.
 Length: 100 to 300mm. Weight: 500 to 700 grams. Base price: Cr200.
 
 
@@ -2296,8 +2189,7 @@ the torso and upper arms and legs. Jack is somewhat better than ordinary clothin
 or bare skin when defending against blades; it is worthless against guns.
 Mesh (Cr150; TL 7): A, jacket or body suit made of natural or synthetic leather
 and reinforced with a lining of flexible metal mesh, similar to chain mail but lighter
-and stronger. Mesh reduces or stops penetration by blades and has some effective-
-ness against guns; it is ineffective against laser fire.
+and stronger. Mesh reduces or stops penetration by blades and has some effective-ness against guns; it is ineffective against laser fire.
 
 ##### Cloth (Cr250; TL 6): A heavy duty body suit tailored from ballistic cloth. The
 
@@ -2334,8 +2226,7 @@ bulky, and weigh 10 kilograms; the weight counts against personal weight allow-
 at tech level 13+ adds no apparent weight.
 Combat Armor (Cr20000; TL 11 1: Combat armor is a complete vacc-suit-like
 array of metal and synthetic armor. Combat armor is strictly military and not
-available on the open market; it is issued to troop units and elite mercenary battal-
-ions. Before combat armor can be wocn, the user must have vacc suit skill-I or
+available on the open market; it is issued to troop units and elite mercenary battal-ions. Before combat armor can be wocn, the user must have vacc suit skill-I or
 
 
 
@@ -2374,12 +2265,10 @@ bursts instead of single shots. The higher ammunition usage results in the hit
 probabilities shown on the table (auto rifle uses the rifle row on the table when
 firing single shots). In addition, automatic fire allows rolling to hit twice against the
 same target. Finally, the group hit rule applies against companions of the target.
-Group Hits By Automatic Fire: Regardless of the designated target for auto-
-matic fire, non-evading individuals adjacent to the target are also attacked by the
+Group Hits By Automatic Fire: Regardless of the designated target for auto-matic fire, non-evading individuals adjacent to the target are also attacked by the
 burst of automatic fire. No more than two adjacent targets may be attacked, but
 each is the subject of a to hit roll with a DM of -3, and all other appropriate DMs.
-Group Hits By Shotguns: Each shot by a shotgun may attack up to three indi-
-viduals adjacent to the original target, provided they are in a group (herd, pack,
+Group Hits By Shotguns: Each shot by a shotgun may attack up to three indi-viduals adjacent to the original target, provided they are in a group (herd, pack,
 band, etc) and are each human-sized or smaller. In addition, when firing against
 flying targets (winged animals, flying vehicles) within range, a DM of +2 is allowed.
 Coup De Grace: Any gun or blade may be used to administer a coup de grace
@@ -2405,8 +2294,7 @@ flame to the touchhole. It fires as body pistol, but may not fire at close range
 which time the firer may not evade, and when fired may misfire (roll 4+ to avoid);
 if a misfire occurs, the weapon will not fire, but the firer may attempt to fire it in
 the next round. The musket fires as a carbine, but may not fire at very long range.
-Percussion Rifle (4000 grams, TL4): A,muzzle-loading rifle relying on an explos-
-ive cap to ignite the powder. Loading is the same as for a musket but there is no
+Percussion Rifle (4000 grams, TL4): A,muzzle-loading rifle relying on an explos-ive cap to ignite the powder. Loading is the same as for a musket but there is no
 chance of a misfire. The weapon fires as a rifle.
 Muzzle-loading Pistol (1500 grams, TL 3 or 4): A single-shot pistol, either flint-
 
@@ -2415,8 +2303,7 @@ Muzzle-loading Pistol (1500 grams, TL 3 or 4): A single-shot pistol, either flin
 
 fires as a body pistol.
 Percussion Revolver (1000 grams, TL 4): A sixshot revolver, with each chamber
-individually loaded with powder, ball, and a percussion cap. The gun may be reload-
-ed in 8 rounds, or the cylinder may be detached and another, previously loaded cyl-
+individually loaded with powder, ball, and a percussion cap. The gun may be reload-ed in 8 rounds, or the cylinder may be detached and another, previously loaded cyl-
 
 ##### inder may be put on in 2 rounds (cylinder weight: 300 grams). It fires as a revolver.
 
@@ -2444,8 +2331,7 @@ Carbine: Equivalent to the Ruger 5.56mm Mini-14 or the Armalite 5.56mm
 Ar-180.
 Rifle: Equivalent to the Springfield 7.62mm MI4 Rifle or the Belgian FN FAL
 7.62mm Rifle.
-Automatic Rifle: Equivalent to the full automatic versions of the rifles men-
-tioned above. The belt-fed automatic rifle is equivalent to the Russian DShK in rifle
+Automatic Rifle: Equivalent to the full automatic versions of the rifles men-tioned above. The belt-fed automatic rifle is equivalent to the Russian DShK in rifle
 caliber.
 Shotgun: Equivalent to the Remington MI 100.
 Submachinegun: Equivalent to the British Sterling 9mm L2A1, or the Israeli
@@ -2498,9 +2384,10 @@ Battle Dress
 
 
 WEAPONS AND EQUIPMENT
+
+
 Base Ammo Rds/ Length Base
-Weight Weight Clip Overall Price
-(250) - - 200 10
+Weight Weight Clip Overall Price (250) - - 200 10
 350 - - 300 50
 
 500 - - (^800 100)
@@ -2538,11 +2425,12 @@ Weight Weight Clip Overall Price
 1500 - - - 2000
 
 (^600) - - (+) (^200 200)
-(^1000) - - (+) 350 75
-(^500) - - (-1300 100
+(^1000) - - (+) 350 75 (^500) - - (-1300 100
 Ammo
 Price
 BODY ARMOR
+
+
 Description Price
 
 ##### Leather or synthetic jacketlbody suit 50
@@ -2564,6 +2452,8 @@ Description Price
 
 
 WEAPONS TABLE
+
+
 
 
 Attacker's
@@ -2630,6 +2520,8 @@ Level DM Level DM
 
 
 WEAPONS MATRIX
+
+
 Attacker's
 Weapon
 Hands
@@ -2721,6 +2613,8 @@ for each specific weapon. Note the DM based on range and weapon type.
 
 
 RANGE MATRIX
+
+
 Attacker's
 Weapon
 Hands
@@ -2842,6 +2736,8 @@ no 2D
 
 COMBAT PROCEDURE
 
+
+
 ##### 1. Determine if either party has the
 
 
@@ -2877,6 +2773,8 @@ City ...................... -4
 Building Interior, Cave .......... -5
 
 ENCOUNTER RANGES
+
+
 Dice Range
 1 ..................... Short
 2 ..................... Close
@@ -2906,6 +2804,8 @@ Pouncer animals ............. .+I
 
 
 RANGES
+
+
 Close: in physical contact; touching.
 Short: at sword or polearm point;
 approximately 1 to 5 meters.
@@ -2918,21 +2818,21 @@ Very Long: at extreme range; from
 
 
 WEIGHT LIMITATIONS
+
+
 Normal Load: May not exceed
 personal strength in kilograms.
 Double Load: Encumbered, but may
-carry twice personal strength in kilo-
-grams. Strength, dexterity, and endur-
-ance reduced by - 1 each.
+carry twice personal strength in kilo-grams. Strength, dexterity, and endur-ance reduced by - 1 each.
 Triple Load: Encumbered, but may
-carry triple personal strength in kilo-
-grams. Strength, dexterity, and endur-
-ance are each reduced by -2. Individual
+carry triple personal strength in kilo-grams. Strength, dexterity, and endur-ance are each reduced by -2. Individual
 must be a member of a military unit to
 carry triple load.
 
 
 GRAVITATIONAL EFFECTS
+
+
 World Normal Double Triple
 0 200.0% 400.0% 600.0%
 1 187.5% 375.0% 562.5%

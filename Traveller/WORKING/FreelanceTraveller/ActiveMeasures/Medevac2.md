@@ -66,7 +66,7 @@ The President will not be very mobile with catheter, nasal/gastric tubes or drai
 
 6 - or oxygen prong. A lightweight tube which at one end, after hooking around the patient's ears, splits into two prongs inserted into the nostrils to deliver air/oxygen. The other end may be connected to a portable oxygen generator or a hospital wall connection. Invented on Terra around early TL6.
 
-7 - A tube which runs up the nose, down the throat and into the stomach to drain stomach fluid to a bedside bag and which may be supported at intervals by aspiration (a large syringe sucking out the stomach contents if it's not draining itself – a vile green bile). Insertion is Routine, but exceedingly unpleasant for the patient who must attempt to swallow the tube. In situ, it is also unpleasant, may cause a (near constant) gag reflex and makes swallowing medication difficult.
+7 - A tube which runs up the nose, down the throat and into the stomach to drain stomach fluid to a bedside bag and which may be supported at intervals by aspiration (a large syringe sucking out the stomach contents if it's not draining itself – a vile green bile). Insertion is Routine, but exceedingly unpleasant for the patient who must attempt to swallow the tube. In situ, it is also unpleasant, may causea (near constant) gag reflex and makes swallowing medication difficult.
 
 8 - Eventually this settles down to a small bag attached to the body which needs emptying 4-6 times a day and changing once a day. However, in the initial stages following surgery, it may be in overdrive and need a larger bedside drainage bag.
 
@@ -111,7 +111,7 @@ Formal flower arranging is a popular and cut-throat hobby on the world of the Pr
 
 **Prof Jamz Kaan**, 697DDA, Age 46, Cr60,000      
 Rank 5: Scholar: Physician  
-_Characteristics:_ STR 6 (+0), DEX 9 (+1), END 7 (+0), INT 13 (+2), EDU 13 (+2), SOC 10 (+1)  
+_Characteristics:_ STR6 (+0), DEX9 (+1), END7 (+0), INT 13 (+2), EDU 13 (+2), SOC 10 (+1)  
 _Skills:_ Electronics (remote operations) 4, Medic 4, Investigate 3, Science (biology) 2, Admin 1, Art (writing) 1, Diplomat 1, Language 1, Drive 0, Mechanic 0, Profession (biologicals) 0, Science (robotics) 0  
 _Equipment:_ Lab Ship, Scientific Equipment  
 _Relationships:_ Ally, Enemy×2
@@ -123,6 +123,8 @@ Professor Kaan is of middling height, well-proportioned and has the typical conf
 Colorectal Surgery Robot:
 
  
+
+
 
 A surgical robot in three parts: the patient cart (the actual robot performing the keyhole surgery with four arms – one of which is a camera), the surgeon console (from which the surgeon responsible remotely operates the robot) and the vision cart (which provides power generation, image processing and information systems).
 
@@ -140,11 +142,15 @@ IV drip stand:
 
  
 
+
+
 a 2m stand on five castors capable of carrying a load of up to 4kg of hanging infusion bags. Two or three IV infusion pumps may be located on the stand below the infusion bags.
 
 IV infusion pump:
 
  
+
+
 
 A volumetric pump (about the size of a hardback book) through which IV lines are passed and which calculates volume over time and delivery rates in conjunction with the desired dose rate (e.g., mg/kg/min). Alarms indicate  various conditions requiring attention.
 
@@ -152,11 +158,15 @@ Medical bed:
 
  
 
+
+
 An adjustable bed on (lockable) wheels. Height can be adjusted as well as head angle and knee angle. The sides and end panels can be flipped down to allow easier ingress/egress of the bed or for support staff to make the bed. Patients may be wheeled to scanning units without having to be mobile. Control panels at the foot of the bed are accessible for staff and another panel near the head give the patient the ability to adjust position.
 
 Sequential Compression Pump:
 
  
+
+
 
 A toaster size unit placed at the foot of the patient's bed which every 20 seconds or so inflates cuffs around the patient's calves to avoid deep vein thrombosis or pulmonary embolism (or both: a venous thromboembolism).
 
@@ -226,7 +236,7 @@ Central Supply Catalogue (Mongoose Publishing)
 
 Clement Sector (Independence Games)
 
-Compendium 1 (Mongoose Publishing)
+Compendium1 (Mongoose Publishing)
 
 M*E*R*C*Y: a campaign setting for Cepheus Engine (Michael Brown)
 

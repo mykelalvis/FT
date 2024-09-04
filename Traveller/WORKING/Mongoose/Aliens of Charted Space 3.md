@@ -78,8 +78,7 @@ While certainly not a monoculture across the entire Darrian Confederation, socie
 
 As a pacifistic society, Darrians are viewed with contempt by more militaristic races. They prefer to settle disputes and conflicts via negotiation or clever ruse but there is more to Darrian pacifism than meets the eye. Darrian society is based on the wellbeing of the community rather than gratification of the self, with a strong emphasis on scientific and artistic excellence, stringent self-control, acceptance of others and stoic persistence.
 
-Darrian culture is also influenced by member races of the Confederation. Citizens are treated equally regardless of race or origin. The breakdown of the collected world's populace is 75% pure strain Darrian, 12% mixed strain Darrian, 8% Aslan, 3% pure strain Solomani and 2% other races. Since their arrival on the Darrian homeworld, the Solomani have been absorbed into the culture but in return they introduced novel concepts such as personal freedom and ambition. The Aslan, with their more alien society, continue to follow Aslan traditions but have been slowly and voluntarily adopting Darrian characteristics such as monogamy, prohibition against unnecessary killing and pursuit of intellectual rather than militaristic pursuits. Non-
-Darrian Aslan see this as a betrayal of traditional ideals, considering their brethren to be barbarians and traitors to the true Aslan way.
+Darrian culture is also influenced by member races of the Confederation. Citizens are treated equally regardless of race or origin. The breakdown of the collected world's populace is 75% pure strain Darrian, 12% mixed strain Darrian, 8% Aslan, 3% pure strain Solomani and 2% other races. Since their arrival on the Darrian homeworld, the Solomani have been absorbed into the culture but in return they introduced novel concepts such as personal freedom and ambition. The Aslan, with their more alien society, continue to follow Aslan traditions but have been slowly and voluntarily adopting Darrian characteristics such as monogamy, prohibition against unnecessary killing and pursuit of intellectual rather than militaristic pursuits. Non-Darrian Aslan see this as a betrayal of traditional ideals, considering their brethren to be barbarians and traitors to the true Aslan way.
 
 ### FAMILY
 
@@ -91,16 +90,13 @@ Once married, Darrians are expected to remain faithful to their partner for the 
 
 Marriages normally produce an average of two or three children. Family names are descended from the paternal line but in return the mother has the right to give the child it's birth name.
 
-Children are raised to be respectful of their elders and the community, to seek knowledge and be open-
-minded to opposing thoughts. Behaviour is re-enforced through social ostracism – antisocial, non-communal and selfish acts are punished with exile of the perpetrator from their peers.
+Children are raised to be respectful of their elders and the community, to seek knowledge and be open-minded to opposing thoughts. Behaviour is re-enforced through social ostracism – antisocial, non-communal and selfish acts are punished with exile of the perpetrator from their peers.
 
 Darrians are considered adolescent when they reach
 
-14. Self-reliance is taught at this age and any anti-
-social conduct is punished with cessation of societal benefits, cutting the youth off from food, shelter and transport until they realise their error and that they cannot function as a complete individual without the support of others. Continued misbehaviour normally ends with exile and occasionally death of the perpetrator, normally through malnutrition or exposure. While this is viewed as unnecessarily harsh by citizens of the Imperium, this method has been in use for thousands of years and death is rarely the outcome unless the individual truly desires it. Those who wish to continue in their selfish anti-social behaviour may choose to exile to the world of Rorre or elsewhere beyond the borders of the Confederation.
+14. Self-reliance is taught at this age and any anti-social conduct is punished with cessation of societal benefits, cutting the youth off from food, shelter and transport until they realise their error and that they cannot function as a complete individual without the support of others. Continued misbehaviour normally ends with exile and occasionally death of the perpetrator, normally through malnutrition or exposure. While this is viewed as unnecessarily harsh by citizens of the Imperium, this method has been in use for thousands of years and death is rarely the outcome unless the individual truly desires it. Those who wish to continue in their selfish anti-social behaviour may choose to exile to the world of Rorre or elsewhere beyond the borders of the Confederation.
 
-At 22, a Darrian is legally considered an adult. At this point they are encouraged to leave home and begin lives for themselves. Family bonds remain close and during their declining years parents are normally cared for by their children, grandchildren or great-
-grandchildren, often cycling between them to reduce unnecessary strain.
+At 22, a Darrian is legally considered an adult. At this point they are encouraged to leave home and begin lives for themselves. Family bonds remain close and during their declining years parents are normally cared for by their children, grandchildren or great-grandchildren, often cycling between them to reduce unnecessary strain.
 
 **COMMUNITY**
 Darrians have no concept of tribe, clan or nation. Instead, they think of themselves as a unified world and even that is second to the identity of the Confederation. Each member world of the Confederation has its own minor variations in culture and tradition but this is to be expected from a polity splintered for a significant amount of time. Since their return to interstellar travel, the worlds have knitted together into a surprisingly homogenous civilization. No matter who they are, Darrian, Solomani, Aslan; they are all members of the Confederation and they are all Darrian.
@@ -157,8 +153,7 @@ While the member worlds of the Darrian Confederacy have their own governments, t
 
 The political organization of the Confederation uses the following structure.
 
-**Municipal Government:** One local officer is elected for every 1,000 citizens to oversee and represent his electorate. Local in this sense can be quite abstract, as the citizens may be residents of a densely packed city block or spread across a lightly populated continent. These officers become de facto leaders during non-
-military catastrophes, if communication or social structure breaks down.
+**Municipal Government:** One local officer is elected for every 1,000 citizens to oversee and represent his electorate. Local in this sense can be quite abstract, as the citizens may be residents of a densely packed city block or spread across a lightly populated continent. These officers become de facto leaders during non-military catastrophes, if communication or social structure breaks down.
 
 **Planetary Government:** Varies according to world.
 
@@ -364,26 +359,21 @@ GAROO A-A
 
 SPUME C-A
 
-JUNCTION D-
-TERANT 340 D-
+JUNCTION D-TERANT 340 D-
 
 STERN-STERN B-B
 
 NONYM C-A ZAMINE C-A
 
-CUNNONIC E-
-TRIFUGE C-
+CUNNONIC E-TRIFUGE C-
 
 JACENT A-D
 
 NOSEA B-C
 
-494-
-X-
+494-X-
 
-LABERV B-
-ENGRANGE C-
-EKTRON C-
+LABERV B-ENGRANGE C-EKTRON C-
 
 ILIUM B-
 
@@ -401,8 +391,7 @@ UNIQUA E-
 
 BULARIA C-
 
-886-
-E-
+886-E-
 
 DORANNIA E-
 
@@ -466,11 +455,12 @@ E833000-
 
 DARRIAN SUBSECTOR
 
+
+
 **SPINWARD MARCHES**
 
 **MINISTRY OF FINANCE**
-The Ministry of Finance is responsible for both the collection of taxes and assignment of the annual budget from collected monies. This task is made simpler due to the readily available banking records of both individuals and businesses. Taxes are automatically garnished from wages or business transactions. Additional revenue is gained from taxation of cargo both imported into and exported from the Confederation, as are non-
-citizens visiting the worlds whether they are conducting business or merely tourists.
+The Ministry of Finance is responsible for both the collection of taxes and assignment of the annual budget from collected monies. This task is made simpler due to the readily available banking records of both individuals and businesses. Taxes are automatically garnished from wages or business transactions. Additional revenue is gained from taxation of cargo both imported into and exported from the Confederation, as are non-citizens visiting the worlds whether they are conducting business or merely tourists.
 
 The number of taxes in the Confederation are few but applied to all. A sliding scale adjusts taxation rates to ensure those who earn more are taxed at a greater rate than those who earn less, ensuring no great hardship placed on the poorest. Anyone working in the Confederation, citizen and non-citizen alike, are required by law to be paid into a Darrian bank account where money can be traced. Many non-Darrian megacorporations sometimes pay their employees a second wage specifically sent into the Confederation, otherwise top executives would have their locally disproportionate wages severely taxed.
 
@@ -647,8 +637,7 @@ Darrians are not a war-loving race, nor do they glorify armed exchanges. Despite
 **NAVAL ORGANISATION**
 The navy is organised into two tiers; planetary and Confederation navies. Planetary navies patrol local systems with their main responsibilities being piracy suppression, search and rescue operations, and system defence. The Confederation Navy is responsible for exploration, border patrols and strategic defence of the Confederation as a whole. Although outnumbered by their planetary cohort, Confederation officers hold superior rank and are able to commandeer
 
-local vessels during military or civil emergences, although they must have good reason or risk court-
-martial after the event.
+local vessels during military or civil emergences, although they must have good reason or risk court-martial after the event.
 
 Planetary navies are financially supported by their home government, so smaller systems usually have fewer ships and may have running costs subsidized by the Confederation. Most colonial warships are TL13 cruisers and escorts handed down from the Confederation Navy, which is in the process of replacing older vessels with updated TL15 craft imported from the Imperium. System defence boats are universally TL15 vessels built in the Confederation. Taken together with their ancient TL16 vessels, the Darrians arguably have the most advanced navy in the Spinward Marches. Obsolete colonial assets are taken in by the Ministry of Defence in exchange for newer assets, gutted and transformed into vessels for a lightly armed tender fleet.
 
@@ -664,8 +653,7 @@ Due to the necessity to protect these priceless capital ships, the main elements
 
 Naval doctrine does not support the use of fighter craft, believing missiles are more stealthy, manoeuvrable and capable of being carried in far greater numbers. With its edge in sensor technology granting greater ECM capabilities, the Confederation encourages colonial squadrons to invest in missile-armed SDBs and covert missile pods to fill the gap.
 
-Darrian marines are treated as a subdivision of the navy and not considered an independent military arm. They are used exclusively as ship boarding or counter-
-boarding troops but never for orbital assault, which is the responsibility of specially trained units of the Confederation Guard.
+Darrian marines are treated as a subdivision of the navy and not considered an independent military arm. They are used exclusively as ship boarding or counter-boarding troops but never for orbital assault, which is the responsibility of specially trained units of the Confederation Guard.
 
 ### GUARD ORGANISATION
 
@@ -797,8 +785,7 @@ Approximately 200,000 years after being removed from Terra, the Darrians finally
 
 The rise of permanent urbanization, supported by animal husbandry and rotational crop farming, brought with it sustainable population growth. Extensive settlement of available land led to exploration of the more hostile mountainous regions surrounding each basin. The mountains rose sharply, forcing pioneers to settle in the foothills due to the thinning atmosphere, making life at higher altitudes uncomfortable.
 
-Years passed as the Darrians slowly extended their penetration into these areas, their bodies adapting to the thinner air. By the year -20,000 the people of the Southern Polar Abh Basin discovered a high-
-altitude pass through the frozen peaks and into the neighboring Nyadh, Rimb and Boyr Basins. They discovered three independent cultures, each radically different from each other with unique languages, customs and traditions.
+Years passed as the Darrians slowly extended their penetration into these areas, their bodies adapting to the thinner air. By the year -20,000 the people of the Southern Polar Abh Basin discovered a high-altitude pass through the frozen peaks and into the neighboring Nyadh, Rimb and Boyr Basins. They discovered three independent cultures, each radically different from each other with unique languages, customs and traditions.
 
 Initial contact was peaceful but fraught with fear and misunderstanding. Small embassies were followed by colonial attempts or militaristic expansions. The original exploratory missions devolved into raids
 
@@ -891,8 +878,7 @@ The advance of Darrian civilization from TL3 to TL10 and beyond was not without 
 
 These scattered organizations unified under the leadership of Ghorge Rorre with the intention of finding a new world that would not be contaminated with technology. They studied hundreds of scouting reports and decided on a world several parsecs away. Formal requests were made to begin an offworld colony. With no plans to start their own colonies, the basin governments granted consent, providing that prospective colonists funded and organised their own transport. Tens of thousands of Darrians pooled their resources, raising enough finances to manufacture several large cargo carriers. Loaded with colonists, the followers of Rorre left Daryen behind and settled the new world, which they named in his honor.
 
-The new colony created a charter that included long-
-term prohibitions against technology above TL3. Outside of the starport, where high technology was required to handle spacecraft, the colonists made the
+The new colony created a charter that included long-term prohibitions against technology above TL3. Outside of the starport, where high technology was required to handle spacecraft, the colonists made the
 
 Darrian History
 
@@ -935,8 +921,7 @@ The surface temperature rose from 50o to 100oC in moments as the stratosphere st
 
 The only remaining Darrians were those trapped in a few subterranean installations and the handful of submerged cities in the deepest parts of the Zlodh Ocean. The horrified survivors called the extinction event the Maghiz , the te-zlodh word for Chaos.
 
-The hyper-flares did not stop at Daryen. They continued on throughout the system, devastating already functionless orbital manufacturing plants, drifting spaceships and a few outlying research outposts. In an unlikely chance of fate, the Abh Project station in the asteroid belt was located within a vast nickel-iron planetoid, heavily shielded to prevent stray signals interfering with sensitive equipment. The base, but not its surface communications or shuttles, survived the initial pulse. Nevertheless, the following flares caught most of the research team as they attempted repairs on both. The handful of survivors spent four years cannibalising remaining equipment to jury-
-rig a single gig to take them back to the devastated nightmare on Daryen.
+The hyper-flares did not stop at Daryen. They continued on throughout the system, devastating already functionless orbital manufacturing plants, drifting spaceships and a few outlying research outposts. In an unlikely chance of fate, the Abh Project station in the asteroid belt was located within a vast nickel-iron planetoid, heavily shielded to prevent stray signals interfering with sensitive equipment. The base, but not its surface communications or shuttles, survived the initial pulse. Nevertheless, the following flares caught most of the research team as they attempted repairs on both. The handful of survivors spent four years cannibalising remaining equipment to jury-rig a single gig to take them back to the devastated nightmare on Daryen.
 
 The gamma rays from Tarnis continued outwards into interstellar space, hitting each Darrian colony world in turn. Even with forewarning of 'Pulse Day', it was impossible to shield every piece of electronic equipment from the radiation wave – many colonies simply lacked the materials or machinery to construct enough protective cages. As it arrived in each system, electronic devices were powered down and earthed, but many still fried. Eventually, after nearly six parsecs, the wave front dissipated, unable to generate further EMP effect.
 
@@ -1056,8 +1041,7 @@ Frustrated at the failure of the Imperium to return lost territory and the conti
 
 With the Sword Worlds unable to organise retaliation, the Darrians made good use of the cessation of hostilities – decommissioning hundreds of gulags they found on Entrope and offering citizenship to any Sword Worlders who wished to change nationality. Funding new industrialization and infrastructure, the burgeoning populace began to turn Entrope from a frozen strip mine into a highly productive manufacturing world.
 
-From 800 to 860, the Imperium undertook a series of psionic purges. While the Darrians were open-
-minded regarding psionics, they subtly began to tone down the open use of them in order to maintain good relationships with their allies. The Psionic Suppressions drove many psions to seek asylum in the Confederation where they were covertly accepted and secreted on Rorre. While Imperial citizens believe the Darrians share their hatred for psionics, the higher echelons of the military and espionage services were aware of psionic enclaves within the Confederation but chose not to take issue with it.
+From 800 to 860, the Imperium undertook a series of psionic purges. While the Darrians were open-minded regarding psionics, they subtly began to tone down the open use of them in order to maintain good relationships with their allies. The Psionic Suppressions drove many psions to seek asylum in the Confederation where they were covertly accepted and secreted on Rorre. While Imperial citizens believe the Darrians share their hatred for psionics, the higher echelons of the military and espionage services were aware of psionic enclaves within the Confederation but chose not to take issue with it.
 
 In 848 the Sword Worlds government again collapsed, leading to four years of anarchy. The collapse was welcomed by most Darrians but political scientists feared this would eventually lead to a stronger, more authoritarian government. Their fears proved to be accurate with the formation of the Sword Worlds Confederation. To their relief however, the new central government were not able to re-establish a joint fleet.
 
@@ -1069,8 +1053,7 @@ With the terms agreed, the Darrians took advantage of the manufacturing infrastr
 
 The situation deteriorated further when the Imperium decided to build another naval base near Quar, which flanked Zhodani acquisitions in the Querion subsector. The Consulate protested such antagonism, fearing what might happen to the vulnerable spur if caught in a strategic pincer between two major fleet facilities. Seeing Quar as the more significant threat, the Zhodani staged a belligerent incident near the system that unintentionally led to the Fourth Frontier War.
 
-Increasingly concerned by the nearly completed fleet facilities around Entrope, the Sword Worlds used the pretext of the Fourth Frontier War to launch an all-
-out assault on the world, supported morally by their Zhodani allies. The surprise attack destroyed the base before its defences could be brought online. Flushed with success, the Sword Worlds fleet continued on to conquer the rest of the Entropic Worlds.
+Increasingly concerned by the nearly completed fleet facilities around Entrope, the Sword Worlds used the pretext of the Fourth Frontier War to launch an all-out assault on the world, supported morally by their Zhodani allies. The surprise attack destroyed the base before its defences could be brought online. Flushed with success, the Sword Worlds fleet continued on to conquer the rest of the Entropic Worlds.
 
 Suffering significant losses from the attack, the Darrian Navy was forced to withdraw from the Entropic Worlds, abandoning the outflanked penal colony on Torment in the process. Later reconnaissance revealed the penal installation to be empty, the fate of prisoners housed within unknown. Shortly afterwards, a spate of vicious pirate attacks was launched on merchant shipping and supply lines deep within the Confederation, which prevented a Darrian counterattack from relieving annexed worlds before peace was signed between the Imperium and the Zhodani.
 
@@ -1214,13 +1197,11 @@ Intellectual achievements have their own titles. Any Traveller with EDU 10+ may 
 **BACKGROUND SKILLS**
 In addition to the 3+ EDU DM skills gained from background skills, a Darrian gains an additional Science 0 skill. This represents the more intense and broader base of study prevalent in Darrian society.
 
-PRE-CAREER EDUCATION Darrians are required, for their first term, to choose to enlist in the military or continue with further education. Those who choose further education may use pre-
-career education options from the _Traveller Core Rulebook,_ choosing university or military academy. Once they have graduated, they may continue in any career they choose, although many continue their studies as a Scholar.
+PRE-CAREER EDUCATION Darrians are required, for their first term, to choose to enlist in the military or continue with further education. Those who choose further education may use pre-career education options from the _Traveller Core Rulebook,_ choosing university or military academy. Once they have graduated, they may continue in any career they choose, although many continue their studies as a Scholar.
 
 ### THE DRAFT
 
-Darrians who fail to successfully enter pre-career education or the military for their first term will be forced to apply to the draft and be randomly sent to pre-
-career education or one of the military services. After a Traveller's first term, if a Darrian fails to qualify for a career of their choice, they may enter the Wanderer career or apply to the draft again.
+Darrians who fail to successfully enter pre-career education or the military for their first term will be forced to apply to the draft and be randomly sent to pre-career education or one of the military services. After a Traveller's first term, if a Darrian fails to qualify for a career of their choice, they may enter the Wanderer career or apply to the draft again.
 
 Darrian Draft 1D Career 1–2 University 3 Military Academy 4 Guard 5 Militia 6 Navy
 
@@ -1326,8 +1307,7 @@ Passage to other worlds are always at the equivalent of middle passage.
 
 ### OTHER CAREERS
 
-Darrians living in the Imperium or other human-
-dominated societies may use careers in the Traveller Core Rulebook instead. Most such individuals are exiles or children of exiles. However, many Darrians decide to leave the safety of the Confederation and seek their fortunes elsewhere. For example, while rare, it is not unknown for individual Darrians to join a branch of the Imperial military or civil administrations. This service is accepted by the Confederation, because of the experiences and different viewpoints that are brought back when they eventually return.
+Darrians living in the Imperium or other human-dominated societies may use careers in the Traveller Core Rulebook instead. Most such individuals are exiles or children of exiles. However, many Darrians decide to leave the safety of the Confederation and seek their fortunes elsewhere. For example, while rare, it is not unknown for individual Darrians to join a branch of the Imperial military or civil administrations. This service is accepted by the Confederation, because of the experiences and different viewpoints that are brought back when they eventually return.
 
 ###### Agent
 
@@ -1547,19 +1527,16 @@ Cavalry: You pilot the heavy armored vehicles of the Confederation, such as APCs
 
 1D PERSONAL DEVELOPMENT SERVICE SKILLS
 
-ADVANCED EDUCATION
-(MIN. EDU 8)
+ADVANCED EDUCATION (MIN. EDU 8)
 
-OFFICER
-(COMMISSIONED ONLY)
+OFFICER (COMMISSIONED ONLY)
 1 STR +1 Athletics Tactics (military) Electronics (comms)
 2 DEX +1 Vacc Suit Leadership Electronics (computers)
 3 END +1 Gun Combat Advocate Leadership 4 Athletics Heavy Weapons Diplomat Navigation 5 Gun Combat Melee Electronics Electronics (sensors)
 6 Melee Recon Admin Tactics (military)
 
 1D CAVALRY INFANTRY SUPPORT 1 Electronics (comms) Vacc Suit Vacc Suit 2 Flyer Gun Combat Electronics (comms)
-3 Engineer Heavy Weapons (man portable) Engineer 4 Heavy Weapons
-(vehicle)
+3 Engineer Heavy Weapons (man portable) Engineer 4 Heavy Weapons (vehicle)
 
 Heavy Weapons (artillery) Explosives
 
@@ -1690,11 +1667,9 @@ Skills and training
 
 1D PERSONAL DEVELOPMENT SERVICE SKILLS
 
-ADVANCED EDUCATION
-(MIN. EDU 8)
+ADVANCED EDUCATION (MIN. EDU 8)
 
-OFFICER
-(COMMISSIONED ONLY)
+OFFICER (COMMISSIONED ONLY)
 1 STR +1 Athletics Tactics (military) Electronics (comms)
 2 DEX +1 Gun Combat Electronics Electronics (computers)
 3 END +1 Melee Navigation Leadership 4 Athletics Recon Explosives Navigation 5 Gun Combat Stealth Engineer Electronics (sensors)
@@ -1756,11 +1731,9 @@ Skills and training
 
 1D PERSONAL DEVELOPMENT SERVICE SKILLS
 
-ADVANCED EDUCATION
-(MIN. EDU 8)
+ADVANCED EDUCATION (MIN. EDU 8)
 
-OFFICER
-(COMMISSIONED ONLY)
+OFFICER (COMMISSIONED ONLY)
 1 STR +1 Gun Combat Electronics Admin 2 DEX +1 Gunner Astrogation Electronics (computers)
 3 END +1 Melee Engineer Leadership 4 INT +1 Pilot (small craft) Drive Science 5 EDU +1 Vacc Suit Navigation Tactics (naval)
 6 Jack-of-all-Trades Athletics (dexterity) Admin Tactics (naval)
@@ -1923,6 +1896,8 @@ RANK COMMANDO/ PSION SKILL OR BONUS
 6 Major —
 
 RANK SCIENTIST SKILL OR BONUS 
+
+
 0 Assistant —
 1 Researcher Jack-of-all-Trades 1 
 2 Analyst Admin 1 
@@ -2057,8 +2032,7 @@ RANK SKILL OR BONUS 0 —
 5 —
 6 Contact
 
-Individuals in this career wander from place-to-place and job-
-to-job, never quite putting down roots anywhere.
+Individuals in this career wander from place-to-place and job-to-job, never quite putting down roots anywhere.
 
 Qualification: Automatic for Drifter and Nomad. One does not 'qualify' for Exile; you got exiled as a sentence for a crime you may or may not have committed. Travellers entering the Exile assignment lose SOC -2.
 
@@ -2118,8 +2092,7 @@ Civilian armor is sometimes used in hostile roles, such as vacuum mining, or wit
 
 Gel Suit: Primarily used for recreation such as vehicle racing or contact sports, the gel suit is a skin tight body glove, similar to a wetsuit. It comprises a reactive gel sandwiched between two layers of ballistic cloth. Violent impacts cause the gel to solidify, distributing the force of the blow across a wider surface. Although the suit permits full mobility, it momentarily hardens when blocking damage, reducing the wearer's initiative by -1 for each attack it blocks in a round. The cost includes separate gloves and hood.
 
-Guard Armor: Issued to infantry forces of Darrian worlds, guard armor is designed for direct conflict but still versatile enough for guerrilla tactics. A combat armor equivalent, guard armor acts as a normal vacc suit against pressure and radiation but carries an improved camouflage system, using an advanced bio-engineered molecular surface, which mimics its surroundings. Attempts to detect the wearer suffer DM-4 to Recon checks in both the visible and infrared spectrum. The entire suit is powered by bio-
-mechanical motion, such as breathing or walking, to prevent extraneous electrical signals. Although the armor is stripped of electronic components, it remains expensive due to the unique hydraulic and biochemical technologies used in its construction.
+Guard Armor: Issued to infantry forces of Darrian worlds, guard armor is designed for direct conflict but still versatile enough for guerrilla tactics. A combat armor equivalent, guard armor acts as a normal vacc suit against pressure and radiation but carries an improved camouflage system, using an advanced bio-engineered molecular surface, which mimics its surroundings. Attempts to detect the wearer suffer DM-4 to Recon checks in both the visible and infrared spectrum. The entire suit is powered by bio-mechanical motion, such as breathing or walking, to prevent extraneous electrical signals. Although the armor is stripped of electronic components, it remains expensive due to the unique hydraulic and biochemical technologies used in its construction.
 
 Guard Armor
 
@@ -2145,11 +2118,15 @@ Module attachment points are built into the back of the suit, allowing it to spe
 
 ARMOR TYPE PROTECTION TL RAD STR DEX KG COST REQUIRED SKILL
 
+
+
 Darrian Battle Dress +28 15 300 +5 +5 35 MCr5 Vacc Suit 2 Special Arm Battle Dress +31 16 330 +8 +8 30 N/A Vacc Suit 1
 
 Special Arm Battle Dress: Special Arm troops have access to pre-Maghiz suits of battle dress. Similar to the retro-design provided to Confederation Guard Regiments, these advanced suits contain the same functionality but include personal meson comms, psionic shielding, a neural carbine, which replaces one of the gauss pistols, and life support is further extended to 144 hours. It uses the same backpack modules as Darrian battle dress.
 
 ARMOR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 
 Gel Suit +4 10 — 3 Cr30000 None Guard Armor +20 14 200 6 Cr800000 Vacc Suit 0 Hostile Mining Vacc Suit +7
 +15
@@ -2186,8 +2163,7 @@ Anti-Personnel: The standard weapons unit is a VRF gauss rifle with backpack mou
 
 Ite m TL Kg Cost Anti-Personnel Module 15 15 Not Available
 
-Command: Command modules incorporate a comprehensive tactical relay network hub, allowing a commander to share benefits of their Tactics checks with a unit in communications range, and command-
-assist computer software. This equipment provides DM+1 to all Tactics (military) checks. The transmitters and bulky battlefield C&C computers take up the entire available volume of the module.
+Command: Command modules incorporate a comprehensive tactical relay network hub, allowing a commander to share benefits of their Tactics checks with a unit in communications range, and command-assist computer software. This equipment provides DM+1 to all Tactics (military) checks. The transmitters and bulky battlefield C&C computers take up the entire available volume of the module.
 
 Item TL Kg Cost Command Module 15 15 Not Available
 
@@ -2199,11 +2175,8 @@ Item TL Kg Cost Electronics Warfare Module 15 15 Not Available
 
 All Darrian battle dress comes equipped with the electronics suites shown here, appropriate to Tech Level.
 
-TL Electronics Suites 15 Advanced Holographic Camera, Atmosphere Tester, Computer/6
-(hardened), Eye Protection, Geiger Counter, Improved Neural Activity Detector, IR Goggles, Light Intensifier Goggles, Motion Sensor, NBC Combination Analysis Unit, PRIS Binoculars, Radio Transceiver
-(5,000km range), Scope, Surveillance Radar (5km range)
-16 Advanced Holographic Camera, Atmosphere Tester, Bioscanner, Computer/8, Eye Protection, Geiger Counter, Improved Neural Activity Detector, IR Goggles, Light Intensifier Goggles, Motion Sensor, NBC Combination Analysis Unit, PRIS Binoculars, Radio Transceiver
-(10,000km range), Scope, Surveillance Radar (10km range)
+TL Electronics Suites 15 Advanced Holographic Camera, Atmosphere Tester, Computer/6 (hardened), Eye Protection, Geiger Counter, Improved Neural Activity Detector, IR Goggles, Light Intensifier Goggles, Motion Sensor, NBC Combination Analysis Unit, PRIS Binoculars, Radio Transceiver (5,000km range), Scope, Surveillance Radar (5km range)
+16 Advanced Holographic Camera, Atmosphere Tester, Bioscanner, Computer/8, Eye Protection, Geiger Counter, Improved Neural Activity Detector, IR Goggles, Light Intensifier Goggles, Motion Sensor, NBC Combination Analysis Unit, PRIS Binoculars, Radio Transceiver (10,000km range), Scope, Surveillance Radar (10km range)
 
 Air Suppression: An air defence module containing an advanced anti-missile laser system, which is tied into the suit's sensor system for target identification. This allows the Traveller to ignore all negative DMs incurred for attacking a fast moving target. The module is also equipped with a rocket pod or heavy rocket pod (see page 133 of the Central Supply Catalogue ).
 
@@ -2226,6 +2199,8 @@ Item TL Kg Cost Exoskeleton 10 10 Cr10000
 Item TL Kg Cost Pressure Respirator 8 10 Cr2000 Pressure Respirator 9 5 Cr1500 Pressure Respirator 11 — Cr800
 
 ELECTRONICS
+
+
 **Atmosphere Tester:** A hand-held device that monitors air breathability and quality. A simple readout indicates pressure (thin, dense and so forth)
 and whether the air is within breathable parameters. An audible alarm and flashing warning indicate unbreathable or toxic gas mixes but the unit does not indicate what the hazard composition is.
 
@@ -2249,8 +2224,7 @@ Item TL Kg Cost Motion Sensor 7 1 Cr1000 Motion Sensor 9 1 Cr2000
 
 ### NBC
 
-Combination Analysis Unit: A personal alarm that automatically monitors for radiation, biological and chemical threats, and gives both an alarm and an indication of severity (mild-moderate-high-severe-
-extreme). The standard model does not indicate the specific threat but will inform the user if the hazard is radiation, biological or chemical. The advanced model will indicate the specific threat if known to the unit's database.
+Combination Analysis Unit: A personal alarm that automatically monitors for radiation, biological and chemical threats, and gives both an alarm and an indication of severity (mild-moderate-high-severe-extreme). The standard model does not indicate the specific threat but will inform the user if the hazard is radiation, biological or chemical. The advanced model will indicate the specific threat if known to the unit's database.
 
 Ite m TL Kg Cost NBC Combination Analysis Unit 7 1 Cr500 Advanced NBC Combination Analysis Unit
 
@@ -2258,9 +2232,7 @@ Ite m TL Kg Cost NBC Combination Analysis Unit 7 1 Cr500 Advanced NBC Combinatio
 
 CSC: Darrian
 
-Neural Activity Detector: A large and bulky unit that detects brainwave activity within 500 meters. The NAS can indicate the order of the creature emitting the neural activity
-(human-equivalent might be Vargr, Aslan or Drone; dog-
-equivalent might be a horse, poni or kian) and the number of emissions or individuals within the area. The unit is not very reliable or precise and can be fooled by large numbers of low-order brainwave emissions.
+Neural Activity Detector: A large and bulky unit that detects brainwave activity within 500 meters. The NAS can indicate the order of the creature emitting the neural activity (human-equivalent might be Vargr, Aslan or Drone; dog-equivalent might be a horse, poni or kian) and the number of emissions or individuals within the area. The unit is not very reliable or precise and can be fooled by large numbers of low-order brainwave emissions.
 
 At TL15, an improved hand-held version becomes available that is more reliable than the TL14 model.
 
@@ -2270,8 +2242,7 @@ Item TL Kg Cost Neural Activity Detector 14 10 Cr55000 Improved Neural Activity 
 
 In addition to standard comms equipment, at TL14 Darrians retro-engineer their existing artefacts and portable meson communication becomes available.
 
-Meson Transceivers Kg Range Cost TL14 100 Distant (50km) Cr100000 TL15 10 Regional (500km) MCr1 TL16 1 Continental
-(5,000km)
+Meson Transceivers Kg Range Cost TL14 100 Distant (50km) Cr100000 TL15 10 Regional (500km) MCr1 TL16 1 Continental (5,000km)
 
 Not Available
 
@@ -2322,8 +2293,7 @@ From their cultural perspective, other than laziness to learn, the only reason f
 
 Due to their fragile builds, Darrians in general avoid hand-to-hand combat. They practice unarmed combat mainly for self-discipline but lack a melee weapon philosophy. In military situations where stealth is paramount, the Darrian military are often trained with knives to kill quietly from ambush.
 
-Primitive technology missile weapons such as bows or slings are favored by militia forces for their inability to be detected by sensor systems. Low-
-speed projectiles are quiet and can often bypass motion detectors set to ignore rapidly moving animals or insects.
+Primitive technology missile weapons such as bows or slings are favored by militia forces for their inability to be detected by sensor systems. Low-speed projectiles are quiet and can often bypass motion detectors set to ignore rapidly moving animals or insects.
 
 CSC: Darrian
 
@@ -2335,8 +2305,7 @@ Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits VRF Gauss Rifle 14 
 
 ### ENERGY RIFLES
 
-Neural Rifle: A weapon that incapacitates enemies by duplicating the Telepathic Assault talent (see page 199 of the Traveller Core Rulebook ). Armor is no defence and only artificial psionic shields or the Telepathic Shield talent blocks its effect. The weapon projects no visible beam or sound, making it near impossible to detect the attack. Only a few dozen of these rifles exist, issued to Special Arm elite forces on a mission-by-
-mission basis.
+Neural Rifle: A weapon that incapacitates enemies by duplicating the Telepathic Assault talent (see page 199 of the Traveller Core Rulebook ). Armor is no defence and only artificial psionic shields or the Telepathic Shield talent blocks its effect. The weapon projects no visible beam or sound, making it near impossible to detect the attack. Only a few dozen of these rifles exist, issued to Special Arm elite forces on a mission-by-mission basis.
 
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Neural Rifle 17 200 Telepathic Assault 1.5 Not Available 25 Not Available —
 
@@ -2399,8 +2368,7 @@ HULL 6 SHIPPING 1.5 tons COST Cr393000
 ARMOR FRONT 4 REAR 4 SIDES 4
 
 Traits —
-Equipment Communications (basic), Control System (basic), Ejection Seat, Life Support (short term), Navigation System
-(basic), Sensor System (basic), Vacuum Support, Variable Lifting Surface
+Equipment Communications (basic), Control System (basic), Ejection Seat, Life Support (short term), Navigation System (basic), Sensor System (basic), Vacuum Support, Variable Lifting Surface
 
 Equipment Autopilot (skill level) —
 Communications (range) 50km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) —
@@ -2425,8 +2393,7 @@ HULL 8 SHIPPING 2 tons COST Cr796000
 FRONT 18 REAR 18 SIDES 18
 
 Traits —
-Equipment Communications (improved, tight beam), Control System (advanced), Decoy Dispenser (chaff), Ejection Seat, Life Support (short term), Navigation System
-(basic), Sensor System (improved, hardened, increased range), Vacuum Support, Variable Lifting Surface
+Equipment Communications (improved, tight beam), Control System (advanced), Decoy Dispenser (chaff), Ejection Seat, Life Support (short term), Navigation System (basic), Sensor System (improved, hardened, increased range), Vacuum Support, Variable Lifting Surface
 
 Equipment Autopilot (skill level) —
 Communications (range) 500km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) —
@@ -2455,14 +2422,15 @@ HULL 40 SHIPPING 10 tons COST MCr6.73
 
 ARMOR FRONT 85 REAR 85 SIDES 85
 
-Traits AFV Equipment Communications (basic, tightbeam), Control System (advanced), Decoy Dispenser, Life Support, Navigation
-(basic), Sensor System (advanced, hardened), Stealth (advanced), Streamlined, Vacuum Protection Weapons Large Turret (gauss cannon)
+Traits AFV Equipment Communications (basic, tightbeam), Control System (advanced), Decoy Dispenser, Life Support, Navigation (basic), Sensor System (advanced, hardened), Stealth (advanced), Streamlined, Vacuum Protection Weapons Large Turret (gauss cannon)
 Small Turret (VRF gauss rifles x2)
 
 Equipment Autopilot (skill level) —
 Communications (range) 50km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +2 Camouflage (Recon DM) -1 Stealth (Electronics (sensors) DM) -4
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
+
+
 
 Gauss Cannon 2 1DD 200 Cr1000 AP 10, Auto 3 +4 VRF Gauss Rifles 1 5D+5 1000 Cr2000 AP 5, Auto 10 +0
 
@@ -2689,7 +2657,7 @@ Power Requirements Basic Ship Systems 40 Maneuver Drive 40 Jump Drive 60 Sensors
 **Espionage Scout**
 
 TL15 TONS COST (MCr)
-Hull 200 Tons, Sphere — 11 Armor Bonded Superdense, Armor: 6 8.64 4.32 Stealth (advanced) — 200 M-Drive Thrust 2 (Thrust 1 with drop tanks) 4 8 J-Drive Jump 3 (TL14), Stealth Jump 20 37.5 Power Plant Fusion (TL15), Power 180 9 18 Fuel Tanks J-3, 12 weeks operation 63 —
+Hull 200 Tons, Sphere — 11 Armor Bonded Superdense, Armor: 6 8.64 4.32 Stealth (advanced) — 200 M-Drive Thrust2 (Thrust 1 with drop tanks) 4 8 J-Drive Jump3 (TL14), Stealth Jump 20 37.5 Power Plant Fusion (TL15), Power 180 9 18 Fuel Tanks J-3, 12 weeks operation 63 —
 Bridge 10 1 Computer Computer/10bis/fib — 0.32 Sensors Advanced 5 5.3 Rapid Deployed Extended Arrays 10 21.2 Sensor Station 1 0.5 Armored Bulkheads
 
 Bridge 1 0.2
@@ -2738,7 +2706,7 @@ Power Requirements Basic Ship Systems 40 Maneuver Drive 120 Jump Drive 60 Sensor
 **THENGG PIONEER SCOUT**
 
 TL15 TONS COST (MCr)
-Hull 200 Tons, Streamlined — 12 Armor Bonded Superdense, Armor: 9 17.28 8.64 Radiation Shielding — 5 Stealth (improved) — 20 M-Drive Thrust 6 (Thrust 5 with Drop Tanks) 12 24 J-Drive Jump 3 20 30 Power Plant Fusion (TL15), Power 260 13 26 Fuel Tanks J-3, 12 weeks operation 66 —
+Hull 200 Tons, Streamlined — 12 Armor Bonded Superdense, Armor: 9 17.28 8.64 Radiation Shielding — 5 Stealth (improved) — 20 M-Drive Thrust6 (Thrust 5 with Drop Tanks) 12 24 J-Drive Jump 3 20 30 Power Plant Fusion (TL15), Power 260 13 26 Fuel Tanks J-3, 12 weeks operation 66 —
 Bridge Holographic Controls 10 1.25 Computer Computer/25fib — 15 Sensors Advanced 5 5.3 Extended Array 10 10.6 Enhanced Signal Processing 2 8 Sensor Station 1 0.5 Weapons Triple Turret (long range, very high yield beam laser)
 
 1 3.25
@@ -3106,8 +3074,7 @@ Organised religion among the Geonee is rarely followed. There are examples of a 
 
 The origins of Geonee traditional values, particularly the control of females and enforcement of strict gender roles, has been attributed to many factors. Perhaps first and foremost are the conditions of the Geonee homeworld. Shiwonee is an inhospitable place, affected by high gravity, challenging climatic conditions, volcanism and natural disasters that occur throughout its surface. While the Geonee were genetically optimized to survive on Shiwonee by the Ancients, little was done to the planet itself to protect its inhabitants from the harsh environment.
 
-The ancient Geonee became nomads, constantly on the move from one place to the next while fleeing natural disasters. This meant that most habitations were temporary, and few permanent cities developed. Most of the population were small, tribal groups. Their mobility frequently put them at odds with other Geonee who contended for the same resources. Much like other humans, the Geonee are largely driven by certain social instincts. Geonee females were strictly controlled, taken from their families and assigned to males based on tribal traditions including the use of selweeda
-(Chirpers) and marriage by capture. This was a survival adaptation. Related males go to war with each other less often and tend to work together to defeat common foes or tackle environmental challenges. A byproduct of these behaviours was patrilineal descent lines and the relegation of women to the role of property.
+The ancient Geonee became nomads, constantly on the move from one place to the next while fleeing natural disasters. This meant that most habitations were temporary, and few permanent cities developed. Most of the population were small, tribal groups. Their mobility frequently put them at odds with other Geonee who contended for the same resources. Much like other humans, the Geonee are largely driven by certain social instincts. Geonee females were strictly controlled, taken from their families and assigned to males based on tribal traditions including the use of selweeda (Chirpers) and marriage by capture. This was a survival adaptation. Related males go to war with each other less often and tend to work together to defeat common foes or tackle environmental challenges. A byproduct of these behaviours was patrilineal descent lines and the relegation of women to the role of property.
 
 Most modern human societies shed such barbaric cultural trappings, but for various reasons, Geonee oppression of women had not, until recently, shown signs of abating. The Geonee are an anomaly. Overachieving technological societies usually require significant contributions from all of their population, not just the members of one of its sexes. To compete on a galactic level, a species simply cannot perform well with
 'one hand tied behind its back'. However, the Geonee were gifted most of their technology by the Ancients, who left enough intact relics to jump start their civilization, enabling them to maintain oppressive traditions long after they became impractical. The Vilani, who rightfully perceived the starfaring Geonee as a threat, did what they could to perpetuate traditional practises among the Geonee in order to suppress their advancement. After the fall of the Ziru Sirka and subsequent Rule of Man, the Long Night sent Geonee technological advancement into deep decline for nearly two millennia, perpetuating traditional behaviours even longer.
@@ -3475,8 +3442,7 @@ In -180, the Confederation commenced a program to reclaim all former Geonee syst
 
 ### SYLEAN CONTACT
 
-In -150, advance scouts from the Sylean Federation contacted the Geonee. The Syleans were too remote for trade between the two interstellar polities to be profitable, but for several decades the Geonee Confederation was an almost mandatory stop for long-
-ranging Sylean scouts and traders.
+In -150, advance scouts from the Sylean Federation contacted the Geonee. The Syleans were too remote for trade between the two interstellar polities to be profitable, but for several decades the Geonee Confederation was an almost mandatory stop for long-ranging Sylean scouts and traders.
 
 This era was also a time of internal strife and conflict on many Geonee worlds. A brutal civil war on Hiponee ended with the use of nuclear weapons, nearly exterminating the entire population. The Confederation made the radical decision to deport all survivors to the inhospitable world of Dreva, reserving the once beautiful Hiponee for the nobility. This reserved status has been maintained ever since despite the planet having completely recovered from the effects of the war.
 
@@ -3773,11 +3739,9 @@ Skills and training
 
 1D PERSONAL DEVELOPMENT SERVICE SKILLS
 
-ADVANCED EDUCATION
-(MIN. EDU 8)
+ADVANCED EDUCATION (MIN. EDU 8)
 
-OFFICER
-(COMMISSIONED ONLY)
+OFFICER (COMMISSIONED ONLY)
 1 STR +1 Drive or Vacc Suit Electronics Tactics (military)
 2 DEX +1 Athletics Leadership Tactics (navy)
 3 END +1 Gun Combat Navigation Leadership 4 Athletics Melee Explosives Admin 5 Melee Recon Engineer Advocate 6 Carouse Heavy Weapons Survival Pilot (small craft)
@@ -3833,11 +3797,9 @@ Skills and training
 
 1D PERSONAL DEVELOPMENT SERVICE SKILLS
 
-ADVANCED EDUCATION
-(MIN. EDU 8)
+ADVANCED EDUCATION (MIN. EDU 8)
 
-OFFICER
-(COMMISSIONED ONLY)
+OFFICER (COMMISSIONED ONLY)
 1 INT +1 Pilot Electronics Leadership 2 EDU +1 Mechanic Astrogation Electronics 3 SOC +1 Electronics Engineer Pilot 4 Gambler Gunner Mechanics Admin 5 Carouse Engineer Admin Tactics (naval)
 6 Athletics Vacc Suit Advocate Engineer
 
@@ -3948,7 +3910,7 @@ farming and tending the fruit and vegetables. Equipped with a heavy grav-module,
 
 Radio can be used by a home base to relay instructions and other information to far ranging agrobots, normally with a central computer that coordinates the actions of any agrobot assigned to it. Unless ordered otherwise, an agrobot only returns to its home base to recharge, carry supplies to or from the field, or seek repairs.
 
-Robot Hits Speed TL Cost Agrobot 72 6m 12 Cr220000 Locomotion Grav Skills Profession (farmer) 2 Attacks None Manipulators 2 X (STR 15 DEX 7), 4 X (STR 9 DEX 7)
+Robot Hits Speed TL Cost Agrobot 72 6m 12 Cr220000 Locomotion Grav Skills Profession (farmer) 2 Attacks None Manipulators 2X (STR 15 DEX 7), 4X (STR 9 DEX 7)
 Endurance 72 hours Traits Armor (+5), Flyer(idle), Large (+3)
 Programming Basic (farmer) (INT 4)
 Options Agricultural Equipment (large), Auditory Sensor, Drone Interface, Storage Compartment (standard)
@@ -3964,23 +3926,19 @@ Robot Hits Speed TL Cost Animal Care Robot
 
 20 4m 12 Cr90000
 
-Locomotion Tracks Skills Animals (handling) 2, Animals
-(veterinary) 2, Gun Combat (slug)
+Locomotion Tracks Skills Animals (handling) 2, Animals (veterinary) 2, Gun Combat (slug)
 2, Profession (animal technician) 1, Recon 1 Attacks Snub Pistol (special, Zero-G)
-Manipulators 1 X (STR 12 DEX 7), 1 X (STR 5 DEX 9)
+Manipulators 1X (STR 12 DEX 7), 1X (STR 5 DEX 9)
 Endurance 108 hours Traits Armor (+4), ATV (idle), Heightened Senses, IR Vision Programming Advanced (INT 8)
-Options Auditory Sensor (broad spectrum), Drone Interface, Fire Control System (improved), Injector Needle, Light Intensifier Sensor
-(advanced), Recon Sensor (basic), Storage Compartment (hazardous material) x10, Transceiver 5 km (improved), Voder Speaker, Weapon Mount (small), Wireless Data Link, spare slot x1
+Options Auditory Sensor (broad spectrum), Drone Interface, Fire Control System (improved), Injector Needle, Light Intensifier Sensor (advanced), Recon Sensor (basic), Storage Compartment (hazardous material) x10, Transceiver 5 km (improved), Voder Speaker, Weapon Mount (small), Wireless Data Link, spare slot x1
 
 CSC: Geonee
 
 Cargo Handler: Cargo handlers are found in docks, airports, spaceports and starports across the Third Imperium, loading and unloading cargo to free personnel to handle more demanding tasks. Large and heavy enough to carry a standard one-ton cargo container, the cargo handler robot can work as long as is needed and, if properly maintained, has a useful lifespan of approximately 40 years.
 
-Robot Hits Speed TL Cost Cargo Handler 75 5m 12 Cr360000 Locomotion Tracks Skills Athletics (endurance) 3, Profession
-(cargo master) 3 Attacks None Manipulators None Endurance 432 hours Traits Armor (+4), ATV(idle), Large (+3)
+Robot Hits Speed TL Cost Cargo Handler 75 5m 12 Cr360000 Locomotion Tracks Skills Athletics (endurance) 3, Profession (cargo master) 3 Attacks None Manipulators None Endurance 432 hours Traits Armor (+4), ATV(idle), Large (+3)
 Programming Advanced (INT 8)
-Options Auditory Sensor, Drone Interface, Forklift (large), Transceiver 5 km
-(improved), Vacuum Environment Protection, Visual Spectrum Sensor, Voder Speaker, Wireless Data Link, spare slot x51
+Options Auditory Sensor, Drone Interface, Forklift (large), Transceiver 5 km (improved), Vacuum Environment Protection, Visual Spectrum Sensor, Voder Speaker, Wireless Data Link, spare slot x51
 
 CSC: Geonee
 
@@ -3992,12 +3950,9 @@ Robot Hits Speed TL Cost Emergency Responder
 
 22 7m 12 Cr3200000
 
-Locomotion Walker Skills Athletics (dexterity) 2, Athletics
-(strength) 3, Medic 2, Profession
-(emergency responder) 3 Attacks None Manipulators 2 X (STR 15 DEX 7)
+Locomotion Walker Skills Athletics (dexterity) 2, Athletics (strength) 3, Medic 2, Profession (emergency responder) 3 Attacks None Manipulators 2X (STR 15 DEX 7)
 Endurance 108 hours Traits Armor (+12), ATV (idle), Heightened Senses, IR/UV Vision Programming Advanced (INT 8)
-Options Auditory Sensor (broad spectrum), Cutting Torch (improved), Drone Interface, Fire Extinguisher, Injector Needle x2, Medikit (enhanced), Olfactory Sensor (advanced), PRIS Sensor, Storage Compartment
-(refrigerated) x2, Transceiver 500 km (enhanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+Options Auditory Sensor (broad spectrum), Cutting Torch (improved), Drone Interface, Fire Extinguisher, Injector Needle x2, Medikit (enhanced), Olfactory Sensor (advanced), PRIS Sensor, Storage Compartment (refrigerated) x2, Transceiver 500 km (enhanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 CSC: Geonee
 
@@ -4007,18 +3962,14 @@ Eye-spies are intelligent enough to detect suspicious behaviour on their own and
 
 Horticulture Bot: Horticulture bots are almost routinely used by Geonee in maintaining their central courtyard gardens and their use has been extended to space habitats and starships. The horticulture bot uses tentacle arms to tend plants and is able to diagnose and treat plant diseases as well as eradicate minor pests. A small grav unit give the robot the ability to tend vertical gardens as easily as horizontal ones.
 
-Robot Hits Speed TL Cost Horticulture Bot 12 6m 10 Cr72000 Locomotion Grav Skills Profession (horticulture) 2 Attacks None Manipulators 6 X (STR 7 DEX 9)
+Robot Hits Speed TL Cost Horticulture Bot 12 6m 10 Cr72000 Locomotion Grav Skills Profession (horticulture) 2 Attacks None Manipulators 6X (STR 7 DEX 9)
 Endurance 48 hours Traits Armor (+3), Flyer( idle), Heightened Senses, IR Vision, Small (-1)
 Programming Basic (labourer) (INT 4)
-Options Agricultural Equipment (medium), Atmospheric Sensor, Auditory Sensor, Drone Interface, Light Intensifier Sensor
-(advanced), Olfactory Sensor
-(improved),Transceiver 5 km
-(improved), Voder Speaker, Wireless Data Link
+Options Agricultural Equipment (medium), Atmospheric Sensor, Auditory Sensor, Drone Interface, Light Intensifier Sensor (advanced), Olfactory Sensor (improved),Transceiver 5 km (improved), Voder Speaker, Wireless Data Link
 
 Robot Hits Speed TL Cost Eye-Spy Drone 2 9m 12 Cr50000 Locomotion Grav Skills Athletics (dexterity) 3, Recon 3, Stealth 1 Attacks None Manipulators None Endurance 72 hours Traits Armor (+4), Flyer (idle), Heightened Senses, IR/UV Vision, Small (-4)
 Programming Advanced (INT 8)
-Options Auditory Sensor (broad spectrum), Drone Interface, Encryption Module, PRIS Sensor, Recon Sensor
-(advanced), Transceiver 500 km (enhanced), Voder Speaker, Wireless Data Link
+Options Auditory Sensor (broad spectrum), Drone Interface, Encryption Module, PRIS Sensor, Recon Sensor (advanced), Transceiver 500 km (enhanced), Voder Speaker, Wireless Data Link
 
 CSC: Geonee
 
@@ -4032,7 +3983,7 @@ Robot Hits Speed TL Cost Maintenance Bot
 
 20 5m 12 Cr100000
 
-Locomotion Walker Skills Engineer (j-drive) 2, Engineer (life support) 2, Engineer (m-drive) 2, Engineer (power) 2, Mechanic 2 Attacks None Manipulators 1 X (STR 12 DEX 7), 3 X (STR 9 DEX 9)
+Locomotion Walker Skills Engineer (j-drive) 2, Engineer (life support) 2, Engineer (m-drive) 2, Engineer (power) 2, Mechanic 2 Attacks None Manipulators 1X (STR 12 DEX 7), 3X (STR 9 DEX 9)
 Endurance 108 hours Traits Armor (+12), ATV (idle), Heightened Senses, IR/UV Vision Programming Advanced (INT 9)
 Options Auditory Sensor, Drone Interface, Electronics Toolkit (advanced), Mechanical Toolkit (advanced), PRIS Sensor, Starship Engineer Toolkit (enhanced), Transceiver 500 km (enhanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
@@ -4073,6 +4024,8 @@ Weapon Kg Cost Traits Moon Blade 1 Cr300 —
 CSC: Geonee
 
 PROJECTILE WEAPONS
+
+
 **Magrail Carbine:** A smaller and lighter version of the magrail rifle, the carbine version has the same fire output as the pistol (see page 110 of the _Central Supply Catalogue_ ) but with a greater range.
 
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Magrail Support Weapon 15 250 5D+4 25 Cr250000 500 Cr5000 Auto 12, Bulky
@@ -4084,6 +4037,8 @@ Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits CBR 14 500 5D+4 5 C
 **Magrail Support Weapon:** Sometimes referred to as a 'magrail minigun', this weapon uses electromagnetic induction to launch clouds of ovoid projectiles from its multiple bores. Range is relatively short for a support weapon but the projectiles hit hard.
 
 ENERGY RIFLES
+
+
 **Convergence Beam Rifle:** The CBR is an advanced laser weapon, which uses four beam emitters configured to strike a single point on a target. The four beams are calibrated to strike in the same square centimeter of the target, each beam a nanosecond after the last.
 
 CSC: Geonee
@@ -4203,8 +4158,7 @@ processing. Fuelling shuttles are often found on larger starships incapable of s
 
 TL15 TONS COST (MCr)
 Hull 15 tons, Standard — 0.75 M-Drive Thrust 9 1.35 2.7 Power Plant Fusion (TL15), Power 20 1 2 Fuel Tanks 4 weeks operation 1 —
-Bridge Cockpit 1.5 0.01 Computer Computer 25/fib — 15 Sensors Military 2 4.1 Systems Breaching Tube 3 3 Forced Linkage Apparatus
-(TL15)
+Bridge Cockpit 1.5 0.01 Computer Computer 25/fib — 15 Sensors Military 2 4.1 Systems Breaching Tube 3 3 Forced Linkage Apparatus (TL15)
 
 2 0.5
 
@@ -4364,8 +4318,7 @@ Enhanced Signal Processing 2 8 Military Countermeasures suite 15 28 Sensor Stati
 
 **Weapons** Large Torpedo Bay 500 10
 
-Medium Missile Bays x2 200 20 Triple Turrets (sandcasters) x4 4 7 Point Defence Laser Batteries
-(Type III) x9
+Medium Missile Bays x2 200 20 Triple Turrets (sandcasters) x4 4 7 Point Defence Laser Batteries (Type III) x9
 
 180 180
 
@@ -4475,9 +4428,9 @@ Reinforced Hull 60
 
 **Armor** Bonded Superdense, Armor: 4 144 72
 
-**M-Drive** Thrust 7 (size reduction x2) 168 525
+**M-Drive** Thrust7 (size reduction x2) 168 525
 
-**J-Drive** Jump 4 (size reduction x2) 244 571.88
+**J-Drive** Jump4 (size reduction x2) 244 571.88
 
 **Power Plant** Fusion (TL15), Power 4,020 201 402
 
@@ -4718,8 +4671,7 @@ Dolphins may also become outcasts if they lose all members of their family and c
 It is not unusual for outcasts to seek the family and social interaction they crave within another race. In these cases, Dolphins will treat the other members of the group as they would their own family or pod and, in this way, Dolphins are able to undertake roles and careers without the Dolphin companionship they would otherwise not be able to.
 
 **JOCULARITY**
-Dolphin predilection to jocularity is a usual part of their psychology. They are a fun-loving race, prone to seeing the humorous side to most situations. Most Dolphins find no point in taking everything seriously, often to the point where other races find their mind-
-set distracting and annoying.
+Dolphin predilection to jocularity is a usual part of their psychology. They are a fun-loving race, prone to seeing the humorous side to most situations. Most Dolphins find no point in taking everything seriously, often to the point where other races find their mind-set distracting and annoying.
 
 They are consummate jokers, both practical and intellectual. Nothing can make a Dolphin laugh more than a good practical joke; while never intentionally harmful, practical jokes are intended to embarrass the target in a good natured and friendly fashion. Competitions where Dolphins try to outdo each other with more and more elaborate practical jokes are not uncommon. Unfortunately, Dolphins are just as happy to inflict their practical jokes upon other races, some of whom may not take them in the light-hearted manner they were intended.
 
@@ -4857,8 +4809,7 @@ Dolphins use a language known as Delphinese among themselves, composed of variou
 
 Due to the spread of Dolphins across Charted Space, Delphinese has evolved into a multitude of dialects. It can take a Dolphin some time to learn a new dialect and errors can be made during the adjustment process but Dolphins rarely find these to be offensive. In fact, errors are often seen as humorous, providing countless hours of amusement at the expense of the equally amused Dolphin who makes them.
 
-For communication with humans and other races, most Dolphins speak ordinary, if somewhat flowery, Anglic. Their voices are high-pitched and somewhat child-like and they tend to repeat clicking sounds
-(like 'k' or 't') several times, making it sound like stuttering, and sounds made for letter 'w' tend to turn into high-pitched whistles or squeals.
+For communication with humans and other races, most Dolphins speak ordinary, if somewhat flowery, Anglic. Their voices are high-pitched and somewhat child-like and they tend to repeat clicking sounds (like 'k' or 't') several times, making it sound like stuttering, and sounds made for letter 'w' tend to turn into high-pitched whistles or squeals.
 
 Dolphins are given a name at birth by their mother, traditionally a derivative of the name the mother was given when she was born. This tradition enables Dolphins to trace their genealogy back for hundreds of generations. Birth names have no direct Anglic translation, as they originate from when Dolphins were pre-sentient. This birth name is used until a Dolphin reaches adulthood at 14, at which point they take on their adult name.
 
@@ -4912,8 +4863,7 @@ Dolphin careers, in general, are used as described in the Traveller Core Ruleboo
 
 ### PSIONICS
 
-Dolphins are as capable as humans in psychic potential, although it is rarely tested for. A Dolphin that has psionic potential is able to pursue the Psion career
-(see page 204 of the Traveller Core Rule Book ).
+Dolphins are as capable as humans in psychic potential, although it is rarely tested for. A Dolphin that has psionic potential is able to pursue the Psion career (see page 204 of the Traveller Core Rule Book ).
 
 ### DOLPHIN SKILLS A
 
@@ -5037,11 +4987,9 @@ Skills and training
 
 1D PERSONAL DEVELOPMENT SERVICE SKILLS
 
-ADVANCED EDUCATION
-(MIN. EDU 8)
+ADVANCED EDUCATION (MIN. EDU 8)
 
-OFFICER
-(COMMISSIONED ONLY)
+OFFICER (COMMISSIONED ONLY)
 1 Carouse Athletics Medic Leadership 2 DEX +1 Vacc Suit Survival Electronics 3 END +1 Electronics (comms) Explosives Pilot 4 STR +1 Electronics (sensors) Engineer Admin 5 Survival Gun Combat Mechanic Tactics 6 Carouse Stealth Pilot Diplomat 1D CREW COMMAND TECHNICAL 1 Advocate Gun Combat Melee 2 Gun Combat Heavy Weapon Gun Combat 3 Vacc Suit Explosives Heavy Weapons 4 Athletics Recon Vacc Suit 5 Electronics Vacc Suit Tactics 6 Gun Combat Athletics Medic
 
 Ranks and Bonuses RANK ENLISTED SEA PATROL/ UNDERWATER COMMANDO SKILL OR BONUS 0 Private Vacc Suit 1 1 Lance Corporal Gun Combat 1 2 Corporal —
@@ -5152,8 +5100,7 @@ Vacc Suit 2 Vacc Suit 1 Vacc suit 0
 
 Sonar Stealth Suit: Using a special sound absorbing fabric, the sonar stealth suit renders a Dolphin almost invisible to sonar (DM+4 to Stealth checks made against sonar only).
 
-Travel Suit: Travel suits combine gravitic technology with a hostile environment suit and contains a super-
-humid atmosphere for the health and comfort of its Dolphin wearer.
+Travel Suit: Travel suits combine gravitic technology with a hostile environment suit and contains a super-humid atmosphere for the health and comfort of its Dolphin wearer.
 
 The travel suit provides its wearer with complete protection from temperatures ranging from -100^0 C to
 +100^0 C^ and pressures of up to 56 atmospheres. They include a fully enclosed helmet including a visor with a heads up display that is tied to an on-board computer/
@@ -5167,8 +5114,7 @@ At TL12, a travel suit has life support for 12 hours of use and weighs 12kg when
 
 Dolphin battle dress is equipped with waldos at the same TL. Any STR enhancements provided by the battle dress is also afforded to the waldos.
 
-Walker Suit: Walker Suits – also known simply as 'Walkers' – are earlier versions of Travel Suits, providing the same advantages and features as a Travel Suit excluding the gravitic propulsion. Instead, Walkers utilise two pairs of mechanical legs, allowing a Dolphin to move at an equivalent speed to a human
-(six meters) outside of water. Like Travel Suits, the interior of the Walker is padded with a cushioning gel that protects the Dolphin from the effects of up to 2-Gs. Walker Suits come with a helmet, visor, heads up display and can be fitted with waldos if desired. The computer/communications array are equal to a computer at the same TL as the Walker, with a 500km range audio/visual transceiver capability. At TL9, a Walker provides life support for up to nine hours of use. At TL11 life support extends to 18 hours of use. At TL14 a Walker provides life support to 36 hours of use.
+Walker Suit: Walker Suits – also known simply as 'Walkers' – are earlier versions of Travel Suits, providing the same advantages and features as a Travel Suit excluding the gravitic propulsion. Instead, Walkers utilise two pairs of mechanical legs, allowing a Dolphin to move at an equivalent speed to a human (six meters) outside of water. Like Travel Suits, the interior of the Walker is padded with a cushioning gel that protects the Dolphin from the effects of up to 2-Gs. Walker Suits come with a helmet, visor, heads up display and can be fitted with waldos if desired. The computer/communications array are equal to a computer at the same TL as the Walker, with a 500km range audio/visual transceiver capability. At TL9, a Walker provides life support for up to nine hours of use. At TL11 life support extends to 18 hours of use. At TL14 a Walker provides life support to 36 hours of use.
 
 Walker Suit
 
@@ -5198,8 +5144,7 @@ Item TL Kg Cost Humidity Sleeve 6 1 Cr250
 
 ### ELECTRONICS
 
-Dolphins, like many other races with mid to high Tech Level societies love their electronics and a well-
-equipped Dolphin Traveller is no exception.
+Dolphins, like many other races with mid to high Tech Level societies love their electronics and a well-equipped Dolphin Traveller is no exception.
 
 Mouth Finger: This device is a simple mouthpiece clamped between the teeth. A probe extends out of the mouth and can be used to press buttons, type on a keyboard and so forth. Using a mouth finger will slow down a task however, moving the time required down one level on the time chart without granting any bonus to the check.
 
@@ -5233,7 +5178,7 @@ Robot Hits Speed TL Cost Personal Services Bot
 
 15 6m 10 Cr65000
 
-Locomotion Grav Skills Profession (domestic servant) 2, Steward 0 Attacks None Manipulators 4 X (STR 7 DEX 9)
+Locomotion Grav Skills Profession (domestic servant) 2, Steward 0 Attacks None Manipulators 4X (STR 7 DEX 9)
 Endurance 48 hours Traits Armor (+3), Flyer(idle), Heightened Senses, Small (-1)
 Programming Basic (servant) (INT 4)
 Options Auditory Sensor (broad spectrum), Storage Compartment (standard)
@@ -5247,12 +5192,9 @@ x2, Transceiver 5 km (improved), Visual Spectrum Sensor, Voder Speaker (broad sp
 
 CSC: Dolphins
 
-Robot Hits Speed TL Cost Sea Shepherd 32 7m+ 10 Cr670000 Locomotion Aquatic Skills Athletics (endurance) 2, Athletics
-(dexterity) 4, Gun Combat 0, Melee 0, Navigation 2, Recon 2 Attacks Battering Ram (1D+3 ), Sonic Amplifier (2D Stun)
+Robot Hits Speed TL Cost Sea Shepherd 32 7m+ 10 Cr670000 Locomotion Aquatic Skills Athletics (endurance) 2, Athletics (dexterity) 4, Gun Combat 0, Melee 0, Navigation 2, Recon 2 Attacks Battering Ram (1D+3 ), Sonic Amplifier (2D Stun)
 Manipulators None Endurance 432 (108) hours Traits Armor (+6), Seafarer (very slow), Large (+1), Heightened Senses, IR Vision Programming Basic (recon) (INT 4)
-Options Android (improved), Auditory Sensor (broad spectrum), Drone Interface, Light Intensifier Sensor (advanced), Navigation System (improved), Submersible Environment Protection 1200 m
-(enhanced), Transceiver 500 km
-(improved), Voder Speaker (broad spectrum), Weapon Mount (small), Wireless Data Link
+Options Android (improved), Auditory Sensor (broad spectrum), Drone Interface, Light Intensifier Sensor (advanced), Navigation System (improved), Submersible Environment Protection 1200 m (enhanced), Transceiver 500 km (improved), Voder Speaker (broad spectrum), Weapon Mount (small), Wireless Data Link
 
 Sea Shepherd: The sea shepherd is a dolphinoid robot that Dolphins use to assist them in herding and guarding schools of marine life. Several sea shepherds will work with a single Dolphin, responding to commands much like a [[Terra|Terran]] sheepdog to a farmer. Sea shepherds are also capable of guarding schools of marine life and fighting off predators. These robots are quite capable at the tasks they were designed for, and able to respond to quite complex commands, but are easily confused if placed in situations they are not programmed for.
 
@@ -5368,8 +5310,7 @@ CREW 1 PASSENGERS 0 CARGO 250kg HULL 8 SHIPPING 2 tons COST Cr155000
 ARMOR FRONT 3 REAR 3 SIDES 3
 
 Traits —
-Equipment Autopilot (enhanced), Communications System (improved), Control System
-(basic), Navigation System (improved), Sensors System (improved)
+Equipment Autopilot (enhanced), Communications System (improved), Control System (basic), Navigation System (improved), Sensors System (improved)
 
 Equipment Autopilot (skill level) 2 Communications (range) 500km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) —
 Stealth (Electronics (sensors) DM) —
@@ -5377,6 +5318,8 @@ Stealth (Electronics (sensors) DM) —
 ##### EHICLES OF THE DOLPHINS
 
 OCEAN QUEST SUBMERSIBLE
+
+
 
 LABORATORY A large submarine used by Dolphins to perform undersea research and experimentation. These vehicles use a waterjet drive to cut down on the noise more conventional drives produce, which Dolphins find irritating. Facilities within the vehicle are normally designed for Dolphin passengers but some vehicles are built for multi-species crews.
 
@@ -5386,8 +5329,7 @@ RANGE (CRUISE) 100 years CREW 2 PASSENGERS 8 CARGO 4 tons HULL 660 SHIPPING 55 t
 
 ARMOR FRONT 6 REAR 6 SIDES 6
 
-Traits Increased Dive Equipment Airlock, Autopilot (enhanced), Bunks, Computer/4, Communications System (improved, satellite uplink), Control System (enhanced), Cutting Tool, Fresher, Fusion Plant, Galley, General Purpose, Geological Sampler, Holding Tank, Hydrographic Sampler, Laboratories, Life Support (long term), Manipulator Arms x2, Navigation System (improved), Sensor System
-(improved, underwater)
+Traits Increased Dive Equipment Airlock, Autopilot (enhanced), Bunks, Computer/4, Communications System (improved, satellite uplink), Control System (enhanced), Cutting Tool, Fresher, Fusion Plant, Galley, General Purpose, Geological Sampler, Holding Tank, Hydrographic Sampler, Laboratories, Life Support (long term), Manipulator Arms x2, Navigation System (improved), Sensor System (improved, underwater)
 
 Equipment Autopilot (skill level) 2 Communications (range) 500km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -4 Stealth (Electronics (sensors) DM) —
 
@@ -5395,8 +5337,7 @@ Vehicles of the Dolphins
 
 ### SAIL FISH SEA SCOOTER
 
-The sea scooter is a single-sophont craft is used by Dolphins who wish to undertake submerged long-
-distance travel quickly. A waterjet drive makes the vehicle almost silent, which allows a Dolphin pilot to use their sonar without interference.
+The sea scooter is a single-sophont craft is used by Dolphins who wish to undertake submerged long-distance travel quickly. A waterjet drive makes the vehicle almost silent, which allows a Dolphin pilot to use their sonar without interference.
 
 TL 12 SKILL Seafarer (submarine)
 AGILITY +0 SPEED (CRUISE) Medium (Slow)
@@ -5408,9 +5349,7 @@ HULL 9 SHIPPING 1.5 tons COST Cr118000
 ARMOR FRONT 4 REAR 4 SIDES 4
 
 Traits —
-Equipment Autopilot (enhanced), Communication System (improved), Control System
-(enhanced), Entertainment System, Life Support (short term), Navigation System
-(Improved), Sensor (improved, underwater)
+Equipment Autopilot (enhanced), Communication System (improved), Control System (enhanced), Entertainment System, Life Support (short term), Navigation System (Improved), Sensor (improved, underwater)
 
 Equipment Autopilot (skill level) 2 Communications (range) 500km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) —
 Stealth (Electronics (sensors) DM) —
@@ -5425,9 +5364,7 @@ SPEED (CRUISE) 200 (300)
 RANGE (CRUISE) 2 CREW —
 PASSENGERS 4 tons CARGO 255 HULL 30 SHIPPING MCr12.32 COST MCr71.688 ARMOR FRONT 94 REAR 74 SIDES 84
 
-Traits AFV Equipment Camouflage (advanced), Control System
-(advanced), Communications System
-(advanced, encrypted, increased range, satellite uplink), ECM (advanced), Fire Extinguishers, Life Support (short term), Navigation System (improved), Sensor System (improved, hardened, high fidelity, increased range, underwater), Stealth (improved)
+Traits AFV Equipment Camouflage (advanced), Control System (advanced), Communications System (advanced, encrypted, increased range, satellite uplink), ECM (advanced), Fire Extinguishers, Life Support (short term), Navigation System (improved), Sensor System (improved, hardened, high fidelity, increased range, underwater), Stealth (improved)
 Weapons Small Turret (twin linked blue/green light laser cannon)
 Multi-bay (4x torpedoes)
 
@@ -5456,9 +5393,7 @@ CARGO —
 HULL 42 SHIPPING 7 COST MCr2.02 ARMOR FRONT 35 REAR 35 SIDES 20
 
 Traits —
-Equipment Autopilot (advanced), Communications System (advanced, encrypted, increased range, satellite uplink), Computer/5, Control System (advanced), ECM
-(advanced), Fire Extinguisher, Life Support (short term), Navigation System
-(advanced), Sensor Systems (advanced, hardened, high fidelity, increased range, underwater), Stealth (advanced)
+Equipment Autopilot (advanced), Communications System (advanced, encrypted, increased range, satellite uplink), Computer/5, Control System (advanced), ECM (advanced), Fire Extinguisher, Life Support (short term), Navigation System (advanced), Sensor Systems (advanced, hardened, high fidelity, increased range, underwater), Stealth (advanced)
 Weapons Fixed Mount (blue/green light laser cannon)
 
 Equipment Autopilot (skill level) +3 Communications (range) 2,000km Navigation (Navigation DM) +4 Sensors (Electronics (sensors) DM) +2 Camouflage (Recon DM) —
@@ -5491,8 +5426,7 @@ within Dolphin ships is maintained at an extremely high level of humidity to pre
 
 Open Spaces Dolphins do not enjoy being confined in small spaces. This has led to Dolphin ships to be designed as openly as possible with very few doors or even corridors breaking up the interior of the vessel. Only areas such as airlocks and cargo bays, which need to be isolated for safety reasons, are separated from the open design.
 
-Staterooms Dolphins require more room than humans, both to move around and to relax. Dolphins require double-
-sized staterooms which consume eight tons and cost MCr1. Dolphins do not require the same level of privacy as humans, so their staterooms are not walled off or isolated but designed to be open to the ship's common areas. Dolphins also have no need for bunks. Dolphins understand some races require more privacy and will occasionally add staterooms with walls and hatches for their use.
+Staterooms Dolphins require more room than humans, both to move around and to relax. Dolphins require double-sized staterooms which consume eight tons and cost MCr1. Dolphins do not require the same level of privacy as humans, so their staterooms are not walled off or isolated but designed to be open to the ship's common areas. Dolphins also have no need for bunks. Dolphins understand some races require more privacy and will occasionally add staterooms with walls and hatches for their use.
 
 Crew Pilot, Astrogator, Engineer
 
@@ -5646,8 +5580,7 @@ The Imperium views Orca as an autonomous Minor Race. Solomani humans view Orca a
 
 ### NATURAL EVOLUTION
 
-The natural evolution of the Orca is still largely unknown. The earliest fossil found on Terra is from the Pliocene Epoch, roughly 5.3 million to 2.6 million years ago, this ancestor was four meters long and had 14 teeth, which is similar to the number of teeth possessed by dolphins. This implies the ancestors of the present-
-day Orca diverged from other cetaceans during the Miocene Epoch (23 million to 5.3 million years ago), corresponding with most other dolphin evolution, which took place near the beginning of the epoch.
+The natural evolution of the Orca is still largely unknown. The earliest fossil found on Terra is from the Pliocene Epoch, roughly 5.3 million to 2.6 million years ago, this ancestor was four meters long and had 14 teeth, which is similar to the number of teeth possessed by dolphins. This implies the ancestors of the present-day Orca diverged from other cetaceans during the Miocene Epoch (23 million to 5.3 million years ago), corresponding with most other dolphin evolution, which took place near the beginning of the epoch.
 
 **GENASSIST**
 GenAssist, a Solomani corporation responsible for the uplifting of many [[Terra|Terran]] species, was responsible for the modern Orca, a program designed to produce companions suitable to assist the Solomani in the colonization of alien worlds. An offshoot of the same project that eventually resulted in the sophont Dolphin, the Orca project was begun on Terra but cancelled only eight years later. Officially, the cancellation of the project was due to the cost of the program and size of the animal, which would cause problems when transporting them off planet. Rumors persist however, that fear of such a large creature capable of independent thought and action was the real reason for the cancellation.
@@ -5801,8 +5734,7 @@ Apart from Sufren, there are only a few other worlds that have significant Orca 
 
 Orcana (Gateway sector) also has a significant population of Orca.
 
-Terra (the Solomani Rim), the home of the pre-
-sophont orca has seen a return of uplifted Orca. Modern Orca see their pre-sophont cousins only as animals, a link to their past. They find they have a kinship with them, similar to the kinship [[Terra|Terran]] humans have with domesticated canines. Orca even train pre-sophont orca to assist in aquafarming. Their close visual similarity does, however, confuse others somewhat, which perturb modern Orca, feeling the differences between the two species is patently obvious.
+Terra (the Solomani Rim), the home of the pre-sophont orca has seen a return of uplifted Orca. Modern Orca see their pre-sophont cousins only as animals, a link to their past. They find they have a kinship with them, similar to the kinship [[Terra|Terran]] humans have with domesticated canines. Orca even train pre-sophont orca to assist in aquafarming. Their close visual similarity does, however, confuse others somewhat, which perturb modern Orca, feeling the differences between the two species is patently obvious.
 
 Some other worlds have small Orca populations but not significant enough to mention here.
 
@@ -5832,8 +5764,7 @@ Orca follow no one single religious belief. Some Orca follow religions naturally
 
 Other Orca have found [[Terra|Terran]] religions of Asian origin, such as Daoism and Buddhism, to fit with their particular worldview and psychology.
 
-**The Way:** Traditionally, Orca do not keep physical records of their history or culture but commit it to memory and pass it on through song to younger generations. The Way, therefore, has developed regional variations as it has been passed on down the generations, the differences becoming more pronounced among Orca populations, which live on different planets. The exact details of the Way may vary from Orca-to-Orca, and community-to-
-community, but differing denominations share many common beliefs.
+**The Way:** Traditionally, Orca do not keep physical records of their history or culture but commit it to memory and pass it on through song to younger generations. The Way, therefore, has developed regional variations as it has been passed on down the generations, the differences becoming more pronounced among Orca populations, which live on different planets. The exact details of the Way may vary from Orca-to-Orca, and community-to-community, but differing denominations share many common beliefs.
 
 The Way teaches that Orca did not develop a spirit until the race had achieved true sophoncy, which they call the Great Awakening. The Great Awakening not only provided self-consciousness to Orca but the ability to live on in spirit form after death. For Orca, an immortal spirit is something only sophonts possess and is what sets them apart from animals. They believe the spirits of their dead join the spirits of all other sophonts in a spirit world that is both contiguous yet slightly apart from the world of the living. Spirits are able to affect the world of the living but only those among the living who know the correct rituals can have a direct effect on the spirit world and its denizens. As this belief grew, Orca developed rituals to ease the spirits of the ancestors into the spirit world and appease those who become displeased with the living.
 
@@ -6097,55 +6028,107 @@ Planet (water present)
 
 GROURARD
 
+
+
 ONLIU
+
+
 
 BOYNE
 
+
+
 ERAKHUU
+
+
 
 MAELSTROM
 
+
+
 STURGIS
+
+
 
 HOUSTAR
 
+
+
 HAZE
+
+
 
 HEYMAC
 
+
+
 DAHL
+
+
 
 TROY
 
+
+
 LASSIE
+
+
 
 NAASHA
 
+
+
 JUMMY
+
+
 
 WHITE SEA
 
+
+
 KORONA
+
+
 
 MUUN
 
+
+
 AAZUNI
+
+
 
 CITA
 
+
+
 NAVAR
+
+
 
 TIASLE
 
+
+
 GAMOV
+
+
 
 BACKMAN
 
+
+
 HERVESTIA
+
+
 
 NEEFI
 
+
+
 SUFREN
+
+
 
 A-D
 
@@ -6253,6 +6236,8 @@ B523648-B
 
 SUFREN SUBSECTOR
 
+
+
 **DIASPORA**
 
 ### NATIVE LIFEFORMS
@@ -6331,8 +6316,7 @@ The other two governments are the United Orca Communities and the Combined Dolph
 
 Together, along with the governments of other inhabited worlds in the Sufren solar system, they form the System Congress; a non-governing organization, which oversees the maintenance of peace and diplomatic relations between the three nations, providing a neutral space where the individual governments may meet to discuss and implement measures for planetary and system-wide security. While the System Congress is a non-governing body, decisions made by representatives of the Congress hold significant weight throughout the system and the political influence of the organization is not insubstantial.
 
-Congress meetings are held face-to-face through a glass-
-sided open water pool known as the Think Tank to allow the representatives of the Orca and Dolphin communities to have a direct presence. The nature of these discourses is most often confidential but there is no small amount of public speculation that the Orca are keen social and military analysts with a zen-like concept – and approach to – the manipulation of power and politics.
+Congress meetings are held face-to-face through a glass-sided open water pool known as the Think Tank to allow the representatives of the Orca and Dolphin communities to have a direct presence. The nature of these discourses is most often confidential but there is no small amount of public speculation that the Orca are keen social and military analysts with a zen-like concept – and approach to – the manipulation of power and politics.
 
 The System Congress is overseen and chaired by Lady Alinessa Marinida von Zlata, the duchess's eldest daughter.
 
@@ -6406,8 +6390,7 @@ sidewalks, helping to cool microclimates within city environs and provide a habi
 
 On many worlds where there is stratification of wealth and living space, a culture has grown which includes an 'upper city' for the wealthy and an 'under city' for the poor. On Sufren, this has been largely avoided by not having a class that is considered poor by introduction of the universal basic income.
 
-Ground level traffic consists of pedestrians and muscle-
-powered vehicles such as bicycles, with powered vehicles and public transport consigned to traffic-ways several levels above. The majority of industrial traffic is still wheeled and utilises 'sky roads' five stories above ground level. Powered public and private transport is largely gravitic and confined to 10 to 15 stories above ground level depending on direction. All powered transport is controlled by a computerised traffic control system that has practically eliminated congestion and accidents.
+Ground level traffic consists of pedestrians and muscle-powered vehicles such as bicycles, with powered vehicles and public transport consigned to traffic-ways several levels above. The majority of industrial traffic is still wheeled and utilises 'sky roads' five stories above ground level. Powered public and private transport is largely gravitic and confined to 10 to 15 stories above ground level depending on direction. All powered transport is controlled by a computerised traffic control system that has practically eliminated congestion and accidents.
 
 A comprehensive network of underground hypertubes provides rapid public transport within cities, between cities, farming communities and nature reserves in a worldwide network. Anyone can travel almost anywhere on Sufren in less than six hours.
 
@@ -6451,8 +6434,7 @@ The Authentic Festival has been a planetary event on Sufren for over two decades
 
 ### THE CLIFF OF SUNSETS
 
-The sunrises and sunsets on Sufren have a well-
-deserved reputation for beauty across the sector but even the best of those pales in comparison to the display produced at the Fire Opal Cliffs. These cliffs, located on the shoreline of the Cisalpine Sea, stand 150 meters tall and are composed entirely of solid opal. The opal catches the light from the setting sun, causing the cliffs to glow with colour. On the last local day of autumn, when the sun is at just the right angle as it sets, the light is caught by the opal cliffs and reflected and refracted to produce a shimmering rainbow display. When viewed in conjunction with the sunset, the sight is breath-taking.
+The sunrises and sunsets on Sufren have a well-deserved reputation for beauty across the sector but even the best of those pales in comparison to the display produced at the Fire Opal Cliffs. These cliffs, located on the shoreline of the Cisalpine Sea, stand 150 meters tall and are composed entirely of solid opal. The opal catches the light from the setting sun, causing the cliffs to glow with colour. On the last local day of autumn, when the sun is at just the right angle as it sets, the light is caught by the opal cliffs and reflected and refracted to produce a shimmering rainbow display. When viewed in conjunction with the sunset, the sight is breath-taking.
 
 Tourists flock from far afield to witness this event. The Fire Opal Cliffs are designated a national reserve and treasure and, as such, are protected from any development. As short distance from the cliffs however, a small community has developed, which caters to the tourist rush that gathers to delight at this annual display.
 
@@ -6470,8 +6452,7 @@ Animal Hits Speed Crested Snagglepuss
 
 6 9m
 
-Skills Athletics (dexterity) 3, Melee
-(natural) 2, Recon 2, Stealth 2, Survival 3 Attacks —
+Skills Athletics (dexterity) 3, Melee (natural) 2, Recon 2, Stealth 2, Survival 3 Attacks —
 Traits Small (-2)
 Behaviour Carnivore, Killer
 
@@ -6479,8 +6460,7 @@ Behaviour Carnivore, Killer
 
 The black reptishark is one of a large group of reptisharks native to Sufren. An apex predator, it is large enough to easily prey on Dolphins as well as prove a credible threat to a lone Orca. They use their tail for the majority of their motive force, relying on flippers to provide mobility. The black reptishark is highly territorial and hunts alone by swimming slowly until it spots potential prey. It will then dive deep, using lack of light in the depths to approach its prey from below before swimming up at incredible speeds to strike.
 
-Animal Hits Speed Black Reptishark 80 10m Skills Athletics (dexterity) 1, Melee
-(natural) 2, Stealth 2, Survival 3 Attacks Bite (5D)
+Animal Hits Speed Black Reptishark 80 10m Skills Athletics (dexterity) 1, Melee (natural) 2, Stealth 2, Survival 3 Attacks Bite (5D)
 Traits Aquatic, Large (+5)
 Behaviour Carnivore, Killer
 
@@ -6497,8 +6477,7 @@ Skills Recon 1, Survival 3 Attacks Tail Swipe (7D)
 Traits Aquatic, Large (+6)
 Behaviour Herbivore, Grazer
 
-Animal Hits Speed Whitelady 6 1m Skills Athletics (dexterity) 1, Melee
-(natural) 1, Recon 2, Stealth 2, Survival 3 Attacks Stings (1)
+Animal Hits Speed Whitelady 6 1m Skills Athletics (dexterity) 1, Melee (natural) 1, Recon 2, Stealth 2, Survival 3 Attacks Stings (1)
 Traits Mesmerise (Easy), Poison (Very Difficult, paralysis, 1D seconds), Small (-2)
 Behaviour Herbivore, Grazer
 
@@ -6528,8 +6507,7 @@ of physical activity. Lastly, due to their size, Orca take up 12 times as much r
 
 **Echolocation (100m):** Orca use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to 'see' underwater or in complete darkness to a range of 100 meters.
 
-**Succour Syndrome:** When Orca hear the distress calls of other Orca they risk suffering from succour syndrome. If they fail a Very Difficult (12+) Gun Combat or Melee check
-(1D seconds, INT) both their INT and EDU temporarily drop to zero and they must immediately swim as fast as possible to the side of the distressed cetacean.
+**Succour Syndrome:** When Orca hear the distress calls of other Orca they risk suffering from succour syndrome. If they fail a Very Difficult (12+) Gun Combat or Melee check (1D seconds, INT) both their INT and EDU temporarily drop to zero and they must immediately swim as fast as possible to the side of the distressed cetacean.
 
 Swimmer (16m): Orca are superb swimmers and can move through water at a speed of 16 meters.
 
@@ -6547,8 +6525,7 @@ Orca who live closely with humans in societies at TL7+
 have the same access to university and academy pre-career options. Orca always apply DM-2 when attempting to enter university but gain DM+1 when attempting to enter a Military Academy.
 
 Orca careers, in general, are used as described in the Traveller Core Rulebook. However, there are exceptions:
-•  Orca may attempt to qualify for the Dolphin Military career, the Spirit Singer career or the Dolphin Civilian career, except for the historian-
-poet assignment. Orca may attempt to qualify for careers described in the Traveller Core Rulebook but only after first acquiring the Vacc Suit skill.
+•  Orca may attempt to qualify for the Dolphin Military career, the Spirit Singer career or the Dolphin Civilian career, except for the historian-poet assignment. Orca may attempt to qualify for careers described in the Traveller Core Rulebook but only after first acquiring the Vacc Suit skill.
 •  It is unusual for Orca to pursue careers as bureaucrats or Rogues. Orca Rogues are usually the last survivors of a family that has been wiped out or an outcast.
 •  Orca cannot become Drifters. The nomad assignment for the Dolphin Civilian replaces the Drifter for any Orca Traveller. An Orca may automatically enlist in this career.
 •  Orca are unable to become Merchants since the concept of trade and commerce is unfathomable to them or Nobles since they believe in the absolute equality of all.
@@ -6697,8 +6674,7 @@ Electronic equipment must be specially sealed against water when being handled b
 
 ### ARMOR TYPE PROTECTION TL RAD STR DEX SLOTS KG COST REQUIRED SKILL
 
-Type O Battle Dress +22 13 255 +1 +4 20 800 Cr840000 Vacc Suit 2 Type OH Battle Dress
-(heavy assault)
+Type O Battle Dress +22 13 255 +1 +4 20 800 Cr840000 Vacc Suit 2 Type OH Battle Dress (heavy assault)
 
 +35 14 340 +3 +3 20 850 MCr1.2 Vacc Suit 2
 
@@ -6720,8 +6696,7 @@ Cr350000 Cr425000
 
 Vacc Suit 1 Vacc Suit 0
 
-Travel Suit: Travel suits combine gravitic technology with a hostile environment suit and contains a super-
-humid atmosphere for the health and comfort of its Orca wearer. While very similar to Dolphin Travel Suits, those designed for Orca are more heavily armored.
+Travel Suit: Travel suits combine gravitic technology with a hostile environment suit and contains a super-humid atmosphere for the health and comfort of its Orca wearer. While very similar to Dolphin Travel Suits, those designed for Orca are more heavily armored.
 
 The travel suit provides its wearer with complete protection from temperatures ranging from -100^0 C to
 +100^0 C and pressures of up to 56 atmospheres. They include a fully enclosed helmet including a visor with a heads up display that is tied to an on-board computer/
@@ -6755,15 +6730,13 @@ Utility Harness: The utility harness is used by Orca to carry tools, equipment a
 
 Ite m TL Kg Cost Utility Harness 7 25 Cr500
 
-Weapon Harness: A weapon harness is similar to the utility harness in fit but has special mounts for weapons to be attached. In early versions of the weapon harness, sensor pads are placed against the Orca's skin to detect minute muscle twitches to fire the weapons but at higher TL these may be replaced with a neural jack. Weapon harnesses are able to mount heavy weaponry; two heavy weapons or up to four rifle-
-sized weapons are able to be attached to the harness with a combined weight of no more than 100 kilograms. All weapons of the same type fitted to a weapon harness may be fired simultaneously.
+Weapon Harness: A weapon harness is similar to the utility harness in fit but has special mounts for weapons to be attached. In early versions of the weapon harness, sensor pads are placed against the Orca's skin to detect minute muscle twitches to fire the weapons but at higher TL these may be replaced with a neural jack. Weapon harnesses are able to mount heavy weaponry; two heavy weapons or up to four rifle-sized weapons are able to be attached to the harness with a combined weight of no more than 100 kilograms. All weapons of the same type fitted to a weapon harness may be fired simultaneously.
 
 Ite m TL Kg Cost Weapon Harness 7 40 Cr1000
 
 Sonic Screamer: The sonic screamer is a large and devastating weapon that has been designed specifically for underwater use. The screamer generates a tightly focused powerful sonic pulse, using an enormous amount of power and requiring frequent magazine changes.
 
-Weapo n TL Range Damage Kg Cost Magazine Power Pack Cost Traits Sonic Screamer 9 250 5D 25 Cr5700 5 Cr4000 Bulky, Burst 3, Sonic
-(-6), Stun, Zero-G
+Weapo n TL Range Damage Kg Cost Magazine Power Pack Cost Traits Sonic Screamer 9 250 5D 25 Cr5700 5 Cr4000 Bulky, Burst 3, Sonic (-6), Stun, Zero-G
 
 Utility Harness/
 Weapon Harness
@@ -6779,8 +6752,7 @@ All weapons described in this section require the Heavy Weapons (vehicle) skill 
 
 Item TL Kg Cost Vehicle Weapon Harness 10 95 Cr2500
 
-**Mini-torpedo Battery:** A self-contained rack that can carry up to six mini-torpedoes. Designed to be mounted on an Orca vehicle weapon harness, it can fire mini-
-torpedoes singly or in a rippling cascade.
+**Mini-torpedo Battery:** A self-contained rack that can carry up to six mini-torpedoes. Designed to be mounted on an Orca vehicle weapon harness, it can fire mini-torpedoes singly or in a rippling cascade.
 
 Weapon TL Range Damage Tons Cost Magazine Magazine Cost Traits Mini-torpedo Battery 10 9 1DD 2 Cr35000 6 Cr10000 AP 5, Auto 3, Smart
 
@@ -6805,11 +6777,9 @@ The Bwaps, (derived from their full name, the Bawapakerwa-a-a-awapawab), also kn
 Proto-Bwaps were semi amphibious and lived in densely wooded, mangrove-like swamps. They burrowed under and among the root systems of large trees to form dens for the communal protection of themselves and their young. A shift in their home world's weather patterns saw swamps shrink to half their size. Increased population pressures and competition with other animals forced the newts into a semi-arboreal lifestyle. The increased challenges of the alteration of their normal environment and increased competition led to sophoncy, tool use and agriculture, permitting them a tremendous advantage over the competition.
 
 Bwaps are an upright, bipedal, semi-humanoid species that are endothermic, possess an internal skeleton, closed circulatory system and consist of two sexes:
-male and female. They range in height from 1.2 to 1.5 meters and weigh between 34 and 68 kilograms with no discernible differences between males and females. Bwaps are a carbon-based lifeform with a copper-
-based circulatory system. The blue coloured blood of the Bwaps gives unpigmented areas of their body, like the palms of the hands, the bottoms of the feet and the abdomen, a slight blue-green tint.
+male and female. They range in height from 1.2 to 1.5 meters and weigh between 34 and 68 kilograms with no discernible differences between males and females. Bwaps are a carbon-based lifeform with a copper-based circulatory system. The blue coloured blood of the Bwaps gives unpigmented areas of their body, like the palms of the hands, the bottoms of the feet and the abdomen, a slight blue-green tint.
 
-Their biochemistry utilises right-handed amino acids
-(Humaniti uses left-handed amino acids) and left-handed carbohydrates, the same as Humaniti. This may cause Bwaps some difficulties when they do not have access to the correct proteins in their diet but can be rectified with easily accessible dietary supplementation.
+Their biochemistry utilises right-handed amino acids (Humaniti uses left-handed amino acids) and left-handed carbohydrates, the same as Humaniti. This may cause Bwaps some difficulties when they do not have access to the correct proteins in their diet but can be rectified with easily accessible dietary supplementation.
 
 Bwap hands have three digits and an opposable thumb. They have no nails but possess webbing that extends to the first knuckle of the fingers. Some Bwaps are born with webbing that extends to the tips of the fingers but this is surgically removed shortly after birth because it causes the Bwap difficulty when handling objects.
 
@@ -6827,8 +6797,7 @@ Certain types of injury can prevent regeneration from occurring, such as damage 
 
 Sex in Bwaps is determined by the combination of ZW chromosomes; males possess two W chromosomes while females possess both a Z and W chromosome. Additionally, temperature can affect the sex of a Bwap while it is still developing in the egg. Lower temperatures will produce males while higher temperatures produce females. When eggs are allowed to develop naturally at the body temperature of the mother, the chance of female offspring developing is only 30%. Bwaps never manipulate the temperature of eggs intentionally to produce a specific sex but outside conditions such as humidity, heat, stress, exercise and health can have an effect on a female's body which can affect the sex of her young.
 
-The reproductive organs of the Bwaps are internal in both the male and female, sharing a single vent (known as a cloaca) with the digestive tract. Fertilization occurs internally and the female lays a single soft shelled non-
-amniotic egg. Multiple eggs are not unheard of, with two eggs being uncommon and three eggs rarely laid. The eggs are incubated by the female in her pouch until they hatch. The young are practically helpless when they first hatched, being blind with limbs not completely developed. The mother does not produce milk but excretes a nutritious mucus from pores in the pouch that the young is able to ingest easily. At four weeks of age the young Bwap has developed sufficiently to leave the pouch intermittently for short periods of time. At this point, the mother stops producing the nutritious mucus and instead provides food to the young that has been chewed into an easily swallowed paste and passed directly mouth-to-mouth.
+The reproductive organs of the Bwaps are internal in both the male and female, sharing a single vent (known as a cloaca) with the digestive tract. Fertilization occurs internally and the female lays a single soft shelled non-amniotic egg. Multiple eggs are not unheard of, with two eggs being uncommon and three eggs rarely laid. The eggs are incubated by the female in her pouch until they hatch. The young are practically helpless when they first hatched, being blind with limbs not completely developed. The mother does not produce milk but excretes a nutritious mucus from pores in the pouch that the young is able to ingest easily. At four weeks of age the young Bwap has developed sufficiently to leave the pouch intermittently for short periods of time. At this point, the mother stops producing the nutritious mucus and instead provides food to the young that has been chewed into an easily swallowed paste and passed directly mouth-to-mouth.
 
 ### LIFESPAN
 
@@ -6843,21 +6812,15 @@ Bwaps enjoy an omnivorous diet consisting primarily of vegetable matter with sma
 As new foods were introduced to Bwap culture, Bwap cuisine was introduced to the stellar community.
 
 Examples of Bwap delicacies that are often enjoyed by other sophonts include:
-Appepa-tep: A fat purple worm with bright pink mottling and sharp mandibles that make eating this delicacy live slightly hazardous. Traditionally served live but can be cooked in a variety of ways. Bapawa-a-a-bap: A large purple fruit with thick skin, pink sweet flesh and a bitter, jelly-like stone served with a savory sauce. Dawa-daw Shoots: Brined shoots of the naw-
-naw tree with crunchy outside bark and soft undeveloped leaves within that have the texture of cheese and the flavor of candied anchovies. Kabapa-kapa-wapapab Grub: Fat spherical grubs with three tentacles served live. Kekepabweke-a: Thick brown vegetable pod served pickled and jellied in the bitter juice of the wak-a-wekapak fruit. Pawbawa-a-pawa: An astringent marsh grass served pickled in kappa-bawabaw mucus and accompanied by raw reepa-reep eggs. Reepa-reep Eggs: The eggs of the reepa-reep, eaten raw or pickled. Wak-a-wekapak: Pulpy red fruit with many large seeds and bitter juice, eaten raw or the juice used as a pickling agent.
+Appepa-tep: A fat purple worm with bright pink mottling and sharp mandibles that make eating this delicacy live slightly hazardous. Traditionally served live but can be cooked in a variety of ways. Bapawa-a-a-bap: A large purple fruit with thick skin, pink sweet flesh and a bitter, jelly-like stone served with a savory sauce. Dawa-daw Shoots: Brined shoots of the naw-naw tree with crunchy outside bark and soft undeveloped leaves within that have the texture of cheese and the flavor of candied anchovies. Kabapa-kapa-wapapab Grub: Fat spherical grubs with three tentacles served live. Kekepabweke-a: Thick brown vegetable pod served pickled and jellied in the bitter juice of the wak-a-wekapak fruit. Pawbawa-a-pawa: An astringent marsh grass served pickled in kappa-bawabaw mucus and accompanied by raw reepa-reep eggs. Reepa-reep Eggs: The eggs of the reepa-reep, eaten raw or pickled. Wak-a-wekapak: Pulpy red fruit with many large seeds and bitter juice, eaten raw or the juice used as a pickling agent.
 
 ### SOCIETY
 
-Bwap society is centered on the crèche, or Atta-
-wapawab, which can be considered analogous to a nursery and boarding school where young Bwaps are sheltered, fed and trained in the customs and traditions of their clans. They are also provided with the technical skills and education necessary to be a productive member of an interstellar community. Bwaps are considered mature at 14 years and at that point enter a four year period of intense testing and training to determine how they properly fit into their place in the universe. At 18 years of age a Bwap is considered fully mature and may enter into an occupation or pursue further education depending on the results of their earlier training and testing.
+Bwap society is centered on the crèche, or Atta-wapawab, which can be considered analogous to a nursery and boarding school where young Bwaps are sheltered, fed and trained in the customs and traditions of their clans. They are also provided with the technical skills and education necessary to be a productive member of an interstellar community. Bwaps are considered mature at 14 years and at that point enter a four year period of intense testing and training to determine how they properly fit into their place in the universe. At 18 years of age a Bwap is considered fully mature and may enter into an occupation or pursue further education depending on the results of their earlier training and testing.
 
-Bwaps who have become too old or infirm to pursue their former career or have chosen to retire, normally between the ages of 55 and 65 standard years, are also sent to the crèches where they act as teaching assistants, baby-
-sitters and spiritual advisors to juvenile Bwaps.
+Bwaps who have become too old or infirm to pursue their former career or have chosen to retire, normally between the ages of 55 and 65 standard years, are also sent to the crèches where they act as teaching assistants, baby-sitters and spiritual advisors to juvenile Bwaps.
 
-Crèches can come in many sizes ranging from a small affair supporting only a few dozen Bwaps to enormous organizations serving hundreds of thousands of Bwaps. The crèche is where the Satha-a-atta-wabapawab
-(Elders of the Crèche) sit. The Satha-a-atta-
-wabapawab serve their crèche by combining aspects of mentors, seekers, diplomats and philosophical leaders. One of their primary duties is to teach young Bwaps about the Wepawab philosophy, which governs a Bwap's existence. Additionally, Satha-a-atta-
-wapawab provide mediation and guidance for crèches and explore nearby worlds to gather information and experience that will aid their people and the pursuit of the Wapawab. To make matters more confusing, Satha-a-atta-wapawab is the same term given to informal groups of elder Bwaps that serve as leaders, high government officials and the repository of 'law' (the traditional way of doing things).
+Crèches can come in many sizes ranging from a small affair supporting only a few dozen Bwaps to enormous organizations serving hundreds of thousands of Bwaps. The crèche is where the Satha-a-atta-wabapawab (Elders of the Crèche) sit. The Satha-a-atta-wabapawab serve their crèche by combining aspects of mentors, seekers, diplomats and philosophical leaders. One of their primary duties is to teach young Bwaps about the Wepawab philosophy, which governs a Bwap's existence. Additionally, Satha-a-atta-wapawab provide mediation and guidance for crèches and explore nearby worlds to gather information and experience that will aid their people and the pursuit of the Wapawab. To make matters more confusing, Satha-a-atta-wapawab is the same term given to informal groups of elder Bwaps that serve as leaders, high government officials and the repository of 'law' (the traditional way of doing things).
 
 Females in Bwap society are held in high regard. The natural reproductive processes of Bwaps will only result in a female 30% of the time, making the population heavily-biased towards the male. This has resulted in females being protected and rarely seen in public. Nearly all females reside in the crèches where they assist in the raising and educating of the young, act as record keepers, assistants to the Elders and similar tasks. Only females that are, for whatever reason, unable to reproduce tend to be found outside the crèche.
 
@@ -6903,8 +6866,7 @@ Mud bathing is an important Bwap ritual, playing a major part in their culture a
 Bwaps are a conservative race. Innovation is not something they seek and they are not known for inspiration or leaps of intuition. This conservative nature can be seen throughout the Bwap race. Even Bwap communities that have been isolated for hundreds of years, as occurred during the Long Night, were discovered to have hardly changed their social structure, language or philosophy, even if they had fallen back into barbarism. This has led some researchers to consider that Bwap conservatism is in at least some part genetic.
 
 **GOVERNMENT**
-Bwaps have no official over-arching governing body. Each Bwap planet governs itself without recourse to other worlds apart from the sense that they all follow the same set of general principles. Planets that are completely controlled by Bwaps are designated with either Government code 11 (non-charismatic dictatorship) or 13
-(religious dictatorship) because the Bwap world view and philosophy is pursued with such vigour. Law Levels are also equally high, typically Law Level 10+, with high levels of official harassment of citizenry reflecting the Bwaps obsession with 'proper' behaviour.
+Bwaps have no official over-arching governing body. Each Bwap planet governs itself without recourse to other worlds apart from the sense that they all follow the same set of general principles. Planets that are completely controlled by Bwaps are designated with either Government code 11 (non-charismatic dictatorship) or 13 (religious dictatorship) because the Bwap world view and philosophy is pursued with such vigour. Law Levels are also equally high, typically Law Level 10+, with high levels of official harassment of citizenry reflecting the Bwaps obsession with 'proper' behaviour.
 
 The Atapas-atta-wapabab (the Great Council of Crèches) presides over the formation and continued existence of Bwap crèches. Imperial authorities view the Atapas-atta-wapawab more as an administrative
 
@@ -6912,8 +6874,7 @@ department within Bwap culture than an actual political entity and therefore hav
 
 All public officials, judges, bureaucrats, inspectors and so on are appointed by the Great Council of Crèches with no terms of office, no elections, no checks or balances, in fact no limits on power at all except for the Bwap adherence to clan and tradition. This may seem a chaotic way of doing things to outsiders but the sense of tradition among Bwaps holds the weight of law and it is almost unheard of for officials to take advantage of their positions. A Bwap who feels they are no longer able to 'fulfil their part to keep the cosmos operating properly' will resign their position and retire.
 
-Another wide-ranging Bwap organization is the Wewaka-
-atapas or Council of Seemly Order. In the distant past of Marhaban, the Council of Seemly Order would be best described by other races as a religious order, serving as the overseers of ethics and right thinking. Over the centuries since contact with the Vilani, the Council of Seemly Order evolved due to the influence of Vilani bureaucracy and business structures. The Council gradually took on the responsibilities of managing the bureaucratic and accounting practices as observed by the Bwaps. Since the Bwaps became heavily involved in Vilani bureaucracy, the Council of Seemly Order expanded its portfolio to include the overseeing of generally accepted accounting practices within the Ziru Sirka, the Rule of Man and eventually the Third Imperium.
+Another wide-ranging Bwap organization is the Wewaka-atapas or Council of Seemly Order. In the distant past of Marhaban, the Council of Seemly Order would be best described by other races as a religious order, serving as the overseers of ethics and right thinking. Over the centuries since contact with the Vilani, the Council of Seemly Order evolved due to the influence of Vilani bureaucracy and business structures. The Council gradually took on the responsibilities of managing the bureaucratic and accounting practices as observed by the Bwaps. Since the Bwaps became heavily involved in Vilani bureaucracy, the Council of Seemly Order expanded its portfolio to include the overseeing of generally accepted accounting practices within the Ziru Sirka, the Rule of Man and eventually the Third Imperium.
 
 ### JUSTICE
 
@@ -6939,8 +6900,7 @@ The second architectural school of thought is one found on worlds or habitats no
 
 There are no Bwap cities outside of those planets that are totally controlled by them. These cities can be found in two distinct styles. Those located on worlds suitable to Bwap requirements are carefully designed to impact the environment as little as possible. Populations are kept relatively small, pollution maintained at a minimum level and heavy industry located offworld. Conservation of the environment is of high importance and cities appear to be part of the natural landscape as opposed to artificial constructs.
 
-With the advent of suitable gravitic technology, sky-
-cities became common in an attempt to reduce any negative effect on native ecologies further.
+With the advent of suitable gravitic technology, sky-cities became common in an attempt to reduce any negative effect on native ecologies further.
 
 On worlds that do not meet the Bwaps' environmental needs, cities can be large and sprawling affairs, with little attention paid to the effect it may have on the environment. Artificial means are used to increase heat and humidity, and often the cities are enclosed or sealed in some way. In these environments, archologies are a favored housing system.
 
@@ -6957,8 +6917,7 @@ some would say obsessively – into their business ventures to the exclusion of 
 
 ### THE MILITARY
 
-The Tap-a-wewaka-atapas (Guardians of Order) serve as the observational and enforcement arm of the Grand Council of Crèches and holds great power over crèches and worlds despite having no official Imperial sanction. The Guardians of Order are the protectors and wardens of Bwap-dominated planets, acting first and foremost as a military defence force. When the Atapas-
-atta-wapawab requires information or enforcement of a decision, it is the Tap-a-wewaka-atapas that takes that direction and transforms it into reality.
+The Tap-a-wewaka-atapas (Guardians of Order) serve as the observational and enforcement arm of the Grand Council of Crèches and holds great power over crèches and worlds despite having no official Imperial sanction. The Guardians of Order are the protectors and wardens of Bwap-dominated planets, acting first and foremost as a military defence force. When the Atapas-atta-wapawab requires information or enforcement of a decision, it is the Tap-a-wewaka-atapas that takes that direction and transforms it into reality.
 
 The Guardians of Order are not broken up into separate services, although they are given individual training. So, the Guardians of Order contain navy, army, marine, police and emergency forces in a unified arm.
 
@@ -6967,16 +6926,13 @@ The Guardians of Order are not broken up into separate services, although they a
 The Bwap language, Wawa-pakekeke-wawa (literally
 'sounds of knowledge'), has been described as thick and melodic, the words sounding like the plops of bursting mud bubbles. It is not unpleasant to listen to but proves to be rather difficult for other races to master. Conversely, Bwaps have little trouble learning the languages of others, although their accent can be thick and a little hard to understand.
 
-The language has only two vowels and 12 consonants as well as a click represented by '-' in Anglic. Wawa-pakekeke-
-wawa is the only living Bwap language, although there are several minor dialects of interest only to scholars. Several languages were in existence prior to Vilani contact but their use was quickly superseded or absorbed into Wawa-
-pakekeke-wawa and died out in the Long Night.
+The language has only two vowels and 12 consonants as well as a click represented by '-' in Anglic. Wawa-pakekeke-wawa is the only living Bwap language, although there are several minor dialects of interest only to scholars. Several languages were in existence prior to Vilani contact but their use was quickly superseded or absorbed into Wawa-pakekeke-wawa and died out in the Long Night.
 
 Verbs are always placed at the end of a sentence, making a running translation of the Bwap language difficult; the entire sentence needs to be heard or read completely before the full meaning can be ascertained. The difference between ' Your cargo manifest correct ' and ' Your cargo manifest correct not ' illustrates this problem perfectly. Mechanical translations of the Bwap language tend to be slower than others as a result, further exasperating the difficulty of dealing with Bwap bureaucrats.
 
 Bwap modules for electronic translators are available wherever Bwaps are common.
 
-Names tend to be long, reflecting the Bwap desire to specify exactly where everything goes and how it relates to everything else. Other races tend to shorten names
-(much to the Bwaps displeasure) to make them easier to pronounce and deal with during normal conversation.
+Names tend to be long, reflecting the Bwap desire to specify exactly where everything goes and how it relates to everything else. Other races tend to shorten names (much to the Bwaps displeasure) to make them easier to pronounce and deal with during normal conversation.
 
 ### BWAP SCRIPT
 
@@ -6999,6 +6955,8 @@ Bwaps are renowned for their record keeping. Before the advent of the Long Night
 Bwaps evolved from aquatic omnivore amphibianoid ancestors that made their homes in burrows between the roots of mangrove-like trees in the prehistoric swampy jungles of Marhaban. The evolution of the pouch and the soft-shelled egg removed the need for water to raise their young and enabled Bwaps to move
 
 A BWAP GLOSSARY
+
+
 **Atkaseb:** Kaftan-like robe interwoven with thin pipes filled with water.
 **Atta-wapawab:** Nursery, boarding school and government facility.
 **Awahallapah:** Large aquatic predator native to Marhaban.
@@ -7021,8 +6979,7 @@ A BWAP GLOSSARY
 **Kapa-bawabaw:** Herbivorous mollusc native to Marhaban.
 **Kapsebe:** Vargr, also a pirate.
 **Kekepabweke-a:** Shrub-like plant with blue leaves that bears an edible seed pod.
-**Kewabta-apab-wa:** Armor. Traditionally the ceremonial armor worn by the Tap-a-wewaka-
-atapas.
+**Kewabta-apab-wa:** Armor. Traditionally the ceremonial armor worn by the Tap-a-wewaka-atapas.
 **Pa-a-bewsa:** A hatchling, also a naive individual.
 **Paesab:** A clutch or group of Bwap eggs.
 **Paesab-webab:** A mud bath.
@@ -7053,11 +7010,9 @@ Bwap civilization formed a world government as it advanced to TL7 where it stabi
 
 The Vilani discovered the Bwap homeworld early during their exploration of the Empty Quarter. The Bwaps were quickly assimilated and their world given the Vilani name of Lentuli. Exposure to the Vilani brought a technological renaissance to the Bwaps and within only 75 years had advanced into, and stabilized, at a TL10 society. With their conservative outlook and traditional attitude, the Vilani found kindred spirits and useful allies in the Bwaps. Their attention to detail and desire to follow protocol led to Bwaps being employed within the retinues of senior Vilani nobles where they quickly made themselves indispensable. Over the next millennium this policy was extended to mid-level nobles and administration of the Vilani bureau. The heartless Vilani bureaucracy that ground other races into dust lifted the Bwaps into a golden age and they filled every position available to them, making them one of the most wide-spread Minor Races in Charted Space.
 
-The Consolidation Wars and formation of the Ziru Sirka
-(Grand Empire of the Stars, historically known as the First Imperium) saw no resistance from Bwaps who viewed the empire as a natural ordering of the universe. Considering the Bwap's place within Vilani society, their part in the administration of the Ziru Sirka was a perfectly natural development for their race. They moved further out into space, aiding the Vilani in their exploration and governance of new territories and species.
+The Consolidation Wars and formation of the Ziru Sirka (Grand Empire of the Stars, historically known as the First Imperium) saw no resistance from Bwaps who viewed the empire as a natural ordering of the universe. Considering the Bwap's place within Vilani society, their part in the administration of the Ziru Sirka was a perfectly natural development for their race. They moved further out into space, aiding the Vilani in their exploration and governance of new territories and species.
 
-As they grew in position and power, Bwaps were able to find loopholes and exceptions to the restrictions of jump technology imposed on other Minor Races and were able to obtain permission to build their own fleet of jump-
-1 vessels. The secret of the jump drive allowed Bwaps to explore the stars under their own power. Colonists first settled the world of Wesawek and then established footholds on other new worlds. Merchants plied their wares along the mains, finding new opportunities and returning wealth to Lentuli. In less than 300 years Bwaps were granted a license to build jump-2 vessels by the Ishimkarun (Shadow Emperor), a privilege bestowed on a Minor Race completely unheard of in the past and never repeated again by the Vilani.
+As they grew in position and power, Bwaps were able to find loopholes and exceptions to the restrictions of jump technology imposed on other Minor Races and were able to obtain permission to build their own fleet of jump-1 vessels. The secret of the jump drive allowed Bwaps to explore the stars under their own power. Colonists first settled the world of Wesawek and then established footholds on other new worlds. Merchants plied their wares along the mains, finding new opportunities and returning wealth to Lentuli. In less than 300 years Bwaps were granted a license to build jump-2 vessels by the Ishimkarun (Shadow Emperor), a privilege bestowed on a Minor Race completely unheard of in the past and never repeated again by the Vilani.
 
 Co-operation between Bwaps and the Ziru Sirka would continue until the discovery of a race of humans from the planet Terra who resisted Vilani control and instigated the Interstellar Wars, a series of nine conflicts that lasted more than 200 years and eventually saw the demise of the Great Empire of the Stars.
 
@@ -7070,8 +7025,7 @@ Bwap worlds were becoming increasingly subject to Vargr pillaging during this pe
 
 ### JUMP TECHNOLOGY
 
-The exact method that Bwaps used to obtain jump-
-2 technology remains a mystery to this day. The fact that the Shadow Emperor granted the race a licence to build jump-2 drives was completely unheard of and rumor prevails as to how it was achieved. Some believe that Bwaps used bureaucratic trickery to obtain the licence, where others believe the Shadow Emperor provided the technology as a reward for Bwap services to the Imperium. Whatever the truth is, or even if the truth is still known, is up for contention and if the Bwaps know, they are keeping it to themselves.
+The exact method that Bwaps used to obtain jump-2 technology remains a mystery to this day. The fact that the Shadow Emperor granted the race a licence to build jump-2 drives was completely unheard of and rumor prevails as to how it was achieved. Some believe that Bwaps used bureaucratic trickery to obtain the licence, where others believe the Shadow Emperor provided the technology as a reward for Bwap services to the Imperium. Whatever the truth is, or even if the truth is still known, is up for contention and if the Bwaps know, they are keeping it to themselves.
 
 failed to adapt to this new reality and suffered badly. However, through concentrated effort, the Guardians of Order had grown strong enough to shield four worlds from Vargr aggression while Bwap communities established a stable 'hard-money' currency regime that would outlast the Rule of Man.
 
@@ -7085,15 +7039,13 @@ Once the Vargr Pillages had ended, the Bwaps of Marhaban focused on regaining lo
 
 advancement to first the protection and then the evacuation of all surviving crèches on human-dominated worlds. Unfortunately, the Tap-a-wewaka-atapas could, at best, only act as a stop-gap measure, protecting crèches long enough to evacuate the females and young but dooming those left to fend for themselves.
 
-This stance came to a head when the Tap-awewaka-
-atapas sought permission from the Grand Council of Crèches to use orbital bombardment on those human cities that threatened crèches. The Council feared such a posture would lead only to further human aggression and potentially the extinction of the Bwap race. Despite strong opposition from the Tapa-awewaka-atapas, their request was denied.
+This stance came to a head when the Tap-awewaka-atapas sought permission from the Grand Council of Crèches to use orbital bombardment on those human cities that threatened crèches. The Council feared such a posture would lead only to further human aggression and potentially the extinction of the Bwap race. Despite strong opposition from the Tapa-awewaka-atapas, their request was denied.
 
 Through concerted effort, those crèches that could be evacuated were saved and Bwaps returned to advancing their technology. After considerable effort, Marhaban slowly regained TL11 and jump-2 technology. The Grand Council of Crèches decided to seek out all lost Bwap colonies to ensure they were safe and that they continued to follow the tenants of Wapawab philosophy.
 
 Brave and intrepid Bwap scouts faced barbarism and xenophobia to discover their lost brethren, some making journeys of legendary proportions. One Bwap Traveller named Watwapebpepaeb crossed an amazing 140 parsecs in a 200-ton, jump-2 starship to bring the Bwaps of the Old Expanses up-to-date on the last millennia of Atapasatta-wapawab rulings.
 
-As Marhaban and Wesawek expanded further into space, new trade routes were developed, bringing with it renewed wealth and allowing Bwaps to regain a level of technology on par to that of the last days of the Second Imperium. This allowed the (re)founding of new colonies on several planets. Other Bwaps migrated to wealthy human worlds where their love of bureaucracy and order was warmly welcomed. Each of these colonies maintained a contingent of Tap-
-awewaka-atapas; the lessons of previous centuries not forgotten. Despite this, Bwap-dominated worlds never created an interstellar government. The Grand Council was only interested in the maintenance of crèches and the adherence to the Wesawek philosophy, not interstellar domination or control.
+As Marhaban and Wesawek expanded further into space, new trade routes were developed, bringing with it renewed wealth and allowing Bwaps to regain a level of technology on par to that of the last days of the Second Imperium. This allowed the (re)founding of new colonies on several planets. Other Bwaps migrated to wealthy human worlds where their love of bureaucracy and order was warmly welcomed. Each of these colonies maintained a contingent of Tap-awewaka-atapas; the lessons of previous centuries not forgotten. Despite this, Bwap-dominated worlds never created an interstellar government. The Grand Council was only interested in the maintenance of crèches and the adherence to the Wesawek philosophy, not interstellar domination or control.
 
 The arrival of Bwap scouts at Marhaban from the Sylean Federation was seen as a cause of great celebration. When the scouts arrived, they found a functional starport, a thin but steady stream of interstellar trade and a beacon of order. Sylean Bwap scouts found that Bwap society was essentially unchanged. Despite the collapse and return of
 
@@ -7101,20 +7053,17 @@ advanced technology and vast interstellar distances, there was virtually no cult
 
 ### THIRD IMPERIUM
 
-With the declaration of Imperial Rule the Slylean Federation became the Third Imperium, Marhaban had become a minor trade nexus with the Sylean, Vargr and Vilani. The Menderes Corporation traders routinely made annual and semi-annual visits although most trade was with Bwaps from the Vargr Extents. Satha-a-atta-
-wapawab ('Elders of the crèche') from every Bwap colony with sufficient resources visited Marhaban to consult with the Atapas-atta-wapawab for legal rulings and counsel on matters of protocol and policy. The Tap-a-wewaka-atapas protected Marhaban and a few nearby systems from the now rare but still dangerous Vargr pirate bands.
+With the declaration of Imperial Rule the Slylean Federation became the Third Imperium, Marhaban had become a minor trade nexus with the Sylean, Vargr and Vilani. The Menderes Corporation traders routinely made annual and semi-annual visits although most trade was with Bwaps from the Vargr Extents. Satha-a-atta-wapawab ('Elders of the crèche') from every Bwap colony with sufficient resources visited Marhaban to consult with the Atapas-atta-wapawab for legal rulings and counsel on matters of protocol and policy. The Tap-a-wewaka-atapas protected Marhaban and a few nearby systems from the now rare but still dangerous Vargr pirate bands.
 
 Marhaban soon received an invitation to join the third Imperium and accepted eagerly, followed by every other Bwap dominated world. Quickly they made themselves as indispensable to the new stellar government as they were to the Ziru Sirka, stepping into the same roles they once held.
 
-Bwap presence in the Imperium was elevated when A-estaka-sespa of the Sathwawafa Clan was selected by the Emperor to govern as subsector duke. A-estaka-
-sespa was the first Bwap to be raised to ducal status and one of only a few non-human dukes in the Imperium. He used his position to petition the Emperor to rename the subsector Lentuli in honor of Marhaban's Vilani designation and for the further glory of the Lentuli family's dynasty. The request was granted and the subsector has been known as Lentuli ever since.
+Bwap presence in the Imperium was elevated when A-estaka-sespa of the Sathwawafa Clan was selected by the Emperor to govern as subsector duke. A-estaka-sespa was the first Bwap to be raised to ducal status and one of only a few non-human dukes in the Imperium. He used his position to petition the Emperor to rename the subsector Lentuli in honor of Marhaban's Vilani designation and for the further glory of the Lentuli family's dynasty. The request was granted and the subsector has been known as Lentuli ever since.
 
 The advent of the Imperial Civil War saw chaos again descend on the Bwaps and the dissolution of Imperial governance in the sector saw the return of Vargr pirates. For almost two decades, the Tep-awewaka-atapas held the line and defended the subsector from the worst of Vargr incursions. The conclusion of the war saw the restoration of Imperial rule to the sector as well as the edict that only Bwaps were to sit as subsector dukes of Lentuli as a reward for their perseverance in maintaining order throughout the absence of Imperial oversight.
 
 The ducal seat of the Empty Quarter became vacant in the last decade of the Third Imperium's first millennium. Upon the death of the heirless aging sector duke, the
 
-senior nobility could not agree on whom to select as a successor. Eventually, it became obvious that none of the human dukes or duchesses would allow any other to rise to the sector throne. To prevent the interference of the archduke, a meeting of senior nobility was called to decide on a nomination for the sector seat. This became an exercise of finding the least hated noble to nominate, as opposed to the most popular or qualified. With no other options available to them, the sector peerage nominated Subsector Duke Dethwab-
-takebwebwakawa of the Bebewebboekebseb clan to become the first Bwap sector duke of Empty Quarter, on the proviso that he would name as his heir a human of Solomani descent. The Emperor was delighted with the suggestion and after weeks of discussions with the Grand Council of Crèches and deep introspection, Duke Dethwab-takebwebwakawa accepted the position offered. While many human nobles of the sector outwardly embraced the new duke, secretly they were less than satisfied. Under the rule of the new duke, Imperial law became increasingly inflexible and enforced to the last subclause regardless of facts on the ground. This strict adherence became to be seen as arbitrary, untrustworthy and essentially tyrannical, especially by the Solomani population.
+senior nobility could not agree on whom to select as a successor. Eventually, it became obvious that none of the human dukes or duchesses would allow any other to rise to the sector throne. To prevent the interference of the archduke, a meeting of senior nobility was called to decide on a nomination for the sector seat. This became an exercise of finding the least hated noble to nominate, as opposed to the most popular or qualified. With no other options available to them, the sector peerage nominated Subsector Duke Dethwab-takebwebwakawa of the Bebewebboekebseb clan to become the first Bwap sector duke of Empty Quarter, on the proviso that he would name as his heir a human of Solomani descent. The Emperor was delighted with the suggestion and after weeks of discussions with the Grand Council of Crèches and deep introspection, Duke Dethwab-takebwebwakawa accepted the position offered. While many human nobles of the sector outwardly embraced the new duke, secretly they were less than satisfied. Under the rule of the new duke, Imperial law became increasingly inflexible and enforced to the last subclause regardless of facts on the ground. This strict adherence became to be seen as arbitrary, untrustworthy and essentially tyrannical, especially by the Solomani population.
 
 Duke Dethwab-takebwebwakawa proved to be an efficient leader, known for sticking strictly to the letter of the law. During his reign, he was responsible for reducing piracy in the Empty Quarter considerably, not through overwhelming forces but his race's natural ability to see patterns within the order of things. On the duke's death, the sector throne fell to the heir of his choice, one of Solomani decent as was stipulated.
 
@@ -7144,8 +7093,7 @@ Date Event
 -1163 The legendary journey of Watwapebpepaeb from Marhaban to the Old Expanses begins.
 -1141 Watwapebpepaeb returns triumphantly to Marhaban.
 -1100 Bwaps regain interstellar flight.
--1000 Start of the 'Bwap Diaspora' – Bwap merchant vessels travel further and further from Marhaban, re-
-opening markets closed for centuries of barbarism and decay.
+-1000 Start of the 'Bwap Diaspora' – Bwap merchant vessels travel further and further from Marhaban, re-opening markets closed for centuries of barbarism and decay.
 -990 The Tap-awewaka-atapas requests permission from the Grand Council of Crèches to destroy from orbit those human cities that threaten Bwap clans. The request is denied.
 -940 The Tap-awewaka-atapas evacuate the last of the clans from dying or marginal systems.
 -900 The last of the anti-Bwap purges subsides.
@@ -7160,11 +7108,9 @@ opening markets closed for centuries of barbarism and decay.
 
 Bwaps evolved on Marhaban (A5697AB-D), in the Lentuli subsector of the Empty Quarter. The homeworld of the Bwaps is occasionally confused with another world of the same name located in the Lishun sector which is a desert world completely devoid of moisture. This has been a source of some puzzlement to casual astrographic chart readers.
 
-Marhaban was the name given to the system by the Solomani but the word has its roots in the Arabic language. The Bwap have several names for their world including Wa-bawapakerwa-a-a-a-awa-
-pawabawabawaba, loosely meaning 'small branch of the large and great tree that floats in the endlessly vast ocean', Peka-wapawab, loosely meaning 'beloved, small branch of the great tree', and TaswaBwapeaspa, loosely meaning 'fruitful branch of the great tree'.
+Marhaban was the name given to the system by the Solomani but the word has its roots in the Arabic language. The Bwap have several names for their world including Wa-bawapakerwa-a-a-a-awa-pawabawabawaba, loosely meaning 'small branch of the large and great tree that floats in the endlessly vast ocean', Peka-wapawab, loosely meaning 'beloved, small branch of the great tree', and TaswaBwapeaspa, loosely meaning 'fruitful branch of the great tree'.
 
-Bwaps use each of the three names for their planet under very particular circumstances. Wa-bawapakerwa-
-a-a-a-awa-pawabawabawaba is only used on formal occasions whereas Peka-wapawab is used only in an informal manner. TaswaBwapeaspa is used primarily in a professional manner when the Bwaps refer to their world in a business sense.
+Bwaps use each of the three names for their planet under very particular circumstances. Wa-bawapakerwa-a-a-a-awa-pawabawabawaba is only used on formal occasions whereas Peka-wapawab is used only in an informal manner. TaswaBwapeaspa is used primarily in a professional manner when the Bwaps refer to their world in a business sense.
 
 ### MAINWORLD DATA
 
@@ -7360,37 +7306,71 @@ X-boat Route
 
 ABABAT
 
+
+
 LUKAAU
+
+
 
 WABEAB
 
+
+
 HADIYA
+
+
 
 UPKUGI
 
+
+
 SHIKUA
+
+
 
 KHALIDAH
 
+
+
 ZADA
+
+
 
 PAWEBA
 
+
+
 SABIRA
+
+
 
 CHARITY
 
+
+
 PERPETHWE
+
+
 
 FAIZA
 
+
+
 SAFFRON
+
+
 
 WESASWEK
 
+
+
 MIKIK
 
+
+
 MARHABAN
+
+
 
 B-A
 
@@ -7462,13 +7442,14 @@ C311552-7
 
 LENTULI SUBSECTOR
 
+
+
 **EMPTY QUARTER**
 
 **NATIVE LIFEFORMS**
 Marhaban hosts a large and diverse ecosystem. Organic life consist of right-handed amino acids, which make them indigestible to most sophonts. This can be remedied with easily obtained drugs available on Marhaban and other Bwap dominated worlds. Animal life is largely bilaterally symmetrical, consists of two sexes and reproduce sexually. Exceptions occur, as in every biosphere. Life is diverse and complex, showing a long timeline of evolutionary development.
 
-Not including pseudo-insects, the dominant lifeforms on the planet are amphibianoids, which fill almost every ecological niche. Amphibianoids have evolved into two major branches: modern amphibianoids that possess a pouch and lay a soft-shelled egg and primitive amphibianoids that possess no pouch and require water to lay their jelly enshrouded shell-less eggs. Some primitive amphibianoids have made adaptions to living in areas where water may be less abundant, such as in hills and mountains. One such example is the mouth-brooding amphibianoids, which swallow their eggs as they are laid and raise young in pseudo-
-stomachs, ejecting them when they are large enough to fend for themselves.
+Not including pseudo-insects, the dominant lifeforms on the planet are amphibianoids, which fill almost every ecological niche. Amphibianoids have evolved into two major branches: modern amphibianoids that possess a pouch and lay a soft-shelled egg and primitive amphibianoids that possess no pouch and require water to lay their jelly enshrouded shell-less eggs. Some primitive amphibianoids have made adaptions to living in areas where water may be less abundant, such as in hills and mountains. One such example is the mouth-brooding amphibianoids, which swallow their eggs as they are laid and raise young in pseudo-stomachs, ejecting them when they are large enough to fend for themselves.
 
 Scaled egg-laying reptilianoids are significantly fewer in number than the amphibianoids and restricted to the same ecological niches as birds on Terra, although that niche is broad. Reptilianoids can be found all over Marhaban, including the arctic. Mammalianoids are rare and primarily occupy the niche of vermin. The ocean contains a vast array of life including amphibianoids, reptilianoids, piscinoids (fish), medusoids (jellyfish), molluscoids, crustaceanoids and echinoids (sea urchins).
 
@@ -7487,8 +7468,7 @@ The highport orbits Marhaban in a geosynchronous position above the equator of t
 
 From the center of the bottom of the port extends the space elevator with cars suitable for personnel and cargo transport. Elevator cars arrive and depart at 10 minute intervals throughout the day and night.
 
-Each sphere is used for docking purposes and local administration. There is one sphere each for local
-(in-system) traffic, interstellar traffic, a colonial navy base and construction. All four have adequate room to berth numerous ships up to 20,000 tons, with external docking arms and clamps for larger vessels.
+Each sphere is used for docking purposes and local administration. There is one sphere each for local (in-system) traffic, interstellar traffic, a colonial navy base and construction. All four have adequate room to berth numerous ships up to 20,000 tons, with external docking arms and clamps for larger vessels.
 
 Internally, the highport is divided into individual, self-sufficient districts such as public, commercial and military docking, with multiple administrative, residential, commercial, entertainment and industrial zones as redundancy measures. Each zone has its own life support, power and infrastructure, enabling it to continue on its own in the case of isolation or damage to other sections of the port.
 
@@ -7535,8 +7515,7 @@ The Bwap Homeworld
 As the subsector capital, Marhaban also houses all infrastructure and administrative apparatus necessary for that task. The Ducal Palace is a sprawling affair built on the island of Eakeebapebte in the southern hemisphere. The walled palace maintains a Bebewebboekebseb clan crèche, a spaceport for government officials and visitors, living chambers for the duke, clan members and employees. The duke has a personal force of huscarles drawn from the Guardians of Order. The remainder of the island contains other Imperial government offices and buildings, embassies and support facilities.
 
 **LAW LEVEL**
-The legal structure on Marhaban is notably convoluted
-(for outsiders) and inextricably intertwined with ritual and the Wapawab philosophy. Weapons and armor of any description are highly regulated on the planet and only permitted to authorized forces. All drugs are restricted and recreational drugs such as nicotine, cannabis, alcohol and so on are prohibited. Live animal and plant imports are completely prohibited. Entertainment is closely scrutinised for its suitability to be introduced to the community. Adult entertainment of any type is prohibited.
+The legal structure on Marhaban is notably convoluted (for outsiders) and inextricably intertwined with ritual and the Wapawab philosophy. Weapons and armor of any description are highly regulated on the planet and only permitted to authorized forces. All drugs are restricted and recreational drugs such as nicotine, cannabis, alcohol and so on are prohibited. Live animal and plant imports are completely prohibited. Entertainment is closely scrutinised for its suitability to be introduced to the community. Adult entertainment of any type is prohibited.
 
 Starships not of Marhaban origin are not permitted to land on planet except at the starport. Before docking, visitors must present a bill of clean health; papers of starship registration, crew and cargo manifests, and astrogation data from the last four jumps. Customs inspections are conducted electronically as ships emerge from jump and approach the planet, physical inspections through customs patrols before docking and then again physical inspection by port officials on docking. Finally, before being permitted to leave the ship or unload cargo, the crew and ship must be subjected to vermin eradicating procedures to ensure that no foreign species are introduced to Marhaban's ecosystem.
 
@@ -7619,8 +7598,7 @@ The Bwap Homeworld
 
 KAPA-BAWABAW The kapa-bawabaw is a large semiaquatic molluscoid the size of a [[Terra|Terran]] cow that lives in the swamps of Marhaban. They have a thick yellow hide speckled with orange markings and six eyes; two large eyes and four smaller ones. Inside its wide shell-like mouth are three rows of hardened ridges that the kapa-bawabaw uses to chew the vegetation it lives on. Along its underside it has multiple pairs of flipper-like pseudopods that it uses to propel itself through water. In the water the kapa-bawabaw is a graceful swimmer but on land it moves with an awkward humping motion. The kapa-bawabaw was domesticated early in Bwap history and are in general docile. The only exception to this is when the hermaphroditic kapa-bawabaw come into rut and become aggressive and territorial.
 
-Bwaps have a number of uses for kapa-bawabaw. They use the mucus from the kapa-bawbaw's hide as both pickling agent and preservative in cooking, the fertilised eggs are considered a delicacy and the hide, when tanned and prepared correctly, is used as material for clothing. Collecting the eggs is a risky endeavor, as brooding kapa-bawabaw are extremely protective. Primitive Bwaps would use the collection of kapa-
-bawabaw eggs as a rite of passage for young males entering adulthood and the rite is still practiced today in a less dangerous, figurative fashion.
+Bwaps have a number of uses for kapa-bawabaw. They use the mucus from the kapa-bawbaw's hide as both pickling agent and preservative in cooking, the fertilised eggs are considered a delicacy and the hide, when tanned and prepared correctly, is used as material for clothing. Collecting the eggs is a risky endeavor, as brooding kapa-bawabaw are extremely protective. Primitive Bwaps would use the collection of kapa-bawabaw eggs as a rite of passage for young males entering adulthood and the rite is still practiced today in a less dangerous, figurative fashion.
 
 ### PAWBAWEPKA
 
@@ -7629,8 +7607,7 @@ The pawbawepka (known as a 'salamander pug' by humans) is a medium-sized modern 
 Pawbawepka are covered with a thick layer of fat, which makes them look somewhat plump. Coupled with their tendency to enjoy sleeping most of the day, they are often mistaken as slothful creatures. In reality, while a pawbawepka can sleep upwards of 18 hours a day, they are capable of sudden bursts of speed that belies their short legs and rotund appearance. Domesticated pawbawepka are exceptionally affectionate with their owner but tend to be aloof towards others.
 
 Animal Hits Speed Kapa-bawabaw 60 2m Skills Survival 1 Attacks Bite (1D), Crush/Trample (4D)
-Traits Amphibious, Large (+3), Armor
-(+12), Slow Metabolism (-3)
+Traits Amphibious, Large (+3), Armor (+12), Slow Metabolism (-3)
 Behaviour Herbivore, Grazer
 
 Animal Hits Speed Pawbawepka 8 7m Skills Athletics (endurance 2), Recon 1 Attacks Bite (1D)
@@ -7652,14 +7629,11 @@ The parawba is a strong swimmer, equally capable on land and water. They are mos
 
 Parawba were first domesticated as riding and draft animals in Bwap prehistory, becoming an important form of transport until the development of the internal combustion engine. The Bwap military, primarily a defensive force that evolved from warriors protecting their clans from predators, still ride parawba during important ritual events. These parawba are richly adorned and ridden by equally adorned soldiers in elaborate parades.
 
-Animal Hits Speed Reepa-reep 3 5m Skills Athletics (dexterity) 2, Melee
-(natural) 1, Recon 2, Survival 1 Attacks Bite (D3)
+Animal Hits Speed Reepa-reep 3 5m Skills Athletics (dexterity) 2, Melee (natural) 1, Recon 2, Survival 1 Attacks Bite (D3)
 Traits Alarm, Flyer (slow), Small (-3)
 Behaviour Carnivore, Chaser
 
-Animal Hits Speed Parawba 42 7m Skills Athletics (strength) 1, Melee
-(natural) 3, Survival 1 Attacks Bite (1D), Kick (2D), Tail Swipe
-(3D)
+Animal Hits Speed Parawba 42 7m Skills Athletics (strength) 1, Melee (natural) 3, Survival 1 Attacks Bite (1D), Kick (2D), Tail Swipe (3D)
 Traits Amphibious, Large (+2)
 Behaviour Herbivore, Grazer
 
@@ -7667,8 +7641,7 @@ The Bwap Homeworld
 
 WABWE-EBTA-PASEB The wabwe-ebta-paseb is a large predatory molluscoid that dwells in the shallow waters found around the mangrove-like trees that grow in the swamps of Marhaban. The creature is sessile as an adult, unable to move once it has grown out of its motile juvenile stage.
 
-To the casual observer, a wabwe-ebta-paseb resembles nothing more than the roots of a rotted wabwebaba tree, jutting out of the water. In reality, the roots are the camouflaged extension of the wabwe-
-ebta-paseb's shell, composed of calcium carbonate and silicates. The majority of the creature resides below the surface of the water with only its open mouth exposed but hidden within the root-like structures of its shell. The heavily toothed maw is surrounded by a dozen eyes. The rest of its body is held secure in the mud by deeply entrenched tentacles.
+To the casual observer, a wabwe-ebta-paseb resembles nothing more than the roots of a rotted wabwebaba tree, jutting out of the water. In reality, the roots are the camouflaged extension of the wabwe-ebta-paseb's shell, composed of calcium carbonate and silicates. The majority of the creature resides below the surface of the water with only its open mouth exposed but hidden within the root-like structures of its shell. The heavily toothed maw is surrounded by a dozen eyes. The rest of its body is held secure in the mud by deeply entrenched tentacles.
 
 The wabwe-ebta-paseb is an ambush hunter, waiting for prey to enter the confines of its disguised shell before snapping shut its jaws and most often swallowing prey whole. Once a wabwe-ebta-paseb has bitten prey it will not let go, requiring the creature to be killed to release its grip. Wabwe-ebta-paseb show no fear and will attack anything that stumbles within reach.
 
@@ -7698,8 +7671,7 @@ Bwap Travellers all possess the following traits.
 **Social Norms:** Bwaps have a very specific way of thinking that can make certain actions more difficult for them. They suffer DM-1 on the following skills:
 Deception, Gambler, Persuade and Streetwise.
 
-**Structured Mind:** Bwaps have very structured minds, making some skills easier to learn than others. Whenever a Bwap acquires Admin, Advocate and Broker at level 0, it automatically becomes level 1
-(making it impossible for a Bwap to have Admin 0 for example, only Admin 1 or more). Any further levels in these skills accumulate normally.
+**Structured Mind:** Bwaps have very structured minds, making some skills easier to learn than others. Whenever a Bwap acquires Admin, Advocate and Broker at level 0, it automatically becomes level 1 (making it impossible for a Bwap to have Admin 0 for example, only Admin 1 or more). Any further levels in these skills accumulate normally.
 
 **STARTING AGE**
 Bwap Travellers begin their careers at 18 years of age. Untrained and inexperienced, they embark on a career to gain new skills and experience. Each career term lasts for four Imperial years. Bwaps age slightly faster than humans and suffer an additional DM-1 on the Aging table.
@@ -7747,8 +7719,7 @@ Bwap Travellers
 
 ### CENTRAL SUPPLY CATALOGUE: BWAPS
 
-Bwaps are able to use the majority of items designed for humans without penalty due to their similar morphology. This includes computer keyboards, kitchen implements, tools and thousands of other items. Those that require a more ergonomic fit to a particular race, such as drone waldoes, filter masks, pistol grips and the like impose DM-1 unless they are specifically designed for the Bwap anatomy. Likewise, another race attempting to use an item designed specifically for a Bwap will suffer the same DM-1. Bwap specific items are more difficult to find but cost the same as human-
-specific items. Protective equipment such as vacc suits, combat armor, rebreathers, and so on, must be specifically designed for an individual race and are not interchangeable between species. Such equipment for Bwaps costs 110% of the normal price.
+Bwaps are able to use the majority of items designed for humans without penalty due to their similar morphology. This includes computer keyboards, kitchen implements, tools and thousands of other items. Those that require a more ergonomic fit to a particular race, such as drone waldoes, filter masks, pistol grips and the like impose DM-1 unless they are specifically designed for the Bwap anatomy. Likewise, another race attempting to use an item designed specifically for a Bwap will suffer the same DM-1. Bwap specific items are more difficult to find but cost the same as human-specific items. Protective equipment such as vacc suits, combat armor, rebreathers, and so on, must be specifically designed for an individual race and are not interchangeable between species. Such equipment for Bwaps costs 110% of the normal price.
 
 Electronic equipment must be specially sealed against moisture and high humidity when being handled by a Bwap to avoid detrimental effects but this is a standard feature of all electrical equipment at TL10+.
 
@@ -7765,8 +7736,7 @@ has energy, the suit grants STR+2 but inflicts DEX-
 
 2. Additionally, enhanced actuators along the spine allow the Bwap to articulate their tail and use it a striking weapon in combat, inflicting the same damage as an unarmed strike. The TL14 version has a 160-hour power supply, is made of ceramic composites and adds STR+3 but only inflicts DEX-1.
 
-Ceremonial Armor: Bwap ceremonial armor
-(wepasab) is made from cured leather of ancient design and consists of a tunic, leggings, grieves and head covering. It is worn by Tap-a-wewaka-atapas during formal occasions. The construction method for wepasab has not changed and in almost all crèches is created by hand. The cost below is for the simplest form of armor with minimal decoration. More flamboyant armor costs more, significantly more for the most ostentatious.
+Ceremonial Armor: Bwap ceremonial armor (wepasab) is made from cured leather of ancient design and consists of a tunic, leggings, grieves and head covering. It is worn by Tap-a-wewaka-atapas during formal occasions. The construction method for wepasab has not changed and in almost all crèches is created by hand. The cost below is for the simplest form of armor with minimal decoration. More flamboyant armor costs more, significantly more for the most ostentatious.
 
 ### MODIFICATIONS
 
@@ -7777,6 +7747,8 @@ Swimming Fins: These fins are webbing that extend from the hands and feet, with 
 Modification TL Kg Cost Swimming Fins 8 — Cr100 Armored Fins 10 — Cr150
 
  ARMOR TYPE PROTECTION TL RAD KG COST REQUIRED SKILL
+
+
 
 Armored Kaftan +5
 +8
@@ -7843,8 +7815,7 @@ Item TL Kg Cost Polymer Gloves 6 1 Cr50
 
 Like fire, electronics came late to Bwap society due to the dampness of their environment but once discovered it was rapidly utilised. Electronics, particularly in higher Tech Level society, are ubiquitous with modern life.
 
-Water Proofing: Due to the damp environments that Bwaps are forced to live in, all of their electronics
-(which includes computers and other equipment)
+Water Proofing: Due to the damp environments that Bwaps are forced to live in, all of their electronics (which includes computers and other equipment)
 require waterproofing to protect them from water damage. This technology was developed early in Bwap advancement and by TL10 all electronics are routinely waterproofed as part of their construction.
 
 Item TL Kg Cost Waterproofing 6 +200% of weight +250% of cost Waterproofing 7 +100% of weight +100% of cost Waterproofing 8 +25% of weight +50 % of cost Waterproofing 9 +.10% of weight +25% of cost
@@ -7871,10 +7842,9 @@ Hydronol 9: Hydronol 9 pills are a drug designed to limit the amount of moisture
 
 Item TL Kg Cost Hydronol 9 11 — Cr100
 
-Robot Hits Speed TL Cost Interaction Bot 20 5m 14 MCr2 Locomotion Walker Skills Admin 3, Advocate 2, Diplomat 2, Language (Bwap) 3, Persuade 1 Attacks None Manipulators 2 X (STR 9 DEX 8)
+Robot Hits Speed TL Cost Interaction Bot 20 5m 14 MCr2 Locomotion Walker Skills Admin 3, Advocate 2, Diplomat 2, Language (Bwap) 3, Persuade 1 Attacks None Manipulators 2X (STR 9 DEX 8)
 Endurance 216 hours Traits Armor (+3), ATV, (idle), Heightened Senses Programming Very Advanced (INT 11)
-Options Android (enhanced), Auditory Sensor (broad spectrum), Drone Interface, Quick Charger, Self-
-Repairing Chassis, Transceiver 500 km (advanced), Visual Spectrum Sensor, Voder Speaker (broad spectrum), Wireless Data Link, spare slot x4
+Options Android (enhanced), Auditory Sensor (broad spectrum), Drone Interface, Quick Charger, Self-Repairing Chassis, Transceiver 500 km (advanced), Visual Spectrum Sensor, Voder Speaker (broad spectrum), Wireless Data Link, spare slot x4
 
 CSC: Bwaps
 
@@ -7951,8 +7921,7 @@ ARMOR FRONT 3 REAR 3 SIDES 2
 ARMOR FRONT 5 REAR 5 SIDES 5
 
 Traits —
-Equipment Actuators x2, Autopilot (enhanced), Communication System (improved), Control system (basic), Cutting Tool, Geological Sampler, Hydrographic Sampler, Manipulator Arms x3, Navigation System (improved), Robot Brain
-(advanced), Sensor System (improved)
+Equipment Actuators x2, Autopilot (enhanced), Communication System (improved), Control system (basic), Cutting Tool, Geological Sampler, Hydrographic Sampler, Manipulator Arms x3, Navigation System (improved), Robot Brain (advanced), Sensor System (improved)
 
 Equipment Autopilot (skill level) +2 Communications (range) 500km Navigation (Navigation DM) +2 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) +1 Stealth (Electronics (sensors) DM) +1
 
@@ -7975,8 +7944,7 @@ Vehicles of the Bwaps
 
 ARMOR FRONT 25 REAR 20 SIDES 15
 
-Traits ATV Equipment Communications (basic, encrypted, satellite uplink), Control System
-(enhanced), Navigation System (basic), Sensor System (improved)
+Traits ATV Equipment Communications (basic, encrypted, satellite uplink), Control System (enhanced), Navigation System (basic), Sensor System (improved)
 Weapons Small Turrets x2 (rotary autocannon x2)
 
 Equipment Autopilot (skill level) —
@@ -7984,6 +7952,8 @@ Communications (range) 500km Navigation (Navigation DM) +1 Sensors (Electronics 
 Stealth (Electronics (sensors) DM) —
 
  WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
+
+
 
 Rotary Autocannons 1 6D+6 500 — Auto 5 +3
 
@@ -8004,9 +7974,7 @@ Off-roader engines are able to pull seven carriages in total. Carriages can be o
 
 ARMOR FRONT 11 REAR 11 SIDES 11
 
-ARMOR FRONT 10 REAR 10 SIDES 10 Traits Off-roader Equipment Autopilot (basic), Communications
-(encrypted, increased range, satellite link), Control System (improved), Fresher, Fusion Plant (basic), Mini-
-galley, Sensor System (improved), Smart Wheels, Staterooms x3
+ARMOR FRONT 10 REAR 10 SIDES 10 Traits Off-roader Equipment Autopilot (basic), Communications (encrypted, increased range, satellite link), Control System (improved), Fresher, Fusion Plant (basic), Mini-galley, Sensor System (improved), Smart Wheels, Staterooms x3
 
 Traits Off-roader Equipment Control System (improved), Smart Wheels
 
@@ -8037,13 +8005,10 @@ FRONT 10 REAR 10 SIDES 10
 
 ARMOR FRONT 10 REAR 10 SIDES 10
 
-Traits Off-roader Equipment Bunks x5, Communications System
-(improved, satellite uplink), Computer/1, Control system (improved), Full Galley
-(10 passengers), Laboratory (biology
+Traits Off-roader Equipment Bunks x5, Communications System (improved, satellite uplink), Computer/1, Control system (improved), Full Galley (10 passengers), Laboratory (biology
 +3), Large Fresher, Sensors (improved, high fidelity +2), Smart Wheels
 
-Traits Off-roader Equipment Communications systems (improved, satellite uplink), Control System
-(improved), Entertainment System, Large Fresher, Full Galley (14 passengers), Smart Wheels, Staterooms x7
+Traits Off-roader Equipment Communications systems (improved, satellite uplink), Control System (improved), Entertainment System, Large Fresher, Full Galley (14 passengers), Smart Wheels, Staterooms x7
 
 Equipment Autopilot (skill level) —
 Communications (range) 500km Navigation (Navigation DM) —
@@ -8078,10 +8043,11 @@ Vehicles of the Bwaps
 
 PABTA TRACKED SCOOTER
 
+
+
 ### PESWAB MARSH HOPPER
 
-Marsh hoppers are submersible vehicles that can also take to the air with grav lifters. Among Bwaps they are a common vehicle, especially for those who live in under-
-sea archologies. These vehicles have also gained some popularity with sophonts living on water worlds.
+Marsh hoppers are submersible vehicles that can also take to the air with grav lifters. Among Bwaps they are a common vehicle, especially for those who live in under-sea archologies. These vehicles have also gained some popularity with sophonts living on water worlds.
 
 ARMOR FRONT 2 REAR 2 SIDES 2
 
@@ -8106,8 +8072,7 @@ CREW 1 PASSENGERS —
 CARGO —
 HULL 2 SHIPPING 1 ton COST Cr8100
 
-TL 10 SKILL Flyer (grav), Seafarer
-(submarine)
+TL 10 SKILL Flyer (grav), Seafarer (submarine)
 AGILITY -2 SPEED (CRUISE) Medium (Slow)
 RANGE (CRUISE) 200 (300)
 CREW 1 PASSENGERS 1 CARGO —
@@ -8119,8 +8084,7 @@ Vehicles of the Bwaps
 
 ### HIGH GUARD OF THE BWAPS
 
-Bwaps first developed their own fleet of ships during the Ziru Sirka to facilitate trade and colonization, and continued during the fall of the Ramshackle Empire and into the Long Night as a measure to protect their worlds. At first they used ships provided by the Vilani but as these began to reach the end of their life, Bwaps began building their own vessels based on their own design principles, making them highly recognizable. Vowing never to forget the atrocities and injustices visited upon them by the Solomani and Vargr during the Long Night, Bwaps have continued to maintain their own fleets, recognized by the Third Imperium as colonial fleets. Bwap vessels are found primarily in Bwap controlled systems
-(especially military ships) in the Empty Quarter, although merchant and trader vessels can be found throughout the Third Imperium, particularly in core and trailing sectors.
+Bwaps first developed their own fleet of ships during the Ziru Sirka to facilitate trade and colonization, and continued during the fall of the Ramshackle Empire and into the Long Night as a measure to protect their worlds. At first they used ships provided by the Vilani but as these began to reach the end of their life, Bwaps began building their own vessels based on their own design principles, making them highly recognizable. Vowing never to forget the atrocities and injustices visited upon them by the Solomani and Vargr during the Long Night, Bwaps have continued to maintain their own fleets, recognized by the Third Imperium as colonial fleets. Bwap vessels are found primarily in Bwap controlled systems (especially military ships) in the Empty Quarter, although merchant and trader vessels can be found throughout the Third Imperium, particularly in core and trailing sectors.
 
 These ships are very much like human vessels and use the same technology, as would be expected from a race that gained spaceflight technology largely from humans. Both races can readily use vessels of the other with no difficulty.
 
@@ -8169,6 +8133,8 @@ While the ship has enough fuel for four weeks of operation, creature comforts ar
 **Medium Fighter**
 
 MAIN DECK LOWER FIN UPPER FIN
+
+
 
 1. Re-entry Pod 2. Dual Cockpit 3. Improved Signal Processing 4. Missile Storage 5. Cargo Bay
 
@@ -8236,8 +8202,7 @@ Maneuver/0 — —
 Intellect — —
 Cargo 104 —
 
-A popular design among Bwap traders, the Koteak-
-wo trader is functionally a far trader adapted for Bwap use. Armed purely for the sake of self-defence, the vessel is able to stand up well against pirates
+A popular design among Bwap traders, the Koteak-wo trader is functionally a far trader adapted for Bwap use. Armed purely for the sake of self-defence, the vessel is able to stand up well against pirates
 
 and other minor threats. The cargo hold is large enough to provide a profitable living for the ship owners and versatile enough to be used in a variety of differing roles.
 
@@ -8633,8 +8598,7 @@ The class does have some shortcomings, such as the extended time it takes to pro
 
 TL15 TONS COST (MCr)
 Hull 150,000 tons, Standard — 7500 Reinforced — 3750 Armor Bonded Superdense, Armor: 11 13,200 6600 M-Drive Thrust 4 6,000 12000 J-Drive Jump 4 15,005 22507.5 Power Plant Fusion (TL12), Power: 153,075 10,205 10205 Fuel Tanks J-4, 4 weeks of operation 61,021 —
-Bridge 60 750 Holographic Controls — 187.5 Computer Core/90 fib — 180 Core/50 — 60 Sensors Improved 3 4.3 Distributed Arrays 6 8.6 Enhanced Signal Processing 2 8 Weapons Meson Spinal Mount (TL14) 31,875 12000 Large Particle Beam Bays x4 2,000 240 Medium Torpedo Bays x4 400 24 Fusion Barbettes x10 50 40 Triple Turrets (pulse laser) x30 30 120 Point Defence Laser Batteries
-(type III) x50 1,000 1000 Ammunition Torpedo Storage (990 torpedoes) 960 —
+Bridge 60 750 Holographic Controls — 187.5 Computer Core/90 fib — 180 Core/50 — 60 Sensors Improved 3 4.3 Distributed Arrays 6 8.6 Enhanced Signal Processing 2 8 Weapons Meson Spinal Mount (TL14) 31,875 12000 Large Particle Beam Bays x4 2,000 240 Medium Torpedo Bays x4 400 24 Fusion Barbettes x10 50 40 Triple Turrets (pulse laser) x30 30 120 Point Defence Laser Batteries (type III) x50 1,000 1000 Ammunition Torpedo Storage (990 torpedoes) 960 —
 Armored Bulkheads Bridge 6 12 Screens Meson Screens x5 50 100 Nuclear Dampers x5 50 50 Systems Docking Space (160 tons) 176 44 Ship's Boats x3 — 20.466 Troop Transport — 45.45 Military Gig — 13.6683 Armory 79 19.75
 
 **Systems** Brig 16 1

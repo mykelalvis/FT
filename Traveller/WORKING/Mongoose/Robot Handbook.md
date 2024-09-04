@@ -7,6 +7,8 @@ tags:
 
 ROBOT HANDBOOK
 
+
+
 Traveller ©2022 Mongoose Publishing Ltd. All rights reserved. Reproduction of this work by any means without the written permission of the publisher is expressly
 forbidden. All significant characters, names, places, items, art and text herein are copyrighted by Mongoose Publishing Ltd.
 
@@ -24,9 +26,13 @@ Printed in China.
 
 CLASSIC TRAVELLER
 
+
+
 Marc Miller
 
 MONGOOSE TRAVELLER
+
+
 
 **AUTHOR**
 Geir Lanesskog
@@ -55,11 +61,15 @@ Jim Kundert
 
 TRAVELLER INNER CIRCLE
 
+
+
 Andrew James Alan Welty, Colin Dunn, M. J. Dougherty,
 Rob Eaglestone, Sam Wissa, Joshua Bell, Maksim
 Smelchak, Geir Lanesskog, Christopher Griffen
 
 CONTENTS
+
+
 INTRODUCTION 02
 ROBOT DESIGN 06
 CHASSIS 13
@@ -150,8 +160,7 @@ limited in flexibility but able to perform programmed
 functions without continual guidance from an operator
 or nearby biological being.
 
-Increasing miniaturisation and sophisticated multi-
-processing continues to drive down the cost of robotic
+Increasing miniaturisation and sophisticated multi-processing continues to drive down the cost of robotic
 brains and increase their flexibility. By TL10, Advanced
 robot brains gain the flexibility to perform a large variety
 of tasks, although they fall short in understanding
@@ -204,8 +213,7 @@ a goodwill tour in orbit around Fornol (in the
 Core) a terrorist group rigged a courier robot
 to self-destruct and smuggled it aboard. The
 robot’s fuel cell detonated, killing Fornol’s
-Premier, two ambassadors and a Sylean vice-
-minister, among other dignitaries and crew.
+Premier, two ambassadors and a Sylean vice-minister, among other dignitaries and crew.
 The event nearly led to a Sylean civil war.
 
 The resulting conference between a dozen
@@ -238,7 +246,7 @@ those actions.
 
 Introduction
 
-TRAVELLER
+
 
 Robots Across Charted Space
 In Charted Space, robots are ubiquitous devices
@@ -256,8 +264,7 @@ major society has considered even advanced robots
 as anything other than tools and property. While
 advanced robots can emulate the behaviour of sentient
 beings, they are generally considered non-sentient
-and afforded few, if any, rights. As research into full-
-conscious artificial intelligences progresses, questions
+and afforded few, if any, rights. As research into full-conscious artificial intelligences progresses, questions
 of robots’ rights may emerge but for now robots are
 fancy tools, rumours of fully sentient artefacts of the
 Ancients notwithstanding.
@@ -268,6 +275,8 @@ acceptance of robots are detailed in separate sections
 of the Robot Catalogue.
 
 THE THIRD IMPERIUM
+
+
 The Third Imperium has no one law or policy regarding
 robots, although the legacy of the Shudusham
 Concords and old Vilani legends of the Ancients’ war
@@ -285,6 +294,8 @@ Hazardous environments particularly see widespread use
 of drones and robots, reducing risk to biological workers.
 
 MAJOR MANUFACTURERS
+
+
 There are literally millions of robot manufacturers
 across Charted Space, ranging from workshops in
 the back alleys of startowns to the vast manufacturing
@@ -322,6 +333,8 @@ industrial and utility robots capable of undertaking
 hazardous and tedious tasks.
 
 SPECIALITY FIRMS
+
+
 Most speciality firms focus on a single niche or small
 subset of the robotics market, hoping to stand out
 from the heavily marketed Naasirka products. Many
@@ -409,8 +422,7 @@ with Very Advanced brains can attempt tasks outside
 their programmed functions and develop opinions and
 beliefs based on experience and reasoning. Synaptic
 pathways designed for maximum efficiency are in some
-ways more efficient than those developed by the trial-
-and-error evolutionary method, and robots with Very
+ways more efficient than those developed by the trial-and-error evolutionary method, and robots with Very
 Advanced brains are capable of both biological-like
 higher reasoning and the memory and computational
 power of computers, making them better at certain
@@ -490,8 +502,7 @@ assumed to exist.
 •	 Robots are assumed to have two manipulators of
 appropriate size for their bodies by default but this
 can be modified by addition, deletion or resizing.
-•	 Most basic traits and options can be enhanced
-(or degraded) by additional design customisation.
+•	 Most basic traits and options can be enhanced (or degraded) by additional design customisation.
 •	 Special robot types, including drones, microbots,
 nanorobots, androids, biological robots and other
 artificial beings follow their own specialised design
@@ -506,8 +517,7 @@ Design Overview
 The robot design process consists of the following steps.
 
 Step 1: Chassis Size
-Determine the physical size of the robot from Size 1 (rat-
-sized) to Size 8 (rhino-sized). Physical size determines
+Determine the physical size of the robot from Size1 (rat-sized) to Size8 (rhino-sized). Physical size determines
 the number of physical option Slots a robot has available
 as well as the Base Hits and attack roll DMs for a robot
 of this Size. Size modifies the Cost of the robot, although
@@ -611,7 +621,7 @@ omitted or weakened.
 
 Robot Design
 
-TRAVELLER
+
 
 •	 ATV: The robot can handle difficult terrain. It
 receives DM+2 on checks to handle rough terrain.
@@ -656,8 +666,7 @@ are Large.
 •	 Small (-X): The robot is smaller than a human
 and presents a difficult target. All ranged attacks
 made against the robot suffer a DM equal to the
-score listed in the Small trait. Robots of Size 4-
-are Small.
+score listed in the Small trait. Robots of Size 4-are Small.
 
 •	 Stealth (+X): The Stealth trait, as opposed
 to to the Stealth skill, is the robot’s ability to
@@ -844,9 +853,7 @@ Spaces in size. Anything larger is considered to be
 - and is physically designed as – a vehicle, though
 
 such larger designs may be fitted with a robot brain.
-Anything smaller is considered a microbot (insect-
-sized) of limited capability, or a nanorobot (microbe-
-sized), a single purpose robot commonly deployed in
+Anything smaller is considered a microbot (insect-sized) of limited capability, or a nanorobot (microbe-sized), a single purpose robot commonly deployed in
 swarms. Microbots and nanorobots are considered in
 separate sections, beginning on page 105.
 
@@ -883,8 +890,7 @@ wrecked, or at least cannot be easily repaired; at
 cumulative damage equal to twice its Hits the robot is
 irreparably destroyed. The Attack Roll DM indicates the
 difficulty of hitting the robot based on its Size. This also
-corresponds to the robot’s Large (+1 or more) or Small
-(-1 or less) trait.
+corresponds to the robot’s Large (+1 or more) or Small (-1 or less) trait.
 
 A robot is assumed to have two standard manipulators
 proportionally sized to its chassis and may or may not
@@ -905,7 +911,7 @@ robot Cost by Cr100 and these cannot be restored by
 post-design modifications. However, the minimum cost
 for any robot is its Basic Cost.
 
-TRAVELLER
+
 
 SIZE, SLOTS, SPACES AND TONS
 Size and Slots are not precise measurements
@@ -1000,8 +1006,7 @@ on a starship. It might need to move heavy equipment
 and carry a variety of tools but must also fit into an
 environment built for humans and crawl into tight
 spaces. While the Aslan version of this robot is larger
-than a human, it is not suitable for use on human-
-designed ships. Therefore, StarTek is Size 5 with 16
+than a human, it is not suitable for use on human-designed ships. Therefore, StarTek is Size 5 with 16
 Base Slots and 20 Base Hits. A Size 5 chassis has a
 basic cost of Cr1000 and has no size-related traits. The
 designer envisions the robot as a broad-shouldered
@@ -1057,8 +1062,7 @@ world’s surface.
 A robot’s base Agility is determined by its locomotion
 type. Agility is a factor in determining a robot’s
 movement rate, modifying a robot’s base movement
-rate of five metres per Minor Action in every six-
-second combat round. Traits are similar to vehicle
+rate of five metres per Minor Action in every six-second combat round. Traits are similar to vehicle
 Traits and described on Page 101. Traits for some
 locomotion types may be modified during the design
 process. Base Endurance indicates the duration
@@ -1135,6 +1139,8 @@ robots might operate in very thin atmospheres on low
 gravity planets at Agility -2 to -4.
 
 LOCOMOTION TRAITS
+
+
 ACV: The robot is equipped with an air cushion that
 allows it to ride on a layer of air for movement over
 both solid and liquid surfaces. The robot may not hover
@@ -1203,8 +1209,7 @@ which has both grav and walker locomotion modes.
 Since grav locomotion has a higher cost multiplier
 than walker, grav is considered the primary locomotion
 mode and walker is added later as a secondary
-locomotion mode. Grav locomotion grants the Flyer
-(Idle) trait to the robot and Agility +1, modifying the
+locomotion mode. Grav locomotion grants the Flyer (Idle) trait to the robot and Agility +1, modifying the
 base movement rate to six metres. Grav locomotion
 multiplies the cost of the Size 5 robot by 20, resulting
 in a base chassis cost of Cr20000.
@@ -1280,8 +1285,7 @@ is calculated after any efficiency increase. A power
 pack costs Cr500 per Slot consumed.
 
 Robots whose endurance has been increased by
-additional power packs gain the equivalent of Athletics
-(endurance) skill at a level determined by the number of
+additional power packs gain the equivalent of Athletics (endurance) skill at a level determined by the number of
 power packs added.
 
 Robot Armour
@@ -1292,7 +1296,7 @@ TL Base Protection Max. Slots Max. per Slot Cost per Slot
 15–17 4 50 0.3% 4 Cr
 18+ 5 60 0.25% 5 Cr
 
-TRAVELLER
+
 
 Installed power options, as described beginning
 on page 55, may further modify endurance and
@@ -1309,8 +1313,7 @@ Endurance Modifier TL Slots
 Increased
 Endurance
 
-Athletics
-(endurance) Cost
+Athletics (endurance) Cost
 Improved Technology 12 — +50% — —
 Advanced Technology 15 — +100% — —
 Efficiency 7+ — +100% — 50% Base Chassis Cost
@@ -1340,8 +1343,7 @@ Chassis Options
 Increased
 Endurance
 
-Athletics
-(endurance) Cost
+Athletics (endurance) Cost
 
 Improved Technology 12 — +50% — —
 
@@ -1431,8 +1433,7 @@ environments and to dodge attacks.
 Agility Enhancement
 This modification requires no Slot utilisation but
 increases the cost of a robot’s locomotive component
-and grants the robot the equivalent of the Athletics
-(dexterity) skill. It can be used in conjunction with
+and grants the robot the equivalent of the Athletics (dexterity) skill. It can be used in conjunction with
 speed enhancements but costs are cumulative.
 Each level of agility enhancement grants one level
 of Athletics (dexterity) and increases overall Agility,
@@ -1595,11 +1596,15 @@ hours, rounded to 97 hours.
 
 STEWARD DROID
 
+
+
 Locomotion Modifications Cost
 Agility Final Agility 0
 Tactical Speed +1 Final Speed 6 Final Endurance = 97 Hours 800
 
 STARTEK
+
+
 Locomotion Modifications Cost
 Agility Final Agility +1
 Tactical Speed Final Speed 6 Final Endurance = 72 Hours
@@ -1631,8 +1636,7 @@ removed, strengthened or weakened.
 
 Additional Manipulators
 Additional manipulators cost Cr100 x Manipulator Size.
-This initial cost is also the basis of any characteristic-
-based cost modifications to the robot’s base or
+This initial cost is also the basis of any characteristic-based cost modifications to the robot’s base or
 additional manipulators.
 
 Each additional manipulator requires 10% of a robot’s
@@ -1697,7 +1701,7 @@ Same Size as Chassis 10% 1 1 1 1 2 4 7 13
 -2 2% 1 1 1 1 1 1 2 3
 -3 (or less) 1% 1 1 1 1 1 1 1 2
 
-TRAVELLER
+
 
 Resizing a manipulator changes the robot’s cost by
 Cr100 x the difference in Slots between the robot’s
@@ -1720,8 +1724,7 @@ multiplied by the square of its increase in STR. For
 example, a Size 5 manipulator increased from STR
 9 to STR 10 (+1) costs an additional Cr500 (Cr100
 x 5 x 1 x 1), while increasing the same manipulator
-to STR 15 (+6) requires an additional cost of
-(Cr100 x 5 x 6 x 6) Cr18000. A manipulator may
+to STR 15 (+6) requires an additional cost of (Cr100 x 5 x 6 x 6) Cr18000. A manipulator may
 not have its STR increased beyond twice its default
 value; therefore, the maximum STR of the Size 5
 manipulator would be STR 18 (9 x 2 for +9) at a Cost
@@ -1739,8 +1742,8 @@ cost of Cr36000 (Cr200 x 5 x 6 x 6).
 
 Manipulator Characteristics
 Characteristic Default Value Maximum Characteristic Cost Formula
-STR 2 x Manipulator Size - 1 2 x default STR Manipulator Size x (net increase STR)^2 x Cr100
-DEX TL ÷ 2 +1 (round up) TL+3 Manipulator Size x (net increase DEX)^2 x Cr200
+STR 2 x Manipulator Size - 1 2 x default STR Manipulator Sizex (net increase STR)^2 x Cr100
+DEX TL ÷ 2 +1 (round up) TL+3 Manipulator Sizex (net increase DEX)^2 x Cr200
 
 Both STR and DEX can be increased, with the costs
 combined. For instance, a TL10 Size 5 manipulator
@@ -1752,20 +1755,17 @@ A robot designed as a walker may enhance a leg
 to operate as a manipulator by paying the base
 manipulator cost of a robot of its Size (Cr100 x
 Size per modified manipulator). Multi-legged robots
-may have one, some or all legs altered into multi-
-functional limbs but their size may not be altered.
+may have one, some or all legs altered into multi-functional limbs but their size may not be altered.
 For design simplicity a multi-legged walker with
 legs altered to become manipulators is considered
-to have two legs; for example, designing an eight-
-limbed robot with all limbs as manipulators would
+to have two legs; for example, designing an eight-limbed robot with all limbs as manipulators would
 involve keeping the two original manipulators, adding
 four manipulators and altering the two default legs to
 become manipulators.
 
 Manipulator Athletics Skill Requirements
 Increased DEX and STR values do not directly grant
-a skill equivalence of Athletics (dexterity) or Athletics
-(strength) to the robot unless it has a skill package
+a skill equivalence of Athletics (dexterity) or Athletics (strength) to the robot unless it has a skill package
 of Athletics installed in its brain. If such a package is
 installed, even at skill level zero, then DMs for high
 STR or DEX are applied to simulate that skill level,
@@ -1794,21 +1794,22 @@ vehicle to robot conversion and manipulator
 specifications and pricing, a four-Space
 vehicle is equivalent to a Size 8 robot, a 2–3
 Space vehicle is equivalent to Size 7 and a 1
-Space vehicle to Size 6. Up to four vehicle-
-installed robot manipulators can be installed
+Space vehicle to Size 6. Up to four vehicle-installed robot manipulators can be installed
 using one vehicle Space. A vehicle sized at
-one Space may install two Size 5 (or smaller)
+one Space may install two Size5 (or smaller)
 manipulators without using its only Space.
 
 **Steward Droid**
 The Steward Droid has two Size 4 manipulators by
-default, with STR 7 (2 x Size - 1) and DEX 7 (TL ÷ 2
+default, with STR7 (2 x Size - 1) and DEX7 (TL ÷ 2
 +1). This is perfectly adequate for a domestic robot and
 requires no modification.
 
 **EXAMPLES**
 
 STEWARD DROID
+
+
 Manipulators (including modified legs)
 
 Siz e STR DEX Slots STR Mod/Final(DM) DEX Mod/Final(DM) Skill Cost
@@ -1817,6 +1818,8 @@ Siz e STR DEX Slots STR Mod/Final(DM) DEX Mod/Final(DM) Skill Cost
 2 4 7 7
 
 STARTEK
+
+
 Manipulators (including modified legs)
 
  Siz e STR DEX Slots STR Mod/Final(DM) DEX Mod/Final(DM) Skill Cost
@@ -1896,8 +1899,7 @@ skills to the robot.
 The StarTek robot requires sensors that span the
 electromagnetic spectrum. The designer replaces
 the visual spectrum sensor with a PRIS sensor. This
-sensor could have been added as a separate Zero-
-Slot component but as the PRIS sensor includes the
+sensor could have been added as a separate Zero-Slot component but as the PRIS sensor includes the
 visual spectrum, the designer deems it more efficient
 and aesthetically appealing to replace the default
 sensor. The PRIS sensor adds Cr2000 to the cost of
@@ -1905,6 +1907,8 @@ the Default Suite and provides the StarTek robot with
 the IR/UV Vision trait.
 
 STEWARD DROID
+
+
 Default Suite (5 Zero-Slot Items)
 Item Slots Notes TL Traits Skill Cost
 Visual spectrum sensor 0
@@ -1914,6 +1918,8 @@ Wireless data link 0
 Transceiver, 5km (improved) 0
 
 STARTEK
+
+
 Default Suite (5 Zero-Slot Items)
 Item Slots Notes TL Traits Skill Cost
 Visual spectrum sensor 0 Upgrade 12 IR/UV Vision 2000
@@ -1990,7 +1996,7 @@ Enhanced 11 50 -3 +Full spectrum Cr100
 Advanced 12 10 -4 +Multi-chromatic Cr500
 Superior 13 1 -4 +Visilight Cr2500
 
-TRAVELLER
+
 
 Camouflage: Audible Concealment
 Camouflage TL Minimum Range Detection DM Notes Cost per Base Slot
@@ -2096,8 +2102,7 @@ During periods of sunlight a basic solar coating can
 fully recharge a power system or power pack in four
 times the duration of its endurance if the robot is
 dormant or limited to zero mobility. More advanced
-solar coatings can recharge power packs at a one-
-hour-per-hour basis for a dormant robot and at one
+solar coatings can recharge power packs at a one-hour-per-hour basis for a dormant robot and at one
 fourth the rate for a robot performing minimal activities
 and moving at no more than one-metre speeds.
 
@@ -2107,7 +2112,7 @@ power only, if regular power is not installed or depleted.
 
 Zero-Slot Options
 
-TRAVELLER
+
 
 Item TL Cost per Base Slot
 Vacuum Environment
@@ -2121,6 +2126,8 @@ Protection (biological)
 10 Cr50000
 
 ROBOTS IN VACUUM
+
+
 Robots do not need to breathe but some power
 systems rely on the presence of atmospheric
 gas, usually oxygen, to function and many
@@ -2163,8 +2170,7 @@ Atmospheres 0-A, D, E and some F environments as
 well as underwater to a depth of 10 metres in standard
 atmosphere and gravity. The robot can survive for a
 number of hours equal to its Tech Level in corrosive (B)
-environments and its Tech Level in minutes in insidious
-(C) environments. Vacuum environment protection for
+environments and its Tech Level in minutes in insidious (C) environments. Vacuum environment protection for
 biological robots applies to those based on beings that
 cannot normally survive vacuum or trace environments.
 
@@ -2227,8 +2233,7 @@ A robot may use specialised hardware to encrypt
 communications prior to transmission. This equipment
 also encrypts data on the robot itself, including brain
 and memory functions. Decryption normally requires a
-Very Difficult (12+) Electronics (comms) or Electronics
-(computers) check but encryption created at a higher
+Very Difficult (12+) Electronics (comms) or Electronics (computers) check but encryption created at a higher
 Tech Level is generally impossible to decrypt within
 a reasonable timeframe. Decrypting an encryption
 algorithm created at a lower Tech Level provides
@@ -2300,7 +2305,7 @@ pre-recorded or transmitted sounds.
 
 Zero-Slot Options
 
-TRAVELLER
+
 
 Item TL Cost
 Voder Speaker 8 Cr100
@@ -2326,8 +2331,7 @@ a voder costs Cr100.
 
 A broad-spectrum voder speaker can emulate sounds
 beyond most species’ hearing ranges, useful when
-communicating with aliens who use ultra-low or ultra-
-high frequency sounds.
+communicating with aliens who use ultra-low or ultra-high frequency sounds.
 
 Wireless Data Link
 A wireless data link provides high-speed secure
@@ -2463,7 +2467,7 @@ Improved 8 24 years 2 years Cr50000
 
 Zero-Slot Options
 
-TRAVELLER
+
 
 Item TL Cost
 Stinger 7 Cr10
@@ -2473,8 +2477,7 @@ Atmospheric Sensor 8 100
 
 Item TL Trait Cost
 Auditory Sensor 5 — Cr10
-Auditory Sensor
-(broad spectrum)
+Auditory Sensor (broad spectrum)
 
 8 Heightened Senses Cr200
 
@@ -2507,8 +2510,7 @@ Auditory Sensor
 A basic auditory sensor is included in the Default Suite
 but can be purchased separately for Cr10 starting at
 TL5. It is normally sensitive to sounds in the hearing
-range of its designer’s race, which for Humaniti is 20-
-20,000 hertz and is sensitive down to 0 decibels.
+range of its designer’s race, which for Humaniti is 20-20,000 hertz and is sensitive down to 0 decibels.
 
 More advanced auditory sensors have increased
 frequency and threshold capabilities and are included
@@ -2539,8 +2541,7 @@ audio sensor, Geiger counter, advanced light
 intensifier sensor and provides Recon 0, although
 this skill is limited to the processor’s sensory input
 and often superseded by a full recon sensor suite
-or recon skill packages on most reconnaissance-
-focused robots. The environment processor does not
+or recon skill packages on most reconnaissance-focused robots. The environment processor does not
 include an olfactory sensor or PRIS sensor but can
 accept inputs from them.
 
@@ -2586,8 +2587,7 @@ suite of chemical detectors. The basic sensor suite
 provides human-level acuity. The improved sensor
 suite emulates the acuity of a more olfactory-attuned
 race such as Vargr and grants the Heightened
-Senses trait. The advanced sensor provides broad-
-range trace chemical detection capability beyond
+Senses trait. The advanced sensor provides broad-range trace chemical detection capability beyond
 any one biological being’s capability and also grants
 the Heightened Senses trait. An olfactory sensor
 only operates in an atmosphere; the basic and
@@ -2635,8 +2635,7 @@ trait for its cleaning function. An advanced olfactory
 sensor is included as a Zero-Slot option, costing
 Cr3500 and granting the Heightened Senses trait. This
 is the only added Zero-Slot option but the Steward
-Droid could have up to 15 more Zero-Slot options: Size
-(4) + TL (12).
+Droid could have up to 15 more Zero-Slot options: Size (4) + TL (12).
 
 **EXAMPLES**
 
@@ -2651,18 +2650,21 @@ could have up to 18 more Zero-Slot options: Size (5)
 - TL (14).
 
 STEWARD DROID
+
+
 Physical Options
 Item Slots Notes TL Traits Skill Cost
 Olfactory sensor (improved) 0 10 Heightened Senses 3500
 Autobar (enhanced) 2 Max DM+2 10 2000
 Autochef (enhanced) 3 Max DM+2 11 5000
 Medikit (basic) 1 Max DM+0 8 1000
-Storage compartment
-(refrigerated)
+Storage compartment (refrigerated)
 
 2 ~4 litres 200
 
 STARTEK
+
+
 
 Physical Options
 Item Slots Notes TL Traits Skill Cost
@@ -2670,8 +2672,7 @@ Vacuum Environment Protection 0 +500 Rads 6 9600
 Starship engineering toolkit (advanced) 4 Max DM+3 14 10000
 Medikit (enhanced) 1 Max DM+2 12 5000
 Radiation environment protection 1 +700 Rads 14 9600
-Weapon mount: pistol 1 5 500
-(spare) 1 Future use
+Weapon mount: pistol 1 5 500 (spare) 1 Future use
 
 ## S LOT COST OPTIONS
 
@@ -2763,7 +2764,7 @@ Protection
 
 11 1 Cr3000
 
-TRAVELLER
+
 
 Radiation Environment Protection
 A robot with this environment protection is hardened
@@ -2885,7 +2886,7 @@ Large 5 16 120 Cr20000
 
 Slot Cost Options
 
-TRAVELLER
+
 
 Communications Options
 While most robot communication options are
@@ -2906,8 +2907,7 @@ might otherwise annoy neighbours or passers-by. A
 sound system can be used to play pre-recorded or
 transmitted music or other audio output. At TL8 and
 above, a robot can use the sound system to output its
-own ‘live’ performances using its Art (performer) or Art
-(instrument) skill.
+own ‘live’ performances using its Art (performer) or Art (instrument) skill.
 
 High Fidelity Sound System TL Slots Cost
 Basic 6 4 Cr1500
@@ -2948,8 +2948,7 @@ Electronics (remote ops) a robot can use through the
 robotic drone controller. This is reduced by the DM
 for controlling multiple drones.
 
-If desired, a robot could install a less machine-
-optimised ‘biologically-controlled’ drone controller.
+If desired, a robot could install a less machine-optimised ‘biologically-controlled’ drone controller.
 This lacks the multiplexor and limits control to one
 drone but does not limit the Electronic (remote ops)
 skill of the operator.
@@ -2967,8 +2966,7 @@ A satellite uplink allows a communication system to
 maintain a steady link to a ship or satellite in orbit.
 It requires a transceiver capable of at least 500
 kilometres but allows the transceiver to reach a ship or
-satellite as far as 50,000 kilometres distant. For one-on-
-one communications, a ship can initiate and maintain
+satellite as far as 50,000 kilometres distant. For one-on-one communications, a ship can initiate and maintain
 communications with a single robot that is not equipped
 with an uplink but the uplink enables multiple robots to
 remain in constant communication with a single ship. It
@@ -3032,7 +3030,7 @@ Control software as detailed on page 122 and 123.
 
 Slot Cost Options
 
-TRAVELLER
+
 
 Tightbeam Communicator
 A tightbeam communicator uses lasers or masers
@@ -3131,8 +3129,7 @@ is designed to quickly (within one combat round)
 freeze an individual, usually in response to severe
 medical trauma. This process carries inherent
 risk and the individual must perform a low berth
-survival check both on entry and exit from cryoberth-
-induced hibernation. Medical skills applied to aid
+survival check both on entry and exit from cryoberth-induced hibernation. Medical skills applied to aid
 these cryoberth survival checks are considered
 rushed, lowering checks by DM-2 and often forgone
 as counterproductive if no qualified individual is
@@ -3198,7 +3195,7 @@ Species-specific add-on 10 4 Cr10000
 
 Slot Cost Options
 
-TRAVELLER
+
 
 Medikit
 A medikit provides basic diagnostic and treatment tools
@@ -3328,7 +3325,7 @@ Advanced 11 1 3 Cr15000
 
 Slot Cost Options
 
-TRAVELLER
+
 
 Bioreaction Chamber TL Complexity Cost per Chamber Slot
 Basic 6 Microbes Cr1000
@@ -3517,7 +3514,7 @@ the listed time requirement.
 
 Slot Cost Options
 
-TRAVELLER
+
 
 Fabrication Chamber TL Complexity Time Requirement Cost per Chamber Slot
 Basic 8 Mechanical 2 hours Cr2000
@@ -3565,8 +3562,7 @@ image or motion picture in front of the robot. The
 hologram is of adequate fidelity, increasing in quality
 as Tech Levels increase beyond 10. The holographic
 projector includes a sound system, although the robot
-may project sound via its voder speakers or high-
-fidelity sound system.
+may project sound via its voder speakers or high-fidelity sound system.
 
 Item TL Slots Cost
 Holographic Projector 10 1 Cr1000
@@ -3697,15 +3693,13 @@ it will do 10DD damage with Blast 1,000, vaporise the
 robot (and much else) and irradiate the environment.
 Slot Cost Options
 
-TRAVELLER
+
 
 OFFENSIVE SELF-DESTRUCT RESTRICTIONS
 In Charted Space, the Third Imperium takes a
-very dim view towards robots with offensive self-
-destruct systems. The Shudusham Concords
+very dim view towards robots with offensive self-destruct systems. The Shudusham Concords
 were written explicitly to ban such devices and
-possession of a robot with an offensive self-
-destruct system is prohibited by Imperial Law.
+possession of a robot with an offensive self-destruct system is prohibited by Imperial Law.
 While certain permits allow such devices, they
 are difficult to obtain and often scrutinised by
 Imperial officials. All Starport Authority facilities
@@ -3868,7 +3862,7 @@ External Power 9 5% Cr100
 
 Slot Cost Options
 
-TRAVELLER
+
 
 Item TL Slots Cost
 No Internal Power 6 +10% —
@@ -4009,8 +4003,7 @@ solar power activity. Like RTGs, solar power systems
 have an endurance measured in years, representing
 degradation of solar panels over time. However, solar
 panels can be replaced and the endurance period
-assumes daily operations; a robot stored in a powered-
-down state or that only uses solar power as an
+assumes daily operations; a robot stored in a powered-down state or that only uses solar power as an
 occasional supplement when ‘off the grid’ can expect
 considerably longer lifetimes.
 
@@ -4064,7 +4057,7 @@ Densitometer Sensor 14 3 Cr20000
 
 Slot Cost Options
 
-TRAVELLER
+
 
 Neural Activity Sensor
 A Neural Activity Sensor (NAS) detects neural activity
@@ -4099,8 +4092,7 @@ package emulates the Recon skill and can only be
 installed once. It is usable against both conventional
 stealth and electronic defences. It includes visual,
 auditory, chemical detection and electronic detection
-components and can be used in lieu of Electronics
-(sensors) to detect targets of reduced electronic
+components and can be used in lieu of Electronics (sensors) to detect targets of reduced electronic
 signature. Recon skill levels provided by this sensor are
 not modified by a robot’s INT.
 
@@ -4229,7 +4221,7 @@ Advanced 14 3 3 Cr8000
 
 Slot Cost Options
 
-TRAVELLER
+
 
 Starship Engineering Toolkit
 This set of equipment provides increasingly complex
@@ -4306,8 +4298,7 @@ using an installed weapon.
 
 Standard weapons held by a robot are primarily
 governed by the robot’s weapon skill and DEX modifier.
-A dedicated fire control system for a manipulator-
-held weapon or any fire control system for a weapon
+A dedicated fire control system for a manipulator-held weapon or any fire control system for a weapon
 mounted in a robot’s manipulator provides a bonus to
 that weapon in addition to the robot’s weapon skill, if any,
 but this bonus does not stack with any DEX modifier for
@@ -4384,7 +4375,7 @@ Weapon Mount Autoloader 6 +100% Weapon Mount size 20 x magazine cost
 
 Slot Cost Options
 
-TRAVELLER
+
 
 **THE VEHICLE HANDBOOK AND ROBOTS**
 A designer may include additional options from the Vehicle Handbook that require vehicle Spaces
@@ -4435,6 +4426,8 @@ costing Cr1000 and requiring one Slot.
 
 STEWARD DROID
 
+
+
 **Physical Options**
 
 **Item Slots Notes TL Traits Skill Cost**
@@ -4447,8 +4440,7 @@ Autochef (enhanced) 3 Max DM+2 11 5000
 
 Medikit (basic) 1 Max DM+0 8 1000
 
-Storage compartment
-(refrigerated)
+Storage compartment (refrigerated)
 
 2 ~4 litres 200
 
@@ -4495,18 +4487,18 @@ Slot is noted as a spare for buyer customisation and
 future upgrades.
 
 STARTEK
+
+
 Physical Options
 Item Slots Notes TL Traits Skill Cost
 Vacuum Environment Protection 0 +500 Rads 6 9600
-Starship engineering toolkit
-(advanced)
+Starship engineering toolkit (advanced)
 
 4 Max DM+3 14 10000
 
 Medikit (enhanced) 1 Max DM+2 12 5000
 Radiation environment protection 1 +700 Rads 14 9600
-Weapon mount: pistol 1 5 500
-(spare) 1 Future use
+Weapon mount: pistol 1 5 500 (spare) 1 Future use
 
 Weapon TL Range Damage Magazine Cost Traits Cost
 Stunner 12 10 3D 100 200 Stun, Zero-G 1000
@@ -4606,7 +4598,7 @@ a Self-aware robot can understand and debate. A
 Self-aware robot can accomplish tasks based on
 very general parameters or solely interpretation of its
 
-TRAVELLER
+
 
 owner’s requirements. Self-Aware robots have innate
 intelligence greater than most biological beings and can
@@ -4619,10 +4611,11 @@ ability to develop true emotions and ambitions that might
 not conform to the expectations of its biological creators.
 Conscious brains combine full sentient thought patterns
 with high-speed computational and analytical circuitry
-allowing them to exceed the intellectual capacity of non-
-augmented biological beings.
+allowing them to exceed the intellectual capacity of non-augmented biological beings.
 
 SIZE LIMITS
+
+
 A robot brain fits into a robot chassis of a Size equal
 to or exceeding its initial Computer/X rating at no Slot
 cost. At each TL after its introduction, a given brain fits
@@ -4642,8 +4635,7 @@ Control TL Computer/X Cost
 Base
 INT Skills
 
-Base Capability
-(built-in at no Bandwidth cost, cumulative)
+Base Capability (built-in at no Bandwidth cost, cumulative)
 Primitive 7 0 Cr10000 1 -2 Programmable
 Primitive 8 0 Cr100 1 -2 Programmable
 Basic (X) 8 1 Cr20000 3 -1 Limited language, Security/0
@@ -4667,6 +4659,8 @@ requires one Slot if installed in a robot smaller than
 Size 5.
 
 BASE INT AND SKILLS
+
+
 For skills normally modified by INT or EDU, the skill DM
 of a robot brain is associated with its INT modifier. This
 is generally incorporated into the listed skill level of a
@@ -4674,11 +4668,12 @@ robot, allowing a highly intelligent robot to substitute its
 general intelligence for a more expensive skill package.
 For instance, a TL12 Advanced Brain has base INT 8,
 which provides DM+0 on INT-based skills. If the robot’s
-brain is upgraded to INT 9, it receives DM+1 to all INT-
-based skills and for simplicity, this +1 is added to the
+brain is upgraded to INT 9, it receives DM+1 to all INT-based skills and for simplicity, this +1 is added to the
 skill level of the robot.
 
 ADVANCED CAPABILITIES
+
+
 In addition to Bandwidth available for skill packages,
 robot brains of Advanced or greater capability have the
 ability to exceed their programming through installed or
@@ -4693,6 +4688,8 @@ have no monetary cost.
 Brain
 
 RETROTECH
+
+
 As technology advances, brains with previously
 cutting-edge technology become less expensive. This
 capability is already expressed on the Robot Brains
@@ -4766,8 +4763,8 @@ multiplied by Cr1000.
 
 Increase Cost
 INT+1 (INT+1) x Cr1000
-INT+2 (INT+1) x (INT+2) x Cr1000
-INT+3 (INT+1) x (INT+2) x (INT+3) x Cr1000
+INT+2 (INT+1)x (INT+2) x Cr1000
+INT+3 (INT+1)x (INT+2)x (INT+3) x Cr1000
 to INT 12+ Cost x 2
 
 Item TL Effect Cost
@@ -4837,6 +4834,8 @@ additional level-0 skill packages.
 
 STEWARD DROID
 
+
+
 **Robot Brain Type Slots TL Bandwidth Base INT Skill DM Capabilities Cost**
 
 Advanced 0 12 2 8 +0 Intelligent Interface, Expert 1 10000
@@ -4848,6 +4847,8 @@ Intellect Upgrade Adjusted INT Adjusted Bandwidth 2
 Brain Hardening (/fib) ☐ Trait
 
 STARTEK
+
+
 Robot Brain Type Slots TL Bandwidth Base INT Skill DM Capabilities Cost
 Advanced 0 14 5 11 +1 Intelligent Interface, Expert/2 500000
 Bandwidth Upgrade: + +6 1 14 Adjusted Bandwidth 11 Zero Bandwidth Skills 5 50000
@@ -4888,31 +4889,26 @@ to perform its tasks. The robot cleans a designated
 area as instructed, avoiding obstacles using both
 sensory input and learning algorithms. It communicates
 error conditions via installed communications options.
-A clean package is much more limited than a Basic
-(servant) package; it may only use domestic or
+A clean package is much more limited than a Basic (servant) package; it may only use domestic or
 industrial cleaning options and not benefit from the use
 of manipulators or outside tools to increase efficiency. It
 is strictly a machine capable of using built-in equipment
 to clean a given area.
 
 Package Skills Cost
-Primitive
-(alert)
+Primitive (alert)
 
 Recon 0 —
 
-Primitive
-(clean)
+Primitive (clean)
 
 Profession (domestic cleaner) 2 —
 
-Primitive
-(evade)
+Primitive (evade)
 
 Athletics (dexterity) 1, Stealth 2 —
 
-Primitive
-(homing)
+Primitive (homing)
 
 Weapon 1 —
 
@@ -4939,7 +4935,7 @@ Basic (target) brain and cannot distinguish between
 friend or foe in any generalised manner or react to
 changing conditions.
 
-TRAVELLER
+
 
 Basic Brain Packages
 A Basic brain is not sophisticated but it is very
@@ -5085,7 +5081,7 @@ package includes the Alarm trait.
 
 Skill Packages
 
-TRAVELLER
+
 
 The security robot’s tactical skill is focused on
 optimising a firing position and using available
@@ -5203,8 +5199,7 @@ includes a specialised tactical analysis instruction set,
 allowing the robot to not only develop a sound tactical
 plan but also anticipate counter actions and adapt
 to changing conditions. While this package does not
-provide general intelligence, it makes the Hunter/Killer
-(tactical) robot the equivalent of an idiot savant in
+provide general intelligence, it makes the Hunter/Killer (tactical) robot the equivalent of an idiot savant in
 combat tactics and a much more dangerous and less
 predictable foe. This tactical skill is not subject to the
 INT limitations of the robot’s brain.
@@ -5258,6 +5253,8 @@ The Jack-of-all-Trades skill is never available to
 any robot.
 
 INHERENT SKILL DMS
+
+
 The characteristic associated with a skill can provide
 an additional DM to checks. For simplicity, this DM
 is included in the final skill determination of the robot
@@ -5278,7 +5275,7 @@ may require eight packages for full coverage.
 
 Skill Packages
 
-TRAVELLER
+
 
 Standard Skill Packages
 Skill TL Bandwidth Characteristic Cost
@@ -5337,6 +5334,8 @@ to allow the robot to act as a pilot for a flying vehicle.
 
 STEWARD DROID
 
+
+
 **Skill Package Level TL Bandwidth Characteristic/Trait Adjusted Skills Cost**
 
 Steward 2 11 2 Steward 2 10000
@@ -5348,6 +5347,8 @@ Flyer 0 9 0 Flyer 0 100
 Total Cost^39800
 
 STARTEK
+
+
 
 **Skill Package Level TL Bandwidth Characteristic/Trait Adjusted Skills Cost**
 
@@ -5424,6 +5425,8 @@ description of function, general appearance and specific
 modifications, options and components.
 
 COST MODIFICATION
+
+
 Optionally, the designer may modify the robot’s final
 cost at this time. Any robot’s cost can be rounded down
 or up to one or two significant digits and discounts or
@@ -5439,6 +5442,8 @@ and produced by the billions, cost may be reduced by as
 much as 80%.
 
 ROBOT RECORD SHEET
+
+
 Robots are categorised in a standardised manner based
 on capabilities, skills and traits. These entries are derived
 from information recorded in the robot design form.
@@ -5506,7 +5511,7 @@ Robot Hits Locomotion Speed TL Cost
 Steward Droid 10 Walker 6m 12 Cr35000
 Skills Flyer 0, Medic 0, Steward 2
 Attacks none
-Manipulators 2 X (STR 7 DEX 7),
+Manipulators 2X (STR 7 DEX 7),
 Endurance 97 hours
 Traits Armour (+4), ATV, Heightened Senses, Small (-1)
 Programming Advanced (INT 8)
@@ -5573,17 +5578,14 @@ to secure a model.
 
 Robot Hits Locomotion Speed TL Cost
 StarTek 20 Grav Walker 6m 14 Cr690000
-Skills Athletics (strength) 2, Electronics (all) 3, Engineer (all) 3, Explosives 2, Gun Combat
-(energy) 2, Mechanic 3, Medic 2, +1 available Bandwidth
+Skills Athletics (strength) 2, Electronics (all) 3, Engineer (all) 3, Explosives 2, Gun Combat (energy) 2, Mechanic 3, Medic 2, +1 available Bandwidth
 Attacks Stunner (3D Stun, Zero-G)
-Manipulators 2 X (STR 12 DEX 8), 1 X (STR 5 DEX 12)
+Manipulators 2X (STR 12 DEX 8), 1X (STR 5 DEX 12)
 Endurance 72 hours
 Traits Armour (+10), ATV, Flyer (idle), IR/UV Vision
 Programming Very Advanced (INT 12)
 Options Auditory Sensor, Medikit (enhanced), PRIS Sensor, Radiation Environment
-Protection (+700 rads), Starship Engineer Toolkit (advanced), Transceiver 5km
-(improved), Vacuum Environment Protection, Voder Speaker, Weapon Mount
-(small), Wireless Data Link, Spare Slot x1
+Protection (+700 rads), Starship Engineer Toolkit (advanced), Transceiver 5km (improved), Vacuum Environment Protection, Voder Speaker, Weapon Mount (small), Wireless Data Link, Spare Slot x1
 
 Name: STARTEK
 Description: Loosely based on the Aslan Hikare’ technician robot, the StarTek is designed to be an all-around
@@ -5621,6 +5623,8 @@ having little or no brain installed, drones follow
 standard robot design procedures.
 
 DRONE INTERFACE
+
+
 If a robot has a drone interface chip installed, its robot
 brain can be overridden and operated as a drone with
 either a biologically operated drone control interface
@@ -5636,6 +5640,8 @@ Some drone interface chips mandate a shutdown if
 communications are disrupted.
 
 DRONE CONTROL INTERFACE
+
+
 Biological beings operating drones with no robot
 brain installed require a drone control interface
 unit, identical to that described on page 67 of the
@@ -5658,6 +5664,8 @@ computers running Drone Control software (see page
 123) have better capabilities.
 
 VEHICLE DRONES
+
+
 Vehicle-sized drones do not require a drone interface
 but in addition to a transceiver, the vehicle requires an
 actuation system as described on pages 67–68 of the
@@ -5689,9 +5697,11 @@ Improved 9 0 0 Cr500
 
 Advanced 11 0 +1 Cr4000
 
-TRAVELLER
+
 
 SIZE
+
+
 A microbot is a Size 0 robot. By convention, a microbot
 is any robot that has a mass of less than 30 grams, with
 robots between this size and one kilogram living in a grey
@@ -5716,6 +5726,8 @@ subsequent TL but is subject to the same restrictions as
 a smaller microbot of the same TL.
 
 LOCOMOTION
+
+
 A microbot can use any locomotion. Movement rate
 is halved (rounded up) but can be increased up to 12
 metres per Minor Action by paying 50% of the cost
@@ -5732,6 +5744,8 @@ not grant any Slots. Neither vehicle movement nor
 secondary locomotion modifications are available.
 
 MANIPULATORS
+
+
 A default microbot has no manipulators. Size 0
 manipulators are available as Zero-Slot options but
 count against the total number of Zero-Slot options
@@ -5762,6 +5776,8 @@ multiplier is cumulative if multiple environmental
 options are chosen, including if radiation environment
 
 OPTIONAL CONSIDERATIONS
+
+
 Microbots are destroyed by any blow that does
 damage but can be notoriously hard to hit. Even
 close combat is subject to the Small trait DM-4.
@@ -5791,8 +5807,7 @@ protection is chosen multiple times. The environmental
 options have the same effects and limitations detailed
 in their standard descriptions.
 
-Microbots have both defensive and offensive self-
-destruct options. A defensive self-destruct causes 1D
+Microbots have both defensive and offensive self-destruct options. A defensive self-destruct causes 1D
 damage to the microbot, at least destroying it, usually
 beyond any hope of salvage. An offensive self-destruct
 option is only effective with microbots massing more
@@ -5829,6 +5844,8 @@ Advanced 12 2 6 Cr10000
 Very Advanced 15 3 9 Cr500000
 
 MICROBOT BRAIN
+
+
 A microbot’s brain is heavily miniaturised. Following
 robot brain sizing limitations, a microbot cannot
 install a brain until it becomes small enough to fit in
@@ -5977,8 +5994,7 @@ common drugs such as panaceas for the
 duration of the nanorobots’ effectiveness.
 Negative effects of multiple or prolonged use
 of certain drugs are manifest in nanorobot
-packages just as in normal medications. No PSI-
-drug packages are known to exist, although a
+packages just as in normal medications. No PSI-drug packages are known to exist, although a
 null package is rumoured to be in development.
 •	 A single package can induce regeneration of one
 characteristic point lost permanently due to injury
@@ -5995,7 +6011,7 @@ requires six packages (1 + 2 +3).
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 Aging can be slowed by medical nanorobots,
 reducing aging rate by 50% at TL13, 75% at TL14
@@ -6136,8 +6152,7 @@ for a particular type of contaminant may be difficult
 and for particularly toxic or radioactive by-products
 these nanos might require special licensing and
 handling. Costs are a range, with the most common
-contaminants in a region costing the least to clean-
-up. Unique nanos developed for novel contaminants
+contaminants in a region costing the least to clean-up. Unique nanos developed for novel contaminants
 could cost up to Cr100000 per package.
 
 Environmental nanos often act as catalysts, using
@@ -6165,8 +6180,7 @@ chamber and a computer running Fab Creator
 software (see page 123). Creation of a custom
 nanorobot swarm requires a task chain beginning
 with a skill appropriate to the type of nanorobot being
-developed, such as Medic, Science (biology), Science
-(chemistry) or Profession (architect) and ending with
+developed, such as Medic, Science (biology), Science (chemistry) or Profession (architect) and ending with
 Science (robotics). Successful completion requires
 a Formidable (14+) Science (robotics) check (1D
 weeks, INT) and an expenditure of raw materials
@@ -6190,7 +6204,7 @@ cause as much fear in the general public.
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 Nanos can however be created with destructive
 purposes and deployed with hostile intent. These include
@@ -6241,6 +6255,8 @@ the sophistication of the robot’s brain as it does the
 appearance of the robot’s body.
 
 ANDROID PROPERTIES
+
+
 When first introduced at TL8, an android suffers greatly
 from the uncanny valley effect, especially when the
 robot does ‘not look quite right’, which leads to DM-2
@@ -6309,8 +6325,7 @@ distinctions from local biologicals. Some worlds make
 exceptions for registered body doubles. Legally,
 the Concords have had no enforceability since the
 foundation of the Third Imperium and many worlds
-have no restrictions on androids at all. On high-
-tech worlds where androids are banned or heavily
+have no restrictions on androids at all. On high-tech worlds where androids are banned or heavily
 regulated, a black market often exists.
 
 Biological Robots
@@ -6361,11 +6376,12 @@ Cr20000
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 BIOLOGICAL ROBOT PROPERTIES
-All biological robots have ‘Natural-looking’ and ‘Self-
-repairing’ properties – meaning healing, not the
+
+
+All biological robots have ‘Natural-looking’ and ‘Self-repairing’ properties – meaning healing, not the
 chassis repair option, although that option can be
 added separately. The interface between a biobot’s
 robot brain and its biological body is detectable,
@@ -6397,8 +6413,7 @@ protections are not available unless they are part of a
 biobot’s genome. Starting at TL13, biobots are often
 based around quick-grown clones and suffer the same
 lifespan limitations. A biobot may use any personal
-augmentations from the Central Supply Catalogue
-(pages 86 –93) or from the Cyborgs section of this
+augmentations from the Central Supply Catalogue (pages 86 –93) or from the Cyborgs section of this
 chapter at the same cost and effects as a normal
 biological being.
 
@@ -6439,6 +6454,8 @@ the Referee, but minimum brain restrictions (and those
 brains’ minimum Tech Levels) still apply.
 
 BIOLOGICAL ROBOT LEGAL RESTRICTIONS
+
+
 Legal restrictions applying to androids generally
 apply equally to biological robots, although in certain
 jurisdictions clever legal arguments using ambiguities
@@ -6491,8 +6508,7 @@ external to the body.
 An individual may install an unlimited number of
 cybernetic interfaces but a cyborg with many augments
 can substitute disparate interfaces by implanting a TL13
-neural link and biological-initiated avatar control system
-(BIACS) as a master controller to allow management of
+neural link and biological-initiated avatar control system (BIACS) as a master controller to allow management of
 all augments connected to the cyborg’s body.
 
 **Cybernetic Limbs Interfaces**
@@ -6568,7 +6584,7 @@ same manner as a STR increase – as less fine motor
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 skills are necessary – at a cost equal to the increase
 from six squared times Cr100 times the Size (6) of
@@ -6579,6 +6595,8 @@ metres would require one enhanced interface per leg
 and 3x (Cr100 x 6^2 + 600) or Cr12600 per leg.
 
 CYBERNETIC LIMB CONSIDERATIONS
+
+
 For tasks where natural limbs and cybernetic limbs
 have differing characteristics, tasks performed solely
 by the artificial or natural limb use the characteristics
@@ -6701,8 +6719,7 @@ Improved 11 Vargr-level sensitivity, Heightened Senses Cr10000
 Advanced 13 Trace chemical detection, Heightened Senses Cr20000
 
 At TL9 reliable internally powered artificial organs
-become available. These still require a Difficult
-(10+) Medic (1D hours, EDU) procedure to install
+become available. These still require a Difficult (10+) Medic (1D hours, EDU) procedure to install
 with the same risk of damage from negative Effects
 but, if successful, the organ functions without risk of
 malfunction, although they require annual maintenance
@@ -6732,7 +6749,7 @@ Advanced 13 Procedure: (8+); Self-repairing; END +2 Cr200000
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 Neural Implants
 A Traveller may implant a computer or mobile
@@ -6743,8 +6760,7 @@ be operated by thought or subvocalisation. Standard
 neural comms are detailed in the Central Supply
 Catalogue, page 91.
 
-The short-range comm can be updated to include Zero-
-Slot transceiver upgrade communications options, such
+The short-range comm can be updated to include Zero-Slot transceiver upgrade communications options, such
 as an encryption module, by adding triple the standard
 cost of the option to the cost of the neural comm. No
 more than five Zero-Slot options can be added to the
@@ -6781,8 +6797,7 @@ brain implant. A robot brain installation requires a neural
 link. The implant is a brain with at least Advanced
 complexity and can communicate directly with the
 Traveller’s brain, normally in a conversational manner,
-but optionally through the installation of a remote-
-initiated biological avatar control interface (RIBACI)
+but optionally through the installation of a remote-initiated biological avatar control interface (RIBACI)
 between the brains. A robot brain implant is size-limited
 and cannot include a brain bandwidth upgrade until two
 Tech Levels beyond its indicated Tech Level.
@@ -6798,8 +6813,7 @@ not be larger than one Slot or two kilograms each. No
 more than three such devices can be implanted.
 
 Full-body Cybernetics
-The ultimate in cybernetics is the so-called ‘brain-in-
-a-jar’ or ‘brain-in-a-box’ full body replacement. In this
+The ultimate in cybernetics is the so-called ‘brain-in-a-jar’ or ‘brain-in-a-box’ full body replacement. In this
 scenario, a biological brain is placed within a robot body.
 This procedure is inherently dangerous and can cause
 lasting psychological harm even if entirely successful. The
@@ -6903,15 +6917,14 @@ not provide the same protection as the self-repairing
 chassis option.
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 In addition to the options listed above, a detachable
 augment can be made able to operate separately
 from the Traveller’s body for Cr10000 to install a
 remote interface. Additionally, this augment may add
 a grav locomotion option, allowing the augment to be
-controlled while detached and operated as a grav-
-propelled object capable of six metres of movement
+controlled while detached and operated as a grav-propelled object capable of six metres of movement
 per Minor Action. This movement range is restricted
 to the communications range between the augment’s
 interface and the augment itself, which is a 50-metre
@@ -6935,6 +6948,8 @@ detachable augment
 13 +200% of augment
 
 AGENT WAFERS
+
+
 Normally, a wafer jack expert system allows
 aided control to enable the user to accomplish
 physical tasks based on the Expert skill
@@ -7068,14 +7083,13 @@ Avatar Control Interface
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 Biological-Initiated
 Avatar Control System
 The opposite of a robot brain controlling a biological
 body is a biological brain controlling a robotic body
-using a biologically initiated avatar control system
-(BIACS). This implant acts as a basic avatar controller
+using a biologically initiated avatar control system (BIACS). This implant acts as a basic avatar controller
 installed in the controlling biological brain and requires
 a neural link. Using the transceiver component of the
 neural link, the BIACS allows remote presence in any
@@ -7117,6 +7131,8 @@ beings naturally create clones by a variety of methods
 including budding and parthenogenesis.
 
 CHARACTERISTICS
+
+
 If a clone body is based on a Traveller’s genetic
 code, the clone will be similar to the Traveller but not
 identical. An adult has experienced both genetic and
@@ -7145,6 +7161,8 @@ a clone is considered to be property with SOC 0,
 treated no differently than a robot.
 
 GROWTH RATE AND AGING
+
+
 A clone is a biological organism and without
 technological assistance will grow and develop at a rate
 consistent with its species. Artificially created biological
@@ -7156,8 +7174,7 @@ At TL13, a ‘quick-grown’ human clone can develop
 at 50x normal growth rate, maturing to age 18
 in approximately 18 weeks or four months. This
 technology requires an advanced bioreaction chamber
-as described on page 50 or a dedicated clone vat
-(see page 51). The quick-grow procedure is closer to
+as described on page 50 or a dedicated clone vat (see page 51). The quick-grow procedure is closer to
 fabrication than development and the growing body
 remains unconscious for the entire period, emerging
 with all the knowledge and abilities of a new-born if
@@ -7223,8 +7240,7 @@ If parts from a quick-grown clone are implanted in a
 normal being, they may affect the rate of aging of the
 individual even if the parts are much younger than the
 individual as a whole. Small organs or tissues, such as
-eyes and hands, do not impose penalties but whole-
-limb replacements or replacement of major organs
+eyes and hands, do not impose penalties but whole-limb replacements or replacement of major organs
 imposes a permanent DM-1 on future aging rolls. This
 penalty does not occur if parts are harvested from a
 12x accelerated growth or naturally developed clone.
@@ -7237,6 +7253,8 @@ onto a framework of temporary dissolving inert material
 and integrated gradually into the body.
 
 BRAIN TRANSPLANTATION
+
+
 The technology to transplant a brain into a new clone
 body is available as early as TL11 but it is a dangerous
 process. A successful brain transplant requires a
@@ -7260,9 +7278,11 @@ clone body.
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 PURCHASING CLONES
+
+
 Purchasing of clones can be subject to heavy
 regulation. It is often illegal, frequently considered
 immoral and, even when allowed, may be subject to
@@ -7274,8 +7294,7 @@ clones exists, although penalties for illegal cloning or
 Costs assume use of commercially available services.
 For those wishing to create clones on their own, they
 can purchase a clone tank as described on page
-118 or, for custom clones, Clone Creator software
-(see page 122) with a cloning creche or vat robot.
+118 or, for custom clones, Clone Creator software (see page 122) with a cloning creche or vat robot.
 In all cases, a clone requires Cr10000 per clone in
 consumables to grow to adulthood.
 
@@ -7329,6 +7348,8 @@ Cr150000 for 12x growth
 Cr50000 for 50x growth
 
 TRAINING OF CLONES
+
+
 Clones who develop at a natural rate are generally no
 different than natural children and develop accordingly,
 reaching maturity at age 18 with base EDU skills
@@ -7418,9 +7439,11 @@ and experience the same as any Traveller.
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 CLONES AS TRAVELLERS
+
+
 Clones can be treated as biological Travellers in most
 instances. Rather than random creation, clone design
 procedures determine characteristics and creche
@@ -7454,8 +7477,7 @@ other than expense prevents more sophisticated brains
 or other options from being installed in a chassis based
 on a standard missile or torpedo bus. This section
 generally refers to both missiles and torpedoes as
-‘missiles’; design constraints for missile and torpedo-
-based robots are the same, although differences in
+‘missiles’; design constraints for missile and torpedo-based robots are the same, although differences in
 Size are specifically noted.
 
 Specialised missile robots consist of two types: those
@@ -7463,6 +7485,8 @@ associated with the entire missile chassis and those
 with just the warhead or payload.
 
 MISSILE CHASSIS ROBOTS
+
+
 A robot that includes an entire missile assembly has
 both advantages and disadvantages. The major
 advantage is that it can use all available Slots. This in
@@ -7482,6 +7506,8 @@ or Basic (locomotion) brain in the missile chassis bus,
 allowing operation of the missile locomotion system.
 
 WARHEAD ROBOTS
+
+
 If the standard warhead assembly is removed, a
 missile or torpedo can act as the delivery or locomotion
 mechanism for a small robot or drone payload. With
@@ -7507,6 +7533,8 @@ even a small biological robot or a cluster of microbots
 encased in a payload shroud.
 
 SIZES
+
+
 As listed in the Missile Robots table, a missile is the
 equivalent of a Size 4 robot and a torpedo Size 6;
 a missile can house a Size 2 robot and a torpedo a
@@ -7629,7 +7657,7 @@ appropriate vehicle skill or a vehicle autopilot installed.
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 Vehicle Brain Robots
 If a vehicle brain requires any options of its own
@@ -7745,8 +7773,7 @@ a jump, a ship’s brain running Jump/1 must use
 Bandwidth 5 to compute the jump and must keep that
 program in memory while running an Astrogation skill
 package to complete the jump calculations then, with
-the Jump/1 program still running, use an Engineer
-(j-drive) skill package to perform the jump. However,
+the Jump/1 program still running, use an Engineer (j-drive) skill package to perform the jump. However,
 a ship’s brain running Fire Control/1 software can
 fire one turret without a Gunner (turret) skill package,
 as the Fire Control/1 software directly allows for the
@@ -7754,8 +7781,7 @@ operation of one turret.
 
 **Drone Control**
 A ship’s brain robot with a robotic drone controller
-option can operate repair drones much like Auto-
-Repair software, although subject to the limitations
+option can operate repair drones much like Auto-Repair software, although subject to the limitations
 described on page 44. The robotic drone controller
 allows functions such as Medic or Steward tasks to
 be conducted through the use of repair drones if the
@@ -7764,8 +7790,7 @@ actual Auto-Repair software can control repair drones
 just like a ship’s computer without a limit on the
 number of repair drones controlled, but with a limit on
 the number of repair tasks performed. Repair drones
-operated under Auto-Repair cannot perform non-
-damage control related duties.
+operated under Auto-Repair cannot perform non-damage control related duties.
 
 **Ship’s Avatars**
 A ship’s brain with an avatar controller can ‘become’
@@ -7778,14 +7803,14 @@ multiple avatars, allowing the ship’s brain to act as its
 own crew, performing multiple tasks with precision.
 
 ASTROGATION SKILL LIMITATION
+
+
 In the Charted Space universe, sentient
 Astrogators perform jump calculations with
-much lower risk of misjump than a non-
-sentient mind. Only a fully Conscious machine,
+much lower risk of misjump than a non-sentient mind. Only a fully Conscious machine,
 either running Conscious Intelligence on a
 ship’s core computer or a Conscious ship’s
-brain can avoid this limitation; even a Self-
-Aware robot brain lacks the ‘spark’ necessary.
+brain can avoid this limitation; even a Self-Aware robot brain lacks the ‘spark’ necessary.
 
 All jumps plotted by a non-sentient mind suffer
 DM-4. A review of jump solutions by even an
@@ -7826,7 +7851,7 @@ technology begins to approach magic.
 
 Special Robots and Other Synthetics
 
-TRAVELLER
+
 
 Avatars, Brains and
 Metamorphic Robots
@@ -7956,6 +7981,8 @@ initial Hits, it is totally destroyed and has no chance of
 being repaired.
 
 RADIATION DAMAGE
+
+
 Robots can suffer either temporary or permanent
 damage from radiation depending upon the source. Ion
 weapons cause Stun damage, shutting down the robot
@@ -7983,6 +8010,8 @@ installing a new Bandwidth upgrade but this does not
 heal damage done to the core Bandwidth of a brain.
 
 ELECTROMAGNETIC STUNNERS
+
+
 Electromagnetic stun weapons can cause actual
 damage to robots. A stunner causes physical Hits,
 not temporary damage to robots. A normal robot’s
@@ -8089,7 +8118,7 @@ Pulse Carbine 11 50 2D 4 Cr5000 50 Cr200 Blast 5, Ion, Zero-G
 
 Other Considerations
 
-TRAVELLER
+
 
 success by DM-1 and Effect -6 results in detection and
 traceback to the attacker’s location, if remote.
@@ -8124,8 +8153,7 @@ A controlled robot can be commanded via a drone
 control interface, reprogrammed (see page 79)
 or shut down. A hacked and shut down robot with
 power remaining can still be powered on. Malicious
-‘scrambling’ of a robot’s brain requires a Difficult
-(10+) check (1D minutes, INT or EDU), which results
+‘scrambling’ of a robot’s brain requires a Difficult (10+) check (1D minutes, INT or EDU), which results
 in a partial wipe causing a critical hit to the brain of
 Severity 1D.
 
@@ -8137,8 +8165,7 @@ to delay or preclude the need for annual maintenance,
 continued reliable operations requires 0.1% of the
 robot’s cost per year in spares and diagnostic checks.
 This maintenance can be performed by a properly
-skilled Traveller, with an Average (8+) Profession
-(robotics) or Science (robotics) check (1D hours, EDU),
+skilled Traveller, with an Average (8+) Profession (robotics) or Science (robotics) check (1D hours, EDU),
 although Electronics (computers) can be used at DM-2.
 Maintenance tools and parts must be of at least the
 robot’s Tech Level or the task becomes one level more
@@ -8170,8 +8197,7 @@ maintenance and monthly malfunction checks by 12x.
 This stacks with the self-maintenance enhancement
 option. A robot properly shut down and packaged for
 long-term storage increases these periods by a further
-12x, meaning a properly stored robot with a basic self-
-maintenance enhancement only requires maintenance
+12x, meaning a properly stored robot with a basic self-maintenance enhancement only requires maintenance
 every 1,728 years and if missed, will check for
 malfunctions every 144 years.
 
@@ -8200,7 +8226,7 @@ Other Considerations
 
 **Robot Hacking Flowchart**
 
-TRAVELLER
+
 
 The Severity of the critical hit is equal to the Effect of
 the attack roll minus 5. Consult the Critical Hit Effects
@@ -8216,6 +8242,8 @@ has reached Severity 6, the robot sustains 6D damage
 every time the location suffers another critical hit.
 
 SUSTAINED DAMAGE
+
+
 A robot has its components degraded when it sustains
 constant damage. Every time a robot sustains damage
 equal to 10% of its starting Hits, roll 2D and then
@@ -8393,8 +8421,7 @@ check, (1D hours, INT or EDU) is sufficient. This
 consumes spare parts costing Cr500 per Hit repaired.
 
 Critical hits are more complex and normally require
-Profession (robotics) for an Average (8+) skill check
-(1D hours, EDU) with the Severity as a negative DM.
+Profession (robotics) for an Average (8+) skill check (1D hours, EDU) with the Severity as a negative DM.
 Mechanic or Electronics (computers) skill can be
 substituted at an additional DM-2. Each critical hit
 repair costs the greater of Cr500 or 1% of the robot’s
@@ -8453,7 +8480,7 @@ and acts that way. Fully Conscious brains consider themselves superior to all or
 
 Other Considerations
 
-TRAVELLER
+
 
 Reprogramming Robots
 A robot brain is resistant to reprogramming. The
@@ -8473,15 +8500,13 @@ operation (not in storage or a stand-by state), a
 robot’s STY decreases by -1. A robot’s declining
 STY can potentially be corrected once every
 four years in a laboratory or manufacturing
-setting with a Very Difficult (12+) Science
-(robotics) check (1D days, EDU). For every
+setting with a Very Difficult (12+) Science (robotics) check (1D days, EDU). For every
 Tech Level a robot’s brain exceeds that of the
 facility, impose DM-2. An Exceptional Failure
 decreases the robot’s STY by a further -1D;
 an Exceptional Success adds +1 to the robot’s
 STY, to a maximum of 15. Conscious robot
-brains avoid this degradation on an Average
-(8+) INT check.
+brains avoid this degradation on an Average (8+) INT check.
 
 Additionally, radiation damage that decreases a
 robot’s INT decreases STY by the same value;
@@ -8520,8 +8545,7 @@ A more nuanced reprogramming of Advanced and Very
 Advanced brains to remove memories or behavioural
 settings while maintaining skill packages requires a
 Very Difficult (12+) Electronics (computers) check (1D
-hours, INT) for Advanced brains and a Formidable
-(14+) check for Very Advanced brains. Exceptional
+hours, INT) for Advanced brains and a Formidable (14+) check for Very Advanced brains. Exceptional
 failures can lead to undetected and unexpected
 conditions, damaging the skill package or only
 appearing to erase memories or behaviours.
@@ -8589,13 +8613,14 @@ can be substituted for DM-2.
 
 When transplanting a ‘live’ robot brain with existing
 skills and memories, the process becomes much more
-complicated, requiring a Difficult (10+) Profession
-(robotics) or Science (robotics) check (1Dx4 hours,
+complicated, requiring a Difficult (10+) Profession (robotics) or Science (robotics) check (1Dx4 hours,
 INT). A ‘live’ robot brain in a robot of different form
 requires 2D3 days to adapt to its new form before being
 able to physically function at full capacity.
 
 UPGRADED OPTIONS
+
+
 Adding hardening to a robot brain is strictly a matter of
 shielding installation and has no effect on the robot’s
 thinking capacity but requires one Slot to retrofit.
@@ -8611,6 +8636,8 @@ Upgraded options can be purchased at standard cost
 and installed by anyone with the Electronics skill.
 
 UPGRADED BRAIN SOPHISTICATION
+
+
 It is technically possible to transfer the memories and
 skills of a ‘live’ robot into a more sophisticated brain,
 for instance upgrading an Advanced robot brain to Very
@@ -8625,8 +8652,7 @@ robotics scientist and careful adherence to rarely used
 procedures and tools. A robot’s brain may only be
 increased by one level of sophistication at a time. The
 base task is a Very Difficult (12+) Science (robotics)
-check (1D days, EDU). Individuals with Electronics
-(computers) may attempt this task at DM-2 but need
+check (1D days, EDU). Individuals with Electronics (computers) may attempt this task at DM-2 but need
 access to the laboratory, tools and documentation.
 If a negative Effect results, record it and make
 subsequent attempts. If the cumulative Effect of all
@@ -8649,7 +8675,7 @@ The procedure costs twice the cost of the new brain.
 
 Other Considerations
 
-TRAVELLER
+
 
 Physical Upgrades
 Physical upgrades to robots consist of installation of
@@ -8673,6 +8699,8 @@ added to the chassis such as coatings or armour and
 items of greater Tech Level than the robot.
 
 ADDING ZERO SLOT OPTIONS
+
+
 Most Zero Slot options can be added to a robot, up
 to the limit of Size + TL, beyond which spare Slots
 are required. Adding Zero Slot coatings is possible
@@ -8682,6 +8710,8 @@ coating destroys any visual camouflage or electronic
 stealth benefits.
 
 SPARE SLOTS
+
+
 Many robots have spare Slots reserved for the
 installation of additional options. Items of higher Tech
 Level than the robot might require more advanced
@@ -8699,8 +8729,9 @@ full coatings added to an existing robot design at
 purchase or later require twice the standard cost.
 
 SCIENCE VERSUS PROFESSION
-For many tasks involving robots, both Science
-(robotics) and Profession (robotics) skills may
+
+
+For many tasks involving robots, both Science (robotics) and Profession (robotics) skills may
 apply. While there is significant overlap, these
 skills have different foci. Science is focssed
 on theory and development, while Profession
@@ -8723,11 +8754,12 @@ Electronics speciality. Tasks involving robotic
 limbs can be aided by Science (cybernetics) or
 Profession (cybernetics) and simple repairs to
 the robot chassis may benefit from Mechanic.
-A biological robot might benefit from Medic
-(biology) or Science (biology) for checks
+A biological robot might benefit from Medic (biology) or Science (biology) for checks
 involving the chassis.
 
 UPGRADED COMPONENTS
+
+
 Upgrading a component to a more advanced version
 incurs a Tech Level-based premium and might require
 a different number of Slots. Slot increases must come
@@ -8745,16 +8777,14 @@ Other Considerations
 
 At the Referee’s discretion a Traveller may be a
 robot. Generally, a Traveller robot is assumed to
-have at least a Very Advanced brain, although Self-
-Aware and Conscious brains are more suitable for
+have at least a Very Advanced brain, although Self-Aware and Conscious brains are more suitable for
 emulating or achieving free will.
 
 The type of brain constrains a robot Traveller’s ability
 to use skills in highly complex tasks. An Advanced
 brain can only attempt Difficult (10+) and simpler
 tasks, a Very Advanced brain can attempt Very
-Difficult (12+) and a Self-Aware brain, Formidable
-(14+). Take note of two things: first, performing a
+Difficult (12+) and a Self-Aware brain, Formidable (14+). Take note of two things: first, performing a
 task more slowly can lower difficulty by one level and
 second, this restriction only applies to INT, EDU or
 SOC-based checks. A robot Traveller is free to try an
@@ -8808,8 +8838,7 @@ available for its operation. The robot’s default END is
 the greater of 6 or its Size. If the robot has enhanced
 endurance from additional power packs, as indicated
 by Athletics (endurance), its END is assumed to
-be 9 for Athletics (endurance) 1, 12 for Athletics
-(endurance) 2 or 15 for Athletics (endurance) 3+.
+be 9 for Athletics (endurance) 1, 12 for Athletics (endurance) 2 or 15 for Athletics (endurance) 3+.
 A robot with the efficiency modification adds +1 to
 its END. A robot powered by an RTG is assumed
 to have END 16, reduced by half for every period
@@ -8890,6 +8919,8 @@ begins the career equipped for the duties assigned
 and treats the first term as any other.
 
 TERMS
+
+
 A robot Traveller conducts a term in a normal manner,
 rolling for Survival, Events, Advancement and possibly
 Commission. Actual Advancement or Commission
@@ -8898,6 +8929,8 @@ marine might always be rank 0 but may roll for a skill if
 the advancement roll is successful.
 
 MISHAPS
+
+
 Mishaps or events causing injury are treated as
 damage to systems, be they manipulators, sensors
 or power supplies. These are not repairable by
@@ -8907,6 +8940,8 @@ debt’ may be accrued or paid for by the career’s
 service as normal.
 
 SKILLS
+
+
 A robot may roll on appropriate skill tables. Increases
 to STR, DEX and END represent actual upgrades of
 manipulators or power sources and can be reflected
@@ -8935,6 +8970,8 @@ receive the Jack-of-all-Trades skill – not even if it has
 a Conscious brain.
 
 MUSTERING OUT BENEFITS
+
+
 A robot may roll for Benefits as normal, with the
 usual limitations to characteristic increases. Results
 of Armour or Weapons can be assumed to be
@@ -8965,6 +9002,8 @@ of ‘being’ the avatar and imparting DM-1 to checks
 requiring DEX. Beyond 5,000 kilometres, the avatar
 
 ITEM TL KG COST
+
+
 Avatar Chair, Standard 13 200 Cr300000
 Avatar Chair, Deluxe 13 200 Cr500000
 
@@ -8986,6 +9025,8 @@ dimensions as a low berth or the equivalent capacity
 of a 50 Slot bioreaction chamber.
 
 CLONE TANK TL DESCRIPTION COST
+
+
 Basic 9 Suitable for growth and maintenance medical clones without higher
 mental functions
 
@@ -9050,6 +9091,8 @@ Slots or about 150 kilograms and requires 64 Slots if
 installed in a robot.
 
 ITEM TL KG COST
+
+
 Deconstruction Chamber 13 200 MCr5
 
 Smaller or larger deconstruction chambers are
@@ -9059,6 +9102,8 @@ chamber costing MCr3 and a double-sized chamber
 costing MCr9.
 
 DRONE CONTROLLER CONSOLE TL KG CONTROL DM COST
+
+
 Primitive 5 10 -4 Cr2000
 Basic 7 2 -2 Cr2500
 Improved 8 2 0 Cr1000
@@ -9067,7 +9112,7 @@ Advanced 11 0.5 +1 Cr5000
 
 Central Supply Catalogue: Robots
 
-TRAVELLER
+
 
 Drone Control Helmet: A drone control helmet
 allows a user without augments to operate a drone
@@ -9087,6 +9132,8 @@ external transceiver for additional range. For every
 DM decreases by -1.
 
 ITEM TL KG CONTROL DM COST
+
+
 Drone Control
 Helmet
 
@@ -9105,6 +9152,8 @@ power, whether the local electric grid or a ship’s
 power systems.
 
 ITEM TL KG PER SLOT COST PER SLOT
+
+
 Induction
 Plate
 
@@ -9126,6 +9175,8 @@ The TL13 inhibitor imposes DM-2 on any robot’s
 attempt to override an inhibitor.
 
 ITEM TL KG COST
+
+
 Inhibitor, Basic 9 — Cr500
 Inhibitor, Advanced 13 — Cr500
 
@@ -9143,13 +9194,14 @@ a regular recharge.
 Central Supply Catalogue: Robots
 
 **Robotics Lab Fabrication Chamber:**
-Robotics laboratories are often equipped with a 128-
-Slot fabrication chamber, capable of building a Size
+Robotics laboratories are often equipped with a 128-Slot fabrication chamber, capable of building a Size
 6 robot body, including a power source and material
 input bins. A smaller 64-Slot fabrication chamber
 capable of building a Size 5 robot body is also
 
 FABRICATION CHAMBER TL COMPLEXITY TIME REQUIREMENT COST
+
+
 Basic 8 Mechanical parts only 2 hours 250000
 Improved 10 Simple electronics
 Primitive robot brain
@@ -9194,6 +9246,8 @@ biological operator can be included in the laboratory at
 the costs listed on page 79.
 
 LABORATORY SHELL SIZE COST
+
+
 Spacecraft 4 tons Cr500000
 Vehicle 16 Spaces Cr50000
 Pressurised (base) 5 tons as cargo,
@@ -9208,7 +9262,7 @@ Cr25000
 
 Central Supply Catalogue: Robots
 
-TRAVELLER
+
 
 Swarm Controller Console
 A swarm controller console is an integrated console
@@ -9228,8 +9282,7 @@ conduct tasks. A multi-channel wireless data link and
 50-kilometre multi-channel transceiver is integrated.
 
 The console can also be operated as an improved
-drone control interface with an effective Electronics
-(remote ops) 0 for an unskilled individual or at full skill
+drone control interface with an effective Electronics (remote ops) 0 for an unskilled individual or at full skill
 level for an expert drone operator. Control of swarms
 is limited to the 50-metre range of the wireless data
 link but drones can be controlled up to 50 kilometres
@@ -9244,6 +9297,8 @@ equivalent to that described for the robotic swarm
 controller on page 45.
 
 SWARM CONTROLLER CONSOLE TL CAPABILITY KG COST
+
+
 Basic 11 1 max tasks, 0 max skill or 1 drone 10 Cr20000
 Improved 12 2 max tasks, 1 max skill or 2 drones 6 Cr50000
 Enhanced 13 3 max tasks, 2 max skill or 4 drones 4 Cr100000
@@ -9256,11 +9311,15 @@ genetic modification is matched by increasingly
 complex software, although earlier versions can
 
 SOFTWARE BANDWIDTH TL CAPABILITY COST
+
+
 Clone Creator/1 1 8 Modify DNA to prep for basic cloning Cr2000
 Clone Creator/2 2 10 Create novel organisms from a natural template Cr20000
 Clone Creator/3 3 13 Create organisms to specifications from scratch Cr200000
 
 SOFTWARE
+
+
 Robots run on software but those who work with robots
 require software to design and control them.
 
@@ -9276,6 +9335,8 @@ an Intelligent Interface, which can be run on a
 computer attached to a robotic drone controller
 
 SOFTWARE BANDWIDTH TL CONTROL DM COST
+
+
 Drone Control/1 1 11 +0 Cr2000
 Drone Control/2 2 12 +1 Cr5000
 
@@ -9304,10 +9365,11 @@ and /4 can design or modify nanorobots.
 Swarm Control
 Swarm Control software is Expert software
 requiring an Intelligent Interface that can be run
-on a computer attached to a swarm controller
-(see page 45) or connected to a group of robots
+on a computer attached to a swarm controller (see page 45) or connected to a group of robots
 
 SOFTWARE BANDWIDTH TL CAPABILITY COST
+
+
 Swarm Control/1 1 11 1 max tasks, 0 max skill Cr15000
 Swarm Control/2 2 12 2 max tasks, 1 max skill Cr30000
 Swarm Control/3 3 13 3 max tasks, 2 max skill Cr60000
@@ -9398,14 +9460,11 @@ Traits Armour (+12), ATV (slow), Large (+2)
 Programming Primitive (evade) (INT 1)
 
 Options Auditory Sensor, Drone Interface, Storage
-Compartment (25 Slots), Transceiver 50km
-(improved), Visual Spectrum Sensor, Voder
-Speaker, Weapon Mount Autoloader
-(medium) x3, Wireless Data Link
+Compartment (25 Slots), Transceiver 50km (improved), Visual Spectrum Sensor, Voder
+Speaker, Weapon Mount Autoloader (medium) x3, Wireless Data Link
 
 Military robots perform functions including direct combat, surveillance and support roles. Many societies, including
-the Third Imperium, place strong restrictions on the capabilities of military robots, often relegating them to non-
-combat roles. Within such societies lethal robots are generally illegal to produce, possess and, certainly, to use.
+the Third Imperium, place strong restrictions on the capabilities of military robots, often relegating them to non-combat roles. Within such societies lethal robots are generally illegal to produce, possess and, certainly, to use.
 Other societies see a military robot as just another tool of war.
 
 Battle Mule
@@ -9420,15 +9479,13 @@ is purely cargo stowage and can carry 50 kilograms
 of ammunition or various supplies. The smaller can
 be configured for cargo by removing the automatic
 reloading equipment but is more commonly used as
-a field loader in direct support of a unit. The auto-
-reloader carries 1,000–2,000 rounds of ammunition,
+a field loader in direct support of a unit. The auto-reloader carries 1,000–2,000 rounds of ammunition,
 depending on calibre, in its ready hopper. It can reload
 standard magazines for up to three different weapons
 or ammunition types at once. Actual reloading takes
 one combat round but inserting an empty magazine or
 taking a full one out is a Minor Action for the soldier.
-The ammunition hopper can be reloaded using pre-
-packaged or loose ammunition. A box of 1,000 rounds
+The ammunition hopper can be reloaded using pre-packaged or loose ammunition. A box of 1,000 rounds
 typically weighs about 10 kilograms.
 
 Battle Mule can be used to conduct semi-autonomous
@@ -9469,11 +9526,9 @@ Manipulators 2x (STR 11 DEX 7)
 Endurance 259 hours
 Traits Armour (+14), ATV, Large (+1)
 Programming Advanced (INT 8)
-Options Auditory Sensor, Construction Equipment (medium), Drone Interface, Fire Control System
-(enhanced), Olfactory Sensor (basic), Radiation Environment Protection (+600 rads),
+Options Auditory Sensor, Construction Equipment (medium), Drone Interface, Fire Control System (enhanced), Olfactory Sensor (basic), Radiation Environment Protection (+600 rads),
 Recon Sensor (advanced), Satellite Uplink, Transceiver 500km (enhanced), Vacuum
-Environment Protection, Visual Spectrum Sensor, Voder Speaker, Weapon Mounts
-(medium) x2, Weapon Mount Autoloaders x2, Wireless Data Link
+Environment Protection, Visual Spectrum Sensor, Voder Speaker, Weapon Mounts (medium) x2, Weapon Mount Autoloaders x2, Wireless Data Link
 
 Robot Hits Locomotion Speed TL Cost
 Clearance 600
@@ -9540,8 +9595,7 @@ Manipulators 2x (STR 9 DEX 7)
 Endurance 19 hours
 Traits Alarm, Armour (+8), Flyer (idle), IR Vision
 Programming Basic (security) (INT 4)
-Options Auditory Sensor, Drone Interface, Fire Control System (improved), Light Intensifier Sensor
-(advanced), Spare Slots x8, Transceiver 50km (enhanced), Vacuum Environment Protection,
+Options Auditory Sensor, Drone Interface, Fire Control System (improved), Light Intensifier Sensor (advanced), Spare Slots x8, Transceiver 50km (enhanced), Vacuum Environment Protection,
 Voder Speaker, Weapon Mount (medium), Wireless Data Link
 
 Creeper Assassin
@@ -9566,8 +9620,7 @@ Endurance 130 hours
 Traits Armour (+6), ATV, Heightened Senses, IR/UV Vision, Small (-3)
 Programming Advanced (INT 9)
 Options Auditory Sensor, Drone Interface, Environment Processor, Gecko Grippers, PRIS Sensor,
-Recon Sensor (advanced), Transceiver 5km (improved), Voder Speaker, Weapon Mount
-(small), Wireless Data Link
+Recon Sensor (advanced), Transceiver 5km (improved), Voder Speaker, Weapon Mount (small), Wireless Data Link
 
 **DesiGnator**
 DesiGnator is a grav-mobile drone about the size
@@ -9589,8 +9642,7 @@ Manipulators —
 Endurance 19 hours
 Traits Armour (+3), Flyer (idle), IR Vision, Small (-3)
 Programming Primitive (alert) (INT 1)
-Options Drone Interface, Laser Designator, Light Intensifier Sensor (advanced), Recon Sensor
-(enhanced), Transceiver 50km (improved), Wireless Data Link
+Options Drone Interface, Laser Designator, Light Intensifier Sensor (advanced), Recon Sensor (enhanced), Transceiver 50km (improved), Wireless Data Link
 
 Fighting Strongpoint
 The Fighting Strongpoint is an armed version of the
@@ -9623,14 +9675,11 @@ Traits Alarm, Armour (+19), ATV, IR Vision, Large (+1)
 Programming Basic (security) (INT 4)
 Options Auditory Sensor, Camouflage: Visual (enhanced), Construction Equipment (medium),
 Drone Interface, Encryption Module, Fire Control System (improved), Light Intensifier
-Sensor (advanced), Radiation Environment Protection (+550 rads), Recon Sensor
-(enhanced), Satellite Uplink, Self-Repairing Chassis, Spare Slot, Transceiver 500km
-(enhanced), Vacuum Environment Protection, Voder Speaker, Weapon Mounts (medium)
+Sensor (advanced), Radiation Environment Protection (+550 rads), Recon Sensor (enhanced), Satellite Uplink, Self-Repairing Chassis, Spare Slot, Transceiver 500km (enhanced), Vacuum Environment Protection, Voder Speaker, Weapon Mounts (medium)
 x2, Weapon Mount Autoloaders (medium) x6, Wireless Data Link
 
 **Floating Strongpoint**
-A technological improvement of the Walking Strongpoint
-(see page 144), the floating strongpoint is shaped
+A technological improvement of the Walking Strongpoint (see page 144), the floating strongpoint is shaped
 like a broad shield floating just above the ground. It
 provides cover for an advancing fire team over any
 terrain, overcoming one of its walking predecessor’s
@@ -9661,15 +9710,13 @@ Manipulators —
 Endurance 72 hours
 Traits Alarm, Armour (+28), Flyer (idle), Heightened Senses, IR/UV Vision, Large (+1)
 Programming Basic (security) (INT 4)
-Options Auditory Sensor (broad spectrum), Camouflage: Visual (advanced), Construction Equipment
-(medium), Drone Interface, Encryption Module, PRIS Sensor, Radiation Environment
+Options Auditory Sensor (broad spectrum), Camouflage: Visual (advanced), Construction Equipment (medium), Drone Interface, Encryption Module, PRIS Sensor, Radiation Environment
 Protection (+600 rads), Recon Sensor (advanced), Satellite Uplink, Self-Repairing Chassis,
 Vacuum Environment Protection, Transceiver 5,000km (enhanced), Voder Speaker, Weapon
 Mount Autoloader (heavy), Weapon Mount Autoloaders (medium) x4, Wireless Data Link
 
 Flying Gun (small)
-The ultimate in ‘smart gun’ technology is a robotic grav-
-propelled gun with an Advanced robot brain. Designed
+The ultimate in ‘smart gun’ technology is a robotic grav-propelled gun with an Advanced robot brain. Designed
 to back up boarding crews or police officers, it has
 also found use as an assassination tool. Based on the
 receiver of a personal defence laser, the small flying
@@ -9739,8 +9786,7 @@ Manipulators —
 Endurance 18 hours
 Traits Armour (+28), Flyer (idle), Heightened Senses, IR/UV Vision
 Programming Advanced (INT 9)
-Options Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage: Visual
-(superior), Drone Interface, PRIS Sensor, Radiation Environment Protection (+700 rads),
+Options Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage: Visual (superior), Drone Interface, PRIS Sensor, Radiation Environment Protection (+700 rads),
 Transceiver 50 km (advanced), Vacuum Environment Protection, Voder Speaker, Weapon
 Mount (heavy), Wireless Data Link
 
@@ -9779,8 +9825,7 @@ Manipulators —
 Endurance 24 (6) hours
 Traits Armour (+16), Flyer (high), Large (+3)
 Programming Primitive (evade) (INT 1)
-Options Auditory Sensor, Drone Interface, Storage Compartment (107 Slots), Transceiver 500km
-(improved), Visual Spectrum Sensor, Voder Speaker, Weapon Mount Autoloaders (medium)
+Options Auditory Sensor, Drone Interface, Storage Compartment (107 Slots), Transceiver 500km (improved), Visual Spectrum Sensor, Voder Speaker, Weapon Mount Autoloaders (medium)
 x3, Wireless Data Link
 
 Grav Mule
@@ -9943,8 +9988,7 @@ a central bulge. This contains a pair of manipulator
 arms, fire extinguisher and cutting torch capable
 of making a path through a shipboard bulkhead or
 even a lightly armoured hull, although not quickly.
-The robot is most commonly used as a fetch-and-
-carry device for security patrols and boarding parties,
+The robot is most commonly used as a fetch-and-carry device for security patrols and boarding parties,
 carrying heavy items of equipment or the infamous
 ‘contraband bag’.
 
@@ -9974,8 +10018,7 @@ Speaker, Wireless Data Link
 Focusing on non-lethal restraint, the
 Makhidkarun-produced Peacekeeper is a
 grav-propelled robot intended for crowd control
-and riot suppression. Armed with a short-
-ranged stunner and two extra arms equipped
+and riot suppression. Armed with a short-ranged stunner and two extra arms equipped
 with stun sticks to control and subdue rioters,
 the Peacekeeper can fly low over crowds and
 break up riots and demonstrations.
@@ -10007,8 +10050,7 @@ Control Robot
 
 20 Grav 9m 12 Cr150000
 
-Skills Athletics (dexterity) 1, Athletics (strength) 1, Gun Combat (energy) 2, Medic 0, Melee
-(bludgeon) 2, Recon 2, Tactics (military) 1
+Skills Athletics (dexterity) 1, Athletics (strength) 1, Gun Combat (energy) 2, Medic 0, Melee (bludgeon) 2, Recon 2, Tactics (military) 1
 Attacks Stunner (TL12) (3D, Stun, Zero-G), Stunsticks x2 (2D, Stun)
 Manipulators 2x (STR 9 DEX 7), 2x (STR 5 DEX 9)
 Endurance 29 hours
@@ -10016,8 +10058,7 @@ Traits Armour (+13), Flyer (idle), IR/UV Vision
 Programming Advanced (INT 8)
 Options Auditory Sensor, Cutting Torch (improved), Drone Interface, Encryption Module, Fire
 Control System (improved), Fire Extinguisher, Medikit (improved), PRIS Sensor, Recon
-Sensor (enhanced), Self-Repairing Chassis, Tightbeam Communicator, Transceiver 50km
-(enhanced), Voder Speaker, Weapon Mounts (small) x3, Wireless Data Link
+Sensor (enhanced), Self-Repairing Chassis, Tightbeam Communicator, Transceiver 50km (enhanced), Voder Speaker, Weapon Mounts (small) x3, Wireless Data Link
 
 **Security Drone**
 With long-running power sources, security drones are
@@ -10040,14 +10081,12 @@ Manipulators —
 Endurance 25-year half-life RTG (22 hours)
 Traits Alarm, Armour (+6), Flyer (idle), IR Vision
 Programming Basic (security) (INT 4)
-Options Auditory Sensor, Drone Interface, Light Intensifier Sensor (advanced), Recon Sensor
-(enhanced), RTG Long Duration (basic), Self-Maintenance Enhancement (basic), Spare Slots
+Options Auditory Sensor, Drone Interface, Light Intensifier Sensor (advanced), Recon Sensor (enhanced), RTG Long Duration (basic), Self-Maintenance Enhancement (basic), Spare Slots
 x5, Transceiver 5km (improved), Voder Speaker, Weapon Mounts (small) x2, Wireless Data Link
 
 Shadow Security Robot
 The Shadow Security Robot is designed to patrol
-outside installations, using multi-chromatic and multi-
-sensory camouflage to blend into any environment from
+outside installations, using multi-chromatic and multi-sensory camouflage to blend into any environment from
 vacuum plains to thick jungle. Equipped with advanced
 sensors, gecko grippers and a self-repairing chassis,
 the Shadow is designed for survivability and usually
@@ -10072,8 +10111,7 @@ Endurance 173 hours
 Traits Armour (+13), ATV, Heightened Senses, IR/UV Vision, Stealth (+3)
 Programming Advanced (INT 9)
 Options Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage:
-Olfactory (advanced), Camouflage: Visual (advanced), Drone Interface, Fire Control System
-(enhanced), Gecko Grippers, Navigation System (improved), Olfactory Sensor (improved),
+Olfactory (advanced), Camouflage: Visual (advanced), Drone Interface, Fire Control System (enhanced), Gecko Grippers, Navigation System (improved), Olfactory Sensor (improved),
 PRIS Sensor, Radiation Environment Protection (+600 rads), Recon Sensor (advanced),
 Self-Repairing Chassis, Stealth (enhanced), Transceiver 500km (enhanced), Vacuum
 Environment Protection, Voder Speaker, Weapon Mount (medium), Wireless Data Link
@@ -10294,9 +10332,7 @@ Traits Alarm, Armour (+19), ATV, IR Vision, Large (+1)
 Programming Basic (security) (INT 4)
 Options Auditory Sensor, Autoloader (heavy), Camouflage, Construction Equipment (medium),
 Drone Interface, Encryption Module, Light Intensifier Sensor (advanced), Satellite Uplink,
-Self-Repairing Chassis, Radiation Environment Protection (+550 rads), Recon Sensor
-(enhanced), Transceiver 500km (enhanced), Vacuum Environment Protection, Visual
-(enhanced), Voder Speaker, Weapon Mount Autoloaders (medium) x4, Weapon Mount
+Self-Repairing Chassis, Radiation Environment Protection (+550 rads), Recon Sensor (enhanced), Transceiver 500km (enhanced), Vacuum Environment Protection, Visual (enhanced), Voder Speaker, Weapon Mount Autoloaders (medium) x4, Weapon Mount
 Wireless Data Link
 
 ## S ERVICE ROBOTS
@@ -10341,8 +10377,7 @@ Endurance 36 (9) hours
 Traits Armour (+10, +10 vs. lasers), Flyer (high), Heightened Senses, Large (+2), IR/UV Vision,
 Programming Advanced (INT 9)
 Options Auditory Sensor (broad spectrum), Construction Equipment (small), Drone Interface,
-Environment Processor, Medical Chamber (50 Slots), Medikit (enhanced), Olfactory Sensor
-(advanced), PRIS Sensor, Reflec Armour, Storage Compartment (2 Slots refrigerated),
+Environment Processor, Medical Chamber (50 Slots), Medikit (enhanced), Olfactory Sensor (advanced), PRIS Sensor, Reflec Armour, Storage Compartment (2 Slots refrigerated),
 Transceiver 500km (enhanced), Vacuum Environment Protection, Voder Speaker, Weapon
 Mounts (small) x2, Wireless Data Link
 
@@ -10376,8 +10411,7 @@ Manipulators 1x (STR 9 DEX 8)
 Endurance 108 hours
 Traits Armour (+6)
 Programming Very Advanced (INT 11)
-Options Auditory Sensor, Construction Equipment (small), Densitometer Sensor, Electronics Toolkit
-(advanced), Holographic Projector, Industrial Cleaning Equipment (small), PRIS Sensor,
+Options Auditory Sensor, Construction Equipment (small), Densitometer Sensor, Electronics Toolkit (advanced), Holographic Projector, Industrial Cleaning Equipment (small), PRIS Sensor,
 Self-Maintenance Enhancement (basic), Starship Engineer Toolkit (advanced), Storage
 Compartment (2 Slots hazardous material), Transceiver 500km (advanced), Vacuum
 Environment Protection, Voder Speaker, Weapon Mount (small), Wireless Data Link
@@ -10404,8 +10438,7 @@ allow it to carefully control surgical procedures.
 
 Spare slots allow for the expansion of the medical
 chamber to accommodate larger beings, the installation
-of cryoberth or low berth options, species-specific add-
-ons or advanced bioreactors.
+of cryoberth or low berth options, species-specific add-ons or advanced bioreactors.
 
 Robot Hits Locomotion Speed TL Cost
 Autodoc, basic 50 — 0m 13 Cr100000
@@ -10447,8 +10480,7 @@ Programming Advanced (INT 9)
 Options Auditory Sensor, Bioreaction Chamber (10 Slots advanced), Medical Chamber (50 Slots),
 Medical Chamber Option: Low berth (improved), Medical Chamber Option: Reanimation,
 Medikit (advanced), PRIS Sensor, Scientific Toolkit (advanced), Spare Slots x8, Storage
-Compartment (2 Slots), Storage Compartment (3 Slots refrigerated), Transceiver 5 km
-(improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+Compartment (2 Slots), Storage Compartment (3 Slots refrigerated), Transceiver 5 km (improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 Autodoc, Advanced
 The advanced autodoc, includes a more
@@ -10506,8 +10538,7 @@ Manipulators 2x (STR 9 DEX 9)
 Endurance 108 hours
 Traits Armour (+4), ATV, Heightened Senses
 Programming Advanced (INT 8)
-Options Auditory Sensor (broad spectrum), Drone Interface, High Fidelity Sound System
-(advanced), Holographic Projector, Spare Slots x12, Transceiver 5km (improved), Video
+Options Auditory Sensor (broad spectrum), Drone Interface, High Fidelity Sound System (advanced), Holographic Projector, Spare Slots x12, Transceiver 5km (improved), Video
 Projector, Video Screen (advanced), Visual Spectrum Sensor, Voder Speaker (broad
 spectrum), Wireless Data Link
 
@@ -10546,9 +10577,7 @@ Manipulators 2x (STR 12 DEX 7), 2x (STR 9 DEX 9)
 Endurance 108 hours
 Traits Armour (+4), ATV, Heightened Senses
 Programming Advanced (INT 8)
-Options Auditory Sensor, Autobar (advanced), Domestic Cleaning Equipment (small), Olfactory Sensor
-(advanced), Storage Compartment (5 Slots refrigerated), Spare Slots x4, Transceiver 5km
-(improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
+Options Auditory Sensor, Autobar (advanced), Domestic Cleaning Equipment (small), Olfactory Sensor (advanced), Storage Compartment (5 Slots refrigerated), Spare Slots x4, Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
 
 **BeautyBot**
 The four-armed, wheeled BeautyBot is a common sight
@@ -10567,8 +10596,7 @@ Endurance 108 hours
 Traits Armour (+4), Heightened Senses
 Programming Advanced (INT 8)
 Options Auditory Sensor, Domestic Cleaning Equipment (medium), Drone Interface, Holographic
-Projector, Olfactory Sensor (improved), , Spare Slots x4, Stylist Toolkit, Transceiver 5km
-(improved), Visual Spectrum Sensor, Video Screen (advanced) Voder Speaker, Wireless
+Projector, Olfactory Sensor (improved), , Spare Slots x4, Stylist Toolkit, Transceiver 5km (improved), Visual Spectrum Sensor, Video Screen (advanced) Voder Speaker, Wireless
 Data Link
 
 projector allows the BeautyBot to display the latest
@@ -10591,8 +10619,7 @@ olfactory sensor gives it an edge in procuring and
 evaluating fine food and drink. Of basically humanoid
 appearance and possessing an upper-class accent, it
 can seem like a snobbish know-it-all to some observers
-but it is a keen negotiator, able to take notice of micro-
-expressions and use them to gain an advantage in
+but it is a keen negotiator, able to take notice of micro-expressions and use them to gain an advantage in
 tense negotiations. A sophisticated communication
 system allows it to securely converse with its head
 office or a ship planetside or in orbit.
@@ -10674,8 +10701,7 @@ or low berth.
 A cloning vat looks much like an autodoc and carries a
 similar brain but is specialised in the biology of cloning,
 not therapeutic medical care. The bulk of the cloning vat is
-a 50-Slot advanced bioreaction chamber capable of force-
-growing a clone to adulthood at a 50x accelerated rate.
+a 50-Slot advanced bioreaction chamber capable of force-growing a clone to adulthood at a 50x accelerated rate.
 This procedure requires careful monitoring and is often
 supplemented by the implantation of cybernetic devices
 such as wafer jacks in the clone’s skull, a task facilitated
@@ -10760,8 +10786,7 @@ Options Atmospheric Sensor, Auditory Sensor (broad spectrum), Cutting Torch (imp
 Interface, Fire Extinguisher, Gecko Grippers, Medikit (enhanced), Olfactory Sensor (improved),
 PRIS Sensor, Recon Sensor (enhanced), Self-Repairing Chassis, Solar Coating (advanced),
 Spare Slots x2, Starship Engineer Toolkit (enhanced), Storage Compartment (2 Slots
-refrigerated), Transceiver 500km (enhanced), Vacuum Environment Protection, Voder Speaker
-(broad spectrum), Wireless Data Link
+refrigerated), Transceiver 500km (enhanced), Vacuum Environment Protection, Voder Speaker (broad spectrum), Wireless Data Link
 
 **Danger Droid**
 The Danger Droid is a hazardous environment
@@ -10799,8 +10824,7 @@ Manipulators 2x (STR 12 DEX 12)
 Endurance 194 hours + Solar Coating (advanced)
 Traits Armour (+10), ATV, Hardened, Heightened Senses, IR/UV Vision
 Programming Very Advanced (INT 9)
-Options Auditory Sensor (broad spectrum), Corrosive Environment Protection, Cutting Torch
-(advanced), Drone Interface, Encryption Module, Environment Processor, Fire Extinguisher,
+Options Auditory Sensor (broad spectrum), Corrosive Environment Protection, Cutting Torch (advanced), Drone Interface, Encryption Module, Environment Processor, Fire Extinguisher,
 Insidious Environment Protection (14 days), Laser Designator, Medikit (advanced), Navigation
 System (enhanced), Olfactory Sensor (advanced), PRIS Sensor, Radiation Environment
 Protection (+700 rads), Recon Sensor (advanced), Scientific Toolkit (advanced), Self-Repairing
@@ -10854,8 +10878,7 @@ Slot hazardous material), Submersible Environment Protection 2,000m (advanced) x
 Transceiver 5,000km (improved), Vacuum Environment Protection, Wireless Data Link
 
 **Emergency Medical Response Robot**
-The Emergency Medical Response Robot or EMR-
-Bot is a multi-armed fast-flying grav-propelled unit.
+The Emergency Medical Response Robot or EMR-Bot is a multi-armed fast-flying grav-propelled unit.
 Outfitted with advanced sensors and equipped with
 a medical kit, cutting torch and fire extinguisher,
 this robot is designed to quickly locate and stabilise
@@ -10921,9 +10944,7 @@ Endurance 25-year half-life solar power (144 hours)
 Traits Armour (+2), ATV, IR Vision
 Programming Basic (recon) (INT 3)
 Options Auditory Sensor, Atmospheric Sensor, Drone Interface, Geiger Counter, Light Intensifier
-Sensor (basic), Mining Equipment (small), Navigation System (basic), Olfactory Sensor
-(basic), Radiation Environment Protection (+400 rads), Satellite Uplink, Scientific Toolkit
-(improved), Self-Maintenance Enhancement (improved), Solar Power Unit (improved),
+Sensor (basic), Mining Equipment (small), Navigation System (basic), Olfactory Sensor (basic), Radiation Environment Protection (+400 rads), Satellite Uplink, Scientific Toolkit (improved), Self-Maintenance Enhancement (improved), Solar Power Unit (improved),
 Thermal Sensor, Transceiver 5,000km (basic), Vacuum Environment Protection, Visual
 Spectrum Sensor, Wireless Data Link
 
@@ -10941,8 +10962,7 @@ Forensic Supervisor Droid
 The Forensic Supervisor Droid is a crime scene
 investigator equipped with investigative tools and
 able to control small robots or drones and swarms
-of microbots for evidence collection. As a one-
-robot forensic department, it is also conversant
+of microbots for evidence collection. As a one-robot forensic department, it is also conversant
 in regulations, report writing and presentation of
 evidence to other investigators and courts via video
 screen and holographic projector. Four small arms
@@ -10996,8 +11016,7 @@ Manipulators 1x (STR 2 DEX 9)
 Endurance 36 hours
 Traits Armour (+4), Flyer (idle), Heightened Senses, IR/UV Vision, Small (-4)
 Programming Advanced (INT 8)
-Options Atmospheric Sensor, Auditory Sensor (broad spectrum), Drone Interface, Olfactory Sensor
-(advanced), PRIS Sensor, Recon Sensor (advanced), Storage Compartment (1 Slot hazardous
+Options Atmospheric Sensor, Auditory Sensor (broad spectrum), Drone Interface, Olfactory Sensor (advanced), PRIS Sensor, Recon Sensor (advanced), Storage Compartment (1 Slot hazardous
 material), Transceiver 5km (improved), Vacuum Environment Protection, Voder Speaker,
 Wireless Data Link
 
@@ -11021,8 +11040,7 @@ body that operates without maintenance for 60 years.
 However that is not what frightens people; what
 frightens certain ‘alarmists’ is the enhanced fabrication
 chamber capable of producing one human-sized robot
-every few hours. Mining equipment allows it to jump-
-start this process by harvesting raw materials although,
+every few hours. Mining equipment allows it to jump-start this process by harvesting raw materials although,
 as envisioned, the Hive Queen produces miners and
 equipment and settle in as a robot factory. Then it
 directs workers to build a bigger robot factory, often
@@ -11031,8 +11049,7 @@ for a replication colony.
 
 Robot Hits Locomotion Speed TL Cost
 Hive Queen 72 Walker 5m 13 MCr43
-Skills Athletics (dexterity 1), Athletics (Strength) 1, Diplomat 3, Electronics (remote ops) 3, Melee
-(unnatural) 1, Profession (belter) 3, Profession (fabricator) 3, Recon 3, Science (robotics) 4,
+Skills Athletics (dexterity 1), Athletics (Strength) 1, Diplomat 3, Electronics (remote ops) 3, Melee (unnatural) 1, Profession (belter) 3, Profession (fabricator) 3, Recon 3, Science (robotics) 4,
 Survival 3, Tactics (military) 3
 Attacks Claws x4 (2D+1), Claws x2 (4D+3)
 Manipulators 4x (STR 9 DEX 15), 2x (STR 15 DEX 9), 2x (STR 15 DEX 9) modified legs
@@ -11042,8 +11059,7 @@ Programming Very Advanced (INT 12)
 Options Auditory Sensor (broad spectrum), Drone Interface, Environment Processor, Fabrication
 Chamber (64 Slot enhanced), Gecko Grippers, Mining Equipment (medium), Olfactory
 Sensor (advanced), PRIS Sensor, Radiation Environment Protection (+650 rads), Recon
-Sensor (advanced), Reflec Armour, Robotic Drone Controller (advanced), RTG Long Duration
-(advanced), Scientific Toolkit (enhanced), Self-Maintenance Enhancement (enhanced), Swarm
+Sensor (advanced), Reflec Armour, Robotic Drone Controller (advanced), RTG Long Duration (advanced), Scientific Toolkit (enhanced), Self-Maintenance Enhancement (enhanced), Swarm
 Controller (enhanced), Transceiver 5,000km (enhanced), Vacuum Environment Protection,
 Voder Speaker (broad spectrum), Wireless Data Link
 
@@ -11094,8 +11110,7 @@ Manipulators —
 Endurance 43 hours
 Traits Armour (+3), Flyer (idle), Small (-1)
 Programming Advanced (INT 8)
-Options Auditory Sensor, Drone Interface, Storage Compartment (10 Slot refrigerated), Transceiver 5km
-(improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
+Options Auditory Sensor, Drone Interface, Storage Compartment (10 Slot refrigerated), Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
 
 **Medivac Robot**
 The Medivac robot is a grav-propelled flying
@@ -11138,8 +11153,7 @@ Traits Armour (+3), Flyer (high), IR Vision, Large (+2)
 Programming Advanced (INT 7)
 Options Auditory Sensor, Autopilot (enhanced), Drone Interface, Injector Needles x2, Light Intensifier
 Sensor (advanced), Medical Chamber (50 Slots), Medical Chamber Option: Cryoberth (basic),
-Medikit (improved), Storage Compartment (2 Slots hazardous material), Transceiver 5,000km
-(improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+Medikit (improved), Storage Compartment (2 Slots hazardous material), Transceiver 5,000km (improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 **Nursebot**
 The Nursebot is designed for long term care of
@@ -11201,10 +11215,8 @@ Manipulators 2x (STR 15 DEX 7)
 Endurance 432 hours
 Traits Armour (+9), ATV, IR/UV Vision, Large (+3)
 Programming Very Advanced (INT 9)
-Options Auditory Sensor, Construction Equipment (large), Drone Interface, Electronics Toolkit
-(advanced), Fabrication Chamber (6 Slots improved), Forklift (medium), Gecko Grippers,
-Mechanical Toolkit (advanced), Mining Equipment (medium), Navigation System
-(improved), PRIS Sensor, Radiation Environment Protection (+600 rads), Robotic Drone
+Options Auditory Sensor, Construction Equipment (large), Drone Interface, Electronics Toolkit (advanced), Fabrication Chamber (6 Slots improved), Forklift (medium), Gecko Grippers,
+Mechanical Toolkit (advanced), Mining Equipment (medium), Navigation System (improved), PRIS Sensor, Radiation Environment Protection (+600 rads), Robotic Drone
 Controller (advanced), Satellite Uplink, Starship Engineer Toolkit (enhanced), Transceiver
 5,000km (enhanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
@@ -11246,8 +11258,7 @@ Endurance 108 hours
 Traits Armour (+3), ATV
 Programming Very Advanced (INT 11)
 Options Auditory Sensor, Autobar (improved), Autochef (improved), Drone Interface, Holographic Projector,
-Olfactory Sensor (basic), Storage Compartment (5 Slots refrigerated), Transceiver 500km
-(improved), Visual Spectrum Sensor, Voder Speaker (broad spectrum), Wireless Data Link
+Olfactory Sensor (basic), Storage Compartment (5 Slots refrigerated), Transceiver 500km (improved), Visual Spectrum Sensor, Voder Speaker (broad spectrum), Wireless Data Link
 
 Sanitation Droid
 A development of the utility droid, these robots are
@@ -11357,8 +11368,7 @@ through standard airlocks.
 
 Robot Hits Locomotion Speed TL Cost
 Starship Repair Boss 32 Walker, Thruster 5m 12 Cr270000
-Skills Electronics (remote ops) 2, Engineer (j-drive) 2, Engineer (life support) 1, Engineer
-(m-drive) 2, Engineer (power) 2, Mechanic 2, Melee 0
+Skills Electronics (remote ops) 2, Engineer (j-drive) 2, Engineer (life support) 1, Engineer (m-drive) 2, Engineer (power) 2, Mechanic 2, Melee 0
 Attacks Monoblades x2 (3D, AP 10)
 Manipulators 2x (STR 11 DEX 7), 2x (STR 9 DEX 7)
 Endurance 216 hours
@@ -11366,8 +11376,7 @@ Traits Armour (+13), ATV, Large (+1), IR/UV Vision
 Programming Advanced (INT 9)
 Options Auditory Sensor, Avatar Receiver, Cutting Torch (improved), Drone Interface, Electronics
 Toolkit (advanced), Fire Extinguisher, Gecko Grippers, Mechanical Toolkit (advanced),
-PRIS Sensor, Radiation Environment Protection (+600 rads), Robotic Drone Controller
-(enhanced), Starship Engineer Toolkit (enhanced), Transceiver 50km (enhanced), Vacuum
+PRIS Sensor, Radiation Environment Protection (+600 rads), Robotic Drone Controller (enhanced), Starship Engineer Toolkit (enhanced), Transceiver 50km (enhanced), Vacuum
 Environment Protection, Voder Speaker, Weapon Mounts (small) x2, Wireless Data Link
 
 Robot Hits Locomotion Speed TL Cost
@@ -11450,8 +11459,7 @@ Options Auditory Sensor, Autochef (basic), Storage Compartment (5 Slots hazardou
 Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
 
 **Steward Droid**
-Replacing a qualified starship steward or all-
-around household butler, the Steward Droid
+Replacing a qualified starship steward or all-around household butler, the Steward Droid
 is a humanoid robot designed to interact with
 people and food. It is a relative short and thin
 robot with long arms designed to reach high
@@ -11481,8 +11489,7 @@ Manipulators 2x (STR 7 DEX 7)
 Endurance 97 hours
 Traits Armour (+4), ATV, Heightened Senses, Small (-1)
 Programming Advanced (INT 8)
-Options Auditory Sensor, Autobar (enhanced), Autochef (enhanced), Medikit (basic), Olfactory Sensor
-(improved), Storage Compartment (2 Slots refrigerated), Transceiver 5km (improved), Visual
+Options Auditory Sensor, Autobar (enhanced), Autochef (enhanced), Medikit (basic), Olfactory Sensor (improved), Storage Compartment (2 Slots refrigerated), Transceiver 5km (improved), Visual
 Spectrum Sensor, Voder Speaker, Wireless Data Link
 
 **Surgeon Bot**
@@ -11515,8 +11522,7 @@ Endurance 108 hours
 Traits Armour (+4), Heightened Senses, IR/UV Vision, Small (-1)
 Programming Very Advanced (INT 9)
 Options Auditory Sensor (broad spectrum), Drone Interface, Forensic Toolkit (enhanced), Injector
-Needles x4, Medikit (enhanced), Olfactory Sensor (advanced), PRIS Sensor, Transceiver 5km
-(improved), Voder Speaker, Wireless Data Link
+Needles x4, Medikit (enhanced), Olfactory Sensor (advanced), PRIS Sensor, Transceiver 5km (improved), Voder Speaker, Wireless Data Link
 
 **Surrogate Droid, Basic**
 The basic surrogate droid is a humanoid robot with
@@ -11547,8 +11553,7 @@ Manipulators 2x (STR 9 DEX 6)
 Endurance 65 hours
 Traits Armour (+3), ATV
 Programming Basic (servant) (INT 4)
-Options Auditory Sensor, Bioreaction Chamber (8 Slots enhanced), Drone Interface, Olfactory Sensor
-(basic), Spare Slots x8, Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker,
+Options Auditory Sensor, Bioreaction Chamber (8 Slots enhanced), Drone Interface, Olfactory Sensor (basic), Spare Slots x8, Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker,
 Wireless Data Link
 
 **Utility Droid**
@@ -11606,9 +11611,7 @@ Manipulators 2x (STR 12 DEX 7)
 Endurance 65 hours
 Traits Armour (+13), ATV, Heightened Senses, IR/UV Vision
 Programming Advanced (INT 9)
-Options Auditory Sensor (broad spectrum), Environment Processor, Fire Extinguisher, Forensic Toolkit
-(improved), Magnetic Grippers, Olfactory Sensor (advanced), PRIS Sensor, Recon Sensor
-(advanced), Spare Slots x5, Transceiver 50km (enhanced), Vacuum Environment Protection,
+Options Auditory Sensor (broad spectrum), Environment Processor, Fire Extinguisher, Forensic Toolkit (improved), Magnetic Grippers, Olfactory Sensor (advanced), PRIS Sensor, Recon Sensor (advanced), Spare Slots x5, Transceiver 50km (enhanced), Vacuum Environment Protection,
 Voder Speaker (broad spectrum), Weapon Mount (small), Wireless Data Link
 
 ## U TILITY ROBOTS
@@ -11639,14 +11642,13 @@ Robot Hits Locomotion Speed TL Cost
 AG300 Agricultural Worker 20 Walker 6m 10 Cr20000
 Skills Navigation 1, Profession (labourer) 2
 Attacks —
-Manipulators 2x (STR 9 DEX 6), 2 X (STR 7 DEX 6)
+Manipulators 2x (STR 9 DEX 6), 2X (STR 7 DEX 6)
 Endurance 65 hours
 Traits Armour (+3), ATV, Heightened Senses, IR Vision
 Programming Basic (labourer) (INT 4)
 Options Agricultural Equipment (medium), Auditory Sensor, Drone Interface, Light Intensifier
 Sensor (advanced), Navigation System (basic), Olfactory Sensor (improved),
-Storage Compartment (8 Slot refrigerated), Thermal Sensor, Transceiver 5km
-(improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
+Storage Compartment (8 Slot refrigerated), Thermal Sensor, Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
 
 **Bulk Delivery Servitor (BDS)**
 The largest robot offering from Spinward
@@ -11738,16 +11740,14 @@ Manipulators —
 Endurance 72 (12) hours
 Traits Armour (+4), Flyer (very fast), Small (-1)
 Programming Basic (locomotion) (INT 4)
-Options Auditory Sensor, Drone Interface, Navigation System (enhanced), Storage Compartment
-(5 Slots hazardous material), Transceiver 500km (enhanced), Vacuum Environment
+Options Auditory Sensor, Drone Interface, Navigation System (enhanced), Storage Compartment (5 Slots hazardous material), Transceiver 500km (enhanced), Vacuum Environment
 Protection, Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
 
 **Domestic Servant**
 The domestic servant robot is a small tracked rounded
 disk with built-in cleaning apparatus for domestic
 environments. It can navigate its environment but is not
-capable of interaction beyond status alarms and pre-
-recorded messages. These ubiquitous devices are found
+capable of interaction beyond status alarms and pre-recorded messages. These ubiquitous devices are found
 in many mid- to early stellar-tech homes and offices,
 operating in the background to keep living and work
 spaces clean. With no manipulators, the domestic servant
@@ -11767,8 +11767,7 @@ Compartment (4 Slots), Transceiver 5km (improved), Visual Spectrum Sensor, Voder
 Speaker, Wireless Data Link
 
 Lab Control Robot, Basic
-The basic Lab Control Robot is a small box, table-
-mounted or installed in a larger control panel. Its
+The basic Lab Control Robot is a small box, table-mounted or installed in a larger control panel. Its
 Advanced robotic brain allows control of a single drone,
 usually for testing of drones and robots equipped with
 a drone interface. The robot’s brain has the capacity
@@ -11786,8 +11785,7 @@ Manipulators —
 Endurance 324 hours
 Traits Armour (+4), Small (-4)
 Programming Advanced (INT 8)
-Options Auditory Sensor, External Power, Robotic Drone Controller (basic), Transceiver 500km
-(improved), Video Screen (improved), Voder Speaker, Wireless Data Link
+Options Auditory Sensor, External Power, Robotic Drone Controller (basic), Transceiver 500km (improved), Video Screen (improved), Voder Speaker, Wireless Data Link
 
 **Lab Control Robot, Advanced**
 The advanced Lab Control Robot is a more capable
@@ -11815,9 +11813,7 @@ Manipulators —
 Endurance 324 hours
 Traits Armour (+4), Small (-2)
 Programming Advanced (INT 9)
-Options Auditory Sensor, Avatar Controller (basic), External Power, Robotic Drone Controller
-(advanced), Swarm Controller (enhanced), Transceiver 5,000km (enhanced), Video Screen
-(improved), Voder Speaker, Wireless Data Link
+Options Auditory Sensor, Avatar Controller (basic), External Power, Robotic Drone Controller (advanced), Swarm Controller (enhanced), Transceiver 5,000km (enhanced), Video Screen (improved), Voder Speaker, Wireless Data Link
 
 Labour Droid
 Produced by the billions, the Labour Droid is a
@@ -11892,8 +11888,7 @@ Manipulators 2x (STR 6 DEX 9)
 Endurance 648 hours
 Traits Armour (+4), Large (+2)
 Programming Advanced (INT 8)
-Options Auditory Sensor, Medical Chamber (50 Slots), Medical Chamber Option: Cryoberth
-(improved), Medical Chamber Option: Low berth (improved), Medikit (improved), Spare
+Options Auditory Sensor, Medical Chamber (50 Slots), Medical Chamber Option: Cryoberth (improved), Medical Chamber Option: Low berth (improved), Medikit (improved), Spare
 Slots x20, Storage Compartment (5 Slots), Storage Compartment (2 Slots refrigerated),
 Transceiver 5km (improved), Vacuum Environment Protection, Visual Spectrum Sensor,
 Voder Speaker, Wireless Data Link
@@ -11917,8 +11912,7 @@ Manipulators 2x (STR 6 DEX 9)
 Endurance 36 hours
 Traits Armour (+4), Flyer (idle), Large (+2)
 Programming Advanced (INT 8)
-Options Auditory Sensor, Medical Chamber (50 Slots), Medical Chamber Option: Cryoberth
-(improved), Medical Chamber Option: Low berth (improved), Medikit (improved), Spare Slots
+Options Auditory Sensor, Medical Chamber (50 Slots), Medical Chamber Option: Cryoberth (improved), Medical Chamber Option: Low berth (improved), Medikit (improved), Spare Slots
 x4, Storage Compartment (5 Slots), Storage Compartment (2 Slots refrigerated), Transceiver
 5km (improved), Vacuum Environment Protection, Visual Spectrum Sensor, Voder Speaker,
 Wireless Data Link
@@ -11942,8 +11936,7 @@ Manipulators 1x (STR 12 DEX 7)
 Endurance 18 (5) hours + Solar Coating (enhanced)
 Traits Armour (+10), IR/UV Vision, Large (+2), Thruster (1G)
 Programming Advanced (INT 8)
-Options Auditory Sensor, Drone Interface, Mining Equipment (large), PRIS Sensor, Solar Coating
-(enhanced), Transceiver 5,000km (enhanced), Vacuum Environment Protection, Voder
+Options Auditory Sensor, Drone Interface, Mining Equipment (large), PRIS Sensor, Solar Coating (enhanced), Transceiver 5,000km (enhanced), Vacuum Environment Protection, Voder
 Speaker, Wireless Data Link
 
 **Robodiver**
@@ -11971,6 +11964,8 @@ Environment Protection 600m (enhanced) x4, Transceiver 500km (enhanced), Visual 
 Sensor, Voder Speaker, Wireless Data Link
 
 RPRU
+
+
 The Remotely Piloted Reconnaissance Unit, often
 known as the Sphere-Eye, is a half-metre sphere
 studded with lenses, microphones and detection
@@ -12003,8 +11998,7 @@ Traits Armour (+4), Flyer (high), Heightened Senses, IR Vision, Small (-2), Stea
 Programming Primitive (evade) (INT 1)
 Options Auditory Sensor, Camouflage: Audible (advanced), Camouflage: Visual (enhanced), Drone
 Interface, Encryption Module, Light Intensifier Sensor (advanced), Olfactory Sensor (improved),
-Recon Sensor (enhanced), Stealth (improved), Tightbeam Communicator, Transceiver 50km
-(enhanced), Voder Speaker, Wireless Data Link
+Recon Sensor (enhanced), Stealth (improved), Tightbeam Communicator, Transceiver 50km (enhanced), Voder Speaker, Wireless Data Link
 
 **Special Delivery Servitor (SDS)**
 A product of Spinward Specialities, the Special Delivery
@@ -12096,8 +12090,7 @@ Traits Armour (+7), Flyer (high), Heightened Senses, IR/UV Vision
 Programming Advanced (INT 8)
 Options Atmospheric Sensor, Auditory Sensor (broad spectrum), Drone Interface, Environment
 Processor, Olfactory Sensor (advanced), Planetology Sensor Suite, PRIS Sensor, Recon
-Sensor (advanced), Satellite Uplink, Solar Power Unit (improved), Transceiver 5,000km
-(enhanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+Sensor (advanced), Satellite Uplink, Solar Power Unit (improved), Transceiver 5,000km (enhanced), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 **Toolsack Workbot**
 The Toolsack is a well-respected and widely used unit
@@ -12109,8 +12102,7 @@ heavy-lifting arms, saws, grinders, welding and cutting
 gear and a set of lighter arms for fine work.
 
 A modular bay on the back of the robot can be used
-for various applications including shaping logs, force-
-drying organic matter, sorting ore chunks or even
+for various applications including shaping logs, force-drying organic matter, sorting ore chunks or even
 small-scale fabrication work if optional machinery is
 installed. Workbots of this size are typically used for
 heavy tasks like construction or earthmoving, and can
@@ -12153,13 +12145,11 @@ starport, where they have been kept working by
 cannibalising other units.
 
 This robot runs on heavy-duty tracks optimised for
-smooth surfaces but they do have some rough-
-ground capability. This enables loading and
+smooth surfaces but they do have some rough-ground capability. This enables loading and
 unloading under frontier conditions away from a
 starport, which makes these robots popular with
 crews trading around backwaters. The body of the
-robot is a blocky, low flatbed with a pair of forklift-
-type probes on a movable platform. These slide
+robot is a blocky, low flatbed with a pair of forklift-type probes on a movable platform. These slide
 under a container and lift it, then slide back along
 
 Robot Hits Locomotion Speed TL Cost
@@ -12170,8 +12160,7 @@ Manipulators 2x (STR 9 DEX 6)
 Endurance 76 hours
 Traits Armour (+0), ATV, Large (+2)
 Programming Basic (service) (INT 4)
-Options Auditory Sensor, Drone Interface, Forklift (large), Spare Slots x17, Transceiver 500km
-(improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
+Options Auditory Sensor, Drone Interface, Forklift (large), Spare Slots x17, Transceiver 500km (improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
 
 the bed to deposit the cargo on the main carrying
 surface. A pair of light manipulator arms are used for
@@ -12208,8 +12197,7 @@ roles and their approach to robotics is shaped by that
 culture. The science and engineering of robotics is a
 female role and males consider robots to be unworthy
 of conducting male tasks. The only exceptions to this
-divide are medical robots who are considered non-
-combatants on the battlefield and worker robots who
+divide are medical robots who are considered non-combatants on the battlefield and worker robots who
 conduct tasks relegated to the lowest rungs of society,
 such as manual labour.
 
@@ -12267,9 +12255,7 @@ Manipulators 2x (STR 9 DEX 8) 1x (STR 6 DEX 9)
 Endurance 36 hours
 Traits Armour (+4), ATV, Flyer (Idle), IR/UV Vision
 Programming Very Advanced (INT 11)
-Options Auditory Sensor, Drone Interface, Electronics Toolkit (advanced), Mechanical Toolkit
-(advanced), PRIS Sensor, Starship Engineer Toolkit (advanced), Transceiver 500km
-(advanced), Voder Speaker, Wireless Data Link
+Options Auditory Sensor, Drone Interface, Electronics Toolkit (advanced), Mechanical Toolkit (advanced), PRIS Sensor, Starship Engineer Toolkit (advanced), Transceiver 500km (advanced), Voder Speaker, Wireless Data Link
 
 Khyeseir Mousebot
 These little drones are mobile food carriers, designed to
@@ -12348,8 +12334,7 @@ Endurance 130 hours
 Traits Armour (+4), ATV, Heightened Senses, IR/UV Vision
 Programming Advanced (INT 9)
 Options Agricultural Equipment (small), Auditory Sensor (broad spectrum), Autobar (enhanced),
-Autochef (enhanced), Domestic Cleaning Equipment (small), Drone Interface, Medikit
-(enhanced), Olfactory Sensor (advanced), PRIS Sensor, Storage Compartment (3 Slots
+Autochef (enhanced), Domestic Cleaning Equipment (small), Drone Interface, Medikit (enhanced), Olfactory Sensor (advanced), PRIS Sensor, Storage Compartment (3 Slots
 refrigerated), Transceiver 5km (improved), Wireless Data Link
 
 **Hazardous Environment Scout**
@@ -12368,8 +12353,7 @@ The scout has onboard mining and
 sampling equipment and can transmit
 data to an orbiting relay satellite or ship.
 It is too expensive to be disposable but
-generally does not survive past its three-
-year RTG operating half-life as it is sent into
+generally does not survive past its three-year RTG operating half-life as it is sent into
 environments too hazardous for biological
 beings to work.
 
@@ -12386,8 +12370,7 @@ Endurance 3-year half-life (144 hours)
 Traits Armour (+12), ATV, Heightened Senses, IR/UV Vision, Large (+1)
 Programming Advanced (INT 8)
 Options Auditory Sensor (broad spectrum), Corrosive Environment Protection, Drone Interface,
-Gecko Grippers, Insidious Environment Protection, Laser Designator, Mining Equipment
-(small), Navigation System (enhanced), Olfactory Sensor (improved), PRIS Sensor,
+Gecko Grippers, Insidious Environment Protection, Laser Designator, Mining Equipment (small), Navigation System (enhanced), Olfactory Sensor (improved), PRIS Sensor,
 Radiation Environment Protection (+750 rads), Recon Sensor (advanced), RTG Short
 Duration (basic), Satellite Uplink, Scientific Toolkit (enhanced), Self-Maintenance
 Enhancement (basic), Storage Compartment (1 Slot hazardous material), Transceiver
@@ -12407,12 +12390,9 @@ Manipulators 2x (STR 12 DEX 12), 2x (STR 12 DEX 9), 2x Manipulator legs (STR 12 
 Endurance 230 hours
 Traits Armour (+28), ATV, Heightened Senses, IR/UV Vision, Large (+1), Stealth (+4)
 Programming Advanced (INT 8)
-Options Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage: Olfactory
-(advanced), Camouflage; Visual (superior), Cutting Torches (advanced) x2, Drone Interface,
-Encryption Module, Fire Control Systems (enhanced) x2, Gecko Grippers, Olfactory Sensor
-(advanced), PRIS Sensors x6, Radiation Environment Protection (+750 Rads), Recon
-Sensor (advanced), Stealth (advanced), Tightbeam Communicator, Transceiver 500km
-(advanced), Vacuum Environment Protection, Voder Speaker (broad spectrum), Weapon
+Options Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage: Olfactory (advanced), Camouflage; Visual (superior), Cutting Torches (advanced) x2, Drone Interface,
+Encryption Module, Fire Control Systems (enhanced) x2, Gecko Grippers, Olfactory Sensor (advanced), PRIS Sensors x6, Radiation Environment Protection (+750 Rads), Recon
+Sensor (advanced), Stealth (advanced), Tightbeam Communicator, Transceiver 500km (advanced), Vacuum Environment Protection, Voder Speaker (broad spectrum), Weapon
 Mounts (small) x2, Weapon Mounts (medium) x2, Weapon Mount Autoloader (medium),
 Wireless Data Link
 
@@ -12525,8 +12505,7 @@ Transceiver 5km (improved), Voder Speaker, Wireless Data Link, Weapon Mount (med
 
 Opener-of-the-Way
 The Opener is a specialist unit without offensive
-weaponry, running into a target to deliver obstacle-
-clearing explosives. These include small charges
+weaponry, running into a target to deliver obstacle-clearing explosives. These include small charges
 dropped onto obstacles and spools of explosive wire,
 which are then detonated to clear a path through a
 minefield, barbed wire or similar obstacles. A path
@@ -12543,8 +12522,7 @@ Manipulators —
 Endurance 10 hours
 Traits Armour (+18), Flyer, (idle), IR Vision
 Programming Hunter/Killer (standard) (INT 4)
-Options Auditory Sensor, Fire Control System (basic), Thermal Sensor, Transceiver 5km
-(improved), Voder Speaker, Weapon Mount (small), Weapon Mount Autoloaders (small)
+Options Auditory Sensor, Fire Control System (basic), Thermal Sensor, Transceiver 5km (improved), Voder Speaker, Weapon Mount (small), Weapon Mount Autoloaders (small)
 x2, Wireless Data Link
 
 **Guardian-of-Glory**
@@ -12571,8 +12549,7 @@ Manipulators 2x (STR 11 DEX 7)
 Endurance 22 hours
 Traits Armour (+22), Flyer (idle), IR Vision, Large (+1)
 Programming Hunter/Killer (standard) (INT 4)
-Options Auditory Sensor, Fire Control Systems (basic) x2, Thermal Sensor, Transceiver 5km
-(improved), Voder Speaker, Weapon Mounts (medium) x2, Wireless Data Link
+Options Auditory Sensor, Fire Control Systems (basic) x2, Thermal Sensor, Transceiver 5km (improved), Voder Speaker, Weapon Mounts (medium) x2, Wireless Data Link
 
 Breaker-of-Lines
 The Breaker acts as an artillery unit. It has a rapid-fire
@@ -12595,8 +12572,7 @@ Voder Speaker, Weapon Mount (medium) Weapon Mount (vehicle), Weapon Mount
 Autoloader (vehicle), Wireless Data Link
 
 **Slayer-of-Shields**
-The Slayer is a direct-fire support unit. It has a rapid-
-fire stagger laser for close range defence but its main
+The Slayer is a direct-fire support unit. It has a rapid-fire stagger laser for close range defence but its main
 armament is a pair of Weapon-of-Destruction plasma
 guns carried on stubby arms alongside the main hull.
 The Slayer normally fires its weapons alternately,
@@ -12617,8 +12593,7 @@ Manipulators —
 Endurance 14 hours
 Traits Armour (+24), Flyer (idle), IR Vision, Large (+2)
 Programming Hunter/Killer (standard) (INT 4)
-Options Auditory Sensor, Fire Control Systems (basic) x2, Thermal Sensor, Transceiver 5km
-(improved), Voder Speaker, Weapon Mount (medium), Weapon Mount (heavy), Wireless
+Options Auditory Sensor, Fire Control Systems (basic) x2, Thermal Sensor, Transceiver 5km (improved), Voder Speaker, Weapon Mount (medium), Weapon Mount (heavy), Wireless
 Data Link
 
 Solomani
@@ -12698,8 +12673,7 @@ enjoy a tasty chargrilled meal on the march.
 **Confederation Army Mortarbot**
 Built on a larger chassis than the ammobot but still
 capable of fitting inside a grav APC or assault shuttle,
-the mortarbot is armed with a three-barrel breech-
-loaded smoothbore mortar on a limited-traverse
+the mortarbot is armed with a three-barrel breech-loaded smoothbore mortar on a limited-traverse
 mount. Elevation is more free but the weapon has
 to return to the vertical for reloading. The three
 barrels are arranged in a triangular configuration,
@@ -12751,8 +12725,7 @@ black, but available in a limited palette of colours, ROvER
 is an extremely heavily armoured Hunter/Killer robot
 with monofilament front claws and razor-sharp teeth that
 can crush bone or hold a target in place. Equipped with
-superior sensors and target designating lasers in its red-
-glowing PRIS eyes, ROvER can find and pinpoint its prey
+superior sensors and target designating lasers in its red-glowing PRIS eyes, ROvER can find and pinpoint its prey
 for ranged weapons systems to bring down.
 
 Robot Hits Locomotion Speed TL Cost
@@ -12764,8 +12737,7 @@ Endurance 130 hours
 Traits Armour (+40), ATV, Heightened Senses, IR/UV Vision
 Programming Hunter/Killer (tactical) (INT 4)
 Options Auditory Sensor (broad spectrum), Drone Interface, Fire Control System (improved), Laser
-Designator, Olfactory Sensor (advanced), PRIS Sensor, Recon Sensor (advanced), Self-
-Destruct System: Offensive, Self-Repairing Chassis, Transceiver 50km (enhanced), Vacuum
+Designator, Olfactory Sensor (advanced), PRIS Sensor, Recon Sensor (advanced), Self-Destruct System: Offensive, Self-Repairing Chassis, Transceiver 50km (enhanced), Vacuum
 Environment Protection, Voder Speaker, Weapon Mounts (small) x3, Wireless Data Link
 
 As a last resort ROvER is equipped with an offensive
@@ -12904,8 +12876,7 @@ Wireless Data Link
 
 **Maintenance Bot**
 The maintenance bot has a cylindrical body with two
-arms ending in complex tool-hands and a small wedge-
-shaped head turret, and relies on its grav system
+arms ending in complex tool-hands and a small wedge-shaped head turret, and relies on its grav system
 for mobility. Manufactured by Chiadle, it is the most
 common general-purpose repair and maintenance
 robot used in Zhodani space. It can be seen at
@@ -12968,8 +12939,7 @@ Endurance 36 (9) hours
 Traits Armour (+8), Flyer (high)
 Programming Advanced (INT 8)
 Options Auditory Sensor, Recon Sensor (improved), Spare Slots x6, Transceiver 5km (improved),
-Vacuum Environment Protection, Visual Spectrum Sensor, Voder Speaker, Weapon Mount
-(medium), Wireless Data Link
+Vacuum Environment Protection, Visual Spectrum Sensor, Voder Speaker, Weapon Mount (medium), Wireless Data Link
 
 **Heavy Warbot**
 This warbot is designed to hold its own in a
@@ -13013,8 +12983,7 @@ column to indicate the innate capabilities of the drone,
 usable by the operator.
 
 Courier Drone
-The Courier Drone is a low-cost mid tech operator-
-driven VTOL courier capable of transporting small
+The Courier Drone is a low-cost mid tech operator-driven VTOL courier capable of transporting small
 packages across regional distances. Equipped with two
 small arms to pick up and drop off packages, the drone
 can carry packages in a refrigerated compartment
@@ -13045,8 +13014,7 @@ mining platform with a large set of mining tools and a
 manipulator arm to aid positioning and extraction. The
 drone’s onboard thrusters can provide the equivalent
 of 1G acceleration for three hours but the drone
-generally relies on solar power and occasional station-
-keeping to operate at its target site. If operating
+generally relies on solar power and occasional station-keeping to operate at its target site. If operating
 without or far from sunlight, it can function for 18
 hours in full darkness before depleting its batteries.
 
@@ -13058,8 +13026,7 @@ Manipulators 1x (STR 12 DEX 7)
 Endurance 18 (5) hours + Solar Coating (enhanced)
 Traits Armour (+10), IR/UV Vision, Large (+2), Thruster (1G)
 Programming Drone (INT 0)
-Options Auditory Sensor, Drone Interface, Mining Equipment (large), PRIS Sensor, Solar Coating
-(enhanced), Transceiver 5,000km (enhanced), Vacuum Environment Protection, Wireless Data Link
+Options Auditory Sensor, Drone Interface, Mining Equipment (large), PRIS Sensor, Solar Coating (enhanced), Transceiver 5,000km (enhanced), Vacuum Environment Protection, Wireless Data Link
 
 The Mining Drone has the equivalent capabilities of
 that presented on page 40 of High Guard. Five of these
@@ -13121,8 +13088,7 @@ satellites, derelicts and other space debris and
 enables it to be positioned as a communications relay
 or observation satellite.
 
-Nominally powered for 48 hours or 12 hours of high-
-speed flight at 300 kilometres per hour, extendable
+Nominally powered for 48 hours or 12 hours of high-speed flight at 300 kilometres per hour, extendable
 solar panels allow the Probe Drone to operate for
 extended periods if engaged in only minimal flight. A
 Probe Drone left in orbit around a world can function
@@ -13140,8 +13106,7 @@ Traits Armour (+5), Flyer (high), Heightened Senses, IR Vision, Thruster (0.1G)
 Programming Drone (INT 0)
 Options Atmospheric Sensor, Auditory Sensor (broad spectrum), Autopilot (improved), Drone Interface,
 Light Intensifier Sensor (advanced), Navigation System (basic), Olfactory Sensor (basic), Recon
-Sensor (improved), Satellite Uplink, Solar Power Unit (basic), Spare Slot, Transceiver 5,000km
-(improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+Sensor (improved), Satellite Uplink, Solar Power Unit (basic), Spare Slot, Transceiver 5,000km (improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 Robot Hits Locomotion Speed TL Cost
 Advanced Probe Drone 22 Grav, Thruster — 12 Cr160000
@@ -13152,9 +13117,7 @@ Endurance 72 (18) hours + 25-year half-life orbital solar panels
 Traits Armour (+7), Flyer (high), Heightened Senses, IR/UV Vision, Thruster (0.1G)
 Programming Drone (INT 0)
 Options Atmospheric Sensor, Auditory Sensor (broad spectrum), Autopilot (enhanced), Drone
-Interface, Environment Processor, Navigation System (improved), Olfactory Sensor
-(advanced), PRIS Sensor, Recon Sensor (advanced), Satellite Uplink, Solar Power Unit
-(improved), Transceiver 5,000km (enhanced), Vacuum Environment Protection, Voder
+Interface, Environment Processor, Navigation System (improved), Olfactory Sensor (advanced), PRIS Sensor, Recon Sensor (advanced), Satellite Uplink, Solar Power Unit (improved), Transceiver 5,000km (enhanced), Vacuum Environment Protection, Voder
 Speaker, Wireless Data Link
 
 Probe Drone, Advanced
@@ -13167,8 +13130,7 @@ harsh vacuum are obvious visual differences.
 
 Repair Drones
 Repair Drones come in a variety of sizes, from giant
-extra-large units found mostly on capital ships to extra-
-small robots optimised for crawling through narrow
+extra-large units found mostly on capital ships to extra-small robots optimised for crawling through narrow
 conduits to fix faults. On smaller vessels, one ton of
 Repair Drones usually includes two medium, three
 small and three extra-small drones, although other
@@ -13203,8 +13165,7 @@ Endurance 130 hours
 Traits Armour (+7), ATV, IR Vision
 Programming Primitive (INT 1)
 Options Auditory Sensor, Cutting torch (improved), Drone Interface, Fire Extinguisher, Gecko
-Grippers, Light Intensifier Sensor (advanced), Spare Slots x4, Starship Engineer Toolkit
-(improved), Storage Compartment (2 Slots), Transceiver 5km (improved), Vacuum
+Grippers, Light Intensifier Sensor (advanced), Spare Slots x4, Starship Engineer Toolkit (improved), Storage Compartment (2 Slots), Transceiver 5km (improved), Vacuum
 Environment Protection, Voder Speaker, Wireless Data Link
 
 **Repair Drone, Small**
@@ -13215,8 +13176,7 @@ modified to act as manipulators it is often called the
 by uplifted Apes and generally not used in or near
 Solomani space. With an electronics toolkit fitted, it
 is not as adept as a medium drone with mechanical
-repairs but can access machinery difficult for a human-
-sized being to reach. The drone is still large enough to
+repairs but can access machinery difficult for a human-sized being to reach. The drone is still large enough to
 handle mechanical tools designed for full-sized hands.
 
 Robot Hits Locomotion Speed TL Cost
@@ -13281,12 +13241,10 @@ Programming Primitive (INT 1)
 Options Auditory Sensor, Construction Equipment (medium), Cutting torch (improved), Drone
 Interface, Fire Extinguisher, Gecko Grippers, Industrial Cleaning Equipment (small), Light
 Intensifier Sensor (advanced), Radiation Environment Protection (+500 rads), Spare Slots
-x8, Starship Engineer Toolkit (improved), Storage Compartment (5 Slots), Transceiver 5km
-(improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+x8, Starship Engineer Toolkit (improved), Storage Compartment (5 Slots), Transceiver 5km (improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 **Repair Drone, Extra-Large**
-Occupying two full tons of storage space, the extra-
-large drone is normally found only on capital ships.
+Occupying two full tons of storage space, the extra-large drone is normally found only on capital ships.
 Designed to clear and reconstruct major damage,
 the hulking drone does not fit through standard
 ship iris valves and hatches, and is normally
@@ -13327,8 +13285,7 @@ Manipulators —
 Endurance 24 (6) hours
 Traits Armour (+2), Flyer (medium), IR Vision, Small (-4)
 Programming Drone (INT 0)
-Options Auditory Sensor, Drone Interface, Recon Sensor (basic), Thermal Sensor, Transceiver 5km
-(basic), Visual Spectrum Sensor
+Options Auditory Sensor, Drone Interface, Recon Sensor (basic), Thermal Sensor, Transceiver 5km (basic), Visual Spectrum Sensor
 
 be directly controlled using a selected waypoint system
 that requires no special skill beyond a familiarisation
@@ -13399,8 +13356,7 @@ Manipulators —
 Endurance 72 hours
 Traits ATV, Heightened Senses, Small (-4)
 Programming Primitive (homing) (INT 1)
-Options Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage: Olfactory
-(improved), Camouflage: Visual (enhanced), Drone Interface, Gecko Grippers, Injector Needle,
+Options Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage: Olfactory (improved), Camouflage: Visual (enhanced), Drone Interface, Gecko Grippers, Injector Needle,
 Light Intensifier Sensor (basic), Transceiver 50km (enhanced), Visual Spectrum Sensor,
 Wireless Data Link
 
@@ -13476,8 +13432,7 @@ Endurance 65 hours
 Traits Flyer (idle), Heightened Senses, IR/UV Vision, Small (-4)
 Programming Basic (recon) (INT 4)
 Options Auditory Sensor (broad spectrum), Camouflage: Visual (enhanced), Drone Interface,
-Encryption Module, Olfactory Sensor (advanced), PRIS Sensor, Transceiver 500km
-(enhanced),Vacuum Environment Protection, Wireless Data Link
+Encryption Module, Olfactory Sensor (advanced), PRIS Sensor, Transceiver 500km (enhanced),Vacuum Environment Protection, Wireless Data Link
 
 **Popcorn Drone**
 A popcorn drone is an assassin weapon usually
@@ -13546,8 +13501,7 @@ Programming Hunter/Killer (standard) (INT 4)
 Options Auditory Sensor (broad spectrum), Drone Interface, Injector Needle, Microbot Offensive Self-Destruct,
 Transceiver 50km (enhanced), Thermal Sensor, Visual Spectrum Sensor, Wireless Data Link
 
-controller but are most often used as a ‘release-and-
-forget’ weapon with a single designated target. When
+controller but are most often used as a ‘release-and-forget’ weapon with a single designated target. When
 operating independently, they are unable to coordinate
 their attacks but a Cr20000 version with a tactical
 package can coordinate with others similarly equipped.
@@ -13609,8 +13563,7 @@ Manipulators 2x (STR 0 DEX 7)
 Endurance 173 hours + Solar Coating (enhanced)
 Traits Heightened Senses, ATV, IR Vision, Small (-4)
 Programming Basic (recon) (INT 4)
-Options Auditory Sensor (broad spectrum), Drone Interface, Gecko Grippers, Olfactory Sensor
-(improved), PRIS Sensor, Solar Coating (enhanced), Transceiver 500km (improved),
+Options Auditory Sensor (broad spectrum), Drone Interface, Gecko Grippers, Olfactory Sensor (improved), PRIS Sensor, Solar Coating (enhanced), Transceiver 500km (improved),
 Vacuum Environment Protection, Wireless Data Link
 
 ## N ANOROBOTS
@@ -13685,8 +13638,7 @@ Nano Queen
 
 8 Walker 3m 14 Cr400000
 
-Skills Athletics (endurance) 2, Electronics (remote ops) 2, Profession (construction) 2, Profession
-(fabrication) 2
+Skills Athletics (endurance) 2, Electronics (remote ops) 2, Profession (construction) 2, Profession (fabrication) 2
 Attacks —
 Manipulators 2x (STR 6 DEX 9)
 Endurance 778 hours + Solar Coating (advanced)
@@ -13799,8 +13751,7 @@ Manipulators 2x (STR 12 DEX 12)
 Endurance 216 hours
 Traits ATV, Heightened Senses, IR/UV Vision
 Programming Very Advanced (INT 9)
-Options Android (enhanced), Auditory Sensor (broad spectrum), Drone Interface, Navigation System
-(basic), Olfactory Sensor (basic), PRIS Sensor, Recon Sensor (enhanced), Self-Repairing
+Options Android (enhanced), Auditory Sensor (broad spectrum), Drone Interface, Navigation System (basic), Olfactory Sensor (basic), PRIS Sensor, Recon Sensor (enhanced), Self-Repairing
 Chassis, Spare Slots x4, Transceiver 500km (enhanced), Voder Speaker, Wireless Data Link
 
 **Android, Superior**
@@ -13831,8 +13782,7 @@ Manipulators 2x (STR 12 DEX 12)
 Endurance 5 years RTG half-life (130 hours)
 Traits ATV, Heightened Senses
 Programming Self-aware (INT 13)
-Options Android (superior), Auditory Sensor, Environment Processor, RTG Short Duration
-(advanced), Spare Slots x2, Transceiver 5km (improved), Visual Spectrum Sensor, Voder
+Options Android (superior), Auditory Sensor, Environment Processor, RTG Short Duration (advanced), Spare Slots x2, Transceiver 5km (improved), Visual Spectrum Sensor, Voder
 Speaker (broad spectrum), Wireless Data Link
 
 **Body Double**
@@ -13847,8 +13797,7 @@ designed to protect a target from assassination or
 abduction and can switch into a combat mode to
 protect themselves and fend off an attack. If abducted,
 they are programmed to self-destruct, igniting a
-powerful charge that also detonates their long-
-duration power packs.
+powerful charge that also detonates their long-duration power packs.
 
 Body Doubles are illegal or restricted on many worlds,
 although those who can afford them often have ways
@@ -13886,8 +13835,7 @@ possessed by the original. The robot’s endurance
 allows for more than 36 days of continuous operation
 or nearly two months if emulating ‘sleep’; this is
 sufficient in most technological areas as the robot can
-surreptitiously recharge but robots intended for long-
-term field use require RTG power units, which vastly
+surreptitiously recharge but robots intended for long-term field use require RTG power units, which vastly
 increase the cost of the Body Double.
 
 Robot Hits Locomotion Speed TL Cost
@@ -13898,8 +13846,7 @@ Manipulators 2x (STR 12 DEX 12)
 Endurance 864 hours
 Traits Armour (+6), ATV
 Programming Very Advanced (INT 11)
-Options Android (advanced), Auditory Sensor, Self-Destruct System: Offensive, Transceiver 5km
-(improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
+Options Android (advanced), Auditory Sensor, Self-Destruct System: Offensive, Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
 
 **Ceiling Cat**
 A robotics exhibition concept model from the Shinku
@@ -13909,8 +13856,7 @@ Cat That Walks Up Walls’ is an extremely realistic android
 cat. Its tiny front paws and prehensile tail are all dexterous
 manipulators and the gecko pads on all four paws allow
 it to climb not only up walls but also across ceilings. It
-requires a Very Advanced Brain to control its natural-
-looking body and give it the quickness and sensory skills
+requires a Very Advanced Brain to control its natural-looking body and give it the quickness and sensory skills
 
 Robot Hits Locomotion Speed TL Cost
 Ceiling Cat 4 Walker 8m 15 Cr360000
@@ -13929,8 +13875,7 @@ owners. Available in dozens of ‘breeds’ and with custom
 Zero-Slot options beyond the standard vacuum-proofing
 and ‘sticky’ paws, a Ceiling Cat can run up to MCr1 or
 more. The robot tends to develop a strong attachment
-to its owner and its cat-like personality makes second-
-hand Ceiling Cats finicky purchases. Although SURD
+to its owner and its cat-like personality makes second-hand Ceiling Cats finicky purchases. Although SURD
 offers a programming reset service for ‘only’ Cr20000, it
 sometimes does not take.
 
@@ -14160,8 +14105,7 @@ Manipulators —
 Endurance 86 hours
 Traits Armour (+0), ATV, Large (+1)
 Programming Basic (horse) (INT 4)
-Options Android (improved), Auditory Sensor, Drone Interface, Spare Slots x16, Transceiver 5km
-(improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
+Options Android (improved), Auditory Sensor, Drone Interface, Spare Slots x16, Transceiver 5km (improved), Visual Spectrum Sensor, Voder Speaker, Wireless Data Link
 
 The Synthetic Horse is an old android design with many
 variations available for sale and even short-term lease
@@ -14221,8 +14165,7 @@ Endurance As biological being
 Traits Armour (+0), ATV
 Programming Advanced (INT 8)
 Options Auditory Sensor, Biological Robot (improved), Drone Interface, Olfactory Sensor (basic),
-Spare Slots x4, Transceiver 500km (enhanced), Visual Spectrum Sensor, Voder Speaker
-(broad spectrum), Wireless Data Link
+Spare Slots x4, Transceiver 500km (enhanced), Visual Spectrum Sensor, Voder Speaker (broad spectrum), Wireless Data Link
 
 **Impersonator**
 Ever want to be some else? The Impersonator
@@ -14238,8 +14181,7 @@ not operating under avatar or drone control, the
 Impersonator’s Basic robot brain allows it to
 follow basic instructions, feed and clean itself,
 but has no special skills. The price indicated for
-the Impersonator is for a standard clone, quick-
-grown from a template or sample. Custom clones
+the Impersonator is for a standard clone, quick-grown from a template or sample. Custom clones
 with exceptional attributes or created genomes
 might be more expensive. Batch purchases of
 the same model may reduce costs by up to 25%.
@@ -14279,8 +14221,7 @@ biological robot, as working with the already deceased
 can be challenging. However, working with functional
 bodies of brain-dead individuals, ‘snatching’ living
 beings or applying a rather macabre form of capital
-punishment are ways to acquire a living being ripe
-(or at least ready) for robotic brain implantation. The
+punishment are ways to acquire a living being ripe (or at least ready) for robotic brain implantation. The
 procedure is still complicated, feeding cybernetic
 nerves into biological nerves, and often benefits from
 the skills of a cyberneticist, but as early as TL11 a
@@ -14409,8 +14350,7 @@ Manipulators —
 Endurance Indefinite, 36 hours independent
 Traits Flyer (idle), IR/UV Vision, Small (-4)
 Programming none
-Options Advanced Eye (PRIS), Detachable, Grav-propelled, Invisitech, Natural Looking (TL14), Remotely-
-operated, Ruggedised, Self-repairing, Transceiver 50km, Visual Interface, Wireless Data Link
+Options Advanced Eye (PRIS), Detachable, Grav-propelled, Invisitech, Natural Looking (TL14), Remotely-operated, Ruggedised, Self-repairing, Transceiver 50km, Visual Interface, Wireless Data Link
 
 **Meatbox Pilot**
 An experimental project created a box containing
@@ -14632,8 +14572,7 @@ Endurance 108 hours
 Traits Armour (+4), ATV, IR Vision, Small (-4)
 Programming Advanced (INT 8)
 Options Auditory Sensor, Avatar Receiver, Camouflage: Visual (superior), Drone Interface, Gecko
-Grippers, Light Intensifier Sensor (advanced), Olfactory Sensor (basic), Transceiver 5km
-(improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
+Grippers, Light Intensifier Sensor (advanced), Olfactory Sensor (basic), Transceiver 5km (improved), Vacuum Environment Protection, Voder Speaker, Wireless Data Link
 
 ## C LONES
 
@@ -14652,12 +14591,12 @@ not property. At least in theory.
 **BLACKSAND WIDOWBLACKSAND WIDOW**
 
 TRAITS SKILLS
+
+
 STR 10 INT 7 Athletics (dexterity) 2,
 Deception 1, Diplomat 0,
 Electronics (comms) 1,
-Flyer (grav) 2, Gun Combat
-(energy) 3, Gun Combat
-(slug) 3, Investigate 2,
+Flyer (grav) 2, Gun Combat (energy) 3, Gun Combat (slug) 3, Investigate 2,
 Medic 1, Melee (unarmed)
 3, Persuade 1, Steward 1,
 Streetwise 2
@@ -14665,14 +14604,14 @@ Streetwise 2
 DEX 14 EDU 10
 END 12 SOC 9
 
-WEAPONS Gauss Rifle (4D), Laser Pistol
-(3D+3), Stunner (3D, Stun
-ARMOUR Lightweight Polycarapace Armour
-(+12), Subdermal Armour (+3)
+WEAPONS Gauss Rifle (4D), Laser Pistol (3D+3), Stunner (3D, Stun
+ARMOUR Lightweight Polycarapace Armour (+12), Subdermal Armour (+3)
 EQUIPMENT Enhanced Vision (TL14), Neural
 Comm (TL14)
 
 TL COST
+
+
 15 CR790000 (with augments,
 but without external armour or
 weapons)
@@ -14680,8 +14619,7 @@ weapons)
 Blacksand Widow
 The Blacksand Widow is a 12x force grown clone,
 removed from the vat at an apparent age of six and
-creche-trained for 16 years to become an elite trouble-
-shooter for the Pirate Lords of Theev. A Widow is highly
+creche-trained for 16 years to become an elite trouble-shooter for the Pirate Lords of Theev. A Widow is highly
 trained and equipped within an embedded neural
 comm and cybernetic eyes able to see into the infrared
 and ultraviolet spectrums, as well as subdermal armour
@@ -14698,8 +14636,7 @@ skills and augmentation to the Blacksand Widows.
 **Tandi Clone**
 An entertainer and celebrity famous enough to
 go by one name, Tandi’s death by strangulation
-at age 40 was either suicide, accident or
-(rumoured) murder, and only added to her fame.
+at age 40 was either suicide, accident or (rumoured) murder, and only added to her fame.
 Her will stipulated that her genome be available
 for sale by her estate for implantation and
 cloning. The will dictated that all Tandi Clones
@@ -14717,8 +14654,7 @@ from mild bipolar disorder.
 
 Bootleg Tandi clones, likely taken from samples
 of clones instead of the original, are often
-available for reduced rates and might be force-
-grown. These bootleg copies generally have all
+available for reduced rates and might be force-grown. These bootleg copies generally have all
 characteristics reduced by -1 and often suffer
 from more severe emotional problems.
 
@@ -14777,7 +14713,7 @@ Missile (Chassis) 12 Thruster (x2) — 8 Cr24000
 Skills Athletics (endurance) 2, Weapon 1
 Attacks 4-Slot warhead or other payload equivalent to a Size 2 robot
 Manipulators —
-Endurance 6 (2) hours
+Endurance6 (2) hours
 Traits Armour (+2), IR Vision, Small (-1), Thruster (10G)
 Programming Primitive (homing) (INT 1)
 Options Drone Interface, Thermal Sensor, Transceiver 5km (improved), Vacuum Environment
@@ -14804,8 +14740,7 @@ reconnaissance satellite rated for up to a decade
 of silent service with a self-maintenance option.
 Stealth-coated to shield it against visual and
 electronic detection, the small robot is the size of a
-missile warhead assembly. When extended, its light-
-absorbing solar panels provide the recon satellite
+missile warhead assembly. When extended, its light-absorbing solar panels provide the recon satellite
 with unlimited power out to 2 AU from a standard
 Sol star and to twice that distance with degraded
 resolution on some sensors.
@@ -14827,8 +14762,7 @@ Traits Armour (+4), Small (-3), Heightened Senses, IR/UV Vision, Stealth (+2)
 Programming Basic (recon) (INT 4)
 Options Camouflage: Visual (advanced), Drone Interface, Encryption Module, Environment Processor,
 PRIS Sensor, Recon Sensor (advanced), Self-Maintenance Enhancement (basic), Solar
-Power Unit (basic), Stealth (improved), Tightbeam Communicator, Transceiver 5,000km
-(enhanced), Vacuum Environment Protection, Wireless Data Link
+Power Unit (basic), Stealth (improved), Tightbeam Communicator, Transceiver 5,000km (enhanced), Vacuum Environment Protection, Wireless Data Link
 
 devices can relay information across a solar system if
 necessary and provide high-speed burst transmissions
@@ -14841,8 +14775,7 @@ The satellite is delivered via a standard missile bus.
 A single torpedo can deliver four EyeSpy units.
 Its delivery mechanism performs an avoidance
 manoeuvre to prevent the discarded missile stage
-from being detected near the EyeSpy. The Basic
-(recon) robot brain allows the EyeSpy to adapt to
+from being detected near the EyeSpy. The Basic (recon) robot brain allows the EyeSpy to adapt to
 whatever it detects, making its own determination of
 the value of observing targets unless it has specific
 instructions to the contrary. It can store a year’s worth
@@ -14930,8 +14863,7 @@ Manipulators —
 Endurance 216 hours
 Traits Armour (+3), Small (-4),
 Programming Hunter/Killer (tactical) (INT 4)
-Options Auditory Sensor, Autopilot (enhanced), Drone Interface, Fire Control System
-(enhanced), Navigation System (improved),Transceiver 500km (improved), Voder
+Options Auditory Sensor, Autopilot (enhanced), Drone Interface, Fire Control System (enhanced), Navigation System (improved),Transceiver 500km (improved), Voder
 Speaker, Wireless Data Link
 
 Combat Vehicle Brain, Advanced
@@ -14976,8 +14908,7 @@ Endurance 324 hours
 Traits Armour (+4), Small (-1)
 Programming Advanced (INT 9)
 Options Autobar (improved), Autochef (improved), Autopilot (enhanced), Auditory Sensor Drone
-Interface, External Power, Holographic Projector, Navigation System (improved), Video Screen
-(advanced) Storage Compartment (1 Slot refrigerated), Transceiver 5,000km (enhanced),
+Interface, External Power, Holographic Projector, Navigation System (improved), Video Screen (advanced) Storage Compartment (1 Slot refrigerated), Transceiver 5,000km (enhanced),
 Voder Speaker, Wireless Data Link
 
 **Tour Guide**
@@ -15034,8 +14965,7 @@ to Cr80000 and at TL12 it costs only Cr40000.
 
 Robot Hits Locomotion Speed TL Cost
 Alpha 1 None 0m 10 Cr130000
-Skills Admin 0, Electronics (remote ops) 1, Engineer (j-drive) 1, Gunner (turret) 1, Mechanic 0, Pilot
-(spacecraft) 1
+Skills Admin 0, Electronics (remote ops) 1, Engineer (j-drive) 1, Gunner (turret) 1, Mechanic 0, Pilot (spacecraft) 1
 Attacks —
 Manipulators —
 Endurance Unlimited ship’s power (216 hours)
@@ -15064,8 +14994,7 @@ the first decreases checks for every task by DM-1.
 
 Robot Hits Locomotion Speed TL Cost
 Brian 12 — 0m 12 MCr1
-Skills Admin 1, Advocate 1, Astrogation 1, Electronics (all) 2, Engineer (jump) 2, Gunner
-(turret) 1, Mechanic 2, Navigation 2, Pilot (spacecraft) 2, Tactics (naval) 1
+Skills Admin 1, Advocate 1, Astrogation 1, Electronics (all) 2, Engineer (jump) 2, Gunner (turret) 1, Mechanic 2, Navigation 2, Pilot (spacecraft) 2, Tactics (naval) 1
 Attacks —
 Manipulators —
 Endurance Unlimited ship’s power (324 hours)
@@ -15091,16 +15020,14 @@ on jump survivability for an entirely automated
 ship usually prevents the Omega from operating a
 crewless starship but it can run an entire ship with just
 a moderately capable conscious sentient aboard to
-look over the jump calculations and sit out the week-
-long jump. The Omega’s major drawback – besides
+look over the jump calculations and sit out the week-long jump. The Omega’s major drawback – besides
 cost – is its rather smug manner, a side effect of its
 extraordinary intelligence and wide set of skills.
 
 Robot Hits Locomotion Speed TL Cost
 Omega 12 — 0m 15 MCr10
 Skills Admin 3, Advocate 3, Astrogation 4, Broker 3, Carouse 3, Diplomat 3, Electronics (all) 4,
-Engineer (all) 4, Gunner (turret) 4, Language (all) 3, Mechanic 3, Medic 3, Persuade 3, Pilot
-(spacecraft) 4, Science (all) 3, Steward 3, Tactics (naval) 3
+Engineer (all) 4, Gunner (turret) 4, Language (all) 3, Mechanic 3, Medic 3, Persuade 3, Pilot (spacecraft) 4, Science (all) 3, Steward 3, Tactics (naval) 3
 Attacks —
 Manipulators —
 Endurance Unlimited ship’s power (432 hours)
@@ -15174,11 +15101,8 @@ Manipulators 2x (STR 15 DEX 15)
 Endurance 259 hours
 Traits Armour (+10), ATV, Heightened Senses, Invisible, IR/UV Vision
 Programming Conscious (INT 18)
-Options Active Camouflage, Android (superior), Auditory Sensor (broad spectrum), Camouflage: Audible
-(advanced), Camouflage: Olfactory (advanced), Camouflage: Visual (superior), Gecko Grippers,
-PRIS Sensor, Radiation Environment Protection (+900 rads), Self-Maintenance Enhancement
-(advanced), Transceiver 5,000km (advanced), Vacuum Environment Protection, Voder Speaker
-(broad spectrum), Wireless Data Link
+Options Active Camouflage, Android (superior), Auditory Sensor (broad spectrum), Camouflage: Audible (advanced), Camouflage: Olfactory (advanced), Camouflage: Visual (superior), Gecko Grippers,
+PRIS Sensor, Radiation Environment Protection (+900 rads), Self-Maintenance Enhancement (advanced), Transceiver 5,000km (advanced), Vacuum Environment Protection, Voder Speaker (broad spectrum), Wireless Data Link
 
 Robot Hits Locomotion Speed TL Cost
 Ultra 32 Grav, Walker 9m 18 MCr33
@@ -15190,8 +15114,7 @@ Traits Armour (+25), ATV, Flyer (high), Heightened Senses, Invisible, IR/UV Visi
 Programming Conscious (INT 18)
 Options Active Camouflage, Auditory Sensor (broad spectrum), Camouflage: Audible (advanced),
 Camouflage: Olfactory (advanced), Camouflage: Visual (superior), Fabrication Chamber (4kg
-advanced), Gecko Grippers, PRIS Sensor, Repairing Chassis, Self-Maintenance Enhancement
-(advanced), Self- Radiation Environment Protection (+900 rads), Solar Coating (advanced),
+advanced), Gecko Grippers, PRIS Sensor, Repairing Chassis, Self-Maintenance Enhancement (advanced), Self- Radiation Environment Protection (+900 rads), Solar Coating (advanced),
 Transceiver 5,000km (advanced), Vacuum Environment Protection, Voder Speaker (broad
 spectrum), Wireless Data Link
 
@@ -15690,10 +15613,8 @@ SkySpotter ................................................................ 213
 Slayer-of-Shields ...................................................... 197
 Smart Probe Bot ....................................................... 186
 Solar Coating .............................................................. 33
-Solar Power Unit......................................................... 56
-(spare bandwidth) ....................................................... 75
-Spare Slots ................................................................ 114
-(spare zero bandwidth = 1) ......................................... 75
+Solar Power Unit......................................................... 56 (spare bandwidth) ....................................................... 75
+Spare Slots ................................................................ 114 (spare zero bandwidth = 1) ......................................... 75
 Special Delivery Servitor (SDS)................................ 185
 Speciality Firms ............................................................ 4
 Spider Bomb ............................................................. 141

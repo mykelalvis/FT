@@ -54,6 +54,8 @@ However, Sabitha has grown worse and may die soon. If she does then the players 
 
  
 
+
+
 Hieronymous is a system with two habitable worlds. One is populated, the other is dry and desolate.
 
 The system is interdicted. Ships requiring to refuel from the Gas Giant may do so, but insystem travelling is forbidden.
@@ -62,11 +64,15 @@ Interdiction:
 
  
 
+
+
 This is the practice of isolating a single world from the rest of the Imperium. There are a number of methods of interdiction, all involving an orbital presence of some kind. These can range from several huge, heavily armed, automated satellites to a full naval presence.
 
 Lint Plants:
 
  
+
+
 
 Lint plants (typified by [Ponsonby's Velvet](http://wiki.travellerrpg.com/Ponsonby's_Velvet)) reproduce by means of spores which drop away from the plant. Blown by the wind, they will eventually find a source of nutrients—often in the most unlikely of places—and start to grow. This can become a hazard, especially if the plant feeds off the lubricant used by delicate machinery.
 
@@ -77,5 +83,7 @@ There are several types known to the Imperium, found upon a variety of worlds.
 [Rule of Terra](http://wiki.travellerrpg.com/Rule_of_Terra):
 
  
+
+
 
 A violent pro-Solomani terrorist organization.

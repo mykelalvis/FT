@@ -16,8 +16,7 @@ The society has openly imperialist aspirations and is working to create a [[Fede
 
 [[Federation of Arden|The Federation]] is particularly influential on [[Caloran]] and on [[Zircon]] and [[Utoland]] in the [[Jewell subsector]].
 
-On [[Caloran]], a steady takeover of agricultural-related businesses is underway but, rather than targeting the farms and landowners themselves, the Federation is insinuating itself into the food-processing industry
-(such as it is) and edging out local operators with machinery and techniques from Arden. The farmers can continue to raise crops as before but what passes through the port for export is increasingly under the control of the Federation.
+On [[Caloran]], a steady takeover of agricultural-related businesses is underway but, rather than targeting the farms and landowners themselves, the Federation is insinuating itself into the food-processing industry (such as it is) and edging out local operators with machinery and techniques from Arden. The farmers can continue to raise crops as before but what passes through the port for export is increasingly under the control of the Federation.
 
 Both [[Zircon]] and [[Utoland]] are rated as 'non-industrial' by the [[Imperial Interstellar Scout Service]] but [[Arden]]-backed industrial concerns, operated by personnel brought in for the purpose, are operating on both worlds. The aim is to corner the market in industrial production and make the planetary economies dependent on Arden-owned factories. Thus far, the strategy seems to be paying off.
 

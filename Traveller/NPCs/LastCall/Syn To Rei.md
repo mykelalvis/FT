@@ -26,5 +26,5 @@ Weapons: Shotgun (4D), Rapid-Fire Machinegun (3D, Auto 4/8), Club (2D)
 Armor: Ill-fitting and overly shiny Protec Suit (+4)
 Augments: TL11 Combat Arm (STR 15, Protection +4)
 
-SPECIES GENDER AGE
+
 Vilani Male 38

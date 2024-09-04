@@ -3,12 +3,12 @@ date created: 2024-07-01 11:59
 date updated: 2024-07-23 08:05
 tags:
   - Traveller-Adventures
-  - UNFORMATTED
+  - NotCanon
 ---
 
-![[CasAss-COVER.jpg]]
+![[CasAss-COVER.jpg|200]]
 
-# INTRODUCTION
+# Introduction
 
 ## The City of Aliens
 
@@ -112,7 +112,7 @@ Survival skill checks in the desert suffer a Bane due to the extreme hardships o
 
 ![[CasAss-037.jpg]]
 
-# COMING TO CASTROBANCLA
+# Coming to Castrobancla
 
 ## Arrivals and Departures
 
@@ -169,8 +169,9 @@ In contrast to arrival, the only way off Amarja alive is to book a commercial sm
 There is one other way off Amarja, and that is in a box. Sometimes. The desert has lots of hungry scavengers, and there is a thriving [[#Dvora]] population in town.
 
 ![[CasAss-049.jpg]]
+[[CasAss-049.jpg|The capital, Preev Theenas]]
 
-The capital, Preev Theenas
+
 
 ### Entering Castrobancla
 
@@ -223,7 +224,7 @@ Tucs have some natural disadvantages. They are unarmed, unarmored, exposed, slow
 
 But they are reliable, and they are cheap; and the drivers take their passengers directly to where they need to go, no questions asked and no extra charges for going the long way around.
 
-# WITHIN CASTROBANCLA
+# Within Castrobancla
 
 ## City Wards
 
@@ -622,7 +623,7 @@ This table is for casual encounters with the ordinary citizens of Castrobancla. 
 |  2D | Type Of Encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  2  | Rowdy, noisy mob of mixed Catrobanclan alien partygoers. Roll on [[#Partygoers Table]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|  3  | Some way up the road, two ground vehicles enter a conflict. One ground vehicle cuts up in front of the other and screeches to a halt in front of the second ground vehicle. Four armed thugs emerge from inside the car and aim at the car they just stopped.  And then [[#The Kubotaur in a suit]] (KIS) just walks up to the gunmen and, in three combat rounds, disables the gunmen with precise Body Pistol shots to the knees.  A Simple (2+) Streetwise roll confirms that they just witnessed a living urban legend – a mysterious guardian angel protecting the city. Roll on the [[#KIS Encounter Table]] |
+|  3  | Some way up the road, two ground vehicles enter a conflict. One ground vehicle cuts up in front of the other and screeches to a halt in front of the second ground vehicle. Four armed thugs emerge from inside the car and aim at the car they just stopped.  And then [[#^KIS\|the Kubotaur in a suit]] just walks up to the gunmen and, in three combat rounds, disables the gunmen with precise Body Pistol shots to the knees.  A Simple (2+) Streetwise roll confirms that they just witnessed a living urban legend – a mysterious guardian angel protecting the city. Roll on the [[#KIS Encounter Table]] |
 |  4  | The Patron, a rich Merchant with off-world connections, is dying, and he asks the Travellers to get him to Watertown. His bid to become a medical Cheval just came through, and he has been accepted for implantation.  [[#Medical Cheval Table]]                                                                                                                                                                                                                                                                                                                                                                  |
 |  5  | A family of shopkeepers are attempting to drive out some poisonous sandsnakes which have sought shelter in the store, drawn there by the shade and the scent of plentiful prey. Roll on the  [[#Sandsnake Table]]                                                                                                                                                                                                                                                                                                                                                                                                  |
 |  6  | The Travellers are tailed by an investigative [[#Pelacur]] photojournalist. She is youthful, energetic and lacks Recon and Stealth skills, suffering massive untrained penalties in both skills.  Roll on the [[#Photojournalist Table]]                                                                                                                                                                                                                                                                                                                                                                           |
@@ -766,15 +767,13 @@ Sandsnake venom is haemotoxic; it destroys clotting agents in the blood.
 | --------------- | -------------------- | :----: | :--------: |
 | Sandsnake Venom | Very Difficult (12+) |   3D   | 1D minutes |
 
-![[CasAss-106.jpg]]
 
-#### The Kubotaur In The Suit
-
-The urban legend has persisted since the earliest days on Old Terra, in a city called New York: sometimes, a mysterious ex-spy takes on the role of the city's guardian, helping out ordinary people in trouble. According to the urban legend, at one time the city's guardian used to have to take out classified advertisements in the local broadsheets, proclaiming himself an “Equaliser” – and as humans reached the stars, the role diversified and became an equal opportunity job. Males and females; trans individuals; alien and human alike became guardians of the cities they lived in.
-
-Castrobancla's suited guardian angel happens to be a dapper Kubotaur.
-
-There is another rumor, that the guardian no longer needs to take out classified advertisements any more. Some higher angel is now looking after him – an artificial superintelligence, no less, monitoring every surveillance device, smartphone, comm unit and CCTV camera in town. And sometimes, that AI likes to drive around this vigilante with a fine love of theatre, housed inside an extraordinary black TL 15 ground car - that talks.
+> [!info]- The Kubotaur In The Suit ^KIS
+> ![[CasAss-106.jpg|100]]
+> The urban legend has persisted since the earliest days on Old Terra, in a city called New York: sometimes, a mysterious ex-spy takes on the role of the city's guardian, helping out ordinary people in trouble. According to the urban legend, at one time the city's guardian used to have to take out classified advertisements in the local broadsheets, proclaiming himself an “Equaliser” – and as humans reached the stars, the role diversified and became an equal opportunity job. Males and females; trans individuals; alien and human alike became guardians of the cities they lived in.
+> Castrobancla's suited guardian angel happens to be a dapper Kubotaur.
+> 
+> There is another rumor, that the guardian no longer needs to take out classified advertisements any more. Some higher angel is now looking after him – an artificial superintelligence, no less, monitoring every surveillance device, smartphone, comm unit and CCTV camera in town. And sometimes, that AI likes to drive around this vigilante with a fine love of theatre, housed inside an extraordinary black TL 15 ground car - that talks.
 
 ### Wards and Notable Landmarks
 
@@ -833,7 +832,8 @@ The Life Market does not look like a regular bazaar. It just looks like an unass
 The building never seems to have clients entering or leaving the building; the glass automatic door never seems to open; and yet the lights are always on.
 
 An Average (8+) Streetwise (SOC, 1D minutes) check reveals that the Life Market trades in people; according to the word on the street, the Market runs a fleet of converted Type R and Type T Starships in the subsector which have been converted into slave ships.
-![[CasAss-116.jpg]]
+
+![[CasAss-116.jpg|100]]
 
 ### Centres Of Power
 
@@ -973,7 +973,7 @@ Travellers who wish to speak to a particular client on some business or other, p
 _Entertain the guest_: Routine (6+) Steward (Soc, 1D x10 minutes).
 
 _Dance a full set on stage_: Average (8+) Art (dance) (End, 1D x10 minutes).
-![[CasAss-134.jpg]]
+![[CasAss-134.jpg|200]]
 
 ### Menilak Ward
 
@@ -1265,7 +1265,7 @@ _Track down thieves who stole a shipment of fertiliser_: Very Difficult (12+) In
 
 _Crack a thorny energy efficiency problem that can increase productivity 1D x10% with no extra outlay cost_: Formidable (14+) Engineering (chemical) (Int, 1D weeks).
 
-# OUTSIDE CITY LIMITS
+# Outside the City Limits
 
 The Travellers' adventures might take them outside the city limits, and to other locations on Amarja. The following are the likeliest places they will go to.
 
@@ -1319,7 +1319,7 @@ Floating desalinization plants dot the oceans, converting the saline seawater in
 
 There are persistent rumors of sunken Ancient cities and building complexes lying undisturbed on the bottom of the oceans for millennia.
 
-# RESIDENTS AND VISITORS
+# Residents and Visitors
 
 Castrobancla is a city of a thousand faces, practically none human.
 
@@ -1369,7 +1369,7 @@ Quality of privacy is heavily proportional to the amount of money spent.
 
 Some jobs require a long-term but still temporary presence. Agents could be operating deep undercover in one of the gangs, or performing surveillance on another State's agents. Citizens could be engaged in building projects. Nobles could be assigned to one of Castrobancla's Embassies. Scholars have their long-term projects, studying the climate or geology, locating mineral deposits out in the mountains or gathering fossils to work up a profile of Amarja's palaeontological past. And Entertainers might have a long-term contract to appear in a theatrical play or just to provide a show in one of Paradise's casinos.
 
-# THE ALIENS
+# The Aliens
 
 Six alien species grace the city of Castrobancla. One of them, the Settlers, is native to Amarja; the rest, like humans, have wandered far to come to the city.
 
@@ -1412,7 +1412,7 @@ Pelacur can choose to roll, in any term, on the Personal Development Table for t
 
 ### Bandaluk
 
-Lovable rogues and gentlemen thieves with ugly faces and heavily-tattooed bodies, the Bandaluk are the opposite of the Kubotaur (see below) in many respects. Their homeworld Bandama is another planet with a Hot environment and, like the Kubotaur, the Bandaluk have the Fast Metabolism trait. Like the Kubotaur, the Bandaluk describe themselves as a “warrior race,” and their core beliefs and ethos have strict codes of honor, which do include counting coup as a valid act in time of war – and they are always at war.
+Lovable rogues and gentlemen thieves with ugly faces and heavily-tattooed bodies, the Bandaluk are the opposite of the [[#Kubotaur]] in many respects. Their homeworld Bandama is another planet with a Hot environment and, like the Kubotaur, the Bandaluk have the Fast Metabolism trait. Like the Kubotaur, the Bandaluk describe themselves as a “warrior race,” and their core beliefs and ethos have strict codes of honor, which do include counting coup as a valid act in time of war – and they are always at war.
 
 Powerfully-built, Bandaluk live where Kubotaur fear to tread. Brokers, wheeler dealers and opportunists, these intimidating aliens move through the streets with the ease of birds of prey in the air. Throughout the sector, the Bandaluk are the species to go to for high-end jobs with big, well-laundered payoffs, relatively little risk and no questions asked. They also maintain whole chains of safe houses for hire.
 
@@ -1428,7 +1428,7 @@ _Speed:_ Bandaluk are fast, moving at Speed 10. They have Fast Metabolism (+2).
 
 _Heightened Sense:_ Hearing. Recon and Survival checks involving hearing gain a DM+2.
 
-_Referee:_ The Kubotaur and the Bandaluk have a natural antagonism, akin to some of the old [[Terra|Terran]] animated cartoons. Put a Kubotaur party in the same room as the  Bandaluk, and stand well back.
+_Referee:_ The Kubotaur and the Bandaluk have a natural antagonism, akin to some of the old [[Terra|Terran]] animated cartoons. Put a Kubotaur party in the same room as the Bandaluk, and stand well back.
 
 In truth, when public incidents like this occur, they are often staged by Bandaluk, who promote the fights on dark social media. The Bandaluk rake in a profit, and they make a point of giving half of the money to support charities set up for the victims of injustice at the hands of overzealous law enforcers. This earns the Bandaluk tacit approval from the Kubotaur, who see no irony in this arrangement.
 

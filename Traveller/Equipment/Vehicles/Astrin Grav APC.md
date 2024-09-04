@@ -8,15 +8,17 @@ tags:
 ![[TImp-6122.jpg]]
 
 EQUIPMENT AND WEAPONS
+
+
 Autopilot (enhanced), Camouflage (advanced),
 Communications System (advanced, encrypted,
-satellite uplink, tightbeam), Computer/5, ECM
-(advanced), Control system (enhanced), Fire
-Extinguishers, Fusion Plant (advanced), Life Support
-(short term), Navigation System (advanced), Prismatic
+satellite uplink, tightbeam), Computer/5, ECM (advanced), Control system (enhanced), Fire
+Extinguishers, Fusion Plant (advanced), Life Support (short term), Navigation System (advanced), Prismatic
 Aerosol, Small Turret (VRF gauss gun)
 
 TRAITS
+
+
 AFV, Streamlined
 
 The _Astrin_ is the latest in the line of grav troop carriers
@@ -25,6 +27,8 @@ APC has a crew of two, a driver and gunner, and seats
 12 armed and armored soldiers.
 
 EQUIPMENT
+
+
 Autopilot (skill level) 2
 Communications (range) 1,000km
 Navigation (Navigation DM) +4
@@ -45,6 +49,8 @@ SHIPPING 20 tons
 COST MCr20.25
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
+
+
 VRF Gauss Gun 750 4D 400 Cr1000 AP5, Auto 8 +4
 
 **ARMOR**

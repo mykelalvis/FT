@@ -23,6 +23,8 @@ Nangu generally has a crew of pirates with him
 ```
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 31 Rogue (3) 8 (0) 10 (+1) 8 (0) 9 (+1) 8 (0) 8 (0) Athletics (Co-ordination) 1, Deception 1, Gun Combat (Energy Pistols) 1, Melee (Blades) 1, Recon 0, Stealth 0, Streetwise 0 Cutlass (2d6+4) or Laser Pistol (3d6), Flak Jacket (4)
+
+
+Age 31 Rogue (3)8 (0) 10 (+1)8 (0)9 (+1)8 (0)8 (0) Athletics (Co-ordination) 1, Deception 1, Gun Combat (Energy Pistols) 1, Melee (Blades) 1, Recon 0, Stealth 0, Streetwise 0 Cutlass (2d6+4) or Laser Pistol (3d6), Flak Jacket (4)
 
 ```

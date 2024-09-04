@@ -52,7 +52,6 @@ The counts of Askigaak, as senior Imperial nobles in the region, have long expec
 
 With no subsector duke in place, the spinward-coreward cluster around Daumier tends to look to Mora in the Spinward Marches for leadership and support. Most worlds in this area are undeveloped but Mater Nova has a sufficiently large economy to benefit from its position at the extreme end of the Spinward Main.
 
-The remainder of the subsector's worlds are mostly concentrated in two small clusters of no great importance. These areas are markets for the huge economies of Mora and Vincennes, with large jump-
-2 freighters making the rounds on a frequent – if not always regular – basis.
+The remainder of the subsector's worlds are mostly concentrated in two small clusters of no great importance. These areas are markets for the huge economies of Mora and Vincennes, with large jump-2 freighters making the rounds on a frequent – if not always regular – basis.
 
 The 196th Fleet, charged with maintaining security and stability in the subsector, both suffers and benefits from a lack of political direction. Its bases all lie in the primary cluster, requiring long transits to reach distant patrol stations. Under normal circumstances, Imperial fleets are advised by the local high nobility – although they are not commanded directly by those nobles – but without a subsector duke in place the 196th Fleet lacks a clear political strategy of its own and is subject to the influences of the Dukes of Vincennes and Mora. Whilst its senior officers have more autonomy than is the case in many subsector fleets, it is impossible to please both dukes as well as the local less senior nobility and the fleet finds itself enmeshed in endless political wrangling.

@@ -18,9 +18,13 @@ SUBSECTORS OF THE SPINWARD 56
 
 MARCHES
 
+
+
 ADVENTURING IN THE SPINWARD 122
 
 MARCHES
+
+
 
 INDEX 138
 
@@ -87,8 +91,7 @@ However, canon is something that game designers worry about. It
 is a baseline used to ensure that published materials do not clash
 or contradict one another. Once an individual Traveller Referee
 starts running a game, the Official Traveller Universe becomes that
-Referee's Traveller Universe. Fans often use abbreviations like MTU
-(My Traveller Universe) and YTU (Your Traveller Universe) when
+Referee's Traveller Universe. Fans often use abbreviations like MTU (My Traveller Universe) and YTU (Your Traveller Universe) when
 discussing this.
 
 What this all means is that once you get your hands on this book,
@@ -109,10 +112,8 @@ There are, however, certain concepts that are found in almost every
 possible variant TU. These are listed and explained overleaf.
 
 About the Author
-Martin J Dougherty has been at times an engineer, a teacher, a de-
-fence analyst and a self–defence instructor. These days he makes
-his living as a freelance writer for the games industry and in some-
-thing calling itself the 'real world'.
+Martin J Dougherty has been at times an engineer, a teacher, a de-fence analyst and a self–defence instructor. These days he makes
+his living as a freelance writer for the games industry and in some-thing calling itself the 'real world'.
 
 Martins' books include volumes on weaponry, space exploration,
 self–defence and military history. He has written numerous
@@ -238,8 +239,7 @@ the simple reason that people visit worlds, not stars. The mainworld
 of a system is usually the most habitable, but not always. It may be
 a moon of a gas giant or a planetoid belt, but most commonly it will
 be a planet of some kind.
-The nature of the Jump drive is such that unless there is a good
-(usually economic) reason to visit the other worlds of a system,
+The nature of the Jump drive is such that unless there is a good (usually economic) reason to visit the other worlds of a system,
 vessels tend to ply between mainworlds in different systems rather
 than the less important worlds in the same system. It takes as long
 to Jump a few hundred AU to an outsystem rockball as it does to
@@ -292,8 +292,7 @@ port and a couple of spaceports serving small installations on other
 bodies in the system,for example a mining colony on a moon of one
 of the gas giants. A minor system, on the other hand, may have little
 more than a shed and a marked landing area.
-Faster–Than–Light Travel and Communica-
-tions
+Faster–Than–Light Travel and Communica-tions
 In the Traveller universe there is no Faster–Than–Light (FTL) radio
 or other instantaneous communication medium. The only way to
 get a message to a given point is to send a starship there. In civilised
@@ -534,8 +533,7 @@ are, however, several other major and minor intelligent species.
 The term 'Major Race' has two meanings. Imperial scientists apply
 the term precisely to mean any race or species that invented the
 Jump Drive independently. In this context a Minor Race is a species
-that either received Jump–drive technology from another source
-(e.g. buying it or reverse–engineering an example found in a wreck)
+that either received Jump–drive technology from another source (e.g. buying it or reverse–engineering an example found in a wreck)
 or has not developed interstellar travel at all.
 
 However, the terms are sometimes used rather more loosely to refer
@@ -847,6 +845,8 @@ This is their second interstellar polity; an ill–advised experiment
 involving their star ended the first.
 
 OTHER TERRANS
+
+
 
 Enhanced, that is sentient, versions of several [[Terra|Terran]] species have
 been created. Most notable and widespread are Dolphins, who
@@ -1350,7 +1350,7 @@ to break the Imperium apart or slice off a segment of its territory.
 The first was the Julian War, fought against an alliance of human and
 Vargr states to Coreward of the Imperium. These formed the Julian
 
-(^16) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 Protectorate and fought the Imperium to a bloody standstill before
 launching a surprise raid that destroyed two Imperial Navy depots.
 The resulting settlement, in 191, curtailed Imperial expansion to
@@ -1446,7 +1446,7 @@ its nature varies considerably from place to place. These regional
 variations cannot override the Imperial Charter and associated High
 Laws, but they do colour local politics considerably.
 
-TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^17
+
 
 The Imperium of today is primarily driven, as it always has been,
 by economic considerations. Worlds are free to govern themselves
@@ -1558,7 +1558,7 @@ groups also have representatives of this sort. Representatives do
 not rule the world they are associated with but instead are a sort
 of ambassador and liaison officer whose job is to ensure that
 
-(^18) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 the best interests of both Imperium and the individual world are
 safeguarded.
 These representatives deal with one another at various levels, directly
@@ -1655,7 +1655,7 @@ Every world within the border of the Imperium is a member, though
 the exact terms of each world's treaty of membership can vary. Most
 worlds have a unified government that claims jurisdiction over the
 
-TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^19
+
 
 whole planet, and it is with this government that other member
 worlds deal. If there are groups that reject the authority of the world
@@ -1711,8 +1711,7 @@ they are banned by Imperial law. Only the most rabidly high–law
 worlds will interfere with commerce in this manner, and they risk
 Imperial displeasure by doing so.
 
-There is normally only one 'mainworld' in a star system. Other bodies
-(asteroids, moons and planets) may be home to small outposts or
+There is normally only one 'mainworld' in a star system. Other bodies (asteroids, moons and planets) may be home to small outposts or
 colonies but these are more likely to be possessions than states in
 their own right. Some of the outposts in a system may be owned by
 the mainworld government, and these are subject to the same laws
@@ -1738,7 +1737,7 @@ working claims in the same planetoid field or on the same moon.
 Each territory will have its own regulations and enforcement system
 which can be very different from that on the mainworld.
 
-(^20) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 
 ###### PLANETARY ARMED FORCES
 
@@ -1807,6 +1806,8 @@ some more advanced weaponry available to governmental guard or
 elite units.
 
 IMPERIAL HOLDINGS
+
+
 The Imperium possesses only a handful of entire planets. Most of
 these are outsystem rockballs used as naval installations or similar
 facilities. However, there are a few mainworlds that are Imperial
@@ -1904,7 +1905,7 @@ The close family of a peer are considered to be members of the
 nobility and are often addressed by the title 'lord' or 'lady' followed
 by their name if they do not hold a title of their own. Many close
 
-TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^25
+
 
 family members are knighted upon becoming adults and in that
 case are addressed as such. Knighthood–by–association of this sort
@@ -1984,8 +1985,7 @@ categories:
 Individuals elevated for merit or performance in various fields are
 termed Honor Nobles. Business, entertainment, the Imperial
 services or exceptional performance in any other field can earn a
-knighthood or, less often, one of the lower ranks of the peerage
-(baron, marquis or count).
+knighthood or, less often, one of the lower ranks of the peerage (baron, marquis or count).
 
 Individuals who hold a position are termed Rank Nobles. There are
 two subtypes. The term 'Local Nobility' is given to relatively minor
@@ -2011,6 +2011,8 @@ them. In theory two nobles of the same rank are equals, though they
 may have very different roles and levels of power.
 
 THE ORDERS OF KNIGHTHOOD
+
+
 A knighthood entitles the holder to use the prefix 'Sir' before his or
 her name. Some females prefer the archaic 'Dame' and certain orders
 use this prefix for male and other genders as well, for traditional
@@ -2018,7 +2020,7 @@ reasons. The initials of the knight's order are often listed after his
 or her name, and/or a location, such as 'Sir Alexandr of Skiddir'.
 Locations normally denote the knight's fief but occasionally refer
 
-(^26) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 to the event that won their knighthood. This is usually the name
 of a city or world but can be something more unusual, such as 'Sir
 Andrea of Two Suns' which refers to a knighthood won at the Battle
@@ -2042,6 +2044,8 @@ Some orders of knighthood can only be bestowed by the holder of a
 certain office, the Archduke of Ilelish, for example, and others only
 by the Emperor himself.
 BARONET
+
+
 Technically a rank of knighthood, Baronet is sometimes considered
 the lowest peer rank instead. The name comes from an archaic
 [[Terra|Terran]] practice; a senior knight who led others in battle was
@@ -2054,6 +2058,8 @@ occasionally 'Banneret' before their name and usually the location
 of their fief afterwards, for example Baronet Mikhal Danilo of
 Slovenos.
 BARON
+
+
 The lowest rank within the peerage is Baron. Barons usually have a
 fief of some kind. Those that are associated with a given world usually
 have their fief there. Barons usually represent relatively undeveloped
@@ -2068,11 +2074,15 @@ Barons use the prefix 'Baron' or 'Baroness' and often a range of
 other honorifics such as 'hault', 'ap' or 'von' before their surname.
 As with knights, the Baron's fief location is often used as a suffix.
 MARQUIS
+
+
 An imperial Marquis is usually either a powerful businessperson
 or the representative of an important world. In the latter case
 the world's name is used after the noble's rank title, for example
 Marquis of Aramis or Marquis Aramis. Both usages are correct.
 COUNT
+
+
 A Count may be an extremely important Imperial officer, such as
 the ambassador to the Solomani Confederation, or the head of
 an important corporate body. Alternatively, a Count may be the
@@ -2080,6 +2090,8 @@ Imperial administrator for a group of 2–3 worlds within a subsector.
 In the latter case the count's title is followed by the name of one of
 the worlds he or she is responsible for.
 DUKE
+
+
 Imperial dukes oversee an entire subsector of space and give
 political guidance to those at lower levels of power within that area.
 One of the dukes in a sector has precedence over the others and is
@@ -2087,7 +2099,7 @@ titled Sector Duke. At present sector dukes answer to the Emperor
 but if the current reforms continue as planned their allegiance may
 be switched to the domain Archduke.
 
-TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^27
+
 
 All dukes use the subsector they are associated with as a suffix, for
 example Duke of Rhylanor. This also applies to the Sector Duke
@@ -2096,6 +2108,8 @@ sector–wide concerns. Usually a member of the duke's family is
 appointed to deal with subsector matters.
 
 ARCHDUKE
+
+
 Each of the six original domains of the Imperium has an Archduke,
 though for centuries this has been a figurehead appointment only.
 That is slowly changing as the Archdukes are given increased
@@ -2185,8 +2199,7 @@ This is interpreted rather widely; an elderly actor knighted for a
 lifetime of cinematic excellence would be held to a different standard
 to a knighted naval officer trained from birth to lead.
 
-All nobles are bound by exactly the same laws as everyone else
-(though inevitably some do abuse their power and wealth), and do
+All nobles are bound by exactly the same laws as everyone else (though inevitably some do abuse their power and wealth), and do
 not officially have the power to give orders to anyone outside their
 immediate household. There are, however, three exceptions to this.
 
@@ -2197,11 +2210,10 @@ his naval forces as admiral, but there is a difference between these
 aspects of his rank. The baron–admiral would have no right to give
 orders to an Imperial Army colonel operating in the same theatre
 
-(^28) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 unless he had been given or assumed control of a situation as the
 senior Imperial representative present.
-The second is where the noble has been issued with an Imperial
-(or Archducal) Warrant. These documents grant specific powers to
+The second is where the noble has been issued with an Imperial (or Archducal) Warrant. These documents grant specific powers to
 a named individual (who is usually but not always a noble) for the
 duration of a given task. Technically any job a noble is given, such
 as overseeing the interstellar trade in a region, comes with a warrant
@@ -2294,7 +2306,7 @@ the people who wield much of the power in the Imperium. Thus
 although the Moot itself does not have much power, its members
 do and should they decide to act in concert then even the Emperor
 
-TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^29
+
 
 must take notice. The most successful periods in Imperial history
 were characterised by a good partnership between Emperor and
@@ -2372,6 +2384,8 @@ of any size equipped other than as infantry with some air defence
 capability, are unusual.
 
 PLAYER NOBLES
+
+
 It is likely that a player–character noble will hold a fairly minor rank,
 such as a knight or baronet. More important people are unlikely
 to be hanging around with adventurers, and if they do travel it will
@@ -2404,7 +2418,7 @@ might be able to use that to advantage.
 Although the individual member worlds of the Imperium provide for
 their own local defence, and both corporations and noble houses
 
-(^30) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 are permitted to operate security forces, large–scale threats are
 dealt with by the Imperial armed forces.
 There are three military forces: the Navy, the Marine Corps and the
@@ -2501,7 +2515,7 @@ for various purposes. Most fleets include numerous cruisers but
 they can also be found operating alone or at the head of a task force.
 An Imperial Navy cruiser is a very potent vessel and can deal with
 
-TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^31
+
 
 many problems on its own. Many smaller navies are outgunned by
 a single heavy cruiser.
@@ -2569,8 +2583,7 @@ smaller battle forces at naval bases across the region. [[Capital]] ships
 are kept concentrated to deal with major threats and are rarely seen
 away from a major fleet. Most of the sector fleet's cruiser strength
 is also kept concentrated, though cruiser squadrons (CruRons)
-are more often deployed to smaller bases than battle squadrons
-(BatRons).
+are more often deployed to smaller bases than battle squadrons (BatRons).
 
 Each Sector Fleet commander also has responsibility for a Subsector
 Fleet corresponding to each subsector within the sector. This is
@@ -2584,7 +2597,7 @@ major warships assigned to the region, the subsector fleet is more
 concerned with local affairs. It has been said that sector fleets fight
 wars while subsector fleets keep the peace and protect commerce.
 
-(^32) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 For this reason a subsector fleet usually has a single cruiser as
 flagship and deploys mainly escorts and destroyers for patrol and
 commerce–protection work. Of course, if a major incident arises,
@@ -2613,6 +2626,8 @@ around and sent on their way unless they have the correct permits.
 Ignoring a red zone is grounds for the navy to fire on a vessel,
 though less aggressive methods are tried first.
 THE COLONIAL FLEETS
+
+
 The Imperial Navy is backed up by the so–called Colonial Fleets. The
 name is archaic, probably dating from the Interstellar Wars period;
 very few of the worlds that contribute to this part of the fleet are
@@ -2675,7 +2690,7 @@ the other, its personnel act as ship's troops for naval vessels and
 guard important installations. By tradition, marines guard Imperial
 embassies and provide an honor–guard to ambassadors.
 
-TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^33
+
 
 conducting an infantry assault on a target. Such affairs tend to be over
 very quickly; the Marine Corps does not mess about. However, not
@@ -2720,8 +2735,7 @@ Imperial army formations use combined–arms techniques; artillery,
 grav armor and aerospace defence assets are integrated into the
 force at various levels. Most Imperial army units are lift infantry
 formations. That is, a primarily infantry force with grav vehicles
-for mobility. The infantry ride in grav armored personnel carriers
-(APCs) and are equipped with combat armor and advanced
+for mobility. The infantry ride in grav armored personnel carriers (APCs) and are equipped with combat armor and advanced
 combat rifles plus support weapons. The formation will usually
 contain several grav sleds carrying electronic warfare and artillery
 weapons, and there will usually be some tanks available unless the
@@ -2758,7 +2772,7 @@ armor and similar formations do exist but they are not numerous.
 The most common image of the Imperial Marine Corps is a fairly
 small force of marines, equipped with battle dress (powered armor)
 
-(^34) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 infantry (infantry formations with a large tank force attached) and
 grav armor (a primarily armored force with some infantry for
 mutual support). In addition, the army maintains among its ground
@@ -2795,8 +2809,7 @@ powerful nobles maintain units for a similar purpose.
 Thus it is possible to encounter an imperial army force which
 contains a battalion on loan from a corporation, noble house or
 planetary government, or a mercenary unit on contract to the
-Imperial Army. In all such cases the unit will have been sworn in
-(perhaps temporarily) as a unit of the Emperor's armed forces and
+Imperial Army. In all such cases the unit will have been sworn in (perhaps temporarily) as a unit of the Emperor's armed forces and
 will be under the command of regular army generals.
 Mercenary forces range from individuals and small teams through
 platoon, company and even battalion sized units. Larger formations
@@ -2856,7 +2869,7 @@ that are being opened up for colonization. As such, its main areas
 of interest are along the borders. However, it is also responsible for
 overseeing areas within the Imperium such as prison worlds, reserve
 
-TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^35
+
 
 worlds maintained by the Imperium and the territories (sometimes
 whole planets) leased as sites for naval and army bases.
@@ -2970,7 +2983,7 @@ opted into military operations at need. Scout vessels usually act as
 messengers and reconnaissance assets, though sometimes they are
 capable of functioning as escorts.
 
-(^36) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 Most of the time, however, the Scout Service has a more peaceful
 role. There are three main branches of the service, overseen by
 the bureaucracy (that is, the scout service's bureaucracy, not the
@@ -3070,7 +3083,7 @@ are vital to its economic and therefore political well–being. The
 larger lines are extremely influential, though most are restricted to a
 sector or two or a smaller area of operation and thus exert influence
 
-TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^37
+
 
 over a relatively limited region. Most lines operate on established
 routes in a fairly limited area, though many are open to charters that
@@ -3155,8 +3168,7 @@ be an expression of the majority will.
 There are also questions of morality and expediency. Should the
 Imperium support a morally dubious government, or help overthrow
 a liberal one in favor of a regime that fits well with Imperial plans
-for the region? For these and other reasons such as the sheer costs
-(in lives and money) involved the Imperium generally tries not to
+for the region? For these and other reasons such as the sheer costs (in lives and money) involved the Imperium generally tries not to
 become involved in 'local matters' such as insurgencies against a
 world's government.
 
@@ -3181,7 +3193,7 @@ others who prefer to ignore the law when it suits them. Most crime
 is of a local and relatively minor nature and is a matter for local
 governments to deal with.
 
-(^38) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
+
 The Imperium does not generally waste resources chasing minor
 criminals who have left one world and gone to another unless they
 rack up a very impressive list of offences. Even murderers, although
@@ -3395,8 +3407,7 @@ lengthy stay. They are gone now. Beyond that, everything is a matter
 for conjecture.
 
 Information about the Zhodani is hard to come by and not always
-reliable, but it seems likely that they arrived on their homeworld
-(Zhdant) about 300,000 years ago. They were brought from
+reliable, but it seems likely that they arrived on their homeworld (Zhdant) about 300,000 years ago. They were brought from
 elsewhere (perhaps Terra) by the Ancients, who settled them and
 undertook a range of incomprehensible acts including remodelling
 mountains and cutting then refilling ocean trenches. They also
@@ -3442,8 +3453,7 @@ by –6,731 a technological society existed on Zhdant. This was the
 date of the first Psionic Games, the beginning of modern Zhodani
 society. The Games established a path for a psionically talented
 commoner to join the nobility and helped find the most powerful
-psionic individuals in each generation. The period between games
-(three local years) is still a fundamental concept in Zhodani society.
+psionic individuals in each generation. The period between games (three local years) is still a fundamental concept in Zhodani society.
 For example, it is the term served by most elected officials.
 
 The Zhodani are thought to have begun (though some sources say
@@ -3468,8 +3478,7 @@ pushed towards the galactic core, establishing a chain of refuelling
 and repair bases and setting up relations with the species met along
 the way.
 
-The expeditions seem to be limited to a region about 30 parsecs wide
-(with occasional offshoots) and over 8,000 parsecs long. Imperial
+The expeditions seem to be limited to a region about 30 parsecs wide (with occasional offshoots) and over 8,000 parsecs long. Imperial
 scientists do not know the purpose of these missions, but suggest
 that given the time and expense involved they must be considered
 very important.
@@ -3590,8 +3599,7 @@ Islands subsector spread out to other worlds and into New Islands
 Subsector. However, as these two relatively dense clusters of stars
 lay in the middle of the Great Rift, they remained cut off from events
 elsewhere for many centuries.
-Finally, in 983, an Imperial Interstellar Scout Service vessel
-(IISS Eldorado) Misjumped into the Islands and obtained local
+Finally, in 983, an Imperial Interstellar Scout Service vessel (IISS Eldorado) Misjumped into the Islands and obtained local
 assistance in getting home. The secret of the Jump drive was thus
 obtained by the people of Serendip Belt, who used it to begin a war
 of conquest.
@@ -3677,8 +3685,7 @@ encountered there.
 
 Contact with the Sword Worlds was in 73, but it was not until 148 that
 the Darrians met the Imperials. During this time the Sword Worlds
-managed to create a new unified government, the Triple Dominion
-(shared by Anduril, Colada and Dyrnwyn) which lasted from 104
+managed to create a new unified government, the Triple Dominion (shared by Anduril, Colada and Dyrnwyn) which lasted from 104
 to 217. It may be that the Sword Worlders deliberately discouraged
 the Imperials from moving through their territory and thus meeting
 their Darrian rivals. Certainly the amount of scouting missions in
@@ -3976,8 +3983,7 @@ serving their home world first and foremost. To an outsider a patrol
 vessel out of Gram might look just like one out of Narsil, but their
 captains may have very different priorities.
 Imperials find the Sword Worlders difficult to deal with (and vice
-versa) due to cultural differences. Sword Worlders are chauvinistic
-(some would say extremely protective instead) towards women and
+versa) due to cultural differences. Sword Worlders are chauvinistic (some would say extremely protective instead) towards women and
 find it hard to accept Imperial females in positions of responsibility
 or power. They tend to come over as haughty and arrogant, and look
 down on those who do not meet their standards.
@@ -4077,8 +4083,7 @@ Zhodani vessels during their transit.
 
 Zhodani merchants and couriers are seen somewhat more often,
 and range more widely, but as a rule they tend to stay out of Imperial
-space. There is a persistent theory that the first three Frontier Wars
-(the fourth was an accident) were fought because the Zhodani
+space. There is a persistent theory that the first three Frontier Wars (the fourth was an accident) were fought because the Zhodani
 felt threatened by something the Imperium was doing, and that if
 there is no perceived threat then there will be no more war or even
 much interaction. The Zhodani do not seem very interested in what
@@ -4491,11 +4496,15 @@ Some of the lesser firms and organizations operating in the Marches
 are listed below:
 
 AGWORLD COMBINE
+
+
 A loose trading alliance of agricultural worlds and firms operating
 in that sector, based out of District 268. The Combine is little more
 than a collective–bargaining organization that obtains the use of
 bulk freighters (usually from McClellan Factors) for its members.
 AKERUT
+
+
 An anagram of 'Tukera', Akerut is a wholly–owned subsidiary of
 that Megacorporation. It operates a fleet of vessels based out of the
 Aramis subsector, plying routes into the Imperium and across the
@@ -4505,6 +4514,8 @@ preferential docking at private berths. This has led to a couple of
 'customs irregularities' in the past but there have been no recent
 allegations.
 AL MORAI
+
+
 One of the larger non–Megacorporations of the region, Al Morai
 is a shipping firm based out of Mora and is often referred to as a
 'sector line' in merchant–service parlance. This simply means that
@@ -4518,6 +4529,8 @@ some flights. Less well known is the firm's extensive network of
 information–gathering assets which pass along what they learn
 about smuggling and piracy to the Imperial Navy.
 ARKESH SPACERS
+
+
 Arkesh started out as an alliance of Free Traders which still
 maintains a nominal headquarters at Strouden however, it has few
 permanent facilities, relying on leasing or trading for whatever is
@@ -4527,12 +4540,16 @@ acts of piracy have been committed by some members. Thus far,
 the organization has avoided Imperial attention though some of its
 members have been prosecuted.
 BARACCAI TECHNUM
+
+
 The Baraccai Technum (BT) is based out of Trin. It is primarily a
 manufacturing and transport firm with interests in freighting, cargo
 brokerage and general shipping. BT maintains a number of 'trade
 scouts' and merchant cruisers set up for exploratory trade cruises
 beyond the Imperium.
 BILSTEIN YARDS
+
+
 Bilstein Yards are based on Glisten where they manufacture one–off
 and small–run starships and custom transport assets of extremely
 high quality. Bilstein workmanship does not come cheap, and there
@@ -4540,6 +4557,8 @@ is an element of prestige in owning not merely a yacht but one built
 by Bilstein. The firm does not construct warships or standard trade
 vessels.
 GENERAL SHIPYARDS
+
+
 A subsidiary of General Products, General Yards is a major
 contractor to the Imperial Navy and other bulk clients. It is based in
 Regina subsector with lesser facilities scattered across the sector.
@@ -4547,6 +4566,8 @@ The firm has recently begun to emphasise commercial construction
 over military vessels, perhaps due to rumored Navy dissatisfaction
 with certain classes of vessel built by General.
 IMPERIALLINES
+
+
 Imperiallines is a shipping firm owned by the Imperial family.
 It mainly serves the major routes, but vessels are sometimes
 encountered on minor or “feeder” routes and have a number of
@@ -4557,6 +4578,8 @@ government–related tasks. Imperiallines vessels are very secure and
 of high quality. Imperiallines is not a Megacorporation but recent
 growth suggests that it will soon achieve that status.
 MAGNETODYNAMICS
+
+
 A mid–sized corporation specialising in the extraction of useful
 chemicals from gas or water suspension, MagnetoDynamics
 operates a range of facilities across the Marches. These include
@@ -4568,6 +4591,8 @@ exotic compounds. MagnetoDynamics also operates on a number
 of rocky planets, extracting compounds from the atmosphere or
 oceans.
 MCCLELLAN FACTORS
+
+
 McClellan Factors is a cartel of trading concerns operating mainly
 in District 268 under the leadership of McClellan Trading LIC. Some
 of the firms involved are registered in the Imperium, others are not.
@@ -4578,6 +4603,8 @@ a fine line but seems to be worth it; McClellan Factors has several
 markets in District 268 sewn up and recently rebuffed an effort by
 the Baraccai Technum to move into the region.
 NARISKII VEHICLES LIC
+
+
 Nariskii is a business group based in the Lunion subsector. The
 firm has its origins in a number of companies that provided new
 and refurbished all–terrain and grav vehicles to early explorers in the
@@ -4587,6 +4614,8 @@ worlds. Products are mostly budget and mid–range utility vehicles
 ranging from Air/Rafts through ATVs to more humble work trucks.
 
 OBERLINDES
+
+
 A 'fledgling' shipping line operating a handful of vessels across
 Regina and Aramis subsectors and out into the Vargr Extents,
 Oberlindes is a family concern which has been known to take in
@@ -4595,6 +4624,8 @@ Oberlindes risks treading on the toes of Akerut, which operates in
 the same areas on a much larger scale.
 
 SPINWARD SALVAGE LIC
+
+
 Spinward Salvage mainly operates at the Coreward end of the sector,
 having got its start salvaging wrecks from the Third Frontier War.
 The firm operates a flotilla of salvage vessels plus spare–parts sales
@@ -4605,6 +4636,8 @@ service. Its overall reputation is good but occasionally freelancers of
 a more dubious background are employed.
 
 TREXALON TECHNICAL CONSORTIUM
+
+
 The TTC is based out of Trexalon in District 268 and is made up
 of several industrial and business concerns which share a general
 anti–Imperial outlook. At present this takes the form of hostile
@@ -4613,6 +4646,8 @@ are rumors that the TTC is considering more robust measures to
 keep Imperial interests out of District 268.
 
 VICTORY ARMS LIC
+
+
 Victory Arms is a small firm specialising in low–cost weaponry in
 the mid to fairly high tech range. Its manufacturing arm produces
 a range of cheap small arms that are often found equipping low–
@@ -5184,7 +5219,11 @@ Frond 0810 E9C3300–9 Fl Lo NI G
 
 B
 
+
+
 B
+
+
 
 
 
@@ -5264,37 +5303,69 @@ IIndondo
 
 C
 
-C
+
 
 C
+
+
+
+C
+
+
 
 D
 
-C
+
 
 C
+
+
+
+C
+
+
 
 B
 
+
+
 A
+
+
 
 D
 
+
+
 E
+
+
 
 C
 
+
+
 E
+
+
 
 A
 
+
+
 B
+
+
 
 E E A D E B
+
+
 
 SStavetave E
 
 E
+
+
 
 (^62) JJJEEWELLEWWEELLLL
 
@@ -5347,8 +5418,7 @@ under the influence of Arden, or more accurately the alliance of
 political and economic interest groups that is collectively calling
 itself the Federation of Arden. It is possible that in time some of
 these worlds may eventually become part of an alliance with Arden.
-How the Imperium and the Consulate will react to this development
-(if it occurs at all) remains to be seen.
+How the Imperium and the Consulate will react to this development (if it occurs at all) remains to be seen.
 
 Esalin is an unusual case. Literally located between the Imperium and
 the Consulate it was settled by the Imperium in 835 and was captured
@@ -5648,25 +5718,39 @@ PPuparkinuparkin
 
 B
 
+
+
 CChwistyochhwistyoch
 
 C
 
+
+
 E
+
+
 
 GGougesteougeste
 
 C
 
+
+
 C
+
+
 
 EEsalinsalin
 
 B
 
+
+
 RRubyuby
 
 B
+
+
 
 EEmeraldmerald
 
@@ -5692,45 +5776,73 @@ NNakegeakege
 
 D
 
+
+
 MMongoongo
 
 C
+
+
 
 RRiverlandiverland
 
 B
 
+
+
 CClanlan
 
 E
+
+
 
 AAo–daio–dai
 
 B
 
+
+
 FFoelenoelen
 
 A
+
+
 
 FFarreacharreach
 
 D
 
+
+
 A
+
+
 
 B
 
+
+
 X
 
+
+
 E
+
+
 
 C
 
+
+
 E
+
+
 
 
 
 A
+
+
 
 yy
 
@@ -6014,45 +6126,73 @@ ago.
 
 A
 
+
+
 B
+
+
 
 C
 
+
+
 B
+
+
 
 E
 
+
+
 C
+
+
 
 B
 
-C
+
 
 C
 
-C
 
-cc
-
-cc
-
-cc
-
-cc
-
-cc
-
-cc
-
-cc
 
 C
 
+
+
 C
+
+
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+C
+
+
+
+C
+
+
 
 XX
 
+
+
 X
+
+
 
 
 
@@ -6067,6 +6207,8 @@ X
 RREEGINAGINA^69
 
 E
+
+
 
 Uthe
 
@@ -6088,6 +6230,8 @@ YYresres
 
 B
 
+
+
 MMenorbenorb
 
 UUakyeakye
@@ -6098,13 +6242,19 @@ KKnorbesnorbes
 
 E
 
+
+
 FForboldnorboldn
 
 E
 
+
+
 JJengheenghe
 
 C
+
+
 
 RRuieuie
 
@@ -6112,15 +6262,21 @@ PPixieixie
 
 A
 
+
+
 BBougheneoughene
 
 A
+
+
 
 HHefryefry
 
 RReginaegina
 
 A
+
+
 
 FFerieri
 
@@ -6132,15 +6288,21 @@ YYoriori
 
 C
 
+
+
 DDentusentus
 
 KKinorbinorb
 
 A
 
+
+
 BBeck's Worldeck's World
 
 D
+
+
 
 EEnopenope
 
@@ -6148,11 +6310,15 @@ WWochiersochiers
 
 E
 
+
+
 YYorbundorbund
 
 HHeyaeya
 
 B
+
+
 
 SShionthyhionthy
 
@@ -6162,9 +6328,13 @@ YYursturst
 
 E
 
+
+
 IInthenthe
 
 B
+
+
 
 RRetheethe
 
@@ -6172,9 +6342,13 @@ MMoughasoughas
 
 C
 
+
+
 KKengeng
 
 E
+
+
 
 
 cc
@@ -6458,19 +6632,35 @@ Reacher 0810 C9A8542–8 I Fl NI A G
 
 E
 
+
+
 C
+
+
 
 X
 
-B
 
-C
 
 B
 
-C
+
 
 C
+
+
+
+B
+
+
+
+C
+
+
+
+C
+
+
 
 ~
 
@@ -6494,25 +6684,37 @@ CCorfuorfu
 
 X
 
+
+
 LLablonablon
 
 B
+
+
 
 JJesedipereesedipere
 
 C
 
+
+
 RRugbirdugbird
 
 B
+
+
 
 YYebabebab
 
 C
 
+
+
 TTowersowers
 
 B
+
+
 cc
 
 JJunidyunidy
@@ -6522,6 +6724,8 @@ cc
 NNaseminasemin
 
 B
+
+
 cc
 
 ZZykocaykoca
@@ -6534,13 +6738,19 @@ PPavanneavanne
 
 E
 
+
+
 CCarstenarsten
 
 C
 
+
+
 LLewisewis
 
 X
+
+
 
 PPatiniratinir
 
@@ -6552,9 +6762,13 @@ FFocalineocaline
 
 E
 
+
+
 DDhianhian
 
 C
+
+
 
 PPayaaya
 
@@ -6564,9 +6778,13 @@ ZZilaila
 
 E
 
+
+
 PPysadiysadi
 
 C
+
+
 
 LL'oeul d'Dieu'oeul d'Dieu RReachereacher
 
@@ -6580,6 +6798,8 @@ NNatokoatoko
  B
 
 A
+
+
 
 (^74) QQQUUERIONUEERRIIOONN
 
@@ -6870,21 +7090,39 @@ somebody else's problem.
 
 B
 
+
+
 E
+
+
 
 C
 
+
+
 C
 
+
+
 E
+
+
 
 D
 
+
+
 E
+
+
 
 B
 
+
+
 E
+
+
 
 π
 
@@ -6902,17 +7140,25 @@ AAtsontson
 
 B
 
+
+
 MMizan–felizan–fel
 
 B
+
+
 
 TTerra Novaerra Nova
 
 C
 
+
+
 AAsmodeussmodeus
 
 E
+
+
 
 PPrinxrinx SSansibaransibar
 
@@ -6920,13 +7166,19 @@ RRapp's Worldapp's World
 
 C
 
+
+
 LLebeauebeau
 
 B
 
+
+
 QQuerionuerion
 
 B
+
+
 
 AAtticattica
 
@@ -6934,11 +7186,15 @@ YYiktoriktor
 
 C
 
+
+
 XXhosahosa
 
 RRushuushu
 
 E
+
+
 
 RRetinaeetinae
 
@@ -6951,6 +7207,8 @@ DDekalbekalb
 WWinstoninston
 
 E
+
+
 
 AAnselhomenselhome
 
@@ -7227,43 +7485,83 @@ present clear what the price tag will eventually be.
 
 B
 
+
+
 C
 
+
+
 E
+
+
 
 X
 
+
+
 D E
 
+
+
 C
+
+
 
 X A
 
+
+
 C
 
+
+
 E
+
+
 
 D
 
+
+
 D
 
-E
+
 
 E
+
+
+
+E
+
+
 
 B
 
+
+
 E
 
+
+
 C
+
+
 
 C C
 
+
+
 D
+
+
 
 E
 
+
+
 B
+
+
 
 VVIILISLIS^81
 
@@ -7378,8 +7676,7 @@ the subsector fleet (the 18th) and those elements of the Sector Fleet
 that are deployed to Lanth subsector are located in the Rift or along
 its edge at Ivendo, D'Ganzio, Lanth and Ghandi.
 
-All the worlds in Lanth subsector are Imperial members. Three
-(Wypoc, Quopist and Rhise) are Amber Zoned at present for various
+All the worlds in Lanth subsector are Imperial members. Three (Wypoc, Quopist and Rhise) are Amber Zoned at present for various
 reasons. There are also four Red Zones of which three (Ylaven,
 Victoria and Sonthert) lie within the Abyss Rift. A certain segment
 of the population takes this as additional proof that the rift is a very
@@ -7642,43 +7939,83 @@ Skull 0810 C2237C7–9 N I Po NA G
 
 D
 
-X
 
-B
 
 X
 
+
+
+B
+
+
+
 X
 
-E
+
+
+X
+
+
 
 E
+
+
+
+E
+
+
 
 D
 
+
+
 C
+
+
 
 B
 
-D
 
-C
 
 D
 
-C
+
 
 C
 
-C
+
+
+D
+
+
 
 C
+
+
+
+C
+
+
+
+C
+
+
+
+C
+
+
 
 E
 
+
+
 B
 
+
+
 C
+
+
 
 π
 
@@ -7749,6 +8086,8 @@ cc
 
 B
 
+
+
 DD'Ganzio'Ganzio
 
  B
@@ -7759,6 +8098,8 @@ LLanthanth
 cc
 
 A
+
+
 
 SSonthertonthert
 
@@ -8099,49 +8440,95 @@ Powaza 0810 C787566–5 I Ag Ga NI Lt G
 
 B
 
-C
+
 
 C
+
+
+
+C
+
+
 
 E
 
+
+
 B
 
-A
 
-C
 
 A
 
+
+
 C
+
+
+
+A
+
+
+
+C
+
+
 
 E
 
+
+
 C
 
+
+
 X
+
+
 
 A
 
+
+
 B
+
+
 
 X
 
+
+
 C
 
+
+
 B
+
+
 
 X
 
+
+
 B
 
+
+
 C
+
+
 
 D
 
-C
+
 
 C
+
+
+
+C
+
+
 
 π
 
@@ -8149,7 +8536,11 @@ RRHHYLANORYLANOR^89
 
 E
 
+
+
 E
+
+
 
 PPowazaowaza
 
@@ -8243,6 +8634,8 @@ RRhylanorhylanor
 cc
 
 A
+
+
 
 (^90) DDDAARRIANARRRRIIAANN
 
@@ -8394,7 +8787,7 @@ fraction of the world population.
 
 In addition to being the spiritual home of the Darrian Confederation,
 Darrian is also the main technological center. The IISS has assigned
-a tech level rating of G (16), but this is slightly misleading. TL 16
+a tech level rating ofG (16), but this is slightly misleading. TL 16
 artefacts are under study and in some cases can be duplicated and
 incorporated into devices as black–box components, but the world
 as a whole does not make use of TL 16 items on a routine basis.
@@ -8568,6 +8961,8 @@ DDAARRIANRRIAN^93
 
 C
 
+
+
 NNonymonym
 
 yy
@@ -8582,17 +8977,25 @@ Five Sisters
 
 D
 
+
+
 JJunctionunction
 
 B
+
+
 
 SStern–Sterntern–Stern
 
 E
 
+
+
 ZZamineamine
 
 B
+
+
 
 LLabervaberv
 
@@ -8600,13 +9003,19 @@ LLabervaberv
 
 C
 
+
+
 EEktronktron
 
 C
 
+
+
 EEngrangengrange
 
 B
+
+
 
 IIliumlium
 
@@ -8614,13 +9023,19 @@ IIliumlium
 
 B
 
+
+
 RRogetoget
 
 D
 
+
+
 RRorreorre
 
 A
+
+
 
 MMireire
 
@@ -8628,13 +9043,19 @@ MMireire
 
 E
 
+
+
 CCondariaondaria
 
 A
 
+
+
 DDarrianarrian
 
 C
+
+
 
 SSpumepume
 
@@ -8642,41 +9063,61 @@ SSpumepume
 
 X
 
+
+
 4 494–908 94 – 908
 
 A
+
+
 
 JJacentacent
 
 B
 
+
+
 NNoseaosea
 
 C
+
+
 
 TTrifugerifuge
 
 E
 
+
+
 CCunnonicunnonic
 
 D
+
+
 
 TTerant 340erant 340
 
 X
 
+
+
 TTormentorment
 
 D
+
+
 
 AAtortor
 
 B
 
+
+
 DDebarreebarre
 
 E
+
+
 
 C DDoranniaorannia
 
@@ -8684,17 +9125,25 @@ BBulariaularia
 
 E
 
+
+
 KKardinardin
 
 D
+
+
 
 8 886–945 86 – 945
 
 A
 
+
+
 GGarooaroo
 
 E
+
+
 
 UUniquaniqua
 
@@ -8735,8 +9184,7 @@ Terra; the Imperium arrived much later, As a result there are deep
 cultural differences between the two groups. Similarly, the Darrians
 were recovering from the Maghiz when the Sword Worlders arrived
 and claimed the region for their own. They thus see themselves
-as rightful overlords of the region, and tend to deal with foreign
-(Darrian or Imperial) ships passing through in a high–handed and
+as rightful overlords of the region, and tend to deal with foreign (Darrian or Imperial) ships passing through in a high–handed and
 arrogant manner.
 
 The four 'Metal Worlds' (Iron, Bronze, Mithril and Steel) are
@@ -9017,6 +9465,8 @@ SSWWORDORD WWOORLDSRLDS^97
 
 B
 
+
+
 HHruntingrunting
 
 
@@ -9031,11 +9481,15 @@ Vilis
 
 B
 
+
+
 TTizonizon
 
 
 
 B
+
+
 
 CColadaolada
 
@@ -9043,11 +9497,15 @@ CColadaolada
 
 B
 
+
+
 JJoyeuseoyeuse
 
 
 
 B
+
+
 
 MMjolnirjolnir
 
@@ -9055,11 +9513,15 @@ MMjolnirjolnir
 
 B
 
+
+
 GGungnirungnir
 
 
 
 A
+
+
 
 GGramram
 
@@ -9067,11 +9529,15 @@ GGramram
 
 B
 
+
+
 TTyrfingyrfing
 
 
 
 B
+
+
 
 BBeatereater
 
@@ -9079,11 +9545,15 @@ BBeatereater
 
 B
 
+
+
 SStingting
 
 
 
 B
+
+
 
 HHofudofud
 
@@ -9091,11 +9561,15 @@ HHofudofud
 
 B
 
+
+
 DDurendalurendal
 
 
 
 B
+
+
 
 DDyrnwynyrnwyn
 
@@ -9103,11 +9577,15 @@ DDyrnwynyrnwyn
 
 B
 
+
+
 BBiteriter
 
 
 
 B
+
+
 
 SSacnothacnoth
 
@@ -9115,11 +9593,15 @@ SSacnothacnoth
 
 B
 
+
+
 EExcaliburxcalibur
 
 
 
 B
+
+
 
 OOrcristrcrist
 
@@ -9127,11 +9609,15 @@ OOrcristrcrist
 
 B
 
+
+
 AAndurilnduril
 
 
 
 B
+
+
 
 NNarsilarsil
 
@@ -9139,13 +9625,19 @@ NNarsilarsil
 
 E
 
+
+
 IIronron
 
 E
 
+
+
 BBronzeronze
 
 E
+
+
 
 E MMithrilithril
 
@@ -9155,9 +9647,13 @@ GGunnunn
 
 E
 
+
+
 CCaliburnaliburn
 
 B
+
+
 
 CCaladbolgaladbolg
 
@@ -9165,9 +9661,13 @@ cc
 
 E
 
+
+
 EEnosnos
 
 A
+
+
 
 FFlammarionlammarion
 
@@ -9453,6 +9953,8 @@ LLUUNIONNION^101
 
 C
 
+
+
 AArbarba
 
 Lanth
@@ -9465,11 +9967,15 @@ Glisten
 
 D
 
+
+
 RRabwharabwhar
 
 cc
 
 A
+
+
 
 AAdabiccidabicci
 
@@ -9477,9 +9983,13 @@ AAdabiccidabicci
 
 B
 
+
+
 ZZaibonaibon
 
 A
+
+
 
 B TTenalphienalphi
 
@@ -9489,19 +9999,27 @@ cc
 
 C
 
+
+
 OOlympialympia
 
 C
 
+
+
 SSmougmoug
 
 C
+
+
 
 SSpirellepirelle
 
 cc
 
 E
+
+
 
 IIanicanic C
 
@@ -9511,6 +10029,8 @@ cc
 
 A
 
+
+
 LLunionunion
 
 
@@ -9518,15 +10038,21 @@ cc
 
 B
 
+
+
 SShirenehirene
 
 cc
 
 C
 
+
+
 CCarsearse
 
 B
+
+
 
 CCaponapon
 
@@ -9534,25 +10060,35 @@ CCaponapon
 
 B
 
+
+
 RRestenesten
 
 cc
 
 X
 
+
+
 GGorramorram
 
 B
 
+
+
 QQuiruuiru
 
 C
+
+
 
 SSharripharrip E
 
 GGandrandr
 
 E
+
+
 
 A DDrolrawrolraw
 
@@ -9562,13 +10098,19 @@ SStroudentrouden
 
 X
 
+
+
 PPenkwharenkwhar
 
 C
 
+
+
 HHarvosettearvosette
 
 B
+
+
 
 PPersephoneersephone
 
@@ -9898,6 +10440,8 @@ MMOORARA^105
 
 B
 
+
+
 Star Lane
 
 Rhylanor
@@ -9912,9 +10456,13 @@ FFoseyosey
 
 B
 
+
+
 BByretyret
 
 B
+
+
 
 MMercuryercury
 
@@ -9923,21 +10471,31 @@ cc
 
 C
 
+
+
 CCareyarey
 
 A
+
+
 
 DDualeuale
 
 C
 
+
+
 TTividivid
 
 E
 
+
+
 PPimaneimane
 
 B
+
+
 
 HHexosexos
 
@@ -9945,27 +10503,39 @@ HHexosexos
 
 C
 
+
+
 MMeletoeleto
 
 cc
 
 A
 
+
+
 MMaitzaitz
 
 E
+
+
 
 GGrillerille
 
 A
 
+
+
 FForniceornice
 
 B
 
+
+
 JJokotreokotre
 
 C
+
+
 
 MMoranoran
 
@@ -9973,9 +10543,13 @@ MMoranoran
 
 C
 
+
+
 CCatuzatuz
 
 A
+
+
 
 MMoraora
 
@@ -9984,11 +10558,15 @@ cc
 
 C
 
+
+
 DDojodoojodo
 
 cc
 
 C
+
+
 
 NNadrinadrin
 
@@ -9996,13 +10574,19 @@ cc
 
 C
 
+
+
 RRoriseorise
 
 C
 
+
+
 BBrodierodie
 
 C
+
+
 
 PPedaseedase
 
@@ -10010,21 +10594,29 @@ cc
 
 C
 
+
+
 MMainzainz
 
 cc
 
 A
 
+
+
 PPaliquealique
 
 D
+
+
 
 NNexineexine
 
 cc
 
 C
+
+
 
 FFen's Grenen's Gren
 
@@ -10319,6 +10911,8 @@ FFIIVEVE SSIISTERSSTERS^109
 
 E
 
+
+
 SSaxeaxe
 
 Darrian
@@ -10331,15 +10925,21 @@ Urnian
 
 B
 
+
+
 EEmapemape
 
 
 
 E
 
+
+
 GGotheothe
 
 B
+
+
 
 MMirriamirriam
 
@@ -10347,11 +10947,15 @@ MMirriamirriam
 
 E
 
+
+
 JJoneone
 
 
 
 A
+
+
 
 KKarinarin
 
@@ -10360,9 +10964,13 @@ cc
 
 C
 
+
+
 PPenelopeenelope
 
 D
+
+
 
 UUcellacella C
 
@@ -10372,15 +10980,21 @@ cc
 
 A
 
+
+
 IIderatiderati
 
 
 
 E
 
+
+
 RRalhealhe
 
 E
+
+
 
 8 875–496 75 – 496
 
@@ -10388,17 +11002,23 @@ cc
 
 E
 
+
+
 8 876–574 76 – 574 E
 
 7 769–422 69 – 422
 
 E
 
+
+
 WWonderayonderay B
 
 JJinxinx
 
 B
+
+
 
 RRawehaweh
 
@@ -10408,35 +11028,51 @@ FFroinroin
 
 B
 
+
+
 WWonstaronstar
 
 
 
 E
 
+
+
 LLakouakou
 
 C
+
+
 
 QQuhaiathatuhaiathat
 
 E
 
+
+
 TTondoulondoul
 
 D
+
+
 
 MMeweyewey
 
 E
 
+
+
 OOchecatechecate
 
 E
 
+
+
 9 975–452 75 – 452
 
 C
+
+
 
 C CCandoryandory
 
@@ -10485,8 +11121,7 @@ of the Imperium and are passively resistant to Imperial expansion.
 
 Among these anti–Imperial worlds is Trexalon, which has been
 involved in a cold war with Collace for many years now. The
-government of Trexalon and the Trexalon Technical Consortium
-(TTC) it leads knows that the Imperium will not tolerate armed
+government of Trexalon and the Trexalon Technical Consortium (TTC) it leads knows that the Imperium will not tolerate armed
 resistance and can bring vast forces to bear if the TTC starts attacking
 Imperial facilities and ships in the region. Resistance is thus low–key
 and below the level that will trigger an Imperial response. There are,
@@ -10734,6 +11369,8 @@ DDIISTRICTSTRICT 268268 113
 
 B
 
+
+
 AAsteltinesteltine
 
 Sword Worlds
@@ -10746,13 +11383,19 @@ Egyrn
 
 E
 
+
+
 5 567–908 67 – 908
 
 E
 
+
+
 FFaldoraldor
 
 D
+
+
 
 BBowmanowman
 
@@ -10760,9 +11403,13 @@ cc
 
 C
 
+
+
 SSqualliaquallia
 
 C
+
+
 
 WWalstonalston
 
@@ -10770,17 +11417,25 @@ cc
 
 E
 
+
+
 FFlexoslexos
 
 X
+
+
 
 NNirtonirton
 
 E
 
+
+
 DDatrillianatrillian
 
 E
+
+
 
 DDawnworldawnworld C
 
@@ -10792,6 +11447,8 @@ EElixabethlixabeth
 
 E
 
+
+
 D MMilagroilagro
 
 E FForineorine
@@ -10800,15 +11457,21 @@ NNoctocoloctocol
 
 C
 
+
+
 TTarkinearkine
 
 cc
 
 B
 
+
+
 DDalliaallia
 
 E
+
+
 
 TTalosalos B
 
@@ -10817,6 +11480,8 @@ MMertactorertactor
 cc
 B
 
+
+
 MMille Falcsille Falcs
 
 
@@ -10824,13 +11489,19 @@ cc
 
 A
 
+
+
 BBingesinges
 
 C
 
+
+
 PPagatonagaton
 
 E
+
+
 
 B JJudiceudice
 
@@ -10840,11 +11511,15 @@ cc
 
 C
 
+
+
 PPavabidavabid B
 
 TTrexalonrexalon
 
 B
+
+
 
 MMotmosotmos
 
@@ -10852,15 +11527,21 @@ MMotmosotmos
 
 B
 
+
+
 TTarsusarsus
 
 C
+
+
 
 D AAvastanvastan
 
 IInchinnchin
 
 D
+
+
 
 SSingeringer C
 
@@ -11182,6 +11863,8 @@ GGLLISTENISTEN^117
 
 A
 
+
+
 GGroterote
 
 Trin's Veil
@@ -11194,17 +11877,25 @@ Pax Rulin
 
 E
 
+
+
 LLydiaydia
 
 C
+
+
 
 MMithrasithras
 
 A
 
+
+
 WWeisseiss
 
 C
+
+
 
 WWindsorindsor B
 
@@ -11212,13 +11903,19 @@ AAkiki
 
 B
 
+
+
 OOvernalevernale
 
 E
 
+
+
 CCalliaallia
 
 D
+
+
 
 MMeliorelior A
 
@@ -11229,11 +11926,15 @@ cc
 
 B
 
+
+
 NNew Romeew Rome
 
 
 
 B
+
+
 
 EEgyptgypt
 
@@ -11241,23 +11942,33 @@ EEgyptgypt
 
 C
 
+
+
 AAsterster
 
 C
+
+
 
 CCrawraw
 
 C
 
+
+
 TTranerane
 
 C
+
+
 
 HHoroshoorosho
 
 cc
 
 B
+
+
 
 RRomaromar
 
@@ -11266,19 +11977,27 @@ cc
 
 C
 
+
+
 WWurzburgurzburg
 
 cc
 
 E
 
+
+
 SSorelorel
 
 D
 
+
+
 TTsarinasarina
 
 A
+
+
 
 BBendorendor
 
@@ -11287,29 +12006,41 @@ cc
 
 A
 
+
+
 C FFfudhfudh
 
 IInthenthe
 
 C
 
+
+
 CCaledoniaaledonia
 
 C
+
+
 
 TTiremirem
 
 E
 
+
+
 CCroutrout
 
 D
+
+
 
 E MMarastanarastan
 
 CCentryentry
 
 E
+
+
 
 BBicornnicornn
 
@@ -11547,6 +12278,8 @@ TTRRININ''SS VVEEILIL^121
 
 B
 
+
+
 TTussinianussinian
 
 Mora
@@ -11559,9 +12292,13 @@ Gazulin
 
 A
 
+
+
 EEdeneltdenelt
 
 E
+
+
 
 LLeandereander E
 
@@ -11569,11 +12306,15 @@ RRaydradaydrad
 
 B
 
+
+
 KKataruluatarulu
 
 
 
 D
+
+
 
 PPeperniumepernium B
 
@@ -11587,9 +12328,13 @@ MMurchisonurchison
 
 B
 
+
+
 PPrilissarilissa
 
 A
+
+
 
 TTrinrin
 
@@ -11598,17 +12343,25 @@ cc
 
 C
 
+
+
 HHazelazel
 
 B
+
+
 
 RRamivaamiva
 
 X
 
+
+
 ZZephyrephyr
 
 B
+
+
 
 CChamoishamois
 
@@ -11616,13 +12369,19 @@ cc
 
 C
 
+
+
 TTee–Tee–ee–Tee–
 
 A
 
+
+
 YYoughaloughal
 
 D
+
+
 
 TTenelphienelphi
 
@@ -11630,11 +12389,15 @@ cc
 
 D
 
+
+
 TThornnastorhornnastor
 
 cc
 
 C
+
+
 
 FFarquahararquahar
 
@@ -11642,19 +12405,27 @@ cc
 
 C
 
+
+
 DDoddsodds
 
 cc
 
 E
 
+
+
 DD'Mara'Mara
 
 E
 
+
+
 PPyramusyramus
 
 E
+
+
 
 TThisbehisbe C
 
@@ -11664,28 +12435,40 @@ AAramisramis
 
 A
 
+
+
 DDobhamobham
 
 cc
 C
 
+
+
 RRobinobin
 
 A
+
+
 
 SSquaninequanine
 
 C
 
+
+
 BBurtsonurtson
 
 D
+
+
 
 CConwayonway
 
 cc
 
 A
+
+
 
 HHammermiumammermium
 

@@ -67,7 +67,7 @@ Clashing cultures are not the only factors to contend with when assembling a sub
 
 |  Population | Imperial Army Presence                                                                                                                                                                                      |
 | :---------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  4 or below | No independent army unless Government code is 6 (see below). A militia may be present or the world might be defended by a detachment from a nearby world that has a higher population.                      |
+|  4 or below | No independent army unless Government code is6 (see below). A militia may be present or the world might be defended by a detachment from a nearby world that has a higher population.                      |
 |      5      | Militia or Imperial Army present. Worlds with Population 5 are on the dividing line. Some will have a large militia and others a small army. If the world has an army, it may be part of the Imperial Army. |
 | 6 or higher | Imperial Army present. If Government code is 6, the world may have a captive government or military rule.                                                                                                   |
 

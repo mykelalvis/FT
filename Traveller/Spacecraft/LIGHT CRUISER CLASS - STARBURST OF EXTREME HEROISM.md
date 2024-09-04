@@ -66,8 +66,12 @@ Administrators x10
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr1.813632/month
 PURCHASE COST
+
+
 MCr21764.335
 
 Power Requirements

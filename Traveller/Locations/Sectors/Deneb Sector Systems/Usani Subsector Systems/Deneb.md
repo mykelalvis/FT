@@ -2,8 +2,7 @@
 
 The Deneb system was named for its blue-white giant primary rather than its mainworld, although eventually the name of the mainworld was changed. Deneb is the homeworld of the Nenlat, an amphibious minor race who had achieved only the most basic technology when humans arrived.
 
-The Nenlat evolved in low-lying wetlands and most still occupy these areas. Their traditional villages are capable of maintaining a TL4 society, with some imported high-
-technology items here and there. 'High technology' in the case of the Nenlat means around TL6-8 for the most part. Higher-tech items require too much support and do not remain functional for long in the damp conditions favored by traditional Nenlat.
+The Nenlat evolved in low-lying wetlands and most still occupy these areas. Their traditional villages are capable of maintaining a TL4 society, with some imported high-technology items here and there. 'High technology' in the case of the Nenlat means around TL6-8 for the most part. Higher-tech items require too much support and do not remain functional for long in the damp conditions favored by traditional Nenlat.
 
 Some Nenlat live among the 'interstellar' society of Deneb, which is made up mostly of humans with some Vargr and other species scattered among them. These Nenlat are thoroughly Imperial in outlook and consider themselves superior to 'traditional' wetlands Nenlat.  This manifests itself as contempt and a tendency towards patronising protectiveness. There is no real animosity, just a lack of understanding between the two cultures.
 
@@ -15,6 +14,8 @@ Religious law is very strict in the cities of Deneb and enforced with vigour. Th
 Deneb has what is thought to be an Ancients site. It is quite extensive but almost completely ruined and appears to have been a major city at one time. Most of the ruin is semi-submerged in the wetlands, although the land was probably well drained when it was built.  Nenlat children play among the tumbled spires and broken walls, gaining access despite the best efforts of a private security firm to let only properly authorized scientists study the remains.
 
 NENLAT
+
+
 
 ANIMAL HITS SPEED Nenlat 21 6 m SKILLS Melee (natural) 1, Survival 1 ATTACKS Stinger (1D)
 TRAITS Amphibious BEHAVIOUR Omnivore, Sophont

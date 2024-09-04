@@ -13,8 +13,7 @@ The Bhu'oovaakaylaa are classified as a Minor Race with human-level intelligence
 Alien Hits Speed
 Bhu'oovaakaylaa 70 6m (aquatic),
 4m (flight)
-Skills Athletics (dexterity) 2, Flyer
-(natural) 2, Melee (natural) 1,
+Skills Athletics (dexterity) 2, Flyer (natural) 2, Melee (natural) 1,
 Recon 2, Survival 1
 Attacks Bite (2D)
 Traits Amphibious, Armor (+2),

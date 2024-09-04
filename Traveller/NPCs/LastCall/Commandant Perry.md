@@ -11,7 +11,7 @@ tags:
 Perry is the head of the Asei security forces on Affinity. He is well-connected on [[Ase]] and hopes to leverage a successful operation on Affinity to launch himself into a diplomatic career. Perry is cunning but ethical and fully believes in the necessity of his mission.
 
 ![[CA2-50_1476396044.jpg]]
-SPECIES GENDER AGE
+
 Vilani Male 56
 
 **COMMANDANT PERRYCOMMANDANT PERRY**

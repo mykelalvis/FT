@@ -27,15 +27,13 @@ Gl'lu Travellers all possess the following traits:
 
 **IR Vision:** Gl'lu have highly developed vision in the infrared part of the spectrum and can see clearly in darkness. However, they can only see in infrared.
 
-**Natural Weapon (fangs, 1D+2):** Gl'lu have sharp fangs that they can use to bite enemies. The fangs do 1D+2 damage and use the Melee
-(natural) skill.
+**Natural Weapon (fangs, 1D+2):** Gl'lu have sharp fangs that they can use to bite enemies. The fangs do 1D+2 damage and use the Melee (natural) skill.
 
 #### Careers
 
 All careers from the _Traveller Core Rulebook_ are suitable for the Gl'lu.
 
-Gl'lu Starships The Gl'lu have become a minor starfaring race and thousands of Gl'lu traders can be found throughout the region. Their best-selling commodities include high-
-grade materials and innovative environmental products, while the synthetic slime coating that grants the wearer protection from airborne corrosives is less than attractive to other races.
+Gl'lu Starships The Gl'lu have become a minor starfaring race and thousands of Gl'lu traders can be found throughout the region. Their best-selling commodities include high-grade materials and innovative environmental products, while the synthetic slime coating that grants the wearer protection from airborne corrosives is less than attractive to other races.
 
 Gl'lu starship design is a focus of obsession with backup systems and redundancy, and all Gl'lu starships have two bridges and two maneuver drives, typically situated as far apart as possible. To a human, this wasted space seems inefficient and in cases of multiple backups even ludicrous, but to a Gl'lu humans live on borrowed time onboard ships with no real redundancy of critical systems.
 
@@ -57,8 +55,7 @@ Common Areas
 
 Cargo 60 –
 
-TL13 TONS COST
-(MCR)
+TL13 TONS COST (MCR)
 
 60 60 3
 
@@ -66,13 +63,23 @@ TL13 TONS COST
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 MAINTENANCE COST Cr8837/month
 
@@ -82,13 +89,21 @@ TOTAL: MCR106.044
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
 
+
+
 LEGEND
+
+
 
 1. Bridge 2. Maneuver drive 3. Cargo hold 4. Crane 5. Airlock 6. Sensors 7. Staterooms 8. Common area 9. Low berths 10. Fuel processor 11. Jump drive 12. Power plant 13. Docking space 14. Double turret 15. Cargo scoop
 
@@ -159,8 +174,7 @@ Characteristics Lurent Travellers roll 2D+4 when generating their STR and END.
 
 Traits Lurent Travellers all possess the following traits:
 Natural Weapon (Tentacle Bash, 2D): Lurent are big and powerful enough to be able to smash many opponents without needing to pick up a weapon.
-Their tentacles do 2D damage and use the Melee
-(natural) skill.
+Their tentacles do 2D damage and use the Melee (natural) skill.
 
 Wanderlust: Lurent who are in a 'wandering cycle'
 cannot remain in one place for long. They will constantly agitate to be moving on and become increasingly irritable if they cannot. Those in a 'homeward' cycle will do the same but are compelled to make progress in the direction of Borlund. A Lurent in a 'sedentary' cycle will want to stay where he is and not be receptive to suggestions of further travel.

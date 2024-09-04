@@ -13,4 +13,4 @@ Cryer has an easy-going attitude and is an expert at making small talk, a useful
 
 ### MARK CRYER CAREER PATH STR DEX END INT EDU SOC
 
-Age 28 Agent (2) 9 (+1) 11 (+1) 8 (0) 10 (+1) 8 (0) 10 (+1) Comms 0, Computers 1, Deception 1, Gun Combat (Energy Pistol) 1, Investigate 1, Persuade 1, Recon 1, Stealth 1, Streetwise 1 Laser Pistol (3d6), Cloth armor (3)
+Age 28 Agent (2)9 (+1) 11 (+1)8 (0) 10 (+1)8 (0) 10 (+1) Comms 0, Computers 1, Deception 1, Gun Combat (Energy Pistol) 1, Investigate 1, Persuade 1, Recon 1, Stealth 1, Streetwise 1 Laser Pistol (3d6), Cloth armor (3)

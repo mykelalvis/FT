@@ -16,7 +16,9 @@ Conducting the business that he does, Daniel must be careful when dealing with n
 name: "DANIEL"
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 32 Agent (3) 8 (0) 10 (+1) 10 (+1) 9 (+1) 8 (0) 11 (+1) Broker 2, Carouse 0, Comms 0, Computers 0, Deception 1, Gun Combat 0, Investigate 1, Persuade 1, Recon 0 Snub Pistol (3d6–3)
+
+
+Age 32 Agent (3)8 (0) 10 (+1) 10 (+1)9 (+1)8 (0) 11 (+1) Broker 2, Carouse 0, Comms 0, Computers 0, Deception 1, Gun Combat 0, Investigate 1, Persuade 1, Recon 0 Snub Pistol (3d6–3)
 ```
 
 ### THE TEST

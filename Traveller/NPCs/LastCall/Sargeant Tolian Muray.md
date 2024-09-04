@@ -25,5 +25,5 @@ EQUIPMENT Portable Computer, Commdot
 Weapons: Laser Carbine (4D+3, Zero-G), Stunner (3D), Truncheon (2D)
 Armor: Poly Carapace (+16)
 
-SPECIES GENDER AGE
+
 Vilani Female 32

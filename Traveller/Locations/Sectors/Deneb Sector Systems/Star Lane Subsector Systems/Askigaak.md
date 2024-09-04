@@ -6,11 +6,14 @@ The human population is ruled directly by the Count of Askigaak, an unusual situ
 
 Licences are not cheap but easy enough to obtain since they exist primarily to make money for the count. This is technically a restriction of interstellar trade and thus a violation of Imperial High Law but the count gets away with it partly by way of legal obfuscation – presenting the licensing arrangement as a means of paying for the orbital port he built with his own funds – and partly through complex political wrangling that allows the count to derail any investigation into his business practices.
 
-The Sigka are self-governing within their own underwater communities and in constant conflict with ocean-
-going predators such as the Sachupe. Some leave their homeworld and journey around the subsector but for the most part they are content to remain in their ocean homes.
+The Sigka are self-governing within their own underwater communities and in constant conflict with ocean-going predators such as the Sachupe. Some leave their homeworld and journey around the subsector but for the most part they are content to remain in their ocean homes.
 
 SACHUPE
+
+
 ANIMAL HITS SPEED
+
+
 Sachupe 130 24m
 SKILLS Melee (natural) 1, Recon 1, Survival 1 ATTACKS Grab and Bite (8D)
 TRAITS Armor (+6), Heightened Senses, Large (+6)

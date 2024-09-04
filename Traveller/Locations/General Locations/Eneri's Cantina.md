@@ -28,7 +28,6 @@ Manipulators 2x (STR 12 DEX 7), 2x (STR 9 DEX 9)
 Endurance 108 hours
 Traits Armor (+4), ATV, Heightened Senses
 Programming Advanced (INT 8)
-Options Auditory Sensor, Autobar (advanced), Domestic Cleaning Equipment (small), Olfactory Sensor
-(advanced), Storage Compartment (10kg refrigerated), Transceiver 5km (improved), Visual
+Options Auditory Sensor, Autobar (advanced), Domestic Cleaning Equipment (small), Olfactory Sensor (advanced), Storage Compartment (10kg refrigerated), Transceiver 5km (improved), Visual
 Spectrum Sensor, Voder Speaker, Wireless Data Link, Spare slots (4)
 ```

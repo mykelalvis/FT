@@ -1,3 +1,9 @@
+---
+date created: 2024-09-03 15:56
+aliases:
+  - Sword Worlders
+---
+
 Settlers set out from [[Terra]] and other worlds throughout the [[Interstellar Wars]] and [[Second Imperium|Rule of Man]]. Some used cryogenic suspension, others attempted to use generation ships. Most had jump-capable vessels. The fate of many will never be known and there are almost certainly still a number of sublight vessels filled with now-dead frozen colonists headed into the unknown.
 
 However, the fate of some missions was less grim. One such reached the world now named [[Gram]], in the [[Sword Worlds subsector]], and founded a colony in -399. This group comprised mainly of North Europeans from Terra and, possibly due to difficult times early on, developed a rather unique culture based on an idealised version of Icelandic and Scandinavian values. As the colony grew, surrounding worlds were colonized and named for swords in [[Terra|Terran]] mythology. A government of sorts, based on the world of [[Sacnoth]] and known as the [[Sacnoth Dominate]], eventually emerged.

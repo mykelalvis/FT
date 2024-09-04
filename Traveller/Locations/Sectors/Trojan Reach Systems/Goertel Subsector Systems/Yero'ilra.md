@@ -54,14 +54,9 @@ In addition to its myriad political and social problems, Yero'ilra is suffering 
 
 #### System Details
 
-Position Name UWP Primary Iséyurliyfe F8 V 0 Suiti X100000-
-1 Khtehyó X200000-
-2 Eesiho X200000-
-3 Yesaea F30036A-
-4 Yero'ilra D500897-
-1 Oei F100267- 5 (Empty)
+Position Name UWP Primary Iséyurliyfe F8 V 0 Suiti X100000-1 Khtehyó X200000-2 Eesiho X200000-3 Yesaea F30036A-4 Yero'ilra D500897-1 Oei F100267-5 (Empty)
 6 (Empty)
-Secondary Oúolaoeis M1 V 0 Htirlaosea H400160- 1 Ahiuryu Small GG 2 Ring System YR00000- Tertiary Oúoyukhai M7 V 7 (Empty)
+Secondary Oúolaoeis M1 V 0 Htirlaosea H400160- 1 Ahiuryu Small GG 2 Ring System YR00000- Tertiary Oúoyukhai M7 V7 (Empty)
 8 Ftaoheilaraw Large GG 2 Ring System YR00000- 6 Syefo Yerlai X100000- 9 Syefo Yeikh X100000- 15 Syefo Wihka X200000- 25 Syefo Uiyo X100000- 9 Fta Large GG 2 Ring System YR00000- 8 Khtao Yerlai X100000- 10 Khtao Yeikh X100000- 15 Khtao Wihka X201000- 25 Khtao Uiyo H301368- 35 Khtao Aea X200000- 50 Khtao Ftes X100000- 10 Oatleftakh X200000- 11 Íal Suaselreal X411000- 2 Teahtah X100000- 12 Khuasyeaiw X100000- 13 Hwos X100000-
 
 ### Htirlaosea

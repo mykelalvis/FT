@@ -3,6 +3,8 @@ Lying off the main trade routes, Bicornn is a low-tech world of no great importa
 
 KRVN
 
+
+
 Krvn are omnivorous and capable of burrowing through dense soil. Their nests contain dozens, perhaps hundreds, of workers and one or more large breeders which are rarely seen aboveground.
 
 ANIMAL HITS SPEED Krvn 16 8m SKILLS Stealth 1 ATTACKS Bite (1D)

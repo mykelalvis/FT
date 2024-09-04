@@ -8,6 +8,8 @@ Total cost of assault battledress with the standard gear is Cr764000.
 
 ```
 ARMOR TYPE PROTECTION TL RAD STR DEX SLOTS KG COST REQUIRED SKILL
+
+
 Imperial Marine
 Assault Battle Dress
 
@@ -19,6 +21,8 @@ The following gear is standard on the assault battle dress:
 
 ```
 MODIFICATION TL SLOTS COST
+
+
 Advanced Life Support 13 2 Cr20000
 Anti-Missile System 15 2 Cr125000
 Camouflage 12 — Cr5000

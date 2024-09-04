@@ -19,5 +19,5 @@ Like many Imperial agents, Forces spends most of his time in the field and is us
 
 ### JAMES FORBES CAREER PATH STR DEX END INT EDU SOC
 
-Age 37 Agent (4) 7 (0) 11 (+1) 9 (+1) 10 (+1) 7 (0) 8 (0) Carouse 0, Comms 0, Computers 1, Deception 2, Gun Combat (Energy Pistol) 1, Investigate 2, Persuade 2, Recon 1, Stealth 1, Streetwise 0 Laser Pistol (3d6+3), Flak Jacket (4), Reflec armor (0/10)
+Age 37 Agent (4)7 (0) 11 (+1)9 (+1) 10 (+1)7 (0)8 (0) Carouse 0, Comms 0, Computers 1, Deception 2, Gun Combat (Energy Pistol) 1, Investigate 2, Persuade 2, Recon 1, Stealth 1, Streetwise 0 Laser Pistol (3d6+3), Flak Jacket (4), Reflec armor (0/10)
 ```

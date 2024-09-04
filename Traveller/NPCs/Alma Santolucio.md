@@ -19,10 +19,12 @@ END 8 SOC 8
 EQUIPMENT Hand Computer, Decryptor (TL12)
 Armor: Tailored Vacc Suit (+8)
 
-SPECIES GENDER AGE
+
 — Female —
 
 ALMA SANTOLUCIO
+
+
 
 Alma is a humorless bureaucrat whose job it is to ferret out corruption and expose it to higher-ups in the Imperial Justice Department so they may seek out offenders and prosecute them. Alma might encounter the Travellers at [[Anther]] or another busy port in the [[Chant subsector]], where she will request a working or basic passage aboard their starship provided that they are travelling rimward towards the more troubled worlds.
 

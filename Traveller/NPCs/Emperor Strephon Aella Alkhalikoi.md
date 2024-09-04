@@ -21,9 +21,7 @@ The first great challenge of Strephon's reign was the [[Fourth Frontier War]]. T
 
 TRAITS — SKILLS
 STR 7 INT 10 (13) Admin 4, Art (visual media)
-2, Carouse 1, Electronics
-(remote ops) 1, Language
-(Vilani) 1, Leadership 3,
+2, Carouse 1, Electronics (remote ops) 1, Language (Vilani) 1, Leadership 3,
 Persuade 1, Pilot (small
 craft) 2, Science (genetics)
 1, Science (history) 1,
@@ -37,13 +35,17 @@ END 8 SOC 17
 EQUIPMENT Imperial raiment, iridium crown
 and sceptre
 PERSONAL
+
+
 AUGMENTATION
+
+
 
 Cognitive Augmentation (INT+3),
 Enhanced Vision, Neural Comm,
 Neural Link, Wafer Jack
 
-SPECIES GENDER AGE
+
 — Male 56
 ```
 

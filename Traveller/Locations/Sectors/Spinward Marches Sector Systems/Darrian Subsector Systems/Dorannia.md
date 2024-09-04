@@ -24,9 +24,15 @@ The latter took a form that would simply not be allowed in the [[Imperium]]. Bat
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -34,15 +40,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 8
 
@@ -74,9 +92,15 @@ Tracked
 
 ARMOR
 
+
+
 EQUIPMENT AND WEAPONS TRAITS
 
+
+
 TRANSPORT CRAWLER
+
+
 
 FRONT 12
 
@@ -90,8 +114,9 @@ TL8
 
 DESCRIPTION
 
-Crawlers of all sizes are used on Dorannia, to cross its inhospitable surface, and this represents the largest, capable of carrying both cargo and passengers over rough terrain in safety. It is not especially well-appointed but running costs after purchase are relatively cheap and a well-
-maintained crawler can keep moving for decades before being replaced.
+
+
+Crawlers of all sizes are used on Dorannia, to cross its inhospitable surface, and this represents the largest, capable of carrying both cargo and passengers over rough terrain in safety. It is not especially well-appointed but running costs after purchase are relatively cheap and a well-maintained crawler can keep moving for decades before being replaced.
 
 Autopilot (skill level) 1 Communications (range) 500km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) +1 Camouflage (Recon DM) -
 Stealth (Electronics (sensors) DM) -

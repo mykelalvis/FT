@@ -1,0 +1,5 @@
+### Flammarion
+
+Flammarion is an important link on the [[x-boat]] route to the [[Five Sisters Subsector|Five Sisters]] and the site of both an [[Imperial Navy]] base and a [[Scout Service]] way station. The naval base is a small affair intended mainly to support patrol ships and destroyers. It is unusual to see even a cruiser, let alone a capital ship, passing through the region in peacetime. The scout base is considerably larger, with full way station status. This makes it an important centre for [[Scout Service]] activity in the region, ranging from training and routine communications duty to exploration and survey missions, and probably (although the Imperial authorities will neither confirm nor deny) surveillance and reconnaissance missions into the Sword Worlds. The Flammarion scout base is also host to a Detached Duty Branch office, known for distributing decommissioned scout/couriers to retired scouts.
+
+Flammarion itself is an unappealing world with a thin atmosphere, despite its size, and little surface water. Most Travellers stop over at the large and well-equipped highport and never set foot on-planet.

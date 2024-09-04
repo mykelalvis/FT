@@ -20,8 +20,7 @@ Traits Armor (+4), ATV, Large (+2), Vehicle Speed: Very Slow (Slow), Hardened
 Programming Advanced (INT 6)
 Options Auditory Sensor, Drone Control Interface (advanced), Visual Spectrum Sensor,
 Voder Speaker, Wireless Data Link, Magnetic Grippers, Forklift (medium),
-Transceiver 50 km (improved), Vacuum Environment Protection, Cutting Torch
-(improved), Mechanical Toolkit (basic)
+Transceiver 50 km (improved), Vacuum Environment Protection, Cutting Torch (improved), Mechanical Toolkit (basic)
 
 Dim Highport Cargo Robot
 Dim cargo bots of various shapes and sizes
@@ -40,7 +39,6 @@ from time-to-time.
 
 Operating a Dim Highport cargo robot
 without trampling innocent bystanders:
-Difficult (10+) Electronics (remote ops) check
-(2D minutes, DEX).
+Difficult (10+) Electronics (remote ops) check (2D minutes, DEX).
 
 ```

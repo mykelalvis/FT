@@ -1,7 +1,6 @@
 Fuzzy Lawless
 
-profiled by Sam Swindell
-(https://www.freelancetraveller.com/features/characters/sam-swindell/fuzzy-lawless.html)
+profiled by Sam Swindell (https://www.freelancetraveller.com/features/characters/sam-swindell/fuzzy-lawless.html)
 This article originally appeared in the [December 2014](https://www.freelancetraveller.com/magazine/2014-12/index.html) issue.
 
 **Fuzzy Lawless** 9485B2 Age 50 Cr80,000  

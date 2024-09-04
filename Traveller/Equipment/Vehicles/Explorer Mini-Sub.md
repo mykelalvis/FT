@@ -22,6 +22,8 @@ SHIPPING 5 tons
 COST Cr559950
 
 EQUIPMENT
+
+
 Autopilot (skill level) 0
 Communications (range) 1,000km
 Navigation (Navigation DM) +2
@@ -30,7 +32,11 @@ Camouflage (Recon DM) -4
 Stealth (Electronics (sensors) DM) —
 
 EQUIPMENT AND WEAPONS
+
+
 Autopilot (advanced), Communications System (advanced), Computer/3, Fire Extinguishers, Holding Tank (1 space), Hydrographic Sampler, Navigation System (improved), Sensors (improved, underwater).
 
 ARMOR
+
+
 FRONT 4 REAR 4 SIDES 4

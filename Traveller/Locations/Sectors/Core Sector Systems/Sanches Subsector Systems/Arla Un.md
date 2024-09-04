@@ -21,6 +21,8 @@ SHIPPING 14 tons
 COST MCr2.579
 
 EQUIPMENT
+
+
 Autopilot (skill level) +3
 Communications (range) 500km
 Navigation (Navigation DM) +2
@@ -29,12 +31,14 @@ Camouflage (Recon DM) —
 Stealth (Electronics (sensors) DM) —
 
 EQUIPMENT AND WEAPONS
-Airlock, Autopilot (advanced), Communications System
-(improved, satellite uplink), Computer/1, Environment
+
+
+Airlock, Autopilot (advanced), Communications System (improved, satellite uplink), Computer/1, Environment
 Protection (hostile, vacuum), Fire Extinguishers,
 Galley (seats 5), Life Support (long term), Manipulator
-Arm (basic), Navigation System (improved), Sensors
-(improved, sensor mast).
+Arm (basic), Navigation System (improved), Sensors (improved, sensor mast).
 
 ARMOR
+
+
 FRONT 3 REAR 3 SIDES 3

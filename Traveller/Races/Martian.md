@@ -7,8 +7,7 @@ Physically, the Martians are lightly built humanoids with long arms, reflecting 
 #### Creating Martian Travellers
 Martians are humanoid and can carry out any task a human can with roughly equal efficiency once they have been shown how. Their language is very difficult to pronounce and hard to follow for non-Martians, so they tend to use Anglic or other local languages, which they have no apparent difficulty in learning.
 
-Characteristics Martian Travellers have the following modifiers applied to their characteristics: STR-1, END-
-1, DEX+1. EDU is rolled on 1D and cannot be increased beyond 7.
+Characteristics Martian Travellers have the following modifiers applied to their characteristics: STR-1, END-1, DEX+1. EDU is rolled on 1D and cannot be increased beyond 7.
 
 Traits Martian Travellers all possess the following traits:
 Adaptability: All Martians have an instinctive ability to figure out what a tool or item can be used for –

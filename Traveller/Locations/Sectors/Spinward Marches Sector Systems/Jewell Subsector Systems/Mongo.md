@@ -32,5 +32,5 @@ This is the only land based facility operated by MagnetoDynamics. It has a prime
 ![[Trip-346.jpg|100]]
 ## MagnetoDynamics Platforms
 
-Referred to as MDP 1, MDP 2, and MDP 3 (short for 'MagnetoDynamics Platform'), these three platforms travel the oceans to extract the mineral deposits. Refer to the MDP 1 encounter for details.
+Referred to as MDP 1, MDP 2, and MDP3 (short for 'MagnetoDynamics Platform'), these three platforms travel the oceans to extract the mineral deposits. Refer to the MDP 1 encounter for details.
 

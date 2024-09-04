@@ -20,9 +20,7 @@ The Empress Iolanthe is descended from a prominent Vilani family and the daughte
 **EMPRESS IOLANTHE ALKHALIKOI**
 
 TRAITS — SKILLS
-STR 7 INT 11 Admin 3, Art
-(performance) 1, Athletics
-(dexterity) 1, Carouse
+STR 7 INT 11 Admin 3, Art (performance) 1, Athletics (dexterity) 1, Carouse
 3, Language (Gvegh) 2,
 Leadership 2, Persuade 2,
 Science (psychology) 1
@@ -32,13 +30,17 @@ END 5 SOC 17
 
 EQUIPMENT Imperial raiment and platinum tiara
 PERSONAL
+
+
 AUGMENTATION
+
+
 
 Cognitive Augmentation (INT+3),
 Enhanced Vision, Neural Comm,
 Neural Link, Wafer Jack
 
-SPECIES GENDER AGE
+
 — Female 53
 
 ```

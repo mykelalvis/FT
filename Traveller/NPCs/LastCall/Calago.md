@@ -22,5 +22,5 @@ EQUIPMENT Fishing Gear
 Weapons: Heavy Revolver (4D-3), Blade (2D)
 Armor: Natural (+2)
 
-SPECIES GENDER AGE
+
 Chimera Male 28

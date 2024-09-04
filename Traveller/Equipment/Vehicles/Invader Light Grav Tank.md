@@ -26,6 +26,8 @@ SHIPPING 30 TONS
 COST MCr35.44
 
 WEAPONS RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL
+
+
 Fusion Gun-Y 5 3DD — — AP 20, Blast 20,
 Radiation
 
@@ -34,6 +36,8 @@ Radiation
 Gauss Cannon 2 1DD 200 Cr1000 AP 10, Auto 3 +4
 
 EQUIPMENT
+
+
 Autopilot (skill level) 2
 Communications (range) 1,000km
 Navigation (Navigation DM) +4
@@ -44,17 +48,18 @@ Stealth (Electronics (sensors) DM) -4
 Invader Light Grav Tank
 
 EQUIPMENT AND WEAPONS
-Anti-Missile System (advanced laser), Autopilot
-(enhanced), Bunks, Camouflage (advanced),
+
+
+Anti-Missile System (advanced laser), Autopilot (enhanced), Bunks, Camouflage (advanced),
 Communications System (advanced, encrypted, satellite
 uplink, tightbeam), Computer/5, ECM (advanced),
 Control system (enhanced), Fire Extinguishers, Fusion
 Plant (advanced), Life Support (short term), Navigation
-System (advanced), Prismatic Aerosol, Reactive Armor
-(advanced), Large Turret (fusion gun-Y), Small Turret
-(gauss cannon), Vacuum Protection
+System (advanced), Prismatic Aerosol, Reactive Armor (advanced), Large Turret (fusion gun-Y), Small Turret (gauss cannon), Vacuum Protection
 
 TRAITS
+
+
 AFV, Streamlined
 
 **ARMOR**

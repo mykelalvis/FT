@@ -6,6 +6,8 @@ Tetzel's atmospheric taint takes the form of mildly radioactive dust particles, 
 
 CLAMBREY
 
+
+
 ANIMAL HITS SPEED Clambrey 18 4 m
 SKILLS Melee (claws) 1, Recon 1, Survival 1
 ATTACKS Claws or Bite (2D)

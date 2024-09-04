@@ -8,9 +8,13 @@ tags:
 
 ```
 BARON EDWARD  HADWAY
+
+
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 43 Nobility (5) 7 (0) 8 (0) 7 (0) 9 (+1) 11 (+1) 10 (+1)
+
+
+Age 43 Nobility (5)7 (0)8 (0)7 (0)9 (+1) 11 (+1) 10 (+1)
 
 Admin 0, Advocate 1, Carouse 2, Diplomat 2, Investigate 0, Melee (Blade) 1, Persuade 1 Rapier 1d6+4, Cloth armor (5)
 ```

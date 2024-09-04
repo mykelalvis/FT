@@ -170,21 +170,21 @@ The following languages are most commonly heard:
 
 ### Trade Data
 
-*   Importance: 1 (ordinary)
+*   Importance:1 (ordinary)
 
 ### World Economy
 
-*   Resources: 5 (scarce)
-*   Labor: 1 (tens)
-*   Infrastructure: 1 (extremely limited)
+*   Resources:5 (scarce)
+*   Labor:1 (tens)
+*   Infrastructure:1 (extremely limited)
 *   Efficiency: -3 (poor)
 
 ### World Culture
 
-*   Heterogenity: 1 (monolithic)
-*   Acceptance: 3 (xenophobic)
-*   Strangeness: 1 (very typical)
-*   Symbols: 8 (somewhat abstract)
+*   Heterogenity:1 (monolithic)
+*   Acceptance:3 (xenophobic)
+*   Strangeness:1 (very typical)
+*   Symbols:8 (somewhat abstract)
 
 #### World Timeline
 

@@ -54,8 +54,7 @@ Unusually, the [[Spinward Marches]] does not have a system named Depot like most
 
 The subsector is defended by the 23rd Fleet based out of [[Rhylanor]], [[Jae Tellona]], [[Macene]], [[Margesi]] and [[Nutema]] naval bases, and there are heavy elements of the Sector Fleet including several BatRons and CruRons held in reserve at [[Macene]].
 
-Rhylanor subsector has a number of corporate bases, notably at [[Rhylanor]] itself. These include shipyards and manufacturing centres as well as research installations. The [[Imperium]] maintains a research station
-(designated Gamma) at [[Vanejen]], located in a remote area of the planet.
+Rhylanor subsector has a number of corporate bases, notably at [[Rhylanor]] itself. These include shipyards and manufacturing centres as well as research installations. The [[Imperium]] maintains a research station (designated Gamma) at [[Vanejen]], located in a remote area of the planet.
 
 There are three [[Red Zone]]s: [[Gerome]], [[Huderu]] and [[457-973]]. Conspiracy theorists keep trying to link the latter with the research station at [[Vanejen]] but this seems unlikely as the [[Imperium]] would place its station at a location within the interdicted system if there were something needing to be studied.
 

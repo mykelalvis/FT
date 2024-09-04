@@ -19,7 +19,6 @@ Caste Characteristics Designer: DEX+1, END-1 Explorer: DEX+1, END-1, INT-1, EDU+
 Traits Souggvuez Travellers all possess the following traits:
 Armor (+1): All Souggvuez have +1 point of Protection.
 
-Bite: All Souggvuez possess a set of powerful teeth capable of doing 1D+2 damage using the Melee
-(natural) skill.
+Bite: All Souggvuez possess a set of powerful teeth capable of doing 1D+2 damage using the Melee (natural) skill.
 
 Careers All careers from the Traveller Core Rulebook are suitable for Souggvuez.

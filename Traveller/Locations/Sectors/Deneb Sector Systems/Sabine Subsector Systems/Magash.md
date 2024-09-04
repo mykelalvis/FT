@@ -2,8 +2,7 @@
 
 Magash is a forbidding rockball world but in a system with no habitable planets one ball of rock is as good as another. Magash was located a convenient distance from the system's primary and its close companion star, so was chosen as the system's mainworld. Ease of navigation was not the only factor in the selection; Magash had good natural resources that facilitated early development.
 
-Magash was intended from the outset to be a major industrial center and received heavy investment; incentives were offered to persuade colonists to move to the underground cities of Magash rather than one of the more pleasant worlds in the region. This was not a single-world project; Magash was to be the hub of industry in the surrounding systems, creating a self-
-supporting expansion program.
+Magash was intended from the outset to be a major industrial center and received heavy investment; incentives were offered to persuade colonists to move to the underground cities of Magash rather than one of the more pleasant worlds in the region. This was not a single-world project; Magash was to be the hub of industry in the surrounding systems, creating a self-supporting expansion program.
 
 Although the project was not a total success, Magash did indeed develop into a high-tech manufacturing center and was soon exporting machinery and equipment to developing colonies on nearby worlds. It then became the seat of the Duke of Sabine when the subsector's senior nobility were appointed.
 

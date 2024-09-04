@@ -10,6 +10,8 @@ Chirpers are intelligent to a point, and have been known to learn to speak. Thei
 The humans of Vanejen occasionally mount expeditions to drive Chirpers away from settlements and this has been generally successful. Perhaps not coincidentally, Chirper numbers seem to be falling.
 
 ANIMAL HITS SPEED
+
+
 Chirper 9 9 m 
 SKILLS Athletics (dexterity) 2, Melee 0, Recon 1, Stealth 2, Survival 1 
 ATTACKS Claws (1D)

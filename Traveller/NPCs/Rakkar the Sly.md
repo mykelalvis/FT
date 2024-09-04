@@ -1,7 +1,6 @@
-RAKKAR THE SLY SPECIES GENDER AGE Vargr Female —
+RAKKAR THE SLY  Vargr Female —
 
-TRAITS: Heightened Senses STR 6 INT 11 Skills: Art (performance) 3, Athletics (dexterity) 1, Carouse 3, Deception 4, Gambler 2, Gun Combat
-(slug) 2, Melee (blade) 2, Melee (natural) 1, Pilot 0, Stealth 2
+TRAITS: Heightened Senses STR 6 INT 11 Skills: Art (performance) 3, Athletics (dexterity) 1, Carouse 3, Deception 4, Gambler 2, Gun Combat (slug) 2, Melee (blade) 2, Melee (natural) 1, Pilot 0, Stealth 2
 
 DEX 11 EDU 6 END 9 SOC 6 REP 12
 

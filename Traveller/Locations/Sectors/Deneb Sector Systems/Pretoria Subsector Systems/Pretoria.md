@@ -13,8 +13,7 @@ The starport is subject to heavy security as it has been a target in the past bu
 
 own smaller ports that are off-limits to most traffic.
 
-REDI Redi lies at the outer edge of the system's habitable zone, resulting in a low average temperature. This did not make it unsuitable for colonization but Redi never received large-scale population migration or investment, and was left behind during the early development of the subsector. Today, it is regarded as one of the 'missed-
-the-boat' worlds that is unlikely ever to be anything but a backwater.
+REDI Redi lies at the outer edge of the system's habitable zone, resulting in a low average temperature. This did not make it unsuitable for colonization but Redi never received large-scale population migration or investment, and was left behind during the early development of the subsector. Today, it is regarded as one of the 'missed-the-boat' worlds that is unlikely ever to be anything but a backwater.
 
 Redi's significance, if that is the right term, is as a probable Ancients site. There is at least one major ruin, with smaller locations suspected to exist in other areas. The Imperial authorities do not normally release information on possible Ancients sites, so it is entirely likely that several artefact caches or ruins have been located and explored by officially sanctioned researchers. The known ruin is disappointing; it consists only of a few structures without machinery or artefacts.
 Occasionally, a band of hopeful amateurs finds a way into one of the remaining sealed structures but always return empty-handed.

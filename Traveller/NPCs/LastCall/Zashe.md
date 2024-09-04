@@ -14,10 +14,12 @@ Zashe is the proprietor of [[Eneri's Cantina]], the most popular bar at [[Affini
 
 Zashe has an eidetic memory, and never forgets a face.
 
-SPECIES GENDER AGE
+
 Mixed [[Vilani]]-[[Solomani]] Female 52
 
 ZASHE PAMZIRMA
+
+
 
 TRAITS — SKILLS
 Carouse 3, Deception 1, Gun Combat 0, Melee (unarmed) 2, Persuade 2, Pilot 0, Steward 4, Streetwise 3, Survival 0
@@ -27,4 +29,6 @@ DEX 11 EDU 8
 END 6 SOC 8
 
 EQUIPMENT
+
+
 Weapons: Body Pistol (2D), Switchblade (1D+1), Shotgun (4D, Bulky, located under the bar)

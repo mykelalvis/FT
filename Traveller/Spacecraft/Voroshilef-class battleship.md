@@ -31,13 +31,11 @@ Sensors Improved x2 6 8.6
 Distributed Arrays x2 18 18
 Enhanced Signal Processing x2 4 16
 Countermeasures Suites x2 4 8
-Weapons Particle Accelerator Spinal Mount
-(TL13)
+Weapons Particle Accelerator Spinal Mount (TL13)
 
 23,800 9600
 
-Large Missile Bays
-(reduced size x3) x24
+Large Missile Bays (reduced size x3) x24
 
 8,400 4500
 
@@ -65,8 +63,12 @@ Marines x200
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr9.98744/month
 PURCHASE COST
+
+
 MCr119849.28
 
 Power Requirements

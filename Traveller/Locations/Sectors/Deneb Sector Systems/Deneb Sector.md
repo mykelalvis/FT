@@ -270,6 +270,8 @@ Each of Deneb's eight duchies is different, with local influences on its policie
 
 MAP OF THE  DUCHIES AND THEIR AREAS  OF CONTROL
 
+
+
 ### The Duchy of Pretoria
 
 The Duchy of Pretoria lies on the Imperial border and must contend with Vargr raids coming from coreward as well as by way of the Aramis Trace, a cluster of star systems close to the Imperial border in the neighboring Aramis subsector. The duke's personal forces are sometimes sent into [[Traveller/Locations/Sectors/Spinward Marches Sector Systems/Aramis Subsector Systems/Aramis]] – not always with the blessing of its nobility – to deal with corsair bases or block well-used routes. The Pretoria subsector fleet cannot operate outside its home area without special permission but ducal forces are not subject to such restrictions.
@@ -293,8 +295,7 @@ Lying to rimward of Pretoria, the Duchy of Sabine does not have an external fron
 
 Sabine's position is hampered by dissent between the ducal seat at Magash and the military center at Thengin.  Nearby world governments align themselves according to conditions – if there is a military threat then Thengin is suddenly more attractive but otherwise most governments follow the general lead of the Duke at Magash.
 
-Sabine's ducal fleet favors a smaller number of destroyer-sized vessels over escorts. Ships are well-
-maintained and their crews highly trained by ex-Imperial Navy personnel hired as instructors. It is generally supposed that Sabine hopes to offset the technological superiority of Vincennes by investing in its people.
+Sabine's ducal fleet favors a smaller number of destroyer-sized vessels over escorts. Ships are well-maintained and their crews highly trained by ex-Imperial Navy personnel hired as instructors. It is generally supposed that Sabine hopes to offset the technological superiority of Vincennes by investing in its people.
 
 ### The Duchy of Inar
 

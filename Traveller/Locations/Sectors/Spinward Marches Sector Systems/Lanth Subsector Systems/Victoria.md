@@ -33,9 +33,15 @@ Albert is large enough to have an atmosphere and appears to even have surface wa
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -43,15 +49,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 2
 
@@ -83,7 +101,11 @@ Bunks x 5, Control System (primitive), Galley (10 people)
 
 ARMOR
 
+
+
 EQUIPMENT AND WEAPONS TRAITS
+
+
 
 HAND-CRANKED DIRIGIBLE
 
@@ -98,6 +120,8 @@ Like most vehicles on Victoria, this example is a one-off build. It consists of 
 TL2
 
 DESCRIPTION
+
+
 
 16-20, with crewmembers hot bunking, sleeping in shifts when they are not working. The galley serves a very limited selection of high-energy foods, capable of sustaining the crew throughout their voyage.
 

@@ -574,7 +574,7 @@ The vehicle portion is closer to 60 kilograms and contains an emergency beacon, 
 
 ## FOOD STORAGE AND PREPARATION
 
-Food storage is vital to support life on a starship, almost as much as air. While most staterooms have miniature kitchens that have some storage space for food, the bulk of storage will be in the cargo hold. The average sophont eats around two kilograms of food per day. Most food with packaging weighs approximately 1,000kg/m^3. One displacement ton, which is 13.5 cubic meters of food, is thus about 13,500 kilograms and will last the average sophont 6,750 days. Ships typically store food for their maximum expected occupancy for as long as they have reactor fuel or more, often four weeks. A four-person crew thus needs 112 person-days of food, less than 0.02 tons. Given the trivial storage requirement, buying and toring long-shelf-life supplies as backups is common.
+Food storage is vital to support life on a starship, almost as much as air. While most staterooms have miniature kitchens that have some storage space for food, the bulk of storage will be in the cargo hold. The average sophont eats around two kilograms of food per day. Most food with packaging weighs approximately 1,000kg/m<sup>3</sup>. One displacement ton, which is 13.5 cubic meters of food, is thus about 13,500 kilograms and will last the average sophont 6,750 days. Ships typically store food for their maximum expected occupancy for as long as they have reactor fuel or more, often four weeks. A four-person crew thus needs 112 person-days of food, less than 0.02 tons. Given the trivial storage requirement, buying and toring long-shelf-life supplies as backups is common.
 
 Thus, the main concerns when buying food at starports are quality, convenience and price. For a crew without a competent steward or cook, pre-packaged meals are more important than the finest of raw ingredients. A purser should always make sure the food is good quality and not expired, even if the price is low. Cheap, expired meals risk the added cost of medical treatment before the crew can go back to work and low-quality meals risk crew morale, which is critical for ship operations.
 
@@ -693,11 +693,15 @@ Airlocks, hangars and docking bays exist to transfer items to and from a ship. I
 Docking is the first step to transferring cargo and passengers to another ship or starport. There are three general means of travel between ships, including from a ship to a port or vice versa.
 
 OUTSIDE
+
+
 Origin and destination may not be in contact at all. They may be floating next to one another in space or parked at a downport. One exits the origin ship, crosses the intervening distance, then enters the destination ship. If the intervening space is hazardous, such as vacuum or a volume into which hostile fire is being directed, protection is advised. This includes most boarding actions, where entry into the destination ship can be difficult, particularly if the target ship does not wish to be boarded. At the other end of the spectrum is simply walking into a ship on the ground through an open cargo hatch or ramp.
 
 Unlike the other two options, this does not allow one ship to move another ship without tractor beams or other indirect means, so they are not considered 'docked'.
 
 DOCKING TUBE
+
+
 The most common form of this is a pressurized tube connecting the two ships, large enough that items or crew can pass between them in a controlled space. When not in use, this tube can retract into the hull around the airlock, extending only when needed. Traversing between ships is much easier in this contained area, greatly lowering the risk of floating off into space and other hazards. Since almost all ships have standard airlock sizes, connecting tubes have little difficulty mating to other ships' airlocks.
 
 This technically includes cases where one ship is attached to another like a limpet to grant ARMORed protection to passage between the ships. It also includes docking clamps, which often incorporate tubes and nets for hauling otherwise unattached cargo. Nets are especially useful for tenders that carry non-jump spacecraft from star-to-star and other ships that carry large, irregularly shaped cargo.
@@ -705,6 +709,8 @@ This technically includes cases where one ship is attached to another like a lim
 Care must be taken when engaging reaction, maneuver or jump drives while docked with another object, as the combined mass and volume will be propelled by the drive, lowering overall performance. Reaction and maneuver drives can suffer from a misaligned thrust axis, causing unwanted attitude changes. This is a more critical issue for jump drives since attempting to propel more than the drive is rated for tends to result in either no jump or misjumps. Nets intended for this contain jump emitters, extending the jump field to include the net and everything within.
 
 INSIDE
+
+
 The destination is inside the origin or vice versa. There is no intervening space to cross, just a single opening, be it an airlock's outer door, cargo hatch, hull breach or something else.
 
 While less flexible than nets or external clamps in terms of the size of ship or cargo that can be taken, this arrangement is simple enough that it is far more common, with no effect on maneuver or jump drives as those are rated based on external volume rather than mass. It has the advantage of being able to take cargo up or down through an atmosphere without risk of damage, which is not possible with most external docking solutions.
@@ -1013,7 +1019,7 @@ However, this can be reduced to two basic operations:
 
 Other symbols encode more complex operations such as XOR, represented by ⊕: True when exactly one of its two inputs is true. Again, `x ⊕ y` is what sophonts see, while computers read it as `(x ∨ y) ∧ ¬(x ∧ y)`.
 
-Computer programs, which are sets of instructions that tell computers how to do things, take many layers of this piled on top of one another. These layers produce values that are compared to other values, resulting in certain actions being taken or not taken. This is sometimes written as, 'IF (comparison) THEN (action) ELSE (other action)'. For example, assuming x and y are each either 0 or 1, adding x+y works out to be this: IF (x ∧ y) THEN (output 2) ELSE IF (x ∨ y) THEN (output 1) ELSE (output 0). In Anglic that translates to, 'if x and y are both 1 then x+y=2, otherwise if either of them is 1 (which means the other is 0) then x+y=1, otherwise (if both of them are 0) x+y=0'.
+Computer programs, which are sets of instructions that tell computers how to do things, take many layers of this piled on top of one another. These layers produce values that are compared to other values, resulting in certain actions being taken or not taken. This is sometimes written as, 'IF (comparison) THEN (action) ELSE (other action)'. For example, assuming x and y are each either 0 or 1, adding x+y works out to be this: IF (x ∧ y) THEN (output 2) ELSE IF (x ∨ y) THEN (output 1) ELSE (output 0). In Anglic that translates to, 'if x and y are both 1 then x+y=2, otherwise if either of them is1 (which means the other is 0) then x+y=1, otherwise (if both of them are 0) x+y=0'.
 
 To give a more practical example, one that shows how simple-to-sophonts operations are complex for computers, take a relatively simple door control program. When someone approaches a door that should open for that person, the computer must recognize that a person-like object is approaching the door AND that object matches a recognized person AND that person is approved to access this door.
 
@@ -1883,7 +1889,7 @@ For the overwhelming majority of spacecraft with more than one weapon mount, pri
 
 An exhaustive treatise on the many kinds of weapons used in space combat over the millennia would be larger than this book. To usefully classify the vast and diverse array of shipborne weapons in Charted Space, it is necessary to group many types into a few categories.
 
-One common equation relevant to weapons engineers is for kinetic energy, KE = ½mv^2. In Galanglic, 'the kinetic energy of a projectile is equal to half the mass times velocity squared'. Armament engineers have to work backwards from that. They have a maximum energy budget, minus inefficiencies in the weapon's launch mechanism. Energy requirements for a (physical) projectile increase linearly as the mass goes up but quadratically as velocity increases. Space warfare demands the highest possible muzzle velocity achievable to allow accuracy at long range, even at the cost of projectile size, thus one can trace the history of weapon development as incremental increases in muzzle velocity coupled with substantial decreases in projectile size.
+One common equation relevant to weapons engineers is for kinetic energy, KE = ½mv^2. In Galanglic, 'the kinetic energy of a projectile is equal to half the mass times velocity squared'. Armament engineers have to work backwards from that. They have a maximum energy budget, minus inefficiencies in the weapon's launch mechanism. Energy requirements fora (physical) projectile increase linearly as the mass goes up but quadratically as velocity increases. Space warfare demands the highest possible muzzle velocity achievable to allow accuracy at long range, even at the cost of projectile size, thus one can trace the history of weapon development as incremental increases in muzzle velocity coupled with substantial decreases in projectile size.
 
 Missiles propel enormous warheads, hence why more than half of a missile is its m-drive. Slugthrowers suffer as well, as there is generally a minimum size requirement per projectile due to constraints of the specific launching systems. Bombardment slugthrowers tend to use heavier projectiles and lower velocities, while dedicated space combat slugthrowers like sandcasters go as small as possible. Plasma and fusion weapons take this further, firing a minimally sized gas at outrageous velocities and relying on temperature to do additional damage. Particle and meson weapons reach the extreme of what is possible, such as firing individual particles at high fractions of light speed. Lasers sidestep the issue by using massless photons that travel at lightspeed.
 

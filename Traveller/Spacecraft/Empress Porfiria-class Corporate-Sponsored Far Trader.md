@@ -8,8 +8,8 @@ Corporate sponsors for ships making [[the Annililik Run]] want results. The Empr
 
 TL14 Tons Cost (MCr)
 Hull 200 tons, Streamlined — 12
-M-Drive Thrust 2 (energy efficient x2) 4 10
-J-Drive Jump 2 (decreased fuel x3) 15 33.75
+M-Drive Thrust2 (energy efficient x2) 4 10
+J-Drive Jump2 (decreased fuel x3) 15 33.75
 Power Plant Fusion (TL12), Power 90 6 6
 Fuel Tanks J-2, 4 weeks of operation 35 —
 Bridge 10 1
@@ -46,8 +46,12 @@ Steward
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr6437/month
 PURCHASE COST
+
+
 MCr77.245
 
 Power Requirements

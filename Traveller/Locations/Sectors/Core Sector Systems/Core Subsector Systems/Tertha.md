@@ -40,5 +40,4 @@ Olfactory (advanced), Camouflage: Visual (advanced), Drone Interface, Fire Contr
 System (enhanced), Gecko Grippers, Navigation System (improved), Olfactory
 Sensor (improved), PRIS Sensor, Radiation Environment Protection (+600 rads),
 Recon Sensor (advanced), Self-Repairing Chassis, Stealth (enhanced), Transceiver
-500km (enhanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount
-(medium), Wireless Data Link
+500km (enhanced), Vacuum Environment Protection, Voder Speaker, Weapon Mount (medium), Wireless Data Link

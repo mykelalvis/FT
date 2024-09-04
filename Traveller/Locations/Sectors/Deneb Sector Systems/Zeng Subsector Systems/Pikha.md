@@ -10,6 +10,8 @@ CAPTAIN, PILOT, ENGINEERS X 2, MAINTENANCE X 2
 
 THOUSAND FREIGHTER
 
+
+
 The Thousand Freighter is an in-system vessel built around a 1000-ton cargo hold; all other functions are dedicated to moving this hold and its contents around the system. The vessel is normally operated by a small crew and typically just one or two passengers will be aboard on any given trip. More can be carried if the crew move into double-occupancy but most Thousand Freighters have one or two 'guest rooms'
 and fill the rest up with the belongings of the crew, spare parts and whatever else is lying around. These ships have a reputation for being a very basic form of transport but they move cargo cheaply and efficiently, which is all their operators really care about.
 
@@ -33,13 +35,23 @@ TL12
 
 JUMP DRIVE
 
+
+
 MANEUVER DRIVE
+
+
 
 BASIC SHIP SYSTEMS
 
+
+
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 MAINTENANCE COST Cr13240.4/month
 
@@ -49,14 +61,19 @@ TOTAL: MCR158.85
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
 
-TONS COST
-(MCR)
+
+
+TONS COST (MCR)
 
 2
 

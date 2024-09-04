@@ -17,3 +17,13 @@ These two stations are owned and operated by LSP but required by contract to pro
 A third station orbits the outer edge of Bowman Prime's ring system but does not mine for ore. Instead, it extracts a range of chemicals, as well as oxygen and hydrogen, from ice chunks collected from Bowman Prime's extensive ring system.
 
 There are two other operations taking place in the Bowman system. The first is a small archaeological dig underway on Epsilon, one of Bowman Prime's larger moons, discovered in 1093 to be the site of a pre- Maghiz Darrian outpost. Meanwhile, salvage crews continue to pick over the extensive field of starship wreckage drifting among the asteroids of Bowman Prime's leading Trojan cluster. This dates from the period just after the Second Frontier War, when a Sword World fleet that had refused to surrender, and carried out a highly successful commerce-raiding campaign, was finally tracked to its base in the cluster and eliminated. The exploits of this fleet, under Admiral Denisov, form part of Sword Worlder naval tradition to this day.
+
+---
+
+From [[High and Dry]]:
+
+The Bowman Belt is one of the wonders of the [[Spinward Marches]]. It is one of the most extensive planetoid belts ever discovered, occupying the equivalent of five planets' worth of orbits in one contiguous belt. The Bowman Belt is home to an unknown, but probably large, number of belter communities, individuals who make their way by prospecting planetoids for ores and rare earth elements. There are also rumours of other inhabitants in the belts – pirates, renegade Sword Worlders and the like.
+
+The only actual planet in the system is the gas giant Bowman Prime, whose moons are designated by Greek letters. Alpha is home to a tiny [[Scout Service|IISS]] base, staffed by a dozen or so personnel, and Garrison Starport, the system's Class D port.
+
+[[Ling Standard Products]] moved into the Bowman system some time ago and now has extensive operations in the Trojan asteroids. This has led to friction with the independent belters who work the system. There have already been incidents of violence and things look set to get worse.

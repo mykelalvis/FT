@@ -24,8 +24,7 @@ Bridge 60 300
 Computer Core/80 — 95
 Sensors Improved 3 4.3
 Distributed Arrays 6 8.6
-Weapons Particle Accelerator Spinal Mount
-(TL12)
+Weapons Particle Accelerator Spinal Mount (TL12)
 
 6,300 2200
 
@@ -51,8 +50,12 @@ CLASS: AZHANTI HIGH LIGHTNING CRUISER
 
 Running Costs
 MAINTENANCE COST
+
+
 MCr2.2264734/month
 PURCHASE COST
+
+
 MCr26717.680
 
 Power Requirements
@@ -106,8 +109,7 @@ Cargo 317 —
 *The ship's Intellect program is a TL15 prototype that approaches the
 functionality of a Conscious Intelligence. It answers to the name 'Libby'
 and may be treated as a computer-bound NPC with INT 13 and EDU
-13, with a range of skills that can be uploaded, changed and improved
-(typically in the skill level 2–4 range).
+13, with a range of skills that can be uploaded, changed and improved (typically in the skill level 2–4 range).
 
 **ARGUSHIIGI**
 

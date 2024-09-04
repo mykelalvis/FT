@@ -54,6 +54,8 @@ From [[Behind the Claw]]
 [[The Spinward Marches]]
 SUBSECTOR C
 
+
+
 Located at the outer edge of the Third Imperium, the Regina subsector lies on the main trade routes towards the Zhodani Consulate and Vargr Extents. An arm of the Spinward Main runs through the subsector from rimward before veering to spinward into Jewell. A jump-2 ship can reach any world in the subsector by jumping from the Main at the appropriate point.
 
 The subsector is the responsibility of the 213th Fleet, which has its headquarters at the Efate Naval Base.  Elements of the Sector Fleet are deployed at Efate, Regina and Pixie, making the subsector one of the best places to spot Imperial capital ships. Indeed, there is a deliberate policy of flag-showing in place, using cruisers and capital ships rather than the usual smaller vessels.

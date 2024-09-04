@@ -12,7 +12,7 @@ Countess Vandia Tranard of Bendo
 
 Countess Tranard may hold the power to save [[The Sylean Main]]... if only someone can convince her to use it.
 
-SPECIES GENDER AGE
+
 Vilani Female 62
 
 ![[CA2-CountessTranard.jpg]]

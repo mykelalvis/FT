@@ -59,6 +59,8 @@ There are no [[Red Zone]]s in the subsector, but there are seven [[Amber Zone]]s
 The world of [[Prilissa]] is the origin of the Kian, a large flightless bird used as a beast of burden on many worlds and ceremonial mounts for the Imperial Household Cavalry. Kian fulfil many of the same functions as horses and have been exported almost as widely.
 
 KIAN
+
+
 ANIMAL HITS SPEED Kian 30 9m SKILLS Athletics (endurance) 1, Recon 1 ATTACKS Kick (1D)
 TRAITS Heightened Senses, Large (+1)
 BEHAVIOUR Herbivore, Grazer

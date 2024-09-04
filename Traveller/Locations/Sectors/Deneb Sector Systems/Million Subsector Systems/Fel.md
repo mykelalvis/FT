@@ -32,11 +32,17 @@ PURCHASE COST MCr159.61
 
 RUNNING COSTS
 
+
+
 Power Requirements
 
 CREW
 
+
+
 HULL POINTS
+
+
 
 150 100 5
 
@@ -44,11 +50,19 @@ HULL POINTS
 
 MANEUVER DRIVE
 
+
+
 BASIC SHIP SYSTEMS
+
+
 
 FUEL PROCESSOR
 
+
+
 SENSORS WEAPONS
+
+
 
 The Khoeurrroe-class Armed Merchant Vessel is constructed at TL10 and designed to be capable of two successive jumps, with enough in-system thrust to ensure timely cargo delivery and armament to deter interference. It is the ideal vessel for secure freight delivery or service as a naval auxiliary. At least, so says its official design registry.
 
@@ -57,6 +71,8 @@ The Khoeurrroe-class is heavily armed for a merchant ship and has sufficient acc
 In reality, this vessel is only viable as a corsair or in a subsidized role such as providing escort to other merchants – the other side of the corsair coin. Its cargo capacity is inadequate for standard freighting and even if the crew take double-occupancy, the passenger accommodation is very small – unless of course the brig is actually used to transport people.
 
 LEGEND
+
+
 
 **1. Bridge 2. Triple turrets (pulse lasers)
 3. Grappling arms 4. Staterooms 5. Armories 6. Cargo hold 7. Powerplant 8. Maneuver drive 9. Jump drive**
@@ -133,8 +149,7 @@ The subsector fleet has also stepped up patrols in the system to deter attacks o
 
 TALON Talon is located a couple of parsecs from the Imperial border and forms part of the United Followers of Augurgh. Like the alliance itself, Talon is anything but united. Its states merge and split, with factions sometimes forming a quasi-state that somehow manages to exist alongside the local government for a time. The population consists of around 200 million Vargr and 1.8 billion Souggvuez, the native people of Talon. The two species are intermixed and have formed a united culture.
 
-The first Vargr came to Talon around -300, fleeing disaster in their homelands. Theirs was a large-
-scale migration but not an invasion as such. Instead,
+The first Vargr came to Talon around -300, fleeing disaster in their homelands. Theirs was a large-scale migration but not an invasion as such. Instead,
 the spacefaring Vargr found kindred spirits in the Souggvuez, who at the time had an atomic-era culture.
 The Vargr were more energetic – some might say pushy – than the indigenous population and made themselves a niche in the upper echelons of society.
 These distinctions gradually eroded over time and today there really is little distinction between a Vargr and a Souggvuez citizen of Talon.
@@ -142,5 +157,4 @@ These distinctions gradually eroded over time and today there really is little d
 Talon has a sufficiently large economy that it exerts influence on both sides of the border and routinely hosts Imperial trade ships up from Taproban and even Atsah.
 Its ambassadors are major players in the politics of the local worlds, although their efforts to show the Imperials just how important they are tend to come off as noisy posturing for its own sake.
 
-One characteristic of Talon's complex government system is that everything is done by committee, including interstellar affairs. When disagreements reach an impasse, the usual result is some variation on the theme of conflict. Skirmishing and corsair raids are more common than all-out war but it does happen from time-
-to-time. The frequency of these breakdowns is such that Talon is locked in a cycle of growth and destruction.
+One characteristic of Talon's complex government system is that everything is done by committee, including interstellar affairs. When disagreements reach an impasse, the usual result is some variation on the theme of conflict. Skirmishing and corsair raids are more common than all-out war but it does happen from time-to-time. The frequency of these breakdowns is such that Talon is locked in a cycle of growth and destruction.

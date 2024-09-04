@@ -17,6 +17,8 @@ tags:
 
 WORLD MAP AND LIBRARY DATA
 
+
+
 An astute physicist might assume that predicting the flow of Tktk's transient rivers could be done simply by consulting the appropriate charts and calculating the gravitational effects of the two stars and gas giant, factoring in their changing positions...if not for an additional variable: subterranean water flows. The rivers are fed by hundreds of natural aquifers and springs that ebb and flow to and from the surface depending on a complex array of factors including the aforementioned gravitational effects, seismic activity, and subterranean weather of the caverns. The aquifers have thus far been only partially mapped and therefore present a significant wild card when trying to forecast their movement.
 
 There are six notable human cities on the planet (including the down starport), and all but one have taken steps to address the threat of floods from Tktk's unpredictable rivers. The cities of Laurb, Purcoult, Capital, and Tktk Down Starport depend upon complex sewage systems and architectural adjustments that allow for frequent flooding. Buildings in these cities are designed with one of the following adaptations:
@@ -59,6 +61,6 @@ Tktk is a system surrounded by war and strife. Its neighboring systems have been
 
 ##### System Details
 
-Position Name UWP Primary Mubitthu F5 V 0 (Empty) 1 Turain X100000-0 2 Oltek X100000-0 3 (Empty) 4 Tktk D542640-6 5 Pinked Large GG 0 (Ring System) YR00000-0 4 Guillen X100000-0 8 Holberg X200000-0 15 Tcalczek X100000-0 20 Steck X300000-0 25 Mrazek H501260-6 6 Nubbi X511000-0 1 Bubb X100000-0 7 Wrent X300000-0 8 (Empty) Secondary Nuoti M3 V 1 Nutti Small GG 2 N-1 X100000-0 6 N-2 X100000-0 12 N-3 X200000-0 14 N-4 X100000-0 2 Shade X200000-0
+Position Name UWP Primary Mubitthu F5 V0 (Empty) 1 Turain X100000-0 2 Oltek X100000-03 (Empty) 4 Tktk D542640-6 5 Pinked Large GG0 (Ring System) YR00000-0 4 Guillen X100000-0 8 Holberg X200000-0 15 Tcalczek X100000-0 20 Steck X300000-0 25 Mrazek H501260-6 6 Nubbi X511000-0 1 Bubb X100000-0 7 Wrent X300000-08 (Empty) Secondary Nuoti M3 V 1 Nutti Small GG 2 N-1 X100000-0 6 N-2 X100000-0 12 N-3 X200000-0 14 N-4 X100000-0 2 Shade X200000-0
 
 [Wiki](https://wiki.travellerrpg.com/Tktk_(world))

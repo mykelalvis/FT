@@ -32,13 +32,11 @@ If another frontier war erupts, it is from Mora that the fleet will sally out to
 
 NEXINE Nexine is a large world, almost entirely covered by oceans. The atmosphere is of a standard composition and density but its taint makes the use of a filter mask necessary. The world is part of the Palique Cluster, on both the coreward x-boat route form Mora and also the jump-2 route into Trin's Veil and ultimately Glisten.
 
-Several attempts have been made to settle Nexine at various times, usually without success. A small population, numbering in the tens of thousands, dwells in far-flung communities, all of them small, on islands across the globe. The island-towns are broadly self-
-sufficient, each with its own agricultural base, light industries and fisheries to maintain equipment in local use and feed the people. The overall TL8 rests on industry at the cottage level and is insufficient to export significant goods.
+Several attempts have been made to settle Nexine at various times, usually without success. A small population, numbering in the tens of thousands, dwells in far-flung communities, all of them small, on islands across the globe. The island-towns are broadly self-sufficient, each with its own agricultural base, light industries and fisheries to maintain equipment in local use and feed the people. The overall TL8 rests on industry at the cottage level and is insufficient to export significant goods.
 
 There are a few larger settlements, notably the capital which is co-located with the starport and scout base.
 Even here, the population is not large enough to support heavy industry and it is the scout base that is the mainstay of Nexine's economy. The Scout Service contracts with local businesses for everything from food supplies to cleaning services, as does the starport.
-However, the scout base is small, consisting of a fenced-
-off corner of the starport leased by the Scout Service.
+However, the scout base is small, consisting of a fenced-off corner of the starport leased by the Scout Service.
 
 A handful of cutters and shuttles serve the tenders that support x-boats passing through the system and there is an extensive communications suite. In all, there are no more than 200 Scout Service personnel in the system at any one time.
 
@@ -58,9 +56,15 @@ A01/75324
 
 PALIQUE ENVIRONMENTAL
 
+
+
 SYSTEMS PRODUCTS
 
+
+
 THE SPECIALIST COLLECTION
+
+
 
 2
 
@@ -83,16 +87,21 @@ PALIQUE ACCESSORY PACK The accessory pack contains a solid helmet and semi-rigid
 
 - or run off the belt batteries and air bottle. For extended operations, the
 
-manufacturer recommends the use of the torso unit, which contains an eight-
-hour air supply and sufficient oxygenated/rebreather gel to keep the wearer alive for twice that long after the air runs out.
+manufacturer recommends the use of the torso unit, which contains an eight-hour air supply and sufficient oxygenated/rebreather gel to keep the wearer alive for twice that long after the air runs out.
 
 Armor Type Protection TL Rad Kg Cost Required Skill Accessory Pack +6 14 +25 +2 Cr8000 None
 
 TL
 
+
+
 SKILL
 
+
+
 AGILITY
+
+
 
 SPEED (CRUISE)
 
@@ -100,15 +109,27 @@ RANGE (CRUISE)
 
 CREW
 
+
+
 PASSENGERS
+
+
 
 CARGO
 
+
+
 HULL
+
+
 
 SHIPPING
 
+
+
 COST
+
+
 
 15
 
@@ -132,18 +153,21 @@ Medium (Slow)
 
 MCr311.5
 
-Airlock x 2, Autodoc (TL14), Autopilot (advanced), Auxiliary Thrusters, Bunks x 5, Communications System
-(advanced, meson communicator), Computer/5, Control System (advanced), Cryoberth x 6, Ejection Cocoon, Fire Extinguishers, Freshers x 2, Fusion Plant (advanced), Galley
-(large), Geological Sampler, Ground Drive, Hydrographic Sampler, Laboratory (general purpose), Manipulator Arms
-(advanced) x 5, Navigation System, (advanced), Refrigerator, Sensor System (advanced, increased fidelity x 6, sensor mast, underwater sensors)
+Airlock x 2, Autodoc (TL14), Autopilot (advanced), Auxiliary Thrusters, Bunks x 5, Communications System (advanced, meson communicator), Computer/5, Control System (advanced), Cryoberth x 6, Ejection Cocoon, Fire Extinguishers, Freshers x 2, Fusion Plant (advanced), Galley (large), Geological Sampler, Ground Drive, Hydrographic Sampler, Laboratory (general purpose), Manipulator Arms (advanced) x 5, Navigation System, (advanced), Refrigerator, Sensor System (advanced, increased fidelity x 6, sensor mast, underwater sensors)
 
 —
 
 ARMOR
 
+
+
 EQUIPMENT AND WEAPONS TRAITS
 
+
+
 DEEP RANGER RESEARCH SUBMARINE
+
+
 
 FRONT 20
 
@@ -160,9 +184,9 @@ Stealth (Electronics (sensors) DM) —
 
 DESCRIPTION
 
-The Deep Ranger-class is an extremely well-
-equipped vessel intended for long duration deep-
-diving in water or other non-corrosive fluids. Its underwater displacement is around 1500 tons; not large for a maritime vessel but sizeable for a civilian submarine (note that water displacement is not the same as starship displacement, which is determined by displacement of liquid hydrogen rather than water).
+
+
+The Deep Ranger-class is an extremely well-equipped vessel intended for long duration deep-diving in water or other non-corrosive fluids. Its underwater displacement is around 1500 tons; not large for a maritime vessel but sizeable for a civilian submarine (note that water displacement is not the same as starship displacement, which is determined by displacement of liquid hydrogen rather than water).
 
 This submarine can safely descend to depths of 16km, far more than needed on most worlds, and can stay underwater for as long as food stocks last. It is extremely cramped, however, as almost all available space is taken up with equipment or controls The submarine has a nominal crew complement of 10, although most vessels operate with 3-5 personnel on board.
 This makes it possible to remove some of the bunks and reconfigure spaces to give the crew a little breathing room.

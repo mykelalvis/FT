@@ -293,7 +293,7 @@ ActiveEMS = Planetary, ActObjScan = Diff, ActObjPin = Diff, PasEngScan = Rout
 
 Panel = holodynamic link x 420, Special = HeadsUp, Environ = basic env, basic Is, extend Is, grav plates, inertial comp 
 
-**Accomm:**  Crew = 2 (Bridge Engineer = 1, 
+**Accomm:**  Crew =2 (Bridge Engineer = 1, 
 
 Commander = 1) 
 
@@ -333,7 +333,7 @@ Panel = holodynamic link x 420,
 
 Special = HeadsUp, Environ = basic env, basic Is, extend Is, grav plates, inertial comp 
 
-**Accomm:**  Crew = 2 (Bridge Engineer = 1, 
+**Accomm:**  Crew =2 (Bridge Engineer = 1, 
 
 Commander = 1) 
 
@@ -367,7 +367,7 @@ ActiveEMS = Planetary, ActObjScan = Diff, ActObjPin = Diff, PasEngScan = Rout
 
 Panel = holodynamic link x 420, Special = HeadsUp, Environ = basic env, basic Is, extend Is, grav plates, inertial comp 
 
-**Accomm:**  Crew = 2 (Bridge Engineer = 1, 
+**Accomm:**  Crew =2 (Bridge Engineer = 1, 
 
 Commander = 1) 
 
@@ -401,7 +401,7 @@ ActiveEMS = Planetary, ActObjScan = Diff, ActObjPin = Diff, PasEngScan = Rout
 
 Panel = holodynamic link x 420, Special = HeadsUp, Environ = basic env, basic Is, extend Is, grav plates, inertial comp 
 
-**Accomm:**  Crew = 2 (Bridge Engineer = 1, 
+**Accomm:**  Crew =2 (Bridge Engineer = 1, 
 
 Commander = 1) Seats=roomy(workstations) x 6 
 
@@ -437,7 +437,7 @@ ActiveEMS = Planetary, ActObjScan = Diff, ActObjPin = Diff, PasEngScan = Rout
 
 Panel = holodynamic link x 420, Special = HeadsUp, Environ = basic env, basic Is, extend Is, grav plates, inertial comp 
 
-**Accomm:**  Crew = 2 (Bridge Engineer = 1, 
+**Accomm:**  Crew =2 (Bridge Engineer = 1, 
 
 Commander = 1) 
 
@@ -471,7 +471,7 @@ ActiveEMS = Planetary, ActObjScan = Diff, ActObjPin = Diff, PasEngScan = Rout
 
 Panel = holodynamic link x 420, Special = HeadsUp, Environ = basic env, basic Is, extend Is, grav plates, inertial comp 
 
-**Accomm:**  Crew = 2 (Bridge Engineer = 1, 
+**Accomm:**  Crew =2 (Bridge Engineer = 1, 
 
 Commander = 1) 
 
@@ -507,7 +507,7 @@ ActiveEMS = Planetary, ActObjScan = Diff, ActObjPin = Diff, PasEngScan = Rout
 
 Panel = holodynamic link x 420, Special = HeadsUp, Environ = basic env, basic Is, extend Is, grav plates, inertial comp 
 
-**Accomm:**  Crew = 2 (Bridge Engineer = 1, 
+**Accomm:**  Crew =2 (Bridge Engineer = 1, 
 
 Commander = 1) 
 
@@ -543,7 +543,7 @@ ActiveEMS = Planetary, ActObjScan = Diff, ActObjPin = Diff, PasEngScan = Rout
 
 Panel = holodynamic link x 420, Special = HeadsUp, Environ = basic env, basic Is, extend Is, grav plates, inertial comp 
 
-**Accomm:**  Crew = 2 (Bridge Engineer = 1, 
+**Accomm:**  Crew =2 (Bridge Engineer = 1, 
 
 Commander = 1) 
 
@@ -589,7 +589,7 @@ Bear: 1
 
 Panel = holodynamic link x 420, Special = HeadsUp, Environ = basic env, basic Is, extend Is, grav plates, inertial comp 
 
-**Accomm:**  Crew = 2 (Bridge Engineer = 1, 
+**Accomm:**  Crew =2 (Bridge Engineer = 1, 
 
 Commander = 1) 
 

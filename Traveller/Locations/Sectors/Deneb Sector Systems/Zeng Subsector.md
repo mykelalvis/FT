@@ -49,7 +49,7 @@ tags:
 | [[Veldt]]      |   1235   |   S   |  C567754-8 |    Ag Ri    |                | [[Imperium]] |      G     |
 | [[Zeng]]       |   1339   |  N S  |  A426446-C |      Ni     |                | [[Imperium]] |      G     |
 
-The Zeng subsector lies close to the fringe of the Great Rift, giving it a hard border similar to that of Deneb. To rimward are a few worlds in Macon; a handful in Kamlar lie to trailing. As a result of its positioning, Zeng did not receive an equal share of early investment and has lagged behind the development of other subsectors since.
+The Zeng subsector lies close to the fringe of the [[Great Rift]], giving it a hard border similar to that of . To rimward are a few worlds in Macon; a handful in Kamlar lie to trailing. As a result of its positioning, Zeng did not receive an equal share of early investment and has lagged behind the development of other subsectors since.
 
 The Duchy of Zeng administers the worlds of Macon (to rimward, in Reft) and Kamlar. It is perhaps the weakest of the Denebian duchies but in many ways the most stable. It is not threatened by raids from across the coreward border and on the fringes of the internal powerplays of Deneb. Relations with the Duchy of Trin, on the far side of Gulf, are consistently good. Zeng has strong trade links running through Gulf and does all it can to protect them, which sometimes draws resources the duchy cannot really afford.
 

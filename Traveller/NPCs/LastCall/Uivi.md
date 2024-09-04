@@ -27,5 +27,5 @@ EQUIPMENT Portable Computer
 Weapons: None
 Armor: None
 
-SPECIES GENDER AGE
+
 Vilani Male 51

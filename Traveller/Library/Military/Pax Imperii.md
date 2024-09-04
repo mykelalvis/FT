@@ -111,8 +111,12 @@ Stewards x7
 
 Running Costs
 MAINTENANCE COST
+
+
 Cr422222/month
 PURCHASE COST
+
+
 MCr5066.668
 
 Power Requirements
@@ -132,7 +136,7 @@ _* Configurable common area cost is multiplied by 1.5._
 
 **PAX IMPERII**
 
-(^77)
+(77)
 
 12 12
 
@@ -152,8 +156,7 @@ DECK 2
 9. Triple turrets
 
 (long range beam lasers)
-10. Triple turrets
-(long range pulse lasers)
+10. Triple turrets (long range pulse lasers)
 11. Triple turrets (sandcasters)
 12. Point Defence Batteries
 13. Fuel Processor

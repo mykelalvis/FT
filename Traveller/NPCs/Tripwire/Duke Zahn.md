@@ -10,4 +10,4 @@ Benoit is a slim man who stands roughly six feet in height. He has short dark ha
 
 ### BENOIT ZAHN CAREER PATH STR DEX END INT EDU SOC
 
-Age 36 Noble (4) 7 (0) 7 (0) 8 (0) 9 (+1) 11 (+1) 11 (+1) Admin 0, Advocate 1, Carouse 2, Diplomat 2, Investigate 0, Persuade 1
+Age 36 Noble (4)7 (0)7 (0)8 (0)9 (+1) 11 (+1) 11 (+1) Admin 0, Advocate 1, Carouse 2, Diplomat 2, Investigate 0, Persuade 1

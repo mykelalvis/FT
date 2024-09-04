@@ -8,6 +8,8 @@ Many worlds celebrate war-time glories but few do so with the fervour of Heraldi
 ```
 TRINARY STAR SYSTEM
 
+
+
 **1. Heraldia
 2. Gyga
 3. Uli–Beta M7 V

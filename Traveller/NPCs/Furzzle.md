@@ -1,4 +1,4 @@
-FURZZLE SPECIES GENDER AGE Llellewyloly — —
+FURZZLE  Llellewyloly — —
 
 TRAITS: Alien Digits, Atmosphere (thin) 
 STR 3 INT 12 

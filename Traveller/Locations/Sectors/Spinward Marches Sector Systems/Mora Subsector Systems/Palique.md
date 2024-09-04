@@ -5,8 +5,7 @@ A safe passage to or from Palique requires jump entry or emergence outside the p
 
 A ship that follows a well plotted course in a cautious manner – taking about 36 hours for the transit in and out from close orbit – can do so in almost complete safety. Minor course corrections may be necessitated but a good sensor watch will suffice to spot hazards early enough that any competent pilot can automatically avoid the danger. However, this is very slow.
 
-The transit time can be reduced to 30 hours without running major risks, although higher speeds reduce the time available for evasive action. Note that maneuver drive power does not affect this transit time – it is defined by conditions, not the ability to accelerate. A Routine
-(6+) Pilot check is needed to make a safe transit.
+The transit time can be reduced to 30 hours without running major risks, although higher speeds reduce the time available for evasive action. Note that maneuver drive power does not affect this transit time – it is defined by conditions, not the ability to accelerate. A Routine (6+) Pilot check is needed to make a safe transit.
 For every 10% increment shaved off this time, either by jumping in or out a little closer or being more liberal with the throttle, the check is subject to a cumulative DM-2.
 
 If the Effect of this check is negative, the ship hits something, suffering 1D damage per point of negative Effect. Minor damage indicates clipping a chunk of rock; a large amount will mean the ship has slammed into a large asteroid with serious consequences.

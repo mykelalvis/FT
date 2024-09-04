@@ -7,6 +7,8 @@ Some kits include a parachute that deploys once a suitable atmosphere is present
 
 ```
 ITEM TL KG REQUIRED SKILL COST
+
+
 Disposable re-entry kit 8 15 Flyer (any) 2 Cr15000
 Disposable re-entry kit 10 11 Flyer (any) 1 Cr12000
 Disposable re-entry kit 13 8 Flyer (any) 0 Cr10000

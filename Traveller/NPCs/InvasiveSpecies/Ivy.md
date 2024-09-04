@@ -25,6 +25,8 @@ END 6 SOC 10
 Admin 2, Advocate 0, Athletics 0, Diplomat 2, Language ([[Vilani]]) 2, Persuade 1
 
 EQUIPMENT
+
+
 House [[Okhotnikov]] Uniform, Portable Computer/3
 Weapons: None
 Armor: None

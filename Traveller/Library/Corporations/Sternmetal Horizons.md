@@ -1,4 +1,10 @@
-### Sternmetal Horizons
+---
+date created: 2024-09-01 16:58
+aliases:
+  - Sternmetal
+---
+
+# Sternmetal Horizons
 
 Sternmetal competes with the somewhat more diversified Ling
 Standard Products for top slot in the mining and manufacturing

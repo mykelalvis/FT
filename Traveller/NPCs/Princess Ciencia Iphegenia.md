@@ -31,13 +31,17 @@ END 7 SOC 16
 
 EQUIPMENT Imperial Raiment and Gold Tiara
 PERSONAL
+
+
 AUGMENTATION
+
+
 
 Cognitive Augmentation (INT+3),
 Neural Comm, Neural Link,
 Wafer Jack
 
-SPECIES GENDER AGE
+
 — Female 16
 ```
 

@@ -23,8 +23,7 @@ High Performance Grav Harness 16 4 Cr250000
 #### SENSOR SPIKES
 
 A03/75674
-Sensor spikes are thin, 6cm long spikes designed to be pushed into any surface. A one-use battery generates a cutting field at the sharp end, enabling the spike to be pushed into a rock face or wall without difficulty and a spike can be thrown into a softer surface. Once emplaced, a set of ultra-
-thin fibre antennae are deployed, gathering a range of data and transmitting it in bursts or in real-time transmissions to any designated computer. Their internal power lasts for 48 hours.
+Sensor spikes are thin, 6cm long spikes designed to be pushed into any surface. A one-use battery generates a cutting field at the sharp end, enabling the spike to be pushed into a rock face or wall without difficulty and a spike can be thrown into a softer surface. Once emplaced, a set of ultra-thin fibre antennae are deployed, gathering a range of data and transmitting it in bursts or in real-time transmissions to any designated computer. Their internal power lasts for 48 hours.
 
 Spikes gather optical and thermal data with a tiny camera in the head and monitor the temperature of the surface the spike is embedded in and surrounding air, along with chemical composition, radiation levels and vibrations. A network of spikes can be used to create a perimeter alarm system or gather data for scientific purposes. Most sensors only gather data from within 5m of the spike, although vibrations can be sensed at greater distances depending on intensity. Transmission range is 25m, but a chain of spikes can relay information over almost any distance.
 

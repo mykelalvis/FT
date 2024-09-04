@@ -21,9 +21,9 @@ Noble Ranks
 |SOC | Noble  Title|  Appellation | Fief|
 | :--: | -- | -- | -- |
 |10|  Gentleman or Lady| Sir or Madam. If in service to a knight, some append their name with the suffix, esquire or simply esq.| None.|
-| 11|  Knight | Sir or Lord  Some female recipients use Dame.|  None for honor nobles. Up to 100km^2 for rank nobles on their homeworld only.|
-| 12 | Baronet |  Baronet followed by the family name.|  None for honor nobles. Up to 100km^2 for rank nobles on their homeworld only.|
-| 12|  Baron | The Right Honorable Baron (or Baroness), followed by the family name, which is preceded by haut, hault or von. For example, Baron Jarem haut-Devereux. |None for honor nobles. Up to 100km^2 for rank nobles on any world of the Imperium.|
+| 11|  Knight | Sir or Lord  Some female recipients use Dame.|  None for honor nobles. Up to 100km<sup>2</sup> for rank nobles on their homeworld only.|
+| 12 | Baronet |  Baronet followed by the family name.|  None for honor nobles. Up to 100km<sup>2</sup> for rank nobles on their homeworld only.|
+| 12|  Baron | The Right Honorable Baron (or Baroness), followed by the family name, which is preceded by haut, hault or von. For example, Baron Jarem haut-Devereux. |None for honor nobles. Up to 100km<sup>2</sup> for rank nobles on any world of the Imperium.|
 | 13|  Marquis | Illustrious Sir for honor nobles, Your Excellency for rank nobles, followed by the rank and world name over which the marquis (or marquess) presides. For example, Your Excellency, the Marquis Ankod. Note that a marquess is a female marquis while a marquioness is a female married to the marquis or marquess who holds the title. | Typically none for honor nobles. For rank nobles, a large fief on a world with a Class A or B starport or an entire world of any starport type.|
 | 14|  Viscount or Count| The Right Honorable Count (or Countess), followed by the name of the most prestigious world over which the count presides. For example, the Right Honorable Count Ganad.| One powerful star system or 2–3 systems of various power and prestige.|
 | 15 | Duke|  Your Grace, followed by the prefix 'of' and the name of the subsector or sector over which the Duke (or Duchess) presides. For example, Your Grace, the Duke of Aramis.| One subsector or, in the case of the Sector Duke, an entire sector.|

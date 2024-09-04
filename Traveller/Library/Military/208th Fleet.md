@@ -15,7 +15,6 @@ Sector fleet assets are mainly concerned with flag-showing operations out to spi
 The Andor Blockade Squadron is based at Raweh. At any given time most, but not all, of its assets are deployed in Andor; the remainder will be in port conducting training and maintenance.
 The system is never left uncovered and either the Interdiction Tender or at least two destroyers will be present. The same deployment exists with the Candory Interdiction Squadron, based at Karin.
 
-Also based at Karin is the Heavy Support Squadron, which can reach Andor or Candory in a single jump. The subsector admiral has a flag squadron, although it is rather light; it is able to move around the subsector dealing with whatever problems arise. A pair of battleships is permanently assigned to the Heavy Support Squadron but the ships themselves are often rotated out and replaced with others. Current practice is to use second-class battleships for this role but upon occasion even brand-
-new dreadnoughts have been sighted over Andor and Candory.
+Also based at Karin is the Heavy Support Squadron, which can reach Andor or Candory in a single jump. The subsector admiral has a flag squadron, although it is rather light; it is able to move around the subsector dealing with whatever problems arise. A pair of battleships is permanently assigned to the Heavy Support Squadron but the ships themselves are often rotated out and replaced with others. Current practice is to use second-class battleships for this role but upon occasion even brand-new dreadnoughts have been sighted over Andor and Candory.
 
 

@@ -1,4 +1,4 @@
-Ao–dai Ao–dai 0401 E410644–6 0401 E410644–6 Z NA NI GZ NA NI G Ao-dai is a world very similar to Mars. It was ignored for centuries until the Zhodani discovered several rich deposits of lanthanum. It was not long after this that the Consulate established a small colony here and built several mining facilities. Full details can be found on page 9 (Passenger).
+Ao–dai Ao–dai 0401 E410644–6 0401 E410644–6 Z NA NI GZ NA NI G Ao-dai is a world very similar to Mars. It was ignored for centuries until the Zhodani discovered several rich deposits of lanthanum. It was not long after this that the Consulate established a small colony here and built several mining facilities. Full details can be found on page9 (Passenger).
 # DETAILS
 
 The [[Ao-dai]] system has a planetoid belt, a gas giant and the planet of [[Ao-dai]] which is the furthest from the sun.

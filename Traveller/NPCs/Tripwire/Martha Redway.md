@@ -14,4 +14,6 @@ Martha is also well known for being somewhat flirtatious, especially with young 
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 56 Citizen (4) 6 (0) 6 (0) 7 (0) 8 (0) 7 (0) 11 (+1) Broker 1, Carouse 1, Gun Combat 0, Medic 1, Persuade 1, Steward 0, Streetwise 0 Snub Pistol (3d6–3)
+
+
+Age 56 Citizen (4)6 (0)6 (0)7 (0)8 (0)7 (0) 11 (+1) Broker 1, Carouse 1, Gun Combat 0, Medic 1, Persuade 1, Steward 0, Streetwise 0 Snub Pistol (3d6–3)

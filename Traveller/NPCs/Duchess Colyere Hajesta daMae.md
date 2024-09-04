@@ -19,27 +19,24 @@ Colyere is a large and intimidating woman who usually has a scowl or sneer on he
 **DUCHESS COLYERE HAJESTA DAMAEDUCHESS COLYERE HAJESTA DAMAE**
 
 TRAITS — SKILLS
-STR 8 (9) INT 13 Admin 2, Athletics (strength)
+STR8 (9) INT 13 Admin 2, Athletics (strength)
 1, Flyer (grav) 1, Diplomat
 1, Electronics (comms) 1,
 Gun Combat (energy) 2,
 Heavy Weapons (portable) 1,
 Leadership 4, Melee (blade)
 2, Melee (unarmed) 1,
-Persuade 4, Recon 2, Tactics
-(military) 3, Vacc Suit 2
+Persuade 4, Recon 2, Tactics (military) 3, Vacc Suit 2
 
-DEX 8 (9) EDU 12
+DEX8 (9) EDU 12
 END 9 SOC 15
 
 EQUIPMENT Muscular Bridging, Neural Comm,
 Neural Jack, Wafer Jack
-Weapons: Marine Static Cutlass
-(3D+2, AP6) when in dress uniform,
+Weapons: Marine Static Cutlass (3D+2, AP6) when in dress uniform,
 Laser Pistol (high yield, 4D, AP 2)
 when a sidearm is allowed
-Armor: Personal Energy Shield
-(+12) or TL15 Battle Dress (+25)
+Armor: Personal Energy Shield (+12) or TL15 Battle Dress (+25)
 
-SPECIES GENDER AGE
+
 — Female 68

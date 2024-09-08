@@ -1,0 +1,1 @@
+tends to believe the best of people past the point of reason, and sometimes self-sabotages if he views the other side as an underdog or would prefer they win 

@@ -1,0 +1,1 @@
+While MSgt. George Barnes III and [[Eddie]] Farro couldn’t really be considered friends, their paths had crossed enough during their respective military tours that when a recently washed-out Georgia Barnes showed up to unload a shipment of questionably acquired antiquities, he knew exactly who would be very interested in knowing that information. He hasn’t blackmailed her… yet.

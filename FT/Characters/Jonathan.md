@@ -1,5 +1,3 @@
-# Jonathan
-
 ```statblock
 layout: Basic Fate Core Layout
 name: Jonathan Doont

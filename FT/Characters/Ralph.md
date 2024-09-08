@@ -1,5 +1,3 @@
-# Ralph
-
 ```statblock
 layout: Basic Fate Core Layout
 name: Faendhaez "Ralph" Zarrgva

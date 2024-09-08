@@ -1,5 +1,3 @@
-# Jerry
-
 ```statblock
 layout: Basic Fate Core Layout
 name: Geribald "Jerry" Tedworth
@@ -14,7 +12,7 @@ aspects:
     desc: ""
   - name: [[Oh God, What Have I Done]]
     desc: ""
-  - name: "[[avoid the lutefisk, and venues with lawyers on retainer]]"
+  - name: "avoid the lutefisk, and venues with lawyers on retainer"
     desc: "Jerry's Notice can sometimes spot an untrustworthy batch of food/drink, or a music venue that is awash in liability insurance for some reason."
 skills:
   - name: "+4"

@@ -1,8 +1,6 @@
 ---
 date created: 2024-05-12 07:53
 ---
-# Eddie
-
 ```statblock
 layout: Basic Fate Core Layout
 name: Eddie Farro

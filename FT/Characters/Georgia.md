@@ -1,7 +1,6 @@
 ---
 date created: 2024-03-24 17:22
 ---
-# Georgia
 
 ```statblock
 layout: Basic Fate Core Layout

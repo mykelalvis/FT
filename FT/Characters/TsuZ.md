@@ -1,8 +1,12 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 5a26dcf (Add FT as a test)
+=======
+
+>>>>>>> 1b0eea0 (Add FT as a test)
 ```statblock
 layout: Basic Fate Core Layout
 name: Tsu Z. Jones

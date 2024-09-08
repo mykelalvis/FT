@@ -1,0 +1,1 @@
+Being raised by GB III as the son he’d never have, Georgia inherited a degree of his knowledge of survival tactics, combat strategy, field medicine, and shooting… and little to no actual interest in any of them.

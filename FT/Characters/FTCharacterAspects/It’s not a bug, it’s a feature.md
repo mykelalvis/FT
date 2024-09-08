@@ -1,0 +1,1 @@
+Applying techniques learned from years as a tech on Corsair  Ship, You need something right now, you can fix it properly later. This can be applied to many technical tasks. You just may get some quirks until the proper fix is put in.

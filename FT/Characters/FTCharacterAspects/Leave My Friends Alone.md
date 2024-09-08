@@ -1,0 +1,1 @@
+Leave my ~~friends~~ loose-knit alliance of shady motherfuckers alone! (+2 to [[Fight]] when an opponent's last action was to attack the party)

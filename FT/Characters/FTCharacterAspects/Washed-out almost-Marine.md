@@ -1,0 +1,1 @@
+Fourth generation of her family to enlist with the Marines. First generation to wash out during boot camp because it’s hard to excel at hand-to-hand combat when you’re averse to conflict.

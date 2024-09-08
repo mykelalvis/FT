@@ -1,0 +1,3 @@
+[submodule "FATESRD"]
+	path = FATESRD
+	url = git@github.com:mykelalvis/FATESRD.git

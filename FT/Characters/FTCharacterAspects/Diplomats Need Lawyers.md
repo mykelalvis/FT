@@ -1,0 +1,2 @@
+Diplomats need lawyers; interned two years as liaison for a large-scale corporate firm before entering private practice 
+the high-powered lawyers at the firm were always visiting shooting ranges, so Jerry learned his way around small arms; he also discovered his talent for Complicated Provincial Court arguments. 

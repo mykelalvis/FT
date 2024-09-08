@@ -1,0 +1,5 @@
+https://forum.rpg.net/index.php?threads/traveller-jump-questions.313683/post-6978250
+
+> Space, of course, is three-dimensional. Jump-space, however, is flatter than a pancake. One of the things a jump drive does is keep the inside of the ship three-dimensional when entering jump-space. The other thing it does is fold jump space so that the point of departure and the destination are about a week's travel apart. Folding them any close would cause an accident that could destroy the ship or fling it off to god knows where - this is what happens when you misjump. The jump rating of the ship measures just how much space it's capable of folding. Jumps always take one week because that's a limitation of jump-space itself and not of the actual drives.  
+  
+> The star maps are two-dimensional because they map jump space as a map of stellar distances in normal space isn't very useful.

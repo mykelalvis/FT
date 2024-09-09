@@ -97,7 +97,7 @@ Organization that Built the Facility
 | 16-20 | Planetary Ecological Preservation Authority (PEPA)|
 | 21-25 | Cosmic Planetary Trading and Commerce Alliance (CPTCA)|
 | 26-30 | Interspecies Planetary Relations Council (IPRC)|
-| 31-35 | Spacefl ight and Planetary Development Administration (SPDA)|
+| 31-35 | Spaceflight and Planetary Development Administration (SPDA)|
 | 36-40 | Galactic Communication and Transmission Network (GCTN)|
 | 41-45 | Extraterrestrial Planetary Research and Exploration Division (EPRED)|
 | 46-50 | Interstellar Planetary Transit Authority (IPTA)|
@@ -443,7 +443,7 @@ location of Facility
 | 51-55 | Retrograde orbit|
 | 56-60 | Escaping material is source of a planetary ring|
 | 61-65 | Large amounts of methane gas escaping|
-| 66-70 | Infl uences the shape of a planetary ring system|
+| 66-70 | Influences the shape of a planetary ring system|
 | 71-75 | Part of a moon group sharing similar orbits (2D4)|
 | 76-80 | Slowly breaking apart|
 | 81-85 | Irregular shape and chaotic rotation|
@@ -626,7 +626,7 @@ location of Facility
 | 21-30 | Dramatic natural arches|
 | 31-40 | Strange sandstone formations|
 | 41-50 | Basalt columns|
-| 51-60 | Vast salt fl ats|
+| 51-60 | Vast salt flats|
 | 61-70 | Towering sand dunes|
 | 71-80 | Massive mesas and buttes|
 | 81-90 | Ancient lava fields|
@@ -636,11 +636,11 @@ location of Facility
 
 | d100| Name |
 |:--:|--|
-| 1-10 | Boiling mudfl ats|
+| 1-10 | Boiling mudflats|
 | 11-20 | Fiery volcanic calderas|
 | 21-30 | Massive lava flows|
 | 31-40 | Crater lakes|
-| 41-50 | Falling fl aming cinders|
+| 41-50 | Falling flaming cinders|
 | 51-60 | Lava seas|
 | 61-70 | Sweeping ash clouds|
 | 71-80 | Geothermal vents|
@@ -1773,11 +1773,11 @@ Facility problems
 | 1-5 | External communications disrupted|
 | 6-10 | Air filtration system not working|
 | 11-15 | Fire suppression system will not shut off|
-| 16-20 | Facility AI offl ine|
+| 16-20 | Facility AI offline|
 | 21-25 | Hydroponic crop failure|
 | 26-30 | Air conditioning system failure|
 | 31-35 | Facility batteries not charging properly|
-| 36-40 | Dangerous fl uid leak|
+| 36-40 | Dangerous fluid leak|
 | 41-45 | Internal communications disrupted|
 | 46-50 | Storage failure|
 | 51-55 | Facility AI gone haywire|
@@ -1797,19 +1797,19 @@ Facility problems
 |:--:|--|
 | 1-5 | Mislabeled samples|
 | 6-10 | Facility-wide power failure|
-| 11-15 | Power fl uctuations|
+| 11-15 | Power fluctuations|
 | 16-20 | Computer system overheating|
 | 21-25 | Portions of mainframe memory erased|
 | 26-30 | Laboratory explosion|
 | 31-35 | Several base sections decompresssed|
 | 36-40 | Cannot access the mainframe|
 | 41-45 | Random power surges|
-| 46-50 | External defense systems offl ine|
+| 46-50 | External defense systems offline|
 | 51-55 | Water system contaminated|
 | 56-60 | Elevators not functioning|
 | 61-65 | Contaminated water supply|
-| 66-70 | Security system offl ine|
-| 71-75 | Sensors offl ine|
+| 66-70 | Security system offline|
+| 71-75 | Sensors offline|
 | 76-80 | Robotic arm out of control|
 | 81-85 | Structural collapse|
 | 86-90 | Slow computers facility-wide|
@@ -2060,7 +2060,7 @@ Facility problems
 | 30 |Atomic force microscope|
 | 31 |X-ray diff raction system|
 | 32 |Hazardous waste storage system|
-| 33 |Labware (beakers, fl asks, pipettes, and syringes)|
+| 33 |Labware (beakers, flasks, pipettes, and syringes)|
 | 34 |Pressure vessel|
 | 35 |Explosion-proof lighting|
 | 36 |Emergency power supply|
@@ -2120,7 +2120,7 @@ Facility problems
 | 90 |Raman microscope|
 | 91 |Scanning electron microscope|
 | 92 |Quartz crystal microbalance|
-| 93 |Laser fl ash photolysis system|
+| 93 |Laser flash photolysis system|
 | 94 |Mass spectrometer|
 | 95 |Ultrafast laser system|
 | 96 |UV-Vis-NIR spectrophotometer|
@@ -2326,7 +2326,7 @@ Facility problems
 | 86 |Advanced robotics|
 | 87 |Custom genome editing nucleases|
 | 88 |Alien epigenetics analysis software|
-| 89 |Microfl uidic devices|
+| 89 |Microfluidic devices|
 | 90 |Synthetic microbial communities|
 | 91 |Cryogenic storage tanks|
 | 92 |Sterilization equipment|
@@ -2412,7 +2412,7 @@ items in a Xenobiology lab
 | 63 |Dynamic Light Scattering instrument|
 | 64 |Thermometer|
 | 65 |Powder X-Ray Diff ractometer|
-| 66 |Hydrofl uoric acid|
+| 66 |Hydrofluoric acid|
 | 67 |Tissue culture incubator|
 | 68 |Spin Coater|
 | 69 |Gel electrophoresis equipment|
@@ -2435,7 +2435,7 @@ items in a Xenobiology lab
 | 86 |Hemocytometer|
 | 87 |Barometer|
 | 88 |Dissection kit|
-| 89 |X-ray fl uorescence machine|
+| 89 |X-ray fluorescence machine|
 | 90 |Nanoparticle size analyzer|
 | 91 |Thermal cyclers|
 | 92 |Photometer|
@@ -2466,7 +2466,7 @@ items in a Xenobiology lab
 | 41-45 | Small lights that zip and buzz throughout the facility|
 | 46-50 | Cybernetically enhanced Komodo dragon wandering the halls|
 | 51-55 | A genetically modified dog-like creature in a cage appears to be noticeably growing|
-| 56-60 | A group dances around a fl aming birthday cake in the cafeteria|
+| 56-60 | A group dances around a flaming birthday cake in the cafeteria|
 | 61-65 | Green sticky goo on the floor that may have just moved|
 | 66-70 | Several members of the administration staff huddled in a corner whispering|
 | 71-75 | Overloaded lab tech who keeps dropping packages|
@@ -2474,7 +2474,7 @@ items in a Xenobiology lab
 | 81-85 | Organic specimens collected into petri dishes seem to lash out at personnel who move the dishes|
 | 86-90 | A half-human, half-machine wearing a torn lab coat lurching about a laboratory|
 | 91-95 | One lab has a strange black rock hooked by cables to a computer|
-| 96-100 | A large beautiful butterfl y floating through the corridor|
+| 96-100 | A large beautiful butterfly floating through the corridor|
 
 encounters
 
@@ -2484,11 +2484,11 @@ encounters
 |:--:|--|
 | 1-5 | AI that has gained sentience is demanding to play chess over and again|
 | 6-10 | A time anomaly/experiment causing people to see past and future versions of themselves|
-| 11-15 | The morale officer handing out fl yers for a facility-wide art contest|
+| 11-15 | The morale officer handing out flyers for a facility-wide art contest|
 | 16-20 | A group of researchers tests space exploration robots in a large pool|
 | 21-25 | Computer technician removing access panels|
 | 26-30 | One lab has a strange black rock hooked by cables to a computer|
-| 31-35 | Two fl irting lab techs crash into a transparent wall|
+| 31-35 | Two flirting lab techs crash into a transparent wall|
 | 36-40 | A group of cyborg super soldiers have escaped from cryogenic storage and are hiding in the facility|
 | 41-45 | Genetically engineered plants are giving off clouds of spores|
 | 46-50 | A beaker constantly falling off a table shattering in an apparent time loop|
@@ -2515,12 +2515,12 @@ encounters
 | 28-36 | Some pirates or scavengers tried to reactivate the main power, but a charred body holding cables is evidence the operation didn’t go as planned.
 | 37-45 | Signs like a makeshift sleeping spot under a desk and remnants of a cooking fire clearly point to someone living in the facility.
 | 46-54 | Nearly everything not attached to a wall or the floor has been taken from the facility, except there is one sealed door in a subbasement.
-| 55-63 | Even though the main power has been cut for some time there is one control with a fl ashing red light.
+| 55-63 | Even though the main power has been cut for some time there is one control with a flashing red light.
 | 64-72 | The mutilated and decaying corpses of the facility staff litter the rooms, labs, and corridors.
 | 73-81 | Cryogenic tubes with individuals inside them are still powered up and the people seem to be in perfect stasis.
 | 82-90 | Tiny figures appear to dart unnervingly in and out of the shadows, yet the wicked whispered snickering is even more unnerving.
 | 91-96 | The facility appears to have been evacuated in such a hurry that personal belongings were not taken, and even the live test specimens were left to die in their cages.
-| 97-100 | Most if not all of the access panels have been removed and fl ung about revealing someone’s frantic search through the facility’s interworkings.
+| 97-100 | Most if not all of the access panels have been removed and flung about revealing someone’s frantic search through the facility’s interworkings.
 
 ## non-player characters
 
@@ -3264,14 +3264,14 @@ military personnel #2
 |32 | Participate in a gambling tournament  | A: The players discover that the competition is rigged. | B: The players must find a way to raise enough money to enter the tournament. | C: The tournament is sponsored by a crime lord, and the tournament is rife with unscrupulous croupiers. | D: The stakes are very high. Those who sign up know that their very life could be on the line.|
 |33 | Help set up a medical clinic on a rim world  | A: The rim world is home to a diverse group of alien peoples, so the clinic must be ready with a variety of medications, instruments, and other resources. | B: This rim world is primitive and lacks the resources to support a proper clinic. | C: The locals are suspicious of medical intervention. Some are even violently opposed to it. | D: While setting up the clinic, a health crisis erupts. |
 |34 | Deliver raw materials to a colony  | A: The raw materials are infested with a strange and mischievous lifeform. | B: Upon arrival, the colony says that they did not request said materials and refuse to pay. | C: Upon arrival, the colonists claim that the raw materials are actually an illegal substance and try to take the materials without paying for them and arrest the players. | D: The materials are very valuable but also very volatile. If word gets out that the ship is transporting this material, pirates will come out of every seedy system in the galaxy.|
-|35 | Ambush slavers on a rim world  | A: The slaver group is much larger than the players were led to believe. | B: During the ambush, some of the captives rise up and help with the fight, but others are too young or frightened and need protection during the confl ict. | C: The slavers ambush the players first because someone informed on the players. | D: The slavers activate a distress beacon, and reinforcements are on the way.|
+|35 | Ambush slavers on a rim world  | A: The slaver group is much larger than the players were led to believe. | B: During the ambush, some of the captives rise up and help with the fight, but others are too young or frightened and need protection during the conflict. | C: The slavers ambush the players first because someone informed on the players. | D: The slavers activate a distress beacon, and reinforcements are on the way.|
 |36 | Transport and help establish missionaries on a rim world  | A: The missionaries want to aid an ailing people, but the resources and infrastructure are limited on the planet. | B: The missionaries are not well-equipped to protect themselves from danger because they are pacifists. They need to be convinced that it is necessary to have weapons. They also need to be trained on how to use them. | C: The missionaries are well-meaning but do not understand the cultures of the rim world. | D: Some factions welcome the missionaries, but some violently oppose them. | E: The missionaries are there to care for patients during an outbreak but must protect themselves. | F: The missionaries accidentally brought a disease to the planet and caused a pandemic. | G: The missionaries are not what they seem. It is actually just a front to manipulate factions on the rim world for the benefit of a powerful but mysterious group.|
 |37 | Compete in a virtual reality competition  | A: The players find their minds trapped in virtual space. | B: The competition seems to be causing people’s actual bodies to die of shock if they are killed in the game. | C: A rogue AI is attempting to control the outcome of the competition for its own ends. | D: The whole game was designed by an evil corporation to gain control of people’s minds to make them do their bidding.|
 |38 | Warn law enforcement spaceships of an ambush  | A: Hackers have disrupted the communications, so a physical ship must be sent to warn them. | B: There is a traitor amid the law enforcement who convinces them to mistrust your warning. | C: Though the party knows of the ambush, they don’t know where it is located. | D: The ambushers claim to be freedom fighters and that the law enforcement is corrupt.|
-|39 | Participate in a legal space race  | A: The competition is fierce with many skilled and ruthless competitors. | B: A group comes in and tries to claim that the whole race is actually illegal. | C: The race incorporates a dangerous obstacle course that includes hazards like solar fl ares, strange nebulous clouds, asteroid evading, and ion storms. | D: The players must find a powerful corporation or prominent individual to sponsor them. The corporation or person demands something in return or imposes an unexpected condition for their sponsorship. | E: Rumors fl y that someone is cheating by adding illegal technology to their ship. | F: Someone has rigged the race so that the players’ ship is likely to lose, unless they find out about it first and use their ingenuity to beat the now unfair odds.|
+|39 | Participate in a legal space race  | A: The competition is fierce with many skilled and ruthless competitors. | B: A group comes in and tries to claim that the whole race is actually illegal. | C: The race incorporates a dangerous obstacle course that includes hazards like solar flares, strange nebulous clouds, asteroid evading, and ion storms. | D: The players must find a powerful corporation or prominent individual to sponsor them. The corporation or person demands something in return or imposes an unexpected condition for their sponsorship. | E: Rumors fly that someone is cheating by adding illegal technology to their ship. | F: Someone has rigged the race so that the players’ ship is likely to lose, unless they find out about it first and use their ingenuity to beat the now unfair odds.|
 |40 | Transport a celebrity to a sci -ficonvention** | A: An imposter has kidnapped the real celebrity and taken their place. | B: The bodyguard and manager got delayed, and now the players find themselves managing adoring fans, paparazzi, and pushy journalists. | C: Wrong information was given, and the party delivers the celebrity to a fantasy convention instead. | D: A fight breaks out over a nerdy disagreement that had been fermenting in the weeks leading up to the convention. | E: The celebrity is eccentric and exacting. They demand particular foods and special arrangements for sleeping.|
 |41 | Deliver cadavers to a medical school  | A: The transportation of the cadavers attracts the attention of body snatchers intent on intercepting the party and taking the cadavers for their own purposes. | B: Transporting the bodies requires specialized equipment, especially if dealing with multiple alien species. | C: The cadavers have identifying marks that can be discovered by the party. These marks connect the cadavers with a conspiracy. | D: The cause of death for the bodies is mysterious and leads to the discovery of heinous schemes surrounding the acquisition of the bodies.|
-|42 | Settle a dispute between two rival gangs on a rim -world** | A: The gangs’ hatred for one another stems from deep-seated convictions based on religious dogma. | B: The rival gangs’ cultures and moral codes are complicated to navigate for an outsider. | C: The dispute revolves around an essential and limited resource like water, food, or an important component of a medication or fuel. | D: "Vultures" are circling. A corrupt government/crime ring/powerful alien corporation is looking for a way to exploit this confl ict.|
+|42 | Settle a dispute between two rival gangs on a rim -world** | A: The gangs’ hatred for one another stems from deep-seated convictions based on religious dogma. | B: The rival gangs’ cultures and moral codes are complicated to navigate for an outsider. | C: The dispute revolves around an essential and limited resource like water, food, or an important component of a medication or fuel. | D: "Vultures" are circling. A corrupt government/crime ring/powerful alien corporation is looking for a way to exploit this conflict.|
 |43 | Gather herbs from various planets for a celebrity chef  | A: Aggressive insect-like creatures guard one of the herbs. | B: One of the herbs is critically endangered, and harvesting it could take away from its chance for survival. | C: One of the herbs viciously defends itself. | D: A particular herb is being over-harvested, which is compromising the entire ecosystem. | E: A particular flower only blooms on rare occasions for a short length of time, so the players must hurry.|
 |44 | Board a disabled slaver ship , free the slaves, and tow the ship to the proper authorities** | A: The slaves have already started revolting, and the players come into an extremely chaotic situation. | B: Some of the slaver crew hides among the baggage, ready to pounce. | C: Other vessels affiliated with the slavers give chase. The slavers are holding a small group of slaves as hostages and are demanding safe passage. | D: Collusion is uncovered between the authorities and the slavers when the characters reach the port.|
 |45 | Infiltrate a corrupt corporation  | A: The corporation has installed the latest in surveillance technology. | B: The players’ only way to infiltrate the corporation is to impersonate people who are high up on the corporate ladder. | C: Infiltrating the corporation uncovers a twist, such as a strong ally of the players actually working for the evil corporation. | D: Infiltrating the corporation will involve hurting, kidnapping, and threatening innocent people.|
@@ -3307,7 +3307,7 @@ military personnel #2
 |75 | Help a colony fend off slavers  | A: The slavers have managed to capture a small group of children belonging to the colony and are using them to manipulate the colony into trading them for adult "volunteers." | B: The slavers have destroyed some of the supply chains of the colony, which forces small groups out into the open as they scavenge for food. | C: There is a spy among the colonists feeding information to the slavers. | D: All the colonists are pacifists and will not help with the defense of the colony.|
 |76 | Investigate the disappearance of a colonist  | A: The colonist had gotten mixed up with a criminal organization. | B: The colonist was kidnapped by evil scientists who planned to do experiments on their victim. | C: Tension surrounding the disappearance leads to possible violence among the other colonists. | D: The disappearance sets off a crisis because that particular colonist was essential to the well- being/survival of the colony. E. The missing colonist is a child who seems to display "strange abilities." |
 |77 | Start a rebellion on a rim world  | A: The people are heavily monitored by AI- bugged living, working, and public spaces. Informants are everywhere. | B: The government’s propaganda machine misleads much of the population. | C: To keep the people under their control, the regime uses brutal physical punishments, concentration/labor camps, public executions, and threats directed toward family members. | D: Factions who are willing to join a rebellion have different goals for when the current regime is overthrown. | E: The people are prisoners on their own world. Ships coming to and from the planet are heavily monitored and guarded. Few of the populace are trained in how to pilot them. | F: All weapons are kept in secure facilities.|
-|78 | Help a colony defeat a group of pirates  | A: The pirates have their headquarters on a heavily fortified base on a remote planet. | B: Some of the leaders in the government have long been conspiring with the pirates and lining their pockets with the benefits of this "arrangement." | C: The pirates have a sophisticated intelligence network and monitor what is happening on the planets within their sphere of infl uence. | D: The pirates have taken hostages. | E: The colony lacks trained individuals and weaponry to take on the pirate horde. Someone has to train and equip them. | F: The players must infiltrate the pirates and gain their trust. Then they can discover the pirates’s plans and create a counteroffensive.|
+|78 | Help a colony defeat a group of pirates  | A: The pirates have their headquarters on a heavily fortified base on a remote planet. | B: Some of the leaders in the government have long been conspiring with the pirates and lining their pockets with the benefits of this "arrangement." | C: The pirates have a sophisticated intelligence network and monitor what is happening on the planets within their sphere of influence. | D: The pirates have taken hostages. | E: The colony lacks trained individuals and weaponry to take on the pirate horde. Someone has to train and equip them. | F: The players must infiltrate the pirates and gain their trust. Then they can discover the pirates’s plans and create a counteroffensive.|
 |79 | Smuggle a controlled substance to a core planet  | A: The substance spills in the cargo bay/storage area and is now causing damage to the ship. | B: Some creature has stowed away in the shipment and is consuming the substance. | C: The core planet has a trained creature that can detect the controlled substance with one of its senses. | D: Inspections are thorough and scanners can detect almost anything. | E: A rival group doesn’t want you taking a bite out of their profits. | F: The substance is prone to spontaneous combustion if mishandled or jostled. | G: The players must pay a bribe to officials to get the goods in.|
 |80 | Fake the death of a celebrity  | A: The paparazzi follows the celebrity everywhere making it tricky to pull off the scheme. | B: A rival faction tries to sabotage the players’ plans. | C: The players are pulled into a deeper conspiracy after faking the death. | D: The celebrity insists they must "perish in a heroic way."|
 |81 | Explore a planet covered in crystalline structures  | A: The crystal planet is guarded by crystalline sentient beings. | B: The crystals actually absorb memories, causing the crew members to forget crucial things over time. The only way to get them back is to find a way of destroying the crystals containing their memories. | C: A civilization living there uses the crystals to focus their psychic ability and control the weak-minded. | D: Poachers are stealing the valuable crystals at a rate that will soon destroy the planet.|
@@ -3320,7 +3320,7 @@ military personnel #2
 |88 | Ambush a space pirate ship  | A: The space pirates have learned of the ambush and are sending a decoy ship. The real ship will come after the players board the decoy. | B: The players must find a good place to ambush the pirates. | C: The pirates have innocent captives aboard their ship. | D: The pirates have just made a deal with another pirate faction, and their combined forces are more than the would-be ambushers had planned to take on.|
 |89 | Deliver water to a desert planet  | A: A sandstorm interferes with the navigation systems on the ship. | B: Water bandits devise a plot to take the water as soon as the players land. | C: Native animals can sense water over long distances and can be very aggressive and creative when it comes to getting water. | D: A rival group comes to fight for the water.|
 |90 | Deliver supplies to a monastery  | A: The players cannot land near the monastery due to its precarious location such as a mountain cliff , a tiny island, a dense jungle, or underwater. | B: Ancient mystic guardians protect the monastery and desire to test the worthiness of the players. | C: The supplies are strange and mystical, making strange sounds in the night, glowing faintly, or disappearing and reappearing somewhere else on the ship. | D: The monks distrust the shipment and believe it is part of a plot to destroy the monastery.|
-|91 | Evacuate colonists from a dying planet  | A: Frequent earthquakes complicate the process. | B: Resources are incredibly scarce, and native fauna have become more aggressive in their attempts to get resources. | C: One particular faction doesn’t want outside help because they are afraid it will weaken their infl uence and power. | D: Infrastructure is in shambles, complicating the evacuation. | E: Social class systems are creating tension as the upper classes demand to be first. | F: The planet is deteriorating very quickly, and some might not be saved.|
+|91 | Evacuate colonists from a dying planet  | A: Frequent earthquakes complicate the process. | B: Resources are incredibly scarce, and native fauna have become more aggressive in their attempts to get resources. | C: One particular faction doesn’t want outside help because they are afraid it will weaken their influence and power. | D: Infrastructure is in shambles, complicating the evacuation. | E: Social class systems are creating tension as the upper classes demand to be first. | F: The planet is deteriorating very quickly, and some might not be saved.|
 |92 | Plant explosives on a slaver ship  | A: The slaver ship is heavily guarded with the latest in surveillance technology. | B: The ship will only be docked for a short time, and it is the only chance to smuggle the explosives aboard. | C: The slave ship unexpectedly picked up a small group of slaves. These people need to be evacuated before the ship explodes. | D: The slavers’ families, including young children, are onboard causing a moral dilemma for the party. |
 |93 | Hunt down poachers on a rim world  | A: The poachers have multiple hide-outs and secret tunnels to avoid detection. | B: The poachers are organized and plan to put up a fight. | C: Poachers pay unscrupulous politicians to subvert the party’s eff orts to hunt them. | D: The poachers claim the substance they are poaching is vital to making a medicine, which will stop a plague on their homeworld.|
 |94 | Rescue a merchant ship from pirates  | A: The pirates have organized a boarding party who are armed to the teeth. | B: The pirates disable the ship, which sends it careening off course toward an impending disaster. | C: Upon arrival, the party finds out that there is an even larger pirate fleet lying in ambush. | D: The pirates hold the passengers hostage and make outrageous demands for their release. | E: The pirates rig the vessel with explosives. | F: The captain of the ship is actually in league with the pirate captain and betrays the party and the rest of the crew.|
@@ -3388,7 +3388,7 @@ military personnel #2
 | 51 |Locate a stolen experimental energy source. |  The energy source is unstable.|
 | 52 |Rescue a diplomat trapped in a malfunctioning escape pod. |  The escape pod is located in an asteroid field.|
 | 53 |Smuggle contraband past a heavily patrolled trade route. |  The contraband gives out signatures that are easily detectable by sensors.|
-| 54 |Negotiate a trade agreement between two corporations. |  The corporations have a long history of confl ict.|
+| 54 |Negotiate a trade agreement between two corporations. |  The corporations have a long history of conflict.|
 | 55 |Escort a convoy of refugee vessels through an asteroid field. |  The asteroid field is being mined.|
 | 56 |Investigate a mysterious signal from an uncharted planet. |  The signal origin is deep within the planet.|
 | 57 |Infiltrate a secret facility experimenting with time manipulation. |  Pockets of time displacement riddle the facility.|
@@ -3418,7 +3418,7 @@ military personnel #2
 | 81 |Defend a research facility from a hostile invasion. |  The invasion force is led by a former director of the facility.|
 | 82 |Retrieve a lost exploration drone from a hostile planet. |  The planet is blanketed in thick fog.|
 | 83 |Escort a group of scientists to study a cosmic phenomenon. |  The phenomenon disrupts communication and navigation.|
-| 84 |Help a space station during a solar fl are storm. |  The solar fl are storm is giving off huge amounts of radiation.|
+| 84 |Help a space station during a solar flare storm. |  The solar flare storm is giving off huge amounts of radiation.|
 | 85 |Investigate unexplained phenomena in a remote star system. |  The system is populated by a xenophobic faction.|
 | 86 |Escort a group of diplomats through a warzone. |  A group of fighters wish to stop the diplomats at all costs.|
 | 87 |Help a kidnapped diplomat escape from a rival government. |  The diplomat is being held in a maximum-security area.|
@@ -3509,7 +3509,7 @@ military personnel #2
 | 66 |Ancient satellite emits a faint signal|
 | 67 |Enormous skeletal remains of an unidentified creature|
 | 68 |Besieged asteroid mine sends a distress call|
-| 69 |Friendly fighters (1D6) fl y cover support if asked|
+| 69 |Friendly fighters (1D6) fly cover support if asked|
 | 70 |Ancient derelict spacecraft bears the symbols of a legendary empire|
 | 71 |A smuggler ship operates covertly and tries to evade the party's ship|
 | 72 |Remnants of a minor space battle|
@@ -3550,7 +3550,7 @@ military personnel #2
 | 4 |Large silkhenges made by giant desert spiders|
 | 5 |Deep dry cracks in the ground|
 | 6 |Rows of mysterious so-called shadow stones|
-| 7 |Vast clouds of firefl y-like insects|
+| 7 |Vast clouds of firefly-like insects|
 | 8 |Crystals growing flower-like patterns|
 | 9 |Sailing stones with extremely long tracks|
 | 10 |Deteriorating water vessels stranded in extensive dry sea beds|
@@ -3598,7 +3598,7 @@ military personnel #2
 | 52 |Stone circles spanning miles in diameter|
 | 53 |Abandoned massive solar panels|
 | 54 |Massive dune whales that swim through shifting sands|
-| 55 |Vast salt fl ats|
+| 55 |Vast salt flats|
 | 56 |Sprawling graveyard of broken and discarded robots|
 | 57 |Towering buttes|
 | 58 |Wind-carved mushroom rocks|
@@ -3626,7 +3626,7 @@ military personnel #2
 | 80 |Violent sandstorms|
 | 81 |Sands glow eerily at night|
 | 82 |Vast burial grounds of some long-lost people|
-| 83 |Vast cracked mud fl ats|
+| 83 |Vast cracked mud flats|
 | 84 |Low-frequency roaring as the wind passes over dunes|
 | 85 |A renowned scientist wandering alone delirious muttering that they are all dead|
 | 86 |Massive sand dunes|
@@ -3814,7 +3814,7 @@ military personnel #2
 | 58 |Ancient automatons guarding a massive door set deep in the ice|
 | 59 |Treasure hunters looking for a fabled cache of gems|
 | 60 |Ancient ruins beneath mounts of snow|
-| 61 |Crystal that feels incredibly cold but has a blue fl ame within|
+| 61 |Crystal that feels incredibly cold but has a blue flame within|
 | 62 |Fast moving glaciers|
 | 63 |Outcasts clinging to a meager existence near a coastline|
 | 64 |Ice crystal mountains|
@@ -3858,7 +3858,7 @@ military personnel #2
 ## Jungle Planet Encounters -:-:-  38-
 
 | 1 |Walking trees|
-| 2 |Predators with effective jungle camoufl age|
+| 2 |Predators with effective jungle camouflage|
 | 3 |Rival expeditions souring for resources|
 | 4 |Deep sinkholes|
 | 5 |Waterfalls flowing from the treetops cascading down from the canopy|
@@ -3895,7 +3895,7 @@ military personnel #2
 | 36 |Frequent mudslides|
 | 37 |Poachers butchering animals|
 | 38 |Thorny entangling tendrils|
-| 39 |Soft-landed satellites with fl ashing lights|
+| 39 |Soft-landed satellites with flashing lights|
 | 40 |A vast network of secluded grottos|
 | 41 |Spaceship wreckage with a lonely AI|
 | 42 |Vast root systems|
@@ -4021,7 +4021,7 @@ military personnel #2
 | 57 |A row of empty glass enclosures that are all shattered - Close inspection reveals drops of human blood on some of the glass shards.
 | 58 |The laboratory is completely burnt and all the equipment is charred - Several clues can be found: A university graduation ring inscribed, "Good luck, Surry. From TR", a small metal disc with, "GKR36F90S1" on it, and a single human hair.
 | 59 |A dead scientist with a syringe in her neck - The room is filled with computers, and on one display, it clearly shows files are in the process of being deleted.
-| 60 |Green fl ames fl icker in a glass cylinder - The cylinder appears to be completely sealed, so where are the fl ames coming from?
+| 60 |Green flames flicker in a glass cylinder - The cylinder appears to be completely sealed, so where are the flames coming from?
 | 61 |A chimpanzee with bright green eyes - The animal hangs upside down, slowly swinging and gazing at the characters from its enclosure.
 | 62 |A small sidearm - A sleek weapon prototype for sure.
 | 63 |Several test tubes with a yellowish growth inside are labeled "Organism 94C" - The seals on the tubes are slightly corrupted.
@@ -4046,18 +4046,18 @@ military personnel #2
 | 82 |Ant-like creatures in a large enclosed hive - The creatures are very active, and everyone seems to have a job.
 | 83 |Bubbling liquid in a beaker - There is no heat source, so why is it bubbling?
 | 84 |A surgical robot dissecting a pig - The robot goes about its business methodically unless interrupted in which case it trunks on the intruder.
-| 85 |A jagged piece of metal is hooked to electrodes - Tiny bits of the metal fl ake off and float upwards and disintegrate.
-| 86 |An orangutan hooked to a machine that is siphoning off brain fl uid - The creature motions to anyone who enters the room.
-| 87 |An open fl ame boils a pale blue liquid in a beaker - Soon the beaker will shatter.
+| 85 |A jagged piece of metal is hooked to electrodes - Tiny bits of the metal flake off and float upwards and disintegrate.
+| 86 |An orangutan hooked to a machine that is siphoning off brain fluid - The creature motions to anyone who enters the room.
+| 87 |An open flame boils a pale blue liquid in a beaker - Soon the beaker will shatter.
 | 88 |A blind monkey with pulsating lumps behind its ears - One character hears the creature whisper that it would like to be freed.
 | 89 |Dead human - The person was kept nude in an enclosure. The cause of death is not obvious.
 | 90 |A large parrot preening its feathers - There is evidence of genetic enhancement of some kind.
-| 91 |Several large trays of what appear to be human eyes - The refrigerator unit the trays are in is having power fl uctuations.
+| 91 |Several large trays of what appear to be human eyes - The refrigerator unit the trays are in is having power fluctuations.
 | 92 |A massive Tesla coil charging - The sound is deafening.
 | 93 |A greenish-yellow alga has grown to cover nearly half of the lab - A close look reveals it is still growing.
 | 94 |Rows of small plastic boxes labeled "Nanites - Batch 4736598" - The seal on one box has been broken.
 | 95 |A glass enclosure with several dozen bats inside - The animals appear to be "augmented" in several ways.
-| 96 |A glass enclosure full of butterfl ies - Something is different about their coloration and their eyes.
+| 96 |A glass enclosure full of butterflies - Something is different about their coloration and their eyes.
 | 97 |A row of dissected fish - Each fish has a strange crystal near its brain.
 | 98 |The consciousness of a soldier downloaded into a computer - The entity begins asking questions about the state of "the war."
 | 99 |A glob of tissue in a vat being shocked periodically - The reaction varies but occasionally the sound or stifled scream may be heard.
@@ -4076,7 +4076,7 @@ military personnel #2
 | 9 |Markets on edge after indicators point to economic downturn|
 | 10 |Bifrost unleashes military might onto Porus 2 as trade dispute turns bloody|
 | 11 |Corporate saber-rattling worries officials on Caesar, causes markets to hold their breath|
-| 12 |Election gone wrong fuels fears of armed confl ict on Galveston Prime|
+| 12 |Election gone wrong fuels fears of armed conflict on Galveston Prime|
 | 13 |AI breakthrough once heralded as a significant leap in computing now labeled as a fraud|
 | 14 |Virus outbreak on Daphne sends system authorities scrambling|
 | 15 |Staggering death toll in the wake of spaceship crash on Port Jarvis|
@@ -4103,7 +4103,7 @@ military personnel #2
 | 36 |Fighting between warlords on Narvik Poord threatens to spill over into neighboring planets|
 | 37 |Authorities warn of increased pirate activity along several key trade routes|
 | 38 |Sector treasury sanctions firms, individuals involved in the trade of certain combat drones|
-| 39 |Governmental bodies propose strict capital controls as infl ation on New Berlin reaches near-record levels|
+| 39 |Governmental bodies propose strict capital controls as inflation on New Berlin reaches near-record levels|
 | 40 |Planet Anantapur’s foreign currency reserves nearly depleted, reports say|
 | 41 |Funding talks breakdown between Biotory and Devconic could mean slowing pharmacogenomics developments|
 | 42 |Emergency security meeting called on Edgewater in response to threats regarding the Minurall Industrial Complex|
@@ -4371,7 +4371,7 @@ military personnel #2
 | 95 |Monitor with a frozen image (scientist screaming)|
 | 96 |Safety inspection drone (short-circuiting)|
 | 97 |Flow cytometer thrown on the floor|
-| 98 |Beaker filled with vile-smelling fl uid|
+| 98 |Beaker filled with vile-smelling fluid|
 | 99 |Charred human body|
 | 100 |Plant specimens (crushed, overturned)|
 
@@ -4454,7 +4454,7 @@ military personnel #2
 | 75 |A concealed container beneath a control panel disrupts multiple ship systems.
 | 76 |Inability to shut off or dim the interior lights in crew quarters.
 | 77 |A towering monolith of pure blackness floats in space.
-| 78 |Engine power fl uctuates, significantly reducing speed.
+| 78 |Engine power fluctuates, significantly reducing speed.
 | 79 |Shattered satellites form a cloud of debris in the vessel's path.
 | 80 |A cascade of charged particles causes short circuits in the vessel.
 | 81 |Sores appear on the crew members' hands and arms.
@@ -4498,9 +4498,9 @@ military personnel #2
 | 14 |Ship’s AI locked out of helm functions|
 | 15 |Fire in a corridor|
 | 16 |Major reactor leak|
-| 17 |All weapon systems offl ine|
+| 17 |All weapon systems offline|
 | 18 |Bridge lighting out|
-| 19 |Main weapon offl ine|
+| 19 |Main weapon offline|
 | 20 |Docking bay doors won't close|
 | 21 |Bow stabilizers out, the vessel pitches up|
 | 22 |Starboard thrusters out|
@@ -4527,7 +4527,7 @@ military personnel #2
 | 43 |Major hull breach|
 | 44 |Engineering filled with smoke|
 | 45 |Helm controls unresponsive|
-| 46 |Ships’ AI offl ine|
+| 46 |Ships’ AI offline|
 | 47 |Artificial gravity oriented to the ceiling|
 | 48 |Ships AI sings all responses|
 | 49 |Corridors filled with smoke|
@@ -4577,7 +4577,7 @@ military personnel #2
 | 93 |Short Range sensors out|
 | 94 |Fire in the engine room|
 | 95 |Communications erratic|
-| 96 |Ship’s AI audio offl ine can only text|
+| 96 |Ship’s AI audio offline can only text|
 | 97 |Radiation detected in sickbay|
 | 98 |Engines half speed only|
 | 99 |Starboard stabilizers out, vessel lists port|
@@ -4640,9 +4640,9 @@ military personnel #2
 | 53 |Highly accelerated interstellar gasses|
 | 54 |Astral eddies|
 | 55 |Interdimensional rift|
-| 56 |Temporal fl ux|
+| 56 |Temporal flux|
 | 57 |Isolinear frequency distortion|
-| 58 |Subspace fl ux|
+| 58 |Subspace flux|
 | 59 |Graviton waves|
 | 60 |Radiation bombardment|
 | 61 |Temporal displacement|
@@ -4675,7 +4675,7 @@ military personnel #2
 | 88 |Interphasic rift|
 | 89 |Interfold layer|
 | 90 |Spatial implosion|
-| 91 |Quantum level fl uctuations|
+| 91 |Quantum level fluctuations|
 | 92 |Inversion field|
 | 93 |Energy barrier|
 | 94 |Quasar-like electromagnetic phenomenon|
@@ -4699,9 +4699,9 @@ military personnel #2
 | 9 |An unknown vessel, similar to a scout ship, is in orbit around a planet or moon.
 | 10 |One moon is emitting copious amounts of longwave radiation.
 | 11 |Scans pick up that one of the planets will explode in 1D20 days.
-| 12 |Readings show a massive solar fl are is expected in 1D6 days.
+| 12 |Readings show a massive solar flare is expected in 1D6 days.
 | 13 |Some great gravitational force has recently shifted the orbits of several planets.
-| 14 |A jettisoned fl ight recorder is in orbit around a moon.
+| 14 |A jettisoned flight recorder is in orbit around a moon.
 | 15 |An undocumented ring system is around one of the planets.
 | 16 |A moon has broken apart and is showering the planet below with debris.
 | 17 |One planet is emitting strange radio waves.
@@ -4765,7 +4765,7 @@ military personnel #2
 | 75 |Scans pick up 2D100 human bodies floating in space.
 | 76 |One of the planets is surrounded by electromagnetic spectrum distortions.
 | 77 |A derelict space station is in a decaying orbit. It will enter the atmosphere in 1D4 weeks.
-| 78 |The magnetic field of one planet is fl uctuating in a strange manner.
+| 78 |The magnetic field of one planet is fluctuating in a strange manner.
 | 79 |A giant cube-shaped object is on a collision course with the star.
 | 80 |An uncharted planetoid at the edge of the system.
 | 81 |A derelict vessel is on a collision course with the star.
@@ -4806,9 +4806,9 @@ military personnel #2
 | 8 |A terrorist group attacks a transportation hub near the party.
 | 9 |Ambassadors gather for critical treaty negotiations, and the city is teeming with diplomats and government grifters.
 | 10 |Augmented reality scammers attempt to lure the party into a false virtual storefront, where they manipulate digital currency transactions.
-| 11 |Law enforcement agents chase members of a criminal syndicate using fl ying vehicles and personal jetpacks.
+| 11 |Law enforcement agents chase members of a criminal syndicate using flying vehicles and personal jetpacks.
 | 12 |Gang warfare spills into the streets of the city.
-| 13 |Manufacturing and industrial worker strikes lead to shortages of essential goods, disruptions in supply chains, and infl ated prices.
+| 13 |Manufacturing and industrial worker strikes lead to shortages of essential goods, disruptions in supply chains, and inflated prices.
 | 14 |Reports of a rogue AI circulate in the city.
 | 15 |A high-level corruption scandal involving government officials and prominent corporate figures rocks the city, leading to large gatherings in the streets.
 | 16 |Cultists are swarming the city, seeking to convert and prepare for the apocalypse.
@@ -4824,7 +4824,7 @@ military personnel #2
 | 26 |Public service worker strikes result in uncollected waste, delayed emergency response times, and a reduced security presence.
 | 27 |Recent natural disasters have led to civil unrest.
 | 28 |A street dealer peddles illegal enhancements, synthetic neurotransmitter boosters, and mind- altering nano-drugs.
-| 29 |Criminals target hoverboards, personal fl ying vehicles, and hijack autonomous transport vehicles.
+| 29 |Criminals target hoverboards, personal flying vehicles, and hijack autonomous transport vehicles.
 | 30 |A high-profile trial unfolds, leading to anger in the streets.
 | 31 |Androids have been damaging property and demanding change in the city.
 | 32 |Economic instability causes businesses and people to suffer from food shortages and shortages of other goods.
@@ -4858,7 +4858,7 @@ military personnel #2
 | 60 |A scruff y, down-on-his-luck panhandler asks the party for money or food.
 | 61 |The city is reeling from the high-profile takedown of a large cartel by a cybercrime unit.
 | 62 |Biotech scientists have formed a large enclave in the city, establishing many labs for their genetic engineering and human enhancement experiments.
-| 63 |Distinct cultural districts of the city pose challenges to visitors that may result in confl icts over local etiquette and protocols.
+| 63 |Distinct cultural districts of the city pose challenges to visitors that may result in conflicts over local etiquette and protocols.
 | 64 |A group of animal-like androids runs amok throughout the city, causing widespread chaos.
 | 65 |Criminals roaming the streets steal personal devices and hack data chips from pedestrians.
 | 66 |Street performers use holographic technology to create stunning illusions for passersby.
@@ -4873,11 +4873,11 @@ military personnel #2
 | 75 |Emergency response teams, equipped with exoskeletons and hovercraft, are working to rescue people from a Monorail derailment.
 | 76 |An outbreak of genetic mutations caused by experiments gone wrong sparks riots and demands for medical assistance.
 | 77 |Cyborg mercenaries have recently gathered in the city.
-| 78 |Heightened social tensions may lead to potential confl icts between different socioeconomic groups.
+| 78 |Heightened social tensions may lead to potential conflicts between different socioeconomic groups.
 | 79 |A delivery drone drops a package in front of the party.
 | 80 |An alien insect swarm wreaks havoc on the city's buildings, chewing on the foundations and other critical supports.
 | 81 |Government surveillance reaches into nearly every corner of the city.
-| 82 |Unidentified drones have been spotted fl ying around the city.
+| 82 |Unidentified drones have been spotted flying around the city.
 | 83 |Claims of resource mismanagement lead to clashes between the population and authorities.
 | 84 |A slick pickpocket attempts to distract the party and then makes off with some of their valuables.
 | 85 |Anti-gravity public transportation tubes malfunction, reducing travel around the city to a crawl.
@@ -4937,7 +4937,7 @@ military personnel #2
 | 32 |Volcanic lagoon|
 | 33 |Lava benches|
 | 34 |Steaming caldera lake|
-| 35 |Solar fl are research outpost (1D8 crew)|
+| 35 |Solar flare research outpost (1D8 crew)|
 | 36 |Spaceship wreck near a caldera|
 | 37 |Gigantic lava whirlpool|
 | 38 |Lava-eating parasites|
@@ -5032,7 +5032,7 @@ military personnel #2
 | 15 |Take 356 metric tons of pepper (dried/crushed/ground) from Palladia to Phoenixia | Employer: Neuria (corp) | Complication: One container is shaped radically different than all the rest.
 | 16 |Take 461 metric tons of monument/building stones, and art from Richmond to Vega's Belt | Employer: Irella El-Haddad | Complication: The cargo is too heavy for the loading equipment causing a delayed departure.
 | 17 |Take 34 metric tons of electrical resistors from Luther to Prometheus | Employer: Unknown | Complication: A mysterious woman contacts the crew and offers more money if they take the cargo to her instead of delivering it.
-| 18 |Take 40 metric tons of carnival items and magic tricks from Narvik Poord to New Tasmania | Employer: Hellman Cháng | Complication: Massive solar fl are occurs as the ship approaches the destination system.
+| 18 |Take 40 metric tons of carnival items and magic tricks from Narvik Poord to New Tasmania | Employer: Hellman Cháng | Complication: Massive solar flare occurs as the ship approaches the destination system.
 | 19 |Take 375 metric tons of UNDISCLOSED from Ermoupoli to Durham Cole | Employer: Neptunetix (corp) | Complication: Several containers seem to bulge out at the sides growing larger during the journey.
 | 20 |Take 213 metric tons of miscellaneous furniture from Lawton Ardmore to Xinyi | Employer: Unknown|
 | Complication: At the destination, the cargo bay door is stuck shut.
@@ -5042,7 +5042,7 @@ military personnel #2
 | 24 |Take 217 metric tons of hydrogen and rare gasses from Sükhbaatar to Gnagua KMM | Employer: Sobrantes (corp) | Complication: Sealant leak causes malfunctions in the cargo storage systems.
 | 25 |Take 25 metric tons of material removal machine tools from Excelsior Springs to Shaki Aberdeen | Employer: Mantik (corp) | Complication: The employer claims the shipment is late no matter when it is delivered.
 | 26 |Take 30 metric tons of unmanufactured tobacco and tobacco waste from Belmont Free to Victoria|
-| Employer: Glycloud (corp) | Complication: The ship experiences power fl uctuations slowing the journey to the destination.
+| Employer: Glycloud (corp) | Complication: The ship experiences power fluctuations slowing the journey to the destination.
 | 27 |Take 445 metric tons of liquid/gas checking instruments from Phorbas to Bixby | Employer: Hyeptic (corp) | Complication: Power converter on the fritz causing the voyage to be delayed.
 | 28 |Take 317 metric tons of deburr/sharpen/grind machine tools from Troy to Masi-Manimba | Employer: Intellisphere (corp) | Complication: Self-declared freedom fighters intercept the vessel and demand the cargo.
 | 29 |Take 124 metric tons of UNDISCLOSED from Arcadia to Enyo | Employer: ZeroG Dynamics (corp) | Complication: At the destination a unit of heavily armed soldiers arrives and demands to search the cargo.
@@ -5075,8 +5075,8 @@ military personnel #2
 | 53 |Take 5 metric tons of printed books, and brochures from Polemos to Kharkiv | Employer: Ranna Suzuki | Complication: The cargo reeks of filth and the ship's life support has a difficult time filtering the smell.
 | 54 |Take 24 metric tons of whole fish (fresh) from Belzoni Beta to Kaposvár | Employer: Unknown | Complication: At the destination, the crew is told to wait a few days before pick-up can be made.
 | 55 |Take 264 metric tons of UNDISCLOSED from Inverness Soar to Dercetius | Employer: Unknown | Complication: Halfway through the voyage the cargo containers begin melting giving off noxious foams and acid puddles.
-| 56 |Take 512 metric tons of tea (including fl avored) from Kilmichael Newton to Rhea IV | Employer: Xi Volkman Inc. (corp) | Complication: The employer also includes several containers that house dog- like animals.
-| 57 |Take 35 metric tons of glass bottles, fl asks, jars, and pots from Independence Core to Resheph One|
+| 56 |Take 512 metric tons of tea (including flavored) from Kilmichael Newton to Rhea IV | Employer: Xi Volkman Inc. (corp) | Complication: The employer also includes several containers that house dog- like animals.
+| 57 |Take 35 metric tons of glass bottles, flasks, jars, and pots from Independence Core to Resheph One|
 | Employer: Krosssystem (corp) | Complication: The ship's life support systems begin to malfunction and the crew needs to stop somewhere close for repairs.
 | 58 |Take 80 metric tons of cases, handbags, and wallets from Turiacus to Ngozi | Employer: Envios (corp)|
 | Complication: The quickest trade route is blocked to political turmoil.
@@ -5174,7 +5174,7 @@ military personnel #2
 | 41 |Take 98 metric tons of chocolate, and other cocoa preparations from Holland to Trondheim | Employer: Cira Sallaros | Complication: The cargo owner asks for a reference.
 | 42 |Take 447 metric tons of copper waste and scrap from Port Jarvis to Malangwa | Employer: Unknown|
 | Complication: Some unknown spores are detected in several cargo containers.
-| 43 |Take 21 metric tons of tea (including fl avored) from Mirandela to Elba Seven | Employer: Galvanysm (corp) | Complication: The employer demands a strict timetable for delivery.
+| 43 |Take 21 metric tons of tea (including flavored) from Mirandela to Elba Seven | Employer: Galvanysm (corp) | Complication: The employer demands a strict timetable for delivery.
 | 44 |Take 127 metric tons of UNDISCLOSED from Zaba Omicron to Parys | Employer: Unknown | Complication: The crew seems to grow fond of the cargo containers and feel the urge not to part with them.
 | 45 |Take 432 metric tons of zinc (unwrought) from Sabus Prime to Gibil | Employer: Malcolm Yen | Complication: Interstellar turbulence causes the containers to break loose and tumble about the cargo hold.
 | 46 |Take 476 metric tons of cotton from Narvik Poord to Laurits | Employer: Unknown | Complication: The shipment is late arriving at the loading dock and then a long customs search beings.
@@ -5285,7 +5285,7 @@ military personnel #2
 | 43 |Non-sublimed sulfur|
 | 44 |Self-adhesive plastic in rolls|
 | 45 |Palm oil|
-| 46 |Glass bottles, fl asks, jars, pots|
+| 46 |Glass bottles, flasks, jars, pots|
 | 47 |Unmanufactured tobacco, tobacco waste|
 | 48 |Chocolate, and other cocoa preparations|
 | 49 |Chemical wood pulp (dissolving)|
@@ -5489,7 +5489,7 @@ military personnel #2
 | 41 |Wine|
 | 42 |Crude oil|
 | 43 |Gems|
-| 44 |Tea (including fl avored)|
+| 44 |Tea (including flavored)|
 | 45 |Processed petroleum oils|
 | 46 |Acyclic hydrocarbons|
 | 47 |Men's shirts (not knit or crochet)|
@@ -5539,7 +5539,7 @@ military personnel #2
 | 91 |Bovine/equine leather|
 | 92 |Jewelry|
 | 93 |Computer parts, accessories|
-| 94 |Unglazed ceramic fl ags, tiles|
+| 94 |Unglazed ceramic flags, tiles|
 | 95 |Hydraulic cement|
 | 96 |Solar power diodes/semiconductors|
 | 97 |Hydrogen, rare gases|
@@ -5722,13 +5722,13 @@ military personnel #2
 | 68 |O-Rings (3d6 x 1000, value 1d6 per 1000)|
 | 69 |Thermal Suit (3)|
 | 70 |Hi-Fusion Cutter (2)|
-| 71 |Desert Camoufl age Outfits (6 sets)|
+| 71 |Desert Camouflage Outfits (6 sets)|
 | 72 |High-Quality Space Suit|
 | 73 |Malforian Chocolate (1d6, value 2d6 x 100 per square)|
 | 74 |Exposure Suit|
 | 75 |Ball Bearings (5d6 x 1000, value 1d6 per 1000)|
 | 76 |Armored Space Suit|
-| 77 |Forest Camoufl age Outfits (6 sets)|
+| 77 |Forest Camouflage Outfits (6 sets)|
 | 78 |T'wilian Silk (1 bolt, value 6d6 x10)|
 | 79 |Sub-Zero Parka|
 | 80 |Ammo Bandolier|
@@ -5956,7 +5956,7 @@ military personnel #2
 | 88 |Interstellar Macro Economics 101|
 | 89 |Meteorite 3182b: A Full Survey|
 | 90 |Vacuum Adventures|
-| 91 |The Forward Confl ict|
+| 91 |The Forward Conflict|
 | 92 |A Thousand Suns|
 | 93 |Lost Empires|
 | 94 |Computational Biology: Living Technology|
@@ -6048,7 +6048,7 @@ military personnel #2
 | 68 |Name: Wyrren Stargazer | Alias(es): Silas Ramsey, Knox Alexander | Bounty: 9,500 | Condition: Alive | Crime: Attempted Murder | Distinguishing Marks: None | Last Known Location: Nabu|
 | 69 |Name: Ereen Cooper | Alias(es): None | Bounty: 24,500 | Condition: Alive | Crime: Murder | Distinguishing Marks: Enchanted key tattoo on right thigh | Last Known Location: Scarpellini|
 | 70 |Name: Arman Al-Kandari | Alias(es): None | Bounty: 40,500 | Condition: Alive | Crime: Treason, Mass Murder | Distinguishing Marks: Surgical scar on abdomen | Last Known Location: Lincoln|
-| 71 |Name: Kamau Yagi | Alias(es): None | Bounty: 12,000 | Condition: Dead or Alive | Crime: Robbery | Distinguishing Marks: Face tattoo of a butterfl y | Last Known Location: Cellarius|
+| 71 |Name: Kamau Yagi | Alias(es): None | Bounty: 12,000 | Condition: Dead or Alive | Crime: Robbery | Distinguishing Marks: Face tattoo of a butterfly | Last Known Location: Cellarius|
 | 72 |Name: Kojo Almiston | Alias(es): None | Bounty: 8,000 | Condition: Dead or Alive | Crime: Robbery, Data Theft | Distinguishing Marks: Abstract portrait of a woman on back | Last Known Location: Rhea III|
 | 73 |Name: Weizhe Al-Farsi | Alias(es): None | Bounty: 46,500 | Condition: Alive | Crime: Attempted Murder | Distinguishing Marks: Sacred geometry sleeve tattoo on right arm | Last Known Location: Wyvern|
 | 74 |Name: Kellin Bardok | Alias(es): None | Bounty: 34,500 | Condition: Alive | Crime: Robbery | Distinguishing Marks: Retro video game collage tattoo on stomach | Last Known Location: Orozco|
@@ -6205,7 +6205,7 @@ military personnel #2
 | 13 |Neobronze|
 | 14 |Electrosteel|
 | 15 |Chronocrystal|
-| 16 |Plasmafl ux|
+| 16 |Plasmaflux|
 | 17 |Chronosium|
 | 18 |Etherium|
 | 19 |Electrinite|
@@ -6313,11 +6313,11 @@ military personnel #2
 | 18 |Echoderm|
 | 19 |Xenorejection|
 | 20 |Etherialysis|
-| 21 |Vortexular Affl iction|
+| 21 |Vortexular Affliction|
 | 22 |Synaptic Aberration|
 | 23 |Synthetitis|
 | 24 |Dystophraxia|
-| 25 |Novafl ux|
+| 25 |Novaflux|
 | 26 |Psi-Malfunction|
 | 27 |Nanomeltdown|
 | 28 |Xenocrosis|
@@ -6328,7 +6328,7 @@ military personnel #2
 | 33 |Telepathoma|
 | 34 |Paradoxia|
 | 35 |Metamorphic Fever|
-| 36 |Chromokinetic Affl iction|
+| 36 |Chromokinetic Affliction|
 | 37 |Psychoplague|
 | 38 |Voidborne Amnesia|
 | 39 |Neuralomniscence|
@@ -6348,10 +6348,10 @@ military personnel #2
 | 53 |Chronoamnesia|
 | 54 |Technovirus|
 | 55 |Omniwarp Syndrome|
-| 56 |Quanfl ux Fever|
+| 56 |Quanflux Fever|
 | 57 |Cognitroxin|
 | 58 |Quantumlock|
-| 59 |Cerebrinfl ux|
+| 59 |Cerebrinflux|
 | 60 |Arcane Ataxia|
 | 61 |Neuralith|
 | 62 |Metabolock|
@@ -6367,7 +6367,7 @@ military personnel #2
 | 72 |Cybersurge|
 | 73 |Viral Synergy|
 | 74 |Resonance Fever|
-| 75 |Cerebrofl ux|
+| 75 |Cerebroflux|
 | 76 |Symbiorganic Sclerosis|
 | 77 |Phasenova|
 | 78 |Stellaris Melanoma|
@@ -6380,12 +6380,12 @@ military personnel #2
 | 85 |Bioentropy|
 | 86 |Aetheric Dysplasia|
 | 87 |Gravitonic fever|
-| 88 |Transmogrifl ux|
+| 88 |Transmogriflux|
 | 89 |Voidborne Decay|
 | 90 |Psycholunar Disorder|
 | 91 |Chronolapse|
 | 92 |Mutacontagion|
-| 93 |Nanofl u|
+| 93 |Nanoflu|
 | 94 |Luminopathic Disorder|
 | 95 |Temporal Insanity|
 | 96 |Antimatter Syndrome|
@@ -6709,7 +6709,7 @@ military personnel #2
 | 2 |Vikto - Use: A large white pill. Effects: Alertness and happy feelings. Side Effects: Sudden numbness or weakness, especially on one side of the body, severe diarrhea, rectal bleeding. Addiction: 3% chance of being addicted upon first use. Chances increase by 1% after each use. Note: Vikto is the street name for a powerful anti-viral medication still in legal use.
 | 3 |Snip Grill - Use: A yellow strip placed on the roof of the mouth. Effects: Hallucinations. Side Effects: Unsteadiness, memory loss, lack of coordination, difficulty speaking, and viral infections. Addiction: 2% chance of being addicted upon first use. Chances increase by 10% after each use.
 | 4 |Grind - Use: A gel rubbed on the skin that leaves an orange stain. Effect: Hallucinations and calmness. Side Effects: Paranoia. Addiction: 15% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 5 |Dragon's Breath - Use: A red spray that is ingested. Effects: Spiritual and transcendent experiences as well as increased introspection. Side Effects: Fever, chills, body aches, fl u symptoms, with long-term use leading to permanent psychological damage. Addiction: 50% chance of being addicted upon first use. Chances increase by 3% after each use.
+| 5 |Dragon's Breath - Use: A red spray that is ingested. Effects: Spiritual and transcendent experiences as well as increased introspection. Side Effects: Fever, chills, body aches, flu symptoms, with long-term use leading to permanent psychological damage. Addiction: 50% chance of being addicted upon first use. Chances increase by 3% after each use.
 | 7 |Puff Gum - Use: An amethyst-colored gum that is chewed. Effects: Mild stimulant. Side Effects: Stains teeth purple; long-term use leads to severe stomach ailments. Addiction: 1% chance of being addicted upon first use. Chances increase by 1% after each use.
 | 6 |Shunt - Use: A yellow paste that is smeared in the nostrils. Effects: Excitement, energy, and feelings of affection. Side Effects: Strange dreams, the need to sleep for long periods, and violent behavior. Addiction: 10% chance of being addicted upon first use. Chances increase by 1% after each use.
 | 8 |Rip - Use: A purplish liquid that is dropped into the ear. Effects: The sensation of floating, euphoria, and being free of worries or care. Side Effects: Strange dreams and night terrors. Addiction: 5% chance of being addicted upon first use. Chances increase by 3% after each use.
@@ -6721,7 +6721,7 @@ military personnel #2
 | 14 |Shaft - Use: A red powder that is heated and inhaled. Effects: Extreme pleasure and the sensation of abundant energy. Side Effects: An increased number of bowel movements, an urgent need to have them, and an inability to control them; long-term use leads to rare immune disorders. Addiction: 0% chance of being addicted upon first use. Chances increase by 4% after each use.
 | 15 |Alpha Drop - Use: A green liquid that is dropped into the eyes. Effects: Manic behavior. Side Effects: Eye discoloration; long-term use leads to blindness and cognitive impairment. Addiction: 8% chance of being addicted upon first use. Chances increase by 5% after each use.
 | 16 |New Slerv - Use: A blue gas that is inhaled. Effects: Suppresses fear and causes hyperactivity. Side Effects: Loss of appetite and fatigue; long-term use leads to mesothelioma. Addiction: 5% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 17 |Burning Bush - Use: A thin orange wafer that is ingested. Effects: Extreme hallucinations and the feeling of moving when standing still. Side Effects: Cracks in the corners of the mouth, dry mouth, dry lips, cracking or peeling skin, infl ammation of the whites of the eyes; long-term use can cause several mental disorders. Addiction: 50% chance of being addicted upon first use. Chances increase by 7% after each use.
+| 17 |Burning Bush - Use: A thin orange wafer that is ingested. Effects: Extreme hallucinations and the feeling of moving when standing still. Side Effects: Cracks in the corners of the mouth, dry mouth, dry lips, cracking or peeling skin, inflammation of the whites of the eyes; long-term use can cause several mental disorders. Addiction: 50% chance of being addicted upon first use. Chances increase by 7% after each use.
 | 18 |Trome - Use: A brown powder burned and inhaled. Effects: Synesthesia, the experience of mixed perceptions, such as hearing colors or seeing sounds. Side Effects: Impaired judgment, paranoia, and psychosis. Addiction: 3% chance of being addicted upon first use. Chances increase by 20% after each use.
 | 19 |Shatter - Use: An iridescent liquid injected into the spine. Effects: Increased strength and intense hallucinations. Side Effects: Uncontrollable rage; long-term use leads to a specific neurological disorder. Addiction: 30% chance of being addicted upon first use. Chances increase by 5% after each use.
 | 20 |Ditch - Use: A red dermal patch. Effects: Overestimation of strength, speed, and invulnerability. Side Effects: High anxiety, paranoia, and isolation. Long-term use leads to lung disorders, thyroid problems, and liver disease. Addiction: 100% chance of being addicted upon first use.
@@ -6740,7 +6740,7 @@ military personnel #2
 | 33 |Slant - Use: A black patch placed at the base of the skull. Effects: Weightlessness and out-of- body experiences. Side Effects: Disorientation, and shakiness with long-term use being linked to medulloblastoma. Addiction: 30% chance of being addicted upon first use. Chances increase by 4% after each use.
 | 34 |Grip - Use: A goldish-gray pill. Effects: Intense excitement. Side Effects: Rapid breathing, hypertension, and "zombification." Addiction: 20% chance of being addicted upon first use. Chances increase by 6% after each use.
 | 35 |Fast Heat - Use: A red pill that is a concentrated form of Salen Heat. Effects: The user feels warm and excited and usually feels the desire to remove their clothing. These effects are similar to Salen Heat but are more intense. Side Effects: Extreme anxiety, irregular heartbeat, and convulsions. Addiction: 7% chance of being addicted upon first use. Chances increase by 7% after each use.
-| 36 |Butterfl y - Use: A one-ounce shot of yellowish liquid that is ingested. Effects: Feelings of ecstasy and excitement. Side Effects: Loss of appetite or increase in appetite, weight changes, cold symptoms (stuff y nose, sneezing, sore throat), dry mouth, and decreased sex drive. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
+| 36 |Butterfly - Use: A one-ounce shot of yellowish liquid that is ingested. Effects: Feelings of ecstasy and excitement. Side Effects: Loss of appetite or increase in appetite, weight changes, cold symptoms (stuff y nose, sneezing, sore throat), dry mouth, and decreased sex drive. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
 | 37 |Flash - Use: A yellow liquid that is dropped into the eyes. Effects: A sense of well-being and energy. Side Effects: Nausea, delusions of power, and increased aggressiveness are the main short-term effects. Long-term use leads to premature aging, strokes, and extreme mood swings. Addiction: 60% chance of being addicted upon first use. Chances increase by 10% after each use.
 | 38 |Sap - Use: The sap of the Gorva bush is boiled and mixed with alcohol and then ingested. Effects: Powerful feeling of euphoria, and intensifies the effects of alcohol. Side Effects: Severe hangovers with long-term use leading to brain damage. Addiction: 0% chance of being addicted upon first use. Chances increase by 4% after each use.
 | 39 |Spark - Use: A glass-like crystal that gives off sparks as it is chewed. Effects: Supposedly allows the user to "touch the mind of God." Side Effects: After a 12 to 24-hour high, use leads to death.
@@ -6748,7 +6748,7 @@ military personnel #2
 | 41 |Kiss - Use: A party scene drug that is a small purple patch placed on one’s temple. Effects: Hyperactivity and the desire to move. Side Effects: Long-term use causes violent tremors. Addiction: 2% chance of being addicted upon first use. Chances increase by 5% after each use.
 | 42 |Kronk - Use: Leaves of the marijuana plant that are smoked. Effects: A pleasant euphoria, sense of relaxation, and heightened sensory perception. Side Effects: Anxiety, fear, distrust, panic, and a loss of the sense of personal identity. Long-term use leads to schizophrenia or other psychotic disorders. Addiction: 1% chance of being addicted upon first use. Chances increase by 4% after each use.
 | 43 |Glitch - Use: A blue slime that is inhaled through the nose. Effects: Euphoria and the sensation of spinning. Side Effects: Upset stomach, muscle aches, dizziness, headaches, and urine turns blue. Long- term use has been linked to a host of medical issues including kidney failure and brain tumors. Addiction: 1% chance of being addicted upon first use. Chances increase by 30% after each use.
-| 44 |Snif - Use: A mist that is inhaled. Effects: Infl ated self-esteem and elevated mood. Side Effects: Confusion or disorientation, muscle weakness, and bone pain. Addiction: 5% chance of being addicted upon first use. Chances increase by 10% after each use.
+| 44 |Snif - Use: A mist that is inhaled. Effects: Inflated self-esteem and elevated mood. Side Effects: Confusion or disorientation, muscle weakness, and bone pain. Addiction: 5% chance of being addicted upon first use. Chances increase by 10% after each use.
 | 45 |Flutter - Use: Pinkish green crystals that resemble sugar and are ingested. Effects: The sensation of extreme sexual pleasure. Side Effects: The loss of hair and teeth with long-term use is associated with kidney failure. Addiction: 2% chance of being addicted upon first use. Chances increase by 20% after each use.
 | 46 |Zeem's Tears - Use: Blue-green crystals that are smoked. Effects: Peaceful calm and contentedness. Side Effects: Intense feelings of loneliness and a number of gastrointestinal diseases. Addiction: 1% chance of being addicted upon first use. Chances increase by 20% after each use.
 | 47 |Smolder - Use: A heated liquid that is injected. Effects: Increased alertness and energy, as well as enhanced empathy. Side Effects: Fever, unusual eye movements, jerky movements, and increased gambling, sexual, or other overpowering urges. Addiction: 30% chance of being addicted upon first use. Chances increase by 8% after each use.
@@ -6756,7 +6756,7 @@ military personnel #2
 | 49 |Zip - Use: A small almond-colored pill. Effect: Mild stimulant. Side Effects: Headache and anxiety for a few days if use is discontinued. Addiction: 0% chance of being addicted upon first use. Chances increase by 1% after each use. Note: Zip is 40 mg of caffeine.
 | 50 |U4E-uh - Use: A small orange pill, sometimes called Orange Cream, that is popular on the party scene. Effects: Makes the user feel happy and excited. Side Effects: Long-term use leads to lower sex drive and frequent panic attacks. Addiction: 1% chance of being addicted upon first use. Chances increase by 1% after each use.
 | 51 |Cap Jaw - Use: A heavier-than-air yellow gas that is inhaled. Effects: Imbues the feeling of invincibility. Side Effects: Extreme nervousness and insomnia. Addiction: 10% chance of being addicted upon first use. Chances increase by 15% after each use.
-| 52 |Plik - Use: A liquid that is injected. Effects: Loss of all sense of self-control, and the user is incapable of forming memories while under the infl uence. Side Effects: Cold sweats, a weak immune system, and permanent muscular weakness. Addiction: 2% chance of being addicted upon first use. Chances increase by 5% after each use.
+| 52 |Plik - Use: A liquid that is injected. Effects: Loss of all sense of self-control, and the user is incapable of forming memories while under the influence. Side Effects: Cold sweats, a weak immune system, and permanent muscular weakness. Addiction: 2% chance of being addicted upon first use. Chances increase by 5% after each use.
 | 53 |Salen Heat - Use: A red pill popular on the party scene. Effects: The user feels warm and excited and usually feels the desire to remove their clothing. Side Effects: Extreme anxiety. Addiction: 1% chance of being addicted upon first use. Chances increase by 3% after each use.
 | 54 |Cloud 9 - Use: A white liquid inhaled through the nose. Effects: Feelings of carefree enjoyment. Side Effects: Long-term use weakens the immune system. Addiction: 5% chance of being addicted upon first use. Chances increase by 5% after each use.
 | 55 |Sweet - Use: A substance similar to hard candy that is sucked on. Effects: Mild hallucinations and euphoria that lead to extreme amicability. Side Effects: Irritability and fatigue. Addiction: 0% chance of being addicted upon first use. Chances increase by 1% after each use.
@@ -6780,9 +6780,9 @@ military personnel #2
 | 73 |Glob - Use: A gelatin-like substance that is slurped out of a plastic container. Effects: Psychedelic experiences. Side Effects: Feelings of despair and hopelessness. Plus long-term use leads to bone cancer. Addiction: 25% chance of being addicted upon first use. Chances increase by 5% after each use.
 | 74 |Hot Grip - Use: A red chewable caplet. Effects: Extreme pleasure and feelings of happiness. Side Effects: Burns on the inside of the mouth; long-term use leads to confusion and anemia. Addiction: 0% chance of being addicted upon first use. Chances increase by 1% after each use.
 | 75 |Food of the Gods - Use: The fruit of the Cama tree is roasted and then ingested. Effects: Warm tingling and mild hallucinations. Side Effects: Delirium, fear, shakiness, and a permanent weak feeling. Addiction: 1% chance of being addicted upon first use. Chances increase by 4% after each use. Note: If eaten unroasted, there is a 70% chance of death.
-| 76 |Tar Shot - Use: A dark fl uid that is injected. Effects: Abundant energy and pleasure. Side Effects: Aggressiveness with long-term use leads to a breakdown in cognitive function. Addiction: 3% chance of being addicted upon first use. Chances increase by 10% after each use.
+| 76 |Tar Shot - Use: A dark fluid that is injected. Effects: Abundant energy and pleasure. Side Effects: Aggressiveness with long-term use leads to a breakdown in cognitive function. Addiction: 3% chance of being addicted upon first use. Chances increase by 10% after each use.
 | 77 |Spike - Use: An orange gas injected into the intestines. Effects: Extreme energy and the user does not feel pain. Side Effects: Short-term use causes many intestinal issues; long-term use leads to severe brain cancer. Addition: 10% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 78 |Gorge - Use: A fl aky white or pinkish wafer that is ingested. Effects: The sensation of strength and power. Side Effects: Leads to dangerous overeating; long-term use breaks down muscle tissue. Addiction: 50% chance of being addicted upon first use. Chances increase by 10% after each use.
+| 78 |Gorge - Use: A flaky white or pinkish wafer that is ingested. Effects: The sensation of strength and power. Side Effects: Leads to dangerous overeating; long-term use breaks down muscle tissue. Addiction: 50% chance of being addicted upon first use. Chances increase by 10% after each use.
 | 79 |Gravy - Use: powder or liquid that is often mixed with other food. Effects: Hallucinations, altered states of being, and unresponsiveness to reality. Side Effects: Loss of consciousness and widespread cellular damage. Addiction: 2% chance of being addicted upon first use. Chances increase by 30% after each use.
 | 80 |Boom - Use: A liquid that is injected. Effects: Bursts of energy and increased sexual desire. Side Effects: Tremors or loss of motor coordination. Long-term use has been associated with a weakened immune system, muscular weakness, and insomnia. Addiction: 7% chance of being addicted upon first use. Chances increase by 5% after each use.
 | 81 |Mirror Mirror - Use: Silver dermal patch. Effects: The user feels unusually attractive and sexy. Side Effects: Severe anxiety, lack of appetite, teeth grinding, and obsessive behavior. Addiction: 0% chance of being addicted upon first use. Chances increase by 1% after each use.
@@ -6793,10 +6793,10 @@ military personnel #2
 | 86 |Tank - Use: A large black pill. Effects: The feeling of invulnerability and extreme strength. Side Effects: Stomach pain and constipation. Long-term use leads to musculoskeletal disorders. Addiction: 5% chance of being addicted upon first use. Chances increase by 3% after each use.
 | 87 |Sloke - Use: A lozenge that dissolves in the mouth. Effects: The sensation of slowing down and peaceful relaxation. Side Effects: Back pain, dizziness, drowsiness, nervousness; long-term use leads to coma or death. Addiction: 25% chance of being addicted upon first use. Chances increase by 6% after each use.
 | 88 |Zong - Use: A glittery powder that is smoked through a water pipe. Effects: Relaxation, sleepiness, and mild hallucinations. Side Effects: Crying spells, aggression or agitation, changes in behavior, and thoughts of suicide or hurting yourself. Addiction: 5% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 89 |River Stix - Use: A golden-colored disk that dissolves in the mouth. Effects: Numbness, relaxation, and a sense of well-being and euphoria. Side Effects: Delusions of grandeur with an infl ated sense of importance. Long-term use may lead to fatal internal bleeding. Addiction: 60% chance of being addicted upon first use. Chances increase by 5% after each use.
+| 89 |River Stix - Use: A golden-colored disk that dissolves in the mouth. Effects: Numbness, relaxation, and a sense of well-being and euphoria. Side Effects: Delusions of grandeur with an inflated sense of importance. Long-term use may lead to fatal internal bleeding. Addiction: 60% chance of being addicted upon first use. Chances increase by 5% after each use.
 | 90 |O - Use: An octagonal translucent pill. Effects: None, though users feel excited. Side Effects: None, though users feel nervous if they go without it for a few days. Addiction: 0% chance of being addicted, though 30% of users report being addicted. Note: O is a placebo. This is not known to the general population. However, certain drug manufacturers and cartels are aware. It is unknown who introduced the pill.
 | 91 |Sunset - Use: A bright orange square pill. Effects: Lucid dreaming. Side Effects: Restlessness and chronic fatigue. Addiction: 3% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 92 |Fun in the Sun - Use: A fl ax-colored pill. Effects: A euphoric state of being and a distorted perception of time. Side Effects: Easy bruising, red pin-prick spots on the skin, bleeding gums. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
+| 92 |Fun in the Sun - Use: A flax-colored pill. Effects: A euphoric state of being and a distorted perception of time. Side Effects: Easy bruising, red pin-prick spots on the skin, bleeding gums. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
 | 93 |High Stakes Runner - Use: A mist that is inhaled. Effects: Increases lung capacity by 50% and increases blood flow throughout the body. Side Effects: Sudden lung collapse and destruction of the pleural cavity. Addiction: 5% chance of being addicted upon first use. Chances increase by 20% after each use.
 | 94 |Chrome Love - Use: A silvery pill. Effects: Makes the user crave physical touch. Side Effects: Leads to hair loss and infertility. Addiction: 0% chance of being addicted upon first use. Chances increase by 2% after each use.
 | 95 |Split - Use: Various chemical compounds that are inhaled. Effects: Altered sense of self and altered perception of time and space. Side Effects: Ringing in the ears, blurred vision, loss of interest in sex, and sore throat. Addiction: 10% chance of being addicted upon first use. Chances increase by 3% after each use.
@@ -6897,12 +6897,12 @@ military personnel #2
 | 87 |Neural Transcranial Stimulation Device|
 | 88 |Collaborative augmented reality system with various interface units|
 | 89 |Powered Exoskeleton Gloves|
-| 90 |Cochlear implant in a vat of preservative fl uid|
+| 90 |Cochlear implant in a vat of preservative fluid|
 | 91 |Neural Implants wrapped in protective material stored in cabinets|
 | 92 |Energy Cell Rechargers|
 | 93 |Retractable Claws implants in a carrying case|
 | 94 |Neural Imaging Scanner|
-| 95 |Retinal implant in storage fl uid|
+| 95 |Retinal implant in storage fluid|
 | 96 |Tissue Regeneration Gel (1D10 tubes)|
 | 97 |Cardiovascular implant lying on the floor|
 | 98 |Neurofeedback Device (wearable)|
@@ -7080,7 +7080,7 @@ military personnel #2
 | 62 |Acetonitrile|
 | 63 |Perchlorates|
 | 64 |Ring Stands|
-| 65 |Hydrofl uoric Acid|
+| 65 |Hydrofluoric Acid|
 | 66 |Test Tubes|
 | 67 |Droppers|
 | 68 |Sulfuric Acid|
@@ -7234,7 +7234,7 @@ military personnel #2
 | 60 |Smart communication device|
 | 61 |Quantum data crystal storage|
 | 62 |Back up hard drive|
-| 63 |Empty fl ash drive|
+| 63 |Empty flash drive|
 | 64 |Biometric fingerprint scanner|
 | 65 |Company annual reports|
 | 66 |Framed diplomas|
@@ -7330,7 +7330,7 @@ military personnel #2
 | 52 |Flashlight|
 | 53 |Pair of palm gloves|
 | 54 |Coffee mug (built-in temperature regulator)|
-| 55 |Whiskey (half fl ask, hidden)|
+| 55 |Whiskey (half flask, hidden)|
 | 56 |Remnants of plastic fibers|
 | 57 |Pet rock|
 | 58 |Neural interface gloves|
@@ -7647,7 +7647,7 @@ military personnel #2
 | 8 |Personal hygiene kit|
 | 9 |Fossilized shark-like tooth|
 | 10 |Thin silver chain|
-| 11 |Several butterfl ies in a glass enclosure|
+| 11 |Several butterflies in a glass enclosure|
 | 12 |Dog tags|
 | 13 |Red scarf|
 | 14 |Leather pistol holster|
@@ -7725,7 +7725,7 @@ military personnel #2
 | 86 |Data stick (personal messages)|
 | 87 |Environmental control panel|
 | 88 |Kinetic art sculpture|
-| 89 |Diamond cuffl inks|
+| 89 |Diamond cufflinks|
 | 90 |Aquarium with exotic fish|
 | 91 |VR gaming console|
 | 92 |Data stick (navigational data)|
@@ -8250,7 +8250,7 @@ military personnel #2
 |  16  |  Vessel   |   D10 x 1,000 sq. mi    | Weapons, Navigation, Life Support, Propulsion, Power Generator, Sensor Array, Environmental Control, Gravity Control                | D100, Mummified                | Debris and waste scattered about                                                                  |
 |  17  |  Station  |    D10 x 100 sq. mi     | Navigation, Sensor Array, Gravity Control                                                                                           | None                           | Strange luminescent liquid running through certain corridors                                      |
 |  18  |  Vessel   | D10 x 10,000,000 sq. ft | Navigation                                                                                                                          | None                           | Room filled with strangely lifelike mannequins                                                    |
-|  19  |  Vessel   |     D10 x 10 sq. ft     | Defensive Systems, Sensor Array, Propulsion, Gravity Control                                                                        | None                           | Strange energy fl uctuations                                                                      |
+|  19  |  Vessel   |     D10 x 10 sq. ft     | Defensive Systems, Sensor Array, Propulsion, Gravity Control                                                                        | None                           | Strange energy fluctuations                                                                      |
 |  20  |  Station  |  D10 x 100,000 sq. ft   | Navigation, Communication, Gravity Control, Environmental Control                                                                   | D10 x 100, Alive in Cryotube   | Huge creature held in stasis                                                                      |
 |  21  | Satellite | D10 x 10,000,000 sq. ft | None                                                                                                                                | D100, Mummified                | Ominous shadows that seem to move on their own                                                    |
 |  22  |  Vessel   | D10 x 10,000,000 sq. ft | Navigation, Propulsion, Sensor Array, environmental Control                                                                         | None                           | Cold spots                                                                                        |
@@ -8389,12 +8389,12 @@ military personnel #2
 |  50  |    Gravity Control    | 8         | Lacerations, Unconscious, Burns                          | Disguise kit                                                                                |                           |
 |  51  |      Navigation       | 1         | Spinal fractures                                         | Mechanical spider with intricate clockwork mechanisms                                       |                           |
 |  52  |         None          | 3         | Collapsed lung                                           | A single bar of gold                                                                        |                           |
-|  53  |         None          | 4         | None                                                     | Bio-mimetic camoufl age suit                                                                |                           |
+|  53  |         None          | 4         | None                                                     | Bio-mimetic camouflage suit                                                                |                           |
 |  54  |     Communication     | 4         | None                                                     | Golden finger ring                                                                          |                           |
 |  55  |     Sensor Array      | None      | None                                                     | An odd communication device (hidden)                                                        |                           |
 |  56  |      Propulsion       | 1         | Fractured radius                                         | Advanced exoskeleton suit with integrated weapons systems                                   |                           |
 |  57  |         None          | None      | None                                                     | Small stone statue                                                                          |                           |
-|  58  |    Power Generator    | 4         | Head trauma, internal bleeding, smoke inhalation         | Tattered fl ag                                                                              |                           |
+|  58  |    Power Generator    | 4         | Head trauma, internal bleeding, smoke inhalation         | Tattered flag                                                                              |                           |
 |  59  |     Communication     | 2         | Shoulder dislocated                                      | Specialized hacking deck                                                                    |                           |
 |  60  |      Propulsion       | 2         | Fractured ulna                                           | A cache of classified documents (hidden)                                                    |                           |
 |  61  |         None          | 8         | Concussion                                               | Exotic fruit in a special container                                                         |                           |
@@ -8512,7 +8512,7 @@ military personnel #2
 | 68 |Vessel Name: Astralia | Type: Bulk freighter | Home Port: Bhopal Pi | Owner: Aditya Nahdi | Modifications: None | Restrictions: Arrest warrant issued for current captain|
 | 69 |Vessel Name: Icarus | Type: Salvage rig | Home Port: Anshun Saint Francis | Owner: Sala Krause | Modifications: None | Restrictions: None|
 | 70 |Vessel Name: Cleopatra | Type: Transport | Home Port: Lydia | Owner: Inji Reeves | Modifications: None | Restrictions: None|
-| 71 |Vessel Name: Thutmose | Type: Research vessel | Home Port: Basajuanis | Owner: Johnson Boutefl ika|  Modifications: None | Restrictions: None|
+| 71 |Vessel Name: Thutmose | Type: Research vessel | Home Port: Basajuanis | Owner: Johnson Bouteflika|  Modifications: None | Restrictions: None|
 | 72 |Vessel Name: Iktomi | Type: Bulk freighter | Home Port: New Harare | Owner: Sylvania Tavares | Modifications: Enhanced Shields | Restrictions: None|
 | 73 |Vessel Name: Solara | Type: Patrol craft | Home Port: Rapa Nui | Owner: Radcliffe Shala | Modifications: None | Restrictions: None|
 | 74 |Vessel Name: Seraph | Type: Luxury liner | Home Port: Castalia | Owner: Wright Zidane | Modifications: AI Overseer Installed | Restrictions: Ludhiana Four docking privileges suspended|
@@ -9013,7 +9013,7 @@ military personnel #2
 | 40 |Solar Winds Casino and Resort | low class, thousands of rooms, privately owned | Covert agents frequent the establishment to meet with contacts or gather information.|
 | 41 |The Sweetwater | low class, thousands of rooms, privately owned (organized crime) | Pirates are planning to raid the casino.|
 | 42 |The Love of Money | low class, hundreds of rooms, privately owned | The owners are blackmailing several VIPs with large gambling debts.|
-| 43 |The Outpost | low class, thousands of rooms, privately owned (organized crime) | Drugs certain patrons and then infl uences them to commit crimes that benefit the resort.|
+| 43 |The Outpost | low class, thousands of rooms, privately owned (organized crime) | Drugs certain patrons and then influences them to commit crimes that benefit the resort.|
 | 44 |Stardust | high class, hundreds of rooms, privately owned | Serves as a hub for a sector- wide data smuggling operation.|
 | 45 |Solar Gold Lodge and Casino | high class, thousands of rooms, corporate-owned | A ring of bootleggers is using the resort as a distribution hub.|
 | 46 |Guadalupe Xi | low class, thousands of rooms, corporate-owned | Currently hiring a large number of mercenaries.|
@@ -9130,7 +9130,7 @@ military personnel #2
 | 50 |A terraforming project has gone wrong; multiple workers were killed and a horrid rampaging mutated monstrosity was released.|
 | 51 |A mercenary unit is actively recruiting and the rumor is they are going to see action soon.|
 | 52 |An asteroid mining operation is plagued by pirates and no one wants to help.|
-| 53 |The confl ict between two warring planets will cause other systems to pick sides and become involved soon.|
+| 53 |The conflict between two warring planets will cause other systems to pick sides and become involved soon.|
 | 54 |A rash of kidnappings on a nearby planet is leading people to believe the government is losing control.|
 | 55 |Odd space debris is making a major trade route hazardous for ships.|
 | 56 |A remote colony infested with strange insects that are devouring their food supply.|
@@ -9141,7 +9141,7 @@ military personnel #2
 | 61 |A new exosuit will be released on the market soon and it will put thousands out of work.|
 | 62 |Part of the crew and the captives on a slave ship staged a successful mutiny.|
 | 63 |Supposedly a cartel has a device that can bend space-time for personal travel but no one has seen it done personally.|
-| 64 |A new cult has sprung up and its charismatic leader is gathering followers and infl uence throughout the sector.|
+| 64 |A new cult has sprung up and its charismatic leader is gathering followers and influence throughout the sector.|
 | 65 |A government looking for independent ships and crews to become privateers.|
 | 66 |An old spacer is telling tales of a utopian planet visited once and that it made all of his dreams come true.|
 | 67 |Trade negotiations are on the verge of collapsing between several systems and corporations.|
@@ -9160,7 +9160,7 @@ military personnel #2
 | 80 |A notorious hacker group moved into the sector after fleeing the authorities in another sector.|
 | 81 |A new illegal drug is wreaking havoc among spacer crews.|
 | 82 |Illegal gambling seems to be on the rise in the sector.|
-| 83 |A fl amboyant salesman is traveling through the sector offering alien miracle cures, healing salves, and special ointments.|
+| 83 |A flamboyant salesman is traveling through the sector offering alien miracle cures, healing salves, and special ointments.|
 | 84 |It is said racial tensions in a remote colony are reaching a boiling point.|
 | 85 |A crime syndicate’s members have turned on each other in what is quickly becoming a civil war.|
 | 86 |A space circus is coming to a nearby planet and everyone is excited.|
@@ -9314,7 +9314,7 @@ military personnel #2
 | 24 |3427 Pariana  |  | Yes | Zharchikhite, Cadmoselite, Huntite|
 | 25 |Letitia 3Y  |  | Yes | Bornite, Magnetite, Rosasite, Zunyite|
 | 26 |Hizahar A93  |  |  | Uraninite, Bastnasite, Chrysoberyl, Faujasite|
-| 27 |Otho L2J  | Yes  |  | Autunite, Fayalite, Frankdicksonite, Potassic-magnesio-fl uoro-arfvedsonite|
+| 27 |Otho L2J  | Yes  |  | Autunite, Fayalite, Frankdicksonite, Potassic-magnesio-fluoro-arfvedsonite|
 | 28 |Erythro 682B  |  |  | Manganite, Hausmannite, Rhodonite|
 | 29 |Vela E5  | Yes  | Yes | Sperrylite, Rhodochrosite, Melonite, Umangite|
 | 30 |4189 Aurelia  |  |  | Cobaltite, Acanthite, Massicot, Triplite, Grossite|
@@ -9447,7 +9447,7 @@ military personnel #2
 | 52 |Gromia QTT  | Yes  |  | Qingsongite|
 | 53 |374 Margarita  |  |  | Minium, Artinite, Ferberite, Melilite, Chloroxiphite, Lyonsite, Riebeckite|
 | 54 |891 Adriana  |  |  | Fluorellestadite, Spurrite, Hilgardite, Chalcocite, Warikahnite, Edenite, Xenophyllite|
-| 55 |Velika S6T  | Yes  | Yes | Fluorite, Fluoborite, Magnesio-fl uor-hastingsite, Roxbyite|
+| 55 |Velika S6T  | Yes  | Yes | Fluorite, Fluoborite, Magnesio-fluor-hastingsite, Roxbyite|
 | 56 |Nelida 3T1  |  | Yes | Beryl, Chalcopyrite, Thaumasite, Halite|
 | 57 |7258 Kovalenko  |  | Yes | Pyrite, Chalcopyrite, Sphalerite, Galena, Quartz|
 | 58 |Chuna M  |  |  | Putnisite, Iron, Fougèrite|
@@ -9732,7 +9732,7 @@ military personnel #2
 | 21 |Gone fishing|
 | 22 |An old friend needed help|
 | 23 |Running a few quick experiments|
-| 24 |Caught up in a fl ash mob|
+| 24 |Caught up in a flash mob|
 | 25 |Recharging the emergency batteries|
 | 26 |Exploring the volcanoes on Bangkok IV|
 | 27 |Analyzing "crystals"
@@ -9771,7 +9771,7 @@ military personnel #2
 | 60 |"Sleepover!"
 | 61 |Got tickets to the Afro-Indian Bluegrass Fusion music festival|
 | 62 |"Quick job, be right back."
-| 63 |"My new fl amethrower just needs a few more adjustments..."
+| 63 |"My new flamethrower just needs a few more adjustments..."
 | 64 |Babysitting|
 | 65 |"Writing poems is tricky."
 | 66 |Psionic salesman giving them a hard pitch|
@@ -10042,8 +10042,8 @@ military personnel #2
 | 14 |Quantum tunneling processors|
 | 15 |Plasma-induced neurostimulation|
 | 16 |Neural network quantum optimization|
-| 17 |Trans-spatial fl ux generators|
-| 18 |Quantum resonance fl ux generators|
+| 17 |Trans-spatial flux generators|
+| 18 |Quantum resonance flux generators|
 | 19 |Neural impulse inductors|
 | 20 |Quantum entanglement matrix|
 | 21 |Holo-neural matrix relays|
@@ -10051,7 +10051,7 @@ military personnel #2
 | 23 |Virtual reality neural immersion|
 | 24 |Subspace translocator|
 | 25 |Tri-dimensional fractal encryption|
-| 26 |Hyperfl ux capacitors|
+| 26 |Hyperflux capacitors|
 | 27 |Subspace modulation fields|
 | 28 |Neural network synaptic mapping|
 | 29 |Tachyon pulse generators|
@@ -10089,18 +10089,18 @@ military personnel #2
 | 61 |Morphogenic resonance arrays|
 | 62 |Neural circuitry bio-synthesizers|
 | 63 |Chrono-temporal displacement scanners|
-| 64 |Quantum fl ux capacitor|
+| 64 |Quantum flux capacitor|
 | 65 |Gravitational wave harmonizers|
 | 66 |Photonic energy polarization|
 | 67 |Hyperdimensional energy conduits|
 | 68 |Synaptic electro-ionic coupling|
 | 69 |Neural hyperthreading|
-| 70 |Graviton fl ux manipulators|
+| 70 |Graviton flux manipulators|
 | 71 |Quantum energy infusion chambers|
 | 72 |Synaptic quantum coherence amplifiers|
 | 73 |Hyperbolic plasma containment fields|
 | 74 |Holographic quantum entanglement|
-| 75 |Temporal fl ux harmonizers|
+| 75 |Temporal flux harmonizers|
 | 76 |Cybernetic neural interface nodes|
 | 77 |Quantum chronal recalibrators|
 | 78 |Quantum-encrypted data streams|
@@ -10117,8 +10117,8 @@ military personnel #2
 | 89 |Tachyon particle accelerators|
 | 90 |Plasma infusion matrix|
 | 91 |Chrono-spatial displacement matrix|
-| 92 |Electro-ionic fl ux oscillators|
-| 93 |Hyper-dimensional fl ux capacitors|
+| 92 |Electro-ionic flux oscillators|
+| 93 |Hyper-dimensional flux capacitors|
 | 94 |Synaptic quantum tunneling|
 | 95 |Holographic data storage matrices|
 | 96 |Quantum particle decelerators|
@@ -10364,7 +10364,7 @@ military personnel #2
 | 21 |Stuyk|
 | 22 |Strov'ur|
 | 23 |Ips|
-| 24 |Clifl uh|
+| 24 |Clifluh|
 | 25 |Volphips|
 | 26 |Phaum|
 | 27 |Ytylz|
@@ -13540,7 +13540,7 @@ military personnel #2
 | 47 |Meir|
 | 48 |Nogomain|
 | 49 |Siren|
-| 50 |Mayfl y|
+| 50 |Mayfly|
 | 51 |Excalibur|
 | 52 |Pirwa|
 | 53 |Franklin|
@@ -13679,7 +13679,7 @@ military personnel #2
 | 81 |Zalmoxis|
 | 82 |Amberjack|
 | 83 |Kresnik|
-| 84 |Firefl y|
+| 84 |Firefly|
 | 85 |Ocelus|
 | 86 |Swamp Fox|
 | 87 |Mako|
@@ -14402,7 +14402,7 @@ military personnel #2
 | 50 |Information technology management|
 | 51 |Strategic planning|
 | 52 |Managerial finance|
-| 53 |Confl ict management|
+| 53 |Conflict management|
 | 54 |International law|
 | 55 |Finance|
 | 56 |Investment management|
@@ -14421,7 +14421,7 @@ military personnel #2
 | 69 |Restaurant management|
 | 70 |Critical management studies|
 | 71 |Business administration|
-| 72 |Confl ict resolution|
+| 72 |Conflict resolution|
 | 73 |Customer relationship management|
 | 74 |Asset management|
 | 75 |Systems management|
@@ -15090,7 +15090,7 @@ military personnel #2
 | 92 |Linear algebra|
 | 93 |History of computer science|
 | 94 |Commutative algebra|
-| 95 |Computational fl uid dynamics|
+| 95 |Computational fluid dynamics|
 | 96 |Internet theory|
 | 97 |Calculus|
 | 98 |Data management|
@@ -16666,7 +16666,7 @@ military personnel #2
 | 5 |Health policy|
 | 6 |Administration (government)|
 | 7 |Language policy|
-| 8 |Peace and confl ict studies|
+| 8 |Peace and conflict studies|
 | 9 |Social policy|
 | 10 |Public administration|
 | 11 |Teleadministration|
@@ -16848,12 +16848,12 @@ military personnel #2
 | 82 |Psycholinguistics|
 | 83 |Cartography|
 | 84 |Industrial archaeology|
-| 85 |Confl ict theory|
+| 85 |Conflict theory|
 | 86 |Political economy|
 | 87 |Sociology of religion|
 | 88 |Mathematical sociology|
 | 89 |Psychosocial rehabilitation|
-| 90 |Social confl ict theory|
+| 90 |Social conflict theory|
 | 91 |Computational sociology|
 | 92 |Phenomenology|
 | 93 |Archaeoastronomy|
@@ -17026,7 +17026,7 @@ military personnel #2
 | 50 |Community psychology|
 | 51 |Anthrozoological archaeology|
 | 52 |Meteorology|
-| 53 |Sociology of confl ict|
+| 53 |Sociology of conflict|
 | 54 |Sociology of work|
 | 55 |Green economics|
 | 56 |Pediatric psychology|
@@ -17091,7 +17091,7 @@ military personnel #2
 | 10 |Transport geography|
 | 11 |Hydrology|
 | 12 |Sociology of the Internet|
-| 13 |Peace and confl ict studies|
+| 13 |Peace and conflict studies|
 | 14 |Palaeoanthropology|
 | 15 |Psychopharmacology|
 | 16 |Sociology of marriage|
@@ -17114,7 +17114,7 @@ military personnel #2
 | 33 |Social economy|
 | 34 |Rehabilitation psychology|
 | 35 |Assyriology|
-| 36 |Sociology of peace, war, and social confl ict|
+| 36 |Sociology of peace, war, and social conflict|
 | 37 |Transpersonal psychology|
 | 38 |Clinical social work|
 | 39 |Traffic psychology|
@@ -17209,8 +17209,8 @@ military personnel #2
 | 60-62 |  Road transport|
 | 63-64 |  Intermodal transportation studies|
 | 65-67 |  Production logistics|
-| 68-69 |  Suborbital spacefl ight|
-| 70-72 |  Spacefl ight|
+| 68-69 |  Suborbital spaceflight|
+| 70-72 |  Spaceflight|
 | 73-74 |  Digital logistics|
 | 75-77 |  Seafaring|
 | 78-79 |  Domestic logistics|

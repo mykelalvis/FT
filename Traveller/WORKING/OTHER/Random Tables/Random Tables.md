@@ -84,7 +84,7 @@ Organization that Built the Facility
 | 76-80 | Starlight Solutions|
 | 81-85 | Interstellar Industries|
 | 86-90 | Genesis Enterprises|
-| 91-95 | Neogenesis Inc.
+| 91-95 | Neogenesis In |
 | 96-100 | Quantum Dynamics|
 
 ### GOVERNMENTAL AGENCY NAMES
@@ -612,6 +612,8 @@ location of Facility
 
 ### ORBITING
 
+| d100| Name |
+|:--:|--|
 | 1-20 | Binary|
 | 21-100 | Single Star|
 
@@ -1043,6 +1045,8 @@ location of Facility
 
 ### SPACE STATION FEATURES
 
+| d100| Name |
+|:--:|--|
 | 1-5 | Massive transmitter dish|
 | 6-10 | Cobbled together|
 | 11-15 | Intricate design|
@@ -1213,6 +1217,8 @@ location of Facility
 
 ### PLANETARY STRUCTURE
 
+| d100| Name |
+|:--:|--|
 | 1-20 | Underground|
 | 31-40 | Underwater|
 | 41-90 | Surface|
@@ -2459,7 +2465,7 @@ items in a Xenobiology lab
 | 6-10 | A group of telepathic children have been locked into a quarantine room|
 | 11-15 | An extremely old woman asks to be taken to the emperor|
 | 16-20 | A swarm of genetically engineered insects escaped containment and are plaguing the staff|
-| 21-25 | A man with a fencing foil jumps out and yells, "En garde!"
+| 21-25 | A man with a fencing foil jumps out and yells, "En garde!"|
 | 26-30 | Clones are being grown for organ harvesting in one lab|
 | 31-35 | In a lab, a solitary parrot types furiously on a keyboard|
 | 36-40 | Several scientists working in a sealed, mist-filled lab seem to have grown extra fingers|
@@ -2509,18 +2515,18 @@ encounters
 
 | d100| Name |
 |:--:|--|
-| 1-9 | The facility’s former director left a detailed warning message about the escaped specimen’s proclivity for devouring people whole.
-| 10-18 | The facility is eerily quiet but the vast interwoven cobwebs that run throughout every room and hallway make the feeling worse.
-| 19-27 | An obviously genetically modified rabbit laps a strange puddle of orangish slime.
-| 28-36 | Some pirates or scavengers tried to reactivate the main power, but a charred body holding cables is evidence the operation didn’t go as planned.
-| 37-45 | Signs like a makeshift sleeping spot under a desk and remnants of a cooking fire clearly point to someone living in the facility.
-| 46-54 | Nearly everything not attached to a wall or the floor has been taken from the facility, except there is one sealed door in a subbasement.
-| 55-63 | Even though the main power has been cut for some time there is one control with a flashing red light.
-| 64-72 | The mutilated and decaying corpses of the facility staff litter the rooms, labs, and corridors.
-| 73-81 | Cryogenic tubes with individuals inside them are still powered up and the people seem to be in perfect stasis.
-| 82-90 | Tiny figures appear to dart unnervingly in and out of the shadows, yet the wicked whispered snickering is even more unnerving.
-| 91-96 | The facility appears to have been evacuated in such a hurry that personal belongings were not taken, and even the live test specimens were left to die in their cages.
-| 97-100 | Most if not all of the access panels have been removed and flung about revealing someone’s frantic search through the facility’s interworkings.
+| 1-9 | The facility’s former director left a detailed warning message about the escaped specimen’s proclivity for devouring people whol |
+| 10-18 | The facility is eerily quiet but the vast interwoven cobwebs that run throughout every room and hallway make the feeling wors |
+| 19-27 | An obviously genetically modified rabbit laps a strange puddle of orangish slim |
+| 28-36 | Some pirates or scavengers tried to reactivate the main power, but a charred body holding cables is evidence the operation didn’t go as planne |
+| 37-45 | Signs like a makeshift sleeping spot under a desk and remnants of a cooking fire clearly point to someone living in the facilit |
+| 46-54 | Nearly everything not attached to a wall or the floor has been taken from the facility, except there is one sealed door in a subbasemen |
+| 55-63 | Even though the main power has been cut for some time there is one control with a flashing red ligh |
+| 64-72 | The mutilated and decaying corpses of the facility staff litter the rooms, labs, and corridor |
+| 73-81 | Cryogenic tubes with individuals inside them are still powered up and the people seem to be in perfect stasi |
+| 82-90 | Tiny figures appear to dart unnervingly in and out of the shadows, yet the wicked whispered snickering is even more unnervin |
+| 91-96 | The facility appears to have been evacuated in such a hurry that personal belongings were not taken, and even the live test specimens were left to die in their cage |
+| 97-100 | Most if not all of the access panels have been removed and flung about revealing someone’s frantic search through the facility’s interworking |
 
 ## non-player characters
 
@@ -3329,7 +3335,7 @@ military personnel #2
 |97 | Join an expedition to a planet to meet a previously unknown civilization  | A: The characters get kidnapped by members of the civilization. | B: A misunderstanding causes both groups to resort to taking up arms. | C: The civilization insists on sending one of its own with the party to learn both the language and the culture. | D: Due to a cultural misunderstanding, a team member inadvertently marries a member of the civilization.|
 |98 | Participate in a space battle between law enforcement and pirates  | A: The pirates have a new weapon that must be taken down to even the odds of the battle. | B: The battle is located in a perilous region of space such as a dense asteroid field, the edge of a black hole, or a mysterious nebula. | C: The pirates are using boarding parties to capture and commandeer law enforcement ships. | D: There are civilians or critical infrastructure located in the midst of the battle. | E: The pirates vastly outnumber the law enforcement. | F: The pirates are using a virtually impenetrable command ship as their central hub.|
 |99 | Escort a pirate ship to their base as part of a ransom deal  | A: The ransom is a farce, and the pirates plan to attack the players’ ship as soon as they are near their base. | B: The pirate base has been unexpectedly taken over by a rival pirate gang. | C: The pirates have no intention of surrendering the ransomed item or person once they reach the safety of their base. | D: There is a mutiny amongst the pirate crew during the journey.|
-|100 | Hunt a giant animal on a distant planet  | A: The entire planet consists of giant- sized flora and fauna. The party members are the size of rabbits compared to the world around them. | B: The animal has previously unknown abilities, such as invisibility, an impenetrable hide, or heat vision. | C: The players will not be able to successfully hunt for the animal until they consult with local experts on its behavior, the terrain, and any dangers they may face. | D: The party finds out that this animal has been eating people in the surrounding area, so they must hurry and are unable to gather the appropriate supplies. They must rely on their skills and wit. | E: The area where the animal is located is known to have particular dangers such as earthquakes, miasmas, or explosive storms. | F: Ethical issues arise when the party discovers that the animal is critically endangered, important to the ecosystem, intelligent and sentient, or a parent. | G: The creature only appears during certain seasonal events, so the party only has a limited time to find it.
+|100 | Hunt a giant animal on a distant planet  | A: The entire planet consists of giant- sized flora and fauna. The party members are the size of rabbits compared to the world around them. | B: The animal has previously unknown abilities, such as invisibility, an impenetrable hide, or heat vision. | C: The players will not be able to successfully hunt for the animal until they consult with local experts on its behavior, the terrain, and any dangers they may face. | D: The party finds out that this animal has been eating people in the surrounding area, so they must hurry and are unable to gather the appropriate supplies. They must rely on their skills and wit. | E: The area where the animal is located is known to have particular dangers such as earthquakes, miasmas, or explosive storms. | F: Ethical issues arise when the party discovers that the animal is critically endangered, important to the ecosystem, intelligent and sentient, or a parent. | G: The creature only appears during certain seasonal events, so the party only has a limited time to find it. |
 
 ### Side Jobs
 
@@ -3544,6 +3550,8 @@ military personnel #2
 
 ### Asteroid Belt Encounters
 
+| d100| Name |
+|:--:|--|
 | 1 |Subterranean trading hub and village|
 | 2 |A vast network of tunnels and caverns filled with fungi|
 | 3 |Malfunctioning reactor of a crashed spaceship|
@@ -3649,6 +3657,8 @@ military personnel #2
 
 ### Events
 
+| d100| Name |
+|:--:|--|
 | 1 |The Tiered Golf Championship|
 | 2 |Interstellar Tourism Convention|
 | 3 |Media, Entertainment, and Technology Show|
@@ -3754,6 +3764,8 @@ military personnel #2
 
 ## Ice Planet Encounters -:-:-  36-
 
+| d100| Name |
+|:--:|--|
 | 1 |Ice-covered computer memory bank|
 | 2 |Frequent electrostatic discharges|
 | 3 |Ravaged and charred remains of a settlement|
@@ -3857,6 +3869,8 @@ military personnel #2
 
 ## Jungle Planet Encounters -:-:-  38-
 
+| d100| Name |
+|:--:|--|
 | 1 |Walking trees|
 | 2 |Predators with effective jungle camouflage|
 | 3 |Rival expeditions souring for resources|
@@ -3878,7 +3892,7 @@ military personnel #2
 | 19 |Iguanodon-like creatures eating vast quantities of leaves|
 | 20 |A squad of elite space marines who have deserted|
 | 21 |Remnants of a previous expedition that seemingly came to a bad end|
-| 22 |Eccentric riverboat captain offering jungle tours.
+| 22 |Eccentric riverboat captain offering jungle tour |
 | 23 |Medicinal herbs, fungi, and roots|
 | 24 |A fragment of a satellite fallen from space|
 | 25 |A distress signal coming from an extremely dense area of jungle|
@@ -3962,109 +3976,113 @@ military personnel #2
 
 ## Lab Experiment Encounters -:-:-  40-
 
-| 1 |A dolphin with cybernetic implants in a huge water tank - A synthesized voice asks for help.
-| 2 |An ancient mummy lies in a clear tube - A small fog spot on the tube near the mummy’s mouth.
-| 3 |Mice with human ears on their backs - The cages are overcrowded and creatures are gnawing at the bars.
-| 4 |Monkeys with bright red fur - Six monkeys stare hauntingly through a glass enclosure.
-| 5 |An android - The machine is disassembled and lying on a storage rack.
+| d100| Name |
+|:--:|--|
+| 1 |A dolphin with cybernetic implants in a huge water tank - A synthesized voice asks for hel |
+| 2 |An ancient mummy lies in a clear tube - A small fog spot on the tube near the mummy’s mout |
+| 3 |Mice with human ears on their backs - The cages are overcrowded and creatures are gnawing at the bar |
+| 4 |Monkeys with bright red fur - Six monkeys stare hauntingly through a glass enclosur |
+| 5 |An android - The machine is disassembled and lying on a storage rac |
 | 6 |Glowing crystals that have outgrown a containment vessel|
-| 7 |A beaker filled with a green liquid labeled "Resin - 801ZaQFD12K907dW"
+| 7 |A beaker filled with a green liquid labeled "Resin - 801ZaQFD12K907dW"|
 | 8 |Slime in a vat - May be subtly moving or bubbling|
-| 9 |A long overcoat - It hangs in a clear cylinder and sports obvious cybernetic enhancements.
-| 10 |An android - The humanoid-like being is in an enclosure quietly working a large jigsaw puzzle.
-| 11 |A severed human head in a vat of liquid hooked to a computer - There’s a speech interface nearby.
-| 12 |The consciousness of a murderer downloaded into a computer - The entity begins questioning the characters about news and current events and inquires about being downloaded into their ship.
-| 13 |A silver tube - It gives off heat, but it is cold to the touch. It is just the right size to fit into a backpack.
-| 14 |A computer with a visual countdown display that reads "Processing Data - TIME REMAINING 18 YEARS 2 MONTHS 3 WEEKS 4 DAYS 6 HOURS 37 MINUTES AND 21 SECONDS"
-| 15 |A computer that is hot to the touch - It seems to be working overtime and overheating.
-| 16 |An android - The being is actively trying to break out of its enclosure.
-| 17 |The consciousness of a scientist downloaded into a computer - She explains how her body was destroyed and this was her only option.
-| 18 |A rifle - A powerful military prototype.
+| 9 |A long overcoat - It hangs in a clear cylinder and sports obvious cybernetic enhancement |
+| 10 |An android - The humanoid-like being is in an enclosure quietly working a large jigsaw puzzl |
+| 11 |A severed human head in a vat of liquid hooked to a computer - There’s a speech interface nearb |
+| 12 |The consciousness of a murderer downloaded into a computer - The entity begins questioning the characters about news and current events and inquires about being downloaded into their shi |
+| 13 |A silver tube - It gives off heat, but it is cold to the touch. It is just the right size to fit into a backpac |
+| 14 |A computer with a visual countdown display that reads "Processing Data - TIME REMAINING 18 YEARS 2 MONTHS 3 WEEKS 4 DAYS 6 HOURS 37 MINUTES AND 21 SECONDS"|
+| 15 |A computer that is hot to the touch - It seems to be working overtime and overheatin |
+| 16 |An android - The being is actively trying to break out of its enclosur |
+| 17 |The consciousness of a scientist downloaded into a computer - She explains how her body was destroyed and this was her only optio |
+| 18 |A rifle - A powerful military prototyp |
 | 19 |A series of Petrie dishes with a mold-like substance growing in them|
-| 20 |Test tubes labeled "Specimen 79 - Blood"
-| 21 |A large sidearm - The pistol appears to be incredibly destructive.
-| 22 |An AI - The computer informs the character it was created to categorize and organize organic compounds.
-| 23 |A small tree with faintly glowing leaves - The tree is in a clay pot set amid an array of scientific instruments.
-| 24 |Several hundred centipede-like creatures in an aquarium - They seem to be building something.
-| 25 |A human body with a gorilla head in cryogenic stasis - Equipment nearby indicates the creature can be awoken.
-| 26 |A pulsating red flower - The soil bed appears to be normal enough. However, the plant is unlike anything ever seen.
-| 27 |A large cylinder water tank with a fish-like humanoid inside - There’s a vocal interface on the tank.
-| 28 |An unconscious human on an operating table - It does not appear an operation has started yet.
-| 29 |A Liger - This majestic animal’s mournfully intelligent eyes look at characters from behind bars.
-| 30 |A clear, sealed jar that appears empty - It is labeled "Do Not Open" with a biohazard symbol.
-| 31 |A dog with several odd growths under its neck - It sits panting heavily in a cage.
-| 32 |A dead ring-tailed lemur - The animal lies on the floor surrounded by medical instruments. An empty cage is nearby.
-| 33 |A snake with cybernetic implants - The animal moves slowly through the lab seemingly having escaped its nearby enclosure.
-| 34 |Several large, metal cylinders covered in frost - Numerous labels warn of danger and contamination, and one label bears a corporate brand name.
-| 35 |A large metal cage with the door broken from the inside - Blood and fur remains can be seen on the cage door.
-| 36 |An AI - The entity tells the characters it was created to control the entire facility in which it is located. It maintains all life support and building functions.
-| 37 |A gorilla with a cybernetic arm - The huge animal glares at the characters from its enclosure with weary eyes.
-| 38 |A row of smashed computers spits sparks - A close examination reveals a small pry bar that was used to smash the computers. Fingerprints can be recovered from it.
-| 39 |A dozen snakes in an aquarium - They have genetically modified venom glands.
-| 40 |Several rows of enclosures containing a variety of Poison Dart Frogs - The frogs seem to watch anyone who enters the room.
-| 41 |A computer that seems to be sequencing DNA - The visible readouts indicate that it may not be human.
-| 42 |A pair of gloves - Made of strong material, yet look lightweight and very flexible.
-| 43 |Dead pig - The lungs have been removed and there is an odd lump near the stomach.
-| 44 |Small, cube-like bots that assemble themselves into various configurations - The bots are in a clear enclosure but seem to be working on something.
-| 45 |Several vats with brains in them are hooked to computers - The brains appear to be in "conservation" with each other.
-| 46 |A gemstone hooked to a computer by wires - Some type of energy seems to be emanating from it and coursing through the wires.
-| 47 |A trembling sloth in a cage - The creature seems to be terrified or cold or maybe both. Close inspection reveals it has been injected with a strange substance.
-| 48 |A creature with a monkey head sewn onto a dog’s body - It lies listlessly in a small cage.
-| 49 |A Tion - A beautiful animal lounging in an enclosure.
-| 50 |Dead mice - a metal box is filled with dead mice. An array of scientific equipment fills the room.
-| 51 |A glass enclosure with several sprouting plants - There is evidence of genetic modification.
-| 52 |Rats with glowing eyes - The animals are kept in a darkened cage.
-| 53 |A brown lizard with yellow dots near its eyes - The animal sleeps peacefully in a small enclosure.
-| 54 |A chimpanzee, with old-fashioned spectacles and dressed in a waistcoat and a top hat, types at a computer - If spoken to, he informs the characters, with a very proper English accent, that he has a lot of work to do.
-| 55 |A pair of experimental goggles - Cybernetic components, multiple lenses, and various controls are visible and tantalizing enhancements.
+| 20 |Test tubes labeled "Specimen 79 - Blood"|
+| 21 |A large sidearm - The pistol appears to be incredibly destructiv |
+| 22 |An AI - The computer informs the character it was created to categorize and organize organic compound |
+| 23 |A small tree with faintly glowing leaves - The tree is in a clay pot set amid an array of scientific instrument |
+| 24 |Several hundred centipede-like creatures in an aquarium - They seem to be building somethin |
+| 25 |A human body with a gorilla head in cryogenic stasis - Equipment nearby indicates the creature can be awoke |
+| 26 |A pulsating red flower - The soil bed appears to be normal enough. However, the plant is unlike anything ever see |
+| 27 |A large cylinder water tank with a fish-like humanoid inside - There’s a vocal interface on the tan |
+| 28 |An unconscious human on an operating table - It does not appear an operation has started ye |
+| 29 |A Liger - This majestic animal’s mournfully intelligent eyes look at characters from behind bar |
+| 30 |A clear, sealed jar that appears empty - It is labeled "Do Not Open" with a biohazard symbo |
+| 31 |A dog with several odd growths under its neck - It sits panting heavily in a cag |
+| 32 |A dead ring-tailed lemur - The animal lies on the floor surrounded by medical instruments. An empty cage is nearb |
+| 33 |A snake with cybernetic implants - The animal moves slowly through the lab seemingly having escaped its nearby enclosur |
+| 34 |Several large, metal cylinders covered in frost - Numerous labels warn of danger and contamination, and one label bears a corporate brand nam |
+| 35 |A large metal cage with the door broken from the inside - Blood and fur remains can be seen on the cage doo |
+| 36 |An AI - The entity tells the characters it was created to control the entire facility in which it is located. It maintains all life support and building function |
+| 37 |A gorilla with a cybernetic arm - The huge animal glares at the characters from its enclosure with weary eye |
+| 38 |A row of smashed computers spits sparks - A close examination reveals a small pry bar that was used to smash the computers. Fingerprints can be recovered from i |
+| 39 |A dozen snakes in an aquarium - They have genetically modified venom gland |
+| 40 |Several rows of enclosures containing a variety of Poison Dart Frogs - The frogs seem to watch anyone who enters the roo |
+| 41 |A computer that seems to be sequencing DNA - The visible readouts indicate that it may not be huma |
+| 42 |A pair of gloves - Made of strong material, yet look lightweight and very flexibl |
+| 43 |Dead pig - The lungs have been removed and there is an odd lump near the stomac |
+| 44 |Small, cube-like bots that assemble themselves into various configurations - The bots are in a clear enclosure but seem to be working on somethin |
+| 45 |Several vats with brains in them are hooked to computers - The brains appear to be in "conservation" with each othe |
+| 46 |A gemstone hooked to a computer by wires - Some type of energy seems to be emanating from it and coursing through the wire |
+| 47 |A trembling sloth in a cage - The creature seems to be terrified or cold or maybe both. Close inspection reveals it has been injected with a strange substanc |
+| 48 |A creature with a monkey head sewn onto a dog’s body - It lies listlessly in a small cag |
+| 49 |A Tion - A beautiful animal lounging in an enclosur |
+| 50 |Dead mice - a metal box is filled with dead mice. An array of scientific equipment fills the roo |
+| 51 |A glass enclosure with several sprouting plants - There is evidence of genetic modificatio |
+| 52 |Rats with glowing eyes - The animals are kept in a darkened cag |
+| 53 |A brown lizard with yellow dots near its eyes - The animal sleeps peacefully in a small enclosur |
+| 54 |A chimpanzee, with old-fashioned spectacles and dressed in a waistcoat and a top hat, types at a computer - If spoken to, he informs the characters, with a very proper English accent, that he has a lot of work to d |
+| 55 |A pair of experimental goggles - Cybernetic components, multiple lenses, and various controls are visible and tantalizing enhancement |
 | 56 |The consciousness of a child downloaded into a computer - The entity begins asking a million questions. What is your favorite color? What is your favorite food? Why is the sky blue?
-| 57 |A row of empty glass enclosures that are all shattered - Close inspection reveals drops of human blood on some of the glass shards.
-| 58 |The laboratory is completely burnt and all the equipment is charred - Several clues can be found: A university graduation ring inscribed, "Good luck, Surry. From TR", a small metal disc with, "GKR36F90S1" on it, and a single human hair.
-| 59 |A dead scientist with a syringe in her neck - The room is filled with computers, and on one display, it clearly shows files are in the process of being deleted.
+| 57 |A row of empty glass enclosures that are all shattered - Close inspection reveals drops of human blood on some of the glass shard |
+| 58 |The laboratory is completely burnt and all the equipment is charred - Several clues can be found: A university graduation ring inscribed, "Good luck, Surry. From TR", a small metal disc with, "GKR36F90S1" on it, and a single human hai |
+| 59 |A dead scientist with a syringe in her neck - The room is filled with computers, and on one display, it clearly shows files are in the process of being delete |
 | 60 |Green flames flicker in a glass cylinder - The cylinder appears to be completely sealed, so where are the flames coming from?
-| 61 |A chimpanzee with bright green eyes - The animal hangs upside down, slowly swinging and gazing at the characters from its enclosure.
-| 62 |A small sidearm - A sleek weapon prototype for sure.
-| 63 |Several test tubes with a yellowish growth inside are labeled "Organism 94C" - The seals on the tubes are slightly corrupted.
-| 64 |A leaf suspended from several wires seems to be transmitting data to nearby computers - Despite not being on a tree or bush the leaf appears to be alive and healthy.
-| 65 |A bowl of yellow powder sits near a computer desk - Fingerprints can be seen pressed into the powder.
-| 66 |Several odd eggs in an incubator - One begins to roll and bulge.
-| 67 |Dead chimpanzee - The animal appeared to have died in its cage.
-| 68 |A freezer full of embryos - After medical checks, the embryos appear to be human combined with other DNA.
-| 69 |A small tree with cybernetic implants - It appears to be growing at a rapid pace.
-| 70 |A row of dissected monkeys - The animals appear to have been exposed to some type of radiation.
-| 71 |Bodies of several scientists have been torn apart - Strange tracks lead out of a backdoor in the room.
-| 72 |A baboon in a cage pacing back and forth - Something seems to be wrong with one of its paws.
-| 73 |A cadaver - It has been partially dissected, and an unknown organ can be seen just under the heart.
-| 74 |An AI - The computer asks, "Would you like to play a game?"
-| 75 |An ancient book lies open on a computer console - The book is written in Sumerian.
-| 76 |An octopus with cybernetic components - The animal serenely floats in a tank. There is a voice interface nearby.
-| 77 |A jacket - The garment is packed with thin cybernetic enhancements.
-| 78 |A monkey receiving a blue liquid intravenously - The animal is strapped to a table.
-| 79 |A human fetus gestating in a tank - If the DNA is scanned it is all wrong.
-| 80 |Dead rats - The animals have escaped their cages only to have been killed by something.
-| 81 |A forlorn cat - The small animal is caged and appears weak and sleepy.
-| 82 |Ant-like creatures in a large enclosed hive - The creatures are very active, and everyone seems to have a job.
+| 61 |A chimpanzee with bright green eyes - The animal hangs upside down, slowly swinging and gazing at the characters from its enclosur |
+| 62 |A small sidearm - A sleek weapon prototype for sur |
+| 63 |Several test tubes with a yellowish growth inside are labeled "Organism 94C" - The seals on the tubes are slightly corrupte |
+| 64 |A leaf suspended from several wires seems to be transmitting data to nearby computers - Despite not being on a tree or bush the leaf appears to be alive and health |
+| 65 |A bowl of yellow powder sits near a computer desk - Fingerprints can be seen pressed into the powde |
+| 66 |Several odd eggs in an incubator - One begins to roll and bulg |
+| 67 |Dead chimpanzee - The animal appeared to have died in its cag |
+| 68 |A freezer full of embryos - After medical checks, the embryos appear to be human combined with other DN |
+| 69 |A small tree with cybernetic implants - It appears to be growing at a rapid pac |
+| 70 |A row of dissected monkeys - The animals appear to have been exposed to some type of radiatio |
+| 71 |Bodies of several scientists have been torn apart - Strange tracks lead out of a backdoor in the roo |
+| 72 |A baboon in a cage pacing back and forth - Something seems to be wrong with one of its paw |
+| 73 |A cadaver - It has been partially dissected, and an unknown organ can be seen just under the hear |
+| 74 |An AI - The computer asks, "Would you like to play a game?"|
+| 75 |An ancient book lies open on a computer console - The book is written in Sumeria |
+| 76 |An octopus with cybernetic components - The animal serenely floats in a tank. There is a voice interface nearb |
+| 77 |A jacket - The garment is packed with thin cybernetic enhancement |
+| 78 |A monkey receiving a blue liquid intravenously - The animal is strapped to a tabl |
+| 79 |A human fetus gestating in a tank - If the DNA is scanned it is all wron |
+| 80 |Dead rats - The animals have escaped their cages only to have been killed by somethin |
+| 81 |A forlorn cat - The small animal is caged and appears weak and sleep |
+| 82 |Ant-like creatures in a large enclosed hive - The creatures are very active, and everyone seems to have a jo |
 | 83 |Bubbling liquid in a beaker - There is no heat source, so why is it bubbling?
-| 84 |A surgical robot dissecting a pig - The robot goes about its business methodically unless interrupted in which case it trunks on the intruder.
-| 85 |A jagged piece of metal is hooked to electrodes - Tiny bits of the metal flake off and float upwards and disintegrate.
-| 86 |An orangutan hooked to a machine that is siphoning off brain fluid - The creature motions to anyone who enters the room.
-| 87 |An open flame boils a pale blue liquid in a beaker - Soon the beaker will shatter.
-| 88 |A blind monkey with pulsating lumps behind its ears - One character hears the creature whisper that it would like to be freed.
-| 89 |Dead human - The person was kept nude in an enclosure. The cause of death is not obvious.
-| 90 |A large parrot preening its feathers - There is evidence of genetic enhancement of some kind.
-| 91 |Several large trays of what appear to be human eyes - The refrigerator unit the trays are in is having power fluctuations.
-| 92 |A massive Tesla coil charging - The sound is deafening.
-| 93 |A greenish-yellow alga has grown to cover nearly half of the lab - A close look reveals it is still growing.
-| 94 |Rows of small plastic boxes labeled "Nanites - Batch 4736598" - The seal on one box has been broken.
-| 95 |A glass enclosure with several dozen bats inside - The animals appear to be "augmented" in several ways.
-| 96 |A glass enclosure full of butterflies - Something is different about their coloration and their eyes.
-| 97 |A row of dissected fish - Each fish has a strange crystal near its brain.
-| 98 |The consciousness of a soldier downloaded into a computer - The entity begins asking questions about the state of "the war."
-| 99 |A glob of tissue in a vat being shocked periodically - The reaction varies but occasionally the sound or stifled scream may be heard.
-| 100 |Dead frogs - An entire wetland-like enclosure is littered with the dead animals. Something has gone horribly wrong.
+| 84 |A surgical robot dissecting a pig - The robot goes about its business methodically unless interrupted in which case it trunks on the intrude |
+| 85 |A jagged piece of metal is hooked to electrodes - Tiny bits of the metal flake off and float upwards and disintegrat |
+| 86 |An orangutan hooked to a machine that is siphoning off brain fluid - The creature motions to anyone who enters the roo |
+| 87 |An open flame boils a pale blue liquid in a beaker - Soon the beaker will shatte |
+| 88 |A blind monkey with pulsating lumps behind its ears - One character hears the creature whisper that it would like to be free |
+| 89 |Dead human - The person was kept nude in an enclosure. The cause of death is not obviou |
+| 90 |A large parrot preening its feathers - There is evidence of genetic enhancement of some kin |
+| 91 |Several large trays of what appear to be human eyes - The refrigerator unit the trays are in is having power fluctuation |
+| 92 |A massive Tesla coil charging - The sound is deafenin |
+| 93 |A greenish-yellow alga has grown to cover nearly half of the lab - A close look reveals it is still growin |
+| 94 |Rows of small plastic boxes labeled "Nanites - Batch 4736598" - The seal on one box has been broke |
+| 95 |A glass enclosure with several dozen bats inside - The animals appear to be "augmented" in several way |
+| 96 |A glass enclosure full of butterflies - Something is different about their coloration and their eye |
+| 97 |A row of dissected fish - Each fish has a strange crystal near its brai |
+| 98 |The consciousness of a soldier downloaded into a computer - The entity begins asking questions about the state of "the war."|
+| 99 |A glob of tissue in a vat being shocked periodically - The reaction varies but occasionally the sound or stifled scream may be hear |
+| 100 |Dead frogs - An entire wetland-like enclosure is littered with the dead animals. Something has gone horribly wron |
 
 ### News Chatter
 
+| d100| Name |
+|:--:|--|
 | 1 |Terrorist bloodbath on Kasenga B leaves thousands dead|
 | 2 |Governmental and corporate negotiations sour over proposed plans for resource-rich Triteia|
 | 3 |Authorities race to discover the origin of missile attacks throughout the city of New Nagoya on Galileo|
@@ -4162,13 +4180,15 @@ military personnel #2
 | 95 |Civil leaders on Sardis decry the use of mercenaries by Mantik Corp|
 | 96 |Industrial accident on the colony planet of Polymatheia kills at least 1,673 miners|
 | 97 |Mudslides paralyze Duberdicus, tens of thousands feared dead, many more missing or stranded|
-| 98 |Security officials call latest moves by Pytman Dirotta Corp. "espionage eff orts"
+| 98 |Security officials call latest moves by Pytman Dirotta Corp. "espionage eff orts"|
 | 99 |Chemical leak in Mutomo Voi on the planet Gilgamesh causes more than a quarter of the population to flee|
 | 100 |Tech-heavy markets shed thousands of points as massive layoff s weaken sector confidence|
 
 
 ## Ocean Planet Encounters -:-:-  48-
 
+| d100| Name |
+|:--:|--|
 | 1 |A giant octopus with miles-long tentacles|
 | 2 |Colossal ancient observatory deep underwater|
 | 3 |An abandoned underwater laboratory|
@@ -4273,8 +4293,9 @@ military personnel #2
 ### Ocean Planet Encounters
 
 ### Ravaged Research Facility -:-:-  50-
-
-| 1 |Deep claw scratches on a wall|
+| d100| Name |
+|:--:|--|
+| 1 | Deep claw scratches on a wall|
 | 2 |Broken glass shattered about the floor|
 | 3 |Dressing forceps|
 | 4 |Large tufts of long black fur|
@@ -4364,7 +4385,7 @@ military personnel #2
 | 88 |Remnants of a melted table|
 | 89 |Door barred with random objects and furniture|
 | 90 |Small fusion battery (glowing)|
-| 91 |Open petri dishes scattered about with the label "biohazard"
+| 91 |Open petri dishes scattered about with the label "biohazard"|
 | 92 |Microtome (unended)|
 | 93 |Bones scattered about|
 | 94 |Lab coat (covered in mud and green stains)|
@@ -4377,112 +4398,115 @@ military personnel #2
 
 ## Space Complications and Encounters -:-:-  52-
 
-| 1 |A militant force blockades the ship's path, forcing it to change course or face interception.
-| 2 |Crystalline oxygen formations make navigation hazardous.
-| 3 |Pirate ships (1D8) attacking a merchant convoy.
-| 4 |Frozen toxic waste glows with deadly radiation.
-| 5 |Control panels experience random and unexplained power outages for 1D10 days.
-| 6 |An unexpected drop from hyperspace occurs without explanation.
-| 7 |Frozen ammonia creates treacherous hazards along the route.
-| 8 |A debris field of a lost merchant ship appears on the scanners.
-| 9 |An alien space probe with intricate symbols seems to be scanning in a wideband.
-| 10 |A patrol ship intercepts the vessel, informing them of a fugitive search.
-| 11 |A fugitive ship (1D20 crew) on the run from law enforcement.
-| 12 |A colony fleet (2D20 vessels) asks for assistance with a malfunctioning navigation system.
-| 13 |A sleeper ship (1D100 passengers in hibernation) from an unknown past world.
-| 14 |The ship abruptly exits hyperspace due to an uncharted debris field.
-| 15 |An interstellar slick of dark oil, polluting the celestial environment.
-| 16 |Small items onboard the ship mysteriously disappear.
-| 17 |Blaring static from the audio system disturbs the crew throughout the journey.
-| 18 |Skeletal container ship remains completely picked over by pirates or scavengers.
-| 19 |The central computer is stuck in an unfamiliar language to the crew.
-| 20 |A cryogenic capsule with a person preserved in it.
-| 21 |The hyperdrive overheats, limiting short jumps until it cools down.
-| 22 |An asteroid mining colony contacts the vessel and asks if they would like to dock.
-| 23 |A sector-wide quarantine necessitates rerouting.
-| 24 |A spectral vessel hauntingly translucent crosses paths with the vessel.
-| 25 |An abandoned space station hangs in space as a relic of ambition.
-| 26 |The ship is demanded to be boarded and searched by a customs inspection vessel for contraband.
-| 27 |A weapon system malfunction delays the ship's hyperspace entry.
-| 28 |The crew becomes trapped in a temporal causality loop for 1D100 days.
-| 29 |The ship's AI constantly tries to adjust the course, convinced the course is wrong.
-| 30 |The crew experiences unexplained nightmares.
-| 31 |A merchant convoy (1D10 vessels) seems to be lost.
-| 32 |A creature specimen escapes from the science lab, prompting a crew to prevent it from laying eggs.
-| 33 |Environmental control is lost in the cargo bay.
-| 34 |A micro fissure causes one section of the vessel to vent atmosphere.
-| 35 |Jagged ebony shards of ice make the vessel's path treacherous.
-| 36 |Fragments of ships and weapons from some long-ago battle.
-| 37 |Repugnant frozen human waste blocks the vessel's path.
-| 38 |Unusual sounds emanating from within the walls of the vessel for no apparent reason.
-| 39 |Energy draining ship trap from an ancient war threatens to trap the vessel.
-| 40 |Frozen methane cluster makes navigation tricky.
-| 41 |Hard-shelled insects emerge from the air vents.
-| 42 |Space whales (1D20) swim near the vessel creating a rarely seen spectacle.
-| 43 |A rogue planet forces a hyperspace route recalculation, resulting in a delay.
-| 44 |Intermittent intangibility occurs in parts of the ship due to an unknown spatial phenomenon.
-| 45 |A faulty life support system lowers oxygen levels.
-| 46 |Sensors intermittently detect a strange signal from the cargo bay in brief intervals.
-| 47 |An empty escape pod from a vessel was reported lost years ago.
-| 48 |The outer hull becomes coated in an unusual slime after encountering a spatial phenomenon.
-| 49 |Mice-like rodents infest the vessel, likely originating from the cargo hold.
-| 50 |An ornate burial tube with a body inside serenely floats in the celestial void.
-| 51 |Energy-draining creature clinging to spacecraft.
-| 52 |Mysterious emissions from a black hole disrupt sensors.
-| 53 |Food supplies reach dangerously low levels.
-| 54 |An AI-controlled spacecraft will dangerously cross paths with the vessel.
-| 55 |A malfunction in the airlock controls renders the outer door unable to close.
-| 56 |An ancient minefield blocks the ship's path.
-| 57 |Navigational systems fail, necessitating 1D4 days of repairs.
-| 58 |An unmanned robot ship from a civilization unknown to characters.
-| 59 |An intense magnetic field disturbs sensors, generating false readings.
-| 60 |The journey takes 1D10 days longer than expected upon exiting hyperspace.
-| 61 |The ship's route is blocked by a large herd of space-borne creatures.
-| 62 |Disruptive cosmic microwave energy distorts communication.
-| 63 |The vessel's controls are ionized for 1D12 hours by a nearby comet.
-| 64 |A distress call from a passenger liner that is losing power.
-| 65 |A micro-meteor strike heavily damages the hull, exposing 1D4 sections to space.
-| 66 |Crew members become drowsy due to fumes from a coolant leak.
-| 67 |Non-retracting landing gear slows the vessel.
-| 68 |Discarded food containers impede the ship's route.
-| 69 |A stowaway with a peculiar illness is discovered among the cargo.
-| 70 |Fragments of cosmic ice vaporize, leaving shimmering trails.
-| 71 |A penal asteroid warns of an escape.
-| 72 |The crew contracted a stomach bug at the last stop.
-| 73 |Authorities caution of potential threats along the ship's course and recommend rerouting.
-| 74 |An energy pulse causes minor overloads in the ship's power circuits.
-| 75 |A concealed container beneath a control panel disrupts multiple ship systems.
-| 76 |Inability to shut off or dim the interior lights in crew quarters.
-| 77 |A towering monolith of pure blackness floats in space.
-| 78 |Engine power fluctuates, significantly reducing speed.
-| 79 |Shattered satellites form a cloud of debris in the vessel's path.
-| 80 |A cascade of charged particles causes short circuits in the vessel.
-| 81 |Sores appear on the crew members' hands and arms.
-| 82 |Twisted fragments of an otherworldly vessel give off haunting echoes.
-| 83 |Stress fractures in the hull require repairs before hyperspace travel.
-| 84 |A sword floats in the vastness of space.
-| 85 |A compartment is accidentally flooded with noxious gas.
-| 86 |All computer monitors in the vessel continuously replay a comedic skit.
-| 87 |Spaceborne parasites cover the outer hull, causing minor system malfunctions.
-| 88 |A massive generation ship (10D100 passengers) thousands of years old gliding in space.
-| 89 |External vents become clogged with dust, requiring cleaning before the ship can proceed.
-| 90 |Seeds brought onboard unintentionally grow vines that threaten to fill the ship.
-| 91 |The outer hull is covered by a rust-like substance that is spreading.
-| 92 |Cosmic rays disrupt the ship's sensors, leaving the crew temporarily without reliable navigation.
-| 93 |Deceased relatives or friends appear to crew members during the journey.
-| 94 |Bulkhead doors (1D6) unexpectedly close and lock the regular unlock codes are not working.
-| 95 |An announcement declares impassable routes, requiring vessel rerouting.
-| 96 |An escape pod with (1D8) people onboard.
-| 97 |A gasket failure fills the ship with a foul odor.
-| 98 |A ragtag fugitive fleet (2D100 vessels) fleeing the destruction of their home world.
-| 99 |A ship crewed by military deserters (1D100 crew).
-| 100 |A conman merchant in a personal vessel contacts the vessel and makes a powerful sales pitch.
+| d100| Name |
+|:--:|--|
+| 1 | A militant force blockades the ship's path, forcing it to change course or face interceptio |
+| 2 |Crystalline oxygen formations make navigation hazardou |
+| 3 |Pirate ships (1D8) attacking a merchant convo |
+| 4 |Frozen toxic waste glows with deadly radiatio |
+| 5 |Control panels experience random and unexplained power outages for 1D10 day |
+| 6 |An unexpected drop from hyperspace occurs without explanatio |
+| 7 |Frozen ammonia creates treacherous hazards along the rout |
+| 8 |A debris field of a lost merchant ship appears on the scanner |
+| 9 |An alien space probe with intricate symbols seems to be scanning in a wideban |
+| 10 |A patrol ship intercepts the vessel, informing them of a fugitive searc |
+| 11 |A fugitive ship (1D20 crew) on the run from law enforcemen |
+| 12 |A colony fleet (2D20 vessels) asks for assistance with a malfunctioning navigation syste |
+| 13 |A sleeper ship (1D100 passengers in hibernation) from an unknown past worl |
+| 14 |The ship abruptly exits hyperspace due to an uncharted debris fiel |
+| 15 |An interstellar slick of dark oil, polluting the celestial environmen |
+| 16 |Small items onboard the ship mysteriously disappea |
+| 17 |Blaring static from the audio system disturbs the crew throughout the journe |
+| 18 |Skeletal container ship remains completely picked over by pirates or scavenger |
+| 19 |The central computer is stuck in an unfamiliar language to the cre |
+| 20 |A cryogenic capsule with a person preserved in i |
+| 21 |The hyperdrive overheats, limiting short jumps until it cools dow |
+| 22 |An asteroid mining colony contacts the vessel and asks if they would like to doc |
+| 23 |A sector-wide quarantine necessitates reroutin |
+| 24 |A spectral vessel hauntingly translucent crosses paths with the vesse |
+| 25 |An abandoned space station hangs in space as a relic of ambitio |
+| 26 |The ship is demanded to be boarded and searched by a customs inspection vessel for contraban |
+| 27 |A weapon system malfunction delays the ship's hyperspace entr |
+| 28 |The crew becomes trapped in a temporal causality loop for 1D100 day |
+| 29 |The ship's AI constantly tries to adjust the course, convinced the course is wron |
+| 30 |The crew experiences unexplained nightmare |
+| 31 |A merchant convoy (1D10 vessels) seems to be los |
+| 32 |A creature specimen escapes from the science lab, prompting a crew to prevent it from laying egg |
+| 33 |Environmental control is lost in the cargo ba |
+| 34 |A micro fissure causes one section of the vessel to vent atmospher |
+| 35 |Jagged ebony shards of ice make the vessel's path treacherou |
+| 36 |Fragments of ships and weapons from some long-ago battl |
+| 37 |Repugnant frozen human waste blocks the vessel's pat |
+| 38 |Unusual sounds emanating from within the walls of the vessel for no apparent reaso |
+| 39 |Energy draining ship trap from an ancient war threatens to trap the vesse |
+| 40 |Frozen methane cluster makes navigation trick |
+| 41 |Hard-shelled insects emerge from the air vent |
+| 42 |Space whales (1D20) swim near the vessel creating a rarely seen spectacl |
+| 43 |A rogue planet forces a hyperspace route recalculation, resulting in a dela |
+| 44 |Intermittent intangibility occurs in parts of the ship due to an unknown spatial phenomeno |
+| 45 |A faulty life support system lowers oxygen level |
+| 46 |Sensors intermittently detect a strange signal from the cargo bay in brief interval |
+| 47 |An empty escape pod from a vessel was reported lost years ag |
+| 48 |The outer hull becomes coated in an unusual slime after encountering a spatial phenomeno |
+| 49 |Mice-like rodents infest the vessel, likely originating from the cargo hol |
+| 50 |An ornate burial tube with a body inside serenely floats in the celestial voi |
+| 51 |Energy-draining creature clinging to spacecraf |
+| 52 |Mysterious emissions from a black hole disrupt sensor |
+| 53 |Food supplies reach dangerously low level |
+| 54 |An AI-controlled spacecraft will dangerously cross paths with the vesse |
+| 55 |A malfunction in the airlock controls renders the outer door unable to clos |
+| 56 |An ancient minefield blocks the ship's pat |
+| 57 |Navigational systems fail, necessitating 1D4 days of repair |
+| 58 |An unmanned robot ship from a civilization unknown to character |
+| 59 |An intense magnetic field disturbs sensors, generating false reading |
+| 60 |The journey takes 1D10 days longer than expected upon exiting hyperspac |
+| 61 |The ship's route is blocked by a large herd of space-borne creature |
+| 62 |Disruptive cosmic microwave energy distorts communicatio |
+| 63 |The vessel's controls are ionized for 1D12 hours by a nearby come |
+| 64 |A distress call from a passenger liner that is losing powe |
+| 65 |A micro-meteor strike heavily damages the hull, exposing 1D4 sections to spac |
+| 66 |Crew members become drowsy due to fumes from a coolant lea |
+| 67 |Non-retracting landing gear slows the vesse |
+| 68 |Discarded food containers impede the ship's rout |
+| 69 |A stowaway with a peculiar illness is discovered among the carg |
+| 70 |Fragments of cosmic ice vaporize, leaving shimmering trail |
+| 71 |A penal asteroid warns of an escap |
+| 72 |The crew contracted a stomach bug at the last sto |
+| 73 |Authorities caution of potential threats along the ship's course and recommend reroutin |
+| 74 |An energy pulse causes minor overloads in the ship's power circuit |
+| 75 |A concealed container beneath a control panel disrupts multiple ship system |
+| 76 |Inability to shut off or dim the interior lights in crew quarter |
+| 77 |A towering monolith of pure blackness floats in spac |
+| 78 |Engine power fluctuates, significantly reducing spee |
+| 79 |Shattered satellites form a cloud of debris in the vessel's pat |
+| 80 |A cascade of charged particles causes short circuits in the vesse |
+| 81 |Sores appear on the crew members' hands and arm |
+| 82 |Twisted fragments of an otherworldly vessel give off haunting echoe |
+| 83 |Stress fractures in the hull require repairs before hyperspace trave |
+| 84 |A sword floats in the vastness of spac |
+| 85 |A compartment is accidentally flooded with noxious ga |
+| 86 |All computer monitors in the vessel continuously replay a comedic ski |
+| 87 |Spaceborne parasites cover the outer hull, causing minor system malfunction |
+| 88 |A massive generation ship (10D100 passengers) thousands of years old gliding in spac |
+| 89 |External vents become clogged with dust, requiring cleaning before the ship can procee |
+| 90 |Seeds brought onboard unintentionally grow vines that threaten to fill the shi |
+| 91 |The outer hull is covered by a rust-like substance that is spreadin |
+| 92 |Cosmic rays disrupt the ship's sensors, leaving the crew temporarily without reliable navigatio |
+| 93 |Deceased relatives or friends appear to crew members during the journe |
+| 94 |Bulkhead doors (1D6) unexpectedly close and lock the regular unlock codes are not workin |
+| 95 |An announcement declares impassable routes, requiring vessel reroutin |
+| 96 |An escape pod with (1D8) people onboar |
+| 97 |A gasket failure fills the ship with a foul odo |
+| 98 |A ragtag fugitive fleet (2D100 vessels) fleeing the destruction of their home worl |
+| 99 |A ship crewed by military deserters (1D100 crew). |
+| 100 |A conman merchant in a personal vessel contacts the vessel and makes a powerful sales pitc |
 
 ### Space Complications and Encounters
 
 ## Spaceship Mechanical Problems -:-:-  54-
-
-| 1 |Navigation controls erratic|
+| d100| Name |
+|:--:|--|
+| 1 | Navigation controls erratic|
 | 2 |Dead in space for 36 hours until life support fails|
 | 3 |Engine failure|
 | 4 |Minor hull breach|
@@ -4584,8 +4608,9 @@ military personnel #2
 | 100 |Docking bay doors won't open|
 
 ### Spatial Anomalies -:-:- 
-
-| 1 |Spatial flexure|
+| d100| Name |
+|:--:|--|
+| 1 | Spatial flexure|
 | 2 |Temporal explosion|
 | 3 |Causality loop|
 | 4 |Quantum singularity|
@@ -4688,221 +4713,224 @@ military personnel #2
 
 ## Star System Exploration Discoveries -:-:-  58-
 
-| 1 |Ultra-steep spectrum radio waves are emitting from a gaseous cloud near the system.
-| 2 |A planet not on any scouting reports.
-| 3 |Robotic drones travel between one of the planets and one of its moons.
-| 4 |A dwarf planet not seen on any scouting or scanning data.
-| 5 |Odd dust clouds surround one planet.
-| 6 |The asteroid belt was not picked up on long-range scans.
-| 7 |A space battle involving 1D4 scout vessels is raging.
-| 8 |The star has recently begun producing unique nuclear reactions.
-| 9 |An unknown vessel, similar to a scout ship, is in orbit around a planet or moon.
-| 10 |One moon is emitting copious amounts of longwave radiation.
-| 11 |Scans pick up that one of the planets will explode in 1D20 days.
-| 12 |Readings show a massive solar flare is expected in 1D6 days.
-| 13 |Some great gravitational force has recently shifted the orbits of several planets.
-| 14 |A jettisoned flight recorder is in orbit around a moon.
-| 15 |An undocumented ring system is around one of the planets.
-| 16 |A moon has broken apart and is showering the planet below with debris.
-| 17 |One planet is emitting strange radio waves.
-| 18 |An escape pod is floating in space. Life signs are indeterminate.
-| 19 |Millions of what appear to be fist-sized seeds form a ring system around a planet.
-| 20 |A faint repeating signal emanates from a moon.
-| 21 |A comet has a small lander probe on its surface.
-| 22 |One moon is completely encased by some sort of megastructure.
-| 23 |The orbit of a large asteroid has recently changed for some reason.
-| 24 |There is a force field around a portion of one moon.
-| 25 |A skeleton of some monstrous creature is trapped in the star's gravity.
-| 26 |A swarm of two-dimensional creatures wreaks havoc with sensors.
-| 27 |Odd gravitational interactions seem to have caused several planets and moons to shift orbits.
-| 28 |One area of the system is heavily polluted with dense ion particles.
-| 29 |Sensors pick up a powerful x-ray burst from an asteroid belt. It only lasts a few seconds.
-| 30 |One planet is suffering the aftermath of a massive meteor strike.
-| 31 |Evidence of a space battle fought more than a thousand years ago is detected.
-| 32 |A gigantic crystal is orbiting a moon.
-| 33 |Small debris from what appears to have been a probe is near a moon.
-| 34 |The star will have a large coronal mass ejection in 1D4 days.
-| 35 |An unmanned probe is orbiting and actively gathering data from a planet or moon.
-| 36 |Recent construction is detected on the surface of a planet.
-| 37 |Scanners pick up 1D100 x 1000 possible human life signs on a planet.
-| 38 |Readings show an odd concentration of high-energy protons near a small moon.
-| 39 |A huge debris field is detected in orbit around a planet or moon.
-| 40 |One planet appears to have been bombarded from space.
-| 41 |A rogue planet is approaching the system.
-| 42 |One planet is giving off huge amounts of gamma radiation.
-| 43 |A hyper-radioactive dust cloud will intersect with the system in 1D4 weeks.
-| 44 |A silvery metallic sphere, only a little smaller than a dwarf planet, is in an orbit around the star.
-| 45 |Scanners pick up 1D20 possible human life signs on a moon.
-| 46 |An asteroid is on a collision course with one of the planets or moons.
-| 47 |One planet has an artificial satellite that appears to be made of mudbrick.
-| 48 |Powerful bursts of radio waves are emitting from a location near the star's corona.
-| 49 |One of the planets recently captured a new asteroid moon, causing serious tidal and seismic activity.
-| 50 |A massive 1D100 miles-long derelict is in orbit around a planet. No power or life signs are detected.
-| 51 |A moon caught between the planet and another, larger moon is being torn apart.
-| 52 |A small active space station is in the orbit of a planet or a moon. Life signs are detected 1D12.
-| 53 |A derelict unmanned probe is only 1D10 meters in length and no power is detected.
-| 54 |An asteroid appears to be the host of a strange bacterial colony.
-| 55 |A comet is spewing an abnormally large amount of particles and gases.
-| 56 |A swirling cloud of gas appears to be orbiting a planet.
-| 57 |A small, extremely worn, and blackened space capsule with an insignia reading "NASA."
-| 58 |A ring-shaped artificial world orbits one of the planets.
-| 59 |A space coffin is in a wide orbit around the star. Scans reveal a body inside.
-| 60 |An orbital cryo-storage facility is fully powered with 1D100 possible human life signs detected.
-| 61 |A bioluminescent cloud is formed by space microbes swimming through the system.
-| 62 |One planet gives off an immense amount of unknown radiation.
-| 63 |One planet shows signs of a terraforming eff ort long abandoned.
-| 64 |A disabled freighter is in orbit around one of the planets.
-| 65 |An enormous spaceborne creature seems to be wounded in a slow orbit around the star.
-| 66 |A vessel with no power is in a dangerous orbit near the star.
-| 67 |A disembodied hand the size of a dwarf planet.
-| 68 |A debris field appears to be a massive garbage dump now orbiting the star.
-| 69 |A planet with huge crystal formations that reach into space.
-| 70 |Around one of the planets, 1D100 vessels hang in low orbit. It appears to be a ship graveyard.
-| 71 |A planet is about to pass through the enormously huge tail of a comet.
-| 72 |One planet is currently breaking apart.
-| 73 |Scanners pick up 1D10 possible human life signs on a planet.
-| 74 |An odd conglomerate of ice crystals surrounds one moon.
-| 75 |Scans pick up 2D100 human bodies floating in space.
-| 76 |One of the planets is surrounded by electromagnetic spectrum distortions.
-| 77 |A derelict space station is in a decaying orbit. It will enter the atmosphere in 1D4 weeks.
-| 78 |The magnetic field of one planet is fluctuating in a strange manner.
-| 79 |A giant cube-shaped object is on a collision course with the star.
-| 80 |An uncharted planetoid at the edge of the system.
-| 81 |A derelict vessel is on a collision course with the star.
-| 82 |A space passenger liner split into two huge pieces is drifting toward the star.
-| 83 |The atmosphere of one of the planets is flooded with nuclear radiation.
-| 84 |One of the planets has recently stopped rotating for some reason.
-| 85 |Massive, volcanically active asteroid in an odd orbit around the star.
-| 86 |A disabled ship in orbit around a planet is broadcasting a distress signal.
-| 87 |There was a long-defunct asteroid mining operation.
-| 88 |The star's magnetic field is growing stronger every day.
-| 89 |One side of a moon is covered with an odd foam visible from space.
-| 90 |What appears to be a castle frozen in a gigantic block of ice is orbiting the star.
-| 91 |One moon is giving off a hydrogen gas plume that reaches outer space.
-| 92 |A ring around one planet seems to be made of a vessel that broke up long ago.
-| 93 |Large debris fields are detected on the surface of a planet or moon.
-| 94 |A small prospecting vessel is scouting some asteroids.
-| 95 |One planet returns readings of extraordinarily dense clusters of heavy ions.
-| 96 |Some type of graviton pulse has disrupted the atmosphere of a planet.
-| 97 |An envelope of helium surrounds a planet and at least one of its moons.
-| 98 |Ruins are detected on a moon.
-| 99 |A ragtag fleet of fugitives, made up of 1D100 vessels, is present.
-| 100 |One planet has a network of 1D100 artificial satellites.
+| d100| Name |
+|:--:|--|
+| 1 | Ultra-steep spectrum radio waves are emitting from a gaseous cloud near the syste |
+| 2 |A planet not on any scouting report |
+| 3 |Robotic drones travel between one of the planets and one of its moon |
+| 4 |A dwarf planet not seen on any scouting or scanning dat |
+| 5 |Odd dust clouds surround one plane |
+| 6 |The asteroid belt was not picked up on long-range scan |
+| 7 |A space battle involving 1D4 scout vessels is ragin |
+| 8 |The star has recently begun producing unique nuclear reaction |
+| 9 |An unknown vessel, similar to a scout ship, is in orbit around a planet or moo |
+| 10 |One moon is emitting copious amounts of longwave radiatio |
+| 11 |Scans pick up that one of the planets will explode in 1D20 day |
+| 12 |Readings show a massive solar flare is expected in 1D6 day |
+| 13 |Some great gravitational force has recently shifted the orbits of several planet |
+| 14 |A jettisoned flight recorder is in orbit around a moo |
+| 15 |An undocumented ring system is around one of the planet |
+| 16 |A moon has broken apart and is showering the planet below with debri |
+| 17 |One planet is emitting strange radio wave |
+| 18 |An escape pod is floating in space. Life signs are indeterminat |
+| 19 |Millions of what appear to be fist-sized seeds form a ring system around a plane |
+| 20 |A faint repeating signal emanates from a moo |
+| 21 |A comet has a small lander probe on its surfac |
+| 22 |One moon is completely encased by some sort of megastructur |
+| 23 |The orbit of a large asteroid has recently changed for some reaso |
+| 24 |There is a force field around a portion of one moo |
+| 25 |A skeleton of some monstrous creature is trapped in the star's gravit |
+| 26 |A swarm of two-dimensional creatures wreaks havoc with sensor |
+| 27 |Odd gravitational interactions seem to have caused several planets and moons to shift orbit |
+| 28 |One area of the system is heavily polluted with dense ion particle |
+| 29 |Sensors pick up a powerful x-ray burst from an asteroid belt. It only lasts a few second |
+| 30 |One planet is suffering the aftermath of a massive meteor strik |
+| 31 |Evidence of a space battle fought more than a thousand years ago is detecte |
+| 32 |A gigantic crystal is orbiting a moo |
+| 33 |Small debris from what appears to have been a probe is near a moo |
+| 34 |The star will have a large coronal mass ejection in 1D4 day |
+| 35 |An unmanned probe is orbiting and actively gathering data from a planet or moo |
+| 36 |Recent construction is detected on the surface of a plane |
+| 37 |Scanners pick up 1D100 x 1000 possible human life signs on a plane |
+| 38 |Readings show an odd concentration of high-energy protons near a small moo |
+| 39 |A huge debris field is detected in orbit around a planet or moo |
+| 40 |One planet appears to have been bombarded from spac |
+| 41 |A rogue planet is approaching the syste |
+| 42 |One planet is giving off huge amounts of gamma radiatio |
+| 43 |A hyper-radioactive dust cloud will intersect with the system in 1D4 week |
+| 44 |A silvery metallic sphere, only a little smaller than a dwarf planet, is in an orbit around the sta |
+| 45 |Scanners pick up 1D20 possible human life signs on a moo |
+| 46 |An asteroid is on a collision course with one of the planets or moon |
+| 47 |One planet has an artificial satellite that appears to be made of mudbric |
+| 48 |Powerful bursts of radio waves are emitting from a location near the star's coron |
+| 49 |One of the planets recently captured a new asteroid moon, causing serious tidal and seismic activit |
+| 50 |A massive 1D100 miles-long derelict is in orbit around a planet. No power or life signs are detecte |
+| 51 |A moon caught between the planet and another, larger moon is being torn apar |
+| 52 |A small active space station is in the orbit of a planet or a moon. Life signs are detected 1D1 |
+| 53 |A derelict unmanned probe is only 1D10 meters in length and no power is detecte |
+| 54 |An asteroid appears to be the host of a strange bacterial colon |
+| 55 |A comet is spewing an abnormally large amount of particles and gase |
+| 56 |A swirling cloud of gas appears to be orbiting a plane |
+| 57 |A small, extremely worn, and blackened space capsule with an insignia reading "NASA."|
+| 58 |A ring-shaped artificial world orbits one of the planet |
+| 59 |A space coffin is in a wide orbit around the star. Scans reveal a body insid |
+| 60 |An orbital cryo-storage facility is fully powered with 1D100 possible human life signs detecte |
+| 61 |A bioluminescent cloud is formed by space microbes swimming through the syste |
+| 62 |One planet gives off an immense amount of unknown radiatio |
+| 63 |One planet shows signs of a terraforming eff ort long abandone |
+| 64 |A disabled freighter is in orbit around one of the planet |
+| 65 |An enormous spaceborne creature seems to be wounded in a slow orbit around the sta |
+| 66 |A vessel with no power is in a dangerous orbit near the sta |
+| 67 |A disembodied hand the size of a dwarf plane |
+| 68 |A debris field appears to be a massive garbage dump now orbiting the sta |
+| 69 |A planet with huge crystal formations that reach into spac |
+| 70 |Around one of the planets, 1D100 vessels hang in low orbit. It appears to be a ship graveyar |
+| 71 |A planet is about to pass through the enormously huge tail of a come |
+| 72 |One planet is currently breaking apar |
+| 73 |Scanners pick up 1D10 possible human life signs on a plane |
+| 74 |An odd conglomerate of ice crystals surrounds one moo |
+| 75 |Scans pick up 2D100 human bodies floating in spac |
+| 76 |One of the planets is surrounded by electromagnetic spectrum distortion |
+| 77 |A derelict space station is in a decaying orbit. It will enter the atmosphere in 1D4 week |
+| 78 |The magnetic field of one planet is fluctuating in a strange manne |
+| 79 |A giant cube-shaped object is on a collision course with the sta |
+| 80 |An uncharted planetoid at the edge of the syste |
+| 81 |A derelict vessel is on a collision course with the sta |
+| 82 |A space passenger liner split into two huge pieces is drifting toward the sta |
+| 83 |The atmosphere of one of the planets is flooded with nuclear radiatio |
+| 84 |One of the planets has recently stopped rotating for some reaso |
+| 85 |Massive, volcanically active asteroid in an odd orbit around the sta |
+| 86 |A disabled ship in orbit around a planet is broadcasting a distress signa |
+| 87 |There was a long-defunct asteroid mining operatio |
+| 88 |The star's magnetic field is growing stronger every da |
+| 89 |One side of a moon is covered with an odd foam visible from spac |
+| 90 |What appears to be a castle frozen in a gigantic block of ice is orbiting the sta |
+| 91 |One moon is giving off a hydrogen gas plume that reaches outer spac |
+| 92 |A ring around one planet seems to be made of a vessel that broke up long ag |
+| 93 |Large debris fields are detected on the surface of a planet or moo |
+| 94 |A small prospecting vessel is scouting some asteroid |
+| 95 |One planet returns readings of extraordinarily dense clusters of heavy ion |
+| 96 |Some type of graviton pulse has disrupted the atmosphere of a plane |
+| 97 |An envelope of helium surrounds a planet and at least one of its moon |
+| 98 |Ruins are detected on a moo |
+| 99 |A ragtag fleet of fugitives, made up of 1D100 vessels, is presen |
+| 100 |One planet has a network of 1D100 artificial satellite |
 
 ### Star System Exploration Discoveries
 
 ### Urban Encounters and Complications -:-:-  60-
 
 ### Urban Encounters and Complications
-
-
-| 1 |The city's controlling AI has gained sentience and seeks to protect its own existence, causing alarm throughout the city.
-| 2 |Two sleek aircars collide and spiral out of control near the party.
-| 3 |Criminals illegally tap power grids and steal energy cells.
-| 4 |Criminal hackers have orchestrated large-scale digital heists, infiltrated corporate networks, and siphoned off valuable data or funds in recent days.
-| 5 |Service industry strikes impact accommodation options, dining choices, and guided tours.
-| 6 |An acid rainstorm hampers travel around the city and requires protective gear.
-| 7 |Streets are flooded with robotic workers, making travel difficult.
-| 8 |A terrorist group attacks a transportation hub near the party.
-| 9 |Ambassadors gather for critical treaty negotiations, and the city is teeming with diplomats and government grifters.
-| 10 |Augmented reality scammers attempt to lure the party into a false virtual storefront, where they manipulate digital currency transactions.
-| 11 |Law enforcement agents chase members of a criminal syndicate using flying vehicles and personal jetpacks.
-| 12 |Gang warfare spills into the streets of the city.
-| 13 |Manufacturing and industrial worker strikes lead to shortages of essential goods, disruptions in supply chains, and inflated prices.
-| 14 |Reports of a rogue AI circulate in the city.
-| 15 |A high-level corruption scandal involving government officials and prominent corporate figures rocks the city, leading to large gatherings in the streets.
-| 16 |Cultists are swarming the city, seeking to convert and prepare for the apocalypse.
-| 17 |Street magicians blend traditional magic tricks with high-tech elements and ask the party for a volunteer.
-| 18 |Armed with advanced weaponry and tactical gear, law enforcement units stage synchronized raids on multiple locations simultaneously.
-| 19 |The streets are lined with digital signage, augmented reality displays, and interactive advertisements that overwhelm new visitors.
-| 20 |The arrival of a huge circus strains the city's infrastructure.
-| 21 |Electromagnetic disturbances hamper travel around the city and require protective gear.
-| 22 |A cybernetic criminal syndicate operates in the city, dealing in illegal cybernetic enhancements, smuggling technology, and conducting heists.
-| 23 |Maintenance worker strikes cause malfunctioning infrastructure, communication breakdowns, and power outages.
-| 24 |Rebel outcasts from another planet or city are amassing in the city.
-| 25 |The party feels the ground tremor, sees buildings shake, and witnesses people starting to panic.
-| 26 |Public service worker strikes result in uncollected waste, delayed emergency response times, and a reduced security presence.
-| 27 |Recent natural disasters have led to civil unrest.
-| 28 |A street dealer peddles illegal enhancements, synthetic neurotransmitter boosters, and mind- altering nano-drugs.
-| 29 |Criminals target hoverboards, personal flying vehicles, and hijack autonomous transport vehicles.
-| 30 |A high-profile trial unfolds, leading to anger in the streets.
-| 31 |Androids have been damaging property and demanding change in the city.
-| 32 |Economic instability causes businesses and people to suffer from food shortages and shortages of other goods.
-| 33 |Toxic fog hampers travel around the city and requires protective gear.
-| 34 |Street artists manipulate fleets of synchronized drones to create mesmerizing aerial displays.
-| 35 |An extremely talkative and assertive food vendor begins following the party with his hovering food stand, constantly asking if they want to buy something.
-| 36 |Widespread food riots lead to street mobs searching for food.
-| 37 |A large group of androids is holding nonviolent demonstrations.
-| 38 |Street artists using light-emitting devices create captivating light paintings to amaze onlookers.
-| 39 |The city is experiencing a humanitarian crisis and is requesting aid to alleviate the suffering of its residents.
-| 40 |Essential goods struggle to reach supermarkets, leading to riots.
-| 41 |Large protests of artificial beings demanding equal rights have reached a boiling point.
-| 42 |A vast herd of elephant-sized ground birds pours into the city from the countryside.
-| 43 |Street dancers use augmented reality to project virtual backgrounds and digital effects, delighting pedestrians.
-| 44 |Forensic experts are requesting DNA samples to help solve a heinous crime.
-| 45 |A young man slaps an older man in what appears to be a robbery.
-| 46 |Cultural clashes between different groups within the city have put the populace on edge.
-| 47 |Energy sector strikes lead to power outages, disrupted climate control, and a reduced availability of charging stations.
-| 48 |Megacorporation executives are gathering in the city for a massive conference, causing the city to swell with visitors.
-| 49 |A hostage situation is unfolding at a museum.
-| 50 |Meteor impact warning sirens sound.
-| 51 |Law enforcement agencies are selling manufacturing facilities seized in a recent raid.
-| 52 |The characters learn that a law enforcement AI is tracking them.
-| 53 |The party must journey through a lush vertical garden in the city.
-| 54 |There is a virtual or augmented reality craze with users half-blinded by goggles running throughout the city, walking into traffic, or nearly falling off buildings.
-| 55 |Autonomous weapon systems, deployed by the city government, now prowl the streets and buzz through the air, and the population is skeptical of their use.
-| 56 |Entertainment sector strikes result in canceled performances, delayed cultural festivals, and limited access to museums and galleries.
-| 57 |Street artists sculpt intricate and immersive virtual reality artworks, inviting passersby to don VR headsets.
-| 58 |Constant rain for weeks on end.
-| 59 |The fully automated transportation system, controlled by AI, was hacked, resulting in citywide chaos.
-| 60 |A scruff y, down-on-his-luck panhandler asks the party for money or food.
-| 61 |The city is reeling from the high-profile takedown of a large cartel by a cybercrime unit.
-| 62 |Biotech scientists have formed a large enclave in the city, establishing many labs for their genetic engineering and human enhancement experiments.
-| 63 |Distinct cultural districts of the city pose challenges to visitors that may result in conflicts over local etiquette and protocols.
-| 64 |A group of animal-like androids runs amok throughout the city, causing widespread chaos.
-| 65 |Criminals roaming the streets steal personal devices and hack data chips from pedestrians.
-| 66 |Street performers use holographic technology to create stunning illusions for passersby.
-| 67 |Heightened security and safety measures are implemented due to the large crowds attending a highly anticipated sporting event.
-| 68 |A stampede of horse-sized insects rampages through the city.
-| 69 |Transportation operator strikes disrupt public transportation and restrict access to certain areas of the city.
-| 70 |Different groups challenge the current government's legitimacy and demand new elections, stirring up unrest in the city.
-| 71 |Street musicians with cybernetic enhancements play unique sounds and modify their voices in unnaturally beautiful ways.
-| 72 |Law enforcement stops the party to check their IDs.
-| 73 |Artists using bioluminescent pigments and genetic modifications create living, glowing body art.
-| 74 |Knowledge worker strikes cause limited access to educational resources, delayed research collaborations, and canceled academic events.
-| 75 |Emergency response teams, equipped with exoskeletons and hovercraft, are working to rescue people from a Monorail derailment.
-| 76 |An outbreak of genetic mutations caused by experiments gone wrong sparks riots and demands for medical assistance.
-| 77 |Cyborg mercenaries have recently gathered in the city.
-| 78 |Heightened social tensions may lead to potential conflicts between different socioeconomic groups.
-| 79 |A delivery drone drops a package in front of the party.
-| 80 |An alien insect swarm wreaks havoc on the city's buildings, chewing on the foundations and other critical supports.
-| 81 |Government surveillance reaches into nearly every corner of the city.
-| 82 |Unidentified drones have been spotted flying around the city.
-| 83 |Claims of resource mismanagement lead to clashes between the population and authorities.
-| 84 |A slick pickpocket attempts to distract the party and then makes off with some of their valuables.
-| 85 |Anti-gravity public transportation tubes malfunction, reducing travel around the city to a crawl.
-| 86 |Puppeteers controlling large-scale robotic puppets interact with the audience and tell captivating stories.
-| 87 |Protestors take to the streets and clash with security forces.
-| 88 |Undercover agents approach the party and attempt to gather intelligence on a cartel.
-| 89 |Public outcry over an ecological collapse leads to changes in governance and emergency response measures.
-| 90 |Criminals target unsuspecting citizens for organ harvesting and engage in genetic blackmail.
-| 91 |Performers wearing exoskeleton suits perform gravity-defying acrobatics and stunts on the streets.
-| 92 |Two people are arguing over whether or not the neuroinformatics lab in the city has overstepped its bounds.
-| 93 |Hackers have recently warned the city of impending cyber attacks unless certain demands are met, causing the city to live in fear.
-| 94 |A suicidal man is threatening to jump off a domed structure.
-| 95 |Overwhelmed public services lead to unsanitary environments and outbreaks of disease.
-| 96 |A person is overdosing right in front of the characters.
-| 97 |Regional tensions fuel separatist movements, destabilizing the city.
-| 98 |An orphan attempts to steal from the party but is easily spotted.
-| 99 |The government cracks down with strict curfews, martial law, and military deployments.
-| 100 |The ever-changing architecture of the city makes navigation difficult. Characters constantly check updated holographic display maps as buildings shift shapes.
+| d100| Name |
+|:--:|--|
+| 1 |The city's controlling AI has gained sentience and seeks to protect its own existence, causing alarm throughout the cit |
+| 2 |Two sleek aircars collide and spiral out of control near the part |
+| 3 |Criminals illegally tap power grids and steal energy cell |
+| 4 |Criminal hackers have orchestrated large-scale digital heists, infiltrated corporate networks, and siphoned off valuable data or funds in recent day |
+| 5 |Service industry strikes impact accommodation options, dining choices, and guided tour |
+| 6 |An acid rainstorm hampers travel around the city and requires protective gea |
+| 7 |Streets are flooded with robotic workers, making travel difficul |
+| 8 |A terrorist group attacks a transportation hub near the part |
+| 9 |Ambassadors gather for critical treaty negotiations, and the city is teeming with diplomats and government grifter |
+| 10 |Augmented reality scammers attempt to lure the party into a false virtual storefront, where they manipulate digital currency transaction |
+| 11 |Law enforcement agents chase members of a criminal syndicate using flying vehicles and personal jetpack |
+| 12 |Gang warfare spills into the streets of the cit |
+| 13 |Manufacturing and industrial worker strikes lead to shortages of essential goods, disruptions in supply chains, and inflated price |
+| 14 |Reports of a rogue AI circulate in the cit |
+| 15 |A high-level corruption scandal involving government officials and prominent corporate figures rocks the city, leading to large gatherings in the street |
+| 16 |Cultists are swarming the city, seeking to convert and prepare for the apocalyps |
+| 17 |Street magicians blend traditional magic tricks with high-tech elements and ask the party for a voluntee |
+| 18 |Armed with advanced weaponry and tactical gear, law enforcement units stage synchronized raids on multiple locations simultaneousl |
+| 19 |The streets are lined with digital signage, augmented reality displays, and interactive advertisements that overwhelm new visitor |
+| 20 |The arrival of a huge circus strains the city's infrastructur |
+| 21 |Electromagnetic disturbances hamper travel around the city and require protective gea |
+| 22 |A cybernetic criminal syndicate operates in the city, dealing in illegal cybernetic enhancements, smuggling technology, and conducting heist |
+| 23 |Maintenance worker strikes cause malfunctioning infrastructure, communication breakdowns, and power outage |
+| 24 |Rebel outcasts from another planet or city are amassing in the cit |
+| 25 |The party feels the ground tremor, sees buildings shake, and witnesses people starting to pani |
+| 26 |Public service worker strikes result in uncollected waste, delayed emergency response times, and a reduced security presenc |
+| 27 |Recent natural disasters have led to civil unres |
+| 28 |A street dealer peddles illegal enhancements, synthetic neurotransmitter boosters, and mind- altering nano-drug |
+| 29 |Criminals target hoverboards, personal flying vehicles, and hijack autonomous transport vehicle |
+| 30 |A high-profile trial unfolds, leading to anger in the street |
+| 31 |Androids have been damaging property and demanding change in the cit |
+| 32 |Economic instability causes businesses and people to suffer from food shortages and shortages of other good |
+| 33 |Toxic fog hampers travel around the city and requires protective gea |
+| 34 |Street artists manipulate fleets of synchronized drones to create mesmerizing aerial display |
+| 35 |An extremely talkative and assertive food vendor begins following the party with his hovering food stand, constantly asking if they want to buy somethin |
+| 36 |Widespread food riots lead to street mobs searching for foo |
+| 37 |A large group of androids is holding nonviolent demonstration |
+| 38 |Street artists using light-emitting devices create captivating light paintings to amaze onlooker |
+| 39 |The city is experiencing a humanitarian crisis and is requesting aid to alleviate the suffering of its resident |
+| 40 |Essential goods struggle to reach supermarkets, leading to riot |
+| 41 |Large protests of artificial beings demanding equal rights have reached a boiling poin |
+| 42 |A vast herd of elephant-sized ground birds pours into the city from the countrysid |
+| 43 |Street dancers use augmented reality to project virtual backgrounds and digital effects, delighting pedestrian |
+| 44 |Forensic experts are requesting DNA samples to help solve a heinous crim |
+| 45 |A young man slaps an older man in what appears to be a robber |
+| 46 |Cultural clashes between different groups within the city have put the populace on edg |
+| 47 |Energy sector strikes lead to power outages, disrupted climate control, and a reduced availability of charging station |
+| 48 |Megacorporation executives are gathering in the city for a massive conference, causing the city to swell with visitor |
+| 49 |A hostage situation is unfolding at a museu |
+| 50 |Meteor impact warning sirens soun |
+| 51 |Law enforcement agencies are selling manufacturing facilities seized in a recent rai |
+| 52 |The characters learn that a law enforcement AI is tracking the |
+| 53 |The party must journey through a lush vertical garden in the cit |
+| 54 |There is a virtual or augmented reality craze with users half-blinded by goggles running throughout the city, walking into traffic, or nearly falling off building |
+| 55 |Autonomous weapon systems, deployed by the city government, now prowl the streets and buzz through the air, and the population is skeptical of their us |
+| 56 |Entertainment sector strikes result in canceled performances, delayed cultural festivals, and limited access to museums and gallerie |
+| 57 |Street artists sculpt intricate and immersive virtual reality artworks, inviting passersby to don VR headset |
+| 58 |Constant rain for weeks on en |
+| 59 |The fully automated transportation system, controlled by AI, was hacked, resulting in citywide chao |
+| 60 |A scruff y, down-on-his-luck panhandler asks the party for money or foo |
+| 61 |The city is reeling from the high-profile takedown of a large cartel by a cybercrime uni |
+| 62 |Biotech scientists have formed a large enclave in the city, establishing many labs for their genetic engineering and human enhancement experiment |
+| 63 |Distinct cultural districts of the city pose challenges to visitors that may result in conflicts over local etiquette and protocol |
+| 64 |A group of animal-like androids runs amok throughout the city, causing widespread chao |
+| 65 |Criminals roaming the streets steal personal devices and hack data chips from pedestrian |
+| 66 |Street performers use holographic technology to create stunning illusions for passersb |
+| 67 |Heightened security and safety measures are implemented due to the large crowds attending a highly anticipated sporting even |
+| 68 |A stampede of horse-sized insects rampages through the cit |
+| 69 |Transportation operator strikes disrupt public transportation and restrict access to certain areas of the cit |
+| 70 |Different groups challenge the current government's legitimacy and demand new elections, stirring up unrest in the cit |
+| 71 |Street musicians with cybernetic enhancements play unique sounds and modify their voices in unnaturally beautiful way |
+| 72 |Law enforcement stops the party to check their ID |
+| 73 |Artists using bioluminescent pigments and genetic modifications create living, glowing body ar |
+| 74 |Knowledge worker strikes cause limited access to educational resources, delayed research collaborations, and canceled academic event |
+| 75 |Emergency response teams, equipped with exoskeletons and hovercraft, are working to rescue people from a Monorail derailmen |
+| 76 |An outbreak of genetic mutations caused by experiments gone wrong sparks riots and demands for medical assistanc |
+| 77 |Cyborg mercenaries have recently gathered in the cit |
+| 78 |Heightened social tensions may lead to potential conflicts between different socioeconomic group |
+| 79 |A delivery drone drops a package in front of the part |
+| 80 |An alien insect swarm wreaks havoc on the city's buildings, chewing on the foundations and other critical support |
+| 81 |Government surveillance reaches into nearly every corner of the cit |
+| 82 |Unidentified drones have been spotted flying around the cit |
+| 83 |Claims of resource mismanagement lead to clashes between the population and authoritie |
+| 84 |A slick pickpocket attempts to distract the party and then makes off with some of their valuable |
+| 85 |Anti-gravity public transportation tubes malfunction, reducing travel around the city to a craw |
+| 86 |Puppeteers controlling large-scale robotic puppets interact with the audience and tell captivating storie |
+| 87 |Protestors take to the streets and clash with security force |
+| 88 |Undercover agents approach the party and attempt to gather intelligence on a carte |
+| 89 |Public outcry over an ecological collapse leads to changes in governance and emergency response measure |
+| 90 |Criminals target unsuspecting citizens for organ harvesting and engage in genetic blackmai |
+| 91 |Performers wearing exoskeleton suits perform gravity-defying acrobatics and stunts on the street |
+| 92 |Two people are arguing over whether or not the neuroinformatics lab in the city has overstepped its bound |
+| 93 |Hackers have recently warned the city of impending cyber attacks unless certain demands are met, causing the city to live in fea |
+| 94 |A suicidal man is threatening to jump off a domed structur |
+| 95 |Overwhelmed public services lead to unsanitary environments and outbreaks of diseas |
+| 96 |A person is overdosing right in front of the character |
+| 97 |Regional tensions fuel separatist movements, destabilizing the cit |
+| 98 |An orphan attempts to steal from the party but is easily spotte |
+| 99 |The government cracks down with strict curfews, martial law, and military deployment |
+| 100 |The ever-changing architecture of the city makes navigation difficult. Characters constantly check updated holographic display maps as buildings shift shape |
 
 
 ## Volcanic Planet Encounters -:-:-  64-
 
 
 ### Volcanic Planet Encounters
-
+| d100| Name |
+|:--:|--|
 | 1 |Pyroclastic flow erupts near the party|
 | 2 |Falling boulders|
 | 3 |Lavafalls of several kilometers|
@@ -5012,234 +5040,217 @@ military personnel #2
 ## Cargo Runs #2 -:-:-  73-
 
 |d100|Cargo Run|Employer|Complication|
-:-:|--|--|--|
-
-| 1 |Take 59 metric tons of UNDISCLOSED from Theandrios to Columbus | Employer: Botino (corp) | Complication: During the voyage, scanners detect microscopic organisms escaping from several containers.
-| 2 |Take 54 metric tons of dates/figs/pineapples/mangoes/avocados/guavas from Blackburn to Durango|
-| Employer: Sekar Palmer | Complication: The cargo containers bear the logo of a corporation that recently went out of business.
-| 3 |Take 71 metric tons of self-adhesive plastic in rolls from Warren to Sevastopol | Employer: Shiro Darsten | Complication: Malfunction in the computer mainframe causes the ship to drop out of FTL.
-| 4 |Take 400 metric tons of plastic tubes, pipes, and fittings from Fafnir to Kryvyi Rih | Employer: Oza Sandal Sciences (corp) | Complication: At the destination, the employer informs the party that pickup has been delayed by more than a week.
-| 5 |Take 268 metric tons of nitrogenous fertilizers from Holland to Port Jarvis | Employer: Unknown | Complication: A toxic mold begins spreading from one of the containers to the other sand to the ship.
-| 6 |Take 328 metric tons of synthetic staple fiber woven fabrics from Brady to Deadhorse | Employer: Unknown | Complication: En route, the crew is contacted by someone claiming to be the employer that asks them to reroute to another system.
-| 7 |Take 481 metric tons of nitrile-function compounds from Zoltar to Mexicali | Employer: JenCorp (corp) | Complication: When the vessel arrives at the destination the crew is informed that the planet is under quarantine.
-| 8 |Take 440 metric tons of lead (unwrought) from Santiago to Siegen | Employer: Alys Finley | Complication: The employer insists on riding along for the trip.
-| 9 |Take 214 metric tons of fork-lift trucks from Yurupari to Zurn X | Employer: Neptunus Enterprises (corp) | Complication: Upon arrival at the destination the employer demands the crew unload the cargo by themselves.
-| 10 |Take 243 metric tons of manioc/Jerusalem artichoke/sweet potato roots, and tubers from San Luis Potosí to Ozu Athens | Employer: Agnethe Kirk | Complication: Several containers have the remnants of biohazard symbols on them.
-| 11 |Take 448 metric tons of cobalt from Kiyosu to Sebastopol | Employer: Unknown | Complication: En route scanners pick up the wreckage of a ship floating in space.
-| 12 |Take 87 metric tons of technical apparatus from Burgos to Bhiwandi | Employer: Biomate (corp) | Complication: The cargo turns out to be trafficking victims hidden in the crates.
-| 13 |Take 285 metric tons of UNDISCLOSED from Phoenixia to Vogar Signa | Employer: Orion Jokar | Complication: Random members of the crew awaken in the middle of the night to find themselves in the cargo hold.
-| 14 |Take 524 metric tons of spray/dispersing mechanical appliances from Helix to Chizhou | Employer: Jost Dubois | Complication: Malfunctions in the vessel’s engines cause delays.
-| 15 |Take 356 metric tons of pepper (dried/crushed/ground) from Palladia to Phoenixia | Employer: Neuria (corp) | Complication: One container is shaped radically different than all the rest.
-| 16 |Take 461 metric tons of monument/building stones, and art from Richmond to Vega's Belt | Employer: Irella El-Haddad | Complication: The cargo is too heavy for the loading equipment causing a delayed departure.
-| 17 |Take 34 metric tons of electrical resistors from Luther to Prometheus | Employer: Unknown | Complication: A mysterious woman contacts the crew and offers more money if they take the cargo to her instead of delivering it.
-| 18 |Take 40 metric tons of carnival items and magic tricks from Narvik Poord to New Tasmania | Employer: Hellman Cháng | Complication: Massive solar flare occurs as the ship approaches the destination system.
-| 19 |Take 375 metric tons of UNDISCLOSED from Ermoupoli to Durham Cole | Employer: Neptunetix (corp) | Complication: Several containers seem to bulge out at the sides growing larger during the journey.
-| 20 |Take 213 metric tons of miscellaneous furniture from Lawton Ardmore to Xinyi | Employer: Unknown|
-| Complication: At the destination, the cargo bay door is stuck shut.
-| 21 |Take 55 metric tons of refrigerators and freezers from Uoke to Loki | Employer: Talkbotics (corp) | Complication: En route a dead body is discovered in the cargo.
-| 22 |Take 444 metric tons of plastic tubes, pipes, and fittings from Republic to New Paris | Employer: Datics (corp) | Complication: Docking clap malfunction makes it impossible to offload the cargo until they are repaired.
-| 23 |Take 84 metric tons of miscellaneous machinery from Callahan Zou to Tuli Oti | Employer: Socian Analytics (corp) | Complication: FTL drive malfunction leaves the ship stranded in interstellar space until repairs are done.
-| 24 |Take 217 metric tons of hydrogen and rare gasses from Sükhbaatar to Gnagua KMM | Employer: Sobrantes (corp) | Complication: Sealant leak causes malfunctions in the cargo storage systems.
-| 25 |Take 25 metric tons of material removal machine tools from Excelsior Springs to Shaki Aberdeen | Employer: Mantik (corp) | Complication: The employer claims the shipment is late no matter when it is delivered.
-| 26 |Take 30 metric tons of unmanufactured tobacco and tobacco waste from Belmont Free to Victoria|
-| Employer: Glycloud (corp) | Complication: The ship experiences power fluctuations slowing the journey to the destination.
-| 27 |Take 445 metric tons of liquid/gas checking instruments from Phorbas to Bixby | Employer: Hyeptic (corp) | Complication: Power converter on the fritz causing the voyage to be delayed.
-| 28 |Take 317 metric tons of deburr/sharpen/grind machine tools from Troy to Masi-Manimba | Employer: Intellisphere (corp) | Complication: Self-declared freedom fighters intercept the vessel and demand the cargo.
-| 29 |Take 124 metric tons of UNDISCLOSED from Arcadia to Enyo | Employer: ZeroG Dynamics (corp) | Complication: At the destination a unit of heavily armed soldiers arrives and demands to search the cargo.
-| 30 |Take 175 metric tons of cold-rolled iron or non-alloy steel products from Stavropol to Newcastle | Employer: Zenith Jaafar | Complication: The employer informs the crew at the last moment that four passengers will be coming along for the voyage.
-| 31 |Take 7 metric tons of women's clothing from Chimalhuacán to Inverness Soar | Employer: Richa York | Complication: At the destination, the cargo is subject to a thorough inspection that may take a couple of days.
-| 32 |Take 191 metric tons of printing machinery from Cabeiro to Leto Prime | Employer: Clonix (corp) | Complication: After the bulk of the cargo is loaded another container arrives that looks different than the others.
-| 33 |Take 79 metric tons of hydrogen, and rare gasses from Orozco to Dazhbog | Employer: Bystran Lehmann | Complication: A container leak begins poisoning the vessel’s atmosphere.
-| 34 |Take 99 metric tons of red meat off al from Bellona to Montes Claros | Employer: XenoCorp (corp)|
-| Complication: Regardless of the cargo containers' environmental controls the cargo smells foul.
-| 35 |Take 19 metric tons of electric sound/visual signal bells or alarms from Camden to Waldron | Employer: Chito Corra | Complication: While unloading, a group of bounty hunters arrives looking for the employer.
-| 36 |Take 215 metric tons of spray/dispersing mechanical appliances from Leto Prime to Juazeiro | Employer: Yasuhiro Jasha | Complication: An electromagnetic pulse possibly damages some of the cargo.
-| 37 |Take 87 metric tons of miscellaneous heterocyclics from New Jerusalem to Stavropol | Employer: Kosens (corp) | Complication: One container is vastly heavier than all the rest.
-| 38 |Take 18 metric tons of electromechanical domestic appliances from Lincoln to Bloom Theta | Employer: Minnie Dio | Complication: En route the ship passes through an uncharted dust cloud.
-| 39 |Take 3 metric tons of footwear (textile) from Baza to Edgewater | Employer: Oylstone (corp) | Complication: Microfilament fractures appear in the hull during the voyage.
-| 40 |Take 135 metric tons of non-organic scents used for industrial manufacturing from Otrera to Plutus | Employer: Spiromic (corp) | Complication: A container leak fills the ship with strange odors.
-| 41 |Take 6 metric tons of chemicals used in electronics from Araraquara to Sihui | Employer: Raymond Reynolds | Complication: Cosmic radiation interferes with the ship's systems during the journey.
-| 42 |Take 225 metric tons of UNDISCLOSED from Calypso to Ahone II | Employer: Nerys Riley | Complication: During the voyage, the crew begins having paranoid delusions that seem to always involve the cargo hold in some way.
-| 43 |Take 133 metric tons of piston engine parts from Suur Tõll to New Berlin | Employer: Unknown | Complication: A commando team is hidden within the containers, and while en route, they emerge and try to take over the ship.
-| 44 |Take 10 metric tons of cyclic hydrocarbons from Satara Blud to Granger’s World | Employer: Paquito Zarander | Complication: Strange vapors begin coming from the cargo containers mid-voyage.
-| 45 |Take 423 metric tons of acrylic polymers from Newcastle to Zangilan | Employer: NebulaTech (corp)|
-| Complication: En route, scanners pick up the presence of organisms in the cargo containers.
-| 46 |Take 500 metric tons of saturated acyclic monoacids from Ugajin to Mwaro | Employer: Scaza (corp)|
-| Complication: The arrival of the cargo to the vessel is delayed by 1D4 days.
-| 47 |Take 562 metric tons of molding boxes/base from Rapti to Sheree | Employer: NeoCore (corp) | Complication: One container seems to be making odd noises.
-| 48 |Take 76 metric tons of air or vacuum pumps from Turiacus to Deadhorse | Employer: Unknown | Complication: At the drop point two groups show up and claim ownership of the cargo.
-| 49 |Take 86 metric tons of telecommunication receivers from Nagpur Indigo to Indalo | Employer: Thion Bell | Complication: As the ship enters the destination star system it receives a distress call.
-| 50 |Take 263 metric tons of miscellaneous engines, and motors from Galileo to Manchester | Employer: Unknown | Complication: The crew is contacted by a lawyer stating the cargo actually belongs to a client of theirs.
-| 51 |Take 224 metric tons of palm oil from Mělník to Quirin | Employer: Sarck (corp) | Complication: Scanners indicate the cargo is infested with nanites.
-| 52 |Take 290 metric tons of UNDISCLOSED from Kasenga B to Durango | Employer: Jelan Wilkerson | Complication: The cargo containers seem to rearrange themselves at odd intervals.
-| 53 |Take 5 metric tons of printed books, and brochures from Polemos to Kharkiv | Employer: Ranna Suzuki | Complication: The cargo reeks of filth and the ship's life support has a difficult time filtering the smell.
-| 54 |Take 24 metric tons of whole fish (fresh) from Belzoni Beta to Kaposvár | Employer: Unknown | Complication: At the destination, the crew is told to wait a few days before pick-up can be made.
-| 55 |Take 264 metric tons of UNDISCLOSED from Inverness Soar to Dercetius | Employer: Unknown | Complication: Halfway through the voyage the cargo containers begin melting giving off noxious foams and acid puddles.
-| 56 |Take 512 metric tons of tea (including flavored) from Kilmichael Newton to Rhea IV | Employer: Xi Volkman Inc. (corp) | Complication: The employer also includes several containers that house dog- like animals.
-| 57 |Take 35 metric tons of glass bottles, flasks, jars, and pots from Independence Core to Resheph One|
-| Employer: Krosssystem (corp) | Complication: The ship's life support systems begin to malfunction and the crew needs to stop somewhere close for repairs.
-| 58 |Take 80 metric tons of cases, handbags, and wallets from Turiacus to Ngozi | Employer: Envios (corp)|
-| Complication: The quickest trade route is blocked to political turmoil.
-| 59 |Take 32 metric tons of electric water heaters and hairdryers from Torreón to Kingfisher | Employer: Checo Sarkin | Complication: The spaceport at the destination is backlogged; they say it may take a day or two until the ship can dock.
-| 60 |Take 400 metric tons of precious/semi-precious stones (unstrung) from Queensland Forge to Truman | Employer: Cesaria Ando | Complication: En route scanners pick up a dumped cargo floating in space.
-| 61 |Take 85 metric tons of fresh or chilled beef from Jehanabad to Barling | Employer: Faith Kirk | Complication: Refrigeration units begin to malfunction.
-| 62 |Take 405 metric tons of ball, and roller bearings from Asahi to Queensland Forge | Employer: Vertido (corp) | Complication: Containers break open flooding the vessel with tiny ball bearings.
-| 63 |Take 1 metric ton of oscilloscopes, and spectrum analyzers from Port Elizabeth to Blackwater | Employer: Unknown | Complication: Subharmonic distortion throws the ship off course near a black hole.
-| 64 |Take 431 metric tons of measuring/testing machines from Castalia to Karura | Employer: Chorin (corp) | Complication: An unknown spatial anomaly causes some of the cargo to warp and bend.
-| 65 |Take 37 metric tons of polyacetal/ether/carbonates from Zurn X to Aguascalientes | Employer: Unknown | Complication: Halfway through the journey, the cargo begins to leak.
-| 66 |Take 598 metric tons of polycarboxylic acids from Epiphron to Tyrellia | Employer: Unknown | Complication: Several cargo containers bear the logos of different corporations.
-| 67 |Take 220 metric tons of temperature-change machines from Saint Asaph to New Congo | Employer: Unknown | Complication: Contraband is stashed among the cargo.
-| 68 |Take 509 metric tons of bovine/equine rawhides, and skins from Mami Wata to Rigel IV | Employer: Sobrantes (corp) | Complication: Freak ion cloud blocks most direct trade route.
-| 69 |Take 73 metric tons of wine from Ahone II to Paden Beau | Employer: Sarah Benson | Complication: Space pirates attack while en route.
-| 70 |Take 237 metric tons of apricots, cherries, peaches, nectarines, and plums from Celaeno to Mariupol Prime | Employer: Alastrina Zelaya | Complication: Upon arrival, the crew notices what appears to be mold on some of the cargo.
-| 71 |Take 442 metric tons of computers and optical readers from Stavropol to Richmond Scone | Employer: Emma Bythesea | Complication: Scanners pick up a transmission being sent from somewhere among the cargo.
-| 72 |Take 596 metric tons of UNDISCLOSED from Mengzhou to Xinyi | Employer: Harman Uchida | Complication: Anyone who works near the cargo containers exhibits signs of intoxication.
-| 73 |Take 13 metric tons of electro-medical equipment from Nindara Rim to Bethlehem | Employer: Unknown | Complication: Cargo has tell-tale signs of being stolen.
-| 74 |Take 69 metric tons of phone system devices from Sallis 9 to Eupora | Employer: Unknown | Complication: Strange transmissions are picked up originating from the cargo.
-| 75 |Take 443 metric tons of radioactive chemical elements from Stillwater to Hezuo Six | Employer: Keyan Lài | Complication: The cargo seems to be interfering with the navigational systems.
-| 76 |Take 439 metric tons of coal tar oils from Wuxi El Husseiniya to Marzanna | Employer: Unknown | Complication: The employer inexplicably offers a bonus for "no issues" during the voyage.
-| 77 |Take 53 metric tons of niobium/zirconium ore concentrate from Vincennes 7 to Ioannina | Employer: Paragon (corp) | Complication: The cargo is late arriving at the loading dock throwing off the employer’s timetable.
-| 78 |Take 399 metric tons of medical apparatus from Haldus to Inverness Soar | Employer: Hyperloop Technologies (corp) | Complication: The safest trade route is currently blocked by a comet requiring rerouting through less safe routes.
-| 79 |Take 64 metric tons of processed petroleum oils from York to Wolverhampton | Employer: Tung-mei Daou | Complication: While cargo is being loaded the ship is minorly damaged.
-| 80 |Take 42 metric tons of rough wood from Kasenga B to Book | Employer: Zhang Enterprises (corp) | Complication: Anomalous power signature detected en route.
-| 81 |Take 72 metric tons of perfumes and toilet waters from Fomalhaut II to Jovian VIII | Employer: Unknown | Complication: Cargo manifest blocked by hackers demanding a ransom to release it.
-| 82 |Take 82 metric tons of printed circuits from Draconis to New Trinidad | Employer: Benjamin Atreides|
-| Complication: The employer wishes security robots to accompany the shipment.
-| 83 |Take 263 metric tons of electrical resistors from Amritsar to Orionis | Employer: Helix Enterprises (corp) | Complication: The destination planet is being blockaded by hostile forces.
-| 84 |Take 8 metric tons of chromium ore concentrate from Eilat to Naples | Employer: Anton Conner | Complication: Employer claims to only have half of the original fee available to pay the party.
-| 85 |Take 19 metric tons of platinum (unwrought) from Rapa Nui to Melton | Employer: Waylon Takada | Complication: The employer springs a long list of demands on the crew right at departure.
-| 86 |Take 96 metric tons of blood fractions (including antisera) from Lviv Home to Mělník | Employer: Ritwika Sargent | Complication: Alarms sound signaling the cargo is contaminated.
-| 87 |Take 75 metric tons of SkinBond sutures and special pharmaceutical goods from Lod to Juliette's World | Employer: Unknown | Complication: Several armed guards are to accompany the cargo to the destination.
-| 88 |Take 373 metric tons of men's shirts (not knit or crochet) from Kryvyi Rih to Kasenga B | Employer: Celestial Systems (corp) | Complication: The ship is plagued with a computer virus during the voyage.
-| 89 |Take 17 metric tons of X-ray equipment from Kangiten to Ngozi | Employer: Yingtai Mbadinuju | Complication: En route the ship picks up signals that could be alien in origin.
-| 90 |Take 20 metric tons of ethylene polymers from Sopron to Caesar | Employer: Sabharwal (corp) | Complication: The cargo begins to smoke during the voyage.
-| 91 |Take 97 metric tons of radar and radio communication items from Yangjiang IV to Gangtok | Employer: Unknown | Complication: A heavily-armed vessel approaches the ship and demands they drop any and all cargo or they will be fired upon.
-| 92 |Take 413 metric tons of electrical capacitors from Sirius IX to Valturia | Employer: Unknown | Complication: Scanners pick up what seems to be one container giving off a faint human life sign.
-| 93 |Take 138 metric tons of integrated circuits from Jirkov to Veszprém | Employer: Vizon (corp) | Complication: En route, one of the containers begins to freeze and ice grows on its surface.
-| 94 |Take 237 metric tons of UNDISCLOSED from Guadalupe to Hamilton | Employer: Orion Innovations (corp) | Complication: Once the cargo is brought onboard the crew members experience burning watering eyes for the whole voyage|
-| 95 |Take 131 metric tons of optical fiber cables, sheets, and plates from Dangun to Newcastle | Employer: Cybor Systems (corp) | Complication: During the journey, something breaks out of one cargo container leaving a slimy eggshell behind.
-| 96 |Take 39 metric tons of phenols/phenol-alcohols from Goshen to Nergal | Employer: Lancer Girardon|
-| Complication: The sublight engines overheat while exiting the orbit of the first planet and need to cool before the ship can go FTL.
-| 97 |Take 23 metric tons of malt beer from Monticello to Paarl | Employer: Callista Maruyama | Complication: The FTL drive drops the ship into the middle of an asteroid unexpectedly.
-| 98 |Take 526 metric tons of copper from Pyxis to Xanthe III | Employer: Unknown | Complication: The cargo may be causing interference with the vessel’s magnetic fields or shields.
-| 99 |Take 518 metric tons of malt beer from Vega's Belt to Chasca | Employer: Biobox (corp) | Complication: Tiny drunk humanoid aliens are discovered sloppily singing near one container.
-| 100 |Take 28 metric tons of synthetic yarn and woven fabrics from Malangwa to Nergal | Employer: Adelric Orailus | Complication: Employer demands background checks on all crew members.
+|:-:|--|--|--|
+| 1 |Take 59 metric tons of UNDISCLOSED from Theandrios to Columbus | Botino (corp) | During the voyage, scanners detect microscopic organisms escaping from several container |
+| 2 |Take 54 metric tons of dates/figs/pineapples/mangoes/avocados/guavas from Blackburn to Durango| Sekar Palmer | The cargo containers bear the logo of a corporation that recently went out of business. |
+| 3 |Take 71 metric tons of self-adhesive plastic in rolls from Warren to Sevastopol | Shiro Darsten | Malfunction in the computer mainframe causes the ship to drop out of FT |
+| 4 |Take 400 metric tons of plastic tubes, pipes, and fittings from Fafnir to Kryvyi Rih | Oza Sandal Sciences (corp) | At the destination, the employer informs the party that pickup has been delayed by more than a wee |
+| 5 |Take 268 metric tons of nitrogenous fertilizers from Holland to Port Jarvis | Unknown | A toxic mold begins spreading from one of the containers to the other sand to the shi |
+| 6 |Take 328 metric tons of synthetic staple fiber woven fabrics from Brady to Deadhorse | Unknown | En route, the crew is contacted by someone claiming to be the employer that asks them to reroute to another syste |
+| 7 |Take 481 metric tons of nitrile-function compounds from Zoltar to Mexicali | JenCorp (corp) | When the vessel arrives at the destination the crew is informed that the planet is under quarantin |
+| 8 |Take 440 metric tons of lead (unwrought) from Santiago to Siegen | Alys Finley | The employer insists on riding along for the tri |
+| 9 |Take 214 metric tons of fork-lift trucks from Yurupari to Zurn X | Neptunus Enterprises (corp) | Upon arrival at the destination the employer demands the crew unload the cargo by themselve |
+| 10 |Take 243 metric tons of manioc/Jerusalem artichoke/sweet potato roots, and tubers from San Luis Potosí to Ozu Athens | Agnethe Kirk | Several containers have the remnants of biohazard symbols on the |
+| 11 |Take 448 metric tons of cobalt from Kiyosu to Sebastopol | Unknown | En route scanners pick up the wreckage of a ship floating in spac |
+| 12 |Take 87 metric tons of technical apparatus from Burgos to Bhiwandi | Biomate (corp) | The cargo turns out to be trafficking victims hidden in the crate |
+| 13 |Take 285 metric tons of UNDISCLOSED from Phoenixia to Vogar Signa | Orion Jokar | Random members of the crew awaken in the middle of the night to find themselves in the cargo hol |
+| 14 |Take 524 metric tons of spray/dispersing mechanical appliances from Helix to Chizhou | Jost Dubois | Malfunctions in the vessel’s engines cause delay |
+| 15 |Take 356 metric tons of pepper (dried/crushed/ground) from Palladia to Phoenixia | Neuria (corp) | One container is shaped radically different than all the res |
+| 16 |Take 461 metric tons of monument/building stones, and art from Richmond to Vega's Belt | Irella El-Haddad | The cargo is too heavy for the loading equipment causing a delayed departur |
+| 17 |Take 34 metric tons of electrical resistors from Luther to Prometheus | Unknown | A mysterious woman contacts the crew and offers more money if they take the cargo to her instead of delivering i |
+| 18 |Take 40 metric tons of carnival items and magic tricks from Narvik Poord to New Tasmania | Hellman Cháng | Massive solar flare occurs as the ship approaches the destination syste |
+| 19 |Take 375 metric tons of UNDISCLOSED from Ermoupoli to Durham Cole | Neptunetix (corp) | Several containers seem to bulge out at the sides growing larger during the journe |
+| 20 |Take 213 metric tons of miscellaneous furniture from Lawton Ardmore to Xinyi | Unknown| At the destination, the cargo bay door is stuck shut. |
+| 21 |Take 55 metric tons of refrigerators and freezers from Uoke to Loki | Talkbotics (corp) | En route a dead body is discovered in the carg |
+| 22 |Take 444 metric tons of plastic tubes, pipes, and fittings from Republic to New Paris | Datics (corp) | Docking clap malfunction makes it impossible to offload the cargo until they are repaire |
+| 23 |Take 84 metric tons of miscellaneous machinery from Callahan Zou to Tuli Oti | Socian Analytics (corp) | FTL drive malfunction leaves the ship stranded in interstellar space until repairs are don |
+| 24 |Take 217 metric tons of hydrogen and rare gasses from Sükhbaatar to Gnagua KMM | Sobrantes (corp) | Sealant leak causes malfunctions in the cargo storage system |
+| 25 |Take 25 metric tons of material removal machine tools from Excelsior Springs to Shaki Aberdeen | Mantik (corp) | The employer claims the shipment is late no matter when it is delivere |
+| 26 |Take 30 metric tons of unmanufactured tobacco and tobacco waste from Belmont Free to Victoria| Glycloud (corp) | The ship experiences power fluctuations slowing the journey to the destination. |
+| 27 |Take 445 metric tons of liquid/gas checking instruments from Phorbas to Bixby | Hyeptic (corp) | Power converter on the fritz causing the voyage to be delaye |
+| 28 |Take 317 metric tons of deburr/sharpen/grind machine tools from Troy to Masi-Manimba | Intellisphere (corp) | Self-declared freedom fighters intercept the vessel and demand the carg |
+| 29 |Take 124 metric tons of UNDISCLOSED from Arcadia to Enyo | ZeroG Dynamics (corp) | At the destination a unit of heavily armed soldiers arrives and demands to search the carg |
+| 30 |Take 175 metric tons of cold-rolled iron or non-alloy steel products from Stavropol to Newcastle | Zenith Jaafar | The employer informs the crew at the last moment that four passengers will be coming along for the voyag |
+| 31 |Take 7 metric tons of women's clothing from Chimalhuacán to Inverness Soar | Richa York | At the destination, the cargo is subject to a thorough inspection that may take a couple of day |
+| 32 |Take 191 metric tons of printing machinery from Cabeiro to Leto Prime | Clonix (corp) | After the bulk of the cargo is loaded another container arrives that looks different than the other |
+| 33 |Take 79 metric tons of hydrogen, and rare gasses from Orozco to Dazhbog | Bystran Lehmann | A container leak begins poisoning the vessel’s atmospher |
+| 34 |Take 99 metric tons of red meat off al from Bellona to Montes Claros | XenoCorp (corp)| Regardless of the cargo containers' environmental controls the cargo smells foul. |
+| 35 |Take 19 metric tons of electric sound/visual signal bells or alarms from Camden to Waldron | Chito Corra | While unloading, a group of bounty hunters arrives looking for the employe |
+| 36 |Take 215 metric tons of spray/dispersing mechanical appliances from Leto Prime to Juazeiro | Yasuhiro Jasha | An electromagnetic pulse possibly damages some of the carg |
+| 37 |Take 87 metric tons of miscellaneous heterocyclics from New Jerusalem to Stavropol | Kosens (corp) | One container is vastly heavier than all the res |
+| 38 |Take 18 metric tons of electromechanical domestic appliances from Lincoln to Bloom Theta | Minnie Dio | En route the ship passes through an uncharted dust clou |
+| 39 |Take 3 metric tons of footwear (textile) from Baza to Edgewater | Oylstone (corp) | Microfilament fractures appear in the hull during the voyag |
+| 40 |Take 135 metric tons of non-organic scents used for industrial manufacturing from Otrera to Plutus | Spiromic (corp) | A container leak fills the ship with strange odor |
+| 41 |Take 6 metric tons of chemicals used in electronics from Araraquara to Sihui | Raymond Reynolds | Cosmic radiation interferes with the ship's systems during the journe |
+| 42 |Take 225 metric tons of UNDISCLOSED from Calypso to Ahone II | Nerys Riley | During the voyage, the crew begins having paranoid delusions that seem to always involve the cargo hold in some wa |
+| 43 |Take 133 metric tons of piston engine parts from Suur Tõll to New Berlin | Unknown | A commando team is hidden within the containers, and while en route, they emerge and try to take over the shi |
+| 44 |Take 10 metric tons of cyclic hydrocarbons from Satara Blud to Granger’s World | Paquito Zarander | Strange vapors begin coming from the cargo containers mid-voyag |
+| 45 |Take 423 metric tons of acrylic polymers from Newcastle to Zangilan | NebulaTech (corp)| En route, scanners pick up the presence of organisms in the cargo containers. |
+| 46 |Take 500 metric tons of saturated acyclic monoacids from Ugajin to Mwaro | Scaza (corp)| The arrival of the cargo to the vessel is delayed by 1D4 days. |
+| 47 |Take 562 metric tons of molding boxes/base from Rapti to Sheree | NeoCore (corp) | One container seems to be making odd noise |
+| 48 |Take 76 metric tons of air or vacuum pumps from Turiacus to Deadhorse | Unknown | At the drop point two groups show up and claim ownership of the carg |
+| 49 |Take 86 metric tons of telecommunication receivers from Nagpur Indigo to Indalo | Thion Bell | As the ship enters the destination star system it receives a distress cal |
+| 50 |Take 263 metric tons of miscellaneous engines, and motors from Galileo to Manchester | Unknown | The crew is contacted by a lawyer stating the cargo actually belongs to a client of their |
+| 51 |Take 224 metric tons of palm oil from Mělník to Quirin | Sarck (corp) | Scanners indicate the cargo is infested with nanite |
+| 52 |Take 290 metric tons of UNDISCLOSED from Kasenga B to Durango | Jelan Wilkerson | The cargo containers seem to rearrange themselves at odd interval |
+| 53 |Take 5 metric tons of printed books, and brochures from Polemos to Kharkiv | Ranna Suzuki | The cargo reeks of filth and the ship's life support has a difficult time filtering the smel |
+| 54 |Take 24 metric tons of whole fish (fresh) from Belzoni Beta to Kaposvár | Unknown | At the destination, the crew is told to wait a few days before pick-up can be mad |
+| 55 |Take 264 metric tons of UNDISCLOSED from Inverness Soar to Dercetius | Unknown | Halfway through the voyage the cargo containers begin melting giving off noxious foams and acid puddle |
+| 56 |Take 512 metric tons of tea (including flavored) from Kilmichael Newton to Rhea IV | Xi Volkman Inc. (corp) | The employer also includes several containers that house dog- like animal |
+| 57 |Take 35 metric tons of glass bottles, flasks, jars, and pots from Independence Core to Resheph One| Krosssystem (corp) | The ship's life support systems begin to malfunction and the crew needs to stop somewhere close for repairs. |
+| 58 |Take 80 metric tons of cases, handbags, and wallets from Turiacus to Ngozi | Envios (corp)| The quickest trade route is blocked to political turmoil. |
+| 59 |Take 32 metric tons of electric water heaters and hairdryers from Torreón to Kingfisher | Checo Sarkin | The spaceport at the destination is backlogged; they say it may take a day or two until the ship can doc |
+| 60 |Take 400 metric tons of precious/semi-precious stones (unstrung) from Queensland Forge to Truman | Cesaria Ando | En route scanners pick up a dumped cargo floating in spac |
+| 61 |Take 85 metric tons of fresh or chilled beef from Jehanabad to Barling | Faith Kirk | Refrigeration units begin to malfunctio |
+| 62 |Take 405 metric tons of ball, and roller bearings from Asahi to Queensland Forge | Vertido (corp) | Containers break open flooding the vessel with tiny ball bearing |
+| 63 |Take 1 metric ton of oscilloscopes, and spectrum analyzers from Port Elizabeth to Blackwater | Unknown | Subharmonic distortion throws the ship off course near a black hol |
+| 64 |Take 431 metric tons of measuring/testing machines from Castalia to Karura | Chorin (corp) | An unknown spatial anomaly causes some of the cargo to warp and ben |
+| 65 |Take 37 metric tons of polyacetal/ether/carbonates from Zurn X to Aguascalientes | Unknown | Halfway through the journey, the cargo begins to lea |
+| 66 |Take 598 metric tons of polycarboxylic acids from Epiphron to Tyrellia | Unknown | Several cargo containers bear the logos of different corporation |
+| 67 |Take 220 metric tons of temperature-change machines from Saint Asaph to New Congo | Unknown | Contraband is stashed among the carg |
+| 68 |Take 509 metric tons of bovine/equine rawhides, and skins from Mami Wata to Rigel IV | Sobrantes (corp) | Freak ion cloud blocks most direct trade rout |
+| 69 |Take 73 metric tons of wine from Ahone II to Paden Beau | Sarah Benson | Space pirates attack while en rout |
+| 70 |Take 237 metric tons of apricots, cherries, peaches, nectarines, and plums from Celaeno to Mariupol Prime | Alastrina Zelaya | Upon arrival, the crew notices what appears to be mold on some of the carg |
+| 71 |Take 442 metric tons of computers and optical readers from Stavropol to Richmond Scone | Emma Bythesea | Scanners pick up a transmission being sent from somewhere among the carg |
+| 72 |Take 596 metric tons of UNDISCLOSED from Mengzhou to Xinyi | Harman Uchida | Anyone who works near the cargo containers exhibits signs of intoxicatio |
+| 73 |Take 13 metric tons of electro-medical equipment from Nindara Rim to Bethlehem | Unknown | Cargo has tell-tale signs of being stole |
+| 74 |Take 69 metric tons of phone system devices from Sallis 9 to Eupora | Unknown | Strange transmissions are picked up originating from the carg |
+| 75 |Take 443 metric tons of radioactive chemical elements from Stillwater to Hezuo Six | Keyan Lài | The cargo seems to be interfering with the navigational system |
+| 76 |Take 439 metric tons of coal tar oils from Wuxi El Husseiniya to Marzanna | Unknown | The employer inexplicably offers a bonus for "no issues" during the voyag |
+| 77 |Take 53 metric tons of niobium/zirconium ore concentrate from Vincennes 7 to Ioannina | Paragon (corp) | The cargo is late arriving at the loading dock throwing off the employer’s timetabl |
+| 78 |Take 399 metric tons of medical apparatus from Haldus to Inverness Soar | Hyperloop Technologies (corp) | The safest trade route is currently blocked by a comet requiring rerouting through less safe route |
+| 79 |Take 64 metric tons of processed petroleum oils from York to Wolverhampton | Tung-mei Daou | While cargo is being loaded the ship is minorly damage |
+| 80 |Take 42 metric tons of rough wood from Kasenga B to Book | Zhang Enterprises (corp) | Anomalous power signature detected en rout |
+| 81 |Take 72 metric tons of perfumes and toilet waters from Fomalhaut II to Jovian VIII | Unknown | Cargo manifest blocked by hackers demanding a ransom to release i |
+| 82 |Take 82 metric tons of printed circuits from Draconis to New Trinidad | Benjamin Atreides| The employer wishes security robots to accompany the shipment. |
+| 83 |Take 263 metric tons of electrical resistors from Amritsar to Orionis | Helix Enterprises (corp) | The destination planet is being blockaded by hostile force |
+| 84 |Take 8 metric tons of chromium ore concentrate from Eilat to Naples | Anton Conner | Employer claims to only have half of the original fee available to pay the part |
+| 85 |Take 19 metric tons of platinum (unwrought) from Rapa Nui to Melton | Waylon Takada | The employer springs a long list of demands on the crew right at departur |
+| 86 |Take 96 metric tons of blood fractions (including antisera) from Lviv Home to Mělník | Ritwika Sargent | Alarms sound signaling the cargo is contaminate |
+| 87 |Take 75 metric tons of SkinBond sutures and special pharmaceutical goods from Lod to Juliette's World | Unknown | Several armed guards are to accompany the cargo to the destinatio |
+| 88 |Take 373 metric tons of men's shirts (not knit or crochet) from Kryvyi Rih to Kasenga B | Celestial Systems (corp) | The ship is plagued with a computer virus during the voyag |
+| 89 |Take 17 metric tons of X-ray equipment from Kangiten to Ngozi | Yingtai Mbadinuju | En route the ship picks up signals that could be alien in origi |
+| 90 |Take 20 metric tons of ethylene polymers from Sopron to Caesar | Sabharwal (corp) | The cargo begins to smoke during the voyag |
+| 91 |Take 97 metric tons of radar and radio communication items from Yangjiang IV to Gangtok | Unknown | A heavily-armed vessel approaches the ship and demands they drop any and all cargo or they will be fired upo |
+| 92 |Take 413 metric tons of electrical capacitors from Sirius IX to Valturia | Unknown | Scanners pick up what seems to be one container giving off a faint human life sig |
+| 93 |Take 138 metric tons of integrated circuits from Jirkov to Veszprém | Vizon (corp) | En route, one of the containers begins to freeze and ice grows on its surfac |
+| 94 |Take 237 metric tons of UNDISCLOSED from Guadalupe to Hamilton | Orion Innovations (corp) | Once the cargo is brought onboard the crew members experience burning watering eyes for the whole voyage|
+| 95 |Take 131 metric tons of optical fiber cables, sheets, and plates from Dangun to Newcastle | Cybor Systems (corp) | During the journey, something breaks out of one cargo container leaving a slimy eggshell behin |
+| 96 |Take 39 metric tons of phenols/phenol-alcohols from Goshen to Nergal | Lancer Girardon| The sublight engines overheat while exiting the orbit of the first planet and need to cool before the ship can go FTL. |
+| 97 |Take 23 metric tons of malt beer from Monticello to Paarl | Callista Maruyama | The FTL drive drops the ship into the middle of an asteroid unexpectedl |
+| 98 |Take 526 metric tons of copper from Pyxis to Xanthe III | Unknown | The cargo may be causing interference with the vessel’s magnetic fields or shield |
+| 99 |Take 518 metric tons of malt beer from Vega's Belt to Chasca | Biobox (corp) | Tiny drunk humanoid aliens are discovered sloppily singing near one containe |
+| 100 |Take 28 metric tons of synthetic yarn and woven fabrics from Malangwa to Nergal | Adelric Orailus | Employer demands background checks on all crew member |
 
 ### Cargo Runs #2
 
 
-| 1 |Take 441 metric tons of orthopedic appliances from Rongomai to Querétaro | Employer: Kang Starlight | Complication: The employer slyly indicates there will be a bonus if the first contact at the destination spaceport had an accident.
-| 2 |Take 372 metric tons of mattresses, and quilts from Epsilon Hydrae to Gilgamesh | Employer: Unknown | Complication: At the destination, the party is informed that customs inspections will take at least 1D20 days to complete.
-| 3 |Take 27 metric tons of zinc (unwrought) from Osasco to Giyani | Employer: Unknown | Complication: A vessel arrives before the ship reaches the planet and requests the cargo be given to them.
-| 4 |Take 512 metric tons of radar, and radio communication items from Loki to Jorvik | Employer: Starburst Corp (corp) | Complication: When the party takes possession of the cargo some items are missing (at least according to the manifest).
-| 5 |Take 4 metric tons of plastic tile or roll coverings from Luhansk to Hannibal | Employer: Crisanta Randall | Complication: When the ship arrives at the destination, the spaceport informs them a problem with the docking bays will prevent them from landing for several hours.
-| 6 |Take 56 metric tons of medical apparatus from Shullat to Zaba Omicron | Employer: Milana Simpson|
-| Complication: After exiting FTL the crew notices space leeches attached to the hull chewing on the power cables.
-| 7 |Take 15 metric tons of centrifuges, filters, and purifiers from Cromia H to Coatl | Employer: CosmicDrive Corp (corp) | Complication: A medical team of 1D6 individuals is required to accompany the cargo.
-| 8 |Take 516 metric tons of t-shirts, and vests (knit or crochet) from Aglaurus to Querétaro | Employer: SkyLink Corp (corp) | Complication: Tiny insects seem to be emerging from the crates during the voyage.
-| 9 |Take 43 metric tons of uncoated paper for writing/printing from Admetus to Kroonstad | Employer: Ayo Jouret | Complication: Upon arrival, a spaceport official demands a bribe before allowing the ship to unload.
-| 10 |Take 175 metric tons of rough wood from Cabot to Fomalhaut B | Employer: FutureScape (corp) | Complication: one of the cargo containers has an outline of a person seemingly burned onto the surface.
-| 11 |Take 354 metric tons of UNDISCLOSED from Whirlwind to Quandor | Employer: Unknown | Complication: The crew members who helped load the cargo report hearing voices.
-| 12 |Take 560 metric tons of UNDISCLOSED from Lysithea to Ponce de Leon | Employer: Darian Fujii | Complication: Shortly after departure the crew becomes ill with the symptoms worsening as the voyage continues.
-| 13 |Take 219 metric tons of insulated wire/cable from Medaurus to Novosibirsk | Employer: Desiraye Gōng | Complication: Radiation interferes with the ship’s controls as they approach the destination.
-| 14 |Take 41 metric tons of synthetic staple fiber and woven fabrics from Troth 10 to Nanterre | Employer: Xi Volkman Inc. (corp) | Complication: It is discovered that the cargo is infested with fleas.
-| 15 |Take 41 metric tons of printed books, and brochures from Utopia Minor to Watatsumi | Employer: Beka Estrella | Complication: At the destination, the authorities claim the cargo is contraband.
-| 16 |Take 36 metric tons of video receivers/monitors/projectors from Kirksville to Sardis | Employer: Unknown | Complication: The employer demands a complex contract be signed, but oddly, their name or organization is not named.
-| 17 |Take 65 metric tons of rice from Bunker Hill to Polymatheia | Employer: Charles Narweld | Complication: A stowaway is found hiding in the cargo.
-| 18 |Take 235 metric tons of UNDISCLOSED from Mexicali to Mantus Grove | Employer: Biomate (corp) | Complication: The crew has intense nightmares during the voyage.
-| 19 |Take 408 metric tons of liquid/gas checking instruments from Paden Beau to Iota Centauri | Employer: Azriel Ueno | Complication: An advanced military robot is secretly stored among the cargo.
-| 20 |Take 281 metric tons of chemical industry products/residuals from Aernus to Vasco | Employer: Unknown | Complication: A spaceport worker demands a rather steep "permit fee."
-| 21 |Take 132 metric tons of nitrile-function compounds from Kilmichael Newton to Freeport | Employer: Gappo Mantisa | Complication: En route, a fire breaks out on the ship.
-| 22 |Take 363 metric tons of lower-voltage switches, and fuses from Ymir to Hammerfest | Employer: Hyperspace Technologies (corp) | Complication: A rogue law enforcement vessel demands the cargo be turned over to them.
-| 23 |Take 98 metric tons of electric sound/visual signal bells or alarms from Elba Seven to Graveyard | Employer: Dazolytics (corp) | Complication: En route the employer contacts the vessel and asks for more information about their vessel and their crew.
-| 24 |Take 89 metric tons of mechano-therapy appliances from Arkhangai to Sabus Prime | Employer: Rajadhi Ravine | Complication: Several technicians need to ride along to ensure the cargo is safe during transport.
-| 25 |Take 14 metric tons of computer parts, and accessories from Melton to Colcapirhua | Employer: Unknown | Complication: Ion storm slows ship's arrival.
-| 26 |Take 38 metric tons of cast/rolled glass in sheets from Mostoles to Aetolia | Employer: Garen Devillers|
-| Complication: An unconscious man is found in a cargo container en route.
-| 27 |Take 584 metric tons of connector/insulating parts from Giyani to Vincennes 7 | Employer: Devconic (corp) | Complication: A tranquilized animal hooked to life support is discovered during the voyage.
-| 28 |Take 103 metric tons of connector/insulating parts from Horagalles to Sundstrom | Employer: Unknown | Complication: Strange heat readings begin emanating from the cargo bay about halfway through the voyage.
-| 29 |Take 365 metric tons of non-sublimed sulfur from Jacobson to Myrmidon | Employer: Starlight Enterprises (corp) | Complication: The employer demands a strict timetable for delivery.
-| 30 |Take 230 metric tons of synthetic rubber from Tianshui to Xerxes | Employer: Intergalactic Industries (corp) | Complication: Bioluminescent vines begin growing out of several of the cargo containers.
-| 31 |Take 218 metric tons of men's suits, and trousers (not knit or crochet) from Old Odessa to Eurydice | Employer: Unknown | Complication: Internal scanners do not register several containers.
-| 32 |Take 335 metric tons of amino-compounds (oxygen) from Huntington to Colcapirhua | Employer: Ecoqa (corp) | Complication: En route space pirates attack the vessel.
-| 33 |Take 31 metric tons of transmission shafts, gears, and clutches from Gibil to Ares Lusitani | Employer: Thabo Graham | Complication: The officials receiving the goods refuse to pay you until you can perform a certain "Closing the Deal" ceremony.
-| 34 |Take 300 metric tons of aircraft parts from Veszprém to Bolivar | Employer: Bytetrics (corp) | Complication: Hidden among the cargo is a crate of illegal drugs.
-| 35 |Take 384 metric tons of electric motors, and generators from Muisca to Nekros | Employer: Unknown|
-| Complication: A young girl is found living in one of the containers.
-| 36 |Take 511 metric tons of prepared adhesives, and glues from Ioannina to Quantum | Employer: Unknown | Complication: At the destination spaceport officials demand extremely high docking fees.
-| 37 |Take 33 metric tons of clothing accessories from Komotini to Moruya | Employer: Ereen Mohandai | Complication: One of the cargo containers begins beeping during the voyage.
-| 38 |Take 72 metric tons of pig iron from Erebus to Rapti | Employer: Patel Abe Ltd (corp) | Complication: Capacitor explosion opens the cargo bay to space.
-| 39 |Take 104 metric tons of plastic packing goods, lids, and caps from Montoro to Bat Yam | Employer: Pytman Dirotta (corp) | Complication: Sabotage slows the delivery of the cargo.
-| 40 |Take 13 metric tons of amino-resins from Gaia to Cerberus | Employer: Unknown | Complication: FTL drive malfunction causes the ship to arrive at the wrong destination.
-| 41 |Take 98 metric tons of chocolate, and other cocoa preparations from Holland to Trondheim | Employer: Cira Sallaros | Complication: The cargo owner asks for a reference.
-| 42 |Take 447 metric tons of copper waste and scrap from Port Jarvis to Malangwa | Employer: Unknown|
-| Complication: Some unknown spores are detected in several cargo containers.
-| 43 |Take 21 metric tons of tea (including flavored) from Mirandela to Elba Seven | Employer: Galvanysm (corp) | Complication: The employer demands a strict timetable for delivery.
-| 44 |Take 127 metric tons of UNDISCLOSED from Zaba Omicron to Parys | Employer: Unknown | Complication: The crew seems to grow fond of the cargo containers and feel the urge not to part with them.
-| 45 |Take 432 metric tons of zinc (unwrought) from Sabus Prime to Gibil | Employer: Malcolm Yen | Complication: Interstellar turbulence causes the containers to break loose and tumble about the cargo hold.
-| 46 |Take 476 metric tons of cotton from Narvik Poord to Laurits | Employer: Unknown | Complication: The shipment is late arriving at the loading dock and then a long customs search beings.
-| 47 |Take 447 metric tons of machinery for making semiconductors from San Borja to Yangjiang IV | Employer: Humake (corp) | Complication: A customs frigate intercepts the vessel and demands a full cargo manifest.
-| 48 |Take 111 metric tons of iron and steel screws, bolts, nuts, and washers from Bixby to Rapti | Employer: Novacore (corp) | Complication: Upon arrival at the destination the crew is told the receiver is refusing the shipment.
-| 49 |Take 353 metric tons of medicinal plants from Bloom Theta to Montreuil | Employer: SpaceCore (corp) | Complication: Strict containment and preservation methods are needed delaying departure.
-| 50 |Take 446 metric tons of amine-function compounds from Ludhiana Four to Galveston Prime | Employer: Unknown | Complication: An uncharted gravity well throws the ship off course.
-| 51 |Take 101 metric tons of saturated acyclic monoacids from Tansen Alpha to Tlalnepantla | Employer: Unknown | Complication: The cargo containers look as though they could be from a hijacked ship the crew has recently heard about.
-| 52 |Take 218 metric tons of printing machinery from Soto to Freedom | Employer: Maverick Ferral | Complication: The cargo owner wants a background check on the ship.
-| 53 |Take 88 metric tons of lignite from New Roubaix to Ghorahi | Employer: Michael Abe | Complication: Weapons are discovered hidden in the cargo.
-| 54 |Take 11 metric tons of synthetic organic coloring from Jacobson to Anshun Saint Francis | Employer: Jarvis Koroban | Complication: Several cargo containers are damaged during loading.
-| 55 |Take 134 metric tons of t-shirts, and vests from Eupora to Manchester | Employer: Urocyte (corp) | Complication: En route scanners pick up a derelict vessel.
-| 56 |Take 10 metric tons of polyacetal/ether/carbonates from Otrera to Guadalupe | Employer: Anja Synn|
-| Complication: En route, there is an explosion in the cargo bay.
-| 57 |Take 392 metric tons of dates/figs/pineapples/mangoes/avocados/guavas from Lysandra to Jehanabad | Employer: Brandon Liao | Complication: En route, the vessel’s cargo hold begins to heat up due to malfunctioning equipment threatening the cargo.
-| 58 |Take 214 metric tons of coal tar oils (high-temperature distillation) from Dercetius to Meerut | Employer: Aliura Chiba | Complication: Law enforcement officials insist on riding along on the journey.
-| 59 |Take 43 metric tons of electric storage batteries from Ishwarpur 11 to Saint Paul | Employer: Balthazar Lài | Complication: Several containers begin corroding during the journey.
-| 60 |Take 402 metric tons of refrigerators and freezers from Teresina to Bloom Theta | Employer: Nextronic (corp) | Complication: A corporate representative escorts the cargo, but during the voyage they barrick themselves into the cargo hold.
-| 61 |Take 159 metric tons of hot-rolled iron or non-alloy steel products from Jovian XI to Balboa | Employer: Galaxion Labs (corp) | Complication: One of the containers appears to be magnetized as metal objects stick to it often.
-| 62 |Take 26 metric tons of spaceship parts from Bone Gap to Argenteuil | Employer: Meirong Murakami|
-| Complication: When the cargo manifest is plugged into the ship an AI "ghost" slips into the ship’s computer.
-| 63 |Take 98 metric tons of temperature-change machines from Creve Coeur to Ursa Minoris II | Employer: Thomas, Wang, And Schoeder (corp) | Complication: Spaceport red tape delays departure.
-| 64 |Take 9 metric tons of ketones, and quinones from Vilbus to Phalaborwa | Employer: Mosi Tāng | Complication: A space creature thinks the ship is cute and wants to cuddle.
-| 65 |Take 64 metric tons of diagnostic/lab reagents from Yggdrasil II to Yurupari | Employer: Paragon (corp) | Complication: Gravitation wave distortions cause a delay in delivery.
-| 66 |Take 16 metric tons of gold (unwrought) from Logansport to Ugajin | Employer: Xanatos Matsui | Complication: Neutrino surge causes the ship to lose several days on the voyage.
-| 67 |Take 135 metric tons of physical/chemical analysis tools from Watatsumi to Triuq H71 | Employer: Unknown | Complication: If there is the slightest problem with the delivery, the employer puts out a low bounty on the ship.
-| 68 |Take 52 metric tons of silver (unwrought) from Culiacán to Eustis | Employer: Unknown | Complication: Upon arriving at the destination, the party learns that the cargo was reported stolen.
-| 69 |Take 392 metric tons of gold (unwrought) from Zunhua Tieli to Dhul Khalasa | Employer: Unknown | Complication: A number of individuals seem to be unnecessarily hanging around while the cargo is being loaded.
-| 70 |Take 202 metric tons of hydraulic cement from Abercromby to New Kolkata | Employer: Unknown | Complication: Navigation computer virus throws the vessel off course.
-| 71 |Take 102 metric tons of UNDISCLOSED from Quandor to Phorbas | Employer: Hyperion Enterprises (corp) | Complication: As the journey progresses the crew grows more and more irrationally afraid of the cargo hold.
-| 72 |Take 61 metric tons of palm oil from Abercromby to New Kolkata | Employer: Beatriz Powell | Complication: En route the ship is stopped by officials who wish to search the cargo.
-| 73 |Take 22 metric tons of men's shirts from Bloemfontein to Theandrios | Employer: Mukesh Sett | Complication: Fuel containment breach floods part of the cargo bay with the engine fuel.
-| 74 |Take 342 metric tons of lifting/loading machinery from Oceania II to Fraxinus | Employer: Galvanysm (corp) | Complication: Upon arrival at the destination the group receiving the cargo insists one container is missing.
-| 75 |Take 77 metric tons of lamps, lighting, and illuminated signs from Kafr Saqr to Dronoe 0F2 | Employer: Diginano (corp) | Complication: The loading crew was extremely careless and bashed and dropped the containers multiple times.
-| 76 |Take 39 metric tons of UNDISCLOSED from Anshun Saint Francis to Leipzig | Employer: Unknown | Complication: The crew develops odd compulsive behaviors during the voyage.
-| 77 |Take 552 metric tons of UNDISCLOSED from Queensland Forge to Icarus Prime | Employer: Torin Narweld | Complication: As soon as the cargo is brought on board the crew begins having trouble sleeping.
-| 78 |Take 12 metric tons of chemical wood pulp from Birgunj to Sturgis | Employer: Zenobius Akintola | Complication: While traveling FTL, the ship receives a distress call.
-| 79 |Take 154 metric tons of lead (unwrought) from Chimalhuacán to Draconis | Employer: Geotactyc (corp) | Complication: A corporate agent is required to ride along.
-| 80 |Take 63 metric tons of metal-working machinery from Taishan to Brandýs | Employer: Ketha Azikiwe|
-| Complication: During the voyage, the cargo breaks loose from the restraints causing some of it to be damaged.
-| 81 |Take 442 metric tons of niobium/zirconium ores concentrate from Sardis to Xalax | Employer: Gutierre Callahan | Complication: The vessel is attacked by an unknown ship.
-| 82 |Take 548 metric tons of UNDISCLOSED from Hwange to Torreón | Employer: Ethery (corp) | Complication: Distortion fields seemingly emanating from the cargo hold disrupt the vessel’s controls.
-| 83 |Take 492 metric tons of crude oil from Tlalnepantla to Hermosillo | Employer: Anuradha Murakami | Complication: Cosmic radiation bursts slow the vessel’s speed.
-| 84 |Take 377 metric tons of cobalt from Luminor to Trondheim | Employer: Lurnco (corp) | Complication: At the destination, people show up to collect the cargo but they do not seem to know what the cargo is.
-| 85 |Take 74 metric tons of printed circuits from Celaeno to Waralden Olmai | Employer: Kriemhild Sol | Complication: Before the ship can embark, a group of officials show up and say they need to commandeer the ship to fight in a war.
-| 86 |Take 56 metric tons of chocolate and other cocoa preparations from Eurythmia to Shango | Employer: Unknown | Complication: The cargo containers have a systematic temperature control malfunction.
-| 87 |Take 2 metric tons of diamonds (unmounted/unset) from Duberdicus to Aihayuta | Employer: Lurnco (corp) | Complication: A spaceport official let it slip that a valuable cargo was shipping out and now lots of unsavory characters are snooping the landing bay.
-| 88 |Take 500 metric tons of potassic fertilizers from Daphne to Sainshand | Employer: Metatrex (corp) | Complication: En route the lights throughout the ship go out.
-| 89 |Take 26 metric tons of electromechanical domestic appliances from Vega Prime to Izanagi Seven | Employer: Unknown | Complication: A container breaks open during the voyage, spilling out illegal drugs.
-| 90 |Take 51 metric tons of fuelwood, wood chips, and sawdust from Akureyri to Odendaalsrus | Employer: Unknown | Complication: The ship passes through a micro-meteor shower shortly after takeoff.
-| 91 |Take 102 metric tons of miscellaneous fresh/chilled vegetables from Selvans to Liuzhou | Employer: Unknown | Complication: Neutronium flow collector malfunction causes the ship to be unable to take off after the cargo is loaded.
-| 92 |Take 216 metric tons of styrene polymers from Oneiros to Kueyen | Employer: Diginano (corp) | Complication: The cargo is a day late being delivered.
-| 93 |Take 62 metric tons of organic chemicals from Yangchun to Priapus | Employer: Lukagm Osborn | Complication: During loading a gang attacks the docking bay.
-| 94 |Take 50 metric tons of iron and steel screws, bolts, nuts, and washers from Sheree to Durham Cole|
-| Employer: Unknown | Complication: An ion-charged ray strikes the ship during the voyage causing widespread system failures.
-| 95 |Take 244 metric tons of computer parts and accessories from Mongo Lai to Blackwater | Employer: Varian Jafari | Complication: Groaning noises seem to be coming from one container.
-| 96 |Take 100 metric tons of refined copper, unwrought alloys from Creve Coeur to Lion's Den | Employer: Auren Ono | Complication: When the ship arrives at the destination the crew is surprised to find they are expected to pay a docking fee.
-| 97 |Take 167 metric tons of rice from Tyrellia to Borealis | Employer: Unknown | Complication: The cargo seems to be infested with rats.
-| 98 |Take 130 metric tons of manganese ore concentrate from Aita to Epworth | Employer: Procket (corp)|
-| Complication: Cosmic rays interfere with the ship's artificial gravity generators.
-| 99 |Take 525 metric tons of liquid crystal/laser/optical tools from York to Xanadu | Employer: Jessamy Kwan | Complication: During loading, there is an accident and the spaceport holds the vessel for 1D8 days to investigate.
-| 100 |Take 15 metric tons of lower-voltage switches, and fuses from New Hong Kong to Americana | Employer: Sensejet (corp) | Complication: A rival freighter follows the ship and tries to cause trouble because they missed out on the job.
+| d100| Cargo Run | Employer |Complication|
+|:--:|--| -- | -- |
+| 1 | Take 441 metric tons of orthopedic appliances from Rongomai to Querétaro | Kang Starlight | The employer slyly indicates there will be a bonus if the first contact at the destination spaceport had an acciden |
+| 2 |Take 372 metric tons of mattresses, and quilts from Epsilon Hydrae to Gilgamesh | Unknown | At the destination, the party is informed that customs inspections will take at least 1D20 days to complet |
+| 3 |Take 27 metric tons of zinc (unwrought) from Osasco to Giyani | Unknown | A vessel arrives before the ship reaches the planet and requests the cargo be given to the |
+| 4 |Take 512 metric tons of radar, and radio communication items from Loki to Jorvik | Starburst Corp (corp) | When the party takes possession of the cargo some items are missing (at least according to the manifest). |
+| 5 |Take 4 metric tons of plastic tile or roll coverings from Luhansk to Hannibal | Crisanta Randall | When the ship arrives at the destination, the spaceport informs them a problem with the docking bays will prevent them from landing for several hour |
+| 6 |Take 56 metric tons of medical apparatus from Shullat to Zaba Omicron | Milana Simpson| After exiting FTL the crew notices space leeches attached to the hull chewing on the power cables. |
+| 7 |Take 15 metric tons of centrifuges, filters, and purifiers from Cromia H to Coatl | CosmicDrive Corp (corp) | A medical team of 1D6 individuals is required to accompany the carg |
+| 8 |Take 516 metric tons of t-shirts, and vests (knit or crochet) from Aglaurus to Querétaro | SkyLink Corp (corp) | Tiny insects seem to be emerging from the crates during the voyag |
+| 9 |Take 43 metric tons of uncoated paper for writing/printing from Admetus to Kroonstad | Ayo Jouret | Upon arrival, a spaceport official demands a bribe before allowing the ship to unloa |
+| 10 |Take 175 metric tons of rough wood from Cabot to Fomalhaut B | FutureScape (corp) | one of the cargo containers has an outline of a person seemingly burned onto the surfac |
+| 11 |Take 354 metric tons of UNDISCLOSED from Whirlwind to Quandor | Unknown | The crew members who helped load the cargo report hearing voice |
+| 12 |Take 560 metric tons of UNDISCLOSED from Lysithea to Ponce de Leon | Darian Fujii | Shortly after departure the crew becomes ill with the symptoms worsening as the voyage continue |
+| 13 |Take 219 metric tons of insulated wire/cable from Medaurus to Novosibirsk | Desiraye Gōng | Radiation interferes with the ship’s controls as they approach the destinatio |
+| 14 |Take 41 metric tons of synthetic staple fiber and woven fabrics from Troth 10 to Nanterre | Xi Volkman Inc. (corp) | It is discovered that the cargo is infested with flea |
+| 15 |Take 41 metric tons of printed books, and brochures from Utopia Minor to Watatsumi | Beka Estrella | At the destination, the authorities claim the cargo is contraban |
+| 16 |Take 36 metric tons of video receivers/monitors/projectors from Kirksville to Sardis | Unknown | The employer demands a complex contract be signed, but oddly, their name or organization is not name |
+| 17 |Take 65 metric tons of rice from Bunker Hill to Polymatheia | Charles Narweld | A stowaway is found hiding in the carg |
+| 18 |Take 235 metric tons of UNDISCLOSED from Mexicali to Mantus Grove | Biomate (corp) | The crew has intense nightmares during the voyag |
+| 19 |Take 408 metric tons of liquid/gas checking instruments from Paden Beau to Iota Centauri | Azriel Ueno | An advanced military robot is secretly stored among the carg |
+| 20 |Take 281 metric tons of chemical industry products/residuals from Aernus to Vasco | Unknown | A spaceport worker demands a rather steep "permit fee."|
+| 21 |Take 132 metric tons of nitrile-function compounds from Kilmichael Newton to Freeport | Gappo Mantisa | En route, a fire breaks out on the shi |
+| 22 |Take 363 metric tons of lower-voltage switches, and fuses from Ymir to Hammerfest | Hyperspace Technologies (corp) | A rogue law enforcement vessel demands the cargo be turned over to the |
+| 23 |Take 98 metric tons of electric sound/visual signal bells or alarms from Elba Seven to Graveyard | Dazolytics (corp) | En route the employer contacts the vessel and asks for more information about their vessel and their cre |
+| 24 |Take 89 metric tons of mechano-therapy appliances from Arkhangai to Sabus Prime | Rajadhi Ravine | Several technicians need to ride along to ensure the cargo is safe during transpor |
+| 25 |Take 14 metric tons of computer parts, and accessories from Melton to Colcapirhua | Unknown | Ion storm slows ship's arriva |
+| 26 |Take 38 metric tons of cast/rolled glass in sheets from Mostoles to Aetolia | Garen Devillers| An unconscious man is found in a cargo container en route. |
+| 27 |Take 584 metric tons of connector/insulating parts from Giyani to Vincennes 7 | Devconic (corp) | A tranquilized animal hooked to life support is discovered during the voyag |
+| 28 |Take 103 metric tons of connector/insulating parts from Horagalles to Sundstrom | Unknown | Strange heat readings begin emanating from the cargo bay about halfway through the voyag |
+| 29 |Take 365 metric tons of non-sublimed sulfur from Jacobson to Myrmidon | Starlight Enterprises (corp) | The employer demands a strict timetable for deliver |
+| 30 |Take 230 metric tons of synthetic rubber from Tianshui to Xerxes | Intergalactic Industries (corp) | Bioluminescent vines begin growing out of several of the cargo container |
+| 31 |Take 218 metric tons of men's suits, and trousers (not knit or crochet) from Old Odessa to Eurydice | Unknown | Internal scanners do not register several container |
+| 32 |Take 335 metric tons of amino-compounds (oxygen) from Huntington to Colcapirhua | Ecoqa (corp) | En route space pirates attack the vesse |
+| 33 |Take 31 metric tons of transmission shafts, gears, and clutches from Gibil to Ares Lusitani | Thabo Graham | The officials receiving the goods refuse to pay you until you can perform a certain "Closing the Deal" ceremon |
+| 34 |Take 300 metric tons of aircraft parts from Veszprém to Bolivar | Bytetrics (corp) | Hidden among the cargo is a crate of illegal drug |
+| 35 |Take 384 metric tons of electric motors, and generators from Muisca to Nekros | Unknown| A young girl is found living in one of the containers. |
+| 36 |Take 511 metric tons of prepared adhesives, and glues from Ioannina to Quantum | Unknown | At the destination spaceport officials demand extremely high docking fee |
+| 37 |Take 33 metric tons of clothing accessories from Komotini to Moruya | Ereen Mohandai | One of the cargo containers begins beeping during the voyag |
+| 38 |Take 72 metric tons of pig iron from Erebus to Rapti | Patel Abe Ltd (corp) | Capacitor explosion opens the cargo bay to spac |
+| 39 |Take 104 metric tons of plastic packing goods, lids, and caps from Montoro to Bat Yam | Pytman Dirotta (corp) | Sabotage slows the delivery of the carg |
+| 40 |Take 13 metric tons of amino-resins from Gaia to Cerberus | Unknown | FTL drive malfunction causes the ship to arrive at the wrong destinatio |
+| 41 |Take 98 metric tons of chocolate, and other cocoa preparations from Holland to Trondheim | Cira Sallaros | The cargo owner asks for a referenc |
+| 42 |Take 447 metric tons of copper waste and scrap from Port Jarvis to Malangwa | Unknown| Some unknown spores are detected in several cargo containers. |
+| 43 |Take 21 metric tons of tea (including flavored) from Mirandela to Elba Seven | Galvanysm (corp) | The employer demands a strict timetable for deliver |
+| 44 |Take 127 metric tons of UNDISCLOSED from Zaba Omicron to Parys | Unknown | The crew seems to grow fond of the cargo containers and feel the urge not to part with the |
+| 45 |Take 432 metric tons of zinc (unwrought) from Sabus Prime to Gibil | Malcolm Yen | Interstellar turbulence causes the containers to break loose and tumble about the cargo hol |
+| 46 |Take 476 metric tons of cotton from Narvik Poord to Laurits | Unknown | The shipment is late arriving at the loading dock and then a long customs search being |
+| 47 |Take 447 metric tons of machinery for making semiconductors from San Borja to Yangjiang IV | Humake (corp) | A customs frigate intercepts the vessel and demands a full cargo manifes |
+| 48 |Take 111 metric tons of iron and steel screws, bolts, nuts, and washers from Bixby to Rapti | Novacore (corp) | Upon arrival at the destination the crew is told the receiver is refusing the shipmen |
+| 49 |Take 353 metric tons of medicinal plants from Bloom Theta to Montreuil | SpaceCore (corp) | Strict containment and preservation methods are needed delaying departur |
+| 50 |Take 446 metric tons of amine-function compounds from Ludhiana Four to Galveston Prime | Unknown | An uncharted gravity well throws the ship off cours |
+| 51 |Take 101 metric tons of saturated acyclic monoacids from Tansen Alpha to Tlalnepantla | Unknown | The cargo containers look as though they could be from a hijacked ship the crew has recently heard abou |
+| 52 |Take 218 metric tons of printing machinery from Soto to Freedom | Maverick Ferral | The cargo owner wants a background check on the shi |
+| 53 |Take 88 metric tons of lignite from New Roubaix to Ghorahi | Michael Abe | Weapons are discovered hidden in the carg |
+| 54 |Take 11 metric tons of synthetic organic coloring from Jacobson to Anshun Saint Francis | Jarvis Koroban | Several cargo containers are damaged during loadin |
+| 55 |Take 134 metric tons of t-shirts, and vests from Eupora to Manchester | Urocyte (corp) | En route scanners pick up a derelict vesse |
+| 56 |Take 10 metric tons of polyacetal/ether/carbonates from Otrera to Guadalupe | Anja Synn| En route, there is an explosion in the cargo bay. |
+| 57 |Take 392 metric tons of dates/figs/pineapples/mangoes/avocados/guavas from Lysandra to Jehanabad | Brandon Liao | En route, the vessel’s cargo hold begins to heat up due to malfunctioning equipment threatening the carg |
+| 58 |Take 214 metric tons of coal tar oils (high-temperature distillation) from Dercetius to Meerut | Aliura Chiba | Law enforcement officials insist on riding along on the journe |
+| 59 |Take 43 metric tons of electric storage batteries from Ishwarpur 11 to Saint Paul | Balthazar Lài | Several containers begin corroding during the journe |
+| 60 |Take 402 metric tons of refrigerators and freezers from Teresina to Bloom Theta | Nextronic (corp) | A corporate representative escorts the cargo, but during the voyage they barrick themselves into the cargo hol |
+| 61 |Take 159 metric tons of hot-rolled iron or non-alloy steel products from Jovian XI to Balboa | Galaxion Labs (corp) | One of the containers appears to be magnetized as metal objects stick to it ofte |
+| 62 |Take 26 metric tons of spaceship parts from Bone Gap to Argenteuil | Meirong Murakami| When the cargo manifest is plugged into the ship an AI "ghost" slips into the ship’s computer. |
+| 63 |Take 98 metric tons of temperature-change machines from Creve Coeur to Ursa Minoris II | Thomas, Wang, And Schoeder (corp) | Spaceport red tape delays departur |
+| 64 |Take 9 metric tons of ketones, and quinones from Vilbus to Phalaborwa | Mosi Tāng | A space creature thinks the ship is cute and wants to cuddl |
+| 65 |Take 64 metric tons of diagnostic/lab reagents from Yggdrasil II to Yurupari | Paragon (corp) | Gravitation wave distortions cause a delay in deliver |
+| 66 |Take 16 metric tons of gold (unwrought) from Logansport to Ugajin | Xanatos Matsui | Neutrino surge causes the ship to lose several days on the voyag |
+| 67 |Take 135 metric tons of physical/chemical analysis tools from Watatsumi to Triuq H71 | Unknown | If there is the slightest problem with the delivery, the employer puts out a low bounty on the shi |
+| 68 |Take 52 metric tons of silver (unwrought) from Culiacán to Eustis | Unknown | Upon arriving at the destination, the party learns that the cargo was reported stole |
+| 69 |Take 392 metric tons of gold (unwrought) from Zunhua Tieli to Dhul Khalasa | Unknown | A number of individuals seem to be unnecessarily hanging around while the cargo is being loade |
+| 70 |Take 202 metric tons of hydraulic cement from Abercromby to New Kolkata | Unknown | Navigation computer virus throws the vessel off cours |
+| 71 |Take 102 metric tons of UNDISCLOSED from Quandor to Phorbas | Hyperion Enterprises (corp) | As the journey progresses the crew grows more and more irrationally afraid of the cargo hol |
+| 72 |Take 61 metric tons of palm oil from Abercromby to New Kolkata | Beatriz Powell | En route the ship is stopped by officials who wish to search the carg |
+| 73 |Take 22 metric tons of men's shirts from Bloemfontein to Theandrios | Mukesh Sett | Fuel containment breach floods part of the cargo bay with the engine fue |
+| 74 |Take 342 metric tons of lifting/loading machinery from Oceania II to Fraxinus | Galvanysm (corp) | Upon arrival at the destination the group receiving the cargo insists one container is missin |
+| 75 |Take 77 metric tons of lamps, lighting, and illuminated signs from Kafr Saqr to Dronoe 0F2 | Diginano (corp) | The loading crew was extremely careless and bashed and dropped the containers multiple time |
+| 76 |Take 39 metric tons of UNDISCLOSED from Anshun Saint Francis to Leipzig | Unknown | The crew develops odd compulsive behaviors during the voyag |
+| 77 |Take 552 metric tons of UNDISCLOSED from Queensland Forge to Icarus Prime | Torin Narweld | As soon as the cargo is brought on board the crew begins having trouble sleepin |
+| 78 |Take 12 metric tons of chemical wood pulp from Birgunj to Sturgis | Zenobius Akintola | While traveling FTL, the ship receives a distress cal |
+| 79 |Take 154 metric tons of lead (unwrought) from Chimalhuacán to Draconis | Geotactyc (corp) | A corporate agent is required to ride alon |
+| 80 |Take 63 metric tons of metal-working machinery from Taishan to Brandýs | Ketha Azikiwe| During the voyage, the cargo breaks loose from the restraints causing some of it to be damaged. |
+| 81 |Take 442 metric tons of niobium/zirconium ores concentrate from Sardis to Xalax | Gutierre Callahan | The vessel is attacked by an unknown shi |
+| 82 |Take 548 metric tons of UNDISCLOSED from Hwange to Torreón | Ethery (corp) | Distortion fields seemingly emanating from the cargo hold disrupt the vessel’s control |
+| 83 |Take 492 metric tons of crude oil from Tlalnepantla to Hermosillo | Anuradha Murakami | Cosmic radiation bursts slow the vessel’s spee |
+| 84 |Take 377 metric tons of cobalt from Luminor to Trondheim | Lurnco (corp) | At the destination, people show up to collect the cargo but they do not seem to know what the cargo i |
+| 85 |Take 74 metric tons of printed circuits from Celaeno to Waralden Olmai | Kriemhild Sol | Before the ship can embark, a group of officials show up and say they need to commandeer the ship to fight in a wa |
+| 86 |Take 56 metric tons of chocolate and other cocoa preparations from Eurythmia to Shango | Unknown | The cargo containers have a systematic temperature control malfunctio |
+| 87 |Take 2 metric tons of diamonds (unmounted/unset) from Duberdicus to Aihayuta | Lurnco (corp) | A spaceport official let it slip that a valuable cargo was shipping out and now lots of unsavory characters are snooping the landing ba |
+| 88 |Take 500 metric tons of potassic fertilizers from Daphne to Sainshand | Metatrex (corp) | En route the lights throughout the ship go ou |
+| 89 |Take 26 metric tons of electromechanical domestic appliances from Vega Prime to Izanagi Seven | Unknown | A container breaks open during the voyage, spilling out illegal drug |
+| 90 |Take 51 metric tons of fuelwood, wood chips, and sawdust from Akureyri to Odendaalsrus | Unknown | The ship passes through a micro-meteor shower shortly after takeof |
+| 91 |Take 102 metric tons of miscellaneous fresh/chilled vegetables from Selvans to Liuzhou | Unknown | Neutronium flow collector malfunction causes the ship to be unable to take off after the cargo is loade |
+| 92 |Take 216 metric tons of styrene polymers from Oneiros to Kueyen | Diginano (corp) | The cargo is a day late being delivere |
+| 93 |Take 62 metric tons of organic chemicals from Yangchun to Priapus | Lukagm Osborn | During loading a gang attacks the docking ba |
+| 94 |Take 50 metric tons of iron and steel screws, bolts, nuts, and washers from Sheree to Durham Cole| Unknown | An ion-charged ray strikes the ship during the voyage causing widespread system failures. |
+| 95 |Take 244 metric tons of computer parts and accessories from Mongo Lai to Blackwater | Varian Jafari | Groaning noises seem to be coming from one containe |
+| 96 |Take 100 metric tons of refined copper, unwrought alloys from Creve Coeur to Lion's Den | Auren Ono | When the ship arrives at the destination the crew is surprised to find they are expected to pay a docking fe |
+| 97 |Take 167 metric tons of rice from Tyrellia to Borealis | Unknown | The cargo seems to be infested with rat |
+| 98 |Take 130 metric tons of manganese ore concentrate from Aita to Epworth | Procket (corp)| Cosmic rays interfere with the ship's artificial gravity generators. |
+| 99 |Take 525 metric tons of liquid crystal/laser/optical tools from York to Xanadu | Jessamy Kwan | During loading, there is an accident and the spaceport holds the vessel for 1D8 days to investigat |
+| 100 |Take 15 metric tons of lower-voltage switches, and fuses from New Hong Kong to Americana | Sensejet (corp) | A rival freighter follows the ship and tries to cause trouble because they missed out on the jo |
 
 ## Bulk Cargo #1 -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Saturated acyclic monoacids|
 | 2 |Integrated circuits|
 | 3 |Plastic tile or roll coverings|
@@ -5342,7 +5353,8 @@ military personnel #2
 | 100 |Nickel (unwrought)|
 
 ## Bulk Cargo #2 -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Electric motors, generators|
 | 2 |Nickel matte, oxide sinters|
 | 3 |Silver (unwrought)|
@@ -5445,7 +5457,8 @@ military personnel #2
 | 100 |Natural rubber|
 
 ## Bulk Cargo #3 -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Swine meat|
 | 2 |Iron and steel tables, household items|
 | 3 |Rubber/plastic article-making machines|
@@ -5548,7 +5561,8 @@ military personnel #2
 | 100 |Coffee|
 
 ### Cargo Weight -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |13 metric tons|
 | 2 |219 metric tons|
 | 3 |9 metric tons|
@@ -5651,7 +5665,8 @@ military personnel #2
 | 100 |216 metric tons|
 
 ## Personal and Small Items in a Cargo Hold -:-:-  82-
-
+| d100| Name |
+|:--:|--|
 | 1 |Orian Spice (2d6, value 1d4 x 1000 per square)|
 | 2 |Ball Bearings (1d6 x 1000, value 1d6 per 1000)|
 | 3 |Rations (1 person, 6 weeks)|
@@ -5759,7 +5774,8 @@ military personnel #2
 
 
 ### Book Titles #1
-
+| d100| Name |
+|:--:|--|
 | 1 |Bioeconomics|
 | 2 |The Many Sundered Worlds|
 | 3 |Worlds Within Worlds|
@@ -5862,7 +5878,8 @@ military personnel #2
 | 100 |Geophysics 401|
 
 ### Book Titles #2
-
+| d100| Name |
+|:--:|--|
 | 1 |Microbiology: A Primer|
 | 2 |The Cyberspace Frontier|
 | 3 |Beyond The Nearest Star|
@@ -5913,9 +5930,6 @@ military personnel #2
 | 48 |Whirpool’s Edge|
 | 49 |Chamber Of The Ages|
 | 50 |Geomorphology: Eight Advanced Case Studies|
-
-### Book Titles #2
-
 | 51 |Empty Eternity|
 | 52 |Exploring Astrochemistry|
 | 53 |Lost Earth|
@@ -5969,7 +5983,9 @@ military personnel #2
 
 ### Bounty Board
 
-| 1 |Name: Ajish Clayton | Alias(es): None | Bounty: 1,500 | Condition: Alive | Crime: Attempted Murder | Distinguishing Marks: None | Last Known Location: Farlight|
+| d100| Name |
+|:--:|--|
+| 1 | Name: Ajish Clayton | Alias(es): None | Bounty: 1,500 | Condition: Alive | Crime: Attempted Murder | Distinguishing Marks: None | Last Known Location: Farlight|
 | 2 |Name: Aleda Wahed | Alias(es): None | Bounty: 16,000 | Condition: Alive | Crime: Piracy | Distinguishing Marks: Scar on left ankle | Last Known Location: Liberty|
 | 3 |Name: Ynesita Krüger | Alias(es): Nova Sullivan | Bounty: 9,500 | Condition: Alive | Crime: Mass Murder| | Distinguishing Marks: None | Last Known Location: Arzachel Station |
 | 4 |Name: Gunn Solis | Alias(es): Blaze Chavez | Bounty: 3,500 | Condition: Dead or Alive | Crime: Murder| | Distinguishing Marks: Scar from dog bite on leg | Last Known Location: Mobara II|
@@ -5992,9 +6008,6 @@ military personnel #2
 | 21 |Name: Alaric Tyree | Alias(es): None | Bounty: 41,500 | Condition: Alive | Crime: Murder | Distinguishing Marks: Stab wounds scars on back | Last Known Location: Vela's Hope|
 | 22 |Name: Akasha Daggoth | Alias(es): Isla Bennett, Violet Grimm | Bounty: 37,500 | Condition: Alive | Crime: Murder | Distinguishing Marks: Circuit board mandala tattoo on entire back | Last Known Location: Zagua 2D80|
 | 23 |Name: Ozani Osborn | Alias(es): Lexa Chatterjee, Blaze Mitchell | Bounty: 32,500 | Condition: Alive | Crime: Mass Murder | Distinguishing Marks: None | Last Known Location: Quark's Station|
-
-### Bounty Board
-
 | 24 |Name: Jelan Shapris | Alias(es): None | Bounty: 43,500 | Condition: Alive | Crime: Attempted Murder| | Distinguishing Marks: Bite mark scar on left arm | Last Known Location: Grafton Loam|
 | 25 |Name: Xavian Newton | Alias(es): None | Bounty: 14,500 | Condition: Alive | Crime: Piracy | Distinguishing Marks: Dreamcatcher constellation tattoo on right shoulder | Last Known Location: Saratoga|
 | 26 |Name: Allegra Arlos | Alias(es): None | Bounty: 22,000 | Condition: Alive | Crime: Piracy | Distinguishing Marks: None | Last Known Location: Priapus|
@@ -6016,9 +6029,6 @@ military personnel #2
 | 42 |Name: Cedric Yildiz | Alias(es): Atlas Mercer | Bounty: 20,000 | Condition: Alive | Crime: Mass Murder|  Distinguishing Marks: Burn scar on left forearm | Last Known Location: Narrabri |
 | 43 |Name: Joaquin Jouret | Alias(es): Talon Harrington | Bounty: 1,000 | Condition: Alive | Crime: Attempted Murder | Distinguishing Marks: Surgical scar on right hip | Last Known Location: Excelsior Springs|
 | 44 |Name: Odelia Zelaya | Alias(es): None | Bounty: 34,000 | Condition: Dead or Alive | Crime: Piracy | Distinguishing Marks: None | Last Known Location: Özel|
-
-### Bounty Board
-
 | 45 |Name: Rhiannon Vadith | Alias(es): None | Bounty: 15,500 | Condition: Alive | Crime: Attempted Murder, Robbery | Distinguishing Marks: None | Last Known Location: Mami Wata|
 | 46 |Name: Rogen Kobayashi | Alias(es): None | Bounty: 30,500 | Condition: Alive | Crime: Piracy | Distinguishing Marks: Moonlit forest tattoo on right calf | Last Known Location: Yang|
 | 47 |Name: Santiago Goodwin | Alias(es): None | Bounty: 22,500 | Condition: Alive | Crime: Murder | Distinguishing Marks: None | Last Known Location: Valtor|
@@ -6042,9 +6052,6 @@ military personnel #2
 | 65 |Name: Jago Lee | Alias(es): Sable Donovan | Bounty: 27,500 | Condition: Alive | Crime: Attempted Murder, Burglary | Distinguishing Marks: None | Last Known Location: Pachamama|
 | 66 |Name: Sheva Haddad | Alias(es): Ivy Sullivan, Aurora Hartley, Luna Kensington | Bounty: 30,000 | Condition: Dead or Alive | Crime: Mass Murder | Distinguishing Marks: Hypertrophic scar on right arm | Last Known Location: Blackwelder|
 | 67 |Name: Simisola Roseland | Alias(es): Ophira Griffin | Bounty: 49,500 | Condition: Dead or Alive | Crime: Murder | Distinguishing Marks: None | Last Known Location: Bloemfontein|
-
-### Bounty Board
-
 | 68 |Name: Wyrren Stargazer | Alias(es): Silas Ramsey, Knox Alexander | Bounty: 9,500 | Condition: Alive | Crime: Attempted Murder | Distinguishing Marks: None | Last Known Location: Nabu|
 | 69 |Name: Ereen Cooper | Alias(es): None | Bounty: 24,500 | Condition: Alive | Crime: Murder | Distinguishing Marks: Enchanted key tattoo on right thigh | Last Known Location: Scarpellini|
 | 70 |Name: Arman Al-Kandari | Alias(es): None | Bounty: 40,500 | Condition: Alive | Crime: Treason, Mass Murder | Distinguishing Marks: Surgical scar on abdomen | Last Known Location: Lincoln|
@@ -6067,9 +6074,6 @@ military personnel #2
 | 87 |Name: Hannah Riddle | Alias(es): Miranda Blackwell | Bounty: 3,500 | Condition: Dead or Alive | Crime: Attempted Murder | Distinguishing Marks: Self-harm scars on both wrists | Last Known Location: Tansen Alpha|
 | 88 |Name: Shoichi Valencia | Alias(es): Axel Barrett, Roman Fitzgerald | Bounty: 31,500 | Condition: Alive| Crime: Attempted Murder, Robbery | Distinguishing Marks: None | Last Known Location: Filippenko|
 | 89 |Name: Keyan Randall | Alias(es): None | Bounty: 37,000 | Condition: Alive | Crime: Murder | Distinguishing Marks: Vintage compass with botanical accents tattoo on left shoulder | Last Known Location: Tangaroa|
-
-### Bounty Board
-
 | 90 |Name: Eckhard Guerra | Alias(es): Damien Harrington, Jasper Ramsey | Bounty: 16,500 | Condition: Alive | Crime: Piracy | Distinguishing Marks: Scars on left hand | Last Known Location: Liberty|
 | 91 |Name: Hadriel Simpson | Alias(es): None | Bounty: 46,000 | Condition: Dead or Alive | Crime: Murder| Distinguishing Marks: Burn scar on right shoulder | Last Known Location: Dercetius|
 | 92 |Name: Aidan Wong | Alias(es): None | Bounty: 42,000 | Condition: Alive | Crime: Piracy | Distinguishing Marks: Abstract tree of life tattoo on chest | Last Known Location: Redcliff|
@@ -6083,9 +6087,10 @@ military personnel #2
 | 100 |Name: Javin Saito | Alias(es): None | Bounty: 7,000 | Condition: Alive | Crime: Piracy | Distinguishing Marks: Hypertrophic scar on right leg | Last Known Location: Barsamin|
 
 ### Computer Files
-
+| d100| Name |
+|:--:|--|
 | 1 |Deed to "Rocket's" nightclub|
-| 2 |Cargo manifest of the bulk cargo ship the "Bright Sun"
+| 2 |Cargo manifest of the bulk cargo ship the "Bright Sun"|
 | 3 |Interstellar communication logs|
 | 4 |Freighter shipping routes (1D12)|
 | 5 |Planet exploration data|
@@ -6134,9 +6139,6 @@ military personnel #2
 | 48 |Audio recordings of a secret agent conversation|
 | 49 |Location of an ancient space battle|
 | 50 |Virus genomic sample data|
-
-### Computer Files
-
 | 51 |Black market transaction records|
 | 52 |Bounty listings (1D12)|
 | 53 |Secret stealth suit designs|
@@ -6189,7 +6191,8 @@ military personnel #2
 | 100 |Hyperspace navigation maps|
 
 ## Fictional Alloys -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Quarksteel|
 | 2 |Solarium|
 | 3 |Pyroclast|
@@ -6292,7 +6295,8 @@ military personnel #2
 | 100 |Plasmaquartz|
 
 ### Fictional Infectious Diseases -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Necrodermis|
 | 2 |Phobiosys|
 | 3 |Quantumic Dysregulation|
@@ -6395,7 +6399,8 @@ military personnel #2
 | 100 |Chronobiotic Impairment|
 
 ### Fictional Medications -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Aminoquone|
 | 2 |Magtrexed Prazolam|
 | 3 |Valsarbazam|
@@ -6498,7 +6503,8 @@ military personnel #2
 | 100 |Quetiate|
 
 ## Fictional Spices -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Delara Bamboo Mushrooms|
 | 2 |Tendoora Lavender|
 | 3 |Cai Sloan Rock Sugar|
@@ -6601,7 +6607,8 @@ military personnel #2
 | 100 |Synthetic Celery Seed|
 
 ## Fictional Trade Goods and Animals -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Crevil Gas|
 | 2 |Toarinar Turquoise|
 | 3 |Wynt Jet|
@@ -6705,109 +6712,112 @@ military personnel #2
 
 ### Illegal Drugs
 
-| 1 |Shock - Use: A clear, odorless gas that is inhaled. Effects: Sudden bursts of energy and urges to move or dance. Side Effects: Severe nose bleeds and headaches. Long-term use causes severe lethargy and poor lung function. Addiction: 5% chance of being addicted upon first use. Chances increase by 20% after each use.
-| 2 |Vikto - Use: A large white pill. Effects: Alertness and happy feelings. Side Effects: Sudden numbness or weakness, especially on one side of the body, severe diarrhea, rectal bleeding. Addiction: 3% chance of being addicted upon first use. Chances increase by 1% after each use. Note: Vikto is the street name for a powerful anti-viral medication still in legal use.
-| 3 |Snip Grill - Use: A yellow strip placed on the roof of the mouth. Effects: Hallucinations. Side Effects: Unsteadiness, memory loss, lack of coordination, difficulty speaking, and viral infections. Addiction: 2% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 4 |Grind - Use: A gel rubbed on the skin that leaves an orange stain. Effect: Hallucinations and calmness. Side Effects: Paranoia. Addiction: 15% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 5 |Dragon's Breath - Use: A red spray that is ingested. Effects: Spiritual and transcendent experiences as well as increased introspection. Side Effects: Fever, chills, body aches, flu symptoms, with long-term use leading to permanent psychological damage. Addiction: 50% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 7 |Puff Gum - Use: An amethyst-colored gum that is chewed. Effects: Mild stimulant. Side Effects: Stains teeth purple; long-term use leads to severe stomach ailments. Addiction: 1% chance of being addicted upon first use. Chances increase by 1% after each use.
-| 6 |Shunt - Use: A yellow paste that is smeared in the nostrils. Effects: Excitement, energy, and feelings of affection. Side Effects: Strange dreams, the need to sleep for long periods, and violent behavior. Addiction: 10% chance of being addicted upon first use. Chances increase by 1% after each use.
-| 8 |Rip - Use: A purplish liquid that is dropped into the ear. Effects: The sensation of floating, euphoria, and being free of worries or care. Side Effects: Strange dreams and night terrors. Addiction: 5% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 9 |Fuel - Use: A liquid injected straight into the adrenal glands. Effects: Instantly puts the user into a state of intense sympathetic mode. Side Effects: Renal failure if the injection misses the adrenal glands. Long-term use prevents the body from returning to a parasympathetic mode which leads to death. Addiction: 40% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 10 |Mother's Milk - Use: A milk-like liquid that is injected. Effects: The feeling of confidence and accomplishment. Side Effects: Joint pain with long-term use leading to paralysis. Addiction: 30% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 11 |Z - Use: A tiny bluish pill. Effects: Strong increase in euphoric feelings and feelings of being warm. Side Effects: Headache, trouble concentrating, memory problems, weakness, fainting, and seizure. Addiction: 0% chance of being addicted upon first use. Chances increase by 8% after each use.
-| 12 |Trip Dog - Use: The blood of "Wilcox Beast" that is injected. Effects: Improved healing and euphoria. Side Effects: Breakdown of all bodily tissues. Addiction: 40% chance of being addicted upon first use. Chances increase by 2% after each use.
-| 13 |Ick - Use: Industrial cleaning agents and engine fuel mixed into an injectable liquid. Effects: The user feels pleasure and painlessness. Side Effects: Gangrene and the rotting of the flesh. Addiction: 80% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 14 |Shaft - Use: A red powder that is heated and inhaled. Effects: Extreme pleasure and the sensation of abundant energy. Side Effects: An increased number of bowel movements, an urgent need to have them, and an inability to control them; long-term use leads to rare immune disorders. Addiction: 0% chance of being addicted upon first use. Chances increase by 4% after each use.
-| 15 |Alpha Drop - Use: A green liquid that is dropped into the eyes. Effects: Manic behavior. Side Effects: Eye discoloration; long-term use leads to blindness and cognitive impairment. Addiction: 8% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 16 |New Slerv - Use: A blue gas that is inhaled. Effects: Suppresses fear and causes hyperactivity. Side Effects: Loss of appetite and fatigue; long-term use leads to mesothelioma. Addiction: 5% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 17 |Burning Bush - Use: A thin orange wafer that is ingested. Effects: Extreme hallucinations and the feeling of moving when standing still. Side Effects: Cracks in the corners of the mouth, dry mouth, dry lips, cracking or peeling skin, inflammation of the whites of the eyes; long-term use can cause several mental disorders. Addiction: 50% chance of being addicted upon first use. Chances increase by 7% after each use.
-| 18 |Trome - Use: A brown powder burned and inhaled. Effects: Synesthesia, the experience of mixed perceptions, such as hearing colors or seeing sounds. Side Effects: Impaired judgment, paranoia, and psychosis. Addiction: 3% chance of being addicted upon first use. Chances increase by 20% after each use.
-| 19 |Shatter - Use: An iridescent liquid injected into the spine. Effects: Increased strength and intense hallucinations. Side Effects: Uncontrollable rage; long-term use leads to a specific neurological disorder. Addiction: 30% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 20 |Ditch - Use: A red dermal patch. Effects: Overestimation of strength, speed, and invulnerability. Side Effects: High anxiety, paranoia, and isolation. Long-term use leads to lung disorders, thyroid problems, and liver disease. Addiction: 100% chance of being addicted upon first use.
-| 21 |Looker - Use: A gas that is inhaled. Effects: The user is sexually attracted to nearly everyone they see. Side Effects: Long-term use leads to severely reduced respiratory function. Addiction: 10% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 22 |Slap Dash - Use: A grayish-brown pill that is a combination of Salen Heat and Chrome Love. Effects: The user feels warm, craves physical touch, and usually feels the desire to remove their clothing. Side Effects: Restlessness, tremors with long-term use leading to respiratory failure and death. Addiction: 10% chance of being addicted upon first use. Chances increase by 12% after each use. A 1% chance of death after every use.
-| 23 |Zuf - Use: A dermal patch. Effects: Calm, dreamlike mental state. Side Effects: Increased body temperature, erectile dysfunction, and irregular heartbeat. Addiction: 0% chance of addiction upon first use. Chances increase by 4% after each use.
-| 24 |Kiv - Use: A liquid injected into a main vein. Effects: Enhances memory and allows total recall for a short time. Side Effects: User forgets 75% of the information memorized while on the drug. Long-term use leads to the loss of childhood memories. Addiction: 4% chance of being addicted upon first use. Chances increase by 7% after each use.
-| 25 |Slock - Use: An emerald-colored liquid that is smoked. Effects: Increased sociability and a reduction in fear and behavioral inhibitions. Side Effects: Increased sweating, increased urination, and tremors. Addiction: 1% chance of being addicted upon first use. Chances increase by 4% after each use.
-| 26 |Lethe - Use: A large yellow pill. Effects: Makes the user sleepy and forgetful. Side Effects: Permanent memory loss. Addiction: 10% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 27 |Elixiter - Use: A foamy, smokey liquid that is ingested. Effects: Makes the user feel young and happy. Side Effects: Severe headache and joint pain. Long-term use has been linked to several rare muscle disorders. Addiction: 1% chance of being addicted upon first use. Chances increase by 4% after each use.
-| 28 |Pidge - Use: A cream-colored fibrous material that is chewed and spit out. Effects: Mild stimulant. Side Effects: In rare cases very stiff muscles, high fever, sweating, confusion, and fast or uneven heartbeats. Addiction: 0% chance of being addicted upon first use. Chances increase by 1% after each use.
-| 29 |Thump - Use: A liquid injected into the heart. Effects: Intense stimulation and feeling of being truly alive. Side Effects: Intense depression, edginess, convulsions, and suicidal thoughts. Long-term use leads to cardiac damage and failure. Addiction: 70% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 30 |Weeb - Use: A yellow or orange liquid that is injected. Effects: Decreases higher cortical brain function and makes the user more pliable. Side Effects: Headache, agitation, prolonged drowsiness, and nausea. Long-term use can lead to pulmonary edema or cardiac failure. Addiction: 0% chance of being addicted upon first use. Chances increase by 2% after each use. Note: Weeb is a street name for various types of "Truth Serum" or Sodium thiopental. Recreational use is rare.
-| 31 |E - Use: An orangish-yellow pill that is a more potent derivative of U4E-uh. Effects: Makes the user feel happy and excited. Side Effects: Use leads to lower sex drive, frequent panic attacks, and skin problems such as hives, rash, redness, shedding, and peeling skin. Long-term use can cause extremely high fevers that lead to a variety of medical complications. Addiction: 3% chance of being addicted upon first use. Chances increase by 8% after each use.
-| 32 |Groove - Use: A small green pill popular with the party scene. Effects: Euphoria, the need to move, and increased confidence. Side Effects: Rash, painful joints, problems swallowing; long-term use can lead to difficulty speaking and viral infections. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 33 |Slant - Use: A black patch placed at the base of the skull. Effects: Weightlessness and out-of- body experiences. Side Effects: Disorientation, and shakiness with long-term use being linked to medulloblastoma. Addiction: 30% chance of being addicted upon first use. Chances increase by 4% after each use.
-| 34 |Grip - Use: A goldish-gray pill. Effects: Intense excitement. Side Effects: Rapid breathing, hypertension, and "zombification." Addiction: 20% chance of being addicted upon first use. Chances increase by 6% after each use.
-| 35 |Fast Heat - Use: A red pill that is a concentrated form of Salen Heat. Effects: The user feels warm and excited and usually feels the desire to remove their clothing. These effects are similar to Salen Heat but are more intense. Side Effects: Extreme anxiety, irregular heartbeat, and convulsions. Addiction: 7% chance of being addicted upon first use. Chances increase by 7% after each use.
-| 36 |Butterfly - Use: A one-ounce shot of yellowish liquid that is ingested. Effects: Feelings of ecstasy and excitement. Side Effects: Loss of appetite or increase in appetite, weight changes, cold symptoms (stuff y nose, sneezing, sore throat), dry mouth, and decreased sex drive. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 37 |Flash - Use: A yellow liquid that is dropped into the eyes. Effects: A sense of well-being and energy. Side Effects: Nausea, delusions of power, and increased aggressiveness are the main short-term effects. Long-term use leads to premature aging, strokes, and extreme mood swings. Addiction: 60% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 38 |Sap - Use: The sap of the Gorva bush is boiled and mixed with alcohol and then ingested. Effects: Powerful feeling of euphoria, and intensifies the effects of alcohol. Side Effects: Severe hangovers with long-term use leading to brain damage. Addiction: 0% chance of being addicted upon first use. Chances increase by 4% after each use.
-| 39 |Spark - Use: A glass-like crystal that gives off sparks as it is chewed. Effects: Supposedly allows the user to "touch the mind of God." Side Effects: After a 12 to 24-hour high, use leads to death.
-| 40 |Red Eye - Use: A small black pill. Effects: Produces the feeling of alertness and the sensation of being fully awake. Side Effects: Short-term use causes extremely bloodshot eyes. Long-term use can lead to blindness. Addiction: 20% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 41 |Kiss - Use: A party scene drug that is a small purple patch placed on one’s temple. Effects: Hyperactivity and the desire to move. Side Effects: Long-term use causes violent tremors. Addiction: 2% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 42 |Kronk - Use: Leaves of the marijuana plant that are smoked. Effects: A pleasant euphoria, sense of relaxation, and heightened sensory perception. Side Effects: Anxiety, fear, distrust, panic, and a loss of the sense of personal identity. Long-term use leads to schizophrenia or other psychotic disorders. Addiction: 1% chance of being addicted upon first use. Chances increase by 4% after each use.
-| 43 |Glitch - Use: A blue slime that is inhaled through the nose. Effects: Euphoria and the sensation of spinning. Side Effects: Upset stomach, muscle aches, dizziness, headaches, and urine turns blue. Long- term use has been linked to a host of medical issues including kidney failure and brain tumors. Addiction: 1% chance of being addicted upon first use. Chances increase by 30% after each use.
-| 44 |Snif - Use: A mist that is inhaled. Effects: Inflated self-esteem and elevated mood. Side Effects: Confusion or disorientation, muscle weakness, and bone pain. Addiction: 5% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 45 |Flutter - Use: Pinkish green crystals that resemble sugar and are ingested. Effects: The sensation of extreme sexual pleasure. Side Effects: The loss of hair and teeth with long-term use is associated with kidney failure. Addiction: 2% chance of being addicted upon first use. Chances increase by 20% after each use.
-| 46 |Zeem's Tears - Use: Blue-green crystals that are smoked. Effects: Peaceful calm and contentedness. Side Effects: Intense feelings of loneliness and a number of gastrointestinal diseases. Addiction: 1% chance of being addicted upon first use. Chances increase by 20% after each use.
-| 47 |Smolder - Use: A heated liquid that is injected. Effects: Increased alertness and energy, as well as enhanced empathy. Side Effects: Fever, unusual eye movements, jerky movements, and increased gambling, sexual, or other overpowering urges. Addiction: 30% chance of being addicted upon first use. Chances increase by 8% after each use.
-| 48 |Go Go - Use: A grey chalky substance smeared on the lips. Effects: Loss of social inhibitions and increased bravado. Side Effects: Severe cardiac damage. Addiction: 1% chance of being addicted upon first use. Chances increase by 1% after each use.
-| 49 |Zip - Use: A small almond-colored pill. Effect: Mild stimulant. Side Effects: Headache and anxiety for a few days if use is discontinued. Addiction: 0% chance of being addicted upon first use. Chances increase by 1% after each use. Note: Zip is 40 mg of caffeine.
-| 50 |U4E-uh - Use: A small orange pill, sometimes called Orange Cream, that is popular on the party scene. Effects: Makes the user feel happy and excited. Side Effects: Long-term use leads to lower sex drive and frequent panic attacks. Addiction: 1% chance of being addicted upon first use. Chances increase by 1% after each use.
-| 51 |Cap Jaw - Use: A heavier-than-air yellow gas that is inhaled. Effects: Imbues the feeling of invincibility. Side Effects: Extreme nervousness and insomnia. Addiction: 10% chance of being addicted upon first use. Chances increase by 15% after each use.
-| 52 |Plik - Use: A liquid that is injected. Effects: Loss of all sense of self-control, and the user is incapable of forming memories while under the influence. Side Effects: Cold sweats, a weak immune system, and permanent muscular weakness. Addiction: 2% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 53 |Salen Heat - Use: A red pill popular on the party scene. Effects: The user feels warm and excited and usually feels the desire to remove their clothing. Side Effects: Extreme anxiety. Addiction: 1% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 54 |Cloud 9 - Use: A white liquid inhaled through the nose. Effects: Feelings of carefree enjoyment. Side Effects: Long-term use weakens the immune system. Addiction: 5% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 55 |Sweet - Use: A substance similar to hard candy that is sucked on. Effects: Mild hallucinations and euphoria that lead to extreme amicability. Side Effects: Irritability and fatigue. Addiction: 0% chance of being addicted upon first use. Chances increase by 1% after each use.
-| 56 |Raindrop - Use: A clear liquid dropped into the eye, popular with the party scene. Effects: Feelings of euphoria. Side Effects: Dry mouth, headache, and cognitive impairment. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 57 |Grub - Use: A smelly paste that is rubbed on the inside of the cheek. Effects: Feeling of extreme pleasure. Side Effects: Depression, vomiting, with long-term use leading to memory gaps and dementia. Addiction: 10% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 58 |Thinker - Use: Light blue dissolvable strip placed on the tongue. Effects: Increases cognitive function. Side Effects: Long-term use decreases cognitive function. Addiction: 2% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 59 |Moan - Use: A purple pill. Effects: Heightened sexual desire. Side Effects: Sleep disturbance, fever, and dangerous liver tumors. Addiction: 0% chance of being addicted upon first use. Chances increase by 15% after each use.
-| 60 |Loam - Use: Peat from a certain bog that is harvested and smoked. Effects: Helps focus, calming effect, and allows the user to stay awake for 72 hours. Side Effects: Extreme drowsiness with long-term use leading to coma. Addiction: 5% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 61 |Sludge - Use: A bluish-black liquid or solid that is ingested. Effects: Intense emotions either positive or negative. Side Effects: Long-term use leads to liver failure. Addiction: 35% chance of being addicted upon first use. Chances increase by 40% after each use.
-| 62 |Drill - Use: A brown liquid that is injected into the tear ducts. Effects: Enhances mental cognition, increases sensory perception, and gives feelings of power. Side Effects: Blurred vision, double vision, nosebleeds with long-term use leading to extreme seizures and brain damage. Addiction: 8% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 63 |Feather Shot - Use: A lighter-than-air gas that is injected. Effects: Deep relaxation and a sense of peace. Side Effects: Severe depression and suicidal thoughts. Addiction: 0% chance of being addicted upon first use. Chances increase by 7% after each use.
-| 64 |Wig - Use: A red liquid that is injected into the neck. Effects: Giddiness and laughter. Side Effects: Odd behavior and rambling speech. Long-term use has been linked to various rare cancers. Addiction: 12% chance of being addicted upon first use. Chances increase by 2% after each use.
-| 65 |Piff Powder - Use: A reddish-brown powder that is inhaled through the nose. Effects: Elation and no desire to sleep. Side Effects: Narcolepsy and long-term sinus and brain damage. Addiction: 3% chance of being addicted upon first use. Chances increase by 15% after each use.
-| 66 |Pop - Use: A green pill that is dissolved in water and then ingested. Effects: Rush of adrenaline and happiness. Side Effects: Dizziness and confusion with long-term use leading to heart failure. Addiction: 6% chance of being addicted upon first use. Chances increase by 6% after each use. Note: If the pill is swallowed without being dissolved in water it causes vomiting and none of the normal drug effects.
-| 67 |Bang Bang - Use: An indigo pill. Effects: Higher pleasure from and desire for physical touch and heightened energy levels. Side Effects: Drowsiness, dizziness, fatigue, and nausea. Addiction: 10% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 68 |Shadow Hand - Use: A translucent pill. Effects: Intensely pleasurable dreams and allows the user to manipulate their dreams. Side Effects: Inability to distinguish between reality and dreams. Addiction: 5% chance of being addicted upon first use. Chances increase by 20% after each use.
-| 69 |Rainbow Dancer - Use: A multi-colored crystal that is chewed. Effects: Imbues the user with feelings of happiness and increased sexual desire. Side Effects: Short-term use causes vomiting and long-term use damages motor skills. Addiction: 5% chance of being addicted upon first use. Chances increase by 1% after each use.
-| 70 |Guur - Use: A living slime mold that is snorted. Effects: Heightened sense of awareness and boosts reaction time. Side Effects: Mucusy cough; long-term use can cause a brain aneurysm. Addiction: 8% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 71 |Ali Ali Trip - Use: A round, blue pill. Effects: Increased attentiveness and concentration. Side Effects: Dizziness, increased heart rate, heart palpitations, and violent behavior. Addiction: 0% chance of being addicted upon first use. Chances increase by 2% after each use.
-| 72 |Sprouts - Use: The stems of a plant classified 34BZ87QHR that are chewed. Effects: Intense hallucinations. Side Effects: Degenerates the central nervous system leading to many complications. Addiction: 40% chance of being addicted upon first use. Chances increase by 20% after each use.
-| 73 |Glob - Use: A gelatin-like substance that is slurped out of a plastic container. Effects: Psychedelic experiences. Side Effects: Feelings of despair and hopelessness. Plus long-term use leads to bone cancer. Addiction: 25% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 74 |Hot Grip - Use: A red chewable caplet. Effects: Extreme pleasure and feelings of happiness. Side Effects: Burns on the inside of the mouth; long-term use leads to confusion and anemia. Addiction: 0% chance of being addicted upon first use. Chances increase by 1% after each use.
-| 75 |Food of the Gods - Use: The fruit of the Cama tree is roasted and then ingested. Effects: Warm tingling and mild hallucinations. Side Effects: Delirium, fear, shakiness, and a permanent weak feeling. Addiction: 1% chance of being addicted upon first use. Chances increase by 4% after each use. Note: If eaten unroasted, there is a 70% chance of death.
-| 76 |Tar Shot - Use: A dark fluid that is injected. Effects: Abundant energy and pleasure. Side Effects: Aggressiveness with long-term use leads to a breakdown in cognitive function. Addiction: 3% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 77 |Spike - Use: An orange gas injected into the intestines. Effects: Extreme energy and the user does not feel pain. Side Effects: Short-term use causes many intestinal issues; long-term use leads to severe brain cancer. Addition: 10% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 78 |Gorge - Use: A flaky white or pinkish wafer that is ingested. Effects: The sensation of strength and power. Side Effects: Leads to dangerous overeating; long-term use breaks down muscle tissue. Addiction: 50% chance of being addicted upon first use. Chances increase by 10% after each use.
-| 79 |Gravy - Use: powder or liquid that is often mixed with other food. Effects: Hallucinations, altered states of being, and unresponsiveness to reality. Side Effects: Loss of consciousness and widespread cellular damage. Addiction: 2% chance of being addicted upon first use. Chances increase by 30% after each use.
-| 80 |Boom - Use: A liquid that is injected. Effects: Bursts of energy and increased sexual desire. Side Effects: Tremors or loss of motor coordination. Long-term use has been associated with a weakened immune system, muscular weakness, and insomnia. Addiction: 7% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 81 |Mirror Mirror - Use: Silver dermal patch. Effects: The user feels unusually attractive and sexy. Side Effects: Severe anxiety, lack of appetite, teeth grinding, and obsessive behavior. Addiction: 0% chance of being addicted upon first use. Chances increase by 1% after each use.
-| 82 |Sweet Punch - A pinkish liquid that is ingested. Effects: Sedation and dissociation. Side Effects: Short- term side effects include nausea and stomach pain; long-term use leads to impaired memory and cognitive dysfunction. Addiction: 0% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 83 |Dream Leaf - Use: The leaf of the Portilla plant is boiled in water and the fumes are inhaled. Effects: Wonderful, exciting dreams and visions. Side Effects: Long-term use destroys the motivation center in the brain. Addiction: 20% chance of being addicted upon first use. Chances increase by 5% after each use. Note: If the Portilla leaf is boiled in Isopropyl Alcohol, it is called "Death Dream Leaf" as there is a 30% chance of dying after each use. A surprisingly large number of long-term addicts feel the enhanced high is worth the risk.
-| 84 |Drip - Use: A pale blue liquid dropped into the eyes. Effects: Intense feelings of happiness and self- esteem. Side Effects: Low blood pressure, kidney problems, and kidney stones. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 85 |Sleeper - Use: A green powder that is smoked. Effects: Sleepiness and relaxation. Side Effects: Unnaturally long periods of sleep; long-term use has been linked to organ failure. Addiction: 5% chance of being addicted upon first use. Chances increase by 2% after each use.
-| 86 |Tank - Use: A large black pill. Effects: The feeling of invulnerability and extreme strength. Side Effects: Stomach pain and constipation. Long-term use leads to musculoskeletal disorders. Addiction: 5% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 87 |Sloke - Use: A lozenge that dissolves in the mouth. Effects: The sensation of slowing down and peaceful relaxation. Side Effects: Back pain, dizziness, drowsiness, nervousness; long-term use leads to coma or death. Addiction: 25% chance of being addicted upon first use. Chances increase by 6% after each use.
-| 88 |Zong - Use: A glittery powder that is smoked through a water pipe. Effects: Relaxation, sleepiness, and mild hallucinations. Side Effects: Crying spells, aggression or agitation, changes in behavior, and thoughts of suicide or hurting yourself. Addiction: 5% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 89 |River Stix - Use: A golden-colored disk that dissolves in the mouth. Effects: Numbness, relaxation, and a sense of well-being and euphoria. Side Effects: Delusions of grandeur with an inflated sense of importance. Long-term use may lead to fatal internal bleeding. Addiction: 60% chance of being addicted upon first use. Chances increase by 5% after each use.
-| 90 |O - Use: An octagonal translucent pill. Effects: None, though users feel excited. Side Effects: None, though users feel nervous if they go without it for a few days. Addiction: 0% chance of being addicted, though 30% of users report being addicted. Note: O is a placebo. This is not known to the general population. However, certain drug manufacturers and cartels are aware. It is unknown who introduced the pill.
-| 91 |Sunset - Use: A bright orange square pill. Effects: Lucid dreaming. Side Effects: Restlessness and chronic fatigue. Addiction: 3% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 92 |Fun in the Sun - Use: A flax-colored pill. Effects: A euphoric state of being and a distorted perception of time. Side Effects: Easy bruising, red pin-prick spots on the skin, bleeding gums. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 93 |High Stakes Runner - Use: A mist that is inhaled. Effects: Increases lung capacity by 50% and increases blood flow throughout the body. Side Effects: Sudden lung collapse and destruction of the pleural cavity. Addiction: 5% chance of being addicted upon first use. Chances increase by 20% after each use.
-| 94 |Chrome Love - Use: A silvery pill. Effects: Makes the user crave physical touch. Side Effects: Leads to hair loss and infertility. Addiction: 0% chance of being addicted upon first use. Chances increase by 2% after each use.
-| 95 |Split - Use: Various chemical compounds that are inhaled. Effects: Altered sense of self and altered perception of time and space. Side Effects: Ringing in the ears, blurred vision, loss of interest in sex, and sore throat. Addiction: 10% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 96 |Boom Boom Mo - Use: A red solid that is melted into a liquid and then ingested. Effects: Lowers inhibitions; increases the desire to dance and be the center of attention. Side Effects: Vomiting. Long- term use leads to severe depression. Addiction: 0% chance of being addicted upon first use. Chances increase by 2% after each use.
-| 97 |Flame Out - Use: Burner’s lighter cousin; it is an orangish-red spongy substance placed under the tongue. Effects: The user feels waves of euphoria and is flooded with adrenaline. Side Effects: Short-term use leads to occasional dizzy spells. Long-term use leads to confusion and dementia. Addiction: 70% chance of being addicted upon first use. Chances increase by 5% after each use. Note: Some governments give this drug to their frontline soldiers.
-| 98 |Chippy Stick - Use: A yellowish-red compound compressed into a small stick that is slowly chewed. Effects: Mild stimulant. Side Effects: Stains teeth red; long-term use leads to throat and jaw cancer. Addiction: 1% chance of being addicted upon first use. Chances of being addicted increase by 1% after each use.
-| 99 |Zero - Use: A round white pill that is swallowed. Effects: Mild stimulant and hallucinations. Side Effects: Increased heart rate and fatigue; long-term use leads to internal bleeding. Addiction: 0% chance of being addicted upon first use. Chances increase by 3% after each use.
-| 100 |Burner - Use: A red spongy substance placed under the tongue. Effects: The user feels wave after wave of euphoria and is flooded with adrenaline. Side Effects: Short-term use leads to sudden dizzy spells and blackouts. Long-term use leads to insanity. Addiction: 100% chance of being addicted upon first use. 2% chance of death after every use.
+| d100| Name | Use | Effects| Side Effects| Addiction|
+|:--:|--|--| --| --| --|
+| 1 | Shock | A clear, odorless gas that is inhaled.  | Sudden bursts of energy and urges to move or dance. | Severe nose bleeds and headaches. Long-term use causes severe lethargy and poor lung function.  | 5% chance of being addicted upon first use. Chances increase by 20% after each us |
+| 2 |Vikto | A large white pill.  | Alertness and happy feelings. | Sudden numbness or weakness, especially on one side of the body, severe diarrhea, rectal bleeding.  | 3% chance of being addicted upon first use. Chances increase by 1% after each use. Note: Vikto is the street name for a powerful anti-viral medication still in legal us |
+| 3 |Snip Grill | A yellow strip placed on the roof of the mouth.  | Hallucinations. | Unsteadiness, memory loss, lack of coordination, difficulty speaking, and viral infections.  | 2% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 4 |Grind | A gel rubbed on the skin that leaves an orange stain. Effect: Hallucinations and calmness. | Paranoia.  | 15% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 5 |Dragon's Breath | A red spray that is ingested.  | Spiritual and transcendent experiences as well as increased introspection. | Fever, chills, body aches, flu symptoms, with long-term use leading to permanent psychological damage.  | 50% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 7 |Puff Gum | An amethyst-colored gum that is chewed.  | Mild stimulant. | Stains teeth purple; long-term use leads to severe stomach ailments.  | 1% chance of being addicted upon first use. Chances increase by 1% after each us |
+| 6 |Shunt | A yellow paste that is smeared in the nostrils.  | Excitement, energy, and feelings of affection. | Strange dreams, the need to sleep for long periods, and violent behavior.  | 10% chance of being addicted upon first use. Chances increase by 1% after each us |
+| 8 |Rip | A purplish liquid that is dropped into the ear.  | The sensation of floating, euphoria, and being free of worries or care. | Strange dreams and night terrors.  | 5% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 9 |Fuel | A liquid injected straight into the adrenal glands.  | Instantly puts the user into a state of intense sympathetic mode. | Renal failure if the injection misses the adrenal glands. Long-term use prevents the body from returning to a parasympathetic mode which leads to death.  | 40% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 10 |Mother's Milk | A milk-like liquid that is injected.  | The feeling of confidence and accomplishment. | Joint pain with long-term use leading to paralysis.  | 30% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 11 |Z | A tiny bluish pill.  | Strong increase in euphoric feelings and feelings of being warm. | Headache, trouble concentrating, memory problems, weakness, fainting, and seizure.  | 0% chance of being addicted upon first use. Chances increase by 8% after each us |
+| 12 |Trip Dog | The blood of "Wilcox Beast" that is injected.  | Improved healing and euphoria. | Breakdown of all bodily tissues.  | 40% chance of being addicted upon first use. Chances increase by 2% after each us |
+| 13 |Ick | Industrial cleaning agents and engine fuel mixed into an injectable liquid.  | The user feels pleasure and painlessness. | Gangrene and the rotting of the flesh.  | 80% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 14 |Shaft | A red powder that is heated and inhaled.  | Extreme pleasure and the sensation of abundant energy. | An increased number of bowel movements, an urgent need to have them, and an inability to control them; long-term use leads to rare immune disorders.  | 0% chance of being addicted upon first use. Chances increase by 4% after each us |
+| 15 |Alpha Drop | A green liquid that is dropped into the eyes.  | Manic behavior. | Eye discoloration; long-term use leads to blindness and cognitive impairment.  | 8% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 16 |New Slerv | A blue gas that is inhaled.  | Suppresses fear and causes hyperactivity. | Loss of appetite and fatigue; long-term use leads to mesothelioma.  | 5% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 17 |Burning Bush | A thin orange wafer that is ingested.  | Extreme hallucinations and the feeling of moving when standing still. | Cracks in the corners of the mouth, dry mouth, dry lips, cracking or peeling skin, inflammation of the whites of the eyes; long-term use can cause several mental disorders.  | 50% chance of being addicted upon first use. Chances increase by 7% after each us |
+| 18 |Trome | A brown powder burned and inhaled.  | Synesthesia, the experience of mixed perceptions, such as hearing colors or seeing sounds. | Impaired judgment, paranoia, and psychosis.  | 3% chance of being addicted upon first use. Chances increase by 20% after each us |
+| 19 |Shatter | An iridescent liquid injected into the spine.  | Increased strength and intense hallucinations. | Uncontrollable rage; long-term use leads to a specific neurological disorder.  | 30% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 20 |Ditch | A red dermal patch.  | Overestimation of strength, speed, and invulnerability. | High anxiety, paranoia, and isolation. Long-term use leads to lung disorders, thyroid problems, and liver disease.  | 100% chance of being addicted upon first us |
+| 21 |Looker | A gas that is inhaled.  | The user is sexually attracted to nearly everyone they see. | Long-term use leads to severely reduced respiratory function.  | 10% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 22 |Slap Dash | A grayish-brown pill that is a combination of Salen Heat and Chrome Love.  | The user feels warm, craves physical touch, and usually feels the desire to remove their clothing. | Restlessness, tremors with long-term use leading to respiratory failure and death.  | 10% chance of being addicted upon first use. Chances increase by 12% after each use. A 1% chance of death after every us |
+| 23 |Zuf | A dermal patch.  | Calm, dreamlike mental state. | Increased body temperature, erectile dysfunction, and irregular heartbeat.  | 0% chance of addiction upon first use. Chances increase by 4% after each us |
+| 24 |Kiv | A liquid injected into a main vein.  | Enhances memory and allows total recall for a short time. | User forgets 75% of the information memorized while on the drug. Long-term use leads to the loss of childhood memories.  | 4% chance of being addicted upon first use. Chances increase by 7% after each us |
+| 25 |Slock | An emerald-colored liquid that is smoked.  | Increased sociability and a reduction in fear and behavioral inhibitions. | Increased sweating, increased urination, and tremors.  | 1% chance of being addicted upon first use. Chances increase by 4% after each us |
+| 26 |Lethe | A large yellow pill.  | Makes the user sleepy and forgetful. | Permanent memory loss.  | 10% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 27 |Elixiter | A foamy, smokey liquid that is ingested.  | Makes the user feel young and happy. | Severe headache and joint pain. Long-term use has been linked to several rare muscle disorders.  | 1% chance of being addicted upon first use. Chances increase by 4% after each us |
+| 28 |Pidge | A cream-colored fibrous material that is chewed and spit out.  | Mild stimulant. | In rare cases very stiff muscles, high fever, sweating, confusion, and fast or uneven heartbeats.  | 0% chance of being addicted upon first use. Chances increase by 1% after each us |
+| 29 |Thump | A liquid injected into the heart.  | Intense stimulation and feeling of being truly alive. | Intense depression, edginess, convulsions, and suicidal thoughts. Long-term use leads to cardiac damage and failure.  | 70% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 30 |Weeb | A yellow or orange liquid that is injected.  | Decreases higher cortical brain function and makes the user more pliable. | Headache, agitation, prolonged drowsiness, and nausea. Long-term use can lead to pulmonary edema or cardiac failure.  | 0% chance of being addicted upon first use. Chances increase by 2% after each use. Note: Weeb is a street name for various types of "Truth Serum" or Sodium thiopental. Recreational use is rar |
+| 31 |E | An orangish-yellow pill that is a more potent derivative of U4E-uh.  | Makes the user feel happy and excited. | Use leads to lower sex drive, frequent panic attacks, and skin problems such as hives, rash, redness, shedding, and peeling skin. Long-term use can cause extremely high fevers that lead to a variety of medical complications.  | 3% chance of being addicted upon first use. Chances increase by 8% after each us |
+| 32 |Groove | A small green pill popular with the party scene.  | Euphoria, the need to move, and increased confidence. | Rash, painful joints, problems swallowing; long-term use can lead to difficulty speaking and viral infections.  | 0% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 33 |Slant | A black patch placed at the base of the skull.  | Weightlessness and out-of- body experiences. | Disorientation, and shakiness with long-term use being linked to medulloblastoma.  | 30% chance of being addicted upon first use. Chances increase by 4% after each us |
+| 34 |Grip | A goldish-gray pill.  | Intense excitement. | Rapid breathing, hypertension, and "zombification."  | 20% chance of being addicted upon first use. Chances increase by 6% after each us |
+| 35 |Fast Heat | A red pill that is a concentrated form of Salen Heat.  | The user feels warm and excited and usually feels the desire to remove their clothing. These effects are similar to Salen Heat but are more intense. | Extreme anxiety, irregular heartbeat, and convulsions.  | 7% chance of being addicted upon first use. Chances increase by 7% after each us |
+| 36 |Butterfly | A one-ounce shot of yellowish liquid that is ingested.  | Feelings of ecstasy and excitement. | Loss of appetite or increase in appetite, weight changes, cold symptoms (stuff y nose, sneezing, sore throat), dry mouth, and decreased sex drive.  | 0% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 37 |Flash | A yellow liquid that is dropped into the eyes.  | A sense of well-being and energy. | Nausea, delusions of power, and increased aggressiveness are the main short-term effects. Long-term use leads to premature aging, strokes, and extreme mood swings.  | 60% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 38 |Sap | The sap of the Gorva bush is boiled and mixed with alcohol and then ingested.  | Powerful feeling of euphoria, and intensifies the effects of alcohol. | Severe hangovers with long-term use leading to brain damage.  | 0% chance of being addicted upon first use. Chances increase by 4% after each us |
+| 39 |Spark | A glass-like crystal that gives off sparks as it is chewed.  | Supposedly allows the user to "touch the mind of God." | After a 12 to 24-hour high, use leads to deat |
+| 40 |Red Eye | A small black pill.  | Produces the feeling of alertness and the sensation of being fully awake. | Short-term use causes extremely bloodshot eyes. Long-term use can lead to blindness.  | 20% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 41 |Kiss | A party scene drug that is a small purple patch placed on one’s temple.  | Hyperactivity and the desire to move. | Long-term use causes violent tremors.  | 2% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 42 |Kronk | Leaves of the marijuana plant that are smoked.  | A pleasant euphoria, sense of relaxation, and heightened sensory perception. | Anxiety, fear, distrust, panic, and a loss of the sense of personal identity. Long-term use leads to schizophrenia or other psychotic disorders.  | 1% chance of being addicted upon first use. Chances increase by 4% after each us |
+| 43 |Glitch | A blue slime that is inhaled through the nose.  | Euphoria and the sensation of spinning. | Upset stomach, muscle aches, dizziness, headaches, and urine turns blue. Long- term use has been linked to a host of medical issues including kidney failure and brain tumors.  | 1% chance of being addicted upon first use. Chances increase by 30% after each us |
+| 44 |Snif | A mist that is inhaled.  | Inflated self-esteem and elevated mood. | Confusion or disorientation, muscle weakness, and bone pain.  | 5% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 45 |Flutter | Pinkish green crystals that resemble sugar and are ingested.  | The sensation of extreme sexual pleasure. | The loss of hair and teeth with long-term use is associated with kidney failure.  | 2% chance of being addicted upon first use. Chances increase by 20% after each us |
+| 46 |Zeem's Tears | Blue-green crystals that are smoked.  | Peaceful calm and contentedness. | Intense feelings of loneliness and a number of gastrointestinal diseases.  | 1% chance of being addicted upon first use. Chances increase by 20% after each us |
+| 47 |Smolder | A heated liquid that is injected.  | Increased alertness and energy, as well as enhanced empathy. | Fever, unusual eye movements, jerky movements, and increased gambling, sexual, or other overpowering urges.  | 30% chance of being addicted upon first use. Chances increase by 8% after each us |
+| 48 |Go Go | A grey chalky substance smeared on the lips.  | Loss of social inhibitions and increased bravado. | Severe cardiac damage.  | 1% chance of being addicted upon first use. Chances increase by 1% after each us |
+| 49 |Zip | A small almond-colored pill. | Mild stimulant. | Headache and anxiety for a few days if use is discontinued.  | 0% chance of being addicted upon first use. Chances increase by 1% after each use. Note: Zip is 40 mg of caffeine |
+| 50 |U4E-uh | A small orange pill, sometimes called Orange Cream, that is popular on the party scene.  | Makes the user feel happy and excited. | Long-term use leads to lower sex drive and frequent panic attacks.  | 1% chance of being addicted upon first use. Chances increase by 1% after each us |
+| 51 |Cap Jaw | A heavier-than-air yellow gas that is inhaled.  | Imbues the feeling of invincibility. | Extreme nervousness and insomnia.  | 10% chance of being addicted upon first use. Chances increase by 15% after each us |
+| 52 |Plik | A liquid that is injected.  | Loss of all sense of self-control, and the user is incapable of forming memories while under the influence. | Cold sweats, a weak immune system, and permanent muscular weakness.  | 2% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 53 |Salen Heat | A red pill popular on the party scene.  | The user feels warm and excited and usually feels the desire to remove their clothing. | Extreme anxiety.  | 1% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 54 |Cloud 9 | A white liquid inhaled through the nose.  | Feelings of carefree enjoyment. | Long-term use weakens the immune system.  | 5% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 55 |Sweet | A substance similar to hard candy that is sucked on.  | Mild hallucinations and euphoria that lead to extreme amicability. | Irritability and fatigue.  | 0% chance of being addicted upon first use. Chances increase by 1% after each us |
+| 56 |Raindrop | A clear liquid dropped into the eye, popular with the party scene.  | Feelings of euphoria. | Dry mouth, headache, and cognitive impairment.  | 0% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 57 |Grub | A smelly paste that is rubbed on the inside of the cheek.  | Feeling of extreme pleasure. | Depression, vomiting, with long-term use leading to memory gaps and dementia.  | 10% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 58 |Thinker | Light blue dissolvable strip placed on the tongue.  | Increases cognitive function. | Long-term use decreases cognitive function.  | 2% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 59 |Moan | A purple pill.  | Heightened sexual desire. | Sleep disturbance, fever, and dangerous liver tumors.  | 0% chance of being addicted upon first use. Chances increase by 15% after each us |
+| 60 |Loam | Peat from a certain bog that is harvested and smoked.  | Helps focus, calming effect, and allows the user to stay awake for 72 hours. | Extreme drowsiness with long-term use leading to coma.  | 5% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 61 |Sludge | A bluish-black liquid or solid that is ingested.  | Intense emotions either positive or negative. | Long-term use leads to liver failure.  | 35% chance of being addicted upon first use. Chances increase by 40% after each us |
+| 62 |Drill | A brown liquid that is injected into the tear ducts.  | Enhances mental cognition, increases sensory perception, and gives feelings of power. | Blurred vision, double vision, nosebleeds with long-term use leading to extreme seizures and brain damage.  | 8% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 63 |Feather Shot | A lighter-than-air gas that is injected.  | Deep relaxation and a sense of peace. | Severe depression and suicidal thoughts.  | 0% chance of being addicted upon first use. Chances increase by 7% after each us |
+| 64 |Wig | A red liquid that is injected into the neck.  | Giddiness and laughter. | Odd behavior and rambling speech. Long-term use has been linked to various rare cancers.  | 12% chance of being addicted upon first use. Chances increase by 2% after each us |
+| 65 |Piff Powder | A reddish-brown powder that is inhaled through the nose.  | Elation and no desire to sleep. | Narcolepsy and long-term sinus and brain damage.  | 3% chance of being addicted upon first use. Chances increase by 15% after each us |
+| 66 |Pop | A green pill that is dissolved in water and then ingested.  | Rush of adrenaline and happiness. | Dizziness and confusion with long-term use leading to heart failure.  | 6% chance of being addicted upon first use. Chances increase by 6% after each use. Note: If the pill is swallowed without being dissolved in water it causes vomiting and none of the normal drug effect |
+| 67 |Bang Bang | An indigo pill.  | Higher pleasure from and desire for physical touch and heightened energy levels. | Drowsiness, dizziness, fatigue, and nausea.  | 10% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 68 |Shadow Hand | A translucent pill.  | Intensely pleasurable dreams and allows the user to manipulate their dreams. | Inability to distinguish between reality and dreams.  | 5% chance of being addicted upon first use. Chances increase by 20% after each us |
+| 69 |Rainbow Dancer | A multi-colored crystal that is chewed.  | Imbues the user with feelings of happiness and increased sexual desire. | Short-term use causes vomiting and long-term use damages motor skills.  | 5% chance of being addicted upon first use. Chances increase by 1% after each us |
+| 70 |Guur | A living slime mold that is snorted.  | Heightened sense of awareness and boosts reaction time. | Mucusy cough; long-term use can cause a brain aneurysm.  | 8% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 71 |Ali Ali Trip | A round, blue pill.  | Increased attentiveness and concentration. | Dizziness, increased heart rate, heart palpitations, and violent behavior.  | 0% chance of being addicted upon first use. Chances increase by 2% after each us |
+| 72 |Sprouts | The stems of a plant classified 34BZ87QHR that are chewed.  | Intense hallucinations. | Degenerates the central nervous system leading to many complications.  | 40% chance of being addicted upon first use. Chances increase by 20% after each us |
+| 73 |Glob | A gelatin-like substance that is slurped out of a plastic container.  | Psychedelic experiences. | Feelings of despair and hopelessness. Plus long-term use leads to bone cancer.  | 25% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 74 |Hot Grip | A red chewable caplet.  | Extreme pleasure and feelings of happiness. | Burns on the inside of the mouth; long-term use leads to confusion and anemia.  | 0% chance of being addicted upon first use. Chances increase by 1% after each us |
+| 75 |Food of the Gods | The fruit of the Cama tree is roasted and then ingested.  | Warm tingling and mild hallucinations. | Delirium, fear, shakiness, and a permanent weak feeling.  | 1% chance of being addicted upon first use. Chances increase by 4% after each use. Note: If eaten unroasted, there is a 70% chance of deat |
+| 76 |Tar Shot | A dark fluid that is injected.  | Abundant energy and pleasure. | Aggressiveness with long-term use leads to a breakdown in cognitive function.  | 3% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 77 |Spike | An orange gas injected into the intestines.  | Extreme energy and the user does not feel pain. | Short-term use causes many intestinal issues; long-term use leads to severe brain cancer. |  10% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 78 |Gorge | A flaky white or pinkish wafer that is ingested.  | The sensation of strength and power. | Leads to dangerous overeating; long-term use breaks down muscle tissue.  | 50% chance of being addicted upon first use. Chances increase by 10% after each us |
+| 79 |Gravy | powder or liquid that is often mixed with other food.  | Hallucinations, altered states of being, and unresponsiveness to reality. | Loss of consciousness and widespread cellular damage.  | 2% chance of being addicted upon first use. Chances increase by 30% after each us |
+| 80 |Boom | A liquid that is injected.  | Bursts of energy and increased sexual desire. | Tremors or loss of motor coordination. Long-term use has been associated with a weakened immune system, muscular weakness, and insomnia.  | 7% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 81 |Mirror Mirror | Silver dermal patch.  | The user feels unusually attractive and sexy. | Severe anxiety, lack of appetite, teeth grinding, and obsessive behavior.  | 0% chance of being addicted upon first use. Chances increase by 1% after each us |
+| 82 |Sweet Punch | A pinkish liquid that is ingested.  | Sedation and dissociation. | Short- term side effects include nausea and stomach pain; long-term use leads to impaired memory and cognitive dysfunction.  | 0% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 83 |Dream Leaf | The leaf of the Portilla plant is boiled in water and the fumes are inhaled.  | Wonderful, exciting dreams and visions. | Long-term use destroys the motivation center in the brain.  | 20% chance of being addicted upon first use. Chances increase by 5% after each use. Note: If the Portilla leaf is boiled in Isopropyl Alcohol, it is called "Death Dream Leaf" as there is a 30% chance of dying after each use. A surprisingly large number of long-term addicts feel the enhanced high is worth the ris |
+| 84 |Drip | A pale blue liquid dropped into the eyes.  | Intense feelings of happiness and self- esteem. | Low blood pressure, kidney problems, and kidney stones.  | 0% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 85 |Sleeper | A green powder that is smoked.  | Sleepiness and relaxation. | Unnaturally long periods of sleep; long-term use has been linked to organ failure.  | 5% chance of being addicted upon first use. Chances increase by 2% after each us |
+| 86 |Tank | A large black pill.  | The feeling of invulnerability and extreme strength. | Stomach pain and constipation. Long-term use leads to musculoskeletal disorders.  | 5% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 87 |Sloke | A lozenge that dissolves in the mouth.  | The sensation of slowing down and peaceful relaxation. | Back pain, dizziness, drowsiness, nervousness; long-term use leads to coma or death.  | 25% chance of being addicted upon first use. Chances increase by 6% after each us |
+| 88 |Zong | A glittery powder that is smoked through a water pipe.  | Relaxation, sleepiness, and mild hallucinations. | Crying spells, aggression or agitation, changes in behavior, and thoughts of suicide or hurting yourself.  | 5% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 89 |River Stix | A golden-colored disk that dissolves in the mouth.  | Numbness, relaxation, and a sense of well-being and euphoria. | Delusions of grandeur with an inflated sense of importance. Long-term use may lead to fatal internal bleeding.  | 60% chance of being addicted upon first use. Chances increase by 5% after each us |
+| 90 |O | An octagonal translucent pill.  | None, though users feel excited. | None, though users feel nervous if they go without it for a few days.  | 0% chance of being addicted, though 30% of users report being addicted. Note: O is a placebo. This is not known to the general population. However, certain drug manufacturers and cartels are aware. It is unknown who introduced the pil |
+| 91 |Sunset | A bright orange square pill.  | Lucid dreaming. | Restlessness and chronic fatigue.  | 3% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 92 |Fun in the Sun | A flax-colored pill.  | A euphoric state of being and a distorted perception of time. | Easy bruising, red pin-prick spots on the skin, bleeding gums.  | 0% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 93 |High Stakes Runner | A mist that is inhaled.  | Increases lung capacity by 50% and increases blood flow throughout the body. | Sudden lung collapse and destruction of the pleural cavity.  | 5% chance of being addicted upon first use. Chances increase by 20% after each us |
+| 94 |Chrome Love | A silvery pill.  | Makes the user crave physical touch. | Leads to hair loss and infertility.  | 0% chance of being addicted upon first use. Chances increase by 2% after each us |
+| 95 |Split | Various chemical compounds that are inhaled.  | Altered sense of self and altered perception of time and space. | Ringing in the ears, blurred vision, loss of interest in sex, and sore throat.  | 10% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 96 |Boom Boom Mo | A red solid that is melted into a liquid and then ingested.  | Lowers inhibitions; increases the desire to dance and be the center of attention. | Vomiting. Long- term use leads to severe depression.  | 0% chance of being addicted upon first use. Chances increase by 2% after each us |
+| 97 |Flame Out | Burner’s lighter cousin; it is an orangish-red spongy substance placed under the tongue.  | The user feels waves of euphoria and is flooded with adrenaline. | Short-term use leads to occasional dizzy spells. Long-term use leads to confusion and dementia.  | 70% chance of being addicted upon first use. Chances increase by 5% after each use. Note: Some governments give this drug to their frontline soldier |
+| 98 |Chippy Stick | A yellowish-red compound compressed into a small stick that is slowly chewed.  | Mild stimulant. | Stains teeth red; long-term use leads to throat and jaw cancer.  | 1% chance of being addicted upon first use. Chances of being addicted increase by 1% after each us |
+| 99 |Zero | A round white pill that is swallowed.  | Mild stimulant and hallucinations. | Increased heart rate and fatigue; long-term use leads to internal bleeding.  | 0% chance of being addicted upon first use. Chances increase by 3% after each us |
+| 100 |Burner | A red spongy substance placed under the tongue.  | The user feels wave after wave of euphoria and is flooded with adrenaline. | Short-term use leads to sudden dizzy spells and blackouts. Long-term use leads to insanity.  | 100% chance of being addicted upon first use. 2% chance of death after every us |
 
 ### Items in a Cybernetics Clinic
-
+| d100| Name |
+|:--:|--|
 | 1 |Hardcopy library of cybernetic textbooks (1D100)|
 | 2 |Articulated spinal support exoskeleton on a work table|
 | 3 |Jump drive (record of bribes)|
@@ -6911,7 +6921,8 @@ military personnel #2
 
 
 ## Items in a Biology Lab -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Incubator|
 | 2 |Timer|
 | 3 |Disposable Inoculating Loops|
@@ -7015,7 +7026,8 @@ military personnel #2
 
 
 ## Items in a Chemical Lab -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Xylene|
 | 2 |Trimethylamine Solution|
 | 3 |Erlenmeyer Flasks|
@@ -7119,6 +7131,58 @@ military personnel #2
 
 ## Items in a Crashed Cargo Spaceship -:-:- 
 
+| d100| Name |
+|:--:|--|
+| 1 |Remains of an explosive device|
+| 2 |Damaged storage unit of Exodine|
+| 3 |Broken dining ware|
+| 4 |Turbine parts (3D100, scattered about)|
+| 5 |Large tool chest full of tools|
+| 6 |Damaged tanks of soybean oil (leaking)|
+| 7 |Cattle (4D20, running loose)|
+| 8 |Containers of machinery parts|
+| 9 |Survival kits (1D20)|
+| 10 |Damaged storage unit of nutrient packs|
+| 11 |Space suits (1D10)|
+| 12 |Damaged crude petroleum tanks (leaking)|
+| 13 |Damaged containers of wool|
+| 14 |Steel hull fragments|
+| 15 |Damaged containers of rare earth metals|
+| 16 |Data sticks (crime organization plans, 1D12)|
+| 17 |Smashed containers of packaged medicaments|
+| 18 |Damaged containers of spacecraft parts|
+| 19 |Container of tin|
+| 20 |Smashed containers of integrated circuits|
+| 21 |Containers of tea leaves (1D100 x 10 pounds)|
+| 22 |Cracked goggles|
+| 23 |Damaged storage unit of laboratory supplies|
+| 24 |Dead bodies (1D100)|
+| 25 |Spilled chemical compounds|
+| 26 |Containers of aluminum|
+| 27 |Damaged shuttlecraft|
+| 28 |Twisted girder|
+| 29 |Data stick (crew roster)|
+| 30 |Smashed containers of perishable goods (spoiled)|
+| 31 |Damaged containers spilling spices on the floor|
+| 32 |Rope (100’)|
+| 33 |Damaged storage unit of Chronium gas|
+| 34 |Heap of burning textiles|
+| 35 |Containers of zinc|
+| 36 |Personal flotation devices (2D100)|
+| 37 |Canned food scattered about|
+| 38 |Tangles of wires|
+| 39 |Charred containers that have been looted|
+| 40 |Smashed containers of wheat|
+| 41 |Damaged containers of cloth|
+| 42 |Small power generator|
+| 43 |Damaged containers of silk|
+| 44 |Hoverbikes smashed into a pile (1D10)|
+| 45 |Damaged tanks of biofuel (leaking)|
+| 46 |Sheep (1D100, dead)|
+| 47 |Damaged storage unit of plant specimens|
+| 48 |Damaged refined petroleum tanks (leaking)|
+| 49 |Damaged fuel containers (leaking)|
+| 50 |Data stick (captain's log)|
 | 51 |Boot|
 | 52 |Damaged storage unit of Neurocine serum|
 | 53 |Heavily damaged land rover|
@@ -7171,57 +7235,58 @@ military personnel #2
 | 100 | Breath masks (1D20)|
 
 ## Items in a Desk -:-:- 
-
-| 1 |Remains of an explosive device|
-| 2 |Damaged storage unit of Exodine|
-| 3 |Broken dining ware|
-| 4 |Turbine parts (3D100, scattered about)|
-| 5 |Large tool chest full of tools|
-| 6 |Damaged tanks of soybean oil (leaking)|
-| 7 |Cattle (4D20, running loose)|
-| 8 |Containers of machinery parts|
-| 9 |Survival kits (1D20)|
-| 10 |Damaged storage unit of nutrient packs|
-| 11 |Space suits (1D10)|
-| 12 |Damaged crude petroleum tanks (leaking)|
-| 13 |Damaged containers of wool|
-| 14 |Steel hull fragments|
-| 15 |Damaged containers of rare earth metals|
-| 16 |Data sticks (crime organization plans, 1D12)|
-| 17 |Smashed containers of packaged medicaments|
-| 18 |Damaged containers of spacecraft parts|
-| 19 |Container of tin|
-| 20 |Smashed containers of integrated circuits|
-| 21 |Containers of tea leaves (1D100 x 10 pounds)|
-| 22 |Cracked goggles|
-| 23 |Damaged storage unit of laboratory supplies|
-| 24 |Dead bodies (1D100)|
-| 25 |Spilled chemical compounds|
-| 26 |Containers of aluminum|
-| 27 |Damaged shuttlecraft|
-| 28 |Twisted girder|
-| 29 |Data stick (crew roster)|
-| 30 |Smashed containers of perishable goods (spoiled)|
-| 31 |Damaged containers spilling spices on the floor|
-| 32 |Rope (100’)|
-| 33 |Damaged storage unit of Chronium gas|
-| 34 |Heap of burning textiles|
-| 35 |Containers of zinc|
-| 36 |Personal flotation devices (2D100)|
-| 37 |Canned food scattered about|
-| 38 |Tangles of wires|
-| 39 |Charred containers that have been looted|
-| 40 |Smashed containers of wheat|
-| 41 |Damaged containers of cloth|
-| 42 |Small power generator|
-| 43 |Damaged containers of silk|
-| 44 |Hoverbikes smashed into a pile (1D10)|
-| 45 |Damaged tanks of biofuel (leaking)|
-| 46 |Sheep (1D100, dead)|
-| 47 |Damaged storage unit of plant specimens|
-| 48 |Damaged refined petroleum tanks (leaking)|
-| 49 |Damaged fuel containers (leaking)|
-| 50 |Data stick (captain's log)|
+| d100| Name |
+|:--:|--|
+| 1 |Nanotech contract database|
+| 2 |Adaptive smart umbrella|
+| 3 |Binder notebook filled with papers|
+| 4 |Suicide note|
+| 5 |Business card of a known rival|
+| 6 |Personal data storage device|
+| 7 |Electro-shock weapon (hidden)|
+| 8 |Neural interface visor|
+| 9 |Spare socks (formal)|
+| 10 |Encrypted data storage chip|
+| 11 |Battery|
+| 12 |Neuro-enhancing smart pills|
+| 13 |Unlabeled bottle of pills|
+| 14 |Anti-gravity yoga mat|
+| 15 |Cybernetic augmented reality contact lenses|
+| 16 |Neural mood regulator|
+| 17 |Contact book (hard copy)|
+| 18 |Audio recorder|
+| 19 |Book of short stories|
+| 20 |Passport|
+| 21 |Cybernetic augmentation maintenance tool|
+| 22 |Bag of mixed nuts|
+| 23 |Energy shield bracelet|
+| 24 |Deodorant|
+| 25 |Incriminating letter|
+| 26 |Shot glasses (1D6)|
+| 27 |Moldy sandwich|
+| 28 |Computer tablet|
+| 29 |Container of illegal drugs|
+| 30 |Ancient coin|
+| 31 |Nanobot repair kit|
+| 32 |Spare cuff links|
+| 33 |Hologram displaying real-time stock market data|
+| 34 |Empty notepad|
+| 35 |Credits (1D10)|
+| 36 |Wedding ring|
+| 37 |Blueprints for a bank|
+| 38 |Smart wallet|
+| 39 |Subliminal learning headset|
+| 40 |Spare device charger|
+| 41 |Two tickets for a space cruise|
+| 42 |Cologne|
+| 43 |Crackers|
+| 44 |Programmable matter paperweight|
+| 45 |Energy harvesting wireless charging station|
+| 46 |Notepad full of "great" ideas|
+| 47 |Self-updating smart analytics dashboard|
+| 48 |Allergy medicine|
+| 49 |Portable molecular food synthesizer|
+| 50 |Small pistol (hidden)|
 | 51 |Holographic data cube|
 | 52 |Personal assistant hover drone (deactivated)|
 | 53 |Bowl of candy|
@@ -7273,59 +7338,60 @@ military personnel #2
 | 99 |Broken key card|
 | 100 | Fandom collectible|
 
-| 1 |Nanotech contract database|
-| 2 |Adaptive smart umbrella|
-| 3 |Binder notebook filled with papers|
-| 4 |Suicide note|
-| 5 |Business card of a known rival|
-| 6 |Personal data storage device|
-| 7 |Electro-shock weapon (hidden)|
-| 8 |Neural interface visor|
-| 9 |Spare socks (formal)|
-| 10 |Encrypted data storage chip|
-| 11 |Battery|
-| 12 |Neuro-enhancing smart pills|
-| 13 |Unlabeled bottle of pills|
-| 14 |Anti-gravity yoga mat|
-| 15 |Cybernetic augmented reality contact lenses|
-| 16 |Neural mood regulator|
-| 17 |Contact book (hard copy)|
-| 18 |Audio recorder|
-| 19 |Book of short stories|
-| 20 |Passport|
-| 21 |Cybernetic augmentation maintenance tool|
-| 22 |Bag of mixed nuts|
-| 23 |Energy shield bracelet|
-| 24 |Deodorant|
-| 25 |Incriminating letter|
-| 26 |Shot glasses (1D6)|
-| 27 |Moldy sandwich|
-| 28 |Computer tablet|
-| 29 |Container of illegal drugs|
-| 30 |Ancient coin|
-| 31 |Nanobot repair kit|
-| 32 |Spare cuff links|
-| 33 |Hologram displaying real-time stock market data|
-| 34 |Empty notepad|
-| 35 |Credits (1D10)|
-| 36 |Wedding ring|
-| 37 |Blueprints for a bank|
-| 38 |Smart wallet|
-| 39 |Subliminal learning headset|
-| 40 |Spare device charger|
-| 41 |Two tickets for a space cruise|
-| 42 |Cologne|
-| 43 |Crackers|
-| 44 |Programmable matter paperweight|
-| 45 |Energy harvesting wireless charging station|
-| 46 |Notepad full of "great" ideas|
-| 47 |Self-updating smart analytics dashboard|
-| 48 |Allergy medicine|
-| 49 |Portable molecular food synthesizer|
-| 50 |Small pistol (hidden)|
-
 ## Items in a Freighter Cockpit -:-:- 
 
+| d100| Name |
+|:--:|--|
+| 1 |Hand-held inhaler|
+| 2 |Spaceship schematic|
+| 3 |Silver earring|
+| 4 |Metal disc with a sun symbol|
+| 5 |Data stick (cargo manifest)|
+| 6 |Data sticks (1D12, blank)|
+| 7 |Container of nutrient paste|
+| 8 |Wireless earphones|
+| 9 |Knee pads|
+| 10 |Small pistol (hidden)|
+| 11 |Microchips (1D10)|
+| 12 |Half-full unmarked pill bottle|
+| 13 |Oxygen mask|
+| 14 |Lip balm (full tube unused)|
+| 15 |Credits (1D10)|
+| 16 |Syringe|
+| 17 |Computer cable (10’)|
+| 18 |Foil emergency blanket|
+| 19 |Brass casing|
+| 20 |Gold finger ring|
+| 21 |Knit cap|
+| 22 |Picture of a young girl|
+| 23 |Golden dice on a chain|
+| 24 |Data stick (blueprints of a bank)|
+| 25 |First aid kit|
+| 26 |Hand sanitizer wipes (1D12 packets)|
+| 27 |Vintage-style analog watch|
+| 28 |Potted succulent|
+| 29 |Nylon cord (3’)|
+| 30 |Snow globe|
+| 31 |Plastic strip (2" x 7")|
+| 32 |High-temperature tape (half roll)|
+| 33 |Gravity boots|
+| 34 |Aviator sunglasses|
+| 35 |Bonsai tree|
+| 36 |Ivory button|
+| 37 |Prepared microscope slide (bacteria)|
+| 38 |Broken plastic pieces (1D8)|
+| 39 |Space-themed hanging calendar|
+| 40 |Emergency survival kit|
+| 41 |Data stick (1D10 movies)|
+| 42 |Picture of a popular singer|
+| 43 |Wrench|
+| 44 |Data stick (financial data)|
+| 45 |Old boot|
+| 46 |Holographic chess set|
+| 47 |Small screw|
+| 48 |Poker chip|
+| 49 |Military jacket patch|
+| 50 |Encrypted data crystal|
 | 51 |Bloody adhesive bandage|
 | 52 |Flashlight|
 | 53 |Pair of palm gloves|
@@ -7377,59 +7443,9 @@ military personnel #2
 | 99 |Tiny wood carving of an orca|
 | 100 | Sharktooth|
 
-| 1 |Hand-held inhaler|
-| 2 |Spaceship schematic|
-| 3 |Silver earring|
-| 4 |Metal disc with a sun symbol|
-| 5 |Data stick (cargo manifest)|
-| 6 |Data sticks (1D12, blank)|
-| 7 |Container of nutrient paste|
-| 8 |Wireless earphones|
-| 9 |Knee pads|
-| 10 |Small pistol (hidden)|
-| 11 |Microchips (1D10)|
-| 12 |Half-full unmarked pill bottle|
-| 13 |Oxygen mask|
-| 14 |Lip balm (full tube unused)|
-| 15 |Credits (1D10)|
-| 16 |Syringe|
-| 17 |Computer cable (10’)|
-| 18 |Foil emergency blanket|
-| 19 |Brass casing|
-| 20 |Gold finger ring|
-| 21 |Knit cap|
-| 22 |Picture of a young girl|
-| 23 |Golden dice on a chain|
-| 24 |Data stick (blueprints of a bank)|
-| 25 |First aid kit|
-| 26 |Hand sanitizer wipes (1D12 packets)|
-| 27 |Vintage-style analog watch|
-| 28 |Potted succulent|
-| 29 |Nylon cord (3’)|
-| 30 |Snow globe|
-| 31 |Plastic strip (2" x 7")|
-| 32 |High-temperature tape (half roll)|
-| 33 |Gravity boots|
-| 34 |Aviator sunglasses|
-| 35 |Bonsai tree|
-| 36 |Ivory button|
-| 37 |Prepared microscope slide (bacteria)|
-| 38 |Broken plastic pieces (1D8)|
-| 39 |Space-themed hanging calendar|
-| 40 |Emergency survival kit|
-| 41 |Data stick (1D10 movies)|
-| 42 |Picture of a popular singer|
-| 43 |Wrench|
-| 44 |Data stick (financial data)|
-| 45 |Old boot|
-| 46 |Holographic chess set|
-| 47 |Small screw|
-| 48 |Poker chip|
-| 49 |Military jacket patch|
-| 50 |Encrypted data crystal|
-
 ## Items in a Governmental Office -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Wooden hourglass|
 | 2 |Noise-canceling earbuds|
 | 3 |Sleek and sophisticated wristwatch|
@@ -7532,7 +7548,8 @@ military personnel #2
 | 100 |Three-dimensional holographic chess set|
 
 ## Items in a Lab Director's Office -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Jump drive (faked experiment results)|
 | 2 |Antique compass|
 | 3 |Framed diplomas|
@@ -7636,7 +7653,8 @@ military personnel #2
 
 
 ## Items in a Ship Captain Quarters -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Meteorite fragment on a chain|
 | 2 |Microchip|
 | 3 |Leaves Falling on an Astral Pool (book)|
@@ -7739,7 +7757,8 @@ military personnel #2
 | 100 |Piano|
 
 ## Items in a Warehouse -:-:-  122-
-
+| d100| Name |
+|:--:|--|
 | 1 |Storage unit of neural interface implants|
 | 2 |Crate of shoes|
 | 3 |Storage unit of memory extraction devices|
@@ -7764,11 +7783,11 @@ military personnel #2
 | 22 |Robotic sorting arm|
 | 23 |Planetary exploration vehicles (in storage)|
 | 24 |Crate of copper wire|
-| 25 |Crate of half-burned pictures and documents marked "EVIDENCE"
+| 25 |Crate of half-burned pictures and documents marked "EVIDENCE"|
 | 26 |Crate of cleaning supplies|
 | 27 |Cryogenic storage unit of cells and tissues|
 | 28 |Storage unit of self-repairing robotics components|
-| 29 |Crate marked "DO NOT OPEN UNDER ANY CIRCUMSTANCES"
+| 29 |Crate marked "DO NOT OPEN UNDER ANY CIRCUMSTANCES"|
 | 30 |Molecular scanner|
 | 31 |Crate of dirt from a distant planet|
 | 32 |Cryogenic storage unit of plant specimens|
@@ -7786,7 +7805,7 @@ military personnel #2
 | 44 |Crate of antique statues|
 | 45 |Shipping container of beer kegs|
 | 46 |Storage unit of renewable energy harvesting equipment|
-| 47 |Looted crate labeled "Gold"
+| 47 |Looted crate labeled "Gold"|
 | 48 |Cryogenic storage unit of chemical compounds|
 | 49 |Storage unit of genetic samples|
 | 50 |Crate of winter clothing|
@@ -7842,7 +7861,8 @@ military personnel #2
 | 100 |Gravity nullification carts|
 
 ## Metals -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Scandium|
 | 2 |Platinum|
 | 3 |Rutherfordium|
@@ -7945,7 +7965,8 @@ military personnel #2
 | 100 |Vanadium|
 
 ## Military Medals and Decorations -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |The Star Medal of Honor|
 | 2-4 |  The Stellar Cross|
 | 5-9 |  Order of the Celestial Dragon|
@@ -7967,6 +7988,59 @@ military personnel #2
 
 ## Poisonous Plants -:-:- 
 
+
+| d100| Name |
+|:--:|--|
+| 1 |Thurian Bloodroot|+
+| 2 |Silvermist Oak|
+| 3 |Sunset Jessamine|
+| 4 |Starfall Laurel|
+| 5 |Light Delphinium|
+| 6 |Ringed Doll's Eyes|
+| 7 |Fire-of-the-Blood Poinsettia|
+| 8 |Palm Pokeweed|
+| 9 |Voidbloom Moss|
+| 10 |Pale Shadowroot|
+| 11 |Molewood|
+| 12 |Moondust Wallflower|
+| 13 |Astral Dogbane|
+| 14 |Stardust Pulsatilla|
+| 15 |Starlit Asclepias|
+| 16 |New Foster Maikoa|
+| 17 |Regal Crown Vetch|
+| 18 |Woody Shadowthistle|
+| 19 |Stellar Adonis|
+| 20 |Nebula Featherfern|
+| 21 |Venomthorn Thumbwood|
+| 22 |Veilhearted Bleeding Heart|
+| 23 |Desert Stardust|
+| 24 |Blossoming Leaf Robin|
+| 25 |Shadowthorn Apple|
+| 26 |Veiled Columbine|
+| 27 |Serpentvine|
+| 28 |Paleghost Wart|
+| 29 |Shade Thorn Bush|
+| 30 |Dripping Oatmeal|
+| 31 |Tulip Slack Toloache|
+| 32 |Bloodfire Orchid|
+| 33 |Starfrost Monkshood|
+| 34 |Silentnight Ivy|
+| 35 |Marsh Moonflower|
+| 36 |Shore Blue Cohosh|
+| 37 |Tangled Red Rhododendron|
+| 38 |Celestial Aquilegia|
+| 39 |Lemon Frostdrop|
+| 40 |Starlight Brugmansia|
+| 41 |Nebula Goldenseal|
+| 42 |Cold Simple Thistle|
+| 43 |Moonshade Datura|
+| 44 |Hyacinth Tau O|
+| 45 |Climber Spider Lily|
+| 46 |Emomus Throne Flower|
+| 47 |Skyblossom|
+| 48 |Sim's Field Opium|
+| 49 |Enchantium|
+| 50 |Lush Bryony|
 | 51 |Ebonthorn|
 | 52 |Shadeflower|
 | 53 |Aurora Vine|
@@ -8018,59 +8092,10 @@ military personnel #2
 | 99 |Striped Lunarbane|
 | 100 | Bloodthistle|
 
-| 1 |Thurian Bloodroot|
-| 2 |Silvermist Oak|
-| 3 |Sunset Jessamine|
-| 4 |Starfall Laurel|
-| 5 |Light Delphinium|
-| 6 |Ringed Doll's Eyes|
-| 7 |Fire-of-the-Blood Poinsettia|
-| 8 |Palm Pokeweed|
-| 9 |Voidbloom Moss|
-| 10 |Pale Shadowroot|
-| 11 |Molewood|
-| 12 |Moondust Wallflower|
-| 13 |Astral Dogbane|
-| 14 |Stardust Pulsatilla|
-| 15 |Starlit Asclepias|
-| 16 |New Foster Maikoa|
-| 17 |Regal Crown Vetch|
-| 18 |Woody Shadowthistle|
-| 19 |Stellar Adonis|
-| 20 |Nebula Featherfern|
-| 21 |Venomthorn Thumbwood|
-| 22 |Veilhearted Bleeding Heart|
-| 23 |Desert Stardust|
-| 24 |Blossoming Leaf Robin|
-| 25 |Shadowthorn Apple|
-| 26 |Veiled Columbine|
-| 27 |Serpentvine|
-| 28 |Paleghost Wart|
-| 29 |Shade Thorn Bush|
-| 30 |Dripping Oatmeal|
-| 31 |Tulip Slack Toloache|
-| 32 |Bloodfire Orchid|
-| 33 |Starfrost Monkshood|
-| 34 |Silentnight Ivy|
-| 35 |Marsh Moonflower|
-| 36 |Shore Blue Cohosh|
-| 37 |Tangled Red Rhododendron|
-| 38 |Celestial Aquilegia|
-| 39 |Lemon Frostdrop|
-| 40 |Starlight Brugmansia|
-| 41 |Nebula Goldenseal|
-| 42 |Cold Simple Thistle|
-| 43 |Moonshade Datura|
-| 44 |Hyacinth Tau O|
-| 45 |Climber Spider Lily|
-| 46 |Emomus Throne Flower|
-| 47 |Skyblossom|
-| 48 |Sim's Field Opium|
-| 49 |Enchantium|
-| 50 |Lush Bryony|
-
 ## Types of Planets -:-:- 
 
+| d100| Name |
+|:--:|--|
 | 1-2 |  Ice planet|
 | 3-4 |  Sub-Earth|
 | 5-6 |  Terrestrial planet|
@@ -8124,57 +8149,9 @@ military personnel #2
 
 ## Types of Stars -:-:- 
 
-| 51 |S-type star|
-| 52 |Photometric-standard star|
-| 53 |Optical pulsar|
-| 54 |Herbig Ae/Be star|
-| 55 |Subdwarf|
-| 56 |Protostar|
-| 57 |Subgiant|
-| 58 |Lead star|
-| 59 |Fusor|
-| 60 |OB star|
-| 61 |Technetium star|
-| 62 |Ap star|
-| 63 |Extreme helium star|
-| 64 |Mercury-manganese star|
-| 65 |Red dwarf|
-| 66 |Black star|
-| 67 |Shell star|
-| 68 |Hypergiant|
-| 69 |K-type main-sequence star|
-| 70 |Yellow supergiant star|
-| 71 |A-type main-sequence star|
-| 72 |Pulsating white dwarf|
-| 73 |CH star|
-| 74 |Carbon star|
-| 75 |Rapidly oscillating Ap star|
-| 76 |Variable star|
-| 77 |Radio star|
-| 78 |Population I star|
-| 79 |Dwarf star|
-| 80 |CEMP star|
-| 81 |Blue straggler|
-| 82 |Soft gamma repeater|
-| 83 |Am star|
-| 84 |Exotic star|
-| 85 |Magnetar|
-| 86 |Class K star|
-| 87 |Supergiant star|
-| 88 |Population II star|
-| 89 |PG 1159 star|
-| 90 |Subdwarf O star|
-| 91 |Yellow hypergiant|
-| 92 |Lambda Eridani variable|
-| 93 |X-ray pulsar|
-| 94 |White dwarf|
-| 95 |Compact star|
-| 96 |Double star|
-| 97 |Lambda Boötis star|
-| 98 |B-type main-sequence star|
-| 99 |Neutron star|
-| 100 | Yellow giant|
 
+| d100| Name |
+|:--:|--|
 | 1 |T Tauri star|
 | 2 |Luminous blue variable|
 | 3 |O-type main-sequence star|
@@ -8225,12 +8202,62 @@ military personnel #2
 | 48 |Blue giant|
 | 49 |F-type main-sequence star|
 | 50 |Gamma-ray burst progenitors|
+| 51 |S-type star|
+| 52 |Photometric-standard star|
+| 53 |Optical pulsar|
+| 54 |Herbig Ae/Be star|
+| 55 |Subdwarf|
+| 56 |Protostar|
+| 57 |Subgiant|
+| 58 |Lead star|
+| 59 |Fusor|
+| 60 |OB star|
+| 61 |Technetium star|
+| 62 |Ap star|
+| 63 |Extreme helium star|
+| 64 |Mercury-manganese star|
+| 65 |Red dwarf|
+| 66 |Black star|
+| 67 |Shell star|
+| 68 |Hypergiant|
+| 69 |K-type main-sequence star|
+| 70 |Yellow supergiant star|
+| 71 |A-type main-sequence star|
+| 72 |Pulsating white dwarf|
+| 73 |CH star|
+| 74 |Carbon star|
+| 75 |Rapidly oscillating Ap star|
+| 76 |Variable star|
+| 77 |Radio star|
+| 78 |Population I star|
+| 79 |Dwarf star|
+| 80 |CEMP star|
+| 81 |Blue straggler|
+| 82 |Soft gamma repeater|
+| 83 |Am star|
+| 84 |Exotic star|
+| 85 |Magnetar|
+| 86 |Class K star|
+| 87 |Supergiant star|
+| 88 |Population II star|
+| 89 |PG 1159 star|
+| 90 |Subdwarf O star|
+| 91 |Yellow hypergiant|
+| 92 |Lambda Eridani variable|
+| 93 |X-ray pulsar|
+| 94 |White dwarf|
+| 95 |Compact star|
+| 96 |Double star|
+| 97 |Lambda Boötis star|
+| 98 |B-type main-sequence star|
+| 99 |Neutron star|
+| 100 |  Yellow giant|
 
 ## vessels and space stations
 
 
-### Derelicts
-| D100 |   Type    |          Size           | Damage                                                                                                                              | Bodies                         | Oddity                                                                                            |
+### Derelicts 
+|D100 |   Type    |          Size           | Damage                                                                                                                              | Bodies                         | Oddity                                                                                            |
 | :--: | :-------: | :---------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------- |
 |  1   |  Vessel   |   D10 x 10,000 sq. mi   | Life Support, Propulsion                                                                                                            | None                           | Strange residue on the floors                                                                     |
 |  2   |  Vessel   |  D10 x 100,000 sq. ft   | None                                                                                                                                | None                           | Cargo hold with many sealed containers                                                            |
@@ -8334,7 +8361,6 @@ military personnel #2
 | 100  | Satellite | D10 x 10,000,000 sq. ft | None                                                                                                                                | None                           | Broken stasis pods releasing eerie mist                                                           |
 
 ### Escape Pods
-
 | D100 |    Damaged System     | Occupants | Injuries                                                 | Oddity                                                                                      |                           |
 | :--: | :-------------------: | --------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------- |
 |  1   |     Sensor Array      | 6         | Cuts and abrasions                                       | All occupants are trying to speak but cannot                                                |                           |
@@ -8442,425 +8468,424 @@ military personnel #2
 
 | d100 | Vessel Name | Type | Home Port| Owner | Modifications |Restrictions|
 |:--| -- | -- | -- | -- | -- | -- |
-| 1 |Vessel Name: Polarian | Type: Passenger freighter | Home Port: Gorgonas | Owner: Fitzhugh Ferhat| Modifications: None | Restrictions: None|
-| 2 |Vessel Name: Beowulf | Type: Luxury liner | Home Port: Nueva Virginia | Owner: Oskar Kabongo | Modifications: None | Restrictions: None|
-| 3 |Vessel Name: Geniscus | Type: Research vessel | Home Port: Inglis | Owner: Siobhan Mabua | Modifications: None | Restrictions: None|
-| 4 |Vessel Name: Lyric | Type: Light freighter | Home Port: Malmesbury | Owner: Liam Anderson | Modifications: None | Restrictions: Arrest warrant issued for current captain|
-| 5 |Vessel Name: Rostam | Type: Research vessel | Home Port: Oatman | Owner: Kista Pendragon | Modifications: None | Restrictions: None|
-| 6 |Vessel Name: Sutherland | Type: Luxury yacht | Home Port: Freedom | Owner: Bjorn Gomez | Modifications: None | Restrictions: None|
-| 7 |Vessel Name: Utu | Type: Passenger freighter | Home Port: Southampton | Owner: Min-Jun Schwartz|  Modifications: None | Restrictions: None|
-| 8 |Vessel Name: Innara | Type: Hospital ship | Home Port: Plutus | Owner: Elodie Sokolov | Modifications: None | Restrictions: Polymatheia docking privileges suspended|
-| 9 |Vessel Name: San Miguel | Type: Luxury liner | Home Port: Washington | Owner: Carlos Fischer | Modifications: Engine Upgrade | Restrictions: Banned from Novosibirsk|
-| 10 |Vessel Name: van Gogh | Type: Transport | Home Port: Amritsar | Owner: Jack Edwards | Modifications: None | Restrictions: None|
-| 11 |Vessel Name: Tehran | Type: Bulk freighter | Home Port: Decurio | Owner: Ronan Olanrewaju | Modifications: Main Computer Upgrade | Restrictions: None|
-| 12 |Vessel Name: Thalassa | Type: Passenger freighter | Home Port: Thrace | Owner: Aissatou Traore | Modifications: None | Restrictions: None|
-| 13 |Vessel Name: Aurora | Type: Luxury liner | Home Port: Qena | Owner: Amelia Evans | Modifications: None | Restrictions: Reported STOLEN|
-| 14 |Vessel Name: Europa | Type: Patrol craft | Home Port: Ares Lusitani | Owner: Gwendolyn Cooper | Modifications: None | Restrictions: None|
-| 15 |Vessel Name: Hector | Type: Light freighter | Home Port: Jenguia | Owner: Valentina Schneider | Modifications: None | Restrictions: None|
-| 16 |Vessel Name: Anahita | Type: Bulk freighter | Home Port: Kabeiria | Owner: Henry Davis | Modifications: None | Restrictions: None|
-| 17 |Vessel Name: Pizarro | Type: Passenger liner | Home Port: Chorasmia | Owner: Aziz Sharma | Modifications: None | Restrictions: None|
-| 18 |Vessel Name: Tiberius | Type: Passenger freighter | Home Port: Porto Alegre | Owner: Yeong-Ho Odinga | Modifications: None | Restrictions: None|
-| 19 |Vessel Name: Castilla | Type: Research vessel | Home Port: Isfahan | Owner: Mercedes Kirov | Modifications: Weapon System Upgrade | Restrictions: None|
-| 20 |Vessel Name: Kresnik | Type: Patrol craft | Home Port: New Herat | Owner: Zerilda Nascimento | Modifications: None | Restrictions: Reported MISSING|
-| 21 |Vessel Name: Prometheus | Type: Trade frigate | Home Port: Inverell | Owner: Salyc (corp) | Modifications: None | Restrictions: None|
-| 22 |Vessel Name: Zahhak | Type: Bulk freighter | Home Port: Salisbury Tor | Owner: Jem Dufresne | Modifications: None | Restrictions: Inglis docking privileges suspended|
-| 23 |Vessel Name: Psyche | Type: Bulk freighter | Home Port: Drawbridge | Owner: William Baker | Modifications: Enhanced Shields | Restrictions: None|
-| 24 |Vessel Name: Tiki | Type: Hospital ship | Home Port: Quito | Owner: Scaza (corp) | Modifications: None | Restrictions: None|
-| 25 |Vessel Name: Sundowner | Type: Luxury yacht | Home Port: Cragus Boone | Owner: MurchanTec (corp) | Modifications: Defensive Weapon Upgrade | Restrictions: None|
-| 26 |Vessel Name: Tantalus | Type: Light freighter | Home Port: Mysore | Owner: Yeon-Woo David | Modifications: None | Restrictions: None|
-| 27 |Vessel Name: Medusa | Type: Bulk freighter | Home Port: Mokoshis | Owner: Ebba Mumbua | Modifications: None | Restrictions: None|
-| 28 |Vessel Name: Merlin | Type: Passenger freighter | Home Port: Tabriz | Owner: Jose Fernandez | Modifications: None | Restrictions: None|
-| 29 |Vessel Name: Hera | Type: Bulk freighter | Home Port: Recife | Owner: Nia Ben-Zion | Modifications: Weapon System Upgrade | Restrictions: None|
-| 30 |Vessel Name: Brunhild | Type: Light freighter | Home Port: Bakaong | Owner: Jost Fel | Modifications: Enhanced Shields | Restrictions: None|
-| 31 |Vessel Name: Libra | Type: Scout vessel | Home Port: Nocnitsa | Owner: Dow Sawadogo | Modifications: None | Restrictions: None|
-| 32 |Vessel Name: Demeter | Type: Bulk freighter | Home Port: Faravahar | Owner: Sabharwal (corp) | Modifications: Extra Cargo Pods | Restrictions: Eupora docking privileges suspended|
-| 33 |Vessel Name: Kamapua'a | Type: Hospital ship | Home Port: Gedrosia | Owner: Electa Neto | Modifications: None | Restrictions: None|
-| 34 |Vessel Name: Coronado | Type: Salvage rig | Home Port: Myōken | Owner: Genevieve Foster | Modifications: None | Restrictions: Banned from Zaba Omicron|
-| 35 |Vessel Name: Livingstone | Type: Luxury liner | Home Port: Merv | Owner: Anton Fischer | Modifications: Weapon System Upgrade | Restrictions: None|
-| 36 |Vessel Name: Utah | Type: Passenger liner | Home Port: Sallis 9 | Owner: Seraphina Cooper | Modifications: None | Restrictions: None|
-| 37 |Vessel Name: Dionysus | Type: Light freighter | Home Port: Shaki Aberdeen | Owner: Rajesh Popova| Modifications: None | Restrictions: None|
-| 38 |Vessel Name: Ibn Khaldun | Type: Light freighter | Home Port: Gandhara | Owner: Yapeutiq Systems (corp) | Modifications: None | Restrictions: None|
-| 39 |Vessel Name: Play Time | Type: Luxury yacht | Home Port: Warwick | Owner: Niels Choden | Modifications: None | Restrictions: None|
-| 40 |Vessel Name: Hercules | Type: Transport | Home Port: Bukhara | Owner: Upers (corp) | Modifications: None | Restrictions: None|
-| 41 |Vessel Name: Polarien | Type: Transport | Home Port: St. Edmunds | Owner: Hye-Jin Fern | Modifications: None | Restrictions: None|
-| 42 |Vessel Name: Astral | Type: Patrol craft | Home Port: Wendigoth | Owner: Reza Yameogo | Modifications: Navigation Computer Upgrade | Restrictions: None|
-| 43 |Vessel Name: Jamshid | Type: Light freighter | Home Port: Centurio | Owner: Evolv (corp) | Modifications: None | Restrictions: Reported MISSING|
-| 44 |Vessel Name: Nanahuatzin | Type: Bulk freighter | Home Port: Nagpur | Owner: Layla Dimitrov | Modifications: Engine Upgrade | Restrictions: Uberaba docking privileges suspended|
-| 45 |Vessel Name: Condor | Type: Passenger liner | Home Port: Richmond Scone | Owner: Ratu Abdul Rahman | Modifications: Enhanced Shields | Restrictions: None|
-| 46 |Vessel Name: Lyra | Type: Light freighter | Home Port: Santiago | Owner: Johannes Nicolaou | Modifications: None | Restrictions: None|
-| 47 |Vessel Name: Solandra | Type: Light freighter | Home Port: Lionheart | Owner: Ignado Sato | Modifications: Engine Upgrade | Restrictions: None|
-| 48 |Vessel Name: Apogee | Type: Bulk freighter | Home Port: Stork 4 | Owner: Theodosia Medjani | Modifications: None | Restrictions: None|
-| 49 |Vessel Name: Daedalus | Type: Transport | Home Port: Celaeno | Owner: Rana Petrova | Modifications: None | Restrictions: None|
-| 50 |Vessel Name: Catalan | Type: Bulk freighter | Home Port: Fravashi | Owner: Cian Zukanovic | Modifications: None | Restrictions: None|
-| 51 |Vessel Name: Leif Erikson | Type: Passenger freighter | Home Port: Udaipur Prime | Owner: Smith Xhaka | Modifications: Weapon System Upgrade | Restrictions: None|
-| 52 |Vessel Name: Genesis | Type: Scout vessel | Home Port: New Egypt | Owner: Gulnara Hu | Modifications: None | Restrictions: Reported MISSING|
-| 53 |Vessel Name: Rigel | Type: Passenger liner | Home Port: Ahmedabad | Owner: Eva Singh | Modifications: Engine Upgrade | Restrictions: None|
-| 54 |Vessel Name: Duc d'Aquitaine | Type: Bulk freighter | Home Port: Ludlow | Owner: Fitzroy Habibi | Modifications: Defensive Weapon Upgrade | Restrictions: None|
-| 55 |Vessel Name: Rongo | Type: Salvage rig | Home Port: Pookaia | Owner: Tariq Li | Modifications: None| Restrictions: None|
-| 56 |Vessel Name: Kiev | Type: Bulk freighter | Home Port: Aria | Owner: Aloysius Agueh | Modifications: AI Overseer Installed | Restrictions: None|
-| 57 |Vessel Name: Josephus | Type: Light freighter | Home Port: New Tasmania | Owner: Raed Pham | Modifications: Extra Cargo Pods | Restrictions: None|
-| 58 |Vessel Name: Enlil | Type: Light freighter | Home Port: Akbar | Owner: Maria Dupont | Modifications: Weapon System Upgrade | Restrictions: None|
-| 59 |Vessel Name: Hudson | Type: Salvage rig | Home Port: Córdoba | Owner: Igor Fernandez | Modifications: None | Restrictions: None|
-| 60 |Vessel Name: Modigliani | Type: Patrol craft | Home Port: Book | Owner: Theobald Duàn | Modifications: None | Restrictions: Salisbury Tor docking privileges suspended|
-| 61 |Vessel Name: Utopia | Type: Hospital ship | Home Port: Babylonia Prime | Owner: Natalia Antonopoulos | Modifications: None | Restrictions: None|
-| 62 |Vessel Name: Elysium | Type: Trade frigate | Home Port: Wu Zetian | Owner: Noah Thompson | Modifications: Enhanced Shields | Restrictions: None|
-| 63 |Vessel Name: Agamemnon | Type: Passenger freighter | Home Port: Queen Anne | Owner: Kwang- Hee Morales | Modifications: None | Restrictions: None|
-| 64 |Vessel Name: Pantoja | Type: Patrol craft | Home Port: Asunción | Owner: Anna Abdullah | Modifications: None | Restrictions: None|
-| 65 |Vessel Name: Vigilant | Type: Light freighter | Home Port: San Borja | Owner: Celinda Vila | Modifications: None | Restrictions: None|
-| 66 |Vessel Name: Perseian | Type: Bulk freighter | Home Port: Cuenca | Owner: Francisco Müller | Modifications: Weapon System Upgrade | Restrictions: None|
-| 67 |Vessel Name: King Arthur | Type: Scout vessel | Home Port: Apsu | Owner: Sobrantes (corp) | Modifications: None | Restrictions: None|
-| 68 |Vessel Name: Astralia | Type: Bulk freighter | Home Port: Bhopal Pi | Owner: Aditya Nahdi | Modifications: None | Restrictions: Arrest warrant issued for current captain|
-| 69 |Vessel Name: Icarus | Type: Salvage rig | Home Port: Anshun Saint Francis | Owner: Sala Krause | Modifications: None | Restrictions: None|
-| 70 |Vessel Name: Cleopatra | Type: Transport | Home Port: Lydia | Owner: Inji Reeves | Modifications: None | Restrictions: None|
-| 71 |Vessel Name: Thutmose | Type: Research vessel | Home Port: Basajuanis | Owner: Johnson Bouteflika|  Modifications: None | Restrictions: None|
-| 72 |Vessel Name: Iktomi | Type: Bulk freighter | Home Port: New Harare | Owner: Sylvania Tavares | Modifications: Enhanced Shields | Restrictions: None|
-| 73 |Vessel Name: Solara | Type: Patrol craft | Home Port: Rapa Nui | Owner: Radcliffe Shala | Modifications: None | Restrictions: None|
-| 74 |Vessel Name: Seraph | Type: Luxury liner | Home Port: Castalia | Owner: Wright Zidane | Modifications: AI Overseer Installed | Restrictions: Ludhiana Four docking privileges suspended|
-| 75 |Vessel Name: Pulsar | Type: Luxury liner | Home Port: Elam | Owner: Omar Naidu | Modifications: None | Restrictions: None|
-| 76 |Vessel Name: Pryderi | Type: Luxury yacht | Home Port: Paricania | Owner: Oliver Walker | Modifications: None | Restrictions: None|
-| 77 |Vessel Name: Blodeuwedd | Type: Light freighter | Home Port: Pachamacca | Owner: Ramón Tobgay|  Modifications: None | Restrictions: None|
-| 78 |Vessel Name: Lyrian | Type: Scout vessel | Home Port: Xolotlara | Owner: Maximilian Ramirez | Modifications: None | Restrictions: None|
-| 79 |Vessel Name: Cabot | Type: Light freighter | Home Port: Kangxi | Owner: Hepzibah Torres | Modifications: None | Restrictions: None|
-| 80 |Vessel Name: Oceania | Type: Luxury yacht | Home Port: Malabar | Owner: Christina Beshenal | Modifications: Main Computer Upgrade | Restrictions: Reported STOLEN|
-| 81 |Vessel Name: Pollock | Type: Passenger freighter | Home Port: Tavistock | Owner: William Mogale | Modifications: None | Restrictions: Banned from Juazeiro|
-| 82 |Vessel Name: Amman | Type: Trade frigate | Home Port: New Berlin | Owner: Sean Diallo | Modifications: None | Restrictions: None|
-| 83 |Vessel Name: Achilles | Type: Scout vessel | Home Port: Kilmichael Newton | Owner: Matilda Hayes | Modifications: None | Restrictions: None|
-| 84 |Vessel Name: Vulcain | Type: Bulk freighter | Home Port: Bangalore | Owner: Hassan Selimovic | Modifications: None | Restrictions: None|
-| 85 |Vessel Name: Inguma | Type: Light freighter | Home Port: Cappadocia | Owner: Mads Ivanova | Modifications: Hull Upgrade | Restrictions: None|
-| 86 |Vessel Name: Cassinova | Type: Bulk freighter | Home Port: Uktenar | Owner: Seung-Ho Pereira | Modifications: AI Overseer Installed | Restrictions: New Harare docking privileges suspended|
-| 87 |Vessel Name: Leopard | Type: Hospital ship | Home Port: Tezcatlipocia | Owner: Konstantina Guthrie|  Modifications: Weapon System Upgrade | Restrictions: None|
-| 88 |Vessel Name: Stellar | Type: Bulk freighter | Home Port: Saratoga | Owner: Narantsetseg Makgwa | Modifications: Hull Upgrade | Restrictions: Banned from Caesar|
-| 89 |Vessel Name: Infinity | Type: Transport | Home Port: Hatshepsut | Owner: Sanjar Tran | Modifications: Extra Cargo Pods | Restrictions: Reported STOLEN|
-| 90 |Vessel Name: Anhur | Type: Light freighter | Home Port: Dover | Owner: Paragon (corp) | Modifications: None | Restrictions: None|
-| 91 |Vessel Name: Pickerel | Type: Passenger freighter | Home Port: Kashgar | Owner: Benjamin Mitchell | Modifications: None | Restrictions: None|
-| 92 |Vessel Name: Kilmead | Type: Light freighter | Home Port: Salvador | Owner: Margaux Papadopoulos|  Modifications: None | Restrictions: None|
-| 93 |Vessel Name: Ingres | Type: Passenger liner | Home Port: Bardibas | Owner: Demetrius Anderson | Modifications: None | Restrictions: None|
-| 94 |Vessel Name: La Pérouse | Type: Light freighter | Home Port: Contus IV | Owner: Evans Pons | Modifications: None | Restrictions: Crew wanted for questioning|
-| 95 |Vessel Name: Sevastopol | Type: Passenger liner | Home Port: Praetorium | Owner: Educibl (corp) | Modifications: None | Restrictions: None|
-| 96 |Vessel Name: Endeavor | Type: Research vessel | Home Port: Chaneques | Owner: Zara Odhiambo | Modifications: None | Restrictions: None|
-| 97 |Vessel Name: Cairo | Type: Bulk freighter | Home Port: Wallingford | Owner: Leif Cohen | Modifications: None | Restrictions: None|
-| 98 |Vessel Name: Pirwa | Type: Light freighter | Home Port: Ludhiana Four | Owner: Lucius Parker | Modifications: None | Restrictions: Reported MISSING|
-| 99 |Vessel Name: Rhiannon | Type: Bulk freighter | Home Port: Daphne | Owner: Uduch Hounkpatin | Modifications: Hull Upgrade | Restrictions: None|
-| 100 |Vessel Name: Antares | Type: Passenger freighter | Home Port: Comet | Owner: BQCT Corp (corp)|  Modifications: Main Computer Upgrade | Restrictions: None|
+| 1 | Polarian |  Passenger freighter |  Gorgonas | Fitzhugh Ferhat| None | None|
+| 2 | Beowulf |  Luxury liner |  Nueva Virginia | Oskar Kabongo | None | None|
+| 3 | Geniscus |  Research vessel |  Inglis | Siobhan Mabua | None | None|
+| 4 | Lyric |  Light freighter |  Malmesbury | Liam Anderson | None | Arrest warrant issued for current captain|
+| 5 | Rostam |  Research vessel |  Oatman | Kista Pendragon | None | None|
+| 6 | Sutherland |  Luxury yacht |  Freedom | Bjorn Gomez | None | None|
+| 7 | Utu |  Passenger freighter |  Southampton | Min-Jun Schwartz|  None | None|
+| 8 | Innara |  Hospital ship |  Plutus | Elodie Sokolov | None | Polymatheia docking privileges suspended|
+| 9 | San Miguel |  Luxury liner |  Washington | Carlos Fischer | Engine Upgrade | Banned from Novosibirsk|
+| 10 | van Gogh |  Transport |  Amritsar | Jack Edwards | None | None|
+| 11 | Tehran |  Bulk freighter |  Decurio | Ronan Olanrewaju | Main Computer Upgrade | None|
+| 12 | Thalassa |  Passenger freighter |  Thrace | Aissatou Traore | None | None|
+| 13 | Aurora |  Luxury liner |  Qena | Amelia Evans | None | Reported STOLEN|
+| 14 | Europa |  Patrol craft |  Ares Lusitani | Gwendolyn Cooper | None | None|
+| 15 | Hector |  Light freighter |  Jenguia | Valentina Schneider | None | None|
+| 16 | Anahita |  Bulk freighter |  Kabeiria | Henry Davis | None | None|
+| 17 | Pizarro |  Passenger liner |  Chorasmia | Aziz Sharma | None | None|
+| 18 | Tiberius |  Passenger freighter |  Porto Alegre | Yeong-Ho Odinga | None | None|
+| 19 | Castilla |  Research vessel |  Isfahan | Mercedes Kirov | Weapon System Upgrade | None|
+| 20 | Kresnik |  Patrol craft |  New Herat | Zerilda Nascimento | None | Reported MISSING|
+| 21 | Prometheus |  Trade frigate |  Inverell | Salyc (corp) | None | None|
+| 22 | Zahhak |  Bulk freighter |  Salisbury Tor | Jem Dufresne | None | Inglis docking privileges suspended|
+| 23 | Psyche |  Bulk freighter |  Drawbridge | William Baker | Enhanced Shields | None|
+| 24 | Tiki |  Hospital ship |  Quito | Scaza (corp) | None | None|
+| 25 | Sundowner |  Luxury yacht |  Cragus Boone | MurchanTec (corp) | Defensive Weapon Upgrade | None|
+| 26 | Tantalus |  Light freighter |  Mysore | Yeon-Woo David | None | None|
+| 27 | Medusa |  Bulk freighter |  Mokoshis | Ebba Mumbua | None | None|
+| 28 | Merlin |  Passenger freighter |  Tabriz | Jose Fernandez | None | None|
+| 29 | Hera |  Bulk freighter |  Recife | Nia Ben-Zion | Weapon System Upgrade | None|
+| 30 | Brunhild |  Light freighter |  Bakaong | Jost Fel | Enhanced Shields | None|
+| 31 | Libra |  Scout vessel |  Nocnitsa | Dow Sawadogo | None | None|
+| 32 | Demeter |  Bulk freighter |  Faravahar | Sabharwal (corp) | Extra Cargo Pods | Eupora docking privileges suspended|
+| 33 | Kamapua'a |  Hospital ship |  Gedrosia | Electa Neto | None | None|
+| 34 | Coronado |  Salvage rig |  Myōken | Genevieve Foster | None | Banned from Zaba Omicron|
+| 35 | Livingstone |  Luxury liner |  Merv | Anton Fischer | Weapon System Upgrade | None|
+| 36 | Utah |  Passenger liner |  Sallis 9 | Seraphina Cooper | None | None|
+| 37 | Dionysus |  Light freighter |  Shaki Aberdeen | Rajesh Popova| None | None|
+| 38 | Ibn Khaldun |  Light freighter |  Gandhara | Yapeutiq Systems (corp) | None | None|
+| 39 | Play Time |  Luxury yacht |  Warwick | Niels Choden | None | None|
+| 40 | Hercules |  Transport |  Bukhara | Upers (corp) | None | None|
+| 41 | Polarien |  Transport |  St. Edmunds | Hye-Jin Fern | None | None|
+| 42 | Astral |  Patrol craft |  Wendigoth | Reza Yameogo | Navigation Computer Upgrade | None|
+| 43 | Jamshid |  Light freighter |  Centurio | Evolv (corp) | None | Reported MISSING|
+| 44 | Nanahuatzin |  Bulk freighter |  Nagpur | Layla Dimitrov | Engine Upgrade | Uberaba docking privileges suspended|
+| 45 | Condor |  Passenger liner |  Richmond Scone | Ratu Abdul Rahman | Enhanced Shields | None|
+| 46 | Lyra |  Light freighter |  Santiago | Johannes Nicolaou | None | None|
+| 47 | Solandra |  Light freighter |  Lionheart | Ignado Sato | Engine Upgrade | None|
+| 48 | Apogee |  Bulk freighter |  Stork 4 | Theodosia Medjani | None | None|
+| 49 | Daedalus |  Transport |  Celaeno | Rana Petrova | None | None|
+| 50 | Catalan |  Bulk freighter |  Fravashi | Cian Zukanovic | None | None|
+| 51 | Leif Erikson |  Passenger freighter |  Udaipur Prime | Smith Xhaka | Weapon System Upgrade | None|
+| 52 | Genesis |  Scout vessel |  New Egypt | Gulnara Hu | None | Reported MISSING|
+| 53 | Rigel |  Passenger liner |  Ahmedabad | Eva Singh | Engine Upgrade | None|
+| 54 | Duc d'Aquitaine |  Bulk freighter |  Ludlow | Fitzroy Habibi | Defensive Weapon Upgrade | None|
+| 55 | Rongo |  Salvage rig |  Pookaia | Tariq Li | None| None|
+| 56 | Kiev |  Bulk freighter |  Aria | Aloysius Agueh | AI Overseer Installed | None|
+| 57 | Josephus |  Light freighter |  New Tasmania | Raed Pham | Extra Cargo Pods | None|
+| 58 | Enlil |  Light freighter |  Akbar | Maria Dupont | Weapon System Upgrade | None|
+| 59 | Hudson |  Salvage rig |  Córdoba | Igor Fernandez | None | None|
+| 60 | Modigliani |  Patrol craft |  Book | Theobald Duàn | None | Salisbury Tor docking privileges suspended|
+| 61 | Utopia |  Hospital ship |  Babylonia Prime | Natalia Antonopoulos | None | None|
+| 62 | Elysium |  Trade frigate |  Wu Zetian | Noah Thompson | Enhanced Shields | None|
+| 63 | Agamemnon |  Passenger freighter |  Queen Anne | Kwang- Hee Morales | None | None|
+| 64 | Pantoja |  Patrol craft |  Asunción | Anna Abdullah | None | None|
+| 65 | Vigilant |  Light freighter |  San Borja | Celinda Vila | None | None|
+| 66 | Perseian |  Bulk freighter |  Cuenca | Francisco Müller | Weapon System Upgrade | None|
+| 67 | King Arthur |  Scout vessel |  Apsu | Sobrantes (corp) | None | None|
+| 68 | Astralia |  Bulk freighter |  Bhopal Pi | Aditya Nahdi | None | Arrest warrant issued for current captain|
+| 69 | Icarus |  Salvage rig |  Anshun Saint Francis | Sala Krause | None | None|
+| 70 | Cleopatra |  Transport |  Lydia | Inji Reeves | None | None|
+| 71 | Thutmose |  Research vessel |  Basajuanis | Johnson Bouteflika|  None | None|
+| 72 | Iktomi |  Bulk freighter |  New Harare | Sylvania Tavares | Enhanced Shields | None|
+| 73 | Solara |  Patrol craft |  Rapa Nui | Radcliffe Shala | None | None|
+| 74 | Seraph |  Luxury liner |  Castalia | Wright Zidane | AI Overseer Installed | Ludhiana Four docking privileges suspended|
+| 75 | Pulsar |  Luxury liner |  Elam | Omar Naidu | None | None|
+| 76 | Pryderi |  Luxury yacht |  Paricania | Oliver Walker | None | None|
+| 77 | Blodeuwedd |  Light freighter |  Pachamacca | Ramón Tobgay|  None | None|
+| 78 | Lyrian |  Scout vessel |  Xolotlara | Maximilian Ramirez | None | None|
+| 79 | Cabot |  Light freighter |  Kangxi | Hepzibah Torres | None | None|
+| 80 | Oceania |  Luxury yacht |  Malabar | Christina Beshenal | Main Computer Upgrade | Reported STOLEN|
+| 81 | Pollock |  Passenger freighter |  Tavistock | William Mogale | None | Banned from Juazeiro|
+| 82 | Amman |  Trade frigate |  New Berlin | Sean Diallo | None | None|
+| 83 | Achilles |  Scout vessel |  Kilmichael Newton | Matilda Hayes | None | None|
+| 84 | Vulcain |  Bulk freighter |  Bangalore | Hassan Selimovic | None | None|
+| 85 | Inguma |  Light freighter |  Cappadocia | Mads Ivanova | Hull Upgrade | None|
+| 86 | Cassinova |  Bulk freighter |  Uktenar | Seung-Ho Pereira | AI Overseer Installed | New Harare docking privileges suspended|
+| 87 | Leopard |  Hospital ship |  Tezcatlipocia | Konstantina Guthrie|  Weapon System Upgrade | None|
+| 88 | Stellar |  Bulk freighter |  Saratoga | Narantsetseg Makgwa | Hull Upgrade | Banned from Caesar|
+| 89 | Infinity |  Transport |  Hatshepsut | Sanjar Tran | Extra Cargo Pods | Reported STOLEN|
+| 90 | Anhur |  Light freighter |  Dover | Paragon (corp) | None | None|
+| 91 | Pickerel |  Passenger freighter |  Kashgar | Benjamin Mitchell | None | None|
+| 92 | Kilmead |  Light freighter |  Salvador | Margaux Papadopoulos|  None | None|
+| 93 | Ingres |  Passenger liner |  Bardibas | Demetrius Anderson | None | None|
+| 94 | La Pérouse |  Light freighter |  Contus IV | Evans Pons | None | Crew wanted for questioning|
+| 95 | Sevastopol |  Passenger liner |  Praetorium | Educibl (corp) | None | None|
+| 96 | Endeavor |  Research vessel |  Chaneques | Zara Odhiambo | None | None|
+| 97 | Cairo |  Bulk freighter |  Wallingford | Leif Cohen | None | None|
+| 98 | Pirwa |  Light freighter |  Ludhiana Four | Lucius Parker | None | Reported MISSING|
+| 99 | Rhiannon |  Bulk freighter |  Daphne | Uduch Hounkpatin | Hull Upgrade | None|
+| 100 | Antares |  Passenger freighter |  Comet | BQCT Corp (corp)|  Main Computer Upgrade | None|
 
 ### Ship Transponder Info #2
 
 | d100 | Vessel Name | Type | Home Port| Owner | Modifications |Restrictions|
 |:--| -- | -- | -- | -- | -- | -- |
-| 1 |Vessel Name: Altaira | Type: Light freighter | Home Port: Valparaíso | Owner: Joanne Nakano | Modifications: None | Restrictions: None|
-| 2 |Vessel Name: Caeliana | Type: Salvage rig | Home Port: Uberaba | Owner: Kareem Sato | Modifications: None | Restrictions: None|
-| 3 |Vessel Name: Jason | Type: Patrol craft | Home Port: Asha | Owner: Felix Harrison | Modifications: None | Restrictions: None|
-| 4 |Vessel Name: Imhotep | Type: Luxury yacht | Home Port: Chester | Owner: Pierre Černý | Modifications: Engine Upgrade | Restrictions: None|
-| 5 |Vessel Name: Artemis | Type: Bulk freighter | Home Port: Ripon Theta | Owner: Chemicro (corp) | Modifications: Main Computer Upgrade | Restrictions: None|
-| 6 |Vessel Name: Tangaroa | Type: Hospital ship | Home Port: Ahura Mazda | Owner: Maverick Montrose|  Modifications: None | Restrictions: None|
-| 7 |Vessel Name: Clark | Type: Luxury yacht | Home Port: Durham Xu | Owner: Jeanne Hofmann | Modifications: Weapon System Upgrade | Restrictions: None|
-| 8 |Vessel Name: Nanna Sin | Type: Research vessel | Home Port: Cali | Owner: Scott Bajrami | Modifications: None | Restrictions: None|
-| 9 |Vessel Name: Kui Xing | Type: Research vessel | Home Port: Winchester | Owner: Genethos (corp) | Modifications: Extra Cargo Pods | Restrictions: None|
-| 10 |Vessel Name: Odysseus | Type: Light freighter | Home Port: Drangsnes | Owner: Isabella Singh | Modifications: None | Restrictions: Arrest warrant issued for current captain|
-| 11 |Vessel Name: Galactis | Type: Bulk freighter | Home Port: Cohors | Owner: Ines Kimura | Modifications: None | Restrictions: None|
-| 12 |Vessel Name: Poseidon | Type: Salvage rig | Home Port: Terlingua | Owner: Thabo Bembe | Modifications: None | Restrictions: None|
-| 13 |Vessel Name: Thunderbird | Type: Hospital ship | Home Port: Benua | Owner: Ekaterina Bauer | Modifications: AI Overseer Installed | Restrictions: None|
-| 14 |Vessel Name: Voyager | Type: Light freighter | Home Port: Ruby | Owner: Clarissa Ahmadzai | Modifications: None | Restrictions: None|
-| 15 |Vessel Name: Horizon | Type: Light freighter | Home Port: Otrera | Owner: Jing Ho | Modifications: None | Restrictions: None|
-| 16 |Vessel Name: Vincennes | Type: Light freighter | Home Port: Nagpur Indigo | Owner: Clementine Murati | Modifications: None | Restrictions: None|
-| 17 |Vessel Name: Perseus | Type: Luxury liner | Home Port: Tuatha | Owner: Natalia Ito | Modifications: AI Overseer Installed | Restrictions: Reported STOLEN|
-| 18 |Vessel Name: Zenovia | Type: Luxury yacht | Home Port: Lorica | Owner: Amina Ondongo | Modifications: None | Restrictions: Reported MISSING|
-| 19 |Vessel Name: Amundsen | Type: Transport | Home Port: Manitoba | Owner: Clara Islam | Modifications: None | Restrictions: None|
-| 20 |Vessel Name: Tiberia | Type: Light freighter | Home Port: Aleppo Prime | Owner: Syrena Barlow | Modifications: None | Restrictions: None|
-| 21 |Vessel Name: Lunaris | Type: Luxury liner | Home Port: Nixa | Owner: Leah Hong | Modifications: None | Restrictions: None|
-| 22 |Vessel Name: Ibn Sina | Type: Trade frigate | Home Port: Indore | Owner: Alexei Garcia | Modifications: AI Overseer Installed | Restrictions: None|
-| 23 |Vessel Name: Nova | Type: Bulk freighter | Home Port: Jodhpur | Owner: Camille Patel | Modifications: Navigation Computer Upgrade | Restrictions: None|
-| 24 |Vessel Name: Monet | Type: Bulk freighter | Home Port: Evocatus | Owner: Irina Mehta | Modifications: None | Restrictions: None|
-| 25 |Vessel Name: Torngarsuk | Type: Trade frigate | Home Port: Belzoni Beta | Owner: Drusilla Rahimi | Modifications: None | Restrictions: None|
-| 26 |Vessel Name: Michelangelo | Type: Patrol craft | Home Port: Asurae | Owner: Chesterton Serra | Modifications: None | Restrictions: Reported MISSING|
-| 27 |Vessel Name: Lewis | Type: Hospital ship | Home Port: St. Albans | Owner: Safiya Levy | Modifications: None | Restrictions: None|
-| 28 |Vessel Name: Dmitri | Type: Light freighter | Home Port: Montevideo | Owner: Pavel Laurent | Modifications: None | Restrictions: None|
-| 29 |Vessel Name: Inanna | Type: Hospital ship | Home Port: Persis | Owner: Ji-Yeon Avila | Modifications: Enhanced Shields | Restrictions: None|
-| 30 |Vessel Name: Athena | Type: Passenger freighter | Home Port: Cernunna | Owner: Tsitsi Barrientos | Modifications: None | Restrictions: None|
-| 31 |Vessel Name: Glooscap | Type: Light freighter | Home Port: Magpie Prime | Owner: Sengphet Zongo|  Modifications: None | Restrictions: None|
-| 32 |Vessel Name: Cabral | Type: Salvage rig | Home Port: Alvorada Hold | Owner: Min-Seok Kimani | Modifications: AI Overseer Installed | Restrictions: Reported MISSING|
-| 33 |Vessel Name: Cassiopeia | Type: Bulk freighter | Home Port: Queen Victoria | Owner: Ranna Kobayashi| Modifications: None | Restrictions: None|
-| 34 |Vessel Name: Serendipity | Type: Luxury yacht | Home Port: Allahabad | Owner: Colin Clayton | Modifications: None | Restrictions: None|
-| 35 |Vessel Name: White Buff alo | Type: Salvage rig | Home Port: Cerrillos | Owner: Karamo Weitzman | Modifications: None | Restrictions: None|
-| 36 |Vessel Name: Serenade | Type: Light freighter | Home Port: Ahone II | Owner: Adelaid Dervishi | Modifications: None | Restrictions: None|
-| 37 |Vessel Name: Hunab Ku | Type: Scout vessel | Home Port: Queen Elizabeth | Owner: Freya Salinas | Modifications: None | Restrictions: None|
-| 38 |Vessel Name: Nogomain | Type: Light freighter | Home Port: Faywood Omicron | Owner: Indrani Gaines | Modifications: None | Restrictions: Reported STOLEN|
-| 39 |Vessel Name: Meiying | Type: Passenger liner | Home Port: Fomorion II | Owner: Josef Salleh | Modifications: Extra Cargo Pods | Restrictions: None|
-| 40 |Vessel Name: Cygnus | Type: Light freighter | Home Port: Cormorant | Owner: Brigitte Hawkes | Modifications: AI Overseer Installed | Restrictions: Crew wanted for questioning|
-| 41 |Vessel Name: Lancelot | Type: Bulk freighter | Home Port: Gladius | Owner: Emma Smith | Modifications: None | Restrictions: None|
-| 42 |Vessel Name: Orionar | Type: Salvage rig | Home Port: Patna Gamma | Owner: Sarah Thakur | Modifications: None | Restrictions: None|
-| 43 |Vessel Name: Nebula | Type: Passenger liner | Home Port: N'Djamena | Owner: Ahmed Lompo | Modifications: None | Restrictions: None|
-| 44 |Vessel Name: Seraphia | Type: Patrol craft | Home Port: Bath | Owner: Selena Heron | Modifications: Navigation Computer Upgrade | Restrictions: None|
-| 45 |Vessel Name: Eros | Type: Scout vessel | Home Port: St. Thomas | Owner: Aoife Ouedraogo | Modifications: None | Restrictions: None|
-| 46 |Vessel Name: Zenobia | Type: Bulk freighter | Home Port: Ajmer | Owner: Daria Singh | Modifications: None | Restrictions: None|
-| 47 |Vessel Name: Cortés | Type: Bulk freighter | Home Port: Bhubaneswar | Owner: James Turner | Modifications: None | Restrictions: None|
-| 48 |Vessel Name: Evander | Type: Passenger liner | Home Port: Dushanbe | Owner: Minh Wu | Modifications: None | Restrictions: Banned from|
-| 49 |Vessel Name: Simurgh | Type: Luxury yacht | Home Port: Sebastopol | Owner: Soo-Jin Omondi | Modifications: None | Restrictions: None|
-| 50 |Vessel Name: Solstice | Type: Trade frigate | Home Port: Herod | Owner: Elecomics (corp) | Modifications: None | Restrictions: Crew wanted for questioning|
-| 51 |Vessel Name: Auriga | Type: Passenger liner | Home Port: Testudo | Owner: JenCorp (corp) | Modifications: None | Restrictions: None|
-| 52 |Vessel Name: Manabozho | Type: Light freighter | Home Port: Margiana | Owner: Dermot Ordona | Modifications: Main Computer Upgrade | Restrictions: None|
-| 53 |Vessel Name: Arianrhod | Type: Salvage rig | Home Port: La Paz | Owner: Calpurnia Kiala | Modifications: None | Restrictions: None|
-| 54 |Vessel Name: Perseida | Type: Passenger liner | Home Port: Equites Lambda | Owner: Lakshman Saedrin | Modifications: None | Restrictions: None|
-| 55 |Vessel Name: Pegasus | Type: Bulk freighter | Home Port: Drangiana | Owner: Alveretta Coma | Modifications: Enhanced Shields | Restrictions: Zaba Omicron docking privileges suspended|
-| 56 |Vessel Name: da Vinci | Type: Bulk freighter | Home Port: Sattagydia | Owner: Stanhope Gashi | Modifications: None | Restrictions: None|
-| 57 |Vessel Name: Camulus | Type: Light freighter | Home Port: Sagartia | Owner: Evelyn White | Modifications: None | Restrictions: None|
-| 58 |Vessel Name: Phoenix | Type: Scout vessel | Home Port: Ionia | Owner: Linh Park | Modifications: None | Restrictions: Reported MISSING|
-| 59 |Vessel Name: Columbus | Type: Patrol craft | Home Port: Hereford | Owner: Francisco Kozic | Modifications: Engine Upgrade | Restrictions: None|
-| 60 |Vessel Name: Lempo | Type: Bulk freighter | Home Port: New Troyes | Owner: Kit Saris | Modifications: None | Restrictions: None|
-| 61 |Vessel Name: Sirius | Type: Scout vessel | Home Port: Silver | Owner: Sophia Jones | Modifications: Extra Cargo Pods | Restrictions: None|
-| 62 |Vessel Name: Helios | Type: Light freighter | Home Port: Gibil | Owner: Eun-Ji Auma | Modifications: None | Restrictions: None|
-| 63 |Vessel Name: Valkyrie | Type: Light freighter | Home Port: Adroa | Owner: Wainwright Aziz | Modifications: None | Restrictions: None|
-| 64 |Vessel Name: Nautica | Type: Salvage rig | Home Port: Dahae | Owner: Julian Harris | Modifications: None | Restrictions: Reported STOLEN|
-| 65 |Vessel Name: Aquariel | Type: Hospital ship | Home Port: Sparrow | Owner: Auren Void | Modifications: None | Restrictions: Zhombe docking privileges suspended|
-| 66 |Vessel Name: Freedom | Type: Light freighter | Home Port: Belo Horizonte | Owner: Dazolytics (corp)|  Modifications: Defensive Weapon Upgrade | Restrictions: None|
-| 67 |Vessel Name: Alcyone | Type: Bulk freighter | Home Port: Hughes | Owner: Tarken Atreides | Modifications: Hull Upgrade | Restrictions: None|
-| 68 |Vessel Name: Raven | Type: Luxury liner | Home Port: Zaba Omicron | Owner: Wei Ng | Modifications: None | Restrictions: None|
-| 69 |Vessel Name: Tashkent | Type: Light freighter | Home Port: Sarcina | Owner: Charmaine Georgiev | Modifications: None | Restrictions: None|
-| 70 |Vessel Name: Marco Polo | Type: Luxury yacht | Home Port: Kanpur Bok | Owner: Mikko Ahmetovic | Modifications: Main Computer Upgrade | Restrictions: Arrest warrant issued for current captain|
-| 71 |Vessel Name: Caelum | Type: Bulk freighter | Home Port: Tewkesbury | Owner: Penrose Tizi | Modifications: None | Restrictions: None|
-| 72 |Vessel Name: Ptolemy | Type: Patrol craft | Home Port: Surat | Owner: Envios (corp) | Modifications: None | Restrictions: None|
-| 73 |Vessel Name: Siegfried | Type: Scout vessel | Home Port: Kingfisher | Owner: Arjun Das | Modifications: None | Restrictions: None|
-| 74 |Vessel Name: Magellan | Type: Scout vessel | Home Port: Pharaoh | Owner: Ibrahim Rahman | Modifications: None | Restrictions: None|
-| 75 |Vessel Name: Helix | Type: Patrol craft | Home Port: Kafr Saqr | Owner: Bounthavy Tshegofatso | Modifications: None | Restrictions: Banned from Alkaia|
-| 76 |Vessel Name: Dürer | Type: Research vessel | Home Port: Maracaibo | Owner: Clementine Baker | Modifications: None | Restrictions: None|
-| 77 |Vessel Name: Gilgamesh | Type: Salvage rig | Home Port: Leicester | Owner: Nikita Christopoulos | Modifications: None | Restrictions: None|
-| 78 |Vessel Name: Guinevere | Type: Light freighter | Home Port: Scutum | Owner: Charlotte Ferreira | Modifications: None | Restrictions: None|
-| 79 |Vessel Name: Lleu Llaw Gyffes | Type: Passenger freighter | Home Port: Anantapur | Owner: Dennis Starlight | Modifications: None | Restrictions: None|
-| 80 |Vessel Name: Chung Cheng | Type: Research vessel | Home Port: Nanookis | Owner: Navarone Ming| Modifications: Extra Cargo Pods | Restrictions: None|
-| 81 |Vessel Name: Goibniu | Type: Luxury yacht | Home Port: Mumbai Seti | Owner: Vladimir García | Modifications: None | Restrictions: Reported MISSING|
-| 82 |Vessel Name: Serenity | Type: Light freighter | Home Port: Roosevelt | Owner: Liling Roseland | Modifications: Enhanced Shields | Restrictions: None|
-| 83 |Vessel Name: Doha | Type: Light freighter | Home Port: Shimla 7 | Owner: Soo-Min Lwamba | Modifications: Extra Cargo Pods | Restrictions: None|
-| 84 |Vessel Name: Triomphant | Type: Light freighter | Home Port: Burgos | Owner: Eleni Volkov | Modifications: None | Restrictions: None|
-| 85 |Vessel Name: Orpheus | Type: Luxury yacht | Home Port: Medaurus | Owner: Sofia Kaur | Modifications: None | Restrictions: None|
-| 86 |Vessel Name: Cyrus | Type: Scout vessel | Home Port: Guanchea | Owner: Mia Davis | Modifications: None | Restrictions: None|
-| 87 |Vessel Name: Galaxion | Type: Passenger liner | Home Port: Exeter | Owner: Johnson Tanaka (corp) | Modifications: None | Restrictions: None|
-| 88 |Vessel Name: Imani | Type: Bulk freighter | Home Port: Alkaia | Owner: Pargeter Hoxha | Modifications: Hull Upgrade | Restrictions: None|
-| 89 |Vessel Name: Tristan | Type: Patrol craft | Home Port: Parthia | Owner: Prudence Reed | Modifications: None | Restrictions: Crew wanted for questioning|
-| 90 |Vessel Name: Aether | Type: Scout vessel | Home Port: Vodyanara | Owner: Ayesha Oliveira | Modifications: None | Restrictions: None|
-| 91 |Vessel Name: Persephone | Type: Research vessel | Home Port: São Luís | Owner: Tekle Hadjipavlou| Modifications: None | Restrictions: None|
-| 92 |Vessel Name: Seti | Type: Bulk freighter | Home Port: Canyon Diablo | Owner: Ana Weber | Modifications: None | Restrictions: None|
-| 93 |Vessel Name: Zenithar | Type: Light freighter | Home Port: Phrygia | Owner: Yohannes Andreou | Modifications: None | Restrictions: Arrest warrant issued for current captain|
-| 94 |Vessel Name: Quetzalcoatl | Type: Patrol craft | Home Port: Curitiba | Owner: James Hassan | Modifications: AI Overseer Installed | Restrictions: None|
-| 95 |Vessel Name: Tethys | Type: Salvage rig | Home Port: Dunwich Kappa | Owner: Antoine Akodjenou | Modifications: Navigation Computer Upgrade | Restrictions: None|
-| 96 |Vessel Name: Dumuzid | Type: Passenger liner | Home Port: Bodie | Owner: Kibrom Kgosi | Modifications: None | Restrictions: None|
-| 97 |Vessel Name: Ashurbanipal | Type: Passenger liner | Home Port: Sucre | Owner: Botino (corp) | Modifications: None | Restrictions: None|
-| 98 |Vessel Name: Valoria | Type: Trade frigate | Home Port: Kennecott | Owner: Andrei Perez | Modifications: None | Restrictions: Shimla 7 docking privileges suspended|
-| 99 |Vessel Name: Ursa | Type: Luxury liner | Home Port: Jaipur | Owner: Roseline Pereira | Modifications: Hull Upgrade | Restrictions: None|
-| 100 |Vessel Name: Ophelia | Type: Bulk freighter | Home Port: Eupora | Owner: Jone Lhamo | Modifications: None | Restrictions: None|
+| 1 | Altaira |  Light freighter |  Valparaíso | Joanne Nakano | None | None|
+| 2 | Caeliana |  Salvage rig |  Uberaba | Kareem Sato | None | None|
+| 3 | Jason |  Patrol craft |  Asha | Felix Harrison | None | None|
+| 4 | Imhotep |  Luxury yacht |  Chester | Pierre Černý | Engine Upgrade | None|
+| 5 | Artemis |  Bulk freighter |  Ripon Theta | Chemicro (corp) | Main Computer Upgrade | None|
+| 6 | Tangaroa |  Hospital ship |  Ahura Mazda | Maverick Montrose|  None | None|
+| 7 | Clark |  Luxury yacht |  Durham Xu | Jeanne Hofmann | Weapon System Upgrade | None|
+| 8 | Nanna Sin |  Research vessel |  Cali | Scott Bajrami | None | None|
+| 9 | Kui Xing |  Research vessel |  Winchester | Genethos (corp) | Extra Cargo Pods | None|
+| 10 | Odysseus |  Light freighter |  Drangsnes | Isabella Singh | None | Arrest warrant issued for current captain|
+| 11 | Galactis |  Bulk freighter |  Cohors | Ines Kimura | None | None|
+| 12 | Poseidon |  Salvage rig |  Terlingua | Thabo Bembe | None | None|
+| 13 | Thunderbird |  Hospital ship |  Benua | Ekaterina Bauer | AI Overseer Installed | None|
+| 14 | Voyager |  Light freighter |  Ruby | Clarissa Ahmadzai | None | None|
+| 15 | Horizon |  Light freighter |  Otrera | Jing Ho | None | None|
+| 16 | Vincennes |  Light freighter |  Nagpur Indigo | Clementine Murati | None | None|
+| 17 | Perseus |  Luxury liner |  Tuatha | Natalia Ito | AI Overseer Installed | Reported STOLEN|
+| 18 | Zenovia |  Luxury yacht |  Lorica | Amina Ondongo | None | Reported MISSING|
+| 19 | Amundsen |  Transport |  Manitoba | Clara Islam | None | None|
+| 20 | Tiberia |  Light freighter |  Aleppo Prime | Syrena Barlow | None | None|
+| 21 | Lunaris |  Luxury liner |  Nixa | Leah Hong | None | None|
+| 22 | Ibn Sina |  Trade frigate |  Indore | Alexei Garcia | AI Overseer Installed | None|
+| 23 | Nova |  Bulk freighter |  Jodhpur | Camille Patel | Navigation Computer Upgrade | None|
+| 24 | Monet |  Bulk freighter |  Evocatus | Irina Mehta | None | None|
+| 25 | Torngarsuk |  Trade frigate |  Belzoni Beta | Drusilla Rahimi | None | None|
+| 26 | Michelangelo |  Patrol craft |  Asurae | Chesterton Serra | None | Reported MISSING|
+| 27 | Lewis |  Hospital ship |  St. Albans | Safiya Levy | None | None|
+| 28 | Dmitri |  Light freighter |  Montevideo | Pavel Laurent | None | None|
+| 29 | Inanna |  Hospital ship |  Persis | Ji-Yeon Avila | Enhanced Shields | None|
+| 30 | Athena |  Passenger freighter |  Cernunna | Tsitsi Barrientos | None | None|
+| 31 | Glooscap |  Light freighter |  Magpie Prime | Sengphet Zongo|  None | None|
+| 32 | Cabral |  Salvage rig |  Alvorada Hold | Min-Seok Kimani | AI Overseer Installed | Reported MISSING|
+| 33 | Cassiopeia |  Bulk freighter |  Queen Victoria | Ranna Kobayashi| None | None|
+| 34 | Serendipity |  Luxury yacht |  Allahabad | Colin Clayton | None | None|
+| 35 | White Buff alo |  Salvage rig |  Cerrillos | Karamo Weitzman | None | None|
+| 36 | Serenade |  Light freighter |  Ahone II | Adelaid Dervishi | None | None|
+| 37 | Hunab Ku |  Scout vessel |  Queen Elizabeth | Freya Salinas | None | None|
+| 38 | Nogomain |  Light freighter |  Faywood Omicron | Indrani Gaines | None | Reported STOLEN|
+| 39 | Meiying |  Passenger liner |  Fomorion II | Josef Salleh | Extra Cargo Pods | None|
+| 40 | Cygnus |  Light freighter |  Cormorant | Brigitte Hawkes | AI Overseer Installed | Crew wanted for questioning|
+| 41 | Lancelot |  Bulk freighter |  Gladius | Emma Smith | None | None|
+| 42 | Orionar |  Salvage rig |  Patna Gamma | Sarah Thakur | None | None|
+| 43 | Nebula |  Passenger liner |  N'Djamena | Ahmed Lompo | None | None|
+| 44 | Seraphia |  Patrol craft |  Bath | Selena Heron | Navigation Computer Upgrade | None|
+| 45 | Eros |  Scout vessel |  St. Thomas | Aoife Ouedraogo | None | None|
+| 46 | Zenobia |  Bulk freighter |  Ajmer | Daria Singh | None | None|
+| 47 | Cortés |  Bulk freighter |  Bhubaneswar | James Turner | None | None|
+| 48 | Evander |  Passenger liner |  Dushanbe | Minh Wu | None | Banned from|
+| 49 | Simurgh |  Luxury yacht |  Sebastopol | Soo-Jin Omondi | None | None|
+| 50 | Solstice |  Trade frigate |  Herod | Elecomics (corp) | None | Crew wanted for questioning|
+| 51 | Auriga |  Passenger liner |  Testudo | JenCorp (corp) | None | None|
+| 52 | Manabozho |  Light freighter |  Margiana | Dermot Ordona | Main Computer Upgrade | None|
+| 53 | Arianrhod |  Salvage rig |  La Paz | Calpurnia Kiala | None | None|
+| 54 | Perseida |  Passenger liner |  Equites Lambda | Lakshman Saedrin | None | None|
+| 55 | Pegasus |  Bulk freighter |  Drangiana | Alveretta Coma | Enhanced Shields | Zaba Omicron docking privileges suspended|
+| 56 | da Vinci |  Bulk freighter |  Sattagydia | Stanhope Gashi | None | None|
+| 57 | Camulus |  Light freighter |  Sagartia | Evelyn White | None | None|
+| 58 | Phoenix |  Scout vessel |  Ionia | Linh Park | None | Reported MISSING|
+| 59 | Columbus |  Patrol craft |  Hereford | Francisco Kozic | Engine Upgrade | None|
+| 60 | Lempo |  Bulk freighter |  New Troyes | Kit Saris | None | None|
+| 61 | Sirius |  Scout vessel |  Silver | Sophia Jones | Extra Cargo Pods | None|
+| 62 | Helios |  Light freighter |  Gibil | Eun-Ji Auma | None | None|
+| 63 | Valkyrie |  Light freighter |  Adroa | Wainwright Aziz | None | None|
+| 64 | Nautica |  Salvage rig |  Dahae | Julian Harris | None | Reported STOLEN|
+| 65 | Aquariel |  Hospital ship |  Sparrow | Auren Void | None | Zhombe docking privileges suspended|
+| 66 | Freedom |  Light freighter |  Belo Horizonte | Dazolytics (corp)|  Defensive Weapon Upgrade | None|
+| 67 | Alcyone |  Bulk freighter |  Hughes | Tarken Atreides | Hull Upgrade | None|
+| 68 | Raven |  Luxury liner |  Zaba Omicron | Wei Ng | None | None|
+| 69 | Tashkent |  Light freighter |  Sarcina | Charmaine Georgiev | None | None|
+| 70 | Marco Polo |  Luxury yacht |  Kanpur Bok | Mikko Ahmetovic | Main Computer Upgrade | Arrest warrant issued for current captain|
+| 71 | Caelum |  Bulk freighter |  Tewkesbury | Penrose Tizi | None | None|
+| 72 | Ptolemy |  Patrol craft |  Surat | Envios (corp) | None | None|
+| 73 | Siegfried |  Scout vessel |  Kingfisher | Arjun Das | None | None|
+| 74 | Magellan |  Scout vessel |  Pharaoh | Ibrahim Rahman | None | None|
+| 75 | Helix |  Patrol craft |  Kafr Saqr | Bounthavy Tshegofatso | None | Banned from Alkaia|
+| 76 | Dürer |  Research vessel |  Maracaibo | Clementine Baker | None | None|
+| 77 | Gilgamesh |  Salvage rig |  Leicester | Nikita Christopoulos | None | None|
+| 78 | Guinevere |  Light freighter |  Scutum | Charlotte Ferreira | None | None|
+| 79 | Lleu Llaw Gyffes |  Passenger freighter |  Anantapur | Dennis Starlight | None | None|
+| 80 | Chung Cheng |  Research vessel |  Nanookis | Navarone Ming| Extra Cargo Pods | None|
+| 81 | Goibniu |  Luxury yacht |  Mumbai Seti | Vladimir García | None | Reported MISSING|
+| 82 | Serenity |  Light freighter |  Roosevelt | Liling Roseland | Enhanced Shields | None|
+| 83 | Doha |  Light freighter |  Shimla 7 | Soo-Min Lwamba | Extra Cargo Pods | None|
+| 84 | Triomphant |  Light freighter |  Burgos | Eleni Volkov | None | None|
+| 85 | Orpheus |  Luxury yacht |  Medaurus | Sofia Kaur | None | None|
+| 86 | Cyrus |  Scout vessel |  Guanchea | Mia Davis | None | None|
+| 87 | Galaxion |  Passenger liner |  Exeter | Johnson Tanaka (corp) | None | None|
+| 88 | Imani |  Bulk freighter |  Alkaia | Pargeter Hoxha | Hull Upgrade | None|
+| 89 | Tristan |  Patrol craft |  Parthia | Prudence Reed | None | Crew wanted for questioning|
+| 90 | Aether |  Scout vessel |  Vodyanara | Ayesha Oliveira | None | None|
+| 91 | Persephone |  Research vessel |  São Luís | Tekle Hadjipavlou| None | None|
+| 92 | Seti |  Bulk freighter |  Canyon Diablo | Ana Weber | None | None|
+| 93 | Zenithar |  Light freighter |  Phrygia | Yohannes Andreou | None | Arrest warrant issued for current captain|
+| 94 | Quetzalcoatl |  Patrol craft |  Curitiba | James Hassan | AI Overseer Installed | None|
+| 95 | Tethys |  Salvage rig |  Dunwich Kappa | Antoine Akodjenou | Navigation Computer Upgrade | None|
+| 96 | Dumuzid |  Passenger liner |  Bodie | Kibrom Kgosi | None | None|
+| 97 | Ashurbanipal |  Passenger liner |  Sucre | Botino (corp) | None | None|
+| 98 | Valoria |  Trade frigate |  Kennecott | Andrei Perez | None | Shimla 7 docking privileges suspended|
+| 99 | Ursa |  Luxury liner |  Jaipur | Roseline Pereira | Hull Upgrade | None|
+| 100 | Ophelia |  Bulk freighter |  Eupora | Jone Lhamo | None | None|
 
 ### Ship Transponder Info #3
 
 |d100|Vessel Name|Type|Home Port| Owner |Modifications|Restrictions|
 |:--:|--|--|--| --| -- |--|
-| 1 | Champlain | Type: Transport |  Pine Grove |  Madhuri Rose |  None |  None|
-| 2 | Mako | Type: Salvage rig |  Queensland Forge |  Astrid Kibaki |  None |  None|
-| 3 | Franklin | Type: Passenger freighter |  Lark |  Anastasia García |  None |  None|
-| 4 | Icarius | Type: Bulk freighter |  Kolkata |  Sergei Lambert |  None |  None|
-| 5 | Astrapolis | Type: Luxury liner |  Hyrcania |  Marshall Sett |  None |  None|
-| 6 | Basquiat | Type: Light freighter |  Saint Asaph |  Dieudonné Pospíšil |  Extra Cargo Pods |  Crew wanted for questioning|
-| 7 | Promethean | Type: Bulk freighter |  Almaty |  Chaucer Dala |  None |  Banned from|
-| 8 | Aquanaut | Type: Light freighter |  Gleeson |  Rechelluul Ali |  Hull Upgrade |  Crew wanted for questioning|
-| 9 | Solanis | Type: Passenger liner |  Rapti |  Ivan Ponomarev |  Extra Cargo Pods |  None|
-| 10 | Polaris | Type: Hospital ship |  Nottingham |  Mostafa Jokar |  None |  None|
-| 11 | America | Type: Passenger liner |  Zarathustra |  Nargiza Patel |  Enhanced Shields |  Reported STOLEN|
-| 12 | Calypso | Type: Patrol craft |  Leshyra |  Maya Mahmood |  None |  None|
-| 13 | Elf Steden | Type: Patrol craft |  Ollinmaya |  Octavius Mitchell |  None |  None|
-| 14 | Gebrinius | Type: Bulk freighter |  Aquila Zeta |  Zahra Hadzic |  Engine Upgrade |  None|
-| 15 | Vortex | Type: Salvage rig |  Angra Mainyu |  Anton Batma |  None |  None|
-| 16 | Pwyll | Type: Transport |  Arequipa |  Philomena Belmadi |  None |  Reported STOLEN|
-| 17 | Kahlo | Type: Passenger liner |  Hell |  Omar Ramaabya |  None |  None|
-| 18 | Narcissus | Type: Patrol craft |  Guayaquil |  Peverell Farré |  None |  None|
-| 19 | Prasae | Type: Hospital ship |  Tern |  Ye-Jin Chege |  None |  None|
-| 20 | Ambitieux | Type: Light freighter |  La Plata |  Molyneux Khan |  None |  None|
-| 21 | Minotaur | Type: Light freighter |  Animas |  Amina Sebele |  Main Computer Upgrade |  None|
-| 22 | Vermeer | Type: Trade frigate |  Triarii |  Maximus Stewart |  None |  None|
-| 23 | Coyote | Type: Bulk freighter |  Karura |  Khamsone Haji |  None |  Celaeno docking privileges suspended|
-| 24 | Svarog | Type: Bulk freighter |  Qin Shi Huang |  Andre Richter |  None |  None|
-| 25 | Tornat | Type: Scout vessel |  Narrabri |  Valentina Shen |  None |  None|
-| 26 | Arash | Type: Trade frigate |  Pune |  Augustus Bennett |  Main Computer Upgrade |  None|
-| 27 | Zenith | Type: Transport |  Visakhapatnam |  Abdulaziz Zangmo |  None |  Sundstrom docking privileges suspended|
-| 28 | Odyssey | Type: Transport |  Yoruba Alpha |  Alejandro Rousseau |  None |  None|
-| 29 | Haida | Type: Passenger liner |  Thiruvananthapuram |  Delphina Benali |  None |  None|
-| 30 | Zeus | Type: Trade frigate |  Bristol |  Dong-Hyun Avraham |  None |  None|
-| 31 | Oregon | Type: Hospital ship |  Vadodara |  Joon-Ho Mulema |  Extra Cargo Pods |  None|
-| 32 | Theseus | Type: Light freighter |  Guwahati |  Ayanda Hidalgo |  Hull Upgrade |  None|
-| 33 | Zephyrus | Type: Salvage rig |  Indalo |  KofiMendoza |  Main Computer Upgrade |  None|
-| 34 | Zenon | Type: Research vessel |  Samarkand |  Purohit (corp) |  Enhanced Shields |  Arrest warrant issued for current captain|
-| 35 | Frankenstein | Type: Light freighter |  Esther |  Abigail Harris |  Main Computer Upgrade |  None|
-| 36 | Eclipse | Type: Passenger liner |  Cambridge |  Christopher Fitzgerald |  None |  None|
-| 37 | Nebulon | Type: Scout vessel |  Solomon |  Autotics (corp) |  None |  None|
-| 38 | Aurigal | Type: Salvage rig |  Tesserarius |  Nabil Maina |  Extra Cargo Pods |  None|
-| 39 | Cerridwen | Type: Light freighter |  Shah Jahan |  Yotam Wong |  None |  None|
-| 40 | Enki | Type: Light freighter |  Jefferson |  Octavia Turner |  AI Overseer Installed |  None|
-| 41 | Galahad | Type: Scout vessel |  Vigiles |  Dunsford Krasniqi |  None |  None|
-| 42 | Papa | Type: Patrol craft |  Bactria |  Suvarna Bidard |  None |  Reported MISSING|
-| 43 | Vespera | Type: Trade frigate |  Kennedy |  Charlotte Taylor |  Defensive Weapon Upgrade |  Banned from Vadodara|
-| 44 | Arcturus | Type: Light freighter |  Gathas |  Lan Khan |  None |  None|
-| 45 | Empress | Type: Bulk freighter |  Rusalkara |  Anders Stoyanov |  None |  None|
-| 46 | Ilmarinen | Type: Scout vessel |  Sejong |  Ashdown Roca |  None |  Crew wanted for questioning|
-| 47 | Aquaterran | Type: Luxury liner |  Abingdon |  Duc Yamamoto |  None |  Reported STOLEN|
-| 48 | Anu | Type: Bulk freighter |  Judea |  Kwame Mbaya |  None |  None|
-| 49 | Istanbul | Type: Passenger liner |  Nahundi |  Solana Gufrai |  None |  None|
-| 50 | Ramses | Type: Light freighter |  Cartagena |  Minn Yan |  None |  None|
-| 51 | Cassiope | Type: Passenger freighter |  Valdivia |  Harper Wilson |  AI Overseer Installed |  None|
-| 52 | Baku | Type: Light freighter |  Khiva |  Juha Yusof |  None |  None|
-| 53 | Aldebaran | Type: Trade frigate |  Panamandis |  Marie Bolkiah |  None |  None|
-| 54 | Cupid | Type: Passenger freighter |  Goldfield |  Elmer Zinsou |  AI Overseer Installed |  None|
-| 55 | Khufu | Type: Light freighter |  Sagittarius |  Javier Kaur |  None |  None|
-| 56 | Solarius | Type: Trade frigate |  Vodunia |  Lusila Daou |  Main Computer Upgrade |  Lincoln docking privileges suspended|
-| 57 | Olympus | Type: Hospital ship |  Glastonbury |  Polina Schultz |  None |  Rongomai docking privileges suspended|
-| 58 | Hina | Type: Bulk freighter |  Belmont Free |  Dalia Quispe |  Weapon System Upgrade |  None|
-| 59 | Eris | Type: Bulk freighter |  Osasco |  Olufemi Benson |  None |  None|
-| 60 | Atlantis | Type: Light freighter |  Waralden Olmai |  Turner Arana |  None |  Reported MISSING|
-| 61 | Amenhotep | Type: Salvage rig |  Avesta |  Roman Katsaros |  None |  None|
-| 62 | Glanis | Type: Light freighter |  Menehunara |  Xi Volkman Inc. (corp) |  None |  Reported STOLEN|
-| 63 | Moscow | Type: Bulk freighter |  Rosario |  Biophy (corp) |  Defensive Weapon Upgrade |  None|
-| 64 | Quasimodo | Type: Transport |  Wimborne |  Ayodele Mwangi |  Extra Cargo Pods |  None|
-| 65 | Todros | Type: Light freighter |  Florianópolis |  Walker Dos Santos |  None |  None|
-| 66 | Bran the Blessed | Type: Bulk freighter |  Thelemor |  Spiromic (corp) |  None |  None|
-| 67 | Orunmila | Type: Light freighter |  Luristan |  Eshe Ginn |  None |  Reported STOLEN|
-| 68 | Nereus | Type: Trade frigate |  Lincoln |  Magnus Chavez |  Navigation Computer Upgrade |  Banned from|
-| 69 | Alignak | Type: Research vessel |  Gloucester |  Irella Jouret |  None |  Crew wanted for questioning|
-| 70 | Kokopelli | Type: Passenger liner |  Madison |  Mei Cheung |  None |  None|
-| 71 | Faridun | Type: Hospital ship |  Pamphylia |  Nasra Kabore |  None |  None|
-| 72 | Morgan le Fay | Type: Research vessel |  Anunnakara |  Sarck (corp) |  Enhanced Shields |  None|
-| 73 | Ninhursag | Type: Light freighter |  Vilbus |  Mere Azanli |  None |  None|
-| 74 | Cook | Type: Patrol craft |  Cipact |  Oyun Wang |  Extra Cargo Pods |  None|
-| 75 | Vanguard | Type: Passenger liner |  Icarianth |  Solveig Akinyi |  None |  None|
-| 76 | Hades | Type: Scout vessel |  Santa Cruz |  Ekaterina Becker |  Defensive Weapon Upgrade |  Banned from Hezuo Six|
-| 77 | Hypernova | Type: Salvage rig |  Polemos |  Ntsie Novotný |  None |  None|
-| 78 | Vesper | Type: Luxury yacht |  Atlantis |  Ethan Brooks |  None |  None|
-| 79 | Maui | Type: Passenger freighter |  Mostoles |  Vizon (corp) |  Enhanced Shields |  None|
-| 80 | Icarian | Type: Luxury liner |  Munifex |  Commsys (corp) |  None |  None|
-| 81 | Vortica | Type: Patrol craft |  Agra Delta |  Cholmondeley Mokrane |  Enhanced Shields |  None|
-| 82 | Nanabozho | Type: Bulk freighter |  Phoenicia |  Mikhail Pappas |  Engine Upgrade |  None|
-| 83 | Monkey Business | Type: Luxury yacht |  Montes Claros |  Beatrix Hudson |  None |  None|
-| 84 | Akhenaten | Type: Passenger liner |  Yazd |  Daniel Jenkins |  Engine Upgrade |  None|
-| 85 | Solanum | Type: Research vessel |  Naples |  Sebastian Gray |  None |  None|
-| 86 | Morpheus | Type: Patrol craft |  Shugor |  Musu Dzananovic |  Navigation Computer Upgrade |  None|
-| 87 | Lyrianus | Type: Passenger liner |  Wuxi El Husseiniya |  Ormskirk Berisha |  Engine Upgrade |  Arrest warrant issued for current captain|
-| 88 | Ghost of Nin | Type: Transport |  Susiana |  Fatima Lin |  None |  None|
-| 89 | Mortzestus | Type: Light freighter |  Canterbury |  Temperance Soler |  None |  None|
-| 90 | Nefertiti | Type: Passenger liner |  Izanagi Seven |  Lysander Turner |  None |  None|
-| 91 | Viridian | Type: Patrol craft |  Truman |  Olga Kaur |  None |  None|
-| 92 | Navarin | Type: Research vessel |  Prometheus |  Janis Cotton |  None |  None|
-| 93 | Helianus | Type: Trade frigate |  Turma |  Amélie Romanov |  None |  None|
-| 94 | Ajax the Greater | Type: Transport |  Shrike |  Amina Chua |  Enhanced Shields |  None|
-| 95 | Ares | Type: Passenger freighter |  Hyderabad |  Winthrop Waziri |  Defensive Weapon Upgrade |  None|
-| 96 | Freyja | Type: Bulk freighter |  Americana |  Grace Clark |  None |  None|
-| 97 | Hecate | Type: Research vessel |  São Paulo |  Juan Lopez |  None |  Arrest warrant issued for current captain|
-| 98 | Hatshepsut | Type: Scout vessel |  Caracas |  Carter Font |  Defensive Weapon Upgrade |  None|
-| 99 | Helian | Type: Bulk freighter |  Lucknow |  Ethan Lim |  None |  None|
-| 100 | Picasso | Type: Passenger liner |  Hezekiah |  Isabeau Harrison |  None |  None|
+| 1 | Champlain |  Transport |  Pine Grove |  Madhuri Rose |  None |  None|
+| 2 | Mako |  Salvage rig |  Queensland Forge |  Astrid Kibaki |  None |  None|
+| 3 | Franklin |  Passenger freighter |  Lark |  Anastasia García |  None |  None|
+| 4 | Icarius |  Bulk freighter |  Kolkata |  Sergei Lambert |  None |  None|
+| 5 | Astrapolis |  Luxury liner |  Hyrcania |  Marshall Sett |  None |  None|
+| 6 | Basquiat |  Light freighter |  Saint Asaph |  Dieudonné Pospíšil |  Extra Cargo Pods |  Crew wanted for questioning|
+| 7 | Promethean |  Bulk freighter |  Almaty |  Chaucer Dala |  None |  Banned from|
+| 8 | Aquanaut |  Light freighter |  Gleeson |  Rechelluul Ali |  Hull Upgrade |  Crew wanted for questioning|
+| 9 | Solanis |  Passenger liner |  Rapti |  Ivan Ponomarev |  Extra Cargo Pods |  None|
+| 10 | Polaris |  Hospital ship |  Nottingham |  Mostafa Jokar |  None |  None|
+| 11 | America |  Passenger liner |  Zarathustra |  Nargiza Patel |  Enhanced Shields |  Reported STOLEN|
+| 12 | Calypso |  Patrol craft |  Leshyra |  Maya Mahmood |  None |  None|
+| 13 | Elf Steden |  Patrol craft |  Ollinmaya |  Octavius Mitchell |  None |  None|
+| 14 | Gebrinius |  Bulk freighter |  Aquila Zeta |  Zahra Hadzic |  Engine Upgrade |  None|
+| 15 | Vortex |  Salvage rig |  Angra Mainyu |  Anton Batma |  None |  None|
+| 16 | Pwyll |  Transport |  Arequipa |  Philomena Belmadi |  None |  Reported STOLEN|
+| 17 | Kahlo |  Passenger liner |  Hell |  Omar Ramaabya |  None |  None|
+| 18 | Narcissus |  Patrol craft |  Guayaquil |  Peverell Farré |  None |  None|
+| 19 | Prasae |  Hospital ship |  Tern |  Ye-Jin Chege |  None |  None|
+| 20 | Ambitieux |  Light freighter |  La Plata |  Molyneux Khan |  None |  None|
+| 21 | Minotaur |  Light freighter |  Animas |  Amina Sebele |  Main Computer Upgrade |  None|
+| 22 | Vermeer |  Trade frigate |  Triarii |  Maximus Stewart |  None |  None|
+| 23 | Coyote |  Bulk freighter |  Karura |  Khamsone Haji |  None |  Celaeno docking privileges suspended|
+| 24 | Svarog |  Bulk freighter |  Qin Shi Huang |  Andre Richter |  None |  None|
+| 25 | Tornat |  Scout vessel |  Narrabri |  Valentina Shen |  None |  None|
+| 26 | Arash |  Trade frigate |  Pune |  Augustus Bennett |  Main Computer Upgrade |  None|
+| 27 | Zenith |  Transport |  Visakhapatnam |  Abdulaziz Zangmo |  None |  Sundstrom docking privileges suspended|
+| 28 | Odyssey |  Transport |  Yoruba Alpha |  Alejandro Rousseau |  None |  None|
+| 29 | Haida |  Passenger liner |  Thiruvananthapuram |  Delphina Benali |  None |  None|
+| 30 | Zeus |  Trade frigate |  Bristol |  Dong-Hyun Avraham |  None |  None|
+| 31 | Oregon |  Hospital ship |  Vadodara |  Joon-Ho Mulema |  Extra Cargo Pods |  None|
+| 32 | Theseus |  Light freighter |  Guwahati |  Ayanda Hidalgo |  Hull Upgrade |  None|
+| 33 | Zephyrus |  Salvage rig |  Indalo |  KofiMendoza |  Main Computer Upgrade |  None|
+| 34 | Zenon |  Research vessel |  Samarkand |  Purohit (corp) |  Enhanced Shields |  Arrest warrant issued for current captain|
+| 35 | Frankenstein |  Light freighter |  Esther |  Abigail Harris |  Main Computer Upgrade |  None|
+| 36 | Eclipse |  Passenger liner |  Cambridge |  Christopher Fitzgerald |  None |  None|
+| 37 | Nebulon |  Scout vessel |  Solomon |  Autotics (corp) |  None |  None|
+| 38 | Aurigal |  Salvage rig |  Tesserarius |  Nabil Maina |  Extra Cargo Pods |  None|
+| 39 | Cerridwen |  Light freighter |  Shah Jahan |  Yotam Wong |  None |  None|
+| 40 | Enki |  Light freighter |  Jefferson |  Octavia Turner |  AI Overseer Installed |  None|
+| 41 | Galahad |  Scout vessel |  Vigiles |  Dunsford Krasniqi |  None |  None|
+| 42 | Papa |  Patrol craft |  Bactria |  Suvarna Bidard |  None |  Reported MISSING|
+| 43 | Vespera |  Trade frigate |  Kennedy |  Charlotte Taylor |  Defensive Weapon Upgrade |  Banned from Vadodara|
+| 44 | Arcturus |  Light freighter |  Gathas |  Lan Khan |  None |  None|
+| 45 | Empress |  Bulk freighter |  Rusalkara |  Anders Stoyanov |  None |  None|
+| 46 | Ilmarinen |  Scout vessel |  Sejong |  Ashdown Roca |  None |  Crew wanted for questioning|
+| 47 | Aquaterran |  Luxury liner |  Abingdon |  Duc Yamamoto |  None |  Reported STOLEN|
+| 48 | Anu |  Bulk freighter |  Judea |  Kwame Mbaya |  None |  None|
+| 49 | Istanbul |  Passenger liner |  Nahundi |  Solana Gufrai |  None |  None|
+| 50 | Ramses |  Light freighter |  Cartagena |  Minn Yan |  None |  None|
+| 51 | Cassiope |  Passenger freighter |  Valdivia |  Harper Wilson |  AI Overseer Installed |  None|
+| 52 | Baku |  Light freighter |  Khiva |  Juha Yusof |  None |  None|
+| 53 | Aldebaran |  Trade frigate |  Panamandis |  Marie Bolkiah |  None |  None|
+| 54 | Cupid |  Passenger freighter |  Goldfield |  Elmer Zinsou |  AI Overseer Installed |  None|
+| 55 | Khufu |  Light freighter |  Sagittarius |  Javier Kaur |  None |  None|
+| 56 | Solarius |  Trade frigate |  Vodunia |  Lusila Daou |  Main Computer Upgrade |  Lincoln docking privileges suspended|
+| 57 | Olympus |  Hospital ship |  Glastonbury |  Polina Schultz |  None |  Rongomai docking privileges suspended|
+| 58 | Hina |  Bulk freighter |  Belmont Free |  Dalia Quispe |  Weapon System Upgrade |  None|
+| 59 | Eris |  Bulk freighter |  Osasco |  Olufemi Benson |  None |  None|
+| 60 | Atlantis |  Light freighter |  Waralden Olmai |  Turner Arana |  None |  Reported MISSING|
+| 61 | Amenhotep |  Salvage rig |  Avesta |  Roman Katsaros |  None |  None|
+| 62 | Glanis |  Light freighter |  Menehunara |  Xi Volkman Inc. (corp) |  None |  Reported STOLEN|
+| 63 | Moscow |  Bulk freighter |  Rosario |  Biophy (corp) |  Defensive Weapon Upgrade |  None|
+| 64 | Quasimodo |  Transport |  Wimborne |  Ayodele Mwangi |  Extra Cargo Pods |  None|
+| 65 | Todros |  Light freighter |  Florianópolis |  Walker Dos Santos |  None |  None|
+| 66 | Bran the Blessed |  Bulk freighter |  Thelemor |  Spiromic (corp) |  None |  None|
+| 67 | Orunmila |  Light freighter |  Luristan |  Eshe Ginn |  None |  Reported STOLEN|
+| 68 | Nereus |  Trade frigate |  Lincoln |  Magnus Chavez |  Navigation Computer Upgrade |  Banned from|
+| 69 | Alignak |  Research vessel |  Gloucester |  Irella Jouret |  None |  Crew wanted for questioning|
+| 70 | Kokopelli |  Passenger liner |  Madison |  Mei Cheung |  None |  None|
+| 71 | Faridun |  Hospital ship |  Pamphylia |  Nasra Kabore |  None |  None|
+| 72 | Morgan le Fay |  Research vessel |  Anunnakara |  Sarck (corp) |  Enhanced Shields |  None|
+| 73 | Ninhursag |  Light freighter |  Vilbus |  Mere Azanli |  None |  None|
+| 74 | Cook |  Patrol craft |  Cipact |  Oyun Wang |  Extra Cargo Pods |  None|
+| 75 | Vanguard |  Passenger liner |  Icarianth |  Solveig Akinyi |  None |  None|
+| 76 | Hades |  Scout vessel |  Santa Cruz |  Ekaterina Becker |  Defensive Weapon Upgrade |  Banned from Hezuo Six|
+| 77 | Hypernova |  Salvage rig |  Polemos |  Ntsie Novotný |  None |  None|
+| 78 | Vesper |  Luxury yacht |  Atlantis |  Ethan Brooks |  None |  None|
+| 79 | Maui |  Passenger freighter |  Mostoles |  Vizon (corp) |  Enhanced Shields |  None|
+| 80 | Icarian |  Luxury liner |  Munifex |  Commsys (corp) |  None |  None|
+| 81 | Vortica |  Patrol craft |  Agra Delta |  Cholmondeley Mokrane |  Enhanced Shields |  None|
+| 82 | Nanabozho |  Bulk freighter |  Phoenicia |  Mikhail Pappas |  Engine Upgrade |  None|
+| 83 | Monkey Business |  Luxury yacht |  Montes Claros |  Beatrix Hudson |  None |  None|
+| 84 | Akhenaten |  Passenger liner |  Yazd |  Daniel Jenkins |  Engine Upgrade |  None|
+| 85 | Solanum |  Research vessel |  Naples |  Sebastian Gray |  None |  None|
+| 86 | Morpheus |  Patrol craft |  Shugor |  Musu Dzananovic |  Navigation Computer Upgrade |  None|
+| 87 | Lyrianus |  Passenger liner |  Wuxi El Husseiniya |  Ormskirk Berisha |  Engine Upgrade |  Arrest warrant issued for current captain|
+| 88 | Ghost of Nin |  Transport |  Susiana |  Fatima Lin |  None |  None|
+| 89 | Mortzestus |  Light freighter |  Canterbury |  Temperance Soler |  None |  None|
+| 90 | Nefertiti |  Passenger liner |  Izanagi Seven |  Lysander Turner |  None |  None|
+| 91 | Viridian |  Patrol craft |  Truman |  Olga Kaur |  None |  None|
+| 92 | Navarin |  Research vessel |  Prometheus |  Janis Cotton |  None |  None|
+| 93 | Helianus |  Trade frigate |  Turma |  Amélie Romanov |  None |  None|
+| 94 | Ajax the Greater |  Transport |  Shrike |  Amina Chua |  Enhanced Shields |  None|
+| 95 | Ares |  Passenger freighter |  Hyderabad |  Winthrop Waziri |  Defensive Weapon Upgrade |  None|
+| 96 | Freyja |  Bulk freighter |  Americana |  Grace Clark |  None |  None|
+| 97 | Hecate |  Research vessel |  São Paulo |  Juan Lopez |  None |  Arrest warrant issued for current captain|
+| 98 | Hatshepsut |  Scout vessel |  Caracas |  Carter Font |  Defensive Weapon Upgrade |  None|
+| 99 | Helian |  Bulk freighter |  Lucknow |  Ethan Lim |  None |  None|
+| 100 | Picasso |  Passenger liner |  Hezekiah |  Isabeau Harrison |  None |  None|
 
 ### Ship Transponder Info #4
 
 |d100|Vessel Name|Type|Home Port| Owner |Modifications|Restrictions|
 |:--:|--|--|--| --| -- |--|
-| 1 |Vessel Name: Hyperion | Type: Hospital ship | Home Port: Port Jarvis | Owner: Enkhtuya Nguyen | Modifications: Navigation Computer Upgrade | Restrictions: None|
-| 2 |Vessel Name: Galactan | Type: Passenger liner | Home Port: Aernus | Owner: Temba Njeri | Modifications: None | Restrictions: None|
-| 3 |Vessel Name: Wayland the Smith | Type: Transport | Home Port: New Oxford | Owner: Theron Foster| Modifications: Weapon System Upgrade | Restrictions: None|
-| 4 |Vessel Name: Elysia | Type: Light freighter | Home Port: Theodore | Owner: Selma Tumagole | Modifications: None | Restrictions: None|
-| 5 |Vessel Name: Isabella | Type: Luxury yacht | Home Port: Mysia | Owner: Erez Shah | Modifications: None | Restrictions: Izanagi Seven docking privileges suspended|
-| 6 |Vessel Name: Vespucci | Type: Passenger freighter | Home Port: Tiamatia | Owner: Caxton Gomes | Modifications: Extra Cargo Pods | Restrictions: None|
-| 7 |Vessel Name: Zavi Isikebhe | Type: Trade frigate | Home Port: Coimbatore | Owner: Rodrigo Huang | Modifications: None | Restrictions: None|
-| 8 |Vessel Name: Potrimpo | Type: Light freighter | Home Port: Fenrisar | Owner: Vasiliki Diaz | Modifications: None | Restrictions: None|
-| 9 |Vessel Name: Bathala | Type: Bulk freighter | Home Port: Totnes | Owner: Angelica Chan | Modifications: Main Computer Upgrade | Restrictions: None|
-| 10 |Vessel Name: Bismarck | Type: Transport | Home Port: Manaus | Owner: Pusetso Namgyal | Modifications: None | Restrictions: None|
-| 11 |Vessel Name: Taliesin | Type: Bulk freighter | Home Port: Yggdrasil | Owner: Amir Lee | Modifications: Extra Cargo Pods | Restrictions: None|
-| 12 |Vessel Name: Beirut | Type: Passenger freighter | Home Port: Golbazar | Owner: Instic (corp) | Modifications: None | Restrictions: None|
-| 13 |Vessel Name: Herodotus | Type: Bulk freighter | Home Port: Castle Dome | Owner: Melvina Tlemçani| Modifications: None | Restrictions: Crew wanted for questioning|
-| 14 |Vessel Name: Ereshkigal | Type: Luxury liner | Home Port: Taizong | Owner: Ava Williams | Modifications: None | Restrictions: None|
-| 15 |Vessel Name: Thor | Type: Luxury yacht | Home Port: Mnemosyne | Owner: Worthington Boualem | Modifications: None | Restrictions: None|
-| 16 |Vessel Name: Pele | Type: Luxury liner | Home Port: Kochi | Owner: Volkov Industries (corp) | Modifications: Enhanced Shields | Restrictions: None|
-| 17 |Vessel Name: Celestialis | Type: Luxury liner | Home Port: Kestrel | Owner: Lucretia Malanje | Modifications: None | Restrictions: None|
-| 18 |Vessel Name: Ibn Battuta | Type: Bulk freighter | Home Port: Jackson | Owner: Malik Tapia | Modifications: Main Computer Upgrade | Restrictions: None|
-| 19 |Vessel Name: Freyr | Type: Transport | Home Port: Janeiro Core | Owner: Salote Marinova | Modifications: Defensive Weapon Upgrade | Restrictions: None|
-| 20 |Vessel Name: Tutankhamun | Type: Light freighter | Home Port: Bannack | Owner: Jase Malogaan | Modifications: None | Restrictions: None|
-| 21 |Vessel Name: Dubai | Type: Research vessel | Home Port: Bunker Hill | Owner: Santiago Fedorov | Modifications: None | Restrictions: Belton docking privileges suspended|
-| 22 |Vessel Name: Orion | Type: Hospital ship | Home Port: Bulbul | Owner: Khalid Carvalho | Modifications: AI Overseer Installed | Restrictions: None|
-| 23 |Vessel Name: Equinox | Type: Transport | Home Port: Nefertiti | Owner: Masika Athzaria | Modifications: None | Restrictions: None|
-| 24 |Vessel Name: Missouri | Type: Trade frigate | Home Port: Varanasi | Owner: Nala Goldberg | Modifications: None | Restrictions: None|
-| 25 |Vessel Name: Oberion | Type: Light freighter | Home Port: Tiberias | Owner: Viliame Souza | Modifications: None | Restrictions: None|
-| 26 |Vessel Name: Walrus | Type: Research vessel | Home Port: Watatsumi | Owner: Ingrid Wanjiku | Modifications: Hull Upgrade | Restrictions: Reported STOLEN|
-| 27 |Vessel Name: Ahriman | Type: Scout vessel | Home Port: Ashoka | Owner: Azubah Kuka | Modifications: None | Restrictions: None|
-| 28 |Vessel Name: Novarius | Type: Light freighter | Home Port: Aita XII | Owner: Manuel Dubois | Modifications: Enhanced Shields | Restrictions: None|
-| 29 |Vessel Name: Andromeda | Type: Luxury liner | Home Port: Chennai | Owner: Signe Rodriguez | Modifications: Hull Upgrade | Restrictions: None|
-| 30 |Vessel Name: Eridanus | Type: Bulk freighter | Home Port: Ozu Athens | Owner: Maximilian Jiāng | Modifications: None | Restrictions: None|
-| 31 |Vessel Name: Klimt | Type: Bulk freighter | Home Port: Griffin | Owner: King Jamba | Modifications: None | Restrictions: None|
-| 32 |Vessel Name: Moku Fisher | Type: Light freighter | Home Port: Shrewsbury | Owner: Phouphet Gbedji| Modifications: None | Restrictions: None|
-| 33 |Vessel Name: Nimbus | Type: Light freighter | Home Port: Nibiru | Owner: Malisa Campbell | Modifications: None | Restrictions: None|
-| 34 |Vessel Name: Isolde | Type: Trade frigate | Home Port: Leprech | Owner: Lerona Aldamar | Modifications: AI Overseer Installed | Restrictions: None|
-| 35 |Vessel Name: Hosho | Type: Luxury liner | Home Port: Pearce | Owner: Samuel Hayes | Modifications: None | Restrictions: Arrest warrant issued for current captain|
-| 36 |Vessel Name: Grendel | Type: Bulk freighter | Home Port: Belton | Owner: Dmitri Müller | Modifications: Enhanced Shields | Restrictions: None|
-| 37 |Vessel Name: El Greco | Type: Light freighter | Home Port: Ludhiana Beta | Owner: Aurora Parker | Modifications: Weapon System Upgrade | Restrictions: None|
-| 38 |Vessel Name: Galahadia | Type: Bulk freighter | Home Port: Taniwhara | Owner: Batbold Procházka | Modifications: None | Restrictions: None|
-| 39 |Vessel Name: Celestial | Type: Hospital ship | Home Port: Fortaleza | Owner: Cascos (corp) | Modifications: Defensive Weapon Upgrade | Restrictions: None|
-| 40 |Vessel Name: Numancia | Type: Bulk freighter | Home Port: Caria | Owner: Hoon Nsala | Modifications: None | Restrictions: None|
-| 41 |Vessel Name: Arubianus | Type: Transport | Home Port: Barsamin | Owner: Melros Rau (corp) | Modifications: Main Computer Upgrade | Restrictions: None|
-| 42 |Vessel Name: Chernobog | Type: Light freighter | Home Port: Jehu | Owner: Antonina Hoff mann | Modifications: None | Restrictions: None|
-| 43 |Vessel Name: Tane Mahuta | Type: Light freighter | Home Port: Bishkek | Owner: Taylor Noori | Modifications: Defensive Weapon Upgrade | Restrictions: None|
-| 44 |Vessel Name: Drake | Type: Light freighter | Home Port: Ishwarpur 11 | Owner: Diego Wolf | Modifications: None | Restrictions: None|
-| 45 |Vessel Name: Vindonnus | Type: Passenger freighter | Home Port: Bogotá Zima | Owner: Fatima Kone | Modifications: None | Restrictions: None|
-| 46 |Vessel Name: Orionis | Type: Trade frigate | Home Port: King Henry VIII | Owner: Sade Levi | Modifications: None | Restrictions: None|
-| 47 |Vessel Name: Astra | Type: Luxury liner | Home Port: Reagan | Owner: Geotactyc (corp) | Modifications: Defensive Weapon Upgrade | Restrictions: Crew wanted for questioning|
-| 48 |Vessel Name: Aegis | Type: Hospital ship | Home Port: Eustis | Owner: Tariro Ouma | Modifications: Extra Cargo Pods | Restrictions: Crew wanted for questioning|
-| 49 |Vessel Name: Elyrian | Type: Luxury liner | Home Port: New Smyrna | Owner: Rashid Kumar | Modifications: None | Restrictions: None|
-| 50 |Vessel Name: Eurydice | Type: Luxury liner | Home Port: New Trinidad | Owner: Malika Amar | Modifications: None | Restrictions: Reported STOLEN|
-| 51 |Vessel Name: Apollo | Type: Bulk freighter | Home Port: Nang Tani | Owner: Beauchamp Sultani | Modifications: None | Restrictions: Banned from Heron 1|
-| 52 |Vessel Name: Ulysses | Type: Passenger liner | Home Port: Garnet | Owner: Batbayar Ahmed | Modifications: None | Restrictions: Banned from Watatsumi|
-| 53 |Vessel Name: O'Keeffe | Type: Hospital ship | Home Port: Rush | Owner: Temuulen Kaur | Modifications: Weapon System Upgrade | Restrictions: None|
-| 54 |Vessel Name: Euphoria | Type: Light freighter | Home Port: Atash | Owner: Prasanna Mèng | Modifications: None | Restrictions: Banned from Legionarius Prime|
-| 55 |Vessel Name: Zheng He | Type: Luxury yacht | Home Port: Tokugawa Ieyasu | Owner: Lucas Mehta | Modifications: None | Restrictions: None|
-| 56 |Vessel Name: Hine-nui-te-po | Type: Trade frigate | Home Port: Theandrios | Owner: Minurall (corp) | Modifications: None | Restrictions: None|
-| 57 |Vessel Name: Pembroke | Type: Luxury yacht | Home Port: Kangiten | Owner: Ananya Braun | Modifications: Engine Upgrade | Restrictions: Reported STOLEN|
-| 58 |Vessel Name: Virgo | Type: Passenger liner | Home Port: Ghorahi | Owner: Apio Okada | Modifications: None | Restrictions: None|
-| 59 |Vessel Name: Novarion | Type: Research vessel | Home Port: Edgewater | Owner: Satu Demetriou | Modifications: None | Restrictions: None|
-| 60 |Vessel Name: Nerik | Type: Passenger freighter | Home Port: Wilson | Owner: Lars Matondo | Modifications: None | Restrictions: None|
-| 61 |Vessel Name: Dracula | Type: Light freighter | Home Port: Shiraz | Owner: Shekhar Bishop | Modifications: Main Computer Upgrade | Restrictions: None|
-| 62 |Vessel Name: Draco | Type: Bulk freighter | Home Port: Tenguara | Owner: Celestia Bennett | Modifications: None | Restrictions: Garnet docking privileges suspended|
-| 63 |Vessel Name: Hesperus | Type: Hospital ship | Home Port: Cornicen Tau | Owner: Scycorp (corp) | Modifications: None | Restrictions: None|
-| 64 |Vessel Name: Jiao | Type: Research vessel | Home Port: Chandigarh | Owner: Amarbayasgalan Marek| Modifications: None | Restrictions: None|
-| 65 |Vessel Name: Trinity | Type: Luxury yacht | Home Port: Arachosia | Owner: Ashford Amin | Modifications: None | Restrictions: None|
-| 66 |Vessel Name: Aquarion | Type: Salvage rig | Home Port: Eilat | Owner: Xalvador Maximus | Modifications: None | Restrictions: None|
-| 67 |Vessel Name: Emperor of India | Type: Transport | Home Port: Buenos Aires | Owner: Yulia Gómez | Modifications: Defensive Weapon Upgrade | Restrictions: None|
-| 68 |Vessel Name: de Soto | Type: Research vessel | Home Port: Nova Lima | Owner: Sarkin Conner | Modifications: None | Restrictions: None|
-| 69 |Vessel Name: Titan | Type: Passenger liner | Home Port: Praefectus | Owner: Bong-Gu Zelalem | Modifications: None | Restrictions: None|
-| 70 |Vessel Name: Valiant | Type: Salvage rig | Home Port: Hexham | Owner: Chang-Min Mwangale | Modifications: Main Computer Upgrade | Restrictions: Reported STOLEN|
-| 71 |Vessel Name: Eridanian | Type: Research vessel | Home Port: Amesha Spentas | Owner: Sari Král | Modifications: Extra Cargo Pods | Restrictions: None|
-| 72 |Vessel Name: Lunara | Type: Trade frigate | Home Port: Heron 1 | Owner: Kwasi Azikiwe | Modifications: None | Restrictions: None|
-| 73 |Vessel Name: Medea | Type: Light freighter | Home Port: Sogdiana | Owner: Digitar (corp) | Modifications: None | Restrictions: None|
-| 74 |Vessel Name: Centaurus | Type: Transport | Home Port: Sandpiper | Owner: Kamau Sargent | Modifications: None | Restrictions: None|
-| 75 |Vessel Name: Atahensic | Type: Passenger liner | Home Port: Funditores | Owner: Rosalinda Popal | Modifications: None | Restrictions: None|
-| 76 |Vessel Name: Rashnu | Type: Bulk freighter | Home Port: Shakespeare | Owner: Svetlana Hoff mann | Modifications: None | Restrictions: Reported MISSING|
-| 77 |Vessel Name: Shackleton | Type: Passenger freighter | Home Port: Calico | Owner: Idris Kabila | Modifications: None | Restrictions: None|
-| 78 |Vessel Name: Riyadh | Type: Light freighter | Home Port: Tubicen Core | Owner: Huifang Lài | Modifications: AI Overseer Installed | Restrictions: Arrest warrant issued for current captain|
-| 79 |Vessel Name: Hermione | Type: Bulk freighter | Home Port: Lubeck Lions | Owner: Alexander Foster| Modifications: Enhanced Shields | Restrictions: None|
-| 80 |Vessel Name: Dalí | Type: Bulk freighter | Home Port: Apsaras | Owner: Wycliffe Cipriano | Modifications: None | Restrictions: None|
-| 81 |Vessel Name: Quasar | Type: Light freighter | Home Port: Delhi 3 | Owner: Ravi Amin | Modifications: Engine Upgrade | Restrictions: Reported MISSING|
-| 82 |Vessel Name: Jerusalem | Type: Bulk freighter | Home Port: Plover | Owner: Thalia Aschansa | Modifications: None | Restrictions: None|
-| 83 |Vessel Name: Math ap Mathonwy | Type: Bulk freighter | Home Port: Lycia | Owner: Ndeye Ismail | Modifications: None | Restrictions: None|
-| 84 |Vessel Name: Na Tuk Kong | Type: Hospital ship | Home Port: Medellín | Owner: Henrik Svoboda | Modifications: Weapon System Upgrade | Restrictions: None|
-| 85 |Vessel Name: Aquilon | Type: Trade frigate | Home Port: Selkisia | Owner: Sensejet (corp) | Modifications: Main Computer Upgrade | Restrictions: None|
-| 86 |Vessel Name: Baghdad | Type: Salvage rig | Home Port: St. Elmo | Owner: Yelena Pappas | Modifications: None | Restrictions: None|
-| 87 |Vessel Name: Abandinus | Type: Passenger freighter | Home Port: Sturgis | Owner: Hemic (corp) | Modifications: None | Restrictions: None|
-| 88 |Vessel Name: Odin | Type: Luxury liner | Home Port: Sundstrom | Owner: Ming Kim | Modifications: Engine Upgrade | Restrictions: Banned from Laurits|
-| 89 |Vessel Name: Seraphine | Type: Luxury yacht | Home Port: Moruya | Owner: Scarlett Turner | Modifications: None | Restrictions: None|
-| 90 |Vessel Name: Aquafire | Type: Light freighter | Home Port: York | Owner: Elena Fischer | Modifications: None | Restrictions: Crew wanted for questioning|
-| 91 |Vessel Name: Pandora | Type: Light freighter | Home Port: Barranquilla | Owner: Camila Chen | Modifications: None | Restrictions: None|
-| 92 |Vessel Name: Hermes | Type: Luxury yacht | Home Port: Cerro Gordo | Owner: Carlos Hussain | Modifications: None | Restrictions: None|
-| 93 |Vessel Name: Cassini | Type: Passenger liner | Home Port: Tutankhamun | Owner: Dori Morastus | Modifications: None | Restrictions: Reported STOLEN|
-| 94 |Vessel Name: Aphrodite | Type: Bulk freighter | Home Port: Hammerfest | Owner: Fortunado Drayen|  Modifications: Engine Upgrade | Restrictions: None|
-| 95 |Vessel Name: Freya | Type: Light freighter | Home Port: Assyria Theta | Owner: Caspian Williams | Modifications: Extra Cargo Pods | Restrictions: None|
-| 96 |Vessel Name: Hokusai | Type: Passenger liner | Home Port: Beja Xi | Owner: Henrik Lutula | Modifications: None | Restrictions: Arrest warrant issued for current captain|
-| 97 |Vessel Name: Rembrandt | Type: Scout vessel | Home Port: Legionarius Prime | Owner: Odin Mbuyi|  Modifications: Main Computer Upgrade | Restrictions: None|
-| 98 |Vessel Name: Anextiomarus | Type: Bulk freighter | Home Port: Pilum Sigma | Owner: Chidimma Kovani | Modifications: None | Restrictions: Banned from Ozu Athens|
-| 99 |Vessel Name: Homa | Type: Research vessel | Home Port: Aiomun-Kondi | Owner: Atticus Cooper | Modifications: None | Restrictions: None|
-| 100 |Vessel Name: Amphion | Type: Bulk freighter | Home Port: Rangeli Seti | Owner: Kiber Mald | Modifications: None | Restrictions: Reported MISSING|
+| 1 | Hyperion |  Hospital ship |  Port Jarvis | Enkhtuya Nguyen | Navigation Computer Upgrade | None|
+| 2 | Galactan |  Passenger liner |  Aernus | Temba Njeri | None | None|
+| 3 | Wayland the Smith |  Transport |  New Oxford | Theron Foster| Weapon System Upgrade | None|
+| 4 | Elysia |  Light freighter |  Theodore | Selma Tumagole | None | None|
+| 5 | Isabella |  Luxury yacht |  Mysia | Erez Shah | None | Izanagi Seven docking privileges suspended|
+| 6 | Vespucci |  Passenger freighter |  Tiamatia | Caxton Gomes | Extra Cargo Pods | None|
+| 7 | Zavi Isikebhe |  Trade frigate |  Coimbatore | Rodrigo Huang | None | None|
+| 8 | Potrimpo |  Light freighter |  Fenrisar | Vasiliki Diaz | None | None|
+| 9 | Bathala |  Bulk freighter |  Totnes | Angelica Chan | Main Computer Upgrade | None|
+| 10 | Bismarck |  Transport |  Manaus | Pusetso Namgyal | None | None|
+| 11 | Taliesin |  Bulk freighter |  Yggdrasil | Amir Lee | Extra Cargo Pods | None|
+| 12 | Beirut |  Passenger freighter |  Golbazar | Instic (corp) | None | None|
+| 13 | Herodotus |  Bulk freighter |  Castle Dome | Melvina Tlemçani| None | Crew wanted for questioning|
+| 14 | Ereshkigal |  Luxury liner |  Taizong | Ava Williams | None | None|
+| 15 | Thor |  Luxury yacht |  Mnemosyne | Worthington Boualem | None | None|
+| 16 | Pele |  Luxury liner |  Kochi | Volkov Industries (corp) | Enhanced Shields | None|
+| 17 | Celestialis |  Luxury liner |  Kestrel | Lucretia Malanje | None | None|
+| 18 | Ibn Battuta |  Bulk freighter |  Jackson | Malik Tapia | Main Computer Upgrade | None|
+| 19 | Freyr |  Transport |  Janeiro Core | Salote Marinova | Defensive Weapon Upgrade | None|
+| 20 | Tutankhamun |  Light freighter |  Bannack | Jase Malogaan | None | None|
+| 21 | Dubai |  Research vessel |  Bunker Hill | Santiago Fedorov | None | Belton docking privileges suspended|
+| 22 | Orion |  Hospital ship |  Bulbul | Khalid Carvalho | AI Overseer Installed | None|
+| 23 | Equinox |  Transport |  Nefertiti | Masika Athzaria | None | None|
+| 24 | Missouri |  Trade frigate |  Varanasi | Nala Goldberg | None | None|
+| 25 | Oberion |  Light freighter |  Tiberias | Viliame Souza | None | None|
+| 26 | Walrus |  Research vessel |  Watatsumi | Ingrid Wanjiku | Hull Upgrade | Reported STOLEN|
+| 27 | Ahriman |  Scout vessel |  Ashoka | Azubah Kuka | None | None|
+| 28 | Novarius |  Light freighter |  Aita XII | Manuel Dubois | Enhanced Shields | None|
+| 29 | Andromeda |  Luxury liner |  Chennai | Signe Rodriguez | Hull Upgrade | None|
+| 30 | Eridanus |  Bulk freighter |  Ozu Athens | Maximilian Jiāng | None | None|
+| 31 | Klimt |  Bulk freighter |  Griffin | King Jamba | None | None|
+| 32 | Moku Fisher |  Light freighter |  Shrewsbury | Phouphet Gbedji| None | None|
+| 33 | Nimbus |  Light freighter |  Nibiru | Malisa Campbell | None | None|
+| 34 | Isolde |  Trade frigate |  Leprech | Lerona Aldamar | AI Overseer Installed | None|
+| 35 | Hosho |  Luxury liner |  Pearce | Samuel Hayes | None | Arrest warrant issued for current captain|
+| 36 | Grendel |  Bulk freighter |  Belton | Dmitri Müller | Enhanced Shields | None|
+| 37 | El Greco |  Light freighter |  Ludhiana Beta | Aurora Parker | Weapon System Upgrade | None|
+| 38 | Galahadia |  Bulk freighter |  Taniwhara | Batbold Procházka | None | None|
+| 39 | Celestial |  Hospital ship |  Fortaleza | Cascos (corp) | Defensive Weapon Upgrade | None|
+| 40 | Numancia |  Bulk freighter |  Caria | Hoon Nsala | None | None|
+| 41 | Arubianus |  Transport |  Barsamin | Melros Rau (corp) | Main Computer Upgrade | None|
+| 42 | Chernobog |  Light freighter |  Jehu | Antonina Hoff mann | None | None|
+| 43 | Tane Mahuta |  Light freighter |  Bishkek | Taylor Noori | Defensive Weapon Upgrade | None|
+| 44 | Drake |  Light freighter |  Ishwarpur 11 | Diego Wolf | None | None|
+| 45 | Vindonnus |  Passenger freighter |  Bogotá Zima | Fatima Kone | None | None|
+| 46 | Orionis |  Trade frigate |  King Henry VIII | Sade Levi | None | None|
+| 47 | Astra |  Luxury liner |  Reagan | Geotactyc (corp) | Defensive Weapon Upgrade | Crew wanted for questioning|
+| 48 | Aegis |  Hospital ship |  Eustis | Tariro Ouma | Extra Cargo Pods | Crew wanted for questioning|
+| 49 | Elyrian |  Luxury liner |  New Smyrna | Rashid Kumar | None | None|
+| 50 | Eurydice |  Luxury liner |  New Trinidad | Malika Amar | None | Reported STOLEN|
+| 51 | Apollo |  Bulk freighter |  Nang Tani | Beauchamp Sultani | None | Banned from Heron 1|
+| 52 | Ulysses |  Passenger liner |  Garnet | Batbayar Ahmed | None | Banned from Watatsumi|
+| 53 | O'Keeffe |  Hospital ship |  Rush | Temuulen Kaur | Weapon System Upgrade | None|
+| 54 | Euphoria |  Light freighter |  Atash | Prasanna Mèng | None | Banned from Legionarius Prime|
+| 55 | Zheng He |  Luxury yacht |  Tokugawa Ieyasu | Lucas Mehta | None | None|
+| 56 | Hine-nui-te-po |  Trade frigate |  Theandrios | Minurall (corp) | None | None|
+| 57 | Pembroke |  Luxury yacht |  Kangiten | Ananya Braun | Engine Upgrade | Reported STOLEN|
+| 58 | Virgo |  Passenger liner |  Ghorahi | Apio Okada | None | None|
+| 59 | Novarion |  Research vessel |  Edgewater | Satu Demetriou | None | None|
+| 60 | Nerik |  Passenger freighter |  Wilson | Lars Matondo | None | None|
+| 61 | Dracula |  Light freighter |  Shiraz | Shekhar Bishop | Main Computer Upgrade | None|
+| 62 | Draco |  Bulk freighter |  Tenguara | Celestia Bennett | None | Garnet docking privileges suspended|
+| 63 | Hesperus |  Hospital ship |  Cornicen Tau | Scycorp (corp) | None | None|
+| 64 | Jiao |  Research vessel |  Chandigarh | Amarbayasgalan Marek| None | None|
+| 65 | Trinity |  Luxury yacht |  Arachosia | Ashford Amin | None | None|
+| 66 | Aquarion |  Salvage rig |  Eilat | Xalvador Maximus | None | None|
+| 67 | Emperor of India |  Transport |  Buenos Aires | Yulia Gómez | Defensive Weapon Upgrade | None|
+| 68 | de Soto |  Research vessel |  Nova Lima | Sarkin Conner | None | None|
+| 69 | Titan |  Passenger liner |  Praefectus | Bong-Gu Zelalem | None | None|
+| 70 | Valiant |  Salvage rig |  Hexham | Chang-Min Mwangale | Main Computer Upgrade | Reported STOLEN|
+| 71 | Eridanian |  Research vessel |  Amesha Spentas | Sari Král | Extra Cargo Pods | None|
+| 72 | Lunara |  Trade frigate |  Heron 1 | Kwasi Azikiwe | None | None|
+| 73 | Medea |  Light freighter |  Sogdiana | Digitar (corp) | None | None|
+| 74 | Centaurus |  Transport |  Sandpiper | Kamau Sargent | None | None|
+| 75 | Atahensic |  Passenger liner |  Funditores | Rosalinda Popal | None | None|
+| 76 | Rashnu |  Bulk freighter |  Shakespeare | Svetlana Hoff mann | None | Reported MISSING|
+| 77 | Shackleton |  Passenger freighter |  Calico | Idris Kabila | None | None|
+| 78 | Riyadh |  Light freighter |  Tubicen Core | Huifang Lài | AI Overseer Installed | Arrest warrant issued for current captain|
+| 79 | Hermione |  Bulk freighter |  Lubeck Lions | Alexander Foster| Enhanced Shields | None|
+| 80 | Dalí |  Bulk freighter |  Apsaras | Wycliffe Cipriano | None | None|
+| 81 | Quasar |  Light freighter |  Delhi 3 | Ravi Amin | Engine Upgrade | Reported MISSING|
+| 82 | Jerusalem |  Bulk freighter |  Plover | Thalia Aschansa | None | None|
+| 83 | Math ap Mathonwy |  Bulk freighter |  Lycia | Ndeye Ismail | None | None|
+| 84 | Na Tuk Kong |  Hospital ship |  Medellín | Henrik Svoboda | Weapon System Upgrade | None|
+| 85 | Aquilon |  Trade frigate |  Selkisia | Sensejet (corp) | Main Computer Upgrade | None|
+| 86 | Baghdad |  Salvage rig |  St. Elmo | Yelena Pappas | None | None|
+| 87 | Abandinus |  Passenger freighter |  Sturgis | Hemic (corp) | None | None|
+| 88 | Odin |  Luxury liner |  Sundstrom | Ming Kim | Engine Upgrade | Banned from Laurits|
+| 89 | Seraphine |  Luxury yacht |  Moruya | Scarlett Turner | None | None|
+| 90 | Aquafire |  Light freighter |  York | Elena Fischer | None | Crew wanted for questioning|
+| 91 | Pandora |  Light freighter |  Barranquilla | Camila Chen | None | None|
+| 92 | Hermes |  Luxury yacht |  Cerro Gordo | Carlos Hussain | None | None|
+| 93 | Cassini |  Passenger liner |  Tutankhamun | Dori Morastus | None | Reported STOLEN|
+| 94 | Aphrodite |  Bulk freighter |  Hammerfest | Fortunado Drayen|  Engine Upgrade | None|
+| 95 | Freya |  Light freighter |  Assyria Theta | Caspian Williams | Extra Cargo Pods | None|
+| 96 | Hokusai |  Passenger liner |  Beja Xi | Henrik Lutula | None | Arrest warrant issued for current captain|
+| 97 | Rembrandt |  Scout vessel |  Legionarius Prime | Odin Mbuyi|  Main Computer Upgrade | None|
+| 98 | Anextiomarus |  Bulk freighter |  Pilum Sigma | Chidimma Kovani | None | Banned from Ozu Athens|
+| 99 | Homa |  Research vessel |  Aiomun-Kondi | Atticus Cooper | None | None|
+| 100 | Amphion |  Bulk freighter |  Rangeli Seti | Kiber Mald | None | Reported MISSING|
 
 ### Space Stations
-
-| D100 | Size | Leadership | Services | Goods| Entertainment| Oddity|
+ D100 | Size | Leadership | Services | Goods| Entertainment| Oddity|
 |:--:|:--:| -- | -- | -- | -- |-- |
 | 1 |Size: 2D12 Docking Stations | Monarchy | Communication center, Routine maintenance, Research facilities, Lodging, Refueling | Goods: Essential goods, Luxury goods, Durable goods, Digital goods | Entertainment: Sports facilities, Observation decks, Cafeterias, Virtual reality booths, Gyms | Artifact smuggling|
 | 2 |Size: 1D100 x 2 Docking Stations | Federalism | Routine maintenance, Research facilities, Storage facilities | Goods: Luxury goods, Capital goods, Perishable goods, Consumer goods, Essential goods, Digital goods, Industrial goods | Entertainment: Virtual reality booths, Restaurants, Sports facilities | Underground pleasure services for the elite|
@@ -9609,41 +9634,41 @@ military personnel #2
 | 3 |Cramming for a synthetic biology exam|
 | 4 |Quick hunting trip after hearing rumors of rare fur-bearing animal|
 | 5 |Looking for rare books in an invite-only online marketplace|
-| 6 |"Prank war!"
+| 6 |"Prank war!"|
 | 7 |Picking on the old banjo|
 | 8 |Taking in a lecture on comparative literature via distance learning|
-| 9 |"All-day yoga-thon!"
+| 9 |"All-day yoga-thon!"|
 | 10 |Taking part in a wine-tasting event at a local vineyard|
 | 11 |Checking out the fights at the local coliseum|
 | 12 |Heading to the Early Space Colonization museum|
-| 13 |"Bowling night!"
+| 13 |"Bowling night!"|
 | 14 |Taking care of their precious bonsai trees|
 | 15 |Getting some "me time" at a coffee shop|
 | 16 |Cataloging and categorizing their stamp collection|
 | 17 |Taking care of an elderly parent|
 | 18 |Trying to calculate a parabolic curve|
 | 19 |Watching the big game in the ship’s dining area|
-| 20 |"Upgrading defenses."
+| 20 |"Upgrading defenses."|
 | 21 |Setting up a sales funnel for their new digital product|
 | 22 |Taking a dump|
 | 23 |Attending a neo-Bach revival concert via holo-seating|
-| 24 |"Fishing trip!"
+| 24 |"Fishing trip!"|
 | 25 |Attending a religious event or service|
 | 26 |Planning their next shore leave|
 | 27 |Hitting the gym for a good workout|
 | 28 |Visiting a friend in the hospital|
 | 29 |Playing 3D golf with some old friends|
-| 30 |"Tap dancing practice!"
+| 30 |"Tap dancing practice!"|
 | 31 |Reading an adventure novel|
 | 32 |Searching military surplus sale listings|
 | 33 |Running a few experiments in the lab|
 | 34 |Putting on a street puppet show|
 | 35 |Making a vase on a pottery throwing wheel|
 | 36 |Playing basketball with several other crew members|
-| 37 |"Karaoke night!"
+| 37 |"Karaoke night!"|
 | 38 |Monitoring sensor readings and surrounding space data|
 | 39 |Hunting a small-time criminal for the bounty|
-| 40 |"Scientific research!"
+| 40 |"Scientific research!"|
 | 41 |Running ship-wide diagnostics and repairs scans|
 | 42 |Playing solitaire|
 | 43 |Attending an Afro-Asian bluegrass fusion music festival|
@@ -9651,8 +9676,8 @@ military personnel #2
 | 45 |All day holo-tube binge|
 | 46 |Arranging flowers for a friend's wedding|
 | 47 |Practicing astrophotography with a drone and makeshift balloon|
-| 48 |"Camping trip!"
-| 49 |"Negotiating some deals."
+| 48 |"Camping trip!"|
+| 49 |"Negotiating some deals."|
 | 50 |Volunteering at a library to help organize a new collection of ancient texts|
 | 51 |Playing video games|
 | 52 |Giving themself a haircut|
@@ -9664,37 +9689,37 @@ military personnel #2
 | 58 |Catching some Z’s|
 | 59 |Out metal detecting|
 | 60 |Catching up on new technical manuals|
-| 61 |"Drama class!"
+| 61 |"Drama class!"|
 | 62 |Isolating ship malfunctions and a computer glitch|
 | 63 |Attending a cybernetics symposium at a local university|
 | 64 |Experimenting with watercolors|
 | 65 |Attending a wealth-building seminar|
 | 66 |Fencing practice with a friend|
-| 67 |"Softball league finals!"
+| 67 |"Softball league finals!"|
 | 68 |Studying geological survey data|
-| 69 |"Gathering resources."
+| 69 |"Gathering resources."|
 | 70 |Shopping for some new knives|
-| 71 |"Bridge club!"
+| 71 |"Bridge club!"|
 | 72 |Hiking in the high desert|
 | 73 |Getting a new tattoo|
-| 74 |"Pilates!"
-| 75 |"Antiquing!"
-| 76 |"Strategic planning session."
+| 74 |"Pilates!"|
+| 75 |"Antiquing!"|
+| 76 |"Strategic planning session."|
 | 77 |Spending time with their virtual significant other|
-| 78 |"Clubbing!"
+| 78 |"Clubbing!"|
 | 79 |Studying their holy book|
-| 80 |Checking in on that "special someone"
-| 81 |Reading the book "How to Quit Your Job"
+| 80 |Checking in on that "special someone"|
+| 81 |Reading the book "How to Quit Your Job"|
 | 82 |Violin practice|
 | 83 |Attending a gun show|
 | 84 |Swabbing the deck|
-| 85 |"Jam session!"
+| 85 |"Jam session!"|
 | 86 |Participating in a team-building ropes course|
 | 87 |Searching local markets for medical supplies|
 | 88 |Visiting the zoo|
 | 89 |Training for a marathon|
 | 90 |Playing billiards|
-| 91 |"A day at the races!"
+| 91 |"A day at the races!"|
 | 92 |Cooking that new recipe they got from a fortune teller|
 | 93 |Conducting software updates on the ship’s computer|
 | 94 |Biking on an indoor speed track|
@@ -9703,19 +9728,19 @@ military personnel #2
 | 97 |Outlining their novel|
 | 98 |Exploring a wilderness area nearby|
 | 99 |Rock climbing|
-| 100 |"On patrol."
+| 100 |"On patrol."|
 
 ## Reasons a PC is Absent -:-:-  196-
 
 | d100| Reason |
 |:--:|--|
-| 1 |Checking into a new lead on the mythical "Star Map"
+| 1 |Checking into a new lead on the mythical "Star Map"|
 | 2 |Finally categorizing those space anomalies|
 | 3 |Jury duty|
-| 4 |"Gas giants don’t survey themselves."
+| 4 |"Gas giants don’t survey themselves."|
 | 5 |Infestation of Curlurlan fleas nearly under control|
 | 6 |Trapped in another dimension|
-| 7 |"Have to read the ancient text the wino on Water’s Down sold me!"
+| 7 |"Have to read the ancient text the wino on Water’s Down sold me!"|
 | 8 |Got a sleeping parasite and should be awake in a few days|
 | 9 |Rock and mineral show on Hadrian Seti|
 | 10 |Surfing competition on Antares V|
@@ -9726,7 +9751,7 @@ military personnel #2
 | 15 |Won a mining claim gambling, need to check it out|
 | 16 |Rearranging trophy case|
 | 17 |Arrested|
-| 18 |Running a spectrum analysis on "samples"
+| 18 |Running a spectrum analysis on "samples"|
 | 19 |Calibrating a micro-scanner|
 | 20 |Trapped in a hyperspace bubble|
 | 21 |Gone fishing|
@@ -9735,10 +9760,10 @@ military personnel #2
 | 24 |Caught up in a flash mob|
 | 25 |Recharging the emergency batteries|
 | 26 |Exploring the volcanoes on Bangkok IV|
-| 27 |Analyzing "crystals"
+| 27 |Analyzing "crystals"|
 | 28 |Sorting control chips|
 | 29 |Trapped in a causality time loop|
-| 30 |"Camping trip!"
+| 30 |"Camping trip!"|
 | 31 |Paying off old debt, be back soon|
 | 32 |Annual book raid on New Rotterdam|
 | 33 |3D Chess tournament on Seti Rhone|
@@ -9746,34 +9771,34 @@ military personnel #2
 | 35 |Stuck in a lift|
 | 36 |Reading a book and can’t put it down|
 | 37 |Hoverboard competition on New Eden|
-| 38 |"Equipment malfunction, don’t want to talk about it right now."
+| 38 |"Equipment malfunction, don’t want to talk about it right now."|
 | 39 |Case of the Flusian Flu|
-| 40 |"Classic movie marathon today only!"
-| 41 |Needed some "me time"
-| 42 |"Bath day!"
+| 40 |"Classic movie marathon today only!"|
+| 41 |Needed some "me time"|
+| 42 |"Bath day!"|
 | 43 |Finally hitting the mud baths on Ceres Xander 9|
 | 44 |Became unstuck in time|
 | 45 |Not feeling well|
 | 46 |Searching for spacetime fractures near Epsilon Inra|
-| 47 |"New experiment shattered reality, I’ll fix it."
-| 48 |"Robotics symposiums don’t happen every day!"
+| 47 |"New experiment shattered reality, I’ll fix it."|
+| 48 |"Robotics symposiums don’t happen every day!"|
 | 49 |Recalibrating the sonic array|
 | 50 |Prospecting on Deneb 4|
-| 51 |"Finishing up a love song."
+| 51 |"Finishing up a love song."|
 | 52 |Attending a few lectures at the University of New Paris|
 | 53 |Sleeping one off|
 | 54 |Boots needed a bit more polish|
-| 55 |"The fire is almost out. Should be there in a few days."
+| 55 |"The fire is almost out. Should be there in a few days."|
 | 56 |Shoe shopping|
 | 57 |Transcended to another plane|
-| 58 |"Polishing boots has to be done right!"
-| 59 |"Lots of laundry."
-| 60 |"Sleepover!"
+| 58 |"Polishing boots has to be done right!"|
+| 59 |"Lots of laundry."|
+| 60 |"Sleepover!"|
 | 61 |Got tickets to the Afro-Indian Bluegrass Fusion music festival|
-| 62 |"Quick job, be right back."
-| 63 |"My new flamethrower just needs a few more adjustments..."
+| 62 |"Quick job, be right back."|
+| 63 |"My new flamethrower just needs a few more adjustments..."|
 | 64 |Babysitting|
-| 65 |"Writing poems is tricky."
+| 65 |"Writing poems is tricky."|
 | 66 |Psionic salesman giving them a hard pitch|
 | 67 |Overslept|
 | 68 |Kidnapped by space pirates|
@@ -9782,8 +9807,8 @@ military personnel #2
 | 71 |Checking out the cybernetics symposium on New London|
 | 72 |Visiting the spa on Artarus Prime|
 | 73 |Turned into an energy being and offexploring the universe|
-| 74 |Looking into some "intel"
-| 75 |"Large reactor leak here, now..."
+| 74 |Looking into some "intel"|
+| 75 |"Large reactor leak here, now..."|
 | 76 |Housesitting|
 | 77 |3D Go tournament on Magus Greer X|
 | 78 |Binge-watching the latest season of All My Androids|
@@ -9801,13 +9826,13 @@ military personnel #2
 | 90 |Working on a novel|
 | 91 |Room needed a spring clean desperately|
 | 92 |On vacation|
-| 93 |"Building a ship in a bottle is very delicate work!"
+| 93 |"Building a ship in a bottle is very delicate work!"|
 | 94 |Couldn’t find a save point on a new video game|
 | 95 |AI valet refused to open the closet, so couldn’t get dressed|
 | 96 |Solving some equations|
 | 97 |Hackathon!
 | 98 |Disappeared with only a few blood spots as clues|
-| 99 |"Lost a bet, be back soon."
+| 99 |"Lost a bet, be back soon."|
 | 100 |Scrubbing the deck|
 
 # Technobabble and codes
@@ -11274,7 +11299,7 @@ military personnel #2
 | 91 |Instic|
 | 92 |Mindwave Innovations|
 | 93 |Geotactyc|
-| 94 |Rojas Co.
+| 94 |Rojas C |
 | 95 |QuantumCore Technologies|
 | 96 |SiliconVerse|
 | 97 |Orionis Corp|
@@ -11322,7 +11347,7 @@ military personnel #2
 | 34 |SolarWise Corp|
 | 35 |Hernandez Williams|
 | 36 |Hyperion Enterprises|
-| 37 |Xi Volkman Inc.
+| 37 |Xi Volkman In |
 | 38 |SynapseWorks|
 | 39 |Hyeptic|
 | 40 |Lurnco|
@@ -16626,33 +16651,33 @@ military personnel #2
 
 ## Psychic Abilities -:-:- 
 
-#TODO 
-
+| d100| Name |
+|:--:|--|
 | 1-3 |  Pyrokinesis|
 | 5-7 |  Xenoglossy|
-| 9-1 |  Psychic surgery|
-| 3-5 |  Energy medicine|
-| 7-9 |  Shapeshifting|
-| 1-3 |  Atmokinesis|
-| 5-7 |  Telepathy|
-| 9-1 |  Dowsing|
-| 3-5 |  Premonition|
-| 7-9 |  Ergokinesis|
-| 1-3 |  Levitation|
-| 5-7 |  Divination|
-| 9-1 |  Thoughtography|
-| 3-5 |  Dermo-optical perception|
-| 7-9 |  Postcognition|
-| 1-3 |  Inedia|
-| 5-7 |  Psychometry|
-| 9-1 |  Witnessing|
-| 3-5 |  Automatic writing|
-| 7-9 |  Clairvoyance|
-| 1-3 |  Remote viewing|
-| 5-7 |  Petrification|
-| 9-1 |  Channeling|
-| 3-5 |  Astral projection|
-| 7-9 |  Precognition|
+| 9-11 |  Psychic surgery|
+| 13-15 |  Energy medicine|
+| 17-19 |  Shapeshifting|
+| 21-23 |  Atmokinesis|
+| 25-27 |  Telepathy|
+| 29-31 |  Dowsing|
+| 33-35 |  Premonition|
+| 37-39 |  Ergokinesis|
+| 41-43 |  Levitation|
+| 45-47 |  Divination|
+|49-51 |  Thoughtography|
+| 53-55 |  Dermo-optical perception|
+| 57-59 |  Postcognition|
+| 61-63 |  Inedia|
+| 65-67 |  Psychometry|
+| 69-71 |  Witnessing|
+| 73-75 |  Automatic writing|
+| 77-79 |  Clairvoyance|
+| 81-83 |  Remote viewing|
+| 85-87 |  Petrification|
+| 89-91 |  Channeling|
+| 93-95 |  Astral projection|
+| 97-99 |  Precognition|
 | 100 |Dream telepathy|
 
 ### Public Administration
@@ -17182,6 +17207,8 @@ military personnel #2
 
 ### Transportation -:-:- 
 
+| d100| Name |
+|:--:|--|
 | 0-2 |  Port management|
 | 3-4 |  Transportation theory|
 | 5-7 |  Reliability, availability, and maintainability|
@@ -17226,67 +17253,84 @@ military personnel #2
 
 ## Star System Generator
 
-#### Type:
+#### 
 
 #TODO
-| 1-0 |  Single star|
-| 1-0 |  Binary|
-| 1-0 |  Trinary|
+| d100| Name |
+|:--:|--|
+| 1-60 |  Single star|
+| 61-90 |  Binary|
+| 91-100 |  Trinary|
 
-**Number of planets:** Roll D10
+### Number of planets
+
+Roll D10
 
 #### Planet Types:
 
-| 1-0 |  Silicate|
-| 1-0 |  Gas Giant|
-| 1-0 |  Ice Giant|
+| d100| Name |
+|:--:|--|
+| 1-40 |  Silicate|
+| 41-70 |  Gas Giant|
+| 71-100 |  Ice Giant|
 
 ### Characteristics of Silicate Planets
 
-Atmosphere:
+#### Atmosphere:
 
-| 1-0 |  None|
-| 1-0 |  Thin|
-| 1-0 |  Thick|
-| 1-0 |  Earth-like|
+| d100| Name |
+|:--:|--|
+| 1-20 |  None|
+| 21-60 |  Thin|
+| 61-80 |  Thick|
+| 81-100 |  Earth-like|
 
 #### Type with No Atmosphere:
 
-| 1-5 |  Rocky|
-| 6-0 |  Sandy|
-| 1-5 |  Ice|
-| 6-0 |  Volcanic|
+| d100| Name |
+|:--:|--|
+| 1-25 |  Rocky|
+| 26-50 |  Sandy|
+| 51-75 |  Ice|
+| 76-100 |  Volcanic|
 
 #### Type with Atmosphere:
 
-#TODO
-| 1-5 |  Rocky|
-| 6-10 |  Desert|
-| 11-25 |  Jungle|
-| 6-0 |  Swamp|
-| 1-5 |  Volcanic|
-| 6-0 |  Ocean|
-| 1-0 |  Earth-like|
+| d100| Name |
+|:--:|--|
+| 1-15 |  Rocky|
+| 16-30 |  Desert|
+| 31-45 |  Jungle|
+| 46-60 |  Swamp|
+| 61-75 |  Volcanic|
+| 76-90 |  Ocean|
+| 91-0 |  Earth-like|
 
 #### Moons
 
-| 1-0 |  None|
-| 1-0 |  One|
-| 1-0 |  Two|
-| 1-0 |  Three|
-| 1-0 |  Four|
+| d100| Name |
+|:--:|--|
+| 1-20 |  None|
+| 21-40 |  One|
+| 41-60 |  Two|
+| 61- 80|  Three|
+| 81-100 |  Four|
 
 ### Characteristics of Ice and Gas Giant Moons
 
-Gas Giant Moons:
+#### Gas Giant Moons:
 
+| d100| Name |
+|:--:|--|
 | 1-5 |  50|
 | 6-0 |  100|
 | 1-5 |  150|
 | 6-0 |  250|
 
-Ice Giant Moons:
+#### Ice Giant Moons:
 
+| d100| Name |
+|:--:|--|
 | 1-5 |  25|
 | 6-10 |  50|
 | 11-15 |  100|
@@ -17333,101 +17377,101 @@ Civilization Levels
 | 3 | Several large, metal cylinders covered in frost ‐ Numerous labels warn of danger and contamination, and  one label bears a corporate brand name. 
 | 4 | A long overcoat ‐ It hangs in a clear cylinder and sports obvious cybernetic enhancements. 
 | 5 | Green flames flicker in a glass cylinder ‐ The cylinder appears to be completely sealed, so where are the  flames coming from? 
-| 6 | Several hundred centipede‐like creatures in an aquarium ‐ They seem to be building something.
-| 7 |Monkeys with bright red fur ‐ Six monkeys stare hauntingly through a glass enclosure.
-| 8 | A beaker filled with a green liquid labeled "Sap ‐ 565YRFDESz"
-| 9 | A dog with several odd growths under its neck ‐ It sits panting heavily in a cage.
+| 6 | Several hundred centipede‐like creatures in an aquarium ‐ They seem to be building somethin |
+| 7 |Monkeys with bright red fur ‐ Six monkeys stare hauntingly through a glass enclosur |
+| 8 | A beaker filled with a green liquid labeled "Sap ‐ 565YRFDESz"|
+| 9 | A dog with several odd growths under its neck ‐ It sits panting heavily in a cag |
 | 10 | Several large trays of what appear to be human eyes|
-| 11 | A Liger ‐ This majestic animal’s mournfully intelligent eyes look at characters from behind bars.
-| 12 | A glass enclosure full of butterflies ‐ Something is different about their coloration and their eyes.
-| 13 | A chimpanzee with bright green eyes ‐ The animal hangs upside down, slowly swinging and gazing at the  characters from its enclosure.
+| 11 | A Liger ‐ This majestic animal’s mournfully intelligent eyes look at characters from behind bar |
+| 12 | A glass enclosure full of butterflies ‐ Something is different about their coloration and their eye |
+| 13 | A chimpanzee with bright green eyes ‐ The animal hangs upside down, slowly swinging and gazing at the  characters from its enclosur |
 | 14 | A forlorn cat ‐ The small animal is caged and appears weak and sleepy. 
 | 15 | A massive Tesla coil charging|
 | 16 | Bodies of  several scientists that have been torn apart. There are strange tracks leading out of a backdoor  in the room|
-| 17 | A dolphin with cybernetic implants in a huge water tank ‐ A synthesized voice asks for help.
-| 18 | A brown lizard with yellow dots near its eyes ‐ The animal sleeps peacefully in a small enclosure.
-| 19 | A dead scientist with a syringe in her neck ‐ The room is filled with computers, and on one display, it clearly  shows files are in the process of being deleted.
-| 20 | A freezer full of embryos ‐ After medical checks, the embryos appear to be human combined with other  DNA.
-| 21 |A silver tube ‐ It gives off heat, but it is cold to the touch. It is just the right size to fit into a backpack.
-| 22 | The laboratory is completely burnt and all the equipment is charred ‐ Several clues can be found:  University graduation ring inscribed, "All the Best, Riley. From AT", small metal disc with,  "ZSDE453BN," on it, and a single human hair.
+| 17 | A dolphin with cybernetic implants in a huge water tank ‐ A synthesized voice asks for hel |
+| 18 | A brown lizard with yellow dots near its eyes ‐ The animal sleeps peacefully in a small enclosur |
+| 19 | A dead scientist with a syringe in her neck ‐ The room is filled with computers, and on one display, it clearly  shows files are in the process of being delete |
+| 20 | A freezer full of embryos ‐ After medical checks, the embryos appear to be human combined with other  DN |
+| 21 |A silver tube ‐ It gives off heat, but it is cold to the touch. It is just the right size to fit into a backpac |
+| 22 | The laboratory is completely burnt and all the equipment is charred ‐ Several clues can be found:  University graduation ring inscribed, "All the Best, Riley. From AT", small metal disc with,  "ZSDE453BN," on it, and a single human hai |
 | 23 | Glowing crystals that have outgrown a containment vessel|
-| 24 | Dead pig ‐ The lungs have been removed and there is an odd lump near the stomach.
-| 25 | A row of dissected monkeys ‐ The animals appear to have been exposed to some type of radiation.
-| 26 | An open flame boils a pale blue liquid in a beaker.
-| 27 |A clear, sealed jar that appears empty. It is labeled "Do Not Open."
-| 28 | A dozen snakes in an aquarium ‐ They have genetically modified venom glands.
+| 24 | Dead pig ‐ The lungs have been removed and there is an odd lump near the stomac |
+| 25 | A row of dissected monkeys ‐ The animals appear to have been exposed to some type of radiatio |
+| 26 | An open flame boils a pale blue liquid in a beake |
+| 27 |A clear, sealed jar that appears empty. It is labeled "Do Not Open."|
+| 28 | A dozen snakes in an aquarium ‐ They have genetically modified venom gland |
 | 29 | A trembling sloth in a cage|
-| 30 | A gorilla with a cybernetic arm ‐ The huge animal glares from its enclosure with weary eyes.
+| 30 | A gorilla with a cybernetic arm ‐ The huge animal glares from its enclosure with weary eye |
 | 31 | A row of  dissected fish ‐ Each fish has a strange crystal near its brain. 
-| 32 | A baboon in a cage pacing back and forth ‐ something seems to be wrong with one of its paws.
-| 33 | A human fetus gestating in a tank ‐ If the DNA is scanned it is all wrong.
-| 34 | Several test tubes with a yellowish growth inside labeled "Organism 37B"
-| 35 | A large sidearm ‐ The pistol appears to be incredibly destructive.
+| 32 | A baboon in a cage pacing back and forth ‐ something seems to be wrong with one of its paw |
+| 33 | A human fetus gestating in a tank ‐ If the DNA is scanned it is all wron |
+| 34 | Several test tubes with a yellowish growth inside labeled "Organism 37B"|
+| 35 | A large sidearm ‐ The pistol appears to be incredibly destructiv |
 | 36 | A glob of tissue in a vat being shocked periodically|
 | 37 |Mice with human ears on their backs|
 | 38 | Several rows of enclosures containing a variety of Poison Dart Frogs|
-| 39 | A chimpanzee, with old‐fashioned spectacles and dressed in a waistcoat and a top hat, types at a  computer ‐ If spoken to, he informs the characters, with a very proper English accent, that he  has a lot of work to do.
+| 39 | A chimpanzee, with old‐fashioned spectacles and dressed in a waistcoat and a top hat, types at a  computer ‐ If spoken to, he informs the characters, with a very proper English accent, that he  has a lot of work to d |
 | 40 | A leaf suspended from several wires that seems to be transmitting data to nearby computers|
-| 41 | Dead rats  ‐ The animals have escaped their cages only to have been killed by something.
+| 41 | Dead rats  ‐ The animals have escaped their cages only to have been killed by somethin |
 | 42 | A human body with a gorilla head in cryogenic status|
 | 43 | The consciousness of a scientist downloaded into a computer ‐ She explains how her body was destroyed  and this was  her only option. 
-| 44 | An android ‐ The machine is disassembled and lying on a storage rack.
-| 45 |Ant‐like creatures in a  large enclosed hive ‐ The creatures are active, and everyone seems to have a job.
+| 44 | An android ‐ The machine is disassembled and lying on a storage rac |
+| 45 |Ant‐like creatures in a  large enclosed hive ‐ The creatures are active, and everyone seems to have a jo |
 | 46 | A gemstone hooked to a computer by wires|
-| 47 |A computer with a visual countdown display that reads "Processing Data ‐ TIME REMAINING 14 YEARS 7  MONTHS 3 WEEKS 1 DAY 11 HOURS 18 MINUTES AND 42 SECONDS"
-| 48 | An unconscious human on an operating table ‐ It does not appear an operation has started yet.
-| 49 | A large cylinder water tank with a fish‐like humanoid inside ‐ There’s a vocal interface on the tank.
-| 50 | A glass enclosure with several sprouting plants ‐ There is evidence of genetic modification.
-| 51 | A pair of  gloves ‐ Clearly made of strong material, yet look lightweight and very flexible.
-| 52 |The consciousness of a soldier downloaded into a computer ‐ The entity begins asking questions about the  state of "the war."
+| 47 |A computer with a visual countdown display that reads "Processing Data ‐ TIME REMAINING 14 YEARS 7  MONTHS 3 WEEKS 1 DAY 11 HOURS 18 MINUTES AND 42 SECONDS"|
+| 48 | An unconscious human on an operating table ‐ It does not appear an operation has started ye |
+| 49 | A large cylinder water tank with a fish‐like humanoid inside ‐ There’s a vocal interface on the tan |
+| 50 | A glass enclosure with several sprouting plants ‐ There is evidence of genetic modificatio |
+| 51 | A pair of  gloves ‐ Clearly made of strong material, yet look lightweight and very flexibl |
+| 52 |The consciousness of a soldier downloaded into a computer ‐ The entity begins asking questions about the  state of "the war."|
 | 53 | An ancient book lies  open on a computer console ‐ The book is written in ancient Sumerian. 
 | 54 | A series of Petrie dishes with a mold‐like substance growing in them|
-| 55 | An AI ‐ The computer asks, "Would you like to play a game?"
+| 55 | An AI ‐ The computer asks, "Would you like to play a game?"|
 | 56 | A glass enclosure with several dozen bats inside ‐ The animals appear to be "augmented." 
-| 57 |A computer that is hot to the touch ‐ It seems to be working overtime and overheating.
-| 58 | A creature with a monkey head sewn on to a dog’s body ‐ It lies listlessly in a small cage.
-| 59 | A severed human head in a vat of liquid hooked to a computer ‐ There’s a speech interface nearby.
+| 57 |A computer that is hot to the touch ‐ It seems to be working overtime and overheatin |
+| 58 | A creature with a monkey head sewn on to a dog’s body ‐ It lies listlessly in a small cag |
+| 59 | A severed human head in a vat of liquid hooked to a computer ‐ There’s a speech interface nearb |
 | 60 | A row of empty glass enclosures that are all shattered|
-| 61 | Rats with glowing eyes ‐ The animals are kept in a darkened cage.
-| 62 | Dead chimpanzee ‐ The animal appeared to have died in its cage.
-| 63 | An AI ‐ The computer informs the character it was created to categorize and organize organic compounds.
-| 64 | A jacket ‐ The garment is packed with thin cybernetic enhancements.
-| 65 | Test tubes labeled "Specimen 99 ‐ Blood"
+| 61 | Rats with glowing eyes ‐ The animals are kept in a darkened cag |
+| 62 | Dead chimpanzee ‐ The animal appeared to have died in its cag |
+| 63 | An AI ‐ The computer informs the character it was created to categorize and organize organic compound |
+| 64 | A jacket ‐ The garment is packed with thin cybernetic enhancement |
+| 65 | Test tubes labeled "Specimen 99 ‐ Blood"|
 | 66 |The consciousness of a child downloaded into a computer ‐ The entity begins asking a million questions.  What is your favorite color? What is your favorite food? Why is the sky blue?
 | 67 | Slime in a vat|
-| 68 |Dead frogs ‐ An entire wetland‐like enclosure is littered with the dead animals. Something has gone  horribly wrong.
-| 69 | A row of  smashed computers spits sparks ‐ A close examination reveals a small pry bar that was used to  smash the computers. Fingerprints can be recovered from it.
-| 70 |A blind monkey with pulsating lumps behind its ears ‐ One character hears the creature whisper that it  would like to be freed.
+| 68 |Dead frogs ‐ An entire wetland‐like enclosure is littered with the dead animals. Something has gone  horribly wron |
+| 69 | A row of  smashed computers spits sparks ‐ A close examination reveals a small pry bar that was used to  smash the computers. Fingerprints can be recovered from i |
+| 70 |A blind monkey with pulsating lumps behind its ears ‐ One character hears the creature whisper that it  would like to be free |
 | 71 |Small, cube‐like bots that assemble themselves into various configurations|
 | 72 | A greenish‐yellow alga has grown to cover nearly half of the lab|
-| 73 | An octopus with cybernetic components ‐ The animal serenely floats in a tank. A voice interface is nearby.
+| 73 | An octopus with cybernetic components ‐ The animal serenely floats in a tank. A voice interface is nearb |
 | 74 | A bowl of yellow powder sits near a computer desk|
 | 75 | A jagged piece of metal is hooked to electrodes|
 | 76 | A small tree with faintly glowing leaves|
 | 77 |A surgical robot dissecting a pig|
-| 78 | A pair of experimental goggles ‐ Cybernetic components, multiple lenses, and various controls are visible  and tantalizing enhancements.
-| 79 | A small sidearm ‐ A sleek weapon prototype for sure.
+| 78 | A pair of experimental goggles ‐ Cybernetic components, multiple lenses, and various controls are visible  and tantalizing enhancement |
+| 79 | A small sidearm ‐ A sleek weapon prototype for sur |
 | 80 |A dead ring‐tailed lemur ‐ The animal lies on the floor surrounded by medical instruments. An empty cage  is nearby. 
 | 81 | Dead mice ‐  a metal box is filled with dead mice. An array of scientific equipment fills the room. 
 | 82 |A large metal cage with the door broken from the inside|
 | 83 |Bubbling liquid in a beaker ‐ There is no heat source, so why is it bubbling?
-| 84 | A monkey receiving a blue liquid intravenously ‐ The animal is strapped to a table.
-| 85 | A large parrot preening its feathers ‐ There is evidence of genetic enhancement of some kind.
+| 84 | A monkey receiving a blue liquid intravenously ‐ The animal is strapped to a tabl |
+| 85 | A large parrot preening its feathers ‐ There is evidence of genetic enhancement of some kin |
 | 86 | Dead human ‐ The person was kept nude in an enclosure. The cause of death is not obvious.  
-| 87 | Rows of small plastic boxes labeled "Nanites ‐ Batch 12645"
-| 88 | Several vats with brains in them which are hooked to computers ‐ The brains appear to be in  "conversation" with each other.
+| 87 | Rows of small plastic boxes labeled "Nanites ‐ Batch 12645"|
+| 88 | Several vats with brains in them which are hooked to computers ‐ The brains appear to be in  "conversation" with each othe |
 | 89 |An android ‐ The humanoid‐like being is in an enclosure quietly working a large jigsaw puzzle. 
-| 90 | A rifle ‐ Clearly a powerful military prototype.
+| 90 | A rifle ‐ Clearly a powerful military prototyp |
 | 91 |A computer that seems to be sequencing DNA|
-| 92 | A Tion ‐ A beautiful animal lounging in an enclosure.
+| 92 | A Tion ‐ A beautiful animal lounging in an enclosur |
 | 93 | An ancient mummy lies in a clear tube|
 | 94 | The consciousness of a murderer downloaded into a computer ‐ The entity questions the characters about   news and current events and inquires about being downloaded into their ship. 
 | 95 | An AI ‐ The entity tells the characters it was created to control the entire facility in which it is located. It  maintains all life support and building functions.  
 | 96 | An orangutan hooked to a machine that is siphoning off brain fluid|
 | 97 | Several odd eggs in an incubator|
-| 98 | An android ‐ The being is actively trying to break out of its enclosure.
-| 99 | A pulsating red flower ‐ The soil bed  appears to be normal enough. However, the plant is unlike anything  ever seen.
-| 100 | A snake with cybernetic implants ‐ The animal moves slowly through the lab seemingly having escaped its  nearby enclosure.
+| 98 | An android ‐ The being is actively trying to break out of its enclosur |
+| 99 | A pulsating red flower ‐ The soil bed  appears to be normal enough. However, the plant is unlike anything  ever see |
+| 100 | A snake with cybernetic implants ‐ The animal moves slowly through the lab seemingly having escaped its  nearby enclosur |
 
 Items in a Biology Lab
 
@@ -18506,7 +18550,7 @@ Items in a Biology Lab
 | 16 | Energy surge (ship power knocked out for 1d20 minutes)|
 | 17 | Human corpses (1D8)|
 | 18 | Message from an unknown source warning of danger|
-| 19 | 10ft x 10ft x 10ft locked safe.
+| 19 | 10ft x 10ft x 10ft locked saf |
 | 20 | Ship identical to the players’ but a 1000 years older|
 | 21 | Large fueling station|
 | 22 | 10ft x 10ft x 10ft safe (open, empty)|
@@ -18541,7 +18585,7 @@ Items in a Biology Lab
 | 51 |Monastic school based on an asteroid|
 | 52 | Pirate vessel waiting in ambush|
 | 53 | Person in a vacuum suit|
-| 54 | Pleasure yacht of a mid‐level crime boss.
+| 54 | Pleasure yacht of a mid‐level crime bos |
 | 55 | Pleasure yacht of a mid‐level politician|
 | 56 | Pirate ships lying in wait (1D4)|
 | 57 | Besieged asteroid mine (the pirates offer a cut  for not interfering)|
@@ -18569,7 +18613,7 @@ Items in a Biology Lab
 | 79 | Large law enforcement ship (undamaged, but no life signs)|
 | 80 | Battle between several pirate vessels  and a single law enforcement vessel|
 | 81 | Two ships attached to each other by a boarding tube|
-| 82 | Small fleet of pirate vessels.
+| 82 | Small fleet of pirate vessel |
 | 83 | Wreckage of a large law enforcement ship|
 | 84 | Escape pod with a low‐level crime boss onboard|
 | 85 | Besieged asteroid mine hailing for help|
@@ -18577,7 +18621,7 @@ Items in a Biology Lab
 | 87 | Famed lost ship (several centuries old)|
 | 88 | Trading outpost|
 | 89 | Secret cult based on an asteroid|
-| 90 | Battle between several law  enforcement vessels and a single pirate vessel.
+| 90 | Battle between several law  enforcement vessels and a single pirate vesse |
 | 91 |Space station carved into an asteroid|
 | 92 | Gentleman’s club|
 | 93 | Energy surge (  ship power knocked out for 1d20 hours)|
@@ -18699,12 +18743,12 @@ Items in a Biology Lab
 | d100| Name |
 |:--:|--|
 | 1 |Visiting the spa on Artarus Prime|
-| 2 | "Classic movie marathon today only!"
+| 2 | "Classic movie marathon today only!"|
 | 3 | Stuck in a lift|
 | 4 | Recharging the emergency batteries|
 | 5 | Hoverboard competition on New Eden|
 | 6 | Room needed a spring clean desperately|
-| 7 |"Have to read the ancient text the wino on Water’s Down sold me!"
+| 7 |"Have to read the ancient text the wino on Water’s Down sold me!"|
 | 8 | Trying out the sensory deprivation tank|
 | 9 | Infestation of Curlurlan fleas nearly under control|
 | 10 | Desperately needed some R&R|
@@ -18713,25 +18757,25 @@ Items in a Biology Lab
 | 13 | Recalibrating the sonic array|
 | 14 | Trapped in a hyperspace bubble|
 | 15 | Dog sitting|
-| 16 |"Building a ship in a bottle is very delicate work!"
+| 16 |"Building a ship in a bottle is very delicate work!"|
 | 17 | Not feeling well|
 | 18 | Turned into an energy being and exploring the universe|
-| 19 | Running a spectrum analysis on "samples"
-| 20 | "Finishing up a love song."
-| 21 | "Writing poems are tricky."
+| 19 | Running a spectrum analysis on "samples"|
+| 20 | "Finishing up a love song."|
+| 21 | "Writing poems are tricky."|
 | 22 |Reading a book and can’t put it down|
 | 23 | On vacation|
 | 24 | Shoe shopping|
 | 25 | Solving some equations|
-| 26 | "Gas giants don’t survey themselves."
+| 26 | "Gas giants don’t survey themselves."|
 | 27 | Pet had a litter|
 | 28 | Arrested|
 | 29 |Overslept|
 | 30 |3D Go tournament on Magus Greer X|
-| 31 | "Lots of laundry."
+| 31 | "Lots of laundry."|
 | 32 |Won a mining claim gambling, need to check it out|
 | 33 | Working on a novel|
-| 34 | Analyzing "crystals"
+| 34 | Analyzing "crystals"|
 | 35 | Poetry reading at the famed Lysium, can’t miss it|
 | 36 | Old friend visiting|
 | 37 | Became unstuck in time|
@@ -18741,41 +18785,41 @@ Items in a Biology Lab
 | 41 | Exploring the volcanoes on Bangkok IV|
 | 42 | Couldn’t find save point on new video game|
 | 43 | AI valet refused to open closet, so couldn’t get dressed|
-| 44 | "Polishing boots has to be done right!"
+| 44 | "Polishing boots has to be done right!"|
 | 45 | Calibrating a micro‐scanner|
 | 46 | Freak inertial damper incident|
 | 47 |Searching for spacetime fractures near Epsilon Inra|
 | 48 | House sitting|
 | 49 |Trapped in another dimension|
-| 50 | "Lost a bet, be back soon."
+| 50 | "Lost a bet, be back soon."|
 | 51 |Jury duty|
-| 52 | "My new flamethrower just needs a few more adjustments..."
+| 52 | "My new flamethrower just needs a few more adjustments..."|
 | 53 | Knives needed sharpening|
 | 54 | Cleaning rifle|
 | 55 | Prospecting on Deneb 4|
 | 56 | Boots needed a bit more polish|
 | 57 | Rock and mineral show on Hadrian Seti|
 | 58 | Seen running away with an umbrella and a fire extinguisher|
-| 59 | "Large reactor leak here, now..."
-| 60 | "The fire is almost out. Should be there in a few days."
-| 61 | "New experiment shattered reality, I’ll fix it."
-| 62 | "Camping trip!"
+| 59 | "Large reactor leak here, now..."|
+| 60 | "The fire is almost out. Should be there in a few days."|
+| 61 | "New experiment shattered reality, I’ll fix it."|
+| 62 | "Camping trip!"|
 | 63 | Looking for a lost pet|
 | 64 | Attending a few lectures at the University of New Paris|
 | 65 |Binge‐watching the latest season of All My Androids|
-| 66 | "Quick job, be right back."
-| 67 | "Bath day!"
+| 66 | "Quick job, be right back."|
+| 67 | "Bath day!"|
 | 68 | Case of the Flusian Flu|
 | 69 | Skiing on Indra 8|
 | 70 | Surfing competition on Antares V|
 | 71 | Refitting an old hoverbike|
-| 72 | "Equipment malfunction, don’t want to talk about it right now."
+| 72 | "Equipment malfunction, don’t want to talk about it right now."|
 | 73 | Taking core samples on Titan|
 | 74 | Hackathon!
 | 75 | Flash mob blocking the way|
 | 76 | Paying off old debt, be back soon|
 | 77 |An old friend needed help|
-| 78 | "Sleepover!"
+| 78 | "Sleepover!"|
 | 79 | Climbing Olympus Mons|
 | 80 | Big gun show on Kingfisher|
 | 81 | Tech expo on Chung Vo|
@@ -18786,14 +18830,14 @@ Items in a Biology Lab
 | 86 | Rearranging trophy case|
 | 87 | Gone fishing|
 | 88 | Sorting control chips|
-| 89 | Looking into some "intel"
-| 90 |Needed some "me time"
+| 89 | Looking into some "intel"|
+| 90 |Needed some "me time"|
 | 91 | Closing a deal on some sweet memory chips|
 | 92 | Kidnapped by space pirates|
 | 93 |3D Chess tournament on Seti Rhone|
 | 94 | Got tickets to the Afro‐Indian Bluegrass Fusion music festival|
 | 95 | Scrubbing the deck|
-| 96 | Checking into a new lead on the mythical "Star Map"
+| 96 | Checking into a new lead on the mythical "Star Map"|
 | 97 | Disappeared with only a few  blood spots as clues|
 | 98 | Trapped in a causality time loop|
 | 99 | Got a sleeping parasite should be awake in a few  days|
@@ -19234,7 +19278,7 @@ Items in a Biology Lab
 | 4 |Chorin|
 | 5 |Petra Systems|
 | 6 | Ecoqa|
-| 7 |Rojas Co.
+| 7 |Rojas C |
 | 8 | Xiong Phonix|
 | 9 | Biobox|
 | 10 | Binals|
@@ -19318,7 +19362,7 @@ Items in a Biology Lab
 | 88 |Vizon|
 | 89 |Educibl|
 | 90 | Salyc|
-| 91 |Xi Volkman Inc.
+| 91 |Xi Volkman In |
 | 92 | Scaza|
 | 93 |Paragon|
 | 94 | Volkov Industries|
@@ -20918,7 +20962,8 @@ Ship Names # 2
 | 100 |Massive chunk of ice spotted in space|
 
 ### Spaceship Mechanical Problems
-
+| d100| Name |
+|:--:|--|
 | 1 |Ship’s AI locked out of door control|
 | 2 |Cargo bay flooded with a few inches of water|
 | 3 |Bridge controls ionized|
@@ -21024,7 +21069,8 @@ Ship Names # 2
 ## Items & Things
 
 ### Items in a Desk
-
+| d100| Name |
+|:--:|--|
 | 1 |Computer tablet|
 | 2 |Credits (10d10)|
 | 3 |Alien documents|
@@ -21127,7 +21173,8 @@ Ship Names # 2
 | 100 |Unlabeled bottle of pills|
 
 ## Drink Names -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Nebula Swirl|
 | 2 |Spectrum Sweet|
 | 3 |Earth Rise|
@@ -21230,7 +21277,8 @@ Ship Names # 2
 | 100 |Cool Jets|
 
 ## Items in a Government Office -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Royal documents|
 | 2 |Set of quills|
 | 3 |Antique sword|
@@ -21334,13 +21382,14 @@ Ship Names # 2
 
 
 ### Computer Files 
-
+| d100| Name |
+|:--:|--|
 | 1 |Bounty listings (1D100)|
 | 2 |Bank account (1D6 x 100 credits)|
 | 3 |Location of an ancient space battle|
 | 4 |Analysis of pirate attacks and three possible locations of their base|
 | 5 |Deed to a small freighter|
-| 6 |Cargo manifest of the bulk cargo ship the "Blazing Sun"
+| 6 |Cargo manifest of the bulk cargo ship the "Blazing Sun"|
 | 7 |Compromising photos of a minor governamental official|
 | 8 |Bank account (1D100 x 10 credits)|
 | 9 |Geological surveys of an uncharted planet|
@@ -21437,7 +21486,8 @@ Ship Names # 2
 | 100 |Bank account (1D6 x 1000 credits)|
 
 ## Items in a Warehouse -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Crate of expensive spices|
 | 2 |Computer tablet|
 | 3 |Crate of clothes|
@@ -21456,7 +21506,7 @@ Ship Names # 2
 | 16 |Crate of toy vehicles|
 | 17 |Crate of fossils|
 | 18 |Stuffed exotic carnivore|
-| 19 |Looted crate labeled "Gold"
+| 19 |Looted crate labeled "Gold"|
 | 20 |Caged omnivore|
 | 21 |Crate of common furs|
 | 22 |Shipping container of beer kegs|
@@ -21471,7 +21521,7 @@ Ship Names # 2
 | 31 |Crate of building supplies|
 | 32 |Crate of prosthetic arms|
 | 33 |Crate of exotic furs|
-| 34 |Sealed crate marked "EVIDENCE"
+| 34 |Sealed crate marked "EVIDENCE"|
 | 35 |Crate of winter clothing|
 | 36 |Crate of expensive wrist watches|
 | 37 |Forklift (broken down)|
@@ -21506,7 +21556,7 @@ Ship Names # 2
 | 66 |Crate of popular soft drink|
 | 67 |Crate of antique statues|
 | 68 |Prototype Armor|
-| 69 |Sealed crate marked "DO NOT OPEN"
+| 69 |Sealed crate marked "DO NOT OPEN"|
 | 70 |Broken crate (contents spilled onto floor)|
 | 71 |Crate of experimental medication|
 | 72 |Crate of iron bars|
@@ -21540,7 +21590,8 @@ Ship Names # 2
 | 100 |Empty rack space|
 
 ## Items in a Cargo Hold -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Power adjusting wrench|
 | 2 |Plastic Shims (1d6 x 100, value 1d6 per 100)|
 | 3 |Flashlight|
@@ -21643,7 +21694,8 @@ Ship Names # 2
 | 100 |Sidrian Flame Gems (2d6, value 1d6 x 1000 per gem)|
 
 ## Poisonous Plants -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Pulsatilla|
 | 2 |Spurhen’s bane|
 | 3 |Frangipani|
@@ -21746,7 +21798,8 @@ Ship Names # 2
 | 100 |Wisteria|
 
 ## Infectious Diseases #1 -:-:- 
-
+| d100| Name |
+|:--:|--|
 | 1 |Barber's itch|
 | 2 |Space legionnaires' disease|
 | 3 |Taeniasis|
@@ -21849,8 +21902,9 @@ Ship Names # 2
 | 100 |Fire bush fever|
 
 ## Infectious Diseases #2 -:-:- 
-
-| 1 |Chancroid|
+| d100| Name |
+|:--:|--|
+| 1 | Chancroid|
 | 2 |Sepsis|
 | 3 |Astrovirus infection|
 | 4 |Mononucleosis|
@@ -21952,8 +22006,9 @@ Ship Names # 2
 | 100 |Pneumocystis pneumonia|
 
 ## Metals -:-:- 
-
-| 1 |Cadmium|
+| d100| Name |
+|:--:|--|
+| 1 | Cadmium|
 | 2 |Aluminium|
 | 3 |Protactinium|
 | 4 |Fermium|
@@ -22056,8 +22111,9 @@ Ship Names # 2
 
 
 ## Alloys #1 -:-:- 
-
-| 1 |Martensitic stainless steel|
+| d100| Name |
+|:--:|--|
+| 1 | Martensitic stainless steel|
 | 2 |Chromel|
 | 3 |Britannia silver|
 | 4 |Gum metal|
@@ -22159,8 +22215,9 @@ Ship Names # 2
 | 100 |Terne|
 
 ## Alloys #2 -:-:- 
-
-| 1 |Dutch metal|
+| d100| Name |
+|:--:|--|
+| 1 | Dutch metal|
 | 2 |Silver steel|
 | 3 |Deoxidized steel|
 | 4 |Ferromolybdenum|
@@ -22264,8 +22321,9 @@ Ship Names # 2
 ## Stars &  Planets
 
 ### Types of Stars
-
-| 1 |Giant star|
+| d100| Name |
+|:--:|--|
+| 1 | Giant star|
 | 2 |Luminous blue variable|
 | 3 |S‐type star|
 | 4 |Red dwarf|
@@ -22369,6 +22427,9 @@ Ship Names # 2
 ## Types of Planets -:-:- 
 
 
+
+| d100| Name |
+|:--:|--|
 | 1-2 |Ice planet 
 | 3-4 |Sub‐Earth 
 | 5-6 |Terrestrial planet 
@@ -22394,8 +22455,6 @@ Ship Names # 2
 | 45-46 |Rogue planet 
 | 47-48 |Ice giant 
 | 49-50 |Extragalactic planet|
-
-
 | 51-52 |Desert planet 
 | 53-54 |Iron planet 
 | 55-56 |Carbon planet 
@@ -22424,6 +22483,8 @@ Ship Names # 2
 ## Civilization Levels -:-:- 
 
 
+| d100| Name |
+|:--:|--|
 | 1-2 |Stone Age 
 | 3-4 |Bronze Age 
 | 5-6 |Iron Age 
@@ -22448,106 +22509,108 @@ Ship Names # 2
 
 ### Illegal Drugs
 
-| 1 |Gorge ‐ Use: A flaky white or pinkish wafer that is ingested. Effects: The sensation of strength and power.  Side Effects: Leads to dangerous overeating and long‐term use breaks down muscle tissue. Addiction: 50%  chance of being addicted after first use. Chances go up 10% with every use.
-| 2 |Alpha Drop ‐ Use: A green liquid that is dropped into the eyes. Effects: Manic behavior. Side Effects: Eye  discoloration and long‐term use leads to blindness and cognitive impairment. Addiction: 8% chance of  being addicted after first use. Chances increase by 5% after every use.
+| d100| Name |
+|:--:|--|
+| 1 | Gorge ‐ Use: A flaky white or pinkish wafer that is ingested. Effects: The sensation of strength and power.  Side Effects: Leads to dangerous overeating and long‐term use breaks down muscle tissue. Addiction: 50%  chance of being addicted after first use. Chances go up 10% with every us |
+| 2 |Alpha Drop ‐ Use: A green liquid that is dropped into the eyes. Effects: Manic behavior. Side Effects: Eye  discoloration and long‐term use leads to blindness and cognitive impairment. Addiction: 8% chance of  being addicted after first use. Chances increase by 5% after every us |
 | 3 |Food of the Gods ‐ Use: The fruit of the Cama tree roasted and then ingested. Effects: Warm tingling and  mild hallucinations. Side effects: Delirium, fear, shakiness, and permanent weak feeling. Addiction: 1%  chance of being addicted after the first use. Chances of addiction increase by 4% every use. Note: If eaten  unroasted, there is a 70% chance of death. 
-| 4 |Sludge ‐ Use: A bluish black liquid or solid that is ingested. Effects: Intense emotions either positive or  negative. Side Effects: Long‐term use leads to liver failure. Addiction: 35% chance of being after first use.  40% chance for every use.
-| 5 |Wig ‐ Use: A red liquid that is injected into the neck. Effects: Giddiness and laughter. Side Effects: Odd  behavior and rambling speech. Long‐term use has been linked to various rare cancers. Addiction: 12%  chance of being addicted after the first use. Chances increase by 2% after each use.
-| 6 |Rip ‐ Use: A purplish liquid dropped into the ear. Effects: The sensation of floating, euphoria and being  free of worries or care. Side Effects: Strange dreams and night terrors. Addiction: 5% chance of being  addicted after the first use. Chances increase by 3% after every use.
-| 7 |Shock ‐ Use: A clear, odorless gas that is inhaled. Effects: Sudden bursts of energy and urges to move or  dance. Side Effects: Severe nose bleeds and headaches. Long‐term use causes severe lethargy and poor  lung function. Addiction: 5% chance of being addicted after the first use. 20% chance for every use.
-| 8 |Flutter ‐ Use: Pinkish green crystals that resemble sugar and are ingested. Effects: The sensation of  extreme sexual pleasure. Side Effects: The loss of hair and teeth with long‐term use associated with kidney  failure. Addiction: 2% chance of being addicted after first use. 20% chance of being after every use.
-| 9 |Zeem's Tears ‐ Use: Blue‐green crystals that are smoked. Effects: Peaceful calm and contentedness. Side  Effects: Intense feelings of loneliness and a number of gastrointestinal diseases. Addiction: 1% chance of  being addicted after the first use. Chances increase by 20% after every use.
-| 10 |Pop ‐ Use: A green pill that is dissolved in water and then ingested. Effects: Rush of adrenalin and  happiness. Side Effects: Dizziness and confusion with long‐term use leading to heart failure. Addiction: 6%  chance of being addicted after first use. Chances of being addicted increase by 6% after every use. Note: If  the pill is swallowed without being dissolved in water it causes vomiting, but none of the drug's effects.
+| 4 |Sludge ‐ Use: A bluish black liquid or solid that is ingested. Effects: Intense emotions either positive or  negative. Side Effects: Long‐term use leads to liver failure. Addiction: 35% chance of being after first use.  40% chance for every us |
+| 5 |Wig ‐ Use: A red liquid that is injected into the neck. Effects: Giddiness and laughter. Side Effects: Odd  behavior and rambling speech. Long‐term use has been linked to various rare cancers. Addiction: 12%  chance of being addicted after the first use. Chances increase by 2% after each us |
+| 6 |Rip ‐ Use: A purplish liquid dropped into the ear. Effects: The sensation of floating, euphoria and being  free of worries or care. Side Effects: Strange dreams and night terrors. Addiction: 5% chance of being  addicted after the first use. Chances increase by 3% after every us |
+| 7 |Shock ‐ Use: A clear, odorless gas that is inhaled. Effects: Sudden bursts of energy and urges to move or  dance. Side Effects: Severe nose bleeds and headaches. Long‐term use causes severe lethargy and poor  lung function. Addiction: 5% chance of being addicted after the first use. 20% chance for every us |
+| 8 |Flutter ‐ Use: Pinkish green crystals that resemble sugar and are ingested. Effects: The sensation of  extreme sexual pleasure. Side Effects: The loss of hair and teeth with long‐term use associated with kidney  failure. Addiction: 2% chance of being addicted after first use. 20% chance of being after every us |
+| 9 |Zeem's Tears ‐ Use: Blue‐green crystals that are smoked. Effects: Peaceful calm and contentedness. Side  Effects: Intense feelings of loneliness and a number of gastrointestinal diseases. Addiction: 1% chance of  being addicted after the first use. Chances increase by 20% after every us |
+| 10 |Pop ‐ Use: A green pill that is dissolved in water and then ingested. Effects: Rush of adrenalin and  happiness. Side Effects: Dizziness and confusion with long‐term use leading to heart failure. Addiction: 6%  chance of being addicted after first use. Chances of being addicted increase by 6% after every use. Note: If  the pill is swallowed without being dissolved in water it causes vomiting, but none of the drug's effect |
 | 11 |Spike ‐ Use: An orange gas injected into the intestines. Effects: Extreme energy and the user does not  feel pain. Side Effects: Short‐term use cause many intestinal issues and long‐term use leads to severe brain  cancer. Addition: 10% chance of being addicted after first use. Chances go up by 5% after every use. 
-| 12 |Glob ‐ Use: A gelatin‐like substance that is slurped out of plastic container. Effects: Psychedelic  experiences. Side Effects: Despair and hopelessness and long‐term use leads to bone cancer. Addiction:  25% chance of being addicted after the first use. Chance of being addicted increase by 5% after every use.
-| 13 |Shatter ‐ Use: An iridescent liquid injected into the spine. Effects: Increased strength and intense  hallucinations. Side Effects: Uncontrollable rage and long‐term use leads to a specific neurological disorder.  Addiction: 30% chance of being addicted after the first use. Chances go up 5% after every use.
-| 14 |O ‐ Use: An octagonal translucent pill. Effects: None, though users feel excited. Side Effects: None,  though users feel nervous if they go without for a few days. Addiction: 0% chance of being addicted, though  30% of users report being addicted. Note: O is a placebo. This is not known to the general population.  However, certain drug manufacturers and cartels are aware. It is unknown who introduced the pill.
-| 15 |Mother's Milk ‐ Use: A milk‐like liquid that is injected. Effects: The feeling of confidence and of  accomplishment. Side Effects: Joint pain with long‐term use leading to paralysis. Addiction: 30% chance of  being addicted after the first use. Changes increase 10% after every use.
-| 16 |Zero ‐ Use: A round white pill that is swallowed. Effects: Mild simulate and hallucinations. Side Effects:  Increased heart rate, fatigue, and long‐term use leads to internal bleeding. Addiction: 0% chance of being  addicted after eh first use. Chances of being addicted increase by 3% after every use.
+| 12 |Glob ‐ Use: A gelatin‐like substance that is slurped out of plastic container. Effects: Psychedelic  experiences. Side Effects: Despair and hopelessness and long‐term use leads to bone cancer. Addiction:  25% chance of being addicted after the first use. Chance of being addicted increase by 5% after every us |
+| 13 |Shatter ‐ Use: An iridescent liquid injected into the spine. Effects: Increased strength and intense  hallucinations. Side Effects: Uncontrollable rage and long‐term use leads to a specific neurological disorder.  Addiction: 30% chance of being addicted after the first use. Chances go up 5% after every us |
+| 14 |O ‐ Use: An octagonal translucent pill. Effects: None, though users feel excited. Side Effects: None,  though users feel nervous if they go without for a few days. Addiction: 0% chance of being addicted, though  30% of users report being addicted. Note: O is a placebo. This is not known to the general population.  However, certain drug manufacturers and cartels are aware. It is unknown who introduced the pil |
+| 15 |Mother's Milk ‐ Use: A milk‐like liquid that is injected. Effects: The feeling of confidence and of  accomplishment. Side Effects: Joint pain with long‐term use leading to paralysis. Addiction: 30% chance of  being addicted after the first use. Changes increase 10% after every us |
+| 16 |Zero ‐ Use: A round white pill that is swallowed. Effects: Mild simulate and hallucinations. Side Effects:  Increased heart rate, fatigue, and long‐term use leads to internal bleeding. Addiction: 0% chance of being  addicted after eh first use. Chances of being addicted increase by 3% after every us |
 | 17 |Fuel ‐ Use: A liquid injected straight into the adrenal glands. Effects: Puts the user instantly into a state of  intense sympathetic mode. Side Effects: Renal failure if the injection misses the adrenal glands. Long‐term  use prevents the body from returning to parasympathetic mode which leads to death. Addiction: 40% chance  of being addicted after the first use. Chances increase by 5% after each use.  
-| 18 |High Stakes Runner ‐ Use: A mist that is inhaled. Effects: Increases lung capacity by 50% and increases  blood flow throughout the body. Side Effects: Sudden lung collapse and destruction of the pleural cavity.  Addiction: 5% chance of being addicted after the first use. 20% chance of being after every use.
-| 19 |Boom Boom Mo ‐ Use: A red solid that is melted into a liquid then ingested. Effects: Lowers inhibitions,  desire to dance, and be the center of attention. Side Effects: Vomiting and long‐term use leads to severe  depression. Addiction: 0% chance of addiction after first use. 2% chance of being addicted after every use.
-| 20 |Kiv ‐ Use: A liquid injected into a main vein. Effects: Enhances memory and allows total recall for a short  time. Side Effects: User forgets 75% of the information memorized while on the drug. Long‐term use leads to  the loss of childhood memories. Addiction: 4% chance of being addicted after the first use. Chances of being  addicted increase by 7% after every use.
+| 18 |High Stakes Runner ‐ Use: A mist that is inhaled. Effects: Increases lung capacity by 50% and increases  blood flow throughout the body. Side Effects: Sudden lung collapse and destruction of the pleural cavity.  Addiction: 5% chance of being addicted after the first use. 20% chance of being after every us |
+| 19 |Boom Boom Mo ‐ Use: A red solid that is melted into a liquid then ingested. Effects: Lowers inhibitions,  desire to dance, and be the center of attention. Side Effects: Vomiting and long‐term use leads to severe  depression. Addiction: 0% chance of addiction after first use. 2% chance of being addicted after every us |
+| 20 |Kiv ‐ Use: A liquid injected into a main vein. Effects: Enhances memory and allows total recall for a short  time. Side Effects: User forgets 75% of the information memorized while on the drug. Long‐term use leads to  the loss of childhood memories. Addiction: 4% chance of being addicted after the first use. Chances of being  addicted increase by 7% after every us |
 | 21 |Sweet ‐ Use: A substance similar to hard candy that is sucked. Effect: Mild hallucinations and euphoria  thats leads to extreme amicability. Side Effects: Irritability and fatigue. Addiction: 0% chance of being  addicted after the first use. 1% chance of being addicted after every use. 
-| 22 |Lethe ‐ Use: A large yellow pill. Effects: Makes the user sleepy and forgetful. Side Effect: Permanent  memory loss. Addiction: 10% chance of being addicted after first use. Changes of being addicted increase by  3% after each use.
-| 23 |Loam ‐ Use: Peat from a certain bog that is harvested and smoked. Effects: Helps focus, calming affect,  and allows the user to stay awake for 72 hours. Side Effects: Extreme drowsiness and long‐term use leading  to coma. Addiction: 5% chance of being addicted after the first use. Chances of being addicted go up by 3%  after every use.
-| 24 |Guur ‐ Use: A living slime mold that is sorted. Effects: Heightened sense of awareness and boosts reaction  time. Side Effects: Mucusy cough and long‐term use can cause brain aneurysm. Addiction: 8% chance of being  addicted after the first use. Chance of being addicted increase by 10% after each use.
-| 25 |Sleeper ‐ Use: A green powder that is smoked. Effects: Sleepiness and relaxation. Side Effects: Unnaturally  long periods of sleep and long term has been linked to organ failure. Addiction: 5% chance of being addicted  after the first use. The chance of being addicted increases by 2% after every use.
-| 26 |Weeb ‐ Use: A yellow or orange liquid that is injected. Effects: Decreases higher cortical brain function and  makes the user more pliable. Side Effects: Headache, agitation, prolonged drowsiness, and nausea. Long‐term  use can lead lead to pulmonary edema or cardiac failure. Addiction: 0% chance of being addicted after the first  use. Chances up by 2% after every use. Note: Weeb is a street name for various types of "Truth Serum" or  Sodium thiopental. Recreational use is rare.
-| 27 |Elixiter ‐ Use: A foamy, smokey liquid that is ingested. Effects: Makes the user feel young and happy. Side  Effects: Severe headache and joint pain. Long‐term use has been linked to several rare muscle disorders.  Addiction: 1% chance of being addicted after the first use. Chances increase by 4% after every use.
+| 22 |Lethe ‐ Use: A large yellow pill. Effects: Makes the user sleepy and forgetful. Side Effect: Permanent  memory loss. Addiction: 10% chance of being addicted after first use. Changes of being addicted increase by  3% after each us |
+| 23 |Loam ‐ Use: Peat from a certain bog that is harvested and smoked. Effects: Helps focus, calming affect,  and allows the user to stay awake for 72 hours. Side Effects: Extreme drowsiness and long‐term use leading  to coma. Addiction: 5% chance of being addicted after the first use. Chances of being addicted go up by 3%  after every us |
+| 24 |Guur ‐ Use: A living slime mold that is sorted. Effects: Heightened sense of awareness and boosts reaction  time. Side Effects: Mucusy cough and long‐term use can cause brain aneurysm. Addiction: 8% chance of being  addicted after the first use. Chance of being addicted increase by 10% after each us |
+| 25 |Sleeper ‐ Use: A green powder that is smoked. Effects: Sleepiness and relaxation. Side Effects: Unnaturally  long periods of sleep and long term has been linked to organ failure. Addiction: 5% chance of being addicted  after the first use. The chance of being addicted increases by 2% after every us |
+| 26 |Weeb ‐ Use: A yellow or orange liquid that is injected. Effects: Decreases higher cortical brain function and  makes the user more pliable. Side Effects: Headache, agitation, prolonged drowsiness, and nausea. Long‐term  use can lead lead to pulmonary edema or cardiac failure. Addiction: 0% chance of being addicted after the first  use. Chances up by 2% after every use. Note: Weeb is a street name for various types of "Truth Serum" or  Sodium thiopental. Recreational use is rar |
+| 27 |Elixiter ‐ Use: A foamy, smokey liquid that is ingested. Effects: Makes the user feel young and happy. Side  Effects: Severe headache and joint pain. Long‐term use has been linked to several rare muscle disorders.  Addiction: 1% chance of being addicted after the first use. Chances increase by 4% after every us |
 | 28 |Sunset ‐ Use: A bright orange square pill. Effects: Lucid dreaming. Side Effects: Restlessness and chronic  fatigue. Addiction: 3% chance of being addicted after the first use. Chances go up 3% every use.  
 | 29 |Slant ‐ Use: A black patch placed at the base of skull. Effects: Weightlessness and out of body experiences.  Side Effects: Disorientation, shakiness and long‐term use has been linked to medulloblastoma. Addiction: 30%  chance of being after the first use. Chances of being addicted increase by 4% after every use.  
-| 30 |Sprouts ‐ Use: The stems of a plant classified 34BZ87QHR which are chewed. Effects: Intense hallucinations.  Side Effects: Degenerates the central nervous system leading to many complications. Addiction: 40% chance  of being addicted after the first use. Chances of being addicted go up 20% after each use.
-| 31 |New Slerv ‐ Use: A blue gas that is inhaled. Effects: Suppresses fear and causes hyperactivity. Side Effects:  Loss of appetite, fatigue, and long‐term use leads to mesothelioma. Addiction: 5% chance of being after first  use. 10% chance of being after every use.
+| 30 |Sprouts ‐ Use: The stems of a plant classified 34BZ87QHR which are chewed. Effects: Intense hallucinations.  Side Effects: Degenerates the central nervous system leading to many complications. Addiction: 40% chance  of being addicted after the first use. Chances of being addicted go up 20% after each us |
+| 31 |New Slerv ‐ Use: A blue gas that is inhaled. Effects: Suppresses fear and causes hyperactivity. Side Effects:  Loss of appetite, fatigue, and long‐term use leads to mesothelioma. Addiction: 5% chance of being after first  use. 10% chance of being after every us |
 | 32 |Flash ‐ Use: A yellow liquid that is dropped into the eyes. Effects: A sense of well‐being and energy. Side  Effects: Nausea, delusions of power, and increased aggressiveness are the main short‐term effects. Long‐term  use leads to premature aging, stokes, and extreme mood swings. Addiction: 60% chance of being addicted  after the first use. Chance go up 10% after every use.  
-| 33 |Trip Dog ‐ Use: The blood of "Wilcox Beast" that is injected. Effect: Improved healing and euphoria. Side  Effects: Breakdown of all bodily tissues. Addiction: 40% chance of being after first use. Chance of being  addicted goes up 2% after every use.
+| 33 |Trip Dog ‐ Use: The blood of "Wilcox Beast" that is injected. Effect: Improved healing and euphoria. Side  Effects: Breakdown of all bodily tissues. Addiction: 40% chance of being after first use. Chance of being  addicted goes up 2% after every us |
 | 34 |Red Eye ‐ Use: A small black pill. Effects: Produces the feeling of alertness and the sensation of being fully  awake. Side Effects: Short‐term use causes extremely bloodshot eyes. Long‐term use can lead to blindness.  Addiction: 20% chance of being addicted after the first use. Chance increase by 5% after every use. 
-| 35 |Thump ‐ Use: A liquid injected into the heart. Effects: Intense simulation and feeling of being truly alive.  Side Effects: Intense depression, edginess, convulsions, and suicidal thoughts. Long‐use leads to cardiac  damage and failure. Addiction: 70% chance of addiction after the first use. Chances go up 10% after every use.
-| 36 |Grub ‐ Use: A smelly paste that is rubbed on the inside of the cheek. Effects: Feeling of extreme  pleasure. Side Effects: Depression, vomiting, and long‐term use leads to memory gaps and dementia.  Addiction: 10% chance of being addicted after the first use. 10% chance of being addicted after every use.
-| 37 |Hot Grip ‐ Use: A red chewable caplet. Effects: Extreme pleasure and feelings of happiness. Side Effects:  Burns on the inside of the mouth, and long‐term use leads to confusion and anemia. Addiction: 0% chance  of being addicted after the first use. 1% chance of being addicted after every use.
+| 35 |Thump ‐ Use: A liquid injected into the heart. Effects: Intense simulation and feeling of being truly alive.  Side Effects: Intense depression, edginess, convulsions, and suicidal thoughts. Long‐use leads to cardiac  damage and failure. Addiction: 70% chance of addiction after the first use. Chances go up 10% after every us |
+| 36 |Grub ‐ Use: A smelly paste that is rubbed on the inside of the cheek. Effects: Feeling of extreme  pleasure. Side Effects: Depression, vomiting, and long‐term use leads to memory gaps and dementia.  Addiction: 10% chance of being addicted after the first use. 10% chance of being addicted after every us |
+| 37 |Hot Grip ‐ Use: A red chewable caplet. Effects: Extreme pleasure and feelings of happiness. Side Effects:  Burns on the inside of the mouth, and long‐term use leads to confusion and anemia. Addiction: 0% chance  of being addicted after the first use. 1% chance of being addicted after every us |
 | 38 |Shadow Hand ‐ Use: A translucent pill. Effects: Intense pleasurable dreams and allows the user to  manipulate the dreams. Side Effects: Inability to distinguish between reality and dreams. Addiction: 5%  chance after the first use. 20% chance after every use. 
-| 39 |Kiss ‐ Use: A party scene drug that is small purple patch placed on one’s temple. Effects: Hyperactivity  and the desire to move. Side Effects: Long‐term use causes violent tremors. Addition: 2% chance of being  addicted after the first use. 5% chance of being addicted after every use.
-| 40 |Plik ‐ Use: A liquid that is injected. Effects: Loss of all sense of self‐control, and the user is incapable of  forming memories while under the influence. Side Effects: Cold sweats, a weak immune system, and  permanent muscular weakness. Addiction: 2% chance of being addicted after first use. 5% chance of being  addicted after every use.
-| 41 |Thinker ‐ Use: Light blue dissolvable strip placed on the tongue. Effect: Increases cognitive function.  Side Effects: Long‐term use decreases cognitive function. Addiction: 2% chance of being addicted after the  first use. Chances increase by 10% for every use.
-| 42 |Kronk ‐ Use: Leafs of the marijuana plant that are smoked. Effects: A pleasant euphoria, sense of  relaxation, and heightened sensory perception. Side Effects: Include anxiety, fear, distrust, panic, and a loss  of the sense of personal identity. Long‐term use leads to schizophrenia or other psychotic disorders.  Addiction: 1% chance of being addicted after the first use. Chances go up by 4% after every use.
-| 43 |Raindrop ‐ Use: A clear liquid dropped into the eye popular with the party scene. Effects: Feelings of  euphoria. Side Effects: Dry mouth, headache, and cognitive impairment. Addiction: 0% chance after the  first use. 3% chance after every use.
-| 44 |Mirror Mirror ‐ Use: Silver dermal patch. Effects: The user feels usually attractive and sexy. Side Effects:  Severe anxiety, lack of appetite, teeth grinding, and obsessive behavior. Addiction: 0% chance after the first  use. 1% chance after every use.
-| 45 |Ali Ali Trip ‐ Use: A round, blue pill. Effects: Increased attentiveness and concentration. Side Effects:  Dizziness, increased heart rate, heart palpitations, and violent behavior. Addiction: 0% chance of being  addicted after the first use. Chances increase 2% after every use.
+| 39 |Kiss ‐ Use: A party scene drug that is small purple patch placed on one’s temple. Effects: Hyperactivity  and the desire to move. Side Effects: Long‐term use causes violent tremors. Addition: 2% chance of being  addicted after the first use. 5% chance of being addicted after every us |
+| 40 |Plik ‐ Use: A liquid that is injected. Effects: Loss of all sense of self‐control, and the user is incapable of  forming memories while under the influence. Side Effects: Cold sweats, a weak immune system, and  permanent muscular weakness. Addiction: 2% chance of being addicted after first use. 5% chance of being  addicted after every us |
+| 41 |Thinker ‐ Use: Light blue dissolvable strip placed on the tongue. Effect: Increases cognitive function.  Side Effects: Long‐term use decreases cognitive function. Addiction: 2% chance of being addicted after the  first use. Chances increase by 10% for every us |
+| 42 |Kronk ‐ Use: Leafs of the marijuana plant that are smoked. Effects: A pleasant euphoria, sense of  relaxation, and heightened sensory perception. Side Effects: Include anxiety, fear, distrust, panic, and a loss  of the sense of personal identity. Long‐term use leads to schizophrenia or other psychotic disorders.  Addiction: 1% chance of being addicted after the first use. Chances go up by 4% after every us |
+| 43 |Raindrop ‐ Use: A clear liquid dropped into the eye popular with the party scene. Effects: Feelings of  euphoria. Side Effects: Dry mouth, headache, and cognitive impairment. Addiction: 0% chance after the  first use. 3% chance after every us |
+| 44 |Mirror Mirror ‐ Use: Silver dermal patch. Effects: The user feels usually attractive and sexy. Side Effects:  Severe anxiety, lack of appetite, teeth grinding, and obsessive behavior. Addiction: 0% chance after the first  use. 1% chance after every us |
+| 45 |Ali Ali Trip ‐ Use: A round, blue pill. Effects: Increased attentiveness and concentration. Side Effects:  Dizziness, increased heart rate, heart palpitations, and violent behavior. Addiction: 0% chance of being  addicted after the first use. Chances increase 2% after every us |
 | 46 |Ick ‐ Use: Industrial cleaning agents and engine fuel mixed into an injectable liquid. Effects: The user  feels pleasure and painlessness. Side Effects: Gangrene and the rotting of the flesh. Addiction: 80% chance  of being addicted after the first use. Chances increase 5% after every use. 
-| 47 |Rainbow Dancer ‐ Use: A multi‐coloured crystal that is chewed. Effect: Imbues the user with feelings of  happiness and increased sexual desire. Side Effects: Short‐term use causes vomiting and long‐term use  damages motor skills. Addiction: 5% chance of being addicted after first use. Chances increase by 1% after  every use.
-| 48 |Grip ‐ Use: A goldish‐gray pill. Effects: Intense excitement. Side Effects: Rapid breathing, hypertension,  and "zombification." Addiction: 20% chance of being addicted after the first use. Chances of being addicted  go up by 6% after every use.
-| 49 |Spark ‐ Use: A glass‐like crystal that gives off sparks as it is chewed. Effects: Supposedly allows the user to "touch the mind of God." Side Effects: After a 12 to 24 hour high use leads to death. Addiction: First time use  carries 100% chance of death.
-| 50 |Fast Heat ‐ Use: A red pill that is a concentrated form of Salen Heat. Effect: The user feels warm and  excited and usually feels the desire to remove their clothing. These effects are similar to Salen Heat, but are  more intense. Side Effect: Extreme anxiety, irregular heartbeat, and convulsions. Addiction: 7% chance of  being addicted after the first use. Chances go up by 7% after every use.
-| 51 |Chrome Love ‐ Use: A silvery pill. Effect: Makes the user crave physical touch. Side Effects: Leads to hair  loss and infertility. Addiction: 0% chance of being addicted after the first use. Chances of being addicted go  up by 2% after every use.
+| 47 |Rainbow Dancer ‐ Use: A multi‐coloured crystal that is chewed. Effect: Imbues the user with feelings of  happiness and increased sexual desire. Side Effects: Short‐term use causes vomiting and long‐term use  damages motor skills. Addiction: 5% chance of being addicted after first use. Chances increase by 1% after  every us |
+| 48 |Grip ‐ Use: A goldish‐gray pill. Effects: Intense excitement. Side Effects: Rapid breathing, hypertension,  and "zombification." Addiction: 20% chance of being addicted after the first use. Chances of being addicted  go up by 6% after every us |
+| 49 |Spark ‐ Use: A glass‐like crystal that gives off sparks as it is chewed. Effects: Supposedly allows the user to "touch the mind of God." Side Effects: After a 12 to 24 hour high use leads to death. Addiction: First time use  carries 100% chance of deat |
+| 50 |Fast Heat ‐ Use: A red pill that is a concentrated form of Salen Heat. Effect: The user feels warm and  excited and usually feels the desire to remove their clothing. These effects are similar to Salen Heat, but are  more intense. Side Effect: Extreme anxiety, irregular heartbeat, and convulsions. Addiction: 7% chance of  being addicted after the first use. Chances go up by 7% after every us |
+| 51 |Chrome Love ‐ Use: A silvery pill. Effect: Makes the user crave physical touch. Side Effects: Leads to hair  loss and infertility. Addiction: 0% chance of being addicted after the first use. Chances of being addicted go  up by 2% after every us |
 | 52 |Glitch  ‐ Use: A blue slime that is inhaled through the nose. Effects: Euphoria and the sensation of  spinning. Side Effects: Upset stomachs, muscle aches, dizziness, headaches, and urine turns blue. Long‐term  use has been linked to a host medical issues including kidney failure and brain tumors. Addiction: 1% chance  of being after the first use. 30% of being after every use use.   
 | 53 |Tank ‐ Use: A large black pill. Effects: The feeling of invulnerability and extreme strength. Side Effects:  Stomach pain, upset stomach, and constipation. Long‐term use leads to musculoskeletal disorders.  Addiction: 5% chance after the first use. Chances go up 3% after each use. 
 | 54 |Groove ‐ Use: A small green pill popular with the party scene. Effects: Euphoria, the need to move, and  increased confidence. Side Effects: Rash, painful joints, problems swallowing and long‐term use can lead to  difficulty speaking and viral infections. Addiction: 0% chance of being addicted after the first use. 3% of being  after every use. 
-| 55 |Drill ‐ Use: A brown liquid injected into the tear ducts. Effects: Enhances mental cognition, increase  sensory perception, and feelings of power. Side Effects: Blurred vision, double vision, nosebleeds with long‐ term use leading to extreme seizures and brain damage. Addiction: 8% of being addicted after the first use.  Chances go up 5% after each use.
-| 56 |Butterfly ‐ Use: A one ounce shot of yellowish liquid that is ingested. Effects: Feelings of ecstasy and  excitement. Side Effects: Loss of appetite or increase in appetite, weight changes, cold symptoms (stuffy  nose, sneezing, sore throat), dry mouth, and decreased sex drive. Addiction: 0% chance of being after the  first use. 3% chance of being addicted after every use.
-| 57 |Burning Bush ‐ Use: A thin orange wafer that is ingested. Effects: Extreme hallucinations and the feeling of  moving when standing still. Side Effects: Cracks in the corners of the mouth, dry mouth, dry lips, cracking or  peeling skin, inflammation of the whites of the eyes and long‐term use can cause a number of mental  disorders. Addiction: 50% chance of being addicted after the first use. Chance increases by 7% after every use.
-| 58 |Cloud 9 ‐ Use: A white liquid inhaled through the nose. Effect: Feelings of carefree enjoyment. Side  Effects: Long‐term use weakens the immune system. Addiction: 5% chance of being addicted after the first  use. Chances go up by 5% after every use.
-| 59 |Sap ‐ Use: The sap of the Gorva bush is boiled and mixed with alcohol then ingested. Effect: Powerful  feeling of euphoria and intensifies the effects of alcohol. Side Effects: Severe hangovers and long‐term use  leads to brain damage. Addiction: 0% chance of being addicted after the first use. Chances of being addicted  go up 4% after every use.
-| 60 |Piff Powder ‐ Use: A reddish‐brown powder that is inhaled through the nose. Effects: Elation and no desire  to sleep. Side Effects: Narcolepsy and long‐term sinus and brain damage. Addiction: 3% chance of being  addicted after first use. 15% chance of being addicted after every use.
-| 61 |Slap Dash ‐ Use: A grayish‐brown pill that is a combination of Salen Heat and Chrome Love. Effects: The  user feels warm, craves physical touch, and usually feels the desire to remove their clothing. Side Effects:  Restlessness, tremors with long‐term use leading to respiratory failure and death. Addiction: 10% chance of  being addicted after the first use. Chances increase by 12% after every use. 1% chance of death after every use.
-| 62 |Sloke ‐ Use: A lozenge that dissolves in the mouth. Effects: The sensation of slowing down and peaceful  relaxation. Side Effects: Back pain, dizziness, drowsiness, nervousness, and long‐term use leads to coma or  death. Addiction: 25% chance of being addicted after the first use. Chance increase by 6% after every use.
+| 55 |Drill ‐ Use: A brown liquid injected into the tear ducts. Effects: Enhances mental cognition, increase  sensory perception, and feelings of power. Side Effects: Blurred vision, double vision, nosebleeds with long‐ term use leading to extreme seizures and brain damage. Addiction: 8% of being addicted after the first use.  Chances go up 5% after each us |
+| 56 |Butterfly ‐ Use: A one ounce shot of yellowish liquid that is ingested. Effects: Feelings of ecstasy and  excitement. Side Effects: Loss of appetite or increase in appetite, weight changes, cold symptoms (stuffy  nose, sneezing, sore throat), dry mouth, and decreased sex drive. Addiction: 0% chance of being after the  first use. 3% chance of being addicted after every us |
+| 57 |Burning Bush ‐ Use: A thin orange wafer that is ingested. Effects: Extreme hallucinations and the feeling of  moving when standing still. Side Effects: Cracks in the corners of the mouth, dry mouth, dry lips, cracking or  peeling skin, inflammation of the whites of the eyes and long‐term use can cause a number of mental  disorders. Addiction: 50% chance of being addicted after the first use. Chance increases by 7% after every us |
+| 58 |Cloud 9 ‐ Use: A white liquid inhaled through the nose. Effect: Feelings of carefree enjoyment. Side  Effects: Long‐term use weakens the immune system. Addiction: 5% chance of being addicted after the first  use. Chances go up by 5% after every us |
+| 59 |Sap ‐ Use: The sap of the Gorva bush is boiled and mixed with alcohol then ingested. Effect: Powerful  feeling of euphoria and intensifies the effects of alcohol. Side Effects: Severe hangovers and long‐term use  leads to brain damage. Addiction: 0% chance of being addicted after the first use. Chances of being addicted  go up 4% after every us |
+| 60 |Piff Powder ‐ Use: A reddish‐brown powder that is inhaled through the nose. Effects: Elation and no desire  to sleep. Side Effects: Narcolepsy and long‐term sinus and brain damage. Addiction: 3% chance of being  addicted after first use. 15% chance of being addicted after every us |
+| 61 |Slap Dash ‐ Use: A grayish‐brown pill that is a combination of Salen Heat and Chrome Love. Effects: The  user feels warm, craves physical touch, and usually feels the desire to remove their clothing. Side Effects:  Restlessness, tremors with long‐term use leading to respiratory failure and death. Addiction: 10% chance of  being addicted after the first use. Chances increase by 12% after every use. 1% chance of death after every us |
+| 62 |Sloke ‐ Use: A lozenge that dissolves in the mouth. Effects: The sensation of slowing down and peaceful  relaxation. Side Effects: Back pain, dizziness, drowsiness, nervousness, and long‐term use leads to coma or  death. Addiction: 25% chance of being addicted after the first use. Chance increase by 6% after every us |
 | 63 |Zip ‐ Use: A small almond‐colored pill. Effect: Mild stimulant. Side Effects: Headache and anxiety for a few  days if use is discontinued. Addiction: 0% chance after first use. Chances of addiction go up by 1% after every  use. Note: Zip is about 40 mg of caffeine.  
-| 64 |Moan ‐ Use:  A purple pill. Effects: Heightened sexual desire. Side Effects: Sleep disturbance, fever, and  dangerous liver tumors. Addiction: 0% chance after the first use. 15% chance after every use.
+| 64 |Moan ‐ Use:  A purple pill. Effects: Heightened sexual desire. Side Effects: Sleep disturbance, fever, and  dangerous liver tumors. Addiction: 0% chance after the first use. 15% chance after every us |
 | 65 |Vikto ‐ Use: A large white pill. Effects: Alertness and happy feelings. Side Effects: Sudden numbness or  weakness, especially on one side of the body, severe diarrhea, rectal bleeding. Addiction: 3% chance after first  use. Chance increases 1% after every use. Note: Vikto is the street name for a powerful anti‐viral medication  still in legal use. 
-| 66 |Puff Gum ‐ Use: A amethyst‐colored gum that is chewed. Effects: Mild simulant. Side Effects: Stains teeth  purple and long‐term use leads to severe stomach ailments. Addiction: 1% chance of being addicted after first  use. Chances of being addicted increase by 1% after every use.
-| 67 |Snip Grill ‐ Use: A yellow strip placed on the roof of the mouth. Effects: Hallucinations. Side Effects:  Unsteadiness, memory loss, lack of coordination, difficulty speaking, and viral infections. Addiction: 2%  chance of being after the first use. 10% chance after every use.
-| 68 |Go Go ‐ Use: A grey chalky substance smeared on the lips. Effects: Lost of social inhibitions and increased  bravado. Side Effects: Severe cardiac damage. Addiction: 1% change of being addicted after first use. Chances  go up 1% after every use.
+| 66 |Puff Gum ‐ Use: A amethyst‐colored gum that is chewed. Effects: Mild simulant. Side Effects: Stains teeth  purple and long‐term use leads to severe stomach ailments. Addiction: 1% chance of being addicted after first  use. Chances of being addicted increase by 1% after every us |
+| 67 |Snip Grill ‐ Use: A yellow strip placed on the roof of the mouth. Effects: Hallucinations. Side Effects:  Unsteadiness, memory loss, lack of coordination, difficulty speaking, and viral infections. Addiction: 2%  chance of being after the first use. 10% chance after every us |
+| 68 |Go Go ‐ Use: A grey chalky substance smeared on the lips. Effects: Lost of social inhibitions and increased  bravado. Side Effects: Severe cardiac damage. Addiction: 1% change of being addicted after first use. Chances  go up 1% after every us |
 | 69 |Zong ‐ Use: A glittery powder that is smoked through a water pipe. Effects: Relaxation, sleepiness, and  mild hallucinations. Side Effects: Crying spells, aggression or agitation, changes in behavior, and thoughts of  suicide or hurting yourself. Addiction: 5% chance of being addicted after first use. Chances increase by 3% after  each use. 
-| 70 |Dream Leaf ‐ Use: The leaf of the portilla plant is boiled in water and the fumes are inhaled. Effects:  Wonderful, exciting dreams and visions. Side Effects: Long Term use destroys the motivation center in the  brain. Addition: 20% chance of being addicted after first use. Chances go up 5% with every use. Note: If the  portilla leaf is boiled in Isopropyl Alcohol, it is called "Death Dream Leaf" as there is a 30% chance of the  dying every use. A surprisingly large number of long‐term addicts feel the enhanced high is worth the risk.
-| 71 |Shaft ‐ Use: A red powder that is heated and inhaled. Effects: Extreme pleasure and the sensation of  abundant energy. Side Effects: An increased number of bowel movements, an urgent need to have them,  and an inability to control them, and long‐term use leads to rare immune disorders. Addiction: 0% chance  of being addicted after the first use. Chance increase by 4% after every use.
-| 72 |E ‐ Use: An orangish‐yellow pill that is a more potent derivative of U4E‐uh. Effects: Makes the user feel  happy and excited. Side Effects: Use leads to lower sex drive and frequent panic attacks. Skin problems,  such as hives, rash, red, shedding, or peeling skin. Long‐term use can cause extremely high fevers that lead  to a variety of medical complications. Addiction: 3% chance of being addicted after first use. Chance  increases by 8% after every use.
-| 73 |Pidge ‐ Use: A cream‐colored fibrous material that is chewed and spit out. Effects: Mild stimulant. Side  Effects: In rare cases very stiff muscles, high fever, sweating, confusion, fast or uneven heartbeats.  Addiction: 0% chance of being addicted after the first use. 1% of being addicted after each use.
-| 74 |River Stix ‐ Use: A golden‐colored disk that dissolves in the mouth. Effects: Numbness, relaxation and a  sense of well‐being and euphoria. Side Effects: Delusions of grandeur with inflated sense of importance.  Long‐term use may lead to fatal internal bleeding. Addiction: 60% chance of being addicted after the first  use. Chances increase by 5% after each use.
-| 75 |Z ‐ Use: A tiny bluish pill. Effects: Strong increase in euphoric feelings and feelings of being warm. Side  Effects: Headache, trouble concentrating, memory problems, weakness, fainting, and seizure. Addiction:  0% chance of being addicted after the first use. 8% of being addicted after every use.
-| 76 |Split ‐ Use: Various chemical compounds that are inhaled. Effects: Altered sense of self and altered  perception of time and space. Side Effects: Ringing in the ears, blurred vision, loss of interest in sex, and  sore throat. Addiction: 10% of being addicted after the first use. Chances increase by 3% after every use.
-| 77 |Cap Jaw ‐ Use: A heavier than air yellow gas that is inhaled. Effect: Imbues the feeling of invincibility.  Side Effects: Extreme nervousness and insomnia. Addiction: 10% chance of being addicted after the first  use. 15% chance for every use.
-| 78 |Slock ‐ Use: An emerald‐colored liquid that is smoked. Effects: Increased sociability and a reduction in  fear and behavioral inhibitions. Side Effects: Increased sweating, increased urination, and tremors.  Addiction: 1% chance of being addicted after the first use. Chances of being addicted increase by 4% after  every use.
-| 79 |Salen Heat ‐ Use: A red pill popular among the party scene. Effect: The user feels warm and excited and  usually feels the desire to remove their clothing. Side Effect: Extreme anxiety. Addiction: 1% chance of  being addicted after the first use. Chances go up by 3% after every use.
-| 80 |Boom ‐ Use: A liquid that is injected. Effects: Bursts of energy and increased sexual desire. Side Effects:  Tremors or loss of motor coordination. Long‐term use had been associated with a weakened immune  system, muscular weakness and insomnia. Addiction: 7% chance of being after the first use. Chances  increase by 5% after every use.
-| 81 |U4E‐uh ‐ Use: A small orange pill sometimes called, Orange Cream, that is popular among the party  scene. Effects: Makes the user feel happy and excited. Side Effects: Long‐term use leads to lower sex drive  and frequent panic attacks. Addiction: 1% chance of being addicted after first use. Chance increases by 1%  after every use.
-| 82 |Trome ‐ Use: A brown powder burned and inhaled. Effect: Synesthesia, the experience of mixed  perceptions, such as hearing colors or seeing sounds. Side Effects: Impaired judgment, paranoia and  psychosis. Addiction: 3% chance of being addicted after the first use. 20% chance of beings after every use.
-| 83 |Sweet Punch ‐ A pinkish liquid that is ingested. Effects: Sedation and dissociation. Side Effects: Short  term side effects include nausea and stomach pain and long‐term use leads impaired memory and  cognitive dysfunction. Addiction: 0% chance of being addicted after the first use. 5% chance of being  addicted after every use.
-| 84 |Tar Shot ‐ Use: A dark fluid that is injected. Effect: Abundant energy and pleasure. Side Effect:  Aggressiveness and long‐term use leads to a breakdown in cognitive function. Addiction: 3% chance of  being addicted after first use. Chances go up 10% after every use.
-| 85 |Zuf ‐ Use: A dermal patch. Effects: Calm, dreamlike mental state. Side Effects: Increased body  temperature, erectile dysfunction, and irregular heartbeat. Addiction: 0% chance after the first use. 4%  after every use.
-| 86 |Looker ‐ Use: A gas that is inhaled. Effect: The user is sexually attracted to nearly everyone they see.  Side Effects: Long‐term use leads to severely reduced respiratory function. Addiction: 10% chance of being  addicted after first use. Chances go up by 10% every use.
-| 87 |Bang Bang ‐ Use: A indigo pill. Effects: Higher pleasure from and desire for physical touch and  heightened energy levels. Side Effects: Drowsiness, dizziness, fatigue, and nausea. Addiction: 10% chance  of being addicted after the first use. Chance increase by 5% after every use.
-| 88 |Gravy ‐ Use: powder or liquid that is often mixed with other food. Effects: Hallucinations, altered states  of being and unresponsiveness to reality. Side Effects: Loss of consciousness and widespread cellular  damage. Addiction: 2% chance of being addicted after the first use. 30% chance of being addicted after  every use.
-| 89 |Burner ‐ Use: A red spongy substance placed under the tongue. Effects: The user feels wave after wave  of euphoria and is flooded with adrenaline. Side Effects: Short‐term use leads to sudden dizzy spells and  blackouts. Long‐term use leads to insanity. Addiction: 100% chance of being addicted after first use. 5%  chance of death every use.
-| 90 |Grind ‐ Use: A gel rubbed on the skin that leaves an orange stain. Effect: Hallucinations and calmness.  Side Effects: Paranoia. Addiction: 15% chance of being addicted after first use. Chances go up 5% after  every use.
-| 91 |Dragon's Breath ‐ Use: A red spray that is ingested. Effects: Spiritual and transcendent experiences as well  as increased introspection. Side Effects: ever, chills, body aches, flu symptoms, and long‐term use leads to  permanent psychological damage. Addiction: 50% chance of being addicted after the first use. Chances  increase by 3% after every use.
-| 92 |Chippy Stick ‐ Use: A yellowish‐red compound compressed into a small stick that is slowly chewed. Effects:  Mild simulant. Side Effects: Stains teeth red and long‐term use leads to throat and jaw cancer. Addiction: 1%  chance of being addicted after first use. Chances of being addicted increase by 1% after every use.
-| 93 |Drip ‐ Use: A pale blue liquid dropped into the eyes. Effects: Intense feelings of happiness and self‐esteem.  Side Effects: Low blood pressure, kidney problems, and kidney stones. Addiction: 0% chance of being  addicted after first use. Chances of addiction go up 3% after every use.
-| 94 |Smolder ‐ Use: A heated liquid that is injected. Effects: Increased alertness and energy, as well as  enhanced empathy. Side Effects: Fever, unusual eye movements, jerky movements, and increased gambling,  sexual, or other overpowering urges. Addiction: 30% chance of being addicted after first use. Chances of  addiction go up 8% after every use.
-| 95 |Snif ‐ Use: A mist that is inhaled. Effects: Inflated self‐esteem and elevated mood. Side Effects: Confusion  or disorientation, muscle weakness, and bone pain. Addiction: 5% chance of being addicted after the first use.  10% chance of being addicted after every use.
-| 96 |Shunt ‐ Use: A yellow paste that is smeared in the nostrils. Effects: Excitement, energy and feelings of  affection. Side Effects: Strange dreams, the need to sleep for long periods of time, and violent behavior.  Addiction: 10% chance of being addicted after first use. Chances of addiction go up 1% after every use.
-| 97 |Feather Shot ‐ Use: A lighter than air gas that is injected. Effects: Deep relaxation and a sense of peace.  Side Effects: Severe depression and suicidal thoughts. Addiction: 0% chance of being addicted after first use.  Chances of addiction go up 7% after every use.
-| 98 |Fun in the Sun ‐ Use: A flax‐colored pill. Effects: A euphoric state of being and a distorted perception of  time. Side Effects: Easy bruising, red pin‐prick spots on the skin, bleeding gums. Addiction: 0% chance of  being addicted after the first use. 3% chance of being addicted after every use.
-| 99 |Ditch ‐ Use: A red dermal patch. Effects: Overestimation of strength, speed, and invulnerability. Side  Effects: High anxiety, paranoia, and isolation. Long‐term use leads to lung disorders, thyroid problems, and  liver disease. Addiction: 100% chance of being addicted after first use.
-| 100 |Flame Out ‐ Use: Burner’s lighter cousin it is a orangish‐red spongy substance placed under the tongue.  Effects: The user feels waves of euphoria and is flooded with adrenaline. Side Effects: Short‐term use leads to  occasional dizzy spells. Long‐term use leads to confusion and dementia. Addiction: 70% chance of being  addicted after first use. Chances of addiction go up 5% after every use. Note: Some governments give this  drug to their frontline soldiers.
+| 70 |Dream Leaf ‐ Use: The leaf of the portilla plant is boiled in water and the fumes are inhaled. Effects:  Wonderful, exciting dreams and visions. Side Effects: Long Term use destroys the motivation center in the  brain. Addition: 20% chance of being addicted after first use. Chances go up 5% with every use. Note: If the  portilla leaf is boiled in Isopropyl Alcohol, it is called "Death Dream Leaf" as there is a 30% chance of the  dying every use. A surprisingly large number of long‐term addicts feel the enhanced high is worth the ris |
+| 71 |Shaft ‐ Use: A red powder that is heated and inhaled. Effects: Extreme pleasure and the sensation of  abundant energy. Side Effects: An increased number of bowel movements, an urgent need to have them,  and an inability to control them, and long‐term use leads to rare immune disorders. Addiction: 0% chance  of being addicted after the first use. Chance increase by 4% after every us |
+| 72 |E ‐ Use: An orangish‐yellow pill that is a more potent derivative of U4E‐uh. Effects: Makes the user feel  happy and excited. Side Effects: Use leads to lower sex drive and frequent panic attacks. Skin problems,  such as hives, rash, red, shedding, or peeling skin. Long‐term use can cause extremely high fevers that lead  to a variety of medical complications. Addiction: 3% chance of being addicted after first use. Chance  increases by 8% after every us |
+| 73 |Pidge ‐ Use: A cream‐colored fibrous material that is chewed and spit out. Effects: Mild stimulant. Side  Effects: In rare cases very stiff muscles, high fever, sweating, confusion, fast or uneven heartbeats.  Addiction: 0% chance of being addicted after the first use. 1% of being addicted after each us |
+| 74 |River Stix ‐ Use: A golden‐colored disk that dissolves in the mouth. Effects: Numbness, relaxation and a  sense of well‐being and euphoria. Side Effects: Delusions of grandeur with inflated sense of importance.  Long‐term use may lead to fatal internal bleeding. Addiction: 60% chance of being addicted after the first  use. Chances increase by 5% after each us |
+| 75 |Z ‐ Use: A tiny bluish pill. Effects: Strong increase in euphoric feelings and feelings of being warm. Side  Effects: Headache, trouble concentrating, memory problems, weakness, fainting, and seizure. Addiction:  0% chance of being addicted after the first use. 8% of being addicted after every us |
+| 76 |Split ‐ Use: Various chemical compounds that are inhaled. Effects: Altered sense of self and altered  perception of time and space. Side Effects: Ringing in the ears, blurred vision, loss of interest in sex, and  sore throat. Addiction: 10% of being addicted after the first use. Chances increase by 3% after every us |
+| 77 |Cap Jaw ‐ Use: A heavier than air yellow gas that is inhaled. Effect: Imbues the feeling of invincibility.  Side Effects: Extreme nervousness and insomnia. Addiction: 10% chance of being addicted after the first  use. 15% chance for every us |
+| 78 |Slock ‐ Use: An emerald‐colored liquid that is smoked. Effects: Increased sociability and a reduction in  fear and behavioral inhibitions. Side Effects: Increased sweating, increased urination, and tremors.  Addiction: 1% chance of being addicted after the first use. Chances of being addicted increase by 4% after  every us |
+| 79 |Salen Heat ‐ Use: A red pill popular among the party scene. Effect: The user feels warm and excited and  usually feels the desire to remove their clothing. Side Effect: Extreme anxiety. Addiction: 1% chance of  being addicted after the first use. Chances go up by 3% after every us |
+| 80 |Boom ‐ Use: A liquid that is injected. Effects: Bursts of energy and increased sexual desire. Side Effects:  Tremors or loss of motor coordination. Long‐term use had been associated with a weakened immune  system, muscular weakness and insomnia. Addiction: 7% chance of being after the first use. Chances  increase by 5% after every us |
+| 81 |U4E‐uh ‐ Use: A small orange pill sometimes called, Orange Cream, that is popular among the party  scene. Effects: Makes the user feel happy and excited. Side Effects: Long‐term use leads to lower sex drive  and frequent panic attacks. Addiction: 1% chance of being addicted after first use. Chance increases by 1%  after every us |
+| 82 |Trome ‐ Use: A brown powder burned and inhaled. Effect: Synesthesia, the experience of mixed  perceptions, such as hearing colors or seeing sounds. Side Effects: Impaired judgment, paranoia and  psychosis. Addiction: 3% chance of being addicted after the first use. 20% chance of beings after every us |
+| 83 |Sweet Punch ‐ A pinkish liquid that is ingested. Effects: Sedation and dissociation. Side Effects: Short  term side effects include nausea and stomach pain and long‐term use leads impaired memory and  cognitive dysfunction. Addiction: 0% chance of being addicted after the first use. 5% chance of being  addicted after every us |
+| 84 |Tar Shot ‐ Use: A dark fluid that is injected. Effect: Abundant energy and pleasure. Side Effect:  Aggressiveness and long‐term use leads to a breakdown in cognitive function. Addiction: 3% chance of  being addicted after first use. Chances go up 10% after every us |
+| 85 |Zuf ‐ Use: A dermal patch. Effects: Calm, dreamlike mental state. Side Effects: Increased body  temperature, erectile dysfunction, and irregular heartbeat. Addiction: 0% chance after the first use. 4%  after every us |
+| 86 |Looker ‐ Use: A gas that is inhaled. Effect: The user is sexually attracted to nearly everyone they see.  Side Effects: Long‐term use leads to severely reduced respiratory function. Addiction: 10% chance of being  addicted after first use. Chances go up by 10% every us |
+| 87 |Bang Bang ‐ Use: A indigo pill. Effects: Higher pleasure from and desire for physical touch and  heightened energy levels. Side Effects: Drowsiness, dizziness, fatigue, and nausea. Addiction: 10% chance  of being addicted after the first use. Chance increase by 5% after every us |
+| 88 |Gravy ‐ Use: powder or liquid that is often mixed with other food. Effects: Hallucinations, altered states  of being and unresponsiveness to reality. Side Effects: Loss of consciousness and widespread cellular  damage. Addiction: 2% chance of being addicted after the first use. 30% chance of being addicted after  every us |
+| 89 |Burner ‐ Use: A red spongy substance placed under the tongue. Effects: The user feels wave after wave  of euphoria and is flooded with adrenaline. Side Effects: Short‐term use leads to sudden dizzy spells and  blackouts. Long‐term use leads to insanity. Addiction: 100% chance of being addicted after first use. 5%  chance of death every us |
+| 90 |Grind ‐ Use: A gel rubbed on the skin that leaves an orange stain. Effect: Hallucinations and calmness.  Side Effects: Paranoia. Addiction: 15% chance of being addicted after first use. Chances go up 5% after  every us |
+| 91 |Dragon's Breath ‐ Use: A red spray that is ingested. Effects: Spiritual and transcendent experiences as well  as increased introspection. Side Effects: ever, chills, body aches, flu symptoms, and long‐term use leads to  permanent psychological damage. Addiction: 50% chance of being addicted after the first use. Chances  increase by 3% after every us |
+| 92 |Chippy Stick ‐ Use: A yellowish‐red compound compressed into a small stick that is slowly chewed. Effects:  Mild simulant. Side Effects: Stains teeth red and long‐term use leads to throat and jaw cancer. Addiction: 1%  chance of being addicted after first use. Chances of being addicted increase by 1% after every us |
+| 93 |Drip ‐ Use: A pale blue liquid dropped into the eyes. Effects: Intense feelings of happiness and self‐esteem.  Side Effects: Low blood pressure, kidney problems, and kidney stones. Addiction: 0% chance of being  addicted after first use. Chances of addiction go up 3% after every us |
+| 94 |Smolder ‐ Use: A heated liquid that is injected. Effects: Increased alertness and energy, as well as  enhanced empathy. Side Effects: Fever, unusual eye movements, jerky movements, and increased gambling,  sexual, or other overpowering urges. Addiction: 30% chance of being addicted after first use. Chances of  addiction go up 8% after every us |
+| 95 |Snif ‐ Use: A mist that is inhaled. Effects: Inflated self‐esteem and elevated mood. Side Effects: Confusion  or disorientation, muscle weakness, and bone pain. Addiction: 5% chance of being addicted after the first use.  10% chance of being addicted after every us |
+| 96 |Shunt ‐ Use: A yellow paste that is smeared in the nostrils. Effects: Excitement, energy and feelings of  affection. Side Effects: Strange dreams, the need to sleep for long periods of time, and violent behavior.  Addiction: 10% chance of being addicted after first use. Chances of addiction go up 1% after every us |
+| 97 |Feather Shot ‐ Use: A lighter than air gas that is injected. Effects: Deep relaxation and a sense of peace.  Side Effects: Severe depression and suicidal thoughts. Addiction: 0% chance of being addicted after first use.  Chances of addiction go up 7% after every us |
+| 98 |Fun in the Sun ‐ Use: A flax‐colored pill. Effects: A euphoric state of being and a distorted perception of  time. Side Effects: Easy bruising, red pin‐prick spots on the skin, bleeding gums. Addiction: 0% chance of  being addicted after the first use. 3% chance of being addicted after every us |
+| 99 |Ditch ‐ Use: A red dermal patch. Effects: Overestimation of strength, speed, and invulnerability. Side  Effects: High anxiety, paranoia, and isolation. Long‐term use leads to lung disorders, thyroid problems, and  liver disease. Addiction: 100% chance of being addicted after first us |
+| 100 |Flame Out ‐ Use: Burner’s lighter cousin it is a orangish‐red spongy substance placed under the tongue.  Effects: The user feels waves of euphoria and is flooded with adrenaline. Side Effects: Short‐term use leads to  occasional dizzy spells. Long‐term use leads to confusion and dementia. Addiction: 70% chance of being  addicted after first use. Chances of addiction go up 5% after every use. Note: Some governments give this  drug to their frontline soldier |
 
 # Cyberpunk The Book of Random Tables
 
@@ -22592,8 +22655,9 @@ Ship Names # 2
 ## names
 
 ### corporation names # 1
-
-| 1 |Tronomy|
+| d100| Name |
+|:--:|--|
+| 1 | Tronomy|
 | 2 |Telligeo|
 | 3 |Fintota|
 | 4 |Hoteligen|
@@ -22695,8 +22759,9 @@ Ship Names # 2
 | 100 |Prismaxic|
 
 ### corporation names # 2
-
-| 1 |Capriqorn|
+| d100| Name |
+|:--:|--|
+| 1 | Capriqorn|
 | 2 |Magneq|
 | 3 |Bioqem|
 | 4 |Conuvo|
@@ -22798,8 +22863,9 @@ Ship Names # 2
 | 100 |Alpteq|
 
 ### corporation names #
-
-| 1 |Tribeda|
+| d100| Name |
+|:--:|--|
+| 1 | Tribeda|
 | 2 |Qubeta|
 | 3 |Transactial|
 | 4 |Pharmetro|
@@ -22901,8 +22967,9 @@ Ship Names # 2
 | 100 |Cynor|
 
 ### corporation names #
-
-| 1 |Payetric|
+| d100| Name |
+|:--:|--|
+| 1 | Payetric|
 | 2 |Unoteq|
 | 3 |Stratexic|
 | 4 |Nimbous|
@@ -23004,8 +23071,9 @@ Ship Names # 2
 | 100 |Retinique|
 
 ### NIGHTCLUB NAMES
-
-| 1 |The Blue Max|
+| d100| Name |
+|:--:|--|
+| 1 | The Blue Max|
 | 2 |Spike’s|
 | 3 |Lisa’s|
 | 4 |Starlight|
@@ -23107,8 +23175,9 @@ Ship Names # 2
 | 100 |Bloom Sun|
 
 ### American Female Names #
-
-| 1 |Alana|
+| d100| Name |
+|:--:|--|
+| 1 | Alana|
 | 2 |Gianna|
 | 3 |Antonella|
 | 4 |Luciana|
@@ -23210,8 +23279,9 @@ Ship Names # 2
 | 100 |Everleigh|
 
 ### American Female Names #
-
-| 1 |Nayeli|
+| d100| Name |
+|:--:|--|
+| 1 | Nayeli|
 | 2 |Braelynn|
 | 3 |Journee|
 | 4 |Amari|
@@ -23313,8 +23383,9 @@ Ship Names # 2
 | 100 |Raegan|
 
 ### American Female Names #
-
-| 1 |Payton|
+| d100| Name |
+|:--:|--|
+| 1 | Payton|
 | 2 |Jennifer|
 | 3 |Mia|
 | 4 |Eliana|
@@ -23416,8 +23487,9 @@ Ship Names # 2
 | 100 |Zoey|
 
 ### American Female Names #
-
-| 1 |Haley|
+| d100| Name |
+|:--:|--|
+| 1 | Haley|
 | 2 |Elena|
 | 3 |Rylie|
 | 4 |Jazlyn|
@@ -23519,8 +23591,9 @@ Ship Names # 2
 | 100 |June|
 
 ### American Female Names #
-
-| 1 |Harley|
+| d100| Name |
+|:--:|--|
+| 1 | Harley|
 | 2 |Aviana|
 | 3 |Evangeline|
 | 4 |Adelaide|
@@ -23622,8 +23695,9 @@ Ship Names # 2
 | 100 |Alina|
 
 ### American male Names #
-
-| 1 |Karson|
+| d100| Name |
+|:--:|--|
+| 1 | Karson|
 | 2 |Myles|
 | 3 |Zion|
 | 4 |Hector|
@@ -23725,8 +23799,9 @@ Ship Names # 2
 | 100 |Andy|
 
 ### American male Names #
-
-| 1 |Alexander|
+| d100| Name |
+|:--:|--|
+| 1 | Alexander|
 | 2 |Rodrigo|
 | 3 |Angel|
 | 4 |Eduardo|
@@ -23828,8 +23903,9 @@ Ship Names # 2
 | 100 |Troy|
 
 ### American male Names #
-
-| 1 |Blake|
+| d100| Name |
+|:--:|--|
+| 1 | Blake|
 | 2 |Kash|
 | 3 |Jude|
 | 4 |Richard|
@@ -23931,8 +24007,9 @@ Ship Names # 2
 | 100 |Leon|
 
 ### American male Names #4
-
-| 1 |Josue|
+| d100| Name |
+|:--:|--|
+| 1 | Josue|
 | 2 |Maximiliano|
 | 3 |Warren|
 | 4 |Reed|
@@ -24034,8 +24111,9 @@ Ship Names # 2
 | 100 |Roman|
 
 ### American male Names #5
-
-| 1 |Hayes|
+| d100| Name |
+|:--:|--|
+| 1 | Hayes|
 | 2 |Beckett|
 | 3 |Jake|
 | 4 |Oliver|
@@ -24137,8 +24215,9 @@ Ship Names # 2
 | 100 |Brantley|
 
 ### European Female Names #1
-
-| 1 |Natalia|
+| d100| Name |
+|:--:|--|
+| 1 | Natalia|
 | 2 |Anastasia|
 | 3 |Zahra|
 | 4 |Uxue|
@@ -24240,8 +24319,9 @@ Ship Names # 2
 | 100 |Amy|
 
 ### European Female Names #2
-
-| 1 |Chloe|
+| d100| Name |
+|:--:|--|
+| 1 | Chloe|
 | 2 |Camille|
 | 3 |Kseniya|
 | 4 |Victoria|
@@ -24343,8 +24423,9 @@ Ship Names # 2
 | 100 |Nuray|
 
 European Female Names #3
-
-| 1 |Nina|
+| d100| Name |
+|:--:|--|
+| 1 | Nina|
 | 2 |Marie|
 | 3 |Catherine|
 | 4 |Raya|
@@ -24446,8 +24527,9 @@ European Female Names #3
 | 100 |Laia|
 
 European male Names #1
-
-| 1 |Charles|
+| d100| Name |
+|:--:|--|
+| 1 | Charles|
 | 2 |Zachary|
 | 3 |Mikel|
 | 4 |Nemanja|
@@ -24549,8 +24631,9 @@ European male Names #1
 | 100 |Amar|
 
 European male Names #2
-
-| 1 |Ilgar|
+| d100| Name |
+|:--:|--|
+| 1 | Ilgar|
 | 2 |Raphael|
 | 3 |Andriy|
 | 4 |Milan|
@@ -24652,8 +24735,9 @@ European male Names #2
 | 100 |Markel|
 
 European male Names #3
-
-| 1 |Ander|
+| d100| Name |
+|:--:|--|
+| 1 | Ander|
 | 2 |Tarik|
 | 3 |Balázs|
 | 4 |Álvaro|
@@ -24760,7 +24844,9 @@ ITEMS & 
 
 Items in a CorPorate Fat Cat Office
 
-| 1 | Golf  balls ( 1 D 20 )|
+| d100| Name |
+|:--:|--|
+| 1  | Golf  balls ( 1 D 20 )|
 | 2 | Secret panic room|
 | 3 | Haitian statue of a mother holding a baby|
 | 4 | Refrigerator|
@@ -24774,7 +24860,7 @@ Items in a CorPorate Fat Cat Office
 | 12 | Golf clubs ( 1 D 20 )|
 | 13 | Smartphone|
 | 14 | Chinese money plant|
-| 15 | Harvard class ring engraved with " WDC "
+| 15 | Harvard class ring engraved with " WDC "|
 | 16 | Small caliber pistol|
 | 17 | The Computer Takeover ( ookb )|
 | 18 | Old paper file on a corporate operative|
@@ -24790,7 +24876,7 @@ Items in a CorPorate Fat Cat Office
 | 28 | Faberge egg  with  a note hidden inside|
 | 29 | Maneki Neko|
 | 30 | Autographed picture of Steve Jobs|
-| 31 | Silver cigarette lighter engraved with "E. Y."
+| 31 | Silver cigarette lighter engraved with "E. Y."|
 | 32 | Cigar cutter|
 | 33 | The Art of Marketing ( ookb )|
 | 34 | Gold pocket watch|
@@ -24862,8 +24948,9 @@ Items in a CorPorate Fat Cat Office
 | 100 | Hidden microphone|
 
 Items in a DESK
-
-| 1 | Hairbrush|
+| d100| Name |
+|:--:|--|
+| 1  | Hairbrush|
 | 2 | How  to Quit Your Job (book)|
 | 3 | Tablet|
 | 4 |" avoy S 95 67  Cat" written on an old envelope|
@@ -24965,7 +25052,9 @@ Items in a DESK
 
 Items in a Hacker's Apartment
 
-| 1 | Hard drives ( 1 D 6 )|
+| d100| Name |
+|:--:|--|
+| 1  | Hard drives ( 1 D 6 )|
 | 2 | Oyster pail ( alf full h of fried rice)|
 | 3 | Understanding AI ( ookb )|
 | 4 | Smartwatch|
@@ -25067,8 +25156,9 @@ Items in a Hacker's Apartment
 | 100 | Computer monitor ( 43 ")|
 
 Items in a Nightclub Owner's Office
-
-| 1 | Turquoise bracelet|
+| d100| Name |
+|:--:|--|
+| 1  | Turquoise bracelet|
 | 2 | Wanted posters ( 1 D 4 )|
 | 3 | Overcoat|
 | 4 | Jumpdrive ( ist of  contactsl )|
@@ -25079,7 +25169,7 @@ Items in a Nightclub Owner's Office
 | 9 |" partment A 2397 " written on paper|
 | 10 | Hat|
 | 11 | Bottle of pills (unmarked)|
-| 12 | Gold Portuguese coin dated " 8461 "
+| 12 | Gold Portuguese coin dated " 8461 "|
 | 13 | Bonsai tree|
 | 14 | 672 US Dollars|
 | 15 | Carton of Cigarettes ( 1 D 8 )|
@@ -25171,7 +25261,9 @@ Items in a Nightclub Owner's Office
 
 Items in a Street Doc's Office
 
-| 1 | Small motors ( 1 D 8 )|
+| d100| Name |
+|:--:|--|
+| 1  | Small motors ( 1 D 8 )|
 | 2 | Mayo  scissors|
 | 3 | Bloodstained  100 US dollar  bill|
 | 4 | Costotome|
@@ -25273,8 +25365,9 @@ Items in a Street Doc's Office
 | 100 | Towel clamps|
 
 Global Street Food #1
-
-| 1 |Hot dog|
+| d100| Name |
+|:--:|--|
+| 1 | Hot dog|
 | 2 |Bhelpuri|
 | 3 |Breakfast burrito|
 | 4 |Bratwurst|
@@ -25376,8 +25469,9 @@ Global Street Food #1
 | 100 |Poisson cru|
 
 Global Street Food #2
-
-| 1 |Bakso|
+| d100| Name |
+|:--:|--|
+| 1 | Bakso|
 | 2 |Dürüm|
 | 3 |Jerk chicken|
 | 4 |Currywurst|
@@ -25478,13 +25572,14 @@ Global Street Food #2
 | 99 |Batata vada|
 | 100 |Gukhwappang|
 
-hacking & 
+## hacking & cybernetics
 
-cybernetics
-
-Results of Failed Hacking Roll
+### Results of Failed Hacking Roll
 
 
+
+| d100| Name |
+|:--:|--|
 | 1-2 |Corporate security notified 
 | 3-4 |The computer starts telling dad jokes 
 | 5-6 |SWAT team notified 
@@ -25534,11 +25629,12 @@ Results of Failed Hacking Roll
 | 93-94 |Temporary deafness ( 01 D 2  hours) 
 | 95-96 |Temporary paralysis ( 01 D 1  minutes) 
 | 97-98 |Mercenary unit notified 
-| 99-100 |The computer says, "Would you like to pay your bill ?"
+| 99-100 |The computer says, "Would you like to pay your bill ?"|
 
-Cybernetic Implant Side Effects
-
-| 1 |Nightmares|
+###  Cybernetic Implant Side Effects
+| d100| Name |
+|:--:|--|
+| 1 | Nightmares|
 | 2 |Lethargy|
 | 3 |Neck pain|
 | 4 |Fainting|
@@ -25639,224 +25735,216 @@ Cybernetic Implant Side Effects
 | 99 |Paranoia|
 | 100 |Lockjaw|
 
-encounters
+## encounters & rumors
 
-& rumors
+### Nightclub Encounters
 
-Nightclub Encounters
-
-| 1 | A  person spits in the face of one of the characters.
-| 2 | Police o ers enter and arrest a ffic patron.
-| 3 | A fight breaks out  right  next to the party.
-| 4 | A bartender smashes a bottle over the head of a patron.
-| 5 | A man drops a credstick near the party.
-| 6 | Someone attempts to pickpocket one of the characters.
-| 7 | An unconscious woman near the restrooms.
-| 8 | A heavily ‐tattooed man says one of the characters pushed him.
-| 9 | A woman crying in the corner.
-| 10 | Police raid  the  club.
-| 11 | An Ex spots one of the characters.
-| 12 | An unconscious man in the corner.
-| 13 | Someone tries to sell a gun to a character.
-| 14 | Someone approaches the party and tells them they are wanted in a backroom.
-| 15 | A gorgeous woman asks one character to play pool.
-| 16 | Several individuals wearing gang colors tell  the party they are sitting at their table.
-| 17 | A car crashes through the front of the club causing mayhem.
-| 18 | Someone tries to slip something a character ’s drink.
-| 19 | Gang raids the club.
-| 20 | Someone throws a drink into a character’s  face.
-| 21 | Corporate mercenary unit raids the club.
-| 22 | At a  secluded table, a person types fanatically on a computer.
-| 23 | A dog runs loose in the  club.
-| 24 | A person yells at one of the characters, then comes close and slips them a note before running out of the room.
-| 25 | Someone o rs  one character a ffe cigarette.
-| 26 | The power goes out and panic ensues.
-| 27 | DJ  pyrotechnics malfunction starting a ’s fire.
-| 28 | An older man desperately trying to look  young attempts to talk to every female member of the party.
-| 29 | A woman hands a character a credstick and slips into the crowd.
-| 30 | The DJ is having an off night. People begin to boo.
-| 31 | The music stops as the DJ appears to be checking his email. The crowd starts becoming unruly.
-| 32 | A man hands a microchip to a character and slips away.
-| 33 | A man crying in the corner.
+| d100| Name |
+|:--:|--|
+| 1  | A  person spits in the face of one of the character |
+| 2 | Police o ers enter and arrest a ffic patro |
+| 3 | A fight breaks out  right  next to the part |
+| 4 | A bartender smashes a bottle over the head of a patro |
+| 5 | A man drops a credstick near the part |
+| 6 | Someone attempts to pickpocket one of the character |
+| 7 | An unconscious woman near the restroom |
+| 8 | A heavily ‐tattooed man says one of the characters pushed hi |
+| 9 | A woman crying in the corne |
+| 10 | Police raid  the  clu |
+| 11 | An Ex spots one of the character |
+| 12 | An unconscious man in the corne |
+| 13 | Someone tries to sell a gun to a characte |
+| 14 | Someone approaches the party and tells them they are wanted in a backroo |
+| 15 | A gorgeous woman asks one character to play poo |
+| 16 | Several individuals wearing gang colors tell  the party they are sitting at their tabl |
+| 17 | A car crashes through the front of the club causing mayhe |
+| 18 | Someone tries to slip something a character ’s drin |
+| 19 | Gang raids the clu |
+| 20 | Someone throws a drink into a character’s  fac |
+| 21 | Corporate mercenary unit raids the clu |
+| 22 | At a  secluded table, a person types fanatically on a compute |
+| 23 | A dog runs loose in the  clu |
+| 24 | A person yells at one of the characters, then comes close and slips them a note before running out of the roo |
+| 25 | Someone o rs  one character a ffe cigarett |
+| 26 | The power goes out and panic ensue |
+| 27 | DJ  pyrotechnics malfunction starting a ’s fir |
+| 28 | An older man desperately trying to look  young attempts to talk to every female member of the part |
+| 29 | A woman hands a character a credstick and slips into the crow |
+| 30 | The DJ is having an off night. People begin to bo |
+| 31 | The music stops as the DJ appears to be checking his email. The crowd starts becoming unrul |
+| 32 | A man hands a microchip to a character and slips awa |
+| 33 | A man crying in the corne |
 | 34 | A fight breaks out in the  ladies room|
-| 35 | When a man is bumped into he fumbles a container and the surrounding area is treated to a shower of green pills.
-| 36 | The DJ walks out causing the crowd to get restless.
-| 37 | A dude just standing in the middle of the dance floor.
+| 35 | When a man is bumped into he fumbles a container and the surrounding area is treated to a shower of green pill |
+| 36 | The DJ walks out causing the crowd to get restles |
+| 37 | A dude just standing in the middle of the dance floo |
 | 38 | A fight breaks out in the  men’s room|
-| 39 | A celebrity holding court at a  corner table.
-| 40 | Someone mistakes a character for someone else and punches them.
-| 41 | The party witnesses a drug deal.
-| 42 | Someone loudly complains about the DJ. The DJ pulls a gun.
-| 43 | Bouncers get into a fight with some patrons.
-| 44 | Several patrons begin to heckle the DJ.
-| 45 | A drug deal goes  bad and a gun is  pulled. People panic.
+| 39 | A celebrity holding court at a  corner tabl |
+| 40 | Someone mistakes a character for someone else and punches the |
+| 41 | The party witnesses a drug dea |
+| 42 | Someone loudly complains about the DJ. The DJ pulls a gu |
+| 43 | Bouncers get into a fight with some patron |
+| 44 | Several patrons begin to heckle the D |
+| 45 | A drug deal goes  bad and a gun is  pulled. People pani |
 | 46 | A bouncer asks to see one character ’s ID|
-| 47 | An illegal fight club is being held in a backroom.
-| 48 | A person passed out at a  table.
-| 49 | Bouncers are keeping people out of  a certain backroom.
-| 50 | A light bar  falls, hurting several people.
-
-Nightclub Encounters
-
-| 51 |  Fight breaks out among rival gangs.
-| 52 | The party sees someone slipping something into another ’s drink.
-| 53 | The DJ motions to one of the characters and hands them a jumpdrive.
-| 54 | Small orange pills lie on the floor.
-| 55 | As a character sits down they notice a yellow pill on the chair.
-| 56 | Someone mistakes a character for someone else and begins screaming at them.
-| 57 | A bartender throws a drink in the face of one of the characters.
-| 58 | The bartender tells the party  their  drinks are on the house.
-| 59 | A person bumps into a character hard.
-| 60 | The selves of alcohol behind the bar  collapse causing a huge mess and injuring some people.
-| 61 | The party is given someone else drinks's.
-| 62 | Dueling DJs get into a fight.
-| 63 | A drug dealer offers the party  a variety of pills.
-| 64 | Illegal gambling is going on in a backroom.
-| 65 | An older woman desperately trying to look young attempts to talk to every male member of the party.
-| 66 | The crowd starts throwing bottles at the DJ.
-| 67 | A woman asks one character to dance.
-| 68 | A shadowy figure across the room  buys the party a round of drinks.
-| 69 | A popular DJ is playing tonight and the place is packed.
-| 70 | Bouncers tell one of the characters they have to get out.
-| 71 | A small bomb explodes across the room from the party.
-| 72 | A man begins to flirt with one character.
-| 73 | A bouncer says one character is not dressed appropriately and will have to leave.
-| 74 | As a character sits down they notice a credstick on the chair.
-| 75 | Bouncers toss out a drunk patron.
-| 76 | Someone on the dance floor pulls a gun.
-| 77 | A bartender pulls a gun on a patron.
-| 78 | A bouncer approaches the party and tells them  they haven ’t paid for their drinks.
+| 47 | An illegal fight club is being held in a backroo |
+| 48 | A person passed out at a  tabl |
+| 49 | Bouncers are keeping people out of  a certain backroo |
+| 50 | A light bar  falls, hurting several peopl |
+| 51 |  Fight breaks out among rival gang |
+| 52 | The party sees someone slipping something into another ’s drin |
+| 53 | The DJ motions to one of the characters and hands them a jumpdriv |
+| 54 | Small orange pills lie on the floo |
+| 55 | As a character sits down they notice a yellow pill on the chai |
+| 56 | Someone mistakes a character for someone else and begins screaming at the |
+| 57 | A bartender throws a drink in the face of one of the character |
+| 58 | The bartender tells the party  their  drinks are on the hous |
+| 59 | A person bumps into a character har |
+| 60 | The selves of alcohol behind the bar  collapse causing a huge mess and injuring some peopl |
+| 61 | The party is given someone else drinks' |
+| 62 | Dueling DJs get into a figh |
+| 63 | A drug dealer offers the party  a variety of pill |
+| 64 | Illegal gambling is going on in a backroo |
+| 65 | An older woman desperately trying to look young attempts to talk to every male member of the part |
+| 66 | The crowd starts throwing bottles at the D |
+| 67 | A woman asks one character to danc |
+| 68 | A shadowy figure across the room  buys the party a round of drink |
+| 69 | A popular DJ is playing tonight and the place is packe |
+| 70 | Bouncers tell one of the characters they have to get ou |
+| 71 | A small bomb explodes across the room from the part |
+| 72 | A man begins to flirt with one characte |
+| 73 | A bouncer says one character is not dressed appropriately and will have to leav |
+| 74 | As a character sits down they notice a credstick on the chai |
+| 75 | Bouncers toss out a drunk patro |
+| 76 | Someone on the dance floor pulls a gu |
+| 77 | A bartender pulls a gun on a patro |
+| 78 | A bouncer approaches the party and tells them  they haven ’t paid for their drink |
 | 79 | A bouncer says that they heard the party is threatening other club oers‐g|
-| 80 | A jumpdrive lying on the floor.
-| 81 | A person bumps into a character lightly.
-| 82 | A woman hands a jumpdrive to a  character and runs away.
-| 83 | A woman asks the party  to buy her  a drink.
-| 84 | A person hands a character a smartphone and runs away.
-| 85 | A man asks the party to buy him a drink.
-| 86 | A waitress tells the party  the owner would like to see them.
-| 87 | A bouncer says other  patrons think the party is a group of pickpockets.
-| 88 | One character sees  an ex.
-| 89 | A man hands one of the characters a crisp one hundred US dollar bill then disappears into the crowd.
-| 90 | A couple making out.
-| 91 | The bartender asks the party what they are drinking.
-| 92 | A Man asks one character dance.
-| 93 | A punk with a mohawk asks  one character to play pool.
-| 94 | A woman begins to flirt with one character.
-| 95 | A smartphone lying on the floor.
-| 96 | Someone mistakes a character for someone else and begins kissing them.
-| 97 | Someone in the crowd  throws a bottle that hits a character.
-| 98 | The music stops  abruptly and someone announces the club is closed.
-| 99 | A fight breaks out on the dance floor.
-| 100 | A couple screams at each other causing a scene.
+| 80 | A jumpdrive lying on the floo |
+| 81 | A person bumps into a character lightl |
+| 82 | A woman hands a jumpdrive to a  character and runs awa |
+| 83 | A woman asks the party  to buy her  a drin |
+| 84 | A person hands a character a smartphone and runs awa |
+| 85 | A man asks the party to buy him a drin |
+| 86 | A waitress tells the party  the owner would like to see the |
+| 87 | A bouncer says other  patrons think the party is a group of pickpocket |
+| 88 | One character sees  an e |
+| 89 | A man hands one of the characters a crisp one hundred US dollar bill then disappears into the crow |
+| 90 | A couple making ou |
+| 91 | The bartender asks the party what they are drinkin |
+| 92 | A Man asks one character danc |
+| 93 | A punk with a mohawk asks  one character to play poo |
+| 94 | A woman begins to flirt with one characte |
+| 95 | A smartphone lying on the floo |
+| 96 | Someone mistakes a character for someone else and begins kissing the |
+| 97 | Someone in the crowd  throws a bottle that hits a characte |
+| 98 | The music stops  abruptly and someone announces the club is close |
+| 99 | A fight breaks out on the dance floo |
+| 100 | A couple screams at each other causing a scen |
 
-Rumors and Odd Jobs
-
-| 1 | A  hacker group has taken control of a defense satellite.
-| 2 | The plans for a new tank design were stolen from the government.
-| 3 | Hackers breached the World Bank.
-| 4 | Separatist fighters seized an oil platform in the Gulf of Mexico.
-| 5 | A corporation has developed a new crime‐fighting technology.
-| 6 | A street food vendor needs help fending off some thugs.
-| 7 | Pirates seized a large yacht off the coast of Spain.
-| 8 | A reward is being o red for an arsonist working in the middleffe ‐class section of town. Seven  buildings have been torched so  far.
-| 9 | A prominent cybersecurity professional has disappeared.
-| 10 | A cybernetic implant shop was burglarized the other night. The owners are looking for help finding  the thieves.
-| 11 | A truly sentient AI is loose in the  global net.
-| 12 | A gang member asks the party to deliver a package to someone across town.
-| 13 | A corporate fat cat is looking to hire a team for the acquisition of some " xotic goodse ."
-| 14 | A corporate o er angling for a ffic promotion is looking for dirt on her rival.
-| 15 | A terrorist group seized a historic building in London.
-| 16 | A prototype microchip was stolen from a corporate research lab.
-| 17 | Hackers released the o nsive emails of several ffe popular actors and actresses.
-| 18 | A woman has been asking around nightclubs if anyone has seen her son.
-| 19 | Several art museums have reported recent thefts of ancient Chinese artifacts.
-| 20 | A data courier disappeared during a delivery.
-| 21 | The government is going to forcibly clear a slum in a few  days.
-| 22 | A young solo hacker disappeared a few days ago.
-| 23 | A corporate agent needs some government data. However, the government is not willing to share.
-| 24 | A street doc needs help collecting a bill from a former client.
-| 25 | A trash pickup service is actually a cover for a smuggling ring.
-| 26 | Several high ro‐p file celebrities were killed in a flying car crash.
-| 27 | Police busted a large  drug  ring.
-| 28 | A private detective asks the party to investigate a nightclub that burned down killing several dozen  people.
-| 29 | Separatist fighters seized an airport in South Korea.
-| 30 | A hacker group is threatening to " arkend " the Los Angeles Metroplex.
-| 31 | A border dispute between South Sudan and Sudan flared up recently. Both sides are hiring fighters.
-| 32 | A local nightclub owner claims to have a map of a corporate HQ building showing a hidden  thirteenth floor.
-| 33 | Jewel heist turned deadly in Peru and authorities are looking for several suspects who murdered  three guards.
-| 34 | A street doc is looking to hire a  team  for  some work.
-| 35 | Several corporate honchos were killed in a flying car crash. Word is it was no accident.
-| 36 | A corporate agent needs a data courier to make a delivery to a safe house in another city.
-| 37 | A terrorist group seized a governmental building in Hong Kong.
-| 38 | A local nightclub owner found a silver pocket watch while cleaning up. It seems to have a data chip  inside.
-| 39 | A dead body was discovered in an alley. On it was a secured laptop, a butterfly knife, and a map of  a city with several locations highlighted.
-| 40 | A street vendor asks the party to deliver a package to a police station.
-| 41 | A nightclub is hiring extra security for  a big live show.
-| 42 | Pirates seized a container ship off the  coast  of Somalia.
-| 43 | The plans for a new aircraft design were stolen from a corporation.
-
-Rumors and Odd Jobs
-
-| 44 | A  brazen daylight raid  on a  corporate HQ resulted with the robbers making off with  100  million dollars  in cash and data assets.
-| 45 | A fired corporate exec is looking to hire a team for a job.
-| 46 | A local nightclub ’s booze shipment was hijacked.
-| 47 | Rebel fighters seized a town in Hungary.
-| 48 | A group of hackers has been gathering every night this month at a certain club.
-| 49 | The president of South Africa survived an assassination attempt.
-| 50 | A garment sweatshop with deplorable conditions is operating nearby.
-| 51 | Two corporations are on the verge of a hot war.
-| 52 | A prominent politician ’s daughter has been reported missing.
-| 53 | Police raided a street doc  o’s effic.
-| 54 | A mysterious figure asks the party to deliver a jumpdrive to a certain corporate o effic.
-| 55 | A madman ran through the streets last night yelling, " ey own usTh ! They own us! They bought us all!" No one has seen him since.
-| 56 | A computer programmer, now flush with cash, has  dreams of building his own "consulting" company. He’s looking to hire operators for several jobs.
-| 57 | Container shipwreck washed up on the coast of Algeria.
-| 58 | A corporate ‐trained " sseta " has gone rogue.
-| 59 | A restaurant manager asks the party to deliver food to a "special client."
-| 60 | A corporate goon is quietly hiring operators for something big.
-| 61 | Several corporations are looking for the creator of a new virus. They want to " ave a h chat."
-| 62 | Separatist fighters seized an airship over Berlin.
-| 63 | A casino dealer needs help finding a patron who left a gold watch at his table.
-| 64 | A professor is looking to hire someone to deliver a book to a swanky penthouse.
-| 65 | A new highly ‐addictive drug is on the street and users are not faring too well.
-| 66 | A high ro‐p file corporate worker wants to defect and needs to hire protection.
-| 67 | A shadowy figure needs help getting access to a  certain set of satellite images. She is paying well.
-| 68 | Three billion euros worth of gold bullion is missing from a reserve in Paris.
-| 69 | The police mainframe was hacked and tens of thousands of records were stolen.
-| 70 | A high anking government o‐r ial ffic has been kidnapped.
-| 71 | An armored car heist was  foiled  by corporate security.
-| 72 | A new gang is shaking down small shop owners.
-| 73 | A terrorist group seized an o e building in San Franciscoffic.
-| 74 | Pirates seized an oil tanker off the  coast  of Thailand.
-| 75 | A down ‐on‐his‐luck  hacker has been bragging about a big  score.
-| 76 | Police busted a large illegal trade ring.
-| 77 | A rogue corporate merc unit is assassinating former employers.
-| 78 | A merc unit is searching for a corporate defector.
-| 79 | Hackers stole information concerning a new disease.
-| 80 | Rebel fighters seized a small  city  in Arizona.
-| 81 | Rebel fighters seized a village in France.
-| 82 | Hackers breached the security of the US Federal Reserve Bank.
-| 83 | Weapon shop owner asks the party to deliver a package to a client.
-| 84 | Rebel fighters seized a small city in Brazil.
-| 85 | A border dispute between Croatia and Montenegro flared up recently. Both sides are hiring fighters.
-| 86 | The Io Mining Company is hiring. A series of rigorous physical requirements must be met.
-| 87 | A politician reaches out to the party for " ome helps " with a rival.
-| 88 | Rumor has it that the state un lottery is ‐r rigged. Only the rich win, yet the poor  play more often.
-| 89 | A corporation is hiring guards for  a special shipment of chemicals.
-| 90 | A massive container ship disappeared in a storm in the Indian Ocean.
-
-Rumors and Odd Jobs
-
-| 91 | Unions plan on staging a citywide strike in the  coming days.
-| 92 | New candy is poisoning children.
-| 93 | A low evel ‐l hacker is trying to sell a map of the city sewers.
-| 94 | Someone is paying high prices for Egyptian artifacts.
-| 95 | The plans for a new spacecraft design were stolen from a design firm.
-| 96 | A bounty has been placed on a  hacker who  stole data from a new startup.
-| 97 | The street children seem to be  more organized recently.
-| 98 | Illegal arms shipment seized in Kinshasa by police was stolen by an unknown assault unit.
-| 99 | Data breach exposed personal data of  300  million people.
-| 100 | Corporate agents are visiting the slums looking for " olunteersv ." Volunteers for what is unclear.
+### Rumors and Odd Jobs
+| d100| Name |
+|:--:|--|
+| 1  | A  hacker group has taken control of a defense satellit |
+| 2 | The plans for a new tank design were stolen from the governmen |
+| 3 | Hackers breached the World Ban |
+| 4 | Separatist fighters seized an oil platform in the Gulf of Mexic |
+| 5 | A corporation has developed a new crime‐fighting technolog |
+| 6 | A street food vendor needs help fending off some thug |
+| 7 | Pirates seized a large yacht off the coast of Spai |
+| 8 | A reward is being o red for an arsonist working in the middleffe ‐class section of town. Seven  buildings have been torched so  fa |
+| 9 | A prominent cybersecurity professional has disappeare |
+| 10 | A cybernetic implant shop was burglarized the other night. The owners are looking for help finding  the thieve |
+| 11 | A truly sentient AI is loose in the  global ne |
+| 12 | A gang member asks the party to deliver a package to someone across tow |
+| 13 | A corporate fat cat is looking to hire a team for the acquisition of some " xotic goodse ."|
+| 14 | A corporate o er angling for a ffic promotion is looking for dirt on her riva |
+| 15 | A terrorist group seized a historic building in Londo |
+| 16 | A prototype microchip was stolen from a corporate research la |
+| 17 | Hackers released the o nsive emails of several ffe popular actors and actresse |
+| 18 | A woman has been asking around nightclubs if anyone has seen her so |
+| 19 | Several art museums have reported recent thefts of ancient Chinese artifact |
+| 20 | A data courier disappeared during a deliver |
+| 21 | The government is going to forcibly clear a slum in a few  day |
+| 22 | A young solo hacker disappeared a few days ag |
+| 23 | A corporate agent needs some government data. However, the government is not willing to shar |
+| 24 | A street doc needs help collecting a bill from a former clien |
+| 25 | A trash pickup service is actually a cover for a smuggling rin |
+| 26 | Several high ro‐p file celebrities were killed in a flying car cras |
+| 27 | Police busted a large  drug  rin |
+| 28 | A private detective asks the party to investigate a nightclub that burned down killing several dozen  peopl |
+| 29 | Separatist fighters seized an airport in South Kore |
+| 30 | A hacker group is threatening to " arkend " the Los Angeles Metrople |
+| 31 | A border dispute between South Sudan and Sudan flared up recently. Both sides are hiring fighter |
+| 32 | A local nightclub owner claims to have a map of a corporate HQ building showing a hidden  thirteenth floo |
+| 33 | Jewel heist turned deadly in Peru and authorities are looking for several suspects who murdered  three guard |
+| 34 | A street doc is looking to hire a  team  for  some wor |
+| 35 | Several corporate honchos were killed in a flying car crash. Word is it was no acciden |
+| 36 | A corporate agent needs a data courier to make a delivery to a safe house in another cit |
+| 37 | A terrorist group seized a governmental building in Hong Kon |
+| 38 | A local nightclub owner found a silver pocket watch while cleaning up. It seems to have a data chip  insid |
+| 39 | A dead body was discovered in an alley. On it was a secured laptop, a butterfly knife, and a map of  a city with several locations highlighte |
+| 40 | A street vendor asks the party to deliver a package to a police statio |
+| 41 | A nightclub is hiring extra security for  a big live sho |
+| 42 | Pirates seized a container ship off the  coast  of Somali |
+| 43 | The plans for a new aircraft design were stolen from a corporatio |
+| 44 | A  brazen daylight raid  on a  corporate HQ resulted with the robbers making off with  100  million dollars  in cash and data asset |
+| 45 | A fired corporate exec is looking to hire a team for a jo |
+| 46 | A local nightclub ’s booze shipment was hijacke |
+| 47 | Rebel fighters seized a town in Hungar |
+| 48 | A group of hackers has been gathering every night this month at a certain clu |
+| 49 | The president of South Africa survived an assassination attemp |
+| 50 | A garment sweatshop with deplorable conditions is operating nearb |
+| 51 | Two corporations are on the verge of a hot wa |
+| 52 | A prominent politician ’s daughter has been reported missin |
+| 53 | Police raided a street doc  o’s effi |
+| 54 | A mysterious figure asks the party to deliver a jumpdrive to a certain corporate o effi |
+| 55 | A madman ran through the streets last night yelling, " ey own usTh ! They own us! They bought us all!" No one has seen him sinc |
+| 56 | A computer programmer, now flush with cash, has  dreams of building his own "consulting" company. He’s looking to hire operators for several job |
+| 57 | Container shipwreck washed up on the coast of Algeri |
+| 58 | A corporate ‐trained " sseta " has gone rogu |
+| 59 | A restaurant manager asks the party to deliver food to a "special client."|
+| 60 | A corporate goon is quietly hiring operators for something bi |
+| 61 | Several corporations are looking for the creator of a new virus. They want to " ave a h chat."|
+| 62 | Separatist fighters seized an airship over Berli |
+| 63 | A casino dealer needs help finding a patron who left a gold watch at his tabl |
+| 64 | A professor is looking to hire someone to deliver a book to a swanky penthous |
+| 65 | A new highly ‐addictive drug is on the street and users are not faring too wel |
+| 66 | A high ro‐p file corporate worker wants to defect and needs to hire protectio |
+| 67 | A shadowy figure needs help getting access to a  certain set of satellite images. She is paying wel |
+| 68 | Three billion euros worth of gold bullion is missing from a reserve in Pari |
+| 69 | The police mainframe was hacked and tens of thousands of records were stole |
+| 70 | A high anking government o‐r ial ffic has been kidnappe |
+| 71 | An armored car heist was  foiled  by corporate securit |
+| 72 | A new gang is shaking down small shop owner |
+| 73 | A terrorist group seized an o e building in San Franciscoffi |
+| 74 | Pirates seized an oil tanker off the  coast  of Thailan |
+| 75 | A down ‐on‐his‐luck  hacker has been bragging about a big  scor |
+| 76 | Police busted a large illegal trade rin |
+| 77 | A rogue corporate merc unit is assassinating former employer |
+| 78 | A merc unit is searching for a corporate defecto |
+| 79 | Hackers stole information concerning a new diseas |
+| 80 | Rebel fighters seized a small  city  in Arizon |
+| 81 | Rebel fighters seized a village in Franc |
+| 82 | Hackers breached the security of the US Federal Reserve Ban |
+| 83 | Weapon shop owner asks the party to deliver a package to a clien |
+| 84 | Rebel fighters seized a small city in Brazi |
+| 85 | A border dispute between Croatia and Montenegro flared up recently. Both sides are hiring fighter |
+| 86 | The Io Mining Company is hiring. A series of rigorous physical requirements must be me |
+| 87 | A politician reaches out to the party for " ome helps " with a riva |
+| 88 | Rumor has it that the state un lottery is ‐r rigged. Only the rich win, yet the poor  play more ofte |
+| 89 | A corporation is hiring guards for  a special shipment of chemical |
+| 90 | A massive container ship disappeared in a storm in the Indian Ocea |
+| 91 | Unions plan on staging a citywide strike in the  coming day |
+| 92 | New candy is poisoning childre |
+| 93 | A low evel ‐l hacker is trying to sell a map of the city sewer |
+| 94 | Someone is paying high prices for Egyptian artifact |
+| 95 | The plans for a new spacecraft design were stolen from a design fir |
+| 96 | A bounty has been placed on a  hacker who  stole data from a new startu |
+| 97 | The street children seem to be  more organized recentl |
+| 98 | Illegal arms shipment seized in Kinshasa by police was stolen by an unknown assault uni |
+| 99 | Data breach exposed personal data of  300  million peopl |
+| 100 | Corporate agents are visiting the slums looking for " olunteersv ." Volunteers for what is unclea |
 
 # Cyberpunk 2 The Book of Random Tables
 
@@ -25919,119 +26007,119 @@ Matt Davids 12 /22/
 News Chatter
 
 ##### News Chatter -:-:- 8- News Chatter
-
-| 1 |Money laundering kingpin reportedly apprehended in Bangui.
-| 2 |An unidentified aircraft reportedly bombed an office building in Kuala Lumpur. Details are scant. How- ever, sources on the ground claim the attack could be part of a widening corporate war.
-| 3 |Singapore will be the next host of CyberwarCon.
-| 4 |Recent bombing in Vientiane seemingly tied to a corporate land rights struggle.
-| 5 |Former Argentinian president arrested in Prague on tax and various corruption charges.
-| 6 |Corporate civil war spills over into the streets of Seoul. Reports of death and injuries are coming in as people flee the chaos.
-| 7 |Hurricane ravaged New Orleans sees historic flooding and loss of life.
-| 8 |Monorail derailment in Mexico City causes chaos. Initial reports say it was an accident. However, investi- gators are still rushing to the scene.
-| 9 |Food riots turn deadly in Seattle. Reports of gunfire and people being trampled are all the information at this time.
-| 10 |Hackers reportedly gained access to the global satellite network for 17 minutes earlier this month be- fore being locked out. Authorities are not confirming whether any data was stolen or not.
-| 11 |Reports of a coup attempt in Burkina Faso have left African financial markets reeling.
-| 12 |Paramilitary commandos seized a natural gas pipeline outside of Pretoria.
-| 13 |As police in Madrid break up an international hacking ring four officers and more than 20 suspects are reported dead. More than four hundred arrests have been made with more to come in the following days according to officials on the ground.
-| 14 |Miami corporate data center reportedly under attack by masked gunmen.
-| 15 |Global markets jittery as cryptocurrencies slide.
-| 16 |A grisly scene unfolds in Cairo today as authorities discover a warehouse containing more than 300 bod- ies. At this time little is known of the victims or their murders.
-| 17 |Turkmenistan, Uzbekistan, Kazakhstan inch closer to war as news spreads of recent arms purchases by the three nations.
-| 18 |Mass casualties reported in Jakarta. Suicide bomber suspected.
-| 19 |Officials in Dhaka say ceasefire talks between the Bangladeshi government and rebel fighters are close to breaking down after another attack on a port facility in Chittagong.
-| 20 |An earthquake in Ulaanbaatar displaces thousands and damages a large part of the city. The official death toll at this time stands at 291 but is expected to soar in the coming days.
-| 21 |Corporation convoy reported missing in rural Azerbaijan.
-| 22 |Lisbon was the scene of more than 50 arrests today as authorities searched for the ringleaders of an international cryptocurrency scam.
-| 23 |Recent disappearance of a Nigerian nuclear scientist now reportedly linked to a Stockholm-based terror group.
-| 24 |Officials close to the source indicate that the city of Orlando will be placed entirely under corporation control by the end of the month. Reports also say that the current democratically elected mayor left the city last evening.
-| 25 |An illegal arms deal gone wrong leads to a trail of death and destruction across the city of Belgrade.
-| 26 |Tsunami pounds islands in Indonesia. Hundreds of thousands feared dead.
-| 27 |Dow Jones plunged on eve of major corporation bankruptcy announcement.
-| 28 |Large drone crashes into Eiffel Tower. More details to come.
-| 29 |Renewed crackdowns on the sewer people of Bucharest spark violence and unrest in the city.
-| 30 |For the third straight week, New York City is crippled by widespread power outages.
-| 31 |Reports say one of the largest banks in Montevideo is currently under cyberattack.
-| 32 |Corporate mercenary units have laid siege to the Jumgal District capital of Chaek in Kyrgyzstan. Kyrgyz- stani officials report they are rushing aid to the besieged town, but fear it will have to surrender before the help arrives.
-| 33 |Sierra Leone and Guinea have announced a ceasefire in their decade long territorial conflict.
-
-##### News Chatter
-
-| 34 |Billionaire CEO found dead in an Ashgabat alleyway. Cause of death is being withheld at this time.
-| 35 |Officials in Panama report that an attempt to seize the Panama Canal was thwarted. The attackers are only described as mercenaries and seemed to have had air, sea, and land craft at their disposal. Officials also wish to express their gratitude for the sacrifice and bravery of the Panian army in the course of the conflict.
-| 36 |Officials in Kathmandu issued a statement saying hackers may have drained the country’s entire trea- sury.
-| 37 |Hackers demand ransom after claiming to control the entire Moscow traffic grid.
-| 38 |High-rise fire in Mumbai feared to be terrorist attack. The death toll could reach into the thousands.
-| 39 |Prominent official kidnapped in Guatemala City. A terrorist group is suspected.
-| 40 |The corporate oil war intensifies as rivals struggle for control of several refineries near Tripoli.
-| 41 |A corporate vice president was said to be the target in an attack that killed 12 in Antananarivo.
-| 42 |New wave of violence erupts as the Brazilian brush wars ceasefire falls apart.
-| 43 |Asian markets down after poor earnings reports.
-| 44 |Band of data couriers believed to be hiding in Casablanca after corporate and governmental authorities alerted to illegal activities.
-| 45 |Public outcry after video of armed gangs executing police officers in Tokyo was released.
-| 46 |A series of explosions rocked London in the early AM today. Chaos and confusion reign as authorities search for the perpetrators and the wounded are treated and the dead are counted.
-| 47 |Officials in Honduras report an aircraft crash near the outskirts of Tegucigalpa. No survivors are expect- ed.
-| 48 |The kidnapping of a high-ranking German official in Paramaribo has trade negotiations between Euro- pean and South American countries on the verge of collapse.
-| 49 |The city of Warsaw is in flames tonight as mass protests concerning corporate and police brutalities rage nearly unchecked.
-| 50 |Cape Verde reports a data breach in the gambling servers housed in the island nation.
-| 51 |Havana nightclub fire kills dozens.
-| 52 |Knife-wielding attackers kill 92 and injure scores more in Beijing before being killed by security forces.
-| 53 |Carnage in the city. San Diego’s crimewave continues with 234 murders in 24 hours.
-| 54 |Bridge collapse in Chicago leaves dozens missing and feared dead.
-| 55 |Alleged corporate bombmaker shot dead in Port Vila, Vanuatu.
-| 56 |Riots in Rome have reportedly forced the mayor into hiding.
-| 57 |Famed painting stolen from a Copenhagen museum in a daring daytime raid.
-| 58 |Military convoy attacked near Los Angeles. A military spokesman would neither confirm nor deny if anything was stolen.
-| 59 |Azerbaijani tanks rolled into Artsakh in the early morning hours in an apparent attempt to reclaim the breakaway republic.
-| 60 |Iranian oil tanker vanishes seemingly without a trace in the Indian Ocean.
-| 61 |Brazen US Treasury data thieves reportedly traced to Harare.
-| 62 |Cargo ship explodes in the port of Douala. Dozens are feared dead. No word as yet on the identity of the vessel or its cargo.
-| 63 |Woman blows herself up rather than be captured in Quito. Authorities say she is wanted in connection with a data-mining scheme.
-| 64 |Mali set to issue new foreign bonds, though investors are skittish.
-| 65 |Outbreak feared in Nouakchott. Leaders plead for corporate assistance in containing the spread of the disease.
-| 66 |Casino heist in Monaco leaves authorities searching for suspects who may have stolen upwards of two hundred million dollars.
-| 67 |Daring corporate raid on hacker den in Port Moresby yields petabytes of stolen information.
-| 68 |Chemical plant explosion in Hanoi leaves a deadly cloud over the city. Residents forced to flee.
+| d100| Name |
+|:--:|--|
+| 1 | Money laundering kingpin reportedly apprehended in Bangu |
+| 2 |An unidentified aircraft reportedly bombed an office building in Kuala Lumpur. Details are scant. How- ever, sources on the ground claim the attack could be part of a widening corporate wa |
+| 3 |Singapore will be the next host of CyberwarCo |
+| 4 |Recent bombing in Vientiane seemingly tied to a corporate land rights struggl |
+| 5 |Former Argentinian president arrested in Prague on tax and various corruption charge |
+| 6 |Corporate civil war spills over into the streets of Seoul. Reports of death and injuries are coming in as people flee the chao |
+| 7 |Hurricane ravaged New Orleans sees historic flooding and loss of lif |
+| 8 |Monorail derailment in Mexico City causes chaos. Initial reports say it was an accident. However, investi- gators are still rushing to the scen |
+| 9 |Food riots turn deadly in Seattle. Reports of gunfire and people being trampled are all the information at this tim |
+| 10 |Hackers reportedly gained access to the global satellite network for 17 minutes earlier this month be- fore being locked out. Authorities are not confirming whether any data was stolen or no |
+| 11 |Reports of a coup attempt in Burkina Faso have left African financial markets reelin |
+| 12 |Paramilitary commandos seized a natural gas pipeline outside of Pretori |
+| 13 |As police in Madrid break up an international hacking ring four officers and more than 20 suspects are reported dead. More than four hundred arrests have been made with more to come in the following days according to officials on the groun |
+| 14 |Miami corporate data center reportedly under attack by masked gunme |
+| 15 |Global markets jittery as cryptocurrencies slid |
+| 16 |A grisly scene unfolds in Cairo today as authorities discover a warehouse containing more than 300 bod- ies. At this time little is known of the victims or their murder |
+| 17 |Turkmenistan, Uzbekistan, Kazakhstan inch closer to war as news spreads of recent arms purchases by the three nation |
+| 18 |Mass casualties reported in Jakarta. Suicide bomber suspecte |
+| 19 |Officials in Dhaka say ceasefire talks between the Bangladeshi government and rebel fighters are close to breaking down after another attack on a port facility in Chittagon |
+| 20 |An earthquake in Ulaanbaatar displaces thousands and damages a large part of the city. The official death toll at this time stands at 291 but is expected to soar in the coming day |
+| 21 |Corporation convoy reported missing in rural Azerbaija |
+| 22 |Lisbon was the scene of more than 50 arrests today as authorities searched for the ringleaders of an international cryptocurrency sca |
+| 23 |Recent disappearance of a Nigerian nuclear scientist now reportedly linked to a Stockholm-based terror grou |
+| 24 |Officials close to the source indicate that the city of Orlando will be placed entirely under corporation control by the end of the month. Reports also say that the current democratically elected mayor left the city last evenin |
+| 25 |An illegal arms deal gone wrong leads to a trail of death and destruction across the city of Belgrad |
+| 26 |Tsunami pounds islands in Indonesia. Hundreds of thousands feared dea |
+| 27 |Dow Jones plunged on eve of major corporation bankruptcy announcemen |
+| 28 |Large drone crashes into Eiffel Tower. More details to com |
+| 29 |Renewed crackdowns on the sewer people of Bucharest spark violence and unrest in the cit |
+| 30 |For the third straight week, New York City is crippled by widespread power outage |
+| 31 |Reports say one of the largest banks in Montevideo is currently under cyberattac |
+| 32 |Corporate mercenary units have laid siege to the Jumgal District capital of Chaek in Kyrgyzstan. Kyrgyz- stani officials report they are rushing aid to the besieged town, but fear it will have to surrender before the help arrive |
+| 33 |Sierra Leone and Guinea have announced a ceasefire in their decade long territorial conflic |
 
 ##### News Chatter
 
-| 69 |Global stock markets soar as the announcement of a major corporate merger looms.
-| 70 |Illegal arms dealer and a high-profile client believed to be trapped by corporate security forces in Asun- ción compound.
-| 71 |Lesotho reportedly offered sanctuary to alleged corporate embezzler.
-| 72 |US Congress approved a 4.8 trillion dollar corporate bailout.
-| 73 |Explosion in Algiers leaves hundreds dead.
-| 74 |In an early morning raid, gunmen seized control of a broadcasting tower in Addis Ababa.
-| 75 |UN Peacekeeper convoy ambushed and slaughtered outside Mogadishu.
-| 76 |A submarine carrying approximately 3 tons of heroin was captured off the coast of San Francisco.
-| 77 |Office building collapsed in Maputo. Rescuers are on the scene. No word yet on casualties.
-| 78 |Train derailment in Nairobi spills chemicals that sicken thousands.
-| 79 |A car bomb detonated in downtown Denver killed several hundred. Authorities have locked down the city.
-| 80 |Oslo was the scene of carnage this morning as a paramilitary group raided the main courthouse. Early reports claim the group freed a prisoner awaiting trial.
-| 81 |Powerful storm damages buildings and brings the streets to a halt in New Delhi.
-| 82 |The Saudi king has invited the foreign ministers of several regional powers to a conference in Riyadh. The move could be seen as hostile by Iran.
-| 83 |Famed corporate mercenary leader found dead in Asmara.
-| 84 |Man shot dead in Red Square now linked to a string of bank robberies across Europe.
-| 85 |Archeological discovery could lead to corporate war in Cambodia.
-| 86 |Oil spill forces Sydney harbor to close.
-| 87 |An early morning armored car convoy heist leaves the streets of Vienna awash with blood. Authorities say a corporate convoy of eight armored vehicles was assaulted and at least six of them were stolen. Most of the dead are believed to be civilians.
-| 88 |Cryptocurrency billionaire to hold private summit with key world leaders in Brussels.
-| 89 |Man with ties to terror group captured after stunning chase through the streets of Niamey.
-| 90 |Late-night gun rampage leaves 47 dead in Bangkok.
-| 91 |Russian satellite set to crash in the Gobi desert later this week.
-| 92 |Massive data breach at the Pentagon could put all US military activities in Africa in jeopardy.
-| 93 |Infamous hacker arrested in Ankara this morning. The United States is said to have already asked for quick extradition.
-| 94 |A British national was arrested in Amsterdam carrying a million dollars in cash and a case full of illegal microchips. Authorities are said to be scouring the individual’s recent travels and business dealings.
-| 95 |Bombing in a Manila marketplace kills more than 300.
-| 96 |Brazilian organized crime syndicate believed to be behind recent cyberware hacking incidents of high-ranking government officials.
-| 97 |New round of vaccinations in Chad halted as security concerns grow.
-| 98 |Rare Chinese vase auction sparks intense bidding war.
-| 99 |Sectarian conflict erupts into violence in Baghdad. The majority of the city is now locked down.
-| 100 |Drone attack on several vehicles in Lagos left at least 16 dead. The victims have yet to be identified.
+| 34 |Billionaire CEO found dead in an Ashgabat alleyway. Cause of death is being withheld at this tim |
+| 35 |Officials in Panama report that an attempt to seize the Panama Canal was thwarted. The attackers are only described as mercenaries and seemed to have had air, sea, and land craft at their disposal. Officials also wish to express their gratitude for the sacrifice and bravery of the Panian army in the course of the conflic |
+| 36 |Officials in Kathmandu issued a statement saying hackers may have drained the country’s entire trea- sur |
+| 37 |Hackers demand ransom after claiming to control the entire Moscow traffic gri |
+| 38 |High-rise fire in Mumbai feared to be terrorist attack. The death toll could reach into the thousand |
+| 39 |Prominent official kidnapped in Guatemala City. A terrorist group is suspecte |
+| 40 |The corporate oil war intensifies as rivals struggle for control of several refineries near Tripol |
+| 41 |A corporate vice president was said to be the target in an attack that killed 12 in Antananariv |
+| 42 |New wave of violence erupts as the Brazilian brush wars ceasefire falls apar |
+| 43 |Asian markets down after poor earnings report |
+| 44 |Band of data couriers believed to be hiding in Casablanca after corporate and governmental authorities alerted to illegal activitie |
+| 45 |Public outcry after video of armed gangs executing police officers in Tokyo was release |
+| 46 |A series of explosions rocked London in the early AM today. Chaos and confusion reign as authorities search for the perpetrators and the wounded are treated and the dead are counte |
+| 47 |Officials in Honduras report an aircraft crash near the outskirts of Tegucigalpa. No survivors are expect- e |
+| 48 |The kidnapping of a high-ranking German official in Paramaribo has trade negotiations between Euro- pean and South American countries on the verge of collaps |
+| 49 |The city of Warsaw is in flames tonight as mass protests concerning corporate and police brutalities rage nearly unchecke |
+| 50 |Cape Verde reports a data breach in the gambling servers housed in the island natio |
+| 51 |Havana nightclub fire kills dozen |
+| 52 |Knife-wielding attackers kill 92 and injure scores more in Beijing before being killed by security force |
+| 53 |Carnage in the city. San Diego’s crimewave continues with 234 murders in 24 hour |
+| 54 |Bridge collapse in Chicago leaves dozens missing and feared dea |
+| 55 |Alleged corporate bombmaker shot dead in Port Vila, Vanuat |
+| 56 |Riots in Rome have reportedly forced the mayor into hidin |
+| 57 |Famed painting stolen from a Copenhagen museum in a daring daytime rai |
+| 58 |Military convoy attacked near Los Angeles. A military spokesman would neither confirm nor deny if anything was stole |
+| 59 |Azerbaijani tanks rolled into Artsakh in the early morning hours in an apparent attempt to reclaim the breakaway republi |
+| 60 |Iranian oil tanker vanishes seemingly without a trace in the Indian Ocea |
+| 61 |Brazen US Treasury data thieves reportedly traced to Harar |
+| 62 |Cargo ship explodes in the port of Douala. Dozens are feared dead. No word as yet on the identity of the vessel or its carg |
+| 63 |Woman blows herself up rather than be captured in Quito. Authorities say she is wanted in connection with a data-mining schem |
+| 64 |Mali set to issue new foreign bonds, though investors are skittis |
+| 65 |Outbreak feared in Nouakchott. Leaders plead for corporate assistance in containing the spread of the diseas |
+| 66 |Casino heist in Monaco leaves authorities searching for suspects who may have stolen upwards of two hundred million dollar |
+| 67 |Daring corporate raid on hacker den in Port Moresby yields petabytes of stolen informatio |
+| 68 |Chemical plant explosion in Hanoi leaves a deadly cloud over the city. Residents forced to fle |
+| 69 |Global stock markets soar as the announcement of a major corporate merger loom |
+| 70 |Illegal arms dealer and a high-profile client believed to be trapped by corporate security forces in Asun- ción compoun |
+| 71 |Lesotho reportedly offered sanctuary to alleged corporate embezzle |
+| 72 |US Congress approved a 4.8 trillion dollar corporate bailou |
+| 73 |Explosion in Algiers leaves hundreds dea |
+| 74 |In an early morning raid, gunmen seized control of a broadcasting tower in Addis Abab |
+| 75 |UN Peacekeeper convoy ambushed and slaughtered outside Mogadish |
+| 76 |A submarine carrying approximately 3 tons of heroin was captured off the coast of San Francisc |
+| 77 |Office building collapsed in Maputo. Rescuers are on the scene. No word yet on casualtie |
+| 78 |Train derailment in Nairobi spills chemicals that sicken thousand |
+| 79 |A car bomb detonated in downtown Denver killed several hundred. Authorities have locked down the cit |
+| 80 |Oslo was the scene of carnage this morning as a paramilitary group raided the main courthouse. Early reports claim the group freed a prisoner awaiting tria |
+| 81 |Powerful storm damages buildings and brings the streets to a halt in New Delh |
+| 82 |The Saudi king has invited the foreign ministers of several regional powers to a conference in Riyadh. The move could be seen as hostile by Ira |
+| 83 |Famed corporate mercenary leader found dead in Asmar |
+| 84 |Man shot dead in Red Square now linked to a string of bank robberies across Europ |
+| 85 |Archeological discovery could lead to corporate war in Cambodi |
+| 86 |Oil spill forces Sydney harbor to clos |
+| 87 |An early morning armored car convoy heist leaves the streets of Vienna awash with blood. Authorities say a corporate convoy of eight armored vehicles was assaulted and at least six of them were stolen. Most of the dead are believed to be civilian |
+| 88 |Cryptocurrency billionaire to hold private summit with key world leaders in Brussel |
+| 89 |Man with ties to terror group captured after stunning chase through the streets of Niame |
+| 90 |Late-night gun rampage leaves 47 dead in Bangko |
+| 91 |Russian satellite set to crash in the Gobi desert later this wee |
+| 92 |Massive data breach at the Pentagon could put all US military activities in Africa in jeopard |
+| 93 |Infamous hacker arrested in Ankara this morning. The United States is said to have already asked for quick extraditio |
+| 94 |A British national was arrested in Amsterdam carrying a million dollars in cash and a case full of illegal microchips. Authorities are said to be scouring the individual’s recent travels and business dealing |
+| 95 |Bombing in a Manila marketplace kills more than 30 |
+| 96 |Brazilian organized crime syndicate believed to be behind recent cyberware hacking incidents of high-ranking government official |
+| 97 |New round of vaccinations in Chad halted as security concerns gro |
+| 98 |Rare Chinese vase auction sparks intense bidding wa |
+| 99 |Sectarian conflict erupts into violence in Baghdad. The majority of the city is now locked dow |
+| 100 |Drone attack on several vehicles in Lagos left at least 16 dead. The victims have yet to be identifie |
 
-Items &
+### Items & Things
 
-Things
+#### Computer Files
 
-| 1 |Collection of news stories concerning a serial killer|
+| d100| Name |
+|:--:|--|
+| 1 | Collection of news stories concerning a serial killer|
 | 2 |Bank account (150 Euros)|
 | 3 |Stree doc contact info|
 | 4 |Video game (RPG)|
@@ -26081,16 +26169,13 @@ Things
 | 48 |Bounty listings (1D8)|
 | 49 |Defense layout of a corporate HQ in the city|
 | 50 |Security codes to an art museum in the city|
-
-##### Computer Files
-
 | 51 |Security codes to the "Lucky’s Break" casino|
 | 52 |List of names (4D100)|
 | 53 |Bank account (400 US Dollars)|
 | 54 |Formula for a new street drug|
 | 55 |Shopping list|
 | 56 |Formula for a special alloy|
-| 57 |DNA scan of a woman labeled "Experiment 0426"
+| 57 |DNA scan of a woman labeled "Experiment 0426"|
 | 58 |Deed to a highrise condo in Miami|
 | 59 |Geological surveys of an area in rural Texas|
 | 60 |Comprising photos of a major corporate official|
@@ -26111,7 +26196,7 @@ Things
 | 75 |Information on an international hacking ring|
 | 76 |Thousands of arrest records|
 | 77 |List of 25 nightclubs|
-| 78 |Cargo manifest of a ship called the "Freedon"
+| 78 |Cargo manifest of a ship called the "Freedon"|
 | 79 |Proof that a certain crime boss ordered a recent assassination|
 | 80 |Video game (first-person shooter)|
 | 81 |Bank account (2,000 US Dollars)|
@@ -26135,8 +26220,61 @@ Things
 | 99 |Map of a military base in New York|
 | 100 |Comprising communications from a governmental official|
 
+
 ##### Computer Files
 
+| d100| Name |
+|:--:|--|
+| 1 | Sweatshirt (corporate logo)|
+| 2 |Hairbrush|
+| 3 |Windbreaker (corporate logo)|
+| 4 |Blazer (corporate logo)|
+| 5 |Aviator sunglasses|
+| 6 |Tennis balls (1D10)|
+| 7 |Shotgun|
+| 8 |Jumpdrive (blueprints of the building)|
+| 9 |Fast food wrapper|
+| 10 |Dress shirt|
+| 11 |Raincoat|
+| 12 |Gi|
+| 13 |Speedo|
+| 14 |Gym bag full of smelly clothes|
+| 15 |Ace of Spades with a bullet hole|
+| 16 |Leather cap|
+| 17 |Digital padlock|
+| 18 |Cotton swabs (1D100)|
+| 19 |False fingernail with a microchip on the underside|
+| 20 |Small caliber shell casings (1D12)|
+| 21 |Small piece of blue wire|
+| 22 |Large caliber shell casings (1D20)|
+| 23 |Racquetball|
+| 24 |Squash racquet|
+| 25 |Gym shorts (corporate logo)|
+| 26 |Vintage Rolex watch|
+| 27 |Kendo helmet|
+| 28 |Bra|
+| 29 |Sweatpants (corporate logo)|
+| 30 |Smartglasses|
+| 31 |Earplugs|
+| 32 |Tennis racquet|
+| 33 |Swimming nose clip|
+| 34 |Classic leather bomber jacket|
+| 35 |Tablet (screen cracked, password protected)|
+| 36 |Bathing suit (female)|
+| 37 |Ancient Egyptian artifact hidden in a cigar box|
+| 38 |Boxing gloves|
+| 39 |Full men’s suit|
+| 40 |Nunchucks|
+| 41 |Tennis shoes|
+| 42 |Cup of coffee (cold)|
+| 43 |Dress|
+| 44 |Dress shoes|
+| 45 |Towels (1D20)|
+| 46 |Jumpdrive (1,000 US Dollars)|
+| 47 |Motorcycle helmet|
+| 48 |Baseball cap (corporate logo)|
+| 49 |Sweatband|
+| 50 |Umbrella (corporate logo)|
 | 51 |Bathing suit (male)|
 | 52 |Kendo stick|
 | 53 |Tiny steel screw|
@@ -26188,59 +26326,61 @@ Things
 | 99 |Jumpdrive (client presentation)|
 | 100 | Deodorant|
 
-| 1 |Sweatshirt (corporate logo)|
-| 2 |Hairbrush|
-| 3 |Windbreaker (corporate logo)|
-| 4 |Blazer (corporate logo)|
-| 5 |Aviator sunglasses|
-| 6 |Tennis balls (1D10)|
-| 7 |Shotgun|
-| 8 |Jumpdrive (blueprints of the building)|
-| 9 |Fast food wrapper|
-| 10 |Dress shirt|
-| 11 |Raincoat|
-| 12 |Gi|
-| 13 |Speedo|
-| 14 |Gym bag full of smelly clothes|
-| 15 |Ace of Spades with a bullet hole|
-| 16 |Leather cap|
-| 17 |Digital padlock|
-| 18 |Cotton swabs (1D100)|
-| 19 |False fingernail with a microchip on the underside|
-| 20 |Small caliber shell casings (1D12)|
-| 21 |Small piece of blue wire|
-| 22 |Large caliber shell casings (1D20)|
-| 23 |Racquetball|
-| 24 |Squash racquet|
-| 25 |Gym shorts (corporate logo)|
-| 26 |Vintage Rolex watch|
-| 27 |Kendo helmet|
-| 28 |Bra|
-| 29 |Sweatpants (corporate logo)|
-| 30 |Smartglasses|
-| 31 |Earplugs|
-| 32 |Tennis racquet|
-| 33 |Swimming nose clip|
-| 34 |Classic leather bomber jacket|
-| 35 |Tablet (screen cracked, password protected)|
-| 36 |Bathing suit (female)|
-| 37 |Ancient Egyptian artifact hidden in a cigar box|
-| 38 |Boxing gloves|
-| 39 |Full men’s suit|
-| 40 |Nunchucks|
-| 41 |Tennis shoes|
-| 42 |Cup of coffee (cold)|
-| 43 |Dress|
-| 44 |Dress shoes|
-| 45 |Towels (1D20)|
-| 46 |Jumpdrive (1,000 US Dollars)|
-| 47 |Motorcycle helmet|
-| 48 |Baseball cap (corporate logo)|
-| 49 |Sweatband|
-| 50 |Umbrella (corporate logo)|
-
 #### Items in a Corporation Locker Room -:-:- 
 
+
+| d100| Name |
+|:--:|--|
+| 1 | Cocaine (1 kilo)|
+| 2 |Whiskey (half bottle)|
+| 3 |Beer (1D8 bottles)|
+| 4 |Sabritones|
+| 5 |Crowbar|
+| 6 |Combat knife|
+| 7 |Biltong|
+| 8 |Bionic eye|
+| 9 |Nunchaku|
+| 10 |Bloody bandages|
+| 11 |Marijuana (1 pound)|
+| 12 |Old key|
+| 13 |Brass knuckles|
+| 14 |Boots|
+| 15 |Scarf|
+| 16 |Cocaine (1 ounce)|
+| 17 |Data port (hidden)|
+| 18 |Fedora|
+| 19 |Motorcycle handlebars|
+| 20 |Swiss army knife|
+| 21 |Syringe|
+| 22 |Surgical face masks (1D8)|
+| 23 |Gas mask|
+| 24 |Machete|
+| 25 |Drug smoking pipe|
+| 26 |Kukri|
+| 27 |Goggles|
+| 28 |Bulletproof vest|
+| 29 |Cigarettes (1D20)|
+| 30 |Haw flakes|
+| 31 |Duct tape (1D6 rolls)|
+| 32 |Baseball cap|
+| 33 |Locked metal case|
+| 34 |Coffee mug|
+| 35 |Metal pipe club|
+| 36 |Chopsticks|
+| 37 |Heroin (10 ounces)|
+| 38 |Computer cable (40’)|
+| 39 |Moonshine (1D6 bottles)|
+| 40 |Shotgun|
+| 41 |Jumpdrive (67,000 Turkish Lira)|
+| 42 |Jumpdrive (6,000 Azerbaijani Manat)|
+| 43 |Assault rifle ammo (1D20)|
+| 44 |Cigars (1D6)|
+| 45 |Shoulder holster|
+| 46 |Robot vacuum cleaner|
+| 47 |Shattered mirror|
+| 48 |A box with a red and a blue pill inside|
+| 49 |Meat cleaver|
+| 50 |Butcherknife|
 | 51 |The Art of War (book)|
 | 52 |Folding fan|
 | 53 |Picture of a samurai warrior|
@@ -26292,59 +26432,61 @@ Things
 | 99 |Tennis shoes|
 | 100 | Shaving Kit|
 
-| 1 |Cocaine (1 kilo)|
-| 2 |Whiskey (half bottle)|
-| 3 |Beer (1D8 bottles)|
-| 4 |Sabritones|
-| 5 |Crowbar|
-| 6 |Combat knife|
-| 7 |Biltong|
-| 8 |Bionic eye|
-| 9 |Nunchaku|
-| 10 |Bloody bandages|
-| 11 |Marijuana (1 pound)|
-| 12 |Old key|
-| 13 |Brass knuckles|
-| 14 |Boots|
-| 15 |Scarf|
-| 16 |Cocaine (1 ounce)|
-| 17 |Data port (hidden)|
-| 18 |Fedora|
-| 19 |Motorcycle handlebars|
-| 20 |Swiss army knife|
-| 21 |Syringe|
-| 22 |Surgical face masks (1D8)|
-| 23 |Gas mask|
-| 24 |Machete|
-| 25 |Drug smoking pipe|
-| 26 |Kukri|
-| 27 |Goggles|
-| 28 |Bulletproof vest|
-| 29 |Cigarettes (1D20)|
-| 30 |Haw flakes|
-| 31 |Duct tape (1D6 rolls)|
-| 32 |Baseball cap|
-| 33 |Locked metal case|
-| 34 |Coffee mug|
-| 35 |Metal pipe club|
-| 36 |Chopsticks|
-| 37 |Heroin (10 ounces)|
-| 38 |Computer cable (40’)|
-| 39 |Moonshine (1D6 bottles)|
-| 40 |Shotgun|
-| 41 |Jumpdrive (67,000 Turkish Lira)|
-| 42 |Jumpdrive (6,000 Azerbaijani Manat)|
-| 43 |Assault rifle ammo (1D20)|
-| 44 |Cigars (1D6)|
-| 45 |Shoulder holster|
-| 46 |Robot vacuum cleaner|
-| 47 |Shattered mirror|
-| 48 |A box with a red and a blue pill inside|
-| 49 |Meat cleaver|
-| 50 |Butcherknife|
-
 ### Items in a Gang Hideout -:-:- 
 
+
+| d100| Name |
+|:--:|--|
+| 1 | Pair of pearl-handled revolvers|
+| 2 |Tuba|
+| 3 |Prosthetic arm with built-in gun|
+| 4 |Nail gun|
+| 5 |Mountain bikes (1D8)|
+| 6 |Coach purse|
+| 7 |Djembe|
+| 8 |Cleats (1D20 pairs)|
+| 9 |Jumpdrive (concert - Himilayan Monkey Twisters)|
+| 10 |Laptops (1D100 refurbished)|
+| 11 |Emerald ring|
+| 12 |Tablets (1D20)|
+| 13 |Noise-canceling headphones|
+| 14 |Vintage camera (roll of film included: 36 exposures)|
+| 15 |Jumpdrive (action movie - Without Pity 4)|
+| 16 |UV sanitizing wand|
+| 17 |Watches (1D100)|
+| 18 |Jumpdrive (action movie - Without Pity)|
+| 19 |Laptop (password locked)|
+| 20 |Robot vacuum|
+| 21 |Zippo|
+| 22 |Mbira|
+| 23 |Painting by famed street artist|
+| 24 |Tennis racquets (1D8)|
+| 25 |Necklaces (4D100)|
+| 26 |Handguns (1D100)|
+| 27 |Swords (1D20)|
+| 28 |Leather pants (1D20)|
+| 29 |Power drill|
+| 30 |Saxophone engraved with "Roxy"|
+| 31 |Chess set|
+| 32 |Baseball gloves (1D12)|
+| 33 |Leather jackets (1D20)|
+| 34 |Motorcycle helmets (1D20)|
+| 35 |Golf bag (hidden jumpdrive)|
+| 36 |Violin|
+| 37 |Holsters (1D20)|
+| 38 |Gold rings (1D100)|
+| 39 |Fishing poles (1D12)|
+| 40 |Knife with a walrus tusk handle|
+| 41 |Jumpdrive (action movie - Corporate Raiders 3)|
+| 42 |Books (4D100)|
+| 43 |Purple Heart|
+| 44 |Skis|
+| 45 |Earrings (2D100)|
+| 46 |Silver rings (1D100)|
+| 47 |Go set|
+| 48 |Band leather jacket (Himilayan Monkey Twisters)|
+| 49 |Doll (hidden jumpdrive)|
+| 50 |Ukulele|
 | 51 |Bible with a thin optic card hidden in it|
 | 52 |Steel trunk (locked)|
 | 53 |Tamagotchi|
@@ -26396,59 +26538,61 @@ Things
 | 99 |Coffee mugs (2D100)|
 | 100 | Blue jeans with jumpdrive in a pocket|
 
-| 1 |Pair of pearl-handled revolvers|
-| 2 |Tuba|
-| 3 |Prosthetic arm with built-in gun|
-| 4 |Nail gun|
-| 5 |Mountain bikes (1D8)|
-| 6 |Coach purse|
-| 7 |Djembe|
-| 8 |Cleats (1D20 pairs)|
-| 9 |Jumpdrive (concert - Himilayan Monkey Twisters)|
-| 10 |Laptops (1D100 refurbished)|
-| 11 |Emerald ring|
-| 12 |Tablets (1D20)|
-| 13 |Noise-canceling headphones|
-| 14 |Vintage camera (roll of film included: 36 exposures)|
-| 15 |Jumpdrive (action movie - Without Pity 4)|
-| 16 |UV sanitizing wand|
-| 17 |Watches (1D100)|
-| 18 |Jumpdrive (action movie - Without Pity)|
-| 19 |Laptop (password locked)|
-| 20 |Robot vacuum|
-| 21 |Zippo|
-| 22 |Mbira|
-| 23 |Painting by famed street artist|
-| 24 |Tennis racquets (1D8)|
-| 25 |Necklaces (4D100)|
-| 26 |Handguns (1D100)|
-| 27 |Swords (1D20)|
-| 28 |Leather pants (1D20)|
-| 29 |Power drill|
-| 30 |Saxophone engraved with "Roxy"
-| 31 |Chess set|
-| 32 |Baseball gloves (1D12)|
-| 33 |Leather jackets (1D20)|
-| 34 |Motorcycle helmets (1D20)|
-| 35 |Golf bag (hidden jumpdrive)|
-| 36 |Violin|
-| 37 |Holsters (1D20)|
-| 38 |Gold rings (1D100)|
-| 39 |Fishing poles (1D12)|
-| 40 |Knife with a walrus tusk handle|
-| 41 |Jumpdrive (action movie - Corporate Raiders 3)|
-| 42 |Books (4D100)|
-| 43 |Purple Heart|
-| 44 |Skis|
-| 45 |Earrings (2D100)|
-| 46 |Silver rings (1D100)|
-| 47 |Go set|
-| 48 |Band leather jacket (Himilayan Monkey Twisters)|
-| 49 |Doll (hidden jumpdrive)|
-| 50 |Ukulele|
-
 ### Items in a Pawn Shop -:-:- 
 
+
+| d100| Name |
+|:--:|--|
+| 1 | Tubesteaks (1D20)|
+| 2 |Garlic|
+| 3 |Toothpicks|
+| 4 |Pineapple chunks|
+| 5 |Machete (hidden)|
+| 6 |Jumpdrive (350 US Dollars)|
+| 7 |Zodiac placemats (1D100)|
+| 8 |Bonito Flakes|
+| 9 |Drinking cups (1D100)|
+| 10 |Yuzu Kosho (1D8 containers)|
+| 11 |Wooden spoon|
+| 12 |Maraschino cherries (1D10 jars)|
+| 13 |Dining trays (1D100)|
+| 14 |Handgun wrapped in packing paper|
+| 15 |Maneki Neko|
+| 16 |Curry|
+| 17 |Napkin bundles (1D20)|
+| 18 |Jasmine tea|
+| 19 |Smoked oysters|
+| 20 |Dashi powder|
+| 21 |Naginata|
+| 22 |Shredded nori|
+| 23 |Ginger|
+| 24 |Togarashi (1D12 bottles)|
+| 25 |Eggs (1D20)|
+| 26 |Oolong tea|
+| 27 |Bamboo shoots|
+| 28 |India Today (magazine)|
+| 29 |Chicken (20 lbs)|
+| 30 |Miso|
+| 31 |Chili oil (1D20 bottles)|
+| 32 |Red Hot Sauce (1D10 bottles)|
+| 33 |Spam (1D20 cans)|
+| 34 |Teapot|
+| 35 |Bean sprouts|
+| 36 |Apron|
+| 37 |Leeks|
+| 38 |ID card|
+| 39 |Smartphone|
+| 40 |Vinegar (1 gallon)|
+| 41 |Fortune cookies (3D100)|
+| 42 |American cheese slices (1D100)|
+| 43 |Lucky bamboo|
+| 44 |Shotgun shells (1D10)|
+| 45 |Hairnet|
+| 46 |Soy sauce bottles (1D20)|
+| 47 |Sugar packets (1D100)|
+| 48 |Band t-shirt (Himalayan Monkey Twisters)|
+| 49 |Menus (1D20)|
+| 50 |Beer (1D20 bottles)|
 | 51 |Tanto|
 | 52 |Steamed fish cakes (1D100)|
 | 53 |Metal spoon|
@@ -26500,65 +26644,68 @@ Things
 | 99 |Small caliber bullets (1D20)|
 | 100 | Tablet (password protected)|
 
-| 1 |Tubesteaks (1D20)|
-| 2 |Garlic|
-| 3 |Toothpicks|
-| 4 |Pineapple chunks|
-| 5 |Machete (hidden)|
-| 6 |Jumpdrive (350 US Dollars)|
-| 7 |Zodiac placemats (1D100)|
-| 8 |Bonito Flakes|
-| 9 |Drinking cups (1D100)|
-| 10 |Yuzu Kosho (1D8 containers)|
-| 11 |Wooden spoon|
-| 12 |Maraschino cherries (1D10 jars)|
-| 13 |Dining trays (1D100)|
-| 14 |Handgun wrapped in packing paper|
-| 15 |Maneki Neko|
-| 16 |Curry|
-| 17 |Napkin bundles (1D20)|
-| 18 |Jasmine tea|
-| 19 |Smoked oysters|
-| 20 |Dashi powder|
-| 21 |Naginata|
-| 22 |Shredded nori|
-| 23 |Ginger|
-| 24 |Togarashi (1D12 bottles)|
-| 25 |Eggs (1D20)|
-| 26 |Oolong tea|
-| 27 |Bamboo shoots|
-| 28 |India Today (magazine)|
-| 29 |Chicken (20 lbs)|
-| 30 |Miso|
-| 31 |Chili oil (1D20 bottles)|
-| 32 |Red Hot Sauce (1D10 bottles)|
-| 33 |Spam (1D20 cans)|
-| 34 |Teapot|
-| 35 |Bean sprouts|
-| 36 |Apron|
-| 37 |Leeks|
-| 38 |ID card|
-| 39 |Smartphone|
-| 40 |Vinegar (1 gallon)|
-| 41 |Fortune cookies (3D100)|
-| 42 |American cheese slices (1D100)|
-| 43 |Lucky bamboo|
-| 44 |Shotgun shells (1D10)|
-| 45 |Hairnet|
-| 46 |Soy sauce bottles (1D20)|
-| 47 |Sugar packets (1D100)|
-| 48 |Band t-shirt (Himalayan Monkey Twisters)|
-| 49 |Menus (1D20)|
-| 50 |Beer (1D20 bottles)|
-
 ### Items in a Slurp Shop’s Kitchen -:-:- 
 
+
+
+| d100| Name |
+|:--:|--|
+| 1 |"Thug Life"|
+| 2 |Lion head (arm)|
+| 3 |"Nothing to Lose"|
+| 4 |Anchor|
+| 5 |Eye of providence|
+| 6 |Crescent moon|
+| 7 |A mermaid underwater|
+| 8 |Mexican flag|
+| 9 |Dollar sign|
+| 10 |"MMXX"|
+| 11 |A skull and a rose|
+| 12 |Tiger ready to pounce|
+| 13 |"0101010011"|
+| 14 |Tree of life|
+| 15 |Rose|
+| 16 |"Broken Native"|
+| 17 |Barbed wire|
+| 18 |"Family First"|
+| 19 |Playboy bunny|
+| 20 |Russian flag|
+| 21 |A horse running|
+| 22 |"13"|
+| 23 |Orchid|
+| 24 |"I’m Fine"|
+| 25 |Celtic patterns (full back)|
+| 26 |"Reefer Madness"|
+| 27 |"Lost Time is Never Found"|
+| 28 |Dolphin jumping out of the water|
+| 29 |Compass rose|
+| 30 |Superman symbol|
+| 31 |A dragon on its hoard|
+| 32 |An open book|
+| 33 |Intertwined dragons|
+| 34 |Ship at sea|
+| 35 |Wolf howling at the full moon|
+| 36 |Ankh|
+| 37 |"Good Times"|
+| 38 |A swimming coy|
+| 39 |Feather|
+| 40 |Raven picking the eye out of a human head|
+| 41 |"Smoke & Mirrors"|
+| 42 |"Weep Not"|
+| 43 |Cross|
+| 44 |"Get Rich or Die Trying"|
+| 45 |Chevy symbol|
+| 46 |"Twilight’s Last Gleaming"|
+| 47 |Gallows|
+| 48 |Eagle fighting a snake|
+| 49 |Clock|
+| 50 |Deer|
 | 51 |Cow skull|
-| 52 |"Double or Nothing"
-| 53 |"Jack Daniels"
+| 52 |"Double or Nothing"|
+| 53 |"Jack Daniels"|
 | 54 |Corba ready to strike|
 | 55 |American flag|
-| 56 |"Mom"
+| 56 |"Mom"|
 | 57 |Dragon eye|
 | 58 |Dog with a spiked collar|
 | 59 |Henna (hands)|
@@ -26572,88 +26719,37 @@ Things
 | 67 |White rabbit|
 | 68 |Angel wings (full back)|
 | 69 |Peace symbol|
-| 70 |"Waste of Material"
+| 70 |"Waste of Material"|
 | 71 |Nigerian flag|
 | 72 |Demon horns|
 | 73 |Tribal pattern (full back)|
 | 74 |Crown|
 | 75 |Half moon|
-| 76 |"Windows to the Soul"
+| 76 |"Windows to the Soul"|
 | 77 |Tribal pattern (full sleeve)|
-| 78 |"Lost Souls"
+| 78 |"Lost Souls"|
 | 79 |Lion in a vast grassland (full arm)|
 | 80 |Barcode|
 | 81 |Ouroboros|
 | 82 |"Good" and "Evil" on knuckles|
-| 83 |"X"
+| 83 |"X"|
 | 84 |Sabertooth tiger roaring|
 | 85 |Bear standing on hind legs ready to attack|
-| 86 |"In Justice for All"
-| 87 |"Fear is the Mindkiller"
-| 88 |"Angel"
-| 89 |"No Regrets"
-| 90 |"Dead Man"
+| 86 |"In Justice for All"|
+| 87 |"Fear is the Mindkiller"|
+| 88 |"Angel"|
+| 89 |"No Regrets"|
+| 90 |"Dead Man"|
 | 91 |Batman symbol|
 | 92 |Chain|
-| 93 |"Death"
+| 93 |"Death"|
 | 94 |A tiny blue heart on the back of the neck|
 | 95 |Flaming skull|
 | 96 |A small winged fairy|
-| 97 |"Sorrow"
+| 97 |"Sorrow"|
 | 98 |Black widow|
 | 99 |A murder of crows in flight|
 | 100 | Fox biting its tail|
-
-| 1 |"Thug Life"
-| 2 |Lion head (arm)|
-| 3 |"Nothing to Lose"
-| 4 |Anchor|
-| 5 |Eye of providence|
-| 6 |Crescent moon|
-| 7 |A mermaid underwater|
-| 8 |Mexican flag|
-| 9 |Dollar sign|
-| 10 |"MMXX"
-| 11 |A skull and a rose|
-| 12 |Tiger ready to pounce|
-| 13 |"0101010011"
-| 14 |Tree of life|
-| 15 |Rose|
-| 16 |"Broken Native"
-| 17 |Barbed wire|
-| 18 |"Family First"
-| 19 |Playboy bunny|
-| 20 |Russian flag|
-| 21 |A horse running|
-| 22 |"13"
-| 23 |Orchid|
-| 24 |"I’m Fine"
-| 25 |Celtic patterns (full back)|
-| 26 |"Reefer Madness"
-| 27 |"Lost Time is Never Found"
-| 28 |Dolphin jumping out of the water|
-| 29 |Compass rose|
-| 30 |Superman symbol|
-| 31 |A dragon on its hoard|
-| 32 |An open book|
-| 33 |Intertwined dragons|
-| 34 |Ship at sea|
-| 35 |Wolf howling at the full moon|
-| 36 |Ankh|
-| 37 |"Good Times"
-| 38 |A swimming coy|
-| 39 |Feather|
-| 40 |Raven picking the eye out of a human head|
-| 41 |"Smoke & Mirrors"
-| 42 |"Weep Not"
-| 43 |Cross|
-| 44 |"Get Rich or Die Trying"
-| 45 |Chevy symbol|
-| 46 |"Twilight’s Last Gleaming"
-| 47 |Gallows|
-| 48 |Eagle fighting a snake|
-| 49 |Clock|
-| 50 |Deer|
 
 ### Tattoos -:-:- 
 
@@ -26661,7 +26757,9 @@ Encounters &
 
 Locations
 
-| 1 |Jumpdrive sitting on a desk (1,000 US Dollars)|
+| d100| Name |
+|:--:|--|
+| 1 | Jumpdrive sitting on a desk (1,000 US Dollars)|
 | 2 |Hipster pushing a coffee cart while listening to music|
 | 3 |Fire in a trashcan|
 | 4 |Employees stuffing stacks of papers into boxes|
@@ -26670,7 +26768,7 @@ Locations
 | 7 |Woman wearing tactical gear and carrying a katana on her back parkours past the party|
 | 8 |Two employees inspect a water cooler that seems to be growing something|
 | 9 |Paramedics demanding to know where the "Huāyuán Garden" is located|
-| 10 |Overheard: "Top floor is expecting a delivery at 8 pm tonight."
+| 10 |Overheard: "Top floor is expecting a delivery at 8 pm tonight."|
 | 11 |Flying car crashes into the building|
 | 12 |Muddy footprints leading down the hall and into a doorway|
 | 13 |Group of 12 security guards blocking the hall|
@@ -26681,15 +26779,15 @@ Locations
 | 18 |Man speaking Russian to himself in a hallway|
 | 19 |Unconscious man|
 | 20 |Employee vomiting into a trashcan|
-| 21 |Someone asks the party if they’ve seen "Geordi."
+| 21 |Someone asks the party if they’ve seen "Geordi."|
 | 22 |Man weeping on the floor|
 | 23 |Man looking at his phone bumps into one of the characters|
 | 24 |Woman about to stab herself with a knife|
-| 25 |Two men pointing guns at each other.
+| 25 |Two men pointing guns at each othe |
 | 26 |Screaming crowd running down the hall toward the party|
-| 27 |Overheard: "Send a unit to Caracas. I want this cleaned up fast."
+| 27 |Overheard: "Send a unit to Caracas. I want this cleaned up fast."|
 | 28 |Several dozen butterflies fly by the party|
-| 29 |Unattended gym bag lies in the corner. It contains a time bomb.
+| 29 |Unattended gym bag lies in the corner. It contains a time bom |
 | 30 |Handgun in a trashcan|
 | 31 |Ivory-handled butterfly knife on a desk|
 | 32 |Security officers escorting a terminated employee out of the building|
@@ -26715,7 +26813,7 @@ Locations
 #### Office Building Encounters -:-:- 20- Encounters & Locations
 
 | 51 |Ceiling panel askew|
-| 52 |Open pack of cigarettes on the floor. Inside is jumpdrive.
+| 52 |Open pack of cigarettes on the floor. Inside is jumpdriv |
 | 53 |Someone approaches the party and asks if they are the cleaning crew|
 | 54 |Lost child|
 | 55 |Person asks the party for money to buy lunch|
@@ -26728,7 +26826,7 @@ Locations
 | 62 |Person on the phone screaming in Thai|
 | 63 |Sparking cables hanging from the ceiling|
 | 64 |Water running out from under a restroom door|
-| 65 |Power outage. People begin to panic.
+| 65 |Power outage. People begin to pani |
 | 66 |What appears to be blood seeping out from under a desk|
 | 67 |Someone tries to pickpocket one of the characters|
 | 68 |Maintenance workers waxing the floor|
@@ -26739,13 +26837,13 @@ Locations
 | 73 |Single 9mm bullet lies on the floor|
 | 74 |Small bag of cocaine on the floor|
 | 75 |A page torn from Moby Dick with certain letters circled|
-| 76 |As the party passes an air vent, they see a young girl hiding inside. She motions for them to be quiet.
+| 76 |As the party passes an air vent, they see a young girl hiding inside. She motions for them to be quie |
 | 77 |Someone asks the party to show their company IDs|
 | 78 |Two employees screaming at each other in Japanese|
 | 79 |Man holding a gun to his own head|
 | 80 |Glass shards across the floor|
 | 81 |Maintenance workers working on an elevator|
-| 82 |Overheard: "There’s a special meeting in Sub-basement 047 at 4:30. Can you make it?"
+| 82 |Overheard: "There’s a special meeting in Sub-basement 047 at 4:30. Can you make it?"|
 | 83 |Water pouring out of the ceiling|
 | 84 |Microchip on a desk|
 | 85 |Geisha girl photo lying on the floor|
@@ -26755,12 +26853,12 @@ Locations
 | 89 |Person attempting to gain entrance to a locked room without a key|
 | 90 |Phone charging cable on the floor|
 | 91 |Merc unit raids the building|
-| 92 |Someone pushes past the party yelling, "I’m late, I’m late!"
+| 92 |Someone pushes past the party yelling, "I’m late, I’m late!"|
 | 93 |Police raid the building|
-| 94 |Jumpdrive lies on the floor. It is a candy drop and contains a virus.
+| 94 |Jumpdrive lies on the floor. It is a candy drop and contains a viru |
 | 95 |Employee smashing a computer|
 | 96 |Employees playing a game of Go|
-| 97 |Overheard: "The shipment disappeared en route to Kuala Lumpur."
+| 97 |Overheard: "The shipment disappeared en route to Kuala Lumpur."|
 | 98 |One hundred US dollar bill on the floor|
 | 99 |Young employee carrying ten cups of coffee|
 | 100 |Dead body|
@@ -26818,7 +26916,9 @@ Locations
 | 99 |Tacos To Go|
 | 100 | Dumpster filled with old computers|
 
-| 1 |Dash-In (convenience store)|
+| d100| Name |
+|:--:|--|
+| 1 | Dash-In (convenience store)|
 | 2 |Homebrew (coffee shop)|
 | 3 |Sewer manifold|
 | 4 |Central Pawn|
@@ -26926,7 +27026,9 @@ Foods
 | 99 |Carling (United Kingdom)|
 | 100 | Budweiser (USA)|
 
-| 1 |Asahi (Japan)|
+| d100| Name |
+|:--:|--|
+| 1 | Asahi (Japan)|
 | 2 |Chimay (Belgium)|
 | 3 |Cobra (India)|
 | 4 |Eagle (Tanzania)|
@@ -27030,7 +27132,9 @@ Foods
 | 99 |Septwolves (People’s Republic of China)|
 | 100 | Neslite (Indonesia)|
 
-| 1 |Bond Street (United Kingdom)|
+| d100| Name |
+|:--:|--|
+| 1 | Bond Street (United Kingdom)|
 | 2 |Camel (United States)|
 | 3 |Mareb (Yemen)|
 | 4 |Astro (Philippines)|
@@ -27084,14 +27188,14 @@ Foods
 ##### Cigarette Brands -:-:- 
 
 | 51 |Morinaga Milk Industry|
-| 52 |Land O’ Lakes Inc.
+| 52 |Land O’ Lakes In |
 | 53 |Bunge|
 | 54 |Schreiber Foods|
 | 55 |JBS|
 | 56 |Brown-Forman|
 | 57 |Coca-Cola European Partners|
 | 58 |Ajinomoto|
-| 59 |CHS Inc.
+| 59 |CHS In |
 | 60 |Lindt & Sprüngli|
 | 61 |NH Foods|
 | 62 |Carlsberg|
@@ -27134,7 +27238,9 @@ Foods
 | 99 |Associated British Foods|
 | 100 | Dairy Farmers of America|
 
-| 1 |The Coca-Cola Company|
+| d100| Name |
+|:--:|--|
+| 1 | The Coca-Cola Company|
 | 2 |Ferrero|
 | 3 |Barry Callebaut|
 | 4 |LVMH|
@@ -27155,7 +27261,7 @@ Foods
 | 19 |Kerry Group|
 | 20 |Mars|
 | 21 |Brf Brasil Foods|
-| 22 |PepsiCo, Inc.
+| 22 |PepsiCo, In |
 | 23 |Saputo|
 | 24 |Coca-Cola HBC|
 | 25 |Pernod Ricard|
@@ -27164,7 +27270,7 @@ Foods
 | 28 |The Hershey Company|
 | 29 |Campbell Soup Company|
 | 30 |Marfrig Group|
-| 31 |Ingredion Inc.
+| 31 |Ingredion In |
 | 32 |Bacardi|
 | 33 |Agropur Cooperative|
 | 34 |Smithfield Foods/WH Group|
@@ -27173,13 +27279,13 @@ Foods
 | 37 |Danone|
 | 38 |Itoham Yonekyu|
 | 39 |Cargill|
-| 40 |General Mills Inc.
+| 40 |General Mills In |
 | 41 |Fonterra|
 | 42 |Royal FrieslandCampina|
 | 43 |Archer Daniels Midland Company|
 | 44 |Südzucker|
 | 45 |Nestlé
-| 46 |Dole Food Company, Inc.
+| 46 |Dole Food Company, In |
 | 47 |McCain Foods Ltd|
 | 48 |Sodiaal|
 | 49 |The JM Smucker Company|
@@ -27238,7 +27344,9 @@ Foods
 | 99 |Mahindra|
 | 100 | Easyday|
 
-| 1 |Britannia|
+| d100| Name |
+|:--:|--|
+| 1 | Britannia|
 | 2 |Wipro|
 | 3 |Jet Airways|
 | 4 |DLF|
@@ -27340,9 +27448,11 @@ Foods
 | 97 |Kara Mucho|
 | 98 |Olive no Hana|
 | 99 |Don Tacos|
-| 100 | Dorayaki|
+| 100 |  Dorayaki|
 
-| 1 |Dango|
+| d100| Name |
+|:--:|--|
+| 1 | Dango|
 | 2 |Midori no Tanuki|
 | 3 |Gumi 100|
 | 4 |Surume|
@@ -27446,9 +27556,11 @@ Foods
 | 97 |35ISWM49DY|
 | 98 |P9R256VE70|
 | 99 |7VBEKHQWOJ|
-| 100 | 8II378JZ5Q|
+| 100 |  8II378JZ5Q|
 
-| 1 |P87KKL6VCX|
+| d100| Name |
+|:--:|--|
+| 1 | P87KKL6VCX|
 | 2 |5RV3FX8J3I|
 | 3 |N28UX5OTUE|
 | 4 |B381B8AWJG|
@@ -27550,9 +27662,11 @@ Foods
 | 97 |7DRDBjLtSv8RfBzejAJqtR8F|
 | 98 |6454eESDdFvhxkNjKumNGvnP|
 | 99 |tAe8XmpTGEktUVxn8yX7ScHk|
-| 100 | 3NczVhq6BeegyHBUcD4db4qp|
+| 100 |  3NczVhq6BeegyHBUcD4db4qp|
 
-| 1 |bqLDLecKFRLkCArqRTq732gH|
+| d100| Name |
+|:--:|--|
+| 1 | bqLDLecKFRLkCArqRTq732gH|
 | 2 |5drbmVEx476ZwB3QJzVZEvdv|
 | 3 |wgpjhELYs99SYNBEf6xfjyx6|
 | 4 |kMhz8jxRWzAa3NjaPnY2dGHJ|
@@ -27632,7 +27746,7 @@ Names
 | 73 |Queen DumDum|
 | 74 |Shuang Fo|
 | 75 |Rune Force|
-| 76 |Nesti Jr.
+| 76 |Nesti J |
 | 77 |Atom Five|
 | 78 |Two Shell|
 | 79 |Sora Prime|
@@ -27656,9 +27770,11 @@ Names
 | 97 |Aqua Kitty|
 | 98 |Yurei Blu|
 | 99 |PlugAwe|
-| 100 | Death V00D00|
+| 100 |  Death V00D00|
 
-| 1 |ZeroGuru|
+| d100| Name |
+|:--:|--|
+| 1 | ZeroGuru|
 | 2 |Juju Wine|
 | 3 |RipTiger|
 | 4 |RGB Lost|
@@ -27760,9 +27876,11 @@ Names
 | 97 |33 Memento|
 | 98 |Sharp Cowboy|
 | 99 |Lion Trip|
-| 100 | SSL Son|
+| 100 |  SSL Son|
 
-| 1 |HyperTears|
+| d100| Name |
+|:--:|--|
+| 1 | HyperTears|
 | 2 |Hinata|
 | 3 |13 Baby|
 | 4 |Leaf Drive|
@@ -27866,9 +27984,11 @@ Names
 | 97 |Paulina|
 | 98 |Clareta|
 | 99 |Hermosa|
-| 100 | Georginita|
+| 100 |  Georginita|
 
-| 1 |Cefernia|
+| d100| Name |
+|:--:|--|
+| 1 | Cefernia|
 | 2 |Neenah|
 | 3 |Florencita|
 | 4 |Chofa|
@@ -27919,8 +28039,9 @@ Names
 | 49 |Ninetta|
 | 50 |Madrona|
 ##### Hispanic Female Names #2 -:-:- 
-
-| 1 |Amaranta|
+| d100| Name |
+|:--:|--|
+| 1 | Amaranta|
 | 2 |Viviana|
 | 3 |Livinia|
 | 4 |Rafela|
@@ -28019,7 +28140,8 @@ Names
 | 97 |Martia|
 | 98 |Santana|
 | 99 |Quintana|
-| 100 |Eulaylia|
+| 100 | Eulaylia|
+
 | 51 |Calida|
 | 52 |Jayda|
 | 53 |Evita|
@@ -28069,9 +28191,11 @@ Names
 | 97 |Paciencia|
 | 98 |Ballencia|
 | 99 |Laia|
-| 100 | Silveria|
+| 100 |  Silveria|
 
-| 1 |Pamelina|
+| d100| Name |
+|:--:|--|
+| 1 | Pamelina|
 | 2 |Zaferina|
 | 3 |Palomina|
 | 4 |Silvia|
@@ -28125,8 +28249,9 @@ Names
 ##### Hispanic Female Names #3 -:-:- 
 
 #### Hispanic Female Names #4 -:-:- 
-
-| 1 |Alvira|
+| d100| Name |
+|:--:|--|
+| 1 | Alvira|
 | 2 |Dolores|
 | 3 |Luisianna|
 | 4 |Eleocaisa|
@@ -28277,9 +28402,11 @@ Names
 | 97 |Eldora|
 | 98 |Floriana|
 | 99 |Enriqua|
-| 100 | Teresa|
+| 100 |  Teresa|
 
-| 1 |Amalita|
+| d100| Name |
+|:--:|--|
+| 1 | Amalita|
 | 2 |Macaria|
 | 3 |Eduina|
 | 4 |Mora|
@@ -28331,8 +28458,9 @@ Names
 | 50 |Lacadia|
 
 #### Hispanic Male Names #1 -:-:- 
-
-| 1 |Miximino|
+| d100| Name |
+|:--:|--|
+| 1 | Miximino|
 | 2 |Saniago|
 | 3 |Inriques|
 | 4 |Sigfrido|
@@ -28484,9 +28612,11 @@ Names
 | 97 |Sidonio|
 | 98 |Federío|
 | 99 |Prospero|
-| 100 | Sancho|
+| 100 |  Sancho|
 
-| 1 |Ishmael|
+| d100| Name |
+|:--:|--|
+| 1 | Ishmael|
 | 2 |Inocencio|
 | 3 |Mario|
 | 4 |Gustavo|
@@ -28538,8 +28668,9 @@ Names
 | 50 |Adnon|
 
 ### Hispanic Male Names #3 -:-:- 
-
-| 1 |Bastien|
+| d100| Name |
+|:--:|--|
+| 1 | Bastien|
 | 2 |Exequiel|
 | 3 |Luciliano|
 | 4 |Erusmo|
@@ -28691,9 +28822,11 @@ Names
 | 97 |Durango|
 | 98 |Enrique|
 | 99 |Chano|
-| 100 | Lago|
+| 100 |  Lago|
 
-| 1 |Ygnocio|
+| d100| Name |
+|:--:|--|
+| 1 | Ygnocio|
 | 2 |Ezikiel|
 | 3 |Diago|
 | 4 |Montana|
@@ -28792,9 +28925,11 @@ Names
 | 97 |Perdido|
 | 98 |Damián|
 | 99 |Chilo|
-| 100 | Zergio|
+| 100 |  Zergio|
 
-| 1 |Edgardo|
+| d100| Name |
+|:--:|--|
+| 1 | Edgardo|
 | 2 |Gonzalo|
 | 3 |Cesar|
 | 4 |Nando|
@@ -28846,8 +28981,9 @@ Names
 | 50 |Delmar|
 
 #### Hispanic Male Names #5 -:-:- 
-
-| 1 |Malathi|
+| d100| Name |
+|:--:|--|
+| 1 | Malathi|
 | 2 |Pratiksha|
 | 3 |Apoorva|
 | 4 |Varsha|
@@ -28999,9 +29135,11 @@ Names
 | 97 |Sushma|
 | 98 |Gazala|
 | 99 |Damayanti|
-| 100 | Aahna|
+| 100 |  Aahna|
 
-| 1 |Karthika|
+| d100| Name |
+|:--:|--|
+| 1 | Karthika|
 | 2 |Yamini|
 | 3 |Sudha|
 | 4 |Ranjith|
@@ -29105,9 +29243,11 @@ Names
 | 97 |Surinder|
 | 98 |Krishnayya|
 | 99 |Dipankar|
-| 100 | Raj|
+| 100 |  Raj|
 
-| 1 |Rajendra|
+| d100| Name |
+|:--:|--|
+| 1 | Rajendra|
 | 2 |Suresh|
 | 3 |Vinod|
 | 4 |Ganpatrao|
@@ -29206,9 +29346,11 @@ Names
 | 97 |Kalpesh|
 | 98 |Nibaran|
 | 99 |Vishva|
-| 100 | Wasim|
+| 100 |  Wasim|
 
-| 1 |Aditya|
+| d100| Name |
+|:--:|--|
+| 1 | Aditya|
 | 2 |Dnyandeo|
 | 3 |Yogesh|
 | 4 |Arjun|
@@ -29271,8 +29413,9 @@ Get Free RPG Resources Visit
 ## ITEMS
 
 ### FICTIONAL OCCULT BOOK TITLES
-
-| 1 |Daemoniaca Eternum|
+| d100| Name |
+|:--:|--|
+| 1 | Daemoniaca Eternum|
 | 2 |The Book of Mysteries|
 | 3 |The Tome of Black Magic|
 | 4 |The Book of Vampirism|
@@ -29375,7 +29518,9 @@ Get Free RPG Resources Visit
 
 ### HAUNTED OBJECTS
 
-| 1 |An electric lamp that works without being plugged in, the light is tinted a bit green|
+| d100| Name |
+|:--:|--|
+| 1 | An electric lamp that works without being plugged in, the light is tinted a bit green|
 | 2 |A leather-bound journal that contains messages about the future but they are distorted and doom-filled|
 | 3 |A set of old coins that causes those who touch them to experience intense deja vu|
 | 4 |A cupboard that seems to rearrange its contents when the doors are closed|
@@ -29410,18 +29555,18 @@ Get Free RPG Resources Visit
 | 33 |A cameo brooch that reflects an image of the wearer’s greatest fear|
 | 34 |A strange symbol appears periodically on an elevator control panel in a hotel that seems to indicate a secret floor|
 | 35 |A vintage pocket watch that sometimes momentarily freezes time, which leaves anyone who is near it frozen for a few minutes|
-| 36 |A fur clip that causes time to slow down or speed up unpredictably when its owner is in danger.
+| 36 |A fur clip that causes time to slow down or speed up unpredictably when its owner is in dange |
 | 37 |A rusty antique brass lock that unlocks on its own whenever it’s approached by someone in distress|
 | 38 |A wooden rocking chair that rocks on its own, as if someone were sitting in it|
 | 39 |A quill pen that writes out sinister messages of its own accord|
-| 40 |A painting where the figures always seem to subtly move and try to communicate with the viewer.
+| 40 |A painting where the figures always seem to subtly move and try to communicate with the viewe |
 
 ### HAUNTED OBJECTS
 
 | 41 |A small bell with cuneiform around the inside and when rung it shatters glass nearby|
 | 42 |A pair of gloves that cause the wearer to experience vivid memories of someone else’s life|
 | 43 |An unremarkable key with a tiny symbol scratched on it that seemingly opens all locks|
-| 44 |A necklace with a pendant emits an otherworldly glow when someone lies to the owner.
+| 44 |A necklace with a pendant emits an otherworldly glow when someone lies to the owne |
 | 45 |A small clockwork wind-up toy that sometimes moves whether it is wound up or not|
 | 46 |A compass has runes at the four directional points and always points towards something that the user most fears|
 | 47 |A porcelain figurine that appears to watch whoever is in the room with it|
@@ -29454,7 +29599,7 @@ Get Free RPG Resources Visit
 | 74 |A set of tarot cards that cause the reader to experience physical pain when they interpret them|
 | 75 |An old pair of gloves that seem to have a life of their own and may attempt to choke those who wear them|
 | 76 |A map that shows roads and buildings that do not exist on this plane of existence|
-| 77 |A rag doll that changes its expression whenever nobody is looking.
+| 77 |A rag doll that changes its expression whenever nobody is lookin |
 | 78 |A statue that weeps when it is left alone|
 | 79 |An old, tattered book written in a language and script that nobody can decipher, but those who try to feel a sense of terror and anxiety|
 | 80 |An old bottle of perfume that occasionally shows up near the owner even if they left it at home|
@@ -29487,16 +29632,16 @@ Get Free RPG Resources Visit
 | 51 |Shell casing (.45 caliber)|
 | 52 |Perfume bottle (empty)|
 | 53 |Chess piece (rook)|
-| 54 |Two mismatched men’s shoes.
+| 54 |Two mismatched men’s shoe |
 | 55 |Pulp magazine|
 | 56 |Ticket stub (baseball game)|
 | 57 |Lamp|
 | 58 |Crumpled city map|
 | 59 |Wonderlite cigarette lighter (no fuel)|
-| 60 |Bible inscribed "for whoever needs it"
+| 60 |Bible inscribed "for whoever needs it"|
 | 61 |Noisy oscillating fan|
 | 62 |Metal trash can|
-| 63 |Gold locket inscribed "S. G. K."
+| 63 |Gold locket inscribed "S. G. K."|
 | 64 |Silver cigarette case (1D4 cigarettes)|
 | 65 |Pin cushion (1D4 pins, 1D6 needles)|
 | 66 |Pocket watch (broken)|
@@ -29521,7 +29666,7 @@ Get Free RPG Resources Visit
 | 85 |Wind-up monkey toy|
 | 86 |Toothbrush (used)|
 | 87 |Toy soldier|
-| 88 |Pair of ladies’ underwear.
+| 88 |Pair of ladies’ underwea |
 | 89 |Bag of marbles (1D12)|
 | 90 |Passport (dresser drawer)|
 | 91 |Bar of soap (well-used)|
@@ -29535,7 +29680,9 @@ Get Free RPG Resources Visit
 | 99 |Safety razor|
 | 100 | Cufflink|
 
-| 1 |Mexican wine bottle (empty)|
+| d100| Name |
+|:--:|--|
+| 1 | Mexican wine bottle (empty)|
 | 2 |Expensive cigar|
 | 3 |Pair of scissors|
 | 4 |Half-eaten sandwich|
@@ -29543,7 +29690,7 @@ Get Free RPG Resources Visit
 | 6 |Gum wrappers (1D20)|
 | 7 |Wooden luggage rack|
 | 8 |Coat rack|
-| 9 |Hip flask inscribed "A. D."
+| 9 |Hip flask inscribed "A. D."|
 | 10 |Eviction notice (address of a nearby apartment building)|
 | 11 |Week-old newspaper|
 | 12 |Business card (VP of a large bank)|
@@ -29557,7 +29704,7 @@ Get Free RPG Resources Visit
 | 20 |Compact mirror|
 | 21 |Typewriter (half-written letter stuck in it)|
 | 22 |Drinking glass|
-| 23 |Los Angeles postcard signed "Rick"
+| 23 |Los Angeles postcard signed "Rick"|
 | 24 |Threadbare hat|
 | 25 |Paper bag with some print on it|
 | 26 |Ceramic ashtray|
@@ -29639,7 +29786,9 @@ Get Free RPG Resources Visit
 | 99 |Mummified baby rabbit|
 | 100 | Twisted iron athame|
 
-| 1 |Draco flying lizard (wet specimen)|
+| d100| Name |
+|:--:|--|
+| 1 | Draco flying lizard (wet specimen)|
 | 2 |Human femur walking cane|
 | 3 |Silver grouse claw pin|
 | 4 |Gnome figurine sitting on a mushroom|
@@ -29691,8 +29840,9 @@ Get Free RPG Resources Visit
 | 50 |Ball and claw potion bottle|
 
 ### ODDITIES #
-
-| 1 |Cougar skin cowl|
+| d100| Name |
+|:--:|--|
+| 1 | Cougar skin cowl|
 | 2 |Ancient shipwreck bowl|
 | 3 |Cranioclast|
 | 4 |Blood vial pendant|
@@ -29844,9 +29994,11 @@ Get Free RPG Resources Visit
 | 97 |Daemonologie|
 | 98 |Dictionnaire Infernal|
 | 99 |Cosmic Tradition|
-| 100 | Cipher Manuscripts|
+| 100 |  Cipher Manuscripts|
 
-| 1 |Deutsches Theatrum Chemicum|
+| d100| Name |
+|:--:|--|
+| 1 | Deutsches Theatrum Chemicum|
 | 2 |The Focus of Life|
 | 3 |Sibylline Books|
 | 4 |The Most Holy Trinosophia|
@@ -29901,7 +30053,9 @@ Get Free RPG Resources Visit
 
 ### DEAD BODIES WITH CLUES
 
-| 1 |Sex: Male | Age: | 23-28 | | Clothes: No Shirt, Pants | Marks: Multiple gunshots | Clues: Matchbook from a seedy bar|
+| d100| Name |
+|:--:|--|
+| 1 | Sex: Male | Age: | 23-28 | | Clothes: No Shirt, Pants | Marks: Multiple gunshots | Clues: Matchbook from a seedy bar|
 | 2 |Sex: Male | Age: | 18-22 | | Clothes: Suit | Marks: Mildew | Clues: Metallic disc|
 | 3 |Sex: Male | Age: | 46-50 | | Clothes: Jazz suit| Marks: Gunshot to chest | Clues: Strange mushrooms|
 | 4 |Sex: Male | Age: | 63-68 | | Clothes: Suit | Marks: None | Clues: City map with strange markings near several locations|
@@ -29930,7 +30084,7 @@ Get Free RPG Resources Visit
 | 27 |Sex: Female | Age: | 18-22 | | Clothes: Formal Dress | Marks: Multiple gunshots | Clues: Potion vial|
 | 28 |Sex: Male | Age: | 29-33 | | Clothes: Zoot Suit | Marks: None | Clues: Bloodied handkerchief with the initials|
 "J.T." embroidered on it
-| 29 |Sex: Male | Age: | 23-28 | | Clothes: Suit | Marks: Swollen abdomen | Clues: Wallet with a driver’s license belonging to a man named "Vincent Black"
+| 29 |Sex: Male | Age: | 23-28 | | Clothes: Suit | Marks: Swollen abdomen | Clues: Wallet with a driver’s license belonging to a man named "Vincent Black"|
 | 30 |Sex: Female | Age: | 34-39 | | Clothes: Flapper Dress| Marks: None | Clues: Small crystalline pyramid|
 | 31 |Sex: Male | Age: | 57-62 | | Clothes: Jazz suit | Marks: Multiple gunshots | Clues: Crystal cube|
 | 32 |Sex: Male | Age: | 57-62 | | Clothes: Shirt, Pants | Marks: Extensive bruising | Clues: Mysterious symbol made of tin|
@@ -29959,11 +30113,11 @@ Get Free RPG Resources Visit
 | 52 |Sex: Male | Age: | 63-68 | | Clothes: No Shirt, Pants | Marks: Gunshot to the abdomen | Clues: Secret message written in code|
 | 53 |Sex: Male | Age: | 93-98 | | Clothes: Jazz suit | Marks: Circle bruises on chest | Clues: Rusted cog|
 | 54 |Sex: Female | Age: | 46-50 | | Clothes: Blouse, Skirt| Marks: Multiple gunshots | Clues: Cloth embroidered with|
-"FBK"
+"FBK"|
 | 55 |Sex: Male | Age: | 81-86 | | Clothes: Shirt, Pants | Marks: Swollen arm | Clues: Unidentifiable ooze|
 | 56 |Sex: Male | Age: | 57-62 | | Clothes: Suit | Marks: Gaping wound in abdomen | Clues: Golden chalice|
 | 57 |Sex: Female | Age: | 40-45 | | Clothes: Blouse, Skirt | Marks: None | Clues: Muddy footprints|
-| 58 |Sex: Male | Age: | 34-39 | | Clothes: Shirt, Pants | Marks: Multiple gunshots | Clues: Playing card with a handwritten message on the back: "Ace up my sleeve"
+| 58 |Sex: Male | Age: | 34-39 | | Clothes: Shirt, Pants | Marks: Multiple gunshots | Clues: Playing card with a handwritten message on the back: "Ace up my sleeve"|
 | 59 |Sex: Male | Age: | 23-28 | | Clothes: Shirt, Pants | Marks: Crushed bones | Clues: Broken hourglass|
 | 60 |Sex: Male | Age: | 63-68 | | Clothes: No Shirt, Pants | Marks: None | Clues: Lock of hair tied with a red ribbon|
 | 61 |Sex: Female | Age: | 63-68 | | Clothes: Suit | Marks: Swollen face | Clues: Fancy suit jacket|
@@ -29981,12 +30135,12 @@ Get Free RPG Resources Visit
 | 70 |Sex: Male | Age: | 34-39 | | Clothes: Suit | Marks: Leg severed | Clues: Piece of paper with strange symbols written in blood|
 | 71 |Sex: Male | Age: | 63-68 | | Clothes: Shirt, Pants | Marks: Extensive burning | Clues: Ancient talisman|
 | 72 |Sex: Male | Age: | 51-56 | | Clothes: Shirt, Pants | Marks: Multiple stab wounds | Clues: Lipstick-stained cigarette butt|
-| 73 |Sex: Male | Age: | 29-33 | | Clothes: None | Marks: Swollen legs | Clues: Tarnished locket engraved with "DSZ"
+| 73 |Sex: Male | Age: | 29-33 | | Clothes: None | Marks: Swollen legs | Clues: Tarnished locket engraved with "DSZ"|
 | 74 |Sex: Male | Age: | 99-104 | | Clothes: Suit | Marks: None | Clues: Match book from nearby hotel|
 | 75 |Sex: Male | Age: | 29-33 | | Clothes: No Shirt, Pants | Marks: Symbols cut into flesh | Clues: Single tarot card|
-| 76 |Sex: Male | Age: | 57-62 | | Clothes: No Shirt, Pants | Marks: None | Clues: Torn photograph of a woman with a note on the back: "Watch your back, lover."
+| 76 |Sex: Male | Age: | 57-62 | | Clothes: No Shirt, Pants | Marks: None | Clues: Torn photograph of a woman with a note on the back: "Watch your back, lover."|
 | 77 |Sex: Male | Age: | 69-74 | | Clothes: Suit | Marks: Green streaks under skin | Clues: Threatening note|
-| 78 |Sex: Female | Age: | 81-86 | | Clothes: Blouse, Pants | Marks: None | Clues: A note saying "The owl flies at midnight."
+| 78 |Sex: Female | Age: | 81-86 | | Clothes: Blouse, Pants | Marks: None | Clues: A note saying "The owl flies at midnight."|
 | 79 |Sex: Male | Age: | 18-22 | | Clothes: Suit | Marks: None | Clues: A grimoire|
 | 80 |Sex: Male | Age: | 46-50 | | Clothes: Suit | Marks: Body drained of fluid| Clues: Vial of glowing pulsing liquid|
 | 81 |Sex: Male | Age: | 63-68 | | Clothes: No Shirt, Pants | Marks: None | Clues: Tattered journal|
@@ -29996,7 +30150,7 @@ Get Free RPG Resources Visit
 | 85 |Sex: Male | Age: | 34-39 | | Clothes: Suit | Marks: Head wound | Clues: Sharp piece of obsidian|
 | 86 |Sex: Male | Age: | 51-56 | | Clothes: Suit | Marks: None | Clues: Bloodstained piece of cloth|
 | 87 |Sex: Female | Age: | 81-86 | | Clothes: Formal gown| Marks: None | Clues: Top secret dossier|
-| 88 |Sex: Female | Age: | 87-92 | | Clothes: House dress | Marks: Gunshot to head | Clues: Matchbook with a message scrawled inside: "We’ll get you next time."
+| 88 |Sex: Female | Age: | 87-92 | | Clothes: House dress | Marks: Gunshot to head | Clues: Matchbook with a message scrawled inside: "We’ll get you next time."|
 | 89 |Sex: Male | Age: | 81-86 | | Clothes: Suit | Marks: Crushed bones | Clues: Bullet casing from a small-caliber handgun|
 | 90 |Sex: Male | Age: | 69-74 | | Clothes: Shirt, Pants | Marks: Missing brain | Clues: Bloody footprints|
 | 91 |Sex: Male | Age: | 46-50 | | Clothes: No Shirt, Pants | Marks: Runes written in blood | Clues: Brass knuckles with bloodstains on them|
@@ -30011,8 +30165,9 @@ Get Free RPG Resources Visit
 | 100 |Sex: Male | Age: | 69-74 | | Clothes: No Shirt, Pants | Marks: Throat cut | Clues: Wooden puzzle box|
 
 ### ELDIRTCH CLUES
-
-| 1 |Strange runes etched into the floor near the bedroom|
+| d100| Name |
+|:--:|--|
+| 1 | Strange runes etched into the floor near the bedroom|
 | 2 |An unsettling odor of decay and brine|
 | 3 |Black, oily residue on a windowsill|
 | 4 |A diary with entries in an indecipherable language|
@@ -30065,7 +30220,7 @@ Get Free RPG Resources Visit
 
 ### ELDRITCH CLUES
 
-| 51 |A dark, viscous fluid covers the kitchen floor.
+| 51 |A dark, viscous fluid covers the kitchen floo |
 | 52 |Glowing symbols engraved into the ceiling seem to pulsate|
 | 53 |An old, tattered book with pages covered in an unknown script that seems to shift|
 | 54 |A collection of antique mirrors reflect warped, twisted reflections|
@@ -30138,7 +30293,7 @@ Get Free RPG Resources Visit
 | 68 |Hidden ledger|
 | 69 |Cigarette butt with unfamiliar brand|
 | 70 |Boot prints|
-| 71 |Cryptic note left in a mailbox: "Sunnyside at noon"
+| 71 |Cryptic note left in a mailbox: "Sunnyside at noon"|
 | 72 |Missing key|
 | 73 |Crinkled piece of paper|
 | 74 |Blackmail note|
@@ -30167,9 +30322,11 @@ Get Free RPG Resources Visit
 | 97 |Business card with a mysterious symbol|
 | 98 |Knife hidden on the back of a picture frame|
 | 99 |Fresh coat of paint|
-| 100 | Forged painting|
+| 100 |  Forged painting|
 
-| 1 |Several addresses written in the margins of a book|
+| d100| Name |
+|:--:|--|
+| 1 | Several addresses written in the margins of a book|
 | 2 |Book with a hidden compartment|
 | 3 |Missing picture from frame|
 | 4 |Hidden key|
@@ -30223,8 +30380,9 @@ Get Free RPG Resources Visit
 ## PLACES
 
 ### DREAMSCAPES
-
-| 1 |An Escher-like landscape with inconsistent gravity and the laws of physics constantly shift|
+| d100| Name |
+|:--:|--|
+| 1 | An Escher-like landscape with inconsistent gravity and the laws of physics constantly shift|
 | 2 |An infinite void filled with glowing shapes that seem to dance in the darkness|
 | 3 |A bleak and desolate landscape strewn with withered and dead plants and trees|
 | 4 |A surreal cityscape with twisted metal buildings and a deep, pulsating red sky|
@@ -30233,8 +30391,8 @@ Get Free RPG Resources Visit
 | 7 |A shimmering, swirling ocean with waves of pure energy, multicolored clouds filling the sky|
 | 8 |A shadowy labyrinth of twisting tunnels and corridors|
 | 9 |A surreal landscape of impossible geometry where the laws of space and time are bent and distorted|
-| 10 |A barren wasteland of black sand and broken stone where nothing grows and the wind howls constantly.
-| 11 |A spaceship with an eerie glow half sunken in a purple sea, the bloated bodies of aliens floating within its chambers.
+| 10 |A barren wasteland of black sand and broken stone where nothing grows and the wind howls constantl |
+| 11 |A spaceship with an eerie glow half sunken in a purple sea, the bloated bodies of aliens floating within its chamber |
 | 12 |A dense jungle filled with alien flora and fauna|
 | 13 |A labyrinthine cave system filled with strange rock formations and gleaming crystals|
 | 14 |A bizarre and otherworldly circus with grotesque clowns and haunting acrobats|
@@ -30279,11 +30437,11 @@ Get Free RPG Resources Visit
 | 50 |An ancient temple filled with dark, forbidden rituals and the remnants of ancient tombs|
 | 51 |A demented, futuristic city with myriads of robotic sentinels and deadly drones|
 | 52 |Dried, cracked earth that stretches to the extremely distant horizon littered with parts of broken titanic machines|
-| 53 |A hellish landscape of boiling acid pools in livid colors, acrid fumes rise from the surfaces, and grotesquely shaped pillars of salt stand as sentinels among them.
-| 54 |A catacomb decorated from floor to ceiling with the bones of thousands of souls. Many walls desperately whisper their dark stories.
+| 53 |A hellish landscape of boiling acid pools in livid colors, acrid fumes rise from the surfaces, and grotesquely shaped pillars of salt stand as sentinels among the |
+| 54 |A catacomb decorated from floor to ceiling with the bones of thousands of souls. Many walls desperately whisper their dark storie |
 | 55 |A completely white void filled with shadowy shambling faceless figures|
 | 56 |A steampunk city filled with dark, sooty alleys and towering smokestacks|
-| 57 |An underwater world of dim, labyrinthine tunnels, shadowy creatures lurk in every crevice.
+| 57 |An underwater world of dim, labyrinthine tunnels, shadowy creatures lurk in every crevic |
 | 58 |An ancient library filled with carnivorous tomes|
 | 59 |A haunted asylum filled with the remanents of twisted experiments and lost souls|
 | 60 |A surreal world of severe angles constructed inside a vast translucent crystal|
@@ -30308,7 +30466,7 @@ Get Free RPG Resources Visit
 | 79 |Swirling mist and fog partially obscure a hideous landscape of razor-sharp shards of rock, beyond the shroud appears to be the very edge of the world|
 | 80 |A dystopian future where oppressive all-seeing governments and corporations control all|
 | 81 |A faceless unstoppable entity pursues victims through a maze of crackling lightning|
-| 82 |An abandoned city turned on its side filled with ghosts.
+| 82 |An abandoned city turned on its side filled with ghost |
 | 83 |An alien landscape filled with towering, impossible structures and ancient, inscrutable technology that blinks and buzzes with energy|
 | 84 |A beautiful forest being torn apart by massive claw-like machines|
 | 85 |Dark, oppressively hot tunnels somewhere in the bowels of the earth, drums rumble even deeper|
@@ -30323,7 +30481,7 @@ Get Free RPG Resources Visit
 | 94 |A shifting mountain landscape where everything constantly changes size|
 | 95 |A haunted museum filled with cursed artifacts and the spirits of those who were foolish enough to tamper with them|
 | 96 |Shimmering, iridescent scales form every part of this forsaken hellscape|
-| 97 |A vast, desolate wasteland filled with eerie, monolithic statues, the massive, dying sun gives no heat.
+| 97 |A vast, desolate wasteland filled with eerie, monolithic statues, the massive, dying sun gives no hea |
 | 98 |An enchanted garden filled with carnivorous plants and sentient flowers|
 | 99 |Spectral insects haunt the eerie parkland|
 | 100 |A haunted theater with a monstrous performance in full swing|
@@ -30383,7 +30541,9 @@ Get Free RPG Resources Visit
 | 99 |Inwood, Rhode Island|
 | 100 | Cedarville, Vermont|
 
-| 1 |Redwood, Connecticut|
+| d100| Name |
+|:--:|--|
+| 1 | Redwood, Connecticut|
 | 2 |Pownal, Vermont|
 | 3 |Oakwood, Maine|
 | 4 |Zephyr Cove, New Hampshire|
@@ -30437,8 +30597,9 @@ Get Free RPG Resources Visit
 ## ANGEL AND DEMON NAMES
 
 ### ANGEL AND DEMON NAMES #1
-
-| 1 |Botis|
+| d100| Name |
+|:--:|--|
+| 1 | Botis|
 | 2 |Tzepater|
 | 3 |Stragiton|
 | 4 |Peliel|
@@ -30590,9 +30751,11 @@ Get Free RPG Resources Visit
 | 97 |Koupeel|
 | 98 |Moria|
 | 99 |Iokhth|
-| 100 | Iamoel|
+| 100 |  Iamoel|
 
-| 1 |Orpsan|
+| d100| Name |
+|:--:|--|
+| 1 | Orpsan|
 | 2 |Ophiael|
 | 3 |Stanthyros|
 | 4 |Kakloudalos|
@@ -30644,8 +30807,9 @@ Get Free RPG Resources Visit
 | 50 |Chabra|
 
 ### ANGEL AND DEMON NAMES #3
-
-| 1 |Berith|
+| d100| Name |
+|:--:|--|
+| 1 | Berith|
 | 2 |Kybael|
 | 3 |Orkhat|
 | 4 |Naberius|
@@ -30797,9 +30961,11 @@ Get Free RPG Resources Visit
 | 97 |Abaoth|
 | 98 |Ergatos|
 | 99 |Pharsael|
-| 100 | Khartisiel|
+| 100 |  Khartisiel|
 
-| 1 |Pisel|
+| d100| Name |
+|:--:|--|
+| 1 | Pisel|
 | 2 |Purson|
 | 3 |Pelaphiel|
 | 4 |Furfur|
@@ -30854,7 +31020,9 @@ Get Free RPG Resources Visit
 
 ### PHOBIAS
 
-| 1 |Mottephobia - fear of moths|
+| d100| Name |
+|:--:|--|
+| 1 | Mottephobia - fear of moths|
 | 2 |Aichmophobia - fear of sharp and pointy things|
 | 3 |Zeusophobia - fear of deities|
 | 4 |Ophidiophobia - fear of snakes|
@@ -30962,7 +31130,9 @@ Get Free RPG Resources Visit
 
 ### CRYPTIDS
 
-| 1 |Fur-bearing trout|
+| d100| Name |
+|:--:|--|
+| 1 | Fur-bearing trout|
 | 2 |Fouke Monster|
 | 3 |Bukit Timah Monkey Man|
 | 4 |Belled buzzard|
@@ -31067,7 +31237,9 @@ Get Free RPG Resources Visit
 
 ### ALCHEMISTS
 
-| 1 |Oswald Croll (c. | 1563-1609 | 
+| d100| Name |
+|:--:|--|
+| 1 | Oswald Croll (c.  1563-1609) | 
 | 2 |Andreas Libavius (1555–1616)|
 | 3 |Jacob Boehme (1575–1624)|
 | 4 |Dionysius Andreas Freher (1649–1728)|
@@ -31169,8 +31341,9 @@ Get Free RPG Resources Visit
 | 100 |Basset Jhones (born 1613)|
 
 ### DETECTIVE NAMES - FEMALE
-
-| 1 |Lela Patzer|
+| d100| Name |
+|:--:|--|
+| 1 | Lela Patzer|
 | 2 |Minnie Winterbourne|
 | 3 |Fern Ward|
 | 4 |Elsie Click|
@@ -31272,8 +31445,9 @@ Get Free RPG Resources Visit
 | 100 |Beulah Sidebottom|
 
 ### DETECTIVE NAMES - MALE
-
-| 1 |Ed Raslo|
+| d100| Name |
+|:--:|--|
+| 1 | Ed Raslo|
 | 2 |Homer Sharpe|
 | 3 |Arthur Syveran|
 | 4 |Melvin Cross|
@@ -31425,9 +31599,11 @@ Get Free RPG Resources Visit
 | 97 |Professor Magnus Hastings|
 | 98 |Doctor Sable Mendoza|
 | 99 |Professor Percival Warren|
-| 100 | Professor Belinda Thorne|
+| 100 |  Professor Belinda Thorne|
 
-| 1 |Doctor Reginald Clarke|
+| d100| Name |
+|:--:|--|
+| 1 | Doctor Reginald Clarke|
 | 2 |Doctor Balthazar Hammond|
 | 3 |Professor Esme Marchand|
 | 4 |Professor Isabeau Dupont|
@@ -31479,8 +31655,9 @@ Get Free RPG Resources Visit
 | 50 |Doctor Tiberius Braxton|
 
 ### FICTIONAL OCCULT SCHOLAR NAMES #2
-
-| 1 |Doctor Lysander Boone|
+| d100| Name |
+|:--:|--|
+| 1 | Doctor Lysander Boone|
 | 2 |Doctor Halcyon Wren|
 | 3 |Doctor Ovid Thomas|
 | 4 |Doctor Cassius Gilmore|
@@ -31634,7 +31811,9 @@ Get Free RPG Resources Visit
 | 99 |Pythagoras|
 | 100 | La Voisin (1640–1680)|
 
-| 1 |Stanislas de Guaita (1861–1899)|
+| d100| Name |
+|:--:|--|
+| 1 | Stanislas de Guaita (1861–1899)|
 | 2 |Moina Mathers (1865–1928)|
 | 3 |A. Frank Glahn (1865–1941)|
 | 4 |Evangeline Adams (1868–1932)|
@@ -31692,8 +31871,9 @@ Get Free RPG Resources Visit
 ## HOOKS
 
 ### ELDRITCH STORY HOOKS
-
-| 1 |Supposedly there is an apartment in town where gravity no longer works|
+| d100| Name |
+|:--:|--|
+| 1 | Supposedly there is an apartment in town where gravity no longer works|
 | 2 |A meteorite crashes and begins growing crystals that kill everything in its path|
 | 3 |An adventurer is looking for help mounting an expedition to Mongolia|
 | 4 |A man who seems to be able to control the minds of rats|
@@ -31708,7 +31888,7 @@ Get Free RPG Resources Visit
 | 13 |A scientist creates a giant bat that he trains to attack his enemies|
 | 14 |People near the docks have been going mad and claiming they are seeing demons|
 | 15 |A young boy who seems to be able to communicate with the dead|
-| 16 |It is said that the people who wander in the woods behind town will slowly lose their sense of self if they tarry there.
+| 16 |It is said that the people who wander in the woods behind town will slowly lose their sense of self if they tarry ther |
 | 17 |A person who twitches a lot and speaks with a deep unnaturally sounding voice has been asking a lot of questions around town|
 | 18 |A Viking sword was unearthed in Rhode Island|
 | 19 |A mummified gorilla hand provokes its owner to murder|
@@ -31746,7 +31926,7 @@ Get Free RPG Resources Visit
 | 48 |An ominous mist that moves as if it is alive|
 | 49 |A group was seen at the edge of town. They were standing in a circle wearing bizarre, brightly colored masks|
 | 50 |An unnatural fog has been appearing around an apartment building at night|
-| 51 |Rumors say that the traveling freak show is kidnapping locals, altering them, and forcing them to perform in the show.
+| 51 |Rumors say that the traveling freak show is kidnapping locals, altering them, and forcing them to perform in the sho |
 | 52 |Supposedly there is a group of people who are completely immobile as if frozen in time|
 | 53 |A mad scientist is shrinking his henchmen so they can sneak into museums and steal artifacts|
 | 54 |An artifact said to have been found in the artic is being brought to a nearby university for study|
@@ -31771,7 +31951,7 @@ Get Free RPG Resources Visit
 | 73 |Reports say a caveman was discovered frozen in ice|
 | 74 |People have reported hearing strange voices along the road that leads to the quarry|
 | 75 |A young woman is reportedly able to generate and control electricity|
-| 76 |A ventriloquist dummy was found in an old attic. It whispers and moves on its own when people are not directly paying attention to it.
+| 76 |A ventriloquist dummy was found in an old attic. It whispers and moves on its own when people are not directly paying attention to i |
 | 77 |Archaeologists discover a lost underground civilization populated by a race of mutants|
 | 78 |A scientist is trying to protect a dinosaur he discovered in the jungle from carnival owners who want to steal it|
 | 79 |There have been reports of a strange figure reaping fields at night with a massive scythe|
@@ -31793,7 +31973,7 @@ Get Free RPG Resources Visit
 | 92 |Several people reported being chased by a pack of feral dogs, and the pack seemed unusually intelligent|
 | 93 |A group of people who walk and talk backward has been wandering in the woods at night|
 | 94 |A shimmering circle of light and energy was spotted near a graveyard, or at least that’s what the drunken caretaker said|
-| 95 |Local children have been getting a strange rash on the palms of their hands. The children are also saying that a "dark angel" visits them in their dreams.
+| 95 |Local children have been getting a strange rash on the palms of their hands. The children are also saying that a "dark angel" visits them in their dream |
 | 96 |The construction of a new city hall building has disturbed an ancient burial ground|
 | 97 |A group of people was seen running through the streets screaming, and it seems like they were running from the abandoned mill|
 | 98 |People have been reporting seeing glimpses of ape-like creatures at night|
@@ -31804,7 +31984,9 @@ Get Free RPG Resources Visit
 
 ### LIST OF H.P. LOVECRAFT STORIES
 
-| 1 |The Alchemist (1908)|
+| d100| Name |
+|:--:|--|
+| 1 | The Alchemist (1908)|
 | 2 |Ashes (with C. M. Eddy, Jr.; 1923)|
 | 3 |At the Mountains of Madness (February–22 March 1931)|
 | 4 |Azathoth (June 1922)|
@@ -31903,7 +32085,8 @@ Get Free RPG Resources Visit
 | 97 |The Thing on the Doorstep (21–24 August 1933)|
 | 98 |Through the Gates of the Silver Key (with E. Hoffmann Price; October 1932–April 1933)|
 | 99 |"Till A’ the Seas" (with R. H. Barlow; January 1935)|
-| 100 |The Tomb (June 1917)|
+| 100 | The Tomb (June 1917)|
+
 | 101 |The Transition of Juan Romero (16 September 1919)|
 | 102 |The Trap (with Henry S. Whitehead; late 1931)|
 | 103 |The Tree (1920)|
@@ -32023,116 +32206,119 @@ Mission Hooks
 
 ## Missions Hooks
 
-| 1 |A couple sailing around the world was reported missing near the South China Sea. The husband is a partner in a large European bank and the wife is a politically important person in Luxemburg.
-| 2 |An opposition leader in Caracas claims to have evidence of North Korea selling WMDs to the regime.
-| 3 |A French Foreign Legion unit captured a terrorist convoy in Chad only to discover it was transporting plutonium. The plutonium needs to be secured before the terrorists launch a counter-attack.
-| 4 |An FBI agent disappeared in San Diego. Her last known location was a safe house in the downtown area.
-| 5 |A computer file of the identities of 50 US and British undercover agents was stolen from a London safe house.
-| 6 |A journalist disappeared in Uzbekistan. The journalist’s employer said she was getting close to breaking a story about an international drug ring.
-| 7 |A bloodsoaked laptop found on a street in Bogota had fingerprints from a missing RAW (Research and Analysis Wing, India) agent on it. A DNA test on the blood hasn’t been done yet and the computer has a hard drive password.
-| 8 |The US Navy lost contact with a submarine in the Indian Ocean. A search is underway.
-| 9 |A billionaire’s eight-year-old son was kidnapped. A ransom is remanded.
-| 10 |The daughter of a Russian oligarch was kidnapped. He’s offering an incredible reward.
-| 11 |A US special forces team captured a ship smuggling weapons. The team requested assistance for an unknown reason.
-| 12 |A Ukranian scientist requested protection in Kyiv.
-| 13 |The CEO of a tech startup with a US defense contract disappeared in Bali. His hotel room was ransacked and the local authorities did not find anything. However, if the characters search the room they will find a thumbdrive under a bed.
-| 14 |A famed scholar disappeared in northern India.
-| 15 |The CDC reported a sample of the smallpox virus missing.
-| 16 |A break-in at SpaceX headquarters has some concerned that sensitive material was stolen.
-| 17 |A US computer scientist disappeared while on vacation in Spain. His profile indicates he has specialized knowledge of nuclear reactor computer control systems.
-| 18 |A missing Russian nuclear physicist was reportedly seen in Damascus.
-| 19 |There’s a credible threat of a bomb on a flight from London to New York.
-| 20 |A CIA agent requested a covert meeting in Mexico City. The agent simply hands the characters a large envelope and says, "Check this out." In the envelope are a dozen thumb drives. On the drives the characters find information regarding a terrorism plot to attack the port at San Degio.
-| 21 |A member of a UN peacekeeping force was abducted in Port-au-Prince.
-| 22 |A cargo ship has capsized in the Red Sea. There may be a chance to save the crew.
-| 23 |Credible intelligence points to an imminent terror attack on a hotel in Nairobi.
-| 24 |A terrorist group seized the Dushanbe International Airport.
-| 25 |An FBI agent requested a meeting in Denver. The agent asks the party to attend a secret defence conference in Kuala Lumpur to locate a dangerous arms dealer.
-| 26 |An ASIS agent requested a covert meeting in Miami. The agent tells the characters about a conspiracy to assassinate a US senator.
-| 27 |Authorities seized a terrorist safe house in Amsterdam. Assistance was requested to sift through numerous laptops, smartphones, and documents that were found.
-| 28 |A former KGB officer and defector living quietly in France disappeared on a trip to Paris.
-| 29 |A Chinese scientist disappeared in Ulaanbaatar. Witnesses say the scientist was grabbed while walking down the street and carried off on a motorcycle.
-| 30 |A Russian submarine has gone rogue and was last known to be heading toward the American west coast.
-| 31 |A US fighter jet crashed outside Dabiq. The pilot is alive, but Russian and Syrian forces are closing on the location.
-| 32 |A drug cartel leader wanted for numerous crimes was spotted in Lima. The CIA is looking for freelancers to gather information about his activities.
-| 33 |A British paratrooper is injured and stranded in Mogadishu.
-| 34 |A member of the Thai royal family has gone missing in New York.
-| 35 |A high-profile banker and a CIA agent met in Oslo three days ago. Neither have been seen since.
-| 36 |A humanitarian aid convoy has disappeared in South Sudan. Satellite photos may have spotted one truck near a terrorist training camp.
+| d100| Name |
+|:--:|--|
+| 1 | A couple sailing around the world was reported missing near the South China Sea. The husband is a partner in a large European bank and the wife is a politically important person in Luxembur |
+| 2 |An opposition leader in Caracas claims to have evidence of North Korea selling WMDs to the regim |
+| 3 |A French Foreign Legion unit captured a terrorist convoy in Chad only to discover it was transporting plutonium. The plutonium needs to be secured before the terrorists launch a counter-attac |
+| 4 |An FBI agent disappeared in San Diego. Her last known location was a safe house in the downtown are |
+| 5 |A computer file of the identities of 50 US and British undercover agents was stolen from a London safe hous |
+| 6 |A journalist disappeared in Uzbekistan. The journalist’s employer said she was getting close to breaking a story about an international drug rin |
+| 7 |A bloodsoaked laptop found on a street in Bogota had fingerprints from a missing RAW (Research and Analysis Wing, India) agent on it. A DNA test on the blood hasn’t been done yet and the computer has a hard drive passwor |
+| 8 |The US Navy lost contact with a submarine in the Indian Ocean. A search is underwa |
+| 9 |A billionaire’s eight-year-old son was kidnapped. A ransom is remande |
+| 10 |The daughter of a Russian oligarch was kidnapped. He’s offering an incredible rewar |
+| 11 |A US special forces team captured a ship smuggling weapons. The team requested assistance for an unknown reaso |
+| 12 |A Ukranian scientist requested protection in Kyi |
+| 13 |The CEO of a tech startup with a US defense contract disappeared in Bali. His hotel room was ransacked and the local authorities did not find anything. However, if the characters search the room they will find a thumbdrive under a be |
+| 14 |A famed scholar disappeared in northern Indi |
+| 15 |The CDC reported a sample of the smallpox virus missin |
+| 16 |A break-in at SpaceX headquarters has some concerned that sensitive material was stole |
+| 17 |A US computer scientist disappeared while on vacation in Spain. His profile indicates he has specialized knowledge of nuclear reactor computer control system |
+| 18 |A missing Russian nuclear physicist was reportedly seen in Damascu |
+| 19 |There’s a credible threat of a bomb on a flight from London to New Yor |
+| 20 |A CIA agent requested a covert meeting in Mexico City. The agent simply hands the characters a large envelope and says, "Check this out." In the envelope are a dozen thumb drives. On the drives the characters find information regarding a terrorism plot to attack the port at San Degi |
+| 21 |A member of a UN peacekeeping force was abducted in Port-au-Princ |
+| 22 |A cargo ship has capsized in the Red Sea. There may be a chance to save the cre |
+| 23 |Credible intelligence points to an imminent terror attack on a hotel in Nairob |
+| 24 |A terrorist group seized the Dushanbe International Airpor |
+| 25 |An FBI agent requested a meeting in Denver. The agent asks the party to attend a secret defence conference in Kuala Lumpur to locate a dangerous arms deale |
+| 26 |An ASIS agent requested a covert meeting in Miami. The agent tells the characters about a conspiracy to assassinate a US senato |
+| 27 |Authorities seized a terrorist safe house in Amsterdam. Assistance was requested to sift through numerous laptops, smartphones, and documents that were foun |
+| 28 |A former KGB officer and defector living quietly in France disappeared on a trip to Pari |
+| 29 |A Chinese scientist disappeared in Ulaanbaatar. Witnesses say the scientist was grabbed while walking down the street and carried off on a motorcycl |
+| 30 |A Russian submarine has gone rogue and was last known to be heading toward the American west coas |
+| 31 |A US fighter jet crashed outside Dabiq. The pilot is alive, but Russian and Syrian forces are closing on the locatio |
+| 32 |A drug cartel leader wanted for numerous crimes was spotted in Lima. The CIA is looking for freelancers to gather information about his activitie |
+| 33 |A British paratrooper is injured and stranded in Mogadish |
+| 34 |A member of the Thai royal family has gone missing in New Yor |
+| 35 |A high-profile banker and a CIA agent met in Oslo three days ago. Neither have been seen sinc |
+| 36 |A humanitarian aid convoy has disappeared in South Sudan. Satellite photos may have spotted one truck near a terrorist training cam |
 
 ## Mission Hooks
 
-| 37 |A Russian oligarch wanted for murder was possibly sighted in London. MI6 is looking for freelancers to confirm the sighting.
-| 38 |A priceless painting was stolen from a museum in Vienna.
-| 39 |An Australian CEO received a credible death threat while traveling to a conference in San Francisco.
-| 40 |A terrorist group seized an airplane in Ankara with three US congressmen aboard.
-| 41 |Indian patrol boat discovered a cargo ship adrift off of Mumbai. The cargo was intact, but the crew had vanished.
-| 42 |A cargo ship spotted in the Yellow Sea is believed to be smuggling oil to North Korea.
-| 43 |In the Kuala Lumpur International Airport a body was discovered. The authorities are asking for assistance since the deceased is believed to be a US national. Three different US passports, $20,000 in cash, and an encrypted thumb drive were found on the body.
-| 44 |A CIA informant was jailed in Tehran. He possesses crucial information the government needs.
-| 45 |A journalist working on a story about a Russian oligarch disappeared in Washington DC. The journalist’s apartment was broken into and the local police have checked for fingerprints and taken pictures.
-| 46 |An NSA agent has requested a covert meeting in Reykjavík. The agent gives the characters a large folder of information regarding an international kidnapping ring.
-| 47 |An American backpacker was detained in North Korea. While she’s being transferred to a military base a rescue has the best chance of succeeding.
-| 48 |A suspected terrorist bombmaker was spotted in Lagos.
-| 49 |A Belgian diplomat disappeared in Rio Janeiro. The diplomat recently met with international banking officials concerning shell corporations and money laundering allegations.
-| 50 |The directors of Thailand’s largest bank are seeking assistance in recovering nearly one billion dollars they believe was embezzled by a former employee.
-| 51 |An African warlord wanted for human rights crimes is believed to be on a yacht off the shore of Mauritania. The AU wants him brought to justice or eliminated.
-| 52 |A small plane went missing off the western coast of the Philippines. The pilot was a billionaire and the only passenger was a CIA agent.
-| 53 |A Russian mercenary wanted for crimes in the EU is believed to be hiding in Tashkent. Intelligence indicates he is living in a compound with about 10 armed bodyguards.
-| 54 |A former CIA officer has requested a covert meeting in Addis Ababa. The agent informs the party of a mole within the CIA.
-| 55 |A diamond heist in Antwerp has local authorities baffled.
-| 56 |An American businesswoman disappeared in Beijing. Attention is focusing on her associates and some shady business ventures.
-| 57 |An unattended briefcase was confiscated in LaGuardia Airport. It contained dossiers on several undercover CIA agents, five passports (US, India, Germany, Singapore, United Arab Emirates) all with the same photo but different names, and a test tube filled with blood.
-| 58 |INterPOL received a tip that a certain international financier who is wanted for questioning concerning a murder in Peru was spotted in Monaco.
-| 59 |A German national was found dead in a Tel Aviv hotel. She had a Swiss bank account number written on a scrap of paper and a laptop with a hard disk password.
-| 60 |Pirates seized a cargo ship off the coast of Somalia. Reports say the crew was killed.
-| 61 |A US Marine helicopter crashed in a remote region of Afghanistan. It is believed there are several survivors. Special evac was requested due to "unique circumstances."
-| 62 |A group of non-combatants is trapped in a conflict zone in Syria. They are requesting assistance.
-| 63 |Several CIA agents haven’t been heard from since they reported some suspicious activity near their safehouse in Barcelona.
-| 64 |A documentary film crew disappeared in Azerbaijan. The crew was trying to locate a iranian scientist living in exile.
-| 65 |All contact was lost with an oil drilling platform in the North Atlantic.
-| 66 |A unit of French troops are under attack and trapped by terrorist forces near Timbuktu.
-| 67 |A Gutenberg Bible was stolen from a museum in Hamburg.
-| 68 |An ISI agent requested a meeting in Phnom Penh.The agent doesn’t show up at the meeting place. However, there is a duffle bag with agent’s ID, several harddrives, and a sniper rifle.
+| 37 |A Russian oligarch wanted for murder was possibly sighted in London. MI6 is looking for freelancers to confirm the sightin |
+| 38 |A priceless painting was stolen from a museum in Vienn |
+| 39 |An Australian CEO received a credible death threat while traveling to a conference in San Francisc |
+| 40 |A terrorist group seized an airplane in Ankara with three US congressmen aboar |
+| 41 |Indian patrol boat discovered a cargo ship adrift off of Mumbai. The cargo was intact, but the crew had vanishe |
+| 42 |A cargo ship spotted in the Yellow Sea is believed to be smuggling oil to North Kore |
+| 43 |In the Kuala Lumpur International Airport a body was discovered. The authorities are asking for assistance since the deceased is believed to be a US national. Three different US passports, $20,000 in cash, and an encrypted thumb drive were found on the bod |
+| 44 |A CIA informant was jailed in Tehran. He possesses crucial information the government need |
+| 45 |A journalist working on a story about a Russian oligarch disappeared in Washington DC. The journalist’s apartment was broken into and the local police have checked for fingerprints and taken picture |
+| 46 |An NSA agent has requested a covert meeting in Reykjavík. The agent gives the characters a large folder of information regarding an international kidnapping rin |
+| 47 |An American backpacker was detained in North Korea. While she’s being transferred to a military base a rescue has the best chance of succeedin |
+| 48 |A suspected terrorist bombmaker was spotted in Lago |
+| 49 |A Belgian diplomat disappeared in Rio Janeiro. The diplomat recently met with international banking officials concerning shell corporations and money laundering allegation |
+| 50 |The directors of Thailand’s largest bank are seeking assistance in recovering nearly one billion dollars they believe was embezzled by a former employe |
+| 51 |An African warlord wanted for human rights crimes is believed to be on a yacht off the shore of Mauritania. The AU wants him brought to justice or eliminate |
+| 52 |A small plane went missing off the western coast of the Philippines. The pilot was a billionaire and the only passenger was a CIA agen |
+| 53 |A Russian mercenary wanted for crimes in the EU is believed to be hiding in Tashkent. Intelligence indicates he is living in a compound with about 10 armed bodyguard |
+| 54 |A former CIA officer has requested a covert meeting in Addis Ababa. The agent informs the party of a mole within the CI |
+| 55 |A diamond heist in Antwerp has local authorities baffle |
+| 56 |An American businesswoman disappeared in Beijing. Attention is focusing on her associates and some shady business venture |
+| 57 |An unattended briefcase was confiscated in LaGuardia Airport. It contained dossiers on several undercover CIA agents, five passports (US, India, Germany, Singapore, United Arab Emirates) all with the same photo but different names, and a test tube filled with bloo |
+| 58 |INterPOL received a tip that a certain international financier who is wanted for questioning concerning a murder in Peru was spotted in Monac |
+| 59 |A German national was found dead in a Tel Aviv hotel. She had a Swiss bank account number written on a scrap of paper and a laptop with a hard disk passwor |
+| 60 |Pirates seized a cargo ship off the coast of Somalia. Reports say the crew was kille |
+| 61 |A US Marine helicopter crashed in a remote region of Afghanistan. It is believed there are several survivors. Special evac was requested due to "unique circumstances."|
+| 62 |A group of non-combatants is trapped in a conflict zone in Syria. They are requesting assistanc |
+| 63 |Several CIA agents haven’t been heard from since they reported some suspicious activity near their safehouse in Barcelon |
+| 64 |A documentary film crew disappeared in Azerbaijan. The crew was trying to locate a iranian scientist living in exil |
+| 65 |All contact was lost with an oil drilling platform in the North Atlanti |
+| 66 |A unit of French troops are under attack and trapped by terrorist forces near Timbukt |
+| 67 |A Gutenberg Bible was stolen from a museum in Hambur |
+| 68 |An ISI agent requested a meeting in Phnom Penh.The agent doesn’t show up at the meeting place. However, there is a duffle bag with agent’s ID, several harddrives, and a sniper rifl |
 
 ## Mission Hooks
 
-| 69 |A plane carrying a US Senator disappeared over the Amazon. Search parties are being organized, but there are concerns a guerrilla group may find the plane first.
-| 70 |A Jane’s consultant disappeared in Algiers. His laptop was discovered in a ditch along with a UK passport and a photo of a woman.
-| 71 |A thumb drive containing "sensitive" information was reported missing from Langley.
-| 72 |Pirates seized an oil tanker off of Djibouti. The crew of 27 is being held hostage.
-| 73 |The Mossad has intelligence pinpointing the location of a terrorist weapon factory in Khartoum.
-| 74 |A "candy drop" thumb drive infected Jakarta’s largest bank’s computer system with a virus. Corporate authorities are requesting assistance restoring the computers as well as finding the creators of the virus.
-| 75 |Authorities discovered a wrecked rental car near Seattle. The car contained several external hard drives, a list of 15 politically important people from the US, and three rifles.
-| 76 |A terrorist group hijacked a tourist bus and is holding the passengers hostage in remote Egypt.
-| 77 |A Hungarian geneticist disappeared while attending a symposium in China. The scientist’s hotel room has yet to be searched by the police.
-| 78 |A corporate lawyer disappeared in Berlin. Rumors say he was investigating terrorist group financing and that he made some powerful enemies.
-| 79 |An individual with terrorist ties was spotted on surveillance footage at the Dallas/Fort Worth International Airport. The FBI issued an arrest warrant.
-| 80 |An individual with terrorist ties collapsed at the Tokyo International Airport. The person is now quarantined at a hospital with an unknown illness.
-| 81 |A terrorist group sieged a train carrying "nuclear material" in a remote area of Kazakhstan.
-| 82 |An African warlord wanted for war crimes was reportedly seen in Paris. The French government would like a neutral party to apprehend him.
-| 83 |A Czech heiress disappeared while attending a polo match in Lisbon. Her father is offering a billion dollar reward for her return.
-| 84 |A CIA Black Site in Uzbekistan was compromised. The officers and prisoners need evacuation before a terrorist group attacks the site.
-| 85 |A Chinese astronaut has gone missing in Shanghai.
-| 86 |A wanted international arms dealer was spotted in Kinshasa. INterPOL can’t get agents there in time.
-| 87 |A man with a gunshot wound was found on a street in Singapore. He is now in a coma in a hospital. The authorities have many questions because on his person were three different US passports, a small-caliber pistol, and a document written in code.
-| 88 |Credible intelligence of a dirty bomb attack in Dar es Salaam within the coming week has emerged.
-| 89 |A US Navy destroyer struck something in the water and is now sinking. The location is several hundred miles off Fiji.
-| 90 |A terrorist safe house has been located in Istanbul.
-| 91 |Reports say a Russian satellite crashed in a remote area in Canada.
-| 92 |A Mossad agent has requested a covert meeting in Bangkok. When the characters show up at the meeting place, they find the agent stabbed to death. On the body is four thousand US dollars, a broken smart watch, and a few tiny metal shavings.
-| 93 |A small amount of enriched uranium has gone missing from a facility in France.
-| 94 |A private art collector reported the theft of a Faberge Egg from her collection.
-| 95 |A suspect with terrorist ties was arrested in Buenos Aires. Several vials of bluish liquid were found packed in ice in his apartment.
-| 96 |A terrorist base is located in Iran near the Iraqi border. It needs to be neutralized quietly and quickly.
-| 97 |The contents of a single safety deposit box at a large German bank was stolen. There is surveillance footage and the authorities are requesting help.
-| 98 |A Doctors Without Borders team is being held hostage in Yemen.
-| 99 |A rogue group of European mercenaries seized a weapons factory on the outskirts of Kampala.
-| 100 |A group of US thrillseekers disappeared along the Nepal-Chinese border. Intelligence reports indicate that chinese special forces units were training in the area.
+| 69 |A plane carrying a US Senator disappeared over the Amazon. Search parties are being organized, but there are concerns a guerrilla group may find the plane firs |
+| 70 |A Jane’s consultant disappeared in Algiers. His laptop was discovered in a ditch along with a UK passport and a photo of a woma |
+| 71 |A thumb drive containing "sensitive" information was reported missing from Langle |
+| 72 |Pirates seized an oil tanker off of Djibouti. The crew of 27 is being held hostag |
+| 73 |The Mossad has intelligence pinpointing the location of a terrorist weapon factory in Khartou |
+| 74 |A "candy drop" thumb drive infected Jakarta’s largest bank’s computer system with a virus. Corporate authorities are requesting assistance restoring the computers as well as finding the creators of the viru |
+| 75 |Authorities discovered a wrecked rental car near Seattle. The car contained several external hard drives, a list of 15 politically important people from the US, and three rifle |
+| 76 |A terrorist group hijacked a tourist bus and is holding the passengers hostage in remote Egyp |
+| 77 |A Hungarian geneticist disappeared while attending a symposium in China. The scientist’s hotel room has yet to be searched by the polic |
+| 78 |A corporate lawyer disappeared in Berlin. Rumors say he was investigating terrorist group financing and that he made some powerful enemie |
+| 79 |An individual with terrorist ties was spotted on surveillance footage at the Dallas/Fort Worth International Airport. The FBI issued an arrest warran |
+| 80 |An individual with terrorist ties collapsed at the Tokyo International Airport. The person is now quarantined at a hospital with an unknown illnes |
+| 81 |A terrorist group sieged a train carrying "nuclear material" in a remote area of Kazakhsta |
+| 82 |An African warlord wanted for war crimes was reportedly seen in Paris. The French government would like a neutral party to apprehend hi |
+| 83 |A Czech heiress disappeared while attending a polo match in Lisbon. Her father is offering a billion dollar reward for her retur |
+| 84 |A CIA Black Site in Uzbekistan was compromised. The officers and prisoners need evacuation before a terrorist group attacks the sit |
+| 85 |A Chinese astronaut has gone missing in Shangha |
+| 86 |A wanted international arms dealer was spotted in Kinshasa. INterPOL can’t get agents there in tim |
+| 87 |A man with a gunshot wound was found on a street in Singapore. He is now in a coma in a hospital. The authorities have many questions because on his person were three different US passports, a small-caliber pistol, and a document written in cod |
+| 88 |Credible intelligence of a dirty bomb attack in Dar es Salaam within the coming week has emerge |
+| 89 |A US Navy destroyer struck something in the water and is now sinking. The location is several hundred miles off Fij |
+| 90 |A terrorist safe house has been located in Istanbu |
+| 91 |Reports say a Russian satellite crashed in a remote area in Canad |
+| 92 |A Mossad agent has requested a covert meeting in Bangkok. When the characters show up at the meeting place, they find the agent stabbed to death. On the body is four thousand US dollars, a broken smart watch, and a few tiny metal shaving |
+| 93 |A small amount of enriched uranium has gone missing from a facility in Franc |
+| 94 |A private art collector reported the theft of a Faberge Egg from her collectio |
+| 95 |A suspect with terrorist ties was arrested in Buenos Aires. Several vials of bluish liquid were found packed in ice in his apartmen |
+| 96 |A terrorist base is located in Iran near the Iraqi border. It needs to be neutralized quietly and quickl |
+| 97 |The contents of a single safety deposit box at a large German bank was stolen. There is surveillance footage and the authorities are requesting hel |
+| 98 |A Doctors Without Borders team is being held hostage in Yeme |
+| 99 |A rogue group of European mercenaries seized a weapons factory on the outskirts of Kampal |
+| 100 |A group of US thrillseekers disappeared along the Nepal-Chinese border. Intelligence reports indicate that chinese special forces units were training in the are |
 
 ## Superhero Random Encounters
-
-| 1 |Window washer stranded on building|
+| d100| Name |
+|:--:|--|
+| 1 | Window washer stranded on building|
 | 2 |Train derailment|
 | 3 |Teacher invites the characters to speak to class|
 | 4 |Suicide jumper on top of a skyscraper|
@@ -32187,7 +32373,7 @@ Mission Hooks
 
 | 51 |Cat stuck in a tree|
 | 52 |Illegal weapon shipment being unloaded|
-| 53 |Strangely dressed man yelling, "What year is this?"
+| 53 |Strangely dressed man yelling, "What year is this?"|
 | 54 |Carjacking ring targeting sports cars|
 | 55 |Lost child|
 | 56 |Hijacked cruise ship|
@@ -32239,8 +32425,9 @@ Mission Hooks
 items & things
 
 ## Items in a Car -:-:-  Items & Things
-
-| 1 |Pine air freshener|
+| d100| Name |
+|:--:|--|
+| 1 | Pine air freshener|
 | 2 |Motor oil (1 quart)|
 | 3 |Five dollar bills (1D6)|
 | 4 |GPS|
@@ -32392,9 +32579,11 @@ items & things
 | 97 |Vanilla Ice Cream|
 | 98 |Coca Cola|
 | 99 |Pabst Blue Ribbon|
-| 100 | Coors Light|
+| 100 |  Coors Light|
 
-| 1 |Corona Extra|
+| d100| Name |
+|:--:|--|
+| 1 | Corona Extra|
 | 2 |Spam|
 | 3 |Cake mix|
 | 4 |Eggs|
@@ -32446,8 +32635,9 @@ items & things
 | 50 |Chocolate Ice Cream|
 
 ## Items in a Hospital Room -:-:- 
-
-| 1 |Bandages|
+| d100| Name |
+|:--:|--|
+| 1 | Bandages|
 | 2 |Gowns|
 | 3 |Nutrition bags|
 | 4 |Forceps|
@@ -32599,9 +32789,11 @@ items & things
 | 97 |Duct Tape|
 | 98 |Bluetooth Speakers|
 | 99 |Seat Belts|
-| 100 | Power Pallet Jack|
+| 100 |  Power Pallet Jack|
 
-| 1 |Shafts|
+| d100| Name |
+|:--:|--|
+| 1 | Shafts|
 | 2 |Flat Screen Televisions|
 | 3 |Tacks|
 | 4 |Switches|
@@ -32703,9 +32895,11 @@ items & things
 | 97 |Area rug|
 | 98 |Mailing labels|
 | 99 |Binders|
-| 100 | Trash cans|
+| 100 |  Trash cans|
 
-| 1 |First aid kit|
+| d100| Name |
+|:--:|--|
+| 1 | First aid kit|
 | 2 |Chalkboard|
 | 3 |Staplers|
 | 4 |Flashlight|
@@ -32807,9 +33001,11 @@ items & things
 | 97 |Bacon|
 | 98 |Forks|
 | 99 |Apple pie spice|
-| 100 | Rice|
+| 100 |  Rice|
 
-| 1 |Red wine vinegar|
+| d100| Name |
+|:--:|--|
+| 1 | Red wine vinegar|
 | 2 |Canned tuna|
 | 3 |Electric knife|
 | 4 |Carrots|
@@ -32861,8 +33057,9 @@ items & things
 | 50 |Oven mit|
 
 ## Items in a Ship Cargo Hold -:-:- 
-
-| 1 |Waste paper|
+| d100| Name |
+|:--:|--|
+| 1 | Waste paper|
 | 2 |Lumber|
 | 3 |Citrus juice|
 | 4 |Cars|
@@ -33014,9 +33211,11 @@ items & things
 | 97 |HTC One M8|
 | 98 |Nokia 2310|
 | 99 |Nokia N95|
-| 100 | iPhone 4s|
+| 100 |  iPhone 4s|
 
-| 1 |Nokia 2330 classic|
+| d100| Name |
+|:--:|--|
+| 1 | Nokia 2330 classic|
 | 2 |Nokia 6060|
 | 3 |LG Cookie (KP500)|
 | 4 |Samsung SGH-D900|
@@ -33118,9 +33317,11 @@ items & things
 | 97 |Asus Transformer Mini T103|
 | 98 |Samsung Galaxy Tab A 8.0 (2017)|
 | 99 |Kirin 710|
-| 100 | Huawei Honor 5|
+| 100 |  Huawei Honor 5|
 
-| 1 |Jumper EZpad Mini 4S|
+| d100| Name |
+|:--:|--|
+| 1 | Jumper EZpad Mini 4S|
 | 2 |Snapdragon 625|
 | 3 |Huawei MediaPad M5 Pro 10.8|
 | 4 |MTK MT8176|
@@ -33224,7 +33425,9 @@ items & things
 | 99 |Brideshead Revisited|
 | 100 | The Redemption of Time|
 
-| 1 |Midnight’s Children|
+| d100| Name |
+|:--:|--|
+| 1 | Midnight’s Children|
 | 2 |The Adventures of Augie March|
 | 3 |Loving|
 | 4 |The Sound and the Fury|
@@ -33276,8 +33479,9 @@ items & things
 | 50 |The Martian Chronicles|
 
 ## Books #2 -:-:- 
-
-| 1 |The Codex Alera Series|
+| d100| Name |
+|:--:|--|
+| 1 | The Codex Alera Series|
 | 2 |A Handful of Dust|
 | 3 |The Recognitions|
 | 4 |The Way Of Kings|
@@ -33380,6 +33584,58 @@ items & things
 
 ## Medication #1 -:-:- 
 
+| d100| Name |
+|:--:|--|
+| 1 | Levothyroxine|
+| 2 |Amlodipine Besylate|
+| 3 |Nebivolol Hydrochloride|
+| 4 |Hydrochlorothiazide/Valsartan|
+| 5 |Metoprolol|
+| 6 |Olmesartan Medoxomil|
+| 7 |Verapamil Hydrochloride|
+| 8 |Chlorthalidone|
+| 9 |Memantine Hydrochloride|
+| 10 |Oxycodone|
+| 11 |Amitriptyline|
+| 12 |Digoxin|
+| 13 |Ropinirole Hydrochloride|
+| 14 |Hydrochlorothiazide|
+| 15 |Glyburide|
+| 16 |Aripiprazole|
+| 17 |Fluticasone Propionate|
+| 18 |Naproxen|
+| 19 |Amoxicillin/Clavulanate Potassium|
+| 20 |Donepezil Hydrochloride|
+| 21 |Docusate|
+| 22 |Ibuprofen|
+| 23 |Insulin Human|
+| 24 |Atorvastatin|
+| 25 |HCTZ/Propranolol Hydrochloride|
+| 26 |Albuterol|
+| 27 |Dexmethylphenidate Hydrochloride|
+| 28 |Hydroxyzine|
+| 29 |Hydrochlorothiazide|
+| 30 |Tramadol Hydrochloride|
+| 31 |Levofloxacin|
+| 32 |Sumatriptan|
+| 33 |Fluconazole|
+| 34 |Trazodone Hydrochloride|
+| 35 |Albuterol Sulfate/Ipratropium Bromide|
+| 36 |Paroxetine|
+| 37 |Allopurinol|
+| 38 |Nystatin|
+| 39 |Promethazine Hydrochloride|
+| 40 |Meloxicam|
+| 41 |Valacyclovir|
+| 42 |Pravastatin Sodium|
+| 43 |Hydroxychloroquine Sulfate|
+| 44 |Liraglutide|
+| 45 |Tiotropium|
+| 46 |Lisinopril|
+| 47 |Penicillin V|
+| 48 |Rosuvastatin Calcium|
+| 49 |Methocarbamol|
+| 50 |Escitalopram Oxalate|
 | 51 |Nitroglycerin|
 | 52 |Testosterone|
 | 53 |Ciprofloxacin|
@@ -33431,60 +33687,10 @@ items & things
 | 99 |Isosorbide Mononitrate|
 | 100 | Carvedilol|
 
-| 1 |Levothyroxine|
-| 2 |Amlodipine Besylate|
-| 3 |Nebivolol Hydrochloride|
-| 4 |Hydrochlorothiazide/Valsartan|
-| 5 |Metoprolol|
-| 6 |Olmesartan Medoxomil|
-| 7 |Verapamil Hydrochloride|
-| 8 |Chlorthalidone|
-| 9 |Memantine Hydrochloride|
-| 10 |Oxycodone|
-| 11 |Amitriptyline|
-| 12 |Digoxin|
-| 13 |Ropinirole Hydrochloride|
-| 14 |Hydrochlorothiazide|
-| 15 |Glyburide|
-| 16 |Aripiprazole|
-| 17 |Fluticasone Propionate|
-| 18 |Naproxen|
-| 19 |Amoxicillin/Clavulanate Potassium|
-| 20 |Donepezil Hydrochloride|
-| 21 |Docusate|
-| 22 |Ibuprofen|
-| 23 |Insulin Human|
-| 24 |Atorvastatin|
-| 25 |HCTZ/Propranolol Hydrochloride|
-| 26 |Albuterol|
-| 27 |Dexmethylphenidate Hydrochloride|
-| 28 |Hydroxyzine|
-| 29 |Hydrochlorothiazide|
-| 30 |Tramadol Hydrochloride|
-| 31 |Levofloxacin|
-| 32 |Sumatriptan|
-| 33 |Fluconazole|
-| 34 |Trazodone Hydrochloride|
-| 35 |Albuterol Sulfate/Ipratropium Bromide|
-| 36 |Paroxetine|
-| 37 |Allopurinol|
-| 38 |Nystatin|
-| 39 |Promethazine Hydrochloride|
-| 40 |Meloxicam|
-| 41 |Valacyclovir|
-| 42 |Pravastatin Sodium|
-| 43 |Hydroxychloroquine Sulfate|
-| 44 |Liraglutide|
-| 45 |Tiotropium|
-| 46 |Lisinopril|
-| 47 |Penicillin V|
-| 48 |Rosuvastatin Calcium|
-| 49 |Methocarbamol|
-| 50 |Escitalopram Oxalate|
-
 ## Medication #2 -:-:- 
-
-| 1 |Levocetirizine Dihydrochloride|
+| d100| Name |
+|:--:|--|
+| 1 | Levocetirizine Dihydrochloride|
 | 2 |Diphenhydramine Hydrochloride|
 | 3 |Omega-3-acid Ethyl Esters|
 | 4 |Diclofenac|
@@ -33587,6 +33793,58 @@ items & things
 
 ## Types of US Cars -:-:- 
 
+| d100| Name |
+|:--:|--|
+| 1 | Lincoln Navigator|
+| 2 |Mercedes-Benz C-Class|
+| 3 |Toyota Sequoia|
+| 4 |Ford Explorer|
+| 5 |Chevrolet Express|
+| 6 |Ford Bronco|
+| 7 |Jeep Gladiator|
+| 8 |Honda Ridgeline|
+| 9 |Mercedes-Benz GLS-Class|
+| 10 |Ford Transit|
+| 11 |Chevrolet Sonic|
+| 12 |Tesla Model X|
+| 13 |Chevrolet Corvette|
+| 14 |Cadillac XT5|
+| 15 |Honda Civic|
+| 16 |Chevrolet Camaro|
+| 17 |Toyota Camry|
+| 18 |Kia Sorento|
+| 19 |Subaru Outback|
+| 20 |Lincoln Continental|
+| 21 |Chevrolet Silverado|
+| 22 |Nissan Pathfinder|
+| 23 |Jeep Cherokee|
+| 24 |Nissan Rogue|
+| 25 |Nissan Murano|
+| 26 |GMC Canyon|
+| 27 |GMC Yukon|
+| 28 |Nissan Maxima|
+| 29 |Cadillac Escalade|
+| 30 |BMW X5|
+| 31 |Chevrolet Bolt|
+| 32 |BMW X4|
+| 33 |Nissan Frontier|
+| 34 |GMC Savana|
+| 35 |Subaru Legacy|
+| 36 |Cadillac ATS|
+| 37 |Jeep Wrangler|
+| 38 |Chevrolet Malibu|
+| 39 |Toyota Tacoma|
+| 40 |Subaru Ascent|
+| 41 |Chevrolet Traverse|
+| 42 |Lincoln Aviator|
+| 43 |Nissan Altima|
+| 44 |BMW X7|
+| 45 |Kia Telluride|
+| 46 |Chevrolet Tahoe|
+| 47 |Infiniti QX60|
+| 48 |Tesla Model S|
+| 49 |Volkswagen Atlas|
+| 50 |Ford F-150|
 | 51 |Chevrolet Colorado|
 | 52 |Toyota Avalon|
 | 53 |Acura ILX|
@@ -33638,61 +33896,62 @@ items & things
 | 99 |Honda Pilot|
 | 100 | Cadillac CT6|
 
-| 1 |Lincoln Navigator|
-| 2 |Mercedes-Benz C-Class|
-| 3 |Toyota Sequoia|
-| 4 |Ford Explorer|
-| 5 |Chevrolet Express|
-| 6 |Ford Bronco|
-| 7 |Jeep Gladiator|
-| 8 |Honda Ridgeline|
-| 9 |Mercedes-Benz GLS-Class|
-| 10 |Ford Transit|
-| 11 |Chevrolet Sonic|
-| 12 |Tesla Model X|
-| 13 |Chevrolet Corvette|
-| 14 |Cadillac XT5|
-| 15 |Honda Civic|
-| 16 |Chevrolet Camaro|
-| 17 |Toyota Camry|
-| 18 |Kia Sorento|
-| 19 |Subaru Outback|
-| 20 |Lincoln Continental|
-| 21 |Chevrolet Silverado|
-| 22 |Nissan Pathfinder|
-| 23 |Jeep Cherokee|
-| 24 |Nissan Rogue|
-| 25 |Nissan Murano|
-| 26 |GMC Canyon|
-| 27 |GMC Yukon|
-| 28 |Nissan Maxima|
-| 29 |Cadillac Escalade|
-| 30 |BMW X5|
-| 31 |Chevrolet Bolt|
-| 32 |BMW X4|
-| 33 |Nissan Frontier|
-| 34 |GMC Savana|
-| 35 |Subaru Legacy|
-| 36 |Cadillac ATS|
-| 37 |Jeep Wrangler|
-| 38 |Chevrolet Malibu|
-| 39 |Toyota Tacoma|
-| 40 |Subaru Ascent|
-| 41 |Chevrolet Traverse|
-| 42 |Lincoln Aviator|
-| 43 |Nissan Altima|
-| 44 |BMW X7|
-| 45 |Kia Telluride|
-| 46 |Chevrolet Tahoe|
-| 47 |Infiniti QX60|
-| 48 |Tesla Model S|
-| 49 |Volkswagen Atlas|
-| 50 |Ford F-150|
-
 places
 
 ## Largest Cities in the World -:-:-  Places
 
+| d100| Name |
+|:--:|--|
+| 1 | Caracas|
+| 2 |Inchon|
+| 3 |Los Angeles|
+| 4 |Paris|
+| 5 |Santiago|
+| 6 |Mashhad|
+| 7 |Bangkok|
+| 8 |Madras|
+| 9 |Tianjin|
+| 10 |Xian|
+| 11 |Yangon|
+| 12 |Chicago|
+| 13 |London|
+| 14 |Berlin|
+| 15 |Fortaleza|
+| 16 |Bogor|
+| 17 |Toronto|
+| 18 |Osaka|
+| 19 |Quezon City|
+| 20 |Changchun|
+| 21 |Medellín|
+| 22 |Taiyuan|
+| 23 |Pyongyang|
+| 24 |Bogota|
+| 25 |Casablanca|
+| 26 |Taipei|
+| 27 |Kiev|
+| 28 |Ahmedabad|
+| 29 |Ho Chi Minh City|
+| 30 |Guangzhou|
+| 31 |Giza|
+| 32 |Calcutta|
+| 33 |Jinan|
+| 34 |Ankara|
+| 35 |Taegu|
+| 36 |Seoul|
+| 37 |Hongkong|
+| 38 |Moscow|
+| 39 |Budapest|
+| 40 |Madrid|
+| 41 |Surabaya|
+| 42 |Haerbin|
+| 43 |Sydney|
+| 44 |Faisalabad|
+| 45 |Lahore|
+| 46 |Cairo|
+| 47 |Cirebon|
+| 48 |Bangalore|
+| 49 |Bucharest|
+| 50 |Pusan|
 | 51 |Havanna|
 | 52 |Yokohama|
 | 53 |Malang|
@@ -33744,60 +34003,11 @@ places
 | 99 |Beijing|
 | 100 | São Paulo|
 
-| 1 |Caracas|
-| 2 |Inchon|
-| 3 |Los Angeles|
-| 4 |Paris|
-| 5 |Santiago|
-| 6 |Mashhad|
-| 7 |Bangkok|
-| 8 |Madras|
-| 9 |Tianjin|
-| 10 |Xian|
-| 11 |Yangon|
-| 12 |Chicago|
-| 13 |London|
-| 14 |Berlin|
-| 15 |Fortaleza|
-| 16 |Bogor|
-| 17 |Toronto|
-| 18 |Osaka|
-| 19 |Quezon City|
-| 20 |Changchun|
-| 21 |Medellín|
-| 22 |Taiyuan|
-| 23 |Pyongyang|
-| 24 |Bogota|
-| 25 |Casablanca|
-| 26 |Taipei|
-| 27 |Kiev|
-| 28 |Ahmedabad|
-| 29 |Ho Chi Minh City|
-| 30 |Guangzhou|
-| 31 |Giza|
-| 32 |Calcutta|
-| 33 |Jinan|
-| 34 |Ankara|
-| 35 |Taegu|
-| 36 |Seoul|
-| 37 |Hongkong|
-| 38 |Moscow|
-| 39 |Budapest|
-| 40 |Madrid|
-| 41 |Surabaya|
-| 42 |Haerbin|
-| 43 |Sydney|
-| 44 |Faisalabad|
-| 45 |Lahore|
-| 46 |Cairo|
-| 47 |Cirebon|
-| 48 |Bangalore|
-| 49 |Bucharest|
-| 50 |Pusan|
-
 ## Top US Nightclub -:-:- 
 
-| 1 |XS Nightclub, Las Vegas, NV|
+| d100| Name |
+|:--:|--|
+| 1 | XS Nightclub, Las Vegas, NV|
 | 2 |Hakkasan, Las Vegas, NV|
 | 3 |Marquee Nightclub, Las Vegas, NV|
 | 4 |TAO Las Vegas, Las Vegas, NV|
@@ -33900,6 +34110,58 @@ places
 
 ## World Restaurants -:-:- 
 
+| d100| Name |
+|:--:|--|
+| 1 | Central (Lima, Peru)|
+| 2 |Pierre (Hong Kong)|
+| 3 |Nerua (Bilbao, Spain)|
+| 4 |The Peak Lookout (Hong Kong)|
+| 5 |A Casa do Porco (São Paulo, Brazil)|
+| 6 |Brawn (Bethnal Green, UK)|
+| 7 |Griechenbeisl (Vienna, Austria)|
+| 8 |Maido (Lima, Peru)|
+| 9 |Arpège (Paris, France)|
+| 10 |Barrafina (Covent Garden, UK)|
+| 11 |Yung Kee (Hong Kong)|
+| 12 |The Elephant (Torquay, UK)|
+| 13 |Ultraviolet by Paul Pairet (Shanghai, China)|
+| 14 |The Hardwick (Abergavenny, UK)|
+| 15 |Azurmendi (Larrabetzu, Spain)|
+| 16 |Lawry’s (Hong Kong)|
+| 17 |Sardine (Hoxton, UK)|
+| 18 |Alléno Paris au Pavillon Ledoyen (Paris, France)|
+| 19 |Zuma (Hong Kong)|
+| 20 |Tickets (Barcelona, Spain)|
+| 21 |Lima (Fitzrovia, UK)|
+| 22 |Farang (Highbury, UK)|
+| 23 |Quo Vadis (Soho UK)|
+| 24 |The Ritz (Piccadilly, UK)|
+| 25 |Lorne (Victoria, UK)|
+| 26 |Le Calandre (Rubano, Italy)|
+| 27 |Root (Bristol, UK)|
+| 28 |Le Bernardin (New York City, USA)|
+| 29 |Luk Yu (Hong Kong)|
+| 30 |Den (Tokyo, Japan)|
+| 31 |Schloss Schauenstein (Fürstenau, Switzerland)|
+| 32 |Sühring (Bangkok, Thailand)|
+| 33 |Quintonil (Mexico City, Mexico)|
+| 34 |The Fat Duck (Bray, UK)|
+| 35 |Boragó (Santiago, Chile)|
+| 36 |Mak’s Noodle (Hong Kong)|
+| 37 |Odette (Singapore)|
+| 38 |Smoking Goat (Shoreditch, UK)|
+| 39 |The Clove Club (London, UK)|
+| 40 |Alain Ducasse au Plaza Athénée (Paris, France)|
+| 41 |Mott 32 (Hong Kong)|
+| 42 |The Waterside Inn (Bray, UK)|
+| 43 |Mark Greenaway (Edinburgh, UK)|
+| 44 |Restaurant Story (London Bridge, UK)|
+| 45 |Candlenut Kitchen (Singapore)|
+| 46 |Noble Rot (Bloomsbury, UK)|
+| 47 |Hedone (Chiswick, UK)|
+| 48 |Alinea (Chicago, USA)|
+| 49 |Frenchie (Covent Garden, UK)|
+| 50 |The Walnut Tree (Abergavenny UK)|
 | 51 |Test Kitchen (Cape Town, South Africa)|
 | 52 |Hiša Franko (Kobarid, Slovenia)|
 | 53 |The Beehive (Berkshire, UK)|
@@ -33951,60 +34213,12 @@ places
 | 99 |Palais Esterházy (Vienna, Austria)|
 | 100 | Belcanto (Lisbon, Portugal)|
 
-| 1 |Central (Lima, Peru)|
-| 2 |Pierre (Hong Kong)|
-| 3 |Nerua (Bilbao, Spain)|
-| 4 |The Peak Lookout (Hong Kong)|
-| 5 |A Casa do Porco (São Paulo, Brazil)|
-| 6 |Brawn (Bethnal Green, UK)|
-| 7 |Griechenbeisl (Vienna, Austria)|
-| 8 |Maido (Lima, Peru)|
-| 9 |Arpège (Paris, France)|
-| 10 |Barrafina (Covent Garden, UK)|
-| 11 |Yung Kee (Hong Kong)|
-| 12 |The Elephant (Torquay, UK)|
-| 13 |Ultraviolet by Paul Pairet (Shanghai, China)|
-| 14 |The Hardwick (Abergavenny, UK)|
-| 15 |Azurmendi (Larrabetzu, Spain)|
-| 16 |Lawry’s (Hong Kong)|
-| 17 |Sardine (Hoxton, UK)|
-| 18 |Alléno Paris au Pavillon Ledoyen (Paris, France)|
-| 19 |Zuma (Hong Kong)|
-| 20 |Tickets (Barcelona, Spain)|
-| 21 |Lima (Fitzrovia, UK)|
-| 22 |Farang (Highbury, UK)|
-| 23 |Quo Vadis (Soho UK)|
-| 24 |The Ritz (Piccadilly, UK)|
-| 25 |Lorne (Victoria, UK)|
-| 26 |Le Calandre (Rubano, Italy)|
-| 27 |Root (Bristol, UK)|
-| 28 |Le Bernardin (New York City, USA)|
-| 29 |Luk Yu (Hong Kong)|
-| 30 |Den (Tokyo, Japan)|
-| 31 |Schloss Schauenstein (Fürstenau, Switzerland)|
-| 32 |Sühring (Bangkok, Thailand)|
-| 33 |Quintonil (Mexico City, Mexico)|
-| 34 |The Fat Duck (Bray, UK)|
-| 35 |Boragó (Santiago, Chile)|
-| 36 |Mak’s Noodle (Hong Kong)|
-| 37 |Odette (Singapore)|
-| 38 |Smoking Goat (Shoreditch, UK)|
-| 39 |The Clove Club (London, UK)|
-| 40 |Alain Ducasse au Plaza Athénée (Paris, France)|
-| 41 |Mott 32 (Hong Kong)|
-| 42 |The Waterside Inn (Bray, UK)|
-| 43 |Mark Greenaway (Edinburgh, UK)|
-| 44 |Restaurant Story (London Bridge, UK)|
-| 45 |Candlenut Kitchen (Singapore)|
-| 46 |Noble Rot (Bloomsbury, UK)|
-| 47 |Hedone (Chiswick, UK)|
-| 48 |Alinea (Chicago, USA)|
-| 49 |Frenchie (Covent Garden, UK)|
-| 50 |The Walnut Tree (Abergavenny UK)|
 
 ## US Restaurant -:-:- 
 
-| 1 |Oriole - Chicago|
+| d100| Name |
+|:--:|--|
+| 1 | Oriole - Chicago|
 | 2 |Cafe Monarch - Scottsdale, Arizona|
 | 3 |Omakase Room by Tatsu - New York City|
 | 4 |Atlas - Atlanta|
@@ -34022,8 +34236,8 @@ places
 | 16 |Majorelle - New York City|
 | 17 |Blue Ridge Grill - Atlanta|
 | 18 |Girl & the Goat - Chicago|
-| 19 |Tosca Ristorante - Washington, D.C.
-| 20 |Kinship - Washington, D.C.
+| 19 |Tosca Ristorante - Washington, D. |
+| 20 |Kinship - Washington, D. |
 | 21 |The Lawn at Castle Hill Inn - Newport, RI|
 | 22 |Sushi Kappo Tamura - Seattle|
 | 23 |Shinsei Restaurant - Dallas|
@@ -34038,7 +34252,7 @@ places
 | 32 |SHU - Sushi House Unico - Bel Air, California|
 | 33 |Bouchard Restaurant and Inn - Newport, RI|
 | 34 |Mesero - Inwood Village - Dallas|
-| 35 |Rasika - Washington, D.C.
+| 35 |Rasika - Washington, D. |
 | 36 |Market Restaurant and Bar - Del Mar, California|
 | 37 |GW Fins - New Orleans|
 | 38 |Frances - San Francisco|
@@ -34065,7 +34279,7 @@ places
 | 59 |The Modern - New York City|
 | 60 |Salum Restaurant - Dallas|
 | 61 |Buccan - Palm Beach, Florida|
-| 62 |Chez Billy Sud – Washington, D.C.
+| 62 |Chez Billy Sud – Washington, D. |
 | 63 |RPM Italian - Chicago|
 | 64 |Marea - New York City|
 | 65 |KYU - Miami|
@@ -34082,7 +34296,7 @@ places
 | 76 |Sushi Nakazawa - Sushi Bar - New York City|
 | 77 |Raoul’s - New York City|
 | 78 |Rich Table - San Francisco|
-| 79 |Lafayette Restaurant - Washington, D.C.
+| 79 |Lafayette Restaurant - Washington, D. |
 | 80 |The Dining Room at Castle Hill Inn - Newport, RI|
 | 81 |Phoenicia - Birmingham, Michigan|
 | 82 |Steve & Cookie’s By the Bay - Margate, NJ|
@@ -34095,7 +34309,7 @@ places
 | 89 |Talula’s Garden - Philadelphia|
 | 90 |Bistro 31 - Dallas|
 | 91 |The Table at Season to Taste - Cambridge, MA|
-| 92 |Le Diplomate - Washington, D.C.
+| 92 |Le Diplomate - Washington, D. |
 | 93 |Parc - Philadelphia|
 | 94 |Maple & Ash - Chicago|
 | 95 |UMI - Atlanta|
@@ -34107,7 +34321,9 @@ places
 
 ## World Art Museum -:-:- 32-
 
-| 1 |National Archaeological Museum (Madrid, Spain)|
+| d100| Name |
+|:--:|--|
+| 1 | National Archaeological Museum (Madrid, Spain)|
 | 2 |Musée Fabre (Montpellier, France)|
 | 3 |MAC-University of São Paulo (São Paulo, Brazil)|
 | 4 |British Museum (London, UK)|
@@ -34157,9 +34373,6 @@ places
 | 48 |Hamburger Kunsthalle (Hamburg, Germany)|
 | 49 |Tate Modern (London, UK)|
 | 50 |National Gallery (Oslo, Norway)|
-
-## World Art Museums
-
 | 51 |Museum Kunstpalast (Düsseldorf, Germany)|
 | 52 |Tokyo National Art Center (Tokyo, Japan)|
 | 53 |Museo Reina Sofía (Madrid, Spain)|
@@ -34213,6 +34426,58 @@ places
 
 ## Tallest Buildings in the World -:-:- 
 
+| d100| Name |
+|:--:|--|
+| 1 | Burj Khalifa (Dubai, AE)|
+| 2 |Shanghai Tower (Shanghai, CN)|
+| 3 |Makkah Royal Clock Tower (Mecca, SA)|
+| 4 |Ping An Finance Center (Shenzhen, CN)|
+| 5 |Lotte World Tower (Seoul, KR)|
+| 6 |One World Trade Center (New York City, US)|
+| 7 |Guangzhou CTF Finance Centre (Guangzhou, CN)|
+| 8 |Tianjin CTF Finance Centre (Tianjin, CN)|
+| 9 |CITIC Tower (Beijing, CN)|
+| 10 |TAIPEI 101 (Taipei, CN)|
+| 11 |Shanghai World Financial Center (Shanghai, CN)|
+| 12 |International Commerce Centre (Hong Kong, CN)|
+| 13 |Lakhta Center (St. Petersburg, RU)|
+| 14 |Vincom Landmark 81 (Ho Chi Minh City, VN)|
+| 15 |Changsha IFS Tower T1 (Changsha, CN)|
+| 16 |Petronas Twin Tower 1 (Kuala Lumpur, MY)|
+| 17 |Petronas Twin Tower 2 (Kuala Lumpur, MY)|
+| 18 |Zifeng Tower (Nanjing, CN)|
+| 19 |The Exchange 106 (Kuala Lumpur, MY)|
+| 20 |Willis Tower (Chicago, US)|
+| 21 |KK100 (Shenzhen, CN)|
+| 22 |International Finance Center (Guangzhou, CN)|
+| 23 |Wuhan Center Tower (Wuhan, CN)|
+| 24 |432 Park Avenue (New York City, US)|
+| 25 |Marina 101 (Dubai, AE)|
+| 26 |Trump International Hotel & Tower (Chicago, US)|
+| 27 |Jin Mao Tower (Shanghai, CN)|
+| 28 |Princess Tower (Dubai, AE)|
+| 29 |Al Hamra Tower (Kuwait City, KW)|
+| 30 |Two International Finance Centre (Hong Kong, CN)|
+| 31 |China Resources Tower (Shenzhen, CN)|
+| 32 |23 Marina (Dubai, AE)|
+| 33 |CITIC Plaza (Guangzhou, CN)|
+| 34 |Shum Yip Upperhills Tower 1 (Shenzhen, CN)|
+| 35 |30 Hudson Yards (New York City, US)|
+| 36 |Shun Hing Square (Shenzhen, CN)|
+| 37 |Eton Place Dalian Tower 1 (Dalian, CN)|
+| 38 |Nanning Logan Century 1 (Nanning,CN)|
+| 39 |Burj Mohammed Bin Rashid (Abu Dhabi, AE)|
+| 40 |Empire State Building (New York City, US)|
+| 41 |Elite Residence (Dubai, AE)|
+| 42 |Central Plaza (Hong Kong, CN)|
+| 43 |Federation Tower (Moscow, RU)|
+| 44 |The Address Boulevard (Dubai, AE)|
+| 45 |Golden Eagle Tiandi Tower A (Nanjing, CN)|
+| 46 |Bank of China Tower (Hong Kong, CN)|
+| 47 |Bank of America Tower (New York City, US)|
+| 48 |Almas Tower (Dubai, AE)|
+| 49 |Hanking Center (Shenzhen, CN)|
+| 50 |Gevora Hotel (Dubai, AE)|
 | 51 |JW Marriott Marquis Hotel Dubai Tower 1 (Dubai, AE)|
 | 52 |JW Marriott Marquis Hotel Dubai Tower 2 (Dubai, AE)|
 | 53 |Emirates Tower One (Dubai, AE)|
@@ -34264,62 +34529,13 @@ places
 | 99 |53 West 53rd (New York City, US)|
 | 100 | Sinar Mas Center 1 (Shanghai, CN)|
 
-| 1 |Burj Khalifa (Dubai, AE)|
-| 2 |Shanghai Tower (Shanghai, CN)|
-| 3 |Makkah Royal Clock Tower (Mecca, SA)|
-| 4 |Ping An Finance Center (Shenzhen, CN)|
-| 5 |Lotte World Tower (Seoul, KR)|
-| 6 |One World Trade Center (New York City, US)|
-| 7 |Guangzhou CTF Finance Centre (Guangzhou, CN)|
-| 8 |Tianjin CTF Finance Centre (Tianjin, CN)|
-| 9 |CITIC Tower (Beijing, CN)|
-| 10 |TAIPEI 101 (Taipei, CN)|
-| 11 |Shanghai World Financial Center (Shanghai, CN)|
-| 12 |International Commerce Centre (Hong Kong, CN)|
-| 13 |Lakhta Center (St. Petersburg, RU)|
-| 14 |Vincom Landmark 81 (Ho Chi Minh City, VN)|
-| 15 |Changsha IFS Tower T1 (Changsha, CN)|
-| 16 |Petronas Twin Tower 1 (Kuala Lumpur, MY)|
-| 17 |Petronas Twin Tower 2 (Kuala Lumpur, MY)|
-| 18 |Zifeng Tower (Nanjing, CN)|
-| 19 |The Exchange 106 (Kuala Lumpur, MY)|
-| 20 |Willis Tower (Chicago, US)|
-| 21 |KK100 (Shenzhen, CN)|
-| 22 |International Finance Center (Guangzhou, CN)|
-| 23 |Wuhan Center Tower (Wuhan, CN)|
-| 24 |432 Park Avenue (New York City, US)|
-| 25 |Marina 101 (Dubai, AE)|
-| 26 |Trump International Hotel & Tower (Chicago, US)|
-| 27 |Jin Mao Tower (Shanghai, CN)|
-| 28 |Princess Tower (Dubai, AE)|
-| 29 |Al Hamra Tower (Kuwait City, KW)|
-| 30 |Two International Finance Centre (Hong Kong, CN)|
-| 31 |China Resources Tower (Shenzhen, CN)|
-| 32 |23 Marina (Dubai, AE)|
-| 33 |CITIC Plaza (Guangzhou, CN)|
-| 34 |Shum Yip Upperhills Tower 1 (Shenzhen, CN)|
-| 35 |30 Hudson Yards (New York City, US)|
-| 36 |Shun Hing Square (Shenzhen, CN)|
-| 37 |Eton Place Dalian Tower 1 (Dalian, CN)|
-| 38 |Nanning Logan Century 1 (Nanning,CN)|
-| 39 |Burj Mohammed Bin Rashid (Abu Dhabi, AE)|
-| 40 |Empire State Building (New York City, US)|
-| 41 |Elite Residence (Dubai, AE)|
-| 42 |Central Plaza (Hong Kong, CN)|
-| 43 |Federation Tower (Moscow, RU)|
-| 44 |The Address Boulevard (Dubai, AE)|
-| 45 |Golden Eagle Tiandi Tower A (Nanjing, CN)|
-| 46 |Bank of China Tower (Hong Kong, CN)|
-| 47 |Bank of America Tower (New York City, US)|
-| 48 |Almas Tower (Dubai, AE)|
-| 49 |Hanking Center (Shenzhen, CN)|
-| 50 |Gevora Hotel (Dubai, AE)|
 
 weapon names
 
 ## US Military Weapons
-
-| 1 |Mk 17 Mod 0|
+| d100| Name |
+|:--:|--|
+| 1 | Mk 17 Mod 0|
 | 2 |Beretta M9|
 | 3 |Strider SMF|
 | 4 |Mk 3 knife|
@@ -34422,58 +34638,9 @@ weapon names
 
 ## Russian Military Weapons -:-:- 
 
-| 51 |KPV Vladimirov Machine Gun|
-| 52 |APS underwater automatic rifle|
-| 53 |RG-6 grenade launcher|
-| 54 |MRO-A|
-| 55 |Kord machine gun|
-| 56 |Varna|
-| 57 |PP-90|
-| 58 |PL-14/15|
-| 59 |PSM pistol|
-| 60 |2B14 Podnos|
-| 61 |RPD machine gun|
-| 62 |RPG-28 Klyukva|
-| 63 |PP-90M1|
-| 64 |RPG-32 Hashim|
-| 65 |OTs-02 Kiparis|
-| 66 |PKP Pecheneg machine gun|
-| 67 |AK-74M|
-| 68 |GP-25 Kostyor|
-| 69 |DP-64|
-| 70 |RPG-16|
-| 71 |MP-443 Grach Yarygin Pistol|
-| 72 |AGS-40 Balkan|
-| 73 |P-96 pistol|
-| 74 |Vepr-12|
-| 75 |VKS sniper rifle|
-| 76 |Bizon|
-| 77 |RGS-50|
-| 78 |9K111 Fagot|
-| 79 |6S8|
-| 80 |SKS / Simonov self-loading carbine|
-| 81 |RKG-3 shaped charge|
-| 82 |RPG-26 Aglen|
-| 83 |9M113|
-| 84 |RPO Rys|
-| 85 |AGS-17 Plamya|
-| 86 |AK-47|
-| 87 |RPG-29 Vampir|
-| 88 |GP-25|
-| 89 |ADS amphibious rifle|
-| 90 |9M133 Kornet|
-| 91 |Saiga-12 Automatic shotgun|
-| 92 |NRS-2|
-| 93 |PSS silent pistol also called MSS "Vul"
-| 94 |PP-2000|
-| 95 |SR-1 Vektor|
-| 96 |ASVK|
-| 97 |RGO hand grenade|
-| 98 |Grad-P Light portable rocket system|
-| 99 |SV-98|
-| 100 | AS Val|
-
-| 1 |RPG-30 Kryuk|
+| d100| Name |
+|:--:|--|
+| 1 | RPG-30 Kryuk|
 | 2 |Molot Bekas-M|
 | 3 |AK-9|
 | 4 |RPK Kalashnikov Light Machine Gun|
@@ -34523,12 +34690,65 @@ weapon names
 | 48 |Mosin–Nagant|
 | 49 |9M14 Malyutka|
 | 50 |GM-94|
+| 51 |KPV Vladimirov Machine Gun|
+| 52 |APS underwater automatic rifle|
+| 53 |RG-6 grenade launcher|
+| 54 |MRO-A|
+| 55 |Kord machine gun|
+| 56 |Varna|
+| 57 |PP-90|
+| 58 |PL-14/15|
+| 59 |PSM pistol|
+| 60 |2B14 Podnos|
+| 61 |RPD machine gun|
+| 62 |RPG-28 Klyukva|
+| 63 |PP-90M1|
+| 64 |RPG-32 Hashim|
+| 65 |OTs-02 Kiparis|
+| 66 |PKP Pecheneg machine gun|
+| 67 |AK-74M|
+| 68 |GP-25 Kostyor|
+| 69 |DP-64|
+| 70 |RPG-16|
+| 71 |MP-443 Grach Yarygin Pistol|
+| 72 |AGS-40 Balkan|
+| 73 |P-96 pistol|
+| 74 |Vepr-12|
+| 75 |VKS sniper rifle|
+| 76 |Bizon|
+| 77 |RGS-50|
+| 78 |9K111 Fagot|
+| 79 |6S8|
+| 80 |SKS / Simonov self-loading carbine|
+| 81 |RKG-3 shaped charge|
+| 82 |RPG-26 Aglen|
+| 83 |9M113|
+| 84 |RPO Rys|
+| 85 |AGS-17 Plamya|
+| 86 |AK-47|
+| 87 |RPG-29 Vampir|
+| 88 |GP-25|
+| 89 |ADS amphibious rifle|
+| 90 |9M133 Kornet|
+| 91 |Saiga-12 Automatic shotgun|
+| 92 |NRS-2|
+| 93 |PSS silent pistol also called MSS "Vul"|
+| 94 |PP-2000|
+| 95 |SR-1 Vektor|
+| 96 |ASVK|
+| 97 |RGO hand grenade|
+| 98 |Grad-P Light portable rocket system|
+| 99 |SV-98|
+| 100 | AS Val|
+
 
 agencies
 
 ## Chinese Government Agencies -:-:- 40- Agencies
 
-| 1 |Development Research Center of the State Council (DRC)|
+| d100| Name |
+|:--:|--|
+| 1 | Development Research Center of the State Council (DRC)|
 | 2 |China Center of Adoption Affairs (CCAA)|
 | 3 |Ministry of Transport of the People’s Republic of China (MOT)|
 | 4 |National Healthcare Security Administration (NHSA)|
@@ -34578,9 +34798,6 @@ agencies
 | 48 |National Forestry and Grassland Administration (NFGA)|
 | 49 |Ministry of National Defense (MND)|
 | 50 |State Electricity Regulatory Commission (SERC)|
-
-## Chinese Government Agencies
-
 | 51 |State Administration for Market Regulation (SAMR)|
 | 52 |National Nuclear Safety Administration (NNSA)|
 | 53 |China Banking Regulatory Commission (CBRC)|
@@ -34634,7 +34851,9 @@ agencies
 
 ## US Government Agencies -:-:- 42-
 
-| 1 |National Technical Information Service (NTIS)|
+| d100| Name |
+|:--:|--|
+| 1 | National Technical Information Service (NTIS)|
 | 2 |Department of Homeland Security (DHS)|
 | 3 |Office of Lead Hazard Control and Healthy Homes (OLHCHH)|
 | 4 |National Weather Service (NWS)|
@@ -34684,9 +34903,6 @@ agencies
 | 48 |Office of the Comptroller of the Currency (OCC)|
 | 49 |Securities and Exchange Commission (SEC)|
 | 50 |Peace Corps|
-
-## US Government Agencies
-
 | 51 |Mine Safety and Health Administration (MSHA)|
 | 52 |Federal Trade Commission (FTC)|
 | 53 |Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF)|
@@ -34740,7 +34956,9 @@ agencies
 
 ## Intergovernmental Agencies #1 -:-:- 44-
 
-| 1 |Nordic Investment Bank (NIB)|
+| d100| Name |
+|:--:|--|
+| 1 | Nordic Investment Bank (NIB)|
 | 2 |United Nations International Children’s Emergency Fund (UNICEF)|
 | 3 |European Free Trade Association (EFTA)|
 | 4 |United Nations Office on Drugs and Crime (UNODC)|
@@ -34790,9 +35008,6 @@ agencies
 | 48 |International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East (SESAME)|
 | 49 |Organization of American States (OAS)|
 | 50 |Organization for Security and Co-operation in Europe (OSCE)|
-
-## Intergovernmental Agencies #2 -:-:- 46-
-
 | 51 |International Institute for Democracy and Electoral Assistance (International IDEA)|
 | 52 |European Space Agency (ESA)|
 | 53 |Alliance of Small Island States (AOSIS)|
@@ -34846,7 +35061,9 @@ agencies
 
 ## Intergovernmental Agencies #2
 
-| 1 |Group of Twenty (G20)|
+| d100| Name |
+|:--:|--|
+| 1 | Group of Twenty (G20)|
 | 2 |Organization of Islamic Cooperation (OIC)|
 | 3 |Gulf Cooperation Council (GCC)|
 | 4 |United Nations Industrial Development Organization (UNIDO)|
@@ -34896,9 +35113,6 @@ agencies
 | 48 |European Atomic Energy Community (EAEC)|
 | 49 |Food and Agriculture Organization (FAO)|
 | 50 |Organization of the Petroleum Exporting Countries Fund for International Development (OPEC Fund)|
-
-## Intergovernmental Agencies #2
-
 | 51 |Agency for International Trade Information and Cooperation (AITIC)|
 | 52 |Asian Development Bank (ADB)|
 | 53 |International Development Association (IDA)|
@@ -34954,7 +35168,9 @@ Terrorist Groups
 
 ### Terrorist Groups #1 -:-:-  Terrorist Groups
 
-| 1 |Takfir wal-Hijra|
+| d100| Name |
+|:--:|--|
+| 1 | Takfir wal-Hijra|
 | 2 |Jundallah|
 | 3 |al-Qaeda|
 | 4 |Jamiat ul-Ansar|
@@ -35057,6 +35273,58 @@ Terrorist Groups
 
 ### Terrorist Groups #2 -:-:- 
 
+| d100| Name |
+|:--:|--|
+| 1 | Harakat Hezbollah al-Nujaba|
+| 2 |Ulster Volunteer Force|
+| 3 |Katibat al-Imam al-Bukhari|
+| 4 |Jund al-Aqsa|
+| 5 |al-Jama’a al-Islamiyya|
+| 6 |Grey Wolves|
+| 7 |Revolutionary Organization 17 November|
+| 8 |Real Irish Republican Army|
+| 9 |Orange Volunteers|
+| 10 |Army of Islam|
+| 11 |Hezbollah (External Security Organisation)|
+| 12 |Balochistan Liberation Army|
+| 13 |Jund al-Khilafah|
+| 14 |Palestinian Relief Development Fund – Interpal|
+| 15 |Abdullah Azzam Brigades|
+| 16 |United Liberation Front of Assam|
+| 17 |United Self-Defense Forces of Colombia|
+| 18 |Harakat Sham al-Islam|
+| 19 |Irish People’s Liberation Organisation|
+| 20 |Harakat-Ul-Mujahideen/Alami|
+| 21 |Continuity Irish Republican Army|
+| 22 |Jund al-Sham|
+| 23 |Kata’ib Hezbollah|
+| 24 |Islamic Revolutionary Guards Corps|
+| 25 |Army of the Men of the Naqshbandi Order|
+| 26 |Lugansk People’s Republic|
+| 27 |Jemaah Islamiyah|
+| 28 |Al-Nusra Front|
+| 29 |Communist Party of Turkey/Marxist–Leninist|
+| 30 |Kurdistan Freedom Hawks|
+| 31 |Holy Land Foundation|
+| 32 |Communist Party of the Philippines/
+| 33 |al-Qaeda in the Indian Subcontinent|
+| 34 |Islamic Jihad|
+| 35 |People’s Liberation Army of Manipur|
+| 36 |Harkat-al-Jihad al-Islami in Bangladesh|
+| 37 |Irish Republican Army|
+| 38 |Kurdistan Workers’ Party|
+| 39 |Islamic State of Iraq and the Levant – Yemen|
+| 40 |Aum Shinrikyo|
+| 41 |Osbat al-Ansar|
+| 42 |Hizb ut-Tahrir|
+| 43 |World Uygur Youth Congress|
+| 44 |National Liberation Front of Tripura|
+| 45 |Hamas|
+| 46 |Sect of Revolutionaries|
+| 47 |International Union of Muslim Scholars|
+| 48 |Saor Éire|
+| 49 |Force 17|
+| 50 |Tehreek-e-Nafaz-e-Shariat-e-Mohammadi|
 | 51 |Kangleipak Communist Party|
 | 52 |Hasm Movement|
 | 53 |Jamiat al-Islah al-Idzhtimai|
@@ -35108,61 +35376,63 @@ Terrorist Groups
 | 99 |al-Aqsa Martyrs’ Brigades|
 | 100 | World Tamil Movement|
 
-| 1 |Harakat Hezbollah al-Nujaba|
-| 2 |Ulster Volunteer Force|
-| 3 |Katibat al-Imam al-Bukhari|
-| 4 |Jund al-Aqsa|
-| 5 |al-Jama’a al-Islamiyya|
-| 6 |Grey Wolves|
-| 7 |Revolutionary Organization 17 November|
-| 8 |Real Irish Republican Army|
-| 9 |Orange Volunteers|
-| 10 |Army of Islam|
-| 11 |Hezbollah (External Security Organisation)|
-| 12 |Balochistan Liberation Army|
-| 13 |Jund al-Khilafah|
-| 14 |Palestinian Relief Development Fund – Interpal|
-| 15 |Abdullah Azzam Brigades|
-| 16 |United Liberation Front of Assam|
-| 17 |United Self-Defense Forces of Colombia|
-| 18 |Harakat Sham al-Islam|
-| 19 |Irish People’s Liberation Organisation|
-| 20 |Harakat-Ul-Mujahideen/Alami|
-| 21 |Continuity Irish Republican Army|
-| 22 |Jund al-Sham|
-| 23 |Kata’ib Hezbollah|
-| 24 |Islamic Revolutionary Guards Corps|
-| 25 |Army of the Men of the Naqshbandi Order|
-| 26 |Lugansk People’s Republic|
-| 27 |Jemaah Islamiyah|
-| 28 |Al-Nusra Front|
-| 29 |Communist Party of Turkey/Marxist–Leninist|
-| 30 |Kurdistan Freedom Hawks|
-| 31 |Holy Land Foundation|
-| 32 |Communist Party of the Philippines/
-| 33 |al-Qaeda in the Indian Subcontinent|
-| 34 |Islamic Jihad|
-| 35 |People’s Liberation Army of Manipur|
-| 36 |Harkat-al-Jihad al-Islami in Bangladesh|
-| 37 |Irish Republican Army|
-| 38 |Kurdistan Workers’ Party|
-| 39 |Islamic State of Iraq and the Levant – Yemen|
-| 40 |Aum Shinrikyo|
-| 41 |Osbat al-Ansar|
-| 42 |Hizb ut-Tahrir|
-| 43 |World Uygur Youth Congress|
-| 44 |National Liberation Front of Tripura|
-| 45 |Hamas|
-| 46 |Sect of Revolutionaries|
-| 47 |International Union of Muslim Scholars|
-| 48 |Saor Éire|
-| 49 |Force 17|
-| 50 |Tehreek-e-Nafaz-e-Shariat-e-Mohammadi|
 
 names
 
 ### US Female Given Names -:-:-  Names
 
+| d100| Name |
+|:--:|--|
+| 1 | Robin|
+| 2 |Dorothy|
+| 3 |Shirley|
+| 4 |Ruth|
+| 5 |Virginia|
+| 6 |Theresa|
+| 7 |Irene|
+| 8 |Lillian|
+| 9 |Denise|
+| 10 |Marilyn|
+| 11 |Jane|
+| 12 |Jennifer|
+| 13 |Rachel|
+| 14 |Tammy|
+| 15 |Julia|
+| 16 |Barbara|
+| 17 |Andrea|
+| 18 |Judy|
+| 19 |Betty|
+| 20 |Kelly|
+| 21 |Catherine|
+| 22 |Rebecca|
+| 23 |Jacqueline|
+| 24 |Helen|
+| 25 |Marie|
+| 26 |Anna|
+| 27 |Kathy|
+| 28 |Lori|
+| 29 |Susan|
+| 30 |Kimberly|
+| 31 |Ann|
+| 32 |Norma|
+| 33 |Nancy|
+| 34 |Janet|
+| 35 |Pamela|
+| 36 |Elizabeth|
+| 37 |Jessica|
+| 38 |Heather|
+| 39 |Michelle|
+| 40 |Karen|
+| 41 |Carol|
+| 42 |Sara|
+| 43 |Katherine|
+| 44 |Diana|
+| 45 |Amanda|
+| 46 |Diane|
+| 47 |Lisa|
+| 48 |Maria|
+| 49 |Doris|
+| 50 |Janice|
 | 51 |Judith|
 | 52 |Stephanie|
 | 53 |Martha|
@@ -35214,60 +35484,10 @@ names
 | 99 |Mildred|
 | 100 | Sandra|
 
-| 1 |Robin|
-| 2 |Dorothy|
-| 3 |Shirley|
-| 4 |Ruth|
-| 5 |Virginia|
-| 6 |Theresa|
-| 7 |Irene|
-| 8 |Lillian|
-| 9 |Denise|
-| 10 |Marilyn|
-| 11 |Jane|
-| 12 |Jennifer|
-| 13 |Rachel|
-| 14 |Tammy|
-| 15 |Julia|
-| 16 |Barbara|
-| 17 |Andrea|
-| 18 |Judy|
-| 19 |Betty|
-| 20 |Kelly|
-| 21 |Catherine|
-| 22 |Rebecca|
-| 23 |Jacqueline|
-| 24 |Helen|
-| 25 |Marie|
-| 26 |Anna|
-| 27 |Kathy|
-| 28 |Lori|
-| 29 |Susan|
-| 30 |Kimberly|
-| 31 |Ann|
-| 32 |Norma|
-| 33 |Nancy|
-| 34 |Janet|
-| 35 |Pamela|
-| 36 |Elizabeth|
-| 37 |Jessica|
-| 38 |Heather|
-| 39 |Michelle|
-| 40 |Karen|
-| 41 |Carol|
-| 42 |Sara|
-| 43 |Katherine|
-| 44 |Diana|
-| 45 |Amanda|
-| 46 |Diane|
-| 47 |Lisa|
-| 48 |Maria|
-| 49 |Doris|
-| 50 |Janice|
-
 ### US Male Given Names -:-:- 
-
-| 1 |Andrew|
+| d100| Name |
+|:--:|--|
+| 1 | Andrew|
 | 2 |Christopher|
 | 3 |Keith|
 | 4 |Paul|
@@ -35370,6 +35590,58 @@ names
 
 ### US Surnames -:-:- 
 
+| d100| Name |
+|:--:|--|
+| 1 | Wright|
+| 2 |Barnes|
+| 3 |Fisher|
+| 4 |Baker|
+| 5 |Ward|
+| 6 |Allen|
+| 7 |Ramirez|
+| 8 |Cooper|
+| 9 |Collins|
+| 10 |Sullivan|
+| 11 |Smith|
+| 12 |Nguyen|
+| 13 |Brooks|
+| 14 |Perez|
+| 15 |King|
+| 16 |Kelly|
+| 17 |Diaz|
+| 18 |Hughes|
+| 19 |Lee|
+| 20 |Clark|
+| 21 |Howard|
+| 22 |Turner|
+| 23 |Ross|
+| 24 |Torres|
+| 25 |Peterson|
+| 26 |Walker|
+| 27 |Bell|
+| 28 |Nelson|
+| 29 |Martinez|
+| 30 |Sanchez|
+| 31 |Wood|
+| 32 |Mitchell|
+| 33 |Foster|
+| 34 |Russell|
+| 35 |Evans|
+| 36 |Butler|
+| 37 |Gonzalez|
+| 38 |Brown|
+| 39 |Richardson|
+| 40 |Carter|
+| 41 |Reed|
+| 42 |Green|
+| 43 |Morgan|
+| 44 |Gutierrez|
+| 45 |Hall|
+| 46 |Parker|
+| 47 |Price|
+| 48 |Thomas|
+| 49 |Cruz|
+| 50 |Jones|
 | 51 |Moore|
 | 52 |Lopez|
 | 53 |Anderson|
@@ -35421,59 +35693,10 @@ names
 | 99 |Young|
 | 100 | Johnson|
 
-| 1 |Wright|
-| 2 |Barnes|
-| 3 |Fisher|
-| 4 |Baker|
-| 5 |Ward|
-| 6 |Allen|
-| 7 |Ramirez|
-| 8 |Cooper|
-| 9 |Collins|
-| 10 |Sullivan|
-| 11 |Smith|
-| 12 |Nguyen|
-| 13 |Brooks|
-| 14 |Perez|
-| 15 |King|
-| 16 |Kelly|
-| 17 |Diaz|
-| 18 |Hughes|
-| 19 |Lee|
-| 20 |Clark|
-| 21 |Howard|
-| 22 |Turner|
-| 23 |Ross|
-| 24 |Torres|
-| 25 |Peterson|
-| 26 |Walker|
-| 27 |Bell|
-| 28 |Nelson|
-| 29 |Martinez|
-| 30 |Sanchez|
-| 31 |Wood|
-| 32 |Mitchell|
-| 33 |Foster|
-| 34 |Russell|
-| 35 |Evans|
-| 36 |Butler|
-| 37 |Gonzalez|
-| 38 |Brown|
-| 39 |Richardson|
-| 40 |Carter|
-| 41 |Reed|
-| 42 |Green|
-| 43 |Morgan|
-| 44 |Gutierrez|
-| 45 |Hall|
-| 46 |Parker|
-| 47 |Price|
-| 48 |Thomas|
-| 49 |Cruz|
-| 50 |Jones|
-
 ### African Female Given Names -:-:- 
 
+| d100| Name |
+|:--:|--|
 | 1 |Hendaqué
 | 2 |Enu|
 | 3 |Adjoa|
@@ -35626,9 +35849,11 @@ names
 | 97 |Melisizwe|
 | 98 |Baba|
 | 99 |Blyds|
-| 100 | Boitumelo|
+| 100 |  Boitumelo|
 
-| 1 |Kwaku|
+| d100| Name |
+|:--:|--|
+| 1 | Kwaku|
 | 2 |Oni|
 | 3 |Chima|
 | 4 |Gwala|
@@ -35680,8 +35905,9 @@ names
 | 50 |Aspurta|
 
 ### African Surnames -:-:- 
-
-| 1 |Odili|
+| d100| Name |
+|:--:|--|
+| 1 | Odili|
 | 2 |Obi|
 | 3 |Nzeogwu|
 | 4 |Okadigbo|
@@ -35833,9 +36059,11 @@ names
 | 97 |Arrafa|
 | 98 |Jalila|
 | 99 |Haifa|
-| 100 | Sahar|
+| 100 |  Sahar|
 
-| 1 |Nadiyya|
+| d100| Name |
+|:--:|--|
+| 1 | Nadiyya|
 | 2 |Allat|
 | 3 |Marwa|
 | 4 |Iman|
@@ -35887,8 +36115,9 @@ names
 | 50 |Matabintain|
 
 ### Arabic Male Given Names -:-:- 
-
-| 1 |Mousa|
+| d100| Name |
+|:--:|--|
+| 1 | Mousa|
 | 2 |Yatha|
 | 3 |Mashaken|
 | 4 |Alem|
@@ -36040,9 +36269,11 @@ names
 | 97 |Kadri|
 | 98 |Mustafa|
 | 99 |Nasiri|
-| 100 | Erakat|
+| 100 |  Erakat|
 
-| 1 |Basri|
+| d100| Name |
+|:--:|--|
+| 1 | Basri|
 | 2 |Nabih|
 | 3 |Sadr|
 | 4 |Bashar|
@@ -36094,8 +36325,9 @@ names
 | 50 |Khofri|
 
 ### Chinese Female Given Names -:-:- 
-
-| 1 |Zongying|
+| d100| Name |
+|:--:|--|
+| 1 | Zongying|
 | 2 |Jie|
 | 3 |Shuang|
 | 4 |Liu|
@@ -36247,9 +36479,11 @@ names
 | 97 |Yun|
 | 98 |Niu|
 | 99 |Tingfeng|
-| 100 | Chao|
+| 100 |  Chao|
 
-| 1 |Xiaosheng|
+| d100| Name |
+|:--:|--|
+| 1 | Xiaosheng|
 | 2 |Fa|
 | 3 |Yan|
 | 4 |Han|
@@ -36301,8 +36535,9 @@ names
 | 50 |Yi|
 
 ### Chinese Surnames -:-:- 
-
-| 1 |Li|
+| d100| Name |
+|:--:|--|
+| 1 | Li|
 | 2 |Wáng|
 | 3 |Zhāng|
 | 4 |Liú
@@ -36454,9 +36689,11 @@ names
 | 97 |Liselotte|
 | 98 |Balthild|
 | 99 |Rosamond|
-| 100 | Romy|
+| 100 |  Romy|
 
-| 1 |Wilhelmine|
+| d100| Name |
+|:--:|--|
+| 1 | Wilhelmine|
 | 2 |Agata|
 | 3 |Elke|
 | 4 |Lutgard|
@@ -36508,8 +36745,9 @@ names
 | 50 |Bathilde|
 
 ### German Male Given Names -:-:- 
-
-| 1 |Eldrich|
+| d100| Name |
+|:--:|--|
+| 1 | Eldrich|
 | 2 |Hariric|
 | 3 |Jakob|
 | 4 |Audo|
@@ -36663,7 +36901,9 @@ names
 | 99 |Wolff|
 | 100 | Pfeiffer|
 
-| 1 |Müller|
+| d100| Name |
+|:--:|--|
+| 1 | Müller|
 | 2 |Schmidt|
 | 3 |Schneider|
 | 4 |Fischer|
@@ -36715,8 +36955,9 @@ names
 | 50 |Schubert|
 
 ### Japanese Female Given Names -:-:- 
-
-| 1 |Kyoko|
+| d100| Name |
+|:--:|--|
+| 1 | Kyoko|
 | 2 |Avaron|
 | 3 |Ume|
 | 4 |Rin|
@@ -36868,9 +37109,11 @@ names
 | 97 |Jirou|
 | 98 |Kichirou|
 | 99 |Nobuo|
-| 100 | Yoshito|
+| 100 |  Yoshito|
 
-| 1 |Keiichi|
+| d100| Name |
+|:--:|--|
+| 1 | Keiichi|
 | 2 |Hiroshi|
 | 3 |Toru|
 | 4 |Daiki|
@@ -36922,8 +37165,9 @@ names
 | 50 |Shou|
 
 ### Japanese Surnames -:-:- 
-
-| 1 |Ishida|
+| d100| Name |
+|:--:|--|
+| 1 | Ishida|
 | 2 |Kobayashi|
 | 3 |Otsuka|
 | 4 |Abe|
@@ -37026,32 +37270,6 @@ names
 
 # POST-APOCALYPTIC  The Book of Random Tables
 
-### CREDITS
-
-Written By Matt Davids
-
-With Additional Material By Jake Branson
-
-Edited By Ryan Thompson
-
-Layout & Design By Matt Davids
-
-Patrons Scott Frega, Heath Baxter, Andrew Nagy & Ray Joseph
-
-Special Thanks Michael Spredemann
-
-Thanks Mik Calow, Jeff Gatlin & JE Melton
-
-Art Credits Interior art by Jeshields and Rian Trost. Backcover image also from Rian Trost. These images are  copyrighted by the artists and used under license from DriveThruRPG.
-
-Both front cover images are from iStock and are copyrighted. Used under license.
-
-The contents are copyrighted 2019 by dicegeeks and Matt Davids.
-
-Get Free RPG Resources Visit
-
-dicegeeks.com/free
-
 ## Table of contents
 
 ### -
@@ -37130,7 +37348,9 @@ Matt Davids 5/5/
 
 Highway Encounters
 
-| 1 |Lost Girl (1D12 years old)|
+| d100| Name |
+|:--:|--|
+| 1 | Lost Girl (1D12 years old)|
 | 2 |Jetliner (large, crashed)|
 | 3 |Cow|
 | 4 |Wild Boar (1D8)|
@@ -37231,9 +37451,11 @@ Highway Encounters
 | 99 |Fallen Electric Pole Blocks Road|
 | 100 |Bear (rabid)|
 
-Gang Names
+### Gang Names
 
-| 1 |The Rabid Ones|
+| d100| Name |
+|:--:|--|
+| 1 | The Rabid Ones|
 | 2 |The Voiceless|
 | 3 |Kyle’s Warriors|
 | 4 |The Reborn|
@@ -37336,37 +37558,41 @@ Gang Names
 
 master table
 
-| 1-3 |Projectile Weapons 
-| 4-6 |Appliances and Furniture # 
-| 7-9 |Appliances and Furniture # 
-| 10-12 |Clothing 
-| 13-15 | Water 
-| 16-18 |Medication # 
-| 19-21 |Medication # 
-| 22-24 |Office Items # 
-| 25-27 |Office Items # 
-| 28-30 |Books 
-| 31-33 |Melee/Thrown Weapons 
-| 34-36 |Over‐the‐Counter Drugs and Medical Supplies 
-| 37-39 |Ammo 
-| 40-42 |Food 
-| 43-45 |Armor and Tactical Gear 
-| 46-48 |Alcohol 
-| 49-50 |Drugs 
-| 51-55 |Random Items # 
-| 56-60 |Random Items # 
-| 61-65 |Random Items # 
-| 66-70 |Random Items # 
-| 71-75 |Random Items # 
-| 76-80 |Random Items # 
-| 81-85 |Random Items # 
-| 86-90 |Random Items # 
-| 91-95 |Random Items # 
-| 96-100 |Random Items #
+| d100| Name |
+|:--:|--|
+| 1-3 |Projectile Weapons |
+| 4-6 |Appliances and Furniture # |
+| 7-9 |Appliances and Furniture # |
+| 10-12 |Clothing |
+| 13-15 | Water |
+| 16-18 |Medication # |
+| 19-21 |Medication # |
+| 22-24 |Office Items # |
+| 25-27 |Office Items # |
+| 28-30 |Books |
+| 31-33 |Melee/Thrown Weapons |
+| 34-36 |Over‐the‐Counter Drugs and Medical Supplies |
+| 37-39 |Ammo |
+| 40-42 |Food |
+| 43-45 |Armor and Tactical Gear |
+| 46-48 |Alcohol |
+| 49-50 |Drugs |
+| 51-55 |Random Items # |
+| 56-60 |Random Items # |
+| 61-65 |Random Items # |
+| 66-70 |Random Items # |
+| 71-75 |Random Items # |
+| 76-80 |Random Items # |
+| 81-85 |Random Items # |
+| 86-90 |Random Items # |
+| 91-95 |Random Items # |
+| 96-100 |Random Items #|
 
-Projectile Weapons
+### Projectile Weapons
 
-| 1 |5.56 Semi‐auto pistol|
+| d100| Name |
+|:--:|--|
+| 1  5.56 Semi‐auto pistol|
 | 2 |.22 Semi‐auto rifle|
 | 3 |.12 Shotgun|
 | 4 |Mortar|
@@ -37467,9 +37693,11 @@ Projectile Weapons
 | 99 |Compound bow|
 | 100 |Grenade launcher|
 
-Appliances and Furniture #
+### Appliances and Furniture #
 
-| 1 |Wine rack|
+| d100| Name |
+|:--:|--|
+| 1 | Wine rack|
 | 2 |Convection microwave|
 | 3 |Wood‐fired oven|
 | 4 |Patio chair|
@@ -37571,8 +37799,9 @@ Appliances and Furniture #
 | 100 |Pinball machine|
 
 Appliances and Furniture #
-
-| 1 |Cradle|
+| d100| Name |
+|:--:|--|
+| 1 | Cradle|
 | 2 |Drop‐leaf table|
 | 3 |Dining table|
 | 4 |Couch|
@@ -37674,8 +37903,9 @@ Appliances and Furniture #
 | 100 |Mangle (appliance)|
 
 Clothing
-
-| 1 |Sweat pants 
+| d100| Name |
+|:--:|--|
+| 1 | Sweat pants 
 | 2 |Sunglasses|
 | 3 |Bikini 
 | 4 |Flip flops|
@@ -37777,8 +38007,9 @@ Clothing
 | 100 |Photog vest|
 
 water
-
-| 1 |Half pint|
+| d100| Name |
+|:--:|--|
+| 1 | Half pint|
 | 2 |One pint|
 | 3 |Two and a half gallons|
 | 4 |Two gallons and a quart|
@@ -37880,8 +38111,9 @@ water
 | 100 |Eight gallons|
 
 Medication #
-
-| 1 |Liraglutide|
+| d100| Name |
+|:--:|--|
+| 1 | Liraglutide|
 | 2 |Levetiracetam|
 | 3 |Clonazepam|
 | 4 |Meloxicam|
@@ -37983,8 +38215,9 @@ Medication #
 | 100 |Hydralazine Hydrochloride|
 
 Medication #
-
-| 1 |Lansoprazole|
+| d100| Name |
+|:--:|--|
+| 1 | Lansoprazole|
 | 2 |Insulin Detemir|
 | 3 |Atenolol/Chlorthalidone|
 | 4 |Finasteride|
@@ -38087,7 +38320,9 @@ Medication #
 
 Office Items #
 
-| 1 |Rubber bands (50, 3")|
+| d100| Name |
+|:--:|--|
+| 1 | Rubber bands (50, 3")|
 | 2 |Tracing paper (10 sheets)|
 | 3 |Duct tape (½ roll)|
 | 4 |Coffee creamer (27 packets)|
@@ -38190,7 +38425,9 @@ Office Items #
 
 Office Items #
 
-| 1 |Bookmark sticky flags (36)|
+| d100| Name |
+|:--:|--|
+| 1 | Bookmark sticky flags (36)|
 | 2 |Batteries (4 AA)|
 | 3 |Staples (100)|
 | 4 |Computer screen cleaner (1 bottle)|
@@ -38292,8 +38529,9 @@ Office Items #
 | 100 |Price tags (50)|
 
 books
-
-| 1 |Brave New World by Aldous Huxley|
+| d100| Name |
+|:--:|--|
+| 1 | Brave New World by Aldous Huxley|
 | 2 |The Maltese Falcon by Dashiell Hammett|
 | 3 |To Kill a Mockingbird by Harper Lee|
 | 4 |Highway Holocaust by Joe Dever|
@@ -38398,8 +38636,9 @@ books
 | 100 |The Thin Red Line by James Jones|
 
 Melee/Thrown Weapons
-
-| 1 |Meat hook|
+| d100| Name |
+|:--:|--|
+| 1 | Meat hook|
 | 2 |Dynamite (2 sticks)|
 | 3 |Double bit axe|
 | 4 |Brush ax|
@@ -38502,7 +38741,9 @@ Melee/Thrown Weapons
 
 Over-the-Counter Drugs and Medical Supplies
 
-| 1 |Artificial Tears (20 uses)|
+| d100| Name |
+|:--:|--|
+| 1 | Artificial Tears (20 uses)|
 | 2 |Sudafed (15 pills)|
 | 3 |Hand Sanitizer (10 uses)|
 | 4 |Pepcid (22 pills)|
@@ -38605,7 +38846,9 @@ Over-the-Counter Drugs and Medical Supplies
 
 ### AMMO
 
-| 1 |7.62 bullets (3)|
+| d100| Name |
+|:--:|--|
+| 1  7.62 bullets (3)|
 | 2 |Crossbow bolts (4)|
 | 3 |7.62 bullets (33)|
 | 4 |Mortar rounds (6)|
@@ -38759,7 +39002,9 @@ Over-the-Counter Drugs and Medical Supplies
 | 99 |Twinkies (24, 12 meals)|
 | 100 | Protein bars (10 bars)|
 
-| 1 |Lima beans (1 can)|
+| d100| Name |
+|:--:|--|
+| 1 | Lima beans (1 can)|
 | 2 |Corn (2 cans)|
 | 3 |Mushrooms (3 cans)|
 | 4 |Creamed corn (2 cans)|
@@ -38811,8 +39056,9 @@ Over-the-Counter Drugs and Medical Supplies
 | 50 |Popcorn kernels (1 jar, 1 meal)|
 
 Armor and Tactical Gear
-
-| 1 |Nylon pouch|
+| d100| Name |
+|:--:|--|
+| 1 | Nylon pouch|
 | 2 |Construction hard hat|
 | 3 |Padded vest (khaki) 
 | 4 |Mouthguard|
@@ -38915,7 +39161,9 @@ Armor and Tactical Gear
 
 Alcohol
 
-| 1 |Gin (½ bottle)|
+| d100| Name |
+|:--:|--|
+| 1 | Gin (½ bottle)|
 | 2 |Ale (2 bottles)|
 | 3 |Champagne ( 3 bottles)|
 | 4 |Porter (1 bottle)|
@@ -39018,7 +39266,9 @@ Alcohol
 
 ### DRUGS
 
-| 1 |Cigarette (1)|
+| d100| Name |
+|:--:|--|
+| 1 | Cigarette (1)|
 | 2 |Marijuana (3 doses)|
 | 3 |Crack (1 dose)|
 | 4 |GHB (4)|
@@ -39122,8 +39372,9 @@ Alcohol
 Rian Trost
 
 Random Items #1
-
-| 1 |Adjustable wrench|
+| d100| Name |
+|:--:|--|
+| 1 | Adjustable wrench|
 | 2 |Screws (39)|
 | 3 |Printer paper (3 reams)|
 | 4 |Stepladder (3’)|
@@ -39226,7 +39477,9 @@ Random Items #1
 
 Random Items #2
 
-| 1 |Latex paint (½ gallon, orange)|
+| d100| Name |
+|:--:|--|
+| 1 | Latex paint (½ gallon, orange)|
 | 2 |Goggles, snorkel, & flippers|
 | 3 |Blow‐dryer|
 | 4 |Green muriatic acid (1 gallon)|
@@ -39329,7 +39582,9 @@ Random Items #2
 
 Random Items #3
 
-| 1 |Yarn (2 skeins)|
+| d100| Name |
+|:--:|--|
+| 1 | Yarn (2 skeins)|
 | 2 |Oar (wooden)|
 | 3 |Hand Bellows|
 | 4 |Bobby pins (4)|
@@ -39431,8 +39686,9 @@ Random Items #3
 | 100 |White tile caulk (3 tubes)|
 
 Random Items #4
-
-| 1 |Palette knife|
+| d100| Name |
+|:--:|--|
+| 1 | Palette knife|
 | 2 |Hand drill|
 | 3 |Frisbee|
 | 4 |Christmas tree stand|
@@ -39534,8 +39790,9 @@ Random Items #4
 | 100 |Anvil|
 
 Random Items #5
-
-| 1 |TV rabbit ears|
+| d100| Name |
+|:--:|--|
+| 1 | TV rabbit ears|
 | 2 |Video game console|
 | 3 |Combination square|
 | 4 |Kerosene (2 quarts)|
@@ -39638,7 +39895,9 @@ Random Items #5
 
 Random Items #6
 
-| 1 |Copper wire (4')|
+| d100| Name |
+|:--:|--|
+| 1 | Copper wire (4')|
 | 2 |Paint grid|
 | 3 |Latex paint (½ gallon, white)|
 | 4 |Audio cable (12’)|
@@ -39741,7 +40000,9 @@ Random Items #6
 
 Random Items #7
 
-| 1 |Kitty litter (½ small bag)|
+| d100| Name |
+|:--:|--|
+| 1 | Kitty litter (½ small bag)|
 | 2 |Ceiling grids (15 pieces)|
 | 3 |Steel (4 rods, 1" diameter, 4’ long)|
 | 4 |Mosquito net|
@@ -39843,8 +40104,9 @@ Random Items #7
 | 100 |Blender|
 
 Random Items #8
-
-| 1 |Ghost costume|
+| d100| Name |
+|:--:|--|
+| 1 | Ghost costume|
 | 2 |Gasoline (1 gallon)|
 | 3 |Glass (6 small shards)|
 | 4 |Bobby pins (12)|
@@ -39946,8 +40208,9 @@ Random Items #8
 | 100 |Reflective triangles (3)|
 
 Random Items #9
-
-| 1 |Wooden crutch|
+| d100| Name |
+|:--:|--|
+| 1 | Wooden crutch|
 | 2 |Toaster oven|
 | 3 |Mousetraps (2)|
 | 4 |Sewing machine|
@@ -40050,7 +40313,9 @@ Random Items #9
 
 Random Items #10
 
-| 1 |Sous‐vide cooker|
+| d100| Name |
+|:--:|--|
+| 1 | Sous‐vide cooker|
 | 2 |409 cleaner (½ bottle)|
 | 3 |Fuses (10, small)|
 | 4 |Aluminum cans (4)|
@@ -40153,8 +40418,9 @@ Random Items #10
 
 # Rumors from the Spaceport Bar 
 ## Random 1D100 List
-
-| 1 |Increased pirate activity|
+| d100| Name |
+|:--:|--|
+| 1 | Increased pirate activity|
 | 2 |Rare cargo shipment in sector|
 | 3 |New crime boss in sector|
 | 4 |Exosuit going on market|
@@ -40257,7 +40523,9 @@ Random Items #10
 
 ### Random Items for a Post-Apocalyptic RPG Setting
 
-| 1 |Rags (3)|
+| d100| Name |
+|:--:|--|
+| 1 | Rags (3)|
 | 2 |Keys on a ring (3)|
 | 3 |Gas can (empty, 10 gallons)|
 | 4 |Car tire (1)|
@@ -40365,8 +40633,9 @@ Random Items #10
 ## MALE AND FEMALE NAMES FROM 2000 AND 2017
 
 ## WWW.DICEGEEKS.COM
-
-| 1 |Emma|
+| d100| Name |
+|:--:|--|
+| 1 | Emma|
 | 2 |Olivia|
 | 3 |Ava|
 | 4 |Isabella|
@@ -40468,8 +40737,9 @@ Random Items #10
 | 100 |Allison|
 
 ##### Top 2 00 Female Names 2017
-
-| 1 |Cora|
+| d100| Name |
+|:--:|--|
+| 1 | Cora|
 | 2 |Lydia|
 | 3 |Taylor|
 | 4 |Jade|
@@ -40568,9 +40838,11 @@ Random Items #10
 | 97 |Sienna|
 | 98 |Laura|
 | 99 |Daisy|
-| 100 | Kate|
+| 100 |  Kate|
 
-| 1 |Emily|
+| d100| Name |
+|:--:|--|
+| 1 | Emily|
 | 2 |Hannah|
 | 3 |Madison|
 | 4 |Ashley|
@@ -40672,8 +40944,9 @@ Random Items #10
 | 100 |Cassandra|
 
 ##### Top 200 Female Names 2000
-
-| 1 |Tiffany|
+| d100| Name |
+|:--:|--|
+| 1 | Tiffany|
 | 2 |Erica|
 | 3 |Lindsey|
 | 4 |Kylie|
@@ -40772,9 +41045,11 @@ Random Items #10
 | 97 |Kylee|
 | 98 |Maggie|
 | 99 |Makenzie|
-| 100 | Claudia|
+| 100 |  Claudia|
 
-| 1 |Liam|
+| d100| Name |
+|:--:|--|
+| 1 | Liam|
 | 2 |Noah|
 | 3 |Lucas|
 | 4 |Mason|
@@ -40876,8 +41151,9 @@ Random Items #10
 | 100 |Jameson|
 
 ##### Top 200 Male Names 2017
-
-| 1 |Sawyer|
+| d100| Name |
+|:--:|--|
+| 1 | Sawyer|
 | 2 |Jason|
 | 3 |Santiago|
 | 4 |Tristan|
@@ -40976,9 +41252,11 @@ Random Items #10
 | 97 |Juan|
 | 98 |Kyle|
 | 99 |Preston|
-| 100 | Prince|
+| 100 |  Prince|
 
-| 1 |Jacob|
+| d100| Name |
+|:--:|--|
+| 1 | Jacob|
 | 2 |Michael|
 | 3 |Matthew|
 | 4 |Joshua|
@@ -41080,8 +41358,9 @@ Random Items #10
 | 100 |Paul|
 
 ##### Top 200 Male Names 20 00
-
-| 1 |Brendan|
+| d100| Name |
+|:--:|--|
+| 1 | Brendan|
 | 2 |Jeremiah|
 | 3 |Xavier|
 | 4 |Jeffrey|
@@ -41190,7 +41469,9 @@ Random Items #10
 
 Popular Adult Male Names in 1930’s America
 
-| 1 |  George |
+| d100| Name |
+|:--:|--|
+| 1  |  George |
 | 2 |  Albert |
 | 3 |  Milton |
 | 4 |  Rudolph |
@@ -41291,7 +41572,10 @@ Popular Adult Male Names in 1930’s America
 | 99 |  Philip |
 | 100 |  Harry |
 
-Male Name Table #
+### Male Name Table #
+
+| d100| Name |
+|:--:|--|
 | 1 |  Herman |
 | 2 |  Edwin |
 | 3 |  Julius |
@@ -41393,9 +41677,11 @@ Male Name Table #
 | 99 |  Virgil |
 | 100 |  Marshall |
 
-Popular Adult Female Names in 1930’s America
+### Popular Adult Female Names in 1930’s America
 
-| 1 |  Helen |
+| d100| Name |
+|:--:|--|
+| 1  |  Helen |
 | 2 |  Lillian |
 | 3 |  Hilda |
 | 4 |  Rosie |
@@ -41496,7 +41782,10 @@ Popular Adult Female Names in 1930’s America
 | 99 |  Virginia |
 | 100 |  Clara |
 
-Female Name Table #
+### Female Name Table #
+
+| d100| Name |
+|:--:|--|
 | 1 |  Mattie |
 | 2 |  Lucy |
 | 3 |  Etta |
@@ -41608,6 +41897,9 @@ would call the unfortunate recipient a "Lethargic Houseplant".
 ## Adjective
 
 Roll Adjective
+
+| d20| Name |
+|:--:|--|
 | 1 | Grotesque |
 | 2 | Lethargic |
 | 3 | Abysmal |
@@ -41632,6 +41924,9 @@ Roll Adjective
 ## Noun
 
 Roll Noun
+
+| d20| Name |
+|:--:|--|
 | 1 | Trash-heap |
 | 2 | Urchin |
 | 3 | Idiot |

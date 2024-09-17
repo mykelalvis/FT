@@ -1,70 +1,20 @@
 ---
 date created: 2024-08-18 10:36
+
 aliases:
   - High Guard 2022 Update
+
 tags:
   - Mongoose
   - UNFORMATTED
+  - UPDATE_2022
 ---
 
-**HIGH GUARDHIGH GUARD**
-
-**UPDATE 2022UPDATE 2022**
-
-Traveller ©2022 Mongoose Publishing Ltd. All rights reserved. Reproduction of this work by any means without the written permission of the publisher is expressly
-forbidden. All significant characters, names, places, items, art and text herein are copyrighted by Mongoose Publishing Ltd.
-
-This game product contains no Open Game Content. No portion of this work may be reproduced in any form without written permission. To learn more about the Open
-Game License, please go to <http://www.mongoosepublishing.com.>
-
-This material is protected under the copyright laws of the United Kingdom and of the United States. This product is a work of fiction. Any similarity to actual people,
-organisations, places or events is purely coincidental.
-
-is a registered trade mark of Mongoose Publishing Ltd.
-
-Printed in China.
-
-**CREDITS**
-
-CLASSIC TRAVELLER
-
-
-Marc Miller
-
-MONGOOSE TRAVELLER
+## HIGH GUARD
 
 
 
-**AUTHOR**
-Christopher Griffen
-
-**DEVELOPER**
-Matthew Sprange
-
-**LAYOUT AND GRAPHIC DESIGN**
-Sandrine Thirache
-
-**ILLUSTRATIONS**
-Katrina Hepburn, Mark Graham, Ankit Yadav, Amy Wheeler,
-Cassie Gregory, Jonathan Torres, Quentin Soubrouillard,
-Nikita Vasylchuk
-
-**PROOFING**
-Charlotte Law
-
-TRAVELLER INNER CIRCLE
-
-
-
-Andrew James Alan Welty, Colin Dunn, M. J. Dougherty,
-Rob Eaglestone, Sam Wissa, Joshua Bell, Maksim Smelchak,
-Geir Lanesskog, Christopher Griffen
-
-**ASSISTANT NAVAL ARCHITECTS**
-Dave Dyson, Geir Lanesskog, Jeremy Rector, James Sugrue
-and Adrian Tymes
-
-**CONTENTS**
+# TOC
 
 INTRODUCTION 3
 SHIP DESIGN 8
@@ -85,8 +35,8 @@ SPACESHIPS OF THE THIRD IMPERIUM 135
 
 
 Our science and our technology have posed us a profound question:
-will we learn to use these tools with wisdom and foresight before it’s
-_too late? Will we see our species safely through this difficult passage_
+will we learn to use these tools with wisdom and foresight before it's
+too late? Will we see our species safely through this difficult passage
 so that our children and grandchildren will continue the great journey
 of discovery still deeper into the mysteries of the cosmos?
 
@@ -97,11 +47,11 @@ good and for evil.
 
 It is as if there were a god who said to us: ‘I set before you two ways.
 You can use your technology to destroy yourselves, or to carry you
-to the planets and the stars. It’s up to you.’
+to the planets and the stars. It's up to you.'
 
 - Carl Sagan
 
-# I NTRODUCTION
+# INTRODUCTION
 
 Welcome to High Guard Update 2022.
 
@@ -159,8 +109,9 @@ the limited resources of the Imperium to best use.
 High Guard deals with the navies of the Imperium, of
 subsectors and of worlds.
 
-THE SHIP’S LOCKER
-Every ship has a ship’s locker, usually located
+THE SHIP'S LOCKER
+
+Every ship has a ship's locker, usually located
 near an airlock, cargo bay or the bridge, for the
 convenience of the crew. Typical equipment
 within includes protective clothing, vacc suits,
@@ -169,11 +120,12 @@ ammunition, compasses and survival aids, and
 portable shelters. The contents of the locker are
 defined by the Referee only when needed but
 they always contain vacc suits and other useful
-items. The ship’s locker is usually protected by a
-biometric lock keyed to the ship’s officers.
+items. The ship's locker is usually protected by a
+biometric lock keyed to the ship's officers.
 
-Abusing The Ship’s Locker
-The purpose of the ship’s locker is to provide
+Abusing The Ship's Locker
+
+The purpose of the ship's locker is to provide
 useful mundane equipment on demand so
 Travellers do not have to keep track of every
 single flak jacket and toolkit. It is not an
@@ -181,10 +133,8 @@ inexhaustible supply of free stuff, nor is it a
 magic box that produces whatever the Travellers
 happen to need at any given moment. Referees
 should sternly refuse any unreasonable requests
-regarding the contents of the ship’s locker – it is a
+regarding the contents of the ship's locker – it is a
 tool to simplify bookkeeping, nothing more.
-
-HIGH GUARD
 
 
 Refuelling operations for a task force are dangerous,
@@ -206,7 +156,7 @@ there are one or more Imperial fleets for each sector,
 named for that sector.
 
 The Imperial Navy is a tool for diplomacy and conquest
-as needs dictate; the Emperor’s own sabre. The
+as needs dictate; the Emperor's own sabre. The
 Imperial Navy has some of the largest and most
 powerful vessels in space – dreadnoughts, battle
 tenders and other mighty warships.
@@ -230,7 +180,7 @@ Planetary navies are responsible solely for the defence
 of their home system or a handful of related systems
 held by the same noble, usually a duke or count. At
 minimum, a planetary navy protects the space up to
-the main world’s jump limit but, in most systems, it has
+the main world's jump limit but, in most systems, it has
 bases in orbit of the main world and the gas giant, as
 well as a presence at any inhabited worlds or asteroid
 belts. Planetary navies tend to be eccentric at best –
@@ -251,12 +201,11 @@ designation when they are created, which are tacked
 onto the squadron type to give their full squadron name.
 A BatRon given the designation 175 would be known
 as BatRon 175 or the 175th BatRon. The squadrons are
-
 also prefixed with a classification dependant on what
 part of the fleet they serve with. A front-line regular fleet
-unit would have the classification ‘Imperial’ prefixed; a
+unit would have the classification ‘Imperial' prefixed; a
 planetary squadron is usually referred to as a colonial
-squadron and prefixed ‘Colonial’. Reserve squadrons
+squadron and prefixed ‘Colonial'. Reserve squadrons
 are considered to be part of the regular fleets and keep
 the Imperial classification.
 
@@ -291,11 +240,7 @@ means that a non-jump-capable ship can defeat
 a starship of equal or even considerably greater
 tonnage. System Defence Boats are 200- to
 500-ton patrol boats used for planetary defence.
-Monitors are the same concept on a capital scale
-
-- a monitor is a multi-thousand-ton warship with
-
-the bulk of its tonnage allocated to weapons
+Monitors are the same concept on a capital scale - a monitor is a multi-thousand-ton warship with the bulk of its tonnage allocated to weapons
 and manoeuvre drives. Many monitors are
 constructed from planetoids, or by stripping the
 jump engines and fuel tanks from an outdated
@@ -303,7 +248,7 @@ warship hull. It is very rare for a brand-new
 monitor to be built using modern technologies,
 although especially important worlds can justify
 such protection. Sector capitals are sometimes
-protected by such ‘supermonitors’.
+protected by such ‘supermonitors'.
 
 Introduction
 
@@ -345,7 +290,7 @@ Note that specific universes might have their own
 interpretations of some of these definitions.
 
 **GENERAL**
-Ships are measured in ‘displacement tons’ or d-tons:
+Ships are measured in ‘displacement tons' or d-tons:
 a 100-ton ship displaces a volume equal to one 100
 tons of liquid hydrogen (one d-ton equals roughly 14
 cubic metres).
@@ -423,7 +368,7 @@ frigate is to roam space away from a fleet, patrolling
 borders and attacking commerce. Known as
 Destroyer Escorts in Imperial Navy parlance.
 
-Destroyer: Similar to frigates, a destroyer’s main
+Destroyer: Similar to frigates, a destroyer's main
 role is to serve as picket defence for a fleet,
 eliminating small ships and fighters before they can
 threaten larger ships.
@@ -567,12 +512,12 @@ Some ship designs have been used for centuries and
 have become standard across the stars. Plans for such
 spacecraft are freely available and components can be
 purchased in bulk by shipyards, reducing the cost of
-the ship’s construction by 10%. This reduced cost does
+the ship's construction by 10%. This reduced cost does
 not include ammunition for weapons or fuel, which must
 be bought at full price.
 
 If a buyer needs a new type of ship, a starship architect
-must be employed to design it. The architect’s fees are
+must be employed to design it. The architect's fees are
 an additional 1% of the final cost of the ship.
 
 CONSTRUCTION TIMES
@@ -582,11 +527,11 @@ Construction times vary widely, depending on the size
 and complexity of the spacecraft and the capabilities of
 the shipyard.
 
-# S HIP DESIGN
+# SHIP DESIGN
 
 On average, assume that it takes one day per million
 Credits to build a spacecraft at an average commercial
-shipyard. At the Referee’s discretion, very large ships
+shipyard. At the Referee's discretion, very large ships
 can be built in a modular fashion allowing simultaneous
 construction. This means the total construction time can
 be reduced by up to 90%. This is typically done only on
@@ -628,7 +573,7 @@ Level of the ship itself.
 
 13.
 
-Ship Design
+
 
 **1.**
 
@@ -804,7 +749,7 @@ numbers; for example, 400 tons, not 425.
 
 Most of the ships that Travellers use are in the 100- to
 2,400-ton range. These ships are sometimes called
-‘adventure-class ships’ because they are the sort usually
+‘adventure-class ships' because they are the sort usually
 featured in Traveller adventures. Ships in the lower end
 of this range might even be affordable by a group of
 Travellers who want to purchase their own ship. Ships
@@ -860,7 +805,7 @@ spacecraft. This costs Cr4000 per ton but only 80% of
 the volume of a planetoid is useable as a spacecraft.
 For a buffered planetoid, 65% of the volume is useable.
 
-However, a planetoid’s Hull points are calculated on the
+However, a planetoid's Hull points are calculated on the
 total volume of the planetoid, not the useable space.
 Note that planetoid hulls cannot use the specialised or
 additional hull types, listed in the following sections:
@@ -888,7 +833,7 @@ rounded potato shapes. Example: Planetoid Monitor.
 
 **STEP 1:**
 
-Ship Design
+
 
 HULL CONFIGURATION
 
@@ -909,7 +854,7 @@ Dispersed Structure No +100% -10% -50%
 Planetoid No — +25% Special
 Buffered Planetoid No — +50% Special
 
-Ship Design
+
 
 Close Structure
 
@@ -990,7 +935,7 @@ field. Machinery to spin a hamster cage uses 0.1 tons
 for every ton of spun ring. Unlike other designs, the
 hamster cage is usually set at right angles to the hull
 and installed in counter-rotating pairs, eliminating
-torque effects on the ship’s attitude. For each full
+torque effects on the ship's attitude. For each full
 percent of the hull that is made part of the hamster
 cage, the cost of the hull is increased by +2%.
 
@@ -1028,7 +973,7 @@ can be improved upon. Planetoid hulls provide a ship
 with armour Protection +2 (Protection +4 if they are
 Buffered Planetoids).
 
-The Hull Armour table shows how much of the hull’s
+The Hull Armour table shows how much of the hull's
 tonnage is consumed per point of Protection added,
 along with its costs. A minimum TL is required for each
 type of armour and there is a maximum amount that
@@ -1038,7 +983,7 @@ ship had prior to modification.
 Apply the Armour Volume Modifier from the Hull
 Configuration table to the base armour tonnage.
 
-Ship Design
+
 
 Hull Armour
 Armour TL Tonnage Consumed Cost Per Ton Maximum Protection
@@ -1130,21 +1075,15 @@ functioning gravitic drive that attempts re-entry without
 heat shielding will burn up. If equipped with undamaged
 heat shielding, re-entry is successful on an Easy (4+) Pilot (1D x 10 minutes, DEX) check, with failure
 resulting in burn-up (this task is often undertaken at
-a slower rate, making it easier). Damage to the ship
-
-Ship Design
-
-
-
-from proximity to a star in the absence of heat shielding
-is at the Referee’s discretion but should start at 1D
+a slower rate, making it easier). Damage to the ship from proximity to a star in the absence of heat shielding
+is at the Referee's discretion but should start at 1D
 per round, increasing by a cumulative 1D as the ship
 gets closer. Heat shielding does not provide protection
 against starship weapons. Heat shielding costs MCr0.
 per ton of hull.
 
 RADIATION SHIELDING (TL7)
-Radiation shielding improves the crew’s protection
+Radiation shielding improves the crew's protection
 against radiation from both natural sources (such as
 solar flares and pulsars) and artificial (including nuclear
 missiles and meson weapons). A ship with radiation
@@ -1154,14 +1093,14 @@ the bridge as if it is Hardened. Radiation shielding costs
 Cr25000 per ton of hull.
 
 REFLEC (TL10)
-Reflec coating on a hull increases the ship’s Protection
+Reflec coating on a hull increases the ship's Protection
 against lasers by +3 but cannot be combined with
 Stealth. Adding Reflec costs MCr0.1 per ton of hull.
 
 SOLAR COATING
 
 
-Solar power can be used to provide a ship’s basic
+Solar power can be used to provide a ship's basic
 power needs and – in concert with high-efficiency
 battery technology – to provide a high degree of
 flexibility for power usage by specific components.
@@ -1224,7 +1163,7 @@ shielding – regardless of the protection the ship
 has, the crew will still be getting a full dose of
 radiation from these weapons.
 
-Ship Design
+
 
 ###### INSTALL DRIVES
 
@@ -1237,16 +1176,16 @@ is these that give a ship its Thrust score.
 
 **STEP 2:**
 
-Ship Design
+
 
 Reaction drives are similar to manoeuvre drives but
 instead act as giant thrusters, exhausting gases that
-push the ship forward like today’s rockets.
+push the ship forward like today's rockets.
 
 To fit a manoeuvre or reaction drive, consult the Thrust
 Potential table and decide what Thrust score you
 want your ship to have. The figure below that Thrust
-score shows what percentage of the ship’s hull the
+score shows what percentage of the ship's hull the
 manoeuvre drive consumes, in tons.
 
 HOW MANOEUVRE DRIVES WORK
@@ -1262,7 +1201,7 @@ higher the thrust employed, the brighter and
 more vibrant the blue colour appears.
 
 Another important feature of all manoeuvre-drive systems is gravitic compensators or ‘G
-compensators’. These enable a ship to engage
+compensators'. These enable a ship to engage
 in high levels of thrust without adversely
 affecting the crew contained inside. Ships
 are typically equipped with enough gravitic
@@ -1311,7 +1250,7 @@ normal jumps but the software requires an extra
 
 
 
-Ship Design
+
 
 Thrust Potential
 Manoeuvre Drive Rating 0 1 2 3 4 5 6 7 8
@@ -1362,13 +1301,13 @@ JUMP DRIVES
 
 Jump drives follow a very similar pattern. Select the
 desired jump score and use the figure in the Jump
-Potential table as the percentage of the ship’s hull that
+Potential table as the percentage of the ship's hull that
 the jump drive will consume, then add five tons.
 
 A jump drive must be a minimum of 10 tons and they
 cost MCr1.5 per ton.
 
-Ship Design
+
 
 ###### INSTALL
 
@@ -1378,7 +1317,7 @@ The heart of a spacecraft is the power plant. Typically
 fusion-based, the power plant meets all the energy
 requirements for every system on the ship, from the
 massive amounts required for jump and manoeuvre
-drives to the expresso machine in the captain’s
+drives to the expresso machine in the captain's
 stateroom. Ships are typically built with power plants
 large enough to supply energy to all systems on a ship
 without interruption, although some cheaper vessels
@@ -1406,13 +1345,13 @@ of the total tonnage of the hull.
 
 Manoeuvre Drive: In order to use the manoeuvre
 drive, the ship requires an amount of Power equal
-to 10% of the hull’s total tonnage multiplied by the
+to 10% of the hull's total tonnage multiplied by the
 maximum Thrust the drive is capable of (multiply by
 0.25 if the ship is capable only of Thrust 0). Note that
 reaction drives do not require Power.
 
 Jump Drive: In order to use the jump drive, the ship
-requires an amount of Power equal to 10% of the hull’s
+requires an amount of Power equal to 10% of the hull's
 total tonnage multiplied by the maximum jump number
 the drive is capable of. Only fusion and antimatter
 power plants can generate the intense burst of energy
@@ -1455,7 +1394,7 @@ G compensators.
 
 
 
-NOT ENOUGH POWER, CAP’N!
+NOT ENOUGH POWER, CAP'N!
 There are several ways a ship can run out
 of power, from suffering damage in combat
 to designs that require certain systems to be
@@ -1486,7 +1425,7 @@ closed positions, just as they were when the
 power failed. Manual overrides must be made
 and cranks or other devices used to open and
 close these portals.
-•	 Even if Power can be supplied to the ship’s
+•	 Even if Power can be supplied to the ship's
 computer, individual terminals throughout the
 ship cease to function, with the exception of
 those on the bridge.
@@ -1512,12 +1451,12 @@ Manoeuvre drives do not require fuel, although reaction
 drives do.
 
 The amount of fuel a reaction drive requires is
-determined as a percentage of the ship’s total tonnage
+determined as a percentage of the ship's total tonnage
 and is equal to 2.5% per Thrust per hour.
 
 So, a ship capable of Thrust 4 requires 10% of the
-ship’s tonnage as fuel for every hour of use. If you
-wanted this ship’s reaction drive to be able to function
+ship's tonnage as fuel for every hour of use. If you
+wanted this ship's reaction drive to be able to function
 for four hours, it requires 40% of its tonnage to be
 allocated as fuel tanks.
 
@@ -1554,7 +1493,7 @@ weeks and so on).
 
 **STEP 4:**
 
-Ship Design
+
 
 **STEP 5:**
 
@@ -1632,7 +1571,7 @@ consumes 2.5 tons of space and costs Cr15000.
 A cockpit is not designed for long term use and only
 has life support for 24 hours.
 
-Ship Design
+
 
 
 
@@ -1651,7 +1590,7 @@ computers installed in a ship work just like personal
 computers (see the Traveller Core Rulebook page
 110) but are considerably more powerful because the
 software needed for ship operations requires a great
-deal of processing power (see The Ship’s Computer on
+deal of processing power (see The Ship's Computer on
 page 73).
 
 Computers
@@ -1664,11 +1603,7 @@ Computer/25 13 MCr10
 Computer/30 14 MCr20
 Computer/35 15 MCr30
 
-Computers do not consume any tonnage on a ship
-
-- while they do have a physical presence, they are
-
-distributed throughout the ship and considered part
+Computers do not consume any tonnage on a ship - while they do have a physical presence, they are distributed throughout the ship and considered part
 of other components such as the bridge, staterooms
 
 **STEP 6:**
@@ -1685,7 +1620,7 @@ COMPUTER CORES
 Most capital ships, and certain specialised vessels,
 have multiple distributed computer networks spread
 throughout their decks but always include a central
-computer core that controls the ship’s jump drive.
+computer core that controls the ship's jump drive.
 These are extremely powerful computing systems with
 massive amounts of processing power available.
 
@@ -1709,12 +1644,12 @@ COMPUTER OPTIONS
 
 
 There are two additional options to consider when
-fitting a ship’s computer:
+fitting a ship's computer:
 
-Jump Control Specialisation (/bis): A computer’s
+Jump Control Specialisation (/bis): A computer's
 Processing score is increased by +5 for the purposes
 of running Jump Control programs only. This increases
-the computer’s cost by +50%.
+the computer's cost by +50%.
 
 Hardened Systems (/fib): A computer and its
 connections can be Hardened against attack by
@@ -1735,7 +1670,7 @@ use software limited to the Tech Level of the ship,
 not the computer. For example, a TL12 trader can
 use TL12 software even on a Computer/5.
 
-Ship Design
+
 
 ###### INSTALL SENSORS
 
@@ -1772,7 +1707,7 @@ Electronics (comms) and Electronics (sensors) checks
 made by crew in the ship. All ships have Basic sensors
 unless upgraded.
 
-Sensors
+
 
 Sensors TL Suite DM Power Tons Cost
 Basic 8 Lidar, Radar -4 0 — —
@@ -1784,7 +1719,7 @@ Sensor, Radar
 
 +2 6 5 MCr5.3
 
-Ship Design
+
 
 ###### INSTALL
 
@@ -1803,7 +1738,7 @@ must be carefully considered in ship designs.
 
 
 
-Ship Design
+
 
 ###### DETERMINE CREW
 
@@ -1860,9 +1795,7 @@ be at a serious disadvantage in high-stress situations
 such as combat. The crewman acting as pilot will likely
 be kept busy in the bridge, actually flying the ship,
 while another might find their attention split between
-engineering, damage control and the weapon systems
-
-- a quick look at the Crew Duties section on page 164
+engineering, damage control and the weapon systems - a quick look at the Crew Duties section on page 164
 
 of the Traveller Core Rulebook demonstrates how
 inefficient this can be.
@@ -1889,7 +1822,7 @@ and sensor operators. Calculate officers and medics
 after reducing the other roles.
 
 Reduced gunnery staff operate multiple weapons
-in batteries which are managed by capital ships’
+in batteries which are managed by capital ships'
 considerably larger and more extensive computer
 networks.
 
@@ -1900,7 +1833,7 @@ Ship Size Crew Reduction Multiplier
 50,000–99,999 50%
 100,000+ 33%
 
-Ship Design
+
 
 Crew Requirements
 
@@ -1947,11 +1880,7 @@ passengers
 Officer Leadership or
 Persuade
 
-Cr5000* 1 per full 20 crew 1 per full 10 crew
-
-- This is presumed to be an average taken across all officer positions on a ship. In practice, it varies a great deal
-
-between junior and senior officers.
+Cr5000* 1 per full 20 crew 1 per full 10 crew - This is presumed to be an average taken across all officer positions on a ship. In practice, it varies a great deal between junior and senior officers.
 
 
 
@@ -2040,7 +1969,7 @@ and a lack of cooperativeness but eventually
 could affect efficiency and performance, resulting
 in negative DMs on skill checks.
 
-Ship Design
+
 
 ###### ALLOCATE
 
@@ -2123,13 +2052,13 @@ cause problems when needing to unload cargo
 in a hostile environment. See the description of
 cargo airlocks on page 58 for a solution.
 
-Ship Design
+
 
 ##### Cargo
 
 ##### Area
 
-# W EAPONS AND SCREENS
+# WEAPONS AND SCREENS
 
 From a single-turret laser on a free trader intended to
 discourage piracy, to the massive spinal weapons that
@@ -2275,9 +2204,7 @@ are multiple (turrets, barbettes, bays, point-defence batteries, ammunition stor
 Cargo and Weapons Critical Hit Severity table to
 determine what has been disabled or destroyed.
 For example, if the Referee randomly determines
-that the ship’s 100 medium missile bays have
-
-been hit and the Severity is 2, then D3 x 10%
+that the ship's 100 medium missile bays have been hit and the Severity is 2, then D3 x 10%
 is rolled to determine the percentage of those
 weapons that are disabled.
 
@@ -2315,14 +2242,14 @@ unless crew restored above 25%
 FROZEN WATCH
 
 
-A frozen watch consists of ‘spare’ crew members
+A frozen watch consists of ‘spare' crew members
 held in low berths until needed. It is presumed
 to include representative members of all
 departments. When Crew critical hits have been
 sustained, the player in control of the affected
 ship may choose to revive any number of frozen-watch crew members, who replace disabled or
 killed crew members the following turn, thereby
-‘repairing’ Crew critical hits.
+‘repairing' Crew critical hits.
 
 
 
@@ -2418,7 +2345,7 @@ Pulse Laser 9 Long 4 2D MCr1 —
 Railgun 10 Short 2 2D MCr1 AP 4
 Sandcaster 9 Special 0 Special MCr0.25 —
 
-Weapons and Screens
+
 
 **PARTICLE BEAM**
 This weapon fires a stream of accelerated subatomic
@@ -2529,7 +2456,7 @@ Spinal Mounts 1,000
 Damage multiples do not apply to missiles
 and torpedoes.
 
-Weapons and Screens
+
 
 
 
@@ -2548,8 +2475,8 @@ use the following rules.
 When an Ion weapon successfully hits a target,
 roll for its damage but ignore any armour the
 target possesses. Instead of applying damage to
-the target’s hull, it is instead temporarily deducted
-from the target’s Power, representing the disabling
+the target's hull, it is instead temporarily deducted
+from the target's Power, representing the disabling
 effects as they spread throughout the ship, forcing
 its crew to reroute power in order to keep the most
 vital systems online.
@@ -2613,7 +2540,7 @@ Pulse Laser Barbette 9 Long 12 3D MCr6 —
 Railgun Barbette 10 Medium 5 3D MCr2 AP 5
 Torpedo 7 Special 2 6D MCr3 Smart
 
-Weapons and Screens
+
 
 **MISSILE BARBETTE**
 Equipped with multilaunchers, a missile barbette can
@@ -2723,7 +2650,7 @@ shielding – regardless of the protection the ship
 has, the crew gets a full dose of radiation from
 these weapons.
 
-Weapons and Screens
+
 
 
 
@@ -2788,7 +2715,7 @@ Railgun Bay 10 Short 10 3D MCr30 AP 10
 Repulsor Bay 15 Short 50 Special MCr30 —
 Torpedo Bay 7 Special 2 6D MCr3 Smart
 
-Weapons and Screens
+
 
 Medium Bay Weapons
 
@@ -2838,9 +2765,7 @@ supporting ground forces.
 A missile driver bay specifically intended for precise
 attacks against targets close to population centres or
 supporting ground forces. They carry and fire the same
-number of missiles as other missile bays but cannot
-
-use ordinary missiles, instead using unguided kinetic
+number of missiles as other missile bays but cannot use ordinary missiles, instead using unguided kinetic
 missiles that cost Cr150000 for 12, have Thrust 6 and
 inflict 3D damage per missile.
 
@@ -2849,7 +2774,7 @@ PARTICLE BEAM BAY
 
 The use of a bay allows much larger particle beam
 weapons to be installed, the largest capable of
-terrifying firepower that erodes a ship’s hull and
+terrifying firepower that erodes a ship's hull and
 irradiates enemy crew.
 
 RAILGUN BAY
@@ -2864,7 +2789,7 @@ enough ammunition for 12 attacks each. Extra or
 replacement ammunition can be purchased as shown
 on the Railgun Ammunition table.
 
-Weapons and Screens
+
 
 
 
@@ -2913,7 +2838,7 @@ an object of greater tonnage than itself.
 TORPEDO BAY
 
 
-A flurry of missiles will panic any ship’s captain but
+A flurry of missiles will panic any ship's captain but
 a salvo of torpedoes is real cause for concern. The
 torpedo bay launches a number of torpedoes with every
 attack: three torpedoes for a small bay, 6 torpedoes for
@@ -2928,7 +2853,7 @@ SPINAL WEAPONS
 Spinal weapons are the ultimate in ship-borne
 firepower, huge weapons that run the entire length of
 a ship. In many cases, a ship will be built around the
-weapon itself (hence the term ‘spinal’) and a single
+weapon itself (hence the term ‘spinal') and a single
 shot from a spinal weapon can cut a lesser vessel
 in two. Spinal weapons are specifically designed to
 deliver knockout blows against the largest vessels and
@@ -2975,7 +2900,7 @@ For large ships, the Referee may make one roll for
 every 10 sensor operators, multiplying the results
 by 10 for simplicity.
 
-Weapons and Screens
+
 
 size and dependency on the movement of the host
 ship limits their ability to accurately target nearby ships.
@@ -3005,9 +2930,9 @@ increases its Damage, Power consumption and cost
 by the amount shown. So, for example, a 15,000-ton
 meson spinal mount consumes 2,000 Power, deals 12D
 damage and costs MCr4000. Denote the multiple of the
-weapon on the ship’s record sheet. For example, for a
+weapon on the ship's record sheet. For example, for a
 TL15 spinal mount meson weapon with a multiple of 5,
-display the weapon as ‘Spinal – meson (TL15) – 5x’.
+display the weapon as ‘Spinal – meson (TL15) – 5x'.
 
 For large spinal mounts, the number of damage dice
 can become quite high. To simplify, divide the damage
@@ -3087,7 +3012,7 @@ used by meson spinal mounts can end battles before they
 really begin. Meson spinal mounts ignore all armour and
 radiation shielding.
 
-Weapons and Screens
+
 
 
 
@@ -3146,9 +3071,7 @@ Ortillery 7 6 1DD Cr300000 Orbital Strike
 Shockwave 7 10 — Cr200000 Smart
 Standard 7 10 4D Cr250000 Smart
 
-- Anti-torpedo missiles are highly specialised and therefore do little damage to conventional targets, inflicting
-
-only 1D damage.
+- Anti-torpedo missiles are highly specialised and therefore do little damage to conventional targets, inflicting only 1D damage.
 
 ANTIMATTER MISSILE
 
@@ -3167,9 +3090,7 @@ Improved Sensors for target location. As the cartridge
 approaches its target, it launches a smaller, more
 nimble missile that uses a secondary propulsion unit
 to close the gap with a torpedo salvo, whereupon it
-detonates a fragmentary warhead that eliminates 1D
-
-- Effect torpedoes from the salvo during the Reaction
+detonates a fragmentary warhead that eliminates 1D - Effect torpedoes from the salvo during the Reaction
 
 Step of space combat.
 
@@ -3189,7 +3110,7 @@ This missile is designed to target small craft. It
 explodes shortly before interception, throwing out a wall
 of high-velocity shrapnel. When fired in mass barrages,
 
-Weapons and Screens
+
 
 this dense volley is enough to cripple entire bomber
 waves and disperse fighter screens. Upon reaching
@@ -3252,7 +3173,7 @@ missiles within a salvo for every full five rounds of
 travel. Torpedoes have much greater endurance
 and ignore this rule.
 
-Weapons and Screens
+
 
 Long-range missile
 
@@ -3367,7 +3288,7 @@ increasing its stock of ammunition, and torpedoes can
 be replenished after use. Three torpedoes consume
 one ton. The listed cost is for three torpedoes.
 
-Weapons and Screens
+
 
 Canisters
 Weapon TL Number Cost Traits
@@ -3401,7 +3322,7 @@ immensely powerful, devastating to both ship and crew.
 **ANTIMATTER BOMB-PUMPED TORPEDO**
 This torpedo contains a small antimatter device that is
 detonated prior to impact, charging a directed particle
-beam. Due to the ‘stand-off’ nature of its attack, point
+beam. Due to the ‘stand-off' nature of its attack, point
 defence against this torpedo suffers DM-2. Defences
 that work against particle beams – such as armour –
 can be used against this torpedo.
@@ -3423,7 +3344,7 @@ warfare, the torpedo automatically misses.
 BOMB–PUMPED TORPEDO
 This torpedo contains a small nuclear device that is
 detonated prior to impact in order to charge a laser.
-Due to the ‘stand-off’ nature of its attack, point defence
+Due to the ‘stand-off' nature of its attack, point defence
 against this torpedo suffers DM-2. Defences that work
 against lasers can be used against this torpedo.
 
@@ -3463,7 +3384,7 @@ Ortillery 8 6 3DD MCr1 Orbital Strike
 Plasma 12 10 1DD Cr650000 AP 10, Smart
 Standard 7 10 6D Cr150000 Smart
 
-Weapons and Screens
+
 
 
 
@@ -3497,7 +3418,7 @@ This torpedo consists of a small but powerful propulsion
 unit, guidance computers and a fragmentation device
 dedicated to kinetic-kill attacks.
 
-Weapons and Screens
+
 
 SMALLER WEAPONS
 
@@ -3581,7 +3502,7 @@ Screens reaction against specific attacks, in a similar
 way to the Point Defence and Disperse Sand reactions
 in the Traveller Core Rulebook.
 
-Weapons and Screens
+
 
 SHIELDS
 
@@ -3628,7 +3549,7 @@ against an attack and, if successful, reduces the
 damage of the attack – after armour has been
 accounted for – by the number of dice rolled by
 the screen (as noted in its description), multiplied
-by the Effect of the gunner’s check.
+by the Effect of the gunner's check.
 
 A gunner may use any number of screens against
 a single attack, combining their dice (but only
@@ -3694,8 +3615,8 @@ automatically explodes, destroying it instantly.
 To avoid this, the capacitors can be discharged. For every
 combat round the black globe generator is switched off,
 the capacitors discharge an amount of damage equal to
-1% of the ship’s total tonnage multiplied by 10% of the
-tonnage of the ship’s power plant.
+1% of the ship's total tonnage multiplied by 10% of the
+tonnage of the ship's power plant.
 
 FLICKERING GENERATORS
 
@@ -3711,9 +3632,7 @@ use its own sensors, rendering it blind.
 Note that switching on a black globe generator in battle
 does not guarantee the ship can automatically escape
 its enemies. Since it cannot manoeuvre at all, it is a
-simple task to project its vector and predict its position
-
-when the generator is switched off again, making it
+simple task to project its vector and predict its position when the generator is switched off again, making it
 extremely vulnerable (DM+2 to any attacks made
 against it if its vector was tracked).
 
@@ -3740,7 +3659,7 @@ Flicker Rate Attacks Thrust Sensor DM
 
 6 (always on) — — —
 
-The flicker rate is determined at the start of a ship’s
+The flicker rate is determined at the start of a ship's
 Manoeuvre Step in a combat round, before any
 Thrust is applied.
 
@@ -3750,7 +3669,7 @@ Attacks column for the flicker rate, then the attack is
 absorbed by the generator. If it is less, the attack hits
 the ship as normal.
 
-The ship’s available Thrust for that combat round is
+The ship's available Thrust for that combat round is
 reduced by the Thrust modifier for the flicker rate and
 all sensor-related checks made by or against the ship
 suffer a negative DM indicated on the Black Globe
@@ -3758,9 +3677,9 @@ Flicker table. The Sensor DM is also applied to all
 attack rolls made by the ship using the generator, as it
 has far less time to plot accurate attacks.
 
-Weapons and Screens
 
-# S PACECRAFT OPTIONS
+
+# SPACECRAFT OPTIONS
 
 Beyond the basic drives, sensors and weapon systems,
 spacecraft can be customised to perform specialised
@@ -3799,7 +3718,7 @@ Armoured Bulkhead MCr0.2 per ton
 
 **ADJUSTABLE HULL**
 Large sections of the hull consist of bands and strips
-that change the hull’s overall shape, making the ship
+that change the hull's overall shape, making the ship
 have the same outline as any other ship of the same
 tonnage, hull configuration, hull options and external
 systems, including mimicry of attached modules,
@@ -3807,9 +3726,7 @@ although these are non-functional. Other identification
 features such as the pattern of reactor and drive
 emissions can likewise be adjusted to enhance the
 deception. At the Referee's option, this may be limited
-to ships of the same general shape: a long and thin
-
-ship cannot mimic a box-shaped ship and vice versa.
+to ships of the same general shape: a long and thin ship cannot mimic a box-shaped ship and vice versa.
 Reconfiguration takes one space combat round, during
 which the ship cannot fire weapons, dock or launch
 other ships or operate sensors. Any sensor close
@@ -3858,7 +3775,7 @@ orbit. A vessel with a pressure hull can also operate at
 depths of 50 kilometres underwater; far deeper than the
 oceans of most worlds.
 
-A pressure hull consumes 25% of the vessel’s tonnage
+A pressure hull consumes 25% of the vessel's tonnage
 and costs 10 times the normal hull cost. It is considered
 to have intrinsic Armour +4.
 
@@ -3867,7 +3784,7 @@ to have intrinsic Armour +4.
 MODULAR HULL
 
 
-A portion of a ship’s hull may be designated as
+A portion of a ship's hull may be designated as
 modular, allowing it to be swapped out easily for
 another module. This allows a ship to be configured for
 specific missions and roles. For example, a modular
@@ -3878,7 +3795,7 @@ ships). The practice of using modules is more common
 among small craft but there is no theoretical maximum
 size to the ship that can use them.
 
-Up to 75% of a ship’s internal tonnage can be
+Up to 75% of a ship's internal tonnage can be
 designated as modular. This tonnage cannot include
 the bridge, power plant, drives or any structure or
 armour options. Calculate Firmpoints or Hardpoints
@@ -3889,9 +3806,9 @@ allowed for a non-modular ship.
 Making a modular hull increases the cost of the overall
 hull by the percentage designated as being modular. For
 example, a 100-ton hull normally costs MCr2. If 30% of
-the ship’s hull is to be made modular, then the cost of the
+the ship's hull is to be made modular, then the cost of the
 hull is increased to MCr2.6, which is 130% of the original
-cost. This results in 30 tons of the ship’s components
+cost. This results in 30 tons of the ship's components
 being easily swapped out from mission-to-mission.
 
 MODULE
@@ -3908,7 +3825,7 @@ Module Cr25000 per ton
 POWER
 
 
-A variety of options can be applied to a ship’s power
+A variety of options can be applied to a ship's power
 systems, normally for emergency use.
 
 EMERGENCY POWER SYSTEM
@@ -3921,9 +3838,7 @@ than a second backup power plant.
 
 If the main power plant sustains a critical hit of
 Severity 3 or greater, the emergency power system
-automatically activates and allows the ship to function
-
-normally for five rounds with 90% of its normal Power. If
+automatically activates and allows the ship to function normally for five rounds with 90% of its normal Power. If
 the power plant sustains a critical hit of Severity 6, the
 emergency power is taken offline as well.
 
@@ -3985,9 +3900,9 @@ joints, grooves and other hull structures that cannot be
 coated. Solar coatings cannot be combined with most
 other hull options, with radiation shielding being the
 sole exception. Solar coatings consume no tonnage.
-Spacecraft Options
 
-Spacecraft Options
+
+
 
 Solar coatings are typically only applied to standard
 and sphere hull configurations, and only on ships that
@@ -4024,7 +3939,7 @@ output, rounding down. For example, in a star system
 where the habitable zone is in the third orbital band
 of the star, a solar energy system that generates 10
 Power has its output cut to 5 in the fourth band, 2 in the
-fifth band and so on. In addition, any time the system’s
+fifth band and so on. In addition, any time the system's
 collectors are blocked by an object – for example, a
 planet, moon or planetoid – they stop collecting energy
 and cease to provide power after one turn.
@@ -4054,7 +3969,7 @@ HIGH-BURN THRUSTER
 A high-burn thruster is an auxiliary chemical rocket
 designed to give a temporary speed boost to a ship.
 This is done by adding a reaction drive whose Thrust is
-cumulative with that of the ship’s regular drive system.
+cumulative with that of the ship's regular drive system.
 A reaction drive used as a high-burn thruster should
 require far less fuel than a ship that uses reaction
 drives as its main source of thrust because typical
@@ -4065,7 +3980,7 @@ elude pursuers.
 
 Note that high-burn thrusters do not include inertial
 compensation for a higher thrust rating than that of a
-ship’s manoeuvre drive. Therefore, Travellers in a ship
+ship's manoeuvre drive. Therefore, Travellers in a ship
 that is accelerating with a high-burn thruster are subject
 to the effects of its gravitational force equivalent, also
 known as G-force.
@@ -4091,7 +4006,7 @@ without the need to turn the ship on its axis.
 
 G-LOC
 Accelerating at high g-force without the benefit of
-gravitic compensation can adversely affect a ship’s
+gravitic compensation can adversely affect a ship's
 crew. As thrust is increased, high g-forces can
 cause degraded performance, unconsciousness
 and even death. Suffering unconsciousness from
@@ -4112,9 +4027,7 @@ the Central Supply Catalogue.
 Consult the g-LOC table for the effects of various
 g-forces on Travellers, which includes performance
 degradation and loss of consciousness. Travellers
-must make END checks to avoid suffering the
-
-negative effects of high-g, receiving DM+1 if
+must make END checks to avoid suffering the negative effects of high-g, receiving DM+1 if
 they remain seated in an acceleration seat or
 similar assistive furniture for the duration of the
 increment. Increments are per hour, per space
@@ -4139,7 +4052,7 @@ to deal with high g-forces, allow them to sustain
 consciousness (or remain alive) for an appropriate
 period of time.
 
-Spacecraft Options
+
 
 As such, thruster plates need not be exposed at all
 and can optionally be concealed behind bulkheads.
@@ -4239,7 +4152,7 @@ below)
 — Varies. Loss of END -1 and INT -1 permanently if no
 anti-g drugs taken.
 
-Spacecraft Options
+
 
 
 
@@ -4347,7 +4260,7 @@ by the jettison explosion. In addition, drop tanks are
 automatically destroyed once their ship has lost 10% of
 its Hull points.
 
-A ship’s Thrust must be recalculated when carrying
+A ship's Thrust must be recalculated when carrying
 a drop tank, using the combined tonnage of the
 ship and the drop tanks it carries. This likely means
 the manoeuvre drive is operating at a lower Thrust.
@@ -4369,7 +4282,7 @@ problem if it is full of liquid hydrogen.
 
 Dedicated fuel/cargo containers present an alternative,
 allowing space to be switched between uses
-without a lengthy remodelling of the ship’s interior.
+without a lengthy remodelling of the ship's interior.
 Containers can also be built in such a manner as to
 retain accessibility, including accessways, hatches
 and heavy-duty partitions that make them part of the
@@ -4434,23 +4347,23 @@ to search for it.
 
 Fuel tank compartments cost Cr4000 per ton. Note that
 the tonnage for these compartments is deducted from
-the ship’s fuel tankage, not its total hull.
+the ship's fuel tankage, not its total hull.
 
 METAL HYDRIDE STORAGE
 
 
-Instead of storing the ship’s hydrogen fuel in liquid
+Instead of storing the ship's hydrogen fuel in liquid
 form at extremely low temperatures with a high risk
 of explosion if a leak occurs into the inhabited spaces
 of the ship, it is possible to store hydrogen at room
 temperature using a non-flammable metal hydride
 matrix. This takes up more space but is safer.
 
-Spacecraft Options
 
 
 
-Metal hydride storage replaces a ship’s normal fuel
+
+Metal hydride storage replaces a ship's normal fuel
 tankage but consumes twice as much space and costs
 MCr0.2 per ton.
 
@@ -4475,7 +4388,7 @@ empty, these tanks consume the same space as when
 they are full and cannot be used for anything but fuel.
 
 It takes four weeks to add or remove mountable fuel
-tanks to a ship’s cargo spaces.
+tanks to a ship's cargo spaces.
 
 Option Cost
 Mountable Tank Cr1000 per ton
@@ -4508,7 +4421,7 @@ immobile, ramscoops cease to function but will
 automatically resume operation once the ship starts
 manoeuvring again.
 
-Ramscoops require 1% of a ship’s available tonnage
+Ramscoops require 1% of a ship's available tonnage
 plus five tons, with a minimum overall size of 10 tons
 and can collect five tons of hydrogen per week for
 every ton attributed to the ramscoops. Additional
@@ -4554,7 +4467,7 @@ Ships designed to carry large numbers of troops tend
 to use barracks instead of staterooms. A barracks may
 only be used to carry soldiers, basic passengers or other
 personnel who will put up with cramped conditions.
-This includes marines, ship’s troops or other military
+This includes marines, ship's troops or other military
 personnel who have no other function aboard the ship.
 
 Option Tons Cost Life Support Cost
@@ -4574,7 +4487,7 @@ and a door that can be manually locked from the
 outside. Designed to hold up to six prisoners, it can
 uncomfortably hold double that number if necessary.
 
-Spacecraft Options
+
 
 There are no internal facilities or controls, save for
 a curtained fresher and six pull-down slabs that can
@@ -4613,7 +4526,7 @@ over one that does not. A high stateroom grants DM+1
 when seeking high passengers (see page 238 of the
 Traveller Core Rulebook).
 
-The Luxury Stateroom’ is state of the art accommodation
+The Luxury Stateroom' is state of the art accommodation
 for the most discerning passenger. It is noticeably a
 step above even the high stateroom and more richly
 appointed, found on private yachts and the most
@@ -4698,13 +4611,7 @@ HOLOGRAPHIC CONTROLS
 
 This bridge design incorporates advanced interactive
 holographic displays and can be configured to
-automatically adapt to changing situations or
-
-Spacecraft Options
-
-
-
-personnel. A bridge with holographic controls is
+automatically adapt to changing situations or personnel. A bridge with holographic controls is
 always optimised for the task at hand and grants
 DM+2 when rolling for initiative.
 
@@ -4715,8 +4622,8 @@ SENSOR STATION
 
 
 While every bridge has equipment dedicated to
-monitoring and controlling the ship’s sensors (even if
-this is tied to the pilot’s display), some ships benefit
+monitoring and controlling the ship's sensors (even if
+this is tied to the pilot's display), some ships benefit
 from having additional stations to handle an increased
 number of sensor operators. Some scout and survey
 ships feature additional sensor stations, while military
@@ -4754,7 +4661,7 @@ CARGO CRANE
 
 Built into the ceiling of a cargo hold, this overhead
 gantry crane is designed to shift cargo containers in
-and out of the ship. The crane’s mechanism moves
+and out of the ship. The crane's mechanism moves
 about the bay on a sliding jig and can extend beyond
 the cargo door on a gibbet to deposit freight directly
 onto a dockside or vehicle. The crane is strong enough
@@ -4814,7 +4721,7 @@ framework. This allows a smaller hull to be used,
 making the cost of transportation considerably cheaper.
 Ships with streamlined or dispersed structure hull
 configurations cannot use external cargo mounts. A
-ship’s Thrust and jump capability must be recalculated
+ship's Thrust and jump capability must be recalculated
 when using external cargo mounts, using the combined
 tonnage of the ship and the external cargo it carries.
 This likely means that the manoeuvre drive operates at
@@ -4824,7 +4731,7 @@ Cargo carried externally can only be accessed outside
 the ship by vacc suit or vehicle. Landing a ship with
 external cargo mounts is a dangerous procedure,
 
-Spacecraft Options
+
 
 so these ships can have difficulties trading at worlds
 without a shuttle fleet or highport. Landing a ship
@@ -4847,7 +4754,7 @@ every ton of cargo.
 
 **JUMP NET**
 A jump net consists of special field cables attached to
-the rear of a ship that extend the vessel’s jump field
+the rear of a ship that extend the vessel's jump field
 to include additional cargo contained within the net.
 While this can look exceedingly crude and makes
 the ship unstreamlined while in use, a great deal of
@@ -4859,8 +4766,8 @@ use is available at TL8 but the ship cannot perform a
 jump while this net is deployed.
 
 A ship using a jump net must have its drive potentials
-adjusted by adding the cargo carried to the ship’s total
-hull mass. This will likely degrade the ship’s Thrust and
+adjusted by adding the cargo carried to the ship's total
+hull mass. This will likely degrade the ship's Thrust and
 jump scores.
 
 Option TL Tons Cost
@@ -4903,7 +4810,7 @@ SU contains one ton of supplies. For example, a
 50,000-ton warship normally consumes 500 SU per
 day or five tons. The ship should therefore have a
 minimum of 500 tons of cargo space so that it can
-potentially store 100 days’ worth of SUs.
+potentially store 100 days' worth of SUs.
 
 While there is no direct requirement for ships
 to maintain a specific number of SUs, allowing
@@ -4917,7 +4824,7 @@ cargo section of the ship sheet. Ideally, the overall
 cargo tonnage of the ship should be equal to or
 greater than this amount.
 
-Spacecraft Options
+
 
 
 
@@ -5039,7 +4946,7 @@ grants DM+4 to all attempts at jamming and electronic
 warfare, regardless of the usual DM the sensor suite it
 is attached to.
 
-Spacecraft Options
+
 
 A military countermeasures suite (TL15) is the cutting
 edge of countermeasures technology, incorporating
@@ -5063,7 +4970,7 @@ Suite
 
 **DEEP PENETRATION SCANNERS**
 Using neural activity sensors (NAS) and densitometers
-configured to check every centimetre of a ship’s
+configured to check every centimetre of a ship's
 internal and external hull, deep penetration scanners
 require a target to be within Adjacent range. They allow
 the operator to see everything within a ship that can
@@ -5161,7 +5068,7 @@ earth-sized world) it can identify and quantify population
 densities, likely life types (sapient, sentient, non-sapient
 and so forth) and ecological niches.
 
-Spacecraft Options
+
 
 
 
@@ -5280,7 +5187,7 @@ within the skin of its hull.
 AEROFINS
 
 
-Extendible aerofins improve a spacecraft’s
+Extendible aerofins improve a spacecraft's
 manoeuvrability in atmosphere, giving a far greater
 degree of control over its movements.
 
@@ -5290,7 +5197,7 @@ checks when within an atmosphere.
 Option Tons Cost
 Aerofins 5% of ship tonnage MCr0.1 per ton
 
-Spacecraft Options
+
 
 **BREACHING TUBE**
 All airlocks include flexible plastic docking tubes that
@@ -5327,11 +5234,11 @@ Breaching Tube 3 MCr3
 **DOCKING CLAMP**
 A docking clamp allows a spacecraft to carry another
 vessel on the exterior of its hull, typically a small craft
-such as a ship’s boat or fighter. This permits a ship
+such as a ship's boat or fighter. This permits a ship
 to carry auxiliary craft without consuming valuable
 interior space.
 
-A ship’s Thrust and jump capability must be
+A ship's Thrust and jump capability must be
 recalculated when another ship occupies its docking
 clamp, using the combined tonnage of both ships. This
 likely means the manoeuvre drive will be operating at a
@@ -5377,7 +5284,7 @@ the opposing ship and may not be less than half the
 tonnage of the target ship.
 
 The use of Forced Linkage requires a task chain. First
-the attacking ship’s pilot must position their ship for
+the attacking ship's pilot must position their ship for
 the linkage attempt. If the target ship is crewed and
 powered, make an opposed Pilot check (DEX or INT)
 against the pilot of the target ship. Each unused point
@@ -5402,7 +5309,7 @@ A forced linkage apparatus may be combined with a
 breaching tube. Note that forced linkage devices may
 only be used on ships of 5,000 tons or less.
 
-Spacecraft Options
+
 
 
 
@@ -5434,13 +5341,11 @@ the hull allowing the ship to change hull colours, add
 graphics and adopt a different appearance (although
 its shape remains the same). Changing the hull colour
 or adding a stored graphic can be done by anyone
-with access to the ship’s computer. Creating a complex
+with access to the ship's computer. Creating a complex
 colour scheme from scratch requires the talents of
 a skilled artist. Some young nobles try to outdo one
 another by changing the schemes daily or hiring artists
-to create the most complex scenes imaginable. Some
-
-pirates have made use of this system to simulate visual
+to create the most complex scenes imaginable. Some pirates have made use of this system to simulate visual
 hull damage and lure other ships in with a Signal GK
 distress call. However, most ship owners use it for
 advertising. The projectors are small enough that they
@@ -5464,7 +5369,7 @@ unpowered ship behind the modified vessel. The ship
 can potentially tow any size vessel provided it has the
 Thrust to do so.
 
-A ship’s Thrust must be recalculated when it tows
+A ship's Thrust must be recalculated when it tows
 another ship or object, using the combined tonnage
 of both ships; therefore, the manoeuvre drive will be
 operating at a lower Thrust. A ship towing an object in
@@ -5497,7 +5402,7 @@ ARMOURY
 Ships carrying a large number of marines or soldiers
 can benefit from an armoury, a specialised weapons
 storage facility. An armoury can only be accessed by
-those with the correct codes (usually the ship’s senior
+those with the correct codes (usually the ship's senior
 officers and security teams) and may contain a wide
 variety of weapons. An armoury can be equipped
 with specialised weaponry but, as standard, will have
@@ -5506,7 +5411,7 @@ accelerator or gauss rifles for any marines and a
 selection of other military equipment such as grenades,
 combat drugs, armour and communications equipment.
 
-Spacecraft Options
+
 
 One ton of armoury is required for every 25 crew
 members or five marines in order to provide adequate
@@ -5560,7 +5465,7 @@ Briefing Room 4 MCr0.5
 COMMON AREAS
 
 
-A standard ship’s common area is used for dining
+A standard ship's common area is used for dining
 and recreation. Most are pedestrian affairs with
 some chairs and tables, a refrigeration device,
 food dispensaries, a fresher, laundry facilities
@@ -5596,7 +5501,7 @@ produce 10 litres of beer or liquor per week. Each
 ton of equipment costs MCr0.1.
 
 Gourmet Kitchen
-All ships’ commons contain a galley at the very
+All ships' commons contain a galley at the very
 least but discerning captains add facilities for
 a finer culinary experience. These may include
 specialised ovens, refrigeration devices, food-preparation equipment and other items that enable
@@ -5607,7 +5512,7 @@ consume one ton per diner and cost MCr0.2 per
 ton. Ships with a gourmet kitchen gain DM+1
 when seeking high passengers.
 
-Spacecraft Options
+
 
 
 
@@ -5659,7 +5564,7 @@ theatres exceeding 20 tons.
 
 Wet Bar
 This is a basic wet bar, usually species-specific
-and tailored to the tastes of the ship’s owner.
+and tailored to the tastes of the ship's owner.
 Includes beer taps, wine refrigerators, liquor racks
 and similar items in the space where the common
 kitchen is located. No tonnage required. Wet bars
@@ -5682,15 +5587,15 @@ impromptu zero-G room at will, but without the
 requisite safety mechanisms, those without
 Athletics (dexterity) or Vacc Suit skills have a risk
 of injury upon entering the null-gravity space.
-Spacecraft Options
+
 
 **CONCEALED COMPARTMENT**
-A smuggler’s favourite, concealed compartments are
+A smuggler's favourite, concealed compartments are
 cunningly hidden from visual searches and shielded
 against sensors, allowing them to be used to transport
 contraband or other questionable items.
 
-Up to 5% of a ship’s tonnage can be designated as
+Up to 5% of a ship's tonnage can be designated as
 a concealed compartment which inflicts DM-2 to
 Electronics (sensors) checks and DM-4 to Investigate
 checks made to search for it.
@@ -5736,9 +5641,7 @@ maintenance require the craft to be launched first.
 
 Alternatively, a full hangar allows for repairs and
 maintenance of the craft when it is on board its mother
-ship. The hangar includes specialised testing and repair
-
-equipment. Spare parts must be acquired separately. It
+ship. The hangar includes specialised testing and repair equipment. Spare parts must be acquired separately. It
 normally takes 2D minutes for the auxiliary ship to enter
 or leave the larger ship.
 
@@ -5804,11 +5707,11 @@ launch tubes are often installed on capital ships that
 carry small craft, allowing them to launch potentially
 entire squadrons very quickly.
 
-It takes one round to manoeuvre a craft into ‘firing’
+It takes one round to manoeuvre a craft into ‘firing'
 position within a launch tube but, once there, it takes
 a single space combat round to release up to 10
 
-Spacecraft Options
+
 
 
 
@@ -5887,8 +5790,8 @@ RE-ENTRY POD
 A re-entry pod is similar to a capsule but is built with
 a gliding surface and computer guidance, allowing it
 to avoid potentially dangerous terrain and deliver up
-to two occupants safely to a planet’s surface. A skilled
-Traveller can take control of the pod’s descent using
+to two occupants safely to a planet's surface. A skilled
+Traveller can take control of the pod's descent using
 the Flyer (wing) skill.
 
 Option TL Tons Cost
@@ -5902,14 +5805,14 @@ allows the rapid recovery of ships. This is used on a
 tactical level, bringing small craft (normally fighters) on
 board rapidly before a ship jumps and usually includes
 
-Spacecraft Options
+
 
 Type TL Tons Cost Protection Detection DM
 Re-entry Capsule 8 0.5 Cr20000 — —
 Assault Capsule 10 0.5 Cr50000 +20 -2
 High Survivability Capsule 14 0.5 MCr0.1 +30 -4
 
-Spacecraft Options
+
 
 safety equipment that arrests the motion of any craft
 that enters it too quickly. A recovery deck may be
@@ -5958,9 +5861,7 @@ While training office workers and support units is
 easily done around the ship, given enough free space,
 combat training is much harder. For this reason, many
 mercenary space vessels incorporate training facilities
-into their design with thick bulkhead walls to stop
-
-rounds from penetrating and multiple gyms, prep rooms
+into their design with thick bulkhead walls to stop rounds from penetrating and multiple gyms, prep rooms
 and firing ranges. This allows for new recruits to be
 trained and old hands to keep their skills up.
 
@@ -6020,7 +5921,7 @@ Workshop 6 MCr0.9
 
 Often larger than the mightiest capital ships, space
 stations are a vital component of any interplanetary
-society’s military, economic and social structure,
+society's military, economic and social structure,
 providing living space, manufacturing facilities and a
 stepping stone into deep space. Some space stations
 are dedicated to military operations and may be
@@ -6059,7 +5960,7 @@ unlimited size.
 
 STEP 2: INSTALL DRIVES
 Manoeuvre drive with Thrust 0 consumes tonnage
-equal to 0.25% of the space station’s total hull and
+equal to 0.25% of the space station's total hull and
 costs MCr1 per ton. Enables the station to make flight
 corrections to stay in orbit.
 
@@ -6092,7 +5993,7 @@ this figure for extended performance. For example,
 double its size for eight weeks, triple it for 12 and so on.
 
 STEP 5: INSTALL CONTROL CENTRE
-The control centre is the ‘bridge’ of a space station. The
+The control centre is the ‘bridge' of a space station. The
 cost is MCr0.1 per 100 tons (or part of) of the station it
 is installed within.
 
@@ -6114,7 +6015,7 @@ Command and control centres are double the cost of a
 command centre of the same size and grant DM+1 to
 all Tactics (naval) checks made by its staff.
 
-# S PACE STATIONS
+# SPACE STATIONS
 
 STEP 6: INSTALL COMPUTER
 See page 20 of the ship design sequence.
@@ -6222,7 +6123,7 @@ Electronics (sensors)
 
 Cr4000 1 per 7,500 tons of space station 3 per 7,500 tons of space station
 
-Space Stations
+
 
 
 
@@ -6283,7 +6184,7 @@ the real-space transfer from the 100-diameter limit to
 a central hub station. In some cases, a space station
 can work around this by using a high-capacity network
 
-Space Stations
+
 
 RESIDENTIAL ZONES
 
@@ -6297,9 +6198,7 @@ preference. The number of people who can be
 housed within residential spaces depends on the
 resources and space allocated to it, as shown on the
 Residential Zones table. This table lists approximate
-SOC suited to the housing and facilities, as well as
-
-the tonnage consumed per person housed, the cost
+SOC suited to the housing and facilities, as well as the tonnage consumed per person housed, the cost
 per ton and Power required for every 100 tons or
 part of consumed by the residential zone.
 
@@ -6319,7 +6218,7 @@ Medium 4+ 4 2 MCr0.1
 High 8+ 6 3 MCr0.25
 Luxury 10+ 10 5 MCr0.75
 
-Space Stations
+
 
 that transmits huge reams of data directly to x-boats
 and the mail pods they carry. If an x-boat is carrying
@@ -6354,7 +6253,7 @@ exceed twice their own tonnage. Alternatively, a single
 ship of any size can dock with a space station. This is
 achieved through the use of docking arms and clamps,
 which are assumed to be purchased and installed
-during the construction of the space station’s hull.
+during the construction of the space station's hull.
 
 The largest space stations are capable of receiving
 ships within internal bays. This provides ships with
@@ -6420,7 +6319,7 @@ needed raw materials quickly and easily. If the system
 SHIPS AND STATIONS
 
 
-With the Referee’s approval, space station
+With the Referee's approval, space station
 modules can be installed on other spacecraft as
 well. There is no reason why a large enough ship
 could not, for example, have a deck dedicated to
@@ -6442,7 +6341,31 @@ MINERAL REFINERY
 Mineral refineries convert asteroids into useful metals
 and materials. Some are made up of individual
 platforms, each of which contribute to the operation and
-others are distributed systems with multiple substations
+others are distributed systems with multiple substations coordinated by a central hub. This is an alternative
+to mining asteroids and transporting only the ore, as
+practiced by ships such as the seeker on page 162.
+
+Mineral refineries rely on manned tugs to bring suitable
+asteroids to the space station, although at TL12 these
+are replaced by tug drones.
+
+Once asteroids are delivered to the station, they must
+be crushed, the ores and other by-products sorted, and
+waste released back into space. The produce is split between 50% Common Ore, 30% Uncommon Ore, 15%
+Crystals and Gems and 5% Precious Metals (as defined
+on page 244 of the Traveller Core Rulebook). For
+example, for every 100 tons of produce from the refinery,
+50 tons is Basic Ore, 30 tons is Uncommon Ore, 15 tons
+Crystals & Gems and five tons Precious Metals.
+
+Technology rapidly enhances the capabilities of a
+mineral refinery. The Mineral Refinery table shows how
+much produce each refinery is capable of producing
+per day, per ton dedicated to it, along with its Power
+requirement. The table also shows how many crew
+are needed to service the refinery. Space dedicated to
+refineries includes hangars and other facilities required
+for tugs to bring asteroids back to the space station.
 
 Manufacturing Plant
 Plant TL Plant per ton of Goods Power Crew Cost
@@ -6472,41 +6395,12 @@ Textiles Basic Agricultural
 Wood Agricultural Agricultural
 Vehicles Basic Industrial
 
-coordinated by a central hub. This is an alternative
-to mining asteroids and transporting only the ore, as
-practiced by ships such as the seeker on page 162.
-
-Mineral refineries rely on manned tugs to bring suitable
-asteroids to the space station, although at TL12 these
-are replaced by tug drones.
-
-Once asteroids are delivered to the station, they must
-be crushed, the ores and other by-products sorted, and
-waste released back into space. The produce is split
-
 Fuel Refinery
 TL Maximum Output Per Day Power Crew Cost
 7 10 tons 2 1 per 50 tons MCr0.1 per ton
 10 12 tons 1 1 per 100 tons MCr1 per ton
 13 15 tons 1 1 per 500 tons MCr0.5 per ton
 
-Space Stations
-
-between 50% Common Ore, 30% Uncommon Ore, 15%
-Crystals and Gems and 5% Precious Metals (as defined
-on page 244 of the Traveller Core Rulebook). For
-example, for every 100 tons of produce from the refinery,
-50 tons is Basic Ore, 30 tons is Uncommon Ore, 15 tons
-Crystals & Gems and five tons Precious Metals.
-
-Technology rapidly enhances the capabilities of a
-mineral refinery. The Mineral Refinery table shows how
-much produce each refinery is capable of producing
-per day, per ton dedicated to it, along with its Power
-requirement. The table also shows how many crew
-are needed to service the refinery. Space dedicated to
-refineries includes hangars and other facilities required
-for tugs to bring asteroids back to the space station.
 
 **Mineral Refinery**
 
@@ -6612,11 +6506,11 @@ D Basic 400 tons 1D x Cr10 — 100 tons — —
 E — — — — — — —
 X — — — — — — —
 
-Space Stations
+
 
 By adjusting Tech Levels, many ship components can
 be upgraded or downgraded depending on the needs
-and capabilities desired by the ship’s designer. Superior
+and capabilities desired by the ship's designer. Superior
 components provide enhanced performance while
 lesser components may be installed to reduce costs or,
 in the case of a lower-tech world, to provide prototype
@@ -6628,7 +6522,7 @@ obsolete by higher technology. This chapter provides
 rules for refitting ships with new components and the
 associated costs of doing so.
 
-# C USTOMISING SHIPS
+# CUSTOMISING SHIPS
 
 ALTERING TECH LEVELS
 
@@ -6697,7 +6591,7 @@ space is automatically detected if it emerges within
 the minimum detail range of the sensor. However,
 detecting a ship equipped with a stealth drive emerging
 into real space requires a Formidable (14+) Electronics (sensors) check (1D rounds, INT or EDU) if it is within
-the ‘limited’ detail range of the sensors or automatically
+the ‘limited' detail range of the sensors or automatically
 fails if outside the minimum detail range. Stealth jump
 requires two Advantages.
 
@@ -6776,17 +6670,17 @@ to all attempts made to repair them.
 Energy Efficient: This weapon consumes 25% less
 Power than normal.
 
-Customising Ships
+
 
 
 
 High Yield: When rolling damage for a High Yield
 weapon or the performance of a High Yield screen,
-any ‘1’s rolled are counted as ‘2’s. Not applicable for
+any ‘1's rolled are counted as ‘2's. Not applicable for
 missiles and torpedoes.
 Very High Yield: When rolling damage for a Very High
 Yield weapon or the performance of a Very High Yield
-screen, any ‘1’s and ‘2’s rolled are counted as ‘3’s. Very
+screen, any ‘1's and ‘2's rolled are counted as ‘3's. Very
 High Yield requires two Advantages. Not applicable for
 missiles and torpedoes.
 Intense Focus: These weapons are more tightly
@@ -6817,16 +6711,14 @@ by the weapon by 20%.
 REFITTING SHIPS
 
 
-Over the course of a ship’s lifespan, its components
+Over the course of a ship's lifespan, its components
 may be modified or replaced. Sometimes this occurs
 after the ship has suffered damage in space combat
 or otherwise. Damaged and destroyed components
 can be replaced at starports of an appropriate Tech
 Level, provided that they have replacement parts
 and technology on hand. Components may also be
-replaced in order to upgrade or downgrade a ship’s
-
-capabilities. Tech Levels vary from world-to-world and
+replaced in order to upgrade or downgrade a ship's capabilities. Tech Levels vary from world-to-world and
 Travellers who want to install better sensor arrays,
 improve the lethality of their weapons or otherwise
 enhance their ships have many choices.
@@ -6871,9 +6763,9 @@ modified in the same way as ship construction, such as
 allocating additional shipyard space or the presence of
 higher technology.
 
-Customising Ships
 
-A ship’s computer shares much in common with
+
+A ship's computer shares much in common with
 portable systems but is immensely more powerful. The
 complex calculations required for quick and easy travel
 between planets and using jumpspace need suitable
@@ -6892,10 +6784,10 @@ distances between stars, but also function far more
 effectively when it reaches its destination.
 
 This chapter looks at advanced software available for
-ship’s computers, although note that any sufficiently
+ship's computers, although note that any sufficiently
 powerful computer can run this software.
 
-When selecting a ship’s computer, the first thing to do
+When selecting a ship's computer, the first thing to do
 is determine what software it needs to run. Then total
 the Bandwidth required for each software package to
 get a sense of the total Bandwidth needed. Be sure to
@@ -6909,7 +6801,7 @@ packing in more than needed. For example, a ship
 with a pair of double missile turrets does not require
 expensive Launch Solution software. Nor does a tramp
 trader need costly Evade software to function safely (most of the time). Second, consider that not all of a
-ship’s software needs to run simultaneously, enabling
+ship's software needs to run simultaneously, enabling
 the designer to select a cheaper computer with less
 Bandwidth. Determine which software packages need
 to be running concurrently, add up their Bandwidth
@@ -6921,21 +6813,21 @@ The basic Fire Control packages available to most
 ships (see the Traveller Core Rulebook, page 161)
 are suitable for small ships with a handful of turrets
 
-# T HE SHIP'S COMPUTER
+# THE SHIP'S COMPUTER
 
 but they quickly surpass their capabilities on larger
 vessels with multiple weapon systems. Advanced
 Fire Control software utilises the greater processing
 potential of capital ships to create an entire offensive
 network that increases the efficiency of gunnery crew.
-Note that Advanced Fire Control does not allow a ship’s
+Note that Advanced Fire Control does not allow a ship's
 computer to fire any weapons itself, merely increasing
 the accuracy of those who do. Advanced Fire Control
 does not stack with Fire Control.
 
 All weapons mounted upon the ship gain a DM to
 their attack rolls equal to the Advanced Fire Control
-package’s score (so, Advanced Fire Control/2 grants
+package's score (so, Advanced Fire Control/2 grants
 DM+2 to all attack rolls).
 
 Software Bandwidth TL Cost
@@ -6963,9 +6855,9 @@ to the affected area, making unauthorised attempts to
 enter key areas and functions difficult. This is intended
 to act as a ward against hijacking but also serves
 as a strong security system. Any skill check made to
-gain unauthorised entry to the ship’s computer or any
+gain unauthorised entry to the ship's computer or any
 restricted area suffers a negative DM equal to double
-the Anti-Hijack’s software score.
+the Anti-Hijack's software score.
 
 Software Bandwidth TL Cost
 Anti-Hijack/1 2 TL11 MCr6
@@ -6978,11 +6870,7 @@ BATTLE NETWORK
 The Battle Network software package enables a ship
 to hand off target sensor detection data to all desired
 ships within the specified range of the software. Battle
-Network/1 enables hand-off to all ships within Medium
-
-
-
-range. Battle Network/2 enables hand-off to all ships
+Network/1 enables hand-off to all ships within Medium range. Battle Network/2 enables hand-off to all ships
 within Long range. For more information about sensor
 hand-offs, see Chapter 7: Sensors.
 
@@ -7000,7 +6888,7 @@ actions. It then runs high-level simulations and makes
 predictions to advise officers as to the correct course of
 action. Any Traveller using Battle System gains a DM
 to Tactics (naval) checks equal to the Battle System
-package’s score (so, Battle System/2 grants DM+2).
+package's score (so, Battle System/2 grants DM+2).
 
 Software Bandwidth TL Cost
 Battle System/1 5 TL9 MCr18
@@ -7035,9 +6923,7 @@ Intellect package or a mere artificial intelligence. A
 Conscious Intelligence is a fully aware, completely
 sentient digital being, capable of thought, deduction,
 analysis and, it appears in every measurable way,
-emotion. A Conscious Intelligence is treated as a
-
-computer-bound Traveller with INT 15 and EDU 15,
+emotion. A Conscious Intelligence is treated as a computer-bound Traveller with INT 15 and EDU 15,
 with a range of skills that can be uploaded, changed
 and improved (typically in the skill level 3–5 range).
 The Conscious Intelligence will have a name, an easily
@@ -7063,8 +6949,8 @@ Intelligence/3
 ELECTRONIC WARFARE
 
 
-With access to the ship’s sensor suites, this software
-package provides aid to the vessel’s electronic warfare
+With access to the ship's sensor suites, this software
+package provides aid to the vessel's electronic warfare
 experts by quickly finding the correct frequencies to
 disrupt a target and then applying massive processing
 power to break through any firewall security.
@@ -7072,7 +6958,7 @@ power to break through any firewall security.
 All electronic warfare actions (see page 160 of the
 Traveller Core Rulebook) performed from the ship gain
 a DM to their Electronics (sensors) checks equal to
-the Electronic Warfare package’s score (so, Electronic
+the Electronic Warfare package's score (so, Electronic
 Warfare/2 grants DM+2).
 
 Software Bandwidth TL Cost
@@ -7090,14 +6976,14 @@ devastating effect.
 
 All missile and torpedo salvoes fired by the ship gain
 a DM to their attack rolls equal to the Launch Solution
-package’s score (so, Launch Solution/2 grants DM+2 to
+package's score (so, Launch Solution/2 grants DM+2 to
 all missile and torpedo salvo attack rolls).
 
 Software Bandwidth TL Cost
 Launch Solution/1 5 TL8 MCr10
 Launch Solution/2 10 TL10 MCr12
 Launch Solution/3 15 TL12 MCr16
-The Ship's Computer
+
 
 **POINT DEFENCE**
 While any ship with a laser turret can engage in point
@@ -7131,9 +7017,7 @@ can be performed by this software package. Virtual
 Crew can replace up to five pilots, gunners or sensor
 operators on board a ship, potentially allowing the
 ship to act autonomously if all crew can be replaced
-in this way. Indeed, ships can be designed without
-
-a bridge, relying purely on this software package in
+in this way. Indeed, ships can be designed without a bridge, relying purely on this software package in
 order to function as a drone. Ships that have no living
 crew make appropriate checks with a skill level equal
 to their Virtual Crew score and can also be controlled
@@ -7155,12 +7039,12 @@ Virtual Crew/2 15 TL15 MCr10
 VIRTUAL GUNNER
 
 
-A Virtual Gunner package allows a ship’s computer to
+A Virtual Gunner package allows a ship's computer to
 replace living gunnery crew in an efficient manner. The
 package can replace any number of gunners, although
 it requires +1 Bandwidth for every 10 gunners or part
 of beyond the first 10. Weapons controlled by a Virtual
-Gunner have a skill level equal to the package’s score
+Gunner have a skill level equal to the package's score
 but they can take advantage of other modifiers such
 as Advanced Fire Control. On a military ship, one
 virtual gunner may replace the gunner crewing a turret,
@@ -7171,7 +7055,7 @@ Virtual Gunner/0 5 TL9 MCr1
 Virtual Gunner/1 10 TL12 MCr5
 Virtual Gunner/2 15 TL15 MCr10
 
-The Ship's Computer
+
 
 Space combat in the Traveller Core Rulebook assumes
 that the combatants have detected each other with
@@ -7202,7 +7086,7 @@ packages from Basic to Advanced are described
 on page 21, including which sensors are provided
 with each package. The functions of each sensor
 
-# S ENSORS
+# SENSORS
 
 type are described on page 55 of the Traveller Core
 Rulebook. Of the options listed, only active radar/lidar
@@ -7212,8 +7096,8 @@ In civilised space, ships often run their active sensors
 to obtain more detailed data about their surroundings.
 However, there are many instances in which it is wise
 to maintain a lower profile. Doing so requires careful
-management of a ship’s sensory systems and this is
-the job of the ship’s sensor operator, often referred to
+management of a ship's sensory systems and this is
+the job of the ship's sensor operator, often referred to
 as the sensop.
 
 INITIAL DETECTION
@@ -7221,7 +7105,7 @@ INITIAL DETECTION
 
 Ships use a variety of sensors to collect information
 about their surroundings. By combining data from
-multiple sensor devices, a ship’s computer generates a
+multiple sensor devices, a ship's computer generates a
 composite image of detected objects, giving the sensop
 and their crew detailed information about the space
 around them, including what and who is in it. Initial
@@ -7243,7 +7127,7 @@ Target running active sensors +2 Target ship is operating active radar/lidar sen
 Target running passive sensors only +0 Target ship is operating visual, heat, EM and other
 passive sensors only.
 Target is operating manoeuvre drive +1 per Thrust A target ship applying Thrust 3 provides DM+3 on an
-opposing ship’s sensor check.
+opposing ship's sensor check.
 Target is operating power plant +1 Target is operating its power plant at minimum level (basic ship systems) or higher.
 Transponder or radio comms +6 Target ship is running its transponder or radio comms.
 Extended sensor array deployed +2 The ship is equipped with an extended array and it
@@ -7262,14 +7146,14 @@ the knowledge that these ships and other objects are
 present is all that is needed; however, should one ship
 need to approach another for boarding or to engage
 in combat, more precise information is required. To
-obtain this level of information, the ship’s sensop must
+obtain this level of information, the ship's sensop must
 make an Average (8+) Electronics (sensors) check (1D minutes, EDU), adding DMs listed in the Initial
 Detection table and DMs for the type of sensors being
 used, as described under Install Sensors on page 21.
 
 Success indicates that the data collected by the
 sensop is enough to pinpoint the location of the ship,
-whereupon the ship’s captain can decide whether to
+whereupon the ship's captain can decide whether to
 allow an approach or engage in space combat. Failure
 indicates that the location of the ship (or even that it is
 a ship) cannot be accurately determined. Exceptional
@@ -7287,9 +7171,7 @@ the naval presence, government type and Law Level of
 the system. On the frontier or in systems with an Amber
 or Red travel code, Travellers are sometimes permitted
 to operate without transponders under very specific
-circumstances; for example, wilderness refuelling at a
-
-gas giant, landing on a remote moon or other situations
+circumstances; for example, wilderness refuelling at a gas giant, landing on a remote moon or other situations
 in which they might be vulnerable to attack from pirates
 or other troublemakers.
 
@@ -7310,7 +7192,7 @@ must be reacquired by the opposing sensop with a new
 Average (8+) Electronics (sensors) check, adding the
 following DMs.
 
-Savvy stealth ship captains know how to ‘go dark’ after
+Savvy stealth ship captains know how to ‘go dark' after
 distancing themselves from an opponent, shutting down
 most or all systems that allow them to be detected.
 This gives the stealthed ship a significant advantage
@@ -7319,7 +7201,7 @@ opponent if indeed they want to at all.
 
 SENSOR HAND-OFFS
 If multiple ships are engaged in combat, they can
-communicate or ‘hand-off’ sensor data to each other
+communicate or ‘hand-off' sensor data to each other
 over their comms systems, enabling all ships to
 have the same data, limited by range and available
 computer Bandwidth.
@@ -7353,13 +7235,13 @@ Stealthed target is operating
 manoeuvre drive
 
 +1 per Thrust A target ship applying Thrust 3 provides DM+3 on an
-opposing ship’s sensor check.
+opposing ship's sensor check.
 Stealthed target uses its
 transponder or comms
 
 +6 Target ship is running its transponder or radio comms.
 
-Sensors
+
 
 
 
@@ -7428,10 +7310,10 @@ available Bandwidth points by 10 for this purpose,
 allowing them to hand-off data to entire squadrons. In
 addition, ships may obtain Battle Network software to
 enable them to hand-off sensor data to all allied ships
-within range. For more information, see The Ship’s
+within range. For more information, see The Ship's
 Computer on page 73.
 
-Sensors
+
 
 Sensors check: Failure
 Available bandwith: 5
@@ -7453,7 +7335,7 @@ Available computer
 bandwith: 5
 Range to target: Medium
 
-# E XOTIC TECHNOLOGY
+# EXOTIC TECHNOLOGY
 
 The ship design rules covered in previous chapters
 cover a broad range of technologies, up to around
@@ -7491,9 +7373,7 @@ hops in the tens of parsecs. Hop drives have the same
 minimum size, as well as fuel and power consumption,
 as jump drives of the same rating. Select the desired
 hop score and use the figure in the Hop Potential
-table as the percentage of the ship’s hull that the hop
-
-drive will consume, then add five tons. A hop drive
+table as the percentage of the ship's hull that the hop drive will consume, then add five tons. A hop drive
 must be a minimum of 10 tons and they cost MCr15
 per ton. Much like jump technology, each hop requires
 approximately one week of travel time. The hop drive
@@ -7501,9 +7381,7 @@ first appears at TL17.
 
 In addition to making hops possible, Hop Control
 software reduces the distance in parsecs – for
-purposes of calculating DM for Astrogation checks
-
-- by 10 rounding up (minimum one). As with Jump
+purposes of calculating DM for Astrogation checks - by 10 rounding up (minimum one). As with Jump
 
 Control, the cost of Hop Control software is waived if
 the ship has a Core computer
@@ -7551,13 +7429,13 @@ Hyperdrive TL 17 19 20 21 22 23 24 25 26
 A hyperdrive consumes no fuel and, while in
 hyperspace, the spacecraft moves a number of parsecs
 equal to its Thrust per hour, up to a maximum of the
-hyperdrive’s rating. This is the equivalent distance
+hyperdrive's rating. This is the equivalent distance
 moved in realspace, and determines where the
 spacecraft appears once it emerges from hyperspace.
 
 Power Requirements: In order to use the hyperdrive,
 the ship requires an amount of Power equal to the
-hyperdrive’s total tonnage.
+hyperdrive's total tonnage.
 
 SKIP DRIVE
 
@@ -7568,7 +7446,7 @@ skips in the hundreds of parsecs. Skip drives have
 the same minimum size, as well as fuel and power
 consumption, as jump drives of the same rating. Select
 the desired skip score and use the figure in the Skip
-Potential table as the percentage of the ship’s hull that
+Potential table as the percentage of the ship's hull that
 the skip drive will consume, then add 5 tons. A skip
 drive must be a minimum of 10 tons and they cost
 MCr150 per ton. Much like jump technology, each skip
@@ -7597,7 +7475,7 @@ WARP DRIVE
 
 The warp drive is similar in effect to a hyperdrive,
 but instead of entering hyperspace it creates a
-warp ‘bubble’ around the ship, effectively stretching
+warp ‘bubble' around the ship, effectively stretching
 
 Skip Potential
 Rating 1 2 3 4 5 6 7 8 9
@@ -7623,7 +7501,7 @@ Space folding drives cost MCr3 per ton.
 
 Power Requirements: In order to use the space
 folding drive, the ship requires an amount of Power
-equal to 50% of the hull’s total tonnage multiplied by
+equal to 50% of the hull's total tonnage multiplied by
 the space folding drive rating. No fuel is consumed.
 
 TIME DRIVE
@@ -7649,15 +7527,15 @@ increments listed. So, for example, a time drive-3 could
 move a ship forward or backward in time up to six
 hours. The fuel required to do so is equal to:
 
-2.5% of ship’s hull x time drive rating.
+2.5% of ship's hull x time drive rating.
 
 Time drives cost MCr5 per ton.
 
 Power Requirements: In order to use the time drive,
 the ship requires an amount of Power equal to 25% of
-the hull’s total tonnage multiplied by the time drive.
+the hull's total tonnage multiplied by the time drive.
 
-Exotic technology
+
 
 Space Folding Potential
 
@@ -7706,7 +7584,9 @@ capable of delivering a series of strikes rapidly.
 An advanced development of the humble beam laser,
 neutron lasers are large weapons that require bay
 installations to handle their size but they are true
-capital ship armaments. Neutron lasers are cannon-
+capital ship armaments. Neutron lasers are cannon-sized beam lasers that are stabilised by a neutron
+flow for greater stability – this greatly enhances their
+damage potential.
 
 Time Drive Potential
 
@@ -7715,9 +7595,6 @@ TL 20 20 21 21 22 22 23 23 24 25
 % of Hull 5% 8% 11% 14% 17% 20% 23% 26% 29% 32%
 Time Increment Seconds Minutes Hours Days Weeks Months Years Decades Centuries Millennia
 
-sized beam lasers that are stabilised by a neutron
-flow for greater stability – this greatly enhances their
-damage potential.
 
 SOLAR PULSE GENERATOR
 
@@ -7766,7 +7643,7 @@ As weapons technology progresses, so too does that
 of defensive measures. Energy screens, in particular,
 become more ubiquitous as technology improves.
 
-Exotic technology
+
 
 
 
@@ -7808,7 +7685,7 @@ Special Weapons
 Weapon TL Range Power Damage Cost Traits
 Solar Pulse Generator 18 Short 2,000 5Dx100 MCr25000 Ion
 
-Exotic technology
+
 
 DEFLECTOR SCREENS
 
@@ -7831,7 +7708,7 @@ the ship is kept safe from harm.
 
 When a hit is scored, determine damage as normal,
 including any Damage Multiples. Each energy shield
-installed on a ship forms a ‘buffer’ of 10 points of
+installed on a ship forms a ‘buffer' of 10 points of
 damage. All functioning energy shields on board
 a ship combine to increase the damage they can
 collectively absorb.
@@ -7896,15 +7773,15 @@ automatically explodes and is instantly destroyed.
 To avoid this, the capacitors can be discharged. For every
 combat round the white globe generator is switched off, the
 capacitors discharge an amount of damage equal to 1% of
-the ship’s total tonnage multiplied by 10% of the tonnage of
-the ship’s power plant.
+the ship's total tonnage multiplied by 10% of the tonnage of
+the ship's power plant.
 
 NEW OPTIONS
 
 
 Advanced systems installed on board a ship can
 radically alter its capabilities, allowing it to perform
-beyond the specifications of what is considered ‘normal’
+beyond the specifications of what is considered ‘normal'
 in the galaxy.
 
 COLLECTORS
@@ -7917,7 +7794,7 @@ in a single spike to power a jump drive; collectors
 cannot be used for normal ship operations.
 
 Collectors become available at TL14. They consume
-1% of a ship’s tonnage multiplied by the maximum jump
+1% of a ship's tonnage multiplied by the maximum jump
 number its drive is capable of, plus five tons. They cost
 MCr0.5 per ton.
 
@@ -7949,18 +7826,18 @@ with greater range becomes available. This version
 consumes 300 tons and 1,200 Power points. Its gravity
 well extends 1,200,000 kilometres and costs MCr360.
 
-Exotic technology
+
 
 
 
 JUMP FILTERS
 
 
-An advanced modification inserted between a ship’s
+An advanced modification inserted between a ship's
 computer and its sensor suite, jump filters search for
 very specific traces created by expended fuel and
 broken jump envelopes in order to track the direction
-and location of a ship’s jump. With detailed analysis,
+and location of a ship's jump. With detailed analysis,
 this allows a prediction of which star system a ship
 has jumped to.
 
@@ -7970,7 +7847,7 @@ Electronics (sensors) check (1D rounds, INT) enables
 the operator to determine where the ship has jumped.
 
 Jump filters become available at TL14. They consume
-no tonnage but require 5 Bandwidth from the ship’s
+no tonnage but require 5 Bandwidth from the ship's
 computer, 1 Power and cost MCr5.
 
 PSIONIC TECHNOLOGY
@@ -8033,7 +7910,7 @@ from psions.
 Psions using Clairvoyance or Telepathy powers suffer a
 penalty within this ship or upon its occupants. However,
 the shielding is most effective on small vessels and
-larger vessels tend to develop ‘holes’ that a cunning
+larger vessels tend to develop ‘holes' that a cunning
 psion can exploit.
 
 Ships above 500 tons receive no DM. The penalty for
@@ -8049,12 +7926,12 @@ At TL16, advanced psionic shielding becomes
 available. This consumes no tonnage and costs MCr1
 per 100 tons, or part of, of the ship being shielded.
 
-Exotic technology
+
 
 Psionic
 Capacitor
 
-# C REW ROLES
+# CREW ROLES
 
 A qualified crew with a broad range of skills is required to
 operate a ship. This chapter describes each of the roles
@@ -8084,7 +7961,7 @@ its mission on track. The administrative staff include
 accountants, clerks, pursers, personnel management (also called sophont resources), crew advocacy, liaison
 officers, quartermasters, librarians, yeomen and others.
 
-Administrators keep track of the ship’s fuel, supplies,
+Administrators keep track of the ship's fuel, supplies,
 cargo, work schedules and oversee the progress of
 a voyage, deployment or mission, noting completed
 objectives and milestones that are achieved.
@@ -8093,17 +7970,17 @@ administrative staff are there to ensure it gets done
 as efficiently as possible by taking care of all the little
 details. The operational crew are present to get the ship
 from point A to point B. Admins are there to ensure that
-the ship’s mission is accomplished.
+the ship's mission is accomplished.
 
 The best admins are sticklers for process. ‘If you play
-by the rules, you win the game,’ is a common admin’s
+by the rules, you win the game,' is a common admin's
 refrain. Captains accustomed to uninhibited command
 sometimes bristle at the presence of one or more
 administrators but the larger the ship – and the larger
 the administrative staff – the more they are tolerated
 and, quite often, appreciated for their contributions.
 
-The role of a ship’s administrator does not stop at
+The role of a ship's administrator does not stop at
 its bulkhead walls. An admin on a freighter, scout
 or exploratory trader must know the laws, customs,
 conventions and culture of each and every world on
@@ -8124,17 +8001,17 @@ the highest bonuses and get promoted more often.
 Cutting through red tape and keeping the voyage or
 mission going is one of their primary functions.
 
-Some administrators also serve as a ship’s attorney.
+Some administrators also serve as a ship's attorney.
 In the Third Imperium, the law safeguards free trade
 and assures safe travel between star systems. Many
 Imperial laws are left deliberately vague but the best
 space lawyers have memorised a great deal of legal
 precedents to lean upon should adjudication be required.
 
-THE ADMIN’S JOB IS NEVER DONE
-Common task checks for the ship’s admin:
+THE ADMIN'S JOB IS NEVER DONE
+Common task checks for the ship's admin:
 
-Check the ship’s logs to make sure nothing is amiss:
+Check the ship's logs to make sure nothing is amiss:
 Routine (6+) Admin check (2D minutes, INT).
 
 Negotiate a cheaper docking fee: Average (8+) Admin
@@ -8157,7 +8034,7 @@ THE PURSER
 
 On all types of ships, the purser is responsible for
 taking care of its finances. While they are routinely
-part of a ship’s administrative staff, pursers may
+part of a ship's administrative staff, pursers may
 be found on ships as small as 200-ton tramp
 traders. On a merchant starship, the purser might
 well have the most important role of all. In fact,
@@ -8167,7 +8044,7 @@ handles all freight, cargo, mail and passenger
 transactions at the various ports that it visits. The
 key skill for such transactions is Broker but many
 other skills come into play as well, depending on
-the scope of the purser’s job.
+the scope of the purser's job.
 
 Travelling from one star system to the next, the
 worlds that a starship crew encounters can be vastly
@@ -8183,7 +8060,7 @@ does not mean that it will be in the next.
 
 The Admin skill can help a purser cut through
 procedural red tape. For an independent free trader,
-it is essential that the ship keeps moving. A ship’s
+it is essential that the ship keeps moving. A ship's
 operating costs or mortgage do not pay themselves
 and time is money. The cadence for tramp traders
 is to jump into system, work their way in from the
@@ -8222,7 +8099,7 @@ might have an administrative staff to work with but,
 even then, the purser will tap the expertise of other
 crew members to help get the work done no matter
 what their specialisations are. Pursers often work
-in close concert with the ship’s stewards, especially
+in close concert with the ship's stewards, especially
 with regards to the passengers.
 
 On a larger ship, such as a Leviathan merchant
@@ -8241,7 +8118,7 @@ unexpected. Information only travels at the speed of
 jump and circumstances can change from one port
 of call to the next.
 
-On military craft, the purser’s job is quite different.
+On military craft, the purser's job is quite different.
 Usually only assigned to capital ships (more than
 5,000 tons), the purser and their staff are responsible
 for keeping the ship supplied. There is a common
@@ -8250,12 +8127,12 @@ battleships – which are expensive – have unlimited
 resources. The reality is quite the opposite. Keeping
 a military ship properly supplied is always a challenge
 and there are opposed forces at work. A well-supplied
-ship is one with high morale. While a ship’s captain
+ship is one with high morale. While a ship's captain
 strives to keep their ship amply supplied at all times,
 they have a limited budget to work with. The purser
 is the manager of these funds and their career
 
-Crew Roles
+
 
 Make sure the speculative cargo goods the purser
 bought are of the expected quality. Opposed: Difficult (10+) Admin or Broker check (INT) versus a Difficult (10+) Deception check (INT).
@@ -8278,22 +8155,20 @@ ASTROGATOR
 
 Astrogators are only required on jump-capable
 spacecraft. The astrogator is responsible for keeping
-track of where the Travellers’ starship is and where
+track of where the Travellers' starship is and where
 it is going. Jump drives enable Travellers to get from
-one star system to another and the astrogator’s main
+one star system to another and the astrogator's main
 job is to make sure that they get to their destination
-safely. The course is plotted with the aid of a starship’s
+safely. The course is plotted with the aid of a starship's
 astrogation computer but the astrogator must make key
 decisions regarding the departure point, jump distance
 and estimated arrival point. In addition, qualified
 astrogators understand astronomy and jumpspace
-physics well enough to calculate the basic course
-
-advancement largely depends on their ability to
+physics well enough to calculate the basic course advancement largely depends on their ability to
 be frugal but also to keep the ship appropriately
 supplied. On long deployments, it can be quite a
-challenge to maintain the ship’s supplies, spares
-and stores, especially if the ship’s mission takes
+challenge to maintain the ship's supplies, spares
+and stores, especially if the ship's mission takes
 them into foreign or uncharted territory. Pursers
 must become resourceful to do their jobs well
 under such circumstances but those who manage
@@ -8320,26 +8195,26 @@ engaging the jump drive. However, there are times
 when Travellers might want to get out of a star system
 quickly. Jumping before reaching the 100-diameter limit
 puts a great deal of stress on the jump drive and greatly
-increases the possibility of a misjump. An astrogator’s
+increases the possibility of a misjump. An astrogator's
 accurate course becomes all the more important under
 such circumstances.
 
 Astrogators determine when a ship will come out of
 jump when plotting their course. If the ship making the
-jump is part of a fleet, the ships’ astrogators can share
+jump is part of a fleet, the ships' astrogators can share
 data in order to synchronise jump exits. Synchronised
 jumps are important in military operations and situations
 in which one does not want to come out of jump alone,
-such as when travelling in a convoy. Even if one’s
-‘fleet’ is a couple of armed traders and a scout ship, the
+such as when travelling in a convoy. Even if one's
+‘fleet' is a couple of armed traders and a scout ship, the
 synchronised arrival of a decent-sized group might be
 enough to deter pirates or other troublemakers.
 
 Plotting courses between stars is the essential job of an
-astrogator but an overlooked aspect of the astrogator’s
+astrogator but an overlooked aspect of the astrogator's
 responsibilities occurs in normal space between jumps.
 When in normal space, the astrogator may work in
-tight concert with the ship’s pilot and sensor operator
+tight concert with the ship's pilot and sensor operator
 to track where they are, where they are going and what
 planets, asteroids, orbital starports and other objects
 are in their vicinity.
@@ -8352,15 +8227,15 @@ when engaging in interstellar travel. Sensor array
 data provides information about their surroundings in
 normal space. When coming out of jumpspace, the first
 question the astrogator wants answered is ‘Where am
-I?’. The astrogation computer analyses data from the
+I?'. The astrogation computer analyses data from the
 sensor arrays, library program, recorded data from the
 flight computer and data gleaned from local satellite
 arrays and starport control, when available. The
 engineering interface enables the astrogator to submit
-their course to the ship’s engineer who tunes, prepares
+their course to the ship's engineer who tunes, prepares
 and engages the jump drive to make the journey.
 
-Crew Roles
+
 
 **THE PURSER (CONTINUED)**
 
@@ -8372,12 +8247,12 @@ has access to an immense amount of data that is used
 to ascertain where the ship is and where it is going with
 pinpoint accuracy. There is less data for backwater
 systems, whose available resources might be slim and
-none but the starship’s computer and sensor array can
+none but the starship's computer and sensor array can
 be used to perform a basic system survey within hours,
 giving the astrogator what is needed.
 
 Once a spacecraft is in flight, the astrogator sees a
-display of ‘known objects’, things that are expected to
+display of ‘known objects', things that are expected to
 be present in the current star system. These include
 orbital starports, satellite arrays, near-planet objects
 such as asteroids and comets and other things for
@@ -8388,7 +8263,7 @@ that then guesses in advance what the astrogator might
 want to do next, providing scenarios for a series of
 potential courses.
 
-When flying ‘nap-of-the-earth’ to a destination on the
+When flying ‘nap-of-the-earth' to a destination on the
 other side of the planet, astrogation data provides
 an array of choices for the pilot to make. Weather
 patterns are obtained from local data sources, if any,
@@ -8401,7 +8276,7 @@ their destination.
 
 When taking the ship into orbit, the astrogation
 computer checks in with the local starport, if present.
-The computer checks the starport’s data and places
+The computer checks the starport's data and places
 all known objects in cache, not displaying them until
 after their presence is confirmed by sensors. Once
 the sensors detect new ships or other objects, the
@@ -8417,9 +8292,7 @@ Jump drives are primarily tuned for travel between
 gravity wells, deftly staying outside of the 100-diameter
 limits of stars, planets and other objects. Jump courses
 rely upon those gravity wells as points of contact.
-Making jumps into deep space – empty hexes on a
-
-starmap – far from any discernible gravity wells, is
+Making jumps into deep space – empty hexes on a starmap – far from any discernible gravity wells, is
 a risky undertaking. Experienced astrogators learn
 how to do it by triangulating: they anchor their desired
 destination point to the last visited gravity well and
@@ -8472,11 +8345,7 @@ could have little to no experience in any of the crew
 positions. The captain of a pirate vessel might simply
 be the toughest person standing, fending off rivals
 who would take the captaincy by force, if possible. The
-captain might also simply be the owner aboard, the
-
-Crew Roles
-
-person who has majority or outright ownership of the
+captain might also simply be the owner aboard, the person who has majority or outright ownership of the
 vessel. In some cases, the captain of a ship is simply
 born to the role, as is the case for an Imperial noble,
 Aslan clan leader or member of the Zhodani Zhobrdievl.
@@ -8492,11 +8361,11 @@ officer on a small craft is called a skipper.
 ENGINEER
 
 
-An engineer’s work is never done. Engineers are
+An engineer's work is never done. Engineers are
 responsible for the maintenance and repair of the
-ship’s drives, power and life-support systems. When
+ship's drives, power and life-support systems. When
 all systems are operating at peak performance, the
-engineer’s job is simple: Monitor the ship’s functions
+engineer's job is simple: Monitor the ship's functions
 and, in the case of starships, engage the jump drive
 when called upon to do so. Ships have a complex array
 of equipment with hundreds of working components.
@@ -8511,14 +8380,14 @@ principles of life support engineering: maintain
 atmospheric pressure and oxygen levels, filter and
 absorb carbon dioxide, maintain gravitic systems (g-compensation and artificial gravity), manage waste
 and water supply, and provide for early detection
-and suppression of fires. A ship’s g-compensation
+and suppression of fires. A ship's g-compensation
 system is designed to counter the amount of thrust
-the ship has. If the ship’s maximum thrust is somehow
+the ship has. If the ship's maximum thrust is somehow
 exceeded, the g-compensation may be pushed to
 counter higher g-forces but only for a limited amount
 of time and at the risk of damage to the system.
 
-A journeyman’s knowledge of life-support systems and
+A journeyman's knowledge of life-support systems and
 due diligence is all one needs to keep them running
 properly. Advanced training enables an engineer
 to apply fine control to the various life-support
@@ -8528,31 +8397,29 @@ and oxygen to specific compartments, altering the
 output of the artificial gravity system and increasing
 g-compensation, if necessary.
 
-The ship’s drive systems include manoeuvre and
+The ship's drive systems include manoeuvre and
 jump drives, with the former providing locomotion in
 normal space and the latter enabling the ship to travel
 interstellar distances in jumpspace. The function of
 both drive systems is described in Ship Design on page
 
-15. The manoeuvre-drive system includes separate
-
-components for orientation and thrust with interfaces to
-the power plant and ship’s computer. In addition, there
+15. The manoeuvre-drive system includes separate components for orientation and thrust with interfaces to
+the power plant and ship's computer. In addition, there
 is some overlap with the life-support system, which
 uses related gravitic technology for artificial gravity and
 g-compensation.
 
-The jump-drive draws power from the ship’s power
+The jump-drive draws power from the ship's power
 plant into energy sinks, which accumulate and
 distribute the enormous amount of energy required to
 create the jump bubble that protects the ship during its
 transit through jumpspace. Perhaps the most complex
 component of the drive is its jump governor, which
-manages the distance of a jump, limited by the drive’s
+manages the distance of a jump, limited by the drive's
 jump rating. The jump drive requires a great deal of
 care and maintenance. It is a complicated system
 whose function is only partially understood. Engineers
-understand how each of the jump drive’s individual
+understand how each of the jump drive's individual
 components work but jumpspace and transit through
 it is a mysterious phenomenon, somewhat taken for
 granted given the lack of complete understanding about
@@ -8565,14 +8432,14 @@ efficiency as technology increases. Higher technology
 plants are more costly but provide more power per ton
 and greater reliability.
 
-Interfaces to the ship’s main engineering systems
+Interfaces to the ship's main engineering systems
 are located in the drive room and the bridge but on
 smaller, less-sophisticated ships, the latter may simply
 be a terminal without a dedicated workstation. Most
 engineers do their work in the engine room where the
 drives and power plant are co-located on most designs.
 
-While most of an engineer’s job is performed on the
+While most of an engineer's job is performed on the
 interior of a ship, there are components on the exterior
 that fall under their purview as well. First is the hull
 itself, which can be viewed as the outermost layer of
@@ -8583,13 +8450,7 @@ located on the exterior with their interfaces and much
 of their electronics accessible from inside of the ship;
 Mechanic and Electronics skill is required for their repair
 and maintenance, respectively. Engineers are also
-responsible for the fuel scoops, vents that take in raw
-
-Crew Roles
-
-
-
-gas or water that can be ‘cracked’ for their hydrogen
+responsible for the fuel scoops, vents that take in raw gas or water that can be ‘cracked' for their hydrogen
 content and used as fuel. These, of course, lead to one
 of the largest systems on any ship: the fuel tanks.
 
@@ -8599,7 +8460,7 @@ and repairs can be done remotely with drones, most
 engineers like to take a hands-on approach, which
 requires competence in the use of vacc suits.
 
-Maintenance activities are the bane of the engineer’s
+Maintenance activities are the bane of the engineer's
 existence. Refer to Running Costs and Maintenance
 in the Spacecraft Operations section of the Traveller
 Core Rulebook for more information. While this section
@@ -8619,12 +8480,12 @@ out throughout the month as they see fit.
 Engineers see the ship a lot differently than its crew or
 passengers. They are fully aware of the machines that
 enable it to do what it does while other crewmembers
-are often content with the illusion that ‘things just work’.
+are often content with the illusion that ‘things just work'.
 The crew may be excused for their lack of intimate
 knowledge about each and every component but those
 in the engineering profession are often astounded
 by how little most people know or understand about
-ships’ systems. Engineers have a much greater
+ships' systems. Engineers have a much greater
 understanding of the inherent dangers of flying in a
 compact vacuum-sealed container with a fusion reactor
 inside, surrounded by tons of explosive liquid-hydrogen
@@ -8639,7 +8500,7 @@ GUNNER
 Gunners operate the weaponry and defences that ships
 use in space combat. They have the glorious role of
 firing ship weapons at enemy forces, wreaking damage
-upon them with everything from the ‘brilliant lances’ of
+upon them with everything from the ‘brilliant lances' of
 laser weaponry and the potentially massive destruction
 of a missile salvo, to particle and meson bays and
 spinal mounts that can destroy other capital ships with
@@ -8664,7 +8525,7 @@ regard, gunnery is more than just pulling a trigger or
 pressing a launch button – it is also an art form.
 
 Gunnery has four specialisations: turrets, ortillery,
-screens and capital weapons. Turret, barbette and small-bay gunners are the ‘gunslingers’ of the profession,
+screens and capital weapons. Turret, barbette and small-bay gunners are the ‘gunslingers' of the profession,
 solitary operators who rely more upon quick reflexes and
 individual decision-making than other gunnery roles. In
 addition, laser turret gunners have the secondary role of
@@ -8678,7 +8539,7 @@ target, they can utterly devastate a ship. Sandcaster
 gunners are the unsung heroes of the profession, using
 an array of probabilities and psycho-tendency data to
 deploy laser-mitigating chaff into the space between
-one’s ship and the enemy. Lasers are the most common
+one's ship and the enemy. Lasers are the most common
 weaponry on small ships and accurate sand deployment
 can be the difference between life and death.
 
@@ -8696,11 +8557,7 @@ by close-orbit and airspace control command (COACC)
 spacecraft and atmospheric fighter craft and drones,
 as well as surface-to-space missiles and other anti-spacecraft weaponry, some of which might be protected
 in deep-site installations that are difficult to penetrate.
-Ortillery gunners usually take a clinical approach to
-
-Crew Roles
-
-their work. The knowledge that civilians may be killed
+Ortillery gunners usually take a clinical approach to their work. The knowledge that civilians may be killed
 by ortillery can have adverse psychological effects if
 their gunners do not learn to disassociate actions from
 consequences caused.
@@ -8715,7 +8572,7 @@ Investment in screens is expensive. Without
 dedicating vast resources that could be applied
 elsewhere, screens cannot be expected to completely
 safeguard a ship. However, good screen gunners can
-extend a ship’s lifespan, preventing it from suffering
+extend a ship's lifespan, preventing it from suffering
 major damage deep into a battle, thereby allowing
 its guns to further damage the enemy. Fleet combat
 can be a war of attrition and it is not always the
@@ -8733,15 +8590,13 @@ team. Competition between the various bay crews of
 a ship is not unheard of, with prizes and awards going
 to those who perform the best in drills and battles.
 Placing wagers on their targeting prowess is strictly
-forbidden by most naval commanders but that does not
-
-prevent it from happening. Officers will often look the
+forbidden by most naval commanders but that does not prevent it from happening. Officers will often look the
 other way provided that morale remains strong and no
-awards for ‘worst performance’ are given. Spinal mount
+awards for ‘worst performance' are given. Spinal mount
 crews are enormous, sometimes including hundreds
 of gunners. These crews have their own subcultures
 and bureaucracies with a commanding gunnery officer
-and ‘trigger person’ at the top of the hierarchy. Spinal
+and ‘trigger person' at the top of the hierarchy. Spinal
 weapon commanding officers are likened to symphony
 conductors, who must keep a close eye on every
 member of their team, ensuring that they do their jobs
@@ -8764,7 +8619,7 @@ budget constraints and every department works hard
 to obtain the resources they need from a limited pool.
 The gunnery department is no different and having the
 Admin skill helps to make sure the maintenance of the
-ship’s guns remains a top priority.
+ship's guns remains a top priority.
 
 Gunners – especially those who operate turrets,
 barbettes and small bays – are sometimes a source
@@ -8781,25 +8636,19 @@ drilling is a full-time job for these specialisations.
 Gunnery control can be centralised at the bridge or
 dispersed throughout a ship. Most capital ships have
 dispersed control to prevent a lucky shot by enemy
-spacecraft from eliminating a ship’s offensive capabilities.
+spacecraft from eliminating a ship's offensive capabilities.
 
-Even a ‘decapitated’ ship with its bridge destroyed
+Even a ‘decapitated' ship with its bridge destroyed
 can still be lethal as long as its guns keep firing. Some
 ships have a centralised model with the commander
 and key trigger personnel on the bridge. Design
-efficiencies and the preferences of the admiralty dictate
-
-Crew Roles
-
-
-
-which approach is taken. Captains who came up in
+efficiencies and the preferences of the admiralty dictate which approach is taken. Captains who came up in
 the ranks of the gunnery department usually prefer a
 strictly distributed approach while those who came up
 in flight, technical or the line often prefer to have their
 key gunners in close physical proximity.
 
-THE GUNNER’S CONTROL PANEL
+THE GUNNER'S CONTROL PANEL
 Gunners, especially those on ships with the holographic
 display option, benefit from a highly customised control
 panel setup. Gunners arrange their preferences,
@@ -8808,7 +8657,7 @@ damage estimates for hits they have made and – when
 closing in for the kill – a target-assist heads-up display
 of potential called shot locations.
 
-The ship’s computer automatically uses the comms
+The ship's computer automatically uses the comms
 to transmit firing platform suggestions to the pilot but
 the exchange can be much more lively than just an
 automated feed of data. Once the ship is in dogfight
@@ -8834,7 +8683,7 @@ On smaller ships, an engineer with some mechanical
 skills can take care of both jobs but on larger ships,
 maintenance staff must be on hand to keep all systems
 healthy when engineers are otherwise engaged
-operating the ship’s core technology – manoeuvre and
+operating the ship's core technology – manoeuvre and
 jump drives, power plants and life support systems.
 
 Mechanic is the primary skill of maintenance workers
@@ -8842,20 +8691,18 @@ but those with qualifications in the various electronics
 specialisations or those with a basic understanding
 of engineering have superior value. Maintenance
 workers with this level of cross-training are often
-called ‘drivehands’ in ship parlance. The title is more
+called ‘drivehands' in ship parlance. The title is more
 esteemed in some circles and can even be used to
 negotiate for a marginally higher salary. Drivehands
-are expected to be troubleshooters who can assist the
-
-engineering staff or substitute for them in a pinch. Due
+are expected to be troubleshooters who can assist the engineering staff or substitute for them in a pinch. Due
 to their more limited expertise, drivehand repairs are
 often temporary and might require more permanent
 attention by engineers at a later time.
 
 Ship maintenance staff must be creative and know
-how to use their skills to ‘jury rig’ a faulty system.
+how to use their skills to ‘jury rig' a faulty system.
 While engineers are busy with the complicated
-tasks of keeping the ship’s high-tech drives running,
+tasks of keeping the ship's high-tech drives running,
 maintenance workers must replace lighting systems,
 clean air ventilation shafts, get sticky iris valves to
 open and close properly, and keep the cargo crane
@@ -8865,23 +8712,23 @@ calls for more overtime and lacks the glamour and
 perceived value that engineers have but quality
 maintenance staff are worth their weight in gold.
 During space combat, maintenance staff must often
-put themselves in harm’s way to get a critical system
+put themselves in harm's way to get a critical system
 back online after it sustains battle damage. Hazard duty
 requires some level of expertise with vacc suits.
 
 In addition to ship hardware, maintenance staff
 are expected to keep all subordinate craft well
-maintained, too. This includes ship’s boats, fighter
+maintained, too. This includes ship's boats, fighter
 craft, air/rafts, ATVs and any other vehicles docked
 within the mother ship.
 
-MARINES AND SHIP’S TROOPS
-The terms marines and ship’s troops are sometimes
+MARINES AND SHIP'S TROOPS
+The terms marines and ship's troops are sometimes
 used interchangeably. While the two share some of the
 same duties, there are significant differences in scope.
 
-Ship’s troops are exactly that: troops on a ship. The
-primary role of the ship’s troop is to defend their ship.
+Ship's troops are exactly that: troops on a ship. The
+primary role of the ship's troop is to defend their ship.
 When the ship is docked to another, their duties may
 extend to the attached ship, whether they are sent
 inside as a security detachment, part of an inspection
@@ -8895,20 +8742,12 @@ capital ship that is a member of an AssaultRon (assault
 squadron). Lift infantry usually include a vehicular
 component that requires a capital ship to transport it.
 
-Ship’s troops and marines must perform a significant
+Ship's troops and marines must perform a significant
 amount of training to perform their roles, most of which
 is done off-ship. Weapons training requires a firing range
-and while ships sometimes have training facilities for this
-
-- simulators or even a designated area in the cargo hold
-
-Crew Roles
-
-- most such training is done offsite. Likewise for small-
-
-unit tactics, which are extremely important. Honing one’s
+and while ships sometimes have training facilities for this - simulators or even a designated area in the cargo hold - most such training is done offsite. Likewise for small-unit tactics, which are extremely important. Honing one's
 skills in the arts of defending or assaulting a ship can be
-done aboard the ship to which a marine or ship’s troop is
+done aboard the ship to which a marine or ship's troop is
 assigned but it creates a significant amount of chaos. It
 is difficult for other crew members to get their jobs done
 when armed and armoured soldiers are running through
@@ -8916,7 +8755,7 @@ the hallways, simulating breach defence, ship-to-ship
 assault and other drills.
 
 When not actively performing their duties, marines and
-ship’s troops can be idle, which might cause problems.
+ship's troops can be idle, which might cause problems.
 For example, during jump, there is little for them to do.
 The obvious solution would be to store them in low
 berths but due to the dangers and the time it takes to
@@ -8929,20 +8768,20 @@ for active duty, whether in service to the Imperial Army
 or a mercenary unit, it does not pay to be groggy
 before being inserted into a potential war zone or other
 environment in which alertness is required. Idleness
-among ship’s troops and marines is usually remedied
+among ship's troops and marines is usually remedied
 with technical studies and drills that require more
 thinking and less action. This does not always go over
 well with some of the rough-and-tumble sorts who take
 these roles but is attempted nonetheless.
 
-Ship’s troops and marines are usually accommodated
+Ship's troops and marines are usually accommodated
 in double-occupancy rooms or a barracks. Each
 requires a similar investment in space and life support
 costs but a barracks environment can foster a superior
 team mentality which, as every soldier knows, adds to
 performance and survivability in the field of battle.
 
-If the ship’s troops or marines are members of a
+If the ship's troops or marines are members of a
 military service and they are serving on a small ship,
 such as a close escort or patrol corvette, then they are
 typically organised into a light platoon, even if they are
@@ -8953,7 +8792,7 @@ larger, they might resemble traditional military units in
 organisation with ranks up to and including a brigadier
 or general in charge.
 
-For more about ship’s troops and marines and the
+For more about ship's troops and marines and the
 kinds of operations they perform, see Boarding Actions
 on page 125. Included are recommendations for the
 types of weapons and armour used.
@@ -8961,8 +8800,8 @@ types of weapons and armour used.
 MEDIC
 
 
-The ship’s medic might go by other names, including
-medical officer, ship’s doctor or in the case of a navy
+The ship's medic might go by other names, including
+medical officer, ship's doctor or in the case of a navy
 ship, naval surgeon.
 
 One medic per 120 crew is required on all ships.
@@ -8970,7 +8809,7 @@ While there is no formal requirement, one medic is
 recommended per medical bay, enabling each to
 provide care for up to three patients if necessary.
 
-A ship’s medic is on hand to address all the typical
+A ship's medic is on hand to address all the typical
 needs of patients: providing medication and treatment
 for the sick and wounded, ensuring the physical
 and mental well-being of all crew, providing first aid
@@ -8985,7 +8824,7 @@ revivals slowly to reduce injuries and death.
 The medic is also expected to maintain and secure the
 supply of any drugs used by the crew. Ideally these are
 contained in a secure facility in a medical bay but other
-devices are available, enabling drug storage in a ship’s
+devices are available, enabling drug storage in a ship's
 locker or other storage space.
 
 Travelling medics are likely to see a broad range of
@@ -9001,11 +8840,11 @@ encountered on alien worlds. There are many fauna and
 flora that can cause health problems as well. Venoms,
 acids, spores and vicious bites are sometimes suffered
 by Travellers who wander the wild outback of the
-frontier. The ship’s medic must be prepared to deal with
+frontier. The ship's medic must be prepared to deal with
 such occurrences, not to mention those incurred from
 weaponry, high-tech or otherwise. In space travel, there
 is also the constant danger of radiation exposure. The
-universe can be a dangerous place and the ship’s medic
+universe can be a dangerous place and the ship's medic
 never knows what sorts of hazards their crew might
 encounter and what treatments will be required.
 
@@ -9016,7 +8855,7 @@ assignments and medics with cross-training in
 terrestrial skills such as Navigation, Recon and Survival
 are preferred.
 
-Crew Roles
+
 
 
 
@@ -9039,7 +8878,7 @@ Commercial ships require one officer per 20 crew and
 military ships require one officer for every 10 crew.
 Common departments for both civilian and military
 ships are command, flight, engineering, small craft
-operations and medical, if a ship’s doctor is present.
+operations and medical, if a ship's doctor is present.
 
 On a civilian ship, the mission might be commercial,
 political, diplomatic or many others. On a merchant
@@ -9054,7 +8893,7 @@ organisational hierarchy is required and leaders are
 required to run it.
 
 Military ships have additional departments that are
-not present on a civilian ship: marine or ship’s troops
+not present on a civilian ship: marine or ship's troops
 command, and master-at-arms to name a few. Military
 missions typically require a greater degree of precision
 and adherence to rules and regulations; hence the
@@ -9127,7 +8966,7 @@ small craft, spacecraft and capital ships. Knowledge
 of one imparts partial knowledge of the others but the
 experience of flying each type of ship is quite different.
 
-Crew Roles
+
 
 Those with Pilot (small craft) fly ships below 100 tons,
 from five-ton light fighters to large passenger shuttles.
@@ -9182,13 +9021,11 @@ ensure superior performance in their assigned roles
 but it also allows for cross-training should one type of
 pilot be required to fill the role of the other. Inter-career
 competition between the two specialisations is common
-with starship pilots lording it over the ‘subordinate’ small
-
-craft pilots, who in turn denigrate their alleged superiors
-by pointing out that flying an ‘oversized brick’ lacks the
-skill or panache required of ‘real pilots’ like themselves.
+with starship pilots lording it over the ‘subordinate' small craft pilots, who in turn denigrate their alleged superiors
+by pointing out that flying an ‘oversized brick' lacks the
+skill or panache required of ‘real pilots' like themselves.
 Common parlance refers to starship pilots as ‘space
-truckers’ with small craft pilots as ‘flyboys’ (or ‘flygirls’
+truckers' with small craft pilots as ‘flyboys' (or ‘flygirls'
 as the case may be).
 
 Pilot (spacecraft) uses many of the same skills
@@ -9213,7 +9050,7 @@ traders, scouts, yachts, escorts, corvettes or other
 types of ship. As such, they carry components
 particular to their assigned role. Traders and even more
 so subsidised merchants are sometimes disparaged as
-‘spaceborne storage closets’, which does their pilots
+‘spaceborne storage closets', which does their pilots
 little justice. Such ships minimise drive size in order to
 maximise cargo space, giving the pilot little to work with
 should greater range or power be required. Their pilots
@@ -9238,13 +9075,7 @@ use manoeuvre drives, whose primary components are
 thruster plates and g-compensators. The first provide
 reactionless thrust and the second nullify its effects
 on crew and passengers contained within the hull.
-Some ships have auxiliary reaction drives, used either
-
-Crew Roles
-
-
-
-as a backup or to support the manoeuvre drive with
+Some ships have auxiliary reaction drives, used either as a backup or to support the manoeuvre drive with
 added thrust on the cheap. Using these on a starship
 requires careful consideration by the pilot, especially
 when civilian passengers are aboard. Most spacers are
@@ -9257,7 +9088,7 @@ but one cannot obtain certification as a pilot without
 being taught how to operate without it. Unlike a small-craft pilot, the pilot of a starship is more often tasked
 with the conveyance of an entire crew and passengers.
 Moving the ship means moving everyone and this is
-never far from the pilot’s mind.
+never far from the pilot's mind.
 
 When in jumpspace, there is little for pilots to do.
 This gives them an opportunity to relax, brush up on
@@ -9270,16 +9101,16 @@ planetary bodies, there are a great many variables to be
 prepared for. In the Imperium, the space between worlds
 is patrolled by the Imperial Navy and subject to Imperial
 law. Individual planets have their own laws and customs.
-The ship’s pilot should be prepared for the differences.
+The ship's pilot should be prepared for the differences.
 
 More than any other role aboard ship, the pilot is a
 nexus for interaction with other crew positions. The pilot
-puts the ship in position for the astrogator’s jump plot,
-relies upon the ship’s engineer to keep the drives and
+puts the ship in position for the astrogator's jump plot,
+relies upon the ship's engineer to keep the drives and
 power plant in good working order, positions the ship to
 establish an optimal firing platform for the gunners and
 works closely with the sensor operator to collect data
-about their surroundings. While a ship’s captain may
+about their surroundings. While a ship's captain may
 be likened to a conductor, the pilot plays the central
 instrument of the orchestra.
 
@@ -9333,8 +9164,8 @@ carrier, assault carrier, battleship, dreadnought or any
 of the other classes, each has specific and general
 roles to fill that require unique training.
 
-In combat, the capital ship pilot’s job is to provide
-firing platforms for the gunners. A ship’s weapons are
+In combat, the capital ship pilot's job is to provide
+firing platforms for the gunners. A ship's weapons are
 distributed along multiple sides of its hull (starboard,
 port, dorsal, ventral, fore and aft), so this requires
 movement by the ship to face all guns upon a desired
@@ -9345,15 +9176,11 @@ others and allowing for the weapons to fire after each
 shift. If the ship is armed with a spinal mount, it may fire
 this weapon at any time during its facing adjustments
 but must pause to target it beforehand. Should the
-capital ship be in battle with multiple targets, hence
-
-Crew Roles
-
-delivering fire in three dimensions against several
+capital ship be in battle with multiple targets, hence delivering fire in three dimensions against several
 opponents, the facing adjustments can be even more
 complex, requiring greater skill and finesse by the pilot.
 
-**THE PILOT’S CONTROL PANEL**
+**THE PILOT'S CONTROL PANEL**
 Pilot control panels vary from ship-to-ship. At the lower
 end, flight control systems are completely mechanical,
 including a hands-on throttle-and-stick that enables the
@@ -9394,25 +9221,25 @@ During a fleet battle, this becomes of great importance
 if losses begin to pile up. A ship that remains intact after
 several of their squadron are disabled or destroyed,
 may be reassigned. The pilot uses the fleet monitor to
-acquire their newly assigned ‘battle squadron’, to which
-they must then relocate and join per the fleet admiral’s
+acquire their newly assigned ‘battle squadron', to which
+they must then relocate and join per the fleet admiral's
 orders. These manoeuvres can be fraught with danger
-and call upon the pilot’s skill and situational awareness.
+and call upon the pilot's skill and situational awareness.
 There are many moving parts to a fleet in battle and
-deftly inserting one’s ship into a new element requires
+deftly inserting one's ship into a new element requires
 skill and flexibility as the pilot makes a balletic entry into
 a new squadron or fleet, possibly amid a raging battle.
 
 In combat, the facing display becomes of paramount
-importance, as the pilot adjusts the ship’s facing
+importance, as the pilot adjusts the ship's facing
 multiple times to ensure that all gunners are given an
 opportunity to fire. The display can be thought of as
-a game console of sorts, in which the pilot’s job is to
+a game console of sorts, in which the pilot's job is to
 ensure that gunners in every facing have an opportunity
 to fire over a given interval.
 
 SENSOR OPERATOR (SENSOP)
-The sensor operator, or ‘sensop’, position is extremely
+The sensor operator, or ‘sensop', position is extremely
 important, especially on ships that require accurate
 information about what – and who – is in space
 around them. Ships that travel into dangerous
@@ -9425,12 +9252,12 @@ assigned to an individual but may also be a part-time
 duty executed by one or more members of the crew.
 Should the ship find itself in combat, a dedicated
 sensop is recommended. There are too many tasks for
-it to be a part-time job when one’s ship is being fired
+it to be a part-time job when one's ship is being fired
 upon. The first of these tasks, unfortunately, can occur
 before the crew of a ship even knows that the sensop
 was needed.
 
-Crew Roles
+
 
 
 
@@ -9440,7 +9267,7 @@ minding their station. When a ship comes out of jump,
 approaches a starport, world or gas giant with the
 intention of skimming for fuel, there are a great many
 unknowns. Depending on the quality of the sensor
-array, a ship’s passive sensors should paint a picture
+array, a ship's passive sensors should paint a picture
 of its surroundings, depicting planets, planetoids, large
 heat- or radiation-emitting objects and any ships with
 their transponders on or those using active sensors.
@@ -9453,13 +9280,13 @@ opponent and fire upon them before their presence has
 even been detected.
 
 Cautious use of available sensors can be played out
-as a game of ‘cat and mouse’ where powered-down
+as a game of ‘cat and mouse' where powered-down
 ships skulk about, virtually undetected until they reveal
 themselves with a tell-tale sign: use of active sensors,
 transponder, manoeuvre drives or firing a weapon, just
 to name a few.
 
-Once the battle has been joined, the sensop’s role
+Once the battle has been joined, the sensop's role
 expands, especially against difficult-to-detect ships. If
 a sensop makes a successful Average (8+) Electronics (sensors) check, adjusted by Tech Level and other
 DMs, the profile and approximate location of an
@@ -9470,13 +9297,13 @@ lost whenever they manoeuvre into a new range band.
 For example, if a stealth ship is detected, but it uses its
 superior thrust to travel from Short to Medium range,
 the sensop on the opposing ship must reobtain the
-ship’s sensory signature.
+ship's sensory signature.
 
 During combat, the sensop may also obtain sensor
 locks (making the opposing ship easier to hit with
 weapons), engage in electronic warfare to jam enemy
 communications or break jams that have been imposed
-on one’s comms system. Electronic warfare can also
+on one's comms system. Electronic warfare can also
 be used to prematurely detonate or misdirect incoming
 missile salvos. The sensop sometimes faces hard
 choices when only one of the above activities can be
@@ -9508,7 +9335,7 @@ want to salvage.
 STEWARD
 
 
-A ship’s steward is responsible for the care and feeding
+A ship's steward is responsible for the care and feeding
 of its crew and passengers, and the cleaning and
 maintenance of their accommodations.
 
@@ -9521,7 +9348,7 @@ maintained stateroom – potentially of the high or luxury
 designation, if available – with single occupancy, high-quality and delicious food provided in three square
 meals and staff present to wait on hand and foot. High
 passengers also lease one ton of cargo space in the
-ship’s hold. One level of Steward is required per 10
+ship's hold. One level of Steward is required per 10
 high passengers.
 
 Middle passage is standard class. Middle passengers
@@ -9535,13 +9362,9 @@ level of Steward is required per 100 middle passengers.
 
 Basic passage varies in quality. At best, passengers
 can expect double occupancy in a stateroom with
-minimal attention from the ship’s steward. Limited
+minimal attention from the ship's steward. Limited
 access to stores is granted but passengers at this
-level are expected to provide for themselves. If
-
-Crew Roles
-
-possible, basic passengers are segregated from high
+level are expected to provide for themselves. If possible, basic passengers are segregated from high
 and middle passengers. In cases where space is not
 available in the accommodations, basic passengers
 may be assigned a cot in the cargo hold or another
@@ -9556,7 +9379,7 @@ from the steward other than an occasional check-in or
 response to an automated alert. Stewards with Medic
 skill might be called upon to place low passengers in
 their low berths and revive them at the end of their
-journey, but this responsibility goes to the ship’s medic
+journey, but this responsibility goes to the ship's medic
 if one is present.
 
 On a passenger-carrying starship, the steward is the
@@ -9580,12 +9403,12 @@ However, jumps are a week long and some voyages
 require multiple jumps. The long period of time
 sequestered aboard a ship can make passengers a
 bit stir crazy after a while, giving them symptoms of
-‘space fatigue’. Tours of the ship and chances to meet
+‘space fatigue'. Tours of the ship and chances to meet
 the captain and crew can serve as a welcome remedy
 for the monotony of space travel.
 
 As the old saying goes, one must spend money to
-make money. Stewards proud of their ship’s reputation
+make money. Stewards proud of their ship's reputation
 often spend time at ports of call seeking quality
 ingredients for cuisine and wine and spirits for their
 passengers. Such a high degree of care and concern
@@ -9594,14 +9417,14 @@ rate the ship, its steward and by extension its crew,
 giving the ship a superior reputation and enhancing its
 ability to find passengers in the future. For stewards
 who spend Cr1000 or more per high passenger, give
-the ship’s purser DM+1 when seeking passengers as
+the ship's purser DM+1 when seeking passengers as
 described in the Traveller Core Rulebook. Also consider
 that stewards who go to such great lengths often collect
 generous tips from their high and middle passengers.
 
-Crew Roles
 
-# C REATING DECK PLANS
+
+# CREATING DECK PLANS
 
 Traveller has a long and proud history of not only
 bringing ships of every shape and description into
@@ -9628,58 +9451,57 @@ VITAL POINTS TO REMEMBER
 
 
 
-- All components that consume tonnage should be
-  represented on the deck plan with the exception of
-  Armour, Reinforced Bulkheads and Hull.
+- All components that consume tonnage should be represented on the deck plan with the exception of
+Armour, Reinforced Bulkheads and Hull.
 - Remember that ships can have more than one deck.
 - Ships with more than one deck require access
-  to each deck, either through hatches in the floor/
-  ceiling or lifts.
+to each deck, either through hatches in the floor/
+ceiling or lifts.
 - If a deck or other large area of a ship contains
-  nothing but fuel, there is usually no need to put it
-  on the deck plan. However, you must remember it
-  is there when sketching out the exterior of the ship.
+nothing but fuel, there is usually no need to put it
+on the deck plan. However, you must remember it
+is there when sketching out the exterior of the ship.
 
 AND BEAR IN MIND...
 
 - Ammunition storage should be located near its
-  weapon system. After all, when that forward
-  torpedo bay runs out of ammunition, do you really
-  want to run back to the rear ammunition store and
-  somehow lug a two-and-a-half-ton torpedo up to
-  the front of the ship before you can fire again?
+weapon system. After all, when that forward
+torpedo bay runs out of ammunition, do you really
+want to run back to the rear ammunition store and
+somehow lug a two-and-a-half-ton torpedo up to
+the front of the ship before you can fire again?
 - Anything that needs access to the outside (airlocks,
-  vessels carried on board, escape pods, re-entry
-  capsules, launch tubes, recovery hangars, probe
-  drones and so forth) can gain that access from
-  above or below, not just the side.
+vessels carried on board, escape pods, re-entry
+capsules, launch tubes, recovery hangars, probe
+drones and so forth) can gain that access from
+above or below, not just the side.
 - Screens could be considered to be integrated
-  throughout the hull and not appear on the deck
-  plan or, alternatively, they may be located in one
-  centralised area.
+throughout the hull and not appear on the deck
+plan or, alternatively, they may be located in one
+centralised area.
 - Common areas vary, depending on the ship and its
-  role but a ratio of perhaps one square for every two
-  staterooms is a good start.
+role but a ratio of perhaps one square for every two
+staterooms is a good start.
 - Not all the tonnage allocated to a stateroom
-  necessarily goes to the stateroom itself; some can
-  be used for corridors and similar spaces.
+necessarily goes to the stateroom itself; some can
+be used for corridors and similar spaces.
 - Staterooms contain freshers but you may want to
-  locate some additional ones in different areas of
-  the ship, including as part of common areas.
+locate some additional ones in different areas of
+the ship, including as part of common areas.
 - Try to minimise excess corridor space as much as
-  you can. Ship architects are going to squeeze as
-  much space as possible into other areas such as
-  cargo. If the ship has space enough to have, say, a
-  single corridor that only leads to a fresher, that space
-  can be better utilised elsewhere (such as cargo).
+you can. Ship architects are going to squeeze as
+much space as possible into other areas such as
+cargo. If the ship has space enough to have, say, a
+single corridor that only leads to a fresher, that space
+can be better utilised elsewhere (such as cargo).
 - Take advantage of the options available in digital
-  tools if you are using any, such as Grid (used
-  to help determine the size of areas), Snap and
-  Alignment (can help with the placement of items),
-  Copy/ Paste or Symbol Libraries (handy for
-  common items such as drives, staterooms and
-  so forth) and Replication/Duplication (for quickly
-  placing multiples of an item).
+tools if you are using any, such as Grid (used
+to help determine the size of areas), Snap and
+Alignment (can help with the placement of items),
+Copy/ Paste or Symbol Libraries (handy for
+common items such as drives, staterooms and
+so forth) and Replication/Duplication (for quickly
+placing multiples of an item).
 
 STEP 1
 
@@ -9734,9 +9556,9 @@ you have not used symbols to represent them. Now
 you are ready to take to the space lanes and use your
 deck plan in its first boarding action!
 
-Creating Deck plans
 
-# F IGHTERS
+
+# FIGHTERS
 
 The popular image of the space fighter pilot is of a
 maverick, care-free hotshot, who bucks authority
@@ -9755,7 +9577,7 @@ For the purposes of these rules, a fighter is generally
 considered to be an armed small craft of no more than
 50 tons and at least Thrust 5. However, the Referee
 might find it useful to extend this definition to cover
-additional craft. For example, a ‘torpedo boat’ might
+additional craft. For example, a ‘torpedo boat' might
 be a 95-ton, Thrust 4 spacecraft but still have a place
 within the fighter family.
 
@@ -9795,11 +9617,7 @@ Fleet Battles on Page 105.
 HULL POINTS
 
 
-Total the Hull points for every fighter in the squadron
-
-- this becomes the total Hull score for the entire
-
-squadron. However, while large ships can absorb some
+Total the Hull points for every fighter in the squadron - this becomes the total Hull score for the entire squadron. However, while large ships can absorb some
 damage before suffering adverse effects, fighters are
 a lot more fragile, typically built for performance rather
 than durability. The Referee should divide the total
@@ -9842,9 +9660,7 @@ actions, in the same way as crew on board a ship can.
 
 All weapons of the same type within a squadron make
 a single attack roll, gaining DM+1 to the attack roll for
-every fighter after the first in the squadron. Resolve
-
-damage as you would for a missile salvo, rolling once
+every fighter after the first in the squadron. Resolve damage as you would for a missile salvo, rolling once
 for damage, applying any armour and screens, and
 then multiplying by the effect.
 
@@ -9881,7 +9697,7 @@ A dogfight starts as soon as a craft ends its manoeuvre
 step within Close or Adjacent range of an enemy and
 ends when a craft moves beyond close range.
 
-Fighters
+
 
 Light Fighter
 10 Tons
@@ -9933,7 +9749,7 @@ POINT DEFENCE
 
 
 While the common perception of a fighter is as an
-attack platform or a ‘barrier’ to incoming enemies, they
+attack platform or a ‘barrier' to incoming enemies, they
 are often employed in a defensive role when missiles
 are flying through space, providing another layer of
 point defence for a fleet.
@@ -9949,7 +9765,7 @@ suitably placed and they have a Thrust score higher
 than that of the missile salvo, fighters may perform the
 point defence action against any missile salvo while it is
 travelling to the target – this can be many thousands of
-kilometres away from the salvo’s target.
+kilometres away from the salvo's target.
 
 Because space is very large, the chances of a fighter
 being in the right place to intercept fast-moving
@@ -9980,7 +9796,7 @@ range of the carrier at the beginning of the attempt.
 DM-1 is applied to this check for every point of Thrust
 expended by the fighter or the carrier in the round in
 which it is recovered. This is commonly done when
-the fighters come in ‘hot’ from combat and need to be
+the fighters come in ‘hot' from combat and need to be
 recovered quickly or when the carrier itself is forced to
 take evasive manoeuvres.
 
@@ -9996,9 +9812,9 @@ internal to ships and so are not properly armoured and
 the armour mounted on fighters is designed to protect it
 from incoming fire, not clumsy flying.
 
-Fighters
 
-# F LEET BATTLES
+
+# FLEET BATTLES
 
 Most space combat encounters involve just a handful
 of ships. For small battles like these, the space combat
@@ -10024,7 +9840,7 @@ if the Travellers have less interest in going through
 fleet combat step-by-step, the Referee can run the
 battle ahead of time, recording the events of each
 round so they can be conveyed to the Travellers as
-events transpire. Should the Travellers’ actions alter
+events transpire. Should the Travellers' actions alter
 the course of events, simply adjust the results; a
 pre-set fleet combat game need not be a railroad that
 the Travellers are forced to ride. Use the generated
@@ -10061,7 +9877,7 @@ gunnery officer and so on.
 
 To command a fleet, a capital ship must have a
 command bridge, As described under Install Bridge, on
-page 19. If the Travellers are the officers of the fleet’s
+page 19. If the Travellers are the officers of the fleet's
 flagship, then making a fleet combat session engaging
 might be as simple as allowing them to devise a
 strategy and execute the plan as a group, deferring
@@ -10484,7 +10300,7 @@ FLEET EVALUATION
 
 To determine the outcome of a fleet battle, there must
 be an evaluation of the forces involved. This includes a
-description of each fleet and a summary of each ship’s
+description of each fleet and a summary of each ship's
 key offensive and defensive capabilities. Use a Fleet
 Sheet to list all the ships of both fleets, and a Fleet
 Ship Sheet to record information for each ship involved
@@ -10534,7 +10350,7 @@ The missile Offensive DM is recorded as follows:
 - Add the rating of any Launch Solution software.
 - Add +1 if the ship is TL12–14, and +2 if it is TL15.
 
-Fleet Battles
+
 
 List the two Offensive DMs, separated by a slash. For
 example, the Pantheress has a Crew Skill score of 1,
@@ -10566,12 +10382,12 @@ level, refer to the Naval Campaign Sourcebook
 from the Element Class Cruisers boxed set. Naval
 campaigns use the Crew Effectiveness Index (CEI) to determine the abilities and effectiveness
 of a ship crew. The index takes into account a
-more complex evaluation of the crew’s skill levels
+more complex evaluation of the crew's skill levels
 and provides a Task DM for various CEI levels.
-Also taken into consideration is the ship’s recent
+Also taken into consideration is the ship's recent
 performance and readiness.
 
-The CEI is used to calculate the Effective CEI (ECEI), a measure of the ship’s current readiness
+The CEI is used to calculate the Effective CEI (ECEI), a measure of the ship's current readiness
 and experience. A ship that is fresh from the fight
 and victorious in recent battles will have a higher
 rating, which enhances its Task DM. Likewise,
@@ -10584,19 +10400,15 @@ determine Morale, which plays a significant factor
 in fleet combat. See the section on Morale on
 page 122.
 
-Fleet Battles
+
 
 Thrust and Jump
 These are the available Thrust and maximum jump
 scores.
 
 Armour
-Divide the ship’s Armour by 3.5, rounding up. For
-example, the Tigress-class dreadnought has Armour
-
-17. Divide that value by 3.5 and round up for a fleet
-
-combat Armour 5.
+Divide the ship's Armour by 3.5, rounding up. For
+example, the Tigress-class dreadnought has Armour 17. Divide that value by 3.5 and round up for a fleet combat Armour 5.
 
 Defensive DM
 This is an overall score that represents several different
@@ -10614,7 +10426,7 @@ adding an additional 2. Adding these values together,
 we have a total Defensive DM of 6.
 
 Auto-Repair
-The rating of the ship’s Auto-Repair software, if any.
+The rating of the ship's Auto-Repair software, if any.
 
 Adjusted Hull Points
 As with the normal space combat rules, the fleet
@@ -10642,7 +10454,7 @@ The ship ignores all damage from ion weapons.
 
 Reflec Reflec Armour Increase Armour against turret weapons by +10%, rounding up.
 
-Hull points can be found on each ship’s stat sheet.
+Hull points can be found on each ship's stat sheet.
 For example, the Tigress-class dreadnought
 has Hull 366,666. "Divide the Hull Points by 3.5,
 rounding up. Therefore, the Tigress fleet combat
@@ -10729,7 +10541,7 @@ they do in space combat. Missiles and torpedoes
 have a Damage value just like other weapon systems.
 However, they do not have Damage Multiples. Instead,
 the number of missiles or torpedoes that make it
-through a ship’s defences becomes the multiple.
+through a ship's defences becomes the multiple.
 
 Ion Weapons
 Weapon Effect per Weapon
@@ -10744,7 +10556,7 @@ ion weapon effect. This number is inflicted upon the
 power system of the target ship, which must then make
 power-budget decisions that last one or more rounds.
 In fleet combat, this is simplified. Divide the total ion
-weapon damage by the ship’s Hull points, rounding
+weapon damage by the ship's Hull points, rounding
 down, and check the Ion Damage table for the results.
 
 For example, if an Ion weapon system inflicts 30,000
@@ -10756,17 +10568,17 @@ result of 2 may alternatively result in the temporary loss
 of 1 Thrust and 1 weapon system for the round.
 
 The effect lasts for one round unless the attacking
-ship’s Offensive DM is twice the Defensive DM of the
+ship's Offensive DM is twice the Defensive DM of the
 target ship, in which case it lasts for two rounds. Note
 that hardened systems are immune to ion weapons.
 
-Fleet Battles
+
 
 **Salvo Defence:** This score is applied against salvoes
 of missiles and torpedoes. Salvo defence is recorded
 for four separate categories: point defence weapons,
 laser turrets, repulsors and electronic warfare. Add
-the results of all four categories to obtain the ship’s
+the results of all four categories to obtain the ship's
 salvo defence pool. This pool is used for missile and
 torpedo defence over the course of a round and is
 restored to maximum in the following round provided
@@ -10852,7 +10664,7 @@ Nuclear 20
 Plasma 10
 Standard 6
 
-Fleet Battles
+
 
 
 
@@ -10880,7 +10692,7 @@ by the Pantheress. The class is the fighter
 class. For example, Heavy Fighter.
 
 Crew Skill: The Crew Skill is usually the
-same as the squadron’s mothership but may
+same as the squadron's mothership but may
 be different under various circumstances. For
 example, it could be one level lower if it is a
 new and very green squadron, or it might be
@@ -10891,9 +10703,7 @@ Weapons: List each weapon, its range
 and damage value, obtained from the Fleet
 Combat Weapons or Missile and Torpedo
 Weapons table. When evaluating the range
-of fighter weapons, be sure to consider the
-
-range limitations of single Firmpoint-mounted
+of fighter weapons, be sure to consider the range limitations of single Firmpoint-mounted
 weaponry if the fighters in the squadron are
 equipped with them. See Chapter 2: Weapons
 and Screens for more information.
@@ -10918,19 +10728,19 @@ Defensive DM: Calculated as follows.
 Thrust: The maximum Thrust rating of the
 fighters in the squadron.
 
-Armour: Divide the ship’s Armour by 3.5,
+Armour: Divide the ship's Armour by 3.5,
 rounding up. For example, the light fighter has
 Armour 2. Divide that value by 3.5 and round
 up for squadron Armour 1.
 
 Hull Points: Obtain the Hull points from the
-fighter’s description and multiply it by the
+fighter's description and multiply it by the
 number of fighters in the squadron. Every time
 a number of Hull points equal to an individual
-fighter’s Hull points is eliminated during
+fighter's Hull points is eliminated during
 combat, one fighter is lost from the squadron.
 
-Fleet Battles
+
 
 STARTING A BATTLE
 
@@ -10961,7 +10771,7 @@ Distant More than 50,000km
 Most encounters start at Very Long or Distant ranges,
 when the combatants first detect one another. However,
 actual combat starts when one of the fleets moves into
-range of their opponents’ weapons, typically Long range.
+range of their opponents' weapons, typically Long range.
 For a more detailed approach, see Fleet Manoeuvres on
 page 122, which uses a Fleet Manoeuvre Chart to more
 closely monitor movement and range.
@@ -10969,7 +10779,7 @@ closely monitor movement and range.
 **SELECT A FLAG SHIP**
 Before the battle, each side must select its flag ship. A
 flag ship must be equipped with a command bridge and
-contains a fleet’s commanding officer and staff. As long
+contains a fleet's commanding officer and staff. As long
 as the flag ship remains in the battle, its fleet receives
 DM+1 during the Morale check that is made each
 round. Keep in mind that neither side in a fleet battle
@@ -10978,14 +10788,14 @@ usually the largest, most fearsome ship in the fleet.
 
 **INITIATIVE**
 Initiative is rolled for each ship in the battle, as follows:
-2D + the ship’s Crew Skill + the fleet’s Thrust score +
+2D + the ship's Crew Skill + the fleet's Thrust score +
 Offensive DM.
 
 #### FLEET COMBAT ROUNDS
 
 For a more streamlined approach, simply roll Initiative
 once for each fleet, using an average or approximation
-of the ships’ Crew Skill scores.
+of the ships' Crew Skill scores.
 
 TACTICS (NAVAL) SKILL
 In addition, the commander of each fleet may make a
@@ -11035,7 +10845,7 @@ is needed. However, for more complex encounters,
 vector-based movement rules may be included, as
 described on page 116.
 
-Fleet Battles
+
 
 
 
@@ -11069,24 +10879,18 @@ escape the battle.
 VECTOR
 
 
-A fleet’s vector – its direction and accumulated velocity
-
-- are only important if two fleets engage each other in
-
-a limited battlespace. The reasons this might occur are
+A fleet's vector – its direction and accumulated velocity - are only important if two fleets engage each other in a limited battlespace. The reasons this might occur are
 many. If one fleet is defending a world, moon, orbital
 starport, planetoid or other large celestial object, then
 the battle might well occur in a limited sphere. A fleet
 might be jockeying for access to a gas giant or other
 fuel source, positioned in high guard over squadrons
-that are wilderness refuelling or simply ‘bugging out’
+that are wilderness refuelling or simply ‘bugging out'
 towards jump point with great haste.
 
 Whatever the reason, there are times when fleet
 combat occurs in a limited space. Under these
-circumstances, it is important to keep track of
-
-direction and how many successive rounds are spent
+circumstances, it is important to keep track of direction and how many successive rounds are spent
 accelerating in one direction. For example, a fleet or
 squadron that applies 6 Thrust in one direction for two
 rounds moves at twice the speed had it only applied 6
@@ -11116,9 +10920,9 @@ entire subsector.
 
 For the purposes of fleet combat, combatants are
 assembled in close formation, creating a ‘plane of
-battle’ against an opposing fleet. The term hails back
+battle' against an opposing fleet. The term hails back
 to the age of sail, in which oceangoing naval ships
-would form a ‘line of battle’, which was intended
+would form a ‘line of battle', which was intended
 to prevent friendly fire. In three-dimensional space
 combat, the notion of a plane represents the ships of a
 fleet occupying positions in space roughly equidistant
@@ -11136,11 +10940,7 @@ Short 11–1,250km 2 Ships in same orbital path
 Medium 1,251–10,000km 5 Surface to orbit
 Long 10,001–25,000km 10 Near a planet
 Very Long 25,001–50,000km 25 Within jump limit
-Distant More than 50,000km 50 Distant ships
-
-Fleet Battles
-
-the notion of a plane of battle is convenient, in practice,
+Distant More than 50,000km 50 Distant ships the notion of a plane of battle is convenient, in practice,
 distances and formations fluctuate. Generally speaking,
 the ships of a fleet attempt to stay within Medium range
 of each other while maintaining a plane of battle that
@@ -11229,7 +11029,7 @@ As described in Fighter Squadrons, the fighters in
 a squadron are considered to be a single ship for
 purposes of attacks.
 
-Fleet Battles
+
 
 
 
@@ -11255,7 +11055,7 @@ and bay weapons, go through the following:
 - Obtain the base Damage value of the weapon, listed
   in the Fleet Combat Weapons table on page 112.
 - For all weapons except meson guns (which ignore
-  armour), subtract the target ship’s Armour from the
+  armour), subtract the target ship's Armour from the
   adjusted Damage value.
 - Fusion gun and railgun bays add DM+1 when
   attacking armoured ships.
@@ -11269,10 +11069,10 @@ and bay weapons, go through the following:
 
 For example, a cruiser fires a battery of 50 particle
 beam bays at a fleet carrier. The base Damage value
-for the weapon is 6. Subtract the fleet carrier’s fleet
+for the weapon is 6. Subtract the fleet carrier's fleet
 combat Armour value of 3. The adjusted Damage
 value is3 (6-3). Multiply the adjusted damage by the
-weapon’s Damage Multiple, which is 10 for small bays,
+weapon's Damage Multiple, which is 10 for small bays,
 for a result of 30 and then multiply that number by
 the total number of small bays used, which is 50 for a
 damage subtotal of 1,500.
@@ -11287,21 +11087,17 @@ Calculate the attack effectiveness by adding up
 the following factors and then consult the Attack
 Effectiveness table for the final Damage Multiple:
 
-- Subtract the target ship’s Defensive DM from
+- Subtract the target ship's Defensive DM from
   the Offensive DM of the attacking ship for the
   base Attack Factor.
 - Add +1 if attacking a target at Short range.
-- Subtract -2 if attacking a target at Long range or
+- Subtract -2 if attacking a target at Long range or subtract -4 if the target is at Very Long range.
 
-subtract -4 if the target is at Very Long range.
-
-- Subtract -2 if attacking a target (or squadron of
-
-targets) who are each less than 100 tons in size
+- Subtract -2 if attacking a target (or squadron of targets) who are each less than 100 tons in size
 with any weapon other than turrets or barbettes.
 
 The result is then compared to the Attack
-Effectiveness table and the weapon system’s Damage
+Effectiveness table and the weapon system's Damage
 is modified as shown.
 
 Note that all weapon systems cannot attack a target
@@ -11340,15 +11136,15 @@ exceedingly ineffective.
 Well-armoured ships are impervious to attacks
 from weapons that do not inflict enough damage
 to penetrate their armoured outer shells. If a
-weapon’s Damage value is less than half of a
-ship’s Armour, it does no damage. As described in
+weapon's Damage value is less than half of a
+ship's Armour, it does no damage. As described in
 Fleet Evaluation, Armour is determined by dividing
 its original Armour value by 3.5 and rounding up
 for the purposes of fleet combat. For example, a
 ship with Armour 25 has a fleet combat Armour 8 (25/3.5, rounded up). Weapons whose Damage
 rating is 4 or less do no damage to this ship.
 
-Fleet Battles
+
 
 apply all range, target size and fire control software
 DMs. If a hit is scored, reduce the Damage score
@@ -11374,7 +11170,7 @@ missiles with Thrust 10. Advanced missiles have Thrust
 15 and must be calculated separately (see the Missile
 Flight Times table on page 37)
 
-Apply the ship’s Salvo Defence score, recorded on its
+Apply the ship's Salvo Defence score, recorded on its
 Fleet Combat Ship Sheet, against incoming missiles. After
 determining how many missile and torpedo weapons
 successfully reach their target, pDetermine damage by
@@ -11383,7 +11179,7 @@ the following:
 - Obtain the base Damage value of the missiles or
   torpedoes, listed in the Fleet Combat Missile and
   Torpedo Damage table on page 36.
-- Subtract the target ship’s Armour from the adjusted
+- Subtract the target ship's Armour from the adjusted
   Damage value.
 - Multiply the adjusted damage by the number of
   missiles that detonate on target.
@@ -11410,8 +11206,8 @@ SANDCASTER DEFENCE
 Sandcasters reduce the amount of damage incurred
 from laser, energy (fusion and plasma guns) and particle
 beam weapons. To determine the damage reduction,
-add the Crew Skill score to the ship’s Defensive DM and
-then subtract the opposing ship’s Offensive DM to obtain
+add the Crew Skill score to the ship's Defensive DM and
+then subtract the opposing ship's Offensive DM to obtain
 the Sandcaster Effectiveness score.
 
 Sandcaster Effectiveness
@@ -11432,18 +11228,18 @@ Some weapons have special effects beyond their
 normal damage-dealing capabilities. These cases are
 described here.
 
-Antiradiation Torpedo: A target’s Defensive DM is
+Antiradiation Torpedo: A target's Defensive DM is
 halved (round down) against a salvo of these torpedoes.
 Meson Weapons: These weapons do not have their
-damage reduced by a target’s Armour. The Radiation
+damage reduced by a target's Armour. The Radiation
 trait from meson weapons ignores the Antirad trait.
 Multi-warhead Missiles/Torpedoes: Reduce the
-target’s Salvo Defence by 20% against this weapon.
+target's Salvo Defence by 20% against this weapon.
 
 CRITICAL HITS
 
 
-Critical hits occur after each 10% increment of a ship’s
+Critical hits occur after each 10% increment of a ship's
 adjusted hull points are depleted. Offensively superior
 ships with well-trained crews can score additional
 Critical Hits. Add the Offensive DM to the Crew Skill
@@ -11464,7 +11260,7 @@ following circumstances:
 - Spinal mount weapons can cause critical hits on
   ships of all sizes.
 
-Fleet Battles
+
 
 
 
@@ -11476,13 +11272,11 @@ Location
 
 1 2 3 4 5 6
 
-Sensors
+
 
 reduced by -1.Offensive DM Sensors damaged.
 
-disabled. Random sensor
-
-destroyed.Random sensor
+disabled. Random sensor destroyed.Random sensor
 
 DM reduced by -2.damaged. Offensive Sensor station links
 
@@ -11630,7 +11424,7 @@ takes 3D damage.destroyed. Occupant random bridge station Computer disabled and
 
 increased by +13D damage. Hull Severity destroyed. Occupant takes Random bridge station
 
-Fleet Battles
+
 
 Whenever a Critical Hit results, first roll on the Critical
 Hit Location table and then check the results on the
@@ -11735,7 +11529,7 @@ in the sub-1,000-ton range, this is a niche case
 but bears mention in the event that creative fleet
 admirals want to put them to this use.
 
-Fleet Battles
+
 
 
 
@@ -11792,9 +11586,7 @@ After a dispersal, the ships are divided into separate
 fleets, flotillas, squadrons or other derivatives of the
 original fleet. Create separate Fleet Sheets for each newly
 formed unit. Should the dispersal result in the extraction
-of a very small group, perhaps 1–3 ships, and that group
-
-includes one or more of the Travellers, the Referee should
+of a very small group, perhaps 1–3 ships, and that group includes one or more of the Travellers, the Referee should
 consider using the normal space combat rules instead
 of the fleet combat rules presented in this chapter for the
 actions of the new unit. While the fleet combat rules scale
@@ -11826,7 +11618,7 @@ include the following:
 - +1 if 50% or more of the ships in the opposing fleet
   are eliminated.
 - +1 if the opposing flagship is eliminated.
-- -1 for each 25% of one’s own ships that are
+- -1 for each 25% of one's own ships that are
   eliminated.
 - -1 if own flagship is eliminated.
 
@@ -11834,7 +11626,7 @@ FLEET MANOEUVRES
 
 
 When using the Fleet Manoeuvre Chart, the Referee
-must select a ‘fixed’ point in space around which
+must select a ‘fixed' point in space around which
 all ships and squadrons manoeuvre. This may be a
 planet or moon, a space station or perhaps a convoy
 travelling at a fixed velocity. This fixed point is the
@@ -11850,7 +11642,7 @@ be confused with the sector maps used to chart star
 systems). These allow you to plot the position of ships
 relative to the fixed point and one another.
 
-Fleet Battles
+
 
 Close
 
@@ -12098,7 +11890,7 @@ along a path that requires the least amount of Thrust.
 CELESTIAL TERRAIN
 
 
-Objects in space may become part of the ‘battlefield’
+Objects in space may become part of the ‘battlefield'
 in fleet combat. Such objects include gas giants, rocky
 planets, planetoids and space stations. Under specific
 circumstances, a fleet is entitled to certain benefits due
@@ -12117,12 +11909,12 @@ a fighter squadron may use a planetoid of reasonable
 size (one kilometre or larger in diameter), a space
 station or similarly sized object in the same manner.
 However, this might put said objects in jeopardy if the
-opposing fleet decides to ‘shoot through’ the object if it
+opposing fleet decides to ‘shoot through' the object if it
 has the firepower to do so.
 
-Fleet Battles
 
-# B OARDING ACTIONS
+
+# BOARDING ACTIONS
 
 Being boarded can be as simple as giving another
 spacecraft permission to dock and then allowing an
@@ -12192,10 +11984,10 @@ ROUTINE INSPECTIONS
 
 There are many types of boarding actions but each
 starts with the approach of a ship, linkage of the two
-ships and contact between members of each ship’s
+ships and contact between members of each ship's
 crew. Boarding actions are rarely welcome and,
 even if expected, they are typically a diversion from
-the Travellers’ ultimate goal: arrival at a starport, a
+the Travellers' ultimate goal: arrival at a starport, a
 meeting with another ship, departure from a world or
 some other objective.
 
@@ -12223,7 +12015,7 @@ equipment might be less impressive.
 
 
 
-BOARDING ACTIONS
+
 
 
 
@@ -12301,7 +12093,7 @@ FIGHTING CEASES
 
 
 
-BOARDING ACTIONS
+
 
 
 
@@ -12319,7 +12111,7 @@ chance that they are interstellar pirates, terrorists or
 other malcontents who could be armed and dangerous.
 Boarding parties must be prepared for this possibility
 because their lives might very well depend upon it.
-Preventing a ‘reverse boarding’ by sealing the airlock is
+Preventing a ‘reverse boarding' by sealing the airlock is
 standard operating procedure.
 
 After the boarding party is inserted, observation of the
@@ -12328,7 +12120,7 @@ the boarding ship or with personnel placed on the
 inside of their own airlock door. After entering, most
 boarding parties place one or two guards at the airlock
 door of the ship they have boarded. Some close the
-boarded ship’s door but some – equipped with vacc
+boarded ship's door but some – equipped with vacc
 suits or similar equipment – prefer to keep it open as an
 insurance policy, sometimes even barring it from being
 shut. Should things go awry, the crew of a boarded
@@ -12368,7 +12160,7 @@ densitometers, life scanners and neural activity
 sensors. The job of the boarding party in such cases
 is more psychological in nature: to impose authority,
 intimidate or to determine the nature and motives of
-the ship’s crew. Other boarding parties have lower
+the ship's crew. Other boarding parties have lower
 technology and might take hours since they must
 perform the inspection manually.
 
@@ -12413,7 +12205,7 @@ Amber Zone DM+2
 Red Zone DM+4
 Other (war, political strife, pandemic, etc.) DM+1
 
-BOARDING ACTIONS
+
 
 
 
@@ -12441,8 +12233,8 @@ Pulling rank to prevent a boarding party from inspecting
 the ship: Difficult (10+) Diplomat check (1D minutes, EDU)
 or Average (8+) Diplomat check (1D minutes, SOC).
 Cooling things down if a disagreement occurs between
-the ship’s crew and the boarding party: Opposed check,
-Persuade or Diplomat (SOC) by a member of the ship’s
+the ship's crew and the boarding party: Opposed check,
+Persuade or Diplomat (SOC) by a member of the ship's
 crew vs. Leadership (SOC) by the boarding party.
 Preventing a boarding party from seeing something
 you do not want them to see: Opposed Deception (DEX, INT or SOC depending on how the skill is used)
@@ -12461,27 +12253,27 @@ and what they can expect to happen next.
 FORCED BOARDING
 
 
-The Travellers’ ship might be subjected to forced
+The Travellers' ship might be subjected to forced
 boarding by a variety of parties including naval patrols,
-pirates or corsairs, rival groups (a.k.a., ‘the bad guys’ in
+pirates or corsairs, rival groups (a.k.a., ‘the bad guys' in
 a given adventure) and others.
 
 Naval patrols do not typically engage in a forced
 boarding unless provoked to do so. Circumstances
 under which this can happen include – but are not
 limited to – the Travellers evading a routine inspection,
-the Travellers’ ship being recognised (rightly or
+the Travellers' ship being recognised (rightly or
 wrongly) as one that was involved in criminal activity or
-the ship’s transponder broadcasting conflicting data.
+the ship's transponder broadcasting conflicting data.
 
 Pirates and corsairs board ships for obvious reasons
 but the differences between the two should be
 noted. Pirates are criminals who want to steal the
-Travellers’ cargo (and possibly their entire ship!) for
+Travellers' cargo (and possibly their entire ship!) for
 their own personal gain. Corsairs are commerce
 raiders, working to disrupt the flow of trade for political
 reasons. Both are thieves who intend to abscond
-with the Travellers’ freight and cargo but pirates are
+with the Travellers' freight and cargo but pirates are
 potentially more desperate and hence dangerous,
 while corsairs are, on some level, soldiers in the
 employ of a planetary or interstellar government. The
@@ -12505,8 +12297,8 @@ more dangerous in space combat.
 
 Other groups that might oppose the Travellers include
 a wide range of possibilities but are most often ‘the
-villains’ of an adventure or campaign. Their motives
-vary but if they plan to board the Travellers’ ship, they
+villains' of an adventure or campaign. Their motives
+vary but if they plan to board the Travellers' ship, they
 presumably want something or someone aboard the
 ship; otherwise, they would simply attempt to destroy it.
 
@@ -12530,7 +12322,7 @@ to avoid fighting altogether, jumping out of the system or
 microjumping to another location within the system ends
 the Approach phase immediately.
 
-BOARDING ACTIONS
+
 
 
 
@@ -12538,7 +12330,7 @@ Such encounters might begin with radio contact.
 This is an opportunity for roleplaying. The crew of
 the opposing ship might declare their intentions... or
 not. Communications offer the Travellers the chance
-to determine their opponents’ objectives before a
+to determine their opponents' objectives before a
 conflict occurs. Harsh words and bold claims can
 make the encounter a rich one. Should the Travellers
 turn the tables on their would-be assailants, then
@@ -12546,11 +12338,7 @@ they can become the ones forming a boarding party if
 they so desire.
 
 Regardless of who boards whom, the Approach phase
-begins with space combat – or the avoidance thereof
-
-- and ends when one ship has been subdued, unable
-
-or unwilling to apply Thrust, and therefore powerless to
+begins with space combat – or the avoidance thereof - and ends when one ship has been subdued, unable or unwilling to apply Thrust, and therefore powerless to
 prevent a boarding action.
 
 CONTACT
@@ -12569,17 +12357,13 @@ maintenance hatch) or create one using weaponry or
 explosives. Free boarding is extremely dangerous but
 well-trained teams can pull it off. The advantage of
 free boarding is that it reduces the threat of damage
-to one’s own ship or the possibility of being ‘reverse
-boarded’ after losing the fight during the Conflict phase.
+to one's own ship or the possibility of being ‘reverse
+boarded' after losing the fight during the Conflict phase.
 
 While the crew of a ship being boarded may have
 given up on using thrust to get away or prevented from
 doing so due to a damaged or disabled manoeuvre
-drive, there are still mischievous – if potentially costly
-
-- ways that they can stave off a boarding party. Most
-
-ship’s weapons are highly ineffective against small
+drive, there are still mischievous – if potentially costly - ways that they can stave off a boarding party. Most ship's weapons are highly ineffective against small
 targets such as a free-boarding party but sandcasters
 can be used against them with deadly results. Clever
 engineers can engage the life support system to
@@ -12637,8 +12421,8 @@ however, only forced linkage apparatuses do so
 without potential harm to both ships.
 
 Ramming a ship to reduce its tumble can be costly.
-The attacking ship’s Pilot must make a Difficult (10+)
-Pilot check (DEX) to close the gap and ‘gently’ ram
+The attacking ship's Pilot must make a Difficult (10+)
+Pilot check (DEX) to close the gap and ‘gently' ram
 the target ship. Failure results in damage to both
 ships equal to damage dice of 2 + the negative Effect
 as a positive modifier. For example, a failure with an
@@ -12647,7 +12431,7 @@ damage as normal. Each successful ramming action
 reduces the tumbling severity by one, regardless of
 the Effect of the Pilot check.
 
-BOARDING ACTIONS
+
 
 
 
@@ -12667,7 +12451,7 @@ ENTRY
 
 The simplest entry between two ships is via a pair of
 mated airlocks. If this is the route taken, the boarding
-party makes their way to the opposing ship’s airlock door
+party makes their way to the opposing ship's airlock door
 and, if allowed to enter, simply walk through the door
 after it is opened. However, forced boarding is rarely that
 easy. There is the danger of booby-trapped airlocks for
@@ -12694,9 +12478,7 @@ Breach the ship with personal weaponry: Routine (6+)
 Gun Combat (energy) check (DEX) or Average (8+)
 Gun Combat (slug) check (DEX). Short or close range
 is required, with no range bonuses since the target for
-a breach must be very small. The difficulty does not
-
-reflect how hard it is to target the ship but the danger
+a breach must be very small. The difficulty does not reflect how hard it is to target the ship but the danger
 to the attacker. If failed, the Traveller takes 1D damage
 for every negative point of Effect. This reflects ricochets
 or energy blowback. Firing at greater range eliminates
@@ -12708,7 +12490,7 @@ Starship Components table for how many rounds must
 be accurately fired to breach ship doors and surfaces.
 
 If boarders are committed to using weaponry to breach
-a ship, ship’s weaponry (for example, a pulse laser
+a ship, ship's weaponry (for example, a pulse laser
 turret) is far more effective but can cause more damage
 than desired. Keep in mind that these weapons inflict
 spacecraft-scale damage, as described in the Traveller
@@ -12748,7 +12530,7 @@ Airlock Door, Armoured Ship 10 +1 per point of Armour 35 + 1 per point of Armour
 Hull, Unarmoured Ship 50 250
 Hull, Armoured Ship 100 + 10 per point of Armour 400 + 20 per point of Armour
 
-BOARDING ACTIONS
+
 
 
 
@@ -12756,7 +12538,7 @@ Cutting Tools
 
 Type TL Cut Rate Cost Description
 Emergency Cutter 10 1 Cr1000 Basic light hull-cutting device. Most starships have one in their
-ship’s locker for emergency operations.
+ship's locker for emergency operations.
 Rescue Cutter 9 3 Cr3000 A standard hull-cutting device, typically carried by rescue ships
 and military vessels for emergency use.
 Heavy-Duty Cutter 11 6 Cr5000 A powerful plasma cutter typically mounted on a powered
@@ -12803,11 +12585,9 @@ virtually impossible to use, incurring DM-4.
 
 While hand grenades can be used during a
 boarding action, they are highly random and
-destructive, and might cause a lot of unexpected
-
-damage. There is also a great deal of danger
+destructive, and might cause a lot of unexpected damage. There is also a great deal of danger
 in ricochets or poorly thrown grenades, which
-can end up being detonated amidst one’s allies
+can end up being detonated amidst one's allies
 instead of their intended targets. Most participants
 on either side of a boarding action do not use
 grenades for the above reasons.
@@ -12839,7 +12619,7 @@ protection, a boarding party might select heavier
 armour despite the disadvantages but most opt for
 something lighter.
 
-BOARDING ACTIONS
+
 
 
 
@@ -12851,7 +12631,7 @@ else who does not have a vacc suit.
 
 These things should be taken under consideration when
 breaching a civilian ship. The Referee should roll 2D: on
-a result of 2–8, the ship’s atmosphere has been properly
+a result of 2–8, the ship's atmosphere has been properly
 stored but on 9–12, the breached section retained its
 atmosphere and sudden decompression occurs. Refer
 to Atmosphere and Vacuum in the Traveller Companion
@@ -12901,7 +12681,7 @@ be overridden by using Intrusion software (refer to the
 
 Central Supply Catalogue), especially if employed by a
 skilled operator with Electronics (computers) skill and
-software of a higher Tech Level than that of the ship’s
+software of a higher Tech Level than that of the ship's
 computer (add DM+1 for each level of difference).
 
 If bridge controls are used to shut down controls in
@@ -12920,12 +12700,12 @@ For example, someone in Engineering can reacquire
 local control of the drives, power plant and life support
 systems of the ship. Note that this is limited to the
 individual section, so someone in engineering cannot
-then obtain control of the ship’s turrets, or vice versa.
+then obtain control of the ship's turrets, or vice versa.
 
 If the objective of the boarding party is more limited –
 for example, acquiring a specific item from the cargo
 hold, extracting a prisoner or capturing a specific
-individual – then all of the ship’s controls might remain
+individual – then all of the ship's controls might remain
 in the hands of the crew and may be used against the
 boarding party. If acquisition of the bridge is not an
 objective of a boarding action, the boarding party must
@@ -12937,11 +12717,7 @@ with as they arise.
 Armed combat aboard a ship has two important
 features that require further description: stacking
 and missed shots. Stacking is the order in which the
-boarding party or ship’s crew – or segment thereof
-
-- are arranged. Depending on which side an attack
-
-comes from, the first or last person in line receives the
+boarding party or ship's crew – or segment thereof - are arranged. Depending on which side an attack comes from, the first or last person in line receives the
 bulk of the attacks.
 
 After a successful roll to hit, roll 2D. On a 9 or less
@@ -12966,7 +12742,7 @@ a round from a weapon. Ricochets might even bounce
 back and hit the attackers. See the Missed Shots table.
 
 Ships with armoured bulkheads (see page 43) reduce
-the potential for damage to ship’s systems. Apply
+the potential for damage to ship's systems. Apply
 DM-1 to rolls on the Missed Shots table if armoured
 bulkheads are present where a firefight occurs.
 
@@ -13007,21 +12783,21 @@ and so forth) and must be completely replaced.
 
 Note that grenades or weapons with the Blast trait automatically register a Damage Threshold of 6D+.
 
-BOARDING ACTIONS
+
 
 
 
 
 
 The Conflict phase ends when either the boarding
-party or ship’s crew ceases attacking the other. For
+party or ship's crew ceases attacking the other. For
 surviving members of a boarding party that has failed
 to accomplish its objectives, this might include a retreat
 to their own ship, which prolongs the phase until all
 fighting has ended. Even when the boarding party
 successfully achieves its objectives – taking the bridge,
 engineering, weapons and so on – things become
-more complicated when some members of the ship’s
+more complicated when some members of the ship's
 crew refuse to surrender elsewhere in the ship. At
 this point, the boarding party must either search them
 out, persuade captured crew to get the holdouts to
@@ -13069,7 +12845,7 @@ The possibilities and the potential for drama are endless.
 A member of the boarding party gets lost and is taken
 hostage by the crew. The bridge is taken and the
 crew are ordered to stand down but some of the crew
-want to fight to the bitter end. In the ‘fog of war’, the
+want to fight to the bitter end. In the ‘fog of war', the
 wrong objective, prisoner or other target is extracted
 by the boarding party and they realise it only after
 disconnecting the airlock umbilical and flying away.
@@ -13084,12 +12860,8 @@ and the ship has been secured by either the boarding
 party or its crew. A boarding party whose objective is
 complete takeover of a ship must secure all sections,
 round up crew, identify and remove any booby traps,
-and ensure that all of the ship’s key components – or
-at least those not damaged during the boarding action
-
-- remain intact. While tasks like drive repair or getting
-
-key systems back online might still need to be done,
+and ensure that all of the ship's key components – or
+at least those not damaged during the boarding action - remain intact. While tasks like drive repair or getting key systems back online might still need to be done,
 the Secure phase is complete once one side has full
 control of the ship.
 
@@ -13101,7 +12873,7 @@ Sometimes the boarding party is defeated by the crew
 of the ship. In this case, the Secure phase is complete
 when all members of the boarding party have either
 been killed, neutralised, captured or forced back into
-their own ship. The term ‘secure’ is relative for the crew
+their own ship. The term ‘secure' is relative for the crew
 whose ship was disabled during the Approach phase.
 A vindictive attacker whose boarding party has failed
 must decide what to do next. They might leave the crew
@@ -13111,7 +12883,7 @@ with weaponry after disengaging or negotiate to obtain
 their objectives whether that be the ship itself or some
 other goal.
 
-BOARDING ACTIONS
+
 
 
 
@@ -13274,7 +13046,7 @@ Basic Ship Systems
 2
 Manoeuvre Drive
 4
-Sensors
+
 1
 Weapons
 3
@@ -13334,7 +13106,7 @@ Basic Ship Systems
 2
 Manoeuvre Drive
 6
-Sensors
+
 4
 Pulse Laser
 3
@@ -13555,7 +13327,7 @@ LEGEND
 
 1 square = 0.5 Ton
 
-The ship’s boat is both fast and versatile, making
+The ship's boat is both fast and versatile, making
 it a popular choice for auxiliary craft. While most
 commonly seen hauling small cargo and passenger
 
@@ -13583,7 +13355,7 @@ Manoeuvre Drive
 15
 
 loads between ships and worlds, in smaller
-militaries the ship’s boat is also used as a boarding
+militaries the ship's boat is also used as a boarding
 craft by marine assault teams.
 
 TL12^ TONS Cost (MCr)
@@ -13633,7 +13405,7 @@ SLOW BOAT
 
 
 The slow boat appears either as an early design of
-the ship’s boat, before power plants and manoeuvre
+the ship's boat, before power plants and manoeuvre
 drives become more efficient, or as an intentional
 
 Crew
@@ -13657,8 +13429,8 @@ Basic Ship Systems
 Manoeuvre Drive
 9
 
-throttling back of the ship’s boat performance. Either
-way, the slow boat is comparable to the ship’s boat
+throttling back of the ship's boat performance. Either
+way, the slow boat is comparable to the ship's boat
 but trades speed for cargo space.
 
 **TL12**^ **Tons Cost (MCr)**
@@ -13799,9 +13571,7 @@ SLOW PINNACE
 Like the slow boat, the slow pinnace trades speed
 and raw performance for increased cargo space,
 although this craft is based on the traditional pinnace.
-As a larger hull, it provides even more cargo carrying
-
-capacity than a slow boat and many are customised
+As a larger hull, it provides even more cargo carrying capacity than a slow boat and many are customised
 to become troop or vehicle transports, or to serve as
 fuel skimmers for larger ships.
 
@@ -14179,9 +13949,7 @@ Total: MCr3.83
 Gunship Module
 The Gunship module is a military version of the Vehicle
 Cradle module, designed to land troops and then
-provide fire support for them, retaining the passenger
-
-and vehicle carrying capacity but sacrificing all cargo
+provide fire support for them, retaining the passenger and vehicle carrying capacity but sacrificing all cargo
 space in exchange for Civilian Sensors, two sensor
 stations for gunners, a heavy gauss cannon in a
 fixed mount with four additional magazines (generally
@@ -14291,9 +14059,7 @@ The heavy fighter is an attempt to provide a powerful,
 fast, agile, armoured and dependable small craft
 for space superiority. It has bunking arrangements
 for crew comfort, which allow the craft to remain on
-duty for days, although the lack of common areas
-
-limits crew endurance and typically dictates patrols of
+duty for days, although the lack of common areas limits crew endurance and typically dictates patrols of
 no more than a week. Only a single gunner position
 is listed as the missiles are intended as standoff or
 bombardment ordnance, to be fired by the pilot when
@@ -14347,7 +14113,7 @@ Basic Ship Systems
 10
 Manoeuvre Drive
 45
-Sensors
+
 6
 Weapons
 4
@@ -14426,7 +14192,7 @@ Basic Ship Systems
 10
 Manoeuvre Drive
 45
-Sensors
+
 4
 Weapons
 1
@@ -14536,7 +14302,7 @@ Basic Ship Systems
 14
 Manoeuvre Drive
 42
-Sensors
+
 4
 Weapons
 2
@@ -14750,7 +14516,7 @@ Basic Ship Systems
 19
 Manoeuvre Drive
 10
-Sensors
+
 1
 
 only the passenger area is accessible to non-crew.
@@ -14951,7 +14717,7 @@ Manoeuvre Drive
 20
 Jump Drive
 20
-Sensors
+
 2
 Fuel Processor
 2
@@ -15144,7 +14910,7 @@ Manoeuvre Drive
 20
 Jump Drive
 20
-Sensors
+
 2
 Fuel Processor
 1
@@ -15242,12 +15008,10 @@ miners across the Third Imperium. Standard practice is to
 transport three miners, possibly with strength-enhancing
 exoskeletons and carrying portable laser drills to a loca-tion, fold away the passenger seats (increasing cargo
 space to 1.5 tons total), then use the buggy to ferry ore be-tween the mining site and a base camp (typically a Type-J
-seeker or ore-processing facility). The crane is equipped
-
-with short-range gravitic plates and a gripping claw
+seeker or ore-processing facility). The crane is equipped with short-range gravitic plates and a gripping claw
 to scoop up loose ore quickly, whether planetside or
 in space, with sufficient articulation to deposit it into
-the buggy. Skilled pilots often use the buggy’s gravitic
+the buggy. Skilled pilots often use the buggy's gravitic
 plating to speed up loading and unloading. Unlike
 prior generations of buggies, the modern version is
 not vacuum-sealed, instead relying on the crew to
@@ -15338,7 +15102,7 @@ Manoeuvre Drive
 20
 Jump Drive
 20
-Sensors
+
 3
 Weapons
 1
@@ -15417,7 +15181,7 @@ Manoeuvre Drive
 20
 Jump Drive
 40
-Sensors
+
 1
 Weapons
 18
@@ -15536,7 +15300,7 @@ systems and to travel between stars at a faster rate
 can more than make up for this in the hands of a
 clever captain. Due to its tight power budget, the ship
 must shut down its manoeuvre drive and engage in
-‘jump dimming’ – dimming the lights and otherwise
+‘jump dimming' – dimming the lights and otherwise
 briefly powering off some systems – to have enough
 power to jump.
 
@@ -15585,7 +15349,7 @@ Manoeuvre Drive
 20
 Jump Drive
 40
-Sensors
+
 1
 Fuel Processor
 2
@@ -15659,7 +15423,7 @@ space lanes while carrying a mixture of cargo and
 passengers. It is the archetypal tramp freighter
 and common among adventuring groups and
 mercenary bands, often retrofitted with turrets,
-weapons and other ‘special’ modifications. As such,
+weapons and other ‘special' modifications. As such,
 
 FREE TRADER **TYPE:A (BEOWULF CLASS)**
 
@@ -15716,7 +15480,7 @@ Manoeuvre Drive
 20
 Jump Drive
 20
-Sensors
+
 1
 Fuel Processor
 1
@@ -15858,7 +15622,7 @@ Manoeuvre Drive
 20
 Jump Drive
 40
-Sensors
+
 1
 Fuel Processor
 2
@@ -16006,7 +15770,7 @@ Basic Ship Systems
 40
 Manoeuvre Drive
 180
-Sensors
+
 5
 Weapons
 14
@@ -16107,7 +15871,7 @@ Manoeuvre Drive
 60
 Jump Drive
 60
-Sensors
+
 1
 Furl Processor
 3
@@ -16206,11 +15970,11 @@ Deck 1
 
 **YACHT**
 
-The yacht is a noble’s plaything, used to entertain
+The yacht is a noble's plaything, used to entertain
 friends and undertake political or commercial missions.
 The staterooms are all well-appointed but even they
 fail to make the grade in comparison to the luxury
-stateroom intended for the yacht’s owner. The yacht
+stateroom intended for the yacht's owner. The yacht
 
 YACHT
 
@@ -16240,7 +16004,7 @@ Manoeuvre Drive
 20
 Jump Drive
 20
-Sensors
+
 1
 Furl Processor
 1
@@ -16249,8 +16013,8 @@ Training Facilities
 
 **TYPE:Y**
 
-carries an air/raft and a ship’s boat within docking
-compartments; an ATV is also carried, with the ship’s
+carries an air/raft and a ship's boat within docking
+compartments; an ATV is also carried, with the ship's
 boat being used to ferry it from orbit to surface and
 back again.
 
@@ -16267,8 +16031,8 @@ Weapons — —
 Craft Docking Space (4 tons) 5 1.25
 Air/Raft — 0.25
 Docking Space (30 tons) 33 8.25
-Ship’s Boat — 7.58
-ATV (on ship’s boat) — 0.155
+Ship's Boat — 7.58
+ATV (on ship's boat) — 0.155
 Systems Fuel Processor (20 tons/day) 1 0.05
 Gourmet Kitchen (6 diners) 6 1.2
 Hot Tub (4 seats) 1 0.012
@@ -16449,7 +16213,7 @@ Manoeuvre Drive
 200
 Jump Drive
 260
-Sensors
+
 2
 Fuel Processor
 10
@@ -16598,7 +16362,7 @@ Manoeuvre Drive
 50
 Jump Drive
 200
-Sensors
+
 6
 Weapons
 28
@@ -16671,7 +16435,7 @@ to transport scientists and their equipment across
 the stars in order to conduct research, usually in
 remote locations. The ship itself is fitted with highly
 advanced sensors, while a pinnace can carry an ATV
-down to a planet’s surface in order to conduct field
+down to a planet's surface in order to conduct field
 expeditions. A special feature of this ship is that it is
 built so internal gravity can be created by spinning the
 
@@ -16699,18 +16463,18 @@ Manoeuvre Drive
 80
 Jump Drive
 80
-Sensors
+
 4
 
 hull. This is done to permit experiments to be carried
 out that might otherwise be affected by the gravitic
 plates installed as standard on all ships.
 
-The Laboratory Ship’s Research Pinnace is a
+The Laboratory Ship's Research Pinnace is a
 standard Pinnace, modified by replacing the cargo
 hold with a 19-ton Fuel/Cargo Container (consuming
 19.95 tons) and a 1-ton Fuel Processor, to allow for
-wilderness refueling or transporting the ship’s ATV.
+wilderness refueling or transporting the ship's ATV.
 
 TL12 Tons Cost (MCr)
 Hull '360 tons, Dispersed Structure — 9
@@ -16841,14 +16605,14 @@ Manoeuvre Drive
 160
 Jump Drive
 120
-Sensors
+
 2
 Weapons
 28
 Fuel Processor
 4
 
-a similar size. The auxiliary ship’s boat and G/
+a similar size. The auxiliary ship's boat and G/
 carrier on board, combined with a streamlined hull,
 allow the patrol corvette to pursue targets through
 atmospheres and down onto planetary surfaces,
@@ -16867,7 +16631,7 @@ Sensors Military Grade 2 4.1
 Weapons Triple Turrets (pulse lasers) x2 2 8
 Triple Turrets (missile racks) x2 2 6.5
 Craft Docking Space (30 tons) 33 8.25
-Ship’s Boat — 7.58
+Ship's Boat — 7.58
 Docking Space (15 tons) 17 4.25
 G/carrier — 11.58
 Systems Fuel Processor (80 tons/day) 4 0.2
@@ -16972,7 +16736,7 @@ Manoeuvre Drive
 40
 Jump Drive
 40
-Sensors
+
 1
 
 doors were larger, the subsidised merchant could
@@ -17162,7 +16926,7 @@ Manoeuvre Drive
 80
 Jump Drive
 120
-Sensors
+
 4
 Fuel Processor
 6
@@ -17345,7 +17109,7 @@ Basic Ship Systems
 80
 Manoeuvre Drive
 280
-Sensors
+
 15
 Weapons
 55
@@ -17355,7 +17119,7 @@ Medical Bay
 1
 
 The term boat means a non-starship, whether a gunboat,
-a ship’s boat or a system defence boat. Because non-starships can allocate more tonnage to power plants and
+a ship's boat or a system defence boat. Because non-starships can allocate more tonnage to power plants and
 weaponry, they can usually defeat a starship of equal
 tonnage. From this principle, the concept of the system
 defence boat has evolved. Fleets of such boats are
@@ -17473,15 +17237,15 @@ this class but whoever did it was clearly going for a purpose-built pirate
 ship. The manoeuvre drives are just strong enough to overtake most
 unarmed merchant ships. The turrets, despite being built to handle triple
 weapons, come with single weapons and extra space. The rated crew
-positions list ‘thugs’ where any decent ship would list ‘marines’. The low
+positions list ‘thugs' where any decent ship would list ‘marines'. The low
 berths, while of acceptable grade, are laid out to rack and stow unfortunate
 crew and passengers of the victim ships, whether to ransom or sell them
 as slaves, although their value is almost always secondary to that of the
 stolen ship. Even after fencing a stolen ship, paying off sponsors and so
-on, a Nishemani’s 10 crew can each look forward to receiving a significant
+on, a Nishemani's 10 crew can each look forward to receiving a significant
 fraction of a Megacredit for each successful raid. This has spurred enough
 pirate activity that many suspect the true purpose of this design is to
-destabilise the Third Imperium’s lifeblood of trade.
+destabilise the Third Imperium's lifeblood of trade.
 
 At one point it was feared there were almost a million of this ship in Imperial
 space, enough to gain the Type-P moniker. Subsequent studies suggest
@@ -17517,7 +17281,7 @@ Manoeuvre Drive
 120
 Jump Drive
 80
-Sensors
+
 6
 Low Berths
 2
@@ -17699,7 +17463,7 @@ Manoeuvre Drive
 60
 Jump Drive
 180
-Sensors
+
 1
 Biosphere
 1
@@ -17871,14 +17635,14 @@ The mercenary cruiser is built to carry small troop units for corporate,
 governmental or, more commonly, mercenary operations. It has enough
 space to carry a combat platoon of 30, plus crew and support personnel,
 along with their equipment, albeit in fairly cramped confines. The platoon
-can be deployed to a planet’s surface via the two modular cutters housed
+can be deployed to a planet's surface via the two modular cutters housed
 inside the ship. Two spare cutter modules can be carried in addition to those
 installed on the cutters, providing greater versatility in missions, although
 changing modules requires a delicate dance of launch, release, recovery
 and transfer of modules that can take up to an hour. Turrets are fitted as
 standard but neither weapons nor cutter modules are included, allowing
 maximum owner customisation, and it is a rare mercenary cruiser that is not
-armed to the teeth. A luxury stateroom is reserved for the ship’s owner.
+armed to the teeth. A luxury stateroom is reserved for the ship's owner.
 
 A common loadout for the cutters might be two Vehicle modules with AFVs,
 a Cargo module and a Fuel Skimmer module. A better-financed mercenary
@@ -17911,7 +17675,7 @@ Manoeuvre Drive
 120
 Jump Drive
 240
-Sensors
+
 2
 Weapons
 8
@@ -18232,7 +17996,7 @@ Manoeuvre Drive
 100
 Jump Drive
 100
-Sensors
+
 1
 Weapons
 3
@@ -18397,7 +18161,7 @@ Manoeuvre Drive
 600
 Jump Drive
 400
-Sensors
+
 6
 Weapons
 57
@@ -18644,7 +18408,7 @@ Manoeuvre Drive
 300
 Jump Drive
 400
-Sensors
+
 6
 Weapons
 78
@@ -18733,7 +18497,7 @@ converted into an orbital prison.
 Its true purpose was as an experimental platform, which helped the class
 gain access to black globe generators that are usually reserved for much
 larger ships. More than one was fitted with an experimental AI, which can be
-represented by adding a secondary Computer 35/bis (using ‘bis’ for Conscious
+represented by adding a secondary Computer 35/bis (using ‘bis' for Conscious
 Intelligence rather than Jump Control) that only runs the TL16 version of
 Conscious Intelligence, adding MCr70 to the price and Cr5833 to the monthly
 maintenance. These AIs worked poorly enough that they help explain why this
@@ -18743,7 +18507,7 @@ The design attempts to serve many missions at once, none well, with 10
 marines each assigned for boarding actions, meteoric assault and mechanised
 deployment plus a four-marine command section on the air/raft, leaving one
 marine on the ship as a liaison. In practice, it was rare to have immediate use
-for more than one role at a time, so using a trio of modified ship’s boats that
+for more than one role at a time, so using a trio of modified ship's boats that
 could serve all roles and training the marines for all missions would have been
 superior. Some ship-design libraries include the Kinunir as an example of what
 not to do in this regard.
@@ -18785,7 +18549,7 @@ Manoeuvre Drive
 480
 Jump Drive
 480
-Sensors
+
 6
 Weapons
 192
@@ -19006,9 +18770,7 @@ and is primarily intended for independent cruising in
 undeveloped trade areas; high survivability is also a
 design factor. The vessels are partially streamlined,
 allowing wilderness refuelling operations as well
-as landings in Atmospheres 0 and 1. Atmospheric
-
-landings are otherwise not recommended, hence
+as landings in Atmospheres 0 and 1. Atmospheric landings are otherwise not recommended, hence
 the large complement of small craft. The energy-efficient weapons allow all primary systems except
 the fuel processor to be run simultaneously should
 the ship be faced with combat. A luxury stateroom is
@@ -19041,7 +18803,7 @@ Manoeuvre Drive
 720
 Jump Drive
 540
-Sensors
+
 1
 Weapons
 22
@@ -19294,7 +19056,7 @@ Marches, armed and accompanied by surplus Gazelle
 close escorts as deterrents to piracy. Generally named
 for systems along the route, these freighters maximise
 cargo space by using a cramped bridge, an undersized
-power plant that requires dimming ship’s power when
+power plant that requires dimming ship's power when
 
 CARGO CARRIER **CLASS: MK MORA**
 
@@ -19324,7 +19086,7 @@ Manoeuvre Drive
 300
 Jump Drive
 1,200
-Sensors
+
 1
 Weapons
 74
@@ -19548,7 +19310,7 @@ Manoeuvre Drive
 1,350
 Jump Drive
 1,200
-Sensors
+
 9
 Weapons
 346
@@ -19559,7 +19321,7 @@ Systems
 
 status. The Admiralty, in its evaluation efforts, has
 thus far deployed the ships in over-sized squadrons
-of 10 to 20 vessels and has committed them to op-erations only with the Navy’s major battle fleets.
+of 10 to 20 vessels and has committed them to op-erations only with the Navy's major battle fleets.
 
 **TL15 Tons Cost (MCr)**
 
@@ -19757,7 +19519,7 @@ Manoeuvre Drive
 3,000
 Jump Drive
 2,000
-Sensors
+
 9
 Weapons
 460
@@ -19979,7 +19741,7 @@ Manoeuvre Drive
 5,800
 Jump Drive
 11,600
-Sensors
+
 14
 Weapons
 3,090
@@ -20151,7 +19913,7 @@ for posthumous recipients of the Imperial Starburst
 for Extreme Heroism. The Gionetti was capable of
 jump-5 but its non-existent armour made it a liability
 in fleet actions. The running joke was that its crews
-would soon be ‘posthumous’ as well.
+would soon be ‘posthumous' as well.
 
 Crew
 Captain, Pilots x3, Small
@@ -20357,7 +20119,7 @@ allowing ships of this class to act as flagships for
 small fleets on occasion.
 
 The Ghalalk is part of a family of cruisers that
-mount interchangeable 2,600-ton ‘pods’ that provide
+mount interchangeable 2,600-ton ‘pods' that provide
 greater versatility. The Ghalalk mounts four of these
 pods and this example includes a typical loadout of
 four identical missile pods.
@@ -20382,7 +20144,7 @@ Manoeuvre Drive
 22,500
 Jump Drive
 20,000
-Sensors
+
 44
 Weapons
 2444
@@ -20679,9 +20441,7 @@ Pilots x30, Engineers x70,
 Maintenance x34, Medics
 x7, Gunners x762, Fuel
 
-Refinery x3, Administrators
-
-x32, Officers x94, Pursers
+Refinery x3, Administrators x32, Officers x94, Pursers
 x3, Sensops x6
 
 TL15^ Tons Cost (MCr)
@@ -20717,7 +20477,7 @@ Basic Ship Systems
 6,500
 Manoeuvre Drive
 30,000
-Sensors
+
 308
 Weapons
 3325
@@ -21034,7 +20794,7 @@ Manoeuvre Drive
 20,000
 Jump Drive
 15,000
-Sensors
+
 20
 Weapons
 2,770
@@ -21269,7 +21029,7 @@ Basic Ship Systems
 10,000
 Manoeuvre Drive
 30,000
-Sensors
+
 22
 Weapons
 6,305
@@ -21397,7 +21157,7 @@ Deck 2
 15
 
 The Azhanti High Lightning is an obsolete multi-purpose cruiser capable of a variety of different
-functions. Most notable is the ship’s high jump (jump-5) capability, which gives it great reactive mobility. It
+functions. Most notable is the ship's high jump (jump-5) capability, which gives it great reactive mobility. It
 is this quality that has kept the ship in service in spite
 of its inferior agility and weaponry.
 
@@ -21498,7 +21258,7 @@ Manoeuvre Drive
 12,000
 Jump Drive
 30,000
-Sensors
+
 12
 Weapons
 4,800
@@ -21745,7 +21505,7 @@ Manoeuvre Drive
 37,500
 Jump Drive
 30,000
-Sensors
+
 15
 Weapons
 1,745
@@ -21822,7 +21582,7 @@ Modular Cutter — 11.93
 Docking Space (40 tons) 44 11
 Pinnace — 9.68
 Docking Space (30 tons) 33 8.25
-Ship’s Boat 0 7.58
+Ship's Boat 0 7.58
 
 Systems Armoury 29 7.25
 
@@ -21978,7 +21738,7 @@ Jump Drive
 
 Weapons
 7,340
-Sensors
+
 22
 
 Screens
@@ -22215,7 +21975,7 @@ Manoeuvre Drive
 20,000
 Jump Drive
 40,000
-Sensors
+
 22
 Weapons
 6,295
@@ -22233,7 +21993,7 @@ Recovery Decks
 of the fighter force is in flight at any one time. In
 addition, the ship can defend itself with its extensive
 armament – especially its missile salvos. In practice,
-the fleet carrier’s low armour rating and agility make
+the fleet carrier's low armour rating and agility make
 it vulnerable and clumsy in battle and it will join
 combat only to ensure recovery of its brood.
 
@@ -22409,7 +22169,7 @@ during the Long Night. Constructing one is a major
 affair involving multiple shipyards for over 10 years.
 
 These freighters were originally designed to promote
-Vilani mercantile interests to ‘barbarian’ homeworlds
+Vilani mercantile interests to ‘barbarian' homeworlds
 
 Crew
 Pilot, Astrogator,
@@ -22541,7 +22301,7 @@ combine training operations with routine patrols and
 reaction operations.
 
 The Kokirrak is a preferred ship for flagship operations
-due to its extensive admiral’s quarters, which include
+due to its extensive admiral's quarters, which include
 command and communications equipment, as well
 
 DREADNOUGHT **CLASS:KOKIRRAK**
@@ -22634,7 +22394,7 @@ Manoeuvre Drive
 120,000
 Jump Drive
 80,000
-Sensors
+
 28
 Weapons
 15,450
@@ -22657,7 +22417,7 @@ Craft Docking Spaces (40 tons) x4 176 44
 
 Pinnaces x4 — 38.72
 Docking Spaces (30 tons) x2 66 16.5
-Ship’s Boats x2 — 15.16
+Ship's Boats x2 — 15.16
 
 Systems Armoury 59 14.75
 
@@ -22842,7 +22602,7 @@ Manoeuvre Drive
 100,000
 Jump Drive
 80,000
-Sensors
+
 28
 Weapons
 15,600
@@ -23214,7 +22974,7 @@ Manoeuvre Drive
 300,000
 Jump Drive
 200,000
-Sensors
+
 34
 Weapons
 21,650
@@ -23420,6 +23180,8 @@ Deck 26 Deck 27
     35. Briefing rooms
     36. Drones
 
+# INDEX
+
 Accommodations 50
 Actions Step 121
 Administrator 85
@@ -23497,7 +23259,7 @@ Low Berths 24
 Maintenance 92
 Manoeuvre Step 115
 Manoeuvring 18
-Marines and Ship’s Troops 92
+Marines and Ship's Troops 92
 Medic 93
 Mercenary Cruiser 201
 Merchant Cruiser 217
@@ -23574,4 +23336,3 @@ Ultralight Fighter 136
 X-Boat Tender 204
 Yacht 175
 
-## INDEX

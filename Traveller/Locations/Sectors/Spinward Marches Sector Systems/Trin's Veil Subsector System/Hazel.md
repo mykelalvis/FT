@@ -8,7 +8,7 @@ tags:
 
 # HAZEL
 
-Hazel is located one parsec from [[Trin]], one of the most important worlds in the [[Spinward Marches]]. If it had possessed good mineral resources it might have become a supporting industrial center and enjoyed rapid early growth but, lacking them, Hazel was relegated to always being a backwater. The world is not really on the way to anywhere and does not receive much passing trade but for a time it did enjoy slight popularity as a tourist destination.
+Hazel is located one parsec from [[Trin]] in [[Trin's Veil Subsector|Trin's Veil]], and is one of the most important worlds in the [[Spinward Marches]]. If it had possessed good mineral resources it might have become a supporting industrial center and enjoyed rapid early growth but, lacking them, Hazel was relegated to always being a backwater. The world is not really on the way to anywhere and does not receive much passing trade but for a time it did enjoy slight popularity as a tourist destination.
 
 Hazel's atmosphere is listed as being tainted but the 'taint' actually takes the form of local bacteria that cannot survive for long away from their parent world's ecosphere. Although these bacteria can cause a range of unpleasant respiratory infections, a simple inoculation is available, which renders the recipient immune for a period of several weeks. Thus Hazel is safe to visit for anyone who has taken the correct medication or built up an immunity over several years.
 

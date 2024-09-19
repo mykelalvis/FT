@@ -1,0 +1,12 @@
+---
+date created: 2024-09-15 07:08
+date updated: 2024-09-15 07:08
+tags:
+  - Vilis_Subsector
+  - Phlume_Triangle
+---
+![[PTri-85.jpg|200]]
+[[PTri-85.jpg|Phlume]]
+Phlume has a Class C Starport, an average quality installation which includes amenities including unrefined fuel for starships, some brokerage services for passengers and cargo, and a variety of ship provisions. There is a shipyard capable of doing maintenance and other kinds of repair. Phlume is infamous for the number of starships that have disappeared while in transit to the planet. Imperial scientists have determined that an unknown spatial phenomena has led to these disappearances over the millennia, occurring roughly every seven years. Local spacers refer to the phenomena as The Phlume Triangle. The last ship to disappear was the Imperial battle cruiser Lariinaan.
+
+Phlume is the first world in its star system, orbiting between the binary stars, of Phlume major and Phlume minor, a main G-star with a smaller M-star companion. It is a large-sized world, having a dense atmosphere with no hints of contamination, and significant water coverage (approximately 70%). Phlume has a moderate sized population of nearly 7000000, and is an agricultural world with limited industrialization. The majority of the population engage in farming and gathering agricultural produce, including some hunting. A well-managed safari business also operates in the wild lowlands, but strict limits are set on the numbers of animals which may be hunted. The planetary government is a participatory democracy embracing all citizens aged 20 or greater. Phlume is part of the trade route referred to as the Spinward Main. Phlume has moderate expectations on the behavior of its citizens, with limitations to personal weapons including light assault weapons, sub-machine guns and energy weapons. Concealed weapons and blades are permitted, as are standard pistols and shotguns. Local constabulary ensures that these laws are adhered to, and the Imperial troops on the planet can be called upon to deal with any more significant threat. Phlume is classified as the Imperial fiefdom of Baron Bleddyn Victor Wilson-Aadarkhi, a member of the Imperial nobility with connections to the Aadarkhi family, and to Sir Bleddyn Alexander Huelcyn- Aadarkhi, Duke of the Five Sisters Subsector. The Baron’s heir, Bleddyn Mathias Wilson-Aadarkhi, was lost in space in 1100, while serving on the battle cruiser Lariinaan.

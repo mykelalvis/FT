@@ -1,0 +1,1 @@
+[Kumkhap (world) - Traveller (travellerrpg.com)](https://wiki.travellerrpg.com/Kumkhap_(world))

@@ -9,11 +9,14 @@ tags:
 
 ## Zashe Pamzirma
 
-![[CA2-50_1476396039.jpg]]
+![[CA2-50_1476396039.jpg|200]]
+[[CA2-50_1476396039.jpg|Zashe Pamzirma]]
+
 Zashe is the proprietor of [[Eneri's Cantina]], the most popular bar at [[Affinity#Affinity Highport|Affinity Highport]].  
 
 Zashe has an eidetic memory, and never forgets a face.
 
+Zashe has an adopted son named [[Calago]].
 
 Mixed [[Vilani]]-[[Solomani]] Female 52
 

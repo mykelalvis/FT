@@ -10,7 +10,7 @@ There are few areas about which absolutely everything is known and, even if an a
 
 [[Mainworlds]]
 
-[[Starports]]
+[[Starport]]s
 
 [[Travel and Communications]]
 

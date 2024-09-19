@@ -6,7 +6,7 @@ The nature of the jump drive is such that unless there is a good (usually econom
 
 For this reason, the remainder of a star system can be quite underdeveloped, although there may be outposts, mining stations and other installations, not all legal or above-board, scattered among the various bodies and planets of a system.
 
-[[Starports]]
+[[Starport]]s
 
 ### Star Systems and Mainworlds
 

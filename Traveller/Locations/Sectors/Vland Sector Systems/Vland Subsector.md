@@ -1,0 +1,1 @@
+https://wiki.travellerrpg.com/Vland_Subsector

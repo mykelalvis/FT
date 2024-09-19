@@ -1,2 +1,2 @@
 [Add'l Images](https://www.freelancetraveller.com/features/gallery/mag/a3fartrad2.html)
-![[FarTraderPictA3_DeckPlans.png|200]]![[FarTraderPictA3_001.png|150]]![[FarTraderPictA3_002.png|200]]![[FarTraderPictA3_003.png|140]]![[FarTraderPictA3_BridgeInterior.png|200]]
+![[FarTraderPictA3_DeckPlans.jpg|200]]![[FarTraderPictA3_001.jpg|150]]![[FarTraderPictA3_002.jpg|200]]![[FarTraderPictA3_003.jpg|140]]![[FarTraderPictA3_BridgeInterior.jpg|200]]

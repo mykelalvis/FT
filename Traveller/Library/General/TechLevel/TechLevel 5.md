@@ -2,9 +2,8 @@
 date created: 2024-09-18 07:42
 aliases:
   - TL-5
-tags:
-  - industrial
 ---
+
 - Common _Communication_ technologies for this TL include: Telephone, radio, and television.
 - Common _Power Generation_ technologies for this TL include: Electricity, hydrocarbon internal combustion, and the most fundamental atomic energy.
 - Common _Transportation_ technologies for this TL include:

@@ -3,8 +3,6 @@ date created: 2024-09-17 08:00
 aliases:
   - TL-14
   - TL-E
-tags:
-  - high-stellar
 ---
 - High-stellar
 - Fusion weapons become portable. 

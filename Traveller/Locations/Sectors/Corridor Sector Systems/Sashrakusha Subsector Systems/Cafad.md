@@ -124,7 +124,7 @@ The worlds of the system have been surveyed. They consist of:
 
 No centrally held map of the world exists within AAB Library Data records.
 
-Blank World Map Watery.jpg  
+Blank World Map Watery.png  
 (_Blank map, predominantly watery world_.)
 
 Cold World 08a.jpg

@@ -7,6 +7,8 @@ tags:
 ---
 # SPINWARD MARCHES
 
+#TODO [[The Spinward Marches]] needs to be migrated here and all references renamed.
+
 To the average citizen of the Imperial core worlds, the Spinward Marches is just a name, one of the distant provinces perhaps, or one of those troublesome backward border regions. Certainly, nothing good ever seems to come out of [[The Spinward Marches|the Marches]]. The Civil War was launched from there; major conflicts with foreign states are two-a-Credit... and, in any case, [[The Spinward Marches|the Marches]] are on the other side of the [[Great Rift]], very far away and of no real consequence.
 
 There is an element of truth in this. [[The Spinward Marches|the Marches]] are isolated not only by distance but by the barrier of the [[Great Rift]], which cannot be crossed without considerable effort. As a result, the only way into, and out of, [[The Spinward Marches|the Marches]] is through the narrow Imperial-held strip between the [[Great Rift]] and [[Vargr Extents]], aptly named the [[Corridor sector]].

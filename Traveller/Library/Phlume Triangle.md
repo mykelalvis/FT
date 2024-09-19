@@ -1,0 +1,3 @@
+# The Phlume Triangle
+
+An area of space within the parsec identified by the star system [[Phlume]]. Reports indicate that the area is known for unusual astronomical phenomena and there is a long history of starships disappearing within the region. No scientific explanation has yet been forthcoming to explain the phenomena. However, Imperial scientists have determined that these unknown spatial phenomena are the cause of the numerous disappearances over the millennia, occurring roughly every seven years. The last ship to disappear was the Imperial battle cruiser [[Lariinaan]]. 

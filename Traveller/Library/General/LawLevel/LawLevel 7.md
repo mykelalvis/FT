@@ -1,0 +1,1 @@
+Moderate [[Law Level]], with all firearms restricted (including shotguns).

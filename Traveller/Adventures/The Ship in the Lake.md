@@ -7,7 +7,7 @@ tags:
 
 ## THE SHIP IN THE LAKE
 
-Location : [[Hazel]] (C645747-5), [[Trin's Veil subsector]], [[The Spinward Marches]]
+Location : [[Hazel]] (C645747-5), [[Trin's Veil Subsector|Trin's Veil]], [[The Spinward Marches]], [[Spinward Marches]]
 
 The world of [[Hazel]] was long ago surveyed for mineral deposits and found to be unviable as an extraction site. It was passed over for investment during the [[Spinward Marches]]' early growth phase and has remained a backwater ever since. Recently, the mining megacorporation [[Sternmetal Horizons]] has become suspicious that early reports were falsified and has attempted to obtain new survey data of its own. These efforts have been hampered by local guerrilla activity.
 

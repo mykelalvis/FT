@@ -25,8 +25,8 @@ Classic Era (1116)
 
 
 
-| Starport      | A   | Excellent: Starship Construction, Overhaul, Refined fuel |
 | ------------- | --- | -------------------------------------------------------- |
+| Starport      | A   | Excellent: Starship Construction, Overhaul, Refined fuel |
 | Size          | 3   | Small (4,800 km, 0.24g - 0.34g)                          |
 | Atmosphere    | 0   | Vacuum                                                   |
 | Hydrographics | 0   | Desert World 0%                                          |

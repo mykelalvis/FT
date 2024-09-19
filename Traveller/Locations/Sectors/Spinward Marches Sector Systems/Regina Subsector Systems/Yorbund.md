@@ -21,7 +21,7 @@ Yorbund has a warm climate and a corrosive fluorine atmosphere that has so far
 
 ## History & Background (Dossier)
 
-The Yorbund space station and [[starport]] provide a base for [[belter]]s working the [[planetoid belt]]s .
+The Yorbund space station and [[Starport]] provide a base for [[belter]]s working the [[planetoid belt]]s .
 
 # Attitudes
 

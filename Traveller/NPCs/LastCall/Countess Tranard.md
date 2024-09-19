@@ -13,9 +13,11 @@ Countess Vandia Tranard of Bendo
 Countess Tranard may hold the power to save [[The Sylean Main]]... if only someone can convince her to use it.
 
 
-Vilani Female 62
+[[Vilani]] Female 62
 
-![[CA2-CountessTranard.jpg]]
+![[CA2-CountessTranard.jpg|200]]
+[[CA2-CountessTranard.jpg|Countess Tranard]]
+
 TRAITS — SKILLS
 Admin 2, Advocate 1, Carouse 2, Deception 1, Diplomat 3, Electronics (remote ops) 1, Language (Vilani) 2, Leadership 1, Profession (hydroponics) 3, Science (psychology) 1
 

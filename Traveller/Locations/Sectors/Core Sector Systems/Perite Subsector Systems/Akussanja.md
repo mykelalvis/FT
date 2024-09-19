@@ -22,7 +22,8 @@ From Traveller Wiki - Science-Fiction Adventure in the Far future
 | Planetoid Belts                                                                           | 0                                                         |   |
 | Gas Giants                                                                                | 4                                                         |   |
 
-| D557613-6     |     |                                                     |
+ D557613-6
+| Category      |          Value          | Notes                                                                 |
 | ------------- | --- | --------------------------------------------------- |
 | Starport      | D   | Poor: No Construction, Minor Repair, Unrefined fuel |
 | Size          | 5   | Medium (8,000 km, 0.40g - 0.57g)                    |

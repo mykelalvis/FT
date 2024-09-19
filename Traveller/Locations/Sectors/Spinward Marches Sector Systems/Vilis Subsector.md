@@ -39,6 +39,8 @@ aliases:
 | [[Tremous Dex]] | 1311 |  |B511411-C|  Ic Ni | | | G |
 | [[Vilis]]| 1119 | | A593943-A  |  Hi In | | [[Imperium]]|  |
 
+The Vilis subsector is located in the [[Spinward Marches]] of the [[Imperium]], very close to the frontier. It contains 26 worlds and a population of approximately 10 billion.
+
 Vilis is a border region, with a little less than half of its worlds being Imperial members. The spinward border is more or less open, since space in that direction is pretty much neutral. Any threat from spinward-coreward is mitigated by the worlds of the Jewell Cluster (in the [[Jewell subsector]]) flanking any Zhodani advance through non-aligned systems in that direction.
 
 However, there is a threat from rimward in the form of the [[Sword Worlds]], who have aligned with the Zhodani on several occasions, guiding strategic thinking to some extent. However, the distribution of star systems in Vilis subsector provides a 'firebreak' to trailing, ensuring any defeat in Vilis is likely to be a local one.

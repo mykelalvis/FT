@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+=======
+# TsuZ
+>>>>>>> 94e15ff (Added FT changes)
 
 >>>>>>> 5a26dcf (Add FT as a test)
 =======

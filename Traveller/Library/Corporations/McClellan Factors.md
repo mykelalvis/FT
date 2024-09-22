@@ -1,0 +1,4 @@
+# McClellan Factors
+
+
+McClellan Factors is a cartel of trading concerns operating mainly in [[District 268]] under the leadership of [[McClellan Trading]] LIC. Some of the firms involved are registered in the [[Imperium]], others are not. McClellan Factors is involved in restrictive practices which would be illegal in the Imperium, though McClellan Trading keeps its nose clean when operating within the Imperium. This involves treading a fine line but seems to be worth it; McClellan Factors has several markets in [[District 268]] sewn up and recently rebuffed an effort by the [[Baraccai Technum]] to move into the region.

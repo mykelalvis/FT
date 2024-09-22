@@ -1,0 +1,1 @@
+Lewis is an interdicted world holding an estate of the [[Tukera]] family and is described in [[#Inselberg]].

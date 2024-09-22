@@ -48,3 +48,9 @@ CAREER PATH STR DEX END INT EDU SOC
 
 
 Age 35 Agent (4)9 (+1) 11 (+1) 10 (+1)9 (+1)8 (0)8 (0) Advocate 0, Computers 0, Gun Combat (Energy Rifle) 2, Investigate 0, Melee 1, Recon 2, Stealth 1 Laser Carbine (4d6+3), Stunstick (1d6), Flak Jacket (6), Reflec armor (0/10), Comm and Commdot
+
+
+#### ARKESH SPACERS
+
+
+Arkesh started out as an alliance of Free Traders which still maintains a nominal headquarters at Strouden however, it has few permanent facilities, relying on leasing or trading for whatever is needed. Arkesh has a bad reputation for highly dubious practices; some of its ships are known smugglers and there are rumors that acts of piracy have been committed by some members. Thus far, the organization has avoided Imperial attention though some of its members have been prosecuted.

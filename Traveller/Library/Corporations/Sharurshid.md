@@ -1,6 +1,10 @@
-### Sharurshid
+# Sharurshid
 
 The third of the Vilani Bureaus, Sharurshid was founded by the merchant caste and became a trading rather than manufacturing concern. To this day Sharurshid produces little but makes a vast amount of money buying and selling other firms' produce. In particular Sharurshid is famous for luxury goods, a sector where it competes vigorously with Makhidkarun.
+
+Megacorporation speciaiizing in trade and speculation, with very little manufacturing capability. Sharurshid trades in luxury goods from all parts of the [[Imperium]] and many areas beyond. Most rare [[Terra|Terran]] wines and spirits are carried on the starships of Sharurshid.
+
+Stock ownership: Imperial family, 3%; Sharurshid trust, 46%; Zirunkariish, 13%; Hortalez et Cie. 14%: other corporations, 14%: private ownership, 10%.
 
 Sharurshid operates a large fleet of trade ships, many of them plying long–distance routes to bring rare goods to the markets of the core worlds. The firm also operates brokerages on many starports, helping others make a profit for a modest percentage.
 

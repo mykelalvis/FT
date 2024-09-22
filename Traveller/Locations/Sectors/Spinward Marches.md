@@ -82,7 +82,7 @@ Some nobles, notably [[Duke Norris]] of [[Regina Subsector|Regina]], maintain co
 
 Other nobles also loan part of their personal forces to the Imperial Army or ships to the Colonial Fleet, in the same way that many world governments do, although this practice is rare even in [[The Spinward Marches|the Marches]].
 
-Among the other notable members of the nobility in [[The Spinward Marches|the Marches]] is [[Leonard Fratelli Bolden-Tukera]], Marquis of [[Traveller/Locations/Sectors/Spinward Marches Sector Systems/Aramis Subsector Systems/Aramis]]. Although 'merely' a marquis associated with a single world, his association with the powerful Tukera family gives him great power. The Tukera family are the founders of [[Tukera Lines]], one of the Imperial megacorporations, and remain principal shareholders.
+Among the other notable members of the nobility in [[The Spinward Marches|the Marches]] is [[Leonard Fratelli Bolden-Tukera]], Marquis of [[Traveller/Locations/Sectors/Spinward Marches Sector Systems/Aramis Subsector Systems/Aramis]]. Although 'merely' a marquis associated with a single world, his association with the powerful Tukera family gives him great power. The Tukera family are the founders of [[Tukera|Tukera Lines]], one of the Imperial megacorporations, and remain principal shareholders.
 
 Although Tukera, like most megacorporations, has only a limited interest in [[The Spinward Marches|the Marches]], this translates to a large number of ships passing through the bigger ports and a very large amount of money changing hands. Thus far, Tukera's interests are to not push far into the sector but there are rumors of investment in starports, which surely implies an expansion of the firm's operations.
 
@@ -134,7 +134,7 @@ Exploratory trade is a special case of speculative trade.  In this case, a specu
 
 ### Megacorporations
 
-Megacorporations are active in the Spinward Marches; indeed, it was [[Ling Standard Products|LSP]] that first set up a trade base at [[Mora]] and paved the way for expansion into the sector.  Corporate freighters belonging to [[Delgado]] and [[Tukera Lines|Tukera]] run into [[Mora]] and then up the [[Spinward Main]], although on the whole smaller ships are used for runs deeper into [[The Spinward Marches|the Marches]].
+Megacorporations are active in the Spinward Marches; indeed, it was [[Ling Standard Products|LSP]] that first set up a trade base at [[Mora]] and paved the way for expansion into the sector.  Corporate freighters belonging to [[Delgado]] and [[Tukera]] run into [[Mora]] and then up the [[Spinward Main]], although on the whole smaller ships are used for runs deeper into [[The Spinward Marches|the Marches]].
 
 Exceptions include the major lines through to [[Lunion Subsector|Lunion]], [[Trin's Veil Subsector|Trin]] and [[Glisten Subsector|Glisten]], and coreward towards [[Rhylanor Subsector|Rhylanor]] and [[Regina Subsector|Regina]]. These runs are plied by big megacorporate freighters and liners as well as smaller ships.
 

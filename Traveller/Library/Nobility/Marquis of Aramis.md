@@ -1,0 +1,3 @@
+# Marquis of Aramis
+
+Title granted in 631 by Empress Arhellatra to Marova hault-Hayashi in recognition of her services to the [[Imperium]] in the Second Bettie of Zhimaway. The current Marquis. 19th of the line, is Leonard Bolden-Tukera. The Marquis is titular head of the world government of [[Aramis]]: he owes direct fealty to the Count Knowln of [[Celepina]]. The Marquis is married to the Lady Arianne Tukera, heir to a large block of [[Tukera|Tukera Lines]] stock. They have no children.

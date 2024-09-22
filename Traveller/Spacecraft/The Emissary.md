@@ -1,0 +1,3 @@
+### The Emissary
+
+Ex-[[Imperial Navy]] fleet intruder of the Azhanti High Lightning class (60,000 tons) currently in [[Oberlindes|Oberlindes Lines]]' service in the [[Vargr Extents]]. Somehow, [[Oberlindes]] managed to purchase the ship with its weaponry intact, which _violates imperial regulations_. Thus, the ship is unable to return to the [[Imperium]]. However, the Emissary has operated successfully as an [[Oberlindes]] flagship in the [[Vargr Extents|Extents]] and has proven effective, by the implied threat of its presence, in protecting [[Oberlindes]] shipping from piracy. The Emissary is armed with a large spinal mount particle accelerator and considerable secondary weaponry.

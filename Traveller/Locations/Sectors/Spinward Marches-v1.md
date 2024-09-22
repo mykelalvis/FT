@@ -11190,7 +11190,7 @@ people live on planets, not stars, so it is the world that it most
 important to makers of charts. In addition to the star and the vast
 Bowman Belt, there is one planet. This is the gas giant Bowman
 Prime and its gaggle of moons. Clusters of planetoids are found at
-Bowman Prime's Trojan points (ahead of it and behind it in its orbit.
+Bowman Prime's [[Trojan points]] (ahead of it and behind it in its orbit.
 There are no normal–sized planets in the Bowman system.
 
 The Bowman system is unusual in other ways. Normally the starport
@@ -11230,7 +11230,7 @@ Garrison.
 
 These two stations are owned and operated by LSP but are required
 by contract to process ore extracted by the Belter population as well.
-They orbit Bowman Prime at the Trojan points of Alpha, from where
+They orbit Bowman Prime at the [[Trojan points]] of Alpha, from where
 it is easy to transport the processed ore to the port for shipment out
 of the system.
 

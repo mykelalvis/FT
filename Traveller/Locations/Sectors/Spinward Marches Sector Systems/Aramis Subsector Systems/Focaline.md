@@ -1,0 +1,1 @@
+Focaline is mostly ice-capped, but a few broad open plains provide excellent ranges for great raising. The plains are crowded with family-owned ranches; indeed, the small usable surface of Focaline is somewhat overcrowded and strict population control is practiced. A trading station for commerce with the [[Vargr]] is maintained on Focaline.

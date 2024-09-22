@@ -7,6 +7,43 @@ tags:
   - Alien
 ---
 
+From [The Vargr -- A field Guide to Life on Other Planets (gaoluinn.altervista.org)](http://gaoluinn.altervista.org/misc/alien_life/vargr-1.html)
+
+# The Vargr -- A field Guide to Life on Other Planets
+!Lair
+
+The Vargr are descended from carnivore/chaser stock transplanted from Terra to Lair/Grnouf in the Provence Sector during the heyday of the Ancients, approximately 300,000 years ago. These transplanted carnivores were of the family Canidae, and almost certainly of the genus Canis. Their selected homeworld is approximately 100 parsecs coreward from Sylea. They are, essentially, upright biped canines, and why the ancients chose to modify them and grant them intelligence on a distant world remains a mystery.
+
+Physically, a typical Vargr is about 1.6 meters in height and weighs approximately 60 kilograms. They are upright bipedal carnivores, rear limbs digitigrade, and still bear a considerable resemblance to their ancestral canine stock externally, though internally there are many important differences. Vargr hands are very similar in size, appearance, and strength to human hands, and the two can share equipment easily. They are covered with short fur, generally brown, black, or rust colored, though frequently combining shadings of these and other colors. They have long tails that end in a flaring brush. The muzzle is shorter and less pronounced than in Terran canines, but still is quite evident. They have sharp eyesight and keen noses.
+
+Just as they physically exhibit many of the features that are derived from their ancestral stock, so too do Vargr show a number of mental and behavioral traits that bear a fairly obvious relationship to the instinctive behavior of the social carnivores of Earth. Vargr are frequently characterized as "inconsistent" by outsiders, adopting contradictory attitudes and actions. Within the family group, they are gregarious but constantly locked in subtle competition for dominance and prestige. They display a pack mentality, driven by dominance and their own unique concepts of charisma.
+
+Vargr discovered the jump drive in -3810 and spread to the stars slowly. Since time and distance reinforce their basic lack of acceptance accorded to remote authority, they have never formed a cohesive stellar empire, remaining balkanized and generally unorganized. Vargr did encounter Vilani around the time of the collapse of the First Imperium, and their contribution to that collapse is debated still. Vargr corsairs gained a reputation for their ruthlessness during the Long Night. Through the history of the Third Imperium, Vargr never mount a unified challenge to their right to rule over the systems rimward from their traditional home.
+
+**Personal Combat** The basic procedures for personal combat involving Vargr characters are unchanged from the original Traveller rules, but certain specific details are altered to reflect differences in physiology and psychology. These changes (only) are noted in this section.
+
+**Movement:** Vargr are capable of short bursts of speed greater than is normally achievable by humans. However, their endurance is less and Vargr are actually slower than their human counterparts over the long haul.
+
+A walking Vargr moves 1 range band per round, just as a human does. A Vargr may run at 2 bands per round without penalty. Greater running speed-3, 4, or 5 bands per round-are possible at any time, but count against the character's allotment of combat blows for the fight. Endurance expenditure is one blow for 3 band movement, two blows for 4 band movement, and 3 blows for 5 band movement. Once the number of combat blows has been used up, the character cannot expend the basic 2-band running speed for the remainder of the battle.
+
+**Combat:** A Vargr character may use hands, teeth, claws, or a weapon to attack in any combat round. Only one type of attack may be made in any given round.
+
+Vargr claws are nowhere nearly as effective as animal claws. Treat them as claws-2 on the regular Traveller combat table. Infighting skill increases attacks made with hands, teeth, claws, and normal "brawling" weapons. Their physiology makes it impossible for them to kick while engaging in close combat.
+
+**Weapons and Weapons Usage:** The wide variety of cultures and technologies found within Vargr space makes it impossible to list any particular set of weapons as being "favored" by the Vargr. Any and every weapon known in human space has its equivalent in Vargr space as well.
+
+Because of the variety of weaponry available, and the basic similarity between Vargr and human hands, weapons usage is not restricted across racial lines. Humans may use Vargr-made weapons, and Vargr may similarly use human weapons.
+
+**Morale:** The morale of Vargr parties is handled somewhat differently than for human parties. For)! Vargr party to stand in combat once casualties are taken, the basic throw to stand is a 20 roll less than the charisma of the party's leader (always the individual in the group with the highest charisma). "Casualties" generally refers to individual casualties for small groups (10 or fewer individuals). For larger groups, the loss of 10% of the group causes a morale check. Additional casualties (or blocks of 10% of the original group) cause positive DMs on the morale throw (making it less likely they will stand); certain other factors may cause other modifiers either for or against the party. These are listed on the morale chart. It should be remembered that modifiers work in reverse from the method applied to human parties-positive modifiers are bad, negative modifiers are good, for Vargr.
+
+Mixed parties should have morale determined separately for Vargr characters and for human characters. Casualty percentages are for the entire group, however.
+
+Leadership always goes to the individual with the highest charisma where Vargr are concerned, regardless of that character's actual abilities. The death of a leader has a great impact on Vargr morale. The leader will be replaced by the individual of the next highest charisma in the party ... but, as will be noted elsewhere (see reactions), two characters of the same charisma will not work well together, and such a situation is almost certain to give rise to a dangerous situation, under combat conditions ..
+
+**Darkness and Night:** Although Vargr eyesight is generally better than humans. their eyes are not quite as well adapted to darkness. Vision is the same as for humans, but DM-1 for Vargr making attacks with guns in full or partial darkness. Electronic sights and other light enhancement equipment offsets this disadvantage.
+
+---
+
 From [[Behind the Claw]]
 
 # Vargr in the Marches

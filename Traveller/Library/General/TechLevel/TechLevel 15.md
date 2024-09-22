@@ -3,6 +3,8 @@ date created: 2024-09-17 08:59
 aliases:
   - TL-15
   - TL-F
+tags:
+  - high-stellar
 ---
 
 - Black globe generators suggest a new direction for defensive technologies

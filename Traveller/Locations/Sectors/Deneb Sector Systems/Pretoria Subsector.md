@@ -1,5 +1,7 @@
 ---
 date created: 2024-08-30 15:41
+aliases:
+  - Pretoria
 ---
 
 ## Pretoria Subsector

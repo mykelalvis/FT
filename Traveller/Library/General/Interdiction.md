@@ -1,0 +1,3 @@
+# Interdiction
+
+The imperial government interdicts worlds for several reasons, generally on the recommendation of the [[Imperial Navy|Navy]] or [[Scout Service]]. Common purposes are to protect a world from outside interference or to quarantine a dangerous world, interdiction generally extends to one planet in a system; ships may pass through the system but may not call at the planet, in some cases, interdiction may apply to an entire system. Violation of interdiction is a serious crime.

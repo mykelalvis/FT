@@ -1,0 +1,1 @@
+L'oeul d'Dieu is a water world under the aegis of [[Sharurshid]], a megacorporation specializing in rare trade goods. Sharurshid obtains a variety of exotic seafoods and other products from this world. There has been much pressure to have the world opened up for settlement, but Sharushid, fearing damage to the local ecosystem, has resisted.

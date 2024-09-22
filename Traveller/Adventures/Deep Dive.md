@@ -16,7 +16,7 @@ tags:
 
 # REFEREE'S INFORMATION
 
-There are a number of issues at play here. On the surface, a ragtag group of miners should pose no threat to a well-trained and equipped platoon of mercenaries. However, what neither [[Zirgamsa Ruaka Corporation|ZRC]] nor the mercenaries know is that the lanthanum acquired has already been pre-sold to a subsidiary of [[Achenaar Antilles]]. [[Tukera Lines]], which is in heated competition for routes in the [[Saregon subsector]], has gotten word of this operation through its corporate intelligence arm. Tukera has surreptitiously equipped the miners with high-tech weapons and equipment from offworld. While most of the miners are not well-trained in the use of the equipment, merely having it makes them more dangerous than expected. In addition, Tukera operatives are providing support and intelligence to the miners.
+There are a number of issues at play here. On the surface, a ragtag group of miners should pose no threat to a well-trained and equipped platoon of mercenaries. However, what neither [[Zirgamsa Ruaka Corporation|ZRC]] nor the mercenaries know is that the lanthanum acquired has already been pre-sold to a subsidiary of [[Achenaar Antilles]]. [[Tukera|Tukera Lines]], which is in heated competition for routes in the [[Saregon subsector]], has gotten word of this operation through its corporate intelligence arm. Tukera has surreptitiously equipped the miners with high-tech weapons and equipment from offworld. While most of the miners are not well-trained in the use of the equipment, merely having it makes them more dangerous than expected. In addition, Tukera operatives are providing support and intelligence to the miners.
 
 # MISSION PHASES
 

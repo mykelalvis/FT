@@ -87,7 +87,7 @@ The outer belt. C class asteroids and planetoids predominate; figure on 90% of t
 
 ### Trojan Clusters
 
-These are asteroid clusters found in the Trojan points of gas giants, if present in a star system. Trojan points are empty points of space that exert their own gravitational influence due to the gravitational forces of two larger celestial bodies – such as a gas giant and its parent star. An object in a Trojan point remains in place as long as no other force is brought to bear. Trojan points are remarkably stable points in a solar system and tend to collect C class asteroids and planetoids. These are found in the same orbit as the gas giant, but 60-degrees ahead of and behind the planet,
+These are asteroid clusters found in the [[Trojan points]] of gas giants, if present in a star system. [[Trojan points]] are empty points of space that exert their own gravitational influence due to the gravitational forces of two larger celestial bodies – such as a gas giant and its parent star. An object in a Trojan point remains in place as long as no other force is brought to bear. [[Trojan points]] are remarkably stable points in a solar system and tend to collect C class asteroids and planetoids. These are found in the same orbit as the gas giant, but 60-degrees ahead of and behind the planet,
 
 ### ASTEROID TYPES
 

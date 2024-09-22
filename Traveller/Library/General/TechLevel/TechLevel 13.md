@@ -3,6 +3,8 @@ date created: 2024-09-17 09:00
 aliases:
   - TL-13
   - TL-D
+tags:
+  - average_stellar
 ---
 
 - Average Stellar

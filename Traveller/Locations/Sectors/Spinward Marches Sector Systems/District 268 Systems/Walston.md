@@ -7,7 +7,7 @@ date updated: 2024-09-03 16:51
 
 Walston (C544338-8) lies in [[District 268]] on the most commonly used route through the [[Bowman Arm]] of the [[Spinward Main]] and possesses one of the best ports (Class C) in the immediate area. This, and the reasonably habitable nature of the world, makes it a popular stopover. Under the right circumstances, Walston might become the economic centre of the arm if and when the subsector joins the Imperium. At present, however, it is a backwater of little importance.
 
-Walston orbits an M2 primary called Albin's Star, named for the captain of the first Imperial exploration ship into the system. The system contains two small gas giants named Insive and Greenish (the latter for its colour) plus five rocky bodies in standard orbits. There are no planetoid belts but the system does have comets and planetoid collections at the Trojan points of the gas giants. Walston itself lies on the outer fringe of the habitable zone, occupying the innermost orbit of Albin's Star.
+Walston orbits an M2 primary called Albin's Star, named for the captain of the first Imperial exploration ship into the system. The system contains two small gas giants named Insive and Greenish (the latter for its colour) plus five rocky bodies in standard orbits. There are no planetoid belts but the system does have comets and planetoid collections at the [[Trojan points]] of the gas giants. Walston itself lies on the outer fringe of the habitable zone, occupying the innermost orbit of Albin's Star.
 
 Lying in the closest orbit to the system's primary, Walston is the only inhabited body in the system.
 

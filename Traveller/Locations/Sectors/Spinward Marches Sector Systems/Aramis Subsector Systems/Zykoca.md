@@ -1,0 +1,1 @@
+Zykoca is an agricultural world under interdiction. Local society is extremely xenophobic, and all contact offworld has been suspended. Foreigners are distrusted and have no standing in local society. The world was interdicted after a local mob broke into the starport, killing several offworlders.

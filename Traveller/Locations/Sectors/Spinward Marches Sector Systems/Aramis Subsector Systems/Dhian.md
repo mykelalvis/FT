@@ -1,0 +1,1 @@
+Dhian is cursed with a very repressive government which maintains itself in power by virtue of its monopoly on the production of oxygen (as well as most food). All plants are grown hydroponically in government-owned farm complexes and the secrets of successful farming are jealously guarded. The government restricts technology to very low levels in order to safeguard its monopoly.

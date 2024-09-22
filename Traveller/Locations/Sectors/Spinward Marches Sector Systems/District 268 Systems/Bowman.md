@@ -4,7 +4,7 @@ Bowman's asteroid belt presents something of a classification problem, simply be
 
 To the people who live and work here, the point is moot. There is one belt and they live and work in one part of it. Distant regions of the belt are of no real importance because they are very far away.
 
-In addition to the system's star and the vast Bowman Belt there is one planet, a gas giant named Bowman Prime and its gaggle of moons. Clusters of planetoids are found at Bowman Prime's Trojan points (ahead of and behind it in orbit).
+In addition to the system's star and the vast Bowman Belt there is one planet, a gas giant named Bowman Prime and its gaggle of moons. Clusters of planetoids are found at Bowman Prime's [[Trojan points]] (ahead of and behind it in orbit).
 
 The Bowman system is unusual in other ways.  Normally, the starport is located on the mainworld but Bowman's port is actually on Alpha, the innermost moon of Bowman Prime, along with a scout base. This is a very small installation that operates a few ships on missions in local systems, as well as Bowman itself.  These are often of the 'rock plotting' sort, necessary for the maintenance of accurate charts but boring and unglamorous.
 
@@ -12,7 +12,7 @@ The population, numbering around 8,500, refer to themselves as Belters. There is
 
 In addition to the Belter population, there are about 3,000 'company men' in the system at any one time, not residents or Belters but well-paid employees of Ling Standard Products. LSP has more or less taken over the Trailing Trojan cluster of asteroids and runs off independents with armed cutters and mercenary security troopers. There is an LSP company town in the cluster, from which mining platforms are sent out to nearby asteroids to extract whatever minerals can be found there. Ingots of ore are then launched by mass driver to the two LSP stations near Garrison.
 
-These two stations are owned and operated by LSP but required by contract to process ore extracted by the Belter population too. They orbit Bowman Prime at the Trojan points of Alpha, from where it is easy to transport the processed ore to the port for shipment out of the system.
+These two stations are owned and operated by LSP but required by contract to process ore extracted by the Belter population too. They orbit Bowman Prime at the [[Trojan points]] of Alpha, from where it is easy to transport the processed ore to the port for shipment out of the system.
 
 A third station orbits the outer edge of Bowman Prime's ring system but does not mine for ore. Instead, it extracts a range of chemicals, as well as oxygen and hydrogen, from ice chunks collected from Bowman Prime's extensive ring system.
 

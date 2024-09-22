@@ -18,7 +18,7 @@ It has been over 100 years since the war and most of the salvage has been transp
 
 ### ATTITUDES
 
-The corporate security guards are usually quite unfriendly to anyone who lands at the starport. They will explain that Nakege is under the protection of [[Spinward Salvage]] LIC and that the facilities here are not for public use. Anyone needing starport facilities should go to [[Nakege II]].
+The corporate security guards are usually quite unfriendly to anyone who lands at the starport. They will explain that Nakege is under the protection of [[Traveller/WORKING/OTHER/SpinwardSalvage/Spinward Salvage]] LIC and that the facilities here are not for public use. Anyone needing starport facilities should go to [[Nakege II]].
 
 The Nakege system has seven planets, two of which are gas giants. Nakege is the fifth planet from the sun.
 

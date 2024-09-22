@@ -1,0 +1,7 @@
+# PATINIR
+
+Patinir is an asteroid belt on the very edge of the [[Aramis subsector]]. Dominated by a large gas giant. the system has only a few small planets and satellites, all of little importance. Circling the central star, however. is a broad asteroid belt which is the primary source of mineral wealth in the system. in orbit ahead of, as well as trailing. the gas giant are accumulations of asteroids at the [[Trojan points]]. These [[Trojan points]] are each the site of a self-contained space colony of about 480,000 persons population. Effectively identical, the space colonies each operate a relinery/smelter which processes ore taken from the larger asteroid belt which orbits starward of the gas giant.
+
+The government of Patinir is a select board of directors controlled by the colony owners (descendants and heirs of the original financiers). Local law level is low in the colonies, and non-existent outside the [[Trojan points]]. The local technological level reflects a deliberate colony design feature which makes facilities and equipment rnaintainable even in the event of a technological decline.
+
+The asteroid belt starward contains slightly less than half of the system's population of 1.8 million as miners, prospectors, concessionaires, and a small lawless element. This small population means that even after a century of prospecting, the belt remains virtually untapped. and a ripe source of undiscovered minerals.

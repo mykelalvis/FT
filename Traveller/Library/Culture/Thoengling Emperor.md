@@ -1,0 +1,1 @@
+The elected leader of the [[Thoengling Empire]].

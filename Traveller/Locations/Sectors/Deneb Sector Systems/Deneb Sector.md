@@ -369,7 +369,7 @@ Some megacorporations have major interests in Deneb and can be considered additi
 - [[SuSAG]]
 - [[Sharurshid]]
 - [[Sternmetal Horizons]]
-- [[Tukera Lines]]
+- [[Tukera|Tukera Lines]]
 - [[Zirunkariish]]
 
 ## MINOR STATES AND POWERS

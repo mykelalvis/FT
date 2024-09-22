@@ -1,10 +1,19 @@
+---
+date created: 2024-09-19 17:34
+aliases:
+  - Dandelion
+  - Dandies
+tags:
+  - Alien
+  - race
+---
+
 ![[BtC-5505.jpg|200]]
 [[BtC-5505.jpg|Llellewyoly]]
 
 [[Junidy]] is a small world with a very thin atmosphere, home to a population numbering around 30 billion of whom about half belong to the minor race nicknamed 'Dandelions' or 'Dandies'. Their correct name is Llellewyoly, as near as humans can pronounce it. The Dandies are adapted to the extremes of temperature experienced by Junidy in the course of its day and display traits of both plant and animal.
 
 Llellewyoly have five multi-jointed limbs, which house their sense organs and serve interchangeably as hands and feet. The central, spherical, body is covered with long, coarse hair. These rather odd beings have a TL3 culture which is extremely complex. Individuals hold a number of social ranks, each with its own form of address, depending on the current situation. Using the wrong form of address for an individual's current social status (which can literally change from one minute to the next) is a major social gaffe and can result in ostracism.
-
 
 > [!info]- Creating Llellewyloly Travellers
 >

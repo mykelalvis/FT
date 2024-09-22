@@ -1,0 +1,1 @@
+Rugbird is a world with an extremely insidious atmosphere. The system's population lives in orbital habitats, and the world's considerable resources are exploited by remote-operated machines (heavily coated with resistant materials). Only repair crews, who receive hazard pay, venture down to the surface.

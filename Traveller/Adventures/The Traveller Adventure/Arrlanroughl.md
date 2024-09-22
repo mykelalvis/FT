@@ -1,0 +1,3 @@
+# Arrlanroughl
+![[CT-TTA-055.jpg]]
+[[Arrlanroughl]] had a long and successful career as emissary for the [[Thoengiing Emperor]]; his final mission was liaison with the [[Oberlindes]] trading mission aboard [[The Emissary]]. After the mutiny he was offered a high position in Oberlindes Lines; the Emperor, in order to strengthen his ties with [[Oberlindes]], granted [[Arrlanroughl]] a release from service, and Arrianroughl has since become [[Marc hault-Oberlindes]]' chief assistant. His personal loyalties are to [[Oberlindes]] and to the [[Thoengling Emperor]]; in any conflict between the two he would be forced into a choice, but so far their interests have coincided.

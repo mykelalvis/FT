@@ -7,6 +7,18 @@ The 40th Squadron is one of the best-organised Vargr bands in Gvurrdon. They are
 
 Originally settled by the descendants of hotel staff, Alell has become a rich and influential world despite its extremely dangerous native wildlife. The population is clustered into a small number of fortified cities, although modern technology makes it possible to live in more rural areas. Alell's primary industry is tourism; secondary exports include wood, furs, pharmaceuticals and other material harvested from the jungles that cover 30% of the planet's surface area. Alell has a Class B starport whose original structure dates back to the First Imperium and is considered an excellent example of fin-de-siecle Vilani design.
 
+Library data entries represent information available in the library program of any ship's computer in response to the correct keywords. The entries given below are of two types: general background information to help the players land referee) understand the nature of the universe and information on things the players may encounter during the course of the campaign.
+
+Whenever the adventurers have access to a computer with a library program and have a specific subject in mind, the referee should allow the players to read the relevant library data entries.
+
+Library data entries marked restricted are not available on most computers, and even on computers which contain these entries at special access code will probably be required; it is unlikely that adventurers could gain access to these entries without great effort.
+
+
+
+# Fiber Optic Computer
+
+Computer whose logic circuits are constructed from fiber optic conduits. Such computers are less vulnerable to radiation effects than normal electronic computers and for this reason are often used on military vessels.
+
 # Ancients
 
 Colloquial name for a species of aliens that lived 300,000 years ago. Comparatively little is known about the Ancients. They are believed to be responsible for transplanting Humaniti from its original homeworld of Terra (see Solomani Hypothesis) and scattering the species across hundreds of planets. They are also believed to have uplifted the Vargr from [[Terra|Terran]] canines. The Ancients had an exceedingly high level of technology and many of their artefacts are millennia beyond even cutting-edge Imperial science. Estimates of high end Ancients technology place them beyond TL25.

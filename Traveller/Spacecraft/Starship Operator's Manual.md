@@ -1912,7 +1912,7 @@ Missiles have two properties. First, a large volley of missiles is the most reli
 
 Given their cost, missiles have a reputation as a 'high end' weapon. Common pirates are unlikely to be able to afford them, if they even have means to obtain resupply. It is a well-known gambit to fire one missile - easily shot down – to convince a ship to surrender.
 Some 'dummy' missiles are designed explicitly for such scare tactics, with no warhead but instead designed to miss and be recovered.
-![[SOM-Missiles.png|200]]
+![[SOM-Missiles.jpg|200]]
 
 ### SANDCASTERS
 

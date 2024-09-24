@@ -10,7 +10,7 @@ tags:
   - UNFORMATTED
 ---
 
-![[Trip-Cover.png.jpg]]
+![[Trip-Cover.jpg.jpg]]
 
 In an effort to increase their control over [[Jewell subsector]], the [[Imperium]] has announced that a new duke will be appointed to oversee Imperial interests there. This move has caused political friction with the [[Zhodani]] who have since restricted trade to their worlds.
 

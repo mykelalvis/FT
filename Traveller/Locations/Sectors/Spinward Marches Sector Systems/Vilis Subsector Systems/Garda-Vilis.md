@@ -16,5 +16,5 @@ The major population center and capital has grown up around the world's large do
 
 The government of Garda-Vilis takes the form of administrative apparatus answering to [[Vilis]] itself. The world is run by a council of Vilis army officers and this is not popular. A rebellion in [[IY1103]] was put down by the council, at the cost of what remaining public sympathy the colonial administration still had. Today the only pro-government group on Vilis is the population dwelling in and around the capital, as many of these individuals are employed by the starport or its associated industries.
 
-There is a [[Tanoose Freedom League|strong independence movement]] on Garda-Vilis, calling itself the TFL.
+There is a [[Tanoose Freedom League|strong independence movement]] on Garda-Vilis, calling itself the [[Tanoose Freedom League|TFL]].
 

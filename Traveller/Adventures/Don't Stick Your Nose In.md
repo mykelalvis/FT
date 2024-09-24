@@ -17,7 +17,7 @@ A man wearing smart clothing and sporting a braided beard runs across a busy tra
 # A Lost Wallet
 
 
-![[AZ-51-01.png|100]]
+![[AZ-51-01.jpg|100]]
 
 
 Sometime later, a little distance from the intersection, one of the characters notices a metal-cased wallet lying close to a wall. It is hinged, seems new, and contains a few low denomination credit bills, a key card for a residential property, a folded sheet of paper with some hand-written notes, and an access pass with a photo ID showing a man with a distinctive braided beard. It is the wallet of the accident victim.
@@ -82,7 +82,7 @@ A secret deep level facility that can be accessed via a central elevator shaft i
 
 Within the facility new forms of combat drug are being developed from alien creatures, exotic chemical cocktails designed to enhance the physical abilities of the user. Unfortunately, while these drugs have remarkable short-term benefits (including greatly increased strength and endurance, a sense of euphoria, and insensitivity to pain) they trigger repeating psychotic episodes and cause severe long-term health issues.
 
-![[AZ-51-02.png]]
+![[AZ-51-02.jpg]]
 
 # Something Seems Wrong
 

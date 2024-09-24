@@ -7,11 +7,11 @@ The 20-ton launch is among the smallest general utility craft in common use, man
 Launches are normally used for trips of 12- 18 hours. Longer durations are possible, but most  do  not  make  provision  for  overnight trips.  On-board  life  support  is  good  for considerably  longer  than  that,  but  no provision is made for extra crew or the long- term comfort of the crew or passengers. 
 
 The deck plans presented in this booklet are numbered rather than labeled, to allow referees to change the coding and show the plans  to  their  players  without  giving  away any  secrets  (such  as  the  locations  of  the emergency  exits),  and  to  make  such adjustments  as  their  individual  campaigns may require. 
-![[Pic20tonlaunchfromFreelanceTrav.png|160]]
-![[Pic20Toncutaway.png|160]]
+![[Pic20tonlaunchfromFreelanceTrav.jpg|160]]
+![[Pic20Toncutaway.jpg|160]]
 ## Standard 20-ton Launch
 
-![](20tonlaunch.png)
+![](20tonlaunch.jpg)
 The standard variant of the launch can be used as a small craft on a larger vessel or on its own. Planetary entrepreneurs some- times  operate  them  as  local  transports, similar to intercity bus or railroad lines.  
 
 The standard configuration incorporates a two-seat flight deck with positions for a pilot and a flight engineer, a fresher for use by the  crew  and  any  passengers,  an  airlock, standard avionics and control packages, fuel tanks,  a  combined  passenger/cargo  bay (with 6 tons of cargo space and spacious  accommodations for six passengers), and a maneuver drive rated for 2 Gs.  
@@ -83,7 +83,7 @@ In  some  cases,  the  emergency  exit  may not be readily discernable. The ones
 
 
 ## 20-ton Lifeboat
-![](20tonlifeboat.png)
+![](20tonlifeboat.jpg)
 Some  free  traders  and  merchantmen specializing in passenger service carry the 24-passenger lifeboat version of the launch at the expense of some cargo space.  
 
 The  cockpit  and  engineering  sections  of the lifeboat are identical to those of the standard  configuration,  although  the  details  of the avionics systems and controls differ. 
@@ -102,7 +102,7 @@ The [[#passenger section]] of the lifeboat has been  heavily  modified.  ELBs  f
 `8` - Emergency low berths (ELBs) are used on lifeboats because it is  not  feasible  for  a  small  craft  to  carry enough life support for an extended journey should  an  emergency  occur  in  an  un- inhabited system or in the outermost regions of an inhabited system. 
 
 ## 20-ton Liaison Launch
-![](20tonliaisonlaunch.png)
+![](20tonliaisonlaunch.jpg)
 This  version  of  the  launch  is  used  as  a long-distance  transport  for  military  officers, public officials, business magnates, etc. 
 
 The cockpit, fuel, and engineering sections are identical to those of the standard configuration launch. 
@@ -119,7 +119,7 @@ This section is equipped to serve as a mobile  office/headquarters,  with  commu
 
 ## 20-ton Survey Launch 
 
-![](20tonsurveylaunch.png)
+![](20tonsurveylaunch.jpg)
 This variant is assigned to research  stations,  bases,  and  other  ships  and  installations  requiring  a  specialized  survey  and research craft. Specialized equipment varies with the individual mission and the type of information to be gathered. 
 
 The cockpit, fuel and engineering sections are  identical  to  those  of  the  standard configuration. 
@@ -131,7 +131,7 @@ The passenger section has been fitted with workstations  and  a  sensor  package
 `7` - The  nature  of  the vessel's workstations depends on the nature of the research required. 
 
 ## 20-ton S & R Launch 
-![](20tonsearchandrescue.png)
+![](20tonsearchandrescue.jpg)
 The search and rescue version incorporates medical and rescue gear and carries a four-person rescue team in addition to the crew.  Floodlights  have  been  fitted  to  the  exterior  to  illuminate  the  scene  of  any rescue.  S&R  launches  are  assigned  to starports,  bases  (both  deep  space  and planetary),  and  anywhere  else  where  they  may be needed.
 ### Cockpit Section
 Cockpit Section The main modification to the cockpit section is on the outside: a rescue hoist with a capacity of 250 kilograms has been fitted over the [[#airlock]], with controls both at the outer airlock door and in the cockpit at the [[#Flight Engineer's Station]]. Sensor sweeps are managed from the [[#Flight Engineer's Station]], and are focused on locating victims by finding crash sites, heat signatures, or distress beacons.
@@ -148,7 +148,7 @@ When the victims have been located, the rescue team deploys, equipped in keeping
 The [[#Cargo Bay]] is entirely taken up by survival,  rescue and medical supplies and equipment. 
 ## 20-ton Hunting Launch 
 
-![](20tonhuntinglaunch.png)
+![](20tonhuntinglaunch.jpg)
 Designed  for  use  with  safari  ships  and yachts,  this  variant  comes  equipped  with   gun  racks,  cargo  space  for  trophies,  and optional provision for hunting dogs or other animals.  
 
 The cockpit, fuel and engineering sections identical  to  those  of  the  standard  are  identical  to  those  of  the  standard configuration.  configuration. 
@@ -161,7 +161,7 @@ The cockpit, fuel and engineering sections identical  to  those  of  the  standa
 
 This includes weapons racks and other hunting paraphernalia. Space may be allocated to carriers hunting dogs or similar lifeforms `8a`, and provision for trophy preservation and storage (for the return trip).
 ## 20-ton Retail Launch 
-![](20tonretaillaunch.png)
+![](20tonretaillaunch.jpg)
 This variant is fitted out as a traveling retail store,  and  is  used  in  sparsely  populated areas to carry goods to remote farms and small villages. This variant incorporates the optional  loading  leading  directly  into  the passenger cargo bay. 
 
 The  merchandise  carried  varies,  but usually consists of items in high demand in backwater  areas  –  simple,  high  value/low bulk consumer goods, clothing, electronics, and so on. The vessel lands in a suitable location, and the entrepreneur sets up shop in a rental building or, in some cases, in a tent or portable shelter carried aboard the launch  or  (in  the  case  of  a  hostile  atmo- sphere)  inside  the  launch  itself.  When  the owner judges he has sold everything he can in an area, the “peddler” moves on. Often the same dealer will return at regular intervals, in the manner of the itinerant peddlers of frontier America, but with difference that radio communication allows him  to  accept special orders for particular goods, and to tailor his inventory to the needs of a specific region. 
@@ -178,7 +178,7 @@ Passenger seating has been cut back to two, and the cargo bay expanded  accordin
 This been increased at the expense  of  the  passenger  seating.  The bulkhead  between  the  two  sections  has been removed  and  replaced  with  a  wide  mesh cargo webbing not shown on these plans. 
 
 ## 20-ton Estate Launch 
-![](20tonestatelaunch.png)
+![](20tonestatelaunch.jpg)
 
 This version is used on continental and planetary-sized estates as a portable office for estate managers and the like.  Similar versions are used on large estates, farms, plantations, and ranches as well as parks and wilderness preserves. 
 
@@ -196,7 +196,7 @@ The cargo bay has been expanded at the expense of the passenger seating.
 
 ## 20-ton Gig
 
-![](20tongig.png)
+![](20tongig.jpg)
 This is the armed version of the standard launch, and is assigned to vessels or installations requiring protection, but where the threat is not well-equipped. The gig is not very well armored or armed, and is not a substitute for a conventional fighter, but can serve with a customs patrol, rural constabulary or private security force. 
 
 The engineering section is identical to the standard version, but fuel capacity has been reduced  in order to accommodate the weapon and its mount (which extends into the tankage below floor level not shown on this plan). 

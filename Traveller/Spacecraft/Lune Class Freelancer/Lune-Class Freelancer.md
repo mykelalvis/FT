@@ -85,7 +85,7 @@ Acceleration: 4G/s
 Endurance: 1 month
 Jump: 3 parsecs
 Engineering
-Manoeuvre Drive: Regina Industries F
+Maneuver Drive: Regina Industries F
 Jump Drive: Lyon Industries E Class MMK III
 Power Plant: Elson Industries F Class
 Defences/Weapons
@@ -127,7 +127,7 @@ Moving through the Iris valve at the end we come onto another corridor that span
 
 Starting in the common room at the front, which is spacious and comfortable which helps to alleviate the stress from long periods of travel in Jump space where very little is needed to be done on board. Attached to this room is a small galley and another room usually fitted as a ship’s office and a small fresher for the common room. It also doubles as a private space for the crew or another recreation area, there’s a small console on the table allowing access to the ships computer.
 
-Heading through the iris valve out into the living quarters corridor we have the doors to 6 staterooms for the crew, each of which contains a bunk, locker, table (with console, chair and additional space for stowing gear. Iris valves in the ceiling and floor allow access to the deck below and above. Heading out of this corridor puts us in the central area of the ship with access out to the wing mounted turrets and manoeuvre drive pods and the main cargo hold. Each turret has a manual fire control station; normally the turrets would be controlled from the bridge. Access to the fuel tanks which make up the majority of the wings can be made from this central corridor. At the very rear of the deck is the machinery connecting the engineering sections on deck one and two.
+Heading through the iris valve out into the living quarters corridor we have the doors to 6 staterooms for the crew, each of which contains a bunk, locker, table (with console, chair and additional space for stowing gear. Iris valves in the ceiling and floor allow access to the deck below and above. Heading out of this corridor puts us in the central area of the ship with access out to the wing mounted turrets and maneuver drive pods and the main cargo hold. Each turret has a manual fire control station; normally the turrets would be controlled from the bridge. Access to the fuel tanks which make up the majority of the wings can be made from this central corridor. At the very rear of the deck is the machinery connecting the engineering sections on deck one and two.
 
 The cargo bay itself is over two decks and if required the floor of the bay on this deck can be removed to connect both bays into one larger bay. The central area is separated from the subcraft hanger by more iris valves. The subcraft itself, is usually a 20 ton launch which fits snugly in the hangar. There are three iris valves that allow access to the launch, one aft, one portside and one starboard of the launch. Unusually the launch docks aft end first, this is so the internal cargo bay of the launch is near the cargo bay of the ship, allowing cargo to be transferred to and from the ship and launch easily.
 
@@ -242,7 +242,7 @@ Structure 6 - -
 Streamlined - -
 **Armour** Crystaliron 4 Pts 15 9.
 **Jump Drive E** Jump 3 30 50
-**Manoeuvre F** Thrust 4 11 24
+**Maneuver F** Thrust 4 11 24
 **Power Plant F** RaTIng 4 19 48
 **Bridge** 20 1.
 **Computer** Model 3/fib RaTIng 15 - 3
@@ -261,7 +261,7 @@ Life Boat/Launch 1x Gillow Class Launch 20 7.
 Air/Raft 1 Air/Raft onboard 4 0.
 Med Bay 1 Med bay Installed 4 1
 Workshop 1 Workshop Installed 4 2
-**Software** Manoeuvre/0 Included - -
+**Software** Maneuver/0 Included - -
 Jump Control/3 RaTIng 15 - 0.
 Library/0 Included - -
 Evade/1 RaTIng 10 - 1
@@ -288,7 +288,7 @@ The Gillow is a typical launch and is carried as standard by the Lune Class Free
 S2 Structure 1 - -
 Streamlined - 0.12
 **Armour** Crystaliron 4 Points 1 0.24
-**Manoeuvre sB** Thrust 2 1 2
+**Maneuver sB** Thrust 2 1 2
 **Power Plant sB** RaTIng 2 1.5 3.5
 **Control Cabin** Room for 1 1.5 0.05
 **Passengers** AcceleraTIon Couches 11 Passengers 5.5 0.33
@@ -301,7 +301,7 @@ Streamlined - 0.12
 **Extras** Air Lock 1 0.2
 Aerofins 2 0.2
 **Software**
-Manoeuvre/0 Included - -
+Maneuver/0 Included - -
 Library/0 Included - -
 **Total Tonnage & Cost** 20 7.67
 ```
@@ -325,7 +325,7 @@ The Fire Gillow is an assault version of the standard [[#Gillow Class Launch|Gil
 Structure 1 - -
 Streamlined - 0.12
 **Armour** Crystaliron 4 Points 1 0.24
-**Manoeuvre sB** Thrust 2 1 2
+**Maneuver sB** Thrust 2 1 2
 **Power Plant sB** RaTIng 2 1.5 3.5
 **Control Cabin** Room for 2 3.0 0.10
 **Passengers** AcceleraTIon Couches 10 Passengers 5 0.3
@@ -338,7 +338,7 @@ AnTI-Personnel Mount LAG x2 0.004
 **Cargo** none - -
 **Extras** Breaching Tube 3 3
 Aerofins 2 0.2
-**Software** Manoeuvre/0 Included - -
+**Software** Maneuver/0 Included - -
 Library/0 Included - -
 **Total Tonnage & Cost** 20 11.34
 ```
@@ -367,7 +367,7 @@ Structure 6 - -
 Streamlined - -
 **Armour** Crystaliron 4 Pts 15 9.6
 **Jump Drive E** Jump 3 30 50
-**Manoeuvre F** Thrust 4 11 24
+**Maneuver F** Thrust 4 11 24
 **Power Plant F** RaTIng 4 19 48
 **Bridge** 20 1.5
 **Computer** Model 3/fib RaTIng 15 - 3
@@ -383,7 +383,7 @@ Hardpoint # 3 Double Turret (Beam Laser x2) 1 2.5
 5 x Fuel Processors Processes 100 tons of fuel a day 5 2.5
 Ship’s Locker Yes - -
 Air/Raft 1 Air/Raft onboard 4 0.275
-**Software** Manoeuvre/0 Included - -
+**Software** Maneuver/0 Included - -
 Jump Control/3 RaTIng 15 - 0.3
 Library/0 Included - -
 **Maintenance Cost (monthly)** - 0.013
@@ -411,7 +411,7 @@ Structure 6 - -
 Streamlined - -
 **Armour** Crystaliron 4 Pts 15 9.6
 **Jump Drive E** Jump 3 30 50
-**Manoeuvre F** Thrust 4 11 24
+**Maneuver F** Thrust 4 11 24
 **Power Plant F** RaTIng 4 19 48
 **Bridge** 20 1.5
 **Computer** Model 3/fib RaTIng 15 - 3
@@ -431,7 +431,7 @@ Air/Raft 1 Air/Raft onboard 4 0.275
 Med Bay 1 Med bay Installed 4 1
 Armoury 1 Armoury Installed 2 0.5
 Barracks Space for 10 troops 20 1
-**Software** Manoeuvre/0 Included - -
+**Software** Maneuver/0 Included - -
 Jump Control/3 RaTIng 15 - 0.3
 Library/0 Included - -
 Evade/1 RaTIng 10 - 1

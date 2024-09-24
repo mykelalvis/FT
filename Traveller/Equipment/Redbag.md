@@ -21,4 +21,4 @@ Sets cost 300 Cr. each to replace. The typical “red bag” has ten to fifteen 
 The kit also has room for extra medications to be stored for used beyond the ones used in each aid set. The exact medications are up to the user, but generally consist of extra Medical Drug, Medical Slow, Fast, No-Shock, Anti-REM, and various painkillers. List those and their dosages on your record sheet.
 
 All consumables should be kept track of by the user to ensure proper supplies are available and possibly for billing purposes. A sample record sheet appears to the left, but feel free to create your own.
-![[RedBagRecordCard.png|80]]  ![[MedicWithRedbag.png|140]]
+![[RedBagRecordCard.jpg|80]]  ![[MedicWithRedbag.jpg|140]]

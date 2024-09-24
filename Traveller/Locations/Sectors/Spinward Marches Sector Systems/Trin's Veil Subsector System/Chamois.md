@@ -87,7 +87,7 @@ The worlds of the system have been surveyed. They consist of:
 
 No centrally held map of the world exists within AAB Library Data records.
 
-![Blank World Map Arid.png](https://wiki.travellerrpg.com/File:Blank_World_Map_Arid.png)  
+![Blank World Map Arid.jpg](https://wiki.travellerrpg.com/File:Blank_World_Map_Arid.jpg)  
 (_Blank map, predominantly dry world_.)
 
 #### Native Lifeforms 

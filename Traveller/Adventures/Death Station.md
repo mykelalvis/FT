@@ -305,7 +305,7 @@ A woman's decomposing body lies curled up opposite the door. [[#^identify|Testin
 
 #### 6.Drive Pod Number One Upper Level
 
-This drive pod level is well lit. The upper level of the drive pod extends inward toward the centre of the ring. It contains the power plant and the manoeuvre drive. This entire area is completely unused, although the power plant continues to function without supervision. The computer terminal is fully operational. Containers of spare parts currently fill the room's single ton of cargo space. A thin layer of dust coats all surfaces.
+This drive pod level is well lit. The upper level of the drive pod extends inward toward the centre of the ring. It contains the power plant and the maneuver drive. This entire area is completely unused, although the power plant continues to function without supervision. The computer terminal is fully operational. Containers of spare parts currently fill the room's single ton of cargo space. A thin layer of dust coats all surfaces.
 
 #### 7. Corridor
 

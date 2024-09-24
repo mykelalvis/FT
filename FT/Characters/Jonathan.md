@@ -14,7 +14,7 @@ aspects:
     desc: "Jonathan is easy going until he has a job to do then he becomes hyper focused."
   - name: "[[What'd I miss]]?"
     desc: "He shares his body with an AI, they both are unaware of each other."
-  - name: "#TODO"
+  - name: "[[Who moved my shit]]"
     desc: "??"
 skills:
   - name: "+4"
@@ -73,7 +73,7 @@ aspects:
     desc: "Doo is a very good shot."
   - name: "[[What'd I miss]]?"
     desc: "He shares his body with an AI, they both are unaware of each other."
-  - name: "#TODO"
+  - name: "[[Who moved my shit]]"
     desc: "??"
 skills:
   - name: "+4"

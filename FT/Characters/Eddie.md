@@ -13,7 +13,7 @@ aspects:
     desc: ""
   - name: [[Indebted to the mob]]
     desc: ""
-  - name: [[service aspect]]
+  - name: [[Former Navy Man]]
     desc: ""
   - name: [[ My pilot is a mass murdering psychopath]]
     desc: ""

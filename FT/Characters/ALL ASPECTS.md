@@ -2,7 +2,7 @@
 
 - [[Friendly neighborhood fixer]]
 - [[Indebted to the mob]]
-- [[service aspect]]
+- [[Former Navy Man]]
 - [[ My pilot is a mass murdering psychopath]]
 - [[There's a very little chance of it exploding]]
 
@@ -28,7 +28,7 @@
 - [[SuSAG is INVESTED in you]]
 - [[You call, we haul]]
 - [[What'd I miss]]?
-- #TODO
+-  [[Who moved my shit]]
  --
 - [[unwitting corporate experiment]]
 - [[SuSAG is INVESTED in you]]

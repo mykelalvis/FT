@@ -1,7 +1,7 @@
 [[Vilani]] Male 46 (77A9B9)
 DUNKHA GUNKII
 
-![[Gunkii_Portrait.png]]
+![[Gunkii_Portrait.jpg]]
 Gunkii is the host of the popular show, `Shugilii Shimiirkhuki`. Superficially, he seems to be an egotistical holovid star but, given the chance, the Travellers might discover that he can be a helpful ally.
 
 TRAITS — SKILLS
